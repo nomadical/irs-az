@@ -72,6 +72,7 @@ export class TranslationsService {
   async createFromPayload(
     payload: Record<string, unknown>,
     submissionId: string,
+    { publish = true } = {},
   ) {
     const body = payload.body as string;
     const bodyHtml = renderMarkdown(body);
@@ -85,7 +86,7 @@ export class TranslationsService {
         isDefault,
         bodyHtml,
         submissionId,
-        status: 'DRAFT',
+        status: publish ? 'PUBLISHED' : 'DRAFT',
       },
     });
   }

@@ -68,8 +68,9 @@ export class SubmissionsController {
   approve(
     @Param('id') id: string,
     @CurrentUser('id') reviewerId: string,
+    @Body('publish') publish?: boolean,
   ) {
-    return this.submissions.approve(id, reviewerId);
+    return this.submissions.approve(id, reviewerId, { publish: publish ?? true });
   }
 
   @ApiBearerAuth()

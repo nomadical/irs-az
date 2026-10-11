@@ -3,7 +3,7 @@ import { Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { QueryAuthorsDto } from './dto/query-authors.dto';
 import { CreateAuthorDto } from './dto/create-author.dto';
-import { slugify } from '../common/utils/slug';
+import { slugify, uniqueSlug } from '../common/utils/slug';
 import { renderMarkdown } from '../common/utils/markdown';
 import {
   paginationArgs,
@@ -159,8 +159,13 @@ export class AuthorsService {
     });
   }
 
+  private newSlug(names: (string | null | undefined)[]) {
+    const base = names.map((n) => slugify(n ?? '')).find(Boolean) ?? 'muellif';
+    return uniqueSlug(base, async (slug) => (await this.prisma.author.count({ where: { slug } })) > 0);
+  }
+
   async create(dto: CreateAuthorDto) {
-    const slug = slugify(dto.nameAz);
+    const slug = await this.newSlug([dto.nameAz, dto.nameEn, dto.nameRu]);
     return this.prisma.author.create({
       data: { ...dto, slug },
     });
@@ -180,11 +185,18 @@ export class AuthorsService {
     });
   }
 
-  async createFromPayload(payload: Record<string, unknown>) {
-    const nameAz = payload.nameAz as string;
-    const slug = slugify(nameAz);
+  async createFromPayload(payload: Record<string, unknown>, { publish = true } = {}) {
+    const slug = await this.newSlug([
+      payload.nameAz as string,
+      payload.nameEn as string,
+      payload.nameRu as string,
+    ]);
     return this.prisma.author.create({
-      data: { ...(payload as Prisma.AuthorCreateInput), slug, status: 'DRAFT' },
+      data: {
+        ...(payload as Prisma.AuthorCreateInput),
+        slug,
+        status: publish ? 'PUBLISHED' : 'DRAFT',
+      },
     });
   }
 }

@@ -3,7 +3,7 @@ import { Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { CreateWorkDto } from './dto/create-work.dto';
 import { QueryWorksDto } from './dto/query-works.dto';
-import { slugify } from '../common/utils/slug';
+import { slugify, uniqueSlug } from '../common/utils/slug';
 import { renderMarkdown } from '../common/utils/markdown';
 import { paginationArgs, paginatedResult } from '../common/utils/pagination';
 
@@ -165,8 +165,25 @@ export class WorksService {
     return { prev, next };
   }
 
+  /** Readable, unused slug from the title; titles in other scripts fall back to the author's slug */
+  private async newSlug(titles: (string | null | undefined)[], authorId: string) {
+    const author = await this.prisma.author.findUniqueOrThrow({
+      where: { id: authorId },
+      select: { slug: true },
+    });
+    const base = titles.map((t) => slugify(t ?? '')).find(Boolean) ?? `${author.slug}-eser`;
+    return uniqueSlug(
+      base,
+      async (slug) =>
+        (await this.prisma.work.count({
+          where: { OR: [{ slug }, { previousSlugs: { has: slug } }] },
+        })) > 0,
+      author.slug,
+    );
+  }
+
   async create(dto: CreateWorkDto) {
-    const slug = slugify(dto.titleAz);
+    const slug = await this.newSlug([dto.titleAz, dto.titleRu, dto.titleEn], dto.authorId);
     const bodyHtml = renderMarkdown(dto.body);
     return this.prisma.work.create({
       data: { ...dto, slug, bodyHtml },
@@ -188,17 +205,19 @@ export class WorksService {
     });
   }
 
-  async createFromPayload(payload: Record<string, unknown>) {
-    const titleAz = payload.titleAz as string;
+  async createFromPayload(payload: Record<string, unknown>, { publish = true } = {}) {
     const body = payload.body as string;
-    const slug = slugify(titleAz);
+    const slug = await this.newSlug(
+      [payload.titleAz as string, payload.titleRu as string, payload.titleEn as string],
+      payload.authorId as string,
+    );
     const bodyHtml = renderMarkdown(body);
     return this.prisma.work.create({
       data: {
         ...(payload as unknown as Prisma.WorkCreateInput),
         slug,
         bodyHtml,
-        status: 'DRAFT',
+        status: publish ? 'PUBLISHED' : 'DRAFT',
       },
     });
   }

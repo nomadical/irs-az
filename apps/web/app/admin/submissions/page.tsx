@@ -32,6 +32,7 @@ export default function AdminSubmissionsPage() {
   const [filter, setFilter] = useState('');
   const [expandedId, setExpandedId] = useState<string | null>(null);
   const [actionLoading, setActionLoading] = useState<string | null>(null);
+  const [notice, setNotice] = useState<{ text: string; href?: string; error?: boolean } | null>(null);
 
   const token = typeof window !== 'undefined' ? localStorage.getItem('token') : null;
 
@@ -55,18 +56,28 @@ export default function AdminSubmissionsPage() {
 
   const handleAction = async (id: string, action: 'approve' | 'reject' | 'request-changes') => {
     setActionLoading(id);
+    setNotice(null);
     try {
-      await fetch(`${API}/submissions/${id}/${action}`, {
+      const res = await fetch(`${API}/submissions/${id}/${action}`, {
         method: 'PATCH',
         headers: {
           'Content-Type': 'application/json',
           ...(token && { Authorization: `Bearer ${token}` }),
         },
       });
-      loadSubmissions();
-      setExpandedId(null);
+      const result = await res.json().catch(() => ({}));
+      if (!res.ok) {
+        setNotice({ text: `Xəta: ${result.message ?? res.status}`, error: true });
+      } else {
+        if (action === 'approve' && result.slug) {
+          const path = result.type === 'AUTHOR' ? 'authors' : 'works';
+          setNotice({ text: 'Təsdiqləndi və dərc olundu.', href: `/az/${path}/${result.slug}` });
+        }
+        loadSubmissions();
+        setExpandedId(null);
+      }
     } catch {
-      // silently fail
+      setNotice({ text: 'Xəta: serverə qoşulmaq alınmadı.', error: true });
     }
     setActionLoading(null);
   };
@@ -107,6 +118,20 @@ export default function AdminSubmissionsPage() {
           </button>
         ))}
       </div>
+
+      {notice && (
+        <div className={`adm-notice${notice.error ? ' adm-notice--error' : ''}`} role="status">
+          {notice.text}
+          {notice.href && (
+            <>
+              {' '}
+              <a href={notice.href} target="_blank" rel="noopener noreferrer">
+                Saytda bax →
+              </a>
+            </>
+          )}
+        </div>
+      )}
 
       {loading ? (
         <div className="adm-loading">Yüklənir…</div>
@@ -184,7 +209,7 @@ export default function AdminSubmissionsPage() {
                               disabled={actionLoading === sub.id}
                               onClick={() => handleAction(sub.id, 'approve')}
                             >
-                              Təsdiqləyin
+                              Təsdiqlə və dərc et
                             </button>
                             <button
                               className="adm-btn adm-btn-warn"

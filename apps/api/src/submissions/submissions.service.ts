@@ -130,7 +130,11 @@ export class SubmissionsService {
     });
   }
 
-  async approve(id: string, reviewerId: string) {
+  /**
+   * Approving publishes the new author, work or translation right away: the review is
+   * the editorial check. Pass `publish: false` to create it as a draft instead.
+   */
+  async approve(id: string, reviewerId: string, { publish = true } = {}) {
     const sub = await this.prisma.submission.findUniqueOrThrow({ where: { id } });
 
     if (sub.status !== 'PENDING' && sub.status !== 'CHANGES_REQUESTED') {
@@ -138,48 +142,39 @@ export class SubmissionsService {
     }
 
     const payload = sub.payload as Record<string, unknown>;
+    const reviewed = { status: 'APPROVED' as const, reviewedById: reviewerId, reviewedAt: new Date() };
 
     switch (sub.type) {
       case 'AUTHOR': {
-        const author = await this.authors.createFromPayload(payload);
-        await this.prisma.submission.update({
-          where: { id },
-          data: {
-            status: 'APPROVED',
-            authorId: author.id,
-            reviewedById: reviewerId,
-            reviewedAt: new Date(),
-          },
-        });
-        break;
+        const author = await this.authors.createFromPayload(payload, { publish });
+        await this.prisma.submission.update({ where: { id }, data: { ...reviewed, authorId: author.id } });
+        return { type: sub.type, slug: author.slug, published: publish };
       }
       case 'WORK': {
-        const work = await this.works.createFromPayload(payload);
-        await this.prisma.submission.update({
-          where: { id },
-          data: {
-            status: 'APPROVED',
-            workId: work.id,
-            reviewedById: reviewerId,
-            reviewedAt: new Date(),
-          },
-        });
-        await this.search.indexWork(work.id);
-        break;
+        const work = await this.works.createFromPayload(payload, { publish });
+        await this.prisma.submission.update({ where: { id }, data: { ...reviewed, workId: work.id } });
+        if (publish) await this.reindex(work.id);
+        return { type: sub.type, slug: work.slug, published: publish };
       }
       case 'TRANSLATION': {
-        await this.translations.createFromPayload(payload, id);
-        await this.prisma.submission.update({
-          where: { id },
-          data: {
-            status: 'APPROVED',
-            reviewedById: reviewerId,
-            reviewedAt: new Date(),
-          },
+        const translation = await this.translations.createFromPayload(payload, id, { publish });
+        await this.prisma.submission.update({ where: { id }, data: reviewed });
+        // The work's search entry includes its published translations
+        if (publish) await this.reindex(translation.workId);
+        const work = await this.prisma.work.findUniqueOrThrow({
+          where: { id: translation.workId },
+          select: { slug: true },
         });
-        break;
+        return { type: sub.type, slug: work.slug, translationId: translation.id, published: publish };
       }
     }
+  }
+
+  /** Search is secondary: an unreachable Meilisearch must not fail an approval that already saved. */
+  private async reindex(workId: string) {
+    await this.search.indexWork(workId).catch((err) => {
+      console.warn(`Search reindex failed for work ${workId}: ${err.message}`);
+    });
   }
 
   async reject(id: string, reviewerId: string, reviewNote: string) {

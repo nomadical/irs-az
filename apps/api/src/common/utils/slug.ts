@@ -28,3 +28,20 @@ export function slugify(text: string): string {
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '');
 }
+
+/**
+ * First free slug among `base`, then `base-<qualifier>` (e.g. the author's slug),
+ * then `base-2`, `base-3`…. `taken` should also count previous slugs, so redirects stay unambiguous.
+ */
+export async function uniqueSlug(
+  base: string,
+  taken: (slug: string) => Promise<boolean>,
+  qualifier?: string,
+): Promise<string> {
+  const candidates = [base, ...(qualifier ? [`${base}-${qualifier}`] : [])];
+  for (const slug of candidates) if (!(await taken(slug))) return slug;
+  for (let n = 2; ; n++) {
+    const slug = `${base}-${n}`;
+    if (!(await taken(slug))) return slug;
+  }
+}
