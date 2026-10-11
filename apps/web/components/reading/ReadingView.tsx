@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
 import { useTranslations } from 'next-intl';
 import { useReadingPrefs } from '@/lib/useReadingPrefs';
-import { isArabicScript, langTag, localeLang, type SourceInfo } from '@/lib/verse';
+import { isArabicScript, langTag, localeLang, verseBlocks, type SourceInfo } from '@/lib/verse';
 import { AppearancePopover } from './AppearancePopover';
 
 interface Translation {
@@ -32,15 +32,16 @@ interface Props {
   suggestHref: string;
 }
 
-type ViewMode = 'translation' | 'parallel' | 'original';
-const MODES: ViewMode[] = ['translation', 'parallel', 'original'];
+const ORIGINAL = 'original';
+const MAX_SEGMENTS = 4;
 
 const fontSizeValues = ['0.95rem', '1.05rem', '1.2rem', '1.35rem'];
 const widthValues = ['36rem', '44rem', '100%'];
 
-/** Keep the chosen view in the URL so it can be shared and survives reloads */
+/** Keep the chosen version in the URL so it can be shared and survives reloads */
 function syncUrl(patch: Record<string, string | null>) {
   const url = new URL(window.location.href);
+  url.searchParams.delete('view');
   for (const [key, value] of Object.entries(patch)) {
     if (value) url.searchParams.set(key, value);
     else url.searchParams.delete(key);
@@ -62,27 +63,19 @@ export function ReadingView({
   const tc = useTranslations('contribute.options');
   const params = useSearchParams();
 
-  // An AZ Latin original is itself readable to the default audience, so it
-  // sits in the language list instead of behind an "Original" tab
-  const translationLangs = [...new Set(translations.map((tr) => tr.language))];
-  const availableLangs =
-    originalLang === 'AZ_LATIN' && translationLangs.length > 0 && !translationLangs.includes('AZ_LATIN')
-      ? ['AZ_LATIN', ...translationLangs]
-      : translationLangs;
-  const hasTranslations = translations.length > 0;
-
-  const [mode, setMode] = useState<ViewMode>(() => {
-    const requested = params.get('view') as ViewMode | null;
-    if (hasTranslations && requested && MODES.includes(requested)) return requested;
-    return hasTranslations ? 'translation' : 'original';
-  });
+  // The original is never hidden: choosing a translation sets it beside the original
+  const translationLangs = [...new Set(translations.map((tr) => tr.language))].filter(
+    (lang) => lang !== originalLang,
+  );
+  const choices = [ORIGINAL, ...translationLangs];
 
   const [selectedLang, setSelectedLang] = useState<string>(() => {
     const requested = params.get('lang');
-    if (requested && availableLangs.includes(requested)) return requested;
+    if (requested && choices.includes(requested)) return requested;
     const preferred = localeLang[locale];
-    if (preferred && availableLangs.includes(preferred)) return preferred;
-    return translations.find((tr) => tr.isDefault)?.language ?? availableLangs[0] ?? originalLang;
+    if (preferred && translationLangs.includes(preferred)) return preferred;
+    const fallback = translations.find((tr) => tr.isDefault && tr.language !== originalLang)?.language;
+    return fallback ?? translationLangs[0] ?? ORIGINAL;
   });
 
   // A language can have several translations (different translators); default first
@@ -90,9 +83,8 @@ export function ReadingView({
 
   const { prefs, update: updatePrefs } = useReadingPrefs();
 
-  const versions =
-    selectedLang === originalLang ? [] : translations.filter((tr) => tr.language === selectedLang);
-  const selectedTranslation =
+  const versions = selectedLang === ORIGINAL ? [] : translations.filter((tr) => tr.language === selectedLang);
+  const translation =
     versions.find((tr) => tr.id === selectedId) ??
     versions.find((tr) => tr.isDefault) ??
     versions[0] ??
@@ -101,7 +93,9 @@ export function ReadingView({
   /** Translator's name, or the translation type when there is none; numbered if still ambiguous */
   const versionLabel = (tr: Translation, i: number) => {
     const base = tr.translator ?? tc(`ttype.${tr.type}` as any);
-    const ambiguous = versions.some((other) => other !== tr && (other.translator ?? tc(`ttype.${other.type}` as any)) === base);
+    const ambiguous = versions.some(
+      (other) => other !== tr && (other.translator ?? tc(`ttype.${other.type}` as any)) === base,
+    );
     return `${base}${tr.year ? `, ${tr.year}` : ''}${ambiguous ? ` (${i + 1})` : ''}`;
   };
 
@@ -113,7 +107,7 @@ export function ReadingView({
     ['AZ_ARABIC', 'FA', 'AR'].includes(originalLang) && !isArabicScript(body)
       ? `${langTag[originalLang].split('-')[0]}-Latn`
       : langTag[originalLang];
-  const langName = (lang: string) => tc(`lang.${lang}` as any);
+  const langName = (lang: string) => (lang === ORIGINAL ? t('original_option') : tc(`lang.${lang}` as any));
 
   const readingVars = {
     '--reading-size': fontSizeValues[prefs.fontSize],
@@ -124,15 +118,10 @@ export function ReadingView({
 
   const columnClass = `reading-column${isPoem ? ' is-poem' : ''}`;
 
-  function chooseMode(next: ViewMode) {
-    setMode(next);
-    syncUrl({ view: next === 'translation' ? null : next });
-  }
-
   function chooseLang(next: string) {
     setSelectedLang(next);
     setSelectedId(null);
-    syncUrl({ lang: next, tr: null });
+    syncUrl({ lang: next === ORIGINAL ? null : next, tr: null });
   }
 
   function chooseVersion(id: string) {
@@ -140,82 +129,76 @@ export function ReadingView({
     syncUrl({ tr: id });
   }
 
-  const originalColumn = (
-    <div
-      className={columnClass}
-      style={readingVars}
-      lang={originalTag}
-      dir={originalDir}
-      dangerouslySetInnerHTML={{ __html: body }}
-    />
-  );
+  const originalAttrs = { lang: originalTag, dir: originalDir } as const;
+  const translationHtml = translation ? translation.bodyHtml || translation.body : '';
+  const translationAttrs = translation
+    ? ({ lang: langTag[translation.language], dir: translation.scriptDirection === 'RTL' ? 'rtl' : 'ltr' } as const)
+    : null;
 
-  const translationColumn = selectedTranslation ? (
-    <div
-      className={columnClass}
-      style={readingVars}
-      lang={langTag[selectedTranslation.language]}
-      dir={selectedTranslation.scriptDirection === 'RTL' ? 'rtl' : 'ltr'}
-      dangerouslySetInnerHTML={{ __html: selectedTranslation.bodyHtml || selectedTranslation.body }}
-    />
-  ) : (
-    originalColumn
-  );
+  // Line the two texts up beyt by beyt when both split into the same blocks;
+  // on a phone this interleaves them instead of stacking two whole poems
+  const originalBlocks = translation ? verseBlocks(body) : null;
+  const translationBlocks = translation ? verseBlocks(translationHtml) : null;
+  const rows =
+    originalBlocks && translationBlocks && originalBlocks.length === translationBlocks.length
+      ? originalBlocks.map((block, i) => [block, translationBlocks[i]] as const)
+      : null;
 
-  const showsTranslation = mode !== 'original' && selectedTranslation;
+  const control =
+    choices.length > 1 &&
+    (choices.length <= MAX_SEGMENTS ? (
+      <div className="lang-tabs" role="group" aria-label={t('read_as')}>
+        {choices.map((choice) => (
+          <button
+            key={choice}
+            type="button"
+            onClick={() => chooseLang(choice)}
+            className={`lang-tab${selectedLang === choice ? ' active' : ''}`}
+            aria-pressed={selectedLang === choice}
+          >
+            {langName(choice)}
+          </button>
+        ))}
+      </div>
+    ) : (
+      <label className="reading-select">
+        <span>{t('read_as')}</span>
+        <select value={selectedLang} onChange={(e) => chooseLang(e.target.value)}>
+          {choices.map((choice) => (
+            <option key={choice} value={choice}>
+              {langName(choice)}
+            </option>
+          ))}
+        </select>
+      </label>
+    ));
 
   return (
-    <div className="reading" id="text">
+    <div className="reading" id="text" tabIndex={-1}>
       <div
         className={`reading-toolbar${
-          mode === 'parallel' ? ' reading-toolbar--wide' : isPoem && mode === 'original' && originalDir === 'rtl' ? ' reading-toolbar--verse' : ''
+          translation
+            ? ' reading-toolbar--wide'
+            : !control
+              ? ' reading-toolbar--solo'
+              : isPoem && originalDir === 'rtl'
+                ? ' reading-toolbar--verse'
+                : ''
         }`}
       >
-        {hasTranslations ? (
-          <div className="lang-tabs" role="group" aria-label={t('mode_label')}>
-            {MODES.map((m) => (
-              <button
-                key={m}
-                type="button"
-                onClick={() => chooseMode(m)}
-                className={`lang-tab${mode === m ? ' active' : ''}`}
-                aria-pressed={mode === m}
-              >
-                {t(`mode_${m}`)}
-              </button>
-            ))}
-          </div>
-        ) : (
-          <span />
-        )}
+        {control || <span />}
         <AppearancePopover prefs={prefs} onUpdate={updatePrefs} isPoem={isPoem} />
       </div>
 
-      {mode !== 'original' && availableLangs.length > 1 && (
-        <div className="lang-tabs lang-tabs--langs" role="group" aria-label={t('lang_label')}>
-          {availableLangs.map((lang) => (
-            <button
-              key={lang}
-              type="button"
-              onClick={() => chooseLang(lang)}
-              className={`lang-tab${selectedLang === lang ? ' active' : ''}`}
-              aria-pressed={selectedLang === lang}
-            >
-              {langName(lang)}
-            </button>
-          ))}
-        </div>
-      )}
-
-      {mode !== 'original' && versions.length > 1 && selectedTranslation && (
+      {versions.length > 1 && translation && (
         <div className="lang-tabs lang-tabs--versions" role="group" aria-label={t('version_label')}>
           {versions.map((tr, i) => (
             <button
               key={tr.id}
               type="button"
               onClick={() => chooseVersion(tr.id)}
-              className={`lang-tab${selectedTranslation.id === tr.id ? ' active' : ''}`}
-              aria-pressed={selectedTranslation.id === tr.id}
+              className={`lang-tab${translation.id === tr.id ? ' active' : ''}`}
+              aria-pressed={translation.id === tr.id}
             >
               {versionLabel(tr, i)}
             </button>
@@ -223,53 +206,68 @@ export function ReadingView({
         </div>
       )}
 
-      {mode === 'parallel' && selectedTranslation ? (
-        <div className="parallel-grid">
-          <div className="parallel-col">
-            <p className="lang-label">{langName(selectedTranslation.language)}</p>
-            {translationColumn}
-          </div>
-          <div className="parallel-col">
+      {translation && translationAttrs ? (
+        <div className="parallel" style={readingVars}>
+          <div className="parallel-row parallel-head" aria-hidden="true">
             <p className="lang-label">
               {langName(originalLang)} · {t('original_suffix')}
             </p>
-            {originalColumn}
+            <p className="lang-label">{langName(translation.language)}</p>
           </div>
+          {rows ? (
+            rows.map(([orig, trans], i) => (
+              <div className="parallel-row" key={i}>
+                <div className={`${columnClass} parallel-cell`} {...originalAttrs} dangerouslySetInnerHTML={{ __html: orig }} />
+                <div className={`${columnClass} parallel-cell`} {...translationAttrs} dangerouslySetInnerHTML={{ __html: trans }} />
+              </div>
+            ))
+          ) : (
+            <div className="parallel-row parallel-row--whole">
+              <div className={`${columnClass} parallel-cell`} {...originalAttrs} dangerouslySetInnerHTML={{ __html: body }} />
+              <div className={`${columnClass} parallel-cell`} {...translationAttrs} dangerouslySetInnerHTML={{ __html: translationHtml }} />
+            </div>
+          )}
         </div>
-      ) : mode === 'original' ? (
-        originalColumn
       ) : (
-        translationColumn
+        <div className={columnClass} style={readingVars} {...originalAttrs} dangerouslySetInnerHTML={{ __html: body }} />
       )}
 
       <div className="tailpiece" aria-hidden="true">◆</div>
 
       <footer className="provenance">
-        {source && (
-          <p>
-            <span className="provenance-key">{showsTranslation ? t('original_text') : t('source')}</span>
-            {source.href ? (
-              <a href={source.href} target="_blank" rel="noopener noreferrer">
-                {source.label}
-              </a>
-            ) : (
-              <span>{source.label}</span>
-            )}
-            {source.license && <span className="provenance-meta">{source.license}</span>}
-          </p>
-        )}
-        {showsTranslation && selectedTranslation.translator && (
+        <p>
+          <span className="provenance-key">{translation ? t('original_text') : t('source')}</span>
+          {source ? (
+            <>
+              {source.href ? (
+                <a href={source.href} target="_blank" rel="noopener noreferrer">
+                  {source.label}
+                  <span aria-hidden="true"> ↗</span>
+                  <span className="sr-only"> {t('new_tab')}</span>
+                </a>
+              ) : (
+                <span>{source.label}</span>
+              )}
+              {source.license && <span className="provenance-meta">{source.license}</span>}
+            </>
+          ) : (
+            <span className="provenance-missing">{t('source_missing')}</span>
+          )}
+        </p>
+        {translation?.translator && (
           <p>
             <span className="provenance-key">{t('translator')}</span>
             <span>
-              {selectedTranslation.translator}
-              {selectedTranslation.year && `, ${selectedTranslation.year}`}
+              {translation.translator}
+              {translation.year && `, ${translation.year}`}
             </span>
           </p>
         )}
         <p className="provenance-cta">
-          {!hasTranslations && <span>{t('no_translation')} </span>}
-          <Link href={suggestHref}>{hasTranslations ? `+ ${t('no_translation_cta')}` : `${t('no_translation_cta')} →`}</Link>
+          {translations.length === 0 && <span>{t('no_translation')} </span>}
+          <Link href={suggestHref}>
+            {translations.length > 0 ? `+ ${t('no_translation_cta')}` : `${t('no_translation_cta')} →`}
+          </Link>
         </p>
       </footer>
     </div>

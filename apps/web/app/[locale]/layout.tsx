@@ -3,6 +3,7 @@ import { getMessages, getTranslations } from 'next-intl/server';
 import type { Metadata } from 'next';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
+import { SkipLink } from '@/components/layout/SkipLink';
 
 export async function generateMetadata({
   params,
@@ -31,7 +32,7 @@ export default async function LocaleLayout({
 
   return (
     <NextIntlClientProvider messages={messages} locale={locale}>
-      <a href="#main" className="skip-link">{t('skip')}</a>
+      <SkipLink label={t('skip')} />
       <Header />
       <main id="main" tabIndex={-1}>{children}</main>
       <Footer />

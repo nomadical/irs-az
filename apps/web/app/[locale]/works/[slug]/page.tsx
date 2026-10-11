@@ -7,7 +7,15 @@ import { ReadingView } from '@/components/reading/ReadingView';
 import { WorkNavKeys } from '@/components/reading/WorkNavKeys';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { getTranslations } from 'next-intl/server';
-import { displayTitle, formatVerse, isArabicScript, isPlaceholderTitle, sourceInfo } from '@/lib/verse';
+import {
+  displayTitle,
+  formatVerse,
+  incipit,
+  isArabicScript,
+  isNumberedTitle,
+  isPlaceholderTitle,
+  sourceInfo,
+} from '@/lib/verse';
 
 export const dynamic = 'force-dynamic';
 
@@ -18,6 +26,17 @@ interface Props {
 const GLOSSED_FORMS = ['GHAZAL', 'MASNAVI', 'RUBAI', 'QASIDA', 'MURABBA'];
 // Fallback collection names for imports still titled by their slug
 const FORM_PLURALS = ['GHAZAL', 'MASNAVI', 'RUBAI', 'QASIDA'];
+
+/**
+ * Ghazals are known by their first line. When the stored title is only a
+ * number ("Qəzəl 7"), the first hemistich becomes the heading and the number
+ * moves to the meta strip.
+ */
+function headingFor(work: any, title: { text: string; original: string | null }) {
+  const numbered = work.form === 'GHAZAL' && (title.original || isNumberedTitle(title.text));
+  const first = numbered ? incipit(work.bodyHtml || work.body) : null;
+  return first ? { heading: first, number: title.text } : { heading: title.text, number: null };
+}
 
 async function titleHelpers(locale: string) {
   const t = await getTranslations({ locale, namespace: 'reading' });
@@ -38,13 +57,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params;
   const work = (await getWorkOrRedirect(slug, locale)) as any;
   const { titleFor } = await titleHelpers(locale);
-  const title = titleFor(localized(work, 'title', locale) ?? work.titleAz, work.form).text;
+  const { heading, number } = headingFor(work, titleFor(localized(work, 'title', locale) ?? work.titleAz, work.form));
   const authorName = localized(work.author, 'name', locale);
 
   return pageMetadata({
     locale,
     path: `/works/${slug}`,
-    title: `${title} — ${authorName}`,
+    title: `${number ? `${heading} (${number})` : heading} — ${authorName}`,
     description: excerpt(work.body, { poem: work.genre !== 'PROSE' }),
     type: 'article',
     images: false,
@@ -62,6 +81,7 @@ export default async function WorkPage({ params }: Props) {
 
   const { t, options, titleFor } = await titleHelpers(locale);
   const title = titleFor(localized(work, 'title', locale), work.form);
+  const { heading, number } = headingFor(work, title);
   const authorName = localized(work.author, 'name', locale);
   const rawCollectionTitle = work.collection ? localized(work.collection, 'title', locale) : null;
   const collectionTitle = work.collection
@@ -71,11 +91,14 @@ export default async function WorkPage({ params }: Props) {
     : null;
 
   const isPoem = work.genre === 'POEM';
-  const verse = (html: string) => (isPoem ? formatVerse(html, { markLast: work.form === 'GHAZAL' }) : html);
+  const verse = (html: string) =>
+    isPoem ? formatVerse(html, { form: work.form, maqtaLabel: t('maqta') }) : { html, maqta: false };
+  const original = verse(work.bodyHtml || work.body);
   const translations = (work.translations ?? []).map((tr: any) => ({
     ...tr,
-    bodyHtml: verse(tr.bodyHtml || tr.body),
+    bodyHtml: verse(tr.bodyHtml || tr.body).html,
   }));
+  const formLabel = work.form && work.form !== 'OTHER' ? options(`form.${work.form}` as any) : null;
 
   const navHref = (item: { slug: string } | null) =>
     item ? `/${locale}/works/${encodeURIComponent(item.slug)}` : null;
@@ -88,7 +111,7 @@ export default async function WorkPage({ params }: Props) {
         data={{
           '@context': 'https://schema.org',
           '@type': 'CreativeWork',
-          name: title.original ?? title.text,
+          name: title.original ?? heading,
           url: `${SITE_URL}/${locale}/works/${slug}`,
           genre: work.genre.toLowerCase(),
           ...(work.year && { dateCreated: String(work.year) }),
@@ -107,7 +130,7 @@ export default async function WorkPage({ params }: Props) {
         }}
       />
 
-      <nav className="breadcrumb" aria-label="Breadcrumb">
+      <nav className="breadcrumb" aria-label={t('breadcrumb')}>
         <Link href={`/${locale}/authors/${work.author.slug}`}>{authorName}</Link>
         {collectionTitle && (
           <>
@@ -124,16 +147,18 @@ export default async function WorkPage({ params }: Props) {
       </nav>
 
       <header className="page-header work-header">
-        <h1 className="work-heading" {...titleLang(title.text)}>{title.text}</h1>
-        {title.original && (
+        <h1 id="work-title" className="work-heading" tabIndex={-1} {...titleLang(heading)}>
+          {heading}
+        </h1>
+        {title.original && !number && (
           <p className="work-heading-original" lang="fa" dir="rtl">{title.original}</p>
         )}
         <div className="meta-strip">
           <span>{options(`genre.${work.genre}` as any)}</span>
-          {work.form && work.form !== 'OTHER' && (
+          {(number || formLabel) && (
             <>
               <span className="dot" aria-hidden="true" />
-              <span>{options(`form.${work.form}` as any)}</span>
+              <span>{number ?? formLabel}</span>
             </>
           )}
           {work.year && (
@@ -143,15 +168,23 @@ export default async function WorkPage({ params }: Props) {
             </>
           )}
         </div>
-        {work.form && GLOSSED_FORMS.includes(work.form) && (
-          <p className="work-gloss">{t(`gloss.${work.form}` as any)}</p>
+        {formLabel && GLOSSED_FORMS.includes(work.form) && (
+          <details className="work-gloss">
+            <summary>
+              {t('what_is', { form: locale === 'az' ? formLabel : formLabel.toLocaleLowerCase(locale) })}
+            </summary>
+            <p>
+              {t(`gloss.${work.form}` as any)}
+              {original.maqta && <> {t('gloss_maqta')}</>}
+            </p>
+          </details>
         )}
       </header>
 
       <div className="ornament" aria-hidden="true" />
 
       <ReadingView
-        body={verse(work.bodyHtml || work.body)}
+        body={original.html}
         translations={translations}
         originalLang={work.originalLang}
         scriptDirection={work.scriptDirection}

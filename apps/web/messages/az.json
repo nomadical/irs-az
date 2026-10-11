@@ -174,7 +174,7 @@
     "no_translation": "Bu əsərin hələ tərcüməsi yoxdur.",
     "no_translation_cta": "Tərcümə təklif edin",
     "source": "Mənbə",
-    "translator": "Tərcümə",
+    "translator": "Tərcüməçi",
     "original_text": "Əsl mətn",
     "prev": "Əvvəlki",
     "next": "Növbəti",
@@ -186,7 +186,7 @@
     "loading": "Yüklənir…",
     "maqta": "Məqtə — şairin təxəllüsü olan son beyt",
     "gloss": {
-      "GHAZAL": "Qəzəl: eyni qafiyəli beytlərdən qurulan lirik şeir. ◆ ilə işarələnmiş son beytdə şair öz təxəllüsünü çəkir.",
+      "GHAZAL": "Qəzəl: eyni qafiyəli beytlərdən (iki misralıq bəndlərdən) qurulan lirik şeir.",
       "MASNAVI": "Məsnəvi: hər beyti öz qafiyəsi ilə gələn uzun nəzm, adətən dastan və ya hekayə.",
       "RUBAI": "Rübai: dörd misralıq fəlsəfi şeir; birinci, ikinci və dördüncü misralar qafiyələnir.",
       "QASIDA": "Qəsidə: təntənəli, uzun lirik şeir; mədh və ya öyüd üçün yazılır.",
@@ -198,6 +198,31 @@
       "RUBAI": "Rübailər",
       "QASIDA": "Qəsidələr",
       "OTHER": "Divan"
+    },
+    "source_missing": "hələ qeyd olunmayıb",
+    "new_tab": "(yeni pəncərədə açılır)",
+    "breadcrumb": "Səhifə yolu",
+    "read_as": "Oxu",
+    "original_option": "Əsl mətn",
+    "what_is": "{form} nədir?",
+    "gloss_maqta": "◆ ilə işarələnmiş son beyt məqtədir: şair orada öz təxəllüsünü çəkir.",
+    "appearance_size": "Ölçü",
+    "appearance_width": "En",
+    "appearance_font": "Şrift",
+    "size_names": {
+      "S": "Kiçik",
+      "M": "Orta",
+      "L": "Böyük",
+      "XL": "Çox böyük"
+    },
+    "width_names": {
+      "standard": "Standart",
+      "wide": "Geniş",
+      "full": "Tam"
+    },
+    "font_names": {
+      "serif": "Klassik",
+      "sans": "Sadə"
     }
   },
   "contact": {

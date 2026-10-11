@@ -68,27 +68,74 @@ export function isPlaceholderTitle(title: string | null, slug: string): boolean 
   return !title || title === slug || /^[a-z0-9]+(-[a-z0-9]+)+$/.test(title);
 }
 
-/**
- * Turn `<p>line<br>line</p>` couplets into beyt markup so each hemistich
- * (misra) can be laid out on its own. Leaves anything else untouched.
- */
-export function formatVerse(html: string, opts: { markLast?: boolean } = {}): string {
-  const paras = html.match(/<p>[\s\S]*?<\/p>/g);
-  if (!paras || paras.length === 0) return html;
-  const leftover = html.replace(/<p>[\s\S]*?<\/p>/g, '').trim();
-  if (leftover) return html;
+const PARA = /<p>([\s\S]*?)<\/p>/g;
+const BR = /<br\s*\/?>/;
 
-  const couplets = paras.map((p) => p.slice(3, -4).split(/<br\s*\/?>/).map((l) => l.trim()));
-  if (!couplets.every((c) => c.length === 2 && c[0] && c[1])) return html;
-
-  return couplets
-    .map((c, i) => {
-      const last = opts.markLast && i === couplets.length - 1 && couplets.length > 2;
-      return `<p class="beyt${last ? ' beyt--maqta' : ''}"><span class="misra">${c[0]}</span><span class="misra">${c[1]}</span></p>`;
-    })
-    .join('');
+function beyt(a: string, b: string, maqtaLabel: string | null): string {
+  const label = maqtaLabel ? `<span class="sr-only">${maqtaLabel}. </span>` : '';
+  return `<p class="beyt${maqtaLabel ? ' beyt--maqta' : ''}">${label}<span class="misra">${a}</span><span class="misra">${b}</span></p>`;
 }
 
+/**
+ * Lay verse out line by line so wrapped run-overs hang instead of reading as
+ * new lines. Couplets (`<p>line<br>line</p>`) become beyts of two hemistichs
+ * (misra); a masnavi stored as long stanzas is re-paired into beyts; anything
+ * else keeps its stanzas with each line on its own. Non-paragraph HTML is
+ * returned untouched.
+ */
+export function formatVerse(
+  html: string,
+  opts: { form?: string | null; maqtaLabel?: string } = {},
+): { html: string; maqta: boolean } {
+  const paras = [...html.matchAll(PARA)].map((m) => m[1].split(BR).map((l) => l.trim()).filter(Boolean));
+  if (paras.length === 0 || html.replace(PARA, '').trim()) return { html, maqta: false };
+
+  const isCouplets = paras.every((p) => p.length === 2);
+  const lines = paras.flat();
+  const isPairedMasnavi =
+    !isCouplets && opts.form === 'MASNAVI' && paras.every((p) => p.length % 2 === 0);
+
+  if (isCouplets || isPairedMasnavi) {
+    const pairs: [string, string][] = [];
+    for (let i = 0; i < lines.length; i += 2) pairs.push([lines[i], lines[i + 1]]);
+    // The maqta only exists in a complete ghazal, not a two-couplet excerpt
+    const maqta = opts.form === 'GHAZAL' && pairs.length > 2;
+    return {
+      html: pairs
+        .map(([a, b], i) => beyt(a, b, maqta && i === pairs.length - 1 ? opts.maqtaLabel ?? '' : null))
+        .join(''),
+      maqta,
+    };
+  }
+
+  return {
+    html: paras
+      .map((p) => `<p class="stanza">${p.map((l) => `<span class="verse-line">${l}</span>`).join('')}</p>`)
+      .join(''),
+    maqta: false,
+  };
+}
+
+/** The pieces of formatted verse, one per beyt or stanza, for line-up in parallel view */
+export function verseBlocks(html: string): string[] | null {
+  const blocks = html.match(/<p class="(?:beyt|stanza)[^"]*">[\s\S]*?<\/p>/g);
+  return blocks && blocks.join('') === html ? blocks : null;
+}
+
+/** First hemistich of a poem, as plain text: the name a ghazal is known by */
+export function incipit(html: string): string | null {
+  const first = html.match(/<p[^>]*>([\s\S]*?)(?:<br\s*\/?>|<\/p>)/);
+  if (!first) return null;
+  const text = first[1].replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+  return text || null;
+}
+
+/** Titles that are only a form and a number ("Qəzəl 7", "Газель № 7") */
+export function isNumberedTitle(title: string | null): boolean {
+  return !!title && /^[^\d]{1,24}?\s*(№|No\.)?\s*\d+$/u.test(title.trim());
+}
+
+// Ganjoor publishes no explicit licence; add it here once confirmed
 const LICENSES: Record<string, string> = {
   'wikisource.org': 'CC BY-SA 4.0',
   'wikipedia.org': 'CC BY-SA 4.0',
@@ -107,7 +154,13 @@ export function sourceInfo(note: string | null | undefined): SourceInfo | null {
   try {
     const url = new URL(trimmed);
     const host = url.hostname.replace(/^www\./, '');
-    const label = host === 'ganjoor.net' ? 'Ganjoor' : host;
+    const label = host === 'ganjoor.net'
+      ? 'Ganjoor'
+      : host.endsWith('wikisource.org')
+        ? 'Wikisource'
+        : host.endsWith('wikipedia.org')
+          ? 'Wikipedia'
+          : host;
     const license = Object.entries(LICENSES).find(([h]) => host.endsWith(h))?.[1] ?? null;
     return { href: url.toString(), label, license };
   } catch {

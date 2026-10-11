@@ -117,6 +117,21 @@ main:focus { outline: none; }
   border-radius: var(--radius);
 }
 .skip-link:focus { top: 0.5rem; }
+.skip-link:focus-visible { outline-color: var(--ink); }
+
+.sr-only {
+  position: absolute;
+  width:    1px;
+  height:   1px;
+  margin:   -1px;
+  overflow: hidden;
+  clip:     rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* Programmatic focus targets: the title after navigating, the text after skipping */
+.work-heading:focus,
+.reading:focus { outline: none; }
 
 /* ── Typography ─────────────────────────────────────────────── */
 h1, h2, h3, h4, h5, h6 {
@@ -515,12 +530,31 @@ blockquote {
 }
 .work-gloss {
   max-width:   32rem;
-  margin:      0.9rem auto 0;
+  margin:      0.6rem auto 0;
   font-family: var(--font-body);
-  font-style:  italic;
   font-size:   0.92rem;
   line-height: 1.6;
   color:       var(--muted);
+}
+.work-gloss summary {
+  display:      inline-flex;
+  align-items:  center;
+  gap:          0.35rem;
+  font-family:  var(--font-ui);
+  font-size:    0.85rem;
+  color:        var(--pomeg);
+  cursor:       pointer;
+  list-style:   none;
+  padding:      0.25rem 0;
+  text-decoration: underline dotted;
+  text-underline-offset: 0.25em;
+}
+.work-gloss summary::-webkit-details-marker { display: none; }
+.work-gloss summary::after { content: '+'; content: '+' / ''; font-size: 0.9em; }
+.work-gloss[open] summary::after { content: '−'; content: '−' / ''; }
+.work-gloss p {
+  margin-top:  0.35rem;
+  font-style:  italic;
   text-wrap:   pretty;
 }
 
@@ -551,6 +585,13 @@ blockquote {
 .misra + .misra {
   padding-inline-start: 4em;
 }
+/* Verse that is not in couplets: one line per row, run-overs hang */
+.verse-line {
+  display:     block;
+  padding-inline-start: 1.5em;
+  text-indent: -1.5em;
+}
+.reading-column .stanza { margin-bottom: 1.4em; }
 
 /* Persian couplets set side by side, as in a printed divan */
 @media (min-width: 60rem) {
@@ -568,7 +609,21 @@ blockquote {
     text-indent: 0;
     text-align: center;
   }
-  .parallel-col .beyt { display: block; }
+}
+
+/* Inside side-by-side cells every beyt stacks, whatever its script */
+.parallel .parallel-cell .beyt { display: block; margin: 0; }
+.parallel .parallel-cell .misra {
+  padding-inline-start: 1.25em;
+  text-indent: -1.25em;
+  text-align:  start;
+}
+.parallel .parallel-cell .misra + .misra { padding-inline-start: 4em; }
+.parallel .beyt--maqta::before {
+  position:   static;
+  display:    block;
+  text-align: start;
+  margin-bottom: 0.4em;
 }
 
 /* Maqta: the closing couplet of a ghazal, where the poet signs with a pen name */
@@ -590,7 +645,6 @@ blockquote {
   grid-column: 1 / -1;
 }
 .beyt--maqta .misra { color: var(--pomeg-dark); }
-[data-theme='dark'] .beyt--maqta .misra { color: var(--ink); }
 
 /* Tailpiece: the printer's mark that closes the text */
 .tailpiece {
@@ -632,6 +686,7 @@ blockquote {
 }
 .provenance-meta::before { content: '·'; margin: 0 0.45rem; }
 .provenance-cta { margin-top: 0.75rem !important; }
+.provenance-missing { font-style: italic; }
 
 .reading-toolbar {
   display:         flex;
@@ -642,6 +697,18 @@ blockquote {
   margin:          0 auto 1.25rem;
 }
 .reading-toolbar--wide { max-width: none; }
+/* Only "Aa" to show: it sits on the ornament line instead of taking a row */
+.reading-toolbar--solo {
+  justify-content: flex-end;
+  height:          0;
+  margin-bottom:   0;
+  position:        relative;
+  top:             -2.95rem;
+}
+.reading-toolbar--solo + .reading-column { margin-top: 0.5rem; }
+@media (min-width: 60rem) {
+  .reading-toolbar--solo:has(+ .is-poem:is(:lang(fa), :lang(ar), :lang(az-Arab))) { max-width: 48rem; }
+}
 @media (min-width: 60rem) { .reading-toolbar--verse { max-width: 48rem; } }
 .reading-toolbar .lang-tabs { margin: 0; justify-content: flex-start; }
 .lang-tabs--langs { margin-bottom: 2rem; }
@@ -653,7 +720,65 @@ blockquote {
 }
 .lang-tabs--versions .lang-tab { font-style: italic; }
 .reading-toolbar + .reading-column,
-.reading-toolbar + .parallel-grid { margin-top: 2rem; }
+.reading-toolbar + .parallel { margin-top: 2rem; }
+
+.reading-select {
+  display:     inline-flex;
+  align-items: center;
+  gap:         0.5rem;
+  font-family: var(--font-ui);
+  font-size:   0.85rem;
+  color:       var(--muted);
+}
+.reading-select select {
+  font:          inherit;
+  color:         var(--ink);
+  background:    var(--surf);
+  border:        1px solid var(--control);
+  border-radius: var(--radius);
+  padding:       0.3rem 0.5rem;
+}
+
+/* Side by side: original and translation lined up beyt by beyt */
+.parallel {
+  max-width: 64rem;
+  margin:    0 auto;
+}
+.parallel-row {
+  display:               grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap:            2.5rem;
+  margin-bottom:         1.1em;
+}
+.parallel-head { margin-bottom: 0.5rem; }
+.parallel-head .lang-label { margin-bottom: 0; }
+.parallel-cell { max-width: none; margin: 0; }
+.parallel-cell + .parallel-cell {
+  padding-inline-start: 1.25rem;
+  margin-inline-start:  -1.25rem;
+  border-inline-start:  0.5px solid var(--rule);
+}
+.parallel-cell .beyt,
+.parallel-cell .stanza { margin-bottom: 0; }
+.parallel-row--whole .parallel-cell .beyt { margin-bottom: 1.15em; }
+
+@media (max-width: 768px) {
+  .parallel-row {
+    grid-template-columns: 1fr;
+    row-gap:       0.35rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 0.5px solid var(--rule);
+  }
+  .parallel-head { display: none; }
+  .parallel-cell + .parallel-cell {
+    padding-inline-start: 0;
+    margin-inline-start:  0;
+    border-inline-start:  none;
+    color:      var(--muted);
+    font-size:  0.95em;
+  }
+}
 
 .page-loading {
   text-align:  center;

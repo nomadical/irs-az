@@ -174,7 +174,7 @@
     "no_translation": "This work has no translation yet.",
     "no_translation_cta": "Suggest a translation",
     "source": "Source",
-    "translator": "Translated by",
+    "translator": "Translator",
     "original_text": "Original",
     "prev": "Previous",
     "next": "Next",
@@ -186,7 +186,7 @@
     "loading": "Loading…",
     "maqta": "Maqta — the closing couplet bearing the poet’s pen name",
     "gloss": {
-      "GHAZAL": "Ghazal: a lyric poem of couplets on a single rhyme. In the closing couplet, marked ◆, the poet signs with a pen name.",
+      "GHAZAL": "Ghazal: a lyric poem of couplets (beyts) on a single rhyme.",
       "MASNAVI": "Masnavi: a long poem in self-rhyming couplets, usually an epic or a tale.",
       "RUBAI": "Rubai: a philosophical quatrain; lines one, two and four rhyme.",
       "QASIDA": "Qasida: a long, formal poem of praise or counsel.",
@@ -198,6 +198,31 @@
       "RUBAI": "Rubais",
       "QASIDA": "Qasidas",
       "OTHER": "Divan"
+    },
+    "source_missing": "not yet recorded",
+    "new_tab": "(opens in a new tab)",
+    "breadcrumb": "Breadcrumb",
+    "read_as": "Read",
+    "original_option": "Original",
+    "what_is": "What is a {form}?",
+    "gloss_maqta": "The closing couplet, marked ◆, is the maqta: there the poet signs with a pen name.",
+    "appearance_size": "Size",
+    "appearance_width": "Width",
+    "appearance_font": "Font",
+    "size_names": {
+      "S": "Small",
+      "M": "Medium",
+      "L": "Large",
+      "XL": "Extra large"
+    },
+    "width_names": {
+      "standard": "Standard",
+      "wide": "Wide",
+      "full": "Full"
+    },
+    "font_names": {
+      "serif": "Serif",
+      "sans": "Sans-serif"
     }
   },
   "contact": {
