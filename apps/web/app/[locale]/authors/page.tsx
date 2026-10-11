@@ -1,3 +1,6 @@
+import type { Metadata } from 'next';
+import { getTranslations as getMetaTranslations } from 'next-intl/server';
+import { pageMetadata } from '@/lib/seo';
 import { api } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import Link from 'next/link';
@@ -12,6 +15,18 @@ interface Props {
 }
 
 const AZ_ALPHABET = 'ABCÇDEƏFGĞHXIİJKQLMNOÖPRSŞTUÜVYZ';
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getMetaTranslations({ locale });
+
+  return pageMetadata({
+    locale,
+    path: '/authors',
+    title: t('nav.authors'),
+    description: t('site.description'),
+  });
+}
 
 export default async function AuthorsPage({ params, searchParams }: Props) {
   const { locale } = await params;

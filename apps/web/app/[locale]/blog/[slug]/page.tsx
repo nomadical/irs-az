@@ -1,5 +1,7 @@
-import { api } from '@/lib/api';
+import type { Metadata } from 'next';
+import { api, notFoundOn404 } from '@/lib/api';
 import { localized } from '@/lib/locale';
+import { excerpt, pageMetadata } from '@/lib/seo';
 import Link from 'next/link';
 
 export const dynamic = 'force-dynamic';
@@ -8,9 +10,23 @@ interface Props {
   params: Promise<{ locale: string; slug: string }>;
 }
 
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { locale, slug } = await params;
+  const post = (await api.getBlogPost(slug).catch(notFoundOn404)) as any;
+
+  return pageMetadata({
+    locale,
+    path: `/blog/${slug}`,
+    title: localized(post, 'title', locale) ?? post.titleAz,
+    description: post.excerpt ?? excerpt(localized(post, 'body', locale)),
+    type: 'article',
+    ...(post.coverUrl && { images: [post.coverUrl] }),
+  });
+}
+
 export default async function BlogPostPage({ params }: Props) {
   const { locale, slug } = await params;
-  const post = (await api.getBlogPost(slug)) as any;
+  const post = (await api.getBlogPost(slug).catch(notFoundOn404)) as any;
 
   const title = localized(post, 'title', locale);
   const body = localized(post, 'body', locale) ?? '';

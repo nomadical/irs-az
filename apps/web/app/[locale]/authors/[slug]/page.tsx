@@ -1,6 +1,9 @@
-import { api } from '@/lib/api';
+import type { Metadata } from 'next';
+import { api, notFoundOn404 } from '@/lib/api';
 import { localized } from '@/lib/locale';
+import { excerpt, pageMetadata, SITE_URL } from '@/lib/seo';
 import Link from 'next/link';
+import { JsonLd } from '@/components/seo/JsonLd';
 
 export const dynamic = 'force-dynamic';
 
@@ -24,9 +27,23 @@ const typeLabels: Record<string, Record<string, string>> = {
   PHILOSOPHER: { az: 'Filosof', ru: 'Философ', en: 'Philosopher' },
 };
 
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { locale, slug } = await params;
+  const author = (await api.getAuthor(slug).catch(notFoundOn404)) as any;
+
+  return pageMetadata({
+    locale,
+    path: `/authors/${slug}`,
+    title: localized(author, 'name', locale) ?? author.nameAz,
+    description: excerpt(localized(author, 'bio', locale)),
+    type: 'profile',
+    images: false,
+  });
+}
+
 export default async function AuthorPage({ params }: Props) {
   const { locale, slug } = await params;
-  const author = (await api.getAuthor(slug)) as any;
+  const author = (await api.getAuthor(slug).catch(notFoundOn404)) as any;
 
   const name = localized(author, 'name', locale) ?? '';
   const bio = localized(author, 'bio', locale);
@@ -38,6 +55,20 @@ export default async function AuthorPage({ params }: Props) {
 
   return (
     <div className="container page-content">
+      <JsonLd
+        data={{
+          '@context': 'https://schema.org',
+          '@type': 'Person',
+          name,
+          url: `${SITE_URL}/${locale}/authors/${slug}`,
+          jobTitle: typeLabels[author.type]?.[locale],
+          ...(author.bornYear && { birthDate: String(author.bornYear) }),
+          ...(author.diedYear && { deathDate: String(author.diedYear) }),
+          ...(author.portraitUrl && { image: author.portraitUrl }),
+          description: excerpt(bio, { max: 300 }),
+        }}
+      />
+
       {/* Breadcrumb */}
       <div className="breadcrumb">
         <Link href={`/${locale}/authors`}>

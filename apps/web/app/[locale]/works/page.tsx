@@ -1,3 +1,5 @@
+import type { Metadata } from 'next';
+import { pageMetadata } from '@/lib/seo';
 import { api } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import Link from 'next/link';
@@ -47,6 +49,18 @@ const GENRE_FILTERS = [
 
 function label(item: { az: string; ru: string; en: string }, locale: string) {
   return locale === 'ru' ? item.ru : locale === 'en' ? item.en : item.az;
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale });
+
+  return pageMetadata({
+    locale,
+    path: '/works',
+    title: t('nav.works'),
+    description: t('site.description'),
+  });
 }
 
 export default async function WorksPage({ params, searchParams }: Props) {

@@ -1,3 +1,6 @@
+import type { Metadata } from 'next';
+import { pageMetadata, SITE_URL } from '@/lib/seo';
+import { JsonLd } from '@/components/seo/JsonLd';
 import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
 import { api } from '../../lib/api';
@@ -98,6 +101,13 @@ function authorTypeMeta(type: string, locale: string) {
   return map[type]?.[lang] ?? type;
 }
 
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: 'site' });
+
+  return pageMetadata({ locale, path: '', title: t('title'), description: t('description'), absoluteTitle: true });
+}
+
 export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const t = await getTranslations('home');
@@ -120,6 +130,15 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
 
   return (
     <div className="container page-content">
+      <JsonLd
+        data={{
+          '@context': 'https://schema.org',
+          '@type': 'WebSite',
+          name: 'IRS.AZ',
+          url: `${SITE_URL}/${locale}`,
+          inLanguage: locale,
+        }}
+      />
       <div className="home-grid">
 
         {/* ── Left: Featured author ─────────────────────────── */}

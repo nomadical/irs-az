@@ -1,3 +1,6 @@
+import type { Metadata } from 'next';
+import { getTranslations as getMetaTranslations } from 'next-intl/server';
+import { pageMetadata } from '@/lib/seo';
 import { api } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import Link from 'next/link';
@@ -7,6 +10,18 @@ export const dynamic = 'force-dynamic';
 interface Props {
   params: Promise<{ locale: string }>;
   searchParams: Promise<Record<string, string | undefined>>;
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getMetaTranslations({ locale });
+
+  return pageMetadata({
+    locale,
+    path: '/blog',
+    title: t('nav.blog'),
+    description: t('site.description'),
+  });
 }
 
 export default async function BlogPage({ params, searchParams }: Props) {

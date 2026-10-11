@@ -1,5 +1,7 @@
-import { api } from '@/lib/api';
+import type { Metadata } from 'next';
+import { api, notFoundOn404 } from '@/lib/api';
 import { localized } from '@/lib/locale';
+import { pageMetadata } from '@/lib/seo';
 import Link from 'next/link';
 
 export const dynamic = 'force-dynamic';
@@ -8,9 +10,24 @@ interface Props {
   params: Promise<{ locale: string; slug: string }>;
 }
 
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { locale, slug } = await params;
+  const collection = (await api.getCollection(slug).catch(notFoundOn404)) as any;
+  const title = localized(collection, 'title', locale) ?? collection.titleAz;
+  const authorName = localized(collection.author, 'name', locale);
+  const firstWorks = collection.works.slice(0, 5).map((w: any) => localized(w, 'title', locale)).join(', ');
+
+  return pageMetadata({
+    locale,
+    path: `/collections/${slug}`,
+    title: `${title} — ${authorName}`,
+    description: `${authorName}, ${title}: ${firstWorks}${collection.works.length > 5 ? '…' : ''}`,
+  });
+}
+
 export default async function CollectionPage({ params }: Props) {
   const { locale, slug } = await params;
-  const collection = (await api.getCollection(slug)) as any;
+  const collection = (await api.getCollection(slug).catch(notFoundOn404)) as any;
 
   const title = localized(collection, 'title', locale);
   const authorName = localized(collection.author, 'name', locale);

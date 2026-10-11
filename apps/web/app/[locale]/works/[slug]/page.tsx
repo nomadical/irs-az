@@ -1,7 +1,10 @@
-import { api } from '@/lib/api';
+import type { Metadata } from 'next';
+import { api, notFoundOn404 } from '@/lib/api';
 import { localized } from '@/lib/locale';
+import { excerpt, pageMetadata, SITE_URL } from '@/lib/seo';
 import Link from 'next/link';
 import { ReadingView } from '@/components/reading/ReadingView';
+import { JsonLd } from '@/components/seo/JsonLd';
 
 export const dynamic = 'force-dynamic';
 
@@ -9,11 +12,27 @@ interface Props {
   params: Promise<{ locale: string; slug: string }>;
 }
 
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { locale, slug } = await params;
+  const work = (await api.getWork(slug).catch(notFoundOn404)) as any;
+  const title = localized(work, 'title', locale) ?? work.titleAz;
+  const authorName = localized(work.author, 'name', locale);
+
+  return pageMetadata({
+    locale,
+    path: `/works/${slug}`,
+    title: `${title} — ${authorName}`,
+    description: excerpt(work.body, { poem: work.genre !== 'PROSE' }),
+    type: 'article',
+    images: false,
+  });
+}
+
 export default async function WorkPage({ params }: Props) {
   const { locale, slug } = await params;
 
   const [work, nav] = await Promise.all([
-    api.getWork(slug) as Promise<any>,
+    api.getWork(slug).catch(notFoundOn404) as Promise<any>,
     api.getWorkNav(slug),
   ]);
 
@@ -25,6 +44,29 @@ export default async function WorkPage({ params }: Props) {
 
   return (
     <div className="container page-content">
+      <JsonLd
+        data={{
+          '@context': 'https://schema.org',
+          '@type': 'CreativeWork',
+          name: title,
+          url: `${SITE_URL}/${locale}/works/${slug}`,
+          genre: work.genre.toLowerCase(),
+          ...(work.year && { dateCreated: String(work.year) }),
+          author: {
+            '@type': 'Person',
+            name: authorName,
+            url: `${SITE_URL}/${locale}/authors/${work.author.slug}`,
+          },
+          ...(collectionTitle && {
+            isPartOf: {
+              '@type': 'CreativeWork',
+              name: collectionTitle,
+              url: `${SITE_URL}/${locale}/collections/${work.collection.slug}`,
+            },
+          }),
+        }}
+      />
+
       {/* Breadcrumb */}
       <div className="breadcrumb">
         <Link href={`/${locale}/authors/${work.author.slug}`}>{authorName}</Link>

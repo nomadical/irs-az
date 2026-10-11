@@ -1,8 +1,12 @@
 import '@/styles/globals.css';
 import { Metadata } from "next";
 import { ReactNode } from "react";
+import { getLocale } from 'next-intl/server';
+import { SITE_NAME, SITE_URL } from '@/lib/seo';
 
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
+  applicationName: SITE_NAME,
   title: {
     default: 'IRS.AZ — Azərbaycan mədəniyyəti',
     template: '%s | IRS.AZ',
@@ -18,13 +22,15 @@ export const metadata: Metadata = {
 };
 
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: {
   children: ReactNode;
 }) {
+  const locale = await getLocale();
+
   return (
-    <html lang="az" suppressHydrationWarning>
+    <html lang={locale} suppressHydrationWarning>
       <body suppressHydrationWarning>
         <script
           dangerouslySetInnerHTML={{

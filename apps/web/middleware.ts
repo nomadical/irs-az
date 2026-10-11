@@ -9,7 +9,8 @@ export default createMiddleware({
 
 export const config = {
   matcher: [
-    // Match all paths except /admin, /api, /_next, /static, favicon
-    '/((?!admin|api|_next|static|favicon.ico).*)',
+    // Match all paths except /admin, /api, /_next, /static and files with an
+    // extension (sitemap.xml, robots.txt, favicons). Slugs never contain dots.
+    '/((?!admin|api|_next|static|.*\\..*).*)',
   ],
 };

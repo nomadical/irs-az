@@ -1,4 +1,18 @@
+import { notFound } from 'next/navigation';
+
 const API_URL = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000/api';
+
+export class ApiError extends Error {
+  constructor(message: string, public status: number) {
+    super(message);
+  }
+}
+
+/** `.catch()` handler for detail pages: a missing entity renders the 404 page instead of a 500. */
+export function notFoundOn404(err: unknown): never {
+  if (err instanceof ApiError && err.status === 404) notFound();
+  throw err;
+}
 
 interface FetchOptions extends RequestInit {
   token?: string;
@@ -17,7 +31,7 @@ async function fetcher<T>(path: string, options: FetchOptions = {}): Promise<T> 
 
   if (!res.ok) {
     const body = await res.json().catch(() => ({}));
-    throw new Error(body.message ?? `API error: ${res.status}`);
+    throw new ApiError(body.message ?? `API error: ${res.status}`, res.status);
   }
 
   return res.json();
@@ -51,6 +65,10 @@ export const api = {
     fetcher(`/blog${params ? `?${params}` : ''}`),
   getBlogPost: (slug: string) => fetcher(`/blog/${slug}`),
 
+  // Sitemap
+  getSitemap: () =>
+    fetcher<SitemapEntries>('/sitemap', { next: { revalidate: 3600 } }),
+
   // Auth
   login: (data: { email: string; password: string }) =>
     fetcher('/auth/login', { method: 'POST', body: JSON.stringify(data) }),
@@ -62,4 +80,16 @@ interface NavItem {
   slug: string;
   titleAz: string;
   titleRu: string | null;
+}
+
+interface SitemapEntry {
+  slug: string;
+  updatedAt: string;
+}
+
+interface SitemapEntries {
+  authors: SitemapEntry[];
+  collections: SitemapEntry[];
+  works: SitemapEntry[];
+  blog: SitemapEntry[];
 }
