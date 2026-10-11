@@ -1,0 +1,92 @@
+# Temporary public preview from a laptop via a Cloudflare quick tunnel (see README.md).
+# Mirrors ../docker-compose.yml, but builds images locally and serves plain HTTP on
+# 127.0.0.1:8787 — cloudflared terminates TLS.
+name: irs-az-tunnel
+
+services:
+  caddy:
+    image: caddy:2.10-alpine
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8787:80"
+    configs:
+      - source: caddyfile
+        target: /etc/caddy/Caddyfile
+    depends_on: [web, api]
+
+  web:
+    image: irs-az-web:tunnel
+    build:
+      context: ../..
+      dockerfile: apps/web/Dockerfile
+    restart: unless-stopped
+    environment:
+      API_URL: http://api:4000/api
+      SITE_URL: https://${DOMAIN}
+      CONTACT_EMAIL: ${CONTACT_EMAIL:-}
+    depends_on: [api]
+
+  api:
+    image: irs-az-api:tunnel
+    build:
+      context: ../..
+      dockerfile: apps/api/Dockerfile
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: postgresql://postgres:${POSTGRES_PASSWORD}@postgres:5432/irs_az?schema=public
+      JWT_SECRET: ${JWT_SECRET}
+      JWT_REFRESH_SECRET: ${JWT_REFRESH_SECRET}
+      MEILISEARCH_HOST: http://meilisearch:7700
+      MEILISEARCH_KEY: ${MEILISEARCH_KEY}
+      CORS_ORIGIN: https://${DOMAIN}
+    depends_on:
+      postgres: { condition: service_healthy }
+      meilisearch: { condition: service_healthy }
+
+  postgres:
+    image: postgres:17-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: irs_az
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d irs_az"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  meilisearch:
+    image: getmeili/meilisearch:v1.12
+    restart: unless-stopped
+    environment:
+      MEILI_MASTER_KEY: ${MEILISEARCH_KEY}
+      MEILI_ENV: production
+      MEILI_NO_ANALYTICS: "true"
+    volumes:
+      - meili-data:/meili_data
+    healthcheck:
+      test: ["CMD", "curl", "-sf", "http://localhost:7700/health"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  postgres-data:
+  meili-data:
+
+# Inline rather than bind-mounted, so the stack also works from paths Docker Desktop doesn't share.
+configs:
+  caddyfile:
+    content: |
+      :80 {
+      	encode zstd gzip
+      	handle /api/* {
+      		reverse_proxy api:4000
+      	}
+      	handle {
+      		reverse_proxy web:3000
+      	}
+      }

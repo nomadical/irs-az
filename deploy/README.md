@@ -8,6 +8,8 @@ Cloudflare (DNS, proxy, R2) → Caddy :443 ─┬─ /api/* → api:4000 (NestJS
                               postgres, meilisearch (internal only)
 ```
 
+No server yet? [tunnel/README.md](tunnel/README.md) shares the stack from a laptop via a temporary Cloudflare URL.
+
 ## One-time setup
 
 ### 1. Server
