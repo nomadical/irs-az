@@ -7,9 +7,48 @@ import { slugify, uniqueSlug } from '../common/utils/slug';
 import { renderMarkdown } from '../common/utils/markdown';
 import { paginationArgs, paginatedResult } from '../common/utils/pagination';
 
+/**
+ * Poems offered by the randomizer and the poem of the day: ones an AZ/RU/EN reader can
+ * actually read, i.e. written in Latin-script Azerbaijani or with an Azerbaijani translation.
+ */
+const READABLE_POEM: Prisma.WorkWhereInput = {
+  status: 'PUBLISHED',
+  genre: 'POEM',
+  OR: [
+    { originalLang: 'AZ_LATIN' },
+    { translations: { some: { language: 'AZ_LATIN', status: 'PUBLISHED' } } },
+  ],
+};
+
+/** Calendar day in Baku, the portal's home time zone (YYYY-MM-DD) */
+function bakuDate(now = new Date()) {
+  return now.toLocaleDateString('en-CA', { timeZone: 'Asia/Baku' });
+}
+
+/** FNV-1a, so every API instance picks the same poem for the same day */
+function hash(text: string) {
+  let h = 0x811c9dc5;
+  for (let i = 0; i < text.length; i++) {
+    h ^= text.charCodeAt(i);
+    h = Math.imul(h, 0x01000193);
+  }
+  return h >>> 0;
+}
+
+/** Opening lines of a poem. Some imports put a blank line after every verse, so blanks are skipped. */
+function excerpt(body: string, max = 4) {
+  return body
+    .split('\n')
+    .map((line) => line.replace(/^[#>*\s-]+/, '').trim())
+    .filter(Boolean)
+    .slice(0, max);
+}
+
 @Injectable()
 export class WorksService {
   constructor(private prisma: PrismaService) {}
+
+  private daily: { date: string; work: unknown } | null = null;
 
   async findAll(query: QueryWorksDto) {
     const { skip, take, page, limit } = paginationArgs(query);
@@ -163,6 +202,55 @@ export class WorksService {
     ]);
 
     return { prev, next };
+  }
+
+  /** Slug of a random readable poem */
+  async random() {
+    const count = await this.prisma.work.count({ where: READABLE_POEM });
+    if (!count) throw new NotFoundException('No poems yet');
+    return this.prisma.work.findFirstOrThrow({
+      where: READABLE_POEM,
+      orderBy: { id: 'asc' },
+      skip: Math.floor(Math.random() * count),
+      select: { slug: true },
+    });
+  }
+
+  /** Poem of the day: the same for everyone until midnight in Baku */
+  async poemOfTheDay() {
+    const date = bakuDate();
+    if (this.daily?.date === date) return this.daily.work;
+
+    const count = await this.prisma.work.count({ where: READABLE_POEM });
+    if (!count) throw new NotFoundException('No poems yet');
+    const work = await this.prisma.work.findFirstOrThrow({
+      where: READABLE_POEM,
+      orderBy: { id: 'asc' },
+      skip: hash(date) % count,
+      select: {
+        slug: true,
+        titleAz: true,
+        titleRu: true,
+        titleEn: true,
+        body: true,
+        originalLang: true,
+        form: true,
+        year: true,
+        author: { select: { slug: true, nameAz: true, nameRu: true, nameEn: true } },
+        translations: {
+          where: { language: 'AZ_LATIN', status: 'PUBLISHED' },
+          orderBy: [{ isDefault: 'desc' }, { createdAt: 'asc' }],
+          take: 1,
+          select: { body: true },
+        },
+      },
+    });
+
+    const { body, translations, ...rest } = work;
+    const text = rest.originalLang === 'AZ_LATIN' ? body : translations[0]?.body ?? body;
+    const daily = { ...rest, date, excerpt: excerpt(text) };
+    this.daily = { date, work: daily };
+    return daily;
   }
 
   /** Readable, unused slug from the title; titles in other scripts fall back to the author's slug */

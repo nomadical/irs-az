@@ -73,6 +73,8 @@ export const api = {
   getWorks: (params?: URLSearchParams) =>
     fetcher(`/works${params ? `?${params}` : ''}`),
   getWork: (slug: string) => fetcher(`/works/${slug}`),
+  getRandomWork: () => fetcher<{ slug: string }>('/works/random', { cache: 'no-store' }),
+  getPoemOfTheDay: () => fetcher<PoemOfTheDay>('/works/daily', { cache: 'no-store' }),
   resolveWork: (slug: string) => fetcher<{ slug: string }>(`/works/resolve/${slug}`),
   getWorkNav: (slug: string) =>
     fetcher<{ prev: NavItem | null; next: NavItem | null }>(`/works/${slug}/nav`),
@@ -107,6 +109,19 @@ interface NavItem {
   slug: string;
   titleAz: string;
   titleRu: string | null;
+}
+
+export interface PoemOfTheDay {
+  slug: string;
+  titleAz: string;
+  titleRu: string | null;
+  titleEn: string | null;
+  form: string | null;
+  year: number | null;
+  date: string;
+  /** Opening lines, in Azerbaijani */
+  excerpt: string[];
+  author: { slug: string; nameAz: string; nameRu: string | null; nameEn: string | null };
 }
 
 interface SitemapEntry {

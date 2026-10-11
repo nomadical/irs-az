@@ -31,6 +31,7 @@ export function Header() {
     { href: `/${locale}/authors?type=WRITER`, label: t('writers') },
     { href: `/${locale}/authors?type=PHILOSOPHER`, label: t('philosophers') },
     { href: `/${locale}/works`, label: t('works') },
+    { href: `/${locale}/random`, label: t('random') },
     { href: `/${locale}/search`, label: t('search') },
   ];
 
@@ -51,6 +52,7 @@ export function Header() {
             <Link
               key={link.href}
               href={link.href}
+              prefetch={link.href.endsWith('/random') ? false : undefined}
               aria-current={isActive(link.href) ? 'page' : undefined}
             >
               {link.label}

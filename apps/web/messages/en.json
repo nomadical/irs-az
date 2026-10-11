@@ -16,7 +16,10 @@
     "recent_works_label": "Recently added works",
     "ghazals": "Ghazals",
     "poems": "Poems",
-    "coming_soon": "More works will be added soon..."
+    "coming_soon": "More works will be added soon...",
+    "daily_label": "Poem of the day",
+    "read_full": "Read in full",
+    "random_poem": "Random poem"
   },
   "nav": {
     "home": "Home",
@@ -31,7 +34,8 @@
     "skip": "Skip to content",
     "menu_label": "Main sections",
     "about": "About",
-    "contact": "Contact"
+    "contact": "Contact",
+    "random": "Random"
   },
   "authors": {
     "title": "Authors",

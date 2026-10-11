@@ -1265,6 +1265,50 @@ blockquote {
   color:       var(--muted);
 }
 
+/* ── Poem of the day ────────────────────────────────────── */
+.daily-poem {
+  padding:    1rem 0 1.25rem;
+  border-top: 1px solid var(--rule);
+  text-align: center;
+}
+.daily-poem .section-label { justify-content: center; }
+.daily-poem-title {
+  font-family:   var(--font-serif);
+  font-size:     1.6rem;
+  line-height:   1.25;
+  margin:        0 0 0.2rem;
+}
+.daily-poem-title a       { color: var(--ink); }
+.daily-poem-title a:hover { color: var(--pomeg); }
+.daily-poem-author {
+  font-family: var(--font-ui);
+  font-size:   0.75rem;
+  color:       var(--muted);
+}
+.daily-poem-author a:hover { color: var(--pomeg); }
+.daily-poem-excerpt {
+  font-family: var(--font-body);
+  font-style:  italic;
+  font-size:   1.05rem;
+  line-height: 1.8;
+  color:       var(--warm-brown);
+  margin:      0.9rem auto;
+  max-width:   36rem;
+  padding:     0;
+  border:      none;
+}
+.daily-poem-excerpt p { margin: 0; }
+.daily-poem-actions {
+  display:         flex;
+  justify-content: center;
+  gap:             1.5rem;
+  flex-wrap:       wrap;
+  font-family:     var(--font-ui);
+  font-size:       0.78rem;
+  letter-spacing:  0.03em;
+}
+.daily-poem-actions .more { color: var(--pomeg); }
+
 /* ── Author page header grid ───────────────────────────────── */
 .author-header-grid {
   display:               grid;

@@ -16,7 +16,10 @@
     "recent_works_label": "Son əlavə olunan əsərlər",
     "ghazals": "Qəzəllər",
     "poems": "Poemalar",
-    "coming_soon": "Tezliklə daha çox əsər əlavə olunacaq..."
+    "coming_soon": "Tezliklə daha çox əsər əlavə olunacaq...",
+    "daily_label": "Günün şeiri",
+    "read_full": "Tam oxu",
+    "random_poem": "Təsadüfi şeir"
   },
   "nav": {
     "home": "Ana səhifə",
@@ -31,7 +34,8 @@
     "skip": "Mətnə keç",
     "menu_label": "Əsas bölmələr",
     "about": "Layihə haqqında",
-    "contact": "Əlaqə"
+    "contact": "Əlaqə",
+    "random": "Təsadüfi"
   },
   "authors": {
     "title": "Müəlliflər",

@@ -38,6 +38,18 @@ export class WorksController {
   }
 
   @Public()
+  @Get('random')
+  random() {
+    return this.works.random();
+  }
+
+  @Public()
+  @Get('daily')
+  poemOfTheDay() {
+    return this.works.poemOfTheDay();
+  }
+
+  @Public()
   @Get('resolve/:slug')
   resolve(@Param('slug') slug: string) {
     return this.works.resolveSlug(slug);

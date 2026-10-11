@@ -3,7 +3,7 @@ import { pageMetadata, SITE_URL } from '@/lib/seo';
 import { JsonLd } from '@/components/seo/JsonLd';
 import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
-import { api } from '../../lib/api';
+import { api, type PoemOfTheDay } from '../../lib/api';
 import { localized } from '@/lib/locale';
 
 export const dynamic = 'force-dynamic';
@@ -113,8 +113,9 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
   const t = await getTranslations('home');
 
   // Fetch data from API in parallel
-  const [featured, authorsRes, worksRes] = await Promise.all([
+  const [featured, daily, authorsRes, worksRes] = await Promise.all([
     api.getFeaturedAuthor().catch(() => null) as Promise<FeaturedAuthor | null>,
+    api.getPoemOfTheDay().catch(() => null) as Promise<PoemOfTheDay | null>,
     api.getAuthors(new URLSearchParams({ limit: '4', sort: 'recent' })) as Promise<{ data: AuthorListItem[] }>,
     api.getWorks(new URLSearchParams({ limit: '6', sort: 'recent' })) as Promise<{ data: WorkListItem[] }>,
   ]);
@@ -251,6 +252,27 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
           </div>
         </div>
       </div>
+
+      {/* ── Poem of the day ──────────────────────────────── */}
+      {daily && (
+        <section className="daily-poem" aria-labelledby="daily-poem-title">
+          <p className="section-label">{t('daily_label')}</p>
+          <h2 id="daily-poem-title" className="daily-poem-title">
+            <Link href={`/${locale}/works/${daily.slug}`}>{localeTitle(daily, locale)}</Link>
+          </h2>
+          <div className="daily-poem-author">
+            <Link href={`/${locale}/authors/${daily.author.slug}`}>{localeName(daily.author, locale)}</Link>
+            {daily.year ? ` · ${daily.year}` : ''}
+          </div>
+          <blockquote className="daily-poem-excerpt" lang="az-Latn">
+            {daily.excerpt.map((line, i) => <p key={i}>{line}</p>)}
+          </blockquote>
+          <div className="daily-poem-actions">
+            <Link href={`/${locale}/works/${daily.slug}`} className="more">{t('read_full')} →</Link>
+            <Link href={`/${locale}/random`} prefetch={false} className="more">↻ {t('random_poem')}</Link>
+          </div>
+        </section>
+      )}
 
       {/* ── Bottom: Recent works strip ─────────────────────── */}
       {recentWorks.length > 0 && (
