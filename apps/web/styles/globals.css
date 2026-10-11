@@ -1109,7 +1109,8 @@ blockquote {
 }
 .search-btn:hover { background: var(--pomeg-dark); }
 
-.search-highlight { background: var(--hl); color: var(--pomeg); }
+.search-highlight,
+.work-row mark { background: var(--hl); color: var(--pomeg); }
 
 /* ── Collection TOC ─────────────────────────────────────────── */
 .coll-header {

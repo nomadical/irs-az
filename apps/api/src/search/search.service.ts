@@ -4,6 +4,7 @@ import { MeiliSearch } from 'meilisearch';
 import { PrismaService } from '../prisma/prisma.service';
 import { SearchQueryDto } from './dto/search-query.dto';
 import { foldAz } from '../common/utils/slug';
+import { highlight, opening, queryTerms, snippet } from './highlight';
 
 const fold = (text: string | null | undefined) => (text ? foldAz(text) : text);
 
@@ -59,6 +60,9 @@ export class SearchService implements OnModuleInit {
           'form',
           'year',
           'lang',
+          // For snippets; stripped from search responses
+          'body',
+          'bodyRu',
         ],
       });
     } catch {
@@ -119,16 +123,26 @@ export class SearchService implements OnModuleInit {
     const offset = ((dto.page ?? 1) - 1) * limit;
 
     try {
-      return await this.client.index('works').search(dto.q, {
+      const result = await this.client.index('works').search(dto.q, {
         filter: filters.length ? filters : undefined,
         limit,
         offset,
-        attributesToHighlight: ['titleAz', 'titleRu', 'body', 'bodyRu'],
-        highlightPreTag: '<mark>',
-        highlightPostTag: '</mark>',
-        attributesToCrop: ['body', 'bodyRu'],
-        cropLength: 80,
       });
+
+      // Highlights are built here rather than by Meilisearch, so that queries typed
+      // without Azerbaijani letters are marked too (see highlight.ts)
+      const terms = queryTerms(dto.q ?? '');
+      const hits = result.hits.map(({ body, bodyRu, ...hit }) => ({
+        ...hit,
+        _formatted: {
+          titleAz: highlight(hit.titleAz ?? '', terms),
+          body:
+            (body && snippet(body, terms)) ??
+            (bodyRu && snippet(bodyRu, terms)) ??
+            (body ? opening(body) : null),
+        },
+      }));
+      return { ...result, hits };
     } catch {
       return { hits: [], query: dto.q, estimatedTotalHits: 0 };
     }
