@@ -33,6 +33,7 @@ export function Header() {
     { href: `/${locale}/works`, label: t('works') },
     { href: `/${locale}/random`, label: t('random') },
     { href: `/${locale}/search`, label: t('search') },
+    { href: `/${locale}/contribute`, label: t('contribute') },
   ];
 
   const isActive = (href: string) => {
