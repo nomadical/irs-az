@@ -5,6 +5,7 @@ import { excerpt, pageMetadata, SITE_URL } from '@/lib/seo';
 import Link from 'next/link';
 import { ReadingView } from '@/components/reading/ReadingView';
 import { JsonLd } from '@/components/seo/JsonLd';
+import { getTranslations } from 'next-intl/server';
 
 export const dynamic = 'force-dynamic';
 
@@ -36,6 +37,7 @@ export default async function WorkPage({ params }: Props) {
     api.getWorkNav(slug),
   ]);
 
+  const t = await getTranslations({ locale, namespace: 'contribute' });
   const title = localized(work, 'title', locale);
   const authorName = localized(work.author, 'name', locale);
   const collectionTitle = work.collection
@@ -129,6 +131,12 @@ export default async function WorkPage({ params }: Props) {
           {work.sourceNote}
         </p>
       )}
+
+      <p className="work-suggest">
+        <Link href={`/${locale}/contribute?type=translation&work=${encodeURIComponent(slug)}`}>
+          + {t('suggest_translation')}
+        </Link>
+      </p>
 
       {/* Prev / Next navigation */}
       <div className="work-nav">

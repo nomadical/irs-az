@@ -26,7 +26,8 @@
     "authors": "Müəlliflər",
     "works": "Əsərlər",
     "search": "Axtarış",
-    "blog": "Bloq"
+    "blog": "Bloq",
+    "contribute": "Töhfə ver"
   },
   "authors": {
     "title": "Müəlliflər",
@@ -62,5 +63,99 @@
   "theme": {
     "light": "İşıqlı",
     "dark": "Qaranlıq"
+  },
+  "contribute": {
+    "title": "Töhfə ver",
+    "intro": "IRS.AZ birlikdə yaradılır. Əlinizdə olan mətnləri, tərcümələri və müəlliflər haqqında məlumatları göndərin. Redaktorlar yoxlayıb sayta əlavə edəcəklər.",
+    "tab_work": "Əsər",
+    "tab_translation": "Tərcümə",
+    "tab_author": "Müəllif",
+    "section_text": "Mətn",
+    "section_source": "Mənbə",
+    "section_contact": "Əlaqə",
+    "author": "Müəllif",
+    "author_choose": "Müəllifi seçin",
+    "author_missing": "Müəllif siyahıda yoxdur?",
+    "author_suggest": "Müəllif təklif edin",
+    "title_az": "Başlıq (azərbaycanca)",
+    "title_ru": "Başlıq (rusca)",
+    "original_lang": "Orijinalın dili",
+    "genre": "Janr",
+    "form": "Forma",
+    "year": "İl",
+    "body": "Mətn",
+    "body_hint": "Hər misra ayrı sətirdə, bəndlər arasında boş sətir.",
+    "work": "Əsər",
+    "work_search": "Başlığa görə axtarın",
+    "work_none": "Heç nə tapılmadı",
+    "work_change": "Dəyiş",
+    "work_required": "Tərcümənin aid olduğu əsəri seçin.",
+    "language": "Tərcümənin dili",
+    "translation_type": "Növ",
+    "translator": "Tərcüməçi",
+    "translator_note": "Tərcüməçinin qeydi",
+    "name_az": "Ad (azərbaycanca)",
+    "name_ru": "Ad (rusca)",
+    "name_en": "Ad (ingiliscə)",
+    "author_type": "Fəaliyyəti",
+    "born": "Doğum ili",
+    "died": "Vəfat ili",
+    "bio": "Qısa bioqrafiya",
+    "source": "Mənbə",
+    "source_hint": "Kitab, nəşriyyat və il və ya keçid. Məsələn: Füzuli. Seçilmiş əsərləri, Azərnəşr, 1958.",
+    "contact_name": "Adınız",
+    "contact_email": "E-poçt",
+    "contact_hint": "E-poçtunuzu yalnız bu təkliflə bağlı sizinlə əlaqə saxlamaq üçün istifadə edəcəyik.",
+    "optional": "istəyə bağlı",
+    "submit": "Göndər",
+    "sending": "Göndərilir…",
+    "success_title": "Təşəkkür edirik!",
+    "success_body": "Təklifiniz redaktorlara çatdı. Yoxlandıqdan sonra saytda dərc olunacaq.",
+    "success_again": "Daha birini göndər",
+    "error_generic": "Göndərmək alınmadı. Sahələri yoxlayıb yenidən cəhd edin.",
+    "error_rate": "Çox sayda göndəriş. Bir az sonra yenidən cəhd edin.",
+    "suggest_translation": "Tərcümə təklif et",
+    "options": {
+      "lang": {
+        "AZ_LATIN": "Azərbaycanca (latın)",
+        "AZ_ARABIC": "Azərbaycanca (ərəb qrafikası)",
+        "AZ_CYRILLIC": "Azərbaycanca (kiril)",
+        "FA": "Farsca",
+        "AR": "Ərəbcə",
+        "TR": "Türkcə",
+        "RU": "Rusca",
+        "EN": "İngiliscə"
+      },
+      "genre": {
+        "POEM": "Şeir",
+        "PROSE": "Nəsr",
+        "PLAY": "Dram",
+        "ESSAY": "Esse",
+        "PHILOSOPHY": "Fəlsəfə",
+        "LETTER": "Məktub",
+        "MEMOIR": "Xatirə"
+      },
+      "form": {
+        "GHAZAL": "Qəzəl",
+        "MASNAVI": "Məsnəvi",
+        "RUBAI": "Rübai",
+        "QASIDA": "Qəsidə",
+        "MURABBA": "Mürəbbe",
+        "FREE_VERSE": "Sərbəst şeir",
+        "OTHER": "Digər"
+      },
+      "ttype": {
+        "TRANSLATION": "Tərcümə",
+        "TRANSLITERATION": "Transliterasiya",
+        "MODERNIZATION": "Müasir dilə uyğunlaşdırma"
+      },
+      "atype": {
+        "POET": "Şair",
+        "WRITER": "Yazıçı",
+        "PLAYWRIGHT": "Dramaturq",
+        "PHILOSOPHER": "Filosof",
+        "CRITIC": "Tənqidçi"
+      }
+    }
   }
 }

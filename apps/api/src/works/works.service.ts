@@ -24,6 +24,11 @@ export class WorksService {
       ...(query.authorSlug && {
         author: { slug: query.authorSlug },
       }),
+      ...(query.q && {
+        OR: (['titleAz', 'titleRu', 'titleEn'] as const).map((field) => ({
+          [field]: { contains: query.q, mode: 'insensitive' as const },
+        })),
+      }),
     };
 
     const [data, total] = await this.prisma.$transaction([

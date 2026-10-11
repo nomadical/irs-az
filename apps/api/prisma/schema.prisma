@@ -310,8 +310,11 @@ model Submission {
   type   SubmissionType
   status SubmissionStatus @default(PENDING)
 
-  userId String
-  user   User   @relation(fields: [userId], references: [id])
+  // Contributor account, or contact details for anonymous public submissions
+  userId       String?
+  user         User?   @relation(fields: [userId], references: [id])
+  contactName  String?
+  contactEmail String?
 
   payload Json
 

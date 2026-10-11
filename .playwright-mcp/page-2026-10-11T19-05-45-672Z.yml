@@ -1,0 +1,69 @@
+- generic [ref=f1e1]:
+  - banner [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - link [ref=f1e4] [cursor=pointer]:
+        - /url: /az
+        - text: IRS◆
+        - emphasis [ref=f1e5]: AZ
+      - navigation [ref=f1e6]:
+        - link "Şairlər" [ref=f1e7] [cursor=pointer]:
+          - /url: /az/authors?type=POET
+        - link "Yazıçılar" [ref=f1e8] [cursor=pointer]:
+          - /url: /az/authors?type=WRITER
+        - link "Filosoflar" [ref=f1e9] [cursor=pointer]:
+          - /url: /az/authors?type=PHILOSOPHER
+        - link "Əsərlər" [ref=f1e10] [cursor=pointer]:
+          - /url: /az/works
+        - link "Axtarış" [ref=f1e11] [cursor=pointer]:
+          - /url: /az/search
+      - generic [ref=f1e12]:
+        - generic [ref=f1e13]:
+          - button "AZ" [ref=f1e14] [cursor=pointer]
+          - button "RU" [ref=f1e15] [cursor=pointer]
+          - button "EN" [ref=f1e16] [cursor=pointer]
+        - button "Toggle theme" [ref=f1e17] [cursor=pointer]: ◑
+    - generic [ref=f1e18]: 11.10.2026 · Bakı · Azərbaycan ədəbiyyatı xəzinəsi
+  - main [ref=f1e20]:
+    - generic [ref=f1e21]:
+      - generic [ref=f1e22]:
+        - link "Məhəmməd Füzuli" [ref=f1e23] [cursor=pointer]:
+          - /url: /az/authors/fuzuli
+        - generic [ref=f1e24]: ›
+        - link "divan-fa-ghazal" [ref=f1e25] [cursor=pointer]:
+          - /url: /az/collections/divan-fa-ghazal
+        - generic [ref=f1e26]: ›
+        - generic [ref=f1e27]: شمارهٔ ۳۹۴
+      - generic [ref=f1e28]:
+        - heading "شمارهٔ ۳۹۴" [level=1] [ref=f1e29]
+        - generic [ref=f1e30]:
+          - generic [ref=f1e31]: poem
+          - generic [ref=f1e33]: ghazal
+      - generic [ref=f1e34]: ◆ ── ◆ ── ◆
+      - generic [ref=f1e35]:
+        - generic [ref=f1e36]:
+          - button "Appearance" [ref=f1e38] [cursor=pointer]: Aa
+          - button "Əsl mətn" [active] [ref=f1e40] [cursor=pointer]
+        - generic [ref=f1e54]:
+          - paragraph [ref=f1e55]: به یاد خاک درش گرچه ای سرشک دویدیبهیچ وجه بگرد مراد خود نرسیدی
+          - paragraph [ref=f1e56]: بدیدن رخش ای دیده چند میل نماییدرین هوس بنما جز بلا چه فایده دیدی
+          - paragraph [ref=f1e57]: دلا بعشق شدی چهره بارها بتو گفتمچنین مکن نشنیدی هزار طعنه شنیدی
+          - paragraph [ref=f1e58]: غزال من ز تو بی وجه بود میل رقیبانتو آهویی عجب است این که از سکان نرمیدی
+          - paragraph [ref=f1e59]: ترا چه شد که چنین بی جهت بتیغ تغافلعلاقه که میان من و تو بود بریدی
+          - paragraph [ref=f1e60]: اگرچه هست ترا همچو ما هزار بلاکشهزار شکر که ما را ز بهر جور گزیدی
+          - paragraph [ref=f1e61]: نمی کشی قدم از رهگذار عشق فضولیبسی ملامت ازین رهگذر اگرچه کشیدی
+      - paragraph [ref=f1e43]: https://ganjoor.net/fozooli/divan/ghazal/sh394
+      - generic [ref=f1e44]:
+        - link "← Əvvəlkiشمارهٔ ۳۹۳" [ref=f1e45] [cursor=pointer]:
+          - /url: /az/works/ganjoor-117099
+          - generic [ref=f1e46]: ← Əvvəlki
+          - text: شمارهٔ ۳۹۳
+        - link "Növbəti →شمارهٔ ۳۹۵" [ref=f1e47] [cursor=pointer]:
+          - /url: /az/works/ganjoor-117101
+          - generic [ref=f1e48]: Növbəti →
+          - text: شمارهٔ ۳۹۵
+  - contentinfo [ref=f1e49]:
+    - generic [ref=f1e50]:
+      - generic [ref=f1e51]: ◆ ◆ ◆
+      - paragraph [ref=f1e52]: IRS.AZ — Azərbaycan ədəbiyyatı, fəlsəfəsi və mədəniyyəti
+  - button "Open Next.js Dev Tools" [ref=f1e67] [cursor=pointer]
+  - alert [ref=f1e53]

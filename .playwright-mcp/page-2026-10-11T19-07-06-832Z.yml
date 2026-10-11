@@ -1,0 +1,67 @@
+- generic [active] [ref=f4e1]:
+  - banner [ref=f4e2]:
+    - generic [ref=f4e3]:
+      - link [ref=f4e4] [cursor=pointer]:
+        - /url: /az
+        - text: IRS◆
+        - emphasis [ref=f4e5]: AZ
+      - navigation [ref=f4e6]:
+        - link "Şairlər" [ref=f4e7] [cursor=pointer]:
+          - /url: /az/authors?type=POET
+        - link "Yazıçılar" [ref=f4e8] [cursor=pointer]:
+          - /url: /az/authors?type=WRITER
+        - link "Filosoflar" [ref=f4e9] [cursor=pointer]:
+          - /url: /az/authors?type=PHILOSOPHER
+        - link "Əsərlər" [ref=f4e10] [cursor=pointer]:
+          - /url: /az/works
+        - link "Axtarış" [ref=f4e11] [cursor=pointer]:
+          - /url: /az/search
+      - generic [ref=f4e12]:
+        - generic [ref=f4e13]:
+          - button "AZ" [ref=f4e14] [cursor=pointer]
+          - button "RU" [ref=f4e15] [cursor=pointer]
+          - button "EN" [ref=f4e16] [cursor=pointer]
+        - button "Toggle theme" [ref=f4e17] [cursor=pointer]: ◐
+    - generic [ref=f4e18]: 11.10.2026 · Bakı · Azərbaycan ədəbiyyatı xəzinəsi
+  - main [ref=f4e20]:
+    - generic [ref=f4e21]:
+      - generic [ref=f4e22]:
+        - link "Məhəmməd Füzuli" [ref=f4e23] [cursor=pointer]:
+          - /url: /az/authors/fuzuli
+        - generic [ref=f4e24]: ›
+        - link "divan-fa-ghazal" [ref=f4e25] [cursor=pointer]:
+          - /url: /az/collections/divan-fa-ghazal
+        - generic [ref=f4e26]: ›
+        - generic [ref=f4e27]: شمارهٔ ۳۹۴
+      - generic [ref=f4e28]:
+        - heading "شمارهٔ ۳۹۴" [level=1] [ref=f4e29]
+        - generic [ref=f4e30]:
+          - generic [ref=f4e31]: poem
+          - generic [ref=f4e33]: ghazal
+      - generic [ref=f4e34]: ◆ ── ◆ ── ◆
+      - generic [ref=f4e35]:
+        - generic [ref=f4e36]:
+          - button "Appearance" [ref=f4e38] [cursor=pointer]: Aa
+          - button "Əsl mətn" [ref=f4e40] [cursor=pointer]
+        - paragraph [ref=f4e42]: Azərbaycanca tərcümə hələ əlavə olunmayıb.
+      - paragraph [ref=f4e43]: https://ganjoor.net/fozooli/divan/ghazal/sh394
+      - paragraph [ref=f4e44]:
+        - link "+ Tərcümə təklif et" [ref=f4e45] [cursor=pointer]:
+          - /url: /az/contribute?type=translation&work=ganjoor-117100
+      - generic [ref=f4e46]:
+        - link "← Əvvəlkiشمارهٔ ۳۹۳" [ref=f4e47] [cursor=pointer]:
+          - /url: /az/works/ganjoor-117099
+          - generic [ref=f4e48]: ← Əvvəlki
+          - text: شمارهٔ ۳۹۳
+        - link "Növbəti →شمارهٔ ۳۹۵" [ref=f4e49] [cursor=pointer]:
+          - /url: /az/works/ganjoor-117101
+          - generic [ref=f4e50]: Növbəti →
+          - text: شمارهٔ ۳۹۵
+  - contentinfo [ref=f4e51]:
+    - generic [ref=f4e52]:
+      - generic [ref=f4e53]: ◆ ◆ ◆
+      - paragraph [ref=f4e54]: IRS.AZ — Azərbaycan ədəbiyyatı, fəlsəfəsi və mədəniyyəti
+      - paragraph [ref=f4e55]:
+        - link "Töhfə ver" [ref=f4e56] [cursor=pointer]:
+          - /url: /az/contribute
+  - alert [ref=f4e57]

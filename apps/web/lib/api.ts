@@ -70,6 +70,10 @@ export const api = {
     fetcher(`/blog${params ? `?${params}` : ''}`),
   getBlogPost: (slug: string) => fetcher(`/blog/${slug}`),
 
+  // Public submissions (anonymous "Contribute" form)
+  submitPublic: (data: PublicSubmission) =>
+    fetcher<{ ok: true }>('/submissions/public', { method: 'POST', body: JSON.stringify(data) }),
+
   // Sitemap
   getSitemap: () =>
     fetcher<SitemapEntries>('/sitemap', { next: { revalidate: 3600 } }),
@@ -97,4 +101,14 @@ interface SitemapEntries {
   collections: SitemapEntry[];
   works: SitemapEntry[];
   blog: SitemapEntry[];
+}
+
+export interface PublicSubmission {
+  type: 'WORK' | 'TRANSLATION' | 'AUTHOR';
+  payload: Record<string, unknown>;
+  contactName: string;
+  contactEmail: string;
+  sourceNote?: string;
+  /** Honeypot */
+  website?: string;
 }

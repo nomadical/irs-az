@@ -26,7 +26,8 @@
     "authors": "Authors",
     "works": "Works",
     "search": "Search",
-    "blog": "Blog"
+    "blog": "Blog",
+    "contribute": "Contribute"
   },
   "authors": {
     "title": "Authors",
@@ -62,5 +63,99 @@
   "theme": {
     "light": "Light",
     "dark": "Dark"
+  },
+  "contribute": {
+    "title": "Contribute",
+    "intro": "IRS.AZ is built together. Send us texts, translations and information about authors. Editors will review them and add them to the site.",
+    "tab_work": "Work",
+    "tab_translation": "Translation",
+    "tab_author": "Author",
+    "section_text": "Text",
+    "section_source": "Source",
+    "section_contact": "Contact",
+    "author": "Author",
+    "author_choose": "Choose an author",
+    "author_missing": "Author not listed?",
+    "author_suggest": "Suggest an author",
+    "title_az": "Title (Azerbaijani)",
+    "title_ru": "Title (Russian)",
+    "original_lang": "Original language",
+    "genre": "Genre",
+    "form": "Form",
+    "year": "Year",
+    "body": "Text",
+    "body_hint": "One verse per line, a blank line between stanzas.",
+    "work": "Work",
+    "work_search": "Search by title",
+    "work_none": "Nothing found",
+    "work_change": "Change",
+    "work_required": "Choose the work this translation belongs to.",
+    "language": "Translation language",
+    "translation_type": "Type",
+    "translator": "Translator",
+    "translator_note": "Translator's note",
+    "name_az": "Name (Azerbaijani)",
+    "name_ru": "Name (Russian)",
+    "name_en": "Name (English)",
+    "author_type": "Occupation",
+    "born": "Year of birth",
+    "died": "Year of death",
+    "bio": "Short biography",
+    "source": "Source",
+    "source_hint": "Book, publisher and year, or a link. E.g. Fuzuli. Selected Works, Azarnashr, 1958.",
+    "contact_name": "Your name",
+    "contact_email": "Email",
+    "contact_hint": "We'll only use your email to contact you about this submission.",
+    "optional": "optional",
+    "submit": "Send",
+    "sending": "Sending…",
+    "success_title": "Thank you!",
+    "success_body": "Your submission has reached our editors. Once reviewed, it will be published on the site.",
+    "success_again": "Send another",
+    "error_generic": "Couldn't send. Please check the fields and try again.",
+    "error_rate": "Too many submissions. Please try again a little later.",
+    "suggest_translation": "Suggest a translation",
+    "options": {
+      "lang": {
+        "AZ_LATIN": "Azerbaijani (Latin)",
+        "AZ_ARABIC": "Azerbaijani (Arabic script)",
+        "AZ_CYRILLIC": "Azerbaijani (Cyrillic)",
+        "FA": "Persian",
+        "AR": "Arabic",
+        "TR": "Turkish",
+        "RU": "Russian",
+        "EN": "English"
+      },
+      "genre": {
+        "POEM": "Poetry",
+        "PROSE": "Prose",
+        "PLAY": "Drama",
+        "ESSAY": "Essay",
+        "PHILOSOPHY": "Philosophy",
+        "LETTER": "Letter",
+        "MEMOIR": "Memoir"
+      },
+      "form": {
+        "GHAZAL": "Ghazal",
+        "MASNAVI": "Masnavi",
+        "RUBAI": "Rubai",
+        "QASIDA": "Qasida",
+        "MURABBA": "Murabba",
+        "FREE_VERSE": "Free verse",
+        "OTHER": "Other"
+      },
+      "ttype": {
+        "TRANSLATION": "Translation",
+        "TRANSLITERATION": "Transliteration",
+        "MODERNIZATION": "Modernization"
+      },
+      "atype": {
+        "POET": "Poet",
+        "WRITER": "Writer",
+        "PLAYWRIGHT": "Playwright",
+        "PHILOSOPHER": "Philosopher",
+        "CRITIC": "Critic"
+      }
+    }
   }
 }

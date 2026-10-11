@@ -137,7 +137,9 @@ export default function AdminSubmissionsPage() {
                     {(sub.payload as any)?.authorName || '—'}
                   </td>
                   <td className="muted">
-                    {sub.user?.name || sub.user?.username}
+                    {sub.user?.name || sub.user?.username || (
+                      <a href={`mailto:${sub.contactEmail}`}>{sub.contactName}</a>
+                    )}
                   </td>
                   <td className="muted">{formatDate(sub.createdAt)}</td>
                   <td>

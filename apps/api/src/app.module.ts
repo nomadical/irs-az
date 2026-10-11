@@ -1,5 +1,6 @@
 import { Module } from '@nestjs/common';
 import { ConfigModule } from '@nestjs/config';
+import { ThrottlerModule } from '@nestjs/throttler';
 import { PrismaModule } from './prisma/prisma.module';
 import { AuthModule } from './auth/auth.module';
 import { UsersModule } from './users/users.module';
@@ -16,6 +17,8 @@ import { SitemapModule } from './sitemap/sitemap.module';
 @Module({
   imports: [
     ConfigModule.forRoot({ isGlobal: true }),
+    // Limits apply only where ClientIpThrottlerGuard is used; routes set their own via @Throttle
+    ThrottlerModule.forRoot([{ ttl: 60_000, limit: 60 }]),
     PrismaModule,
     AuthModule,
     UsersModule,
