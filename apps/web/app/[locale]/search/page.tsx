@@ -95,9 +95,10 @@ export default function SearchPage() {
                   fontSize: '0.75rem',
                   color: 'var(--muted)',
                 }}
-              >
-                {hit.authorNameAz}
-              </span>
+                dangerouslySetInnerHTML={{
+                  __html: hit._formatted?.authorNameAz || hit.authorNameAz,
+                }}
+              />
               {hit._formatted?.body && (
                 <span
                   style={{

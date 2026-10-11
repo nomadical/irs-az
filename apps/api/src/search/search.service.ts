@@ -143,10 +143,16 @@ export class SearchService implements OnModuleInit {
           const title: string = hit.titleAz ?? '';
           const titleStarts = [...matchStarts(title, mp.titleAz), ...matchStarts(title, mp.titleAzPlain, true)];
           const bodyStarts = body ? [...matchStarts(body, mp.body), ...matchStarts(body, mp.bodyPlain, true)] : [];
+          const author: string = hit.authorNameAz ?? '';
+          const authorStarts = [
+            ...matchStarts(author, mp.authorNameAz),
+            ...matchStarts(author, mp.authorNamePlain, true),
+          ];
           return {
             ...hit,
             _formatted: {
               titleAz: highlight(title, terms, titleStarts),
+              authorNameAz: highlight(author, terms, authorStarts),
               body:
                 (body && snippet(body, terms, bodyStarts)) ??
                 (bodyRu && snippet(bodyRu, terms, matchStarts(bodyRu, mp.bodyRu))) ??
