@@ -1,0 +1,115 @@
+import * as fs from 'fs';
+import * as path from 'path';
+import matter from 'gray-matter';
+import { getDb } from './db';
+import { renderMarkdown } from '../utils/markdown';
+import type { TranslationFrontmatter } from '../types';
+
+const TRANSLATIONS_DIR = path.resolve(__dirname, '../../data/translations');
+
+interface TranslationMd {
+  frontmatter: TranslationFrontmatter;
+  body: string;
+  filePath: string;
+}
+
+function loadTranslationFiles(): TranslationMd[] {
+  if (!fs.existsSync(TRANSLATIONS_DIR)) return [];
+
+  return fs
+    .readdirSync(TRANSLATIONS_DIR)
+    .filter((f) => f.endsWith('.md'))
+    .map((f) => {
+      const filePath = path.join(TRANSLATIONS_DIR, f);
+      const raw = fs.readFileSync(filePath, 'utf-8');
+      const { data, content } = matter(raw);
+      return {
+        frontmatter: data as TranslationFrontmatter,
+        body: content.trim(),
+        filePath,
+      };
+    });
+}
+
+export async function importTranslations(opts: {
+  dryRun?: boolean;
+  authorSlug?: string;
+  publish?: boolean;
+}) {
+  const db = getDb();
+  const files = loadTranslationFiles();
+
+  // If filtering by author, we need to resolve which work slugs belong to that author
+  let allowedWorkSlugs: Set<string> | null = null;
+  if (opts.authorSlug) {
+    const author = await db.author.findUnique({ where: { slug: opts.authorSlug } });
+    if (author) {
+      const works = await db.work.findMany({
+        where: { authorId: author.id },
+        select: { slug: true },
+      });
+      allowedWorkSlugs = new Set(works.map((w) => w.slug));
+    }
+  }
+
+  const filtered = allowedWorkSlugs
+    ? files.filter((f) => allowedWorkSlugs!.has(f.frontmatter.workSlug))
+    : files;
+
+  console.log(`Importing ${filtered.length} translation(s)...`);
+
+  for (const { frontmatter: fm, body } of filtered) {
+    // Resolve work
+    const work = await db.work.findUnique({ where: { slug: fm.workSlug } });
+    if (!work) {
+      console.warn(`  Skipping translation: work "${fm.workSlug}" not found`);
+      continue;
+    }
+
+    const bodyHtml = body ? renderMarkdown(body) : null;
+
+    if (opts.dryRun) {
+      console.log(
+        `  [DRY RUN] Would upsert translation: ${fm.workSlug} / ${fm.language} / ${fm.type}`,
+      );
+      continue;
+    }
+
+    await db.translation.upsert({
+      where: {
+        workId_language_type: {
+          workId: work.id,
+          language: fm.language,
+          type: fm.type,
+        },
+      },
+      create: {
+        workId: work.id,
+        language: fm.language,
+        type: fm.type,
+        scriptDirection: fm.scriptDirection ?? 'LTR',
+        body,
+        bodyHtml,
+        translator: fm.translator ?? null,
+        translatorNote: fm.translatorNote ?? null,
+        year: fm.year ?? null,
+        sourceNote: fm.sourceNote ?? null,
+        isDefault: fm.isDefault ?? false,
+        status: opts.publish ? 'PUBLISHED' : (fm.status ?? 'DRAFT'),
+      },
+      update: {
+        scriptDirection: fm.scriptDirection ?? 'LTR',
+        body,
+        bodyHtml,
+        translator: fm.translator ?? null,
+        translatorNote: fm.translatorNote ?? null,
+        year: fm.year ?? null,
+        sourceNote: fm.sourceNote ?? null,
+        isDefault: fm.isDefault ?? false,
+        status: opts.publish ? 'PUBLISHED' : (fm.status ?? 'DRAFT'),
+      },
+    });
+
+    console.log(`  Upserted translation: ${fm.workSlug} / ${fm.language} / ${fm.type}`);
+  }
+}

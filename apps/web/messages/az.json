@@ -1,0 +1,65 @@
+{
+  "site": {
+    "name": "IRS.AZ",
+    "tagline": "◆  Şairlər  ·  Yazıçılar  ·  Filosoflar  ·  Əsərlər  ·  Tərcümələr  ◆",
+    "description": "Azərbaycan ədəbiyyatı, fəlsəfəsi və mədəniyyəti"
+  },
+  "home": {
+    "featured_label": "Bu həftənin şairi",
+    "read_more": "Tam səhifə",
+    "centuries_label": "Əsrlər üzrə",
+    "authors_label": "Müəlliflər",
+    "all_authors": "Bütün müəlliflər →",
+    "recent_label": "Son əlavələr",
+    "genres_label": "Janra görə",
+    "recent_works_label": "Son əlavə olunan əsərlər",
+    "ghazals": "Qəzəllər",
+    "poems": "Poemalar",
+    "coming_soon": "Tezliklə daha çox əsər əlavə olunacaq..."
+  },
+  "nav": {
+    "home": "Ana səhifə",
+    "poets": "Şairlər",
+    "writers": "Yazıçılar",
+    "philosophers": "Filosoflar",
+    "authors": "Müəlliflər",
+    "works": "Əsərlər",
+    "search": "Axtarış",
+    "blog": "Bloq"
+  },
+  "authors": {
+    "title": "Müəlliflər",
+    "featured": "Həftənin müəllifi",
+    "works_count": "{count} əsər",
+    "born": "d.",
+    "died": "ö.",
+    "circa": "təx."
+  },
+  "works": {
+    "title": "Əsərlər",
+    "prev": "Əvvəlki",
+    "next": "Növbəti",
+    "original": "Əsl mətn",
+    "translation": "Tərcümə",
+    "parallel": "Paralel"
+  },
+  "search": {
+    "placeholder": "Axtar: müəllif, əsər, söz...",
+    "results": "{count} nəticə",
+    "no_results": "Heç nə tapılmadı"
+  },
+  "common": {
+    "read_more": "Ətraflı",
+    "all": "Hamısı",
+    "century": "{n}-ci əsr",
+    "poem": "Şeir",
+    "prose": "Nəsr",
+    "play": "Dram",
+    "essay": "Esse",
+    "philosophy": "Fəlsəfə"
+  },
+  "theme": {
+    "light": "İşıqlı",
+    "dark": "Qaranlıq"
+  }
+}

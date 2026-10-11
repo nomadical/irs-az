@@ -1,0 +1,65 @@
+{
+  "site": {
+    "name": "IRS.AZ",
+    "tagline": "◆  Поэты  ·  Писатели  ·  Философы  ·  Произведения  ·  Переводы  ◆",
+    "description": "Азербайджанская литература, философия и культура"
+  },
+  "home": {
+    "featured_label": "Поэт недели",
+    "read_more": "Подробнее",
+    "centuries_label": "По векам",
+    "authors_label": "Авторы",
+    "all_authors": "Все авторы →",
+    "recent_label": "Последние добавления",
+    "genres_label": "По жанру",
+    "recent_works_label": "Последние добавленные произведения",
+    "ghazals": "Газели",
+    "poems": "Поэмы",
+    "coming_soon": "Скоро будет добавлено больше произведений..."
+  },
+  "nav": {
+    "home": "Главная",
+    "poets": "Поэты",
+    "writers": "Писатели",
+    "philosophers": "Философы",
+    "authors": "Авторы",
+    "works": "Произведения",
+    "search": "Поиск",
+    "blog": "Блог"
+  },
+  "authors": {
+    "title": "Авторы",
+    "featured": "Автор недели",
+    "works_count": "{count} произв.",
+    "born": "р.",
+    "died": "у.",
+    "circa": "ок."
+  },
+  "works": {
+    "title": "Произведения",
+    "prev": "Предыдущее",
+    "next": "Следующее",
+    "original": "Оригинал",
+    "translation": "Перевод",
+    "parallel": "Параллельный"
+  },
+  "search": {
+    "placeholder": "Поиск: автор, произведение, слово...",
+    "results": "{count} результатов",
+    "no_results": "Ничего не найдено"
+  },
+  "common": {
+    "read_more": "Подробнее",
+    "all": "Все",
+    "century": "{n} век",
+    "poem": "Поэзия",
+    "prose": "Проза",
+    "play": "Драма",
+    "essay": "Эссе",
+    "philosophy": "Философия"
+  },
+  "theme": {
+    "light": "Светлая",
+    "dark": "Тёмная"
+  }
+}

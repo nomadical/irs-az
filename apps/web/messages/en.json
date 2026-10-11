@@ -1,0 +1,65 @@
+{
+  "site": {
+    "name": "IRS.AZ",
+    "tagline": "◆  Poets  ·  Writers  ·  Philosophers  ·  Works  ·  Translations  ◆",
+    "description": "Azerbaijani literature, philosophy, and culture"
+  },
+  "home": {
+    "featured_label": "Poet of the week",
+    "read_more": "Read more",
+    "centuries_label": "By century",
+    "authors_label": "Authors",
+    "all_authors": "All authors →",
+    "recent_label": "Recent additions",
+    "genres_label": "By genre",
+    "recent_works_label": "Recently added works",
+    "ghazals": "Ghazals",
+    "poems": "Poems",
+    "coming_soon": "More works will be added soon..."
+  },
+  "nav": {
+    "home": "Home",
+    "poets": "Poets",
+    "writers": "Writers",
+    "philosophers": "Philosophers",
+    "authors": "Authors",
+    "works": "Works",
+    "search": "Search",
+    "blog": "Blog"
+  },
+  "authors": {
+    "title": "Authors",
+    "featured": "Author of the Week",
+    "works_count": "{count} works",
+    "born": "b.",
+    "died": "d.",
+    "circa": "c."
+  },
+  "works": {
+    "title": "Works",
+    "prev": "Previous",
+    "next": "Next",
+    "original": "Original",
+    "translation": "Translation",
+    "parallel": "Parallel"
+  },
+  "search": {
+    "placeholder": "Search: author, work, word...",
+    "results": "{count} results",
+    "no_results": "No results found"
+  },
+  "common": {
+    "read_more": "Read more",
+    "all": "All",
+    "century": "{n}th century",
+    "poem": "Poetry",
+    "prose": "Prose",
+    "play": "Drama",
+    "essay": "Essay",
+    "philosophy": "Philosophy"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  }
+}

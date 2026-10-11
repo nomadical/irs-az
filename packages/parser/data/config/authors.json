@@ -1,0 +1,481 @@
+[
+  {
+    "slug": "fuzuli",
+    "nameAz": "Məhəmməd Füzuli",
+    "nameRu": "Физули",
+    "nameFa": "فضولی",
+    "nameEn": "Fuzuli",
+    "type": "POET",
+    "period": "XVI əsr",
+    "writingLangs": ["AZ_ARABIC", "FA", "AR"],
+    "wikipedia": {
+      "az": "Məhəmməd Füzuli",
+      "ru": "Физули"
+    },
+    "wikisource": {
+      "az": "Məhəmməd Füzuli"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/fozooli",
+      "collections": [
+        {
+          "catUrl": "/fozooli/divan/ghazal",
+          "collectionSlug": "divan-fa-ghazal",
+          "form": "GHAZAL"
+        },
+        {
+          "catUrl": "/fozooli/divan/ghaside",
+          "collectionSlug": "divan-fa-qasida",
+          "form": "QASIDA"
+        },
+        {
+          "catUrl": "/fozooli/divan/robaee",
+          "collectionSlug": "divan-fa-rubai",
+          "form": "RUBAI"
+        },
+        {
+          "catUrl": "/fozooli/divan/ghete",
+          "collectionSlug": "divan-fa-qite",
+          "form": "OTHER"
+        },
+        {
+          "catUrl": "/fozooli/saghiname",
+          "collectionSlug": "saqiname",
+          "form": "MASNAVI"
+        }
+      ]
+    },
+    "collections": [
+      {
+        "slug": "divan-az",
+        "titleAz": "Azərbaycan dilində divan",
+        "titleRu": "Диван на азербайджанском языке",
+        "genre": "POEM",
+        "originalLang": "AZ_ARABIC",
+        "year": 1556
+      },
+      {
+        "slug": "divan-fa-ghazal",
+        "titleAz": "Fars dilində divan – Qəzəllər",
+        "titleRu": "Диван на фарси — Газели",
+        "titleFa": "دیوان فارسی – غزلیات",
+        "genre": "POEM",
+        "originalLang": "FA"
+      },
+      {
+        "slug": "divan-fa-qasida",
+        "titleAz": "Fars dilində divan – Qəsidələr",
+        "titleRu": "Диван на фарси — Касыды",
+        "titleFa": "دیوان فارسی – قصاید",
+        "genre": "POEM",
+        "originalLang": "FA"
+      },
+      {
+        "slug": "divan-fa-rubai",
+        "titleAz": "Fars dilində divan – Rübailər",
+        "titleRu": "Диван на фарси — Рубаи",
+        "titleFa": "دیوان فارسی – رباعیات",
+        "genre": "POEM",
+        "originalLang": "FA"
+      },
+      {
+        "slug": "divan-fa-qite",
+        "titleAz": "Fars dilində divan – Qitələr",
+        "titleRu": "Диван на фарси — Кыта",
+        "titleFa": "دیوان فارسی – مقطعات",
+        "genre": "POEM",
+        "originalLang": "FA"
+      },
+      {
+        "slug": "saqiname",
+        "titleAz": "Saqinamə",
+        "titleRu": "Сакинаме",
+        "titleFa": "ساقی نامه",
+        "genre": "POEM",
+        "originalLang": "FA"
+      }
+    ]
+  },
+  {
+    "slug": "nizami",
+    "nameAz": "Nizami Gəncəvi",
+    "nameRu": "Низами Гянджеви",
+    "nameFa": "نظامی گنجوی",
+    "nameEn": "Nizami Ganjavi",
+    "type": "POET",
+    "period": "XII əsr",
+    "writingLangs": ["FA"],
+    "wikipedia": {
+      "az": "Nizami Gəncəvi",
+      "ru": "Низами Гянджеви",
+      "en": "Nizami Ganjavi"
+    },
+    "wikisource": {
+      "az": "Nizami Gəncəvi",
+      "az_collection": "nizami-divan-az"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/nezami",
+      "collections": [
+        {
+          "catUrl": "/nezami/5ganj/leyli-majnoon",
+          "collectionSlug": "nizami-leyli-va-macnun",
+          "form": "MASNAVI"
+        },
+        {
+          "catUrl": "/nezami/5ganj/khosro-shirin",
+          "collectionSlug": "nizami-xosrov-va-sirin",
+          "form": "MASNAVI"
+        },
+        {
+          "catUrl": "/nezami/5ganj/7peykar",
+          "collectionSlug": "nizami-heft-peyker",
+          "form": "MASNAVI"
+        },
+        {
+          "catUrl": "/nezami/5ganj/sharafname",
+          "collectionSlug": "nizami-serefname",
+          "form": "MASNAVI"
+        },
+        {
+          "catUrl": "/nezami/5ganj/kheradname",
+          "collectionSlug": "nizami-xerednama",
+          "form": "MASNAVI"
+        },
+        {
+          "catUrl": "/nezami/5ganj/makhzanolasrar",
+          "collectionSlug": "nizami-mexzenul-esrar",
+          "form": "MASNAVI"
+        }
+      ]
+    },
+    "collections": [
+      {
+        "slug": "nizami-divan-az",
+        "titleAz": "Nizami – Seçilmiş əsərlər (AZ)",
+        "titleRu": "Низами — Избранные произведения",
+        "genre": "POEM",
+        "originalLang": "AZ_LATIN"
+      },
+      {
+        "slug": "nizami-leyli-va-macnun",
+        "titleAz": "Leyli və Məcnun",
+        "titleRu": "Лейли и Меджнун",
+        "titleFa": "لیلی و مجنون",
+        "genre": "POEM",
+        "originalLang": "FA"
+      },
+      {
+        "slug": "nizami-xosrov-va-sirin",
+        "titleAz": "Xosrov və Şirin",
+        "titleRu": "Хосров и Ширин",
+        "titleFa": "خسرو و شیرین",
+        "genre": "POEM",
+        "originalLang": "FA"
+      },
+      {
+        "slug": "nizami-heft-peyker",
+        "titleAz": "Yeddi gözəl",
+        "titleRu": "Семь красавиц",
+        "titleFa": "هفت پیکر",
+        "genre": "POEM",
+        "originalLang": "FA"
+      },
+      {
+        "slug": "nizami-serefname",
+        "titleAz": "Şərəfnamə (İskəndərnamə I)",
+        "titleRu": "Шарафнаме (Искандернаме I)",
+        "titleFa": "شرفنامه",
+        "genre": "POEM",
+        "originalLang": "FA"
+      },
+      {
+        "slug": "nizami-xerednama",
+        "titleAz": "Xirədnamə (İskəndərnamə II)",
+        "titleRu": "Хираднаме (Искандернаме II)",
+        "titleFa": "خردنامه",
+        "genre": "POEM",
+        "originalLang": "FA"
+      },
+      {
+        "slug": "nizami-mexzenul-esrar",
+        "titleAz": "Məxzənül-əsrar",
+        "titleRu": "Сокровищница тайн",
+        "titleFa": "مخزن الاسرار",
+        "genre": "POEM",
+        "originalLang": "FA"
+      }
+    ]
+  },
+  {
+    "slug": "xaqani",
+    "nameAz": "Xaqani Şirvani",
+    "nameRu": "Хагани Ширвани",
+    "nameFa": "خاقانی شروانی",
+    "nameEn": "Khaqani Shirvani",
+    "type": "POET",
+    "period": "XII əsr",
+    "writingLangs": ["FA"],
+    "wikipedia": {
+      "az": "Xaqani Şirvani",
+      "ru": "Хагани Ширвани"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/khaghani",
+      "autoDiscover": true,
+      "collections": []
+    },
+    "collections": []
+  },
+  {
+    "slug": "nasimi",
+    "nameAz": "İmadəddin Nəsimi",
+    "nameRu": "Насими",
+    "nameFa": "نسیمی",
+    "nameEn": "Nasimi",
+    "type": "POET",
+    "period": "XIV-XV əsr",
+    "writingLangs": ["AZ_ARABIC", "FA", "AR"],
+    "wikipedia": {
+      "az": "İmadəddin Nəsimi",
+      "ru": "Насими"
+    },
+    "wikisource": {
+      "az": "İmadəddin Nəsimi",
+      "az_collection": "nasimi-divan-az"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/nasimi",
+      "autoDiscover": true,
+      "collections": []
+    },
+    "collections": [
+      {
+        "slug": "nasimi-divan-az",
+        "titleAz": "Nəsimi – Azərbaycan dilində divan",
+        "titleRu": "Насими — Диван на азербайджанском",
+        "genre": "POEM",
+        "originalLang": "AZ_ARABIC"
+      }
+    ]
+  },
+  {
+    "slug": "mahsati",
+    "nameAz": "Məhsəti Gəncəvi",
+    "nameRu": "Мехсети Гянджеви",
+    "nameFa": "مهستی گنجوی",
+    "nameEn": "Mahsati Ganjavi",
+    "type": "POET",
+    "period": "XII əsr",
+    "writingLangs": ["FA"],
+    "wikipedia": {
+      "az": "Məhsəti Gəncəvi",
+      "ru": "Мехсети Гянджеви"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/mahsati",
+      "autoDiscover": true,
+      "collections": []
+    },
+    "collections": []
+  },
+  {
+    "slug": "xetai",
+    "nameAz": "Şah İsmayıl Xətai",
+    "nameRu": "Шах Исмаил Хатаи",
+    "nameFa": "شاه اسماعیل ختایی",
+    "nameEn": "Shah Ismail Khatai",
+    "type": "POET",
+    "period": "XV-XVI əsr",
+    "writingLangs": ["AZ_ARABIC", "FA"],
+    "wikipedia": {
+      "az": "Şah İsmayıl Xətai",
+      "ru": "Исмаил I"
+    },
+    "wikisource": {
+      "az": "Şah İsmayıl Xətai",
+      "az_collection": "xetai-divan-az"
+    },
+    "collections": [
+      {
+        "slug": "xetai-divan-az",
+        "titleAz": "Xətai – Azərbaycan dilində divan",
+        "titleRu": "Хатаи — Диван на азербайджанском",
+        "genre": "POEM",
+        "originalLang": "AZ_ARABIC"
+      }
+    ]
+  },
+  {
+    "slug": "vaqif",
+    "nameAz": "Molla Pənah Vaqif",
+    "nameRu": "Молла Панах Вагиф",
+    "nameFa": "ملا پناه واقف",
+    "nameEn": "Molla Panah Vagif",
+    "type": "POET",
+    "period": "XVIII əsr",
+    "writingLangs": ["AZ_ARABIC"],
+    "wikipedia": {
+      "az": "Molla Pənah Vaqif",
+      "ru": "Вагиф"
+    },
+    "wikisource": {
+      "az": "Molla Pənah Vaqif",
+      "az_collection": "vaqif-divan-az"
+    },
+    "collections": [
+      {
+        "slug": "vaqif-divan-az",
+        "titleAz": "Vaqif – Şeirlər",
+        "titleRu": "Вагиф — Стихотворения",
+        "genre": "POEM",
+        "originalLang": "AZ_ARABIC"
+      }
+    ]
+  },
+  {
+    "slug": "axundzade",
+    "nameAz": "Mirzə Fətəli Axundzadə",
+    "nameRu": "Мирза Фатали Ахундзаде",
+    "nameFa": "میرزا فتحعلی آخوندزاده",
+    "nameEn": "Mirza Fatali Akhundov",
+    "type": "PLAYWRIGHT",
+    "period": "XIX əsr",
+    "writingLangs": ["AZ_ARABIC", "FA"],
+    "wikipedia": {
+      "az": "Mirzə Fətəli Axundzadə",
+      "ru": "Ахундов, Мирза Фатали"
+    },
+    "wikisource": {
+      "az": "Mirzə Fətəli Axundzadə",
+      "az_collection": "axundzade-pyesler"
+    },
+    "collections": [
+      {
+        "slug": "axundzade-pyesler",
+        "titleAz": "Axundzadə – Komediyalar",
+        "titleRu": "Ахундзаде — Комедии",
+        "genre": "PLAY",
+        "originalLang": "AZ_ARABIC"
+      }
+    ]
+  },
+  {
+    "slug": "sabir",
+    "nameAz": "Mirzə Ələkbər Sabir",
+    "nameRu": "Мирза Алекпер Сабир",
+    "nameEn": "Mirza Alakbar Sabir",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": ["AZ_ARABIC"],
+    "wikipedia": {
+      "az": "Mirzə Ələkbər Sabir",
+      "ru": "Сабир, Мирза Алекпер"
+    },
+    "wikisource": {
+      "az": "Mirzə Ələkbər Sabir",
+      "az_collection": "sabir-hophopname"
+    },
+    "collections": [
+      {
+        "slug": "sabir-hophopname",
+        "titleAz": "Hophopnamə",
+        "titleRu": "Хоп-хопнаме",
+        "genre": "POEM",
+        "originalLang": "AZ_ARABIC"
+      }
+    ]
+  },
+  {
+    "slug": "cavid",
+    "nameAz": "Hüseyn Cavid",
+    "nameRu": "Гусейн Джавид",
+    "nameEn": "Huseyn Javid",
+    "type": "PLAYWRIGHT",
+    "period": "XX əsr",
+    "writingLangs": ["AZ_LATIN", "AZ_ARABIC"],
+    "wikipedia": {
+      "az": "Hüseyn Cavid",
+      "ru": "Джавид, Гусейн"
+    },
+    "wikisource": {
+      "az": "Hüseyn Cavid",
+      "az_collection": "cavid-pyesler"
+    },
+    "collections": [
+      {
+        "slug": "cavid-pyesler",
+        "titleAz": "Cavid – Pyeslər",
+        "titleRu": "Джавид — Пьесы",
+        "genre": "PLAY",
+        "originalLang": "AZ_LATIN"
+      },
+      {
+        "slug": "cavid-seirler",
+        "titleAz": "Cavid – Şeirlər",
+        "titleRu": "Джавид — Стихотворения",
+        "genre": "POEM",
+        "originalLang": "AZ_LATIN"
+      }
+    ]
+  },
+  {
+    "slug": "cabbarli",
+    "nameAz": "Cəfər Cabbarlı",
+    "nameRu": "Джафар Джаббарлы",
+    "nameEn": "Jafar Jabbarly",
+    "type": "PLAYWRIGHT",
+    "period": "XX əsr",
+    "writingLangs": ["AZ_LATIN", "AZ_ARABIC"],
+    "wikipedia": {
+      "az": "Cəfər Cabbarlı",
+      "ru": "Джаббарлы, Джафар"
+    },
+    "wikisource": {
+      "az": "Cəfər Cabbarlı",
+      "az_collection": "cabbarli-pyesler"
+    },
+    "collections": [
+      {
+        "slug": "cabbarli-pyesler",
+        "titleAz": "Cabbarlı – Pyeslər",
+        "titleRu": "Джаббарлы — Пьесы",
+        "genre": "PLAY",
+        "originalLang": "AZ_LATIN"
+      },
+      {
+        "slug": "cabbarli-seirler",
+        "titleAz": "Cabbarlı – Şeirlər",
+        "titleRu": "Джаббарлы — Стихотворения",
+        "genre": "POEM",
+        "originalLang": "AZ_LATIN"
+      }
+    ]
+  },
+  {
+    "slug": "vurgun",
+    "nameAz": "Səməd Vurğun",
+    "nameRu": "Самед Вургун",
+    "nameEn": "Samad Vurgun",
+    "type": "POET",
+    "period": "XX əsr",
+    "writingLangs": ["AZ_LATIN"],
+    "wikipedia": {
+      "az": "Səməd Vurğun",
+      "ru": "Вургун, Самед"
+    },
+    "wikisource": {
+      "az": "Səməd Vurğun",
+      "az_collection": "vurgun-seirler"
+    },
+    "collections": [
+      {
+        "slug": "vurgun-seirler",
+        "titleAz": "Vurğun – Şeirlər",
+        "titleRu": "Вургун — Стихотворения",
+        "genre": "POEM",
+        "originalLang": "AZ_LATIN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>
+    .bg  { fill: #8E1515; }
+    .gem { fill: #F4EFE6; }
+    @media (prefers-color-scheme: dark) {
+      .bg  { fill: #CC5A5A; }
+      .gem { fill: #1A1410; }
+    }
+  </style>
+  <rect class="bg" width="32" height="32" rx="7"/>
+  <polygon class="gem" points="16,4.5 27.5,16 16,27.5 4.5,16"/>
+</svg>

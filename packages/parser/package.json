@@ -1,0 +1,34 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "parse": "tsx src/index.ts",
+    "scrape:authors": "tsx src/index.ts scrape-authors",
+    "scrape:works": "tsx src/index.ts scrape-works --source wikisource-az",
+    "scrape:ru": "tsx src/index.ts scrape-works --source wikisource-ru",
+    "scrape:fa": "tsx src/index.ts scrape-works --source ganjoor",
+    "import": "tsx src/index.ts import-md",
+    "audit": "tsx src/index.ts audit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.33.0",
+  "dependencies": {
+    "@prisma/client": "^6.19.3",
+    "axios": "^1.15.0",
+    "cheerio": "^1.2.0",
+    "commander": "^14.0.3",
+    "glob": "^13.0.6",
+    "gray-matter": "^4.0.3",
+    "marked": "^15.0.12",
+    "slugify": "^1.6.9"
+  },
+  "devDependencies": {
+    "@types/node": "^22.19.17",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
