@@ -68,6 +68,11 @@
     "essay": "Esse",
     "philosophy": "Fəlsəfə"
   },
+  "skin": {
+    "label": "Görünüş",
+    "clean": "Sadə görünüş",
+    "gazette": "Qəzet görünüşü"
+  },
   "theme": {
     "light": "İşıqlı",
     "dark": "Qaranlıq",
@@ -188,6 +193,7 @@
     "section": "Hissə",
     "appearance": "Görünüş",
     "loading": "Yüklənir…",
+    "more_by_author": "Müəllifin digər əsərləri",
     "maqta": "Məqtə — şairin təxəllüsü olan son beyt",
     "gloss": {
       "GHAZAL": "Qəzəl: eyni qafiyəli beytlərdən (iki misralıq bəndlərdən) qurulan lirik şeir.",
@@ -232,5 +238,19 @@
   "contact": {
     "email_label": "E-poçt",
     "email_soon": "E-poçt ünvanı tezliklə burada olacaq. Hələlik töhfə formundan istifadə edin."
+  },
+  "gallery": {
+    "heading": "Əlyazmalar və miniatürlər",
+    "show_all": "Hamısını göstər ({count})",
+    "show_less": "Azını göstər",
+    "open": "Böyüt: {title}",
+    "close": "Bağla",
+    "previous": "Əvvəlki",
+    "next": "Növbəti",
+    "counter": "{n} / {total}",
+    "view_at": "{museum} saytında bax",
+    "full_size": "Tam ölçü",
+    "public_domain": "İctimai mülkiyyət (CC0)",
+    "titles_note": "Adlar muzeyin kataloqundan, ingilis dilindədir."
   }
 }

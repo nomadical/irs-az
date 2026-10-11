@@ -4,7 +4,7 @@
    ───────────────────────────────────────────────────────────── */
 
 /* ── Fonts ─────────────────────────────────────────────────── */
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;1,8..60,400&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Amiri:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;1,8..60,400&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Amiri:ital,wght@0,400;0,700;1,400&family=PT+Sans:ital,wght@0,400;0,700;1,400&family=PT+Serif:ital,wght@0,400;0,700;1,400&family=Noto+Naskh+Arabic:wght@400;700&display=swap');
 
 /* ── Tokens — Light theme ───────────────────────────────────── */
 :root {
@@ -235,6 +235,7 @@ blockquote {
   gap:         0.5rem;
 }
 
+.dateline-inner { border-top: 0.5px solid var(--rule); padding-top: 0.05rem; }
 .dateline {
   border-bottom: 4px double var(--pomeg);
   font-family:    var(--font-ui);
@@ -286,6 +287,7 @@ blockquote {
   justify-content: center;
   transition:   background 0.12s, color 0.12s;
 }
+.theme-btn .icon { display: none; }
 .theme-btn:hover {
   background:  var(--ink);
   color:       var(--bg);
@@ -453,10 +455,10 @@ blockquote {
   gap:                   0;
 }
 .card-grid--3 {
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 .card-grid--2 {
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
 .card-item {
@@ -472,6 +474,43 @@ blockquote {
 .card-item:hover h3 {
   color: var(--pomeg);
 }
+
+/* Work cards: title, opening lines, author and form */
+.work-card { display: flex; flex-direction: column; gap: 0.35rem; }
+.work-card-title {
+  font-family: var(--font-serif);
+  font-size:   1.05rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+.work-card-meta { margin-top: auto; padding-top: 0.15rem; font-size: 0.78rem; }
+.card-item:hover .work-card-title { color: var(--pomeg); }
+.incipit {
+  font-family: var(--font-body);
+  font-style:  italic;
+  font-size:   0.9rem;
+  line-height: 1.55;
+  color:       var(--warm-brown);
+  margin:      0;
+}
+.incipit:is(:lang(fa), :lang(ar), :lang(az-Arab)) {
+  font-family: var(--font-arabic);
+  font-style:  normal;
+  font-size:   1rem;
+  line-height: 1.8;
+}
+.incipit-line {
+  display:       block;
+  overflow:      hidden;
+  text-overflow: ellipsis;
+  white-space:   nowrap;
+}
+
+.page-header--start { text-align: left; padding-top: 1.5rem; }
+.filter-bar { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+.rule--tight { margin: 1rem 0; }
+.empty-note--center { text-align: center; margin-top: 2rem; }
+.pagination { display: flex; justify-content: center; flex-wrap: wrap; gap: 0.35rem; margin-top: 2rem; }
 
 /* ── Work rows ──────────────────────────────────────────────── */
 .work-row {
@@ -995,6 +1034,21 @@ blockquote {
   line-height: 1.3;
 }
 
+/* More by this author: four other works with their opening lines */
+.more-works {
+  margin-top:  3rem;
+  padding-top: 1.25rem;
+  border-top:  4px double var(--pomeg);
+}
+.more-works-title {
+  font-size:     1.5rem;
+  margin-bottom: 1rem;
+}
+.more-works-title a:hover { color: var(--pomeg); }
+.more-works-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+@media (max-width: 960px) { .more-works-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 480px) { .more-works-grid { grid-template-columns: 1fr; } }
+
 /* Language tabs on reading page */
 .lang-tabs {
   display:         flex;
@@ -1184,6 +1238,7 @@ blockquote {
   text-align:    center;
   margin-top:    2rem;
 }
+.footer .ornament + .footer-text { margin-top: 1rem; }
 .footer-text {
   font-family:   var(--font-ui);
   font-size:     0.68rem;
@@ -1265,6 +1320,45 @@ blockquote {
   font-size:   0.72rem;
   color:       var(--muted);
 }
+
+/* Featured author */
+.featured-name {
+  font-size:      3.25rem;
+  letter-spacing: -0.04em;
+  font-family:    Georgia, serif;
+}
+.featured-meta { justify-content: center; margin-top: 0.3rem; }
+.featured-bio {
+  font-style:  italic;
+  color:       var(--warm-brown);
+  font-size:   1rem;
+  line-height: 1.9;
+  text-align:  left;
+}
+.featured-quote {
+  font-family:    Georgia, serif;
+  font-size:      2.5rem;
+  line-height:    0;
+  vertical-align: -0.3em;
+  margin-right:   0.15rem;
+  color:          var(--pomeg);
+  font-style:     normal;
+}
+.featured-more {
+  display:        inline-block;
+  margin-top:     0.6rem;
+  font-family:    var(--font-ui);
+  font-size:      0.78rem;
+  color:          var(--pomeg);
+  letter-spacing: 0.03em;
+}
+.empty-note { color: var(--muted); font-style: italic; }
+.chip-row { display: flex; gap: 0.25rem; flex-wrap: wrap; }
+.pill--century { min-width: 2.5rem; text-align: center; }
+.home-sidebar-orn { margin: 0.5rem 0 1rem; }
+.home-sidebar-section + .home-sidebar-section { margin-top: 0.75rem; }
+.works-strip > .section-label { padding: 0 0 0.75rem; }
+.works-strip-title { display: block; }
 
 /* ── Poem of the day ────────────────────────────────────── */
 .daily-poem {
@@ -1390,7 +1484,7 @@ blockquote {
   .work-heading { font-size: 2.1rem; }
   .work-heading-original { font-size: 1.15rem; }
 
-  .card-grid--3 { grid-template-columns: 1fr 1fr; }
+  .card-grid--3 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .work-list    { grid-template-columns: 1fr 1fr; }
   .parallel-grid {
     grid-template-columns: 1fr;
@@ -1655,4 +1749,159 @@ blockquote {
 .contribute-guide .page-prose {
   margin-top: 0.75rem;
   font-size:  0.95rem;
+}
+
+/* ── Artwork gallery (manuscript pages and miniatures) ───────── */
+.gallery { margin: 1.5rem 0 2rem; }
+.gallery-heading {
+  font-family:    var(--font-ui);
+  font-size:      0.6rem;
+  font-weight:    400;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color:          var(--pomeg);
+  padding-bottom: 0.3rem;
+  border-bottom:  1px solid var(--rule);
+  margin-bottom:  1rem;
+  display:        flex;
+  align-items:    center;
+  gap:            0.4rem;
+}
+.gallery-heading::before { content: '◆'; font-size: 0.45rem; }
+.gallery-count { color: var(--muted); }
+
+.gallery-grid {
+  list-style:            none;
+  display:               grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap:                   1.25rem 1rem;
+}
+@media (min-width: 40rem) {
+  .gallery-grid { grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr)); }
+}
+.gallery-item { display: flex; flex-direction: column; gap: 0.45rem; }
+.gallery-thumb {
+  display:     block;
+  width:       100%;
+  aspect-ratio: 4 / 5;
+  padding:     0.4rem;
+  background:  var(--surf);
+  border:      1px solid var(--rule);
+  cursor:      zoom-in;
+}
+.gallery-thumb img {
+  width:      100%;
+  height:     100%;
+  object-fit: contain;
+  display:    block;
+}
+.gallery-thumb:hover { border-color: var(--pomeg); }
+.gallery-caption { display: flex; flex-direction: column; gap: 0.15rem; }
+.gallery-title {
+  font-family: var(--font-serif);
+  font-style:  italic;
+  font-size:   0.95rem;
+  line-height: 1.25;
+  display:            -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow:           hidden;
+}
+.gallery-meta {
+  font-family: var(--font-ui);
+  font-size:   0.7rem;
+  color:       var(--muted);
+}
+a.gallery-coll { color: var(--pomeg); text-decoration: none; }
+a.gallery-coll:hover { text-decoration: underline; }
+.gallery-foot {
+  display:     flex;
+  flex-wrap:   wrap;
+  align-items: center;
+  gap:         0.75rem 1rem;
+  margin-top:  1rem;
+}
+.gallery-more { cursor: pointer; }
+.gallery-note {
+  font-family: var(--font-ui);
+  font-size:   0.7rem;
+  color:       var(--muted);
+}
+
+/* Lightbox — native <dialog>, so focus is trapped and Esc closes it */
+.lightbox {
+  margin:     auto;
+  width:      min(68rem, calc(100vw - 2rem));
+  max-height: calc(100dvh - 2rem);
+  padding:    0;
+  border:     1px solid var(--rule);
+  background: var(--bg);
+  color:      var(--ink);
+}
+.lightbox::backdrop { background: rgb(20 15 10 / 0.82); }
+.lightbox-body {
+  display:               grid;
+  grid-template-columns: 1fr;
+  max-height:            calc(100dvh - 2rem);
+  overflow:              auto;
+}
+.lightbox-image {
+  background:      var(--surf);
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  padding:         1rem;
+}
+.lightbox-image img {
+  max-width:  100%;
+  max-height: 60dvh;
+  object-fit: contain;
+  display:    block;
+}
+.lightbox-info {
+  padding:        1rem 1.25rem 1.25rem;
+  display:        flex;
+  flex-direction: column;
+  gap:            0.75rem;
+  font-family:    var(--font-ui);
+  font-size:      0.85rem;
+}
+.lightbox-bar {
+  display:         flex;
+  justify-content: space-between;
+  align-items:     center;
+  border-bottom:   1px solid var(--rule);
+  padding-bottom:  0.5rem;
+}
+.lightbox-counter { color: var(--muted); font-size: 0.75rem; }
+.lightbox-nav { display: flex; gap: 0.35rem; }
+.lightbox-nav button {
+  min-width:   2.25rem;
+  min-height:  2.25rem;
+  font-size:   1.1rem;
+  line-height: 1;
+  background:  none;
+  color:       var(--ink);
+  border:      1px solid var(--control);
+  border-radius: var(--radius);
+  cursor:      pointer;
+}
+.lightbox-nav button:hover { border-color: var(--pomeg); color: var(--pomeg); }
+.lightbox-title {
+  font-family: var(--font-serif);
+  font-style:  italic;
+  font-size:   1.35rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.lightbox-details { list-style: none; display: flex; flex-direction: column; gap: 0.2rem; }
+.lightbox-credit { color: var(--muted); }
+.lightbox-info a { color: var(--pomeg); }
+.lightbox-links { display: flex; flex-wrap: wrap; gap: 0.5rem 1.25rem; }
+.lightbox-license { color: var(--muted); font-size: 0.75rem; }
+
+@media (min-width: 60rem) {
+  .lightbox-body { grid-template-columns: minmax(0, 1fr) 20rem; }
+  .lightbox-image { min-height: 70dvh; }
+  .lightbox-image img { max-height: calc(100dvh - 4rem); }
 }

@@ -5,6 +5,7 @@ import { QueryAuthorsDto } from './dto/query-authors.dto';
 import { CreateAuthorDto } from './dto/create-author.dto';
 import { slugify, uniqueSlug } from '../common/utils/slug';
 import { renderMarkdown } from '../common/utils/markdown';
+import { publishedArtworks } from '../common/utils/artwork';
 import {
   paginationArgs,
   paginatedResult,
@@ -111,6 +112,7 @@ export class AuthorsService {
           },
         },
         tags: { include: { tag: true } },
+        artworks: publishedArtworks,
       },
     });
 

@@ -3,6 +3,7 @@ import { api, notFoundOn404 } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import { pageMetadata } from '@/lib/seo';
 import Link from 'next/link';
+import { ArtworkGallery } from '@/components/artworks/ArtworkGallery';
 
 export const dynamic = 'force-dynamic';
 
@@ -64,6 +65,8 @@ export default async function CollectionPage({ params }: Props) {
         {` · ${collection.works.length} `}
         {locale === 'ru' ? 'произв.' : locale === 'en' ? 'works' : 'əsər'}
       </p>
+
+      <ArtworkGallery artworks={collection.artworks ?? []} locale={locale} />
 
       <div className="ornament" />
 

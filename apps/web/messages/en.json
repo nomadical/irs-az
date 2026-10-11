@@ -68,6 +68,11 @@
     "essay": "Essay",
     "philosophy": "Philosophy"
   },
+  "skin": {
+    "label": "Look",
+    "clean": "Clean look",
+    "gazette": "Gazette look"
+  },
   "theme": {
     "light": "Light",
     "dark": "Dark",
@@ -188,6 +193,7 @@
     "section": "Part",
     "appearance": "Appearance",
     "loading": "Loading…",
+    "more_by_author": "More by this author",
     "maqta": "Maqta — the closing couplet bearing the poet’s pen name",
     "gloss": {
       "GHAZAL": "Ghazal: a lyric poem of couplets (beyts) on a single rhyme.",
@@ -232,5 +238,19 @@
   "contact": {
     "email_label": "Email",
     "email_soon": "Our email address will be here soon. Until then, please use the contribute form."
+  },
+  "gallery": {
+    "heading": "Manuscripts and miniatures",
+    "show_all": "Show all ({count})",
+    "show_less": "Show fewer",
+    "open": "Enlarge: {title}",
+    "close": "Close",
+    "previous": "Previous",
+    "next": "Next",
+    "counter": "{n} / {total}",
+    "view_at": "View at {museum}",
+    "full_size": "Full size",
+    "public_domain": "Public domain (CC0)",
+    "titles_note": "Titles are from the museum's catalogue."
   }
 }

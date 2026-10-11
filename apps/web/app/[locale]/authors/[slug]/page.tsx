@@ -4,6 +4,7 @@ import { localized } from '@/lib/locale';
 import { excerpt, pageMetadata, SITE_URL } from '@/lib/seo';
 import Link from 'next/link';
 import { JsonLd } from '@/components/seo/JsonLd';
+import { ArtworkGallery } from '@/components/artworks/ArtworkGallery';
 
 export const dynamic = 'force-dynamic';
 
@@ -124,6 +125,8 @@ export default async function AuthorPage({ params }: Props) {
           )}
         </div>
       </div>
+
+      <ArtworkGallery artworks={author.artworks ?? []} locale={locale} showCollection initial={6} />
 
       {/* Collections with works */}
       {author.collections?.map((collection: any, idx: number) => (

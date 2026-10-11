@@ -2,6 +2,7 @@ import { Injectable, NotFoundException } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 import { CreateCollectionDto } from './dto/create-collection.dto';
 import { slugify } from '../common/utils/slug';
+import { publishedArtworks } from '../common/utils/artwork';
 
 @Injectable()
 export class CollectionsService {
@@ -28,6 +29,7 @@ export class CollectionsService {
             order: true,
           },
         },
+        artworks: publishedArtworks,
       },
     });
 
