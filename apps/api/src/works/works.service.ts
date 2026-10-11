@@ -102,7 +102,7 @@ export class WorksService {
         },
         translations: {
           where: { status: 'PUBLISHED' },
-          orderBy: [{ isDefault: 'desc' }, { language: 'asc' }],
+          orderBy: [{ isDefault: 'desc' }, { language: 'asc' }, { createdAt: 'asc' }],
           select: {
             id: true,
             language: true,

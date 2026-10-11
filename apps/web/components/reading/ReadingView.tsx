@@ -85,14 +85,25 @@ export function ReadingView({
     return translations.find((tr) => tr.isDefault)?.language ?? availableLangs[0] ?? originalLang;
   });
 
+  // A language can have several translations (different translators); default first
+  const [selectedId, setSelectedId] = useState<string | null>(() => params.get('tr'));
+
   const { prefs, update: updatePrefs } = useReadingPrefs();
 
+  const versions =
+    selectedLang === originalLang ? [] : translations.filter((tr) => tr.language === selectedLang);
   const selectedTranslation =
-    selectedLang === originalLang
-      ? null
-      : translations.find((tr) => tr.language === selectedLang && tr.isDefault) ??
-        translations.find((tr) => tr.language === selectedLang) ??
-        null;
+    versions.find((tr) => tr.id === selectedId) ??
+    versions.find((tr) => tr.isDefault) ??
+    versions[0] ??
+    null;
+
+  /** Translator's name, or the translation type when there is none; numbered if still ambiguous */
+  const versionLabel = (tr: Translation, i: number) => {
+    const base = tr.translator ?? tc(`ttype.${tr.type}` as any);
+    const ambiguous = versions.some((other) => other !== tr && (other.translator ?? tc(`ttype.${other.type}` as any)) === base);
+    return `${base}${tr.year ? `, ${tr.year}` : ''}${ambiguous ? ` (${i + 1})` : ''}`;
+  };
 
   const isPoem = genre === 'POEM';
   const originalDir = scriptDirection === 'RTL' ? 'rtl' : 'ltr';
@@ -120,7 +131,13 @@ export function ReadingView({
 
   function chooseLang(next: string) {
     setSelectedLang(next);
-    syncUrl({ lang: next });
+    setSelectedId(null);
+    syncUrl({ lang: next, tr: null });
+  }
+
+  function chooseVersion(id: string) {
+    setSelectedId(id);
+    syncUrl({ tr: id });
   }
 
   const originalColumn = (
@@ -185,6 +202,22 @@ export function ReadingView({
               aria-pressed={selectedLang === lang}
             >
               {langName(lang)}
+            </button>
+          ))}
+        </div>
+      )}
+
+      {mode !== 'original' && versions.length > 1 && selectedTranslation && (
+        <div className="lang-tabs lang-tabs--versions" role="group" aria-label={t('version_label')}>
+          {versions.map((tr, i) => (
+            <button
+              key={tr.id}
+              type="button"
+              onClick={() => chooseVersion(tr.id)}
+              className={`lang-tab${selectedTranslation.id === tr.id ? ' active' : ''}`}
+              aria-pressed={selectedTranslation.id === tr.id}
+            >
+              {versionLabel(tr, i)}
             </button>
           ))}
         </div>

@@ -129,17 +129,13 @@ Söylə ki, bu rəftar ilə, didarım usanmazmı?`,
     where: { slug: 'meni-candan-usandirdi' },
   });
 
-  if (firstWork) {
-    await prisma.translation.upsert({
-      where: {
-        workId_language_type: {
-          workId: firstWork.id,
-          language: 'RU',
-          type: 'TRANSLATION',
-        },
-      },
-      update: {},
-      create: {
+  const hasRuTranslation =
+    firstWork &&
+    (await prisma.translation.findFirst({ where: { workId: firstWork.id, language: 'RU' } }));
+
+  if (firstWork && !hasRuTranslation) {
+    await prisma.translation.create({
+      data: {
         workId: firstWork.id,
         language: 'RU',
         type: 'TRANSLATION',

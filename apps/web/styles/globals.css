@@ -645,6 +645,13 @@ blockquote {
 @media (min-width: 60rem) { .reading-toolbar--verse { max-width: 48rem; } }
 .reading-toolbar .lang-tabs { margin: 0; justify-content: flex-start; }
 .lang-tabs--langs { margin-bottom: 2rem; }
+/* Translator switch, shown when a language has several translations */
+.lang-tabs--langs:has(+ .lang-tabs--versions) { margin-bottom: 0.5rem; }
+.lang-tabs--versions {
+  flex-wrap:     wrap;
+  margin-bottom: 2rem;
+}
+.lang-tabs--versions .lang-tab { font-style: italic; }
 .reading-toolbar + .reading-column,
 .reading-toolbar + .parallel-grid { margin-top: 2rem; }
 

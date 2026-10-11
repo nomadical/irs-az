@@ -169,6 +169,7 @@
     "mode_parallel": "Paralel",
     "mode_original": "Əsl mətn",
     "lang_label": "Tərcümə dili",
+    "version_label": "Tərcümə variantı",
     "original_suffix": "əsli",
     "no_translation": "Bu əsərin hələ tərcüməsi yoxdur.",
     "no_translation_cta": "Tərcümə təklif edin",

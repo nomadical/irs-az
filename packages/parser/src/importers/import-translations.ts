@@ -75,40 +75,29 @@ export async function importTranslations(opts: {
       continue;
     }
 
-    await db.translation.upsert({
-      where: {
-        workId_language_type: {
-          workId: work.id,
-          language: fm.language,
-          type: fm.type,
-        },
-      },
-      create: {
-        workId: work.id,
-        language: fm.language,
-        type: fm.type,
-        scriptDirection: fm.scriptDirection ?? 'LTR',
-        body,
-        bodyHtml,
-        translator: fm.translator ?? null,
-        translatorNote: fm.translatorNote ?? null,
-        year: fm.year ?? null,
-        sourceNote: fm.sourceNote ?? null,
-        isDefault: fm.isDefault ?? false,
-        status: opts.publish ? 'PUBLISHED' : (fm.status ?? 'DRAFT'),
-      },
-      update: {
-        scriptDirection: fm.scriptDirection ?? 'LTR',
-        body,
-        bodyHtml,
-        translator: fm.translator ?? null,
-        translatorNote: fm.translatorNote ?? null,
-        year: fm.year ?? null,
-        sourceNote: fm.sourceNote ?? null,
-        isDefault: fm.isDefault ?? false,
-        status: opts.publish ? 'PUBLISHED' : (fm.status ?? 'DRAFT'),
-      },
+    const data = {
+      scriptDirection: fm.scriptDirection ?? 'LTR',
+      body,
+      bodyHtml,
+      translator: fm.translator ?? null,
+      translatorNote: fm.translatorNote ?? null,
+      year: fm.year ?? null,
+      sourceNote: fm.sourceNote ?? null,
+      isDefault: fm.isDefault ?? false,
+      status: opts.publish ? ('PUBLISHED' as const) : (fm.status ?? 'DRAFT'),
+    };
+
+    // A work can have several translations per language; the translator tells them apart
+    const existing = await db.translation.findFirst({
+      where: { workId: work.id, language: fm.language, type: fm.type, translator: fm.translator ?? null },
     });
+    if (existing) {
+      await db.translation.update({ where: { id: existing.id }, data });
+    } else {
+      await db.translation.create({
+        data: { ...data, workId: work.id, language: fm.language, type: fm.type },
+      });
+    }
 
     console.log(`  Upserted translation: ${fm.workSlug} / ${fm.language} / ${fm.type}`);
   }

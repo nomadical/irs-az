@@ -1,4 +1,5 @@
 import { Injectable } from '@nestjs/common';
+import { Language } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { CreateTranslationDto } from './dto/create-translation.dto';
 import { renderMarkdown } from '../common/utils/markdown';
@@ -10,14 +11,21 @@ export class TranslationsService {
   async findByWork(workId: string) {
     return this.prisma.translation.findMany({
       where: { workId, status: 'PUBLISHED' },
-      orderBy: [{ isDefault: 'desc' }, { language: 'asc' }],
+      orderBy: [{ isDefault: 'desc' }, { language: 'asc' }, { createdAt: 'asc' }],
     });
   }
 
   async findByWorkAndLang(workId: string, language: string) {
     return this.prisma.translation.findFirst({
       where: { workId, language: language as any, status: 'PUBLISHED' },
+      orderBy: [{ isDefault: 'desc' }, { createdAt: 'asc' }],
     });
+  }
+
+  /** A work's first translation into a language becomes its default for that language. */
+  private async isFirstInLanguage(workId: string, language: Language) {
+    const count = await this.prisma.translation.count({ where: { workId, language } });
+    return count === 0;
   }
 
   async create(dto: CreateTranslationDto) {
@@ -31,8 +39,9 @@ export class TranslationsService {
       });
     }
 
+    const isDefault = dto.isDefault ?? (await this.isFirstInLanguage(dto.workId, dto.language));
     return this.prisma.translation.create({
-      data: { ...dto, bodyHtml },
+      data: { ...dto, isDefault, bodyHtml },
     });
   }
 
@@ -66,9 +75,14 @@ export class TranslationsService {
   ) {
     const body = payload.body as string;
     const bodyHtml = renderMarkdown(body);
+    const isDefault = await this.isFirstInLanguage(
+      payload.workId as string,
+      payload.language as Language,
+    );
     return this.prisma.translation.create({
       data: {
         ...(payload as any),
+        isDefault,
         bodyHtml,
         submissionId,
         status: 'DRAFT',

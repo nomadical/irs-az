@@ -1,6 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import matter from 'gray-matter';
+import { slugify } from '../utils/slug';
 import type {
   AuthorFrontmatter,
   CollectionFrontmatter,
@@ -67,6 +68,8 @@ export function writeWorkMd(data: WorkFrontmatter, body: string) {
 /** Write translation .md file */
 export function writeTranslationMd(data: TranslationFrontmatter, body: string) {
   const dir = path.join(DATA_DIR, 'translations');
-  const filePath = path.join(dir, `${data.workSlug}.${data.language}.${data.type}.md`);
+  // Translator in the name, so a work can have several translations into one language
+  const translator = data.translator ? `.${slugify(data.translator)}` : '';
+  const filePath = path.join(dir, `${data.workSlug}.${data.language}.${data.type}${translator}.md`);
   writeMd(filePath, { ...data }, body);
 }

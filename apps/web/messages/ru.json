@@ -169,6 +169,7 @@
     "mode_parallel": "Параллельно",
     "mode_original": "Оригинал",
     "lang_label": "Язык перевода",
+    "version_label": "Вариант перевода",
     "original_suffix": "оригинал",
     "no_translation": "Перевода этого произведения пока нет.",
     "no_translation_cta": "Предложите перевод",

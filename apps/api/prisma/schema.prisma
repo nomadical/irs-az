@@ -272,7 +272,9 @@ model Translation {
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 
-  @@unique([workId, language, type])
+  // Several translations per language are allowed (different translators);
+  // isDefault marks the one shown first, at most one per work + language
+  @@index([workId, language])
   @@index([workId])
   @@index([language])
 }

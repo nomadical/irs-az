@@ -30,7 +30,7 @@ pnpm build                      # build everything
 - **Parallel text** — works have translations (AZ, RU, FA, EN) rendered side-by-side or stacked
 - **Markdown** for work body storage, rendered to HTML and cached in `bodyHtml`
 - **`@@index([collectionId, order])`** on Work — the compound index powers prev/next queries
-- **`@@unique([workId, language, type])`** on Translation — prevents duplicates
+- **Translations**: several per language are allowed (different translators); `isDefault` marks the one shown first per work + language, and the first one added becomes the default. The reading page switches versions via `?tr=<id>`
 - **Submissions** use a single table with JSON payload, type-discriminated
 - **Work slugs** are readable (`fuzuli-qezel-7`). `Work.sourceId` is the stable import key (e.g. `ganjoor-116713`); renamed slugs go into `previousSlugs` and old URLs 308-redirect (middleware for legacy slugs, page fallback otherwise)
 

@@ -169,6 +169,7 @@
     "mode_parallel": "Side by side",
     "mode_original": "Original",
     "lang_label": "Translation language",
+    "version_label": "Translation version",
     "original_suffix": "original",
     "no_translation": "This work has no translation yet.",
     "no_translation_cta": "Suggest a translation",
