@@ -27,9 +27,7 @@
     "works": "Əsərlər",
     "search": "Axtarış",
     "blog": "Bloq",
-    "contribute": "Töhfə ver",
-    "skip": "Mətnə keç",
-    "menu_label": "Əsas bölmələr"
+    "contribute": "Töhfə ver"
   },
   "authors": {
     "title": "Müəlliflər",
@@ -64,8 +62,7 @@
   },
   "theme": {
     "light": "İşıqlı",
-    "dark": "Qaranlıq",
-    "toggle": "Mövzunu dəyiş"
+    "dark": "Qaranlıq"
   },
   "contribute": {
     "title": "Töhfə ver",
@@ -159,42 +156,6 @@
         "PHILOSOPHER": "Filosof",
         "CRITIC": "Tənqidçi"
       }
-    }
-  },
-  "reading": {
-    "mode_label": "Mətn versiyası",
-    "mode_translation": "Tərcümə",
-    "mode_parallel": "Paralel",
-    "mode_original": "Əsl mətn",
-    "lang_label": "Tərcümə dili",
-    "original_suffix": "əsli",
-    "no_translation": "Bu əsərin hələ tərcüməsi yoxdur.",
-    "no_translation_cta": "Tərcümə təklif edin",
-    "source": "Mənbə",
-    "translator": "Tərcümə",
-    "original_text": "Əsl mətn",
-    "prev": "Əvvəlki",
-    "next": "Növbəti",
-    "nav_label": "Kolleksiyada naviqasiya",
-    "keys_hint": "← → düymələri ilə keçid",
-    "numbered": "{form} № {n}",
-    "section": "Hissə",
-    "appearance": "Görünüş",
-    "loading": "Yüklənir…",
-    "maqta": "Məqtə — şairin təxəllüsü olan son beyt",
-    "gloss": {
-      "GHAZAL": "Qəzəl: eyni qafiyəli beytlərdən qurulan lirik şeir. ◆ ilə işarələnmiş son beytdə şair öz təxəllüsünü çəkir.",
-      "MASNAVI": "Məsnəvi: hər beyti öz qafiyəsi ilə gələn uzun nəzm, adətən dastan və ya hekayə.",
-      "RUBAI": "Rübai: dörd misralıq fəlsəfi şeir; birinci, ikinci və dördüncü misralar qafiyələnir.",
-      "QASIDA": "Qəsidə: təntənəli, uzun lirik şeir; mədh və ya öyüd üçün yazılır.",
-      "MURABBA": "Mürəbbe: dörd misralı bəndlərdən ibarət şeir."
-    },
-    "form_plural": {
-      "GHAZAL": "Qəzəllər",
-      "MASNAVI": "Məsnəvi",
-      "RUBAI": "Rübailər",
-      "QASIDA": "Qəsidələr",
-      "OTHER": "Divan"
     }
   }
 }
