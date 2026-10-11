@@ -99,9 +99,19 @@ export async function importWorks(opts: {
       status: opts.publish ? ('PUBLISHED' as const) : (fm.status ?? 'DRAFT'),
     };
 
-    // Match on the stable import key first, so a renamed slug updates the same row
+    // Match on the stable import key first, so a renamed slug updates the same row.
+    // Rows imported before sourceId existed are adopted by their source URL.
     const existing =
-      (fm.sourceId && (await findWork(fm.sourceId))) || (await findWork(fm.slug));
+      (fm.sourceId && (await findWork(fm.sourceId))) ||
+      (fm.sourceId && fm.sourceNote &&
+        (await db.work.findFirst({ where: { sourceId: null, sourceNote: fm.sourceNote } }))) ||
+      (await findWork(fm.slug));
+
+    // A slug match must not take over a row that belongs to another source
+    if (existing && fm.sourceId && existing.sourceId && existing.sourceId !== fm.sourceId) {
+      console.warn(`  Skipping work ${fm.slug}: slug is taken by ${existing.sourceId}`);
+      continue;
+    }
 
     if (existing) {
       const renamed = existing.slug !== fm.slug;

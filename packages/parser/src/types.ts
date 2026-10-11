@@ -188,6 +188,7 @@ export interface AuthorConfig {
     az?: string; // AZ Wikisource author page
     ru?: string; // RU Wikisource author page
     az_collection?: string; // target collection slug for AZ Wikisource works
+    az_collections?: Record<string, string>; // AZ page title or author-page heading → collection slug
     ru_collection?: string; // target collection slug for RU Wikisource works
   };
   ganjoor?: {
