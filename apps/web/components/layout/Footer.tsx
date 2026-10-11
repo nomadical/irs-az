@@ -16,9 +16,11 @@ export function Footer() {
         <p className="footer-text" style={{ marginTop: '1rem' }}>
           {t('name')} — {t('description')}
         </p>
-        <p className="footer-links">
+        <nav className="footer-links" aria-label={t('name')}>
+          <Link href={`/${locale}/about`}>{nav('about')}</Link>
           <Link href={`/${locale}/contribute`}>{nav('contribute')}</Link>
-        </p>
+          <Link href={`/${locale}/contact`}>{nav('contact')}</Link>
+        </nav>
       </div>
     </footer>
   );

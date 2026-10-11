@@ -29,7 +29,9 @@
     "blog": "Blog",
     "contribute": "Contribute",
     "skip": "Skip to content",
-    "menu_label": "Main sections"
+    "menu_label": "Main sections",
+    "about": "About",
+    "contact": "Contact"
   },
   "authors": {
     "title": "Authors",
@@ -196,5 +198,9 @@
       "QASIDA": "Qasidas",
       "OTHER": "Divan"
     }
+  },
+  "contact": {
+    "email_label": "Email",
+    "email_soon": "Our email address will be here soon. Until then, please use the contribute form."
   }
 }

@@ -10,10 +10,11 @@
   },
   "dependencies": {
     "@irs-az/shared": "workspace:*",
+    "marked": "^15.0.12",
     "next": "^15.0.0",
+    "next-intl": "^4.0.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next-intl": "^4.0.0"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",

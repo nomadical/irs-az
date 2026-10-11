@@ -29,7 +29,9 @@
     "blog": "Bloq",
     "contribute": "Töhfə ver",
     "skip": "Mətnə keç",
-    "menu_label": "Əsas bölmələr"
+    "menu_label": "Əsas bölmələr",
+    "about": "Layihə haqqında",
+    "contact": "Əlaqə"
   },
   "authors": {
     "title": "Müəlliflər",
@@ -196,5 +198,9 @@
       "QASIDA": "Qəsidələr",
       "OTHER": "Divan"
     }
+  },
+  "contact": {
+    "email_label": "E-poçt",
+    "email_soon": "E-poçt ünvanı tezliklə burada olacaq. Hələlik töhfə formundan istifadə edin."
   }
 }

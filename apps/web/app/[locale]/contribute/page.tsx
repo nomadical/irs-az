@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { getTranslations } from 'next-intl/server';
 import { api } from '@/lib/api';
+import { loadPage } from '@/lib/content';
 import { localized } from '@/lib/locale';
 import { pageMetadata } from '@/lib/seo';
 import { ContributeForm, type AuthorOption, type WorkOption } from '@/components/contribute/ContributeForm';
@@ -22,7 +23,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function ContributePage({ params, searchParams }: Props) {
   const { locale } = await params;
   const { type, work: workSlug } = await searchParams;
-  const t = await getTranslations({ locale, namespace: 'contribute' });
+  const [t, guide] = await Promise.all([
+    getTranslations({ locale, namespace: 'contribute' }),
+    loadPage('contribute-guide', locale),
+  ]);
 
   // "Suggest a translation" links from a work page arrive with ?type=translation&work=<slug>
   const [authorsRes, work] = await Promise.all([
@@ -46,6 +50,10 @@ export default async function ContributePage({ params, searchParams }: Props) {
       <div className="ornament" />
       <div className="contribute-column">
         <p className="contribute-intro">{t('intro')}</p>
+        <details className="contribute-guide">
+          <summary>{guide.title}</summary>
+          <div className="page-prose" dangerouslySetInnerHTML={{ __html: guide.html }} />
+        </details>
         <ContributeForm
           authors={authors}
           initialKind={type === 'translation' || initialWork ? 'TRANSLATION' : type === 'author' ? 'AUTHOR' : 'WORK'}

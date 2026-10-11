@@ -19,7 +19,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const { authors, collections, works, blog } = await api.getSitemap();
 
   return [
-    ...['', '/authors', '/works', '/blog', '/contribute'].flatMap((p) => entries(p)),
+    ...['', '/authors', '/works', '/blog', '/about', '/contribute', '/contact'].flatMap((p) => entries(p)),
     ...authors.flatMap((a) => entries(`/authors/${a.slug}`, a.updatedAt)),
     ...collections.flatMap((c) => entries(`/collections/${c.slug}`, c.updatedAt)),
     ...works.flatMap((w) => entries(`/works/${w.slug}`, w.updatedAt)),

@@ -199,6 +199,9 @@ importers:
       '@irs-az/shared':
         specifier: workspace:*
         version: link:../../packages/shared
+      marked:
+        specifier: ^15.0.12
+        version: 15.0.12
       next:
         specifier: ^15.0.0
         version: 15.5.15(react-dom@19.2.5(react@19.2.5))(react@19.2.5)

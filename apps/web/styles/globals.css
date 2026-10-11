@@ -1415,8 +1415,67 @@ blockquote {
 }
 .work-suggest a { color: var(--pomeg); }
 .footer-links {
-  font-family: var(--font-ui);
-  font-size:   0.7rem;
-  margin-top:  0.5rem;
+  display:         flex;
+  justify-content: center;
+  flex-wrap:       wrap;
+  gap:             0.4rem 1.25rem;
+  font-family:     var(--font-ui);
+  font-size:       0.7rem;
+  margin-top:      0.5rem;
 }
 .footer-links a { color: var(--pomeg); }
+
+/* ── Text pages (About, Contact) — copy from content/pages/*.md ─ */
+.page-prose {
+  max-width:   36rem;
+  margin:      0 auto;
+  font-family: var(--font-body);
+  font-size:   1.05rem;
+  line-height: 1.7;
+}
+.page-prose h2 {
+  font-family:   var(--font-serif);
+  font-size:     1.6rem;
+  margin:        2rem 0 0.5rem;
+}
+.page-prose ul,
+.page-prose ol {
+  padding-left:  1.25rem;
+  margin-bottom: 1rem;
+}
+.page-prose li { margin-bottom: 0.5rem; }
+/* Source Serif 4 is loaded at 400/500 only; use the real 500 instead of a synthesized bold */
+.page-prose strong {
+  font-weight:    500;
+  font-synthesis: none;
+}
+.page-prose a {
+  color:                 var(--pomeg);
+  text-decoration:       underline;
+  text-underline-offset: 0.15em;
+}
+.contact-email {
+  margin-bottom: 1.5rem;
+}
+.contact-email > a {
+  font-family: var(--font-serif);
+  font-size:   1.75rem;
+}
+.contribute-guide {
+  margin-bottom: 1.75rem;
+  border-top:    1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+  padding:       0.6rem 0;
+}
+.contribute-guide summary {
+  font-family:    var(--font-ui);
+  font-size:      0.75rem;
+  font-weight:    500;
+  letter-spacing: 0.04em;
+  color:          var(--pomeg);
+  cursor:         pointer;
+}
+.contribute-guide .page-prose {
+  margin-top: 0.75rem;
+  font-size:  0.95rem;
+}
