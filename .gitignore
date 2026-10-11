@@ -10,3 +10,5 @@ coverage/
 .turbo/
 *.tsbuildinfo
 .idea/
+.playwright-mcp/
+.impeccable/
