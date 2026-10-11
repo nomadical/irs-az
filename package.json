@@ -1,7 +1,6 @@
 {
   "name": "irs-az",
   "private": true,
-  "packageManager": "pnpm@12.3.2",
   "scripts": {
     "dev:api": "pnpm --filter @irs-az/api dev",
     "dev:web": "pnpm --filter @irs-az/web dev",
