@@ -4,7 +4,7 @@ import { MeiliSearch } from 'meilisearch';
 import { PrismaService } from '../prisma/prisma.service';
 import { SearchQueryDto } from './dto/search-query.dto';
 import { foldAz } from '../common/utils/slug';
-import { highlight, opening, queryTerms, snippet } from './highlight';
+import { highlight, matchStarts, opening, queryTerms, snippet } from './highlight';
 
 const fold = (text: string | null | undefined) => (text ? foldAz(text) : text);
 
@@ -27,7 +27,7 @@ export class SearchService implements OnModuleInit {
       const index = this.client.index('works');
       await index.updateSettings({
         // *Plain fields hold the same text without Azerbaijani letters (see foldAz), so
-        // "qezel" finds "qəzəl". They are searchable but not returned.
+        // "qezel" finds "qəzəl". They are stripped from search responses.
         searchableAttributes: [
           'titleAz',
           'titleAzPlain',
@@ -60,9 +60,13 @@ export class SearchService implements OnModuleInit {
           'form',
           'year',
           'lang',
-          // For snippets; stripped from search responses
+          // For snippets and match positions (Meilisearch reports positions only for
+          // returned attributes); stripped from search responses
           'body',
           'bodyRu',
+          'titleAzPlain',
+          'bodyPlain',
+          'authorNamePlain',
         ],
       });
     } catch {
@@ -127,21 +131,30 @@ export class SearchService implements OnModuleInit {
         filter: filters.length ? filters : undefined,
         limit,
         offset,
+        showMatchesPosition: true,
       });
 
-      // Highlights are built here rather than by Meilisearch, so that queries typed
-      // without Azerbaijani letters are marked too (see highlight.ts)
+      // Highlights are built here rather than by Meilisearch, so that matches in the hidden
+      // *Plain fields and typo matches show up on the original text (see highlight.ts)
       const terms = queryTerms(dto.q ?? '');
-      const hits = result.hits.map(({ body, bodyRu, ...hit }) => ({
-        ...hit,
-        _formatted: {
-          titleAz: highlight(hit.titleAz ?? '', terms),
-          body:
-            (body && snippet(body, terms)) ??
-            (bodyRu && snippet(bodyRu, terms)) ??
-            (body ? opening(body) : null),
+      const hits = result.hits.map(
+        // The *Plain fields and full bodies are only fetched to build highlights
+        ({ body, bodyRu, titleAzPlain, bodyPlain, authorNamePlain, _matchesPosition: mp = {}, ...hit }) => {
+          const title: string = hit.titleAz ?? '';
+          const titleStarts = [...matchStarts(title, mp.titleAz), ...matchStarts(title, mp.titleAzPlain, true)];
+          const bodyStarts = body ? [...matchStarts(body, mp.body), ...matchStarts(body, mp.bodyPlain, true)] : [];
+          return {
+            ...hit,
+            _formatted: {
+              titleAz: highlight(title, terms, titleStarts),
+              body:
+                (body && snippet(body, terms, bodyStarts)) ??
+                (bodyRu && snippet(bodyRu, terms, matchStarts(bodyRu, mp.bodyRu))) ??
+                (body ? opening(body) : null),
+            },
+          };
         },
-      }));
+      );
       return { ...result, hits };
     } catch {
       return { hits: [], query: dto.q, estimatedTotalHits: 0 };
