@@ -1,0 +1,19 @@
+---
+slug: xaqani-qite-265
+sourceId: ganjoor-27928
+titleAz: شمارهٔ ۲۶۵
+titleFa: شمارهٔ ۲۶۵
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 1241
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghetekh/sh265'
+status: DRAFT
+---
+منکوب طبعم آوخ و منکوس طالعم
+بر عالم سبک سر از آن سر گران بوم
+
+من کوب بخت بینم و منکوب از آن زیم
+من کوس فضل کوبم، منکوس از آن بوم

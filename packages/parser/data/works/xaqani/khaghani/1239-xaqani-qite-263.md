@@ -1,0 +1,25 @@
+---
+slug: xaqani-qite-263
+sourceId: ganjoor-27926
+titleAz: شمارهٔ ۲۶۳
+titleFa: شمارهٔ ۲۶۳
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 1239
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghetekh/sh263'
+status: DRAFT
+---
+آنچه افتاد چند بار مرا
+پند نگرفتم ای فلان که منم
+
+آنچه هستم چرا نمی‌گویم
+گفتم ای خام قلتبان که منم
+
+شده‌ام سیر زین جهان زیراک
+نیست خیری در این جهان که منم
+
+که مرا هیچ‌کس نمی‌داند
+داند ایزد مرا چنان که منم

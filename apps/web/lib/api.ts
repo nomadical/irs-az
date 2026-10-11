@@ -1,4 +1,4 @@
-import { notFound } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 
 const PUBLIC_API_URL = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000/api';
 
@@ -42,6 +42,23 @@ async function fetcher<T>(path: string, options: FetchOptions = {}): Promise<T> 
   return res.json();
 }
 
+/**
+ * Work for a reading page. A renamed work's old slug permanently redirects to the
+ * new URL; an unknown slug renders the 404 page.
+ */
+export async function getWorkOrRedirect(slug: string, locale: string, suffix = '') {
+  try {
+    return await api.getWork(slug);
+  } catch (err) {
+    if (!(err instanceof ApiError && err.status === 404)) throw err;
+    const current = await api.resolveWork(slug).catch(() => null);
+    if (current && current.slug !== slug) {
+      permanentRedirect(`/${locale}/works/${encodeURIComponent(current.slug)}${suffix}`);
+    }
+    notFound();
+  }
+}
+
 export const api = {
   // Authors
   getAuthors: (params?: URLSearchParams) =>
@@ -56,6 +73,7 @@ export const api = {
   getWorks: (params?: URLSearchParams) =>
     fetcher(`/works${params ? `?${params}` : ''}`),
   getWork: (slug: string) => fetcher(`/works/${slug}`),
+  resolveWork: (slug: string) => fetcher<{ slug: string }>(`/works/resolve/${slug}`),
   getWorkNav: (slug: string) =>
     fetcher<{ prev: NavItem | null; next: NavItem | null }>(`/works/${slug}/nav`),
 

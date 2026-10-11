@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import matter from 'gray-matter';
-import { getDb } from './db';
+import { findWork, getDb } from './db';
 import { renderMarkdown } from '../utils/markdown';
 import type { WorkFrontmatter } from '../types';
 
@@ -78,48 +78,44 @@ export async function importWorks(opts: {
       continue;
     }
 
-    await db.work.upsert({
-      where: { slug: fm.slug },
-      create: {
-        slug: fm.slug,
-        titleAz: fm.titleAz,
-        titleRu: fm.titleRu ?? null,
-        titleFa: fm.titleFa ?? null,
-        titleEn: fm.titleEn ?? null,
-        body,
-        bodyHtml,
-        originalLang: fm.originalLang,
-        scriptDirection: fm.scriptDirection ?? 'LTR',
-        genre: fm.genre ?? 'POEM',
-        form: fm.form ?? null,
-        year: fm.year ?? null,
-        yearApprox: fm.yearApprox ?? false,
-        order: fm.order ?? null,
-        authorId: author.id,
-        collectionId,
-        sourceNote: fm.sourceNote ?? null,
-        status: opts.publish ? 'PUBLISHED' : (fm.status ?? 'DRAFT'),
-      },
-      update: {
-        titleAz: fm.titleAz,
-        titleRu: fm.titleRu ?? null,
-        titleFa: fm.titleFa ?? null,
-        titleEn: fm.titleEn ?? null,
-        body,
-        bodyHtml,
-        originalLang: fm.originalLang,
-        scriptDirection: fm.scriptDirection ?? 'LTR',
-        genre: fm.genre ?? 'POEM',
-        form: fm.form ?? null,
-        year: fm.year ?? null,
-        yearApprox: fm.yearApprox ?? false,
-        order: fm.order ?? null,
-        authorId: author.id,
-        collectionId,
-        sourceNote: fm.sourceNote ?? null,
-        status: opts.publish ? 'PUBLISHED' : (fm.status ?? 'DRAFT'),
-      },
-    });
+    const data = {
+      titleAz: fm.titleAz,
+      titleRu: fm.titleRu ?? null,
+      titleFa: fm.titleFa ?? null,
+      titleEn: fm.titleEn ?? null,
+      body,
+      bodyHtml,
+      originalLang: fm.originalLang,
+      scriptDirection: fm.scriptDirection ?? 'LTR',
+      genre: fm.genre ?? 'POEM',
+      form: fm.form ?? null,
+      year: fm.year ?? null,
+      yearApprox: fm.yearApprox ?? false,
+      order: fm.order ?? null,
+      authorId: author.id,
+      collectionId,
+      sourceNote: fm.sourceNote ?? null,
+      sourceId: fm.sourceId ?? null,
+      status: opts.publish ? ('PUBLISHED' as const) : (fm.status ?? 'DRAFT'),
+    };
+
+    // Match on the stable import key first, so a renamed slug updates the same row
+    const existing =
+      (fm.sourceId && (await findWork(fm.sourceId))) || (await findWork(fm.slug));
+
+    if (existing) {
+      const renamed = existing.slug !== fm.slug;
+      await db.work.update({
+        where: { id: existing.id },
+        data: {
+          ...data,
+          slug: fm.slug,
+          ...(renamed && { previousSlugs: { push: existing.slug } }),
+        },
+      });
+    } else {
+      await db.work.create({ data: { ...data, slug: fm.slug } });
+    }
 
     console.log(`  Upserted work: ${fm.slug}`);
   }

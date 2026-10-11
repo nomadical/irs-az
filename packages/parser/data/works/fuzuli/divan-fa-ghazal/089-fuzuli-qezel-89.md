@@ -1,0 +1,35 @@
+---
+slug: fuzuli-qezel-89
+sourceId: ganjoor-116795
+titleAz: شمارهٔ ۸۹
+titleFa: شمارهٔ ۸۹
+authorSlug: fuzuli
+collectionSlug: divan-fa-ghazal
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 89
+sourceNote: 'https://ganjoor.net/fozooli/divan/ghazal/sh89'
+status: DRAFT
+---
+دل الفت تمام بآن خاک در گرفت
+خوش صحبتی میان دو افتاد در گرفت
+
+خونابه نیست بر مژه ام آتش دل است
+کز چاک سینه سر زد و در چشم تر گرفت
+
+چون من بسیست باده کش بزم عشق لیک
+بودم تنک شراب مرا بیشتر گرفت
+
+چون شمع باز در سرم افتاد گرمی
+دل کرده بود ترک تعلق ز سر گرفت
+
+شوق حریم روضه کوی تو داشت گل
+بگشاد دست و دامن باد سحر گرفت
+
+فرهاد در زمانه من گشت کوهکن
+بگذاشت عاشقی پی کار دگر گرفت
+
+چون خس فتاده بود فضولی بخاک ره
+او را نسیم لطف تو از خاک بر گرفت

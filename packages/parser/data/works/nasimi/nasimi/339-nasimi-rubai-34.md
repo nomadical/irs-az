@@ -1,0 +1,19 @@
+---
+slug: nasimi-rubai-34
+sourceId: ganjoor-117637
+titleAz: شمارهٔ ۳۴
+titleFa: شمارهٔ ۳۴
+authorSlug: nasimi
+collectionSlug: nasimi
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 339
+sourceNote: 'https://ganjoor.net/nasimi/divan/robaee/sh34'
+status: DRAFT
+---
+ای عشق تو کرده کشف اسرار وجود
+وز نقطه خاک بسته پرگار وجود
+
+تا چهره خود عیان کنی نقش صفات
+بنگاشته ای بر در و دیوار وجود

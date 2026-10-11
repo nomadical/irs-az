@@ -1,0 +1,28 @@
+---
+slug: nasimi-qezel-6
+sourceId: ganjoor-117301
+titleAz: شمارهٔ ۶
+titleFa: شمارهٔ ۶
+authorSlug: nasimi
+collectionSlug: nasimi
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 6
+sourceNote: 'https://ganjoor.net/nasimi/divan/ghazal/sh6'
+status: DRAFT
+---
+این حضور عاشقان است، الصلا
+صحبت صاحبدلان است، الصلا
+
+یار با ما در سماع معنوی است
+گر نظر داری عیان است، الصلا
+
+در سماع عشق رقصانیم باز
+این معانی را بیان است، الصلا
+
+حضرت مستان خاص الخاص ماست
+مجلس آزادگان است، الصلا
+
+هر کجا ذوقی است گو در نه قدم
+جان سید در میان است، الصلا

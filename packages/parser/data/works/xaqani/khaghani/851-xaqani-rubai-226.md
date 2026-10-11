@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-226
+sourceId: ganjoor-15221
+titleAz: رباعی شمارهٔ   ۲۲۶
+titleFa: رباعی شمارهٔ   ۲۲۶
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 851
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh226'
+status: DRAFT
+---
+بر فرق من آتش تو فشانی و دلم
+بر رهگذر غم تو نشانی و دلم
+
+از جور تو جان رفت تو مانی و دلم
+من ترک تو گفته‌ام تو دانی و دلم

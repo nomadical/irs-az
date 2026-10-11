@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubai-59
+sourceId: ganjoor-133783
+titleAz: شمارهٔ ۵۹
+titleFa: شمارهٔ ۵۹
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 59
+sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh59'
+status: DRAFT
+---
+شاها فلکت اسب سعادت زین کرد
+وز جملهٔ خسروان تو را تحسین کرد
+
+تا در حرکت، سمندِ زرّین نعلت
+بر گِل ننهد پای، زمین سیمین کرد

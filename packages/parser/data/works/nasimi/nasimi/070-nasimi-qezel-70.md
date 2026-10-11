@@ -1,0 +1,31 @@
+---
+slug: nasimi-qezel-70
+sourceId: ganjoor-117365
+titleAz: شمارهٔ ۷۰
+titleFa: شمارهٔ ۷۰
+authorSlug: nasimi
+collectionSlug: nasimi
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 70
+sourceNote: 'https://ganjoor.net/nasimi/divan/ghazal/sh70'
+status: DRAFT
+---
+می روم با درد و حسرت از دیارت، خیر باد
+دل به خدمت می گذارم یادگارت خیر باد
+
+هر کجا باشم همی گویم دعای دولتت
+از خدا صد آفرین بر روزگارت خیر باد
+
+می روم با آب چشم و آتش دل بی خبر
+از جفای ترک چشم پرخمارت خیر باد
+
+گر دهد عمرم امان، رویت ببینم عاقبت
+ور بمیرم در غریبی ز انتظارت خیر باد
+
+گر نسیم چین زلفت بگذرد بر خاک من
+زنده برخیزم به بوی مشکبارت خیر باد
+
+گر ز من یاد آوری بنویس آخر رقعه ای
+کای نسیمی بر کلام آبدارت خیر باد

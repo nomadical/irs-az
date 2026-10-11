@@ -1,0 +1,35 @@
+---
+slug: fuzuli-qezel-325
+sourceId: ganjoor-117031
+titleAz: شمارهٔ ۳۲۵
+titleFa: شمارهٔ ۳۲۵
+authorSlug: fuzuli
+collectionSlug: divan-fa-ghazal
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 325
+sourceNote: 'https://ganjoor.net/fozooli/divan/ghazal/sh325'
+status: DRAFT
+---
+ای شمع که شد سوخته عشق تو جانم
+روشن شده باشد بتو هم سوز نهانم
+
+مشهور جهان چون نشود حسن تو از من
+عمریست من از عشق تو رسوای جهانم
+
+بر بند زبانم بتکلف که نیفتد
+سر غم عشقت بزبانها ز زبانم
+
+مانند بنایی که دهد عکس بآواز
+آمد بفغان گنبد گردون ز فغانم
+
+کی در تو رسد آه من خم شده قامت
+تیرم نرود دور چو بستست کمانم
+
+کارم بخدا ماند چه سازم چه کنم آه
+بسیار سراسیمه سودای بتانم
+
+از اشک روان چون نکنم گریه فضولی
+برداشت ز خاک ره او اشک روانم

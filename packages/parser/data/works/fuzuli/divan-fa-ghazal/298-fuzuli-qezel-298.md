@@ -1,0 +1,35 @@
+---
+slug: fuzuli-qezel-298
+sourceId: ganjoor-117004
+titleAz: شمارهٔ ۲۹۸
+titleFa: شمارهٔ ۲۹۸
+authorSlug: fuzuli
+collectionSlug: divan-fa-ghazal
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 298
+sourceNote: 'https://ganjoor.net/fozooli/divan/ghazal/sh298'
+status: DRAFT
+---
+سرو نازم نشد آگه ز نیازم چه کنم
+بکه گویم غم دل آه چه سازم چه کنم
+
+می کنم ناله چو بر زلف گره می بندی
+می کند کوتهی عمر درازم چه کنم
+
+بودم از قید جنون رسته نمودی سر زلف
+بست تقدیر بدان سلسله بازم چه کنم
+
+من که شمع شب هجرم همه شب تا بسحر
+نکنم گریه نسوزم نگدازم چه کنم
+
+من بی کس بکه گویم غم خورشید و شان
+نیست جز سایه کسی محرم رازم چه کنم
+
+من بخود مایل خوبان جفا پیشه نیم
+می ربایند بصد عشوه و نازم چه کنم
+
+می کنی منع فضولی که دگر عشق مباز
+عشقبازی نکنم عشق نبازم چه کنم

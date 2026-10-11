@@ -1,0 +1,20 @@
+---
+slug: fuzuli-rubai-7
+sourceId: ganjoor-117171
+titleAz: شمارهٔ ۷
+titleFa: شمارهٔ ۷
+authorSlug: fuzuli
+collectionSlug: divan-fa-rubai
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: RUBAI
+order: 7
+sourceNote: 'https://ganjoor.net/fozooli/divan/robaee/sh7'
+status: DRAFT
+---
+ماییم که نیست هیچ کس همدم ما
+ما در غم کس نه ایم و کس در غم ما
+
+نی ما خبر از مردم عالم داریم
+نی مردم عالم خبر از عالم ما

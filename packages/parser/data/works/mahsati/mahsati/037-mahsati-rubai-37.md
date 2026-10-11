@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubai-37
+sourceId: ganjoor-133761
+titleAz: شمارهٔ ۳۷
+titleFa: شمارهٔ ۳۷
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 37
+sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh37'
+status: DRAFT
+---
+آن کودک نعلبند و داس اندر دست
+چون نعل بر اسب بست از پای نشست
+
+زین نادره تر که دید، در عالم پست
+بدری به سم اسب هلالی بر بست

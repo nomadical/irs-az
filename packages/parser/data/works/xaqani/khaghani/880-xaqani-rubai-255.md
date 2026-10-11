@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-255
+sourceId: ganjoor-15250
+titleAz: رباعی شمارهٔ   ۲۵۵
+titleFa: رباعی شمارهٔ   ۲۵۵
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 880
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh255'
+status: DRAFT
+---
+بس کور دل است این فلک بی‌سر و بن
+زان کم نگرد به صورت آرای سخن
+
+خاقانی اگر ممیزی عرضه مکن
+آن یوسف تازه را بر این گرگ کهن

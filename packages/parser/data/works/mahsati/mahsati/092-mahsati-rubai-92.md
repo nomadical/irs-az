@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubai-92
+sourceId: ganjoor-133816
+titleAz: شمارهٔ ۹۲
+titleFa: شمارهٔ ۹۲
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 92
+sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh92'
+status: DRAFT
+---
+ای عقرب زلفت زده بر جانم نیش
+تیر قد تو مرا بر‌آورده ز کیش
+
+شد خط تو توقیع سلاطین زآنروی
+شرحست توکلت علی الله معنیش

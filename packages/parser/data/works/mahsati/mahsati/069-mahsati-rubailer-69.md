@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubailer-69
+sourceId: ganjoor-50129
+titleAz: رباعی شمارۀ ۶۹
+titleFa: رباعی شمارۀ ۶۹
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 69
+sourceNote: 'https://ganjoor.net/mahsati/robmah/sh69'
+status: DRAFT
+---
+آن‌ها که هوای عشق موزون زده‌اند
+هر نیم شبی سجاده در خون زده‌اند
+
+نشنیده‌ستی که عاشقان خیمهٔ عشق
+از گردش هفت چرخ بیرون زده‌اند

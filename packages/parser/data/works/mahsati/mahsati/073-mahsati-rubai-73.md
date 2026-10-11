@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubai-73
+sourceId: ganjoor-133797
+titleAz: شمارهٔ ۷۳
+titleFa: شمارهٔ ۷۳
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 73
+sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh73'
+status: DRAFT
+---
+زیبا بت کفشگر چو کفش آراید
+هر لحظه لب لعل بر آن می‌ساید
+
+کفشی که ز لعل شکرش آراید
+تاج سر خورشید فلک را شاید

@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-79
+sourceId: ganjoor-15074
+titleAz: رباعی شمارهٔ   ۷۹
+titleFa: رباعی شمارهٔ   ۷۹
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 704
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh79'
+status: DRAFT
+---
+شب چون حُلی ستاره در هم پیوست
+ماهم چو ستارگان، حلی‌ها بربست
+
+با بانگ حلی چو در بَرَم آمد مست
+از طالع من حُلیش حالی بگسست

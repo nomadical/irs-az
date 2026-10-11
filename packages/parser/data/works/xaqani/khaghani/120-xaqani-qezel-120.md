@@ -1,0 +1,31 @@
+---
+slug: xaqani-qezel-120
+sourceId: ganjoor-14489
+titleAz: غزل شمارهٔ ۱۲۰
+titleFa: غزل شمارهٔ ۱۲۰
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 120
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghazalkh/sh120'
+status: DRAFT
+---
+دوست مرا رطلِ عشق، تا خط بغداد داد
+لاجرم از خطِ صبر کار برون اوفتاد
+
+صبر هزیمت گرفت، کز صف مژگان او
+غمزه کمان درکشید، فتنه کمین برگشاد
+
+عشق به اول مرا، همچو گِل از پای سود
+دوست به آخر مرا، همچو گُل از دست داد
+
+تا درِ امید من، هجر به مسمار کرد
+یاد وصالش مرا، نعل در آتش نهاد
+
+می‌کند از بدخویی، آنچه نکرده است کس
+گرچه بدی می‌کند، چشم بدش دور باد
+
+سینهٔ خاقانی اَست، سوختهٔ عشق او
+او به جفا می‌دهد، سوختگان را به باد

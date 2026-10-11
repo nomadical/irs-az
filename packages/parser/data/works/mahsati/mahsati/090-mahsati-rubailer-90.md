@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubailer-90
+sourceId: ganjoor-50150
+titleAz: رباعی شمارۀ ۹۰
+titleFa: رباعی شمارۀ ۹۰
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 90
+sourceNote: 'https://ganjoor.net/mahsati/robmah/sh90'
+status: DRAFT
+---
+بس غصه که از چشمهٔ نوش تو رسید
+تا دست من امروز به دوش تو رسید
+
+در گوش تو دانه‌های دٌر می‌بینم
+آب چشمم مگر به گوش تو رسید

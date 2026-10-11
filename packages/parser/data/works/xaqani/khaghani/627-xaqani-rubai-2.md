@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-2
+sourceId: ganjoor-14996
+titleAz: رباعی شمارهٔ   ۲
+titleFa: رباعی شمارهٔ   ۲
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 627
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh2'
+status: DRAFT
+---
+غم کرد ریاض، جانِ مه و سال مرا
+آئینه ندارد دلِ خوش‌حال مرا
+
+صیاد ز بس که دوستم می‌دارد
+بسته است در آغوشِ قفس بال مرا

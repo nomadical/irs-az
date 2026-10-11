@@ -1,0 +1,22 @@
+---
+slug: xaqani-qite-164
+sourceId: ganjoor-27827
+titleAz: شمارهٔ ۱۶۴
+titleFa: شمارهٔ ۱۶۴
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 1140
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghetekh/sh164'
+status: DRAFT
+---
+خاقانی اگرچه نیک اهلی
+نااهلانت بدی نمایند
+
+نیکان که تو را عیار گیرند
+بر دست بدانت بر گرایند
+
+زری که به آتشت شناسند
+مشکی که به سیرت آزمایند

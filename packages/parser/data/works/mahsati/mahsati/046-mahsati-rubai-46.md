@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubai-46
+sourceId: ganjoor-133770
+titleAz: شمارهٔ ۴۶
+titleFa: شمارهٔ ۴۶
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 46
+sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh46'
+status: DRAFT
+---
+چشمم چو به چشم خویش چشم تو بدید
+نی چشم تو خواب چشم از چشم رمید
+
+ای چشم همه چشم به چشمت روشن
+چون چشم تو چشم من دگر چشم ندید

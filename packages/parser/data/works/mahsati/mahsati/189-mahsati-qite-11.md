@@ -1,0 +1,19 @@
+---
+slug: mahsati-qite-11
+sourceId: ganjoor-133915
+titleAz: شمارهٔ  ۱۱
+titleFa: شمارهٔ  ۱۱
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 189
+sourceNote: 'https://ganjoor.net/mahsati/divan/ghete/sh11'
+status: DRAFT
+---
+بس سپوزید خواجه خاتون را
+اول روز تا به آخر شام
+
+دیو شهوت به لب گزید انگشت
+ته کشید آب غسل در حمام

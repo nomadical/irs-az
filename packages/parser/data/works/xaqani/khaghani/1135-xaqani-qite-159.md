@@ -1,0 +1,19 @@
+---
+slug: xaqani-qite-159
+sourceId: ganjoor-27822
+titleAz: شمارهٔ ۱۵۹
+titleFa: شمارهٔ ۱۵۹
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 1135
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghetekh/sh159'
+status: DRAFT
+---
+هر که در قوم بزرگ است امامش خوانند
+هر که دل صید کند صاحب دامش خوانند
+
+افضل این مصرع برجسته ندانیم که گفت
+هرکه شمشیر زند خطبه به نامش خوانند

@@ -1,0 +1,19 @@
+---
+slug: nasimi-elaveler-11
+sourceId: ganjoor-117710
+titleAz: شمارهٔ ۱۱
+titleFa: شمارهٔ ۱۱
+authorSlug: nasimi
+collectionSlug: nasimi
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 409
+sourceNote: 'https://ganjoor.net/nasimi/divan/ezafat/sh11'
+status: DRAFT
+---
+ذات آمد اب اسما، اسم آمد ام فعل
+شیر از پستان اسما می‌خورد طفل بشیر
+
+این سخن را درنیابد آن که در پیش خسان
+خوانده باشد از جمالت شرح نسیان کبیر

@@ -1,0 +1,34 @@
+---
+slug: xaqani-qite-316
+sourceId: ganjoor-27979
+titleAz: شمارهٔ ۳۱۶
+titleFa: شمارهٔ ۳۱۶
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 1292
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghetekh/sh316'
+status: DRAFT
+---
+سر انگشت می‌رزد بی‌بی
+بر من انگشت می‌گزد بی‌بی
+
+نای را دشمن است و دف را دوست
+بر ره دف همی وزد بی‌بی
+
+از پی یک نشان دوم جامه
+لاجوردی همی رزد بی‌بی
+
+آفتاب است و زهره می‌طلبد
+در بر مه نمی‌خزد بی‌بی
+
+صحن پانید حلقه می‌جوید
+نیشکر هم نمی‌مزد بی‌بی
+
+چشم بد دور نیک طباخ است
+کآفتاب جهان سزد بی‌بی
+
+نپزد هیچ قلیهٔ گزری
+تابهٔ شلغمی پزد بی‌بی

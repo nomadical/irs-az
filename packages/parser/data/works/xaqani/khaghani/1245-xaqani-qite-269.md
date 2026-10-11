@@ -1,0 +1,25 @@
+---
+slug: xaqani-qite-269
+sourceId: ganjoor-27932
+titleAz: شمارهٔ ۲۶۹
+titleFa: شمارهٔ ۲۶۹
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 1245
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghetekh/sh269'
+status: DRAFT
+---
+چشم خونین همه شب قامت شب پیمایم
+تا ز خونین جگرش لعل قبا آرایم
+
+ریسمان از رگ جان سازم و سوزن ز مژه
+دیده را دوختن لعل قبا فرمایم
+
+اول از عودم خائیدهٔ دندان کسان
+آخر از سوختهٔ عالم دندان خایم
+
+گر به من دندان کردند سپید این رمزی است
+که‌اول و آخر دندان کسان را شایم

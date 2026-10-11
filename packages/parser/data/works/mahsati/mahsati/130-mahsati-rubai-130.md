@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubai-130
+sourceId: ganjoor-133854
+titleAz: شمارهٔ ۱۳۰
+titleFa: شمارهٔ ۱۳۰
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 130
+sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh130'
+status: DRAFT
+---
+ای زلف تو حلقه حلقه و چین بر چین
+طغرای خط تو برزده چین بر چین
+
+حور از بر تو گریخت برچین برچین
+زیور همه بر تو ریخت برچین برچین

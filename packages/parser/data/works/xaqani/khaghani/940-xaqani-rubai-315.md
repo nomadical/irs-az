@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-315
+sourceId: ganjoor-15310
+titleAz: رباعی شمارهٔ   ۳۱۵
+titleFa: رباعی شمارهٔ   ۳۱۵
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 940
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh315'
+status: DRAFT
+---
+نفسم جنب غرامت است ای دلجوی
+کو تیغ که غسل‌ها توان کرد بدوی
+
+جلاد منا!به آب آن تیغ دو روی
+یک راه ز من جنابت نفس بشوی

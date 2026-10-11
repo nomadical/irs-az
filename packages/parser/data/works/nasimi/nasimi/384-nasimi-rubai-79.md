@@ -1,0 +1,19 @@
+---
+slug: nasimi-rubai-79
+sourceId: ganjoor-117682
+titleAz: شمارهٔ ۷۹
+titleFa: شمارهٔ ۷۹
+authorSlug: nasimi
+collectionSlug: nasimi
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 384
+sourceNote: 'https://ganjoor.net/nasimi/divan/robaee/sh79'
+status: DRAFT
+---
+در دار وجود گشت دیار علی
+چون هست یقین ولی جبار علی
+
+خواهی که رسی به چار جوی جنت
+شو از دل و جان موالی چار علی

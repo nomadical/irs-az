@@ -1,0 +1,19 @@
+---
+slug: mahsati-qite-16
+sourceId: ganjoor-133920
+titleAz: شمارهٔ  ۱۶
+titleFa: شمارهٔ  ۱۶
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 194
+sourceNote: 'https://ganjoor.net/mahsati/divan/ghete/sh16'
+status: DRAFT
+---
+صحبت بی‌خرد، سخندان را
+هم به کردار گاو بد باشد
+
+گرچه بسیار شیر دوشی از او
+آخر کارِ او لگد باشد

@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-274
+sourceId: ganjoor-15269
+titleAz: رباعی شمارهٔ   ۲۷۴
+titleFa: رباعی شمارهٔ   ۲۷۴
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 899
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh274'
+status: DRAFT
+---
+چون زندگی آفت است جانم گم کن
+چون سایه حجاب است نشانم گم کن
+
+چون بی‌تو سر و پای جهان نیست پدید
+برزن سر غمزه و جهانم گم کن

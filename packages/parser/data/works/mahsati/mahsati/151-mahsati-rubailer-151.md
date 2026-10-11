@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubailer-151
+sourceId: ganjoor-50211
+titleAz: رباعی شمارۀ ۱۵۱
+titleFa: رباعی شمارۀ ۱۵۱
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 151
+sourceNote: 'https://ganjoor.net/mahsati/robmah/sh151'
+status: DRAFT
+---
+ما را سر ناز دلبران نیست کنون
+آن رفت و گذشت و دل بر آن نیست کنون
+
+آن حسن و طراوت که دل و دلبر داشت
+دل نیست بر آن و دلبر آن نیست کنون

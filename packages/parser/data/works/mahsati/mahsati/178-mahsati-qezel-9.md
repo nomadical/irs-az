@@ -1,0 +1,22 @@
+---
+slug: mahsati-qezel-9
+sourceId: ganjoor-133903
+titleAz: شمارهٔ ۹
+titleFa: شمارهٔ ۹
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 178
+sourceNote: 'https://ganjoor.net/mahsati/divan/ghazal/sh9'
+status: DRAFT
+---
+شبی در برت گر بیاسودمی
+سر فخر بر آسمان سودمی
+
+جمال تو گر زآنکه من دارمی
+به جای تو گر زآنکه من بودمی
+
+به بیچارگان رحمت آوردمی
+بر افتادگان بر ببخشودمی

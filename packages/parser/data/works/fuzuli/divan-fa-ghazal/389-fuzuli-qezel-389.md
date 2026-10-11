@@ -1,0 +1,35 @@
+---
+slug: fuzuli-qezel-389
+sourceId: ganjoor-117095
+titleAz: شمارهٔ ۳۸۹
+titleFa: شمارهٔ ۳۸۹
+authorSlug: fuzuli
+collectionSlug: divan-fa-ghazal
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 389
+sourceNote: 'https://ganjoor.net/fozooli/divan/ghazal/sh389'
+status: DRAFT
+---
+ای دل ز خویش بگذر گر میل یار داری
+جز کار عشق مگزین گر عشق کار داری
+
+ای آب زندگانی می بینمت مکدر
+در دل مگر غباری زین خاکسار داری
+
+بر من ز تند خویی تیریست هر نگاهت
+برگ گلی تو اما صد نوک خار داری
+
+ای طالب سلامت بر بند راه دیده
+ز آن رو که بیم آفت زین رهگذار داری
+
+ساقی مکن تعلل در گردش آر ساغر
+تا چند تشنگان را در انتظار داری
+
+بی اختیار خواهی رفتن ز بزم عالم
+از کف منه پیاله تا اختیار داری
+
+از خیل نیک نامان می بینمت فضولی
+کز نام ننگت آید وز ننگ عار داری

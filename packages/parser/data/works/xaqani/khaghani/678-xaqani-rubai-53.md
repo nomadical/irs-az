@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-53
+sourceId: ganjoor-15048
+titleAz: رباعی شمارهٔ   ۵۳
+titleFa: رباعی شمارهٔ   ۵۳
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 678
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh53'
+status: DRAFT
+---
+تندی کنی و خیره کشیت آئین است
+تو دیلمی و عادت دیلم این است
+
+زوبینت ز نرگس سپر از نسرین است
+پیرایهٔ دیلم سپر و زوبین است

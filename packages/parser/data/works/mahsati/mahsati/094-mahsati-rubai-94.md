@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubai-94
+sourceId: ganjoor-133818
+titleAz: شمارهٔ ۹۴
+titleFa: شمارهٔ ۹۴
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 94
+sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh94'
+status: DRAFT
+---
+دارم گه و بیگه ز که و مه کم و بیش
+نفع و ضرر و خیر ز بیگانه و خویش
+
+این طَرفه که آن دوست چو دشمن مه و سال
+گوید بد و نیکم شب و روز از پس و پیش

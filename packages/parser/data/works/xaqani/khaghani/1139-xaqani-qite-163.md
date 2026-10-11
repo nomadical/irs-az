@@ -1,0 +1,19 @@
+---
+slug: xaqani-qite-163
+sourceId: ganjoor-27826
+titleAz: شمارهٔ ۱۶۳
+titleFa: شمارهٔ ۱۶۳
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 1139
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghetekh/sh163'
+status: DRAFT
+---
+چون به حد کوفه باز آیند حاج از بادیه
+خلق یک فرسنگ استقبال خویشان می‌کنند
+
+خویش جانم بوی بغداد و دم دجله است و بس
+کز همه آفاقم استقبال ایشان می‌کنند

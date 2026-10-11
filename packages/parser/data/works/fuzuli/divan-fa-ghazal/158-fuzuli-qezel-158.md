@@ -1,0 +1,35 @@
+---
+slug: fuzuli-qezel-158
+sourceId: ganjoor-116864
+titleAz: شمارهٔ ۱۵۸
+titleFa: شمارهٔ ۱۵۸
+authorSlug: fuzuli
+collectionSlug: divan-fa-ghazal
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 158
+sourceNote: 'https://ganjoor.net/fozooli/divan/ghazal/sh158'
+status: DRAFT
+---
+کلکی که صورت من و آن دلربا کشید
+افکند طرح دوری و از هم جدا کشید
+
+ما را خیال خط تو از گریه باز داشت
+آن سبزه تا دمید نم از چشم ما کشید
+
+غیر از کشیدن ستمت نیست کار ما
+بنگر که کار ما ز تو آخر کجا کشید
+
+ای سنگدل چه شد که وفایی نمی کنی
+بر بی دلی که بهر تو چندین جفا کشید
+
+تا یافت ره بخاک درت سیل اشک ما
+زان رهگذر دگر نتوانست پا کشید
+
+میل شعاع داشت بکف صبح آفتاب
+گویا بچشم خود ز درت توتیا کشید
+
+ای گل هنوز ز دل بنگاری نداده
+کی آگهی که از تو فضولی چها کشید

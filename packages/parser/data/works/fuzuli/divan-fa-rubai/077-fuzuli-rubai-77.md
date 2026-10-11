@@ -1,0 +1,20 @@
+---
+slug: fuzuli-rubai-77
+sourceId: ganjoor-117241
+titleAz: شمارهٔ ۷۷
+titleFa: شمارهٔ ۷۷
+authorSlug: fuzuli
+collectionSlug: divan-fa-rubai
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: RUBAI
+order: 77
+sourceNote: 'https://ganjoor.net/fozooli/divan/robaee/sh77'
+status: DRAFT
+---
+صد شکر که خاک طینتم یافت شرف
+افتاد مرا دامن اقبال بکف
+
+هر کس که نظری ز شاه اقلیمی یافت
+من فیض نظر یافتم از شاه نجف

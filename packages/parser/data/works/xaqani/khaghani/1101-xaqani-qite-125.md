@@ -1,0 +1,22 @@
+---
+slug: xaqani-qite-125
+sourceId: ganjoor-27788
+titleAz: شمارهٔ ۱۲۵ - در استغنای طبع
+titleFa: شمارهٔ ۱۲۵ - در استغنای طبع
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 1101
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghetekh/sh125'
+status: DRAFT
+---
+شاخ دولت به نزد خاقانی
+میوه افشاندنش نمی‌ارزد
+
+چرب و شیرین خوانچهٔ دنیا
+به مگس راندنش نمی‌ارزد
+
+زر طلب کردن از در ملکان
+آفرین خواندنش نمی‌ارزد

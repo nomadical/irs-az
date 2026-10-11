@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import matter from 'gray-matter';
-import { getDb } from './db';
+import { findWork, getDb } from './db';
 import { renderMarkdown } from '../utils/markdown';
 import type { TranslationFrontmatter } from '../types';
 
@@ -60,7 +60,7 @@ export async function importTranslations(opts: {
 
   for (const { frontmatter: fm, body } of filtered) {
     // Resolve work
-    const work = await db.work.findUnique({ where: { slug: fm.workSlug } });
+    const work = await findWork(fm.workSlug);
     if (!work) {
       console.warn(`  Skipping translation: work "${fm.workSlug}" not found`);
       continue;

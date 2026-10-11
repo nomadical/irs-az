@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-292
+sourceId: ganjoor-15287
+titleAz: رباعی شمارهٔ   ۲۹۲
+titleFa: رباعی شمارهٔ   ۲۹۲
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 917
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh292'
+status: DRAFT
+---
+گفتی که تو را شوم مدار اندیشه
+دل خوش کن و بر صبر گمار اندیشه
+
+کو صبر و چه دل کانکه دلش می‌گوئی
+یک قطرهٔ خون است و هزار اندیشه

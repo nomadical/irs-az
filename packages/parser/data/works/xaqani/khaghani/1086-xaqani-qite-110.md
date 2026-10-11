@@ -1,0 +1,19 @@
+---
+slug: xaqani-qite-110
+sourceId: ganjoor-27773
+titleAz: شمارهٔ ۱۱۰
+titleFa: شمارهٔ ۱۱۰
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 1086
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghetekh/sh110'
+status: DRAFT
+---
+زندگی خفتگی است خاقانی
+خفته آگه به یک نفس گردد
+
+ایهنمه کارهای پهن و دراز
+تنگ و کوته به یک نفس گردد

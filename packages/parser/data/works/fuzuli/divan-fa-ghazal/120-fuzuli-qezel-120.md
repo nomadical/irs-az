@@ -1,0 +1,35 @@
+---
+slug: fuzuli-qezel-120
+sourceId: ganjoor-116826
+titleAz: شمارهٔ ۱۲۰
+titleFa: شمارهٔ ۱۲۰
+authorSlug: fuzuli
+collectionSlug: divan-fa-ghazal
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 120
+sourceNote: 'https://ganjoor.net/fozooli/divan/ghazal/sh120'
+status: DRAFT
+---
+ای مرضهای معاصی ز تو محتاج علاج
+تو شفیع و همه عالم به شفاعت محتاج
+
+ارجمند از جهت حسن قبولت اسلام
+سربلند از شرف پایه قدرت معراج
+
+شمع قدر تو شب ظلمت حیرت را ماه
+خاک پای تو سر رفعت گردون را تاج
+
+کار دنیا شده از دولت شرع تو تمام
+قدر دین یافته از سکه عدل تو رواج
+
+عقل را حکم تو مستخدم اجرای امور
+ملک را امر تو مستلزم پیوند مزاج
+
+عرش را از شرف پای تو عالی مقدار
+شرع را از مه روی تو منور منهاج
+
+یا نبی نیست ز لطف تو فضولی نومید
+طالب قطره آبیست ز بحر مواج

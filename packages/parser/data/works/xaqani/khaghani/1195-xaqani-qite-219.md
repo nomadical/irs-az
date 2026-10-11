@@ -1,0 +1,22 @@
+---
+slug: xaqani-qite-219
+sourceId: ganjoor-27882
+titleAz: شمارهٔ ۲۱۹
+titleFa: شمارهٔ ۲۱۹
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 1195
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghetekh/sh219'
+status: DRAFT
+---
+چشم بر کار دوست دار چنان
+که غیوران بر اهل پردهٔ خویش
+
+رشک بر دوست برفزونتر از آنک
+بر زن اختیار کردهٔ خویش
+
+جنس زن یابی و نیابی کس
+جنس یاران درد خوردهٔ خویش

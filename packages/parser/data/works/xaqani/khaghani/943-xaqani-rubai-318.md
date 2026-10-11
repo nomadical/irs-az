@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-318
+sourceId: ganjoor-15313
+titleAz: رباعی شمارهٔ   ۳۱۸
+titleFa: رباعی شمارهٔ   ۳۱۸
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 943
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh318'
+status: DRAFT
+---
+از کبر مدار در دل خود هوسی
+کز کبر به جائی نرسیده است کسی
+
+چون زلف بتان شکستگی پیدا کن
+تا صید کنی هزار دل هر نفسی

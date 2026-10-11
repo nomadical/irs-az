@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-160
+sourceId: ganjoor-15155
+titleAz: رباعی شمارهٔ   ۱۶۰
+titleFa: رباعی شمارهٔ   ۱۶۰
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 785
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh160'
+status: DRAFT
+---
+خاقانی هر شبت شبستان نرسد
+تو مفلسی این نعمتت آسان نرسد
+
+هر شب طلب وصل که روئین دژ را
+هر روز سفندیار مهمان نرسد

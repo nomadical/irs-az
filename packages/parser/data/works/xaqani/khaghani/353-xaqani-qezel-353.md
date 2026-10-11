@@ -1,0 +1,31 @@
+---
+slug: xaqani-qezel-353
+sourceId: ganjoor-14722
+titleAz: غزل شمارهٔ ۳۵۳
+titleFa: غزل شمارهٔ ۳۵۳
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 353
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghazalkh/sh353'
+status: DRAFT
+---
+تا لوح جفا درست کردی
+سر کیسهٔ عهد سست کردی
+
+ای من سگ تو، تو بر سگ خویش
+بسیار جفای چست کردی
+
+گفتی سگ من چه داغ دارد
+آن داغ که از نخست کردی
+
+کشتیم درست و بر لب خویش
+خون دل من درست کردی
+
+گفتی ز جفا چه کردم آخر
+چندان که مراد توست کردی
+
+خاقانی بس کز اهل جستن
+سر در سر کار جست کردی

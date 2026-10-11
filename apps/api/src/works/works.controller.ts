@@ -38,6 +38,12 @@ export class WorksController {
   }
 
   @Public()
+  @Get('resolve/:slug')
+  resolve(@Param('slug') slug: string) {
+    return this.works.resolveSlug(slug);
+  }
+
+  @Public()
   @Get(':slug')
   findOne(@Param('slug') slug: string) {
     return this.works.findBySlug(slug);

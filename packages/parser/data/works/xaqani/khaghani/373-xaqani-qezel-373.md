@@ -1,0 +1,34 @@
+---
+slug: xaqani-qezel-373
+sourceId: ganjoor-14742
+titleAz: غزل شمارهٔ ۳۷۳
+titleFa: غزل شمارهٔ ۳۷۳
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 373
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghazalkh/sh373'
+status: DRAFT
+---
+مرا تا جان بود جانان تو باشی
+ز جان خوش‌تر چه باشد آن تو باشی
+
+دل دل هم تو بودی تا به امروز
+وزین پس نیز جان جان تو باشی
+
+به هر زخمی مرا مرهم تو سازی
+به هر دردی مرا درمان تو باشی
+
+بده فرمان به هر موجب که خواهی
+که تا باشم، مرا سلطان تو باشی
+
+اگر گیرم شمار کفر و ایمان
+نخستین حرف سر دیوان تو باشی
+
+به دین و کفر مفریبم کز این پس
+مرا هم کفر و هم ایمان تو باشی
+
+ز خاقانی مزن دم چون تو آئی
+چه خاقانی که خود خاقان تو باشی

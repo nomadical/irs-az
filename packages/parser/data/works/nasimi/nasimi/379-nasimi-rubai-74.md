@@ -1,0 +1,19 @@
+---
+slug: nasimi-rubai-74
+sourceId: ganjoor-117677
+titleAz: شمارهٔ ۷۴ - ستایش فضل‌الله نعیمی
+titleFa: شمارهٔ ۷۴ - ستایش فضل‌الله نعیمی
+authorSlug: nasimi
+collectionSlug: nasimi
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 379
+sourceNote: 'https://ganjoor.net/nasimi/divan/robaee/sh74'
+status: DRAFT
+---
+بنمود جمال ذات از روی چو ماه
+از شادی او بر فلک انداز کلاه
+
+گشتیم کلام ناطق لم یزلی
+از دولت شاه دو جهان فضل اله

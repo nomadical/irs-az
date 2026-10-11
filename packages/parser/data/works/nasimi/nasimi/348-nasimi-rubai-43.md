@@ -1,0 +1,19 @@
+---
+slug: nasimi-rubai-43
+sourceId: ganjoor-117646
+titleAz: شمارهٔ ۴۳
+titleFa: شمارهٔ ۴۳
+authorSlug: nasimi
+collectionSlug: nasimi
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 348
+sourceNote: 'https://ganjoor.net/nasimi/divan/robaee/sh43'
+status: DRAFT
+---
+آن سی و دو خط وجه آدم چو ندید
+شیطان، به خلاف حق سر از سجده کشید
+
+آن کس که به حق بدید امام ملکوت
+از قوت حرف و صوت او گفت و شنید

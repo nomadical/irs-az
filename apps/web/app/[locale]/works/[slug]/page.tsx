@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { api, notFoundOn404 } from '@/lib/api';
+import { api, getWorkOrRedirect } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import { excerpt, pageMetadata, SITE_URL } from '@/lib/seo';
 import Link from 'next/link';
@@ -15,7 +15,7 @@ interface Props {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params;
-  const work = (await api.getWork(slug).catch(notFoundOn404)) as any;
+  const work = (await getWorkOrRedirect(slug, locale)) as any;
   const title = localized(work, 'title', locale) ?? work.titleAz;
   const authorName = localized(work.author, 'name', locale);
 
@@ -33,8 +33,9 @@ export default async function WorkPage({ params }: Props) {
   const { locale, slug } = await params;
 
   const [work, nav] = await Promise.all([
-    api.getWork(slug).catch(notFoundOn404) as Promise<any>,
-    api.getWorkNav(slug),
+    getWorkOrRedirect(slug, locale) as Promise<any>,
+    // Old slugs redirect above, so nav only matters when the work exists
+    api.getWorkNav(slug).catch(() => ({ prev: null, next: null })),
   ]);
 
   const t = await getTranslations({ locale, namespace: 'contribute' });

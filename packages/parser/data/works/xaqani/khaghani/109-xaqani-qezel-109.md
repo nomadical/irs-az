@@ -1,0 +1,31 @@
+---
+slug: xaqani-qezel-109
+sourceId: ganjoor-14478
+titleAz: غزل شمارهٔ ۱۰۹
+titleFa: غزل شمارهٔ ۱۰۹
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 109
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghazalkh/sh109'
+status: DRAFT
+---
+جانا لب تو پیشکش از ما چه ستاند
+اینک سر و زر نقد دگر تا چه ستاند
+
+مائیم و دلی جوجو از اندیشهٔ عشقت
+عشقت به یکی جو چه دهد یا چه ستاند
+
+عشق تو به منشور کهن جان ستد از من
+یارب چو شود تازه به طغرا چه ستاند
+
+امروز جهان بستد و ما را غم این نیست
+ما را غم آن است که فردا چه ستاند
+
+گیرم که عروس غم تو نامزد ماست
+وصل تو ز ما خط تبرا چه ستاند
+
+چون تافتگی تب خاقانی از اینجاست
+دل مهر تب او ز دگر جا چه ستاند

@@ -1,0 +1,35 @@
+---
+slug: fuzuli-qezel-15
+sourceId: ganjoor-116721
+titleAz: شمارهٔ ۱۵
+titleFa: شمارهٔ ۱۵
+authorSlug: fuzuli
+collectionSlug: divan-fa-ghazal
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 15
+sourceNote: 'https://ganjoor.net/fozooli/divan/ghazal/sh15'
+status: DRAFT
+---
+عشقت از دایره عقل برون کرد مرا
+داخل سلسله اهل جنون کرد مرا
+
+در غم عشق بتان هیچ کسی چون من نیست
+نظری کن که غم عشق تو چون کرد مرا
+
+من نبودم به غم عشق چنین به طاقت
+کمی لطف تو بسیار زبون کرد مرا
+
+بامیدی که مگر طعنه زنان نشناسند
+شادم از اشک که آغشته بخون کرد مرا
+
+رسته بودم ز گرفتاری شیرین دهنان
+باز لعل تو مقید بفسون کرد مرا
+
+کم نشد بی لب شیرین تو جان کندن من
+وه که این شیوه ز فرهاد فزون کرد مرا
+
+ز ازل در دل من بود فضولی غم عشق
+فلک آشفته بدینسان نه کنون کرد مرا

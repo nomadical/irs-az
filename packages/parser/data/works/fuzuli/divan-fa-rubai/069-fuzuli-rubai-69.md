@@ -1,0 +1,20 @@
+---
+slug: fuzuli-rubai-69
+sourceId: ganjoor-117233
+titleAz: شمارهٔ ۶۹
+titleFa: شمارهٔ ۶۹
+authorSlug: fuzuli
+collectionSlug: divan-fa-rubai
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: RUBAI
+order: 69
+sourceNote: 'https://ganjoor.net/fozooli/divan/robaee/sh69'
+status: DRAFT
+---
+ای بر همه اتباع فرمان تو فرض
+در دمت احسان تو رزق همه فرض
+
+کار همه خلق را میسر سامان
+ناگشته بر آستانه قدر تو عرض

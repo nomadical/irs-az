@@ -1,0 +1,35 @@
+---
+slug: fuzuli-qezel-60
+sourceId: ganjoor-116766
+titleAz: شمارهٔ ۶۰
+titleFa: شمارهٔ ۶۰
+authorSlug: fuzuli
+collectionSlug: divan-fa-ghazal
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 60
+sourceNote: 'https://ganjoor.net/fozooli/divan/ghazal/sh60'
+status: DRAFT
+---
+قرآن صفات جاه و جلال محمد است
+احکام شرع شرح کمال محمد است
+
+اخبار انبیا که سراسر شنیده
+یک یک بیان حسن خصال محمد است
+
+آن کاف و نون که اصل وجودست خلق را
+کاف کمال و نون نوال محمد است
+
+مدی که بر سر الف آدمست تاج
+مضمون میم و معنی دال محمد است
+
+زیب صحیفه ازل و نسخه ابد
+از نقطهای دانه خال محمد است
+
+سیاح درک باصره عقل کی رسد
+جایی که جلوه گاه جمال محمد است
+
+از دور نیست کار فضولی بانتظام
+از دولت محمد و آل محمد است

@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-233
+sourceId: ganjoor-15228
+titleAz: رباعی شمارهٔ   ۲۳۳
+titleFa: رباعی شمارهٔ   ۲۳۳
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 858
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh233'
+status: DRAFT
+---
+بی‌آنکه بدی به جای آن مه کردم
+یا هیچ گنه نعوذبالله کردم
+
+از جرم نکرده توبه صد ره کردم
+چون توبه قبول نیست کوته کردم

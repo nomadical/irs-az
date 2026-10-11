@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-176
+sourceId: ganjoor-15171
+titleAz: رباعی شمارهٔ   ۱۷۶
+titleFa: رباعی شمارهٔ   ۱۷۶
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 801
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh176'
+status: DRAFT
+---
+هر کس که شود به مال دنیا فیروز
+در چشم کسان بزرگ باشد شب و روز
+
+گر بخت سعید و حسن طالع داری
+از مال جهان گنج سعادت اندوز

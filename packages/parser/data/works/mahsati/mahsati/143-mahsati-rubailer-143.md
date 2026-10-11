@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubailer-143
+sourceId: ganjoor-50203
+titleAz: رباعی شمارۀ ۱۴۳
+titleFa: رباعی شمارۀ ۱۴۳
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 143
+sourceNote: 'https://ganjoor.net/mahsati/robmah/sh143'
+status: DRAFT
+---
+دوش از غم هجرت ای بت عهدشکن
+چون دوست همی گریست بر من دشمن
+
+از بس که من از عشق تو می‌نالیدم
+تا روز همی سوخت دل شمع به من

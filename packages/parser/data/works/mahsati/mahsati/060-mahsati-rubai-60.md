@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubai-60
+sourceId: ganjoor-133784
+titleAz: شمارهٔ ۶۰
+titleFa: شمارهٔ ۶۰
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 60
+sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh60'
+status: DRAFT
+---
+هر کارد که از کشته خود برگیرد
+و‌َاندر لب و دندان چو شکر گیرد
+
+گر بار دگر بر گلوی کشته نهد
+از ذوق لبش زندگی از سر گیرد

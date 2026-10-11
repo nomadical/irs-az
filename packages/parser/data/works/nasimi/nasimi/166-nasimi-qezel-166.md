@@ -1,0 +1,28 @@
+---
+slug: nasimi-qezel-166
+sourceId: ganjoor-117461
+titleAz: شمارهٔ ۱۶۶
+titleFa: شمارهٔ ۱۶۶
+authorSlug: nasimi
+collectionSlug: nasimi
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 166
+sourceNote: 'https://ganjoor.net/nasimi/divan/ghazal/sh166'
+status: DRAFT
+---
+می‌کشد دل یک طرف خط تو کاکل یک طرف
+خال مشکین یک طرف زلف چو سنبل یک طرف
+
+بر امید آن که باز آیی تو ای گل! در چمن
+چشم بر ره مانده نرگس یک طرف گل یک طرف
+
+هر سحرگه راست کی خسبند مرغان در چمن
+ناله من یک طرف، افغان بلبل یک طرف
+
+تا جدا افتاده ام از روی ماهت ای حبیب!
+من فتادم یک طرف صبر و تحمل یک طرف
+
+دارد از زلف پریشانت نسیمی صد بلا
+بر سر او هم بلا شد باز کاکل یک طرف

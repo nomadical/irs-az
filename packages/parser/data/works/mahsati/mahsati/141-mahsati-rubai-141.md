@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubai-141
+sourceId: ganjoor-133865
+titleAz: شمارهٔ ۱۴۱
+titleFa: شمارهٔ ۱۴۱
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 141
+sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh141'
+status: DRAFT
+---
+ای شمع رخت را دل من پروانه
+وی لطف ترا به هیچ کس پروا، نه
+
+مستوفی عشقت به قلم خواهد داد
+از خط لبت به عارضت پروانه

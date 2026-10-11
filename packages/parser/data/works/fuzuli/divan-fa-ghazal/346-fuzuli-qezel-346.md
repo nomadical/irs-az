@@ -1,0 +1,35 @@
+---
+slug: fuzuli-qezel-346
+sourceId: ganjoor-117052
+titleAz: شمارهٔ ۳۴۶
+titleFa: شمارهٔ ۳۴۶
+authorSlug: fuzuli
+collectionSlug: divan-fa-ghazal
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 346
+sourceNote: 'https://ganjoor.net/fozooli/divan/ghazal/sh346'
+status: DRAFT
+---
+اگر چه نیست ترحم ترا بزاری من
+نمی شود ز تو قطع امیدواری من
+
+بجور کشت مرا در وفای تو اغیار
+ترا چه شد که نکردی بلطف یاری من
+
+شدم فتاده تر از خاک ره نکرد کسی
+بخاک پای تو اظهار خاکساری من
+
+ز جست و جوی تو یک دم قرار نیست مرا
+قرار یافت بدور تو بی قراری من
+
+فتاده ام برهت سوی من فکن نظری
+کجا رسید ببین در ره تو خواری من
+
+مرا ز آتش دوزخ چه باک روز جزا
+طریق عشق تو بس راه رستگاری من
+
+غم فراق فضولی مرا رساند بجان
+اجل کجاست که آید بغمگساری من

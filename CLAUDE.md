@@ -32,6 +32,7 @@ pnpm build                      # build everything
 - **`@@index([collectionId, order])`** on Work — the compound index powers prev/next queries
 - **`@@unique([workId, language, type])`** on Translation — prevents duplicates
 - **Submissions** use a single table with JSON payload, type-discriminated
+- **Work slugs** are readable (`fuzuli-qezel-7`). `Work.sourceId` is the stable import key (e.g. `ganjoor-116713`); renamed slugs go into `previousSlugs` and old URLs 308-redirect (middleware for legacy slugs, page fallback otherwise)
 
 ## i18n
 - Three UI languages: az (default), ru, en

@@ -1,0 +1,20 @@
+---
+slug: fuzuli-rubai-97
+sourceId: ganjoor-117261
+titleAz: شمارهٔ ۹۷
+titleFa: شمارهٔ ۹۷
+authorSlug: fuzuli
+collectionSlug: divan-fa-rubai
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: RUBAI
+order: 97
+sourceNote: 'https://ganjoor.net/fozooli/divan/robaee/sh97'
+status: DRAFT
+---
+گر طالب آرام دلی کام مجو
+ور کام طلب می کنی آرام مجو
+
+دامیست جهان تو مرغی افتاده بدام
+آرام دل و کام درین دام مجو

@@ -11,6 +11,7 @@ import {
 import { writeCollectionMd, writeWorkMd, writeTranslationMd } from '../writers/md-writer';
 import { slugify } from '../utils/slug';
 import { detectScript } from '../utils/wikitext';
+import { ganjoorSlug } from '../utils/ganjoor-slug';
 
 const CONFIG_PATH = path.resolve(__dirname, '../../data/config/authors.json');
 
@@ -154,11 +155,13 @@ async function scrapeGanjoor(cfg: AuthorConfig, dryRun: boolean) {
     const form = col.form ?? mapGanjoorForm(col.catUrl);
 
     for (const poem of poems) {
-      const workSlug = slugify(poem.titleFa) || `ganjoor-${poem.ganjoorId}`;
+      const sourceId = `ganjoor-${poem.ganjoorId}`;
+      const workSlug = ganjoorSlug(cfg.slug, poem.sourceUrl) ?? sourceId;
 
       writeWorkMd(
         {
           slug: workSlug,
+          sourceId,
           titleAz: poem.titleFa, // Will need manual editing
           titleFa: poem.titleFa,
           authorSlug: cfg.slug,

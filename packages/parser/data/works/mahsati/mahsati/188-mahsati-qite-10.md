@@ -1,0 +1,19 @@
+---
+slug: mahsati-qite-10
+sourceId: ganjoor-133914
+titleAz: شمارهٔ  ۱۰
+titleFa: شمارهٔ  ۱۰
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 188
+sourceNote: 'https://ganjoor.net/mahsati/divan/ghete/sh10'
+status: DRAFT
+---
+گر بیفتد یک سر مویی ز خاتون زمان
+بس گنه آویزه دارد بی ریا و ریب و شک
+
+آنچه حیوان است از تأثیر او . . . شود
+روسپی زاید میان آب دریاها سمک

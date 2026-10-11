@@ -1,0 +1,35 @@
+---
+slug: fuzuli-qezel-124
+sourceId: ganjoor-116830
+titleAz: شمارهٔ ۱۲۴
+titleFa: شمارهٔ ۱۲۴
+authorSlug: fuzuli
+collectionSlug: divan-fa-ghazal
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 124
+sourceNote: 'https://ganjoor.net/fozooli/divan/ghazal/sh124'
+status: DRAFT
+---
+تنگ آمده بجلوه آهم فضای چرخ
+خواهد گذشت عاقبت از تنگنای چرخ
+
+بر سر هزار سنگ رسد هر زمان مرا
+گویا که ریخت از نم اشکم بنای چرخ
+
+با دود آه چون نکنم تیره چرخ را
+با داغ درد سوخت دلم را جفای چرخ
+
+پر شد ز آتش دل من چرخ بعد ازین
+باشد مگر مقام ملایک و رای چرخ
+
+از رشک ساکنان سر کوی آن پری
+ماتم سرا شدست ملک را سرای چرخ
+
+تنها نیم من از روش چرخ در بلا
+وارسته کجاست ز دام بلای چرخ
+
+گر چرخ بی وفاست بگویم عجب مدار
+هرگز کسی ندیده فضولی وفای چرخ

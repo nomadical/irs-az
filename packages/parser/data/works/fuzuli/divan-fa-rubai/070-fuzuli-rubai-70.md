@@ -1,0 +1,20 @@
+---
+slug: fuzuli-rubai-70
+sourceId: ganjoor-117234
+titleAz: شمارهٔ ۷۰
+titleFa: شمارهٔ ۷۰
+authorSlug: fuzuli
+collectionSlug: divan-fa-rubai
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: RUBAI
+order: 70
+sourceNote: 'https://ganjoor.net/fozooli/divan/robaee/sh70'
+status: DRAFT
+---
+ای در دل ما ز ذوق قرب تو نشاط
+علم تو محیط هستی ماست محاط
+
+فرمان تو کارخانه فطرت را
+هر لحظه برنگی دگر افکند بساط

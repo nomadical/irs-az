@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubai-162
+sourceId: ganjoor-133886
+titleAz: شمارهٔ ۱۶۲
+titleFa: شمارهٔ ۱۶۲
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 162
+sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh162'
+status: DRAFT
+---
+در سنگ اگر شوی چو پار ای ساقی
+بر آب اجل کنی گذار ای ساقی
+
+خاک است جهان صوت بر آر ای مطرب
+باد است زمان باده بیار ای ساقی

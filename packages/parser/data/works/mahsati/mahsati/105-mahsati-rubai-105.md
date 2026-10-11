@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubai-105
+sourceId: ganjoor-133829
+titleAz: شمارهٔ ۱۰۵
+titleFa: شمارهٔ ۱۰۵
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 105
+sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh105'
+status: DRAFT
+---
+هر جوی که از چهره به ناخن کندم
+از دیده کنون آب در او می‌بندم
+
+بی آبی روی بود ار یکچندم
+آب از مژه بر روی از آن می‌بندم

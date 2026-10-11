@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-67
+sourceId: ganjoor-15062
+titleAz: رباعی شمارهٔ   ۶۷
+titleFa: رباعی شمارهٔ   ۶۷
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 692
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh67'
+status: DRAFT
+---
+چون سوی تو نامه‌ای نویسم ز نخست
+یا از پی قاصدی کمر بندم چست
+
+باد سحری نامه‌رسان من و توست
+ای باد چه مرغی‌؟ که پرت باد درست

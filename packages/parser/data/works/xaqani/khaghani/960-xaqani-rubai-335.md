@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-335
+sourceId: ganjoor-15330
+titleAz: رباعی شمارهٔ   ۳۳۵
+titleFa: رباعی شمارهٔ   ۳۳۵
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 960
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh335'
+status: DRAFT
+---
+گر کشتنیم چنان کش از بهر خدای
+کز بنده شنوده باشی از روح افزای
+
+زان میگون لب و زان مژهٔ جان فرسای
+مستم کن و آنگه رگ جانم بگشای

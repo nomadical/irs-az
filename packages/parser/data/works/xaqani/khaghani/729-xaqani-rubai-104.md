@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-104
+sourceId: ganjoor-15099
+titleAz: رباعی شمارهٔ   ۱۰۴
+titleFa: رباعی شمارهٔ   ۱۰۴
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 729
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh104'
+status: DRAFT
+---
+والا ملکی که داد سلطانی داد
+من دانم گفت کام خاقانی داد
+
+گفتم ملکا چه داد دل دانی داد
+چون عمر گذشته باز نتوانی داد

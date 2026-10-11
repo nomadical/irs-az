@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-27
+sourceId: ganjoor-15022
+titleAz: رباعی شمارهٔ   ۲۷
+titleFa: رباعی شمارهٔ   ۲۷
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 652
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh27'
+status: DRAFT
+---
+دستی که گرفتی سر آن زلف چو شَست
+پائی که ره وصل نوشتی پیوست
+
+زان دست کنون در گِل غم دارم پای
+زان پای کنون بر سر دل دارم دست

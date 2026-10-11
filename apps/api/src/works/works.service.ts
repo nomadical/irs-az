@@ -74,6 +74,16 @@ export class WorksService {
     return work;
   }
 
+  /** Current slug for a work's current or previous slug, so old URLs can redirect. */
+  async resolveSlug(slug: string) {
+    const work = await this.prisma.work.findFirst({
+      where: { status: 'PUBLISHED', OR: [{ slug }, { previousSlugs: { has: slug } }] },
+      select: { slug: true },
+    });
+    if (!work) throw new NotFoundException('Work not found');
+    return work;
+  }
+
   async findBySlug(slug: string) {
     const work = await this.prisma.work.findUnique({
       where: { slug, status: 'PUBLISHED' },

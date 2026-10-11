@@ -1,0 +1,35 @@
+---
+slug: fuzuli-qezel-181
+sourceId: ganjoor-116887
+titleAz: شمارهٔ ۱۸۱
+titleFa: شمارهٔ ۱۸۱
+authorSlug: fuzuli
+collectionSlug: divan-fa-ghazal
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 181
+sourceNote: 'https://ganjoor.net/fozooli/divan/ghazal/sh181'
+status: DRAFT
+---
+حبیب درد دلم را دوا نخواهد کرد
+ترحمی بمن مبتلا نخواهد کرد
+
+چو تیر تا نفتد دور ازان کمان ابرو
+رقیب در دل ما هیچ جا نخواهد کرد
+
+کمست مهر بتان آن قدر که گر همه را
+کنند جمع بیک کس وفا نخواهد کرد
+
+بتی که حال دل زار عاشقان داند
+بعاشقان جفاکش جفا نخواهد کرد
+
+گر افکند بگریبان دل غمت صد چاک
+ز دست دامن عشقت رها نخواهد کرد
+
+هلاک ما مطلب زانکه در ره عشقت
+کسی ز اهل وفا کار ما نخواهد کرد
+
+ز باغ وصل فضولی گلی نخواهد چید
+کسی که صبر بداغ بلا نخواهد کرد

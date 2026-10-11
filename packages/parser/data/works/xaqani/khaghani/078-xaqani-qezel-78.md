@@ -1,0 +1,34 @@
+---
+slug: xaqani-qezel-78
+sourceId: ganjoor-14447
+titleAz: غزل شمارهٔ ۷۸
+titleFa: غزل شمارهٔ ۷۸
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 78
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghazalkh/sh78'
+status: DRAFT
+---
+چرا ننْهم؟ نهم دل بر خیالت
+چرا ندْهم؟ دهم جان در وصالت
+
+بپویم بو که درگُنجم به کویت
+بجویم بو که دریابم جمالت
+
+کمالت عاجزم کرد و عجب نیست
+که تو هم عاجزی اندر کمالت
+
+شبم روشن شده است و من ز خوبی
+ندانم بدر خوانم یا هلالت
+
+مرا پرسی که دل داری؟ چه گویم
+که بس مشکل فتاده است این سؤالت
+
+خیالت دوش حالم دید گفتا
+که دور از حال من زار است حالت
+
+ز خاقانی خیالی ماند و آن نیز
+مماناد ار بماند بی‌ خیالت

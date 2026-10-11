@@ -1,0 +1,35 @@
+---
+slug: fuzuli-qezel-5
+sourceId: ganjoor-116711
+titleAz: شمارهٔ ۵
+titleFa: شمارهٔ ۵
+authorSlug: fuzuli
+collectionSlug: divan-fa-ghazal
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 5
+sourceNote: 'https://ganjoor.net/fozooli/divan/ghazal/sh5'
+status: DRAFT
+---
+بکه نسبت کنم آن سرو صنوبر قد را
+انه اعظم من کل عظیم قدرا
+
+می نماید بر او نیک بدیهای رقیب
+این نه نیک است که او نیک نداند بد را
+
+حد اظهار الم نیست مرا پیش بتان
+بکه اظهار کنم این الم بی حد را
+
+مسند عشق ز من بیشتر این پایه نداشت
+اشک من سر بگردون سر این مسند را
+
+دود دل کرد سیه روز مرا تا شده ام
+مایل آن مهوش مشکین خط سیمین خد را
+
+مقصد ماست درین باغ گل روی تو لیک
+هست صد خار ملامت گل این مقصد را
+
+این چه قید است فضولی که ترا هست ز عشق
+به ازین نیست کزین در گذرانی خود را

@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubailer-145
+sourceId: ganjoor-50205
+titleAz: رباعی شمارۀ ۱۴۴
+titleFa: رباعی شمارۀ ۱۴۴
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 145
+sourceNote: 'https://ganjoor.net/mahsati/robmah/sh145'
+status: DRAFT
+---
+کو آن همه زینهار و عهدت با من
+در بستن عهد آن همه جهدت با من
+
+ناکرده جنایتی بگو از چه سبب
+شد زهر سخن‌های چو شهدت با من

@@ -1,0 +1,31 @@
+---
+slug: xaqani-qezel-186
+sourceId: ganjoor-14555
+titleAz: غزل شمارهٔ ۱۸۶
+titleFa: غزل شمارهٔ ۱۸۶
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 186
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghazalkh/sh186'
+status: DRAFT
+---
+دُرّ خوشاب را لبت سخت خوش آب می‌دهد
+نرگس مست را خطت خوب سراب می‌دهد
+
+رشوه به چشم مست تو نرگس تازه می‌برد
+باژ به زلف شست تو عنبر ناب می‌دهد
+
+دیده پرآب کرده‌ای رو که به دست غمزه‌ات
+هندوی دیده تیغ را بهر تو آب می‌دهد
+
+طرفه‌تر آنکه طره‌ات سر ز خطت همی کشد
+پس به تکلف اندرو حسن تو تاب می‌دهد
+
+ور ز خطت برون نهم پای ز بهر گردنم
+هم‌ سر زلف سرکشت تاب طناب می‌دهد
+
+بر سر کوی حسن تو پای دلم شکسته شد
+تا چو درنگ می‌کند جان به شتاب می‌دهد

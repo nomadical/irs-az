@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-213
+sourceId: ganjoor-15208
+titleAz: رباعی شمارهٔ   ۲۱۳
+titleFa: رباعی شمارهٔ   ۲۱۳
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 838
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh213'
+status: DRAFT
+---
+دُر زآن لب لعل نوش خوردت چینم
+لاله همه زآن رخ چو وردت چینم
+
+در بوسه لبت گزیده‌ام دردت کرد
+درمان دلم تویی که دردت چینم

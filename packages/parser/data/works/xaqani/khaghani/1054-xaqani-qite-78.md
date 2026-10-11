@@ -1,0 +1,25 @@
+---
+slug: xaqani-qite-78
+sourceId: ganjoor-27741
+titleAz: شمارهٔ ۷۸
+titleFa: شمارهٔ ۷۸
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 1054
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghetekh/sh78'
+status: DRAFT
+---
+خطی مجهول دیدم در مدینه
+بدانستم که آن خط آشنا نیست
+
+بر آن خط اولین سطری نبشته
+که جوزا نزد خورشید سما نیست
+
+به جان پادشا سوگند خوردم
+که نزد پادشاه جز پادشا نیست
+
+چو خاقانی نداند کاین چه سر است
+جواب این سخن گفتن روا نیست

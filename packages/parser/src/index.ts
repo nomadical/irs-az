@@ -4,6 +4,7 @@ import { scrapeWorksCommand } from './commands/scrape-works';
 import { auditCommand } from './commands/audit';
 import { importMdCommand } from './commands/import-md';
 import { scrapeAllCommand } from './commands/scrape-all';
+import { reslugCommand } from './commands/reslug';
 
 const program = new Command()
   .name('irs-parser')
@@ -15,5 +16,6 @@ program.addCommand(scrapeWorksCommand);
 program.addCommand(scrapeAllCommand);
 program.addCommand(auditCommand);
 program.addCommand(importMdCommand);
+program.addCommand(reslugCommand);
 
 program.parse();

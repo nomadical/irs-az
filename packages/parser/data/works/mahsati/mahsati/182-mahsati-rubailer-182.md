@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubailer-182
+sourceId: ganjoor-50242
+titleAz: رباعی شمارۀ ۱۸۲
+titleFa: رباعی شمارۀ ۱۸۲
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 182
+sourceNote: 'https://ganjoor.net/mahsati/robmah/sh182'
+status: DRAFT
+---
+در وقت بهار جز لب جوی مجوی
+جز وصف رخ یار سمن‌روی مگوی
+
+جز بادهٔ گلرنگ به شبگیر مگیر
+جز زلف بتان عنبرین بوی مبوی

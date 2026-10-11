@@ -1,0 +1,19 @@
+---
+slug: xaqani-qite-111
+sourceId: ganjoor-27774
+titleAz: شمارهٔ ۱۱۱
+titleFa: شمارهٔ ۱۱۱
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 1087
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghetekh/sh111'
+status: DRAFT
+---
+خاقانی اگرچه راست‌پیوندی
+پیوندِ تو کژ‌نهاد نپسندد
+
+آری همه کژ ز راست بگریزد
+چون دال که با الِف نپیوندد

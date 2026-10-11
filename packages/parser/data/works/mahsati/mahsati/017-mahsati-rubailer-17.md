@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubailer-17
+sourceId: ganjoor-50077
+titleAz: رباعی شمارۀ ۱۷
+titleFa: رباعی شمارۀ ۱۷
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 17
+sourceNote: 'https://ganjoor.net/mahsati/robmah/sh17'
+status: DRAFT
+---
+ایام چو آتشکده از سینهٔ ماست
+عالم کهن از وجود دیرینهٔ ماست
+
+اینک به مثل چو کوزه‌ای آب خوریم
+از خاک برادران پیشینهٔ ماست

@@ -1,0 +1,22 @@
+---
+slug: mahsati-qite-9
+sourceId: ganjoor-133913
+titleAz: شمارهٔ  ۹
+titleFa: شمارهٔ  ۹
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 187
+sourceNote: 'https://ganjoor.net/mahsati/divan/ghete/sh9'
+status: DRAFT
+---
+از جماع نره خر بر ماده خر
+رغبتی بر طبع خاتون اوفتاد
+
+با عمود شوهرش در نیمه شب
+از جلو آویخت در . . .ون اوفتاد
+
+گفت از بیراهه بیرون کن سمند
+گفت سرکش هست و مجنون اوفتاد

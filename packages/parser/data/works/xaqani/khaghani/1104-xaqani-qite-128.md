@@ -1,0 +1,28 @@
+---
+slug: xaqani-qite-128
+sourceId: ganjoor-27791
+titleAz: شمارهٔ ۱۲۸ - در مدح خاقان اعظم منوچهر شروان شاه
+titleFa: شمارهٔ ۱۲۸ - در مدح خاقان اعظم منوچهر شروان شاه
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 1104
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghetekh/sh128'
+status: DRAFT
+---
+ولینعمتم کیست خاقان اعظم
+کز انعام حق دعاگو شناسد
+
+محمد خصال است و حسان او من
+من او را شناسم مرا او شناسد
+
+منم در سخن مالک الملک معنی
+ملک سر این نکته نیکو شناسد
+
+بلی هر زری را عیاری است و وزنی
+محک داند آن و ترازو شناسد
+
+بیانی که نغز است فرزانه داند
+کمانی که سخت است بازو شناسد

@@ -1,0 +1,19 @@
+---
+slug: nasimi-rubai-5
+sourceId: ganjoor-117608
+titleAz: شمارهٔ ۵
+titleFa: شمارهٔ ۵
+authorSlug: nasimi
+collectionSlug: nasimi
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 310
+sourceNote: 'https://ganjoor.net/nasimi/divan/robaee/sh5'
+status: DRAFT
+---
+در عین علی سر الهی پیداست
+در لام علی هوالعلی الاعلاست
+
+در یای علی صورت حی القیوم
+بشناس و بدان که اسم اعظم آنجاست

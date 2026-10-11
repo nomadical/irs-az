@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-102
+sourceId: ganjoor-15097
+titleAz: رباعی شمارهٔ   ۱۰۲
+titleFa: رباعی شمارهٔ   ۱۰۲
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 727
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh102'
+status: DRAFT
+---
+روزی فلکم بخت اگر بازآرد
+یار از دل گم بوده خبر بازآرد
+
+هجران بشود آتشم از دل ببرد
+وصل آید و آبم به جگر بازآرد

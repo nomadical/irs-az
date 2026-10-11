@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubailer-92
+sourceId: ganjoor-50152
+titleAz: رباعی شمارۀ ۹۲
+titleFa: رباعی شمارۀ ۹۲
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 92
+sourceNote: 'https://ganjoor.net/mahsati/robmah/sh92'
+status: DRAFT
+---
+جانا تو ز دیده اشک بیهوده مبار
+دلتنگی من بس است دل تنگ مدار
+
+تو معشوقی گریستن کار تو نیست
+کار من بیچاره به من باز گذار

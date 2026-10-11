@@ -1,0 +1,35 @@
+---
+slug: fuzuli-qezel-217
+sourceId: ganjoor-116923
+titleAz: شمارهٔ ۲۱۷
+titleFa: شمارهٔ ۲۱۷
+authorSlug: fuzuli
+collectionSlug: divan-fa-ghazal
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 217
+sourceNote: 'https://ganjoor.net/fozooli/divan/ghazal/sh217'
+status: DRAFT
+---
+پیش تو گل از شرم سرانداخته در پیش
+گویا که پشیمان شده از آمدن خویش
+
+گل جای بسر دارد اگر بگسلد از خار
+ای گل منشین پیش رقیبان بداندیش
+
+در باغ چرا پیرهن گل شده خونین
+ای گل تو مگر بر رگ بلبل زده نیش
+
+چون غنچه خندان که شود گل ز دم باد
+ناصح ز دم سرد تو شد آتش دل بیش
+
+گر سینه شکافم دل صد پاره نماید
+چون غنچه چرا فاش کنم حال دل ریش
+
+چون رخ بنمودی بده از لعل لبت کام
+در دور گل آن به که کند کس طرب و عیش
+
+بربود دل و دین من آن غمزه فضولی
+فریاد ز بی باکی آن کافر بدکیش

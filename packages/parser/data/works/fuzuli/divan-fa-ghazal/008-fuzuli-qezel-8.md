@@ -1,0 +1,35 @@
+---
+slug: fuzuli-qezel-8
+sourceId: ganjoor-116714
+titleAz: شمارهٔ ۸
+titleFa: شمارهٔ ۸
+authorSlug: fuzuli
+collectionSlug: divan-fa-ghazal
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 8
+sourceNote: 'https://ganjoor.net/fozooli/divan/ghazal/sh8'
+status: DRAFT
+---
+ز ضعف تاب تردد دگر نماند مرا
+خوشم که ضعف ز سرگشتگی رهاند مرا
+
+فغان که آرزوی وصل آن دو چشم سیاه
+چو میل سرمه بخاک سیه نشاند مرا
+
+تنم ز آتش دل می گداخت گر شب غم
+سرشگ آب بر آتش نمی فشاند مرا
+
+جهانی از پی نظاره بر سرم شده جمع
+نگه کنید که سودا کجا رساند مرا
+
+درین امید که صیدم کند سگ در او
+هوس چون آهوی وحشی بسی دواند مرا
+
+میان مردمم این آبرو بس است که دوش
+پریوشی سگ درگاه خویش خواند مرا
+
+من گدا بکه گویم فضولی این غم دل
+که همچو سگ ز در او رقیب راند مرا

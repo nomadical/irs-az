@@ -95,6 +95,8 @@ export interface CollectionFrontmatter {
 
 export interface WorkFrontmatter {
   slug: string;
+  /** Stable source key (e.g. "ganjoor-27775"); the importer matches on it so slugs can change */
+  sourceId?: string;
   titleAz: string;
   titleRu?: string;
   titleFa?: string;

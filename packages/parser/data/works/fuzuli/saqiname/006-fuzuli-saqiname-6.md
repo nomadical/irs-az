@@ -1,0 +1,38 @@
+---
+slug: fuzuli-saqiname-6
+sourceId: ganjoor-117281
+titleAz: بخش ۶ - نشأه جام سوم
+titleFa: بخش ۶ - نشأه جام سوم
+authorSlug: fuzuli
+collectionSlug: saqiname
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: MASNAVI
+order: 6
+sourceNote: 'https://ganjoor.net/fozooli/saghiname/sh6'
+status: DRAFT
+---
+بیا ساقی آن جوهر صاف و پاک
+که جمشید برد آرزویش بخاک
+
+بمن ده که جمشیدیم آرزوست
+نه با ملک جمشیدیم من به اوست
+
+بیا ساقی آن ساغر سینه سوز
+که می سوزد از شوق آن جم هنوز
+
+بمن ده که آتش بهستی زنم
+در دین آتش پرستی زنم
+
+بیا ساقی آن راح ریحان شمیم
+که کیفیت اوست خلق کریم
+
+بمن ده دلم را گره بر گشای
+برویم در راز دیگر گشای
+
+ازین بیش فکر دل ریش کن
+بجام سیوم نشأه ام بیش کن
+
+که نطق از سیوم نشأه گویا کنم
+رموز دگر بر تو افشا کنم

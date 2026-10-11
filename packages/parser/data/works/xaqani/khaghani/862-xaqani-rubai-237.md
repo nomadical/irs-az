@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-237
+sourceId: ganjoor-15232
+titleAz: رباعی شمارهٔ   ۲۳۷
+titleFa: رباعی شمارهٔ   ۲۳۷
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 862
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh237'
+status: DRAFT
+---
+نونو غم آن راحت جان من دارم
+جوجو جانی در این جهان من دارم
+
+نازی که جهان بسوزد آن او دارد
+آهی که فلک بدرد آن من دارم

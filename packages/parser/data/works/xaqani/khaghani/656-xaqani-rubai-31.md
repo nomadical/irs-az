@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-31
+sourceId: ganjoor-15026
+titleAz: رباعی شمارهٔ   ۳۱
+titleFa: رباعی شمارهٔ   ۳۱
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 656
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh31'
+status: DRAFT
+---
+از فیض خیالت چمن سینه شکفت
+از دیدن رویت گل آئینه شکفت
+
+چون صبح لب از خندهٔ جاوید نبست
+هر گل که ز باغ دل بی‌کینه شکفت

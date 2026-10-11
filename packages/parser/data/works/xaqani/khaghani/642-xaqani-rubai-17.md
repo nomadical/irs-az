@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-17
+sourceId: ganjoor-15012
+titleAz: رباعی شمارهٔ   ۱۷
+titleFa: رباعی شمارهٔ   ۱۷
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 642
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh17'
+status: DRAFT
+---
+گر من به وفای عشق آن حورنسب
+در دام دگر بتان نیفتم چه عجب
+
+حاشا که چو گنجشک بُوَم دانه‌طلب
+کان ماه مرا همای داده‌است لقب

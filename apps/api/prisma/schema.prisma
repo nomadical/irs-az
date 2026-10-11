@@ -219,6 +219,11 @@ model Work {
 
   sourceNote String?
 
+  // Stable import key (e.g. "ganjoor-27775"), so slugs can change without duplicating on re-import
+  sourceId      String?  @unique
+  // Old slugs that 301-redirect to the current one
+  previousSlugs String[] @default([])
+
   status    PublishStatus @default(DRAFT)
   viewCount Int           @default(0)
 
@@ -230,6 +235,7 @@ model Work {
   updatedAt DateTime @updatedAt
 
   @@index([authorId])
+  @@index([previousSlugs], type: Gin)
   @@index([collectionId, order])
   @@index([slug])
   @@index([originalLang])

@@ -1,0 +1,20 @@
+---
+slug: fuzuli-rubai-2
+sourceId: ganjoor-117166
+titleAz: شمارهٔ ۲
+titleFa: شمارهٔ ۲
+authorSlug: fuzuli
+collectionSlug: divan-fa-rubai
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: RUBAI
+order: 2
+sourceNote: 'https://ganjoor.net/fozooli/divan/robaee/sh2'
+status: DRAFT
+---
+ای معرفتت وسیله خلقت ما
+لطف تو خمیر مایه طینت ما
+
+لازم شده طاعت تو بر ذمت ما
+با آنکه تو بی نیازی از طاعت ما

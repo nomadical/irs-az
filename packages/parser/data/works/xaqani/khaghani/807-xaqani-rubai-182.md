@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-182
+sourceId: ganjoor-15177
+titleAz: رباعی شمارهٔ   ۱۸۲
+titleFa: رباعی شمارهٔ   ۱۸۲
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 807
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh182'
+status: DRAFT
+---
+دل، سُغْبه‌یِ عشقِ توست، با تن مَسِتیز
+اینک دل و تن، تو راست؛ با من مَسِتیز
+
+بیدادِ تو ریخت خونم، انصاف بده!
+ای دوست کش و غریب دشمن مَسِتیز

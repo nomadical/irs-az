@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-301
+sourceId: ganjoor-15296
+titleAz: رباعی شمارهٔ   ۳۰۱
+titleFa: رباعی شمارهٔ   ۳۰۱
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 926
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh301'
+status: DRAFT
+---
+دیدم به ره آن مه خود و عید سپاه
+بر بسته نقاب و نو چنین باشد ماه
+
+در روزه مرا بیست و ششم بود از ماه
+دیدم رخ او روزه گشودم در راه

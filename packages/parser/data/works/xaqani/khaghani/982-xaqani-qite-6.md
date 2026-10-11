@@ -1,0 +1,19 @@
+---
+slug: xaqani-qite-6
+sourceId: ganjoor-27669
+titleAz: شمارهٔ ۶
+titleFa: شمارهٔ ۶
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 982
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghetekh/sh6'
+status: DRAFT
+---
+کبوتر حرم آمد ز کعبهٔ سعدا
+بشاره داد چو دلالهٔ عروس سبا
+
+چو هدهدی که سحر خاست بر سلیمان‌وار
+مبشر دم صبح آمد و برید صبا

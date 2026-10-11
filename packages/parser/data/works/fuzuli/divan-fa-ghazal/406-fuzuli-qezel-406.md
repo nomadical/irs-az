@@ -1,0 +1,35 @@
+---
+slug: fuzuli-qezel-406
+sourceId: ganjoor-117112
+titleAz: شمارهٔ ۴۰۶
+titleFa: شمارهٔ ۴۰۶
+authorSlug: fuzuli
+collectionSlug: divan-fa-ghazal
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 406
+sourceNote: 'https://ganjoor.net/fozooli/divan/ghazal/sh406'
+status: DRAFT
+---
+هرگز نظر به بی سر و پایی نمی کنی
+کاو را هلاک تیر بلایی نمی کنی
+
+گرچه طبیب خسته دلانی چه فایده
+مردیم ما ز درد دوایی نمی کنی
+
+تو پادشاه کشور حسنی ولی چه سود
+رحمی بحال هیچ گدایی نمی کنی
+
+صد عهد می کنی که وفایی کنی بما
+اما بهیچ عهد وفایی نمی کنی
+
+دینی نمانده است که چشمت نبرده است
+کس را نمی کشی که غزایی نمی کنی
+
+تیر جفا که می زنی از غمزه بر دلم
+عین خطاست گرچه خطایی نمی کنی
+
+غیر از وفا شها ز فضولی چه دیده
+کاو را تو مدتیست جفایی نمی کنی

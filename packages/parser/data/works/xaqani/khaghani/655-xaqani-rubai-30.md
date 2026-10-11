@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-30
+sourceId: ganjoor-15025
+titleAz: رباعی شمارهٔ   ۳۰
+titleFa: رباعی شمارهٔ   ۳۰
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 655
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh30'
+status: DRAFT
+---
+چه آتش و چه خیانت از روی صفات
+خائن رهد از آتش دوزخ هیهات
+
+یک شعله از آتش و زمینی خرمن
+یک ذره خیانت و جهانی درکات

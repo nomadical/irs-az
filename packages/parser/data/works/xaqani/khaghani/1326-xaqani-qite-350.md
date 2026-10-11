@@ -1,0 +1,19 @@
+---
+slug: xaqani-qite-350
+sourceId: ganjoor-28013
+titleAz: شمارهٔ ۳۵۰
+titleFa: شمارهٔ ۳۵۰
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 1326
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghetekh/sh350'
+status: DRAFT
+---
+ز آب سخن بحر ارجیش را من
+مدد می‌دهم تا تو تاثیر بینی
+
+ازین بحر ماهی گرفتندی اکنون
+چو من آمده‌ستم صدف‌گیر بینی

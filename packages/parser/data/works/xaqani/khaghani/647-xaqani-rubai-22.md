@@ -1,0 +1,19 @@
+---
+slug: xaqani-rubai-22
+sourceId: ganjoor-15017
+titleAz: رباعی شمارهٔ   ۲۲
+titleFa: رباعی شمارهٔ   ۲۲
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 647
+sourceNote: 'https://ganjoor.net/khaghani/divankh/robaeekh/sh22'
+status: DRAFT
+---
+گم شد دل خاقانی و جان بر دویَک است
+وز غدر فلک خلاص را هم به شک است
+
+هر مائده‌ای که دست‌ساز فلک است
+یا بی‌نمک است یا سراسر نمک است

@@ -1,0 +1,19 @@
+---
+slug: mahsati-rubai-142
+sourceId: ganjoor-133866
+titleAz: شمارهٔ ۱۴۲
+titleFa: شمارهٔ ۱۴۲
+authorSlug: mahsati
+collectionSlug: mahsati
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 142
+sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh142'
+status: DRAFT
+---
+گفتم که مرا از نظر انداخته‌ای
+گفتا که به مهر دگران ساخته‌ای
+
+گفتم که ترا شناختم بی مهری
+گفتا که مرا هنوز نشناخته‌ای

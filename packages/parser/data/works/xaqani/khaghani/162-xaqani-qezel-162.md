@@ -1,0 +1,37 @@
+---
+slug: xaqani-qezel-162
+sourceId: ganjoor-14531
+titleAz: غزل شمارهٔ ۱۶۲
+titleFa: غزل شمارهٔ ۱۶۲
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 162
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghazalkh/sh162'
+status: DRAFT
+---
+زهر با یاد تو شکر گردد
+شام با روی تو سحر گردد
+
+درد عشق تو بوالعجب دردی است
+که چو درمان کنم بتر گردد
+
+نتواند نشاند درد دلم
+گر صفاهان به گل‌شکر گردد
+
+می‌کشم رطل عشق تا بغداد
+هم کشم گر ز سر به در گردد
+
+بر تو تا زنده‌ام دگر نکنم
+گرچه کار جهان دگر گردد
+
+برنگردم من از تو تا عمر است
+آن ندانم که عمر بر گردد
+
+خاک روبی است بنده خاقانی
+کز قبول تو نامور گردد
+
+بنده خاقانی از تو سرور گشت
+بس نماند که تاجور گردد

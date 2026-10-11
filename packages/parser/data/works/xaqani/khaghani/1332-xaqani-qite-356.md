@@ -1,0 +1,19 @@
+---
+slug: xaqani-qite-356
+sourceId: ganjoor-28019
+titleAz: شمارهٔ ۳۵۶
+titleFa: شمارهٔ ۳۵۶
+authorSlug: xaqani
+collectionSlug: khaghani
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 1332
+sourceNote: 'https://ganjoor.net/khaghani/divankh/ghetekh/sh356'
+status: DRAFT
+---
+می تا خط جام آر به رنگ لب دل‌جوی
+کز سبزه خط سبزه برآورد لب جوی
+
+اکنون که چمن سبزْ سَلَب گشت سه لب خواه
+یعنی لب جام و لب جوی و لب دل‌جوی
