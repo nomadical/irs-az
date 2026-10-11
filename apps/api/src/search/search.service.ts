@@ -3,6 +3,9 @@ import { ConfigService } from '@nestjs/config';
 import { MeiliSearch } from 'meilisearch';
 import { PrismaService } from '../prisma/prisma.service';
 import { SearchQueryDto } from './dto/search-query.dto';
+import { foldAz } from '../common/utils/slug';
+
+const fold = (text: string | null | undefined) => (text ? foldAz(text) : text);
 
 @Injectable()
 export class SearchService implements OnModuleInit {
@@ -22,13 +25,18 @@ export class SearchService implements OnModuleInit {
     try {
       const index = this.client.index('works');
       await index.updateSettings({
+        // *Plain fields hold the same text without Azerbaijani letters (see foldAz), so
+        // "qezel" finds "qəzəl". They are searchable but not returned.
         searchableAttributes: [
           'titleAz',
+          'titleAzPlain',
           'titleRu',
           'titleFa',
           'authorNameAz',
+          'authorNamePlain',
           'authorNameRu',
           'body',
+          'bodyPlain',
           'bodyRu',
         ],
         filterableAttributes: [
@@ -84,8 +92,11 @@ export class SearchService implements OnModuleInit {
         titleRu: work.titleRu,
         titleFa: work.titleFa,
         body: work.body.substring(0, 2000),
+        bodyPlain: fold(work.body.substring(0, 2000)),
         bodyRu: ruTranslation?.body?.substring(0, 2000),
+        titleAzPlain: fold(work.titleAz),
         authorNameAz: work.author.nameAz,
+        authorNamePlain: fold(work.author.nameAz),
         authorNameRu: work.author.nameRu,
         authorSlug: work.author.slug,
         genre: work.genre,

@@ -15,6 +15,16 @@ const AZ_CHAR_MAP: Record<string, string> = {
   I: 'i',
 };
 
+const AZ_FOLD = /[əƏüÜöÖşŞçÇğĞıİ]/g;
+
+/**
+ * Azerbaijani letters → plain Latin (ə→e, ı→i, ş→s…), everything else unchanged.
+ * For search: people without an Azerbaijani keyboard type "qezel" for "qəzəl".
+ */
+export function foldAz(text: string): string {
+  return text.replace(AZ_FOLD, (c) => (c === 'İ' ? 'i' : AZ_CHAR_MAP[c]));
+}
+
 export function slugify(text: string): string {
   let result = text.toLowerCase();
 
