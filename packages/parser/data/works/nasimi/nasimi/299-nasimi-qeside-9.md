@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qeside-9
 sourceId: ganjoor-117595
-titleAz: شمارهٔ ۹
+titleAz: Qəsidə 9
+titleRu: Касыда 9
 titleFa: شمارهٔ ۹
+titleEn: Qasida 9
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

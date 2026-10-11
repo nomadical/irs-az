@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-4
 sourceId: ganjoor-117121
-titleAz: شمارهٔ ۴
+titleAz: Qitə 4
+titleRu: Кыта 4
 titleFa: شمارهٔ ۴
+titleEn: Qit'a 4
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

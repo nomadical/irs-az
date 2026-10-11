@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-342
 sourceId: ganjoor-14711
-titleAz: غزل شمارهٔ ۳۴۲
+titleAz: Qəzəl 342
+titleRu: Газель 342
 titleFa: غزل شمارهٔ ۳۴۲
+titleEn: Ghazal 342
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

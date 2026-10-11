@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-70
 sourceId: ganjoor-117365
-titleAz: شمارهٔ ۷۰
+titleAz: Qəzəl 70
+titleRu: Газель 70
 titleFa: شمارهٔ ۷۰
+titleEn: Ghazal 70
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

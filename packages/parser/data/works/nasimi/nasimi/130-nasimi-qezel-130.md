@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-130
 sourceId: ganjoor-117425
-titleAz: شمارهٔ ۱۳۰
+titleAz: Qəzəl 130
+titleRu: Газель 130
 titleFa: شمارهٔ ۱۳۰
+titleEn: Ghazal 130
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

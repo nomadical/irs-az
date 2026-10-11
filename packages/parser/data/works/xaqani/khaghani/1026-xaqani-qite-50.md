@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-50
 sourceId: ganjoor-27713
-titleAz: شمارهٔ ۵۰ - در حکمت
+titleAz: Qitə 50
+titleRu: Кыта 50
 titleFa: شمارهٔ ۵۰ - در حکمت
+titleEn: Qit'a 50
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

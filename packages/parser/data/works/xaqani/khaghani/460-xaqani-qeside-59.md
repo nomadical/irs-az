@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-59
 sourceId: ganjoor-14829
-titleAz: شمارهٔ ۵۹ - در رثاء خانوادهٔ خود
+titleAz: Qəsidə 59
+titleRu: Касыда 59
 titleFa: شمارهٔ ۵۹ - در رثاء خانوادهٔ خود
+titleEn: Qasida 59
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

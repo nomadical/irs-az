@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-213
 sourceId: ganjoor-117508
-titleAz: شمارهٔ ۲۱۳
+titleAz: Qəzəl 213
+titleRu: Газель 213
 titleFa: شمارهٔ ۲۱۳
+titleEn: Ghazal 213
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

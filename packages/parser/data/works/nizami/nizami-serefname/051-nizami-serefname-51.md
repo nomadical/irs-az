@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-51
 sourceId: ganjoor-9200
-titleAz: بخش ۵۱ - جنگ سوم اسکندر با روسیان
+titleAz: 'Şərəfnamə, fəsil 51'
+titleRu: 'Шараф-наме, глава 51'
 titleFa: بخش ۵۱ - جنگ سوم اسکندر با روسیان
+titleEn: 'Sharafnama, chapter 51'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

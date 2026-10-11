@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-280
 sourceId: ganjoor-15275
-titleAz: رباعی شمارهٔ   ۲۸۰
+titleAz: Rübai 280
+titleRu: Рубаи 280
 titleFa: رباعی شمارهٔ   ۲۸۰
+titleEn: Rubai 280
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

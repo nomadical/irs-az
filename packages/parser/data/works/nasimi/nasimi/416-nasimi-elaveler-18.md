@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-18
 sourceId: ganjoor-117717
-titleAz: شمارهٔ ۱۸
+titleAz: Əlavə 18
+titleRu: Дополнение 18
 titleFa: شمارهٔ ۱۸
+titleEn: Addendum 18
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

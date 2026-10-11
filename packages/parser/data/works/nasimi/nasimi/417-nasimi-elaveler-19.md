@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-19
 sourceId: ganjoor-117718
-titleAz: شمارهٔ ۱۹
+titleAz: Əlavə 19
+titleRu: Дополнение 19
 titleFa: شمارهٔ ۱۹
+titleEn: Addendum 19
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

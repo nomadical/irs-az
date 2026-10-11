@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-82
 sourceId: ganjoor-117246
-titleAz: شمارهٔ ۸۲
+titleAz: Rübai 82
+titleRu: Рубаи 82
 titleFa: شمارهٔ ۸۲
+titleEn: Rubai 82
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

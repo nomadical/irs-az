@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-265
 sourceId: ganjoor-14634
-titleAz: غزل شمارهٔ ۲۶۵
+titleAz: Qəzəl 265
+titleRu: Газель 265
 titleFa: غزل شمارهٔ ۲۶۵
+titleEn: Ghazal 265
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

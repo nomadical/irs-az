@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-53
 sourceId: ganjoor-15048
-titleAz: رباعی شمارهٔ   ۵۳
+titleAz: Rübai 53
+titleRu: Рубаи 53
 titleFa: رباعی شمارهٔ   ۵۳
+titleEn: Rubai 53
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

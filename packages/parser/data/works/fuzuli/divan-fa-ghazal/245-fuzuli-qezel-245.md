@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-245
 sourceId: ganjoor-116951
-titleAz: شمارهٔ ۲۴۵
+titleAz: Qəzəl 245
+titleRu: Газель 245
 titleFa: شمارهٔ ۲۴۵
+titleEn: Ghazal 245
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

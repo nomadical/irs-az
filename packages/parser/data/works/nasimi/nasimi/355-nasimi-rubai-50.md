@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-50
 sourceId: ganjoor-117653
-titleAz: شمارهٔ ۵۰
+titleAz: Rübai 50
+titleRu: Рубаи 50
 titleFa: شمارهٔ ۵۰
+titleEn: Rubai 50
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

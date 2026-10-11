@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-394
 sourceId: ganjoor-14763
-titleAz: غزل شمارهٔ ۳۹۴
+titleAz: Qəzəl 394
+titleRu: Газель 394
 titleFa: غزل شمارهٔ ۳۹۴
+titleEn: Ghazal 394
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

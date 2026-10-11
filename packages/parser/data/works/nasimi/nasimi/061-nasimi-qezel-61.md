@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-61
 sourceId: ganjoor-117356
-titleAz: شمارهٔ ۶۱
+titleAz: Qəzəl 61
+titleRu: Газель 61
 titleFa: شمارهٔ ۶۱
+titleEn: Ghazal 61
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

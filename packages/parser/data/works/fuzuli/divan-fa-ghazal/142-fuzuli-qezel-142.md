@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-142
 sourceId: ganjoor-116848
-titleAz: شمارهٔ ۱۴۲
+titleAz: Qəzəl 142
+titleRu: Газель 142
 titleFa: شمارهٔ ۱۴۲
+titleEn: Ghazal 142
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

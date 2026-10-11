@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-230
 sourceId: ganjoor-15225
-titleAz: رباعی شمارهٔ   ۲۳۰
+titleAz: Rübai 230
+titleRu: Рубаи 230
 titleFa: رباعی شمارهٔ   ۲۳۰
+titleEn: Rubai 230
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

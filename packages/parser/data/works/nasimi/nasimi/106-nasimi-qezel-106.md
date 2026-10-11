@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-106
 sourceId: ganjoor-117401
-titleAz: شمارهٔ ۱۰۶
+titleAz: Qəzəl 106
+titleRu: Газель 106
 titleFa: شمارهٔ ۱۰۶
+titleEn: Ghazal 106
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

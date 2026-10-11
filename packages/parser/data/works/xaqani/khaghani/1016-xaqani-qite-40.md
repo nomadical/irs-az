@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-40
 sourceId: ganjoor-27703
-titleAz: شمارهٔ ۴۰
+titleAz: Qitə 40
+titleRu: Кыта 40
 titleFa: شمارهٔ ۴۰
+titleEn: Qit'a 40
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

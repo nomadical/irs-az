@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-127
 sourceId: ganjoor-14496
-titleAz: غزل شمارهٔ ۱۲۷
+titleAz: Qəzəl 127
+titleRu: Газель 127
 titleFa: غزل شمارهٔ ۱۲۷
+titleEn: Ghazal 127
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

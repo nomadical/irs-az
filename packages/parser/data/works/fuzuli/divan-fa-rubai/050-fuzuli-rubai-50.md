@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-50
 sourceId: ganjoor-117214
-titleAz: شمارهٔ ۵۰
+titleAz: Rübai 50
+titleRu: Рубаи 50
 titleFa: شمارهٔ ۵۰
+titleEn: Rubai 50
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

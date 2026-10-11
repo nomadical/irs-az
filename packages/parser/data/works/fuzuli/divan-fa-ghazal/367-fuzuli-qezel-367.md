@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-367
 sourceId: ganjoor-117073
-titleAz: شمارهٔ ۳۶۷
+titleAz: Qəzəl 367
+titleRu: Газель 367
 titleFa: شمارهٔ ۳۶۷
+titleEn: Ghazal 367
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

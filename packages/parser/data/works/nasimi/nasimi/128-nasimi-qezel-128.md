@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-128
 sourceId: ganjoor-117423
-titleAz: شمارهٔ ۱۲۸
+titleAz: Qəzəl 128
+titleRu: Газель 128
 titleFa: شمارهٔ ۱۲۸
+titleEn: Ghazal 128
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

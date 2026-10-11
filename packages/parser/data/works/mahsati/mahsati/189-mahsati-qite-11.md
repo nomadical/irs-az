@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-11
 sourceId: ganjoor-133915
-titleAz: شمارهٔ  ۱۱
+titleAz: Qitə 11
+titleRu: Кыта 11
 titleFa: شمارهٔ  ۱۱
+titleEn: Qit'a 11
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

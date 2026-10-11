@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-5
 sourceId: ganjoor-117300
-titleAz: شمارهٔ ۵
+titleAz: Qəzəl 5
+titleRu: Газель 5
 titleFa: شمارهٔ ۵
+titleEn: Ghazal 5
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-321
 sourceId: ganjoor-15316
-titleAz: رباعی شمارهٔ   ۳۲۱
+titleAz: Rübai 321
+titleRu: Рубаи 321
 titleFa: رباعی شمارهٔ   ۳۲۱
+titleEn: Rubai 321
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

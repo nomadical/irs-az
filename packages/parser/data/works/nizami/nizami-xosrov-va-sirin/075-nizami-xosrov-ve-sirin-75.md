@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-75
 sourceId: ganjoor-8939
-titleAz: بخش ۷۵ - پاسخ دادن شیرین خسرو را
+titleAz: 'Xosrov və Şirin, fəsil 75'
+titleRu: 'Хосров и Ширин, глава 75'
 titleFa: بخش ۷۵ - پاسخ دادن شیرین خسرو را
+titleEn: 'Khosrow and Shirin, chapter 75'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

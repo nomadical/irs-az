@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-57
 sourceId: ganjoor-9206
-titleAz: بخش ۵۷ - رهایی یافتن نوشابه
+titleAz: 'Şərəfnamə, fəsil 57'
+titleRu: 'Шараф-наме, глава 57'
 titleFa: بخش ۵۷ - رهایی یافتن نوشابه
+titleEn: 'Sharafnama, chapter 57'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

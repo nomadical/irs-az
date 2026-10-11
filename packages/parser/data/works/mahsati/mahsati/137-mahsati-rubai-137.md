@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-137
 sourceId: ganjoor-133861
-titleAz: شمارهٔ ۱۳۷
+titleAz: Rübai 137
+titleRu: Рубаи 137
 titleFa: شمارهٔ ۱۳۷
+titleEn: Rubai 137
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

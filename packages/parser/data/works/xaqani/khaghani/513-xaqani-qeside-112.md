@@ -1,12 +1,12 @@
 ---
 slug: xaqani-qeside-112
 sourceId: ganjoor-14882
-titleAz: >-
-  شمارهٔ ۱۱۲ - در پند و اندرز و ستایش رکن الدین مفتی خوی و رکن الدین عالم ری و
-  تاج الدین رازی ابن امین الدین
+titleAz: Qəsidə 112
+titleRu: Касыда 112
 titleFa: >-
   شمارهٔ ۱۱۲ - در پند و اندرز و ستایش رکن الدین مفتی خوی و رکن الدین عالم ری و
   تاج الدین رازی ابن امین الدین
+titleEn: Qasida 112
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

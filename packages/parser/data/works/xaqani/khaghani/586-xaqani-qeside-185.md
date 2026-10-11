@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-185
 sourceId: ganjoor-14955
-titleAz: شمارهٔ ۱۸۵ - در عزلت و حکمت و موعظه و ریاضت و انتباه و ارشاد
+titleAz: Qəsidə 185
+titleRu: Касыда 185
 titleFa: شمارهٔ ۱۸۵ - در عزلت و حکمت و موعظه و ریاضت و انتباه و ارشاد
+titleEn: Qasida 185
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-88
 sourceId: ganjoor-117383
-titleAz: شمارهٔ ۸۸
+titleAz: Qəzəl 88
+titleRu: Газель 88
 titleFa: شمارهٔ ۸۸
+titleEn: Ghazal 88
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

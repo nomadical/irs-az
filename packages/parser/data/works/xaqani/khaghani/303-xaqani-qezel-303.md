@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-303
 sourceId: ganjoor-14672
-titleAz: غزل شمارهٔ ۳۰۳
+titleAz: Qəzəl 303
+titleRu: Газель 303
 titleFa: غزل شمارهٔ ۳۰۳
+titleEn: Ghazal 303
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

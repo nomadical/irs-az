@@ -1,8 +1,10 @@
 ---
 slug: nasimi-mulemme-5
 sourceId: ganjoor-117694
-titleAz: شمارهٔ ۵
+titleAz: Müləmmə 5
+titleRu: Мулямма 5
 titleFa: شمارهٔ ۵
+titleEn: Mulamma' 5
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

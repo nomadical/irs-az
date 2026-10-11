@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-72
 sourceId: ganjoor-50132
-titleAz: رباعی شمارۀ ۷۲
+titleAz: 'Rübailər, 72'
+titleRu: 'Рубайят, 72'
 titleFa: رباعی شمارۀ ۷۲
+titleEn: 'Rubaiyat, 72'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

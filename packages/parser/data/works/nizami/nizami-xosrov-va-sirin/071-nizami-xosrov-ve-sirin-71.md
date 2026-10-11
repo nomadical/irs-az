@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-71
 sourceId: ganjoor-8935
-titleAz: بخش ۷۱ - پاسخ دادن شیرین خسرو را
+titleAz: 'Xosrov və Şirin, fəsil 71'
+titleRu: 'Хосров и Ширин, глава 71'
 titleFa: بخش ۷۱ - پاسخ دادن شیرین خسرو را
+titleEn: 'Khosrow and Shirin, chapter 71'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-249
 sourceId: ganjoor-27912
-titleAz: شمارهٔ ۲۴۹
+titleAz: Qitə 249
+titleRu: Кыта 249
 titleFa: شمارهٔ ۲۴۹
+titleEn: Qit'a 249
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

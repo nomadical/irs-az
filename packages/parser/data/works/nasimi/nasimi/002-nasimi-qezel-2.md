@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-2
 sourceId: ganjoor-117297
-titleAz: شمارهٔ ۲
+titleAz: Qəzəl 2
+titleRu: Газель 2
 titleFa: شمارهٔ ۲
+titleEn: Ghazal 2
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

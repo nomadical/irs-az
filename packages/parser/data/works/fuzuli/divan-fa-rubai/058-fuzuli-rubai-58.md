@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-58
 sourceId: ganjoor-117222
-titleAz: شمارهٔ ۵۸
+titleAz: Rübai 58
+titleRu: Рубаи 58
 titleFa: شمارهٔ ۵۸
+titleEn: Rubai 58
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

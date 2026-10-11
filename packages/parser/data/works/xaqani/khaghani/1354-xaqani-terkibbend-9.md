@@ -1,8 +1,10 @@
 ---
 slug: xaqani-terkibbend-9
 sourceId: ganjoor-15491
-titleAz: شمارهٔ ۹ - در مرثیهٔ فرزند خود رشید الدین
+titleAz: Tərkibbənd 9
+titleRu: Таркиббанд 9
 titleFa: شمارهٔ ۹ - در مرثیهٔ فرزند خود رشید الدین
+titleEn: Tarkib-band 9
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

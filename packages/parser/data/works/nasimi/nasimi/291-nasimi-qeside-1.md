@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qeside-1
 sourceId: ganjoor-117587
-titleAz: شمارهٔ ۱
+titleAz: Qəsidə 1
+titleRu: Касыда 1
 titleFa: شمارهٔ ۱
+titleEn: Qasida 1
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

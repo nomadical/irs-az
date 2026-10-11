@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-333
 sourceId: ganjoor-14702
-titleAz: غزل شمارهٔ ۳۳۳
+titleAz: Qəzəl 333
+titleRu: Газель 333
 titleFa: غزل شمارهٔ ۳۳۳
+titleEn: Ghazal 333
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

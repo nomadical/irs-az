@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-53
 sourceId: ganjoor-117217
-titleAz: شمارهٔ ۵۳
+titleAz: Rübai 53
+titleRu: Рубаи 53
 titleFa: شمارهٔ ۵۳
+titleEn: Rubai 53
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

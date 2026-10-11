@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-211
 sourceId: ganjoor-117506
-titleAz: شمارهٔ ۲۱۱
+titleAz: Qəzəl 211
+titleRu: Газель 211
 titleFa: شمارهٔ ۲۱۱
+titleEn: Ghazal 211
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

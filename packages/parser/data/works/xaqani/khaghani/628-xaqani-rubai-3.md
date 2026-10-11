@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-3
 sourceId: ganjoor-14997
-titleAz: رباعی شمارهٔ   ۳
+titleAz: Rübai 3
+titleRu: Рубаи 3
 titleFa: رباعی شمارهٔ   ۳
+titleEn: Rubai 3
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

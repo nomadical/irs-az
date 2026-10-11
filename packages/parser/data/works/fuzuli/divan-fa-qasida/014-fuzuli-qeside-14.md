@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-14
 sourceId: ganjoor-116670
-titleAz: شمارهٔ ۱۴
+titleAz: Qəsidə 14
+titleRu: Касыда 14
 titleFa: شمارهٔ ۱۴
+titleEn: Qasida 14
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

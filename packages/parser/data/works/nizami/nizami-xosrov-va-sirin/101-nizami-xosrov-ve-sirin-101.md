@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-101
 sourceId: ganjoor-8965
-titleAz: بخش ۱۰۱ - چگونگی زمین و هوا
+titleAz: 'Xosrov və Şirin, fəsil 101'
+titleRu: 'Хосров и Ширин, глава 101'
 titleFa: بخش ۱۰۱ - چگونگی زمین و هوا
+titleEn: 'Khosrow and Shirin, chapter 101'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

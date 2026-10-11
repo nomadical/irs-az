@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-146
 sourceId: ganjoor-14916
-titleAz: شمارهٔ ۱۴۶ - در شکایت از روزگار و دوستان و ستایش تهمتن پهلوان
+titleAz: Qəsidə 146
+titleRu: Касыда 146
 titleFa: شمارهٔ ۱۴۶ - در شکایت از روزگار و دوستان و ستایش تهمتن پهلوان
+titleEn: Qasida 146
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

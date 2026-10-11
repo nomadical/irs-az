@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-318
 sourceId: ganjoor-15313
-titleAz: رباعی شمارهٔ   ۳۱۸
+titleAz: Rübai 318
+titleRu: Рубаи 318
 titleFa: رباعی شمارهٔ   ۳۱۸
+titleEn: Rubai 318
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

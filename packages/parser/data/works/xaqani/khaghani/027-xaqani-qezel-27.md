@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-27
 sourceId: ganjoor-14396
-titleAz: غزل شمارهٔ ۲۷
+titleAz: Qəzəl 27
+titleRu: Газель 27
 titleFa: غزل شمارهٔ ۲۷
+titleEn: Ghazal 27
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-207
 sourceId: ganjoor-27870
-titleAz: شمارهٔ ۲۰۷ - در مرثیهٔ وحید الدین پسر عم خود
+titleAz: Qitə 207
+titleRu: Кыта 207
 titleFa: شمارهٔ ۲۰۷ - در مرثیهٔ وحید الدین پسر عم خود
+titleEn: Qit'a 207
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

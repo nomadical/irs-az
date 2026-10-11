@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-295
 sourceId: ganjoor-15290
-titleAz: رباعی شمارهٔ   ۲۹۵
+titleAz: Rübai 295
+titleRu: Рубаи 295
 titleFa: رباعی شمارهٔ   ۲۹۵
+titleEn: Rubai 295
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-32
 sourceId: ganjoor-117196
-titleAz: شمارهٔ ۳۲
+titleAz: Rübai 32
+titleRu: Рубаи 32
 titleFa: شمارهٔ ۳۲
+titleEn: Rubai 32
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

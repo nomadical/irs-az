@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-83
 sourceId: ganjoor-117247
-titleAz: شمارهٔ ۸۳
+titleAz: Rübai 83
+titleRu: Рубаи 83
 titleFa: شمارهٔ ۸۳
+titleEn: Rubai 83
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-324
 sourceId: ganjoor-15319
-titleAz: رباعی شمارهٔ   ۳۲۴
+titleAz: Rübai 324
+titleRu: Рубаи 324
 titleFa: رباعی شمارهٔ   ۳۲۴
+titleEn: Rubai 324
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

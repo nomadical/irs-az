@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-21
 sourceId: ganjoor-27684
-titleAz: شمارهٔ ۲۱
+titleAz: Qitə 21
+titleRu: Кыта 21
 titleFa: شمارهٔ ۲۱
+titleEn: Qit'a 21
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

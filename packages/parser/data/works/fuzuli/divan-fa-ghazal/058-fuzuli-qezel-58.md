@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-58
 sourceId: ganjoor-116764
-titleAz: شمارهٔ ۵۸
+titleAz: Qəzəl 58
+titleRu: Газель 58
 titleFa: شمارهٔ ۵۸
+titleEn: Ghazal 58
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

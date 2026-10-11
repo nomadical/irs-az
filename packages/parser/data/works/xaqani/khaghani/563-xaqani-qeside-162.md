@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-162
 sourceId: ganjoor-14932
-titleAz: شمارهٔ ۱۶۲ - در مدح قاضی القضاة احمشاد
+titleAz: Qəsidə 162
+titleRu: Касыда 162
 titleFa: شمارهٔ ۱۶۲ - در مدح قاضی القضاة احمشاد
+titleEn: Qasida 162
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

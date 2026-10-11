@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-23
 sourceId: ganjoor-14793
-titleAz: شمارهٔ ۲۳ - سوگند نامه و مدح رضی الدین ابونصر نظام الملک وزیر شروان شاه
+titleAz: Qəsidə 23
+titleRu: Касыда 23
 titleFa: شمارهٔ ۲۳ - سوگند نامه و مدح رضی الدین ابونصر نظام الملک وزیر شروان شاه
+titleEn: Qasida 23
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

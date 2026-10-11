@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-21
 sourceId: ganjoor-50081
-titleAz: رباعی شمارۀ ۲۱
+titleAz: 'Rübailər, 21'
+titleRu: 'Рубайят, 21'
 titleFa: رباعی شمارۀ ۲۱
+titleEn: 'Rubaiyat, 21'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

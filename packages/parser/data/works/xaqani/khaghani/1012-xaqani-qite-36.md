@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-36
 sourceId: ganjoor-27699
-titleAz: شمارهٔ ۳۶
+titleAz: Qitə 36
+titleRu: Кыта 36
 titleFa: شمارهٔ ۳۶
+titleEn: Qit'a 36
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

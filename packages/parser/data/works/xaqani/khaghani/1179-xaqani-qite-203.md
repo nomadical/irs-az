@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-203
 sourceId: ganjoor-27866
-titleAz: شمارهٔ ۲۰۳
+titleAz: Qitə 203
+titleRu: Кыта 203
 titleFa: شمارهٔ ۲۰۳
+titleEn: Qit'a 203
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

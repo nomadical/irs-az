@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-120
 sourceId: ganjoor-27783
-titleAz: شمارهٔ ۱۲۰
+titleAz: Qitə 120
+titleRu: Кыта 120
 titleFa: شمارهٔ ۱۲۰
+titleEn: Qit'a 120
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

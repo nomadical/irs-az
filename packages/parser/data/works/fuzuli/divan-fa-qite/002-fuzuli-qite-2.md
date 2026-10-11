@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-2
 sourceId: ganjoor-117119
-titleAz: شمارهٔ ۲
+titleAz: Qitə 2
+titleRu: Кыта 2
 titleFa: شمارهٔ ۲
+titleEn: Qit'a 2
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

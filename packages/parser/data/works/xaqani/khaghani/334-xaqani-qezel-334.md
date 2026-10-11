@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-334
 sourceId: ganjoor-14703
-titleAz: غزل شمارهٔ ۳۳۴
+titleAz: Qəzəl 334
+titleRu: Газель 334
 titleFa: غزل شمارهٔ ۳۳۴
+titleEn: Ghazal 334
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

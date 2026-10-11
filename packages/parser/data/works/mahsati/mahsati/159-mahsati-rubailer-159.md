@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-159
 sourceId: ganjoor-50219
-titleAz: رباعی شمارۀ ۱۵۹
+titleAz: 'Rübailər, 159'
+titleRu: 'Рубайят, 159'
 titleFa: رباعی شمارۀ ۱۵۹
+titleEn: 'Rubaiyat, 159'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

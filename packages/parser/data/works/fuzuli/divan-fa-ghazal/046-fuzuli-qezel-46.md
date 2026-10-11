@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-46
 sourceId: ganjoor-116752
-titleAz: شمارهٔ ۴۶
+titleAz: Qəzəl 46
+titleRu: Газель 46
 titleFa: شمارهٔ ۴۶
+titleEn: Ghazal 46
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

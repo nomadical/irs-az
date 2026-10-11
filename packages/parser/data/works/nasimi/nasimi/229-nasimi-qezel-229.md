@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-229
 sourceId: ganjoor-117524
-titleAz: شمارهٔ ۲۲۹
+titleAz: Qəzəl 229
+titleRu: Газель 229
 titleFa: شمارهٔ ۲۲۹
+titleEn: Ghazal 229
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

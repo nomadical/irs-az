@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-371
 sourceId: ganjoor-14740
-titleAz: غزل شمارهٔ ۳۷۱
+titleAz: Qəzəl 371
+titleRu: Газель 371
 titleFa: غزل شمارهٔ ۳۷۱
+titleEn: Ghazal 371
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

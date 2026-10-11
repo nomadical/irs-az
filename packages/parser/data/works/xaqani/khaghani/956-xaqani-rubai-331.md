@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-331
 sourceId: ganjoor-15326
-titleAz: رباعی شمارهٔ   ۳۳۱
+titleAz: Rübai 331
+titleRu: Рубаи 331
 titleFa: رباعی شمارهٔ   ۳۳۱
+titleEn: Rubai 331
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

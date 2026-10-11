@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-56
 sourceId: ganjoor-117659
-titleAz: شمارهٔ ۵۶
+titleAz: Rübai 56
+titleRu: Рубаи 56
 titleFa: شمارهٔ ۵۶
+titleEn: Rubai 56
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

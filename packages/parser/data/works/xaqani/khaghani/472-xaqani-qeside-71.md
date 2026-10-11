@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-71
 sourceId: ganjoor-14841
-titleAz: شمارهٔ ۷۱ - مطلع دوم
+titleAz: Qəsidə 71
+titleRu: Касыда 71
 titleFa: شمارهٔ ۷۱ - مطلع دوم
+titleEn: Qasida 71
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

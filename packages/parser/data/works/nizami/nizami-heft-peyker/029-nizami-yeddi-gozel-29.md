@@ -1,12 +1,12 @@
 ---
 slug: nizami-yeddi-gozel-29
 sourceId: ganjoor-9077
-titleAz: >-
-  بخش ۲۹ - نشستن بهرام روز سه‌شنبه در گنبد سرخ و افسانه گفتن دختر پادشاه اقلیم
-  چهارم
+titleAz: 'Yeddi gözəl, fəsil 29'
+titleRu: 'Семь красавиц, глава 29'
 titleFa: >-
   بخش ۲۹ - نشستن بهرام روز سه‌شنبه در گنبد سرخ و افسانه گفتن دختر پادشاه اقلیم
   چهارم
+titleEn: 'The Seven Beauties, chapter 29'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

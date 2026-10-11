@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-32
 sourceId: ganjoor-27695
-titleAz: شمارهٔ ۳۲
+titleAz: Qitə 32
+titleRu: Кыта 32
 titleFa: شمارهٔ ۳۲
+titleEn: Qit'a 32
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

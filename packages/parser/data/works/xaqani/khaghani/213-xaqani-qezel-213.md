@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-213
 sourceId: ganjoor-14582
-titleAz: غزل شمارهٔ ۲۱۳
+titleAz: Qəzəl 213
+titleRu: Газель 213
 titleFa: غزل شمارهٔ ۲۱۳
+titleEn: Ghazal 213
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-saqiname-6
 sourceId: ganjoor-117281
-titleAz: بخش ۶ - نشأه جام سوم
+titleAz: 'Saqinamə, fəsil 6'
+titleRu: 'Саки-наме, глава 6'
 titleFa: بخش ۶ - نشأه جام سوم
+titleEn: 'Saqi-nama, chapter 6'
 authorSlug: fuzuli
 collectionSlug: saqiname
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-11
 sourceId: ganjoor-117614
-titleAz: شمارهٔ ۱۱
+titleAz: Rübai 11
+titleRu: Рубаи 11
 titleFa: شمارهٔ ۱۱
+titleEn: Rubai 11
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

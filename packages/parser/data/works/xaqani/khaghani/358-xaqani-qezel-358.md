@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-358
 sourceId: ganjoor-14727
-titleAz: غزل شمارهٔ ۳۵۸
+titleAz: Qəzəl 358
+titleRu: Газель 358
 titleFa: غزل شمارهٔ ۳۵۸
+titleEn: Ghazal 358
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

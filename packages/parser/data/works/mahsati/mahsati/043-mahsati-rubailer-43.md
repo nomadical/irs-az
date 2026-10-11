@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-43
 sourceId: ganjoor-50103
-titleAz: رباعی شمارۀ ۴۳
+titleAz: 'Rübailər, 43'
+titleRu: 'Рубайят, 43'
 titleFa: رباعی شمارۀ ۴۳
+titleEn: 'Rubaiyat, 43'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

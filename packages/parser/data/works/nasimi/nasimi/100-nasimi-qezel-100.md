@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-100
 sourceId: ganjoor-117395
-titleAz: شمارهٔ ۱۰۰
+titleAz: Qəzəl 100
+titleRu: Газель 100
 titleFa: شمارهٔ ۱۰۰
+titleEn: Ghazal 100
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

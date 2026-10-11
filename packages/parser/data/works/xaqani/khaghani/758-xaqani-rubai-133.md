@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-133
 sourceId: ganjoor-15128
-titleAz: رباعی شمارهٔ   ۱۳۳
+titleAz: Rübai 133
+titleRu: Рубаи 133
 titleFa: رباعی شمارهٔ   ۱۳۳
+titleEn: Rubai 133
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

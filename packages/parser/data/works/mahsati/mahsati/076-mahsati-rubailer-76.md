@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-76
 sourceId: ganjoor-50136
-titleAz: رباعی شمارۀ ۷۶
+titleAz: 'Rübailər, 76'
+titleRu: 'Рубайят, 76'
 titleFa: رباعی شمارۀ ۷۶
+titleEn: 'Rubaiyat, 76'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

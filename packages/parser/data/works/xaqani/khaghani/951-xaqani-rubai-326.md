@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-326
 sourceId: ganjoor-15321
-titleAz: رباعی شمارهٔ   ۳۲۶
+titleAz: Rübai 326
+titleRu: Рубаи 326
 titleFa: رباعی شمارهٔ   ۳۲۶
+titleEn: Rubai 326
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

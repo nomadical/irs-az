@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-23
 sourceId: ganjoor-27686
-titleAz: شمارهٔ ۲۳
+titleAz: Qitə 23
+titleRu: Кыта 23
 titleFa: شمارهٔ ۲۳
+titleEn: Qit'a 23
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

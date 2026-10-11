@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-210
 sourceId: ganjoor-27873
-titleAz: شمارهٔ ۲۱۰ - در مرثیهٔ اهل بیت خود
+titleAz: Qitə 210
+titleRu: Кыта 210
 titleFa: شمارهٔ ۲۱۰ - در مرثیهٔ اهل بیت خود
+titleEn: Qit'a 210
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

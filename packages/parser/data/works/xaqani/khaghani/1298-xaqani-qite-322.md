@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-322
 sourceId: ganjoor-27985
-titleAz: شمارهٔ ۳۲۲
+titleAz: Qitə 322
+titleRu: Кыта 322
 titleFa: شمارهٔ ۳۲۲
+titleEn: Qit'a 322
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-383
 sourceId: ganjoor-117089
-titleAz: شمارهٔ ۳۸۳
+titleAz: Qəzəl 383
+titleRu: Газель 383
 titleFa: شمارهٔ ۳۸۳
+titleEn: Ghazal 383
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

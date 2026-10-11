@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-97
 sourceId: ganjoor-14867
-titleAz: شمارهٔ ۹۷ - در حکمت و اندرز
+titleAz: Qəsidə 97
+titleRu: Касыда 97
 titleFa: شمارهٔ ۹۷ - در حکمت و اندرز
+titleEn: Qasida 97
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

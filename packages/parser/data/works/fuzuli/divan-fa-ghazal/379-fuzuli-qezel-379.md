@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-379
 sourceId: ganjoor-117085
-titleAz: شمارهٔ ۳۷۹
+titleAz: Qəzəl 379
+titleRu: Газель 379
 titleFa: شمارهٔ ۳۷۹
+titleEn: Ghazal 379
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

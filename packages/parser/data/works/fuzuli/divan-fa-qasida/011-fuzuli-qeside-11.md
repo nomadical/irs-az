@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-11
 sourceId: ganjoor-116667
-titleAz: شمارهٔ ۱۱
+titleAz: Qəsidə 11
+titleRu: Касыда 11
 titleFa: شمارهٔ ۱۱
+titleEn: Qasida 11
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

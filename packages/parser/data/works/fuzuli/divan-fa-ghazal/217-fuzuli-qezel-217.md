@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-217
 sourceId: ganjoor-116923
-titleAz: شمارهٔ ۲۱۷
+titleAz: Qəzəl 217
+titleRu: Газель 217
 titleFa: شمارهٔ ۲۱۷
+titleEn: Ghazal 217
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

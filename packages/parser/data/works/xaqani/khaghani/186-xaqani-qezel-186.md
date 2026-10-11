@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-186
 sourceId: ganjoor-14555
-titleAz: غزل شمارهٔ ۱۸۶
+titleAz: Qəzəl 186
+titleRu: Газель 186
 titleFa: غزل شمارهٔ ۱۸۶
+titleEn: Ghazal 186
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

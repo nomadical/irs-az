@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-145
 sourceId: ganjoor-117440
-titleAz: شمارهٔ ۱۴۵
+titleAz: Qəzəl 145
+titleRu: Газель 145
 titleFa: شمارهٔ ۱۴۵
+titleEn: Ghazal 145
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

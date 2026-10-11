@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-132
 sourceId: ganjoor-133856
-titleAz: شمارهٔ ۱۳۲
+titleAz: Rübai 132
+titleRu: Рубаи 132
 titleFa: شمارهٔ ۱۳۲
+titleEn: Rubai 132
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

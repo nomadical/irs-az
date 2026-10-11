@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-48
 sourceId: ganjoor-117212
-titleAz: شمارهٔ ۴۸
+titleAz: Rübai 48
+titleRu: Рубаи 48
 titleFa: شمارهٔ ۴۸
+titleEn: Rubai 48
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

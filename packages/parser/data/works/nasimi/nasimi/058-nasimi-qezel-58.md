@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-58
 sourceId: ganjoor-117353
-titleAz: شمارهٔ ۵۸
+titleAz: Qəzəl 58
+titleRu: Газель 58
 titleFa: شمارهٔ ۵۸
+titleEn: Ghazal 58
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

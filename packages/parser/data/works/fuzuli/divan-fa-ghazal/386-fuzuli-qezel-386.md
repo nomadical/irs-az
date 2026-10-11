@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-386
 sourceId: ganjoor-117092
-titleAz: شمارهٔ ۳۸۶
+titleAz: Qəzəl 386
+titleRu: Газель 386
 titleFa: شمارهٔ ۳۸۶
+titleEn: Ghazal 386
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

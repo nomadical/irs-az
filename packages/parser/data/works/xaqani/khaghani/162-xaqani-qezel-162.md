@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-162
 sourceId: ganjoor-14531
-titleAz: غزل شمارهٔ ۱۶۲
+titleAz: Qəzəl 162
+titleRu: Газель 162
 titleFa: غزل شمارهٔ ۱۶۲
+titleEn: Ghazal 162
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-69
 sourceId: ganjoor-27732
-titleAz: شمارهٔ ۶۹ - در مدح نظام الملک قوام الدین
+titleAz: Qitə 69
+titleRu: Кыта 69
 titleFa: شمارهٔ ۶۹ - در مدح نظام الملک قوام الدین
+titleEn: Qit'a 69
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

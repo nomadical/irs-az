@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-381
 sourceId: ganjoor-14750
-titleAz: غزل شمارهٔ ۳۸۱
+titleAz: Qəzəl 381
+titleRu: Газель 381
 titleFa: غزل شمارهٔ ۳۸۱
+titleEn: Ghazal 381
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

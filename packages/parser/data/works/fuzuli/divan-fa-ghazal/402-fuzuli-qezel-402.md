@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-402
 sourceId: ganjoor-117108
-titleAz: شمارهٔ ۴۰۲
+titleAz: Qəzəl 402
+titleRu: Газель 402
 titleFa: شمارهٔ ۴۰۲
+titleEn: Ghazal 402
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-2
 sourceId: ganjoor-117166
-titleAz: شمارهٔ ۲
+titleAz: Rübai 2
+titleRu: Рубаи 2
 titleFa: شمارهٔ ۲
+titleEn: Rubai 2
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

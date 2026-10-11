@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-178
 sourceId: ganjoor-15173
-titleAz: رباعی شمارهٔ   ۱۷۸
+titleAz: Rübai 178
+titleRu: Рубаи 178
 titleFa: رباعی شمارهٔ   ۱۷۸
+titleEn: Rubai 178
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

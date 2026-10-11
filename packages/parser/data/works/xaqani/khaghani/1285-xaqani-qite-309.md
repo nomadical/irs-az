@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-309
 sourceId: ganjoor-27972
-titleAz: شمارهٔ ۳۰۹
+titleAz: Qitə 309
+titleRu: Кыта 309
 titleFa: شمارهٔ ۳۰۹
+titleEn: Qit'a 309
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

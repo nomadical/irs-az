@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-70
 sourceId: ganjoor-14439
-titleAz: غزل شمارهٔ ۷۰
+titleAz: Qəzəl 70
+titleRu: Газель 70
 titleFa: غزل شمارهٔ ۷۰
+titleEn: Ghazal 70
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

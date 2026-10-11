@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-176
 sourceId: ganjoor-50236
-titleAz: رباعی شمارۀ ۱۷۶
+titleAz: 'Rübailər, 176'
+titleRu: 'Рубайят, 176'
 titleFa: رباعی شمارۀ ۱۷۶
+titleEn: 'Rubaiyat, 176'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

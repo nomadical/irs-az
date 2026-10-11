@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-196
 sourceId: ganjoor-14966
-titleAz: شمارهٔ ۱۹۶ - در مدح خاقان اکبر منوچهر شروان شاه
+titleAz: Qəsidə 196
+titleRu: Касыда 196
 titleFa: شمارهٔ ۱۹۶ - در مدح خاقان اکبر منوچهر شروان شاه
+titleEn: Qasida 196
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

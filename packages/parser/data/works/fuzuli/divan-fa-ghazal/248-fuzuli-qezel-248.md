@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-248
 sourceId: ganjoor-116954
-titleAz: شمارهٔ ۲۴۸
+titleAz: Qəzəl 248
+titleRu: Газель 248
 titleFa: شمارهٔ ۲۴۸
+titleEn: Ghazal 248
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

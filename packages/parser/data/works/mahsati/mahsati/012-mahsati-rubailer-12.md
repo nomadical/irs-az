@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-12
 sourceId: ganjoor-50072
-titleAz: رباعی شمارۀ ۱۲
+titleAz: 'Rübailər, 12'
+titleRu: 'Рубайят, 12'
 titleFa: رباعی شمارۀ ۱۲
+titleEn: 'Rubaiyat, 12'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

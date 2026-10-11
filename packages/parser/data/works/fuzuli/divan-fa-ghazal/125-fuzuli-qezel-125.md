@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-125
 sourceId: ganjoor-116831
-titleAz: شمارهٔ ۱۲۵
+titleAz: Qəzəl 125
+titleRu: Газель 125
 titleFa: شمارهٔ ۱۲۵
+titleEn: Ghazal 125
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-41
 sourceId: ganjoor-9190
-titleAz: بخش ۴۱ - رسیدن نامهٔ اسکندر به کید هندو
+titleAz: 'Şərəfnamə, fəsil 41'
+titleRu: 'Шараф-наме, глава 41'
 titleFa: بخش ۴۱ - رسیدن نامهٔ اسکندر به کید هندو
+titleEn: 'Sharafnama, chapter 41'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

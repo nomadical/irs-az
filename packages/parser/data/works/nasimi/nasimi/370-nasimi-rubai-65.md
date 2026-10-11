@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-65
 sourceId: ganjoor-117668
-titleAz: شمارهٔ ۶۵
+titleAz: Rübai 65
+titleRu: Рубаи 65
 titleFa: شمارهٔ ۶۵
+titleEn: Rubai 65
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

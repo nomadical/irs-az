@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-115
 sourceId: ganjoor-116821
-titleAz: شمارهٔ ۱۱۵
+titleAz: Qəzəl 115
+titleRu: Газель 115
 titleFa: شمارهٔ ۱۱۵
+titleEn: Ghazal 115
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

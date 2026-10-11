@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-109
 sourceId: ganjoor-133833
-titleAz: شمارهٔ ۱۰۹
+titleAz: Rübai 109
+titleRu: Рубаи 109
 titleFa: شمارهٔ ۱۰۹
+titleEn: Rubai 109
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

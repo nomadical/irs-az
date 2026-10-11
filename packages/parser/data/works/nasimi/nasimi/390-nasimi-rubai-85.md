@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-85
 sourceId: ganjoor-117688
-titleAz: شمارهٔ ۸۵
+titleAz: Rübai 85
+titleRu: Рубаи 85
 titleFa: شمارهٔ ۸۵
+titleEn: Rubai 85
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-244
 sourceId: ganjoor-27907
-titleAz: شمارهٔ ۲۴۴
+titleAz: Qitə 244
+titleRu: Кыта 244
 titleFa: شمارهٔ ۲۴۴
+titleEn: Qit'a 244
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

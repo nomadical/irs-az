@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-20
 sourceId: ganjoor-133744
-titleAz: شمارهٔ ۲۰
+titleAz: Rübai 20
+titleRu: Рубаи 20
 titleFa: شمارهٔ ۲۰
+titleEn: Rubai 20
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

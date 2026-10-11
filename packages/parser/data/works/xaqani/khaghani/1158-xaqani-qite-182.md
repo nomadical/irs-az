@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-182
 sourceId: ganjoor-27845
-titleAz: شمارهٔ ۱۸۲
+titleAz: Qitə 182
+titleRu: Кыта 182
 titleFa: شمارهٔ ۱۸۲
+titleEn: Qit'a 182
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

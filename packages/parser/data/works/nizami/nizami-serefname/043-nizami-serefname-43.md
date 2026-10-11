@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-43
 sourceId: ganjoor-9192
-titleAz: بخش ۴۳ - سگالش خاقان در پاسخ اسکندر
+titleAz: 'Şərəfnamə, fəsil 43'
+titleRu: 'Шараф-наме, глава 43'
 titleFa: بخش ۴۳ - سگالش خاقان در پاسخ اسکندر
+titleEn: 'Sharafnama, chapter 43'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

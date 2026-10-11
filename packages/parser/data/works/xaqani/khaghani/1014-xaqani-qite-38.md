@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-38
 sourceId: ganjoor-27701
-titleAz: شمارهٔ ۳۸
+titleAz: Qitə 38
+titleRu: Кыта 38
 titleFa: شمارهٔ ۳۸
+titleEn: Qit'a 38
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

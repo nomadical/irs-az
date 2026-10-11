@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-15
 sourceId: ganjoor-133919
-titleAz: شمارهٔ  ۱۵
+titleAz: Qitə 15
+titleRu: Кыта 15
 titleFa: شمارهٔ  ۱۵
+titleEn: Qit'a 15
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

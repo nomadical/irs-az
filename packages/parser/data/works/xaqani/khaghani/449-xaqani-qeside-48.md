@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-48
 sourceId: ganjoor-14818
-titleAz: شمارهٔ ۴۸ - قصیده
+titleAz: Qəsidə 48
+titleRu: Касыда 48
 titleFa: شمارهٔ ۴۸ - قصیده
+titleEn: Qasida 48
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

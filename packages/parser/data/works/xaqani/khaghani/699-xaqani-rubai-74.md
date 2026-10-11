@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-74
 sourceId: ganjoor-15069
-titleAz: رباعی شمارهٔ   ۷۴
+titleAz: Rübai 74
+titleRu: Рубаи 74
 titleFa: رباعی شمارهٔ   ۷۴
+titleEn: Rubai 74
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-61
 sourceId: ganjoor-9210
-titleAz: بخش ۶۱ - بیرون آمدن اسکندر از ظلمات
+titleAz: 'Şərəfnamə, fəsil 61'
+titleRu: 'Шараф-наме, глава 61'
 titleFa: بخش ۶۱ - بیرون آمدن اسکندر از ظلمات
+titleEn: 'Sharafnama, chapter 61'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

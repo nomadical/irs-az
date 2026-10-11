@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-191
 sourceId: ganjoor-117486
-titleAz: شمارهٔ ۱۹۱ - ستایش فضل‌الله نعیمی
+titleAz: Qəzəl 191
+titleRu: Газель 191
 titleFa: شمارهٔ ۱۹۱ - ستایش فضل‌الله نعیمی
+titleEn: Ghazal 191
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

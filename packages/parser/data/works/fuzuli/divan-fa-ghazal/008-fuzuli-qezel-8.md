@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-8
 sourceId: ganjoor-116714
-titleAz: شمارهٔ ۸
+titleAz: Qəzəl 8
+titleRu: Газель 8
 titleFa: شمارهٔ ۸
+titleEn: Ghazal 8
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

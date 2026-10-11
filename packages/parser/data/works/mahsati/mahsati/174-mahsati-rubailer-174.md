@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-174
 sourceId: ganjoor-50234
-titleAz: رباعی شمارۀ ۱۷۴
+titleAz: 'Rübailər, 174'
+titleRu: 'Рубайят, 174'
 titleFa: رباعی شمارۀ ۱۷۴
+titleEn: 'Rubaiyat, 174'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

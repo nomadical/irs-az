@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-119
 sourceId: ganjoor-27782
-titleAz: شمارهٔ ۱۱۹ - در مرثیهٔ امام محمد یحیی
+titleAz: Qitə 119
+titleRu: Кыта 119
 titleFa: شمارهٔ ۱۱۹ - در مرثیهٔ امام محمد یحیی
+titleEn: Qit'a 119
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

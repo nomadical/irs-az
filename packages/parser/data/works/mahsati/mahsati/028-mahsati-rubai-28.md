@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-28
 sourceId: ganjoor-133752
-titleAz: شمارهٔ ۲۸
+titleAz: Rübai 28
+titleRu: Рубаи 28
 titleFa: شمارهٔ ۲۸
+titleEn: Rubai 28
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

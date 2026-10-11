@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-33
 sourceId: ganjoor-14402
-titleAz: غزل شمارهٔ ۳۳
+titleAz: Qəzəl 33
+titleRu: Газель 33
 titleFa: غزل شمارهٔ ۳۳
+titleEn: Ghazal 33
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

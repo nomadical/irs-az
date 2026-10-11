@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-143
 sourceId: ganjoor-133867
-titleAz: شمارهٔ ۱۴۳
+titleAz: Rübai 143
+titleRu: Рубаи 143
 titleFa: شمارهٔ ۱۴۳
+titleEn: Rubai 143
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

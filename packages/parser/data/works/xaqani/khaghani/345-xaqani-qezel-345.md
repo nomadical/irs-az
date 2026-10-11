@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-345
 sourceId: ganjoor-14714
-titleAz: غزل شمارهٔ ۳۴۵
+titleAz: Qəzəl 345
+titleRu: Газель 345
 titleFa: غزل شمارهٔ ۳۴۵
+titleEn: Ghazal 345
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

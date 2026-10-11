@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-280
 sourceId: ganjoor-27943
-titleAz: شمارهٔ ۲۸۰
+titleAz: Qitə 280
+titleRu: Кыта 280
 titleFa: شمارهٔ ۲۸۰
+titleEn: Qit'a 280
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

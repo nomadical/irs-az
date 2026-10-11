@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-113
 sourceId: ganjoor-8977
-titleAz: بخش ۱۱۳ - جان دادن شیرین در دخمه خسرو
+titleAz: 'Xosrov və Şirin, fəsil 113'
+titleRu: 'Хосров и Ширин, глава 113'
 titleFa: بخش ۱۱۳ - جان دادن شیرین در دخمه خسرو
+titleEn: 'Khosrow and Shirin, chapter 113'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-69
 sourceId: ganjoor-14438
-titleAz: غزل شمارهٔ ۶۹
+titleAz: Qəzəl 69
+titleRu: Газель 69
 titleFa: غزل شمارهٔ ۶۹
+titleEn: Ghazal 69
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

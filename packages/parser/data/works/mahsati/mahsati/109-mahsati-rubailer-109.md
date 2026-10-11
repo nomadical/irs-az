@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-109
 sourceId: ganjoor-50169
-titleAz: رباعی شمارۀ ۱۰۹
+titleAz: 'Rübailər, 109'
+titleRu: 'Рубайят, 109'
 titleFa: رباعی شمارۀ ۱۰۹
+titleEn: 'Rubaiyat, 109'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

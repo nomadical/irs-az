@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-14
 sourceId: ganjoor-9016
-titleAz: بخش ۱۴ - رفتن پدر مجنون به خواستاری لیلی
+titleAz: 'Leyli və Məcnun, fəsil 14'
+titleRu: 'Лейли и Меджнун, глава 14'
 titleFa: بخش ۱۴ - رفتن پدر مجنون به خواستاری لیلی
+titleEn: 'Layla and Majnun, chapter 14'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

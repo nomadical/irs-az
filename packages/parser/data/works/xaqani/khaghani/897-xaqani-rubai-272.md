@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-272
 sourceId: ganjoor-15267
-titleAz: رباعی شمارهٔ   ۲۷۲
+titleAz: Rübai 272
+titleRu: Рубаи 272
 titleFa: رباعی شمارهٔ   ۲۷۲
+titleEn: Rubai 272
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

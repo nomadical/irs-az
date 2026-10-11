@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-68
 sourceId: ganjoor-14838
-titleAz: شمارهٔ ۶۸ - مطلع دوم
+titleAz: Qəsidə 68
+titleRu: Касыда 68
 titleFa: شمارهٔ ۶۸ - مطلع دوم
+titleEn: Qasida 68
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

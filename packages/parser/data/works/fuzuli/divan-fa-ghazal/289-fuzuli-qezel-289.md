@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-289
 sourceId: ganjoor-116995
-titleAz: شمارهٔ ۲۸۹
+titleAz: Qəzəl 289
+titleRu: Газель 289
 titleFa: شمارهٔ ۲۸۹
+titleEn: Ghazal 289
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

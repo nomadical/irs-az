@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-131
 sourceId: ganjoor-116837
-titleAz: شمارهٔ ۱۳۱
+titleAz: Qəzəl 131
+titleRu: Газель 131
 titleFa: شمارهٔ ۱۳۱
+titleEn: Ghazal 131
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-260
 sourceId: ganjoor-116966
-titleAz: شمارهٔ ۲۶۰
+titleAz: Qəzəl 260
+titleRu: Газель 260
 titleFa: شمارهٔ ۲۶۰
+titleEn: Ghazal 260
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

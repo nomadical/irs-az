@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-87
 sourceId: ganjoor-133811
-titleAz: شمارهٔ ۸۷
+titleAz: Rübai 87
+titleRu: Рубаи 87
 titleFa: شمارهٔ ۸۷
+titleEn: Rubai 87
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-44
 sourceId: ganjoor-116750
-titleAz: شمارهٔ ۴۴
+titleAz: Qəzəl 44
+titleRu: Газель 44
 titleFa: شمارهٔ ۴۴
+titleEn: Ghazal 44
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-37
 sourceId: ganjoor-50097
-titleAz: رباعی شمارۀ ۳۷
+titleAz: 'Rübailər, 37'
+titleRu: 'Рубайят, 37'
 titleFa: رباعی شمارۀ ۳۷
+titleEn: 'Rubaiyat, 37'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

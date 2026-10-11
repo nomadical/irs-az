@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-108
 sourceId: ganjoor-116814
-titleAz: شمارهٔ ۱۰۸
+titleAz: Qəzəl 108
+titleRu: Газель 108
 titleFa: شمارهٔ ۱۰۸
+titleEn: Ghazal 108
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

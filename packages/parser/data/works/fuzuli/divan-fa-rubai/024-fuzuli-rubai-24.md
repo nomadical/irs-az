@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-24
 sourceId: ganjoor-117188
-titleAz: شمارهٔ ۲۴
+titleAz: Rübai 24
+titleRu: Рубаи 24
 titleFa: شمارهٔ ۲۴
+titleEn: Rubai 24
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

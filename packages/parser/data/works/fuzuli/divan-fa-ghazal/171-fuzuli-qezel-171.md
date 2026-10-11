@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-171
 sourceId: ganjoor-116877
-titleAz: شمارهٔ ۱۷۱
+titleAz: Qəzəl 171
+titleRu: Газель 171
 titleFa: شمارهٔ ۱۷۱
+titleEn: Ghazal 171
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

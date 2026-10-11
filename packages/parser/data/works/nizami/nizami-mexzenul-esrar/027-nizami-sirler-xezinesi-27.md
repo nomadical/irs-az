@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-27
 sourceId: ganjoor-9289
-titleAz: بخش ۲۷ - داستان پیرزن با سلطان سنجر
+titleAz: 'Sirlər xəzinəsi, fəsil 27'
+titleRu: 'Сокровищница тайн, глава 27'
 titleFa: بخش ۲۷ - داستان پیرزن با سلطان سنجر
+titleEn: 'The Treasury of Mysteries, chapter 27'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

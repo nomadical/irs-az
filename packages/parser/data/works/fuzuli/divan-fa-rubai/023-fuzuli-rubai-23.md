@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-23
 sourceId: ganjoor-117187
-titleAz: شمارهٔ ۲۳
+titleAz: Rübai 23
+titleRu: Рубаи 23
 titleFa: شمارهٔ ۲۳
+titleEn: Rubai 23
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-67
 sourceId: ganjoor-116773
-titleAz: شمارهٔ ۶۷
+titleAz: Qəzəl 67
+titleRu: Газель 67
 titleFa: شمارهٔ ۶۷
+titleEn: Ghazal 67
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

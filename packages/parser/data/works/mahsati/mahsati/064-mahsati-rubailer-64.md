@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-64
 sourceId: ganjoor-50124
-titleAz: رباعی شمارۀ ۶۴
+titleAz: 'Rübailər, 64'
+titleRu: 'Рубайят, 64'
 titleFa: رباعی شمارۀ ۶۴
+titleEn: 'Rubaiyat, 64'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

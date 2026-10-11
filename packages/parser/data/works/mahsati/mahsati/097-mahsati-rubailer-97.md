@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-97
 sourceId: ganjoor-50157
-titleAz: رباعی شمارۀ ۹۷
+titleAz: 'Rübailər, 97'
+titleRu: 'Рубайят, 97'
 titleFa: رباعی شمارۀ ۹۷
+titleEn: 'Rubaiyat, 97'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-52
 sourceId: ganjoor-117216
-titleAz: شمارهٔ ۵۲
+titleAz: Rübai 52
+titleRu: Рубаи 52
 titleFa: شمارهٔ ۵۲
+titleEn: Rubai 52
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

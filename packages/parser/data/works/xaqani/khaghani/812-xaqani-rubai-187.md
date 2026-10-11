@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-187
 sourceId: ganjoor-15182
-titleAz: رباعی شمارهٔ   ۱۸۷
+titleAz: Rübai 187
+titleRu: Рубаи 187
 titleFa: رباعی شمارهٔ   ۱۸۷
+titleEn: Rubai 187
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

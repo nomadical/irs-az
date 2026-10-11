@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-332
 sourceId: ganjoor-15327
-titleAz: رباعی شمارهٔ   ۳۳۲
+titleAz: Rübai 332
+titleRu: Рубаи 332
 titleFa: رباعی شمارهٔ   ۳۳۲
+titleEn: Rubai 332
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

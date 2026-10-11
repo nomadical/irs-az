@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-20
 sourceId: ganjoor-117315
-titleAz: شمارهٔ ۲۰
+titleAz: Qəzəl 20
+titleRu: Газель 20
 titleFa: شمارهٔ ۲۰
+titleEn: Ghazal 20
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

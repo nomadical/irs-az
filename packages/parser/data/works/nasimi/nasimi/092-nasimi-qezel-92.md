@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-92
 sourceId: ganjoor-117387
-titleAz: شمارهٔ ۹۲
+titleAz: Qəzəl 92
+titleRu: Газель 92
 titleFa: شمارهٔ ۹۲
+titleEn: Ghazal 92
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

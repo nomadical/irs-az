@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-164
 sourceId: ganjoor-117459
-titleAz: شمارهٔ ۱۶۴
+titleAz: Qəzəl 164
+titleRu: Газель 164
 titleFa: شمارهٔ ۱۶۴
+titleEn: Ghazal 164
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

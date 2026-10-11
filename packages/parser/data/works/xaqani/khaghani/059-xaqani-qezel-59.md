@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-59
 sourceId: ganjoor-14428
-titleAz: غزل شمارهٔ ۵۹
+titleAz: Qəzəl 59
+titleRu: Газель 59
 titleFa: غزل شمارهٔ ۵۹
+titleEn: Ghazal 59
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-25
 sourceId: ganjoor-27688
-titleAz: شمارهٔ ۲۵
+titleAz: Qitə 25
+titleRu: Кыта 25
 titleFa: شمارهٔ ۲۵
+titleEn: Qit'a 25
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-351
 sourceId: ganjoor-28014
-titleAz: شمارهٔ ۳۵۱ - در هزل
+titleAz: Qitə 351
+titleRu: Кыта 351
 titleFa: شمارهٔ ۳۵۱ - در هزل
+titleEn: Qit'a 351
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

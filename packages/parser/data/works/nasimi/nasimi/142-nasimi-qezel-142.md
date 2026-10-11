@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-142
 sourceId: ganjoor-117437
-titleAz: شمارهٔ ۱۴۲
+titleAz: Qəzəl 142
+titleRu: Газель 142
 titleFa: شمارهٔ ۱۴۲
+titleEn: Ghazal 142
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-189
 sourceId: ganjoor-50249
-titleAz: رباعی شمارۀ ۱۸۹
+titleAz: 'Rübailər, 189'
+titleRu: 'Рубайят, 189'
 titleFa: رباعی شمارۀ ۱۸۹
+titleEn: 'Rubaiyat, 189'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

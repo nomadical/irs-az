@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-7
 sourceId: ganjoor-14376
-titleAz: غزل شمارهٔ ۷
+titleAz: Qəzəl 7
+titleRu: Газель 7
 titleFa: غزل شمارهٔ ۷
+titleEn: Ghazal 7
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

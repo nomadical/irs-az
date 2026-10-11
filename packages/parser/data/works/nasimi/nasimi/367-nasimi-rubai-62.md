@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-62
 sourceId: ganjoor-117665
-titleAz: شمارهٔ ۶۲
+titleAz: Rübai 62
+titleRu: Рубаи 62
 titleFa: شمارهٔ ۶۲
+titleEn: Rubai 62
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

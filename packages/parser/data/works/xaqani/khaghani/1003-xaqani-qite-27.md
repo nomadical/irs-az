@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-27
 sourceId: ganjoor-27690
-titleAz: شمارهٔ ۲۷
+titleAz: Qitə 27
+titleRu: Кыта 27
 titleFa: شمارهٔ ۲۷
+titleEn: Qit'a 27
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-183
 sourceId: ganjoor-117478
-titleAz: شمارهٔ ۱۸۳
+titleAz: Qəzəl 183
+titleRu: Газель 183
 titleFa: شمارهٔ ۱۸۳
+titleEn: Ghazal 183
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

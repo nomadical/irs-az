@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-21
 sourceId: ganjoor-15016
-titleAz: رباعی شمارهٔ   ۲۱
+titleAz: Rübai 21
+titleRu: Рубаи 21
 titleFa: رباعی شمارهٔ   ۲۱
+titleEn: Rubai 21
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

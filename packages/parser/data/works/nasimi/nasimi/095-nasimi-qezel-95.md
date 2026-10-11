@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-95
 sourceId: ganjoor-117390
-titleAz: شمارهٔ ۹۵
+titleAz: Qəzəl 95
+titleRu: Газель 95
 titleFa: شمارهٔ ۹۵
+titleEn: Ghazal 95
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

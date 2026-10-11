@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-1
 sourceId: ganjoor-9263
-titleAz: بخش ۱ - آغاز سخن
+titleAz: 'Sirlər xəzinəsi, fəsil 1'
+titleRu: 'Сокровищница тайн, глава 1'
 titleFa: بخش ۱ - آغاز سخن
+titleEn: 'The Treasury of Mysteries, chapter 1'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-103
 sourceId: ganjoor-14472
-titleAz: غزل شمارهٔ ۱۰۳
+titleAz: Qəzəl 103
+titleRu: Газель 103
 titleFa: غزل شمارهٔ ۱۰۳
+titleEn: Ghazal 103
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

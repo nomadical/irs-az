@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-147
 sourceId: ganjoor-50207
-titleAz: رباعی شمارۀ ۱۴۷
+titleAz: 'Rübailər, 147'
+titleRu: 'Рубайят, 147'
 titleFa: رباعی شمارۀ ۱۴۷
+titleEn: 'Rubaiyat, 147'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

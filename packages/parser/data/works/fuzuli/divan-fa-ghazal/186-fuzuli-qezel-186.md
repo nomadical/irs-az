@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-186
 sourceId: ganjoor-116892
-titleAz: شمارهٔ ۱۸۶
+titleAz: Qəzəl 186
+titleRu: Газель 186
 titleFa: شمارهٔ ۱۸۶
+titleEn: Ghazal 186
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

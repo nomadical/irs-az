@@ -1,8 +1,10 @@
 ---
 slug: xaqani-terkibbend-7
 sourceId: ganjoor-15489
-titleAz: شمارهٔ ۷ - در مرثیهٔ امیر عضد الدین فریبرز و خواهر او، دو فرزند شروان شاه
+titleAz: Tərkibbənd 7
+titleRu: Таркиббанд 7
 titleFa: شمارهٔ ۷ - در مرثیهٔ امیر عضد الدین فریبرز و خواهر او، دو فرزند شروان شاه
+titleEn: Tarkib-band 7
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

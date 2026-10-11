@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-219
 sourceId: ganjoor-117514
-titleAz: شمارهٔ ۲۱۹ - ستایش فضل‌الله نعیمی
+titleAz: Qəzəl 219
+titleRu: Газель 219
 titleFa: شمارهٔ ۲۱۹ - ستایش فضل‌الله نعیمی
+titleEn: Ghazal 219
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

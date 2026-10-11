@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-30
 sourceId: ganjoor-9292
-titleAz: بخش ۳۰ - مقالت ششم در اعتبار موجودات
+titleAz: 'Sirlər xəzinəsi, fəsil 30'
+titleRu: 'Сокровищница тайн, глава 30'
 titleFa: بخش ۳۰ - مقالت ششم در اعتبار موجودات
+titleEn: 'The Treasury of Mysteries, chapter 30'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-6
 sourceId: ganjoor-9268
-titleAz: بخش ۶ - نعت اول
+titleAz: 'Sirlər xəzinəsi, fəsil 6'
+titleRu: 'Сокровищница тайн, глава 6'
 titleFa: بخش ۶ - نعت اول
+titleEn: 'The Treasury of Mysteries, chapter 6'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

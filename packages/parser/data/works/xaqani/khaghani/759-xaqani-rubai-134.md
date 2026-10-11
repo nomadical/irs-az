@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-134
 sourceId: ganjoor-15129
-titleAz: رباعی شمارهٔ   ۱۳۴
+titleAz: Rübai 134
+titleRu: Рубаи 134
 titleFa: رباعی شمارهٔ   ۱۳۴
+titleEn: Rubai 134
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

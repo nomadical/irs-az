@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-11
 sourceId: ganjoor-133735
-titleAz: شمارهٔ ۱۱
+titleAz: Rübai 11
+titleRu: Рубаи 11
 titleFa: شمارهٔ ۱۱
+titleEn: Rubai 11
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

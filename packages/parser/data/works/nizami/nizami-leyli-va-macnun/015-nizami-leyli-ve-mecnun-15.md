@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-15
 sourceId: ganjoor-9017
-titleAz: بخش ۱۵ - زاری کردن مجنون در عشق لیلی
+titleAz: 'Leyli və Məcnun, fəsil 15'
+titleRu: 'Лейли и Меджнун, глава 15'
 titleFa: بخش ۱۵ - زاری کردن مجنون در عشق لیلی
+titleEn: 'Layla and Majnun, chapter 15'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

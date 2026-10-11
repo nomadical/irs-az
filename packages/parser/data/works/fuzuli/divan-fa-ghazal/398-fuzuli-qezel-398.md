@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-398
 sourceId: ganjoor-117104
-titleAz: شمارهٔ ۳۹۸
+titleAz: Qəzəl 398
+titleRu: Газель 398
 titleFa: شمارهٔ ۳۹۸
+titleEn: Ghazal 398
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

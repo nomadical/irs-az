@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-105
 sourceId: ganjoor-27768
-titleAz: شمارهٔ ۱۰۵ - در حماسه
+titleAz: Qitə 105
+titleRu: Кыта 105
 titleFa: شمارهٔ ۱۰۵ - در حماسه
+titleEn: Qit'a 105
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

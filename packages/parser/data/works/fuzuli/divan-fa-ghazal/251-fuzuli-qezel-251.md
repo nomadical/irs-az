@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-251
 sourceId: ganjoor-116957
-titleAz: شمارهٔ ۲۵۱
+titleAz: Qəzəl 251
+titleRu: Газель 251
 titleFa: شمارهٔ ۲۵۱
+titleEn: Ghazal 251
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

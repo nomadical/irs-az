@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-392
 sourceId: ganjoor-117098
-titleAz: شمارهٔ ۳۹۲
+titleAz: Qəzəl 392
+titleRu: Газель 392
 titleFa: شمارهٔ ۳۹۲
+titleEn: Ghazal 392
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

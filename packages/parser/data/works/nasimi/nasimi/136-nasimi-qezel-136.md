@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-136
 sourceId: ganjoor-117431
-titleAz: شمارهٔ ۱۳۶
+titleAz: Qəzəl 136
+titleRu: Газель 136
 titleFa: شمارهٔ ۱۳۶
+titleEn: Ghazal 136
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

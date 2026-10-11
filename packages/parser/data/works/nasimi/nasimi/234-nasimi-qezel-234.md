@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-234
 sourceId: ganjoor-117529
-titleAz: شمارهٔ ۲۳۴
+titleAz: Qəzəl 234
+titleRu: Газель 234
 titleFa: شمارهٔ ۲۳۴
+titleEn: Ghazal 234
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

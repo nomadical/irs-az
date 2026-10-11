@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-53
 sourceId: ganjoor-116759
-titleAz: شمارهٔ ۵۳
+titleAz: Qəzəl 53
+titleRu: Газель 53
 titleFa: شمارهٔ ۵۳
+titleEn: Ghazal 53
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

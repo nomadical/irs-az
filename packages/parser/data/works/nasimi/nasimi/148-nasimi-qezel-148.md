@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-148
 sourceId: ganjoor-117443
-titleAz: شمارهٔ ۱۴۸
+titleAz: Qəzəl 148
+titleRu: Газель 148
 titleFa: شمارهٔ ۱۴۸
+titleEn: Ghazal 148
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

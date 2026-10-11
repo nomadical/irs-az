@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-44
 sourceId: ganjoor-15039
-titleAz: رباعی شمارهٔ   ۴۴
+titleAz: Rübai 44
+titleRu: Рубаи 44
 titleFa: رباعی شمارهٔ   ۴۴
+titleEn: Rubai 44
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

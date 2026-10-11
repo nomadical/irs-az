@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-4
 sourceId: ganjoor-9266
-titleAz: بخش ۴ - در نعت رسول اکرم
+titleAz: 'Sirlər xəzinəsi, fəsil 4'
+titleRu: 'Сокровищница тайн, глава 4'
 titleFa: بخش ۴ - در نعت رسول اکرم
+titleEn: 'The Treasury of Mysteries, chapter 4'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

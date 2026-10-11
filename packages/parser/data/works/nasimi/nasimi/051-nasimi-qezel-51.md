@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-51
 sourceId: ganjoor-117346
-titleAz: شمارهٔ ۵۱
+titleAz: Qəzəl 51
+titleRu: Газель 51
 titleFa: شمارهٔ ۵۱
+titleEn: Ghazal 51
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

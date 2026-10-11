@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-337
 sourceId: ganjoor-28000
-titleAz: شمارهٔ ۳۳۷ - در نکوهش بغداد
+titleAz: Qitə 337
+titleRu: Кыта 337
 titleFa: شمارهٔ ۳۳۷ - در نکوهش بغداد
+titleEn: Qit'a 337
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

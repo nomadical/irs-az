@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-84
 sourceId: ganjoor-116790
-titleAz: شمارهٔ ۸۴
+titleAz: Qəzəl 84
+titleRu: Газель 84
 titleFa: شمارهٔ ۸۴
+titleEn: Ghazal 84
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

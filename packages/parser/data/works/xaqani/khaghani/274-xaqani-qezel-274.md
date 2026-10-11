@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-274
 sourceId: ganjoor-14643
-titleAz: غزل شمارهٔ ۲۷۴
+titleAz: Qəzəl 274
+titleRu: Газель 274
 titleFa: غزل شمارهٔ ۲۷۴
+titleEn: Ghazal 274
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

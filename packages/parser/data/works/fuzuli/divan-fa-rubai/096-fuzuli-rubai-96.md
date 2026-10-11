@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-96
 sourceId: ganjoor-117260
-titleAz: شمارهٔ ۹۶
+titleAz: Rübai 96
+titleRu: Рубаи 96
 titleFa: شمارهٔ ۹۶
+titleEn: Rubai 96
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

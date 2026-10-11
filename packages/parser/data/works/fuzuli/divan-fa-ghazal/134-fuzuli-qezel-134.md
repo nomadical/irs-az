@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-134
 sourceId: ganjoor-116840
-titleAz: شمارهٔ ۱۳۴
+titleAz: Qəzəl 134
+titleRu: Газель 134
 titleFa: شمارهٔ ۱۳۴
+titleEn: Ghazal 134
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

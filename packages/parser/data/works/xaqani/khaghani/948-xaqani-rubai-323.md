@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-323
 sourceId: ganjoor-15318
-titleAz: رباعی شمارهٔ   ۳۲۳
+titleAz: Rübai 323
+titleRu: Рубаи 323
 titleFa: رباعی شمارهٔ   ۳۲۳
+titleEn: Rubai 323
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

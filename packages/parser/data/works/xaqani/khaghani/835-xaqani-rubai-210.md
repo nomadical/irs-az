@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-210
 sourceId: ganjoor-15205
-titleAz: رباعی شمارهٔ   ۲۱۰
+titleAz: Rübai 210
+titleRu: Рубаи 210
 titleFa: رباعی شمارهٔ   ۲۱۰
+titleEn: Rubai 210
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

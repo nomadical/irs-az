@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-40
 sourceId: ganjoor-9042
-titleAz: بخش ۴۰ - خواندن لیلی مجنون را
+titleAz: 'Leyli və Məcnun, fəsil 40'
+titleRu: 'Лейли и Меджнун, глава 40'
 titleFa: بخش ۴۰ - خواندن لیلی مجنون را
+titleEn: 'Layla and Majnun, chapter 40'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

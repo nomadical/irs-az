@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-260
 sourceId: ganjoor-117555
-titleAz: شمارهٔ ۲۶۰
+titleAz: Qəzəl 260
+titleRu: Газель 260
 titleFa: شمارهٔ ۲۶۰
+titleEn: Ghazal 260
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

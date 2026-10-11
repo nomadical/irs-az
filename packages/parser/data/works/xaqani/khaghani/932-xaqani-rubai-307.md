@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-307
 sourceId: ganjoor-15302
-titleAz: رباعی شمارهٔ   ۳۰۷
+titleAz: Rübai 307
+titleRu: Рубаи 307
 titleFa: رباعی شمارهٔ   ۳۰۷
+titleEn: Rubai 307
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

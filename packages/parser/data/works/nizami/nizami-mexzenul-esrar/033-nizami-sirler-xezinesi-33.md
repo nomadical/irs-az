@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-33
 sourceId: ganjoor-9295
-titleAz: بخش ۳۳ - داستان فریدون با آهو
+titleAz: 'Sirlər xəzinəsi, fəsil 33'
+titleRu: 'Сокровищница тайн, глава 33'
 titleFa: بخش ۳۳ - داستان فریدون با آهو
+titleEn: 'The Treasury of Mysteries, chapter 33'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

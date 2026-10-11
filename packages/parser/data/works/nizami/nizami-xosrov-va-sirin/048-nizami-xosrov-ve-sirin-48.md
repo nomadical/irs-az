@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-48
 sourceId: ganjoor-8912
-titleAz: بخش ۴۸ - آگهی خسرو از مرگ بهرام چوبین
+titleAz: 'Xosrov və Şirin, fəsil 48'
+titleRu: 'Хосров и Ширин, глава 48'
 titleFa: بخش ۴۸ - آگهی خسرو از مرگ بهرام چوبین
+titleEn: 'Khosrow and Shirin, chapter 48'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

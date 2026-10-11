@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-19
 sourceId: ganjoor-117622
-titleAz: شمارهٔ ۱۹
+titleAz: Rübai 19
+titleRu: Рубаи 19
 titleFa: شمارهٔ ۱۹
+titleEn: Rubai 19
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

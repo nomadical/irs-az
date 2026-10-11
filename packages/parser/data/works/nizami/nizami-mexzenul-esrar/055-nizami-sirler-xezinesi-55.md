@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-55
 sourceId: ganjoor-9317
-titleAz: بخش ۵۵ - داستان جمشید با خاصگی محرم
+titleAz: 'Sirlər xəzinəsi, fəsil 55'
+titleRu: 'Сокровищница тайн, глава 55'
 titleFa: بخش ۵۵ - داستان جمشید با خاصگی محرم
+titleEn: 'The Treasury of Mysteries, chapter 55'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

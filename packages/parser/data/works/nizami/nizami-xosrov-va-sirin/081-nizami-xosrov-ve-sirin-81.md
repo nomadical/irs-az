@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-81
 sourceId: ganjoor-8945
-titleAz: بخش ۸۱ - سرود گفتن باربد از زبان خسرو
+titleAz: 'Xosrov və Şirin, fəsil 81'
+titleRu: 'Хосров и Ширин, глава 81'
 titleFa: بخش ۸۱ - سرود گفتن باربد از زبان خسرو
+titleEn: 'Khosrow and Shirin, chapter 81'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

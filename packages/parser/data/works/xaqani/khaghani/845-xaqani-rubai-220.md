@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-220
 sourceId: ganjoor-15215
-titleAz: رباعی شمارهٔ   ۲۲۰
+titleAz: Rübai 220
+titleRu: Рубаи 220
 titleFa: رباعی شمارهٔ   ۲۲۰
+titleEn: Rubai 220
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

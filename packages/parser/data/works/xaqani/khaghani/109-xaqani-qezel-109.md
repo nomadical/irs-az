@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-109
 sourceId: ganjoor-14478
-titleAz: غزل شمارهٔ ۱۰۹
+titleAz: Qəzəl 109
+titleRu: Газель 109
 titleFa: غزل شمارهٔ ۱۰۹
+titleEn: Ghazal 109
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

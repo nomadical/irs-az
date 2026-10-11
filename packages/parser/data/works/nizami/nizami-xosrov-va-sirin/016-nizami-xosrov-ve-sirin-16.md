@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-16
 sourceId: ganjoor-8880
-titleAz: بخش ۱۶ - شفیع انگیختن خسرو پیران را پیش پدر
+titleAz: 'Xosrov və Şirin, fəsil 16'
+titleRu: 'Хосров и Ширин, глава 16'
 titleFa: بخش ۱۶ - شفیع انگیختن خسرو پیران را پیش پدر
+titleEn: 'Khosrow and Shirin, chapter 16'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

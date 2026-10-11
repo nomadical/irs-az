@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-saqiname-1
 sourceId: ganjoor-117276
-titleAz: بخش ۱ - تمهید
+titleAz: 'Saqinamə, fəsil 1'
+titleRu: 'Саки-наме, глава 1'
 titleFa: بخش ۱ - تمهید
+titleEn: 'Saqi-nama, chapter 1'
 authorSlug: fuzuli
 collectionSlug: saqiname
 originalLang: FA

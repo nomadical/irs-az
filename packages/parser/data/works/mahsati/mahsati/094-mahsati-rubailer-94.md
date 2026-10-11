@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-94
 sourceId: ganjoor-50154
-titleAz: رباعی شمارۀ ۹۴
+titleAz: 'Rübailər, 94'
+titleRu: 'Рубайят, 94'
 titleFa: رباعی شمارۀ ۹۴
+titleEn: 'Rubaiyat, 94'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

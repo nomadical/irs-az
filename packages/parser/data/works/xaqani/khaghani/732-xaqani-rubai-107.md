@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-107
 sourceId: ganjoor-15102
-titleAz: رباعی شمارهٔ   ۱۰۷
+titleAz: Rübai 107
+titleRu: Рубаи 107
 titleFa: رباعی شمارهٔ   ۱۰۷
+titleEn: Rubai 107
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

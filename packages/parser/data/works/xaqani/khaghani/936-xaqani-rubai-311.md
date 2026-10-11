@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-311
 sourceId: ganjoor-15306
-titleAz: رباعی شمارهٔ   ۳۱۱
+titleAz: Rübai 311
+titleRu: Рубаи 311
 titleFa: رباعی شمارهٔ   ۳۱۱
+titleEn: Rubai 311
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

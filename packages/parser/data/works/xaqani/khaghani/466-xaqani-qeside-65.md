@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-65
 sourceId: ganjoor-14835
-titleAz: شمارهٔ ۶۵ - مطلع دوم
+titleAz: Qəsidə 65
+titleRu: Касыда 65
 titleFa: شمارهٔ ۶۵ - مطلع دوم
+titleEn: Qasida 65
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

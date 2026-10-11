@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-185
 sourceId: ganjoor-117480
-titleAz: شمارهٔ ۱۸۵
+titleAz: Qəzəl 185
+titleRu: Газель 185
 titleFa: شمارهٔ ۱۸۵
+titleEn: Ghazal 185
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-37
 sourceId: ganjoor-14406
-titleAz: غزل شمارهٔ ۳۷
+titleAz: Qəzəl 37
+titleRu: Газель 37
 titleFa: غزل شمارهٔ ۳۷
+titleEn: Ghazal 37
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

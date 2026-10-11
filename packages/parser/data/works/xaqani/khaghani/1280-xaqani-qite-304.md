@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-304
 sourceId: ganjoor-27967
-titleAz: شمارهٔ ۳۰۴
+titleAz: Qitə 304
+titleRu: Кыта 304
 titleFa: شمارهٔ ۳۰۴
+titleEn: Qit'a 304
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-70
 sourceId: ganjoor-117673
-titleAz: شمارهٔ ۷۰
+titleAz: Rübai 70
+titleRu: Рубаи 70
 titleFa: شمارهٔ ۷۰
+titleEn: Rubai 70
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

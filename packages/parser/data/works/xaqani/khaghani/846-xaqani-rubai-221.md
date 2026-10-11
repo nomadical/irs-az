@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-221
 sourceId: ganjoor-15216
-titleAz: رباعی شمارهٔ   ۲۲۱
+titleAz: Rübai 221
+titleRu: Рубаи 221
 titleFa: رباعی شمارهٔ   ۲۲۱
+titleEn: Rubai 221
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

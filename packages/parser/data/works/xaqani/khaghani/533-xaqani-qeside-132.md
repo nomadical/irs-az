@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-132
 sourceId: ganjoor-14902
-titleAz: شمارهٔ ۱۳۲ - در ستایش بهاء الدین محمد دبیر خوارزم شاه تکش بن ایل ارسلان
+titleAz: Qəsidə 132
+titleRu: Касыда 132
 titleFa: شمارهٔ ۱۳۲ - در ستایش بهاء الدین محمد دبیر خوارزم شاه تکش بن ایل ارسلان
+titleEn: Qasida 132
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

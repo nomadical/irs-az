@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-79
 sourceId: ganjoor-117682
-titleAz: شمارهٔ ۷۹
+titleAz: Rübai 79
+titleRu: Рубаи 79
 titleFa: شمارهٔ ۷۹
+titleEn: Rubai 79
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

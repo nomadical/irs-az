@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-67
 sourceId: ganjoor-117362
-titleAz: شمارهٔ ۶۷
+titleAz: Qəzəl 67
+titleRu: Газель 67
 titleFa: شمارهٔ ۶۷
+titleEn: Ghazal 67
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-110
 sourceId: ganjoor-14880
-titleAz: شمارهٔ ۱۱۰ - در ستایش علاء الدین آتسزبن محمد خوارزم شاه
+titleAz: Qəsidə 110
+titleRu: Касыда 110
 titleFa: شمارهٔ ۱۱۰ - در ستایش علاء الدین آتسزبن محمد خوارزم شاه
+titleEn: Qasida 110
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

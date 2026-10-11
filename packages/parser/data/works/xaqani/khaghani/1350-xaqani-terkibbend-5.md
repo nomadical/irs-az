@@ -1,8 +1,10 @@
 ---
 slug: xaqani-terkibbend-5
 sourceId: ganjoor-15487
-titleAz: شمارهٔ ۵ - در مدح ملک الوزراء مختار الدین
+titleAz: Tərkibbənd 5
+titleRu: Таркиббанд 5
 titleFa: شمارهٔ ۵ - در مدح ملک الوزراء مختار الدین
+titleEn: Tarkib-band 5
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-9
 sourceId: ganjoor-117612
-titleAz: شمارهٔ ۹
+titleAz: Rübai 9
+titleRu: Рубаи 9
 titleFa: شمارهٔ ۹
+titleEn: Rubai 9
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

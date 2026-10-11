@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-31
 sourceId: ganjoor-15026
-titleAz: رباعی شمارهٔ   ۳۱
+titleAz: Rübai 31
+titleRu: Рубаи 31
 titleFa: رباعی شمارهٔ   ۳۱
+titleEn: Rubai 31
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

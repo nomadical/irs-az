@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-268
 sourceId: ganjoor-15263
-titleAz: رباعی شمارهٔ   ۲۶۸
+titleAz: Rübai 268
+titleRu: Рубаи 268
 titleFa: رباعی شمارهٔ   ۲۶۸
+titleEn: Rubai 268
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

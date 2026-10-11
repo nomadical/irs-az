@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-162
 sourceId: ganjoor-15157
-titleAz: رباعی شمارهٔ   ۱۶۲
+titleAz: Rübai 162
+titleRu: Рубаи 162
 titleFa: رباعی شمارهٔ   ۱۶۲
+titleEn: Rubai 162
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

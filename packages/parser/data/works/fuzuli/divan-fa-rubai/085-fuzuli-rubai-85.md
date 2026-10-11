@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-85
 sourceId: ganjoor-117249
-titleAz: شمارهٔ ۸۵
+titleAz: Rübai 85
+titleRu: Рубаи 85
 titleFa: شمارهٔ ۸۵
+titleEn: Rubai 85
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-36
 sourceId: ganjoor-9298
-titleAz: بخش ۳۶ - مقالت نهم در ترک شئونات دنیوی
+titleAz: 'Sirlər xəzinəsi, fəsil 36'
+titleRu: 'Сокровищница тайн, глава 36'
 titleFa: بخش ۳۶ - مقالت نهم در ترک شئونات دنیوی
+titleEn: 'The Treasury of Mysteries, chapter 36'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

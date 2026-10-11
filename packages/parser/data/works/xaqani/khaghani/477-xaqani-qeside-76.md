@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-76
 sourceId: ganjoor-14846
-titleAz: شمارهٔ ۷۶ - در شکایت از زندان
+titleAz: Qəsidə 76
+titleRu: Касыда 76
 titleFa: شمارهٔ ۷۶ - در شکایت از زندان
+titleEn: Qasida 76
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-149
 sourceId: ganjoor-133873
-titleAz: شمارهٔ ۱۴۹
+titleAz: Rübai 149
+titleRu: Рубаи 149
 titleFa: شمارهٔ ۱۴۹
+titleEn: Rubai 149
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

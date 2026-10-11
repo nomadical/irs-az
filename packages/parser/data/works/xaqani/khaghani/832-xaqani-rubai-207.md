@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-207
 sourceId: ganjoor-15202
-titleAz: رباعی شمارهٔ   ۲۰۷
+titleAz: Rübai 207
+titleRu: Рубаи 207
 titleFa: رباعی شمارهٔ   ۲۰۷
+titleEn: Rubai 207
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

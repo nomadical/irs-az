@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-34
 sourceId: ganjoor-14804
-titleAz: شمارهٔ ۳۴ - در مدح صفوة الدین بانوی شروان شاه
+titleAz: Qəsidə 34
+titleRu: Касыда 34
 titleFa: شمارهٔ ۳۴ - در مدح صفوة الدین بانوی شروان شاه
+titleEn: Qasida 34
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

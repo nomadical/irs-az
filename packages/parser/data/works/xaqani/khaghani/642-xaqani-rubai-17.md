@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-17
 sourceId: ganjoor-15012
-titleAz: رباعی شمارهٔ   ۱۷
+titleAz: Rübai 17
+titleRu: Рубаи 17
 titleFa: رباعی شمارهٔ   ۱۷
+titleEn: Rubai 17
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

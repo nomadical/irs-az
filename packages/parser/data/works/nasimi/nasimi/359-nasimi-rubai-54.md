@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-54
 sourceId: ganjoor-117657
-titleAz: شمارهٔ ۵۴
+titleAz: Rübai 54
+titleRu: Рубаи 54
 titleFa: شمارهٔ ۵۴
+titleEn: Rubai 54
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

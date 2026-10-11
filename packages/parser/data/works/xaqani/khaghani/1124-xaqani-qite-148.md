@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-148
 sourceId: ganjoor-27811
-titleAz: شمارهٔ ۱۴۸ - ایضا در مرثیهٔ امام محمد یحیی و خفه شدن او به دست غزان
+titleAz: Qitə 148
+titleRu: Кыта 148
 titleFa: شمارهٔ ۱۴۸ - ایضا در مرثیهٔ امام محمد یحیی و خفه شدن او به دست غزان
+titleEn: Qit'a 148
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

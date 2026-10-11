@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-36
 sourceId: ganjoor-117153
-titleAz: شمارهٔ ۳۶
+titleAz: Qitə 36
+titleRu: Кыта 36
 titleFa: شمارهٔ ۳۶
+titleEn: Qit'a 36
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

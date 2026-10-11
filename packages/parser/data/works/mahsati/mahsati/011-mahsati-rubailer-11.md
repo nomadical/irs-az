@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-11
 sourceId: ganjoor-50071
-titleAz: رباعی شمارۀ ۱۱
+titleAz: 'Rübailər, 11'
+titleRu: 'Рубайят, 11'
 titleFa: رباعی شمارۀ ۱۱
+titleEn: 'Rubaiyat, 11'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

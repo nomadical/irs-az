@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-57
 sourceId: ganjoor-14426
-titleAz: غزل شمارهٔ ۵۷
+titleAz: Qəzəl 57
+titleRu: Газель 57
 titleFa: غزل شمارهٔ ۵۷
+titleEn: Ghazal 57
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

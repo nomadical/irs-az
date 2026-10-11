@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-237
 sourceId: ganjoor-116943
-titleAz: شمارهٔ ۲۳۷
+titleAz: Qəzəl 237
+titleRu: Газель 237
 titleFa: شمارهٔ ۲۳۷
+titleEn: Ghazal 237
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

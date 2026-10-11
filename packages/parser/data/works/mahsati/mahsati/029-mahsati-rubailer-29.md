@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-29
 sourceId: ganjoor-50089
-titleAz: رباعی شمارۀ ۲۹
+titleAz: 'Rübailər, 29'
+titleRu: 'Рубайят, 29'
 titleFa: رباعی شمارۀ ۲۹
+titleEn: 'Rubaiyat, 29'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

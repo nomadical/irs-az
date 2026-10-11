@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-76
 sourceId: ganjoor-27739
-titleAz: شمارهٔ ۷۶ - در مدح شروان شاه
+titleAz: Qitə 76
+titleRu: Кыта 76
 titleFa: شمارهٔ ۷۶ - در مدح شروان شاه
+titleEn: Qit'a 76
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

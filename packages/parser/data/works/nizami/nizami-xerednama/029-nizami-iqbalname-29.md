@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-29
 sourceId: ganjoor-9241
-titleAz: بخش ۲۹ - رسیدن اسکندر به پیغمبری
+titleAz: 'İqbalnamə, fəsil 29'
+titleRu: 'Икбал-наме, глава 29'
 titleFa: بخش ۲۹ - رسیدن اسکندر به پیغمبری
+titleEn: 'Iqbalnama, chapter 29'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

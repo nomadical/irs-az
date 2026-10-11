@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-249
 sourceId: ganjoor-117544
-titleAz: شمارهٔ ۲۴۹
+titleAz: Qəzəl 249
+titleRu: Газель 249
 titleFa: شمارهٔ ۲۴۹
+titleEn: Ghazal 249
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

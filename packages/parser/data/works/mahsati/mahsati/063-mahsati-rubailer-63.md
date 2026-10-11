@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-63
 sourceId: ganjoor-50123
-titleAz: رباعی شمارۀ ۶۳
+titleAz: 'Rübailər, 63'
+titleRu: 'Рубайят, 63'
 titleFa: رباعی شمارۀ ۶۳
+titleEn: 'Rubaiyat, 63'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

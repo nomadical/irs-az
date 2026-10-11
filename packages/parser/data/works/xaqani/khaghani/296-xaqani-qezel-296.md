@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-296
 sourceId: ganjoor-14665
-titleAz: غزل شمارهٔ ۲۹۶
+titleAz: Qəzəl 296
+titleRu: Газель 296
 titleFa: غزل شمارهٔ ۲۹۶
+titleEn: Ghazal 296
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

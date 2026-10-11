@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-232
 sourceId: ganjoor-14601
-titleAz: غزل شمارهٔ ۲۳۲
+titleAz: Qəzəl 232
+titleRu: Газель 232
 titleFa: غزل شمارهٔ ۲۳۲
+titleEn: Ghazal 232
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

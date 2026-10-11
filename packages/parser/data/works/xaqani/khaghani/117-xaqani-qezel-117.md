@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-117
 sourceId: ganjoor-14486
-titleAz: غزل شمارهٔ ۱۱۷
+titleAz: Qəzəl 117
+titleRu: Газель 117
 titleFa: غزل شمارهٔ ۱۱۷
+titleEn: Ghazal 117
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

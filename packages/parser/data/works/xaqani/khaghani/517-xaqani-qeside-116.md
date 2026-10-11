@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-116
 sourceId: ganjoor-14886
-titleAz: شمارهٔ ۱۱۶ - در ستایش ملک الرسا شمس الدین محمودبن علی
+titleAz: Qəsidə 116
+titleRu: Касыда 116
 titleFa: شمارهٔ ۱۱۶ - در ستایش ملک الرسا شمس الدین محمودبن علی
+titleEn: Qasida 116
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

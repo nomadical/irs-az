@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-190
 sourceId: ganjoor-27853
-titleAz: شمارهٔ ۱۹۰ - در مرثیهٔ صدر الدین
+titleAz: Qitə 190
+titleRu: Кыта 190
 titleFa: شمارهٔ ۱۹۰ - در مرثیهٔ صدر الدین
+titleEn: Qit'a 190
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-6
 sourceId: ganjoor-117609
-titleAz: شمارهٔ ۶
+titleAz: Rübai 6
+titleRu: Рубаи 6
 titleFa: شمارهٔ ۶
+titleEn: Rubai 6
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

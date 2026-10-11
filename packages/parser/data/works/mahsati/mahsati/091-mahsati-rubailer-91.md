@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-91
 sourceId: ganjoor-50151
-titleAz: رباعی شمارۀ ۹۱
+titleAz: 'Rübailər, 91'
+titleRu: 'Рубайят, 91'
 titleFa: رباعی شمارۀ ۹۱
+titleEn: 'Rubaiyat, 91'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

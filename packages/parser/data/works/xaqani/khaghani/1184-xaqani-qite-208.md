@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-208
 sourceId: ganjoor-27871
-titleAz: شمارهٔ ۲۰۸
+titleAz: Qitə 208
+titleRu: Кыта 208
 titleFa: شمارهٔ ۲۰۸
+titleEn: Qit'a 208
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

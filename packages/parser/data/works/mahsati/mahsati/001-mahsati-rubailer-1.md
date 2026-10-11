@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-1
 sourceId: ganjoor-50061
-titleAz: رباعی شمارۀ ۱
+titleAz: 'Rübailər, 1'
+titleRu: 'Рубайят, 1'
 titleFa: رباعی شمارۀ ۱
+titleEn: 'Rubaiyat, 1'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

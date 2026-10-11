@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-68
 sourceId: ganjoor-117363
-titleAz: شمارهٔ ۶۸
+titleAz: Qəzəl 68
+titleRu: Газель 68
 titleFa: شمارهٔ ۶۸
+titleEn: Ghazal 68
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

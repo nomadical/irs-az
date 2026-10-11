@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-95
 sourceId: ganjoor-116801
-titleAz: شمارهٔ ۹۵
+titleAz: Qəzəl 95
+titleRu: Газель 95
 titleFa: شمارهٔ ۹۵
+titleEn: Ghazal 95
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-99
 sourceId: ganjoor-15094
-titleAz: رباعی شمارهٔ   ۹۹
+titleAz: Rübai 99
+titleRu: Рубаи 99
 titleFa: رباعی شمارهٔ   ۹۹
+titleEn: Rubai 99
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

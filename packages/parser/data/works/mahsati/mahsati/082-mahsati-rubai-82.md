@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-82
 sourceId: ganjoor-133806
-titleAz: شمارهٔ ۸۲
+titleAz: Rübai 82
+titleRu: Рубаи 82
 titleFa: شمارهٔ ۸۲
+titleEn: Rubai 82
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-58
 sourceId: ganjoor-117661
-titleAz: شمارهٔ ۵۸
+titleAz: Rübai 58
+titleRu: Рубаи 58
 titleFa: شمارهٔ ۵۸
+titleEn: Rubai 58
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

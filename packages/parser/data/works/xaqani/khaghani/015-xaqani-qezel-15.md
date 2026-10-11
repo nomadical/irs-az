@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-15
 sourceId: ganjoor-14384
-titleAz: غزل شمارهٔ ۱۵
+titleAz: Qəzəl 15
+titleRu: Газель 15
 titleFa: غزل شمارهٔ ۱۵
+titleEn: Ghazal 15
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-136
 sourceId: ganjoor-116842
-titleAz: شمارهٔ ۱۳۶
+titleAz: Qəzəl 136
+titleRu: Газель 136
 titleFa: شمارهٔ ۱۳۶
+titleEn: Ghazal 136
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-127
 sourceId: ganjoor-116833
-titleAz: شمارهٔ ۱۲۷
+titleAz: Qəzəl 127
+titleRu: Газель 127
 titleFa: شمارهٔ ۱۲۷
+titleEn: Ghazal 127
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

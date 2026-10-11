@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-85
 sourceId: ganjoor-117380
-titleAz: شمارهٔ ۸۵
+titleAz: Qəzəl 85
+titleRu: Газель 85
 titleFa: شمارهٔ ۸۵
+titleEn: Ghazal 85
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

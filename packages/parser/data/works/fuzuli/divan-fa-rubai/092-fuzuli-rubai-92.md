@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-92
 sourceId: ganjoor-117256
-titleAz: شمارهٔ ۹۲
+titleAz: Rübai 92
+titleRu: Рубаи 92
 titleFa: شمارهٔ ۹۲
+titleEn: Rubai 92
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

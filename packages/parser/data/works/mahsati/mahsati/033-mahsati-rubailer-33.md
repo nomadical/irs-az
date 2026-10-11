@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-33
 sourceId: ganjoor-50093
-titleAz: رباعی شمارۀ ۳۳
+titleAz: 'Rübailər, 33'
+titleRu: 'Рубайят, 33'
 titleFa: رباعی شمارۀ ۳۳
+titleEn: 'Rubaiyat, 33'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

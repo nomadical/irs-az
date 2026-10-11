@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-317
 sourceId: ganjoor-117023
-titleAz: شمارهٔ ۳۱۷
+titleAz: Qəzəl 317
+titleRu: Газель 317
 titleFa: شمارهٔ ۳۱۷
+titleEn: Ghazal 317
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

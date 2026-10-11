@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-69
 sourceId: ganjoor-14839
-titleAz: شمارهٔ ۶۹ - مطلع سوم
+titleAz: Qəsidə 69
+titleRu: Касыда 69
 titleFa: شمارهٔ ۶۹ - مطلع سوم
+titleEn: Qasida 69
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

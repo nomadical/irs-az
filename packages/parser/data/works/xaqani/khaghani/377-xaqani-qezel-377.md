@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-377
 sourceId: ganjoor-14746
-titleAz: غزل شمارهٔ ۳۷۷
+titleAz: Qəzəl 377
+titleRu: Газель 377
 titleFa: غزل شمارهٔ ۳۷۷
+titleEn: Ghazal 377
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-28
 sourceId: ganjoor-117145
-titleAz: شمارهٔ ۲۸
+titleAz: Qitə 28
+titleRu: Кыта 28
 titleFa: شمارهٔ ۲۸
+titleEn: Qit'a 28
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

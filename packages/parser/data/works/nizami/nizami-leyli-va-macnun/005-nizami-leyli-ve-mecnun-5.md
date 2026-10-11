@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-5
 sourceId: ganjoor-9007
-titleAz: بخش ۵ - در مدح شروانشاه اخستان بن منوچهر
+titleAz: 'Leyli və Məcnun, fəsil 5'
+titleRu: 'Лейли и Меджнун, глава 5'
 titleFa: بخش ۵ - در مدح شروانشاه اخستان بن منوچهر
+titleEn: 'Layla and Majnun, chapter 5'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

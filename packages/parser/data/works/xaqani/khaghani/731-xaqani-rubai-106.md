@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-106
 sourceId: ganjoor-15101
-titleAz: رباعی شمارهٔ   ۱۰۶
+titleAz: Rübai 106
+titleRu: Рубаи 106
 titleFa: رباعی شمارهٔ   ۱۰۶
+titleEn: Rubai 106
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

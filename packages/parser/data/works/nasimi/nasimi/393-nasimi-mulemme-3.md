@@ -1,8 +1,10 @@
 ---
 slug: nasimi-mulemme-3
 sourceId: ganjoor-117692
-titleAz: شمارهٔ ۳
+titleAz: Müləmmə 3
+titleRu: Мулямма 3
 titleFa: شمارهٔ ۳
+titleEn: Mulamma' 3
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

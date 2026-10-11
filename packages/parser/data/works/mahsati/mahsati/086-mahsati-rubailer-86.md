@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-86
 sourceId: ganjoor-50146
-titleAz: رباعی شمارۀ ۸۶
+titleAz: 'Rübailər, 86'
+titleRu: 'Рубайят, 86'
 titleFa: رباعی شمارۀ ۸۶
+titleEn: 'Rubaiyat, 86'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-27
 sourceId: ganjoor-14797
-titleAz: شمارهٔ ۲۷ - در فقر و گوشه نشینی و گله از سفر
+titleAz: Qəsidə 27
+titleRu: Касыда 27
 titleFa: شمارهٔ ۲۷ - در فقر و گوشه نشینی و گله از سفر
+titleEn: Qasida 27
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

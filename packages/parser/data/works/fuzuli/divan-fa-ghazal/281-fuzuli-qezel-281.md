@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-281
 sourceId: ganjoor-116987
-titleAz: شمارهٔ ۲۸۱
+titleAz: Qəzəl 281
+titleRu: Газель 281
 titleFa: شمارهٔ ۲۸۱
+titleEn: Ghazal 281
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

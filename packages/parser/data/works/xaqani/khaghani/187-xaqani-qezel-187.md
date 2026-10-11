@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-187
 sourceId: ganjoor-14556
-titleAz: غزل شمارهٔ ۱۸۷
+titleAz: Qəzəl 187
+titleRu: Газель 187
 titleFa: غزل شمارهٔ ۱۸۷
+titleEn: Ghazal 187
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

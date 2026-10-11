@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-351
 sourceId: ganjoor-14720
-titleAz: غزل شمارهٔ ۳۵۱
+titleAz: Qəzəl 351
+titleRu: Газель 351
 titleFa: غزل شمارهٔ ۳۵۱
+titleEn: Ghazal 351
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

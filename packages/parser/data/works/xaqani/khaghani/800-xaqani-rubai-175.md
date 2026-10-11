@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-175
 sourceId: ganjoor-15170
-titleAz: رباعی شمارهٔ   ۱۷۵
+titleAz: Rübai 175
+titleRu: Рубаи 175
 titleFa: رباعی شمارهٔ   ۱۷۵
+titleEn: Rubai 175
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

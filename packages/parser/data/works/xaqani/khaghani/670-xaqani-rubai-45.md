@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-45
 sourceId: ganjoor-15040
-titleAz: رباعی شمارهٔ   ۴۵
+titleAz: Rübai 45
+titleRu: Рубаи 45
 titleFa: رباعی شمارهٔ   ۴۵
+titleEn: Rubai 45
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

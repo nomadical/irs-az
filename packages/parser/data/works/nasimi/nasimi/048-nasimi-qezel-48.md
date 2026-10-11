@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-48
 sourceId: ganjoor-117343
-titleAz: شمارهٔ ۴۸
+titleAz: Qəzəl 48
+titleRu: Газель 48
 titleFa: شمارهٔ ۴۸
+titleEn: Ghazal 48
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

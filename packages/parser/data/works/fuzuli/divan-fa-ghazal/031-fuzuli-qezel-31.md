@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-31
 sourceId: ganjoor-116737
-titleAz: شمارهٔ ۳۱
+titleAz: Qəzəl 31
+titleRu: Газель 31
 titleFa: شمارهٔ ۳۱
+titleEn: Ghazal 31
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

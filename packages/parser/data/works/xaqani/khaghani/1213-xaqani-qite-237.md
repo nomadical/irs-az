@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-237
 sourceId: ganjoor-27900
-titleAz: شمارهٔ ۲۳۷
+titleAz: Qitə 237
+titleRu: Кыта 237
 titleFa: شمارهٔ ۲۳۷
+titleEn: Qit'a 237
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

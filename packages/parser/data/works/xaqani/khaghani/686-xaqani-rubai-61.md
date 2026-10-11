@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-61
 sourceId: ganjoor-15056
-titleAz: رباعی شمارهٔ   ۶۱
+titleAz: Rübai 61
+titleRu: Рубаи 61
 titleFa: رباعی شمارهٔ   ۶۱
+titleEn: Rubai 61
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

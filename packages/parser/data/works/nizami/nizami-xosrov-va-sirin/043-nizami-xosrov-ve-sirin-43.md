@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-43
 sourceId: ganjoor-8907
-titleAz: بخش ۴۳ - جنگ خسرو با بهرام و گریختن بهرام
+titleAz: 'Xosrov və Şirin, fəsil 43'
+titleRu: 'Хосров и Ширин, глава 43'
 titleFa: بخش ۴۳ - جنگ خسرو با بهرام و گریختن بهرام
+titleEn: 'Khosrow and Shirin, chapter 43'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

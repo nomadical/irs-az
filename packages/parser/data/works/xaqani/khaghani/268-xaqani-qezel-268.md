@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-268
 sourceId: ganjoor-14637
-titleAz: غزل شمارهٔ ۲۶۸
+titleAz: Qəzəl 268
+titleRu: Газель 268
 titleFa: غزل شمارهٔ ۲۶۸
+titleEn: Ghazal 268
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

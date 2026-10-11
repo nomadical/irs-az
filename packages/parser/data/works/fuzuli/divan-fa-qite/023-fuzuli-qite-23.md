@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-23
 sourceId: ganjoor-117140
-titleAz: شمارهٔ ۲۳
+titleAz: Qitə 23
+titleRu: Кыта 23
 titleFa: شمارهٔ ۲۳
+titleEn: Qit'a 23
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

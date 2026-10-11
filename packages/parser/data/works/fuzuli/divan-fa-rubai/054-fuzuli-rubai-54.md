@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-54
 sourceId: ganjoor-117218
-titleAz: شمارهٔ ۵۴
+titleAz: Rübai 54
+titleRu: Рубаи 54
 titleFa: شمارهٔ ۵۴
+titleEn: Rubai 54
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

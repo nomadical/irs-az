@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-73
 sourceId: ganjoor-133797
-titleAz: شمارهٔ ۷۳
+titleAz: Rübai 73
+titleRu: Рубаи 73
 titleFa: شمارهٔ ۷۳
+titleEn: Rubai 73
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

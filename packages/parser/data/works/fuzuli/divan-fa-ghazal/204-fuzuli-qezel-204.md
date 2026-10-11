@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-204
 sourceId: ganjoor-116910
-titleAz: شمارهٔ ۲۰۴
+titleAz: Qəzəl 204
+titleRu: Газель 204
 titleFa: شمارهٔ ۲۰۴
+titleEn: Ghazal 204
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

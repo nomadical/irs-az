@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-314
 sourceId: ganjoor-15309
-titleAz: رباعی شمارهٔ   ۳۱۴
+titleAz: Rübai 314
+titleRu: Рубаи 314
 titleFa: رباعی شمارهٔ   ۳۱۴
+titleEn: Rubai 314
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-109
 sourceId: ganjoor-15104
-titleAz: رباعی شمارهٔ   ۱۰۹
+titleAz: Rübai 109
+titleRu: Рубаи 109
 titleFa: رباعی شمارهٔ   ۱۰۹
+titleEn: Rubai 109
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

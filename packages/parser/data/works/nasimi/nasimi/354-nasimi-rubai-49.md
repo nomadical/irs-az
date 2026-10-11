@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-49
 sourceId: ganjoor-117652
-titleAz: شمارهٔ ۴۹
+titleAz: Rübai 49
+titleRu: Рубаи 49
 titleFa: شمارهٔ ۴۹
+titleEn: Rubai 49
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

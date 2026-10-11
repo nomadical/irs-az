@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-93
 sourceId: ganjoor-8957
-titleAz: بخش ۹۳ - اولین جنبش
+titleAz: 'Xosrov və Şirin, fəsil 93'
+titleRu: 'Хосров и Ширин, глава 93'
 titleFa: بخش ۹۳ - اولین جنبش
+titleEn: 'Khosrow and Shirin, chapter 93'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

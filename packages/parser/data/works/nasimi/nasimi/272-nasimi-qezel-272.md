@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-272
 sourceId: ganjoor-117567
-titleAz: شمارهٔ ۲۷۲
+titleAz: Qəzəl 272
+titleRu: Газель 272
 titleFa: شمارهٔ ۲۷۲
+titleEn: Ghazal 272
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

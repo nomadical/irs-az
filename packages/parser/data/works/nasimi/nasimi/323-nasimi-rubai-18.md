@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-18
 sourceId: ganjoor-117621
-titleAz: شمارهٔ ۱۸
+titleAz: Rübai 18
+titleRu: Рубаи 18
 titleFa: شمارهٔ ۱۸
+titleEn: Rubai 18
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

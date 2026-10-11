@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-25
 sourceId: ganjoor-117724
-titleAz: شمارهٔ ۲۵
+titleAz: Əlavə 25
+titleRu: Дополнение 25
 titleFa: شمارهٔ ۲۵
+titleEn: Addendum 25
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

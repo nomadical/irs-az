@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-8
 sourceId: ganjoor-9220
-titleAz: بخش ۸ - آغار داستان
+titleAz: 'İqbalnamə, fəsil 8'
+titleRu: 'Икбал-наме, глава 8'
 titleFa: بخش ۸ - آغار داستان
+titleEn: 'Iqbalnama, chapter 8'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

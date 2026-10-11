@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-22
 sourceId: ganjoor-117625
-titleAz: شمارهٔ ۲۲
+titleAz: Rübai 22
+titleRu: Рубаи 22
 titleFa: شمارهٔ ۲۲
+titleEn: Rubai 22
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

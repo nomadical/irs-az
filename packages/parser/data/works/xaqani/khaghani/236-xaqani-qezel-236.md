@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-236
 sourceId: ganjoor-14605
-titleAz: غزل شمارهٔ ۲۳۶
+titleAz: Qəzəl 236
+titleRu: Газель 236
 titleFa: غزل شمارهٔ ۲۳۶
+titleEn: Ghazal 236
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

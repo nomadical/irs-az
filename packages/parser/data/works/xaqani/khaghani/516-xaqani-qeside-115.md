@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-115
 sourceId: ganjoor-14885
-titleAz: شمارهٔ ۱۱۵ - در رثاء امام عز الدین ابوعمر و اسعد
+titleAz: Qəsidə 115
+titleRu: Касыда 115
 titleFa: شمارهٔ ۱۱۵ - در رثاء امام عز الدین ابوعمر و اسعد
+titleEn: Qasida 115
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

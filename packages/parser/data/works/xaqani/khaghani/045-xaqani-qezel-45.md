@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-45
 sourceId: ganjoor-14414
-titleAz: غزل شمارهٔ ۴۵
+titleAz: Qəzəl 45
+titleRu: Газель 45
 titleFa: غزل شمارهٔ ۴۵
+titleEn: Ghazal 45
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

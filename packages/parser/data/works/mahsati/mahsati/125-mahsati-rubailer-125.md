@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-125
 sourceId: ganjoor-50185
-titleAz: رباعی شمارۀ ۱۲۵
+titleAz: 'Rübailər, 125'
+titleRu: 'Рубайят, 125'
 titleFa: رباعی شمارۀ ۱۲۵
+titleEn: 'Rubaiyat, 125'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

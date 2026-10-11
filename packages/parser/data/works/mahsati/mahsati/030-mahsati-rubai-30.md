@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-30
 sourceId: ganjoor-133754
-titleAz: شمارهٔ ۳۰
+titleAz: Rübai 30
+titleRu: Рубаи 30
 titleFa: شمارهٔ ۳۰
+titleEn: Rubai 30
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

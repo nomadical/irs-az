@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-96
 sourceId: ganjoor-8960
-titleAz: بخش ۹۶ - مبداء و معاد
+titleAz: 'Xosrov və Şirin, fəsil 96'
+titleRu: 'Хосров и Ширин, глава 96'
 titleFa: بخش ۹۶ - مبداء و معاد
+titleEn: 'Khosrow and Shirin, chapter 96'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-70
 sourceId: ganjoor-27733
-titleAz: شمارهٔ ۷۰ - در نکوهش مقلدان
+titleAz: Qitə 70
+titleRu: Кыта 70
 titleFa: شمارهٔ ۷۰ - در نکوهش مقلدان
+titleEn: Qit'a 70
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

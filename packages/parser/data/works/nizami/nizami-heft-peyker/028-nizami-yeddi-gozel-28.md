@@ -1,12 +1,12 @@
 ---
 slug: nizami-yeddi-gozel-28
 sourceId: ganjoor-9076
-titleAz: >-
-  بخش ۲۸ - نشستن بهرام روز دوشنبه در گنبد سبز و افسانه گفتن دختر پادشاه اقلیم
-  سوم
+titleAz: 'Yeddi gözəl, fəsil 28'
+titleRu: 'Семь красавиц, глава 28'
 titleFa: >-
   بخش ۲۸ - نشستن بهرام روز دوشنبه در گنبد سبز و افسانه گفتن دختر پادشاه اقلیم
   سوم
+titleEn: 'The Seven Beauties, chapter 28'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

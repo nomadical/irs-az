@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-333
 sourceId: ganjoor-27996
-titleAz: شمارهٔ ۳۳۳
+titleAz: Qitə 333
+titleRu: Кыта 333
 titleFa: شمارهٔ ۳۳۳
+titleEn: Qit'a 333
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

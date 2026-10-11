@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-73
 sourceId: ganjoor-14843
-titleAz: شمارهٔ ۷۳ - قصیده
+titleAz: Qəsidə 73
+titleRu: Касыда 73
 titleFa: شمارهٔ ۷۳ - قصیده
+titleEn: Qasida 73
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

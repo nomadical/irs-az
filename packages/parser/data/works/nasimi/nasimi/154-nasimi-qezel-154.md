@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-154
 sourceId: ganjoor-117449
-titleAz: شمارهٔ ۱۵۴
+titleAz: Qəzəl 154
+titleRu: Газель 154
 titleFa: شمارهٔ ۱۵۴
+titleEn: Ghazal 154
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

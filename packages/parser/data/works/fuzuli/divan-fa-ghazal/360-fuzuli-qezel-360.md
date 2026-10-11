@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-360
 sourceId: ganjoor-117066
-titleAz: شمارهٔ ۳۶۰
+titleAz: Qəzəl 360
+titleRu: Газель 360
 titleFa: شمارهٔ ۳۶۰
+titleEn: Ghazal 360
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

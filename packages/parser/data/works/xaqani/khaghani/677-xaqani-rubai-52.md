@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-52
 sourceId: ganjoor-15047
-titleAz: رباعی شمارهٔ   ۵۲
+titleAz: Rübai 52
+titleRu: Рубаи 52
 titleFa: رباعی شمارهٔ   ۵۲
+titleEn: Rubai 52
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

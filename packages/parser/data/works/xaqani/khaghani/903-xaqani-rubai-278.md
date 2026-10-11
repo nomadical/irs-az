@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-278
 sourceId: ganjoor-15273
-titleAz: رباعی شمارهٔ   ۲۷۸
+titleAz: Rübai 278
+titleRu: Рубаи 278
 titleFa: رباعی شمارهٔ   ۲۷۸
+titleEn: Rubai 278
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

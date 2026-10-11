@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-103
 sourceId: ganjoor-27766
-titleAz: شمارهٔ ۱۰۳ - این قطعه را در واقعهٔ حبس خویش گفته
+titleAz: Qitə 103
+titleRu: Кыта 103
 titleFa: شمارهٔ ۱۰۳ - این قطعه را در واقعهٔ حبس خویش گفته
+titleEn: Qit'a 103
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

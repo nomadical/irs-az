@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-397
 sourceId: ganjoor-117103
-titleAz: شمارهٔ ۳۹۷
+titleAz: Qəzəl 397
+titleRu: Газель 397
 titleFa: شمارهٔ ۳۹۷
+titleEn: Ghazal 397
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

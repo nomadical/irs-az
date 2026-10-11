@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-324
 sourceId: ganjoor-117030
-titleAz: شمارهٔ ۳۲۴
+titleAz: Qəzəl 324
+titleRu: Газель 324
 titleFa: شمارهٔ ۳۲۴
+titleEn: Ghazal 324
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

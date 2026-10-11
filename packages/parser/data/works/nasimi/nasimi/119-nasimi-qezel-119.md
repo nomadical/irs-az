@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-119
 sourceId: ganjoor-117414
-titleAz: شمارهٔ ۱۱۹
+titleAz: Qəzəl 119
+titleRu: Газель 119
 titleFa: شمارهٔ ۱۱۹
+titleEn: Ghazal 119
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

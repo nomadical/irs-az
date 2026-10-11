@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-401
 sourceId: ganjoor-117107
-titleAz: شمارهٔ ۴۰۱
+titleAz: Qəzəl 401
+titleRu: Газель 401
 titleFa: شمارهٔ ۴۰۱
+titleEn: Ghazal 401
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

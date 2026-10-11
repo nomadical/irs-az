@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-256
 sourceId: ganjoor-14625
-titleAz: غزل شمارهٔ ۲۵۶
+titleAz: Qəzəl 256
+titleRu: Газель 256
 titleFa: غزل شمارهٔ ۲۵۶
+titleEn: Ghazal 256
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

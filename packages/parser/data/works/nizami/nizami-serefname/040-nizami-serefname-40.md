@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-40
 sourceId: ganjoor-9189
-titleAz: بخش ۴۰ - رفتن اسکندر به هندوستان
+titleAz: 'Şərəfnamə, fəsil 40'
+titleRu: 'Шараф-наме, глава 40'
 titleFa: بخش ۴۰ - رفتن اسکندر به هندوستان
+titleEn: 'Sharafnama, chapter 40'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

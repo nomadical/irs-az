@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-49
 sourceId: ganjoor-9311
-titleAz: بخش ۴۹ - داستان ملک‌زاده جوان با دشمنان پیر
+titleAz: 'Sirlər xəzinəsi, fəsil 49'
+titleRu: 'Сокровищница тайн, глава 49'
 titleFa: بخش ۴۹ - داستان ملک‌زاده جوان با دشمنان پیر
+titleEn: 'The Treasury of Mysteries, chapter 49'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

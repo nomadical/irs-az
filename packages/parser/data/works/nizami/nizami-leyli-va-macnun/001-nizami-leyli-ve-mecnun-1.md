@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-1
 sourceId: ganjoor-9003
-titleAz: بخش ۱ - به نام ایزد بخشاینده
+titleAz: 'Leyli və Məcnun, fəsil 1'
+titleRu: 'Лейли и Меджнун, глава 1'
 titleFa: بخش ۱ - به نام ایزد بخشاینده
+titleEn: 'Layla and Majnun, chapter 1'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-19
 sourceId: ganjoor-133743
-titleAz: شمارهٔ ۱۹
+titleAz: Rübai 19
+titleRu: Рубаи 19
 titleFa: شمارهٔ ۱۹
+titleEn: Rubai 19
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

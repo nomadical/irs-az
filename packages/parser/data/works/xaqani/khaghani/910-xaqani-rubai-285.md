@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-285
 sourceId: ganjoor-15280
-titleAz: رباعی شمارهٔ   ۲۸۵
+titleAz: Rübai 285
+titleRu: Рубаи 285
 titleFa: رباعی شمارهٔ   ۲۸۵
+titleEn: Rubai 285
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

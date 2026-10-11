@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-351
 sourceId: ganjoor-15346
-titleAz: رباعی شمارهٔ   ۳۵۱
+titleAz: Rübai 351
+titleRu: Рубаи 351
 titleFa: رباعی شمارهٔ   ۳۵۱
+titleEn: Rubai 351
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

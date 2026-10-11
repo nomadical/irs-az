@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-132
 sourceId: ganjoor-14501
-titleAz: غزل شمارهٔ ۱۳۲
+titleAz: Qəzəl 132
+titleRu: Газель 132
 titleFa: غزل شمارهٔ ۱۳۲
+titleEn: Ghazal 132
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

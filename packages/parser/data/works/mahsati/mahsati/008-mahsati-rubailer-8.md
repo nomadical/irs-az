@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-8
 sourceId: ganjoor-50068
-titleAz: رباعی شمارۀ ۸
+titleAz: 'Rübailər, 8'
+titleRu: 'Рубайят, 8'
 titleFa: رباعی شمارۀ ۸
+titleEn: 'Rubaiyat, 8'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

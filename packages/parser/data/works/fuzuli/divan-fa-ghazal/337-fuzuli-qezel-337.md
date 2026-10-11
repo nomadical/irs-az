@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-337
 sourceId: ganjoor-117043
-titleAz: شمارهٔ ۳۳۷
+titleAz: Qəzəl 337
+titleRu: Газель 337
 titleFa: شمارهٔ ۳۳۷
+titleEn: Ghazal 337
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-65
 sourceId: ganjoor-50125
-titleAz: رباعی شمارۀ ۶۵
+titleAz: 'Rübailər, 65'
+titleRu: 'Рубайят, 65'
 titleFa: رباعی شمارۀ ۶۵
+titleEn: 'Rubaiyat, 65'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

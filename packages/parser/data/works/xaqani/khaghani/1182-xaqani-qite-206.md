@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-206
 sourceId: ganjoor-27869
-titleAz: شمارهٔ ۲۰۶
+titleAz: Qitə 206
+titleRu: Кыта 206
 titleFa: شمارهٔ ۲۰۶
+titleEn: Qit'a 206
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

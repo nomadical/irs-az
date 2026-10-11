@@ -1,8 +1,10 @@
 ---
 slug: xaqani-erebce-3
 sourceId: ganjoor-15494
-titleAz: مطلع سوم
+titleAz: Ərəbcə şeir 3
+titleRu: Арабское стихотворение 3
 titleFa: مطلع سوم
+titleEn: Arabic poem 3
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

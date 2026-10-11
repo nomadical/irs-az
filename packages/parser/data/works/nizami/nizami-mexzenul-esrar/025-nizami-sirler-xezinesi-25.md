@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-25
 sourceId: ganjoor-9287
-titleAz: بخش ۲۵ - حکایت سلیمان با دهقان
+titleAz: 'Sirlər xəzinəsi, fəsil 25'
+titleRu: 'Сокровищница тайн, глава 25'
 titleFa: بخش ۲۵ - حکایت سلیمان با دهقان
+titleEn: 'The Treasury of Mysteries, chapter 25'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

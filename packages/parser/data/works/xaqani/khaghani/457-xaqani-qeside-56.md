@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-56
 sourceId: ganjoor-14826
-titleAz: شمارهٔ ۵۶ - قصیده
+titleAz: Qəsidə 56
+titleRu: Касыда 56
 titleFa: شمارهٔ ۵۶ - قصیده
+titleEn: Qasida 56
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

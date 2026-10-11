@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-172
 sourceId: ganjoor-50232
-titleAz: رباعی شمارۀ ۱۷۲
+titleAz: 'Rübailər, 172'
+titleRu: 'Рубайят, 172'
 titleFa: رباعی شمارۀ ۱۷۲
+titleEn: 'Rubaiyat, 172'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

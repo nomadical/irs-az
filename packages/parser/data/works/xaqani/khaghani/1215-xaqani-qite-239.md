@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-239
 sourceId: ganjoor-27902
-titleAz: شمارهٔ ۲۳۹
+titleAz: Qitə 239
+titleRu: Кыта 239
 titleFa: شمارهٔ ۲۳۹
+titleEn: Qit'a 239
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-58
 sourceId: ganjoor-50118
-titleAz: رباعی شمارۀ ۵۸
+titleAz: 'Rübailər, 58'
+titleRu: 'Рубайят, 58'
 titleFa: رباعی شمارۀ ۵۸
+titleEn: 'Rubaiyat, 58'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

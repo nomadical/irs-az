@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-133
 sourceId: ganjoor-14903
-titleAz: شمارهٔ ۱۳۳ - مطلع دوم
+titleAz: Qəsidə 133
+titleRu: Касыда 133
 titleFa: شمارهٔ ۱۳۳ - مطلع دوم
+titleEn: Qasida 133
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

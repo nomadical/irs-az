@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-17
 sourceId: ganjoor-117716
-titleAz: شمارهٔ ۱۷
+titleAz: Əlavə 17
+titleRu: Дополнение 17
 titleFa: شمارهٔ ۱۷
+titleEn: Addendum 17
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

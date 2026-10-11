@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-22
 sourceId: ganjoor-117139
-titleAz: شمارهٔ ۲۲
+titleAz: Qitə 22
+titleRu: Кыта 22
 titleFa: شمارهٔ ۲۲
+titleEn: Qit'a 22
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

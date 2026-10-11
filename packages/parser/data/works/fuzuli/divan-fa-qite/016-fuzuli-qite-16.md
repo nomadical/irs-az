@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-16
 sourceId: ganjoor-117133
-titleAz: شمارهٔ ۱۶
+titleAz: Qitə 16
+titleRu: Кыта 16
 titleFa: شمارهٔ ۱۶
+titleEn: Qit'a 16
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

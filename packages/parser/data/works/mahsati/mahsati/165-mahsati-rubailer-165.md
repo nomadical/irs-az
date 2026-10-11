@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-165
 sourceId: ganjoor-50225
-titleAz: رباعی شمارۀ ۱۶۵
+titleAz: 'Rübailər, 165'
+titleRu: 'Рубайят, 165'
 titleFa: رباعی شمارۀ ۱۶۵
+titleEn: 'Rubaiyat, 165'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

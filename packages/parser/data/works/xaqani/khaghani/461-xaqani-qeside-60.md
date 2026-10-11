@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-60
 sourceId: ganjoor-14830
-titleAz: شمارهٔ ۶۰ - در شکایت از روزگار
+titleAz: Qəsidə 60
+titleRu: Касыда 60
 titleFa: شمارهٔ ۶۰ - در شکایت از روزگار
+titleEn: Qasida 60
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

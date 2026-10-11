@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-172
 sourceId: ganjoor-14942
-titleAz: شمارهٔ ۱۷۲ - درستایش اصفهان
+titleAz: Qəsidə 172
+titleRu: Касыда 172
 titleFa: شمارهٔ ۱۷۲ - درستایش اصفهان
+titleEn: Qasida 172
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

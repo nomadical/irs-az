@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-7
 sourceId: ganjoor-117124
-titleAz: شمارهٔ ۷
+titleAz: Qitə 7
+titleRu: Кыта 7
 titleFa: شمارهٔ ۷
+titleEn: Qit'a 7
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

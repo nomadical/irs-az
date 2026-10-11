@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-283
 sourceId: ganjoor-15278
-titleAz: رباعی شمارهٔ   ۲۸۳
+titleAz: Rübai 283
+titleRu: Рубаи 283
 titleFa: رباعی شمارهٔ   ۲۸۳
+titleEn: Rubai 283
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

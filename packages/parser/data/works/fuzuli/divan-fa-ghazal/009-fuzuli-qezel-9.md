@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-9
 sourceId: ganjoor-116715
-titleAz: شمارهٔ ۹
+titleAz: Qəzəl 9
+titleRu: Газель 9
 titleFa: شمارهٔ ۹
+titleEn: Ghazal 9
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

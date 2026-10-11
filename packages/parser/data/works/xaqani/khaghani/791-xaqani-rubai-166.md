@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-166
 sourceId: ganjoor-15161
-titleAz: رباعی شمارهٔ   ۱۶۶
+titleAz: Rübai 166
+titleRu: Рубаи 166
 titleFa: رباعی شمارهٔ   ۱۶۶
+titleEn: Rubai 166
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

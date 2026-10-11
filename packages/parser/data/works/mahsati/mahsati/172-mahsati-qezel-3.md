@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qezel-3
 sourceId: ganjoor-133897
-titleAz: شمارهٔ ۳
+titleAz: Qəzəl 3
+titleRu: Газель 3
 titleFa: شمارهٔ ۳
+titleEn: Ghazal 3
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

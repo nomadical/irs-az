@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-142
 sourceId: ganjoor-14912
-titleAz: شمارهٔ ۱۴۲ - در حماسه و نکوهش حسودان و سخنی در حکمت
+titleAz: Qəsidə 142
+titleRu: Касыда 142
 titleFa: شمارهٔ ۱۴۲ - در حماسه و نکوهش حسودان و سخنی در حکمت
+titleEn: Qasida 142
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

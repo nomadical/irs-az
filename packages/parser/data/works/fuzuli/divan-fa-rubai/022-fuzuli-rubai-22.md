@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-22
 sourceId: ganjoor-117186
-titleAz: شمارهٔ ۲۲
+titleAz: Rübai 22
+titleRu: Рубаи 22
 titleFa: شمارهٔ ۲۲
+titleEn: Rubai 22
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

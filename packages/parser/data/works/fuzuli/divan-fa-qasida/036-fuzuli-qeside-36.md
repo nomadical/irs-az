@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-36
 sourceId: ganjoor-116692
-titleAz: شمارهٔ ۳۶
+titleAz: Qəsidə 36
+titleRu: Касыда 36
 titleFa: شمارهٔ ۳۶
+titleEn: Qasida 36
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

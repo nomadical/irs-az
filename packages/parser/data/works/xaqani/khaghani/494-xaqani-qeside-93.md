@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-93
 sourceId: ganjoor-14863
-titleAz: شمارهٔ ۹۳ - در بیان عشق و گوشه نشینی و ستایش عصمة الدین خواهر منوچهر
+titleAz: Qəsidə 93
+titleRu: Касыда 93
 titleFa: شمارهٔ ۹۳ - در بیان عشق و گوشه نشینی و ستایش عصمة الدین خواهر منوچهر
+titleEn: Qasida 93
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

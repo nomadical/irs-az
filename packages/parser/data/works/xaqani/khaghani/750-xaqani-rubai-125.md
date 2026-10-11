@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-125
 sourceId: ganjoor-15120
-titleAz: رباعی شمارهٔ   ۱۲۵
+titleAz: Rübai 125
+titleRu: Рубаи 125
 titleFa: رباعی شمارهٔ   ۱۲۵
+titleEn: Rubai 125
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

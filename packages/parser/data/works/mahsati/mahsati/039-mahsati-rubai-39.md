@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-39
 sourceId: ganjoor-133763
-titleAz: شمارهٔ ۳۹
+titleAz: Rübai 39
+titleRu: Рубаи 39
 titleFa: شمارهٔ ۳۹
+titleEn: Rubai 39
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

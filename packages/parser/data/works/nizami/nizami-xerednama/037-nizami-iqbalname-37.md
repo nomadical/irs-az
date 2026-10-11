@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-37
 sourceId: ganjoor-9249
-titleAz: بخش ۳۷ - بازگشتن اسکندر از حد شمال به عزم روم
+titleAz: 'İqbalnamə, fəsil 37'
+titleRu: 'Икбал-наме, глава 37'
 titleFa: بخش ۳۷ - بازگشتن اسکندر از حد شمال به عزم روم
+titleEn: 'Iqbalnama, chapter 37'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

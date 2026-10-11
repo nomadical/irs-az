@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-153
 sourceId: ganjoor-14522
-titleAz: غزل شمارهٔ ۱۵۳
+titleAz: Qəzəl 153
+titleRu: Газель 153
 titleFa: غزل شمارهٔ ۱۵۳
+titleEn: Ghazal 153
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

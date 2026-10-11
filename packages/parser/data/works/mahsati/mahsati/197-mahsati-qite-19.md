@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-19
 sourceId: ganjoor-133923
-titleAz: شمارهٔ  ۱۹
+titleAz: Qitə 19
+titleRu: Кыта 19
 titleFa: شمارهٔ  ۱۹
+titleEn: Qit'a 19
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

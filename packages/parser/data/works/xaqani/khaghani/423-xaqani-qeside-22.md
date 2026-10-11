@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-22
 sourceId: ganjoor-14792
-titleAz: شمارهٔ ۲۲ - مطلع چهارم
+titleAz: Qəsidə 22
+titleRu: Касыда 22
 titleFa: شمارهٔ ۲۲ - مطلع چهارم
+titleEn: Qasida 22
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

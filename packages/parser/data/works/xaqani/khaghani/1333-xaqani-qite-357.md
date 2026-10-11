@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-357
 sourceId: ganjoor-28020
-titleAz: شمارهٔ ۳۵۷
+titleAz: Qitə 357
+titleRu: Кыта 357
 titleFa: شمارهٔ ۳۵۷
+titleEn: Qit'a 357
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

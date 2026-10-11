@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-4
 sourceId: ganjoor-9052
-titleAz: بخش ۴ - سبب نظم کتاب
+titleAz: 'Yeddi gözəl, fəsil 4'
+titleRu: 'Семь красавиц, глава 4'
 titleFa: بخش ۴ - سبب نظم کتاب
+titleEn: 'The Seven Beauties, chapter 4'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

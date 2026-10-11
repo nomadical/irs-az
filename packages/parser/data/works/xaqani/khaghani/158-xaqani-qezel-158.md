@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-158
 sourceId: ganjoor-14527
-titleAz: غزل شمارهٔ ۱۵۸
+titleAz: Qəzəl 158
+titleRu: Газель 158
 titleFa: غزل شمارهٔ ۱۵۸
+titleEn: Ghazal 158
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

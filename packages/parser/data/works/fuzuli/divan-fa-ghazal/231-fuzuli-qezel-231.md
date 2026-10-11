@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-231
 sourceId: ganjoor-116937
-titleAz: شمارهٔ ۲۳۱
+titleAz: Qəzəl 231
+titleRu: Газель 231
 titleFa: شمارهٔ ۲۳۱
+titleEn: Ghazal 231
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-169
 sourceId: ganjoor-116875
-titleAz: شمارهٔ ۱۶۹
+titleAz: Qəzəl 169
+titleRu: Газель 169
 titleFa: شمارهٔ ۱۶۹
+titleEn: Ghazal 169
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

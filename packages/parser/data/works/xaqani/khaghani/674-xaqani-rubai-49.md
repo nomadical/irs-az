@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-49
 sourceId: ganjoor-15044
-titleAz: رباعی شمارهٔ   ۴۹
+titleAz: Rübai 49
+titleRu: Рубаи 49
 titleFa: رباعی شمارهٔ   ۴۹
+titleEn: Rubai 49
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

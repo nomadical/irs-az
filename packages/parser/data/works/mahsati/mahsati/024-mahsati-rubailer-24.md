@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-24
 sourceId: ganjoor-50084
-titleAz: رباعی شمارۀ ۲۴
+titleAz: 'Rübailər, 24'
+titleRu: 'Рубайят, 24'
 titleFa: رباعی شمارۀ ۲۴
+titleEn: 'Rubaiyat, 24'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

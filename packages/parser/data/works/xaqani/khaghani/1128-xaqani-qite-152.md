@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-152
 sourceId: ganjoor-27815
-titleAz: شمارهٔ ۱۵۲ - در تقاضای ده شتر از امیر الحاج
+titleAz: Qitə 152
+titleRu: Кыта 152
 titleFa: شمارهٔ ۱۵۲ - در تقاضای ده شتر از امیر الحاج
+titleEn: Qit'a 152
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

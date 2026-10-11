@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-47
 sourceId: ganjoor-50107
-titleAz: رباعی شمارۀ ۴۷
+titleAz: 'Rübailər, 47'
+titleRu: 'Рубайят, 47'
 titleFa: رباعی شمارۀ ۴۷
+titleEn: 'Rubaiyat, 47'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

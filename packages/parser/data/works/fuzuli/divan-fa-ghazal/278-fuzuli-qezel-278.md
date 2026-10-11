@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-278
 sourceId: ganjoor-116984
-titleAz: شمارهٔ ۲۷۸
+titleAz: Qəzəl 278
+titleRu: Газель 278
 titleFa: شمارهٔ ۲۷۸
+titleEn: Ghazal 278
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-27
 sourceId: ganjoor-9239
-titleAz: بخش ۲۷ - گفتار اسکندر
+titleAz: 'İqbalnamə, fəsil 27'
+titleRu: 'Икбал-наме, глава 27'
 titleFa: بخش ۲۷ - گفتار اسکندر
+titleEn: 'Iqbalnama, chapter 27'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

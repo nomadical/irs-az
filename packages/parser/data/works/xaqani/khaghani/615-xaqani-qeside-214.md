@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-214
 sourceId: ganjoor-14984
-titleAz: شمارهٔ ۲۱۴ - مطلع چهارم
+titleAz: Qəsidə 214
+titleRu: Касыда 214
 titleFa: شمارهٔ ۲۱۴ - مطلع چهارم
+titleEn: Qasida 214
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

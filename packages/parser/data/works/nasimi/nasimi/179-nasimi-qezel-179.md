@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-179
 sourceId: ganjoor-117474
-titleAz: شمارهٔ ۱۷۹
+titleAz: Qəzəl 179
+titleRu: Газель 179
 titleFa: شمارهٔ ۱۷۹
+titleEn: Ghazal 179
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

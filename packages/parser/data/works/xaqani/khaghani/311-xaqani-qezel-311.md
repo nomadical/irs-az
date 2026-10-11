@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-311
 sourceId: ganjoor-14680
-titleAz: غزل شمارهٔ ۳۱۱
+titleAz: Qəzəl 311
+titleRu: Газель 311
 titleFa: غزل شمارهٔ ۳۱۱
+titleEn: Ghazal 311
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

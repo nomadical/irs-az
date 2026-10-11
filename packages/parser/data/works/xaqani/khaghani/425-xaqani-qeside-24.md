@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-24
 sourceId: ganjoor-14794
-titleAz: شمارهٔ ۲۴ - در تحسر و تالم از مرگ کافی الدین عمربن عثمان عموی خود گوید
+titleAz: Qəsidə 24
+titleRu: Касыда 24
 titleFa: شمارهٔ ۲۴ - در تحسر و تالم از مرگ کافی الدین عمربن عثمان عموی خود گوید
+titleEn: Qasida 24
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

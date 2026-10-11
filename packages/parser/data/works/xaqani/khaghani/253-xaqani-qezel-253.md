@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-253
 sourceId: ganjoor-14622
-titleAz: غزل شمارهٔ ۲۵۳
+titleAz: Qəzəl 253
+titleRu: Газель 253
 titleFa: غزل شمارهٔ ۲۵۳
+titleEn: Ghazal 253
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

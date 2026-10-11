@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-148
 sourceId: ganjoor-14517
-titleAz: غزل شمارهٔ ۱۴۸
+titleAz: Qəzəl 148
+titleRu: Газель 148
 titleFa: غزل شمارهٔ ۱۴۸
+titleEn: Ghazal 148
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

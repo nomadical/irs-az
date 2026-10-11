@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-30
 sourceId: ganjoor-117147
-titleAz: شمارهٔ ۳۰
+titleAz: Qitə 30
+titleRu: Кыта 30
 titleFa: شمارهٔ ۳۰
+titleEn: Qit'a 30
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

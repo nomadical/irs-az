@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-69
 sourceId: ganjoor-117233
-titleAz: شمارهٔ ۶۹
+titleAz: Rübai 69
+titleRu: Рубаи 69
 titleFa: شمارهٔ ۶۹
+titleEn: Rubai 69
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

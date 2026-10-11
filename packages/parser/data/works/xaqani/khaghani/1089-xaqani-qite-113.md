@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-113
 sourceId: ganjoor-27776
-titleAz: شمارهٔ ۱۱۳
+titleAz: Qitə 113
+titleRu: Кыта 113
 titleFa: شمارهٔ ۱۱۳
+titleEn: Qit'a 113
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

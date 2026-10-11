@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-23
 sourceId: ganjoor-8887
-titleAz: بخش ۲۳ - پیدا شدن شاپور
+titleAz: 'Xosrov və Şirin, fəsil 23'
+titleRu: 'Хосров и Ширин, глава 23'
 titleFa: بخش ۲۳ - پیدا شدن شاپور
+titleEn: 'Khosrow and Shirin, chapter 23'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

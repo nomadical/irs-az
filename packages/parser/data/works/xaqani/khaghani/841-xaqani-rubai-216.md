@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-216
 sourceId: ganjoor-15211
-titleAz: رباعی شمارهٔ   ۲۱۶
+titleAz: Rübai 216
+titleRu: Рубаи 216
 titleFa: رباعی شمارهٔ   ۲۱۶
+titleEn: Rubai 216
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

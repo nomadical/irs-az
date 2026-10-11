@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-268
 sourceId: ganjoor-27931
-titleAz: شمارهٔ ۲۶۸ - در هجو رشید وطواط
+titleAz: Qitə 268
+titleRu: Кыта 268
 titleFa: شمارهٔ ۲۶۸ - در هجو رشید وطواط
+titleEn: Qit'a 268
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

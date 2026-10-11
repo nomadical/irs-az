@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-285
 sourceId: ganjoor-117580
-titleAz: شمارهٔ ۲۸۵
+titleAz: Qəzəl 285
+titleRu: Газель 285
 titleFa: شمارهٔ ۲۸۵
+titleEn: Ghazal 285
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

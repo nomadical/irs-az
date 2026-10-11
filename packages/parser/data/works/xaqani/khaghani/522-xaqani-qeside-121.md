@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-121
 sourceId: ganjoor-14891
-titleAz: شمارهٔ ۱۲۱ - در ستایش فخر الدین منوچهر شروان شاه به التزام لفظ «عید» در هر بیت
+titleAz: Qəsidə 121
+titleRu: Касыда 121
 titleFa: شمارهٔ ۱۲۱ - در ستایش فخر الدین منوچهر شروان شاه به التزام لفظ «عید» در هر بیت
+titleEn: Qasida 121
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

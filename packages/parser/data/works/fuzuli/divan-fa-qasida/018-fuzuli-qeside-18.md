@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-18
 sourceId: ganjoor-116674
-titleAz: شمارهٔ ۱۸ - ستایش جعفر بیگ قاضی بغداد
+titleAz: Qəsidə 18
+titleRu: Касыда 18
 titleFa: شمارهٔ ۱۸ - ستایش جعفر بیگ قاضی بغداد
+titleEn: Qasida 18
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

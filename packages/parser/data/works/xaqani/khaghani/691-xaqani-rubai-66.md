@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-66
 sourceId: ganjoor-15061
-titleAz: رباعی شمارهٔ   ۶۶
+titleAz: Rübai 66
+titleRu: Рубаи 66
 titleFa: رباعی شمارهٔ   ۶۶
+titleEn: Rubai 66
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

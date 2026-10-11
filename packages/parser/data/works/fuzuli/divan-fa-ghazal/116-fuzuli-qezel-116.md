@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-116
 sourceId: ganjoor-116822
-titleAz: شمارهٔ ۱۱۶
+titleAz: Qəzəl 116
+titleRu: Газель 116
 titleFa: شمارهٔ ۱۱۶
+titleEn: Ghazal 116
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

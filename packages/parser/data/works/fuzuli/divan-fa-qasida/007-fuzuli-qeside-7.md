@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-7
 sourceId: ganjoor-116663
-titleAz: شمارهٔ ۷
+titleAz: Qəsidə 7
+titleRu: Касыда 7
 titleFa: شمارهٔ ۷
+titleEn: Qasida 7
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

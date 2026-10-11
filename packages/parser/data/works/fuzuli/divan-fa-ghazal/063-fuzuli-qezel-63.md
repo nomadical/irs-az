@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-63
 sourceId: ganjoor-116769
-titleAz: شمارهٔ ۶۳
+titleAz: Qəzəl 63
+titleRu: Газель 63
 titleFa: شمارهٔ ۶۳
+titleEn: Ghazal 63
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

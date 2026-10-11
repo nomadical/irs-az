@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-90
 sourceId: ganjoor-27753
-titleAz: شمارهٔ ۹۰ - در شکر
+titleAz: Qitə 90
+titleRu: Кыта 90
 titleFa: شمارهٔ ۹۰ - در شکر
+titleEn: Qit'a 90
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

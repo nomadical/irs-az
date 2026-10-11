@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-109
 sourceId: ganjoor-8973
-titleAz: بخش ۱۰۹ - گفتن چهل قصه از کلیله و دمنه با چهل نکته
+titleAz: 'Xosrov və Şirin, fəsil 109'
+titleRu: 'Хосров и Ширин, глава 109'
 titleFa: بخش ۱۰۹ - گفتن چهل قصه از کلیله و دمنه با چهل نکته
+titleEn: 'Khosrow and Shirin, chapter 109'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

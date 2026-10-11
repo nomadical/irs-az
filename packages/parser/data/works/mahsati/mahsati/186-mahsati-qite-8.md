@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-8
 sourceId: ganjoor-133912
-titleAz: شمارهٔ  ۸
+titleAz: Qitə 8
+titleRu: Кыта 8
 titleFa: شمارهٔ  ۸
+titleEn: Qit'a 8
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

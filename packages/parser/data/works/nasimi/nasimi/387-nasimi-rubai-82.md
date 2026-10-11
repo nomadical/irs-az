@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-82
 sourceId: ganjoor-117685
-titleAz: شمارهٔ ۸۲
+titleAz: Rübai 82
+titleRu: Рубаи 82
 titleFa: شمارهٔ ۸۲
+titleEn: Rubai 82
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-151
 sourceId: ganjoor-15146
-titleAz: رباعی شمارهٔ   ۱۵۱
+titleAz: Rübai 151
+titleRu: Рубаи 151
 titleFa: رباعی شمارهٔ   ۱۵۱
+titleEn: Rubai 151
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

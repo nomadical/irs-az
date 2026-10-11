@@ -1,12 +1,12 @@
 ---
 slug: xaqani-qeside-17
 sourceId: ganjoor-14787
-titleAz: >-
-  شمارهٔ ۱۷ - این قصیدهٔ را منطق الطیر گویند مطلع اول در وصف صبح و مدح کعبه و
-  مطلع ثانی در وصف بهار و مدح پیامبر بزرگوار
+titleAz: Qəsidə 17
+titleRu: Касыда 17
 titleFa: >-
   شمارهٔ ۱۷ - این قصیدهٔ را منطق الطیر گویند مطلع اول در وصف صبح و مدح کعبه و
   مطلع ثانی در وصف بهار و مدح پیامبر بزرگوار
+titleEn: Qasida 17
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

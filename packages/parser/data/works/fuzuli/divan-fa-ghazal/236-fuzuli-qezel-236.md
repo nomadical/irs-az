@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-236
 sourceId: ganjoor-116942
-titleAz: شمارهٔ ۲۳۶
+titleAz: Qəzəl 236
+titleRu: Газель 236
 titleFa: شمارهٔ ۲۳۶
+titleEn: Ghazal 236
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-373
 sourceId: ganjoor-117079
-titleAz: شمارهٔ ۳۷۳
+titleAz: Qəzəl 373
+titleRu: Газель 373
 titleFa: شمارهٔ ۳۷۳
+titleEn: Ghazal 373
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

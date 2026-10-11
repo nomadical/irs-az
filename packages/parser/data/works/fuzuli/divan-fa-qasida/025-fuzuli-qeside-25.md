@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-25
 sourceId: ganjoor-116681
-titleAz: شمارهٔ ۲۵
+titleAz: Qəsidə 25
+titleRu: Касыда 25
 titleFa: شمارهٔ ۲۵
+titleEn: Qasida 25
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

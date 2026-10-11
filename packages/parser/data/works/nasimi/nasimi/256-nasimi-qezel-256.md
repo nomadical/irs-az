@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-256
 sourceId: ganjoor-117551
-titleAz: شمارهٔ ۲۵۶
+titleAz: Qəzəl 256
+titleRu: Газель 256
 titleFa: شمارهٔ ۲۵۶
+titleEn: Ghazal 256
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

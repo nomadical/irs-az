@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-23
 sourceId: ganjoor-9172
-titleAz: بخش ۲۳ - نامه دارا به اسکندر
+titleAz: 'Şərəfnamə, fəsil 23'
+titleRu: 'Шараф-наме, глава 23'
 titleFa: بخش ۲۳ - نامه دارا به اسکندر
+titleEn: 'Sharafnama, chapter 23'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

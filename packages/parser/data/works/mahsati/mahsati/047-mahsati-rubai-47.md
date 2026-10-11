@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-47
 sourceId: ganjoor-133771
-titleAz: شمارهٔ ۴۷
+titleAz: Rübai 47
+titleRu: Рубаи 47
 titleFa: شمارهٔ ۴۷
+titleEn: Rubai 47
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

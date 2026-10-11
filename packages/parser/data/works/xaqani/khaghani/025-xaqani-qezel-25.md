@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-25
 sourceId: ganjoor-14394
-titleAz: غزل شمارهٔ ۲۵
+titleAz: Qəzəl 25
+titleRu: Газель 25
 titleFa: غزل شمارهٔ ۲۵
+titleEn: Ghazal 25
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-56
 sourceId: ganjoor-15051
-titleAz: رباعی شمارهٔ   ۵۶
+titleAz: Rübai 56
+titleRu: Рубаи 56
 titleFa: رباعی شمارهٔ   ۵۶
+titleEn: Rubai 56
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-21
 sourceId: ganjoor-14390
-titleAz: غزل شمارهٔ ۲۱
+titleAz: Qəzəl 21
+titleRu: Газель 21
 titleFa: غزل شمارهٔ ۲۱
+titleEn: Ghazal 21
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

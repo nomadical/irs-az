@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-10
 sourceId: ganjoor-50070
-titleAz: رباعی شمارۀ ۱۰
+titleAz: 'Rübailər, 10'
+titleRu: 'Рубайят, 10'
 titleFa: رباعی شمارۀ ۱۰
+titleEn: 'Rubaiyat, 10'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

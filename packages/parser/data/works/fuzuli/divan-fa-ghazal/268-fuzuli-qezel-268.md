@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-268
 sourceId: ganjoor-116974
-titleAz: شمارهٔ ۲۶۸
+titleAz: Qəzəl 268
+titleRu: Газель 268
 titleFa: شمارهٔ ۲۶۸
+titleEn: Ghazal 268
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

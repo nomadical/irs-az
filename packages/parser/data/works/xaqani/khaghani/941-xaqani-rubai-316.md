@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-316
 sourceId: ganjoor-15311
-titleAz: رباعی شمارهٔ   ۳۱۶
+titleAz: Rübai 316
+titleRu: Рубаи 316
 titleFa: رباعی شمارهٔ   ۳۱۶
+titleEn: Rubai 316
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

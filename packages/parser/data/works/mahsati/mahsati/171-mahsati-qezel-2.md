@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qezel-2
 sourceId: ganjoor-133896
-titleAz: شمارهٔ ۲
+titleAz: Qəzəl 2
+titleRu: Газель 2
 titleFa: شمارهٔ ۲
+titleEn: Ghazal 2
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

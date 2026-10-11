@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-19
 sourceId: ganjoor-9231
-titleAz: بخش ۱۹ - خلوت ساختن اسکندر با هفت حکیم در آفرینش نخست
+titleAz: 'İqbalnamə, fəsil 19'
+titleRu: 'Икбал-наме, глава 19'
 titleFa: بخش ۱۹ - خلوت ساختن اسکندر با هفت حکیم در آفرینش نخست
+titleEn: 'Iqbalnama, chapter 19'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

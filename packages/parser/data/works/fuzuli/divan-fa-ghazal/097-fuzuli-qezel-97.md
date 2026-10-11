@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-97
 sourceId: ganjoor-116803
-titleAz: شمارهٔ ۹۷
+titleAz: Qəzəl 97
+titleRu: Газель 97
 titleFa: شمارهٔ ۹۷
+titleEn: Ghazal 97
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-156
 sourceId: ganjoor-14525
-titleAz: غزل شمارهٔ ۱۵۶
+titleAz: Qəzəl 156
+titleRu: Газель 156
 titleFa: غزل شمارهٔ ۱۵۶
+titleEn: Ghazal 156
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

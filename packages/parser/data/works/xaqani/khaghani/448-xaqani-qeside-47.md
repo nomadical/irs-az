@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-47
 sourceId: ganjoor-14817
-titleAz: شمارهٔ ۴۷ - مطلع دوم
+titleAz: Qəsidə 47
+titleRu: Касыда 47
 titleFa: شمارهٔ ۴۷ - مطلع دوم
+titleEn: Qasida 47
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

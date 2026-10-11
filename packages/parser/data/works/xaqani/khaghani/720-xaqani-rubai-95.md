@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-95
 sourceId: ganjoor-15090
-titleAz: رباعی شمارهٔ   ۹۵
+titleAz: Rübai 95
+titleRu: Рубаи 95
 titleFa: رباعی شمارهٔ   ۹۵
+titleEn: Rubai 95
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

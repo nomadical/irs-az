@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-153
 sourceId: ganjoor-50213
-titleAz: رباعی شمارۀ ۱۵۳
+titleAz: 'Rübailər, 153'
+titleRu: 'Рубайят, 153'
 titleFa: رباعی شمارۀ ۱۵۳
+titleEn: 'Rubaiyat, 153'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-202
 sourceId: ganjoor-14571
-titleAz: غزل شمارهٔ ۲۰۲
+titleAz: Qəzəl 202
+titleRu: Газель 202
 titleFa: غزل شمارهٔ ۲۰۲
+titleEn: Ghazal 202
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

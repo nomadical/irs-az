@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-205
 sourceId: ganjoor-15200
-titleAz: رباعی شمارهٔ   ۲۰۵
+titleAz: Rübai 205
+titleRu: Рубаи 205
 titleFa: رباعی شمارهٔ   ۲۰۵
+titleEn: Rubai 205
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

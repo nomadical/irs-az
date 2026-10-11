@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-356
 sourceId: ganjoor-28019
-titleAz: شمارهٔ ۳۵۶
+titleAz: Qitə 356
+titleRu: Кыта 356
 titleFa: شمارهٔ ۳۵۶
+titleEn: Qit'a 356
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

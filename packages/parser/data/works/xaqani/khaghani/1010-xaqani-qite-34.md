@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-34
 sourceId: ganjoor-27697
-titleAz: شمارهٔ ۳۴ - در هجو خواجه اسعد
+titleAz: Qitə 34
+titleRu: Кыта 34
 titleFa: شمارهٔ ۳۴ - در هجو خواجه اسعد
+titleEn: Qit'a 34
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

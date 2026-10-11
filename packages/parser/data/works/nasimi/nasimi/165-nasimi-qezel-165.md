@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-165
 sourceId: ganjoor-117460
-titleAz: شمارهٔ ۱۶۵
+titleAz: Qəzəl 165
+titleRu: Газель 165
 titleFa: شمارهٔ ۱۶۵
+titleEn: Ghazal 165
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

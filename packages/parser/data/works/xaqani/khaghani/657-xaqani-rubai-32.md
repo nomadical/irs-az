@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-32
 sourceId: ganjoor-15027
-titleAz: رباعی شمارهٔ   ۳۲
+titleAz: Rübai 32
+titleRu: Рубаи 32
 titleFa: رباعی شمارهٔ   ۳۲
+titleEn: Rubai 32
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

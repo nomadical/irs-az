@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-26
 sourceId: ganjoor-15021
-titleAz: رباعی شمارهٔ   ۲۶
+titleAz: Rübai 26
+titleRu: Рубаи 26
 titleFa: رباعی شمارهٔ   ۲۶
+titleEn: Rubai 26
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

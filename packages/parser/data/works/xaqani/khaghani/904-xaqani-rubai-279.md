@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-279
 sourceId: ganjoor-15274
-titleAz: رباعی شمارهٔ   ۲۷۹
+titleAz: Rübai 279
+titleRu: Рубаи 279
 titleFa: رباعی شمارهٔ   ۲۷۹
+titleEn: Rubai 279
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

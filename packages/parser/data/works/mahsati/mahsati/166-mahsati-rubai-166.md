@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-166
 sourceId: ganjoor-133890
-titleAz: شمارهٔ ۱۶۶
+titleAz: Rübai 166
+titleRu: Рубаи 166
 titleFa: شمارهٔ ۱۶۶
+titleEn: Rubai 166
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

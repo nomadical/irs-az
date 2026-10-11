@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-95
 sourceId: ganjoor-14865
-titleAz: شمارهٔ ۹۵ - در رثاء امام ابو عمر و اسعد
+titleAz: Qəsidə 95
+titleRu: Касыда 95
 titleFa: شمارهٔ ۹۵ - در رثاء امام ابو عمر و اسعد
+titleEn: Qasida 95
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

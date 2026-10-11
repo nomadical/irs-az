@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-21
 sourceId: ganjoor-9023
-titleAz: بخش ۲۱ - رسیدن نوفل به مجنون
+titleAz: 'Leyli və Məcnun, fəsil 21'
+titleRu: 'Лейли и Меджнун, глава 21'
 titleFa: بخش ۲۱ - رسیدن نوفل به مجنون
+titleEn: 'Layla and Majnun, chapter 21'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

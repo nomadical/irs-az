@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-184
 sourceId: ganjoor-116890
-titleAz: شمارهٔ ۱۸۴
+titleAz: Qəzəl 184
+titleRu: Газель 184
 titleFa: شمارهٔ ۱۸۴
+titleEn: Ghazal 184
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

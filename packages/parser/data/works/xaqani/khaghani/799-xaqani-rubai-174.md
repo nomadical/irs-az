@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-174
 sourceId: ganjoor-15169
-titleAz: رباعی شمارهٔ   ۱۷۴
+titleAz: Rübai 174
+titleRu: Рубаи 174
 titleFa: رباعی شمارهٔ   ۱۷۴
+titleEn: Rubai 174
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

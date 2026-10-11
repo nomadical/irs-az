@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-55
 sourceId: ganjoor-15050
-titleAz: رباعی شمارهٔ   ۵۵
+titleAz: Rübai 55
+titleRu: Рубаи 55
 titleFa: رباعی شمارهٔ   ۵۵
+titleEn: Rubai 55
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

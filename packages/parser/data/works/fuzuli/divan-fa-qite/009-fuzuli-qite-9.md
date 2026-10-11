@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-9
 sourceId: ganjoor-117126
-titleAz: شمارهٔ ۹
+titleAz: Qitə 9
+titleRu: Кыта 9
 titleFa: شمارهٔ ۹
+titleEn: Qit'a 9
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-353
 sourceId: ganjoor-117059
-titleAz: شمارهٔ ۳۵۳
+titleAz: Qəzəl 353
+titleRu: Газель 353
 titleFa: شمارهٔ ۳۵۳
+titleEn: Ghazal 353
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

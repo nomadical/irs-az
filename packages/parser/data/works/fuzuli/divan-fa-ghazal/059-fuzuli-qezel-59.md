@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-59
 sourceId: ganjoor-116765
-titleAz: شمارهٔ ۵۹
+titleAz: Qəzəl 59
+titleRu: Газель 59
 titleFa: شمارهٔ ۵۹
+titleEn: Ghazal 59
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

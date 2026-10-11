@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-44
 sourceId: ganjoor-117161
-titleAz: شمارهٔ ۴۴
+titleAz: Qitə 44
+titleRu: Кыта 44
 titleFa: شمارهٔ ۴۴
+titleEn: Qit'a 44
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

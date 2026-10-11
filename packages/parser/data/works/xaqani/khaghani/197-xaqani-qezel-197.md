@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-197
 sourceId: ganjoor-14566
-titleAz: غزل شمارهٔ ۱۹۷
+titleAz: Qəzəl 197
+titleRu: Газель 197
 titleFa: غزل شمارهٔ ۱۹۷
+titleEn: Ghazal 197
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

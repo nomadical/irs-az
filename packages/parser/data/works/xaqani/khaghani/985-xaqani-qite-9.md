@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-9
 sourceId: ganjoor-27672
-titleAz: شمارهٔ ۹
+titleAz: Qitə 9
+titleRu: Кыта 9
 titleFa: شمارهٔ ۹
+titleEn: Qit'a 9
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

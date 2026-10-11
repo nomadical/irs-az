@@ -1,8 +1,10 @@
 ---
 slug: xaqani-terkibbend-2
 sourceId: ganjoor-15484
-titleAz: شمارهٔ ۲ - در مدح خاقان کبیر جلال الدین والدنیا شروان شاه اخستان
+titleAz: Tərkibbənd 2
+titleRu: Таркиббанд 2
 titleFa: شمارهٔ ۲ - در مدح خاقان کبیر جلال الدین والدنیا شروان شاه اخستان
+titleEn: Tarkib-band 2
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-122
 sourceId: ganjoor-50182
-titleAz: رباعی شمارهٔ ۱۲۲
+titleAz: 'Rübailər, 122'
+titleRu: 'Рубайят, 122'
 titleFa: رباعی شمارهٔ ۱۲۲
+titleEn: 'Rubaiyat, 122'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

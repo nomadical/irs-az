@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-97
 sourceId: ganjoor-14466
-titleAz: غزل شمارهٔ ۹۷
+titleAz: Qəzəl 97
+titleRu: Газель 97
 titleFa: غزل شمارهٔ ۹۷
+titleEn: Ghazal 97
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

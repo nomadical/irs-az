@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-25
 sourceId: ganjoor-117320
-titleAz: شمارهٔ ۲۵
+titleAz: Qəzəl 25
+titleRu: Газель 25
 titleFa: شمارهٔ ۲۵
+titleEn: Ghazal 25
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-45
 sourceId: ganjoor-116701
-titleAz: شمارهٔ ۴۵
+titleAz: Qəsidə 45
+titleRu: Касыда 45
 titleFa: شمارهٔ ۴۵
+titleEn: Qasida 45
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

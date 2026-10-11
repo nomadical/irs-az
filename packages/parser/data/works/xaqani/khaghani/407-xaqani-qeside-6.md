@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-6
 sourceId: ganjoor-14776
-titleAz: شمارهٔ ۶ - در پند و اندرز و معراج حضرت ختمی مرتبت
+titleAz: Qəsidə 6
+titleRu: Касыда 6
 titleFa: شمارهٔ ۶ - در پند و اندرز و معراج حضرت ختمی مرتبت
+titleEn: Qasida 6
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

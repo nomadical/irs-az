@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-205
 sourceId: ganjoor-14574
-titleAz: غزل شمارهٔ ۲۰۵
+titleAz: Qəzəl 205
+titleRu: Газель 205
 titleFa: غزل شمارهٔ ۲۰۵
+titleEn: Ghazal 205
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-329
 sourceId: ganjoor-27992
-titleAz: شمارهٔ ۳۲۹ - در مدح علاء الدین اتسز شاه خوارزم
+titleAz: Qitə 329
+titleRu: Кыта 329
 titleFa: شمارهٔ ۳۲۹ - در مدح علاء الدین اتسز شاه خوارزم
+titleEn: Qit'a 329
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

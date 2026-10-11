@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-49
 sourceId: ganjoor-116705
-titleAz: شمارهٔ ۴۹
+titleAz: Qəsidə 49
+titleRu: Касыда 49
 titleFa: شمارهٔ ۴۹
+titleEn: Qasida 49
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

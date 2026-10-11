@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-219
 sourceId: ganjoor-14588
-titleAz: غزل شمارهٔ ۲۱۹
+titleAz: Qəzəl 219
+titleRu: Газель 219
 titleFa: غزل شمارهٔ ۲۱۹
+titleEn: Ghazal 219
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

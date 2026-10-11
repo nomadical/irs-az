@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-235
 sourceId: ganjoor-27898
-titleAz: شمارهٔ ۲۳۵
+titleAz: Qitə 235
+titleRu: Кыта 235
 titleFa: شمارهٔ ۲۳۵
+titleEn: Qit'a 235
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

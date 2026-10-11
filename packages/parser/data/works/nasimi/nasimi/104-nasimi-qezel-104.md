@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-104
 sourceId: ganjoor-117399
-titleAz: شمارهٔ ۱۰۴
+titleAz: Qəzəl 104
+titleRu: Газель 104
 titleFa: شمارهٔ ۱۰۴
+titleEn: Ghazal 104
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-134
 sourceId: ganjoor-14904
-titleAz: شمارهٔ ۱۳۴ - مطلع سوم
+titleAz: Qəsidə 134
+titleRu: Касыда 134
 titleFa: شمارهٔ ۱۳۴ - مطلع سوم
+titleEn: Qasida 134
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

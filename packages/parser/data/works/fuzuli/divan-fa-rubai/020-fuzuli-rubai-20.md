@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-20
 sourceId: ganjoor-117184
-titleAz: شمارهٔ ۲۰
+titleAz: Rübai 20
+titleRu: Рубаи 20
 titleFa: شمارهٔ ۲۰
+titleEn: Rubai 20
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

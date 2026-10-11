@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-350
 sourceId: ganjoor-14719
-titleAz: غزل شمارهٔ ۳۵۰
+titleAz: Qəzəl 350
+titleRu: Газель 350
 titleFa: غزل شمارهٔ ۳۵۰
+titleEn: Ghazal 350
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-12
 sourceId: ganjoor-9014
-titleAz: بخش ۱۲ - عاشق شدن لیلی و مجنون به یکدیگر
+titleAz: 'Leyli və Məcnun, fəsil 12'
+titleRu: 'Лейли и Меджнун, глава 12'
 titleFa: بخش ۱۲ - عاشق شدن لیلی و مجنون به یکدیگر
+titleEn: 'Layla and Majnun, chapter 12'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

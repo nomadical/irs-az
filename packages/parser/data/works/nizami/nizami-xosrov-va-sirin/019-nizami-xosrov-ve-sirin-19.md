@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-19
 sourceId: ganjoor-8883
-titleAz: بخش ۱۹ - رفتن شاپور در ارمن به طلب شیرین
+titleAz: 'Xosrov və Şirin, fəsil 19'
+titleRu: 'Хосров и Ширин, глава 19'
 titleFa: بخش ۱۹ - رفتن شاپور در ارمن به طلب شیرین
+titleEn: 'Khosrow and Shirin, chapter 19'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

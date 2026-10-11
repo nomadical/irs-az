@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-296
 sourceId: ganjoor-27959
-titleAz: شمارهٔ ۲۹۶
+titleAz: Qitə 296
+titleRu: Кыта 296
 titleFa: شمارهٔ ۲۹۶
+titleEn: Qit'a 296
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

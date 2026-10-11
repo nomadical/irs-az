@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-388
 sourceId: ganjoor-117094
-titleAz: شمارهٔ ۳۸۸
+titleAz: Qəzəl 388
+titleRu: Газель 388
 titleFa: شمارهٔ ۳۸۸
+titleEn: Ghazal 388
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

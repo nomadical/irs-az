@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-24
 sourceId: ganjoor-9026
-titleAz: بخش ۲۴ - مصاف کردن نوفل بار دوم
+titleAz: 'Leyli və Məcnun, fəsil 24'
+titleRu: 'Лейли и Меджнун, глава 24'
 titleFa: بخش ۲۴ - مصاف کردن نوفل بار دوم
+titleEn: 'Layla and Majnun, chapter 24'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

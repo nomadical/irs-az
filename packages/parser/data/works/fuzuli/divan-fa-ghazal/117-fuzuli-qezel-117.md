@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-117
 sourceId: ganjoor-116823
-titleAz: شمارهٔ ۱۱۷
+titleAz: Qəzəl 117
+titleRu: Газель 117
 titleFa: شمارهٔ ۱۱۷
+titleEn: Ghazal 117
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

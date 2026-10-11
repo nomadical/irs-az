@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qeside-5
 sourceId: ganjoor-117591
-titleAz: شمارهٔ ۵ - بحرالاسرار
+titleAz: Qəsidə 5
+titleRu: Касыда 5
 titleFa: شمارهٔ ۵ - بحرالاسرار
+titleEn: Qasida 5
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

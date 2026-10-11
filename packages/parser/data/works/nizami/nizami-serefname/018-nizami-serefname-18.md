@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-18
 sourceId: ganjoor-9167
-titleAz: بخش ۱۸ - سگالش نمودن اسکندر بر جنگ دارا
+titleAz: 'Şərəfnamə, fəsil 18'
+titleRu: 'Шараф-наме, глава 18'
 titleFa: بخش ۱۸ - سگالش نمودن اسکندر بر جنگ دارا
+titleEn: 'Sharafnama, chapter 18'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

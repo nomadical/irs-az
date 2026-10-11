@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-324
 sourceId: ganjoor-14693
-titleAz: غزل شمارهٔ ۳۲۴
+titleAz: Qəzəl 324
+titleRu: Газель 324
 titleFa: غزل شمارهٔ ۳۲۴
+titleEn: Ghazal 324
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

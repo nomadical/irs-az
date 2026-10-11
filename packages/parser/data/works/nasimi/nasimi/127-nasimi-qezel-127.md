@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-127
 sourceId: ganjoor-117422
-titleAz: شمارهٔ ۱۲۷
+titleAz: Qəzəl 127
+titleRu: Газель 127
 titleFa: شمارهٔ ۱۲۷
+titleEn: Ghazal 127
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-22
 sourceId: ganjoor-9024
-titleAz: بخش ۲۲ - جنگ کردن نوفل با قبیلهٔ لیلی
+titleAz: 'Leyli və Məcnun, fəsil 22'
+titleRu: 'Лейли и Меджнун, глава 22'
 titleFa: بخش ۲۲ - جنگ کردن نوفل با قبیلهٔ لیلی
+titleEn: 'Layla and Majnun, chapter 22'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

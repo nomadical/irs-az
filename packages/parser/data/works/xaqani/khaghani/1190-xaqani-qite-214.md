@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-214
 sourceId: ganjoor-27877
-titleAz: شمارهٔ ۲۱۴
+titleAz: Qitə 214
+titleRu: Кыта 214
 titleFa: شمارهٔ ۲۱۴
+titleEn: Qit'a 214
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

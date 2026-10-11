@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-52
 sourceId: ganjoor-117655
-titleAz: شمارهٔ ۵۲
+titleAz: Rübai 52
+titleRu: Рубаи 52
 titleFa: شمارهٔ ۵۲
+titleEn: Rubai 52
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

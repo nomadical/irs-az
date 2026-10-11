@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-366
 sourceId: ganjoor-117072
-titleAz: شمارهٔ ۳۶۶
+titleAz: Qəzəl 366
+titleRu: Газель 366
 titleFa: شمارهٔ ۳۶۶
+titleEn: Ghazal 366
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

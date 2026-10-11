@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-81
 sourceId: ganjoor-27744
-titleAz: شمارهٔ ۸۱
+titleAz: Qitə 81
+titleRu: Кыта 81
 titleFa: شمارهٔ ۸۱
+titleEn: Qit'a 81
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

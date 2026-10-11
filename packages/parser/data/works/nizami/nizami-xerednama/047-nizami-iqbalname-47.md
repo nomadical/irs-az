@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-47
 sourceId: ganjoor-9259
-titleAz: بخش ۴۷ - انجامش روزگار سقراط
+titleAz: 'İqbalnamə, fəsil 47'
+titleRu: 'Икбал-наме, глава 47'
 titleFa: بخش ۴۷ - انجامش روزگار سقراط
+titleEn: 'Iqbalnama, chapter 47'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

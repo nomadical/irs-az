@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-78
 sourceId: ganjoor-14848
-titleAz: شمارهٔ ۷۸ - ایضا در مرثیهٔ خانوادهٔ خود
+titleAz: Qəsidə 78
+titleRu: Касыда 78
 titleFa: شمارهٔ ۷۸ - ایضا در مرثیهٔ خانوادهٔ خود
+titleEn: Qasida 78
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

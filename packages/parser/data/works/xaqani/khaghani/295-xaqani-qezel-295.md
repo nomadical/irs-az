@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-295
 sourceId: ganjoor-14664
-titleAz: غزل شمارهٔ ۲۹۵
+titleAz: Qəzəl 295
+titleRu: Газель 295
 titleFa: غزل شمارهٔ ۲۹۵
+titleEn: Ghazal 295
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

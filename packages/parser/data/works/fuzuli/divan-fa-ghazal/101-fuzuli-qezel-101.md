@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-101
 sourceId: ganjoor-116807
-titleAz: شمارهٔ ۱۰۱
+titleAz: Qəzəl 101
+titleRu: Газель 101
 titleFa: شمارهٔ ۱۰۱
+titleEn: Ghazal 101
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

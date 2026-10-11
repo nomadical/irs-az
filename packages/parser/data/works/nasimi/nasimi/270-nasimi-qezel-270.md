@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-270
 sourceId: ganjoor-117565
-titleAz: شمارهٔ ۲۷۰
+titleAz: Qəzəl 270
+titleRu: Газель 270
 titleFa: شمارهٔ ۲۷۰
+titleEn: Ghazal 270
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

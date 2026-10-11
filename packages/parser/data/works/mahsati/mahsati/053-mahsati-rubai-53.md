@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-53
 sourceId: ganjoor-133777
-titleAz: شمارهٔ ۵۳
+titleAz: Rübai 53
+titleRu: Рубаи 53
 titleFa: شمارهٔ ۵۳
+titleEn: Rubai 53
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

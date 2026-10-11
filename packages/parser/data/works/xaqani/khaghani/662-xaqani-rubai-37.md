@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-37
 sourceId: ganjoor-15032
-titleAz: رباعی شمارهٔ   ۳۷
+titleAz: Rübai 37
+titleRu: Рубаи 37
 titleFa: رباعی شمارهٔ   ۳۷
+titleEn: Rubai 37
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-56
 sourceId: ganjoor-133780
-titleAz: شمارهٔ ۵۶
+titleAz: Rübai 56
+titleRu: Рубаи 56
 titleFa: شمارهٔ ۵۶
+titleEn: Rubai 56
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

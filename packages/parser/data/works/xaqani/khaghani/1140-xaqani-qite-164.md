@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-164
 sourceId: ganjoor-27827
-titleAz: شمارهٔ ۱۶۴
+titleAz: Qitə 164
+titleRu: Кыта 164
 titleFa: شمارهٔ ۱۶۴
+titleEn: Qit'a 164
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

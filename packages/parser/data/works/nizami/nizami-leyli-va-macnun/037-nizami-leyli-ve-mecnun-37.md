@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-37
 sourceId: ganjoor-9039
-titleAz: بخش ۳۷ - آمدن سلیم عامری خال مجنون به دیدن او
+titleAz: 'Leyli və Məcnun, fəsil 37'
+titleRu: 'Лейли и Меджнун, глава 37'
 titleFa: بخش ۳۷ - آمدن سلیم عامری خال مجنون به دیدن او
+titleEn: 'Layla and Majnun, chapter 37'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

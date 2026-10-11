@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-29
 sourceId: ganjoor-116685
-titleAz: شمارهٔ ۲۹ - قصیدهٔ انیس القلب در جواب قصیدهٔ بحر الابرار خاقانی
+titleAz: Qəsidə 29
+titleRu: Касыда 29
 titleFa: شمارهٔ ۲۹ - قصیدهٔ انیس القلب در جواب قصیدهٔ بحر الابرار خاقانی
+titleEn: Qasida 29
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

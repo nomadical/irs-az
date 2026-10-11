@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-341
 sourceId: ganjoor-14710
-titleAz: غزل شمارهٔ ۳۴۱
+titleAz: Qəzəl 341
+titleRu: Газель 341
 titleFa: غزل شمارهٔ ۳۴۱
+titleEn: Ghazal 341
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

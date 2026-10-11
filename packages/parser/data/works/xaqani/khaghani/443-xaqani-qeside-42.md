@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-42
 sourceId: ganjoor-14812
-titleAz: شمارهٔ ۴۲ - در تهنیت ولادت فرزند اخستان شاه
+titleAz: Qəsidə 42
+titleRu: Касыда 42
 titleFa: شمارهٔ ۴۲ - در تهنیت ولادت فرزند اخستان شاه
+titleEn: Qasida 42
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

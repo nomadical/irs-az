@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-21
 sourceId: ganjoor-8885
-titleAz: بخش ۲۱ - نمودن شاپور صورت خسرو را بار دوم
+titleAz: 'Xosrov və Şirin, fəsil 21'
+titleRu: 'Хосров и Ширин, глава 21'
 titleFa: بخش ۲۱ - نمودن شاپور صورت خسرو را بار دوم
+titleEn: 'Khosrow and Shirin, chapter 21'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

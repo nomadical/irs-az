@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-319
 sourceId: ganjoor-15314
-titleAz: رباعی شمارهٔ   ۳۱۹
+titleAz: Rübai 319
+titleRu: Рубаи 319
 titleFa: رباعی شمارهٔ   ۳۱۹
+titleEn: Rubai 319
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

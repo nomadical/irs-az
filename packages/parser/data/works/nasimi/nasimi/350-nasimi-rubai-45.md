@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-45
 sourceId: ganjoor-117648
-titleAz: شمارهٔ ۴۵
+titleAz: Rübai 45
+titleRu: Рубаи 45
 titleFa: شمارهٔ ۴۵
+titleEn: Rubai 45
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

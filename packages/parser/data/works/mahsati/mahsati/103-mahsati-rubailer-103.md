@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-103
 sourceId: ganjoor-50163
-titleAz: رباعی شمارۀ ۱۰۳
+titleAz: 'Rübailər, 103'
+titleRu: 'Рубайят, 103'
 titleFa: رباعی شمارۀ ۱۰۳
+titleEn: 'Rubaiyat, 103'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

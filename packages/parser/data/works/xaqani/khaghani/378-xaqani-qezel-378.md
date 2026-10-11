@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-378
 sourceId: ganjoor-14747
-titleAz: غزل شمارهٔ ۳۷۸
+titleAz: Qəzəl 378
+titleRu: Газель 378
 titleFa: غزل شمارهٔ ۳۷۸
+titleEn: Ghazal 378
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

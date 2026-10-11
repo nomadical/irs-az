@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-205
 sourceId: ganjoor-116911
-titleAz: شمارهٔ ۲۰۵
+titleAz: Qəzəl 205
+titleRu: Газель 205
 titleFa: شمارهٔ ۲۰۵
+titleEn: Ghazal 205
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-12
 sourceId: ganjoor-133736
-titleAz: شمارهٔ ۱۲
+titleAz: Rübai 12
+titleRu: Рубаи 12
 titleFa: شمارهٔ ۱۲
+titleEn: Rubai 12
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

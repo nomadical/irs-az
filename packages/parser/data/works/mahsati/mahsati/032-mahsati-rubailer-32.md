@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-32
 sourceId: ganjoor-50092
-titleAz: رباعی شمارۀ ۳۲
+titleAz: 'Rübailər, 32'
+titleRu: 'Рубайят, 32'
 titleFa: رباعی شمارۀ ۳۲
+titleEn: 'Rubaiyat, 32'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-242
 sourceId: ganjoor-15237
-titleAz: رباعی شمارهٔ   ۲۴۲
+titleAz: Rübai 242
+titleRu: Рубаи 242
 titleFa: رباعی شمارهٔ   ۲۴۲
+titleEn: Rubai 242
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

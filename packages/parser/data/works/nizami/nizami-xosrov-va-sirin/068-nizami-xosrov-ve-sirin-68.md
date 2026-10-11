@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-68
 sourceId: ganjoor-8932
-titleAz: بخش ۶۸ - دیدن شیرین و سخن گفتن با او
+titleAz: 'Xosrov və Şirin, fəsil 68'
+titleRu: 'Хосров и Ширин, глава 68'
 titleFa: بخش ۶۸ - دیدن شیرین و سخن گفتن با او
+titleEn: 'Khosrow and Shirin, chapter 68'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

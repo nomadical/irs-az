@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-410
 sourceId: ganjoor-117116
-titleAz: شمارهٔ ۴۱۰
+titleAz: Qəzəl 410
+titleRu: Газель 410
 titleFa: شمارهٔ ۴۱۰
+titleEn: Ghazal 410
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-137
 sourceId: ganjoor-50197
-titleAz: رباعی شمارۀ ۱۳۷
+titleAz: 'Rübailər, 137'
+titleRu: 'Рубайят, 137'
 titleFa: رباعی شمارۀ ۱۳۷
+titleEn: 'Rubaiyat, 137'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

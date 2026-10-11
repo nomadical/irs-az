@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-295
 sourceId: ganjoor-27958
-titleAz: شمارهٔ ۲۹۵
+titleAz: Qitə 295
+titleRu: Кыта 295
 titleFa: شمارهٔ ۲۹۵
+titleEn: Qit'a 295
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

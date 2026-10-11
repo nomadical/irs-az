@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-102
 sourceId: ganjoor-14471
-titleAz: غزل شمارهٔ ۱۰۲
+titleAz: Qəzəl 102
+titleRu: Газель 102
 titleFa: غزل شمارهٔ ۱۰۲
+titleEn: Ghazal 102
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

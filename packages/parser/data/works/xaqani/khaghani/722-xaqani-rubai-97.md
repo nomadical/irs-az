@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-97
 sourceId: ganjoor-15092
-titleAz: رباعی شمارهٔ   ۹۷
+titleAz: Rübai 97
+titleRu: Рубаи 97
 titleFa: رباعی شمارهٔ   ۹۷
+titleEn: Rubai 97
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

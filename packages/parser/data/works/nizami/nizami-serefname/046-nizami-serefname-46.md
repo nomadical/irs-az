@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-46
 sourceId: ganjoor-9195
-titleAz: بخش ۴۶ - بازگشتن اسکندر از چین
+titleAz: 'Şərəfnamə, fəsil 46'
+titleRu: 'Шараф-наме, глава 46'
 titleFa: بخش ۴۶ - بازگشتن اسکندر از چین
+titleEn: 'Sharafnama, chapter 46'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

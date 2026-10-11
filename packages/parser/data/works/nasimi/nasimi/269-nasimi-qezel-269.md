@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-269
 sourceId: ganjoor-117564
-titleAz: شمارهٔ ۲۶۹
+titleAz: Qəzəl 269
+titleRu: Газель 269
 titleFa: شمارهٔ ۲۶۹
+titleEn: Ghazal 269
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

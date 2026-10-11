@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-76
 sourceId: ganjoor-116782
-titleAz: شمارهٔ ۷۶
+titleAz: Qəzəl 76
+titleRu: Газель 76
 titleFa: شمارهٔ ۷۶
+titleEn: Ghazal 76
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

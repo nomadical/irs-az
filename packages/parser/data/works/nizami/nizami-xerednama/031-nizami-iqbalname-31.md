@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-31
 sourceId: ganjoor-9243
-titleAz: بخش ۳۱ - خردنامه افلاطون
+titleAz: 'İqbalnamə, fəsil 31'
+titleRu: 'Икбал-наме, глава 31'
 titleFa: بخش ۳۱ - خردنامه افلاطون
+titleEn: 'Iqbalnama, chapter 31'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

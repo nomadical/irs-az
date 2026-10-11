@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-12
 sourceId: ganjoor-117129
-titleAz: شمارهٔ ۱۲
+titleAz: Qitə 12
+titleRu: Кыта 12
 titleFa: شمارهٔ ۱۲
+titleEn: Qit'a 12
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-67
 sourceId: ganjoor-8931
-titleAz: بخش ۶۷ - رفتن خسرو سوی قصر شیرین به بهانهٔ شکار
+titleAz: 'Xosrov və Şirin, fəsil 67'
+titleRu: 'Хосров и Ширин, глава 67'
 titleFa: بخش ۶۷ - رفتن خسرو سوی قصر شیرین به بهانهٔ شکار
+titleEn: 'Khosrow and Shirin, chapter 67'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

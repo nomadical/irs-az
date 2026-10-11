@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-87
 sourceId: ganjoor-15082
-titleAz: رباعی شمارهٔ   ۸۷
+titleAz: Rübai 87
+titleRu: Рубаи 87
 titleFa: رباعی شمارهٔ   ۸۷
+titleEn: Rubai 87
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

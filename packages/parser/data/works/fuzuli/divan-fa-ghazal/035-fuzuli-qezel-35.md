@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-35
 sourceId: ganjoor-116741
-titleAz: شمارهٔ ۳۵
+titleAz: Qəzəl 35
+titleRu: Газель 35
 titleFa: شمارهٔ ۳۵
+titleEn: Ghazal 35
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

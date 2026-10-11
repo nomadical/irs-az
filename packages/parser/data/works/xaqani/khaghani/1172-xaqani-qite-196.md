@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-196
 sourceId: ganjoor-27859
-titleAz: شمارهٔ ۱۹۶
+titleAz: Qitə 196
+titleRu: Кыта 196
 titleFa: شمارهٔ ۱۹۶
+titleEn: Qit'a 196
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

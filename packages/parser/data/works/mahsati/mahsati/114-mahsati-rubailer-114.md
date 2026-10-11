@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-114
 sourceId: ganjoor-50174
-titleAz: رباعی شمارۀ ۱۱۴
+titleAz: 'Rübailər, 114'
+titleRu: 'Рубайят, 114'
 titleFa: رباعی شمارۀ ۱۱۴
+titleEn: 'Rubaiyat, 114'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

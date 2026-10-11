@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-46
 sourceId: ganjoor-117341
-titleAz: شمارهٔ ۴۶
+titleAz: Qəzəl 46
+titleRu: Газель 46
 titleFa: شمارهٔ ۴۶
+titleEn: Ghazal 46
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

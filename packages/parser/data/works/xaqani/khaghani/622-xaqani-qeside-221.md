@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-221
 sourceId: ganjoor-14991
-titleAz: شمارهٔ ۲۲۱ - در موعظه و حکمت و مرثیهٔ امام ناصر الدین ابراهیم
+titleAz: Qəsidə 221
+titleRu: Касыда 221
 titleFa: شمارهٔ ۲۲۱ - در موعظه و حکمت و مرثیهٔ امام ناصر الدین ابراهیم
+titleEn: Qasida 221
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

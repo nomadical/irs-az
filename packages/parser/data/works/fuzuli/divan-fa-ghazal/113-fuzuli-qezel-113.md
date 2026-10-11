@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-113
 sourceId: ganjoor-116819
-titleAz: شمارهٔ ۱۱۳
+titleAz: Qəzəl 113
+titleRu: Газель 113
 titleFa: شمارهٔ ۱۱۳
+titleEn: Ghazal 113
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-26
 sourceId: ganjoor-8890
-titleAz: بخش ۲۶ - رسیدن شیرین به مشگوی خسرو در مداین
+titleAz: 'Xosrov və Şirin, fəsil 26'
+titleRu: 'Хосров и Ширин, глава 26'
 titleFa: بخش ۲۶ - رسیدن شیرین به مشگوی خسرو در مداین
+titleEn: 'Khosrow and Shirin, chapter 26'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

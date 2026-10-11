@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-165
 sourceId: ganjoor-14935
-titleAz: شمارهٔ ۱۶۵ - در ستایش موفق الدین عبد الغفار
+titleAz: Qəsidə 165
+titleRu: Касыда 165
 titleFa: شمارهٔ ۱۶۵ - در ستایش موفق الدین عبد الغفار
+titleEn: Qasida 165
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

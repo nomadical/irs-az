@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-111
 sourceId: ganjoor-8975
-titleAz: بخش ۱۱۱ - صفت شیرویه و انجام کار خسرو
+titleAz: 'Xosrov və Şirin, fəsil 111'
+titleRu: 'Хосров и Ширин, глава 111'
 titleFa: بخش ۱۱۱ - صفت شیرویه و انجام کار خسرو
+titleEn: 'Khosrow and Shirin, chapter 111'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

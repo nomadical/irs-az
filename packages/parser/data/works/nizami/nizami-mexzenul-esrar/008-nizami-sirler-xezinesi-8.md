@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-8
 sourceId: ganjoor-9270
-titleAz: بخش ۸ - نعت سوم
+titleAz: 'Sirlər xəzinəsi, fəsil 8'
+titleRu: 'Сокровищница тайн, глава 8'
 titleFa: بخش ۸ - نعت سوم
+titleEn: 'The Treasury of Mysteries, chapter 8'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

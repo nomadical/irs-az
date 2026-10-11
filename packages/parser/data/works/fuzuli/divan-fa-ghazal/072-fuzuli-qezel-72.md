@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-72
 sourceId: ganjoor-116778
-titleAz: شمارهٔ ۷۲
+titleAz: Qəzəl 72
+titleRu: Газель 72
 titleFa: شمارهٔ ۷۲
+titleEn: Ghazal 72
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

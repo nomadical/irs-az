@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-158
 sourceId: ganjoor-133882
-titleAz: شمارهٔ ۱۵۸
+titleAz: Rübai 158
+titleRu: Рубаи 158
 titleFa: شمارهٔ ۱۵۸
+titleEn: Rubai 158
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

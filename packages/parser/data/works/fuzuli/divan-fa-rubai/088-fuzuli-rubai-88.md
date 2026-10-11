@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-88
 sourceId: ganjoor-117252
-titleAz: شمارهٔ ۸۸
+titleAz: Rübai 88
+titleRu: Рубаи 88
 titleFa: شمارهٔ ۸۸
+titleEn: Rubai 88
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

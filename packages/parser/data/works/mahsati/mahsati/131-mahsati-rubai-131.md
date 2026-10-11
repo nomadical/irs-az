@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-131
 sourceId: ganjoor-133855
-titleAz: شمارهٔ ۱۳۱
+titleAz: Rübai 131
+titleRu: Рубаи 131
 titleFa: شمارهٔ ۱۳۱
+titleEn: Rubai 131
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

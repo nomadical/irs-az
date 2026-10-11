@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-14
 sourceId: ganjoor-9226
-titleAz: بخش ۱۴ - انکار کردن هفتاد حکیم سخن هرمس را و هلاک شدن ایشان
+titleAz: 'İqbalnamə, fəsil 14'
+titleRu: 'Икбал-наме, глава 14'
 titleFa: بخش ۱۴ - انکار کردن هفتاد حکیم سخن هرمس را و هلاک شدن ایشان
+titleEn: 'Iqbalnama, chapter 14'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-325
 sourceId: ganjoor-15320
-titleAz: رباعی شمارهٔ   ۳۲۵
+titleAz: Rübai 325
+titleRu: Рубаи 325
 titleFa: رباعی شمارهٔ   ۳۲۵
+titleEn: Rubai 325
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

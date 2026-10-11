@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-157
 sourceId: ganjoor-117452
-titleAz: شمارهٔ ۱۵۷ - استقبال از حافظ
+titleAz: Qəzəl 157
+titleRu: Газель 157
 titleFa: شمارهٔ ۱۵۷ - استقبال از حافظ
+titleEn: Ghazal 157
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

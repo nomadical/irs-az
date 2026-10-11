@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-165
 sourceId: ganjoor-15160
-titleAz: رباعی شمارهٔ   ۱۶۵
+titleAz: Rübai 165
+titleRu: Рубаи 165
 titleFa: رباعی شمارهٔ   ۱۶۵
+titleEn: Rubai 165
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

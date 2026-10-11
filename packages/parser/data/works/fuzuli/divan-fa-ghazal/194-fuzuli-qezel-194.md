@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-194
 sourceId: ganjoor-116900
-titleAz: شمارهٔ ۱۹۴
+titleAz: Qəzəl 194
+titleRu: Газель 194
 titleFa: شمارهٔ ۱۹۴
+titleEn: Ghazal 194
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

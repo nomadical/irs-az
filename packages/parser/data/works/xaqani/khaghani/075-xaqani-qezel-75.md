@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-75
 sourceId: ganjoor-14444
-titleAz: غزل شمارهٔ ۷۵
+titleAz: Qəzəl 75
+titleRu: Газель 75
 titleFa: غزل شمارهٔ ۷۵
+titleEn: Ghazal 75
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

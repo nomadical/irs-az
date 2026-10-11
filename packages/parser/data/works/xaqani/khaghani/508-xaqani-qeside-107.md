@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-107
 sourceId: ganjoor-14877
-titleAz: شمارهٔ ۱۰۷ - در ستایش ملک الوزرا زین الدین دستور عراق
+titleAz: Qəsidə 107
+titleRu: Касыда 107
 titleFa: شمارهٔ ۱۰۷ - در ستایش ملک الوزرا زین الدین دستور عراق
+titleEn: Qasida 107
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

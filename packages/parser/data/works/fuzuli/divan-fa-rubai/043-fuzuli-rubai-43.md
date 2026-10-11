@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-43
 sourceId: ganjoor-117207
-titleAz: شمارهٔ ۴۳
+titleAz: Rübai 43
+titleRu: Рубаи 43
 titleFa: شمارهٔ ۴۳
+titleEn: Rubai 43
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

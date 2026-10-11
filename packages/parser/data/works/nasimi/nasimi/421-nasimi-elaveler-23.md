@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-23
 sourceId: ganjoor-117722
-titleAz: شمارهٔ ۲۳
+titleAz: Əlavə 23
+titleRu: Дополнение 23
 titleFa: شمارهٔ ۲۳
+titleEn: Addendum 23
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

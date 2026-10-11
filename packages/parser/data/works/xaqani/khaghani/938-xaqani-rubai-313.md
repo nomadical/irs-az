@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-313
 sourceId: ganjoor-15308
-titleAz: رباعی شمارهٔ   ۳۱۳
+titleAz: Rübai 313
+titleRu: Рубаи 313
 titleFa: رباعی شمارهٔ   ۳۱۳
+titleEn: Rubai 313
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

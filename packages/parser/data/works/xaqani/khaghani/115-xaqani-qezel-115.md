@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-115
 sourceId: ganjoor-14484
-titleAz: غزل شمارهٔ ۱۱۵
+titleAz: Qəzəl 115
+titleRu: Газель 115
 titleFa: غزل شمارهٔ ۱۱۵
+titleEn: Ghazal 115
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

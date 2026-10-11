@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-21
 sourceId: ganjoor-133745
-titleAz: شمارهٔ ۲۱
+titleAz: Rübai 21
+titleRu: Рубаи 21
 titleFa: شمارهٔ ۲۱
+titleEn: Rubai 21
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

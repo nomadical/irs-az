@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-331
 sourceId: ganjoor-27994
-titleAz: شمارهٔ ۳۳۱
+titleAz: Qitə 331
+titleRu: Кыта 331
 titleFa: شمارهٔ ۳۳۱
+titleEn: Qit'a 331
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

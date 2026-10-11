@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-223
 sourceId: ganjoor-117518
-titleAz: شمارهٔ ۲۲۳
+titleAz: Qəzəl 223
+titleRu: Газель 223
 titleFa: شمارهٔ ۲۲۳
+titleEn: Ghazal 223
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

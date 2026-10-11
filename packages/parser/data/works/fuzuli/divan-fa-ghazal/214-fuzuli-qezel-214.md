@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-214
 sourceId: ganjoor-116920
-titleAz: شمارهٔ ۲۱۴
+titleAz: Qəzəl 214
+titleRu: Газель 214
 titleFa: شمارهٔ ۲۱۴
+titleEn: Ghazal 214
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

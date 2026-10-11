@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-97
 sourceId: ganjoor-133821
-titleAz: شمارهٔ ۹۷
+titleAz: Rübai 97
+titleRu: Рубаи 97
 titleFa: شمارهٔ ۹۷
+titleEn: Rubai 97
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

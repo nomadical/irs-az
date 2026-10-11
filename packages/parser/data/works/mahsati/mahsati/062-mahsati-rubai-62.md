@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-62
 sourceId: ganjoor-133786
-titleAz: شمارهٔ ۶۲
+titleAz: Rübai 62
+titleRu: Рубаи 62
 titleFa: شمارهٔ ۶۲
+titleEn: Rubai 62
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

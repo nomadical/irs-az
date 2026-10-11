@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-33
 sourceId: ganjoor-117150
-titleAz: شمارهٔ ۳۳
+titleAz: Qitə 33
+titleRu: Кыта 33
 titleFa: شمارهٔ ۳۳
+titleEn: Qit'a 33
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

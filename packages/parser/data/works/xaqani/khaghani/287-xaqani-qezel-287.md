@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-287
 sourceId: ganjoor-14656
-titleAz: غزل شمارهٔ ۲۸۷
+titleAz: Qəzəl 287
+titleRu: Газель 287
 titleFa: غزل شمارهٔ ۲۸۷
+titleEn: Ghazal 287
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-11
 sourceId: ganjoor-117175
-titleAz: شمارهٔ ۱۱
+titleAz: Rübai 11
+titleRu: Рубаи 11
 titleFa: شمارهٔ ۱۱
+titleEn: Rubai 11
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

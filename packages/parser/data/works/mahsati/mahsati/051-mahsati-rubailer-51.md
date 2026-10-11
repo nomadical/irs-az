@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-51
 sourceId: ganjoor-50111
-titleAz: رباعی شمارۀ ۵۱
+titleAz: 'Rübailər, 51'
+titleRu: 'Рубайят, 51'
 titleFa: رباعی شمارۀ ۵۱
+titleEn: 'Rubaiyat, 51'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

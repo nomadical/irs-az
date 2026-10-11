@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-3
 sourceId: ganjoor-14773
-titleAz: شمارهٔ ۳ - در پند و اندرز و مدح پیامبر بزرگوار
+titleAz: Qəsidə 3
+titleRu: Касыда 3
 titleFa: شمارهٔ ۳ - در پند و اندرز و مدح پیامبر بزرگوار
+titleEn: Qasida 3
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

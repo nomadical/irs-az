@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-305
 sourceId: ganjoor-27968
-titleAz: شمارهٔ ۳۰۵ - خاقانی برای دوستی اسب و این شعر را فرستاد
+titleAz: Qitə 305
+titleRu: Кыта 305
 titleFa: شمارهٔ ۳۰۵ - خاقانی برای دوستی اسب و این شعر را فرستاد
+titleEn: Qit'a 305
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

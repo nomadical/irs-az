@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-219
 sourceId: ganjoor-27882
-titleAz: شمارهٔ ۲۱۹
+titleAz: Qitə 219
+titleRu: Кыта 219
 titleFa: شمارهٔ ۲۱۹
+titleEn: Qit'a 219
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

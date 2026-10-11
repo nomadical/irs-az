@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-8
 sourceId: ganjoor-133732
-titleAz: شمارهٔ ۸
+titleAz: Rübai 8
+titleRu: Рубаи 8
 titleFa: شمارهٔ ۸
+titleEn: Rubai 8
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

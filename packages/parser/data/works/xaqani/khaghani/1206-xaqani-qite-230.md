@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-230
 sourceId: ganjoor-27893
-titleAz: شمارهٔ ۲۳۰ - در هجو
+titleAz: Qitə 230
+titleRu: Кыта 230
 titleFa: شمارهٔ ۲۳۰ - در هجو
+titleEn: Qit'a 230
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

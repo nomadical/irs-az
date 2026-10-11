@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-400
 sourceId: ganjoor-117106
-titleAz: شمارهٔ ۴۰۰
+titleAz: Qəzəl 400
+titleRu: Газель 400
 titleFa: شمارهٔ ۴۰۰
+titleEn: Ghazal 400
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-151
 sourceId: ganjoor-14520
-titleAz: غزل شمارهٔ ۱۵۱
+titleAz: Qəzəl 151
+titleRu: Газель 151
 titleFa: غزل شمارهٔ ۱۵۱
+titleEn: Ghazal 151
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-139
 sourceId: ganjoor-27802
-titleAz: شمارهٔ ۱۳۹
+titleAz: Qitə 139
+titleRu: Кыта 139
 titleFa: شمارهٔ ۱۳۹
+titleEn: Qit'a 139
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

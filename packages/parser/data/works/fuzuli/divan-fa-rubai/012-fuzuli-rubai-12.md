@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-12
 sourceId: ganjoor-117176
-titleAz: شمارهٔ ۱۲
+titleAz: Rübai 12
+titleRu: Рубаи 12
 titleFa: شمارهٔ ۱۲
+titleEn: Rubai 12
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

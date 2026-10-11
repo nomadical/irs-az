@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-107
 sourceId: ganjoor-116813
-titleAz: شمارهٔ ۱۰۷
+titleAz: Qəzəl 107
+titleRu: Газель 107
 titleFa: شمارهٔ ۱۰۷
+titleEn: Ghazal 107
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-4
 sourceId: ganjoor-133728
-titleAz: شمارهٔ ۴
+titleAz: Rübai 4
+titleRu: Рубаи 4
 titleFa: شمارهٔ ۴
+titleEn: Rubai 4
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

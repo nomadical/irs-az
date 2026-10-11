@@ -1,8 +1,10 @@
 ---
 slug: xaqani-tercibend-6
 sourceId: ganjoor-15481
-titleAz: شمارهٔ ۶ - در مدح جلال الدین شروان شاه اخستان
+titleAz: Tərcibənd 6
+titleRu: Тарджибанд 6
 titleFa: شمارهٔ ۶ - در مدح جلال الدین شروان شاه اخستان
+titleEn: Tarji-band 6
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

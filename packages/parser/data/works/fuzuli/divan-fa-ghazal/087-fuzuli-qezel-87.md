@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-87
 sourceId: ganjoor-116793
-titleAz: شمارهٔ ۸۷
+titleAz: Qəzəl 87
+titleRu: Газель 87
 titleFa: شمارهٔ ۸۷
+titleEn: Ghazal 87
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

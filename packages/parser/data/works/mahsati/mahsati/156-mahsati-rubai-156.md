@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-156
 sourceId: ganjoor-133880
-titleAz: شمارهٔ ۱۵۶
+titleAz: Rübai 156
+titleRu: Рубаи 156
 titleFa: شمارهٔ ۱۵۶
+titleEn: Rubai 156
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

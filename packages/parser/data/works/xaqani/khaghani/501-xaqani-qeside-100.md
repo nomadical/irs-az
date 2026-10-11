@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-100
 sourceId: ganjoor-14870
-titleAz: شمارهٔ ۱۰۰ - در ستایش ملک ارسلان مظفر
+titleAz: Qəsidə 100
+titleRu: Касыда 100
 titleFa: شمارهٔ ۱۰۰ - در ستایش ملک ارسلان مظفر
+titleEn: Qasida 100
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-357
 sourceId: ganjoor-14726
-titleAz: غزل شمارهٔ ۳۵۷
+titleAz: Qəzəl 357
+titleRu: Газель 357
 titleFa: غزل شمارهٔ ۳۵۷
+titleEn: Ghazal 357
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

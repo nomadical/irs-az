@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-saqiname-11
 sourceId: ganjoor-117286
-titleAz: بخش ۱۱ - مناظره با تنبور
+titleAz: 'Saqinamə, fəsil 11'
+titleRu: 'Саки-наме, глава 11'
 titleFa: بخش ۱۱ - مناظره با تنبور
+titleEn: 'Saqi-nama, chapter 11'
 authorSlug: fuzuli
 collectionSlug: saqiname
 originalLang: FA

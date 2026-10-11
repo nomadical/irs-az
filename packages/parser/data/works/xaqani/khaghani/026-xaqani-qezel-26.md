@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-26
 sourceId: ganjoor-14395
-titleAz: غزل شمارهٔ ۲۶
+titleAz: Qəzəl 26
+titleRu: Газель 26
 titleFa: غزل شمارهٔ ۲۶
+titleEn: Ghazal 26
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

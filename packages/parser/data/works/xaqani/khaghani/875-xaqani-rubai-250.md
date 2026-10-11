@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-250
 sourceId: ganjoor-15245
-titleAz: رباعی شمارهٔ   ۲۵۰
+titleAz: Rübai 250
+titleRu: Рубаи 250
 titleFa: رباعی شمارهٔ   ۲۵۰
+titleEn: Rubai 250
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

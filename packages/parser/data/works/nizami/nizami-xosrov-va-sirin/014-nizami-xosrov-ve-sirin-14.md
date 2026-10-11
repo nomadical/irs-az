@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-14
 sourceId: ganjoor-8878
-titleAz: بخش ۱۴ - آغاز داستان خسرو و شیرین
+titleAz: 'Xosrov və Şirin, fəsil 14'
+titleRu: 'Хосров и Ширин, глава 14'
 titleFa: بخش ۱۴ - آغاز داستان خسرو و شیرین
+titleEn: 'Khosrow and Shirin, chapter 14'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

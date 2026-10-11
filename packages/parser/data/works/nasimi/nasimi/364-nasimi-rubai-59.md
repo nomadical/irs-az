@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-59
 sourceId: ganjoor-117662
-titleAz: شمارهٔ ۵۹
+titleAz: Rübai 59
+titleRu: Рубаи 59
 titleFa: شمارهٔ ۵۹
+titleEn: Rubai 59
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

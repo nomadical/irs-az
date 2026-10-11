@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-45
 sourceId: ganjoor-133769
-titleAz: شمارهٔ ۴۵
+titleAz: Rübai 45
+titleRu: Рубаи 45
 titleFa: شمارهٔ ۴۵
+titleEn: Rubai 45
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

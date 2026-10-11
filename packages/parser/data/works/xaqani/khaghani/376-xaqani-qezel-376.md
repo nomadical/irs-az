@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-376
 sourceId: ganjoor-14745
-titleAz: غزل شمارهٔ ۳۷۶
+titleAz: Qəzəl 376
+titleRu: Газель 376
 titleFa: غزل شمارهٔ ۳۷۶
+titleEn: Ghazal 376
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

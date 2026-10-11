@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-21
 sourceId: ganjoor-14791
-titleAz: شمارهٔ ۲۱ - مطلع سوم
+titleAz: Qəsidə 21
+titleRu: Касыда 21
 titleFa: شمارهٔ ۲۱ - مطلع سوم
+titleEn: Qasida 21
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

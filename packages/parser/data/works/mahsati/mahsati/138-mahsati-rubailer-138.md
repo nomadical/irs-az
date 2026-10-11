@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-138
 sourceId: ganjoor-50198
-titleAz: رباعی شمارۀ ۱۳۸
+titleAz: 'Rübailər, 138'
+titleRu: 'Рубайят, 138'
 titleFa: رباعی شمارۀ ۱۳۸
+titleEn: 'Rubaiyat, 138'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-339
 sourceId: ganjoor-15334
-titleAz: رباعی شمارهٔ   ۳۳۹
+titleAz: Rübai 339
+titleRu: Рубаи 339
 titleFa: رباعی شمارهٔ   ۳۳۹
+titleEn: Rubai 339
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

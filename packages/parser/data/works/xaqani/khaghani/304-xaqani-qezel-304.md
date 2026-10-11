@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-304
 sourceId: ganjoor-14673
-titleAz: غزل شمارهٔ ۳۰۴
+titleAz: Qəzəl 304
+titleRu: Газель 304
 titleFa: غزل شمارهٔ ۳۰۴
+titleEn: Ghazal 304
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

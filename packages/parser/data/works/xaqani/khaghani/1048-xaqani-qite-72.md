@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-72
 sourceId: ganjoor-27735
-titleAz: شمارهٔ ۷۲
+titleAz: Qitə 72
+titleRu: Кыта 72
 titleFa: شمارهٔ ۷۲
+titleEn: Qit'a 72
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

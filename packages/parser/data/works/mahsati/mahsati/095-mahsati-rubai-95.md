@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-95
 sourceId: ganjoor-133819
-titleAz: شمارهٔ ۹۵
+titleAz: Rübai 95
+titleRu: Рубаи 95
 titleFa: شمارهٔ ۹۵
+titleEn: Rubai 95
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

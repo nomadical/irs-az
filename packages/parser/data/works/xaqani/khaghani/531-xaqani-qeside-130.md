@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-130
 sourceId: ganjoor-14900
-titleAz: شمارهٔ ۱۳۰ - مطلع دوم
+titleAz: Qəsidə 130
+titleRu: Касыда 130
 titleFa: شمارهٔ ۱۳۰ - مطلع دوم
+titleEn: Qasida 130
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

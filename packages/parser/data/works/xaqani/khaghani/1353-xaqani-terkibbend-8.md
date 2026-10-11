@@ -1,8 +1,10 @@
 ---
 slug: xaqani-terkibbend-8
 sourceId: ganjoor-15490
-titleAz: شمارهٔ ۸ - در مرثیهٔ خواجه ابوالفارس
+titleAz: Tərkibbənd 8
+titleRu: Таркиббанд 8
 titleFa: شمارهٔ ۸ - در مرثیهٔ خواجه ابوالفارس
+titleEn: Tarkib-band 8
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

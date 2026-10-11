@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-79
 sourceId: ganjoor-27742
-titleAz: شمارهٔ ۷۹ - در نصیحت
+titleAz: Qitə 79
+titleRu: Кыта 79
 titleFa: شمارهٔ ۷۹ - در نصیحت
+titleEn: Qit'a 79
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

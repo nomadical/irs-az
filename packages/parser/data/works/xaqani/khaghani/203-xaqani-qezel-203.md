@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-203
 sourceId: ganjoor-14572
-titleAz: غزل شمارهٔ ۲۰۳
+titleAz: Qəzəl 203
+titleRu: Газель 203
 titleFa: غزل شمارهٔ ۲۰۳
+titleEn: Ghazal 203
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-35
 sourceId: ganjoor-117638
-titleAz: شمارهٔ ۳۵
+titleAz: Rübai 35
+titleRu: Рубаи 35
 titleFa: شمارهٔ ۳۵
+titleEn: Rubai 35
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

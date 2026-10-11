@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-380
 sourceId: ganjoor-14749
-titleAz: غزل شمارهٔ ۳۸۰
+titleAz: Qəzəl 380
+titleRu: Газель 380
 titleFa: غزل شمارهٔ ۳۸۰
+titleEn: Ghazal 380
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-139
 sourceId: ganjoor-14508
-titleAz: غزل شمارهٔ ۱۳۹
+titleAz: Qəzəl 139
+titleRu: Газель 139
 titleFa: غزل شمارهٔ ۱۳۹
+titleEn: Ghazal 139
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

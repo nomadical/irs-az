@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-85
 sourceId: ganjoor-133809
-titleAz: شمارهٔ ۸۵
+titleAz: Rübai 85
+titleRu: Рубаи 85
 titleFa: شمارهٔ ۸۵
+titleEn: Rubai 85
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-141
 sourceId: ganjoor-14911
-titleAz: شمارهٔ ۱۴۱ - باز هم در مرثیهٔ خانوادهٔ خویش
+titleAz: Qəsidə 141
+titleRu: Касыда 141
 titleFa: شمارهٔ ۱۴۱ - باز هم در مرثیهٔ خانوادهٔ خویش
+titleEn: Qasida 141
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

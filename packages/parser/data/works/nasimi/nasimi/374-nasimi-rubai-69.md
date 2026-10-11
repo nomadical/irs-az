@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-69
 sourceId: ganjoor-117672
-titleAz: شمارهٔ ۶۹
+titleAz: Rübai 69
+titleRu: Рубаи 69
 titleFa: شمارهٔ ۶۹
+titleEn: Rubai 69
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

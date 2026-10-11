@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qeside-7
 sourceId: ganjoor-117593
-titleAz: شمارهٔ ۷ - تجدید مطلع
+titleAz: Qəsidə 7
+titleRu: Касыда 7
 titleFa: شمارهٔ ۷ - تجدید مطلع
+titleEn: Qasida 7
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-4
 sourceId: ganjoor-14373
-titleAz: غزل شمارهٔ ۴
+titleAz: Qəzəl 4
+titleRu: Газель 4
 titleFa: غزل شمارهٔ ۴
+titleEn: Ghazal 4
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

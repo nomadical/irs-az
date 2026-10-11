@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-13
 sourceId: ganjoor-9015
-titleAz: بخش ۱۳ - در صفت عشق مجنون
+titleAz: 'Leyli və Məcnun, fəsil 13'
+titleRu: 'Лейли и Меджнун, глава 13'
 titleFa: بخش ۱۳ - در صفت عشق مجنون
+titleEn: 'Layla and Majnun, chapter 13'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

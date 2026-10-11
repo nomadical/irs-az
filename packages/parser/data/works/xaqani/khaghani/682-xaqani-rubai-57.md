@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-57
 sourceId: ganjoor-15052
-titleAz: رباعی شمارهٔ   ۵۷
+titleAz: Rübai 57
+titleRu: Рубаи 57
 titleFa: رباعی شمارهٔ   ۵۷
+titleEn: Rubai 57
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

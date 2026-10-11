@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-128
 sourceId: ganjoor-15123
-titleAz: رباعی شمارهٔ   ۱۲۸
+titleAz: Rübai 128
+titleRu: Рубаи 128
 titleFa: رباعی شمارهٔ   ۱۲۸
+titleEn: Rubai 128
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

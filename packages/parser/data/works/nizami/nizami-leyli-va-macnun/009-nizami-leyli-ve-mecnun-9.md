@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-9
 sourceId: ganjoor-9011
-titleAz: بخش ۹ - در نصیحت فرزند خود محمد نظامی
+titleAz: 'Leyli və Məcnun, fəsil 9'
+titleRu: 'Лейли и Меджнун, глава 9'
 titleFa: بخش ۹ - در نصیحت فرزند خود محمد نظامی
+titleEn: 'Layla and Majnun, chapter 9'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-89
 sourceId: ganjoor-27752
-titleAz: شمارهٔ ۸۹
+titleAz: Qitə 89
+titleRu: Кыта 89
 titleFa: شمارهٔ ۸۹
+titleEn: Qit'a 89
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

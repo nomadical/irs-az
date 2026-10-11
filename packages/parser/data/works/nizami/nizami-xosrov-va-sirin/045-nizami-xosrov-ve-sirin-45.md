@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-45
 sourceId: ganjoor-8909
-titleAz: بخش ۴۵ - نالیدن شیرین در جدایی خسرو
+titleAz: 'Xosrov və Şirin, fəsil 45'
+titleRu: 'Хосров и Ширин, глава 45'
 titleFa: بخش ۴۵ - نالیدن شیرین در جدایی خسرو
+titleEn: 'Khosrow and Shirin, chapter 45'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

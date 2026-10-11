@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-265
 sourceId: ganjoor-117560
-titleAz: شمارهٔ ۲۶۵
+titleAz: Qəzəl 265
+titleRu: Газель 265
 titleFa: شمارهٔ ۲۶۵
+titleEn: Ghazal 265
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

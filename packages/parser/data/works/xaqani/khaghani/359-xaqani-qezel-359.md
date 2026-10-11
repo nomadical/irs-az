@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-359
 sourceId: ganjoor-14728
-titleAz: غزل شمارهٔ ۳۵۹
+titleAz: Qəzəl 359
+titleRu: Газель 359
 titleFa: غزل شمارهٔ ۳۵۹
+titleEn: Ghazal 359
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

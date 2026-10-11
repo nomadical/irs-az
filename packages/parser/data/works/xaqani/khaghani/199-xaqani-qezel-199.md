@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-199
 sourceId: ganjoor-14568
-titleAz: غزل شمارهٔ ۱۹۹
+titleAz: Qəzəl 199
+titleRu: Газель 199
 titleFa: غزل شمارهٔ ۱۹۹
+titleEn: Ghazal 199
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-108
 sourceId: ganjoor-14878
-titleAz: شمارهٔ ۱۰۸ - مطلع دوم
+titleAz: Qəsidə 108
+titleRu: Касыда 108
 titleFa: شمارهٔ ۱۰۸ - مطلع دوم
+titleEn: Qasida 108
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

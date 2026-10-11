@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-247
 sourceId: ganjoor-116953
-titleAz: شمارهٔ ۲۴۷
+titleAz: Qəzəl 247
+titleRu: Газель 247
 titleFa: شمارهٔ ۲۴۷
+titleEn: Ghazal 247
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

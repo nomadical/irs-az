@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-16
 sourceId: ganjoor-117619
-titleAz: شمارهٔ ۱۶
+titleAz: Rübai 16
+titleRu: Рубаи 16
 titleFa: شمارهٔ ۱۶
+titleEn: Rubai 16
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

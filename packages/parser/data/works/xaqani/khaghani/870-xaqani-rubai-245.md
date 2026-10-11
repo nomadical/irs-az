@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-245
 sourceId: ganjoor-15240
-titleAz: رباعی شمارهٔ   ۲۴۵
+titleAz: Rübai 245
+titleRu: Рубаи 245
 titleFa: رباعی شمارهٔ   ۲۴۵
+titleEn: Rubai 245
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

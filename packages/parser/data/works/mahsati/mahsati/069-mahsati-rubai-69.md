@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-69
 sourceId: ganjoor-133793
-titleAz: شمارهٔ ۶۹
+titleAz: Rübai 69
+titleRu: Рубаи 69
 titleFa: شمارهٔ ۶۹
+titleEn: Rubai 69
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

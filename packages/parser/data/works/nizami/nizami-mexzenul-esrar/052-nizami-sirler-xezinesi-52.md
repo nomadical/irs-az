@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-52
 sourceId: ganjoor-9314
-titleAz: بخش ۵۲ - مقالت هفدهم در پرستش و تجرید
+titleAz: 'Sirlər xəzinəsi, fəsil 52'
+titleRu: 'Сокровищница тайн, глава 52'
 titleFa: بخش ۵۲ - مقالت هفدهم در پرستش و تجرید
+titleEn: 'The Treasury of Mysteries, chapter 52'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

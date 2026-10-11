@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-59
 sourceId: ganjoor-9321
-titleAz: بخش ۵۹ - داستان بلبل با باز
+titleAz: 'Sirlər xəzinəsi, fəsil 59'
+titleRu: 'Сокровищница тайн, глава 59'
 titleFa: بخش ۵۹ - داستان بلبل با باز
+titleEn: 'The Treasury of Mysteries, chapter 59'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

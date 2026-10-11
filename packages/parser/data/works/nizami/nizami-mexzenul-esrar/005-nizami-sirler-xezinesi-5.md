@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-5
 sourceId: ganjoor-9267
-titleAz: بخش ۵ - در معراج
+titleAz: 'Sirlər xəzinəsi, fəsil 5'
+titleRu: 'Сокровищница тайн, глава 5'
 titleFa: بخش ۵ - در معراج
+titleEn: 'The Treasury of Mysteries, chapter 5'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

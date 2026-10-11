@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-210
 sourceId: ganjoor-117505
-titleAz: شمارهٔ ۲۱۰
+titleAz: Qəzəl 210
+titleRu: Газель 210
 titleFa: شمارهٔ ۲۱۰
+titleEn: Ghazal 210
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-33
 sourceId: ganjoor-117636
-titleAz: شمارهٔ ۳۳
+titleAz: Rübai 33
+titleRu: Рубаи 33
 titleFa: شمارهٔ ۳۳
+titleEn: Rubai 33
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

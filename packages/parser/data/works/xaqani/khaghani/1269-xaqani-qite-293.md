@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-293
 sourceId: ganjoor-27956
-titleAz: شمارهٔ ۲۹۳
+titleAz: Qitə 293
+titleRu: Кыта 293
 titleFa: شمارهٔ ۲۹۳
+titleEn: Qit'a 293
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

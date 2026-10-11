@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-289
 sourceId: ganjoor-14658
-titleAz: غزل شمارهٔ ۲۸۹
+titleAz: Qəzəl 289
+titleRu: Газель 289
 titleFa: غزل شمارهٔ ۲۸۹
+titleEn: Ghazal 289
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-5
 sourceId: ganjoor-116661
-titleAz: شمارهٔ ۵
+titleAz: Qəsidə 5
+titleRu: Касыда 5
 titleFa: شمارهٔ ۵
+titleEn: Qasida 5
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-4
 sourceId: ganjoor-133908
-titleAz: شمارهٔ  ۴
+titleAz: Qitə 4
+titleRu: Кыта 4
 titleFa: شمارهٔ  ۴
+titleEn: Qit'a 4
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

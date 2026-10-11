@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-129
 sourceId: ganjoor-15124
-titleAz: رباعی شمارهٔ   ۱۲۹
+titleAz: Rübai 129
+titleRu: Рубаи 129
 titleFa: رباعی شمارهٔ   ۱۲۹
+titleEn: Rubai 129
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

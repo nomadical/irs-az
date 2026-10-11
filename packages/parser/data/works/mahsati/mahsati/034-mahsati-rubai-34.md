@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-34
 sourceId: ganjoor-133758
-titleAz: شمارهٔ ۳۴
+titleAz: Rübai 34
+titleRu: Рубаи 34
 titleFa: شمارهٔ ۳۴
+titleEn: Rubai 34
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

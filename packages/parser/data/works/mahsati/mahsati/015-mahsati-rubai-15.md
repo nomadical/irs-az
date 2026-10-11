@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-15
 sourceId: ganjoor-133739
-titleAz: شمارهٔ ۱۵
+titleAz: Rübai 15
+titleRu: Рубаи 15
 titleFa: شمارهٔ ۱۵
+titleEn: Rubai 15
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

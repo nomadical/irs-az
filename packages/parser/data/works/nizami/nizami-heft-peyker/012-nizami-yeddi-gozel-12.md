@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-12
 sourceId: ganjoor-9060
-titleAz: بخش ۱۲ - کشتن بهرام اژدها را و گنج یافتن
+titleAz: 'Yeddi gözəl, fəsil 12'
+titleRu: 'Семь красавиц, глава 12'
 titleFa: بخش ۱۲ - کشتن بهرام اژدها را و گنج یافتن
+titleEn: 'The Seven Beauties, chapter 12'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

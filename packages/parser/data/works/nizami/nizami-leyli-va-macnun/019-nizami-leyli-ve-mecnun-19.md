@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-19
 sourceId: ganjoor-9021
-titleAz: بخش ۱۹ - در احوال لیلی
+titleAz: 'Leyli və Məcnun, fəsil 19'
+titleRu: 'Лейли и Меджнун, глава 19'
 titleFa: بخش ۱۹ - در احوال لیلی
+titleEn: 'Layla and Majnun, chapter 19'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

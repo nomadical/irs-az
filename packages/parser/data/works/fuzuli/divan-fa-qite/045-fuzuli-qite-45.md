@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-45
 sourceId: ganjoor-117162
-titleAz: شمارهٔ ۴۵
+titleAz: Qitə 45
+titleRu: Кыта 45
 titleFa: شمارهٔ ۴۵
+titleEn: Qit'a 45
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

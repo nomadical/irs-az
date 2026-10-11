@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-196
 sourceId: ganjoor-116902
-titleAz: شمارهٔ ۱۹۶
+titleAz: Qəzəl 196
+titleRu: Газель 196
 titleFa: شمارهٔ ۱۹۶
+titleEn: Ghazal 196
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

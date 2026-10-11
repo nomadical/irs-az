@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-26
 sourceId: ganjoor-27689
-titleAz: شمارهٔ ۲۶ - در مرثیهٔ وحید الدین عموی خود
+titleAz: Qitə 26
+titleRu: Кыта 26
 titleFa: شمارهٔ ۲۶ - در مرثیهٔ وحید الدین عموی خود
+titleEn: Qit'a 26
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

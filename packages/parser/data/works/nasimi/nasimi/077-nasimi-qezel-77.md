@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-77
 sourceId: ganjoor-117372
-titleAz: شمارهٔ ۷۷
+titleAz: Qəzəl 77
+titleRu: Газель 77
 titleFa: شمارهٔ ۷۷
+titleEn: Ghazal 77
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

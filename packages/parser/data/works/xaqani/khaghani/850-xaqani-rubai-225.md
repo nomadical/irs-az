@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-225
 sourceId: ganjoor-15220
-titleAz: رباعی شمارهٔ   ۲۲۵
+titleAz: Rübai 225
+titleRu: Рубаи 225
 titleFa: رباعی شمارهٔ   ۲۲۵
+titleEn: Rubai 225
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

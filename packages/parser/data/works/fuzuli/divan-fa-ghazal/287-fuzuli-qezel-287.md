@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-287
 sourceId: ganjoor-116993
-titleAz: شمارهٔ ۲۸۷
+titleAz: Qəzəl 287
+titleRu: Газель 287
 titleFa: شمارهٔ ۲۸۷
+titleEn: Ghazal 287
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

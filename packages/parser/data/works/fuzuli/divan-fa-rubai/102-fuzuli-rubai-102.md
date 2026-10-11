@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-102
 sourceId: ganjoor-117266
-titleAz: شمارهٔ ۱۰۲
+titleAz: Rübai 102
+titleRu: Рубаи 102
 titleFa: شمارهٔ ۱۰۲
+titleEn: Rubai 102
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

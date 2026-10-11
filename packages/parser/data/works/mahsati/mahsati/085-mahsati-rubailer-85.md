@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-85
 sourceId: ganjoor-50145
-titleAz: رباعی شمارۀ ۸۵
+titleAz: 'Rübailər, 85'
+titleRu: 'Рубайят, 85'
 titleFa: رباعی شمارۀ ۸۵
+titleEn: 'Rubaiyat, 85'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

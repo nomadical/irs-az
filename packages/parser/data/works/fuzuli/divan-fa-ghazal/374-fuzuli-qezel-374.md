@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-374
 sourceId: ganjoor-117080
-titleAz: شمارهٔ ۳۷۴
+titleAz: Qəzəl 374
+titleRu: Газель 374
 titleFa: شمارهٔ ۳۷۴
+titleEn: Ghazal 374
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

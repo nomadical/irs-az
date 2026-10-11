@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-294
 sourceId: ganjoor-14663
-titleAz: غزل شمارهٔ ۲۹۴
+titleAz: Qəzəl 294
+titleRu: Газель 294
 titleFa: غزل شمارهٔ ۲۹۴
+titleEn: Ghazal 294
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-73
 sourceId: ganjoor-117676
-titleAz: شمارهٔ ۷۳
+titleAz: Rübai 73
+titleRu: Рубаи 73
 titleFa: شمارهٔ ۷۳
+titleEn: Rubai 73
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

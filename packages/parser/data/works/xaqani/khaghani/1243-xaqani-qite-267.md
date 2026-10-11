@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-267
 sourceId: ganjoor-27930
-titleAz: شمارهٔ ۲۶۷
+titleAz: Qitə 267
+titleRu: Кыта 267
 titleFa: شمارهٔ ۲۶۷
+titleEn: Qit'a 267
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

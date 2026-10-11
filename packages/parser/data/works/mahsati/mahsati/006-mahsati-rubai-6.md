@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-6
 sourceId: ganjoor-133730
-titleAz: شمارهٔ ۶
+titleAz: Rübai 6
+titleRu: Рубаи 6
 titleFa: شمارهٔ ۶
+titleEn: Rubai 6
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

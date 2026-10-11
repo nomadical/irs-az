@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-5
 sourceId: ganjoor-8869
-titleAz: بخش ۵ - در نعت رسول اکرم صلی الله علیه وسلم
+titleAz: 'Xosrov və Şirin, fəsil 5'
+titleRu: 'Хосров и Ширин, глава 5'
 titleFa: بخش ۵ - در نعت رسول اکرم صلی الله علیه وسلم
+titleEn: 'Khosrow and Shirin, chapter 5'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

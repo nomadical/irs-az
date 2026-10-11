@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-26
 sourceId: ganjoor-117190
-titleAz: شمارهٔ ۲۶
+titleAz: Rübai 26
+titleRu: Рубаи 26
 titleFa: شمارهٔ ۲۶
+titleEn: Rubai 26
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-163
 sourceId: ganjoor-117458
-titleAz: شمارهٔ ۱۶۳
+titleAz: Qəzəl 163
+titleRu: Газель 163
 titleFa: شمارهٔ ۱۶۳
+titleEn: Ghazal 163
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

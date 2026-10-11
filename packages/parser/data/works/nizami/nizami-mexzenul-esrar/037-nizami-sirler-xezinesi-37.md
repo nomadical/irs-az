@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-37
 sourceId: ganjoor-9299
-titleAz: بخش ۳۷ - داستان زاهد توبه‌شکن
+titleAz: 'Sirlər xəzinəsi, fəsil 37'
+titleRu: 'Сокровищница тайн, глава 37'
 titleFa: بخش ۳۷ - داستان زاهد توبه‌شکن
+titleEn: 'The Treasury of Mysteries, chapter 37'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

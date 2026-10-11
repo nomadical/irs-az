@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-18
 sourceId: ganjoor-15013
-titleAz: رباعی شمارهٔ   ۱۸
+titleAz: Rübai 18
+titleRu: Рубаи 18
 titleFa: رباعی شمارهٔ   ۱۸
+titleEn: Rubai 18
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

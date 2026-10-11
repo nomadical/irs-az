@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-147
 sourceId: ganjoor-116853
-titleAz: شمارهٔ ۱۴۷
+titleAz: Qəzəl 147
+titleRu: Газель 147
 titleFa: شمارهٔ ۱۴۷
+titleEn: Ghazal 147
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

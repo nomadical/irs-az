@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-57
 sourceId: ganjoor-133781
-titleAz: شمارهٔ ۵۷
+titleAz: Rübai 57
+titleRu: Рубаи 57
 titleFa: شمارهٔ ۵۷
+titleEn: Rubai 57
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

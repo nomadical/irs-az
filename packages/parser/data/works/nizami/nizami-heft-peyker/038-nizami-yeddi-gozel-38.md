@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-38
 sourceId: ganjoor-9086
-titleAz: بخش ۳۸ - در ختم کتاب و دعای علاء الدین کرپ ارسلان
+titleAz: 'Yeddi gözəl, fəsil 38'
+titleRu: 'Семь красавиц, глава 38'
 titleFa: بخش ۳۸ - در ختم کتاب و دعای علاء الدین کرپ ارسلان
+titleEn: 'The Seven Beauties, chapter 38'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

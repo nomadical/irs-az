@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-178
 sourceId: ganjoor-50238
-titleAz: رباعی شمارۀ ۱۷۸
+titleAz: 'Rübailər, 178'
+titleRu: 'Рубайят, 178'
 titleFa: رباعی شمارۀ ۱۷۸
+titleEn: 'Rubaiyat, 178'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

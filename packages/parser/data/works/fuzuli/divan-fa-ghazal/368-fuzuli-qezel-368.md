@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-368
 sourceId: ganjoor-117074
-titleAz: شمارهٔ ۳۶۸
+titleAz: Qəzəl 368
+titleRu: Газель 368
 titleFa: شمارهٔ ۳۶۸
+titleEn: Ghazal 368
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

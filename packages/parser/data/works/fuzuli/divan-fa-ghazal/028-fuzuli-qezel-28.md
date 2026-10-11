@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-28
 sourceId: ganjoor-116734
-titleAz: شمارهٔ ۲۸
+titleAz: Qəzəl 28
+titleRu: Газель 28
 titleFa: شمارهٔ ۲۸
+titleEn: Ghazal 28
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

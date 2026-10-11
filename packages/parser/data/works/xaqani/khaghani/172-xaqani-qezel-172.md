@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-172
 sourceId: ganjoor-14541
-titleAz: غزل شمارهٔ ۱۷۲
+titleAz: Qəzəl 172
+titleRu: Газель 172
 titleFa: غزل شمارهٔ ۱۷۲
+titleEn: Ghazal 172
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

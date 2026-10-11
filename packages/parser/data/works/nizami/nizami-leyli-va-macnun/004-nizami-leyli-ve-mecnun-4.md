@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-4
 sourceId: ganjoor-9006
-titleAz: بخش ۴ - سبب نظم کتاب
+titleAz: 'Leyli və Məcnun, fəsil 4'
+titleRu: 'Лейли и Меджнун, глава 4'
 titleFa: بخش ۴ - سبب نظم کتاب
+titleEn: 'Layla and Majnun, chapter 4'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

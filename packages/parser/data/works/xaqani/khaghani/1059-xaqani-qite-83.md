@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-83
 sourceId: ganjoor-27746
-titleAz: شمارهٔ ۸۳
+titleAz: Qitə 83
+titleRu: Кыта 83
 titleFa: شمارهٔ ۸۳
+titleEn: Qit'a 83
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

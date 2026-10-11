@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-193
 sourceId: ganjoor-117488
-titleAz: شمارهٔ ۱۹۳ - ستایش فضل‌الله نعیمی
+titleAz: Qəzəl 193
+titleRu: Газель 193
 titleFa: شمارهٔ ۱۹۳ - ستایش فضل‌الله نعیمی
+titleEn: Ghazal 193
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

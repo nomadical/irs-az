@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-30
 sourceId: ganjoor-9032
-titleAz: بخش ۳۰ - رفتن پدر مجنون به دیدن فرزند
+titleAz: 'Leyli və Məcnun, fəsil 30'
+titleRu: 'Лейли и Меджнун, глава 30'
 titleFa: بخش ۳۰ - رفتن پدر مجنون به دیدن فرزند
+titleEn: 'Layla and Majnun, chapter 30'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

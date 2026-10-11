@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-242
 sourceId: ganjoor-14611
-titleAz: غزل شمارهٔ ۲۴۲
+titleAz: Qəzəl 242
+titleRu: Газель 242
 titleFa: غزل شمارهٔ ۲۴۲
+titleEn: Ghazal 242
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

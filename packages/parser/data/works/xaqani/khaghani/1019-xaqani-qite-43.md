@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-43
 sourceId: ganjoor-27706
-titleAz: شمارهٔ ۴۳ - در مدح نظام الملک قوام الدین
+titleAz: Qitə 43
+titleRu: Кыта 43
 titleFa: شمارهٔ ۴۳ - در مدح نظام الملک قوام الدین
+titleEn: Qit'a 43
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-3
 sourceId: ganjoor-9005
-titleAz: بخش ۳ - برهان قاطع در حدوث آفرینش
+titleAz: 'Leyli və Məcnun, fəsil 3'
+titleRu: 'Лейли и Меджнун, глава 3'
 titleFa: بخش ۳ - برهان قاطع در حدوث آفرینش
+titleEn: 'Layla and Majnun, chapter 3'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

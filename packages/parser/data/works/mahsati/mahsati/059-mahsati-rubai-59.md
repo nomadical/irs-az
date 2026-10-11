@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-59
 sourceId: ganjoor-133783
-titleAz: شمارهٔ ۵۹
+titleAz: Rübai 59
+titleRu: Рубаи 59
 titleFa: شمارهٔ ۵۹
+titleEn: Rubai 59
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-387
 sourceId: ganjoor-14756
-titleAz: غزل شمارهٔ ۳۸۷
+titleAz: Qəzəl 387
+titleRu: Газель 387
 titleFa: غزل شمارهٔ ۳۸۷
+titleEn: Ghazal 387
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

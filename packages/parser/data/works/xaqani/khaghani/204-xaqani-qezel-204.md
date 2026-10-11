@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-204
 sourceId: ganjoor-14573
-titleAz: غزل شمارهٔ ۲۰۴
+titleAz: Qəzəl 204
+titleRu: Газель 204
 titleFa: غزل شمارهٔ ۲۰۴
+titleEn: Ghazal 204
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

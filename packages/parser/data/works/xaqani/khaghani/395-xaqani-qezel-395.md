@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-395
 sourceId: ganjoor-14764
-titleAz: غزل شمارهٔ ۳۹۵
+titleAz: Qəzəl 395
+titleRu: Газель 395
 titleFa: غزل شمارهٔ ۳۹۵
+titleEn: Ghazal 395
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

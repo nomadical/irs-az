@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-108
 sourceId: ganjoor-133832
-titleAz: شمارهٔ ۱۰۸
+titleAz: Rübai 108
+titleRu: Рубаи 108
 titleFa: شمارهٔ ۱۰۸
+titleEn: Rubai 108
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-345
 sourceId: ganjoor-15340
-titleAz: رباعی شمارهٔ   ۳۴۵
+titleAz: Rübai 345
+titleRu: Рубаи 345
 titleFa: رباعی شمارهٔ   ۳۴۵
+titleEn: Rubai 345
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

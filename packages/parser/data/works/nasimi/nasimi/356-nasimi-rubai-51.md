@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-51
 sourceId: ganjoor-117654
-titleAz: شمارهٔ ۵۱
+titleAz: Rübai 51
+titleRu: Рубаи 51
 titleFa: شمارهٔ ۵۱
+titleEn: Rubai 51
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

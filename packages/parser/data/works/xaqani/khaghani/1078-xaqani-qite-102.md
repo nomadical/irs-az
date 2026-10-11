@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-102
 sourceId: ganjoor-27765
-titleAz: شمارهٔ ۱۰۲
+titleAz: Qitə 102
+titleRu: Кыта 102
 titleFa: شمارهٔ ۱۰۲
+titleEn: Qit'a 102
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

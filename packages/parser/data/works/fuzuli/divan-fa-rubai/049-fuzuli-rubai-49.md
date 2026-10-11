@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-49
 sourceId: ganjoor-117213
-titleAz: شمارهٔ ۴۹
+titleAz: Rübai 49
+titleRu: Рубаи 49
 titleFa: شمارهٔ ۴۹
+titleEn: Rubai 49
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-160
 sourceId: ganjoor-116866
-titleAz: شمارهٔ ۱۶۰
+titleAz: Qəzəl 160
+titleRu: Газель 160
 titleFa: شمارهٔ ۱۶۰
+titleEn: Ghazal 160
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

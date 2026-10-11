@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-212
 sourceId: ganjoor-116918
-titleAz: شمارهٔ ۲۱۲
+titleAz: Qəzəl 212
+titleRu: Газель 212
 titleFa: شمارهٔ ۲۱۲
+titleEn: Ghazal 212
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-47
 sourceId: ganjoor-15042
-titleAz: رباعی شمارهٔ   ۴۷
+titleAz: Rübai 47
+titleRu: Рубаи 47
 titleFa: رباعی شمارهٔ   ۴۷
+titleEn: Rubai 47
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

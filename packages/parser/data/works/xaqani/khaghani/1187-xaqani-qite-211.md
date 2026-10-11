@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-211
 sourceId: ganjoor-27874
-titleAz: شمارهٔ ۲۱۱
+titleAz: Qitə 211
+titleRu: Кыта 211
 titleFa: شمارهٔ ۲۱۱
+titleEn: Qit'a 211
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

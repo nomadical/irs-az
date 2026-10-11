@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-105
 sourceId: ganjoor-117269
-titleAz: شمارهٔ ۱۰۵
+titleAz: Rübai 105
+titleRu: Рубаи 105
 titleFa: شمارهٔ ۱۰۵
+titleEn: Rubai 105
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

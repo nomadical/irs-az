@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-355
 sourceId: ganjoor-117061
-titleAz: شمارهٔ ۳۵۵
+titleAz: Qəzəl 355
+titleRu: Газель 355
 titleFa: شمارهٔ ۳۵۵
+titleEn: Ghazal 355
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

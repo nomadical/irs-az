@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-42
 sourceId: ganjoor-117645
-titleAz: شمارهٔ ۴۲
+titleAz: Rübai 42
+titleRu: Рубаи 42
 titleFa: شمارهٔ ۴۲
+titleEn: Rubai 42
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

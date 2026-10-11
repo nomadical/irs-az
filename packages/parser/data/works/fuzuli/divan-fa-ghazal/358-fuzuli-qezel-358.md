@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-358
 sourceId: ganjoor-117064
-titleAz: شمارهٔ ۳۵۸
+titleAz: Qəzəl 358
+titleRu: Газель 358
 titleFa: شمارهٔ ۳۵۸
+titleEn: Ghazal 358
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

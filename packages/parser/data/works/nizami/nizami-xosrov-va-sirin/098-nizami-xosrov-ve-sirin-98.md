@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-98
 sourceId: ganjoor-8962
-titleAz: بخش ۹۸ - در بقای جان
+titleAz: 'Xosrov və Şirin, fəsil 98'
+titleRu: 'Хосров и Ширин, глава 98'
 titleFa: بخش ۹۸ - در بقای جان
+titleEn: 'Khosrow and Shirin, chapter 98'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

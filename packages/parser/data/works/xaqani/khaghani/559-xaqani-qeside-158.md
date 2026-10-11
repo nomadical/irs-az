@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-158
 sourceId: ganjoor-14928
-titleAz: شمارهٔ ۱۵۸ - خاقانی درجواب ابوالفضایل احمد سیمگر گوید
+titleAz: Qəsidə 158
+titleRu: Касыда 158
 titleFa: شمارهٔ ۱۵۸ - خاقانی درجواب ابوالفضایل احمد سیمگر گوید
+titleEn: Qasida 158
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

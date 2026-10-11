@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-317
 sourceId: ganjoor-15312
-titleAz: رباعی شمارهٔ   ۳۱۷
+titleAz: Rübai 317
+titleRu: Рубаи 317
 titleFa: رباعی شمارهٔ   ۳۱۷
+titleEn: Rubai 317
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

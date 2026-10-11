@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-4
 sourceId: ganjoor-14774
-titleAz: شمارهٔ ۴ - در حکمت و موعظه و مدح خاتم الانبیا (ص)
+titleAz: Qəsidə 4
+titleRu: Касыда 4
 titleFa: شمارهٔ ۴ - در حکمت و موعظه و مدح خاتم الانبیا (ص)
+titleEn: Qasida 4
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

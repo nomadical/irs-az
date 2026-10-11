@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-31
 sourceId: ganjoor-117195
-titleAz: شمارهٔ ۳۱
+titleAz: Rübai 31
+titleRu: Рубаи 31
 titleFa: شمارهٔ ۳۱
+titleEn: Rubai 31
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

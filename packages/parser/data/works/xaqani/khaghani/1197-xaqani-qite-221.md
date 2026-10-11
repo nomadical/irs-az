@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-221
 sourceId: ganjoor-27884
-titleAz: شمارهٔ ۲۲۱
+titleAz: Qitə 221
+titleRu: Кыта 221
 titleFa: شمارهٔ ۲۲۱
+titleEn: Qit'a 221
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

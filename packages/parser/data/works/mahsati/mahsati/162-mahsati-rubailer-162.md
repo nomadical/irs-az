@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-162
 sourceId: ganjoor-50222
-titleAz: رباعی شمارۀ ۱۶۲
+titleAz: 'Rübailər, 162'
+titleRu: 'Рубайят, 162'
 titleFa: رباعی شمارۀ ۱۶۲
+titleEn: 'Rubaiyat, 162'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

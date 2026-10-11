@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qeside-4
 sourceId: ganjoor-117590
-titleAz: شمارهٔ ۴
+titleAz: Qəsidə 4
+titleRu: Касыда 4
 titleFa: شمارهٔ ۴
+titleEn: Qasida 4
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

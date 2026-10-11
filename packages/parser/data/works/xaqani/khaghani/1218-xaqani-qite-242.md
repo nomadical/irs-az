@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-242
 sourceId: ganjoor-27905
-titleAz: شمارهٔ ۲۴۲
+titleAz: Qitə 242
+titleRu: Кыта 242
 titleFa: شمارهٔ ۲۴۲
+titleEn: Qit'a 242
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

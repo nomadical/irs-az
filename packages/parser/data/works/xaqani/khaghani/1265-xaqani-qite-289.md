@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-289
 sourceId: ganjoor-27952
-titleAz: شمارهٔ ۲۸۹ - در هجو
+titleAz: Qitə 289
+titleRu: Кыта 289
 titleFa: شمارهٔ ۲۸۹ - در هجو
+titleEn: Qit'a 289
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

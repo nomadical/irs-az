@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-1
 sourceId: ganjoor-9049
-titleAz: بخش ۱ - به نام ایزد بخشاینده
+titleAz: 'Yeddi gözəl, fəsil 1'
+titleRu: 'Семь красавиц, глава 1'
 titleFa: بخش ۱ - به نام ایزد بخشاینده
+titleEn: 'The Seven Beauties, chapter 1'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

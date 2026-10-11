@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-29
 sourceId: ganjoor-117193
-titleAz: شمارهٔ ۲۹
+titleAz: Rübai 29
+titleRu: Рубаи 29
 titleFa: شمارهٔ ۲۹
+titleEn: Rubai 29
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

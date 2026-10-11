@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-209
 sourceId: ganjoor-14979
-titleAz: شمارهٔ ۲۰۹ - در شکایت از زمان و مذمت اقران
+titleAz: Qəsidə 209
+titleRu: Касыда 209
 titleFa: شمارهٔ ۲۰۹ - در شکایت از زمان و مذمت اقران
+titleEn: Qasida 209
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

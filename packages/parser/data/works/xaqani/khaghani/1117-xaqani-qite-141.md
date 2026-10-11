@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-141
 sourceId: ganjoor-27804
-titleAz: شمارهٔ ۱۴۱
+titleAz: Qitə 141
+titleRu: Кыта 141
 titleFa: شمارهٔ ۱۴۱
+titleEn: Qit'a 141
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

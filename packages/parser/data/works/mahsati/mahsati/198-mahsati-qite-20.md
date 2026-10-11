@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-20
 sourceId: ganjoor-133924
-titleAz: شمارهٔ  ۲۰
+titleAz: Qitə 20
+titleRu: Кыта 20
 titleFa: شمارهٔ  ۲۰
+titleEn: Qit'a 20
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

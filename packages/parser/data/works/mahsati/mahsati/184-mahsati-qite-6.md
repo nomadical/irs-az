@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-6
 sourceId: ganjoor-133910
-titleAz: شمارهٔ  ۶
+titleAz: Qitə 6
+titleRu: Кыта 6
 titleFa: شمارهٔ  ۶
+titleEn: Qit'a 6
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

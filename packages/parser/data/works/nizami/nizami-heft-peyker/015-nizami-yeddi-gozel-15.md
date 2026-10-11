@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-15
 sourceId: ganjoor-9063
-titleAz: بخش ۱۵ - لشگر کشیدن بهرام به ایران
+titleAz: 'Yeddi gözəl, fəsil 15'
+titleRu: 'Семь красавиц, глава 15'
 titleFa: بخش ۱۵ - لشگر کشیدن بهرام به ایران
+titleEn: 'The Seven Beauties, chapter 15'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

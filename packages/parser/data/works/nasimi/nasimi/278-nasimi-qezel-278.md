@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-278
 sourceId: ganjoor-117573
-titleAz: شمارهٔ ۲۷۸
+titleAz: Qəzəl 278
+titleRu: Газель 278
 titleFa: شمارهٔ ۲۷۸
+titleEn: Ghazal 278
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

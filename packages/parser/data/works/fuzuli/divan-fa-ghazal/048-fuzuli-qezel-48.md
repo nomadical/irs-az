@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-48
 sourceId: ganjoor-116754
-titleAz: شمارهٔ ۴۸
+titleAz: Qəzəl 48
+titleRu: Газель 48
 titleFa: شمارهٔ ۴۸
+titleEn: Ghazal 48
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

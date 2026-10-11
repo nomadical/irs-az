@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-318
 sourceId: ganjoor-14687
-titleAz: غزل شمارهٔ ۳۱۸
+titleAz: Qəzəl 318
+titleRu: Газель 318
 titleFa: غزل شمارهٔ ۳۱۸
+titleEn: Ghazal 318
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

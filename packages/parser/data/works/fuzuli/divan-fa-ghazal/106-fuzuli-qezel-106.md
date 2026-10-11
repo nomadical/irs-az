@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-106
 sourceId: ganjoor-116812
-titleAz: شمارهٔ ۱۰۶
+titleAz: Qəzəl 106
+titleRu: Газель 106
 titleFa: شمارهٔ ۱۰۶
+titleEn: Ghazal 106
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

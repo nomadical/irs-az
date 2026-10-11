@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-30
 sourceId: ganjoor-117633
-titleAz: شمارهٔ ۳۰
+titleAz: Rübai 30
+titleRu: Рубаи 30
 titleFa: شمارهٔ ۳۰
+titleEn: Rubai 30
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

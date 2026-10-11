@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-121
 sourceId: ganjoor-50181
-titleAz: رباعی شمارۀ ۱۲۱
+titleAz: 'Rübailər, 121'
+titleRu: 'Рубайят, 121'
 titleFa: رباعی شمارۀ ۱۲۱
+titleEn: 'Rubaiyat, 121'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

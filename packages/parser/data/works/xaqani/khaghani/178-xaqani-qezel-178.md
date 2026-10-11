@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-178
 sourceId: ganjoor-14547
-titleAz: غزل شمارهٔ ۱۷۸
+titleAz: Qəzəl 178
+titleRu: Газель 178
 titleFa: غزل شمارهٔ ۱۷۸
+titleEn: Ghazal 178
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

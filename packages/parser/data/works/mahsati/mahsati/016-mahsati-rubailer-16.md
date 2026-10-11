@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-16
 sourceId: ganjoor-50076
-titleAz: رباعی شمارۀ ۱۶
+titleAz: 'Rübailər, 16'
+titleRu: 'Рубайят, 16'
 titleFa: رباعی شمارۀ ۱۶
+titleEn: 'Rubaiyat, 16'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

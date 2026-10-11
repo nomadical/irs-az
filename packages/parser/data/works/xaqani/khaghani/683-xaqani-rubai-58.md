@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-58
 sourceId: ganjoor-15053
-titleAz: رباعی شمارهٔ   ۵۸
+titleAz: Rübai 58
+titleRu: Рубаи 58
 titleFa: رباعی شمارهٔ   ۵۸
+titleEn: Rubai 58
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

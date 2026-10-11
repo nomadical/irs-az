@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-20
 sourceId: ganjoor-8884
-titleAz: بخش ۲۰ - نمودن شاپور صورت خسرو را بار اول
+titleAz: 'Xosrov və Şirin, fəsil 20'
+titleRu: 'Хосров и Ширин, глава 20'
 titleFa: بخش ۲۰ - نمودن شاپور صورت خسرو را بار اول
+titleEn: 'Khosrow and Shirin, chapter 20'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-104
 sourceId: ganjoor-15099
-titleAz: رباعی شمارهٔ   ۱۰۴
+titleAz: Rübai 104
+titleRu: Рубаи 104
 titleFa: رباعی شمارهٔ   ۱۰۴
+titleEn: Rubai 104
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

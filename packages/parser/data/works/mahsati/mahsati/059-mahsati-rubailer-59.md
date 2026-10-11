@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-59
 sourceId: ganjoor-50119
-titleAz: رباعی شمارۀ ۵۹
+titleAz: 'Rübailər, 59'
+titleRu: 'Рубайят, 59'
 titleFa: رباعی شمارۀ ۵۹
+titleEn: 'Rubaiyat, 59'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

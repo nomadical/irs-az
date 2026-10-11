@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-177
 sourceId: ganjoor-14947
-titleAz: شمارهٔ ۱۷۷ - در مدح شروان شاه منوچهر
+titleAz: Qəsidə 177
+titleRu: Касыда 177
 titleFa: شمارهٔ ۱۷۷ - در مدح شروان شاه منوچهر
+titleEn: Qasida 177
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

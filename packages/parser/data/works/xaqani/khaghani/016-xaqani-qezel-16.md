@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-16
 sourceId: ganjoor-14385
-titleAz: غزل شمارهٔ ۱۶
+titleAz: Qəzəl 16
+titleRu: Газель 16
 titleFa: غزل شمارهٔ ۱۶
+titleEn: Ghazal 16
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

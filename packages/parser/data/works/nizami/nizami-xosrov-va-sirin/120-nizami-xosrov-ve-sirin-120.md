@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-120
 sourceId: ganjoor-8984
-titleAz: بخش ۱۲۰ - طلب کردن طغرل شاه حکیم نظامی را
+titleAz: 'Xosrov və Şirin, fəsil 120'
+titleRu: 'Хосров и Ширин, глава 120'
 titleFa: بخش ۱۲۰ - طلب کردن طغرل شاه حکیم نظامی را
+titleEn: 'Khosrow and Shirin, chapter 120'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

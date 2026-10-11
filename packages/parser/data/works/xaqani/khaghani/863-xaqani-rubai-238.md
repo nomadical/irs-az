@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-238
 sourceId: ganjoor-15233
-titleAz: رباعی شمارهٔ   ۲۳۸
+titleAz: Rübai 238
+titleRu: Рубаи 238
 titleFa: رباعی شمارهٔ   ۲۳۸
+titleEn: Rubai 238
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-52
 sourceId: ganjoor-14421
-titleAz: غزل شمارهٔ ۵۲
+titleAz: Qəzəl 52
+titleRu: Газель 52
 titleFa: غزل شمارهٔ ۵۲
+titleEn: Ghazal 52
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

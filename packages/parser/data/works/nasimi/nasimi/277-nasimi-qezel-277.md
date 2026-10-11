@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-277
 sourceId: ganjoor-117572
-titleAz: شمارهٔ ۲۷۷
+titleAz: Qəzəl 277
+titleRu: Газель 277
 titleFa: شمارهٔ ۲۷۷
+titleEn: Ghazal 277
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

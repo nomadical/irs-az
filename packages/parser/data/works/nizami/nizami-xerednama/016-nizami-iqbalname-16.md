@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-16
 sourceId: ganjoor-9228
-titleAz: بخش ۱۶ - حکایت انگشتری و شُبان
+titleAz: 'İqbalnamə, fəsil 16'
+titleRu: 'Икбал-наме, глава 16'
 titleFa: بخش ۱۶ - حکایت انگشتری و شُبان
+titleEn: 'Iqbalnama, chapter 16'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

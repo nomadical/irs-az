@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-145
 sourceId: ganjoor-133869
-titleAz: شمارهٔ ۱۴۵
+titleAz: Rübai 145
+titleRu: Рубаи 145
 titleFa: شمارهٔ ۱۴۵
+titleEn: Rubai 145
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

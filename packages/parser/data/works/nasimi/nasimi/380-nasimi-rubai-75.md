@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-75
 sourceId: ganjoor-117678
-titleAz: شمارهٔ ۷۵
+titleAz: Rübai 75
+titleRu: Рубаи 75
 titleFa: شمارهٔ ۷۵
+titleEn: Rubai 75
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

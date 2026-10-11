@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-271
 sourceId: ganjoor-27934
-titleAz: شمارهٔ ۲۷۱
+titleAz: Qitə 271
+titleRu: Кыта 271
 titleFa: شمارهٔ ۲۷۱
+titleEn: Qit'a 271
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

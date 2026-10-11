@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-saqiname-5
 sourceId: ganjoor-117280
-titleAz: بخش ۵ - مناظره با دف
+titleAz: 'Saqinamə, fəsil 5'
+titleRu: 'Саки-наме, глава 5'
 titleFa: بخش ۵ - مناظره با دف
+titleEn: 'Saqi-nama, chapter 5'
 authorSlug: fuzuli
 collectionSlug: saqiname
 originalLang: FA

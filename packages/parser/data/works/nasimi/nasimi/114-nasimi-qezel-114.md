@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-114
 sourceId: ganjoor-117409
-titleAz: شمارهٔ ۱۱۴
+titleAz: Qəzəl 114
+titleRu: Газель 114
 titleFa: شمارهٔ ۱۱۴
+titleEn: Ghazal 114
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-346
 sourceId: ganjoor-117052
-titleAz: شمارهٔ ۳۴۶
+titleAz: Qəzəl 346
+titleRu: Газель 346
 titleFa: شمارهٔ ۳۴۶
+titleEn: Ghazal 346
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-105
 sourceId: ganjoor-117400
-titleAz: شمارهٔ ۱۰۵
+titleAz: Qəzəl 105
+titleRu: Газель 105
 titleFa: شمارهٔ ۱۰۵
+titleEn: Ghazal 105
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

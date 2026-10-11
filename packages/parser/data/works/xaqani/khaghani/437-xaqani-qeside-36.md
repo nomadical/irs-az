@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-36
 sourceId: ganjoor-14806
-titleAz: شمارهٔ ۳۶ - قصیده
+titleAz: Qəsidə 36
+titleRu: Касыда 36
 titleFa: شمارهٔ ۳۶ - قصیده
+titleEn: Qasida 36
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

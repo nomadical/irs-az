@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-292
 sourceId: ganjoor-14661
-titleAz: غزل شمارهٔ ۲۹۲
+titleAz: Qəzəl 292
+titleRu: Газель 292
 titleFa: غزل شمارهٔ ۲۹۲
+titleEn: Ghazal 292
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

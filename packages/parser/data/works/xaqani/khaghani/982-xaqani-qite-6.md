@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-6
 sourceId: ganjoor-27669
-titleAz: شمارهٔ ۶
+titleAz: Qitə 6
+titleRu: Кыта 6
 titleFa: شمارهٔ ۶
+titleEn: Qit'a 6
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

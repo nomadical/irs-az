@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-188
 sourceId: ganjoor-14557
-titleAz: غزل شمارهٔ ۱۸۸
+titleAz: Qəzəl 188
+titleRu: Газель 188
 titleFa: غزل شمارهٔ ۱۸۸
+titleEn: Ghazal 188
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

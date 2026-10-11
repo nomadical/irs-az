@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-43
 sourceId: ganjoor-9255
-titleAz: بخش ۴۳ - انجامش روزگار هرمس
+titleAz: 'İqbalnamə, fəsil 43'
+titleRu: 'Икбал-наме, глава 43'
 titleFa: بخش ۴۳ - انجامش روزگار هرمس
+titleEn: 'Iqbalnama, chapter 43'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

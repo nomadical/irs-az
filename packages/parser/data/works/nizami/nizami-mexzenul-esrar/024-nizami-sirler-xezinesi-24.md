@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-24
 sourceId: ganjoor-9286
-titleAz: بخش ۲۴ - مقالت سوم در حوادث عالم
+titleAz: 'Sirlər xəzinəsi, fəsil 24'
+titleRu: 'Сокровищница тайн, глава 24'
 titleFa: بخش ۲۴ - مقالت سوم در حوادث عالم
+titleEn: 'The Treasury of Mysteries, chapter 24'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-217
 sourceId: ganjoor-14987
-titleAz: شمارهٔ ۲۱۷ - در مذمت آب و هوای ری گوید
+titleAz: Qəsidə 217
+titleRu: Касыда 217
 titleFa: شمارهٔ ۲۱۷ - در مذمت آب و هوای ری گوید
+titleEn: Qasida 217
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

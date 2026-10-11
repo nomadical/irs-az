@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-237
 sourceId: ganjoor-117532
-titleAz: شمارهٔ ۲۳۷
+titleAz: Qəzəl 237
+titleRu: Газель 237
 titleFa: شمارهٔ ۲۳۷
+titleEn: Ghazal 237
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-91
 sourceId: ganjoor-14460
-titleAz: غزل شمارهٔ ۹۱
+titleAz: Qəzəl 91
+titleRu: Газель 91
 titleFa: غزل شمارهٔ ۹۱
+titleEn: Ghazal 91
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

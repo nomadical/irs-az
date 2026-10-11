@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-321
 sourceId: ganjoor-27984
-titleAz: شمارهٔ ۳۲۱ - شکرانهٔ صلت اسپهبد کیالواشیر
+titleAz: Qitə 321
+titleRu: Кыта 321
 titleFa: شمارهٔ ۳۲۱ - شکرانهٔ صلت اسپهبد کیالواشیر
+titleEn: Qit'a 321
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

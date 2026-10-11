@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-315
 sourceId: ganjoor-117021
-titleAz: شمارهٔ ۳۱۵
+titleAz: Qəzəl 315
+titleRu: Газель 315
 titleFa: شمارهٔ ۳۱۵
+titleEn: Ghazal 315
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

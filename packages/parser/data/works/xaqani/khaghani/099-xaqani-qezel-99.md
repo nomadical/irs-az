@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-99
 sourceId: ganjoor-14468
-titleAz: غزل شمارهٔ ۹۹
+titleAz: Qəzəl 99
+titleRu: Газель 99
 titleFa: غزل شمارهٔ ۹۹
+titleEn: Ghazal 99
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

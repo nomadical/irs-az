@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-51
 sourceId: ganjoor-15046
-titleAz: رباعی شمارهٔ   ۵۱
+titleAz: Rübai 51
+titleRu: Рубаи 51
 titleFa: رباعی شمارهٔ   ۵۱
+titleEn: Rubai 51
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

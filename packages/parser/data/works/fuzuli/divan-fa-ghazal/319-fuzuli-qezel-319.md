@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-319
 sourceId: ganjoor-117025
-titleAz: شمارهٔ ۳۱۹
+titleAz: Qəzəl 319
+titleRu: Газель 319
 titleFa: شمارهٔ ۳۱۹
+titleEn: Ghazal 319
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

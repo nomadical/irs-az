@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-94
 sourceId: ganjoor-117258
-titleAz: شمارهٔ ۹۴
+titleAz: Rübai 94
+titleRu: Рубаи 94
 titleFa: شمارهٔ ۹۴
+titleEn: Rubai 94
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

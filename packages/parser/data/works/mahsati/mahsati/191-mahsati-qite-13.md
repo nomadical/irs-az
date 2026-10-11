@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-13
 sourceId: ganjoor-133917
-titleAz: شمارهٔ  ۱۳
+titleAz: Qitə 13
+titleRu: Кыта 13
 titleFa: شمارهٔ  ۱۳
+titleEn: Qit'a 13
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

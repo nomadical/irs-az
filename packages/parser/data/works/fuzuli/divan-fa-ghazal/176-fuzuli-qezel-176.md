@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-176
 sourceId: ganjoor-116882
-titleAz: شمارهٔ ۱۷۶
+titleAz: Qəzəl 176
+titleRu: Газель 176
 titleFa: شمارهٔ ۱۷۶
+titleEn: Ghazal 176
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

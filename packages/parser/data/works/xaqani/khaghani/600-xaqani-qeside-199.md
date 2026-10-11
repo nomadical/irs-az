@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-199
 sourceId: ganjoor-14969
-titleAz: شمارهٔ ۱۹۹ - در مدح صفوة الدین بانو و بیان توفیق ادای حج او
+titleAz: Qəsidə 199
+titleRu: Касыда 199
 titleFa: شمارهٔ ۱۹۹ - در مدح صفوة الدین بانو و بیان توفیق ادای حج او
+titleEn: Qasida 199
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

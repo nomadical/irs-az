@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-22
 sourceId: ganjoor-50082
-titleAz: رباعی شمارۀ ۲۲
+titleAz: 'Rübailər, 22'
+titleRu: 'Рубайят, 22'
 titleFa: رباعی شمارۀ ۲۲
+titleEn: 'Rubaiyat, 22'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

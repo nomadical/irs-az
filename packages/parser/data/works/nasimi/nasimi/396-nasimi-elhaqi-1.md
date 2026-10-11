@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elhaqi-1
 sourceId: ganjoor-117696
-titleAz: شمارهٔ ۱
+titleAz: Ona aid edilən şeir 1
+titleRu: Приписываемое стихотворение 1
 titleFa: شمارهٔ ۱
+titleEn: Attributed poem 1
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

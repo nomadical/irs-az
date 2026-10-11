@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-168
 sourceId: ganjoor-117463
-titleAz: شمارهٔ ۱۶۸
+titleAz: Qəzəl 168
+titleRu: Газель 168
 titleFa: شمارهٔ ۱۶۸
+titleEn: Ghazal 168
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

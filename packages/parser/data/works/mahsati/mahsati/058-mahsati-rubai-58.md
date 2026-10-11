@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-58
 sourceId: ganjoor-133782
-titleAz: شمارهٔ ۵۸
+titleAz: Rübai 58
+titleRu: Рубаи 58
 titleFa: شمارهٔ ۵۸
+titleEn: Rubai 58
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

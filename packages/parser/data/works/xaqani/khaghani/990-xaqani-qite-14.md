@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-14
 sourceId: ganjoor-27677
-titleAz: شمارهٔ ۱۴
+titleAz: Qitə 14
+titleRu: Кыта 14
 titleFa: شمارهٔ ۱۴
+titleEn: Qit'a 14
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

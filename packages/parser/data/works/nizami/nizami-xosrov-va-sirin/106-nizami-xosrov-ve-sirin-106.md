@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-106
 sourceId: ganjoor-8970
-titleAz: بخش ۱۰۶ - تمثیل موبد سوم
+titleAz: 'Xosrov və Şirin, fəsil 106'
+titleRu: 'Хосров и Ширин, глава 106'
 titleFa: بخش ۱۰۶ - تمثیل موبد سوم
+titleEn: 'Khosrow and Shirin, chapter 106'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

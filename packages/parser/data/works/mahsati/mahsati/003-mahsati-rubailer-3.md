@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-3
 sourceId: ganjoor-50063
-titleAz: رباعی شمارۀ ۳
+titleAz: 'Rübailər, 3'
+titleRu: 'Рубайят, 3'
 titleFa: رباعی شمارۀ ۳
+titleEn: 'Rubaiyat, 3'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

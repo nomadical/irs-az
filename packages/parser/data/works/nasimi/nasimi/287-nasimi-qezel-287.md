@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-287
 sourceId: ganjoor-117582
-titleAz: شمارهٔ ۲۸۷
+titleAz: Qəzəl 287
+titleRu: Газель 287
 titleFa: شمارهٔ ۲۸۷
+titleEn: Ghazal 287
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

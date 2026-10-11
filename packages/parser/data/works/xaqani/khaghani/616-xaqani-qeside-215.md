@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-215
 sourceId: ganjoor-14985
-titleAz: شمارهٔ ۲۱۵ - در مدح ابوالمظفر جلال الدین شروان‌شاه اخستان
+titleAz: Qəsidə 215
+titleRu: Касыда 215
 titleFa: شمارهٔ ۲۱۵ - در مدح ابوالمظفر جلال الدین شروان‌شاه اخستان
+titleEn: Qasida 215
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

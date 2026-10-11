@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-10
 sourceId: ganjoor-9012
-titleAz: بخش ۱۰ - یاد کردن بعضی از گذشتگان خویش
+titleAz: 'Leyli və Məcnun, fəsil 10'
+titleRu: 'Лейли и Меджнун, глава 10'
 titleFa: بخش ۱۰ - یاد کردن بعضی از گذشتگان خویش
+titleEn: 'Layla and Majnun, chapter 10'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

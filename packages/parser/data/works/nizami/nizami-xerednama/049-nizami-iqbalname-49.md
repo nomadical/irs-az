@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-49
 sourceId: ganjoor-9261
-titleAz: بخش ۴۹ - ستایش ملک عز الدین مسعود بن ارسلان
+titleAz: 'İqbalnamə, fəsil 49'
+titleRu: 'Икбал-наме, глава 49'
 titleFa: بخش ۴۹ - ستایش ملک عز الدین مسعود بن ارسلان
+titleEn: 'Iqbalnama, chapter 49'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

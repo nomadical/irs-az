@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-231
 sourceId: ganjoor-27894
-titleAz: شمارهٔ ۲۳۱ - در مدح تاج الدین
+titleAz: Qitə 231
+titleRu: Кыта 231
 titleFa: شمارهٔ ۲۳۱ - در مدح تاج الدین
+titleEn: Qit'a 231
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

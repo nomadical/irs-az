@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-184
 sourceId: ganjoor-15179
-titleAz: رباعی شمارهٔ   ۱۸۴
+titleAz: Rübai 184
+titleRu: Рубаи 184
 titleFa: رباعی شمارهٔ   ۱۸۴
+titleEn: Rubai 184
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

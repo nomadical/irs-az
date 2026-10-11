@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-65
 sourceId: ganjoor-8929
-titleAz: بخش ۶۵ - شنیدن خسرو از اوصاف شِکر خانمِ اسپهانی (اصفهانی)
+titleAz: 'Xosrov və Şirin, fəsil 65'
+titleRu: 'Хосров и Ширин, глава 65'
 titleFa: بخش ۶۵ - شنیدن خسرو از اوصاف شِکر خانمِ اسپهانی (اصفهانی)
+titleEn: 'Khosrow and Shirin, chapter 65'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

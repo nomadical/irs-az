@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-116
 sourceId: ganjoor-50176
-titleAz: رباعی شمارۀ ۱۱۶
+titleAz: 'Rübailər, 116'
+titleRu: 'Рубайят, 116'
 titleFa: رباعی شمارۀ ۱۱۶
+titleEn: 'Rubaiyat, 116'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

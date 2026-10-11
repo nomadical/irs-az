@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-6
 sourceId: ganjoor-9008
-titleAz: بخش ۶ - خطاب زمین بوس
+titleAz: 'Leyli və Məcnun, fəsil 6'
+titleRu: 'Лейли и Меджнун, глава 6'
 titleFa: بخش ۶ - خطاب زمین بوس
+titleEn: 'Layla and Majnun, chapter 6'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-227
 sourceId: ganjoor-14596
-titleAz: غزل شمارهٔ ۲۲۷
+titleAz: Qəzəl 227
+titleRu: Газель 227
 titleFa: غزل شمارهٔ ۲۲۷
+titleEn: Ghazal 227
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

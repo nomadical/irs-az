@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-21
 sourceId: ganjoor-9170
-titleAz: بخش ۲۱ - شتافتن اسکندر به جنگ دارا
+titleAz: 'Şərəfnamə, fəsil 21'
+titleRu: 'Шараф-наме, глава 21'
 titleFa: بخش ۲۱ - شتافتن اسکندر به جنگ دارا
+titleEn: 'Sharafnama, chapter 21'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

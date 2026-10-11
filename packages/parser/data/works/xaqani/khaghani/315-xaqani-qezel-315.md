@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-315
 sourceId: ganjoor-14684
-titleAz: غزل شمارهٔ ۳۱۵
+titleAz: Qəzəl 315
+titleRu: Газель 315
 titleFa: غزل شمارهٔ ۳۱۵
+titleEn: Ghazal 315
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

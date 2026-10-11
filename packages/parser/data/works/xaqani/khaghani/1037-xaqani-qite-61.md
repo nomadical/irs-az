@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-61
 sourceId: ganjoor-27724
-titleAz: شمارهٔ ۶۱ - در علم و جهل
+titleAz: Qitə 61
+titleRu: Кыта 61
 titleFa: شمارهٔ ۶۱ - در علم و جهل
+titleEn: Qit'a 61
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

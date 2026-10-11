@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-35
 sourceId: ganjoor-133759
-titleAz: شمارهٔ ۳۵
+titleAz: Rübai 35
+titleRu: Рубаи 35
 titleFa: شمارهٔ ۳۵
+titleEn: Rubai 35
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-180
 sourceId: ganjoor-116886
-titleAz: شمارهٔ ۱۸۰
+titleAz: Qəzəl 180
+titleRu: Газель 180
 titleFa: شمارهٔ ۱۸۰
+titleEn: Ghazal 180
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

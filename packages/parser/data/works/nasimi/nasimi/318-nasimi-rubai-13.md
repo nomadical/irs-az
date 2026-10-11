@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-13
 sourceId: ganjoor-117616
-titleAz: شمارهٔ ۱۳
+titleAz: Rübai 13
+titleRu: Рубаи 13
 titleFa: شمارهٔ ۱۳
+titleEn: Rubai 13
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

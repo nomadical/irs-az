@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-119
 sourceId: ganjoor-14488
-titleAz: غزل شمارهٔ ۱۱۹
+titleAz: Qəzəl 119
+titleRu: Газель 119
 titleFa: غزل شمارهٔ ۱۱۹
+titleEn: Ghazal 119
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

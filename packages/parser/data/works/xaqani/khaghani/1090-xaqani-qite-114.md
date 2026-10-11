@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-114
 sourceId: ganjoor-27777
-titleAz: شمارهٔ ۱۱۴
+titleAz: Qitə 114
+titleRu: Кыта 114
 titleFa: شمارهٔ ۱۱۴
+titleEn: Qit'a 114
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

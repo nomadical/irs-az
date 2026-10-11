@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-56
 sourceId: ganjoor-9205
-titleAz: بخش ۵۶ - پیروزی یافتن اسکندر بر روسیان
+titleAz: 'Şərəfnamə, fəsil 56'
+titleRu: 'Шараф-наме, глава 56'
 titleFa: بخش ۵۶ - پیروزی یافتن اسکندر بر روسیان
+titleEn: 'Sharafnama, chapter 56'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-328
 sourceId: ganjoor-27991
-titleAz: شمارهٔ ۳۲۸ - در مدح عز الدین امیر یوسف سپه سالار
+titleAz: Qitə 328
+titleRu: Кыта 328
 titleFa: شمارهٔ ۳۲۸ - در مدح عز الدین امیر یوسف سپه سالار
+titleEn: Qit'a 328
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-47
 sourceId: ganjoor-117342
-titleAz: شمارهٔ ۴۷
+titleAz: Qəzəl 47
+titleRu: Газель 47
 titleFa: شمارهٔ ۴۷
+titleEn: Ghazal 47
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

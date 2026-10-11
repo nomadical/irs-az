@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-279
 sourceId: ganjoor-117574
-titleAz: شمارهٔ ۲۷۹
+titleAz: Qəzəl 279
+titleRu: Газель 279
 titleFa: شمارهٔ ۲۷۹
+titleEn: Ghazal 279
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

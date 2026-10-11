@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-160
 sourceId: ganjoor-27823
-titleAz: شمارهٔ ۱۶۰
+titleAz: Qitə 160
+titleRu: Кыта 160
 titleFa: شمارهٔ ۱۶۰
+titleEn: Qit'a 160
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

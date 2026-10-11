@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-14
 sourceId: ganjoor-15009
-titleAz: رباعی شمارهٔ   ۱۴
+titleAz: Rübai 14
+titleRu: Рубаи 14
 titleFa: رباعی شمارهٔ   ۱۴
+titleEn: Rubai 14
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

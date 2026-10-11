@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-400
 sourceId: ganjoor-14769
-titleAz: غزل شمارهٔ ۴۰۰
+titleAz: Qəzəl 400
+titleRu: Газель 400
 titleFa: غزل شمارهٔ ۴۰۰
+titleEn: Ghazal 400
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

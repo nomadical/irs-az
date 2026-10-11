@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-7
 sourceId: ganjoor-9009
-titleAz: بخش ۷ - سپردن فرزند خویش به فرزند شروانشاه
+titleAz: 'Leyli və Məcnun, fəsil 7'
+titleRu: 'Лейли и Меджнун, глава 7'
 titleFa: بخش ۷ - سپردن فرزند خویش به فرزند شروانشاه
+titleEn: 'Layla and Majnun, chapter 7'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

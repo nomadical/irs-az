@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-159
 sourceId: ganjoor-27822
-titleAz: شمارهٔ ۱۵۹
+titleAz: Qitə 159
+titleRu: Кыта 159
 titleFa: شمارهٔ ۱۵۹
+titleEn: Qit'a 159
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

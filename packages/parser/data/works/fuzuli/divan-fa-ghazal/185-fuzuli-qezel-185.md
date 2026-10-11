@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-185
 sourceId: ganjoor-116891
-titleAz: شمارهٔ ۱۸۵
+titleAz: Qəzəl 185
+titleRu: Газель 185
 titleFa: شمارهٔ ۱۸۵
+titleEn: Ghazal 185
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

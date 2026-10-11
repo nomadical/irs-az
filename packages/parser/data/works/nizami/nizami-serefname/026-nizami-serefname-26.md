@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-26
 sourceId: ganjoor-9175
-titleAz: بخش ۲۶ - کشتن سرهنگان دارا را
+titleAz: 'Şərəfnamə, fəsil 26'
+titleRu: 'Шараф-наме, глава 26'
 titleFa: بخش ۲۶ - کشتن سرهنگان دارا را
+titleEn: 'Sharafnama, chapter 26'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

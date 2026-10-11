@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-17
 sourceId: ganjoor-9019
-titleAz: بخش ۱۷ - پند دادن پدر مجنون را
+titleAz: 'Leyli və Məcnun, fəsil 17'
+titleRu: 'Лейли и Меджнун, глава 17'
 titleFa: بخش ۱۷ - پند دادن پدر مجنون را
+titleEn: 'Layla and Majnun, chapter 17'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

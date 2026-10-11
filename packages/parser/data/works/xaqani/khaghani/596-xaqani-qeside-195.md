@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-195
 sourceId: ganjoor-14965
-titleAz: شمارهٔ ۱۹۵ - مطلع سوم
+titleAz: Qəsidə 195
+titleRu: Касыда 195
 titleFa: شمارهٔ ۱۹۵ - مطلع سوم
+titleEn: Qasida 195
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

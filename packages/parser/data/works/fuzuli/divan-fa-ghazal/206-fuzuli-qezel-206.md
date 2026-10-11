@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-206
 sourceId: ganjoor-116912
-titleAz: شمارهٔ ۲۰۶
+titleAz: Qəzəl 206
+titleRu: Газель 206
 titleFa: شمارهٔ ۲۰۶
+titleEn: Ghazal 206
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

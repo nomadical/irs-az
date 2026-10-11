@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-219
 sourceId: ganjoor-14989
-titleAz: شمارهٔ ۲۱۹ - در مرثیهٔ وحید الدین شروانی
+titleAz: Qəsidə 219
+titleRu: Касыда 219
 titleFa: شمارهٔ ۲۱۹ - در مرثیهٔ وحید الدین شروانی
+titleEn: Qasida 219
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

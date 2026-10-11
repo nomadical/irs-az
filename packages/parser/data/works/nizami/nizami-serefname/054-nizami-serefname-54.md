@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-54
 sourceId: ganjoor-9203
-titleAz: بخش ۵۴ - جنگ ششم اسکندر با روسیان
+titleAz: 'Şərəfnamə, fəsil 54'
+titleRu: 'Шараф-наме, глава 54'
 titleFa: بخش ۵۴ - جنگ ششم اسکندر با روسیان
+titleEn: 'Sharafnama, chapter 54'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

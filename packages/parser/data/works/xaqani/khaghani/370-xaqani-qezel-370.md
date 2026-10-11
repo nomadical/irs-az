@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-370
 sourceId: ganjoor-14739
-titleAz: غزل شمارهٔ ۳۷۰
+titleAz: Qəzəl 370
+titleRu: Газель 370
 titleFa: غزل شمارهٔ ۳۷۰
+titleEn: Ghazal 370
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

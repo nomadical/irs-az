@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-1
 sourceId: ganjoor-117296
-titleAz: شمارهٔ ۱
+titleAz: Qəzəl 1
+titleRu: Газель 1
 titleFa: شمارهٔ ۱
+titleEn: Ghazal 1
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

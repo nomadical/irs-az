@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-79
 sourceId: ganjoor-14448
-titleAz: غزل شمارهٔ ۷۹
+titleAz: Qəzəl 79
+titleRu: Газель 79
 titleFa: غزل شمارهٔ ۷۹
+titleEn: Ghazal 79
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

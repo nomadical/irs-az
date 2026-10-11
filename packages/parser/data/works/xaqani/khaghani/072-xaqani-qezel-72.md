@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-72
 sourceId: ganjoor-14441
-titleAz: غزل شمارهٔ ۷۲
+titleAz: Qəzəl 72
+titleRu: Газель 72
 titleFa: غزل شمارهٔ ۷۲
+titleEn: Ghazal 72
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

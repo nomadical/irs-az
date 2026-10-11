@@ -1,12 +1,12 @@
 ---
 slug: xaqani-qeside-55
 sourceId: ganjoor-14825
-titleAz: >-
-  شمارهٔ ۵۵ - وقتی او را از رفتن به خراسان منع می‌کردند مشتاقانه این قصیدهٔ را
-  سرود
+titleAz: Qəsidə 55
+titleRu: Касыда 55
 titleFa: >-
   شمارهٔ ۵۵ - وقتی او را از رفتن به خراسان منع می‌کردند مشتاقانه این قصیدهٔ را
   سرود
+titleEn: Qasida 55
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

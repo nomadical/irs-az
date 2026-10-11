@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-243
 sourceId: ganjoor-27906
-titleAz: شمارهٔ ۲۴۳ - در مرثیهٔ رشید الدین فرزند خود
+titleAz: Qitə 243
+titleRu: Кыта 243
 titleFa: شمارهٔ ۲۴۳ - در مرثیهٔ رشید الدین فرزند خود
+titleEn: Qit'a 243
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

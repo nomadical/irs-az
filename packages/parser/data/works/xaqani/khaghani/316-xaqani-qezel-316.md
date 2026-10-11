@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-316
 sourceId: ganjoor-14685
-titleAz: غزل شمارهٔ ۳۱۶
+titleAz: Qəzəl 316
+titleRu: Газель 316
 titleFa: غزل شمارهٔ ۳۱۶
+titleEn: Ghazal 316
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

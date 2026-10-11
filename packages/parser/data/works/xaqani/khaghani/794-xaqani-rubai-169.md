@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-169
 sourceId: ganjoor-15164
-titleAz: رباعی شمارهٔ   ۱۶۹
+titleAz: Rübai 169
+titleRu: Рубаи 169
 titleFa: رباعی شمارهٔ   ۱۶۹
+titleEn: Rubai 169
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

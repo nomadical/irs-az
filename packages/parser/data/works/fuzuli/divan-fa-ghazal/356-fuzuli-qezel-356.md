@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-356
 sourceId: ganjoor-117062
-titleAz: شمارهٔ ۳۵۶
+titleAz: Qəzəl 356
+titleRu: Газель 356
 titleFa: شمارهٔ ۳۵۶
+titleEn: Ghazal 356
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-135
 sourceId: ganjoor-117430
-titleAz: شمارهٔ ۱۳۵
+titleAz: Qəzəl 135
+titleRu: Газель 135
 titleFa: شمارهٔ ۱۳۵
+titleEn: Ghazal 135
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

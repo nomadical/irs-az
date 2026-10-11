@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-193
 sourceId: ganjoor-15188
-titleAz: رباعی شمارهٔ   ۱۹۳
+titleAz: Rübai 193
+titleRu: Рубаи 193
 titleFa: رباعی شمارهٔ   ۱۹۳
+titleEn: Rubai 193
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

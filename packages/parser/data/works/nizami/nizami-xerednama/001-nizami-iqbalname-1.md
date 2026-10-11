@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-1
 sourceId: ganjoor-9213
-titleAz: بخش ۱ - به نام ایزد بخشاینده
+titleAz: 'İqbalnamə, fəsil 1'
+titleRu: 'Икбал-наме, глава 1'
 titleFa: بخش ۱ - به نام ایزد بخشاینده
+titleEn: 'Iqbalnama, chapter 1'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

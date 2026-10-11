@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-17
 sourceId: ganjoor-116673
-titleAz: شمارهٔ ۱۷
+titleAz: Qəsidə 17
+titleRu: Касыда 17
 titleFa: شمارهٔ ۱۷
+titleEn: Qasida 17
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

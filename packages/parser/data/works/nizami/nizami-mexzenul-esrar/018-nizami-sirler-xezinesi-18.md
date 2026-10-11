@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-18
 sourceId: ganjoor-9280
-titleAz: بخش ۱۸ - خلوت دوم در عشرت شبانه
+titleAz: 'Sirlər xəzinəsi, fəsil 18'
+titleRu: 'Сокровищница тайн, глава 18'
 titleFa: بخش ۱۸ - خلوت دوم در عشرت شبانه
+titleEn: 'The Treasury of Mysteries, chapter 18'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

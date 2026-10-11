@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-334
 sourceId: ganjoor-27997
-titleAz: شمارهٔ ۳۳۴ - شعر قاضی تنوخی
+titleAz: Qitə 334
+titleRu: Кыта 334
 titleFa: شمارهٔ ۳۳۴ - شعر قاضی تنوخی
+titleEn: Qit'a 334
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

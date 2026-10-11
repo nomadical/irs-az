@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-98
 sourceId: ganjoor-116804
-titleAz: شمارهٔ ۹۸
+titleAz: Qəzəl 98
+titleRu: Газель 98
 titleFa: شمارهٔ ۹۸
+titleEn: Ghazal 98
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

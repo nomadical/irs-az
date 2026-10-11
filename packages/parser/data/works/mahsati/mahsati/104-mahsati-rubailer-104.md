@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-104
 sourceId: ganjoor-50164
-titleAz: رباعی شمارۀ ۱۰۴
+titleAz: 'Rübailər, 104'
+titleRu: 'Рубайят, 104'
 titleFa: رباعی شمارۀ ۱۰۴
+titleEn: 'Rubaiyat, 104'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

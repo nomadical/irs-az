@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-56
 sourceId: ganjoor-117220
-titleAz: شمارهٔ ۵۶
+titleAz: Rübai 56
+titleRu: Рубаи 56
 titleFa: شمارهٔ ۵۶
+titleEn: Rubai 56
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

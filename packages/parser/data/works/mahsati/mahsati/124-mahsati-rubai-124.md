@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-124
 sourceId: ganjoor-133848
-titleAz: شمارهٔ ۱۲۴
+titleAz: Rübai 124
+titleRu: Рубаи 124
 titleFa: شمارهٔ ۱۲۴
+titleEn: Rubai 124
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

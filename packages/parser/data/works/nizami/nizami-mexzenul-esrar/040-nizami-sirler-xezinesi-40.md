@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-40
 sourceId: ganjoor-9302
-titleAz: بخش ۴۰ - مقالت یازدهم در بی‌وفایی دنیا
+titleAz: 'Sirlər xəzinəsi, fəsil 40'
+titleRu: 'Сокровищница тайн, глава 40'
 titleFa: بخش ۴۰ - مقالت یازدهم در بی‌وفایی دنیا
+titleEn: 'The Treasury of Mysteries, chapter 40'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

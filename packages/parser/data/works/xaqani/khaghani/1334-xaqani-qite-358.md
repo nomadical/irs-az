@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-358
 sourceId: ganjoor-28021
-titleAz: شمارهٔ ۳۵۸
+titleAz: Qitə 358
+titleRu: Кыта 358
 titleFa: شمارهٔ ۳۵۸
+titleEn: Qit'a 358
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

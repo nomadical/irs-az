@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-5
 sourceId: ganjoor-133909
-titleAz: شمارهٔ  ۵
+titleAz: Qitə 5
+titleRu: Кыта 5
 titleFa: شمارهٔ  ۵
+titleEn: Qit'a 5
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

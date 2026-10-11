@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-391
 sourceId: ganjoor-117097
-titleAz: شمارهٔ ۳۹۱
+titleAz: Qəzəl 391
+titleRu: Газель 391
 titleFa: شمارهٔ ۳۹۱
+titleEn: Ghazal 391
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

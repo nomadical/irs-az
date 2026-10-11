@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-149
 sourceId: ganjoor-117444
-titleAz: شمارهٔ ۱۴۹
+titleAz: Qəzəl 149
+titleRu: Газель 149
 titleFa: شمارهٔ ۱۴۹
+titleEn: Ghazal 149
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

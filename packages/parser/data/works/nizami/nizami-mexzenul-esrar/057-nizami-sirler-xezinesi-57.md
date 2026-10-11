@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-57
 sourceId: ganjoor-9319
-titleAz: بخش ۵۷ - داستان هارون‌الرشید با موی‌تراش
+titleAz: 'Sirlər xəzinəsi, fəsil 57'
+titleRu: 'Сокровищница тайн, глава 57'
 titleFa: بخش ۵۷ - داستان هارون‌الرشید با موی‌تراش
+titleEn: 'The Treasury of Mysteries, chapter 57'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

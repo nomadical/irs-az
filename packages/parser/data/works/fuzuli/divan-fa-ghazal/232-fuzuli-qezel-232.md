@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-232
 sourceId: ganjoor-116938
-titleAz: شمارهٔ ۲۳۲
+titleAz: Qəzəl 232
+titleRu: Газель 232
 titleFa: شمارهٔ ۲۳۲
+titleEn: Ghazal 232
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

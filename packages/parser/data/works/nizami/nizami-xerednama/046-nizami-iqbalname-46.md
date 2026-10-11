@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-46
 sourceId: ganjoor-9258
-titleAz: بخش ۴۶ - انجامش روزگار فرفوریوس
+titleAz: 'İqbalnamə, fəsil 46'
+titleRu: 'Икбал-наме, глава 46'
 titleFa: بخش ۴۶ - انجامش روزگار فرفوریوس
+titleEn: 'Iqbalnama, chapter 46'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

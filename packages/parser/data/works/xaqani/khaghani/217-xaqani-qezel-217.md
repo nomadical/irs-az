@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-217
 sourceId: ganjoor-14586
-titleAz: غزل شمارهٔ ۲۱۷
+titleAz: Qəzəl 217
+titleRu: Газель 217
 titleFa: غزل شمارهٔ ۲۱۷
+titleEn: Ghazal 217
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

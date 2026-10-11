@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-24
 sourceId: ganjoor-133748
-titleAz: شمارهٔ ۲۴
+titleAz: Rübai 24
+titleRu: Рубаи 24
 titleFa: شمارهٔ ۲۴
+titleEn: Rubai 24
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-3
 sourceId: ganjoor-116709
-titleAz: شمارهٔ ۳
+titleAz: Qəzəl 3
+titleRu: Газель 3
 titleFa: شمارهٔ ۳
+titleEn: Ghazal 3
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

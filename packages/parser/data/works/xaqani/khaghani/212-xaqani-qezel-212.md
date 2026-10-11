@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-212
 sourceId: ganjoor-14581
-titleAz: غزل شمارهٔ ۲۱۲
+titleAz: Qəzəl 212
+titleRu: Газель 212
 titleFa: غزل شمارهٔ ۲۱۲
+titleEn: Ghazal 212
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

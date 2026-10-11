@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-288
 sourceId: ganjoor-14657
-titleAz: غزل شمارهٔ ۲۸۸
+titleAz: Qəzəl 288
+titleRu: Газель 288
 titleFa: غزل شمارهٔ ۲۸۸
+titleEn: Ghazal 288
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

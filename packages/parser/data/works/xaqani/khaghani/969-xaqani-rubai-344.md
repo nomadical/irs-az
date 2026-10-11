@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-344
 sourceId: ganjoor-15339
-titleAz: رباعی شمارهٔ   ۳۴۴
+titleAz: Rübai 344
+titleRu: Рубаи 344
 titleFa: رباعی شمارهٔ   ۳۴۴
+titleEn: Rubai 344
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

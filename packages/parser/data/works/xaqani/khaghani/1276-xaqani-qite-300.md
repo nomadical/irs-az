@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-300
 sourceId: ganjoor-27963
-titleAz: شمارهٔ ۳۰۰
+titleAz: Qitə 300
+titleRu: Кыта 300
 titleFa: شمارهٔ ۳۰۰
+titleEn: Qit'a 300
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

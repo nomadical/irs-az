@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-70
 sourceId: ganjoor-14840
-titleAz: شمارهٔ ۷۰ - در ستایش مظفر الدین قزل ارسلان ایلدگز
+titleAz: Qəsidə 70
+titleRu: Касыда 70
 titleFa: شمارهٔ ۷۰ - در ستایش مظفر الدین قزل ارسلان ایلدگز
+titleEn: Qasida 70
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

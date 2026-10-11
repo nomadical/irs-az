@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-64
 sourceId: ganjoor-117667
-titleAz: شمارهٔ ۶۴
+titleAz: Rübai 64
+titleRu: Рубаи 64
 titleFa: شمارهٔ ۶۴
+titleEn: Rubai 64
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

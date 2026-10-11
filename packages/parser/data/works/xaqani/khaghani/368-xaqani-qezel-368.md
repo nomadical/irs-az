@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-368
 sourceId: ganjoor-14737
-titleAz: غزل شمارهٔ ۳۶۸
+titleAz: Qəzəl 368
+titleRu: Газель 368
 titleFa: غزل شمارهٔ ۳۶۸
+titleEn: Ghazal 368
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-349
 sourceId: ganjoor-14718
-titleAz: غزل شمارهٔ ۳۴۹
+titleAz: Qəzəl 349
+titleRu: Газель 349
 titleFa: غزل شمارهٔ ۳۴۹
+titleEn: Ghazal 349
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

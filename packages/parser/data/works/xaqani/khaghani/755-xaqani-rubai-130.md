@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-130
 sourceId: ganjoor-15125
-titleAz: رباعی شمارهٔ   ۱۳۰
+titleAz: Rübai 130
+titleRu: Рубаи 130
 titleFa: رباعی شمارهٔ   ۱۳۰
+titleEn: Rubai 130
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

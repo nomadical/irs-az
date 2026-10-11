@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elhaqi-3
 sourceId: ganjoor-117698
-titleAz: شمارهٔ ۳
+titleAz: Ona aid edilən şeir 3
+titleRu: Приписываемое стихотворение 3
 titleFa: شمارهٔ ۳
+titleEn: Attributed poem 3
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

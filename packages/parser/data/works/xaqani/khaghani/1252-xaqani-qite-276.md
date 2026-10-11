@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-276
 sourceId: ganjoor-27939
-titleAz: شمارهٔ ۲۷۶ - در موعظه
+titleAz: Qitə 276
+titleRu: Кыта 276
 titleFa: شمارهٔ ۲۷۶ - در موعظه
+titleEn: Qit'a 276
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

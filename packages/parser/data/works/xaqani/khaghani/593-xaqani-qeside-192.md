@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-192
 sourceId: ganjoor-14962
-titleAz: شمارهٔ ۱۹۲ - مطلع سوم
+titleAz: Qəsidə 192
+titleRu: Касыда 192
 titleFa: شمارهٔ ۱۹۲ - مطلع سوم
+titleEn: Qasida 192
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

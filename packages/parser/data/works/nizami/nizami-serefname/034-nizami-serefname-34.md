@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-34
 sourceId: ganjoor-9183
-titleAz: بخش ۳۴ - بزم اسکندر با نوشابه
+titleAz: 'Şərəfnamə, fəsil 34'
+titleRu: 'Шараф-наме, глава 34'
 titleFa: بخش ۳۴ - بزم اسکندر با نوشابه
+titleEn: 'Sharafnama, chapter 34'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

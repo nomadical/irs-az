@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-143
 sourceId: ganjoor-14913
-titleAz: شمارهٔ ۱۴۳ - مطلع دوم
+titleAz: Qəsidə 143
+titleRu: Касыда 143
 titleFa: شمارهٔ ۱۴۳ - مطلع دوم
+titleEn: Qasida 143
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

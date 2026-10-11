@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-10
 sourceId: ganjoor-117709
-titleAz: شمارهٔ ۱۰ - ماده تاریخ قتل فضل الله
+titleAz: Əlavə 10
+titleRu: Дополнение 10
 titleFa: شمارهٔ ۱۰ - ماده تاریخ قتل فضل الله
+titleEn: Addendum 10
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

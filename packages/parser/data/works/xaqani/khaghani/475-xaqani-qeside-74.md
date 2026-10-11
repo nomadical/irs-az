@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-74
 sourceId: ganjoor-14844
-titleAz: شمارهٔ ۷۴ - قصیده
+titleAz: Qəsidə 74
+titleRu: Касыда 74
 titleFa: شمارهٔ ۷۴ - قصیده
+titleEn: Qasida 74
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

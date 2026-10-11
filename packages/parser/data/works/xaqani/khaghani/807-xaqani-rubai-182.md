@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-182
 sourceId: ganjoor-15177
-titleAz: رباعی شمارهٔ   ۱۸۲
+titleAz: Rübai 182
+titleRu: Рубаи 182
 titleFa: رباعی شمارهٔ   ۱۸۲
+titleEn: Rubai 182
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

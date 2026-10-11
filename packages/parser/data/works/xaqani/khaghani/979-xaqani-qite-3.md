@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-3
 sourceId: ganjoor-27666
-titleAz: شمارهٔ ۳ - در شکایت و حکمت
+titleAz: Qitə 3
+titleRu: Кыта 3
 titleFa: شمارهٔ ۳ - در شکایت و حکمت
+titleEn: Qit'a 3
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

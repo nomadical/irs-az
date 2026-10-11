@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-350
 sourceId: ganjoor-15345
-titleAz: رباعی شمارهٔ   ۳۵۰
+titleAz: Rübai 350
+titleRu: Рубаи 350
 titleFa: رباعی شمارهٔ   ۳۵۰
+titleEn: Rubai 350
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-161
 sourceId: ganjoor-50221
-titleAz: رباعی شمارۀ ۱۶۱
+titleAz: 'Rübailər, 161'
+titleRu: 'Рубайят, 161'
 titleFa: رباعی شمارۀ ۱۶۱
+titleEn: 'Rubaiyat, 161'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

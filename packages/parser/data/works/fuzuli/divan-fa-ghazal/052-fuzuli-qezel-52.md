@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-52
 sourceId: ganjoor-116758
-titleAz: شمارهٔ ۵۲
+titleAz: Qəzəl 52
+titleRu: Газель 52
 titleFa: شمارهٔ ۵۲
+titleEn: Ghazal 52
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-118
 sourceId: ganjoor-14487
-titleAz: غزل شمارهٔ ۱۱۸
+titleAz: Qəzəl 118
+titleRu: Газель 118
 titleFa: غزل شمارهٔ ۱۱۸
+titleEn: Ghazal 118
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

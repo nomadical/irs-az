@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-8
 sourceId: ganjoor-9056
-titleAz: بخش ۸ - آغاز داستان بهرام
+titleAz: 'Yeddi gözəl, fəsil 8'
+titleRu: 'Семь красавиц, глава 8'
 titleFa: بخش ۸ - آغاز داستان بهرام
+titleEn: 'The Seven Beauties, chapter 8'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

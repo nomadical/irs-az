@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-240
 sourceId: ganjoor-15235
-titleAz: رباعی شمارهٔ   ۲۴۰
+titleAz: Rübai 240
+titleRu: Рубаи 240
 titleFa: رباعی شمارهٔ   ۲۴۰
+titleEn: Rubai 240
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

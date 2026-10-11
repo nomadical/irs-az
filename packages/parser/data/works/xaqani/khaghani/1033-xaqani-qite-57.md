@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-57
 sourceId: ganjoor-27720
-titleAz: شمارهٔ ۵۷ - در مرثیهٔ منوچهر شروان شاه
+titleAz: Qitə 57
+titleRu: Кыта 57
 titleFa: شمارهٔ ۵۷ - در مرثیهٔ منوچهر شروان شاه
+titleEn: Qit'a 57
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

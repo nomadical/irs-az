@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-43
 sourceId: ganjoor-117160
-titleAz: شمارهٔ ۴۳
+titleAz: Qitə 43
+titleRu: Кыта 43
 titleFa: شمارهٔ ۴۳
+titleEn: Qit'a 43
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-91
 sourceId: ganjoor-14861
-titleAz: شمارهٔ ۹۱ - مطلع دوم
+titleAz: Qəsidə 91
+titleRu: Касыда 91
 titleFa: شمارهٔ ۹۱ - مطلع دوم
+titleEn: Qasida 91
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

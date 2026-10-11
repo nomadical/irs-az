@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-262
 sourceId: ganjoor-14631
-titleAz: غزل شمارهٔ ۲۶۲
+titleAz: Qəzəl 262
+titleRu: Газель 262
 titleFa: غزل شمارهٔ ۲۶۲
+titleEn: Ghazal 262
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

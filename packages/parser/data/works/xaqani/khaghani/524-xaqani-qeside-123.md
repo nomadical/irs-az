@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-123
 sourceId: ganjoor-14893
-titleAz: شمارهٔ ۱۲۳ - مطلع سوم
+titleAz: Qəsidə 123
+titleRu: Касыда 123
 titleFa: شمارهٔ ۱۲۳ - مطلع سوم
+titleEn: Qasida 123
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

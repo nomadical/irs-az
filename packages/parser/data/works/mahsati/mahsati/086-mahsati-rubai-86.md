@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-86
 sourceId: ganjoor-133810
-titleAz: شمارهٔ ۸۶
+titleAz: Rübai 86
+titleRu: Рубаи 86
 titleFa: شمارهٔ ۸۶
+titleEn: Rubai 86
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

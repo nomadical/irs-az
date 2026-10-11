@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-95
 sourceId: ganjoor-50155
-titleAz: رباعی شمارۀ ۹۵
+titleAz: 'Rübailər, 95'
+titleRu: 'Рубайят, 95'
 titleFa: رباعی شمارۀ ۹۵
+titleEn: 'Rubaiyat, 95'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

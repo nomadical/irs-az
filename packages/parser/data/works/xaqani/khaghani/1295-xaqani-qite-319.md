@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-319
 sourceId: ganjoor-27982
-titleAz: شمارهٔ ۳۱۹
+titleAz: Qitə 319
+titleRu: Кыта 319
 titleFa: شمارهٔ ۳۱۹
+titleEn: Qit'a 319
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

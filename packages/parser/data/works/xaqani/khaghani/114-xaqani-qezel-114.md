@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-114
 sourceId: ganjoor-14483
-titleAz: غزل شمارهٔ ۱۱۴
+titleAz: Qəzəl 114
+titleRu: Газель 114
 titleFa: غزل شمارهٔ ۱۱۴
+titleEn: Ghazal 114
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

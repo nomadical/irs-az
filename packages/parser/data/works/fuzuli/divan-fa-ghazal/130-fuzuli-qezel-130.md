@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-130
 sourceId: ganjoor-116836
-titleAz: شمارهٔ ۱۳۰
+titleAz: Qəzəl 130
+titleRu: Газель 130
 titleFa: شمارهٔ ۱۳۰
+titleEn: Ghazal 130
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

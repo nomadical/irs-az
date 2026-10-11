@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-10
 sourceId: ganjoor-9222
-titleAz: بخش ۱۰ - داستان اسکندر با شبان دانا
+titleAz: 'İqbalnamə, fəsil 10'
+titleRu: 'Икбал-наме, глава 10'
 titleFa: بخش ۱۰ - داستان اسکندر با شبان دانا
+titleEn: 'Iqbalnama, chapter 10'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

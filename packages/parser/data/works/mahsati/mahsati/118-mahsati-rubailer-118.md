@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-118
 sourceId: ganjoor-50178
-titleAz: رباعی شمارۀ ۱۱۸
+titleAz: 'Rübailər, 118'
+titleRu: 'Рубайят, 118'
 titleFa: رباعی شمارۀ ۱۱۸
+titleEn: 'Rubaiyat, 118'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

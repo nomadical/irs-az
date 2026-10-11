@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-155
 sourceId: ganjoor-116861
-titleAz: شمارهٔ ۱۵۵
+titleAz: Qəzəl 155
+titleRu: Газель 155
 titleFa: شمارهٔ ۱۵۵
+titleEn: Ghazal 155
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

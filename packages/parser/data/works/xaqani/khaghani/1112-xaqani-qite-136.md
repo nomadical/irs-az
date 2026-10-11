@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-136
 sourceId: ganjoor-27799
-titleAz: شمارهٔ ۱۳۶ - در مدح خاموشی
+titleAz: Qitə 136
+titleRu: Кыта 136
 titleFa: شمارهٔ ۱۳۶ - در مدح خاموشی
+titleEn: Qit'a 136
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

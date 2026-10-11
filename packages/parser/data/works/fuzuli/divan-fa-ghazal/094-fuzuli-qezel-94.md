@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-94
 sourceId: ganjoor-116800
-titleAz: شمارهٔ ۹۴
+titleAz: Qəzəl 94
+titleRu: Газель 94
 titleFa: شمارهٔ ۹۴
+titleEn: Ghazal 94
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-119
 sourceId: ganjoor-116825
-titleAz: شمارهٔ ۱۱۹
+titleAz: Qəzəl 119
+titleRu: Газель 119
 titleFa: شمارهٔ ۱۱۹
+titleEn: Ghazal 119
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

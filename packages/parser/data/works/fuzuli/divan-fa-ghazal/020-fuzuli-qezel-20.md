@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-20
 sourceId: ganjoor-116726
-titleAz: شمارهٔ ۲۰
+titleAz: Qəzəl 20
+titleRu: Газель 20
 titleFa: شمارهٔ ۲۰
+titleEn: Ghazal 20
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

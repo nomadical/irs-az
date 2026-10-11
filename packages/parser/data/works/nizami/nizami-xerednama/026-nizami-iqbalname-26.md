@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-26
 sourceId: ganjoor-9238
-titleAz: بخش ۲۶ - گفتار افلاطون
+titleAz: 'İqbalnamə, fəsil 26'
+titleRu: 'Икбал-наме, глава 26'
 titleFa: بخش ۲۶ - گفتار افلاطون
+titleEn: 'Iqbalnama, chapter 26'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-28
 sourceId: ganjoor-50088
-titleAz: رباعی شمارۀ ۲۸
+titleAz: 'Rübailər, 28'
+titleRu: 'Рубайят, 28'
 titleFa: رباعی شمارۀ ۲۸
+titleEn: 'Rubaiyat, 28'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

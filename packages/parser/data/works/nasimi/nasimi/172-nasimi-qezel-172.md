@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-172
 sourceId: ganjoor-117467
-titleAz: شمارهٔ ۱۷۲
+titleAz: Qəzəl 172
+titleRu: Газель 172
 titleFa: شمارهٔ ۱۷۲
+titleEn: Ghazal 172
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

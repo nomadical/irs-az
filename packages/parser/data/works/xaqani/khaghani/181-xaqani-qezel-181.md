@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-181
 sourceId: ganjoor-14550
-titleAz: غزل شمارهٔ ۱۸۱
+titleAz: Qəzəl 181
+titleRu: Газель 181
 titleFa: غزل شمارهٔ ۱۸۱
+titleEn: Ghazal 181
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

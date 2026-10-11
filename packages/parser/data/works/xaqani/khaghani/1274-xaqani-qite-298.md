@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-298
 sourceId: ganjoor-27961
-titleAz: شمارهٔ ۲۹۸ - در مرثیهٔ فلکی شروانی
+titleAz: Qitə 298
+titleRu: Кыта 298
 titleFa: شمارهٔ ۲۹۸ - در مرثیهٔ فلکی شروانی
+titleEn: Qit'a 298
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

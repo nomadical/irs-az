@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-70
 sourceId: ganjoor-117234
-titleAz: شمارهٔ ۷۰
+titleAz: Rübai 70
+titleRu: Рубаи 70
 titleFa: شمارهٔ ۷۰
+titleEn: Rubai 70
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

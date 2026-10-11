@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-58
 sourceId: ganjoor-9320
-titleAz: بخش ۵۸ - مقالت بیستم در وقاحت ابنای عصر
+titleAz: 'Sirlər xəzinəsi, fəsil 58'
+titleRu: 'Сокровищница тайн, глава 58'
 titleFa: بخش ۵۸ - مقالت بیستم در وقاحت ابنای عصر
+titleEn: 'The Treasury of Mysteries, chapter 58'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

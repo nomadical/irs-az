@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-62
 sourceId: ganjoor-50122
-titleAz: رباعی شمارۀ ۶۲
+titleAz: 'Rübailər, 62'
+titleRu: 'Рубайят, 62'
 titleFa: رباعی شمارۀ ۶۲
+titleEn: 'Rubaiyat, 62'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

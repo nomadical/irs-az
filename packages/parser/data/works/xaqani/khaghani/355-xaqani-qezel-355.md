@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-355
 sourceId: ganjoor-14724
-titleAz: غزل شمارهٔ ۳۵۵
+titleAz: Qəzəl 355
+titleRu: Газель 355
 titleFa: غزل شمارهٔ ۳۵۵
+titleEn: Ghazal 355
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

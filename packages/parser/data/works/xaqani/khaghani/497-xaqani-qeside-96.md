@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-96
 sourceId: ganjoor-14866
-titleAz: شمارهٔ ۹۶ - در بیماری فرزند و تاثر از درگذشت وی گوید
+titleAz: Qəsidə 96
+titleRu: Касыда 96
 titleFa: شمارهٔ ۹۶ - در بیماری فرزند و تاثر از درگذشت وی گوید
+titleEn: Qasida 96
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

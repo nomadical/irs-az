@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-14
 sourceId: ganjoor-14383
-titleAz: غزل شمارهٔ ۱۴
+titleAz: Qəzəl 14
+titleRu: Газель 14
 titleFa: غزل شمارهٔ ۱۴
+titleEn: Ghazal 14
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

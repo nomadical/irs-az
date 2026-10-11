@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-56
 sourceId: ganjoor-9318
-titleAz: بخش ۵۶ - مقالت نوزدهم در استقبال آخرت
+titleAz: 'Sirlər xəzinəsi, fəsil 56'
+titleRu: 'Сокровищница тайн, глава 56'
 titleFa: بخش ۵۶ - مقالت نوزدهم در استقبال آخرت
+titleEn: 'The Treasury of Mysteries, chapter 56'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

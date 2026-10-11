@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-215
 sourceId: ganjoor-14584
-titleAz: غزل شمارهٔ ۲۱۵
+titleAz: Qəzəl 215
+titleRu: Газель 215
 titleFa: غزل شمارهٔ ۲۱۵
+titleEn: Ghazal 215
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-145
 sourceId: ganjoor-15140
-titleAz: رباعی شمارهٔ   ۱۴۵
+titleAz: Rübai 145
+titleRu: Рубаи 145
 titleFa: رباعی شمارهٔ   ۱۴۵
+titleEn: Rubai 145
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

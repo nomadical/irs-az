@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-10
 sourceId: ganjoor-117127
-titleAz: شمارهٔ ۱۰
+titleAz: Qitə 10
+titleRu: Кыта 10
 titleFa: شمارهٔ ۱۰
+titleEn: Qit'a 10
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

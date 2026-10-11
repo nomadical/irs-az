@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-320
 sourceId: ganjoor-15315
-titleAz: رباعی شمارهٔ   ۳۲۰
+titleAz: Rübai 320
+titleRu: Рубаи 320
 titleFa: رباعی شمارهٔ   ۳۲۰
+titleEn: Rubai 320
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

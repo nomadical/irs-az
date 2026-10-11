@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-183
 sourceId: ganjoor-27846
-titleAz: شمارهٔ ۱۸۳
+titleAz: Qitə 183
+titleRu: Кыта 183
 titleFa: شمارهٔ ۱۸۳
+titleEn: Qit'a 183
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

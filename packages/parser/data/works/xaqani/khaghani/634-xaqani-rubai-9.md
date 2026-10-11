@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-9
 sourceId: ganjoor-15003
-titleAz: رباعی شمارهٔ   ۹
+titleAz: Rübai 9
+titleRu: Рубаи 9
 titleFa: رباعی شمارهٔ   ۹
+titleEn: Rubai 9
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

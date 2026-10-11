@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-11
 sourceId: ganjoor-14380
-titleAz: غزل شمارهٔ ۱۱
+titleAz: Qəzəl 11
+titleRu: Газель 11
 titleFa: غزل شمارهٔ ۱۱
+titleEn: Ghazal 11
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

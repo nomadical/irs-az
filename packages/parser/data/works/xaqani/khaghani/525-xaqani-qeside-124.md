@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-124
 sourceId: ganjoor-14894
-titleAz: شمارهٔ ۱۲۴ - مطلع چهارم
+titleAz: Qəsidə 124
+titleRu: Касыда 124
 titleFa: شمارهٔ ۱۲۴ - مطلع چهارم
+titleEn: Qasida 124
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-17
 sourceId: ganjoor-117134
-titleAz: شمارهٔ ۱۷
+titleAz: Qitə 17
+titleRu: Кыта 17
 titleFa: شمارهٔ ۱۷
+titleEn: Qit'a 17
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

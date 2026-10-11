@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-214
 sourceId: ganjoor-117509
-titleAz: شمارهٔ ۲۱۴
+titleAz: Qəzəl 214
+titleRu: Газель 214
 titleFa: شمارهٔ ۲۱۴
+titleEn: Ghazal 214
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

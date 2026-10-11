@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-12
 sourceId: ganjoor-14782
-titleAz: شمارهٔ ۱۲ - مطلع دوم
+titleAz: Qəsidə 12
+titleRu: Касыда 12
 titleFa: شمارهٔ ۱۲ - مطلع دوم
+titleEn: Qasida 12
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

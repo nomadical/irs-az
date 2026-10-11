@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-248
 sourceId: ganjoor-15243
-titleAz: رباعی شمارهٔ   ۲۴۸
+titleAz: Rübai 248
+titleRu: Рубаи 248
 titleFa: رباعی شمارهٔ   ۲۴۸
+titleEn: Rubai 248
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

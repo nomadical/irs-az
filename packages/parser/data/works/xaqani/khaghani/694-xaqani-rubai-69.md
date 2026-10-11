@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-69
 sourceId: ganjoor-15064
-titleAz: رباعی شمارهٔ   ۶۹
+titleAz: Rübai 69
+titleRu: Рубаи 69
 titleFa: رباعی شمارهٔ   ۶۹
+titleEn: Rubai 69
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

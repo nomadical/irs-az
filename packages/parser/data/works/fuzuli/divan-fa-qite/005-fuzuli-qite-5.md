@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-5
 sourceId: ganjoor-117122
-titleAz: شمارهٔ ۵
+titleAz: Qitə 5
+titleRu: Кыта 5
 titleFa: شمارهٔ ۵
+titleEn: Qit'a 5
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

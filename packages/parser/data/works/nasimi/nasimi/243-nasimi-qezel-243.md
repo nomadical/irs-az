@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-243
 sourceId: ganjoor-117538
-titleAz: شمارهٔ ۲۴۳
+titleAz: Qəzəl 243
+titleRu: Газель 243
 titleFa: شمارهٔ ۲۴۳
+titleEn: Ghazal 243
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

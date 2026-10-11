@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-78
 sourceId: ganjoor-117681
-titleAz: شمارهٔ ۷۸
+titleAz: Rübai 78
+titleRu: Рубаи 78
 titleFa: شمارهٔ ۷۸
+titleEn: Rubai 78
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

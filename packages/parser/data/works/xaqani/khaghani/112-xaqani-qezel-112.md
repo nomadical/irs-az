@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-112
 sourceId: ganjoor-14481
-titleAz: غزل شمارهٔ ۱۱۲
+titleAz: Qəzəl 112
+titleRu: Газель 112
 titleFa: غزل شمارهٔ ۱۱۲
+titleEn: Ghazal 112
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

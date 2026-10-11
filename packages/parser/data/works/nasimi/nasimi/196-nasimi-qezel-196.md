@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-196
 sourceId: ganjoor-117491
-titleAz: شمارهٔ ۱۹۶
+titleAz: Qəzəl 196
+titleRu: Газель 196
 titleFa: شمارهٔ ۱۹۶
+titleEn: Ghazal 196
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

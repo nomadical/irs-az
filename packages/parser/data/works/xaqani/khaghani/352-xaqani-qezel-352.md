@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-352
 sourceId: ganjoor-14721
-titleAz: غزل شمارهٔ ۳۵۲
+titleAz: Qəzəl 352
+titleRu: Газель 352
 titleFa: غزل شمارهٔ ۳۵۲
+titleEn: Ghazal 352
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

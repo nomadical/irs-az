@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-187
 sourceId: ganjoor-14957
-titleAz: شمارهٔ ۱۸۷ - در عزلت و فقر و قناعت و تجرید
+titleAz: Qəsidə 187
+titleRu: Касыда 187
 titleFa: شمارهٔ ۱۸۷ - در عزلت و فقر و قناعت و تجرید
+titleEn: Qasida 187
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

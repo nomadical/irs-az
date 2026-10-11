@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-55
 sourceId: ganjoor-9204
-titleAz: بخش ۵۵ - جنگ هفتم اسکندر با روسیان
+titleAz: 'Şərəfnamə, fəsil 55'
+titleRu: 'Шараф-наме, глава 55'
 titleFa: بخش ۵۵ - جنگ هفتم اسکندر با روسیان
+titleEn: 'Sharafnama, chapter 55'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

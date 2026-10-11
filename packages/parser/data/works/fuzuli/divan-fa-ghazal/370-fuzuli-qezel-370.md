@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-370
 sourceId: ganjoor-117076
-titleAz: شمارهٔ ۳۷۰
+titleAz: Qəzəl 370
+titleRu: Газель 370
 titleFa: شمارهٔ ۳۷۰
+titleEn: Ghazal 370
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

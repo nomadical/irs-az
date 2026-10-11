@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-19
 sourceId: ganjoor-14388
-titleAz: غزل شمارهٔ ۱۹
+titleAz: Qəzəl 19
+titleRu: Газель 19
 titleFa: غزل شمارهٔ ۱۹
+titleEn: Ghazal 19
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

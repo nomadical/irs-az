@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-46
 sourceId: ganjoor-117210
-titleAz: شمارهٔ ۴۶
+titleAz: Rübai 46
+titleRu: Рубаи 46
 titleFa: شمارهٔ ۴۶
+titleEn: Rubai 46
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

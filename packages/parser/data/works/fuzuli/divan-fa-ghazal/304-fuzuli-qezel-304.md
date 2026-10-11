@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-304
 sourceId: ganjoor-117010
-titleAz: شمارهٔ ۳۰۴
+titleAz: Qəzəl 304
+titleRu: Газель 304
 titleFa: شمارهٔ ۳۰۴
+titleEn: Ghazal 304
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

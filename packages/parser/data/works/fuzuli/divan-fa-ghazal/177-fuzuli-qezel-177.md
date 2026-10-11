@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-177
 sourceId: ganjoor-116883
-titleAz: شمارهٔ ۱۷۷
+titleAz: Qəzəl 177
+titleRu: Газель 177
 titleFa: شمارهٔ ۱۷۷
+titleEn: Ghazal 177
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

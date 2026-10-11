@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-95
 sourceId: ganjoor-8959
-titleAz: بخش ۹۵ - اجرام کواکب
+titleAz: 'Xosrov və Şirin, fəsil 95'
+titleRu: 'Хосров и Ширин, глава 95'
 titleFa: بخش ۹۵ - اجرام کواکب
+titleEn: 'Khosrow and Shirin, chapter 95'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

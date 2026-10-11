@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-30
 sourceId: ganjoor-14399
-titleAz: غزل شمارهٔ ۳۰
+titleAz: Qəzəl 30
+titleRu: Газель 30
 titleFa: غزل شمارهٔ ۳۰
+titleEn: Ghazal 30
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

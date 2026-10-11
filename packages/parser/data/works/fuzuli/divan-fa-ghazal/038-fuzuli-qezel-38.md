@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-38
 sourceId: ganjoor-116744
-titleAz: شمارهٔ ۳۸
+titleAz: Qəzəl 38
+titleRu: Газель 38
 titleFa: شمارهٔ ۳۸
+titleEn: Ghazal 38
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

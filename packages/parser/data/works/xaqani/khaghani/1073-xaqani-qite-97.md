@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-97
 sourceId: ganjoor-27760
-titleAz: شمارهٔ ۹۷ - در مدح رکن الدین محمدبن عبد الرحمن طغان یزک
+titleAz: Qitə 97
+titleRu: Кыта 97
 titleFa: شمارهٔ ۹۷ - در مدح رکن الدین محمدبن عبد الرحمن طغان یزک
+titleEn: Qit'a 97
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-17
 sourceId: ganjoor-133921
-titleAz: شمارهٔ  ۱۷
+titleAz: Qitə 17
+titleRu: Кыта 17
 titleFa: شمارهٔ  ۱۷
+titleEn: Qit'a 17
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

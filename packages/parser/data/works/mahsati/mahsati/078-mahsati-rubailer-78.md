@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-78
 sourceId: ganjoor-50138
-titleAz: رباعی شمارۀ ۷۸
+titleAz: 'Rübailər, 78'
+titleRu: 'Рубайят, 78'
 titleFa: رباعی شمارۀ ۷۸
+titleEn: 'Rubaiyat, 78'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

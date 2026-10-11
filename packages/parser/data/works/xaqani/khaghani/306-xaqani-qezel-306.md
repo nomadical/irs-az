@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-306
 sourceId: ganjoor-14675
-titleAz: غزل شمارهٔ ۳۰۶
+titleAz: Qəzəl 306
+titleRu: Газель 306
 titleFa: غزل شمارهٔ ۳۰۶
+titleEn: Ghazal 306
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-325
 sourceId: ganjoor-117031
-titleAz: شمارهٔ ۳۲۵
+titleAz: Qəzəl 325
+titleRu: Газель 325
 titleFa: شمارهٔ ۳۲۵
+titleEn: Ghazal 325
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

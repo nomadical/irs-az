@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-220
 sourceId: ganjoor-27883
-titleAz: شمارهٔ ۲۲۰
+titleAz: Qitə 220
+titleRu: Кыта 220
 titleFa: شمارهٔ ۲۲۰
+titleEn: Qit'a 220
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

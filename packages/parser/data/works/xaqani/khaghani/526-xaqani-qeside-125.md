@@ -1,12 +1,12 @@
 ---
 slug: xaqani-qeside-125
 sourceId: ganjoor-14895
-titleAz: >-
-  شمارهٔ ۱۲۵ - این قصیدهٔ بر بدیهه در ساحل باکو به نزدیک آتش خودسوز در وصف شکار
-  کردن خاقان اکبر منوچهر شروان شاه
+titleAz: Qəsidə 125
+titleRu: Касыда 125
 titleFa: >-
   شمارهٔ ۱۲۵ - این قصیدهٔ بر بدیهه در ساحل باکو به نزدیک آتش خودسوز در وصف شکار
   کردن خاقان اکبر منوچهر شروان شاه
+titleEn: Qasida 125
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

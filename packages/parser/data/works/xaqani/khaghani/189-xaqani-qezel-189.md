@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-189
 sourceId: ganjoor-14558
-titleAz: غزل شمارهٔ ۱۸۹
+titleAz: Qəzəl 189
+titleRu: Газель 189
 titleFa: غزل شمارهٔ ۱۸۹
+titleEn: Ghazal 189
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

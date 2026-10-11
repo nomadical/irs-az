@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-263
 sourceId: ganjoor-15258
-titleAz: رباعی شمارهٔ   ۲۶۳
+titleAz: Rübai 263
+titleRu: Рубаи 263
 titleFa: رباعی شمارهٔ   ۲۶۳
+titleEn: Rubai 263
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

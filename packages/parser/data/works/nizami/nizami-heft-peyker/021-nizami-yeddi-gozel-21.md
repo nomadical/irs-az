@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-21
 sourceId: ganjoor-9069
-titleAz: بخش ۲۱ - بردن سرهنگ بهرام‌گور را به مهمانی
+titleAz: 'Yeddi gözəl, fəsil 21'
+titleRu: 'Семь красавиц, глава 21'
 titleFa: بخش ۲۱ - بردن سرهنگ بهرام‌گور را به مهمانی
+titleEn: 'The Seven Beauties, chapter 21'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

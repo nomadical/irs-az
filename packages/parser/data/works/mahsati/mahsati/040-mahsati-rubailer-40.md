@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-40
 sourceId: ganjoor-50100
-titleAz: رباعی شمارۀ ۴۰
+titleAz: 'Rübailər, 40'
+titleRu: 'Рубайят, 40'
 titleFa: رباعی شمارۀ ۴۰
+titleEn: 'Rubaiyat, 40'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

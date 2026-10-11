@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-68
 sourceId: ganjoor-27731
-titleAz: شمارهٔ ۶۸ - در طلب جایزه
+titleAz: Qitə 68
+titleRu: Кыта 68
 titleFa: شمارهٔ ۶۸ - در طلب جایزه
+titleEn: Qit'a 68
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

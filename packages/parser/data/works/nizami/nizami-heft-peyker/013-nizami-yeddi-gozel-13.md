@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-13
 sourceId: ganjoor-9061
-titleAz: "بخش ۱۳ - دیدن بهرام صورت هفت پیکر را در\_خَوَرْنَق"
+titleAz: 'Yeddi gözəl, fəsil 13'
+titleRu: 'Семь красавиц, глава 13'
 titleFa: "بخش ۱۳ - دیدن بهرام صورت هفت پیکر را در\_خَوَرْنَق"
+titleEn: 'The Seven Beauties, chapter 13'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

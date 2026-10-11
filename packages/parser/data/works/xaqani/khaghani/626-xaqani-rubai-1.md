@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-1
 sourceId: ganjoor-14995
-titleAz: رباعی شمارهٔ   ۱
+titleAz: Rübai 1
+titleRu: Рубаи 1
 titleFa: رباعی شمارهٔ   ۱
+titleEn: Rubai 1
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

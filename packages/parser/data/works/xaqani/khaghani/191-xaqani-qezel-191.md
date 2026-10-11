@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-191
 sourceId: ganjoor-14560
-titleAz: غزل شمارهٔ ۱۹۱
+titleAz: Qəzəl 191
+titleRu: Газель 191
 titleFa: غزل شمارهٔ ۱۹۱
+titleEn: Ghazal 191
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-292
 sourceId: ganjoor-15287
-titleAz: رباعی شمارهٔ   ۲۹۲
+titleAz: Rübai 292
+titleRu: Рубаи 292
 titleFa: رباعی شمارهٔ   ۲۹۲
+titleEn: Rubai 292
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

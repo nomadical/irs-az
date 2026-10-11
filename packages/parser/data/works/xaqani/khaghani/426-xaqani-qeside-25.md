@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-25
 sourceId: ganjoor-14795
-titleAz: شمارهٔ ۲۵ - در حسب حال و شکایت از استرداد ملکی که بوی داده بودند
+titleAz: Qəsidə 25
+titleRu: Касыда 25
 titleFa: شمارهٔ ۲۵ - در حسب حال و شکایت از استرداد ملکی که بوی داده بودند
+titleEn: Qasida 25
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

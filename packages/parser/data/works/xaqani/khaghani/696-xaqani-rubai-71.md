@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-71
 sourceId: ganjoor-15066
-titleAz: رباعی شمارهٔ   ۷۱
+titleAz: Rübai 71
+titleRu: Рубаи 71
 titleFa: رباعی شمارهٔ   ۷۱
+titleEn: Rubai 71
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

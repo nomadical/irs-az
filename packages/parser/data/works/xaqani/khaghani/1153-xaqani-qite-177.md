@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-177
 sourceId: ganjoor-27840
-titleAz: شمارهٔ ۱۷۷
+titleAz: Qitə 177
+titleRu: Кыта 177
 titleFa: شمارهٔ ۱۷۷
+titleEn: Qit'a 177
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

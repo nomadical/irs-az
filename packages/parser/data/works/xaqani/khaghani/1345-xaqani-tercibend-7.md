@@ -1,8 +1,10 @@
 ---
 slug: xaqani-tercibend-7
 sourceId: ganjoor-15482
-titleAz: شمارهٔ ۷ - در مدح جلال الدین شروان شاه اخستان
+titleAz: Tərcibənd 7
+titleRu: Тарджибанд 7
 titleFa: شمارهٔ ۷ - در مدح جلال الدین شروان شاه اخستان
+titleEn: Tarji-band 7
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

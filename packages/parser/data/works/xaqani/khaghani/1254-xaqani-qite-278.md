@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-278
 sourceId: ganjoor-27941
-titleAz: شمارهٔ ۲۷۸ - در مدح عز‌الدین ابو عمران
+titleAz: Qitə 278
+titleRu: Кыта 278
 titleFa: شمارهٔ ۲۷۸ - در مدح عز‌الدین ابو عمران
+titleEn: Qit'a 278
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

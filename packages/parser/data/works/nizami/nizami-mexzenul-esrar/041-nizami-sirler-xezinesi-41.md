@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-41
 sourceId: ganjoor-9303
-titleAz: بخش ۴۱ - داستان موبد صاحب‌نظر
+titleAz: 'Sirlər xəzinəsi, fəsil 41'
+titleRu: 'Сокровищница тайн, глава 41'
 titleFa: بخش ۴۱ - داستان موبد صاحب‌نظر
+titleEn: 'The Treasury of Mysteries, chapter 41'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

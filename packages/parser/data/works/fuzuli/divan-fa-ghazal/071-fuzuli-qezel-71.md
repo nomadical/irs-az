@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-71
 sourceId: ganjoor-116777
-titleAz: شمارهٔ ۷۱
+titleAz: Qəzəl 71
+titleRu: Газель 71
 titleFa: شمارهٔ ۷۱
+titleEn: Ghazal 71
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

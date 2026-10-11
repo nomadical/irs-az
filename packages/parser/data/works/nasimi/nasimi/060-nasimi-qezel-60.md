@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-60
 sourceId: ganjoor-117355
-titleAz: شمارهٔ ۶۰
+titleAz: Qəzəl 60
+titleRu: Газель 60
 titleFa: شمارهٔ ۶۰
+titleEn: Ghazal 60
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

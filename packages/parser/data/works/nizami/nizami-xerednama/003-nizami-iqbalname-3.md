@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-3
 sourceId: ganjoor-9215
-titleAz: بخش ۳ - در نعت پیغمبر اکرم
+titleAz: 'İqbalnamə, fəsil 3'
+titleRu: 'Икбал-наме, глава 3'
 titleFa: بخش ۳ - در نعت پیغمبر اکرم
+titleEn: 'Iqbalnama, chapter 3'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

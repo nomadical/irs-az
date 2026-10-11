@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-353
 sourceId: ganjoor-14722
-titleAz: غزل شمارهٔ ۳۵۳
+titleAz: Qəzəl 353
+titleRu: Газель 353
 titleFa: غزل شمارهٔ ۳۵۳
+titleEn: Ghazal 353
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

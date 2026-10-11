@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-144
 sourceId: ganjoor-117439
-titleAz: شمارهٔ ۱۴۴
+titleAz: Qəzəl 144
+titleRu: Газель 144
 titleFa: شمارهٔ ۱۴۴
+titleEn: Ghazal 144
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-16
 sourceId: ganjoor-117715
-titleAz: شمارهٔ ۱۶
+titleAz: Əlavə 16
+titleRu: Дополнение 16
 titleFa: شمارهٔ ۱۶
+titleEn: Addendum 16
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-226
 sourceId: ganjoor-14595
-titleAz: غزل شمارهٔ ۲۲۶
+titleAz: Qəzəl 226
+titleRu: Газель 226
 titleFa: غزل شمارهٔ ۲۲۶
+titleEn: Ghazal 226
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

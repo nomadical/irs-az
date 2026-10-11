@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-24
 sourceId: ganjoor-8888
-titleAz: بخش ۲۴ - گریختن شیرین از نزد مهین‌بانو به مداین
+titleAz: 'Xosrov və Şirin, fəsil 24'
+titleRu: 'Хосров и Ширин, глава 24'
 titleFa: بخش ۲۴ - گریختن شیرین از نزد مهین‌بانو به مداین
+titleEn: 'Khosrow and Shirin, chapter 24'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-56
 sourceId: ganjoor-8920
-titleAz: بخش ۵۶ - رای زدن خسرو در کار فرهاد
+titleAz: 'Xosrov və Şirin, fəsil 56'
+titleRu: 'Хосров и Ширин, глава 56'
 titleFa: بخش ۵۶ - رای زدن خسرو در کار فرهاد
+titleEn: 'Khosrow and Shirin, chapter 56'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

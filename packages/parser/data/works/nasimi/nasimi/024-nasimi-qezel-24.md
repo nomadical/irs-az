@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-24
 sourceId: ganjoor-117319
-titleAz: شمارهٔ ۲۴
+titleAz: Qəzəl 24
+titleRu: Газель 24
 titleFa: شمارهٔ ۲۴
+titleEn: Ghazal 24
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

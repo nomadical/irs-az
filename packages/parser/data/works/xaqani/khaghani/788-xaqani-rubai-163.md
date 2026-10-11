@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-163
 sourceId: ganjoor-15158
-titleAz: رباعی شمارهٔ   ۱۶۳
+titleAz: Rübai 163
+titleRu: Рубаи 163
 titleFa: رباعی شمارهٔ   ۱۶۳
+titleEn: Rubai 163
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

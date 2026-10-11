@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-127
 sourceId: ganjoor-14897
-titleAz: شمارهٔ ۱۲۷ - در ستایش فخر الدین شروان شاه منوچهر
+titleAz: Qəsidə 127
+titleRu: Касыда 127
 titleFa: شمارهٔ ۱۲۷ - در ستایش فخر الدین شروان شاه منوچهر
+titleEn: Qasida 127
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

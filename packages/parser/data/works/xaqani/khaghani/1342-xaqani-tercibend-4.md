@@ -1,12 +1,12 @@
 ---
 slug: xaqani-tercibend-4
 sourceId: ganjoor-15479
-titleAz: >-
-  شمارهٔ ۴ - در مدح امام الشارع وحید الدین ابو المفاخر عثمان پسر کافی الدین عمر
-  پسر عم و داماد خاقانی
+titleAz: Tərcibənd 4
+titleRu: Тарджибанд 4
 titleFa: >-
   شمارهٔ ۴ - در مدح امام الشارع وحید الدین ابو المفاخر عثمان پسر کافی الدین عمر
   پسر عم و داماد خاقانی
+titleEn: Tarji-band 4
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

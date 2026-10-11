@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-297
 sourceId: ganjoor-27960
-titleAz: شمارهٔ ۲۹۷
+titleAz: Qitə 297
+titleRu: Кыта 297
 titleFa: شمارهٔ ۲۹۷
+titleEn: Qit'a 297
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

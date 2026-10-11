@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-108
 sourceId: ganjoor-8972
-titleAz: بخش ۱۰۸ - در نبوت پیغمبر اکرم
+titleAz: 'Xosrov və Şirin, fəsil 108'
+titleRu: 'Хосров и Ширин, глава 108'
 titleFa: بخش ۱۰۸ - در نبوت پیغمبر اکرم
+titleEn: 'Khosrow and Shirin, chapter 108'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-48
 sourceId: ganjoor-116704
-titleAz: شمارهٔ ۴۸
+titleAz: Qəsidə 48
+titleRu: Касыда 48
 titleFa: شمارهٔ ۴۸
+titleEn: Qasida 48
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

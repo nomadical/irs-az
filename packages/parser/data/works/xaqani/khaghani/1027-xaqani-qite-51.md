@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-51
 sourceId: ganjoor-27714
-titleAz: شمارهٔ ۵۱ - در مدح صفوة الدین مادر اخستان
+titleAz: Qitə 51
+titleRu: Кыта 51
 titleFa: شمارهٔ ۵۱ - در مدح صفوة الدین مادر اخستان
+titleEn: Qit'a 51
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

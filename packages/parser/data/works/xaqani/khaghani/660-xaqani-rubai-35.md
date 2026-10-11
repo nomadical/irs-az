@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-35
 sourceId: ganjoor-15030
-titleAz: رباعی شمارهٔ   ۳۵
+titleAz: Rübai 35
+titleRu: Рубаи 35
 titleFa: رباعی شمارهٔ   ۳۵
+titleEn: Rubai 35
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

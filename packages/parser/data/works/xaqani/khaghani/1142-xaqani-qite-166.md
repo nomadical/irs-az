@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-166
 sourceId: ganjoor-27829
-titleAz: شمارهٔ ۱۶۶
+titleAz: Qitə 166
+titleRu: Кыта 166
 titleFa: شمارهٔ ۱۶۶
+titleEn: Qit'a 166
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

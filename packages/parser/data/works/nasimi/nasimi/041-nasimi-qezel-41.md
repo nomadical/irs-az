@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-41
 sourceId: ganjoor-117336
-titleAz: شمارهٔ ۴۱ - سرزنش گم‌کرده‌راهان
+titleAz: Qəzəl 41
+titleRu: Газель 41
 titleFa: شمارهٔ ۴۱ - سرزنش گم‌کرده‌راهان
+titleEn: Ghazal 41
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

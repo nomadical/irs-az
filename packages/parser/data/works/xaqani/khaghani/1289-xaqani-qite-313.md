@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-313
 sourceId: ganjoor-27976
-titleAz: شمارهٔ ۳۱۳
+titleAz: Qitə 313
+titleRu: Кыта 313
 titleFa: شمارهٔ ۳۱۳
+titleEn: Qit'a 313
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

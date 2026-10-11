@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-26
 sourceId: ganjoor-117143
-titleAz: شمارهٔ ۲۶
+titleAz: Qitə 26
+titleRu: Кыта 26
 titleFa: شمارهٔ ۲۶
+titleEn: Qit'a 26
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

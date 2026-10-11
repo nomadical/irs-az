@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-102
 sourceId: ganjoor-8966
-titleAz: بخش ۱۰۲ - در پاس تندرستی از راه اعتدال
+titleAz: 'Xosrov və Şirin, fəsil 102'
+titleRu: 'Хосров и Ширин, глава 102'
 titleFa: بخش ۱۰۲ - در پاس تندرستی از راه اعتدال
+titleEn: 'Khosrow and Shirin, chapter 102'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

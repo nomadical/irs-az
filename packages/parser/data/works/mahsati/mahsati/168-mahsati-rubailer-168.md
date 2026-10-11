@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-168
 sourceId: ganjoor-50228
-titleAz: رباعی شمارۀ ۱۶۸
+titleAz: 'Rübailər, 168'
+titleRu: 'Рубайят, 168'
 titleFa: رباعی شمارۀ ۱۶۸
+titleEn: 'Rubaiyat, 168'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

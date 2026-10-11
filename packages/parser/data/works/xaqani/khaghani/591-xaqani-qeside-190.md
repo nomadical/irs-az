@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-190
 sourceId: ganjoor-14960
-titleAz: شمارهٔ ۱۹۰ - در مدح ابوالفتح شروان شاه منوچهر
+titleAz: Qəsidə 190
+titleRu: Касыда 190
 titleFa: شمارهٔ ۱۹۰ - در مدح ابوالفتح شروان شاه منوچهر
+titleEn: Qasida 190
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

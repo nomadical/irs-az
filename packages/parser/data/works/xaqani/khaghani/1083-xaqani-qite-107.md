@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-107
 sourceId: ganjoor-27770
-titleAz: شمارهٔ ۱۰۷ - در مرثیه
+titleAz: Qitə 107
+titleRu: Кыта 107
 titleFa: شمارهٔ ۱۰۷ - در مرثیه
+titleEn: Qit'a 107
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

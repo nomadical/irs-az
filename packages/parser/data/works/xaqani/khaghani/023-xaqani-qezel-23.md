@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-23
 sourceId: ganjoor-14392
-titleAz: غزل شمارهٔ ۲۳
+titleAz: Qəzəl 23
+titleRu: Газель 23
 titleFa: غزل شمارهٔ ۲۳
+titleEn: Ghazal 23
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

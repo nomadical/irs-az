@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-225
 sourceId: ganjoor-116931
-titleAz: شمارهٔ ۲۲۵
+titleAz: Qəzəl 225
+titleRu: Газель 225
 titleFa: شمارهٔ ۲۲۵
+titleEn: Ghazal 225
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

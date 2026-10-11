@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-181
 sourceId: ganjoor-27844
-titleAz: شمارهٔ ۱۸۱ - در جواب هجوی که در بارهٔ او گفته بودند
+titleAz: Qitə 181
+titleRu: Кыта 181
 titleFa: شمارهٔ ۱۸۱ - در جواب هجوی که در بارهٔ او گفته بودند
+titleEn: Qit'a 181
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

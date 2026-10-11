@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-346
 sourceId: ganjoor-15341
-titleAz: رباعی شمارهٔ   ۳۴۶
+titleAz: Rübai 346
+titleRu: Рубаи 346
 titleFa: رباعی شمارهٔ   ۳۴۶
+titleEn: Rubai 346
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

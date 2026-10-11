@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-19
 sourceId: ganjoor-15014
-titleAz: رباعی شمارهٔ   ۱۹
+titleAz: Rübai 19
+titleRu: Рубаи 19
 titleFa: رباعی شمارهٔ   ۱۹
+titleEn: Rubai 19
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

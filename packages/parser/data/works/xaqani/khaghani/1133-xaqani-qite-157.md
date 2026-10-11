@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-157
 sourceId: ganjoor-27820
-titleAz: شمارهٔ ۱۵۷
+titleAz: Qitə 157
+titleRu: Кыта 157
 titleFa: شمارهٔ ۱۵۷
+titleEn: Qit'a 157
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

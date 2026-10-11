@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-204
 sourceId: ganjoor-117499
-titleAz: شمارهٔ ۲۰۴
+titleAz: Qəzəl 204
+titleRu: Газель 204
 titleFa: شمارهٔ ۲۰۴
+titleEn: Ghazal 204
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-13
 sourceId: ganjoor-117308
-titleAz: شمارهٔ ۱۳
+titleAz: Qəzəl 13
+titleRu: Газель 13
 titleFa: شمارهٔ ۱۳
+titleEn: Ghazal 13
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

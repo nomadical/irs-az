@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-274
 sourceId: ganjoor-27937
-titleAz: شمارهٔ ۲۷۴
+titleAz: Qitə 274
+titleRu: Кыта 274
 titleFa: شمارهٔ ۲۷۴
+titleEn: Qit'a 274
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

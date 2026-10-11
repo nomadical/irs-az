@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-175
 sourceId: ganjoor-27838
-titleAz: شمارهٔ ۱۷۵
+titleAz: Qitə 175
+titleRu: Кыта 175
 titleFa: شمارهٔ ۱۷۵
+titleEn: Qit'a 175
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

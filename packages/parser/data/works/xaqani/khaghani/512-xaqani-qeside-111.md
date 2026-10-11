@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-111
 sourceId: ganjoor-14881
-titleAz: شمارهٔ ۱۱۱ - مطلع دوم
+titleAz: Qəsidə 111
+titleRu: Касыда 111
 titleFa: شمارهٔ ۱۱۱ - مطلع دوم
+titleEn: Qasida 111
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

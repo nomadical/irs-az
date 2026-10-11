@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-13
 sourceId: ganjoor-9275
-titleAz: بخش ۱۳ - گفتار در فضیلت سخن
+titleAz: 'Sirlər xəzinəsi, fəsil 13'
+titleRu: 'Сокровищница тайн, глава 13'
 titleFa: بخش ۱۳ - گفتار در فضیلت سخن
+titleEn: 'The Treasury of Mysteries, chapter 13'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

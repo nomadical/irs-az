@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-114
 sourceId: ganjoor-116820
-titleAz: شمارهٔ ۱۱۴
+titleAz: Qəzəl 114
+titleRu: Газель 114
 titleFa: شمارهٔ ۱۱۴
+titleEn: Ghazal 114
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

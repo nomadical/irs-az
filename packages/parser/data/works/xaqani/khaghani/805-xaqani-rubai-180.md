@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-180
 sourceId: ganjoor-15175
-titleAz: رباعی شمارهٔ   ۱۸۰
+titleAz: Rübai 180
+titleRu: Рубаи 180
 titleFa: رباعی شمارهٔ   ۱۸۰
+titleEn: Rubai 180
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

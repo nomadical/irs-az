@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-399
 sourceId: ganjoor-117105
-titleAz: شمارهٔ ۳۹۹
+titleAz: Qəzəl 399
+titleRu: Газель 399
 titleFa: شمارهٔ ۳۹۹
+titleEn: Ghazal 399
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

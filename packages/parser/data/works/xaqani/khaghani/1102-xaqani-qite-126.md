@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-126
 sourceId: ganjoor-27789
-titleAz: شمارهٔ ۱۲۶
+titleAz: Qitə 126
+titleRu: Кыта 126
 titleFa: شمارهٔ ۱۲۶
+titleEn: Qit'a 126
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

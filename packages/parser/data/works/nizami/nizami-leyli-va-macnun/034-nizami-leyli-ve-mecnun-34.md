@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-34
 sourceId: ganjoor-9036
-titleAz: بخش ۳۴ - نیایش کردن مجنون به درگاه خدای تعالی
+titleAz: 'Leyli və Məcnun, fəsil 34'
+titleRu: 'Лейли и Меджнун, глава 34'
 titleFa: بخش ۳۴ - نیایش کردن مجنون به درگاه خدای تعالی
+titleEn: 'Layla and Majnun, chapter 34'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

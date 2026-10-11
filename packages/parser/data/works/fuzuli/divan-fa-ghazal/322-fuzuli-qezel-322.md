@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-322
 sourceId: ganjoor-117028
-titleAz: شمارهٔ ۳۲۲
+titleAz: Qəzəl 322
+titleRu: Газель 322
 titleFa: شمارهٔ ۳۲۲
+titleEn: Ghazal 322
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

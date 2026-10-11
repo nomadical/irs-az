@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-37
 sourceId: ganjoor-133761
-titleAz: شمارهٔ ۳۷
+titleAz: Rübai 37
+titleRu: Рубаи 37
 titleFa: شمارهٔ ۳۷
+titleEn: Rubai 37
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

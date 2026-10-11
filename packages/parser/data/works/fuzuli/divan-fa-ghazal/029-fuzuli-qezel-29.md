@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-29
 sourceId: ganjoor-116735
-titleAz: شمارهٔ ۲۹
+titleAz: Qəzəl 29
+titleRu: Газель 29
 titleFa: شمارهٔ ۲۹
+titleEn: Ghazal 29
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

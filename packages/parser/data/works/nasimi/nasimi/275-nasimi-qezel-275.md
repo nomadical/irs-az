@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-275
 sourceId: ganjoor-117570
-titleAz: شمارهٔ ۲۷۵ - ستایش فضل‌الله نعیمی
+titleAz: Qəzəl 275
+titleRu: Газель 275
 titleFa: شمارهٔ ۲۷۵ - ستایش فضل‌الله نعیمی
+titleEn: Ghazal 275
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

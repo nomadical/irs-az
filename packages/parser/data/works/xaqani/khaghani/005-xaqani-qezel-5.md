@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-5
 sourceId: ganjoor-14374
-titleAz: غزل شمارهٔ ۵
+titleAz: Qəzəl 5
+titleRu: Газель 5
 titleFa: غزل شمارهٔ ۵
+titleEn: Ghazal 5
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

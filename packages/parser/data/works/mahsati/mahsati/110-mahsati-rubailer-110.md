@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-110
 sourceId: ganjoor-50170
-titleAz: رباعی شمارۀ ۱۱۰
+titleAz: 'Rübailər, 110'
+titleRu: 'Рубайят, 110'
 titleFa: رباعی شمارۀ ۱۱۰
+titleEn: 'Rubaiyat, 110'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

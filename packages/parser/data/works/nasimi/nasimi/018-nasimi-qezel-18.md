@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-18
 sourceId: ganjoor-117313
-titleAz: شمارهٔ ۱۸
+titleAz: Qəzəl 18
+titleRu: Газель 18
 titleFa: شمارهٔ ۱۸
+titleEn: Ghazal 18
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

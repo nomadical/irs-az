@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-5
 sourceId: ganjoor-50065
-titleAz: رباعی شمارۀ ۵
+titleAz: 'Rübailər, 5'
+titleRu: 'Рубайят, 5'
 titleFa: رباعی شمارۀ ۵
+titleEn: 'Rubaiyat, 5'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

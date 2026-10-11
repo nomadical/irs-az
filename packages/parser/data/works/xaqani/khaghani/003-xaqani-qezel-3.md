@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-3
 sourceId: ganjoor-14372
-titleAz: غزل شمارهٔ ۳
+titleAz: Qəzəl 3
+titleRu: Газель 3
 titleFa: غزل شمارهٔ ۳
+titleEn: Ghazal 3
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

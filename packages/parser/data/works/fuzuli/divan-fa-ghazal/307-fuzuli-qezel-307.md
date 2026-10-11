@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-307
 sourceId: ganjoor-117013
-titleAz: شمارهٔ ۳۰۷
+titleAz: Qəzəl 307
+titleRu: Газель 307
 titleFa: شمارهٔ ۳۰۷
+titleEn: Ghazal 307
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

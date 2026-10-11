@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-336
 sourceId: ganjoor-15331
-titleAz: رباعی شمارهٔ   ۳۳۶
+titleAz: Rübai 336
+titleRu: Рубаи 336
 titleFa: رباعی شمارهٔ   ۳۳۶
+titleEn: Rubai 336
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

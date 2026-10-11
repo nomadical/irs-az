@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-100
 sourceId: ganjoor-14469
-titleAz: غزل شمارهٔ ۱۰۰
+titleAz: Qəzəl 100
+titleRu: Газель 100
 titleFa: غزل شمارهٔ ۱۰۰
+titleEn: Ghazal 100
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

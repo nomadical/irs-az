@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-336
 sourceId: ganjoor-117042
-titleAz: شمارهٔ ۳۳۶
+titleAz: Qəzəl 336
+titleRu: Газель 336
 titleFa: شمارهٔ ۳۳۶
+titleEn: Ghazal 336
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

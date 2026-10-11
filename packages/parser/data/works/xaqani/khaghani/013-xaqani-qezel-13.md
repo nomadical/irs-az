@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-13
 sourceId: ganjoor-14382
-titleAz: غزل شمارهٔ ۱۳
+titleAz: Qəzəl 13
+titleRu: Газель 13
 titleFa: غزل شمارهٔ ۱۳
+titleEn: Ghazal 13
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

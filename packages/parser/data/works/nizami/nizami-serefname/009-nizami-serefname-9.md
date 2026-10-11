@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-9
 sourceId: ganjoor-9158
-titleAz: بخش ۹ - ستایش اتابیک اعظم نصرةالدین ابوبکربن محمد
+titleAz: 'Şərəfnamə, fəsil 9'
+titleRu: 'Шараф-наме, глава 9'
 titleFa: بخش ۹ - ستایش اتابیک اعظم نصرةالدین ابوبکربن محمد
+titleEn: 'Sharafnama, chapter 9'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

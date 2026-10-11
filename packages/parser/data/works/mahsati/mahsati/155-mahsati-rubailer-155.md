@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-155
 sourceId: ganjoor-50215
-titleAz: رباعی شمارۀ ۱۵۵
+titleAz: 'Rübailər, 155'
+titleRu: 'Рубайят, 155'
 titleFa: رباعی شمارۀ ۱۵۵
+titleEn: 'Rubaiyat, 155'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-164
 sourceId: ganjoor-50224
-titleAz: رباعی شمارۀ ۱۶۴
+titleAz: 'Rübailər, 164'
+titleRu: 'Рубайят, 164'
 titleFa: رباعی شمارۀ ۱۶۴
+titleEn: 'Rubaiyat, 164'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

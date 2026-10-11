@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-161
 sourceId: ganjoor-14931
-titleAz: شمارهٔ ۱۶۱ - مطلع سوم
+titleAz: Qəsidə 161
+titleRu: Касыда 161
 titleFa: شمارهٔ ۱۶۱ - مطلع سوم
+titleEn: Qasida 161
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-187
 sourceId: ganjoor-117482
-titleAz: شمارهٔ ۱۸۷
+titleAz: Qəzəl 187
+titleRu: Газель 187
 titleFa: شمارهٔ ۱۸۷
+titleEn: Ghazal 187
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

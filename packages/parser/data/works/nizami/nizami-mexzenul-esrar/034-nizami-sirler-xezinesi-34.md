@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-34
 sourceId: ganjoor-9296
-titleAz: بخش ۳۴ - مقالت هشتم در بیان آفرینش
+titleAz: 'Sirlər xəzinəsi, fəsil 34'
+titleRu: 'Сокровищница тайн, глава 34'
 titleFa: بخش ۳۴ - مقالت هشتم در بیان آفرینش
+titleEn: 'The Treasury of Mysteries, chapter 34'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

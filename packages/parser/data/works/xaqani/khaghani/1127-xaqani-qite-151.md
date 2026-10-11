@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-151
 sourceId: ganjoor-27814
-titleAz: شمارهٔ ۱۵۱ - در هجو شهر زوری
+titleAz: Qitə 151
+titleRu: Кыта 151
 titleFa: شمارهٔ ۱۵۱ - در هجو شهر زوری
+titleEn: Qit'a 151
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

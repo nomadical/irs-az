@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-150
 sourceId: ganjoor-14920
-titleAz: شمارهٔ ۱۵۰ - در شکایت و عزلت
+titleAz: Qəsidə 150
+titleRu: Касыда 150
 titleFa: شمارهٔ ۱۵۰ - در شکایت و عزلت
+titleEn: Qasida 150
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

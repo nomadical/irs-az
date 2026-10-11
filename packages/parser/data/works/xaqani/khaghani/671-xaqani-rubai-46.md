@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-46
 sourceId: ganjoor-15041
-titleAz: رباعی شمارهٔ   ۴۶
+titleAz: Rübai 46
+titleRu: Рубаи 46
 titleFa: رباعی شمارهٔ   ۴۶
+titleEn: Rubai 46
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

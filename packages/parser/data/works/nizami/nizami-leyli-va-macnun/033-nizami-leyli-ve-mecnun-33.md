@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-33
 sourceId: ganjoor-9035
-titleAz: بخش ۳۳ - انس مجنون با وحوش و سباع
+titleAz: 'Leyli və Məcnun, fəsil 33'
+titleRu: 'Лейли и Меджнун, глава 33'
 titleFa: بخش ۳۳ - انس مجنون با وحوش و سباع
+titleEn: 'Layla and Majnun, chapter 33'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

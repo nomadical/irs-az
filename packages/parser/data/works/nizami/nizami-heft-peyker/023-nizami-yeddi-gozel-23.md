@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-23
 sourceId: ganjoor-9071
-titleAz: بخش ۲۳ - عتاب کردن بهرام با سران لشگر
+titleAz: 'Yeddi gözəl, fəsil 23'
+titleRu: 'Семь красавиц, глава 23'
 titleFa: بخش ۲۳ - عتاب کردن بهرام با سران لشگر
+titleEn: 'The Seven Beauties, chapter 23'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

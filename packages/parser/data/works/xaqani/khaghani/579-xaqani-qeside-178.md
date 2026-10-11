@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-178
 sourceId: ganjoor-14948
-titleAz: شمارهٔ ۱۷۸ - مطلع دوم
+titleAz: Qəsidə 178
+titleRu: Касыда 178
 titleFa: شمارهٔ ۱۷۸ - مطلع دوم
+titleEn: Qasida 178
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-389
 sourceId: ganjoor-14758
-titleAz: غزل شمارهٔ ۳۸۹
+titleAz: Qəzəl 389
+titleRu: Газель 389
 titleFa: غزل شمارهٔ ۳۸۹
+titleEn: Ghazal 389
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

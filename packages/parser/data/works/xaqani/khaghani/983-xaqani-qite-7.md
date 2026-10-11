@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-7
 sourceId: ganjoor-27670
-titleAz: شمارهٔ ۷
+titleAz: Qitə 7
+titleRu: Кыта 7
 titleFa: شمارهٔ ۷
+titleEn: Qit'a 7
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

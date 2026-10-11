@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-342
 sourceId: ganjoor-117048
-titleAz: شمارهٔ ۳۴۲
+titleAz: Qəzəl 342
+titleRu: Газель 342
 titleFa: شمارهٔ ۳۴۲
+titleEn: Ghazal 342
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-48
 sourceId: ganjoor-133772
-titleAz: شمارهٔ ۴۸
+titleAz: Rübai 48
+titleRu: Рубаи 48
 titleFa: شمارهٔ ۴۸
+titleEn: Rubai 48
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

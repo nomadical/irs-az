@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-52
 sourceId: ganjoor-14822
-titleAz: شمارهٔ ۵۲ - در رثاء زوجهٔ خود
+titleAz: Qəsidə 52
+titleRu: Касыда 52
 titleFa: شمارهٔ ۵۲ - در رثاء زوجهٔ خود
+titleEn: Qasida 52
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

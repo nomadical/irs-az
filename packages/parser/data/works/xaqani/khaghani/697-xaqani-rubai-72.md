@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-72
 sourceId: ganjoor-15067
-titleAz: رباعی شمارهٔ   ۷۲
+titleAz: Rübai 72
+titleRu: Рубаи 72
 titleFa: رباعی شمارهٔ   ۷۲
+titleEn: Rubai 72
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

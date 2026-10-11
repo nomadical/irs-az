@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-4
 sourceId: ganjoor-117168
-titleAz: شمارهٔ ۴
+titleAz: Rübai 4
+titleRu: Рубаи 4
 titleFa: شمارهٔ ۴
+titleEn: Rubai 4
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

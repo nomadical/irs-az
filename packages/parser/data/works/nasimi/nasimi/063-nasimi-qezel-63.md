@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-63
 sourceId: ganjoor-117358
-titleAz: شمارهٔ ۶۳
+titleAz: Qəzəl 63
+titleRu: Газель 63
 titleFa: شمارهٔ ۶۳
+titleEn: Ghazal 63
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

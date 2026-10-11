@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-8
 sourceId: ganjoor-117172
-titleAz: شمارهٔ ۸
+titleAz: Rübai 8
+titleRu: Рубаи 8
 titleFa: شمارهٔ ۸
+titleEn: Rubai 8
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

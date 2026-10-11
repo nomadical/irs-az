@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-34
 sourceId: ganjoor-15029
-titleAz: رباعی شمارهٔ   ۳۴
+titleAz: Rübai 34
+titleRu: Рубаи 34
 titleFa: رباعی شمارهٔ   ۳۴
+titleEn: Rubai 34
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

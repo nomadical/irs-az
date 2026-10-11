@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-259
 sourceId: ganjoor-27922
-titleAz: شمارهٔ ۲۵۹
+titleAz: Qitə 259
+titleRu: Кыта 259
 titleFa: شمارهٔ ۲۵۹
+titleEn: Qit'a 259
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

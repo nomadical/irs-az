@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-158
 sourceId: ganjoor-116864
-titleAz: شمارهٔ ۱۵۸
+titleAz: Qəzəl 158
+titleRu: Газель 158
 titleFa: شمارهٔ ۱۵۸
+titleEn: Ghazal 158
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

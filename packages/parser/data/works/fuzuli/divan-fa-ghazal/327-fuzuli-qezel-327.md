@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-327
 sourceId: ganjoor-117033
-titleAz: شمارهٔ ۳۲۷
+titleAz: Qəzəl 327
+titleRu: Газель 327
 titleFa: شمارهٔ ۳۲۷
+titleEn: Ghazal 327
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

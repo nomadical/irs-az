@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-101
 sourceId: ganjoor-15096
-titleAz: رباعی شمارهٔ   ۱۰۱
+titleAz: Rübai 101
+titleRu: Рубаи 101
 titleFa: رباعی شمارهٔ   ۱۰۱
+titleEn: Rubai 101
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-379
 sourceId: ganjoor-14748
-titleAz: غزل شمارهٔ ۳۷۹
+titleAz: Qəzəl 379
+titleRu: Газель 379
 titleFa: غزل شمارهٔ ۳۷۹
+titleEn: Ghazal 379
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

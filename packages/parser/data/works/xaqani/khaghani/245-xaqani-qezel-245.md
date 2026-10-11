@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-245
 sourceId: ganjoor-14614
-titleAz: غزل شمارهٔ ۲۴۵
+titleAz: Qəzəl 245
+titleRu: Газель 245
 titleFa: غزل شمارهٔ ۲۴۵
+titleEn: Ghazal 245
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-16
 sourceId: ganjoor-9165
-titleAz: بخش ۱۶ - پیکار اسکندر با لشگر زنگبار
+titleAz: 'Şərəfnamə, fəsil 16'
+titleRu: 'Шараф-наме, глава 16'
 titleFa: بخش ۱۶ - پیکار اسکندر با لشگر زنگبار
+titleEn: 'Sharafnama, chapter 16'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

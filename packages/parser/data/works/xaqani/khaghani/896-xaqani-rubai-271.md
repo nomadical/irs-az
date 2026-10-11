@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-271
 sourceId: ganjoor-15266
-titleAz: رباعی شمارهٔ   ۲۷۱
+titleAz: Rübai 271
+titleRu: Рубаи 271
 titleFa: رباعی شمارهٔ   ۲۷۱
+titleEn: Rubai 271
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

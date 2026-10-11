@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-158
 sourceId: ganjoor-50218
-titleAz: رباعی شمارۀ ۱۵۸
+titleAz: 'Rübailər, 158'
+titleRu: 'Рубайят, 158'
 titleFa: رباعی شمارۀ ۱۵۸
+titleEn: 'Rubaiyat, 158'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

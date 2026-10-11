@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-86
 sourceId: ganjoor-15081
-titleAz: رباعی شمارهٔ   ۸۶
+titleAz: Rübai 86
+titleRu: Рубаи 86
 titleFa: رباعی شمارهٔ   ۸۶
+titleEn: Rubai 86
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

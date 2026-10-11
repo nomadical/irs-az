@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-7
 sourceId: ganjoor-50067
-titleAz: رباعی شمارۀ ۷
+titleAz: 'Rübailər, 7'
+titleRu: 'Рубайят, 7'
 titleFa: رباعی شمارۀ ۷
+titleEn: 'Rubaiyat, 7'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

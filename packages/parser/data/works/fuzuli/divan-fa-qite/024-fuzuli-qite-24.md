@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-24
 sourceId: ganjoor-117141
-titleAz: شمارهٔ ۲۴
+titleAz: Qitə 24
+titleRu: Кыта 24
 titleFa: شمارهٔ ۲۴
+titleEn: Qit'a 24
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

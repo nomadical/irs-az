@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-91
 sourceId: ganjoor-27754
-titleAz: شمارهٔ ۹۱ - در رثاء دختر خویش
+titleAz: Qitə 91
+titleRu: Кыта 91
 titleFa: شمارهٔ ۹۱ - در رثاء دختر خویش
+titleEn: Qit'a 91
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

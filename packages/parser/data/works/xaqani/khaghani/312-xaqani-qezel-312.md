@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-312
 sourceId: ganjoor-14681
-titleAz: غزل شمارهٔ ۳۱۲
+titleAz: Qəzəl 312
+titleRu: Газель 312
 titleFa: غزل شمارهٔ ۳۱۲
+titleEn: Ghazal 312
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

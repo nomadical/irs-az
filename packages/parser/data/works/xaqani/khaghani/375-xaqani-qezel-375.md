@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-375
 sourceId: ganjoor-14744
-titleAz: غزل شمارهٔ ۳۷۵
+titleAz: Qəzəl 375
+titleRu: Газель 375
 titleFa: غزل شمارهٔ ۳۷۵
+titleEn: Ghazal 375
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-355
 sourceId: ganjoor-28018
-titleAz: شمارهٔ ۳۵۵
+titleAz: Qitə 355
+titleRu: Кыта 355
 titleFa: شمارهٔ ۳۵۵
+titleEn: Qit'a 355
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

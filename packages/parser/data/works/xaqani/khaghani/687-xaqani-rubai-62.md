@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-62
 sourceId: ganjoor-15057
-titleAz: رباعی شمارهٔ   ۶۲
+titleAz: Rübai 62
+titleRu: Рубаи 62
 titleFa: رباعی شمارهٔ   ۶۲
+titleEn: Rubai 62
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

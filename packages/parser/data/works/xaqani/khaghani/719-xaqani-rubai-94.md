@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-94
 sourceId: ganjoor-15089
-titleAz: رباعی شمارهٔ   ۹۴
+titleAz: Rübai 94
+titleRu: Рубаи 94
 titleFa: رباعی شمارهٔ   ۹۴
+titleEn: Rubai 94
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-116
 sourceId: ganjoor-15111
-titleAz: رباعی شمارهٔ   ۱۱۶
+titleAz: Rübai 116
+titleRu: Рубаи 116
 titleFa: رباعی شمارهٔ   ۱۱۶
+titleEn: Rubai 116
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-erebce-9
 sourceId: ganjoor-15500
-titleAz: در مدح خلیفه المهتدی بالله
+titleAz: Ərəbcə şeir 9
+titleRu: Арабское стихотворение 9
 titleFa: در مدح خلیفه المهتدی بالله
+titleEn: Arabic poem 9
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

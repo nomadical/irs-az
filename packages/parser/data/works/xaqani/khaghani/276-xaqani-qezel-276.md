@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-276
 sourceId: ganjoor-14645
-titleAz: غزل شمارهٔ ۲۷۶
+titleAz: Qəzəl 276
+titleRu: Газель 276
 titleFa: غزل شمارهٔ ۲۷۶
+titleEn: Ghazal 276
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

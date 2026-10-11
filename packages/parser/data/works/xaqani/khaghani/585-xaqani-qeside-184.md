@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-184
 sourceId: ganjoor-14954
-titleAz: شمارهٔ ۱۸۴ - مطلع سوم
+titleAz: Qəsidə 184
+titleRu: Касыда 184
 titleFa: شمارهٔ ۱۸۴ - مطلع سوم
+titleEn: Qasida 184
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

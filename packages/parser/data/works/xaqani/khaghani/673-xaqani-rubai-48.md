@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-48
 sourceId: ganjoor-15043
-titleAz: رباعی شمارهٔ   ۴۸
+titleAz: Rübai 48
+titleRu: Рубаи 48
 titleFa: رباعی شمارهٔ   ۴۸
+titleEn: Rubai 48
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

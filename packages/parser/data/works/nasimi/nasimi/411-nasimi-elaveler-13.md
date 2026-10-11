@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-13
 sourceId: ganjoor-117712
-titleAz: شمارهٔ ۱۳
+titleAz: Əlavə 13
+titleRu: Дополнение 13
 titleFa: شمارهٔ ۱۳
+titleEn: Addendum 13
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

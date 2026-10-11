@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-332
 sourceId: ganjoor-14701
-titleAz: غزل شمارهٔ ۳۳۲
+titleAz: Qəzəl 332
+titleRu: Газель 332
 titleFa: غزل شمارهٔ ۳۳۲
+titleEn: Ghazal 332
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

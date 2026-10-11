@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-41
 sourceId: ganjoor-9043
-titleAz: بخش ۴۱ - غزل خواندن مجنون نزد لیلی
+titleAz: 'Leyli və Məcnun, fəsil 41'
+titleRu: 'Лейли и Меджнун, глава 41'
 titleFa: بخش ۴۱ - غزل خواندن مجنون نزد لیلی
+titleEn: 'Layla and Majnun, chapter 41'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

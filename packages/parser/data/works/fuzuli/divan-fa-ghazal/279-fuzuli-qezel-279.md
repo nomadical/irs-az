@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-279
 sourceId: ganjoor-116985
-titleAz: شمارهٔ ۲۷۹
+titleAz: Qəzəl 279
+titleRu: Газель 279
 titleFa: شمارهٔ ۲۷۹
+titleEn: Ghazal 279
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

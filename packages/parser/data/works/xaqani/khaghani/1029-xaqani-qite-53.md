@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-53
 sourceId: ganjoor-27716
-titleAz: شمارهٔ ۵۳
+titleAz: Qitə 53
+titleRu: Кыта 53
 titleFa: شمارهٔ ۵۳
+titleEn: Qit'a 53
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

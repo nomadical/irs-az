@@ -1,8 +1,10 @@
 ---
 slug: xaqani-terkibbend-4
 sourceId: ganjoor-15486
-titleAz: شمارهٔ ۴ - در مدح سلطان جلال الدین ابو المظفر شروان شاه اخستان
+titleAz: Tərkibbənd 4
+titleRu: Таркиббанд 4
 titleFa: شمارهٔ ۴ - در مدح سلطان جلال الدین ابو المظفر شروان شاه اخستان
+titleEn: Tarkib-band 4
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

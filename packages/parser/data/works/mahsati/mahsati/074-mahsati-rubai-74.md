@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-74
 sourceId: ganjoor-133798
-titleAz: شمارهٔ ۷۴
+titleAz: Rübai 74
+titleRu: Рубаи 74
 titleFa: شمارهٔ ۷۴
+titleEn: Rubai 74
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

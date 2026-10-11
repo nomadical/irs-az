@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-25
 sourceId: ganjoor-9174
-titleAz: بخش ۲۵ - جنگ دارا با اسکندر
+titleAz: 'Şərəfnamə, fəsil 25'
+titleRu: 'Шараф-наме, глава 25'
 titleFa: بخش ۲۵ - جنگ دارا با اسکندر
+titleEn: 'Sharafnama, chapter 25'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

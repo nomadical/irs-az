@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-170
 sourceId: ganjoor-117465
-titleAz: شمارهٔ ۱۷۰ - ستایش فضل‌الله نعیمی
+titleAz: Qəzəl 170
+titleRu: Газель 170
 titleFa: شمارهٔ ۱۷۰ - ستایش فضل‌الله نعیمی
+titleEn: Ghazal 170
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

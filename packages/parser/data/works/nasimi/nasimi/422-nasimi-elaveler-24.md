@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-24
 sourceId: ganjoor-117723
-titleAz: شمارهٔ ۲۴
+titleAz: Əlavə 24
+titleRu: Дополнение 24
 titleFa: شمارهٔ ۲۴
+titleEn: Addendum 24
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

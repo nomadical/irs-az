@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-27
 sourceId: ganjoor-117191
-titleAz: شمارهٔ ۲۷
+titleAz: Rübai 27
+titleRu: Рубаи 27
 titleFa: شمارهٔ ۲۷
+titleEn: Rubai 27
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

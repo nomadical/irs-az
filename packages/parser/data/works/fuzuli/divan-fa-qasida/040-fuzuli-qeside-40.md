@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-40
 sourceId: ganjoor-116696
-titleAz: شمارهٔ ۴۰
+titleAz: Qəsidə 40
+titleRu: Касыда 40
 titleFa: شمارهٔ ۴۰
+titleEn: Qasida 40
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

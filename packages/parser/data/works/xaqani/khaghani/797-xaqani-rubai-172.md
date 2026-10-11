@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-172
 sourceId: ganjoor-15167
-titleAz: رباعی شمارهٔ   ۱۷۲
+titleAz: Rübai 172
+titleRu: Рубаи 172
 titleFa: رباعی شمارهٔ   ۱۷۲
+titleEn: Rubai 172
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

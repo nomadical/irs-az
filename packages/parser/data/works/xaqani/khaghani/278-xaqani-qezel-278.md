@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-278
 sourceId: ganjoor-14647
-titleAz: غزل شمارهٔ ۲۷۸
+titleAz: Qəzəl 278
+titleRu: Газель 278
 titleFa: غزل شمارهٔ ۲۷۸
+titleEn: Ghazal 278
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

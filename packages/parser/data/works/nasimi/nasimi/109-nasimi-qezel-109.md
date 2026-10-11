@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-109
 sourceId: ganjoor-117404
-titleAz: شمارهٔ ۱۰۹
+titleAz: Qəzəl 109
+titleRu: Газель 109
 titleFa: شمارهٔ ۱۰۹
+titleEn: Ghazal 109
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

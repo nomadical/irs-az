@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-33
 sourceId: ganjoor-9182
-titleAz: بخش ۳۳ - داستان نوشابه پادشاه بردع
+titleAz: 'Şərəfnamə, fəsil 33'
+titleRu: 'Шараф-наме, глава 33'
 titleFa: بخش ۳۳ - داستان نوشابه پادشاه بردع
+titleEn: 'Sharafnama, chapter 33'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

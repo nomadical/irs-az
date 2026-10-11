@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-21
 sourceId: ganjoor-117624
-titleAz: شمارهٔ ۲۱
+titleAz: Rübai 21
+titleRu: Рубаи 21
 titleFa: شمارهٔ ۲۱
+titleEn: Rubai 21
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

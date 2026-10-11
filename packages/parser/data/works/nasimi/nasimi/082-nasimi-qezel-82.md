@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-82
 sourceId: ganjoor-117377
-titleAz: شمارهٔ ۸۲
+titleAz: Qəzəl 82
+titleRu: Газель 82
 titleFa: شمارهٔ ۸۲
+titleEn: Ghazal 82
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

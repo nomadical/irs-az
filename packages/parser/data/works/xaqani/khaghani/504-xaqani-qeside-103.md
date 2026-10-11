@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-103
 sourceId: ganjoor-14873
-titleAz: شمارهٔ ۱۰۳ - مطلع چهارم
+titleAz: Qəsidə 103
+titleRu: Касыда 103
 titleFa: شمارهٔ ۱۰۳ - مطلع چهارم
+titleEn: Qasida 103
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

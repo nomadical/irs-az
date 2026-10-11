@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-41
 sourceId: ganjoor-117158
-titleAz: شمارهٔ ۴۱
+titleAz: Qitə 41
+titleRu: Кыта 41
 titleFa: شمارهٔ ۴۱
+titleEn: Qit'a 41
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

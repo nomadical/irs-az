@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-401
 sourceId: ganjoor-14770
-titleAz: غزل شمارهٔ ۴۰۱
+titleAz: Qəzəl 401
+titleRu: Газель 401
 titleFa: غزل شمارهٔ ۴۰۱
+titleEn: Ghazal 401
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

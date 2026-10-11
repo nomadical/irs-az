@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-11
 sourceId: ganjoor-117710
-titleAz: شمارهٔ ۱۱
+titleAz: Əlavə 11
+titleRu: Дополнение 11
 titleFa: شمارهٔ ۱۱
+titleEn: Addendum 11
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-116
 sourceId: ganjoor-27779
-titleAz: شمارهٔ ۱۱۶
+titleAz: Qitə 116
+titleRu: Кыта 116
 titleFa: شمارهٔ ۱۱۶
+titleEn: Qit'a 116
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

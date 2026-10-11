@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-85
 sourceId: ganjoor-14454
-titleAz: غزل شمارهٔ ۸۵
+titleAz: Qəzəl 85
+titleRu: Газель 85
 titleFa: غزل شمارهٔ ۸۵
+titleEn: Ghazal 85
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

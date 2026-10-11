@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-17
 sourceId: ganjoor-9065
-titleAz: بخش ۱۷ - پاسخ دادن بهرام ایرانیان را
+titleAz: 'Yeddi gözəl, fəsil 17'
+titleRu: 'Семь красавиц, глава 17'
 titleFa: بخش ۱۷ - پاسخ دادن بهرام ایرانیان را
+titleEn: 'The Seven Beauties, chapter 17'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

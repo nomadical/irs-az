@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-98
 sourceId: ganjoor-14467
-titleAz: غزل شمارهٔ ۹۸
+titleAz: Qəzəl 98
+titleRu: Газель 98
 titleFa: غزل شمارهٔ ۹۸
+titleEn: Ghazal 98
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

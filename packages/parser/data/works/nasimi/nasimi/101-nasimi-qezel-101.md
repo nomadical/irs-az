@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-101
 sourceId: ganjoor-117396
-titleAz: شمارهٔ ۱۰۱
+titleAz: Qəzəl 101
+titleRu: Газель 101
 titleFa: شمارهٔ ۱۰۱
+titleEn: Ghazal 101
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

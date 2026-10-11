@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-126
 sourceId: ganjoor-14495
-titleAz: غزل شمارهٔ ۱۲۶
+titleAz: Qəzəl 126
+titleRu: Газель 126
 titleFa: غزل شمارهٔ ۱۲۶
+titleEn: Ghazal 126
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

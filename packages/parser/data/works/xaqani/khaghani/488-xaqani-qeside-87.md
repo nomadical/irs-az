@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-87
 sourceId: ganjoor-14857
-titleAz: شمارهٔ ۸۷ - در رثاء امام شهاب الدین ابوالفضائل شروانی
+titleAz: Qəsidə 87
+titleRu: Касыда 87
 titleFa: شمارهٔ ۸۷ - در رثاء امام شهاب الدین ابوالفضائل شروانی
+titleEn: Qasida 87
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

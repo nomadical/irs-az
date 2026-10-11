@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-297
 sourceId: ganjoor-15292
-titleAz: رباعی شمارهٔ   ۲۹۷
+titleAz: Rübai 297
+titleRu: Рубаи 297
 titleFa: رباعی شمارهٔ   ۲۹۷
+titleEn: Rubai 297
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-44
 sourceId: ganjoor-9306
-titleAz: بخش ۴۴ - مقالت سیزدهم در نکوهش جهان
+titleAz: 'Sirlər xəzinəsi, fəsil 44'
+titleRu: 'Сокровищница тайн, глава 44'
 titleFa: بخش ۴۴ - مقالت سیزدهم در نکوهش جهان
+titleEn: 'The Treasury of Mysteries, chapter 44'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

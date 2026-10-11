@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-20
 sourceId: ganjoor-14389
-titleAz: غزل شمارهٔ ۲۰
+titleAz: Qəzəl 20
+titleRu: Газель 20
 titleFa: غزل شمارهٔ ۲۰
+titleEn: Ghazal 20
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

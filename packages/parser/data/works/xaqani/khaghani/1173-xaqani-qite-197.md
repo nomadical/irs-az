@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-197
 sourceId: ganjoor-27860
-titleAz: شمارهٔ ۱۹۷
+titleAz: Qitə 197
+titleRu: Кыта 197
 titleFa: شمارهٔ ۱۹۷
+titleEn: Qit'a 197
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-104
 sourceId: ganjoor-117268
-titleAz: شمارهٔ ۱۰۴
+titleAz: Rübai 104
+titleRu: Рубаи 104
 titleFa: شمارهٔ ۱۰۴
+titleEn: Rubai 104
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

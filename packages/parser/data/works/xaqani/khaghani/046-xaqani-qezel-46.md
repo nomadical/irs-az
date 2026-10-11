@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-46
 sourceId: ganjoor-14415
-titleAz: غزل شمارهٔ ۴۶
+titleAz: Qəzəl 46
+titleRu: Газель 46
 titleFa: غزل شمارهٔ ۴۶
+titleEn: Ghazal 46
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-46
 sourceId: ganjoor-50106
-titleAz: رباعی شمارۀ ۴۶
+titleAz: 'Rübailər, 46'
+titleRu: 'Рубайят, 46'
 titleFa: رباعی شمارۀ ۴۶
+titleEn: 'Rubaiyat, 46'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

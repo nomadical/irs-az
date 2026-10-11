@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-243
 sourceId: ganjoor-116949
-titleAz: شمارهٔ ۲۴۳
+titleAz: Qəzəl 243
+titleRu: Газель 243
 titleFa: شمارهٔ ۲۴۳
+titleEn: Ghazal 243
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

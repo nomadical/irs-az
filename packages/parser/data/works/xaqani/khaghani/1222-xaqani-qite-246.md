@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-246
 sourceId: ganjoor-27909
-titleAz: شمارهٔ ۲۴۶
+titleAz: Qitə 246
+titleRu: Кыта 246
 titleFa: شمارهٔ ۲۴۶
+titleEn: Qit'a 246
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

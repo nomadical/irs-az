@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-152
 sourceId: ganjoor-50212
-titleAz: رباعی شمارۀ ۱۵۲
+titleAz: 'Rübailər, 152'
+titleRu: 'Рубайят, 152'
 titleFa: رباعی شمارۀ ۱۵۲
+titleEn: 'Rubaiyat, 152'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

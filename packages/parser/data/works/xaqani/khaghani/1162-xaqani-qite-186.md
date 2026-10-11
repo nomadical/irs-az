@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-186
 sourceId: ganjoor-27849
-titleAz: شمارهٔ ۱۸۶ - بالبدیهه در مدح ابوالهیجا خاقان اکبر منوچهر بن فریدون شروان شاه
+titleAz: Qitə 186
+titleRu: Кыта 186
 titleFa: شمارهٔ ۱۸۶ - بالبدیهه در مدح ابوالهیجا خاقان اکبر منوچهر بن فریدون شروان شاه
+titleEn: Qit'a 186
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

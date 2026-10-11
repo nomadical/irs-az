@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-2
 sourceId: ganjoor-9004
-titleAz: بخش ۲ - نعت پیغمبر اکرم (ص)
+titleAz: 'Leyli və Məcnun, fəsil 2'
+titleRu: 'Лейли и Меджнун, глава 2'
 titleFa: بخش ۲ - نعت پیغمبر اکرم (ص)
+titleEn: 'Layla and Majnun, chapter 2'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

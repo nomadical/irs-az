@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-55
 sourceId: ganjoor-50115
-titleAz: رباعی شمارۀ ۵۵
+titleAz: 'Rübailər, 55'
+titleRu: 'Рубайят, 55'
 titleFa: رباعی شمارۀ ۵۵
+titleEn: 'Rubaiyat, 55'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

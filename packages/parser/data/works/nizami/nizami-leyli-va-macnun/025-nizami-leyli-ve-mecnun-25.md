@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-25
 sourceId: ganjoor-9027
-titleAz: بخش ۲۵ - رهانیدن مجنون آهوان را
+titleAz: 'Leyli və Məcnun, fəsil 25'
+titleRu: 'Лейли и Меджнун, глава 25'
 titleFa: بخش ۲۵ - رهانیدن مجنون آهوان را
+titleEn: 'Layla and Majnun, chapter 25'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

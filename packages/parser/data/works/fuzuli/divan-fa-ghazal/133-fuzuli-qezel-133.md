@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-133
 sourceId: ganjoor-116839
-titleAz: شمارهٔ ۱۳۳
+titleAz: Qəzəl 133
+titleRu: Газель 133
 titleFa: شمارهٔ ۱۳۳
+titleEn: Ghazal 133
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

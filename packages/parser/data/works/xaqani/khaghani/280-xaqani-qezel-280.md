@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-280
 sourceId: ganjoor-14649
-titleAz: غزل شمارهٔ ۲۸۰
+titleAz: Qəzəl 280
+titleRu: Газель 280
 titleFa: غزل شمارهٔ ۲۸۰
+titleEn: Ghazal 280
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

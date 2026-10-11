@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-138
 sourceId: ganjoor-14507
-titleAz: غزل شمارهٔ ۱۳۸
+titleAz: Qəzəl 138
+titleRu: Газель 138
 titleFa: غزل شمارهٔ ۱۳۸
+titleEn: Ghazal 138
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

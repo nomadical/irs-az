@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-saqiname-9
 sourceId: ganjoor-117284
-titleAz: بخش ۹ - مناظره با عود
+titleAz: 'Saqinamə, fəsil 9'
+titleRu: 'Саки-наме, глава 9'
 titleFa: بخش ۹ - مناظره با عود
+titleEn: 'Saqi-nama, chapter 9'
 authorSlug: fuzuli
 collectionSlug: saqiname
 originalLang: FA

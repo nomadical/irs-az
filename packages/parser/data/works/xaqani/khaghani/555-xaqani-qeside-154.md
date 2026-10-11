@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-154
 sourceId: ganjoor-14924
-titleAz: شمارهٔ ۱۵۴ - در مرثیهٔ نصرةالدین ابوالمظفر اصفهبد کیالواشیر
+titleAz: Qəsidə 154
+titleRu: Касыда 154
 titleFa: شمارهٔ ۱۵۴ - در مرثیهٔ نصرةالدین ابوالمظفر اصفهبد کیالواشیر
+titleEn: Qasida 154
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

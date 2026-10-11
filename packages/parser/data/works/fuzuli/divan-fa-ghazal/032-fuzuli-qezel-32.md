@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-32
 sourceId: ganjoor-116738
-titleAz: شمارهٔ ۳۲
+titleAz: Qəzəl 32
+titleRu: Газель 32
 titleFa: شمارهٔ ۳۲
+titleEn: Ghazal 32
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

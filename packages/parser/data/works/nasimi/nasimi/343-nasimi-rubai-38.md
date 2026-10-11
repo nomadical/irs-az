@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-38
 sourceId: ganjoor-117641
-titleAz: شمارهٔ ۳۸
+titleAz: Rübai 38
+titleRu: Рубаи 38
 titleFa: شمارهٔ ۳۸
+titleEn: Rubai 38
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

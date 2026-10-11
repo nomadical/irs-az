@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-78
 sourceId: ganjoor-8942
-titleAz: بخش ۷۸ - بازگشتن خسرو از قصر شیرین
+titleAz: 'Xosrov və Şirin, fəsil 78'
+titleRu: 'Хосров и Ширин, глава 78'
 titleFa: بخش ۷۸ - بازگشتن خسرو از قصر شیرین
+titleEn: 'Khosrow and Shirin, chapter 78'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-7
 sourceId: ganjoor-9219
-titleAz: بخش ۷ - خطاب زمین بوس
+titleAz: 'İqbalnamə, fəsil 7'
+titleRu: 'Икбал-наме, глава 7'
 titleFa: بخش ۷ - خطاب زمین بوس
+titleEn: 'Iqbalnama, chapter 7'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

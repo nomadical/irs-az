@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-318
 sourceId: ganjoor-27981
-titleAz: شمارهٔ ۳۱۸
+titleAz: Qitə 318
+titleRu: Кыта 318
 titleFa: شمارهٔ ۳۱۸
+titleEn: Qit'a 318
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

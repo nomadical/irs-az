@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-20
 sourceId: ganjoor-117719
-titleAz: شمارهٔ ۲۰
+titleAz: Əlavə 20
+titleRu: Дополнение 20
 titleFa: شمارهٔ ۲۰
+titleEn: Addendum 20
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

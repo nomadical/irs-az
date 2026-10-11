@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-50
 sourceId: ganjoor-15045
-titleAz: رباعی شمارهٔ   ۵۰
+titleAz: Rübai 50
+titleRu: Рубаи 50
 titleFa: رباعی شمارهٔ   ۵۰
+titleEn: Rubai 50
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-211
 sourceId: ganjoor-14981
-titleAz: شمارهٔ ۲۱۱ - در مدح فخر الدین ابوالفتح منوچهر شروان‌شاه
+titleAz: Qəsidə 211
+titleRu: Касыда 211
 titleFa: شمارهٔ ۲۱۱ - در مدح فخر الدین ابوالفتح منوچهر شروان‌شاه
+titleEn: Qasida 211
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

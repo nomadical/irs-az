@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-294
 sourceId: ganjoor-15289
-titleAz: رباعی شمارهٔ   ۲۹۴
+titleAz: Rübai 294
+titleRu: Рубаи 294
 titleFa: رباعی شمارهٔ   ۲۹۴
+titleEn: Rubai 294
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

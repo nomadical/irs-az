@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-136
 sourceId: ganjoor-14505
-titleAz: غزل شمارهٔ ۱۳۶
+titleAz: Qəzəl 136
+titleRu: Газель 136
 titleFa: غزل شمارهٔ ۱۳۶
+titleEn: Ghazal 136
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

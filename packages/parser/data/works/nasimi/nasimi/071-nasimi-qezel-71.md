@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-71
 sourceId: ganjoor-117366
-titleAz: شمارهٔ ۷۱
+titleAz: Qəzəl 71
+titleRu: Газель 71
 titleFa: شمارهٔ ۷۱
+titleEn: Ghazal 71
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

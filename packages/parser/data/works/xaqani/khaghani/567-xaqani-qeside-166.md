@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-166
 sourceId: ganjoor-14936
-titleAz: شمارهٔ ۱۶۶ - مطلع دوم
+titleAz: Qəsidə 166
+titleRu: Касыда 166
 titleFa: شمارهٔ ۱۶۶ - مطلع دوم
+titleEn: Qasida 166
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

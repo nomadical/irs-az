@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-49
 sourceId: ganjoor-116755
-titleAz: شمارهٔ ۴۹
+titleAz: Qəzəl 49
+titleRu: Газель 49
 titleFa: شمارهٔ ۴۹
+titleEn: Ghazal 49
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

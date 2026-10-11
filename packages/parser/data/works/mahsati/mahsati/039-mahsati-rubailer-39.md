@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-39
 sourceId: ganjoor-50099
-titleAz: رباعی شمارۀ ۳۹
+titleAz: 'Rübailər, 39'
+titleRu: 'Рубайят, 39'
 titleFa: رباعی شمارۀ ۳۹
+titleEn: 'Rubaiyat, 39'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

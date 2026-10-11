@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-53
 sourceId: ganjoor-117348
-titleAz: شمارهٔ ۵۳
+titleAz: Qəzəl 53
+titleRu: Газель 53
 titleFa: شمارهٔ ۵۳
+titleEn: Ghazal 53
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

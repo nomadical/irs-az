@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-29
 sourceId: ganjoor-117324
-titleAz: شمارهٔ ۲۹
+titleAz: Qəzəl 29
+titleRu: Газель 29
 titleFa: شمارهٔ ۲۹
+titleEn: Ghazal 29
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

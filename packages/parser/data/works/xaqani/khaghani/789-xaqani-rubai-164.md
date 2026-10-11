@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-164
 sourceId: ganjoor-15159
-titleAz: رباعی شمارهٔ   ۱۶۴
+titleAz: Rübai 164
+titleRu: Рубаи 164
 titleFa: رباعی شمارهٔ   ۱۶۴
+titleEn: Rubai 164
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

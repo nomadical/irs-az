@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-44
 sourceId: ganjoor-9193
-titleAz: بخش ۴۴ - مناظرهٔ نقاشان رومی و چینی
+titleAz: 'Şərəfnamə, fəsil 44'
+titleRu: 'Шараф-наме, глава 44'
 titleFa: بخش ۴۴ - مناظرهٔ نقاشان رومی و چینی
+titleEn: 'Sharafnama, chapter 44'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-252
 sourceId: ganjoor-15247
-titleAz: رباعی شمارهٔ   ۲۵۲
+titleAz: Rübai 252
+titleRu: Рубаи 252
 titleFa: رباعی شمارهٔ   ۲۵۲
+titleEn: Rubai 252
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

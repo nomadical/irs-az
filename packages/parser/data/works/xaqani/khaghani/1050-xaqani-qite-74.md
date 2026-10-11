@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-74
 sourceId: ganjoor-27737
-titleAz: شمارهٔ ۷۴ - در مدح پهلوان جهان
+titleAz: Qitə 74
+titleRu: Кыта 74
 titleFa: شمارهٔ ۷۴ - در مدح پهلوان جهان
+titleEn: Qit'a 74
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

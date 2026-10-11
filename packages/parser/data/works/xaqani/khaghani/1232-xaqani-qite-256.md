@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-256
 sourceId: ganjoor-27919
-titleAz: شمارهٔ ۲۵۶ - در مرثیهٔ عماد الدین
+titleAz: Qitə 256
+titleRu: Кыта 256
 titleFa: شمارهٔ ۲۵۶ - در مرثیهٔ عماد الدین
+titleEn: Qit'a 256
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

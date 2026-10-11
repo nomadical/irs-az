@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-241
 sourceId: ganjoor-116947
-titleAz: شمارهٔ ۲۴۱
+titleAz: Qəzəl 241
+titleRu: Газель 241
 titleFa: شمارهٔ ۲۴۱
+titleEn: Ghazal 241
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

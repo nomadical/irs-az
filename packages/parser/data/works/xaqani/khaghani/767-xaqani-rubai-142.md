@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-142
 sourceId: ganjoor-15137
-titleAz: رباعی شمارهٔ   ۱۴۲
+titleAz: Rübai 142
+titleRu: Рубаи 142
 titleFa: رباعی شمارهٔ   ۱۴۲
+titleEn: Rubai 142
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

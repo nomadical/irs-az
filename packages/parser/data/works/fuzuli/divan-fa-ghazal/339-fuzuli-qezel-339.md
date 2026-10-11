@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-339
 sourceId: ganjoor-117045
-titleAz: شمارهٔ ۳۳۹
+titleAz: Qəzəl 339
+titleRu: Газель 339
 titleFa: شمارهٔ ۳۳۹
+titleEn: Ghazal 339
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

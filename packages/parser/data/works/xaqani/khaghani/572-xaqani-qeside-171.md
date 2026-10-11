@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-171
 sourceId: ganjoor-14941
-titleAz: شمارهٔ ۱۷۱ - در عزلت و قناعت و بی‌طمعی
+titleAz: Qəsidə 171
+titleRu: Касыда 171
 titleFa: شمارهٔ ۱۷۱ - در عزلت و قناعت و بی‌طمعی
+titleEn: Qasida 171
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

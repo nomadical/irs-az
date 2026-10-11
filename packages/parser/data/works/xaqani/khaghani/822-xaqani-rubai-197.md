@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-197
 sourceId: ganjoor-15192
-titleAz: رباعی شمارهٔ   ۱۹۷
+titleAz: Rübai 197
+titleRu: Рубаи 197
 titleFa: رباعی شمارهٔ   ۱۹۷
+titleEn: Rubai 197
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

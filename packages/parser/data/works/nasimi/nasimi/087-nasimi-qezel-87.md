@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-87
 sourceId: ganjoor-117382
-titleAz: شمارهٔ ۸۷ - استقبال از حافظ
+titleAz: Qəzəl 87
+titleRu: Газель 87
 titleFa: شمارهٔ ۸۷ - استقبال از حافظ
+titleEn: Ghazal 87
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-36
 sourceId: ganjoor-9248
-titleAz: بخش ۳۶ - رسیدن اسکندر به حد شمال و بستن سد یاجوج
+titleAz: 'İqbalnamə, fəsil 36'
+titleRu: 'Икбал-наме, глава 36'
 titleFa: بخش ۳۶ - رسیدن اسکندر به حد شمال و بستن سد یاجوج
+titleEn: 'Iqbalnama, chapter 36'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-240
 sourceId: ganjoor-14609
-titleAz: غزل شمارهٔ ۲۴۰
+titleAz: Qəzəl 240
+titleRu: Газель 240
 titleFa: غزل شمارهٔ ۲۴۰
+titleEn: Ghazal 240
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

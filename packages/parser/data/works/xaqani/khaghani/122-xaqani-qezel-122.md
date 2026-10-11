@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-122
 sourceId: ganjoor-14491
-titleAz: غزل شمارهٔ ۱۲۲
+titleAz: Qəzəl 122
+titleRu: Газель 122
 titleFa: غزل شمارهٔ ۱۲۲
+titleEn: Ghazal 122
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

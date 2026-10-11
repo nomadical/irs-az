@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-90
 sourceId: ganjoor-14860
-titleAz: شمارهٔ ۹۰ - در ستایش اتابک منصور فرمانروای شماخی و ابوالمظفر شروان شاه
+titleAz: Qəsidə 90
+titleRu: Касыда 90
 titleFa: شمارهٔ ۹۰ - در ستایش اتابک منصور فرمانروای شماخی و ابوالمظفر شروان شاه
+titleEn: Qasida 90
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

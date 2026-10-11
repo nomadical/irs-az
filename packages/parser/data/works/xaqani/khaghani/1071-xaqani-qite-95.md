@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-95
 sourceId: ganjoor-27758
-titleAz: شمارهٔ ۹۵
+titleAz: Qitə 95
+titleRu: Кыта 95
 titleFa: شمارهٔ ۹۵
+titleEn: Qit'a 95
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

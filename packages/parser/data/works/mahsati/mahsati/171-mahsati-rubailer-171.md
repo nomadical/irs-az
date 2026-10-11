@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-171
 sourceId: ganjoor-50231
-titleAz: رباعی شمارۀ ۱۷۱
+titleAz: 'Rübailər, 171'
+titleRu: 'Рубайят, 171'
 titleFa: رباعی شمارۀ ۱۷۱
+titleEn: 'Rubaiyat, 171'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

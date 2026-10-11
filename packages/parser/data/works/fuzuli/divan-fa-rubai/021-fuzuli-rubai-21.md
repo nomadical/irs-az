@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-21
 sourceId: ganjoor-117185
-titleAz: شمارهٔ ۲۱
+titleAz: Rübai 21
+titleRu: Рубаи 21
 titleFa: شمارهٔ ۲۱
+titleEn: Rubai 21
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

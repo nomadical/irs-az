@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-197
 sourceId: ganjoor-116903
-titleAz: شمارهٔ ۱۹۷
+titleAz: Qəzəl 197
+titleRu: Газель 197
 titleFa: شمارهٔ ۱۹۷
+titleEn: Ghazal 197
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

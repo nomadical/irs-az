@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-154
 sourceId: ganjoor-116860
-titleAz: شمارهٔ ۱۵۴
+titleAz: Qəzəl 154
+titleRu: Газель 154
 titleFa: شمارهٔ ۱۵۴
+titleEn: Ghazal 154
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

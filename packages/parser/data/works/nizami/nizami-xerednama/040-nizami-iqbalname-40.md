@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-40
 sourceId: ganjoor-9252
-titleAz: بخش ۴۰ - رسیدن نامه اسکندر به مادرش
+titleAz: 'İqbalnamə, fəsil 40'
+titleRu: 'Икбал-наме, глава 40'
 titleFa: بخش ۴۰ - رسیدن نامه اسکندر به مادرش
+titleEn: 'Iqbalnama, chapter 40'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

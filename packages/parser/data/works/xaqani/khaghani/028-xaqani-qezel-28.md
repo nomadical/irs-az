@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-28
 sourceId: ganjoor-14397
-titleAz: غزل شمارهٔ ۲۸
+titleAz: Qəzəl 28
+titleRu: Газель 28
 titleFa: غزل شمارهٔ ۲۸
+titleEn: Ghazal 28
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-361
 sourceId: ganjoor-14730
-titleAz: غزل شمارهٔ ۳۶۱
+titleAz: Qəzəl 361
+titleRu: Газель 361
 titleFa: غزل شمارهٔ ۳۶۱
+titleEn: Ghazal 361
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

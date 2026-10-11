@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qezel-8
 sourceId: ganjoor-133902
-titleAz: شمارهٔ ۸
+titleAz: Qəzəl 8
+titleRu: Газель 8
 titleFa: شمارهٔ ۸
+titleEn: Ghazal 8
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

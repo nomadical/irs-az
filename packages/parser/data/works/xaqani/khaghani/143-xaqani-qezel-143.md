@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-143
 sourceId: ganjoor-14512
-titleAz: غزل شمارهٔ ۱۴۳
+titleAz: Qəzəl 143
+titleRu: Газель 143
 titleFa: غزل شمارهٔ ۱۴۳
+titleEn: Ghazal 143
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

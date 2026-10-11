@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-301
 sourceId: ganjoor-27964
-titleAz: شمارهٔ ۳۰۱ - در حسرت عمر گذشته
+titleAz: Qitə 301
+titleRu: Кыта 301
 titleFa: شمارهٔ ۳۰۱ - در حسرت عمر گذشته
+titleEn: Qit'a 301
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-44
 sourceId: ganjoor-117339
-titleAz: شمارهٔ ۴۴
+titleAz: Qəzəl 44
+titleRu: Газель 44
 titleFa: شمارهٔ ۴۴
+titleEn: Ghazal 44
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

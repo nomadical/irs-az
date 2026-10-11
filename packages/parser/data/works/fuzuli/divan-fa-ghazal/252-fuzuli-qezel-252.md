@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-252
 sourceId: ganjoor-116958
-titleAz: شمارهٔ ۲۵۲
+titleAz: Qəzəl 252
+titleRu: Газель 252
 titleFa: شمارهٔ ۲۵۲
+titleEn: Ghazal 252
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

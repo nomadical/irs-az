@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-187
 sourceId: ganjoor-116893
-titleAz: شمارهٔ ۱۸۷
+titleAz: Qəzəl 187
+titleRu: Газель 187
 titleFa: شمارهٔ ۱۸۷
+titleEn: Ghazal 187
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

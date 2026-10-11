@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-61
 sourceId: ganjoor-117225
-titleAz: شمارهٔ ۶۱
+titleAz: Rübai 61
+titleRu: Рубаи 61
 titleFa: شمارهٔ ۶۱
+titleEn: Rubai 61
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

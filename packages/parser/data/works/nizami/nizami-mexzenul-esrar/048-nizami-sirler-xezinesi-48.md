@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-48
 sourceId: ganjoor-9310
-titleAz: بخش ۴۸ - مقالت پانزدهم در نکوهش رشگبَران
+titleAz: 'Sirlər xəzinəsi, fəsil 48'
+titleRu: 'Сокровищница тайн, глава 48'
 titleFa: بخش ۴۸ - مقالت پانزدهم در نکوهش رشگبَران
+titleEn: 'The Treasury of Mysteries, chapter 48'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

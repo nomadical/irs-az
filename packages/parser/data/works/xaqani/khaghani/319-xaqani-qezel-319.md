@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-319
 sourceId: ganjoor-14688
-titleAz: غزل شمارهٔ ۳۱۹
+titleAz: Qəzəl 319
+titleRu: Газель 319
 titleFa: غزل شمارهٔ ۳۱۹
+titleEn: Ghazal 319
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-227
 sourceId: ganjoor-27890
-titleAz: شمارهٔ ۲۲۷
+titleAz: Qitə 227
+titleRu: Кыта 227
 titleFa: شمارهٔ ۲۲۷
+titleEn: Qit'a 227
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-170
 sourceId: ganjoor-14539
-titleAz: غزل شمارهٔ ۱۷۰
+titleAz: Qəzəl 170
+titleRu: Газель 170
 titleFa: غزل شمارهٔ ۱۷۰
+titleEn: Ghazal 170
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-248
 sourceId: ganjoor-27911
-titleAz: شمارهٔ ۲۴۸ - در مرثیهٔ عمدة الدین
+titleAz: Qitə 248
+titleRu: Кыта 248
 titleFa: شمارهٔ ۲۴۸ - در مرثیهٔ عمدة الدین
+titleEn: Qit'a 248
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

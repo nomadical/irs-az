@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-23
 sourceId: ganjoor-117626
-titleAz: شمارهٔ ۲۳
+titleAz: Rübai 23
+titleRu: Рубаи 23
 titleFa: شمارهٔ ۲۳
+titleEn: Rubai 23
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

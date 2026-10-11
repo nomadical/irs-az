@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-265
 sourceId: ganjoor-27928
-titleAz: شمارهٔ ۲۶۵
+titleAz: Qitə 265
+titleRu: Кыта 265
 titleFa: شمارهٔ ۲۶۵
+titleEn: Qit'a 265
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

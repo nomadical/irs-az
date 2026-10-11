@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-123
 sourceId: ganjoor-117418
-titleAz: شمارهٔ ۱۲۳
+titleAz: Qəzəl 123
+titleRu: Газель 123
 titleFa: شمارهٔ ۱۲۳
+titleEn: Ghazal 123
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

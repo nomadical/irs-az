@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-69
 sourceId: ganjoor-116775
-titleAz: شمارهٔ ۶۹
+titleAz: Qəzəl 69
+titleRu: Газель 69
 titleFa: شمارهٔ ۶۹
+titleEn: Ghazal 69
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

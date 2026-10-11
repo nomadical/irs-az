@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-17
 sourceId: ganjoor-9166
-titleAz: بخش ۱۷ - باز گشتن اسکندر از جنگ زنگ با فیروزی
+titleAz: 'Şərəfnamə, fəsil 17'
+titleRu: 'Шараф-наме, глава 17'
 titleFa: بخش ۱۷ - باز گشتن اسکندر از جنگ زنگ با فیروزی
+titleEn: 'Sharafnama, chapter 17'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

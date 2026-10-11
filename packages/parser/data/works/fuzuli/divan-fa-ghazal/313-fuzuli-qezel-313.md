@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-313
 sourceId: ganjoor-117019
-titleAz: شمارهٔ ۳۱۳
+titleAz: Qəzəl 313
+titleRu: Газель 313
 titleFa: شمارهٔ ۳۱۳
+titleEn: Ghazal 313
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

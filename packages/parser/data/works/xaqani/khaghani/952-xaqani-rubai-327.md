@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-327
 sourceId: ganjoor-15322
-titleAz: رباعی شمارهٔ   ۳۲۷
+titleAz: Rübai 327
+titleRu: Рубаи 327
 titleFa: رباعی شمارهٔ   ۳۲۷
+titleEn: Rubai 327
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

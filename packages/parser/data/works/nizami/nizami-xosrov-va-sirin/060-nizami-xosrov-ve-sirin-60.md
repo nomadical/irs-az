@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-60
 sourceId: ganjoor-8924
-titleAz: بخش ۶۰ - آگاهی خسرو از رفتن شیرین نزد فرهاد و کشتن فرهاد به مکر
+titleAz: 'Xosrov və Şirin, fəsil 60'
+titleRu: 'Хосров и Ширин, глава 60'
 titleFa: بخش ۶۰ - آگاهی خسرو از رفتن شیرین نزد فرهاد و کشتن فرهاد به مکر
+titleEn: 'Khosrow and Shirin, chapter 60'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-4
 sourceId: ganjoor-9216
-titleAz: بخش ۴ - تازه کردن داستان و یاد دوستان
+titleAz: 'İqbalnamə, fəsil 4'
+titleRu: 'Икбал-наме, глава 4'
 titleFa: بخش ۴ - تازه کردن داستان و یاد دوستان
+titleEn: 'Iqbalnama, chapter 4'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

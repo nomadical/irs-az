@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-290
 sourceId: ganjoor-14659
-titleAz: غزل شمارهٔ ۲۹۰
+titleAz: Qəzəl 290
+titleRu: Газель 290
 titleFa: غزل شمارهٔ ۲۹۰
+titleEn: Ghazal 290
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

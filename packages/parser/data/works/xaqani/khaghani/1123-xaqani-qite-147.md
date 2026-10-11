@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-147
 sourceId: ganjoor-27810
-titleAz: شمارهٔ ۱۴۷
+titleAz: Qitə 147
+titleRu: Кыта 147
 titleFa: شمارهٔ ۱۴۷
+titleEn: Qit'a 147
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

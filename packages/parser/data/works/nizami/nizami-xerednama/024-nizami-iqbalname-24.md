@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-24
 sourceId: ganjoor-9236
-titleAz: بخش ۲۴ - گفتار فرفوریوس
+titleAz: 'İqbalnamə, fəsil 24'
+titleRu: 'Икбал-наме, глава 24'
 titleFa: بخش ۲۴ - گفتار فرفوریوس
+titleEn: 'Iqbalnama, chapter 24'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

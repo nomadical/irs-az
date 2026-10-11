@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-195
 sourceId: ganjoor-15190
-titleAz: رباعی شمارهٔ   ۱۹۵
+titleAz: Rübai 195
+titleRu: Рубаи 195
 titleFa: رباعی شمارهٔ   ۱۹۵
+titleEn: Rubai 195
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-62
 sourceId: ganjoor-117357
-titleAz: شمارهٔ ۶۲
+titleAz: Qəzəl 62
+titleRu: Газель 62
 titleFa: شمارهٔ ۶۲
+titleEn: Ghazal 62
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

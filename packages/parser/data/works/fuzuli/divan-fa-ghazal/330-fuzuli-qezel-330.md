@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-330
 sourceId: ganjoor-117036
-titleAz: شمارهٔ ۳۳۰
+titleAz: Qəzəl 330
+titleRu: Газель 330
 titleFa: شمارهٔ ۳۳۰
+titleEn: Ghazal 330
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

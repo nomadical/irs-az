@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-397
 sourceId: ganjoor-14766
-titleAz: غزل شمارهٔ ۳۹۷
+titleAz: Qəzəl 397
+titleRu: Газель 397
 titleFa: غزل شمارهٔ ۳۹۷
+titleEn: Ghazal 397
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

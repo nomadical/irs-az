@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-201
 sourceId: ganjoor-14971
-titleAz: شمارهٔ ۲۰۱ - مطلع دوم
+titleAz: Qəsidə 201
+titleRu: Касыда 201
 titleFa: شمارهٔ ۲۰۱ - مطلع دوم
+titleEn: Qasida 201
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

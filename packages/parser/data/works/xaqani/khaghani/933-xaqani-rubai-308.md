@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-308
 sourceId: ganjoor-15303
-titleAz: رباعی شمارهٔ   ۳۰۸
+titleAz: Rübai 308
+titleRu: Рубаи 308
 titleFa: رباعی شمارهٔ   ۳۰۸
+titleEn: Rubai 308
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-97
 sourceId: ganjoor-117261
-titleAz: شمارهٔ ۹۷
+titleAz: Rübai 97
+titleRu: Рубаи 97
 titleFa: شمارهٔ ۹۷
+titleEn: Rubai 97
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

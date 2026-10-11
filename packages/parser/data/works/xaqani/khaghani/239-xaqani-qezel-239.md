@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-239
 sourceId: ganjoor-14608
-titleAz: غزل شمارهٔ ۲۳۹
+titleAz: Qəzəl 239
+titleRu: Газель 239
 titleFa: غزل شمارهٔ ۲۳۹
+titleEn: Ghazal 239
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

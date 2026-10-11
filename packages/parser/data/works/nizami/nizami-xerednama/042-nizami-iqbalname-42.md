@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-42
 sourceId: ganjoor-9254
-titleAz: بخش ۴۲ - انجامش روزگار ارسطو
+titleAz: 'İqbalnamə, fəsil 42'
+titleRu: 'Икбал-наме, глава 42'
 titleFa: بخش ۴۲ - انجامش روزگار ارسطو
+titleEn: 'Iqbalnama, chapter 42'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

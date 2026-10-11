@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-298
 sourceId: ganjoor-117004
-titleAz: شمارهٔ ۲۹۸
+titleAz: Qəzəl 298
+titleRu: Газель 298
 titleFa: شمارهٔ ۲۹۸
+titleEn: Ghazal 298
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-35
 sourceId: ganjoor-117199
-titleAz: شمارهٔ ۳۵
+titleAz: Rübai 35
+titleRu: Рубаи 35
 titleFa: شمارهٔ ۳۵
+titleEn: Rubai 35
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-67
 sourceId: ganjoor-117231
-titleAz: شمارهٔ ۶۷
+titleAz: Rübai 67
+titleRu: Рубаи 67
 titleFa: شمارهٔ ۶۷
+titleEn: Rubai 67
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

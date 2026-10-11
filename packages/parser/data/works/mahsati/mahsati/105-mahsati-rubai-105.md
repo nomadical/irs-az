@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-105
 sourceId: ganjoor-133829
-titleAz: شمارهٔ ۱۰۵
+titleAz: Rübai 105
+titleRu: Рубаи 105
 titleFa: شمارهٔ ۱۰۵
+titleEn: Rubai 105
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

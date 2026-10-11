@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-178
 sourceId: ganjoor-116884
-titleAz: شمارهٔ ۱۷۸
+titleAz: Qəzəl 178
+titleRu: Газель 178
 titleFa: شمارهٔ ۱۷۸
+titleEn: Ghazal 178
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

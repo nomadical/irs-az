@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-129
 sourceId: ganjoor-14899
-titleAz: شمارهٔ ۱۲۹ - در ستایش سلطان غیاث الدین محمد بن محمود بن محمد بن ملک شاه سلجوقی
+titleAz: Qəsidə 129
+titleRu: Касыда 129
 titleFa: شمارهٔ ۱۲۹ - در ستایش سلطان غیاث الدین محمد بن محمود بن محمد بن ملک شاه سلجوقی
+titleEn: Qasida 129
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-37
 sourceId: ganjoor-117640
-titleAz: شمارهٔ ۳۷
+titleAz: Rübai 37
+titleRu: Рубаи 37
 titleFa: شمارهٔ ۳۷
+titleEn: Rubai 37
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

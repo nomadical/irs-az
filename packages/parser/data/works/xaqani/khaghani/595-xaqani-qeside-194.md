@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-194
 sourceId: ganjoor-14964
-titleAz: شمارهٔ ۱۹۴ - مطلع دوم
+titleAz: Qəsidə 194
+titleRu: Касыда 194
 titleFa: شمارهٔ ۱۹۴ - مطلع دوم
+titleEn: Qasida 194
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-42
 sourceId: ganjoor-117159
-titleAz: شمارهٔ ۴۲
+titleAz: Qitə 42
+titleRu: Кыта 42
 titleFa: شمارهٔ ۴۲
+titleEn: Qit'a 42
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-252
 sourceId: ganjoor-117547
-titleAz: شمارهٔ ۲۵۲
+titleAz: Qəzəl 252
+titleRu: Газель 252
 titleFa: شمارهٔ ۲۵۲
+titleEn: Ghazal 252
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

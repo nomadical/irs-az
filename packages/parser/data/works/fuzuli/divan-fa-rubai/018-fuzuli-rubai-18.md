@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-18
 sourceId: ganjoor-117182
-titleAz: شمارهٔ ۱۸
+titleAz: Rübai 18
+titleRu: Рубаи 18
 titleFa: شمارهٔ ۱۸
+titleEn: Rubai 18
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

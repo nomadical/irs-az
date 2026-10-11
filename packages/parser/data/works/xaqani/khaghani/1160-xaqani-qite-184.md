@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-184
 sourceId: ganjoor-27847
-titleAz: شمارهٔ ۱۸۴
+titleAz: Qitə 184
+titleRu: Кыта 184
 titleFa: شمارهٔ ۱۸۴
+titleEn: Qit'a 184
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

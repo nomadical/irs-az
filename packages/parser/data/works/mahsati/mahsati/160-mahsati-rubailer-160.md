@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-160
 sourceId: ganjoor-50220
-titleAz: رباعی شمارۀ ۱۶۰
+titleAz: 'Rübailər, 160'
+titleRu: 'Рубайят, 160'
 titleFa: رباعی شمارۀ ۱۶۰
+titleEn: 'Rubaiyat, 160'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

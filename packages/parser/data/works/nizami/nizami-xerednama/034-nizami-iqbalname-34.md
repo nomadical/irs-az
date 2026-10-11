@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-34
 sourceId: ganjoor-9246
-titleAz: بخش ۳۴ - رسیدن اسکندر به عرض جنوب و ده سرپرستان
+titleAz: 'İqbalnamə, fəsil 34'
+titleRu: 'Икбал-наме, глава 34'
 titleFa: بخش ۳۴ - رسیدن اسکندر به عرض جنوب و ده سرپرستان
+titleEn: 'Iqbalnama, chapter 34'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

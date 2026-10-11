@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-22
 sourceId: ganjoor-9171
-titleAz: بخش ۲۲ - رای زدن دارا با بزرگان ایران
+titleAz: 'Şərəfnamə, fəsil 22'
+titleRu: 'Шараф-наме, глава 22'
 titleFa: بخش ۲۲ - رای زدن دارا با بزرگان ایران
+titleEn: 'Sharafnama, chapter 22'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

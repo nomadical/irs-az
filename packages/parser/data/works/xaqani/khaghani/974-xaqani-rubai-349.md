@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-349
 sourceId: ganjoor-15344
-titleAz: رباعی شمارهٔ   ۳۴۹
+titleAz: Rübai 349
+titleRu: Рубаи 349
 titleFa: رباعی شمارهٔ   ۳۴۹
+titleEn: Rubai 349
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

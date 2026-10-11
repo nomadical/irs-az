@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-14
 sourceId: ganjoor-117131
-titleAz: شمارهٔ ۱۴
+titleAz: Qitə 14
+titleRu: Кыта 14
 titleFa: شمارهٔ ۱۴
+titleEn: Qit'a 14
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

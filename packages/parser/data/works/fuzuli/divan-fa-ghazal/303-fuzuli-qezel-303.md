@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-303
 sourceId: ganjoor-117009
-titleAz: شمارهٔ ۳۰۳
+titleAz: Qəzəl 303
+titleRu: Газель 303
 titleFa: شمارهٔ ۳۰۳
+titleEn: Ghazal 303
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

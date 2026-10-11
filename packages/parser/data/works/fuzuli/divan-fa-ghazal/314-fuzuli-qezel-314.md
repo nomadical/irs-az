@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-314
 sourceId: ganjoor-117020
-titleAz: شمارهٔ ۳۱۴
+titleAz: Qəzəl 314
+titleRu: Газель 314
 titleFa: شمارهٔ ۳۱۴
+titleEn: Ghazal 314
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

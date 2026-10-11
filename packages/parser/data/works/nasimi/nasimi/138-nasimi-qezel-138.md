@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-138
 sourceId: ganjoor-117433
-titleAz: شمارهٔ ۱۳۸
+titleAz: Qəzəl 138
+titleRu: Газель 138
 titleFa: شمارهٔ ۱۳۸
+titleEn: Ghazal 138
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-37
 sourceId: ganjoor-9085
-titleAz: بخش ۳۷ - فرجام کار بهرام و ناپدید شدن او در غار
+titleAz: 'Yeddi gözəl, fəsil 37'
+titleRu: 'Семь красавиц, глава 37'
 titleFa: بخش ۳۷ - فرجام کار بهرام و ناپدید شدن او در غار
+titleEn: 'The Seven Beauties, chapter 37'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

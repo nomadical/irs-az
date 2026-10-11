@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-241
 sourceId: ganjoor-14610
-titleAz: غزل شمارهٔ ۲۴۱
+titleAz: Qəzəl 241
+titleRu: Газель 241
 titleFa: غزل شمارهٔ ۲۴۱
+titleEn: Ghazal 241
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

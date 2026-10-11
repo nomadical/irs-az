@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-36
 sourceId: ganjoor-15031
-titleAz: رباعی شمارهٔ   ۳۶
+titleAz: Rübai 36
+titleRu: Рубаи 36
 titleFa: رباعی شمارهٔ   ۳۶
+titleEn: Rubai 36
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

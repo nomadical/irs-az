@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-250
 sourceId: ganjoor-117545
-titleAz: شمارهٔ ۲۵۰
+titleAz: Qəzəl 250
+titleRu: Газель 250
 titleFa: شمارهٔ ۲۵۰
+titleEn: Ghazal 250
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

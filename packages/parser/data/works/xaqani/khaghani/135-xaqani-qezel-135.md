@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-135
 sourceId: ganjoor-14504
-titleAz: غزل شمارهٔ ۱۳۵
+titleAz: Qəzəl 135
+titleRu: Газель 135
 titleFa: غزل شمارهٔ ۱۳۵
+titleEn: Ghazal 135
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

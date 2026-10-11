@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-52
 sourceId: ganjoor-27715
-titleAz: شمارهٔ ۵۲
+titleAz: Qitə 52
+titleRu: Кыта 52
 titleFa: شمارهٔ ۵۲
+titleEn: Qit'a 52
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-146
 sourceId: ganjoor-133870
-titleAz: شمارهٔ ۱۴۶
+titleAz: Rübai 146
+titleRu: Рубаи 146
 titleFa: شمارهٔ ۱۴۶
+titleEn: Rubai 146
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

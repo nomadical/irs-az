@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-35
 sourceId: ganjoor-9247
-titleAz: بخش ۳۵ - گذار کردن اسکندر دیگر باره به هندوستان
+titleAz: 'İqbalnamə, fəsil 35'
+titleRu: 'Икбал-наме, глава 35'
 titleFa: بخش ۳۵ - گذار کردن اسکندر دیگر باره به هندوستان
+titleEn: 'Iqbalnama, chapter 35'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

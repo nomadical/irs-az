@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-6
 sourceId: ganjoor-9155
-titleAz: بخش ۶ - در حسب حال و انجام روزگار
+titleAz: 'Şərəfnamə, fəsil 6'
+titleRu: 'Шараф-наме, глава 6'
 titleFa: بخش ۶ - در حسب حال و انجام روزگار
+titleEn: 'Sharafnama, chapter 6'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

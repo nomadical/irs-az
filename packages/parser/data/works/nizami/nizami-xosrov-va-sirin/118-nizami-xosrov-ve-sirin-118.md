@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-118
 sourceId: ganjoor-8982
-titleAz: بخش ۱۱۸ - معراج پیغمبر
+titleAz: 'Xosrov və Şirin, fəsil 118'
+titleRu: 'Хосров и Ширин, глава 118'
 titleFa: بخش ۱۱۸ - معراج پیغمبر
+titleEn: 'Khosrow and Shirin, chapter 118'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

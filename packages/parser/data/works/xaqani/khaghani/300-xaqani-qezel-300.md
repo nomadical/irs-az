@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-300
 sourceId: ganjoor-14669
-titleAz: غزل شمارهٔ ۳۰۰
+titleAz: Qəzəl 300
+titleRu: Газель 300
 titleFa: غزل شمارهٔ ۳۰۰
+titleEn: Ghazal 300
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

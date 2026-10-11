@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-35
 sourceId: ganjoor-117152
-titleAz: شمارهٔ ۳۵
+titleAz: Qitə 35
+titleRu: Кыта 35
 titleFa: شمارهٔ ۳۵
+titleEn: Qit'a 35
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

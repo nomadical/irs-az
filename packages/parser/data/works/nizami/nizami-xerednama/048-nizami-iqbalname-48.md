@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-48
 sourceId: ganjoor-9260
-titleAz: بخش ۴۸ - انجامش روزگار نظامی
+titleAz: 'İqbalnamə, fəsil 48'
+titleRu: 'Икбал-наме, глава 48'
 titleFa: بخش ۴۸ - انجامش روزگار نظامی
+titleEn: 'Iqbalnama, chapter 48'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

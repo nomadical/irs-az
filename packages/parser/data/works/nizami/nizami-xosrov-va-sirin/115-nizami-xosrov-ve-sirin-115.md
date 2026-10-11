@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-115
 sourceId: ganjoor-8979
-titleAz: بخش ۱۱۵ - در نصیحت فرزند خود محمد گوید
+titleAz: 'Xosrov və Şirin, fəsil 115'
+titleRu: 'Хосров и Ширин, глава 115'
 titleFa: بخش ۱۱۵ - در نصیحت فرزند خود محمد گوید
+titleEn: 'Khosrow and Shirin, chapter 115'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

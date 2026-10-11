@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-188
 sourceId: ganjoor-116894
-titleAz: شمارهٔ ۱۸۸
+titleAz: Qəzəl 188
+titleRu: Газель 188
 titleFa: شمارهٔ ۱۸۸
+titleEn: Ghazal 188
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

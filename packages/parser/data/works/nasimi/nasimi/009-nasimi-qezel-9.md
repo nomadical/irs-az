@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-9
 sourceId: ganjoor-117304
-titleAz: شمارهٔ ۹
+titleAz: Qəzəl 9
+titleRu: Газель 9
 titleFa: شمارهٔ ۹
+titleEn: Ghazal 9
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

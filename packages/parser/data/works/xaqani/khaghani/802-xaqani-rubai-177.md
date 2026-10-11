@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-177
 sourceId: ganjoor-15172
-titleAz: رباعی شمارهٔ   ۱۷۷
+titleAz: Rübai 177
+titleRu: Рубаи 177
 titleFa: رباعی شمارهٔ   ۱۷۷
+titleEn: Rubai 177
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

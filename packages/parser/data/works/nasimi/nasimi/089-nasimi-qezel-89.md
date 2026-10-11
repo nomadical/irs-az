@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-89
 sourceId: ganjoor-117384
-titleAz: شمارهٔ ۸۹
+titleAz: Qəzəl 89
+titleRu: Газель 89
 titleFa: شمارهٔ ۸۹
+titleEn: Ghazal 89
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

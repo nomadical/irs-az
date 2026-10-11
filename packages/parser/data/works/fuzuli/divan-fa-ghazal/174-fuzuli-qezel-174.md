@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-174
 sourceId: ganjoor-116880
-titleAz: شمارهٔ ۱۷۴
+titleAz: Qəzəl 174
+titleRu: Газель 174
 titleFa: شمارهٔ ۱۷۴
+titleEn: Ghazal 174
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

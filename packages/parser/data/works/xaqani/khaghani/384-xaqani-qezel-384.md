@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-384
 sourceId: ganjoor-14753
-titleAz: غزل شمارهٔ ۳۸۴
+titleAz: Qəzəl 384
+titleRu: Газель 384
 titleFa: غزل شمارهٔ ۳۸۴
+titleEn: Ghazal 384
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

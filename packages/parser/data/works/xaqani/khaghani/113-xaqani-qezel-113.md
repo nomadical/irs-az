@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-113
 sourceId: ganjoor-14482
-titleAz: غزل شمارهٔ ۱۱۳
+titleAz: Qəzəl 113
+titleRu: Газель 113
 titleFa: غزل شمارهٔ ۱۱۳
+titleEn: Ghazal 113
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

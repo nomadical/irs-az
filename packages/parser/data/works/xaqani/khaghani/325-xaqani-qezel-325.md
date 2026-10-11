@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-325
 sourceId: ganjoor-14694
-titleAz: غزل شمارهٔ ۳۲۵
+titleAz: Qəzəl 325
+titleRu: Газель 325
 titleFa: غزل شمارهٔ ۳۲۵
+titleEn: Ghazal 325
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

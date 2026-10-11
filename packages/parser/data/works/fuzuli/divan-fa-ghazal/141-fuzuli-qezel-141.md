@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-141
 sourceId: ganjoor-116847
-titleAz: شمارهٔ ۱۴۱
+titleAz: Qəzəl 141
+titleRu: Газель 141
 titleFa: شمارهٔ ۱۴۱
+titleEn: Ghazal 141
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-25
 sourceId: ganjoor-116731
-titleAz: شمارهٔ ۲۵
+titleAz: Qəzəl 25
+titleRu: Газель 25
 titleFa: شمارهٔ ۲۵
+titleEn: Ghazal 25
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

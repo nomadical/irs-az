@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-42
 sourceId: ganjoor-133766
-titleAz: شمارهٔ ۴۲
+titleAz: Rübai 42
+titleRu: Рубаи 42
 titleFa: شمارهٔ ۴۲
+titleEn: Rubai 42
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

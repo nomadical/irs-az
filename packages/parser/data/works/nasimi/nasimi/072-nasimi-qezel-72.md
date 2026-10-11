@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-72
 sourceId: ganjoor-117367
-titleAz: شمارهٔ ۷۲
+titleAz: Qəzəl 72
+titleRu: Газель 72
 titleFa: شمارهٔ ۷۲
+titleEn: Ghazal 72
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

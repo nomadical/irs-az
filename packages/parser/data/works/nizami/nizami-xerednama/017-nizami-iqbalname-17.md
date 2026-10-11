@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-17
 sourceId: ganjoor-9229
-titleAz: بخش ۱۷ - احوال سقراط با اسکندر
+titleAz: 'İqbalnamə, fəsil 17'
+titleRu: 'Икбал-наме, глава 17'
 titleFa: بخش ۱۷ - احوال سقراط با اسکندر
+titleEn: 'Iqbalnama, chapter 17'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

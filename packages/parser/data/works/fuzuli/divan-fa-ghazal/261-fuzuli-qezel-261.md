@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-261
 sourceId: ganjoor-116967
-titleAz: شمارهٔ ۲۶۱
+titleAz: Qəzəl 261
+titleRu: Газель 261
 titleFa: شمارهٔ ۲۶۱
+titleEn: Ghazal 261
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

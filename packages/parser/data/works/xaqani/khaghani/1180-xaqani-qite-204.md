@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-204
 sourceId: ganjoor-27867
-titleAz: شمارهٔ ۲۰۴
+titleAz: Qitə 204
+titleRu: Кыта 204
 titleFa: شمارهٔ ۲۰۴
+titleEn: Qit'a 204
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-80
 sourceId: ganjoor-8944
-titleAz: بخش ۸۰ - غزل گفتن نکیسا از زبان شیرین
+titleAz: 'Xosrov və Şirin, fəsil 80'
+titleRu: 'Хосров и Ширин, глава 80'
 titleFa: بخش ۸۰ - غزل گفتن نکیسا از زبان شیرین
+titleEn: 'Khosrow and Shirin, chapter 80'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

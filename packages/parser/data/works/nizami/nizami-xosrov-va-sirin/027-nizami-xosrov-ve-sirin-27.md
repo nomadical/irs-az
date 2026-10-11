@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-27
 sourceId: ganjoor-8891
-titleAz: بخش ۲۷ - ترتیب کردن کوشک برای شیرین
+titleAz: 'Xosrov və Şirin, fəsil 27'
+titleRu: 'Хосров и Ширин, глава 27'
 titleFa: بخش ۲۷ - ترتیب کردن کوشک برای شیرین
+titleEn: 'Khosrow and Shirin, chapter 27'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

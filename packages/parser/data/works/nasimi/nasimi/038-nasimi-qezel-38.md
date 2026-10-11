@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-38
 sourceId: ganjoor-117333
-titleAz: شمارهٔ ۳۸
+titleAz: Qəzəl 38
+titleRu: Газель 38
 titleFa: شمارهٔ ۳۸
+titleEn: Ghazal 38
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

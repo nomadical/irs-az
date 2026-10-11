@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-43
 sourceId: ganjoor-117338
-titleAz: شمارهٔ ۴۳
+titleAz: Qəzəl 43
+titleRu: Газель 43
 titleFa: شمارهٔ ۴۳
+titleEn: Ghazal 43
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

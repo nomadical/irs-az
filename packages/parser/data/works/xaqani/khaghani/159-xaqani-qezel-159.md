@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-159
 sourceId: ganjoor-14528
-titleAz: غزل شمارهٔ ۱۵۹
+titleAz: Qəzəl 159
+titleRu: Газель 159
 titleFa: غزل شمارهٔ ۱۵۹
+titleEn: Ghazal 159
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

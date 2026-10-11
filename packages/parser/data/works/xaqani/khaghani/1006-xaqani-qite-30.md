@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-30
 sourceId: ganjoor-27693
-titleAz: شمارهٔ ۳۰ - در مدح جلال الدین الخزاری
+titleAz: Qitə 30
+titleRu: Кыта 30
 titleFa: شمارهٔ ۳۰ - در مدح جلال الدین الخزاری
+titleEn: Qit'a 30
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

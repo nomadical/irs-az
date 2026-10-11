@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-79
 sourceId: ganjoor-8943
-titleAz: بخش ۷۹ - پشیمان شدن شیرین از رفتن خسرو
+titleAz: 'Xosrov və Şirin, fəsil 79'
+titleRu: 'Хосров и Ширин, глава 79'
 titleFa: بخش ۷۹ - پشیمان شدن شیرین از رفتن خسرو
+titleEn: 'Khosrow and Shirin, chapter 79'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

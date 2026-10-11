@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-163
 sourceId: ganjoor-14933
-titleAz: شمارهٔ ۱۶۳ - مطلع دوم
+titleAz: Qəsidə 163
+titleRu: Касыда 163
 titleFa: شمارهٔ ۱۶۳ - مطلع دوم
+titleEn: Qasida 163
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

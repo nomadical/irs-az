@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-22
 sourceId: ganjoor-116678
-titleAz: شمارهٔ ۲۲
+titleAz: Qəsidə 22
+titleRu: Касыда 22
 titleFa: شمارهٔ ۲۲
+titleEn: Qasida 22
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

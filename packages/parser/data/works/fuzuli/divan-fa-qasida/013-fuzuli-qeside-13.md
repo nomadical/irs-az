@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-13
 sourceId: ganjoor-116669
-titleAz: شمارهٔ ۱۳
+titleAz: Qəsidə 13
+titleRu: Касыда 13
 titleFa: شمارهٔ ۱۳
+titleEn: Qasida 13
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

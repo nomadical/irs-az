@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-253
 sourceId: ganjoor-27916
-titleAz: شمارهٔ ۲۵۳
+titleAz: Qitə 253
+titleRu: Кыта 253
 titleFa: شمارهٔ ۲۵۳
+titleEn: Qit'a 253
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

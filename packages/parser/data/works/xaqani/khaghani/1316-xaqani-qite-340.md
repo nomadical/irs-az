@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-340
 sourceId: ganjoor-28003
-titleAz: شمارهٔ ۳۴۰ - در مرثیهٔ اسپهبد کیالواشیر
+titleAz: Qitə 340
+titleRu: Кыта 340
 titleFa: شمارهٔ ۳۴۰ - در مرثیهٔ اسپهبد کیالواشیر
+titleEn: Qit'a 340
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

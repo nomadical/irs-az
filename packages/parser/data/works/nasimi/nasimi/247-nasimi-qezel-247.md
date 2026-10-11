@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-247
 sourceId: ganjoor-117542
-titleAz: شمارهٔ ۲۴۷
+titleAz: Qəzəl 247
+titleRu: Газель 247
 titleFa: شمارهٔ ۲۴۷
+titleEn: Ghazal 247
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

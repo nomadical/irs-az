@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-141
 sourceId: ganjoor-50201
-titleAz: رباعی شمارۀ ۱۴۱
+titleAz: 'Rübailər, 141'
+titleRu: 'Рубайят, 141'
 titleFa: رباعی شمارۀ ۱۴۱
+titleEn: 'Rubaiyat, 141'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

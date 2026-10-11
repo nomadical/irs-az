@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-8
 sourceId: ganjoor-8872
-titleAz: بخش ۸ - ستایش اتابک اعظم شمس‌الدین ابوجعفر محمدبن ایلدگز
+titleAz: 'Xosrov və Şirin, fəsil 8'
+titleRu: 'Хосров и Ширин, глава 8'
 titleFa: بخش ۸ - ستایش اتابک اعظم شمس‌الدین ابوجعفر محمدبن ایلدگز
+titleEn: 'Khosrow and Shirin, chapter 8'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

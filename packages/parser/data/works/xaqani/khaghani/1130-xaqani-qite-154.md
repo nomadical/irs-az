@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-154
 sourceId: ganjoor-27817
-titleAz: شمارهٔ ۱۵۴
+titleAz: Qitə 154
+titleRu: Кыта 154
 titleFa: شمارهٔ ۱۵۴
+titleEn: Qit'a 154
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

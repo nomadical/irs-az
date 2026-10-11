@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-235
 sourceId: ganjoor-116941
-titleAz: شمارهٔ ۲۳۵
+titleAz: Qəzəl 235
+titleRu: Газель 235
 titleFa: شمارهٔ ۲۳۵
+titleEn: Ghazal 235
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

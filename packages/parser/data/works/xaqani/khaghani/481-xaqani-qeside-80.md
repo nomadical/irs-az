@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-80
 sourceId: ganjoor-14850
-titleAz: شمارهٔ ۸۰ - مطلع دوم
+titleAz: Qəsidə 80
+titleRu: Касыда 80
 titleFa: شمارهٔ ۸۰ - مطلع دوم
+titleEn: Qasida 80
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

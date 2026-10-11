@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-11
 sourceId: ganjoor-14781
-titleAz: شمارهٔ ۱۱ - در صفت عشق و مدح شیخ الاسلام ناصر الدین ابراهیم
+titleAz: Qəsidə 11
+titleRu: Касыда 11
 titleFa: شمارهٔ ۱۱ - در صفت عشق و مدح شیخ الاسلام ناصر الدین ابراهیم
+titleEn: Qasida 11
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

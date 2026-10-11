@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-42
 sourceId: ganjoor-116748
-titleAz: شمارهٔ ۴۲
+titleAz: Qəzəl 42
+titleRu: Газель 42
 titleFa: شمارهٔ ۴۲
+titleEn: Ghazal 42
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

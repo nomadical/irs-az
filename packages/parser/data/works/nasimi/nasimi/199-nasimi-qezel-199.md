@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-199
 sourceId: ganjoor-117494
-titleAz: شمارهٔ ۱۹۹
+titleAz: Qəzəl 199
+titleRu: Газель 199
 titleFa: شمارهٔ ۱۹۹
+titleEn: Ghazal 199
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

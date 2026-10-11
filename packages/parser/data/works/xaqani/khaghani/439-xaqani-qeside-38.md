@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-38
 sourceId: ganjoor-14808
-titleAz: شمارهٔ ۳۸ - در رثاء بهاء الدین احمد
+titleAz: Qəsidə 38
+titleRu: Касыда 38
 titleFa: شمارهٔ ۳۸ - در رثاء بهاء الدین احمد
+titleEn: Qasida 38
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

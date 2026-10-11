@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-167
 sourceId: ganjoor-15162
-titleAz: رباعی شمارهٔ   ۱۶۷
+titleAz: Rübai 167
+titleRu: Рубаи 167
 titleFa: رباعی شمارهٔ   ۱۶۷
+titleEn: Rubai 167
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

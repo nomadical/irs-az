@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-349
 sourceId: ganjoor-117055
-titleAz: شمارهٔ ۳۴۹
+titleAz: Qəzəl 349
+titleRu: Газель 349
 titleFa: شمارهٔ ۳۴۹
+titleEn: Ghazal 349
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

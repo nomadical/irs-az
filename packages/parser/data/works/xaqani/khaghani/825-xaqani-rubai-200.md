@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-200
 sourceId: ganjoor-15195
-titleAz: رباعی شمارهٔ   ۲۰۰
+titleAz: Rübai 200
+titleRu: Рубаи 200
 titleFa: رباعی شمارهٔ   ۲۰۰
+titleEn: Rubai 200
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-118
 sourceId: ganjoor-14888
-titleAz: شمارهٔ ۱۱۸ - مطلع دوم
+titleAz: Qəsidə 118
+titleRu: Касыда 118
 titleFa: شمارهٔ ۱۱۸ - مطلع دوم
+titleEn: Qasida 118
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

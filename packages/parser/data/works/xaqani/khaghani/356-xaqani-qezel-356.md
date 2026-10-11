@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-356
 sourceId: ganjoor-14725
-titleAz: غزل شمارهٔ ۳۵۶
+titleAz: Qəzəl 356
+titleRu: Газель 356
 titleFa: غزل شمارهٔ ۳۵۶
+titleEn: Ghazal 356
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

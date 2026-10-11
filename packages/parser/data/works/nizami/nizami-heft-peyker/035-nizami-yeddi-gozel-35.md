@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-35
 sourceId: ganjoor-9083
-titleAz: بخش ۳۵ - شکایت کردن هفت مظلوم
+titleAz: 'Yeddi gözəl, fəsil 35'
+titleRu: 'Семь красавиц, глава 35'
 titleFa: بخش ۳۵ - شکایت کردن هفت مظلوم
+titleEn: 'The Seven Beauties, chapter 35'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

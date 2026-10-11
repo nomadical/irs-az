@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-95
 sourceId: ganjoor-14464
-titleAz: غزل شمارهٔ ۹۵
+titleAz: Qəzəl 95
+titleRu: Газель 95
 titleFa: غزل شمارهٔ ۹۵
+titleEn: Ghazal 95
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

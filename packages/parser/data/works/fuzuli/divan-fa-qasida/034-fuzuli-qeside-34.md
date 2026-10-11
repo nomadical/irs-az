@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-34
 sourceId: ganjoor-116690
-titleAz: شمارهٔ ۳۴
+titleAz: Qəsidə 34
+titleRu: Касыда 34
 titleFa: شمارهٔ ۳۴
+titleEn: Qasida 34
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

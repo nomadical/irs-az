@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-222
 sourceId: ganjoor-14992
-titleAz: شمارهٔ ۲۲۲ - در مدح ابوالمظفر جلال الدین شروان شاه اخستان
+titleAz: Qəsidə 222
+titleRu: Касыда 222
 titleFa: شمارهٔ ۲۲۲ - در مدح ابوالمظفر جلال الدین شروان شاه اخستان
+titleEn: Qasida 222
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

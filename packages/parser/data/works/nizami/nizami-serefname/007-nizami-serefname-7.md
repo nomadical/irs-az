@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-7
 sourceId: ganjoor-9156
-titleAz: بخش ۷ - در شرف این نامه بر دیگر نامه‌ها
+titleAz: 'Şərəfnamə, fəsil 7'
+titleRu: 'Шараф-наме, глава 7'
 titleFa: بخش ۷ - در شرف این نامه بر دیگر نامه‌ها
+titleEn: 'Sharafnama, chapter 7'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

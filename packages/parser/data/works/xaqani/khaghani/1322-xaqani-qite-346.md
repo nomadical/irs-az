@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-346
 sourceId: ganjoor-28009
-titleAz: شمارهٔ ۳۴۶ - در مرثیهٔ اهل بیت خود
+titleAz: Qitə 346
+titleRu: Кыта 346
 titleFa: شمارهٔ ۳۴۶ - در مرثیهٔ اهل بیت خود
+titleEn: Qit'a 346
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

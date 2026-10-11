@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-371
 sourceId: ganjoor-117077
-titleAz: شمارهٔ ۳۷۱
+titleAz: Qəzəl 371
+titleRu: Газель 371
 titleFa: شمارهٔ ۳۷۱
+titleEn: Ghazal 371
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

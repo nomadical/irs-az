@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-152
 sourceId: ganjoor-15147
-titleAz: رباعی شمارهٔ   ۱۵۲
+titleAz: Rübai 152
+titleRu: Рубаи 152
 titleFa: رباعی شمارهٔ   ۱۵۲
+titleEn: Rubai 152
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

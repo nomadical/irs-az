@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-364
 sourceId: ganjoor-117070
-titleAz: شمارهٔ ۳۶۴
+titleAz: Qəzəl 364
+titleRu: Газель 364
 titleFa: شمارهٔ ۳۶۴
+titleEn: Ghazal 364
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

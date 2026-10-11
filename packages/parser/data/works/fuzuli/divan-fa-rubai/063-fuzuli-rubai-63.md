@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-63
 sourceId: ganjoor-117227
-titleAz: شمارهٔ ۶۳
+titleAz: Rübai 63
+titleRu: Рубаи 63
 titleFa: شمارهٔ ۶۳
+titleEn: Rubai 63
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

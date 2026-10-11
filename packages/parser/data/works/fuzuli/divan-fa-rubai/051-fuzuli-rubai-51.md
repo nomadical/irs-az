@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-51
 sourceId: ganjoor-117215
-titleAz: شمارهٔ ۵۱
+titleAz: Rübai 51
+titleRu: Рубаи 51
 titleFa: شمارهٔ ۵۱
+titleEn: Rubai 51
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

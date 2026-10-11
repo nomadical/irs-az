@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-66
 sourceId: ganjoor-14836
-titleAz: شمارهٔ ۶۶ - مطلع سوم
+titleAz: Qəsidə 66
+titleRu: Касыда 66
 titleFa: شمارهٔ ۶۶ - مطلع سوم
+titleEn: Qasida 66
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

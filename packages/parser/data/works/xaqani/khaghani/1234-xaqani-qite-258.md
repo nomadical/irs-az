@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-258
 sourceId: ganjoor-27921
-titleAz: شمارهٔ ۲۵۸
+titleAz: Qitə 258
+titleRu: Кыта 258
 titleFa: شمارهٔ ۲۵۸
+titleEn: Qit'a 258
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

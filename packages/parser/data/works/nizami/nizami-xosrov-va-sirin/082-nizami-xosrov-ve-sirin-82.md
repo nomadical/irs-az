@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-82
 sourceId: ganjoor-8946
-titleAz: بخش ۸۲ - سرود گفتن نکیسا از زبان شیرین
+titleAz: 'Xosrov və Şirin, fəsil 82'
+titleRu: 'Хосров и Ширин, глава 82'
 titleFa: بخش ۸۲ - سرود گفتن نکیسا از زبان شیرین
+titleEn: 'Khosrow and Shirin, chapter 82'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

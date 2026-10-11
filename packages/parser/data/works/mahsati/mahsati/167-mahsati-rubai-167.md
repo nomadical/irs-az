@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-167
 sourceId: ganjoor-133891
-titleAz: شمارهٔ ۱۶۷
+titleAz: Rübai 167
+titleRu: Рубаи 167
 titleFa: شمارهٔ ۱۶۷
+titleEn: Rubai 167
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-179
 sourceId: ganjoor-27842
-titleAz: شمارهٔ ۱۷۹
+titleAz: Qitə 179
+titleRu: Кыта 179
 titleFa: شمارهٔ ۱۷۹
+titleEn: Qit'a 179
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-99
 sourceId: ganjoor-117263
-titleAz: شمارهٔ ۹۹
+titleAz: Rübai 99
+titleRu: Рубаи 99
 titleFa: شمارهٔ ۹۹
+titleEn: Rubai 99
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

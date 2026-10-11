@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-30
 sourceId: ganjoor-14800
-titleAz: شمارهٔ ۳۰ - وله ایضا
+titleAz: Qəsidə 30
+titleRu: Касыда 30
 titleFa: شمارهٔ ۳۰ - وله ایضا
+titleEn: Qasida 30
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

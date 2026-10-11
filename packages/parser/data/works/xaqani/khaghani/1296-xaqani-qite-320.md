@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-320
 sourceId: ganjoor-27983
-titleAz: شمارهٔ ۳۲۰
+titleAz: Qitə 320
+titleRu: Кыта 320
 titleFa: شمارهٔ ۳۲۰
+titleEn: Qit'a 320
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

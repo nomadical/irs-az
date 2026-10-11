@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-375
 sourceId: ganjoor-117081
-titleAz: شمارهٔ ۳۷۵
+titleAz: Qəzəl 375
+titleRu: Газель 375
 titleFa: شمارهٔ ۳۷۵
+titleEn: Ghazal 375
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

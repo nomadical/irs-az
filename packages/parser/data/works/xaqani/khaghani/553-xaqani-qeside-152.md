@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-152
 sourceId: ganjoor-14922
-titleAz: شمارهٔ ۱۵۲ - در ستایش مظفر الدین قزل ارسلان ایلدگز
+titleAz: Qəsidə 152
+titleRu: Касыда 152
 titleFa: شمارهٔ ۱۵۲ - در ستایش مظفر الدین قزل ارسلان ایلدگز
+titleEn: Qasida 152
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

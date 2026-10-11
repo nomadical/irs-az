@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-230
 sourceId: ganjoor-117525
-titleAz: شمارهٔ ۲۳۰
+titleAz: Qəzəl 230
+titleRu: Газель 230
 titleFa: شمارهٔ ۲۳۰
+titleEn: Ghazal 230
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

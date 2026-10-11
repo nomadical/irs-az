@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-39
 sourceId: ganjoor-9188
-titleAz: بخش ۳۹ - رفتن اسکندر به ری و خراسان
+titleAz: 'Şərəfnamə, fəsil 39'
+titleRu: 'Шараф-наме, глава 39'
 titleFa: بخش ۳۹ - رفتن اسکندر به ری و خراسان
+titleEn: 'Sharafnama, chapter 39'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

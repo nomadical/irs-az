@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-407
 sourceId: ganjoor-117113
-titleAz: شمارهٔ ۴۰۷
+titleAz: Qəzəl 407
+titleRu: Газель 407
 titleFa: شمارهٔ ۴۰۷
+titleEn: Ghazal 407
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

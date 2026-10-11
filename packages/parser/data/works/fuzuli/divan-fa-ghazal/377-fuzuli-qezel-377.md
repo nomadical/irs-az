@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-377
 sourceId: ganjoor-117083
-titleAz: شمارهٔ ۳۷۷
+titleAz: Qəzəl 377
+titleRu: Газель 377
 titleFa: شمارهٔ ۳۷۷
+titleEn: Ghazal 377
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

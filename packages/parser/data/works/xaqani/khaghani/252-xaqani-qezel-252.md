@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-252
 sourceId: ganjoor-14621
-titleAz: غزل شمارهٔ ۲۵۲
+titleAz: Qəzəl 252
+titleRu: Газель 252
 titleFa: غزل شمارهٔ ۲۵۲
+titleEn: Ghazal 252
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

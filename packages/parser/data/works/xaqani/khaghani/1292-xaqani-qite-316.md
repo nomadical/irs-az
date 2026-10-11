@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-316
 sourceId: ganjoor-27979
-titleAz: شمارهٔ ۳۱۶
+titleAz: Qitə 316
+titleRu: Кыта 316
 titleFa: شمارهٔ ۳۱۶
+titleEn: Qit'a 316
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-90
 sourceId: ganjoor-117385
-titleAz: شمارهٔ ۹۰
+titleAz: Qəzəl 90
+titleRu: Газель 90
 titleFa: شمارهٔ ۹۰
+titleEn: Ghazal 90
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

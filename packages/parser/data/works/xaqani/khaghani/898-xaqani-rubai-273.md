@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-273
 sourceId: ganjoor-15268
-titleAz: رباعی شمارهٔ   ۲۷۳
+titleAz: Rübai 273
+titleRu: Рубаи 273
 titleFa: رباعی شمارهٔ   ۲۷۳
+titleEn: Rubai 273
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

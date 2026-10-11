@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-115
 sourceId: ganjoor-117410
-titleAz: شمارهٔ ۱۱۵
+titleAz: Qəzəl 115
+titleRu: Газель 115
 titleFa: شمارهٔ ۱۱۵
+titleEn: Ghazal 115
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

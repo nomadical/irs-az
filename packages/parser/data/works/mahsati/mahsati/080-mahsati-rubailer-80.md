@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-80
 sourceId: ganjoor-50140
-titleAz: رباعی شمارۀ ۸۰
+titleAz: 'Rübailər, 80'
+titleRu: 'Рубайят, 80'
 titleFa: رباعی شمارۀ ۸۰
+titleEn: 'Rubaiyat, 80'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

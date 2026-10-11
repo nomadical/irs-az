@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-77
 sourceId: ganjoor-27740
-titleAz: شمارهٔ ۷۷ - در استغناء طبع خویش
+titleAz: Qitə 77
+titleRu: Кыта 77
 titleFa: شمارهٔ ۷۷ - در استغناء طبع خویش
+titleEn: Qit'a 77
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

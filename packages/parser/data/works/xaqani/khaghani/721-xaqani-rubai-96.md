@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-96
 sourceId: ganjoor-15091
-titleAz: رباعی شمارهٔ   ۹۶
+titleAz: Rübai 96
+titleRu: Рубаи 96
 titleFa: رباعی شمارهٔ   ۹۶
+titleEn: Rubai 96
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

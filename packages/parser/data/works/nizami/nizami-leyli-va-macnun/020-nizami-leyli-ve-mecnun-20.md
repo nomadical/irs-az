@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-20
 sourceId: ganjoor-9022
-titleAz: بخش ۲۰ - خواستاری ابن‌سلام لیلی را
+titleAz: 'Leyli və Məcnun, fəsil 20'
+titleRu: 'Лейли и Меджнун, глава 20'
 titleFa: بخش ۲۰ - خواستاری ابن‌سلام لیلی را
+titleEn: 'Layla and Majnun, chapter 20'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

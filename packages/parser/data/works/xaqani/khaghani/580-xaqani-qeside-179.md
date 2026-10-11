@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-179
 sourceId: ganjoor-14949
-titleAz: شمارهٔ ۱۷۹ - در مدح ابوالمظفر شروان شاه
+titleAz: Qəsidə 179
+titleRu: Касыда 179
 titleFa: شمارهٔ ۱۷۹ - در مدح ابوالمظفر شروان شاه
+titleEn: Qasida 179
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-12
 sourceId: ganjoor-14381
-titleAz: غزل شمارهٔ ۱۲
+titleAz: Qəzəl 12
+titleRu: Газель 12
 titleFa: غزل شمارهٔ ۱۲
+titleEn: Ghazal 12
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

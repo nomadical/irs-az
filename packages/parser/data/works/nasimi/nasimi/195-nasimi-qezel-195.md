@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-195
 sourceId: ganjoor-117490
-titleAz: شمارهٔ ۱۹۵
+titleAz: Qəzəl 195
+titleRu: Газель 195
 titleFa: شمارهٔ ۱۹۵
+titleEn: Ghazal 195
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

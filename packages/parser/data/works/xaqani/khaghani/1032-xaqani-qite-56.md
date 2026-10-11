@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-56
 sourceId: ganjoor-27719
-titleAz: شمارهٔ ۵۶ - در مدح جمال الدین موصلی وزیر
+titleAz: Qitə 56
+titleRu: Кыта 56
 titleFa: شمارهٔ ۵۶ - در مدح جمال الدین موصلی وزیر
+titleEn: Qit'a 56
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

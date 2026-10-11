@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-264
 sourceId: ganjoor-117559
-titleAz: شمارهٔ ۲۶۴
+titleAz: Qəzəl 264
+titleRu: Газель 264
 titleFa: شمارهٔ ۲۶۴
+titleEn: Ghazal 264
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

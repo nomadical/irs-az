@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-74
 sourceId: ganjoor-117238
-titleAz: شمارهٔ ۷۴
+titleAz: Rübai 74
+titleRu: Рубаи 74
 titleFa: شمارهٔ ۷۴
+titleEn: Rubai 74
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

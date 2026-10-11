@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-162
 sourceId: ganjoor-116868
-titleAz: شمارهٔ ۱۶۲
+titleAz: Qəzəl 162
+titleRu: Газель 162
 titleFa: شمارهٔ ۱۶۲
+titleEn: Ghazal 162
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

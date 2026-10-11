@@ -1,8 +1,10 @@
 ---
 slug: nasimi-mesnevi-3
 sourceId: ganjoor-117600
-titleAz: شمارهٔ ۳
+titleAz: Məsnəvi 3
+titleRu: Маснави 3
 titleFa: شمارهٔ ۳
+titleEn: Masnavi 3
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

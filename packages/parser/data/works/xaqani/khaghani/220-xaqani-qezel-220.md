@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-220
 sourceId: ganjoor-14589
-titleAz: غزل شمارهٔ ۲۲۰
+titleAz: Qəzəl 220
+titleRu: Газель 220
 titleFa: غزل شمارهٔ ۲۲۰
+titleEn: Ghazal 220
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

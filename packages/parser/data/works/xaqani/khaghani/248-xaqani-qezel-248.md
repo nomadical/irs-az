@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-248
 sourceId: ganjoor-14617
-titleAz: غزل شمارهٔ ۲۴۸
+titleAz: Qəzəl 248
+titleRu: Газель 248
 titleFa: غزل شمارهٔ ۲۴۸
+titleEn: Ghazal 248
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

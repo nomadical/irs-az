@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-45
 sourceId: ganjoor-9194
-titleAz: بخش ۴۵ - مهمانی کردن خاقان چین اسکندر را
+titleAz: 'Şərəfnamə, fəsil 45'
+titleRu: 'Шараф-наме, глава 45'
 titleFa: بخش ۴۵ - مهمانی کردن خاقان چین اسکندر را
+titleEn: 'Sharafnama, chapter 45'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

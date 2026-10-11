@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-106
 sourceId: ganjoor-14475
-titleAz: غزل شمارهٔ ۱۰۶
+titleAz: Qəzəl 106
+titleRu: Газель 106
 titleFa: غزل شمارهٔ ۱۰۶
+titleEn: Ghazal 106
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

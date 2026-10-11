@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-32
 sourceId: ganjoor-9181
-titleAz: بخش ۳۲ - رفتن اسکندر به جانب مغرب و زیارت کعبه
+titleAz: 'Şərəfnamə, fəsil 32'
+titleRu: 'Шараф-наме, глава 32'
 titleFa: بخش ۳۲ - رفتن اسکندر به جانب مغرب و زیارت کعبه
+titleEn: 'Sharafnama, chapter 32'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

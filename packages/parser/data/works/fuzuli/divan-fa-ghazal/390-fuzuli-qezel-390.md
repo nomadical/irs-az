@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-390
 sourceId: ganjoor-117096
-titleAz: شمارهٔ ۳۹۰
+titleAz: Qəzəl 390
+titleRu: Газель 390
 titleFa: شمارهٔ ۳۹۰
+titleEn: Ghazal 390
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

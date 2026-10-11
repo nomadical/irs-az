@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-149
 sourceId: ganjoor-15144
-titleAz: رباعی شمارهٔ   ۱۴۹
+titleAz: Rübai 149
+titleRu: Рубаи 149
 titleFa: رباعی شمارهٔ   ۱۴۹
+titleEn: Rubai 149
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

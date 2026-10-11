@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-16
 sourceId: ganjoor-14786
-titleAz: شمارهٔ ۱۶ - مطلع دوم
+titleAz: Qəsidə 16
+titleRu: Касыда 16
 titleFa: شمارهٔ ۱۶ - مطلع دوم
+titleEn: Qasida 16
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

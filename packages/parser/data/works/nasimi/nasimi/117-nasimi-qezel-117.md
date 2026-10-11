@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-117
 sourceId: ganjoor-117412
-titleAz: شمارهٔ ۱۱۷
+titleAz: Qəzəl 117
+titleRu: Газель 117
 titleFa: شمارهٔ ۱۱۷
+titleEn: Ghazal 117
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

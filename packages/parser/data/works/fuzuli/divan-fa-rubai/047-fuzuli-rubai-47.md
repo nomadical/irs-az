@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-47
 sourceId: ganjoor-117211
-titleAz: شمارهٔ ۴۷
+titleAz: Rübai 47
+titleRu: Рубаи 47
 titleFa: شمارهٔ ۴۷
+titleEn: Rubai 47
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-96
 sourceId: ganjoor-116802
-titleAz: شمارهٔ ۹۶
+titleAz: Qəzəl 96
+titleRu: Газель 96
 titleFa: شمارهٔ ۹۶
+titleEn: Ghazal 96
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

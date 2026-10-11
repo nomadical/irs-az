@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-16
 sourceId: ganjoor-9064
-titleAz: بخش ۱۶ - نامه پادشاه ایران به بهرام‌گور
+titleAz: 'Yeddi gözəl, fəsil 16'
+titleRu: 'Семь красавиц, глава 16'
 titleFa: بخش ۱۶ - نامه پادشاه ایران به بهرام‌گور
+titleEn: 'The Seven Beauties, chapter 16'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

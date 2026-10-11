@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-170
 sourceId: ganjoor-15165
-titleAz: رباعی شمارهٔ   ۱۷۰
+titleAz: Rübai 170
+titleRu: Рубаи 170
 titleFa: رباعی شمارهٔ   ۱۷۰
+titleEn: Rubai 170
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

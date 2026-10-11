@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-57
 sourceId: ganjoor-50117
-titleAz: رباعی شمارۀ ۵۷
+titleAz: 'Rübailər, 57'
+titleRu: 'Рубайят, 57'
 titleFa: رباعی شمارۀ ۵۷
+titleEn: 'Rubaiyat, 57'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

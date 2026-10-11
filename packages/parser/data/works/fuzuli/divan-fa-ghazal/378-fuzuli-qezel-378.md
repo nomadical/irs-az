@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-378
 sourceId: ganjoor-117084
-titleAz: شمارهٔ ۳۷۸
+titleAz: Qəzəl 378
+titleRu: Газель 378
 titleFa: شمارهٔ ۳۷۸
+titleEn: Ghazal 378
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

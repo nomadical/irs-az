@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-22
 sourceId: ganjoor-9070
-titleAz: بخش ۲۲ - لشکر کشیدن خاقان چین به جنگ بهرام‌گور
+titleAz: 'Yeddi gözəl, fəsil 22'
+titleRu: 'Семь красавиц, глава 22'
 titleFa: بخش ۲۲ - لشکر کشیدن خاقان چین به جنگ بهرام‌گور
+titleEn: 'The Seven Beauties, chapter 22'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

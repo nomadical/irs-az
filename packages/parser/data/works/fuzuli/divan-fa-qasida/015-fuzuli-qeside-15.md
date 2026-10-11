@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-15
 sourceId: ganjoor-116671
-titleAz: شمارهٔ ۱۵
+titleAz: Qəsidə 15
+titleRu: Касыда 15
 titleFa: شمارهٔ ۱۵
+titleEn: Qasida 15
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-41
 sourceId: ganjoor-15036
-titleAz: رباعی شمارهٔ   ۴۱
+titleAz: Rübai 41
+titleRu: Рубаи 41
 titleFa: رباعی شمارهٔ   ۴۱
+titleEn: Rubai 41
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

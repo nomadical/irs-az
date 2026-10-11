@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-44
 sourceId: ganjoor-133768
-titleAz: شمارهٔ ۴۴
+titleAz: Rübai 44
+titleRu: Рубаи 44
 titleFa: شمارهٔ ۴۴
+titleEn: Rubai 44
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

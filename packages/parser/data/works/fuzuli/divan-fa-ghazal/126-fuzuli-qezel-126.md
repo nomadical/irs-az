@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-126
 sourceId: ganjoor-116832
-titleAz: شمارهٔ ۱۲۶
+titleAz: Qəzəl 126
+titleRu: Газель 126
 titleFa: شمارهٔ ۱۲۶
+titleEn: Ghazal 126
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

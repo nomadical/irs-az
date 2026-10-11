@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-314
 sourceId: ganjoor-27977
-titleAz: شمارهٔ ۳۱۴ - در شکایت از روزگار
+titleAz: Qitə 314
+titleRu: Кыта 314
 titleFa: شمارهٔ ۳۱۴ - در شکایت از روزگار
+titleEn: Qit'a 314
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

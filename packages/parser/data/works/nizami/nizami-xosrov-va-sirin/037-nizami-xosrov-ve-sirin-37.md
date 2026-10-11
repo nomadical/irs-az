@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-37
 sourceId: ganjoor-8901
-titleAz: بخش ۳۷ - صفت بهار و عیش خسرو و شیرین
+titleAz: 'Xosrov və Şirin, fəsil 37'
+titleRu: 'Хосров и Ширин, глава 37'
 titleFa: بخش ۳۷ - صفت بهار و عیش خسرو و شیرین
+titleEn: 'Khosrow and Shirin, chapter 37'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-31
 sourceId: ganjoor-8895
-titleAz: بخش ۳۱ - آگاهی خسرو از مرگ پدر
+titleAz: 'Xosrov və Şirin, fəsil 31'
+titleRu: 'Хосров и Ширин, глава 31'
 titleFa: بخش ۳۱ - آگاهی خسرو از مرگ پدر
+titleEn: 'Khosrow and Shirin, chapter 31'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

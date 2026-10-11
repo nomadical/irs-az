@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-59
 sourceId: ganjoor-27722
-titleAz: شمارهٔ ۵۹ - در وصول ده شتر از امیر الحاج
+titleAz: Qitə 59
+titleRu: Кыта 59
 titleFa: شمارهٔ ۵۹ - در وصول ده شتر از امیر الحاج
+titleEn: Qit'a 59
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

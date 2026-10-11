@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-31
 sourceId: ganjoor-133755
-titleAz: شمارهٔ ۳۱
+titleAz: Rübai 31
+titleRu: Рубаи 31
 titleFa: شمارهٔ ۳۱
+titleEn: Rubai 31
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

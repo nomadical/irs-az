@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-42
 sourceId: ganjoor-117337
-titleAz: شمارهٔ ۴۲
+titleAz: Qəzəl 42
+titleRu: Газель 42
 titleFa: شمارهٔ ۴۲
+titleEn: Ghazal 42
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

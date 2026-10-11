@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-185
 sourceId: ganjoor-14554
-titleAz: غزل شمارهٔ ۱۸۵
+titleAz: Qəzəl 185
+titleRu: Газель 185
 titleFa: غزل شمارهٔ ۱۸۵
+titleEn: Ghazal 185
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

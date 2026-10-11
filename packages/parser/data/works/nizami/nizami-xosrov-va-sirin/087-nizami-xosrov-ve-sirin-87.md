@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-87
 sourceId: ganjoor-8951
-titleAz: بخش ۸۷ - سرود گفتن باربد از زبان خسرو
+titleAz: 'Xosrov və Şirin, fəsil 87'
+titleRu: 'Хосров и Ширин, глава 87'
 titleFa: بخش ۸۷ - سرود گفتن باربد از زبان خسرو
+titleEn: 'Khosrow and Shirin, chapter 87'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

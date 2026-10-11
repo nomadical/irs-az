@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-58
 sourceId: ganjoor-9207
-titleAz: بخش ۵۸ - نشاط کردن اسکندر با کنیزک چینی
+titleAz: 'Şərəfnamə, fəsil 58'
+titleRu: 'Шараф-наме, глава 58'
 titleFa: بخش ۵۸ - نشاط کردن اسکندر با کنیزک چینی
+titleEn: 'Sharafnama, chapter 58'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

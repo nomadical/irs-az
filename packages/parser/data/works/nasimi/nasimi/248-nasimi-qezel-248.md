@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-248
 sourceId: ganjoor-117543
-titleAz: شمارهٔ ۲۴۸
+titleAz: Qəzəl 248
+titleRu: Газель 248
 titleFa: شمارهٔ ۲۴۸
+titleEn: Ghazal 248
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

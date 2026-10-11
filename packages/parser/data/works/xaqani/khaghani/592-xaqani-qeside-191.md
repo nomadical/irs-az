@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-191
 sourceId: ganjoor-14961
-titleAz: شمارهٔ ۱۹۱ - مطلع دوم
+titleAz: Qəsidə 191
+titleRu: Касыда 191
 titleFa: شمارهٔ ۱۹۱ - مطلع دوم
+titleEn: Qasida 191
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

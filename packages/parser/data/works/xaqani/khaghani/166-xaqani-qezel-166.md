@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-166
 sourceId: ganjoor-14535
-titleAz: غزل شمارهٔ ۱۶۶
+titleAz: Qəzəl 166
+titleRu: Газель 166
 titleFa: غزل شمارهٔ ۱۶۶
+titleEn: Ghazal 166
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

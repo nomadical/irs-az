@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-345
 sourceId: ganjoor-28008
-titleAz: شمارهٔ ۳۴۵
+titleAz: Qitə 345
+titleRu: Кыта 345
 titleFa: شمارهٔ ۳۴۵
+titleEn: Qit'a 345
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

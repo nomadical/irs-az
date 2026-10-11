@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-11
 sourceId: ganjoor-8875
-titleAz: بخش ۱۱ - در پژوهش این کتاب
+titleAz: 'Xosrov və Şirin, fəsil 11'
+titleRu: 'Хосров и Ширин, глава 11'
 titleFa: بخش ۱۱ - در پژوهش این کتاب
+titleEn: 'Khosrow and Shirin, chapter 11'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

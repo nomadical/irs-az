@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-291
 sourceId: ganjoor-15286
-titleAz: رباعی شمارهٔ   ۲۹۱
+titleAz: Rübai 291
+titleRu: Рубаи 291
 titleFa: رباعی شمارهٔ   ۲۹۱
+titleEn: Rubai 291
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-409
 sourceId: ganjoor-117115
-titleAz: شمارهٔ ۴۰۹
+titleAz: Qəzəl 409
+titleRu: Газель 409
 titleFa: شمارهٔ ۴۰۹
+titleEn: Ghazal 409
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

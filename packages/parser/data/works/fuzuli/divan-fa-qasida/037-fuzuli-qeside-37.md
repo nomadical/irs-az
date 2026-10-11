@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-37
 sourceId: ganjoor-116693
-titleAz: شمارهٔ ۳۷ - ستایش مصطفی چلبی
+titleAz: Qəsidə 37
+titleRu: Касыда 37
 titleFa: شمارهٔ ۳۷ - ستایش مصطفی چلبی
+titleEn: Qasida 37
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

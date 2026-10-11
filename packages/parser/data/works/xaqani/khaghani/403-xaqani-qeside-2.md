@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-2
 sourceId: ganjoor-14772
-titleAz: شمارهٔ ۲ - مطلع دوم
+titleAz: Qəsidə 2
+titleRu: Касыда 2
 titleFa: شمارهٔ ۲ - مطلع دوم
+titleEn: Qasida 2
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

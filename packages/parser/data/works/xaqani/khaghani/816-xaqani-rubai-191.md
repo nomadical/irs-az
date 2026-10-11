@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-191
 sourceId: ganjoor-15186
-titleAz: رباعی شمارهٔ   ۱۹۱
+titleAz: Rübai 191
+titleRu: Рубаи 191
 titleFa: رباعی شمارهٔ   ۱۹۱
+titleEn: Rubai 191
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-31
 sourceId: ganjoor-14801
-titleAz: شمارهٔ ۳۱ - در مدح خواجه همام الدین حاجب و یاد کردن از مرگ منوچهر
+titleAz: Qəsidə 31
+titleRu: Касыда 31
 titleFa: شمارهٔ ۳۱ - در مدح خواجه همام الدین حاجب و یاد کردن از مرگ منوچهر
+titleEn: Qasida 31
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

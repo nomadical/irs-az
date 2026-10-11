@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-140
 sourceId: ganjoor-15135
-titleAz: رباعی شمارهٔ   ۱۴۰
+titleAz: Rübai 140
+titleRu: Рубаи 140
 titleFa: رباعی شمارهٔ   ۱۴۰
+titleEn: Rubai 140
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

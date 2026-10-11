@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-323
 sourceId: ganjoor-27986
-titleAz: شمارهٔ ۳۲۳
+titleAz: Qitə 323
+titleRu: Кыта 323
 titleFa: شمارهٔ ۳۲۳
+titleEn: Qit'a 323
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

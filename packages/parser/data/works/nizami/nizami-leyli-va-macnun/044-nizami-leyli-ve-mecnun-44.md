@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-44
 sourceId: ganjoor-9046
-titleAz: بخش ۴۴ - صفت رسیدن خزان و در گذشتن لیلی
+titleAz: 'Leyli və Məcnun, fəsil 44'
+titleRu: 'Лейли и Меджнун, глава 44'
 titleFa: بخش ۴۴ - صفت رسیدن خزان و در گذشتن لیلی
+titleEn: 'Layla and Majnun, chapter 44'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

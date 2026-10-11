@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-55
 sourceId: ganjoor-116761
-titleAz: شمارهٔ ۵۵
+titleAz: Qəzəl 55
+titleRu: Газель 55
 titleFa: شمارهٔ ۵۵
+titleEn: Ghazal 55
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-38
 sourceId: ganjoor-14407
-titleAz: غزل شمارهٔ ۳۸
+titleAz: Qəzəl 38
+titleRu: Газель 38
 titleFa: غزل شمارهٔ ۳۸
+titleEn: Ghazal 38
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

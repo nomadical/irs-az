@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-218
 sourceId: ganjoor-14587
-titleAz: غزل شمارهٔ ۲۱۸
+titleAz: Qəzəl 218
+titleRu: Газель 218
 titleFa: غزل شمارهٔ ۲۱۸
+titleEn: Ghazal 218
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

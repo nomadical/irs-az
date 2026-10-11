@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-67
 sourceId: ganjoor-50127
-titleAz: رباعی شمارۀ ۶۷
+titleAz: 'Rübailər, 67'
+titleRu: 'Рубайят, 67'
 titleFa: رباعی شمارۀ ۶۷
+titleEn: 'Rubaiyat, 67'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

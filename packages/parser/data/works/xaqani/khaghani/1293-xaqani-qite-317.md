@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-317
 sourceId: ganjoor-27980
-titleAz: شمارهٔ ۳۱۷
+titleAz: Qitə 317
+titleRu: Кыта 317
 titleFa: شمارهٔ ۳۱۷
+titleEn: Qit'a 317
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

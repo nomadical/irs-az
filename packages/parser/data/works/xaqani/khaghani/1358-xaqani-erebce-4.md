@@ -1,8 +1,10 @@
 ---
 slug: xaqani-erebce-4
 sourceId: ganjoor-15495
-titleAz: در وصف بغداد
+titleAz: Ərəbcə şeir 4
+titleRu: Арабское стихотворение 4
 titleFa: در وصف بغداد
+titleEn: Arabic poem 4
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

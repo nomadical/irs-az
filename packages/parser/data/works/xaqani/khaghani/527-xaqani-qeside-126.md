@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-126
 sourceId: ganjoor-14896
-titleAz: شمارهٔ ۱۲۶ - قصیدهٔ مرآت الصفا، در حکمت و تکمیل نفس
+titleAz: Qəsidə 126
+titleRu: Касыда 126
 titleFa: شمارهٔ ۱۲۶ - قصیدهٔ مرآت الصفا، در حکمت و تکمیل نفس
+titleEn: Qasida 126
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

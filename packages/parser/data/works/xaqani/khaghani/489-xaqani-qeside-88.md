@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-88
 sourceId: ganjoor-14858
-titleAz: شمارهٔ ۸۸ - قصیده
+titleAz: Qəsidə 88
+titleRu: Касыда 88
 titleFa: شمارهٔ ۸۸ - قصیده
+titleEn: Qasida 88
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

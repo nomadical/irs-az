@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-44
 sourceId: ganjoor-50104
-titleAz: رباعی شمارۀ ۴۴
+titleAz: 'Rübailər, 44'
+titleRu: 'Рубайят, 44'
 titleFa: رباعی شمارۀ ۴۴
+titleEn: 'Rubaiyat, 44'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

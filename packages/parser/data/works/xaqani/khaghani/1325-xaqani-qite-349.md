@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-349
 sourceId: ganjoor-28012
-titleAz: شمارهٔ ۳۴۹
+titleAz: Qitə 349
+titleRu: Кыта 349
 titleFa: شمارهٔ ۳۴۹
+titleEn: Qit'a 349
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

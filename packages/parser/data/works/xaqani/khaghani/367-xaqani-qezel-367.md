@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-367
 sourceId: ganjoor-14736
-titleAz: غزل شمارهٔ ۳۶۷
+titleAz: Qəzəl 367
+titleRu: Газель 367
 titleFa: غزل شمارهٔ ۳۶۷
+titleEn: Ghazal 367
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-30
 sourceId: ganjoor-8894
-titleAz: بخش ۳۰ - رفتن شاپور دیگر بار به طلب شیرین
+titleAz: 'Xosrov və Şirin, fəsil 30'
+titleRu: 'Хосров и Ширин, глава 30'
 titleFa: بخش ۳۰ - رفتن شاپور دیگر بار به طلب شیرین
+titleEn: 'Khosrow and Shirin, chapter 30'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

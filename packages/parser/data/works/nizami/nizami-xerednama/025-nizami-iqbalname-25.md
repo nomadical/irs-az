@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-25
 sourceId: ganjoor-9237
-titleAz: بخش ۲۵ - گفتار هرمس
+titleAz: 'İqbalnamə, fəsil 25'
+titleRu: 'Икбал-наме, глава 25'
 titleFa: بخش ۲۵ - گفتار هرمس
+titleEn: 'Iqbalnama, chapter 25'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

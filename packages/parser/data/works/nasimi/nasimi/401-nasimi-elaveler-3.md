@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-3
 sourceId: ganjoor-117702
-titleAz: شمارهٔ ۳ - مخمس ترکیب
+titleAz: Əlavə 3
+titleRu: Дополнение 3
 titleFa: شمارهٔ ۳ - مخمس ترکیب
+titleEn: Addendum 3
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

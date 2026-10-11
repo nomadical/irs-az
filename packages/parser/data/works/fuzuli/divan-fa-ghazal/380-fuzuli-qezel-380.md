@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-380
 sourceId: ganjoor-117086
-titleAz: شمارهٔ ۳۸۰
+titleAz: Qəzəl 380
+titleRu: Газель 380
 titleFa: شمارهٔ ۳۸۰
+titleEn: Ghazal 380
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

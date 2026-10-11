@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-177
 sourceId: ganjoor-14546
-titleAz: غزل شمارهٔ ۱۷۷
+titleAz: Qəzəl 177
+titleRu: Газель 177
 titleFa: غزل شمارهٔ ۱۷۷
+titleEn: Ghazal 177
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

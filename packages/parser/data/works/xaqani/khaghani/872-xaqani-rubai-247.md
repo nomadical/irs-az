@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-247
 sourceId: ganjoor-15242
-titleAz: رباعی شمارهٔ   ۲۴۷
+titleAz: Rübai 247
+titleRu: Рубаи 247
 titleFa: رباعی شمارهٔ   ۲۴۷
+titleEn: Rubai 247
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

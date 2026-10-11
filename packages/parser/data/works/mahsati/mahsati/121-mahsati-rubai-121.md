@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-121
 sourceId: ganjoor-133845
-titleAz: شمارهٔ ۱۲۱
+titleAz: Rübai 121
+titleRu: Рубаи 121
 titleFa: شمارهٔ ۱۲۱
+titleEn: Rubai 121
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

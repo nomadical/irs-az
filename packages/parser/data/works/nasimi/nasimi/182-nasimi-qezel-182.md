@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-182
 sourceId: ganjoor-117477
-titleAz: شمارهٔ ۱۸۲
+titleAz: Qəzəl 182
+titleRu: Газель 182
 titleFa: شمارهٔ ۱۸۲
+titleEn: Ghazal 182
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

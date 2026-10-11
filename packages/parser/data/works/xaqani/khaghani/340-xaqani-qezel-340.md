@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-340
 sourceId: ganjoor-14709
-titleAz: غزل شمارهٔ ۳۴۰
+titleAz: Qəzəl 340
+titleRu: Газель 340
 titleFa: غزل شمارهٔ ۳۴۰
+titleEn: Ghazal 340
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

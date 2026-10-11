@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-227
 sourceId: ganjoor-116933
-titleAz: شمارهٔ ۲۲۷
+titleAz: Qəzəl 227
+titleRu: Газель 227
 titleFa: شمارهٔ ۲۲۷
+titleEn: Ghazal 227
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

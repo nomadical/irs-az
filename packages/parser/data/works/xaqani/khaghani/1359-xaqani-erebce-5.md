@@ -1,8 +1,10 @@
 ---
 slug: xaqani-erebce-5
 sourceId: ganjoor-15496
-titleAz: مطلع دوم
+titleAz: Ərəbcə şeir 5
+titleRu: Арабское стихотворение 5
 titleFa: مطلع دوم
+titleEn: Arabic poem 5
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-190
 sourceId: ganjoor-50250
-titleAz: رباعی شمارۀ ۱۹۰
+titleAz: 'Rübailər, 190'
+titleRu: 'Рубайят, 190'
 titleFa: رباعی شمارۀ ۱۹۰
+titleEn: 'Rubaiyat, 190'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

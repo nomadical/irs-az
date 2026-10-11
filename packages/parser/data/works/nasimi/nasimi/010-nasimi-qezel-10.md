@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-10
 sourceId: ganjoor-117305
-titleAz: شمارهٔ ۱۰
+titleAz: Qəzəl 10
+titleRu: Газель 10
 titleFa: شمارهٔ ۱۰
+titleEn: Ghazal 10
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

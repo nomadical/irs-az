@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-42
 sourceId: ganjoor-27705
-titleAz: شمارهٔ ۴۲
+titleAz: Qitə 42
+titleRu: Кыта 42
 titleFa: شمارهٔ ۴۲
+titleEn: Qit'a 42
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-19
 sourceId: ganjoor-116675
-titleAz: شمارهٔ ۱۹
+titleAz: Qəsidə 19
+titleRu: Касыда 19
 titleFa: شمارهٔ ۱۹
+titleEn: Qasida 19
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

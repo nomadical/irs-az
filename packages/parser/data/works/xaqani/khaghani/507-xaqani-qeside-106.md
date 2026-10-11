@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-106
 sourceId: ganjoor-14876
-titleAz: شمارهٔ ۱۰۶ - در ستایش صفوه الدین بانوی شروان شاه
+titleAz: Qəsidə 106
+titleRu: Касыда 106
 titleFa: شمارهٔ ۱۰۶ - در ستایش صفوه الدین بانوی شروان شاه
+titleEn: Qasida 106
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

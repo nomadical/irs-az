@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-105
 sourceId: ganjoor-15100
-titleAz: رباعی شمارهٔ   ۱۰۵
+titleAz: Rübai 105
+titleRu: Рубаи 105
 titleFa: رباعی شمارهٔ   ۱۰۵
+titleEn: Rubai 105
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

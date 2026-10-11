@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-169
 sourceId: ganjoor-50229
-titleAz: رباعی شمارۀ ۱۶۹
+titleAz: 'Rübailər, 169'
+titleRu: 'Рубайят, 169'
 titleFa: رباعی شمارۀ ۱۶۹
+titleEn: 'Rubaiyat, 169'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

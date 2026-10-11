@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-137
 sourceId: ganjoor-14506
-titleAz: غزل شمارهٔ ۱۳۷
+titleAz: Qəzəl 137
+titleRu: Газель 137
 titleFa: غزل شمارهٔ ۱۳۷
+titleEn: Ghazal 137
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

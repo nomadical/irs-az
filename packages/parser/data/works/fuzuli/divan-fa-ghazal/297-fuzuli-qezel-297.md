@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-297
 sourceId: ganjoor-117003
-titleAz: شمارهٔ ۲۹۷
+titleAz: Qəzəl 297
+titleRu: Газель 297
 titleFa: شمارهٔ ۲۹۷
+titleEn: Ghazal 297
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-81
 sourceId: ganjoor-117245
-titleAz: شمارهٔ ۸۱
+titleAz: Rübai 81
+titleRu: Рубаи 81
 titleFa: شمارهٔ ۸۱
+titleEn: Rubai 81
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

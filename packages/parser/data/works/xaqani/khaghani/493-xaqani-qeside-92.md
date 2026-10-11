@@ -1,12 +1,12 @@
 ---
 slug: xaqani-qeside-92
 sourceId: ganjoor-14862
-titleAz: >-
-  شمارهٔ ۹۲ - این قصیدهٔ را در زمان کودکی در ستایش فخر الدین منوچهر بن فریدون
-  شروان شاه سروده است
+titleAz: Qəsidə 92
+titleRu: Касыда 92
 titleFa: >-
   شمارهٔ ۹۲ - این قصیدهٔ را در زمان کودکی در ستایش فخر الدین منوچهر بن فریدون
   شروان شاه سروده است
+titleEn: Qasida 92
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-194
 sourceId: ganjoor-15189
-titleAz: رباعی شمارهٔ   ۱۹۴
+titleAz: Rübai 194
+titleRu: Рубаи 194
 titleFa: رباعی شمارهٔ   ۱۹۴
+titleEn: Rubai 194
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

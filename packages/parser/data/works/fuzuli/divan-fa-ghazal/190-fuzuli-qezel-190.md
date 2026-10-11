@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-190
 sourceId: ganjoor-116896
-titleAz: شمارهٔ ۱۹۰
+titleAz: Qəzəl 190
+titleRu: Газель 190
 titleFa: شمارهٔ ۱۹۰
+titleEn: Ghazal 190
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

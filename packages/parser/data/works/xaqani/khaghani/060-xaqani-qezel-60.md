@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-60
 sourceId: ganjoor-14429
-titleAz: غزل شمارهٔ ۶۰
+titleAz: Qəzəl 60
+titleRu: Газель 60
 titleFa: غزل شمارهٔ ۶۰
+titleEn: Ghazal 60
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-218
 sourceId: ganjoor-116924
-titleAz: شمارهٔ ۲۱۸
+titleAz: Qəzəl 218
+titleRu: Газель 218
 titleFa: شمارهٔ ۲۱۸
+titleEn: Ghazal 218
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

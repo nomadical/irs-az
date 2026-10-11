@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-92
 sourceId: ganjoor-116798
-titleAz: شمارهٔ ۹۲
+titleAz: Qəzəl 92
+titleRu: Газель 92
 titleFa: شمارهٔ ۹۲
+titleEn: Ghazal 92
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

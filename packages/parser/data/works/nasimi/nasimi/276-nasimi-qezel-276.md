@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-276
 sourceId: ganjoor-117571
-titleAz: شمارهٔ ۲۷۶ - ستایش فضل‌الله نعیمی
+titleAz: Qəzəl 276
+titleRu: Газель 276
 titleFa: شمارهٔ ۲۷۶ - ستایش فضل‌الله نعیمی
+titleEn: Ghazal 276
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

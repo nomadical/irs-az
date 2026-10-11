@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-153
 sourceId: ganjoor-117448
-titleAz: شمارهٔ ۱۵۳
+titleAz: Qəzəl 153
+titleRu: Газель 153
 titleFa: شمارهٔ ۱۵۳
+titleEn: Ghazal 153
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

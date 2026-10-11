@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-86
 sourceId: ganjoor-14455
-titleAz: غزل شمارهٔ ۸۶
+titleAz: Qəzəl 86
+titleRu: Газель 86
 titleFa: غزل شمارهٔ ۸۶
+titleEn: Ghazal 86
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

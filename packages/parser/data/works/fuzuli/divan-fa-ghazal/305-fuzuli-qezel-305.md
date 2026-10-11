@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-305
 sourceId: ganjoor-117011
-titleAz: شمارهٔ ۳۰۵
+titleAz: Qəzəl 305
+titleRu: Газель 305
 titleFa: شمارهٔ ۳۰۵
+titleEn: Ghazal 305
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

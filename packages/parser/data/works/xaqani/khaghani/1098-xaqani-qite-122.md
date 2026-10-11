@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-122
 sourceId: ganjoor-27785
-titleAz: شمارهٔ ۱۲۲
+titleAz: Qitə 122
+titleRu: Кыта 122
 titleFa: شمارهٔ ۱۲۲
+titleEn: Qit'a 122
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

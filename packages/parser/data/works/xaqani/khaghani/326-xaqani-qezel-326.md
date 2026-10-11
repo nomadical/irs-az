@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-326
 sourceId: ganjoor-14695
-titleAz: غزل شمارهٔ ۳۲۶
+titleAz: Qəzəl 326
+titleRu: Газель 326
 titleFa: غزل شمارهٔ ۳۲۶
+titleEn: Ghazal 326
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

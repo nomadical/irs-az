@@ -1,12 +1,12 @@
 ---
 slug: xaqani-qeside-82
 sourceId: ganjoor-14852
-titleAz: >-
-  شمارهٔ ۸۲ - این قصیدهٔ به نام کنز الرکاز است و خاقانی آن را در ستایش پیغمبر
-  اکرم و در جوار تربت مقدس آن حضرت سروده است
+titleAz: Qəsidə 82
+titleRu: Касыда 82
 titleFa: >-
   شمارهٔ ۸۲ - این قصیدهٔ به نام کنز الرکاز است و خاقانی آن را در ستایش پیغمبر
   اکرم و در جوار تربت مقدس آن حضرت سروده است
+titleEn: Qasida 82
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

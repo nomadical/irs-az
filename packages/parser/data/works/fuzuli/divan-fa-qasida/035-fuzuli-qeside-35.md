@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-35
 sourceId: ganjoor-116691
-titleAz: شمارهٔ ۳۵
+titleAz: Qəsidə 35
+titleRu: Касыда 35
 titleFa: شمارهٔ ۳۵
+titleEn: Qasida 35
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

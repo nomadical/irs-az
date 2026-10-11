@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-76
 sourceId: ganjoor-117240
-titleAz: شمارهٔ ۷۶
+titleAz: Rübai 76
+titleRu: Рубаи 76
 titleFa: شمارهٔ ۷۶
+titleEn: Rubai 76
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-17
 sourceId: ganjoor-133741
-titleAz: شمارهٔ ۱۷
+titleAz: Rübai 17
+titleRu: Рубаи 17
 titleFa: شمارهٔ ۱۷
+titleEn: Rubai 17
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

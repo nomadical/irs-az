@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-48
 sourceId: ganjoor-14417
-titleAz: غزل شمارهٔ ۴۸
+titleAz: Qəzəl 48
+titleRu: Газель 48
 titleFa: غزل شمارهٔ ۴۸
+titleEn: Ghazal 48
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

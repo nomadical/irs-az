@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-87
 sourceId: ganjoor-50147
-titleAz: رباعی شمارۀ ۸۷
+titleAz: 'Rübailər, 87'
+titleRu: 'Рубайят, 87'
 titleFa: رباعی شمارۀ ۸۷
+titleEn: 'Rubaiyat, 87'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

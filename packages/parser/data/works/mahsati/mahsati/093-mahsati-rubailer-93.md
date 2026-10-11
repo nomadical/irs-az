@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-93
 sourceId: ganjoor-50153
-titleAz: رباعی شمارۀ ۹۳
+titleAz: 'Rübailər, 93'
+titleRu: 'Рубайят, 93'
 titleFa: رباعی شمارۀ ۹۳
+titleEn: 'Rubaiyat, 93'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

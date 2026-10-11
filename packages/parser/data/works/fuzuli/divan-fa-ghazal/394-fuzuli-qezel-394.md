@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-394
 sourceId: ganjoor-117100
-titleAz: شمارهٔ ۳۹۴
+titleAz: Qəzəl 394
+titleRu: Газель 394
 titleFa: شمارهٔ ۳۹۴
+titleEn: Ghazal 394
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

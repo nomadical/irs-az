@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-5
 sourceId: ganjoor-116711
-titleAz: شمارهٔ ۵
+titleAz: Qəzəl 5
+titleRu: Газель 5
 titleFa: شمارهٔ ۵
+titleEn: Ghazal 5
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

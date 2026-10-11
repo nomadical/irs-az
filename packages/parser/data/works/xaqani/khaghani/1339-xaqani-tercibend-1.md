@@ -1,8 +1,10 @@
 ---
 slug: xaqani-tercibend-1
 sourceId: ganjoor-15476
-titleAz: شمارهٔ ۱ - در مدح جلال الدین اخستان شروان شاه
+titleAz: Tərcibənd 1
+titleRu: Тарджибанд 1
 titleFa: شمارهٔ ۱ - در مدح جلال الدین اخستان شروان شاه
+titleEn: Tarji-band 1
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

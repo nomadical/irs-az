@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-218
 sourceId: ganjoor-15213
-titleAz: رباعی شمارهٔ   ۲۱۸
+titleAz: Rübai 218
+titleRu: Рубаи 218
 titleFa: رباعی شمارهٔ   ۲۱۸
+titleEn: Rubai 218
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-338
 sourceId: ganjoor-28001
-titleAz: شمارهٔ ۳۳۸
+titleAz: Qitə 338
+titleRu: Кыта 338
 titleFa: شمارهٔ ۳۳۸
+titleEn: Qit'a 338
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

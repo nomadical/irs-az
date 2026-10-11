@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-67
 sourceId: ganjoor-14436
-titleAz: غزل شمارهٔ ۶۷
+titleAz: Qəzəl 67
+titleRu: Газель 67
 titleFa: غزل شمارهٔ ۶۷
+titleEn: Ghazal 67
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-110
 sourceId: ganjoor-14479
-titleAz: غزل شمارهٔ ۱۱۰
+titleAz: Qəzəl 110
+titleRu: Газель 110
 titleFa: غزل شمارهٔ ۱۱۰
+titleEn: Ghazal 110
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

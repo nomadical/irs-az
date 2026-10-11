@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-69
 sourceId: ganjoor-117364
-titleAz: شمارهٔ ۶۹
+titleAz: Qəzəl 69
+titleRu: Газель 69
 titleFa: شمارهٔ ۶۹
+titleEn: Ghazal 69
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

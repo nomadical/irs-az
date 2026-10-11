@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-28
 sourceId: ganjoor-117192
-titleAz: شمارهٔ ۲۸
+titleAz: Rübai 28
+titleRu: Рубаи 28
 titleFa: شمارهٔ ۲۸
+titleEn: Rubai 28
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

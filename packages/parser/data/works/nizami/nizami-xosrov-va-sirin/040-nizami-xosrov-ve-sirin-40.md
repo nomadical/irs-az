@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-40
 sourceId: ganjoor-8904
-titleAz: بخش ۴۰ - افسانه‌سرایی ده دختر
+titleAz: 'Xosrov və Şirin, fəsil 40'
+titleRu: 'Хосров и Ширин, глава 40'
 titleFa: بخش ۴۰ - افسانه‌سرایی ده دختر
+titleEn: 'Khosrow and Shirin, chapter 40'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

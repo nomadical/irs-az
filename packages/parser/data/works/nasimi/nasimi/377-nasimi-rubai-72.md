@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-72
 sourceId: ganjoor-117675
-titleAz: شمارهٔ ۷۲
+titleAz: Rübai 72
+titleRu: Рубаи 72
 titleFa: شمارهٔ ۷۲
+titleEn: Rubai 72
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

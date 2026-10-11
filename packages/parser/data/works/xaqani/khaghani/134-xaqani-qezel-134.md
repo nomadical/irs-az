@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-134
 sourceId: ganjoor-14503
-titleAz: غزل شمارهٔ ۱۳۴
+titleAz: Qəzəl 134
+titleRu: Газель 134
 titleFa: غزل شمارهٔ ۱۳۴
+titleEn: Ghazal 134
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

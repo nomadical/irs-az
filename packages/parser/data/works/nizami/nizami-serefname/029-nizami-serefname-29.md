@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-29
 sourceId: ganjoor-9178
-titleAz: بخش ۲۹ - خواستاری اسکندر روشنک را
+titleAz: 'Şərəfnamə, fəsil 29'
+titleRu: 'Шараф-наме, глава 29'
 titleFa: بخش ۲۹ - خواستاری اسکندر روشنک را
+titleEn: 'Sharafnama, chapter 29'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

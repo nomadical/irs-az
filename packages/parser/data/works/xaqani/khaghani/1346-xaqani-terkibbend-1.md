@@ -1,12 +1,12 @@
 ---
 slug: xaqani-terkibbend-1
 sourceId: ganjoor-15483
-titleAz: >-
-  شمارهٔ ۱ - در وعظ و حسن تخلص به نعت پیغمبر اکرم و تخلص به مدح ناصر الدین
-  ابراهیم
+titleAz: Tərkibbənd 1
+titleRu: Таркиббанд 1
 titleFa: >-
   شمارهٔ ۱ - در وعظ و حسن تخلص به نعت پیغمبر اکرم و تخلص به مدح ناصر الدین
   ابراهیم
+titleEn: Tarkib-band 1
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

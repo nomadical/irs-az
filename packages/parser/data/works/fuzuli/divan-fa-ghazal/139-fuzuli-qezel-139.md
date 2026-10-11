@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-139
 sourceId: ganjoor-116845
-titleAz: شمارهٔ ۱۳۹
+titleAz: Qəzəl 139
+titleRu: Газель 139
 titleFa: شمارهٔ ۱۳۹
+titleEn: Ghazal 139
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

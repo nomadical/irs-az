@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-139
 sourceId: ganjoor-117434
-titleAz: شمارهٔ ۱۳۹
+titleAz: Qəzəl 139
+titleRu: Газель 139
 titleFa: شمارهٔ ۱۳۹
+titleEn: Ghazal 139
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-saqiname-16
 sourceId: ganjoor-117291
-titleAz: بخش ۱۶ - مثنوی
+titleAz: 'Saqinamə, fəsil 16'
+titleRu: 'Саки-наме, глава 16'
 titleFa: بخش ۱۶ - مثنوی
+titleEn: 'Saqi-nama, chapter 16'
 authorSlug: fuzuli
 collectionSlug: saqiname
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-11
 sourceId: ganjoor-9013
-titleAz: بخش ۱۱ - آغاز داستان
+titleAz: 'Leyli və Məcnun, fəsil 11'
+titleRu: 'Лейли и Меджнун, глава 11'
 titleFa: بخش ۱۱ - آغاز داستان
+titleEn: 'Layla and Majnun, chapter 11'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

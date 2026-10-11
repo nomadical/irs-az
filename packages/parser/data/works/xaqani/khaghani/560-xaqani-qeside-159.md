@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-159
 sourceId: ganjoor-14929
-titleAz: شمارهٔ ۱۵۹ - در ستایش جلال الدین ابوالفتح شروان شاه
+titleAz: Qəsidə 159
+titleRu: Касыда 159
 titleFa: شمارهٔ ۱۵۹ - در ستایش جلال الدین ابوالفتح شروان شاه
+titleEn: Qasida 159
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

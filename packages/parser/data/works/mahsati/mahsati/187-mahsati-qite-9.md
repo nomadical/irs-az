@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-9
 sourceId: ganjoor-133913
-titleAz: شمارهٔ  ۹
+titleAz: Qitə 9
+titleRu: Кыта 9
 titleFa: شمارهٔ  ۹
+titleEn: Qit'a 9
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

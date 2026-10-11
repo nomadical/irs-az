@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qezel-4
 sourceId: ganjoor-133898
-titleAz: شمارهٔ ۴
+titleAz: Qəzəl 4
+titleRu: Газель 4
 titleFa: شمارهٔ ۴
+titleEn: Ghazal 4
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

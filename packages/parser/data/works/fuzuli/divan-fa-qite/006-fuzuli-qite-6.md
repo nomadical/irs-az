@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-6
 sourceId: ganjoor-117123
-titleAz: شمارهٔ ۶
+titleAz: Qitə 6
+titleRu: Кыта 6
 titleFa: شمارهٔ ۶
+titleEn: Qit'a 6
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

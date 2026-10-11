@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-342
 sourceId: ganjoor-15337
-titleAz: رباعی شمارهٔ   ۳۴۲
+titleAz: Rübai 342
+titleRu: Рубаи 342
 titleFa: رباعی شمارهٔ   ۳۴۲
+titleEn: Rubai 342
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

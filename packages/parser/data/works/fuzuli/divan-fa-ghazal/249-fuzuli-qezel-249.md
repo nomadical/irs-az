@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-249
 sourceId: ganjoor-116955
-titleAz: شمارهٔ ۲۴۹
+titleAz: Qəzəl 249
+titleRu: Газель 249
 titleFa: شمارهٔ ۲۴۹
+titleEn: Ghazal 249
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

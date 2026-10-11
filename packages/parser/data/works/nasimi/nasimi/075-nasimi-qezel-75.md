@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-75
 sourceId: ganjoor-117370
-titleAz: شمارهٔ ۷۵
+titleAz: Qəzəl 75
+titleRu: Газель 75
 titleFa: شمارهٔ ۷۵
+titleEn: Ghazal 75
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

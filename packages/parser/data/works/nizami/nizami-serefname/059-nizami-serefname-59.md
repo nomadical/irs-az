@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-59
 sourceId: ganjoor-9208
-titleAz: بخش ۵۹ - افسانه آب حیوان
+titleAz: 'Şərəfnamə, fəsil 59'
+titleRu: 'Шараф-наме, глава 59'
 titleFa: بخش ۵۹ - افسانه آب حیوان
+titleEn: 'Sharafnama, chapter 59'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

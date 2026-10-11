@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-64
 sourceId: ganjoor-15059
-titleAz: رباعی شمارهٔ   ۶۴
+titleAz: Rübai 64
+titleRu: Рубаи 64
 titleFa: رباعی شمارهٔ   ۶۴
+titleEn: Rubai 64
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

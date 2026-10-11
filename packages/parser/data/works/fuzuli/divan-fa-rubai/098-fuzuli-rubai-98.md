@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-98
 sourceId: ganjoor-117262
-titleAz: شمارهٔ ۹۸
+titleAz: Rübai 98
+titleRu: Рубаи 98
 titleFa: شمارهٔ ۹۸
+titleEn: Rubai 98
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

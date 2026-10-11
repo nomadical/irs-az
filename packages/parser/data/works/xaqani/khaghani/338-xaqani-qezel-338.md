@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-338
 sourceId: ganjoor-14707
-titleAz: غزل شمارهٔ ۳۳۸
+titleAz: Qəzəl 338
+titleRu: Газель 338
 titleFa: غزل شمارهٔ ۳۳۸
+titleEn: Ghazal 338
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

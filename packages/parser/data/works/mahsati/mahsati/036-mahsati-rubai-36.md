@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-36
 sourceId: ganjoor-133760
-titleAz: شمارهٔ ۳۶
+titleAz: Rübai 36
+titleRu: Рубаи 36
 titleFa: شمارهٔ ۳۶
+titleEn: Rubai 36
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

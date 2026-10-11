@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-1
 sourceId: ganjoor-116657
-titleAz: شمارهٔ ۱
+titleAz: Qəsidə 1
+titleRu: Касыда 1
 titleFa: شمارهٔ ۱
+titleEn: Qasida 1
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

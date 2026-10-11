@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-26
 sourceId: ganjoor-116732
-titleAz: شمارهٔ ۲۶
+titleAz: Qəzəl 26
+titleRu: Газель 26
 titleFa: شمارهٔ ۲۶
+titleEn: Ghazal 26
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-47
 sourceId: ganjoor-8911
-titleAz: بخش ۴۷ - نشستن شیرین به پادشاهی بر جای مهین‌بانو
+titleAz: 'Xosrov və Şirin, fəsil 47'
+titleRu: 'Хосров и Ширин, глава 47'
 titleFa: بخش ۴۷ - نشستن شیرین به پادشاهی بر جای مهین‌بانو
+titleEn: 'Khosrow and Shirin, chapter 47'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

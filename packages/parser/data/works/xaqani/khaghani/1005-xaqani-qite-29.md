@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-29
 sourceId: ganjoor-27692
-titleAz: شمارهٔ ۲۹ - در بیان دوستی و دشمنی خلق
+titleAz: Qitə 29
+titleRu: Кыта 29
 titleFa: شمارهٔ ۲۹ - در بیان دوستی و دشمنی خلق
+titleEn: Qit'a 29
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

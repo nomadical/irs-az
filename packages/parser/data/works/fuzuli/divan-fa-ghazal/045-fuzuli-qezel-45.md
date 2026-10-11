@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-45
 sourceId: ganjoor-116751
-titleAz: شمارهٔ ۴۵
+titleAz: Qəzəl 45
+titleRu: Газель 45
 titleFa: شمارهٔ ۴۵
+titleEn: Ghazal 45
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

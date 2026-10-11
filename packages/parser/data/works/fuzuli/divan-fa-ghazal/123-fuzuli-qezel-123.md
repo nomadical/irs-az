@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-123
 sourceId: ganjoor-116829
-titleAz: شمارهٔ ۱۲۳
+titleAz: Qəzəl 123
+titleRu: Газель 123
 titleFa: شمارهٔ ۱۲۳
+titleEn: Ghazal 123
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

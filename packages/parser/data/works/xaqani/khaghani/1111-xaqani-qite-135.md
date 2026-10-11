@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-135
 sourceId: ganjoor-27798
-titleAz: شمارهٔ ۱۳۵
+titleAz: Qitə 135
+titleRu: Кыта 135
 titleFa: شمارهٔ ۱۳۵
+titleEn: Qit'a 135
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

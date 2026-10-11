@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-201
 sourceId: ganjoor-27864
-titleAz: شمارهٔ ۲۰۱ - در مذمت کیمیاگری و صنعت اکسیر
+titleAz: Qitə 201
+titleRu: Кыта 201
 titleFa: شمارهٔ ۲۰۱ - در مذمت کیمیاگری و صنعت اکسیر
+titleEn: Qit'a 201
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qeside-8
 sourceId: ganjoor-117594
-titleAz: "شمارهٔ ۸ - در منقبت مولای متقیان، علی علیه‌السّلام\_"
+titleAz: Qəsidə 8
+titleRu: Касыда 8
 titleFa: "شمارهٔ ۸ - در منقبت مولای متقیان، علی علیه‌السّلام\_"
+titleEn: Qasida 8
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

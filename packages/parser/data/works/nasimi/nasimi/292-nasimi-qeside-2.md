@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qeside-2
 sourceId: ganjoor-117588
-titleAz: شمارهٔ ۲
+titleAz: Qəsidə 2
+titleRu: Касыда 2
 titleFa: شمارهٔ ۲
+titleEn: Qasida 2
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

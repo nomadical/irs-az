@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-88
 sourceId: ganjoor-27751
-titleAz: شمارهٔ ۸۸ - در مدح شروان شاه
+titleAz: Qitə 88
+titleRu: Кыта 88
 titleFa: شمارهٔ ۸۸ - در مدح شروان شاه
+titleEn: Qit'a 88
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

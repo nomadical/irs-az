@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-16
 sourceId: ganjoor-117180
-titleAz: شمارهٔ ۱۶
+titleAz: Rübai 16
+titleRu: Рубаи 16
 titleFa: شمارهٔ ۱۶
+titleEn: Rubai 16
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

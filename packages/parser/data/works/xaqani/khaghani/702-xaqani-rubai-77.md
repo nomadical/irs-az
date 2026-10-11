@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-77
 sourceId: ganjoor-15072
-titleAz: رباعی شمارهٔ   ۷۷
+titleAz: Rübai 77
+titleRu: Рубаи 77
 titleFa: رباعی شمارهٔ   ۷۷
+titleEn: Rubai 77
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

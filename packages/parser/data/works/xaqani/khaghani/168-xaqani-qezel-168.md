@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-168
 sourceId: ganjoor-14537
-titleAz: غزل شمارهٔ ۱۶۸
+titleAz: Qəzəl 168
+titleRu: Газель 168
 titleFa: غزل شمارهٔ ۱۶۸
+titleEn: Ghazal 168
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-267
 sourceId: ganjoor-116973
-titleAz: شمارهٔ ۲۶۷
+titleAz: Qəzəl 267
+titleRu: Газель 267
 titleFa: شمارهٔ ۲۶۷
+titleEn: Ghazal 267
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

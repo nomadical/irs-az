@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-391
 sourceId: ganjoor-14760
-titleAz: غزل شمارهٔ ۳۹۱
+titleAz: Qəzəl 391
+titleRu: Газель 391
 titleFa: غزل شمارهٔ ۳۹۱
+titleEn: Ghazal 391
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

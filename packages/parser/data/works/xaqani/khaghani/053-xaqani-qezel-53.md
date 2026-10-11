@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-53
 sourceId: ganjoor-14422
-titleAz: غزل شمارهٔ ۵۳
+titleAz: Qəzəl 53
+titleRu: Газель 53
 titleFa: غزل شمارهٔ ۵۳
+titleEn: Ghazal 53
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

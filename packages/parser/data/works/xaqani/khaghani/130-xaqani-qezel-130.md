@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-130
 sourceId: ganjoor-14499
-titleAz: غزل شمارهٔ ۱۳۰
+titleAz: Qəzəl 130
+titleRu: Газель 130
 titleFa: غزل شمارهٔ ۱۳۰
+titleEn: Ghazal 130
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

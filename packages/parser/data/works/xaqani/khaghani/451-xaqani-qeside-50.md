@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-50
 sourceId: ganjoor-14820
-titleAz: شمارهٔ ۵۰ - در رثاء امام محمد بن یحیی و حادثهٔ حبس سنجر در فتنهٔ غز
+titleAz: Qəsidə 50
+titleRu: Касыда 50
 titleFa: شمارهٔ ۵۰ - در رثاء امام محمد بن یحیی و حادثهٔ حبس سنجر در فتنهٔ غز
+titleEn: Qasida 50
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

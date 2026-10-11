@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-26
 sourceId: ganjoor-9028
-titleAz: بخش ۲۶ - سخن گفتن مجنون با زاغ
+titleAz: 'Leyli və Məcnun, fəsil 26'
+titleRu: 'Лейли и Меджнун, глава 26'
 titleFa: بخش ۲۶ - سخن گفتن مجنون با زاغ
+titleEn: 'Layla and Majnun, chapter 26'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

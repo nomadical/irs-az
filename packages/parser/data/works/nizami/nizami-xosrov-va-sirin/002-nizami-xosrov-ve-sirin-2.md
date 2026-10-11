@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-2
 sourceId: ganjoor-8866
-titleAz: بخش ۲ - در توحید باری
+titleAz: 'Xosrov və Şirin, fəsil 2'
+titleRu: 'Хосров и Ширин, глава 2'
 titleFa: بخش ۲ - در توحید باری
+titleEn: 'Khosrow and Shirin, chapter 2'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-90
 sourceId: ganjoor-14459
-titleAz: غزل شمارهٔ ۹۰
+titleAz: Qəzəl 90
+titleRu: Газель 90
 titleFa: غزل شمارهٔ ۹۰
+titleEn: Ghazal 90
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

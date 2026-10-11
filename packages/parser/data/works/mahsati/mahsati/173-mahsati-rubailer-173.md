@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-173
 sourceId: ganjoor-50233
-titleAz: رباعی شمارۀ ۱۷۳
+titleAz: 'Rübailər, 173'
+titleRu: 'Рубайят, 173'
 titleFa: رباعی شمارۀ ۱۷۳
+titleEn: 'Rubaiyat, 173'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

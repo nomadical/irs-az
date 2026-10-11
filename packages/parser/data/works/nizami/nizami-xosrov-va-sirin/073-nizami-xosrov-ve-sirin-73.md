@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-73
 sourceId: ganjoor-8937
-titleAz: بخش ۷۳ - پاسخ دادن شیرین به خسرو
+titleAz: 'Xosrov və Şirin, fəsil 73'
+titleRu: 'Хосров и Ширин, глава 73'
 titleFa: بخش ۷۳ - پاسخ دادن شیرین به خسرو
+titleEn: 'Khosrow and Shirin, chapter 73'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

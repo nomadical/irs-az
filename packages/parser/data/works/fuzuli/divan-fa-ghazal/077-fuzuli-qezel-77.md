@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-77
 sourceId: ganjoor-116783
-titleAz: شمارهٔ ۷۷
+titleAz: Qəzəl 77
+titleRu: Газель 77
 titleFa: شمارهٔ ۷۷
+titleEn: Ghazal 77
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

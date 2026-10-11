@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-54
 sourceId: ganjoor-27717
-titleAz: شمارهٔ ۵۴
+titleAz: Qitə 54
+titleRu: Кыта 54
 titleFa: شمارهٔ ۵۴
+titleEn: Qit'a 54
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

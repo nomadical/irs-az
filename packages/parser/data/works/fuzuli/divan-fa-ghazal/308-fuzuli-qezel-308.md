@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-308
 sourceId: ganjoor-117014
-titleAz: شمارهٔ ۳۰۸
+titleAz: Qəzəl 308
+titleRu: Газель 308
 titleFa: شمارهٔ ۳۰۸
+titleEn: Ghazal 308
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

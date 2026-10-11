@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-175
 sourceId: ganjoor-14544
-titleAz: غزل شمارهٔ ۱۷۵
+titleAz: Qəzəl 175
+titleRu: Газель 175
 titleFa: غزل شمارهٔ ۱۷۵
+titleEn: Ghazal 175
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

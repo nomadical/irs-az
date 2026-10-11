@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-181
 sourceId: ganjoor-116887
-titleAz: شمارهٔ ۱۸۱
+titleAz: Qəzəl 181
+titleRu: Газель 181
 titleFa: شمارهٔ ۱۸۱
+titleEn: Ghazal 181
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

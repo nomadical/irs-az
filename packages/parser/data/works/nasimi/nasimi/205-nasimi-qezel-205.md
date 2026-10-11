@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-205
 sourceId: ganjoor-117500
-titleAz: شمارهٔ ۲۰۵
+titleAz: Qəzəl 205
+titleRu: Газель 205
 titleFa: شمارهٔ ۲۰۵
+titleEn: Ghazal 205
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

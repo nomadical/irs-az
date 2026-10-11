@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-328
 sourceId: ganjoor-15323
-titleAz: رباعی شمارهٔ   ۳۲۸
+titleAz: Rübai 328
+titleRu: Рубаи 328
 titleFa: رباعی شمارهٔ   ۳۲۸
+titleEn: Rubai 328
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

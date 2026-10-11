@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-46
 sourceId: ganjoor-116702
-titleAz: شمارهٔ ۴۶
+titleAz: Qəsidə 46
+titleRu: Касыда 46
 titleFa: شمارهٔ ۴۶
+titleEn: Qasida 46
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

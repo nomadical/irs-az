@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-46
 sourceId: ganjoor-14816
-titleAz: شمارهٔ ۴۶ - در ستایش اتابک اعظم مظفر الدین قزل ارسلان عثمان بن ایلدگز
+titleAz: Qəsidə 46
+titleRu: Касыда 46
 titleFa: شمارهٔ ۴۶ - در ستایش اتابک اعظم مظفر الدین قزل ارسلان عثمان بن ایلدگز
+titleEn: Qasida 46
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

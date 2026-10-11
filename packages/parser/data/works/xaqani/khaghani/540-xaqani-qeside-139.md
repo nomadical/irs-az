@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-139
 sourceId: ganjoor-14909
-titleAz: شمارهٔ ۱۳۹ - در ستایش خراسان و آرزوی وصول به آن مدح صدر جهان محیی الدین
+titleAz: Qəsidə 139
+titleRu: Касыда 139
 titleFa: شمارهٔ ۱۳۹ - در ستایش خراسان و آرزوی وصول به آن مدح صدر جهان محیی الدین
+titleEn: Qasida 139
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

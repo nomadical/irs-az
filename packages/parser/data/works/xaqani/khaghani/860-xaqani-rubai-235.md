@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-235
 sourceId: ganjoor-15230
-titleAz: رباعی شمارهٔ   ۲۳۵
+titleAz: Rübai 235
+titleRu: Рубаи 235
 titleFa: رباعی شمارهٔ   ۲۳۵
+titleEn: Rubai 235
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

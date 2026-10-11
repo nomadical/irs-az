@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-16
 sourceId: ganjoor-9018
-titleAz: بخش ۱۶ - بردن پدر مجنون را به خانهٔ کعبه
+titleAz: 'Leyli və Məcnun, fəsil 16'
+titleRu: 'Лейли и Меджнун, глава 16'
 titleFa: بخش ۱۶ - بردن پدر مجنون را به خانهٔ کعبه
+titleEn: 'Layla and Majnun, chapter 16'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

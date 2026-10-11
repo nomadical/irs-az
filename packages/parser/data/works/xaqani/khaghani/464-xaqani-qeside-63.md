@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-63
 sourceId: ganjoor-14833
-titleAz: شمارهٔ ۶۳ - قصیده
+titleAz: Qəsidə 63
+titleRu: Касыда 63
 titleFa: شمارهٔ ۶۳ - قصیده
+titleEn: Qasida 63
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

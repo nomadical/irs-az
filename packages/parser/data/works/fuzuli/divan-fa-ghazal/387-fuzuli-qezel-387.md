@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-387
 sourceId: ganjoor-117093
-titleAz: شمارهٔ ۳۸۷
+titleAz: Qəzəl 387
+titleRu: Газель 387
 titleFa: شمارهٔ ۳۸۷
+titleEn: Ghazal 387
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

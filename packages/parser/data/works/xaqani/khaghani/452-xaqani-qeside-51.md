@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-51
 sourceId: ganjoor-14821
-titleAz: شمارهٔ ۵۱ - قصیده
+titleAz: Qəsidə 51
+titleRu: Касыда 51
 titleFa: شمارهٔ ۵۱ - قصیده
+titleEn: Qasida 51
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

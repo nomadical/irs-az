@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-310
 sourceId: ganjoor-15305
-titleAz: رباعی شمارهٔ   ۳۱۰
+titleAz: Rübai 310
+titleRu: Рубаи 310
 titleFa: رباعی شمارهٔ   ۳۱۰
+titleEn: Rubai 310
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

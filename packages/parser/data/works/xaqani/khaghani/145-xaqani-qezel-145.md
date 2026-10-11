@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-145
 sourceId: ganjoor-14514
-titleAz: غزل شمارهٔ ۱۴۵
+titleAz: Qəzəl 145
+titleRu: Газель 145
 titleFa: غزل شمارهٔ ۱۴۵
+titleEn: Ghazal 145
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

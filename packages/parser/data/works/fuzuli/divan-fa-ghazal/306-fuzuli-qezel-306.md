@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-306
 sourceId: ganjoor-117012
-titleAz: شمارهٔ ۳۰۶
+titleAz: Qəzəl 306
+titleRu: Газель 306
 titleFa: شمارهٔ ۳۰۶
+titleEn: Ghazal 306
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

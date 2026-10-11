@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-38
 sourceId: ganjoor-9250
-titleAz: بخش ۳۸ - وصیت نامه اسکندر
+titleAz: 'İqbalnamə, fəsil 38'
+titleRu: 'Икбал-наме, глава 38'
 titleFa: بخش ۳۸ - وصیت نامه اسکندر
+titleEn: 'Iqbalnama, chapter 38'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

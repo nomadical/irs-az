@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-315
 sourceId: ganjoor-15310
-titleAz: رباعی شمارهٔ   ۳۱۵
+titleAz: Rübai 315
+titleRu: Рубаи 315
 titleFa: رباعی شمارهٔ   ۳۱۵
+titleEn: Rubai 315
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-66
 sourceId: ganjoor-117230
-titleAz: شمارهٔ ۶۶
+titleAz: Rübai 66
+titleRu: Рубаи 66
 titleFa: شمارهٔ ۶۶
+titleEn: Rubai 66
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

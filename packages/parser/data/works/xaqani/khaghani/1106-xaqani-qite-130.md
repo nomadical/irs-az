@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-130
 sourceId: ganjoor-27793
-titleAz: شمارهٔ ۱۳۰
+titleAz: Qitə 130
+titleRu: Кыта 130
 titleFa: شمارهٔ ۱۳۰
+titleEn: Qit'a 130
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

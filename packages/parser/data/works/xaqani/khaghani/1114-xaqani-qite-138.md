@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-138
 sourceId: ganjoor-27801
-titleAz: شمارهٔ ۱۳۸ - در مرثیهٔ عز الدین بوعمران
+titleAz: Qitə 138
+titleRu: Кыта 138
 titleFa: شمارهٔ ۱۳۸ - در مرثیهٔ عز الدین بوعمران
+titleEn: Qit'a 138
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

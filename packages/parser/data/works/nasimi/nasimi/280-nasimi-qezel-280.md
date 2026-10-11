@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-280
 sourceId: ganjoor-117575
-titleAz: شمارهٔ ۲۸۰
+titleAz: Qəzəl 280
+titleRu: Газель 280
 titleFa: شمارهٔ ۲۸۰
+titleEn: Ghazal 280
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

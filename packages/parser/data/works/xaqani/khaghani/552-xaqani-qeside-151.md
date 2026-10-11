@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-151
 sourceId: ganjoor-14921
-titleAz: شمارهٔ ۱۵۱ - در دل‌تنگی و شکایت از روزگار و خوش‌دلی از گوشه‌گیری و قناعت
+titleAz: Qəsidə 151
+titleRu: Касыда 151
 titleFa: شمارهٔ ۱۵۱ - در دل‌تنگی و شکایت از روزگار و خوش‌دلی از گوشه‌گیری و قناعت
+titleEn: Qasida 151
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

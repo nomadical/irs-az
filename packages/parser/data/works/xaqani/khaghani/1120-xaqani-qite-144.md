@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-144
 sourceId: ganjoor-27807
-titleAz: شمارهٔ ۱۴۴
+titleAz: Qitə 144
+titleRu: Кыта 144
 titleFa: شمارهٔ ۱۴۴
+titleEn: Qit'a 144
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

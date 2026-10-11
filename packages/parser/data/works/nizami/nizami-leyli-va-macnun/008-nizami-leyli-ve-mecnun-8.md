@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-8
 sourceId: ganjoor-9010
-titleAz: بخش ۸ - در شکایت حسودان و منکران
+titleAz: 'Leyli və Məcnun, fəsil 8'
+titleRu: 'Лейли и Меджнун, глава 8'
 titleFa: بخش ۸ - در شکایت حسودان و منکران
+titleEn: 'Layla and Majnun, chapter 8'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-1
 sourceId: ganjoor-116707
-titleAz: شمارهٔ ۱
+titleAz: Qəzəl 1
+titleRu: Газель 1
 titleFa: شمارهٔ ۱
+titleEn: Ghazal 1
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-123
 sourceId: ganjoor-14492
-titleAz: غزل شمارهٔ ۱۲۳
+titleAz: Qəzəl 123
+titleRu: Газель 123
 titleFa: غزل شمارهٔ ۱۲۳
+titleEn: Ghazal 123
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

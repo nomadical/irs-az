@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-270
 sourceId: ganjoor-27933
-titleAz: شمارهٔ ۲۷۰
+titleAz: Qitə 270
+titleRu: Кыта 270
 titleFa: شمارهٔ ۲۷۰
+titleEn: Qit'a 270
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

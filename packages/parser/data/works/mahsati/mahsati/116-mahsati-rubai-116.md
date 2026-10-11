@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-116
 sourceId: ganjoor-133840
-titleAz: شمارهٔ ۱۱۶
+titleAz: Rübai 116
+titleRu: Рубаи 116
 titleFa: شمارهٔ ۱۱۶
+titleEn: Rubai 116
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

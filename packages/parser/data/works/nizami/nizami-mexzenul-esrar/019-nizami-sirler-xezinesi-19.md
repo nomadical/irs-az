@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-19
 sourceId: ganjoor-9281
-titleAz: بخش ۱۹ - ثمره خلوت دوم
+titleAz: 'Sirlər xəzinəsi, fəsil 19'
+titleRu: 'Сокровищница тайн, глава 19'
 titleFa: بخش ۱۹ - ثمره خلوت دوم
+titleEn: 'The Treasury of Mysteries, chapter 19'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

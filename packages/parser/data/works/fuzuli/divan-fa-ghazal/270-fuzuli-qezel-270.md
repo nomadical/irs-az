@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-270
 sourceId: ganjoor-116976
-titleAz: شمارهٔ ۲۷۰
+titleAz: Qəzəl 270
+titleRu: Газель 270
 titleFa: شمارهٔ ۲۷۰
+titleEn: Ghazal 270
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

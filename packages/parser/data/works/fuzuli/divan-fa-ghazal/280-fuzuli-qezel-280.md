@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-280
 sourceId: ganjoor-116986
-titleAz: شمارهٔ ۲۸۰
+titleAz: Qəzəl 280
+titleRu: Газель 280
 titleFa: شمارهٔ ۲۸۰
+titleEn: Ghazal 280
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

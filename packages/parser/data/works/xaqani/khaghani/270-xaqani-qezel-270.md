@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-270
 sourceId: ganjoor-14639
-titleAz: غزل شمارهٔ ۲۷۰
+titleAz: Qəzəl 270
+titleRu: Газель 270
 titleFa: غزل شمارهٔ ۲۷۰
+titleEn: Ghazal 270
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

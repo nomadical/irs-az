@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-245
 sourceId: ganjoor-27908
-titleAz: شمارهٔ ۲۴۵ - در مرثیهٔ جمال الدین اصفهانی وزیر صاحب موصل و وحید الدین عموی خود
+titleAz: Qitə 245
+titleRu: Кыта 245
 titleFa: شمارهٔ ۲۴۵ - در مرثیهٔ جمال الدین اصفهانی وزیر صاحب موصل و وحید الدین عموی خود
+titleEn: Qit'a 245
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

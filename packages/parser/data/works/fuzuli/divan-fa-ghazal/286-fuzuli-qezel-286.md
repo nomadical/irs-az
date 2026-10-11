@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-286
 sourceId: ganjoor-116992
-titleAz: شمارهٔ ۲۸۶
+titleAz: Qəzəl 286
+titleRu: Газель 286
 titleFa: شمارهٔ ۲۸۶
+titleEn: Ghazal 286
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

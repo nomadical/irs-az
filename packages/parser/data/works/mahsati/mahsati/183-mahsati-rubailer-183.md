@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-183
 sourceId: ganjoor-50243
-titleAz: رباعی شمارۀ ۱۸۳
+titleAz: 'Rübailər, 183'
+titleRu: 'Рубайят, 183'
 titleFa: رباعی شمارۀ ۱۸۳
+titleEn: 'Rubaiyat, 183'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

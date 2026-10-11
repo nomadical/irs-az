@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-54
 sourceId: ganjoor-50114
-titleAz: رباعی شمارۀ ۵۴
+titleAz: 'Rübailər, 54'
+titleRu: 'Рубайят, 54'
 titleFa: رباعی شمارۀ ۵۴
+titleEn: 'Rubaiyat, 54'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

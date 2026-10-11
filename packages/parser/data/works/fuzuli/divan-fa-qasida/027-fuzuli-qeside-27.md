@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-27
 sourceId: ganjoor-116683
-titleAz: شمارهٔ ۲۷
+titleAz: Qəsidə 27
+titleRu: Касыда 27
 titleFa: شمارهٔ ۲۷
+titleEn: Qasida 27
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-84
 sourceId: ganjoor-14854
-titleAz: شمارهٔ ۸۴ - در نکوهش و ملامت حسودان
+titleAz: Qəsidə 84
+titleRu: Касыда 84
 titleFa: شمارهٔ ۸۴ - در نکوهش و ملامت حسودان
+titleEn: Qasida 84
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

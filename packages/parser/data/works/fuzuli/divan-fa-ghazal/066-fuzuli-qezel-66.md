@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-66
 sourceId: ganjoor-116772
-titleAz: شمارهٔ ۶۶
+titleAz: Qəzəl 66
+titleRu: Газель 66
 titleFa: شمارهٔ ۶۶
+titleEn: Ghazal 66
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

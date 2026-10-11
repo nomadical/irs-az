@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-103
 sourceId: ganjoor-117398
-titleAz: شمارهٔ ۱۰۳
+titleAz: Qəzəl 103
+titleRu: Газель 103
 titleFa: شمارهٔ ۱۰۳
+titleEn: Ghazal 103
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

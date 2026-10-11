@@ -1,12 +1,12 @@
 ---
 slug: xaqani-qeside-9
 sourceId: ganjoor-14779
-titleAz: >-
-  شمارهٔ ۹ - این قصیدهٔ را ارتجالا در مدح شروان شاه منوچهر و صفت شکارگاه او و
-  بنای بند باقلانی سروده است
+titleAz: Qəsidə 9
+titleRu: Касыда 9
 titleFa: >-
   شمارهٔ ۹ - این قصیدهٔ را ارتجالا در مدح شروان شاه منوچهر و صفت شکارگاه او و
   بنای بند باقلانی سروده است
+titleEn: Qasida 9
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

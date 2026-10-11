@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-335
 sourceId: ganjoor-14704
-titleAz: غزل شمارهٔ ۳۳۵
+titleAz: Qəzəl 335
+titleRu: Газель 335
 titleFa: غزل شمارهٔ ۳۳۵
+titleEn: Ghazal 335
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

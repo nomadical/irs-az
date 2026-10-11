@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-168
 sourceId: ganjoor-27831
-titleAz: شمارهٔ ۱۶۸
+titleAz: Qitə 168
+titleRu: Кыта 168
 titleFa: شمارهٔ ۱۶۸
+titleEn: Qit'a 168
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

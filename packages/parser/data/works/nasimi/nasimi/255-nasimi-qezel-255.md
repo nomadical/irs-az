@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-255
 sourceId: ganjoor-117550
-titleAz: شمارهٔ ۲۵۵ - نکوهش قضات رشوه‌خوار
+titleAz: Qəzəl 255
+titleRu: Газель 255
 titleFa: شمارهٔ ۲۵۵ - نکوهش قضات رشوه‌خوار
+titleEn: Ghazal 255
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

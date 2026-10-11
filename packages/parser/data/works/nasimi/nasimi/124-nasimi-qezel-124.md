@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-124
 sourceId: ganjoor-117419
-titleAz: شمارهٔ ۱۲۴
+titleAz: Qəzəl 124
+titleRu: Газель 124
 titleFa: شمارهٔ ۱۲۴
+titleEn: Ghazal 124
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

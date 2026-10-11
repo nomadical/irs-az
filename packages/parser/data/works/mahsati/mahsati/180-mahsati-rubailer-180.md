@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-180
 sourceId: ganjoor-50240
-titleAz: رباعی شمارۀ ۱۸۰
+titleAz: 'Rübailər, 180'
+titleRu: 'Рубайят, 180'
 titleFa: رباعی شمارۀ ۱۸۰
+titleEn: 'Rubaiyat, 180'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

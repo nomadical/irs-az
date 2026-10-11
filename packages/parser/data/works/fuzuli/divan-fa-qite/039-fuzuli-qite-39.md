@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-39
 sourceId: ganjoor-117156
-titleAz: شمارهٔ ۳۹
+titleAz: Qitə 39
+titleRu: Кыта 39
 titleFa: شمارهٔ ۳۹
+titleEn: Qit'a 39
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

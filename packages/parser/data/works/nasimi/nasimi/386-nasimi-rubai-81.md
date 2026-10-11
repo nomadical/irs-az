@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-81
 sourceId: ganjoor-117684
-titleAz: شمارهٔ ۸۱
+titleAz: Rübai 81
+titleRu: Рубаи 81
 titleFa: شمارهٔ ۸۱
+titleEn: Rubai 81
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

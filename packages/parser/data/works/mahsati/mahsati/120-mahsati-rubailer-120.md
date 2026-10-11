@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-120
 sourceId: ganjoor-50180
-titleAz: رباعی شمارۀ ۱۲۰
+titleAz: 'Rübailər, 120'
+titleRu: 'Рубайят, 120'
 titleFa: رباعی شمارۀ ۱۲۰
+titleEn: 'Rubaiyat, 120'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

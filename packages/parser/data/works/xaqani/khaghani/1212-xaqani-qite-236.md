@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-236
 sourceId: ganjoor-27899
-titleAz: شمارهٔ ۲۳۶ - در شکر ایادی شمس الدین رئیس
+titleAz: Qitə 236
+titleRu: Кыта 236
 titleFa: شمارهٔ ۲۳۶ - در شکر ایادی شمس الدین رئیس
+titleEn: Qit'a 236
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

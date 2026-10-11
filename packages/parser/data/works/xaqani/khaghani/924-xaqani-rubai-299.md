@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-299
 sourceId: ganjoor-15294
-titleAz: رباعی شمارهٔ   ۲۹۹
+titleAz: Rübai 299
+titleRu: Рубаи 299
 titleFa: رباعی شمارهٔ   ۲۹۹
+titleEn: Rubai 299
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-54
 sourceId: ganjoor-117349
-titleAz: شمارهٔ ۵۴
+titleAz: Qəzəl 54
+titleRu: Газель 54
 titleFa: شمارهٔ ۵۴
+titleEn: Ghazal 54
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

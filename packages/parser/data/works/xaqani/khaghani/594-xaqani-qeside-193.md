@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-193
 sourceId: ganjoor-14963
-titleAz: شمارهٔ ۱۹۳ - در مدح ابو المظفر شروان شاه اخستان بن منوچهر
+titleAz: Qəsidə 193
+titleRu: Касыда 193
 titleFa: شمارهٔ ۱۹۳ - در مدح ابو المظفر شروان شاه اخستان بن منوچهر
+titleEn: Qasida 193
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

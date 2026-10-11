@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-54
 sourceId: ganjoor-14824
-titleAz: شمارهٔ ۵۴ - در ستایش رکن الدین محمد بن عبد الرحمن طغان یزک
+titleAz: Qəsidə 54
+titleRu: Касыда 54
 titleFa: شمارهٔ ۵۴ - در ستایش رکن الدین محمد بن عبد الرحمن طغان یزک
+titleEn: Qasida 54
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

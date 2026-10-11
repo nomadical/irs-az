@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-86
 sourceId: ganjoor-116792
-titleAz: شمارهٔ ۸۶
+titleAz: Qəzəl 86
+titleRu: Газель 86
 titleFa: شمارهٔ ۸۶
+titleEn: Ghazal 86
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

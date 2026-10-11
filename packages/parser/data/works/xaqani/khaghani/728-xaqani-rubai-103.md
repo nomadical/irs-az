@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-103
 sourceId: ganjoor-15098
-titleAz: رباعی شمارهٔ   ۱۰۳
+titleAz: Rübai 103
+titleRu: Рубаи 103
 titleFa: رباعی شمارهٔ   ۱۰۳
+titleEn: Rubai 103
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

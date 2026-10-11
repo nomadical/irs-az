@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-43
 sourceId: ganjoor-9045
-titleAz: بخش ۴۳ - وفات یافتن ابن سلام شوهر لیلی
+titleAz: 'Leyli və Məcnun, fəsil 43'
+titleRu: 'Лейли и Меджнун, глава 43'
 titleFa: بخش ۴۳ - وفات یافتن ابن سلام شوهر لیلی
+titleEn: 'Layla and Majnun, chapter 43'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

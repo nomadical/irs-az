@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-37
 sourceId: ganjoor-116743
-titleAz: شمارهٔ ۳۷
+titleAz: Qəzəl 37
+titleRu: Газель 37
 titleFa: شمارهٔ ۳۷
+titleEn: Ghazal 37
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

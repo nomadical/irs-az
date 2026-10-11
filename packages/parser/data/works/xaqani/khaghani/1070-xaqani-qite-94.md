@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-94
 sourceId: ganjoor-27757
-titleAz: شمارهٔ ۹۴
+titleAz: Qitə 94
+titleRu: Кыта 94
 titleFa: شمارهٔ ۹۴
+titleEn: Qit'a 94
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

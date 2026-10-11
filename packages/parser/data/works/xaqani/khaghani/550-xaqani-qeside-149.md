@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-149
 sourceId: ganjoor-14919
-titleAz: شمارهٔ ۱۴۹ - هنگام حبس در عزلت و قناعت و تخلص به مدح خاتم انبیاء
+titleAz: Qəsidə 149
+titleRu: Касыда 149
 titleFa: شمارهٔ ۱۴۹ - هنگام حبس در عزلت و قناعت و تخلص به مدح خاتم انبیاء
+titleEn: Qasida 149
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

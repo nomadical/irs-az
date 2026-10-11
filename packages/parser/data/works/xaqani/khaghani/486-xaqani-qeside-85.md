@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-85
 sourceId: ganjoor-14855
-titleAz: شمارهٔ ۸۵ - قصیده
+titleAz: Qəsidə 85
+titleRu: Касыда 85
 titleFa: شمارهٔ ۸۵ - قصیده
+titleEn: Qasida 85
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

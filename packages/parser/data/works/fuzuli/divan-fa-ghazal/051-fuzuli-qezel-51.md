@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-51
 sourceId: ganjoor-116757
-titleAz: شمارهٔ ۵۱
+titleAz: Qəzəl 51
+titleRu: Газель 51
 titleFa: شمارهٔ ۵۱
+titleEn: Ghazal 51
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

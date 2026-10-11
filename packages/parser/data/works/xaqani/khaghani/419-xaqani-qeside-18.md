@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-18
 sourceId: ganjoor-14788
-titleAz: شمارهٔ ۱۸ - مطلع دوم (منطق الطیر)
+titleAz: Qəsidə 18
+titleRu: Касыда 18
 titleFa: شمارهٔ ۱۸ - مطلع دوم (منطق الطیر)
+titleEn: Qasida 18
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

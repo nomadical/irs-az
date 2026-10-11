@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-57
 sourceId: ganjoor-14827
-titleAz: شمارهٔ ۵۷ - قصیده
+titleAz: Qəsidə 57
+titleRu: Касыда 57
 titleFa: شمارهٔ ۵۷ - قصیده
+titleEn: Qasida 57
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

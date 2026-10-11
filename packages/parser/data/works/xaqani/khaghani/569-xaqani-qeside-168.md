@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-168
 sourceId: ganjoor-14938
-titleAz: شمارهٔ ۱۶۸ - هنگام عبور از مداین و دیدن طاق کسری
+titleAz: Qəsidə 168
+titleRu: Касыда 168
 titleFa: شمارهٔ ۱۶۸ - هنگام عبور از مداین و دیدن طاق کسری
+titleEn: Qasida 168
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

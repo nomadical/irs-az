@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-25
 sourceId: ganjoor-8889
-titleAz: بخش ۲۵ - دیدن خسرو شیرین را در چشمه‌سار
+titleAz: 'Xosrov və Şirin, fəsil 25'
+titleRu: 'Хосров и Ширин, глава 25'
 titleFa: بخش ۲۵ - دیدن خسرو شیرین را در چشمه‌سار
+titleEn: 'Khosrow and Shirin, chapter 25'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-296
 sourceId: ganjoor-15291
-titleAz: رباعی شمارهٔ   ۲۹۶
+titleAz: Rübai 296
+titleRu: Рубаи 296
 titleFa: رباعی شمارهٔ   ۲۹۶
+titleEn: Rubai 296
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

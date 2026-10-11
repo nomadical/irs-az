@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-328
 sourceId: ganjoor-117034
-titleAz: شمارهٔ ۳۲۸
+titleAz: Qəzəl 328
+titleRu: Газель 328
 titleFa: شمارهٔ ۳۲۸
+titleEn: Ghazal 328
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

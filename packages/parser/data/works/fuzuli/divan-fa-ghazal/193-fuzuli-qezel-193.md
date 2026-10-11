@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-193
 sourceId: ganjoor-116899
-titleAz: شمارهٔ ۱۹۳
+titleAz: Qəzəl 193
+titleRu: Газель 193
 titleFa: شمارهٔ ۱۹۳
+titleEn: Ghazal 193
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

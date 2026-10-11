@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-233
 sourceId: ganjoor-116939
-titleAz: شمارهٔ ۲۳۳
+titleAz: Qəzəl 233
+titleRu: Газель 233
 titleFa: شمارهٔ ۲۳۳
+titleEn: Ghazal 233
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-119
 sourceId: ganjoor-14889
-titleAz: شمارهٔ ۱۱۹ - مطلع سوم
+titleAz: Qəsidə 119
+titleRu: Касыда 119
 titleFa: شمارهٔ ۱۱۹ - مطلع سوم
+titleEn: Qasida 119
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

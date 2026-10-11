@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-241
 sourceId: ganjoor-27904
-titleAz: شمارهٔ ۲۴۱ - در مدح اقضی‌القضاة علی و آمدن به عیادت خاقانی
+titleAz: Qitə 241
+titleRu: Кыта 241
 titleFa: شمارهٔ ۲۴۱ - در مدح اقضی‌القضاة علی و آمدن به عیادت خاقانی
+titleEn: Qit'a 241
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-240
 sourceId: ganjoor-27903
-titleAz: شمارهٔ ۲۴۰
+titleAz: Qitə 240
+titleRu: Кыта 240
 titleFa: شمارهٔ ۲۴۰
+titleEn: Qit'a 240
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

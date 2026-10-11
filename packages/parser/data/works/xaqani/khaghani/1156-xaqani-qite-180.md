@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-180
 sourceId: ganjoor-27843
-titleAz: شمارهٔ ۱۸۰
+titleAz: Qitə 180
+titleRu: Кыта 180
 titleFa: شمارهٔ ۱۸۰
+titleEn: Qit'a 180
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

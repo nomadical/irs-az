@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-35
 sourceId: ganjoor-9184
-titleAz: بخش ۳۵ - رفتن اسکندر به کوه البرز
+titleAz: 'Şərəfnamə, fəsil 35'
+titleRu: 'Шараф-наме, глава 35'
 titleFa: بخش ۳۵ - رفتن اسکندر به کوه البرز
+titleEn: 'Sharafnama, chapter 35'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

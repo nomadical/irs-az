@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-60
 sourceId: ganjoor-27723
-titleAz: شمارهٔ ۶۰
+titleAz: Qitə 60
+titleRu: Кыта 60
 titleFa: شمارهٔ ۶۰
+titleEn: Qit'a 60
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

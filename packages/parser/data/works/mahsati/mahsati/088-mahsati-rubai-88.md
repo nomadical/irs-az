@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-88
 sourceId: ganjoor-133812
-titleAz: شمارهٔ ۸۸
+titleAz: Rübai 88
+titleRu: Рубаи 88
 titleFa: شمارهٔ ۸۸
+titleEn: Rubai 88
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

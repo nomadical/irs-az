@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-108
 sourceId: ganjoor-117403
-titleAz: شمارهٔ ۱۰۸
+titleAz: Qəzəl 108
+titleRu: Газель 108
 titleFa: شمارهٔ ۱۰۸
+titleEn: Ghazal 108
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

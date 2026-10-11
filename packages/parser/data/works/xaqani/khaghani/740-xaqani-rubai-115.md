@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-115
 sourceId: ganjoor-15110
-titleAz: رباعی شمارهٔ   ۱۱۵
+titleAz: Rübai 115
+titleRu: Рубаи 115
 titleFa: رباعی شمارهٔ   ۱۱۵
+titleEn: Rubai 115
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

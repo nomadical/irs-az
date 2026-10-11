@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-32
 sourceId: ganjoor-116688
-titleAz: شمارهٔ ۳۲
+titleAz: Qəsidə 32
+titleRu: Касыда 32
 titleFa: شمارهٔ ۳۲
+titleEn: Qasida 32
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

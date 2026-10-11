@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-173
 sourceId: ganjoor-116879
-titleAz: شمارهٔ ۱۷۳
+titleAz: Qəzəl 173
+titleRu: Газель 173
 titleFa: شمارهٔ ۱۷۳
+titleEn: Ghazal 173
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

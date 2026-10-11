@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-25
 sourceId: ganjoor-9073
-titleAz: بخش ۲۵ - صفت بزم بهرام در زمستان و ساختن هفت گنبد
+titleAz: 'Yeddi gözəl, fəsil 25'
+titleRu: 'Семь красавиц, глава 25'
 titleFa: بخش ۲۵ - صفت بزم بهرام در زمستان و ساختن هفت گنبد
+titleEn: 'The Seven Beauties, chapter 25'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

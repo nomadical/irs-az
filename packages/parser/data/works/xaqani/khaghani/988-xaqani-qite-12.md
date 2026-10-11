@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-12
 sourceId: ganjoor-27675
-titleAz: شمارهٔ ۱۲ - در حسب حال خود
+titleAz: Qitə 12
+titleRu: Кыта 12
 titleFa: شمارهٔ ۱۲ - در حسب حال خود
+titleEn: Qit'a 12
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

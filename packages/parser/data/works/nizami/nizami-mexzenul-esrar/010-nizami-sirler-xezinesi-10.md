@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-10
 sourceId: ganjoor-9272
-titleAz: بخش ۱۰ - در مدح ملک فخرالدین بهرامشاه بن داود
+titleAz: 'Sirlər xəzinəsi, fəsil 10'
+titleRu: 'Сокровищница тайн, глава 10'
 titleFa: بخش ۱۰ - در مدح ملک فخرالدین بهرامشاه بن داود
+titleEn: 'The Treasury of Mysteries, chapter 10'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

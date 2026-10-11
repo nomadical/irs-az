@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-79
 sourceId: ganjoor-15074
-titleAz: رباعی شمارهٔ   ۷۹
+titleAz: Rübai 79
+titleRu: Рубаи 79
 titleFa: رباعی شمارهٔ   ۷۹
+titleEn: Rubai 79
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-22
 sourceId: ganjoor-27685
-titleAz: شمارهٔ ۲۲ - در هجو شهر زوری
+titleAz: Qitə 22
+titleRu: Кыта 22
 titleFa: شمارهٔ ۲۲ - در هجو شهر زوری
+titleEn: Qit'a 22
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

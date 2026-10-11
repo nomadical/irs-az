@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-50
 sourceId: ganjoor-9312
-titleAz: بخش ۵۰ - مقالت شانزدهم در چابک‌روی
+titleAz: 'Sirlər xəzinəsi, fəsil 50'
+titleRu: 'Сокровищница тайн, глава 50'
 titleFa: بخش ۵۰ - مقالت شانزدهم در چابک‌روی
+titleEn: 'The Treasury of Mysteries, chapter 50'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

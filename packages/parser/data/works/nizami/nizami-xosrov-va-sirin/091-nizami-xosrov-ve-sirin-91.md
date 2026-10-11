@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-91
 sourceId: ganjoor-8955
-titleAz: بخش ۹۱ - اندرز شیرین خسرو را در داد و دانش
+titleAz: 'Xosrov və Şirin, fəsil 91'
+titleRu: 'Хосров и Ширин, глава 91'
 titleFa: بخش ۹۱ - اندرز شیرین خسرو را در داد و دانش
+titleEn: 'Khosrow and Shirin, chapter 91'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

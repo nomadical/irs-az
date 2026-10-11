@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-15
 sourceId: ganjoor-9227
-titleAz: بخش ۱۵ - اغانی ساختن افلاطون بر مالش ارسطو
+titleAz: 'İqbalnamə, fəsil 15'
+titleRu: 'Икбал-наме, глава 15'
 titleFa: بخش ۱۵ - اغانی ساختن افلاطون بر مالش ارسطو
+titleEn: 'Iqbalnama, chapter 15'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

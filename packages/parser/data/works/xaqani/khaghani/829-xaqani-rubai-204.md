@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-204
 sourceId: ganjoor-15199
-titleAz: رباعی شمارهٔ   ۲۰۴
+titleAz: Rübai 204
+titleRu: Рубаи 204
 titleFa: رباعی شمارهٔ   ۲۰۴
+titleEn: Rubai 204
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

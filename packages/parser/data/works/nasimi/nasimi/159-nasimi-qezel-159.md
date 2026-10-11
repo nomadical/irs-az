@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-159
 sourceId: ganjoor-117454
-titleAz: شمارهٔ ۱۵۹
+titleAz: Qəzəl 159
+titleRu: Газель 159
 titleFa: شمارهٔ ۱۵۹
+titleEn: Ghazal 159
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

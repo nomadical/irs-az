@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-103
 sourceId: ganjoor-116809
-titleAz: شمارهٔ ۱۰۳
+titleAz: Qəzəl 103
+titleRu: Газель 103
 titleFa: شمارهٔ ۱۰۳
+titleEn: Ghazal 103
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

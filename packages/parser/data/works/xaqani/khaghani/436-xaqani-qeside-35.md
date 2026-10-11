@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-35
 sourceId: ganjoor-14805
-titleAz: شمارهٔ ۳۵ - در بی‌اعتنایی به دنیا
+titleAz: Qəsidə 35
+titleRu: Касыда 35
 titleFa: شمارهٔ ۳۵ - در بی‌اعتنایی به دنیا
+titleEn: Qasida 35
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

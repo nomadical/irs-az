@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-341
 sourceId: ganjoor-117047
-titleAz: شمارهٔ ۳۴۱
+titleAz: Qəzəl 341
+titleRu: Газель 341
 titleFa: شمارهٔ ۳۴۱
+titleEn: Ghazal 341
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

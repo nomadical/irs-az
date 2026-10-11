@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-79
 sourceId: ganjoor-50139
-titleAz: رباعی شمارۀ ۷۹
+titleAz: 'Rübailər, 79'
+titleRu: 'Рубайят, 79'
 titleFa: رباعی شمارۀ ۷۹
+titleEn: 'Rubaiyat, 79'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

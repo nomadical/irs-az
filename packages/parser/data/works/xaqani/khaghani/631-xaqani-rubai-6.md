@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-6
 sourceId: ganjoor-15000
-titleAz: رباعی شمارهٔ   ۶
+titleAz: Rübai 6
+titleRu: Рубаи 6
 titleFa: رباعی شمارهٔ   ۶
+titleEn: Rubai 6
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

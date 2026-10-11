@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-150
 sourceId: ganjoor-27813
-titleAz: شمارهٔ ۱۵۰
+titleAz: Qitə 150
+titleRu: Кыта 150
 titleFa: شمارهٔ ۱۵۰
+titleEn: Qit'a 150
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-117
 sourceId: ganjoor-27780
-titleAz: شمارهٔ ۱۱۷
+titleAz: Qitə 117
+titleRu: Кыта 117
 titleFa: شمارهٔ ۱۱۷
+titleEn: Qit'a 117
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

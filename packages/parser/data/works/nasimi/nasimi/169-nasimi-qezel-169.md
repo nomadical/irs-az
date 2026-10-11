@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-169
 sourceId: ganjoor-117464
-titleAz: شمارهٔ ۱۶۹ - ستایش فضل‌الله نعیمی
+titleAz: Qəzəl 169
+titleRu: Газель 169
 titleFa: شمارهٔ ۱۶۹ - ستایش فضل‌الله نعیمی
+titleEn: Ghazal 169
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-90
 sourceId: ganjoor-117254
-titleAz: شمارهٔ ۹۰
+titleAz: Rübai 90
+titleRu: Рубаи 90
 titleFa: شمارهٔ ۹۰
+titleEn: Rubai 90
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

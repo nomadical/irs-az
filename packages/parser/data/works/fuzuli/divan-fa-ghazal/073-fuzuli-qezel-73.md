@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-73
 sourceId: ganjoor-116779
-titleAz: شمارهٔ ۷۳
+titleAz: Qəzəl 73
+titleRu: Газель 73
 titleFa: شمارهٔ ۷۳
+titleEn: Ghazal 73
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

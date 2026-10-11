@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-369
 sourceId: ganjoor-117075
-titleAz: شمارهٔ ۳۶۹
+titleAz: Qəzəl 369
+titleRu: Газель 369
 titleFa: شمارهٔ ۳۶۹
+titleEn: Ghazal 369
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

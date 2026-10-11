@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-1
 sourceId: ganjoor-8865
-titleAz: بخش ۱ - سرآغاز
+titleAz: 'Xosrov və Şirin, fəsil 1'
+titleRu: 'Хосров и Ширин, глава 1'
 titleFa: بخش ۱ - سرآغاز
+titleEn: 'Khosrow and Shirin, chapter 1'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

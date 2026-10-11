@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-29
 sourceId: ganjoor-14799
-titleAz: شمارهٔ ۲۹ - در مدح دستور اعظم مختار الدین
+titleAz: Qəsidə 29
+titleRu: Касыда 29
 titleFa: شمارهٔ ۲۹ - در مدح دستور اعظم مختار الدین
+titleEn: Qasida 29
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

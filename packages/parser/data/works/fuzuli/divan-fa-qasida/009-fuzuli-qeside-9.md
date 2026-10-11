@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-9
 sourceId: ganjoor-116665
-titleAz: شمارهٔ ۹
+titleAz: Qəsidə 9
+titleRu: Касыда 9
 titleFa: شمارهٔ ۹
+titleEn: Qasida 9
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

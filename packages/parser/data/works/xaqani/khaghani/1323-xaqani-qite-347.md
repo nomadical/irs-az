@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-347
 sourceId: ganjoor-28010
-titleAz: شمارهٔ ۳۴۷ - در هجو رشید الدین وطواط
+titleAz: Qitə 347
+titleRu: Кыта 347
 titleFa: شمارهٔ ۳۴۷ - در هجو رشید الدین وطواط
+titleEn: Qit'a 347
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

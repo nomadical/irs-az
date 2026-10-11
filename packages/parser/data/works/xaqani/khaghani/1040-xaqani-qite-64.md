@@ -1,12 +1,12 @@
 ---
 slug: xaqani-qite-64
 sourceId: ganjoor-27727
-titleAz: >-
-  شمارهٔ ۶۴ - فیلسوف اجل افضل الدین ساوی این قطعه را در آنوقت که خاقانی به رسالت
-  سلطان ارسلان رفته بود بدو فرستاد
+titleAz: Qitə 64
+titleRu: Кыта 64
 titleFa: >-
   شمارهٔ ۶۴ - فیلسوف اجل افضل الدین ساوی این قطعه را در آنوقت که خاقانی به رسالت
   سلطان ارسلان رفته بود بدو فرستاد
+titleEn: Qit'a 64
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

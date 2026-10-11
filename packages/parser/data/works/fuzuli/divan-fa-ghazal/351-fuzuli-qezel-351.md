@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-351
 sourceId: ganjoor-117057
-titleAz: شمارهٔ ۳۵۱
+titleAz: Qəzəl 351
+titleRu: Газель 351
 titleFa: شمارهٔ ۳۵۱
+titleEn: Ghazal 351
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-135
 sourceId: ganjoor-15130
-titleAz: رباعی شمارهٔ   ۱۳۵
+titleAz: Rübai 135
+titleRu: Рубаи 135
 titleFa: رباعی شمارهٔ   ۱۳۵
+titleEn: Rubai 135
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

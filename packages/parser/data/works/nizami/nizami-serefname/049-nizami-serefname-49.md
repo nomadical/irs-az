@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-49
 sourceId: ganjoor-9198
-titleAz: بخش ۴۹ - جنگ اول اسکندر با روسیان
+titleAz: 'Şərəfnamə, fəsil 49'
+titleRu: 'Шараф-наме, глава 49'
 titleFa: بخش ۴۹ - جنگ اول اسکندر با روسیان
+titleEn: 'Sharafnama, chapter 49'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

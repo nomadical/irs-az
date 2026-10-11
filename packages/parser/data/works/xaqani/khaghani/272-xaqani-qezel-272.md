@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-272
 sourceId: ganjoor-14641
-titleAz: غزل شمارهٔ ۲۷۲
+titleAz: Qəzəl 272
+titleRu: Газель 272
 titleFa: غزل شمارهٔ ۲۷۲
+titleEn: Ghazal 272
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-39
 sourceId: ganjoor-117334
-titleAz: شمارهٔ ۳۹
+titleAz: Qəzəl 39
+titleRu: Газель 39
 titleFa: شمارهٔ ۳۹
+titleEn: Ghazal 39
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

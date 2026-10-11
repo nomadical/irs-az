@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-4
 sourceId: ganjoor-117607
-titleAz: شمارهٔ ۴
+titleAz: Rübai 4
+titleRu: Рубаи 4
 titleFa: شمارهٔ ۴
+titleEn: Rubai 4
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

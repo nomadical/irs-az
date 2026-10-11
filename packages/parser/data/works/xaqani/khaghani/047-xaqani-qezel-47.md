@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-47
 sourceId: ganjoor-14416
-titleAz: غزل شمارهٔ ۴۷
+titleAz: Qəzəl 47
+titleRu: Газель 47
 titleFa: غزل شمارهٔ ۴۷
+titleEn: Ghazal 47
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

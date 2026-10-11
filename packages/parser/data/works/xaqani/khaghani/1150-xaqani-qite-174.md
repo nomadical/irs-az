@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-174
 sourceId: ganjoor-27837
-titleAz: شمارهٔ ۱۷۴
+titleAz: Qitə 174
+titleRu: Кыта 174
 titleFa: شمارهٔ ۱۷۴
+titleEn: Qit'a 174
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

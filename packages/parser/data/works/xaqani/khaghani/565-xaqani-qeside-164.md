@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-164
 sourceId: ganjoor-14934
-titleAz: شمارهٔ ۱۶۴ - مطلع سوم
+titleAz: Qəsidə 164
+titleRu: Касыда 164
 titleFa: شمارهٔ ۱۶۴ - مطلع سوم
+titleEn: Qasida 164
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

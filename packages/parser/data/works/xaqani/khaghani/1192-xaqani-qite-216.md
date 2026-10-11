@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-216
 sourceId: ganjoor-27879
-titleAz: شمارهٔ ۲۱۶
+titleAz: Qitə 216
+titleRu: Кыта 216
 titleFa: شمارهٔ ۲۱۶
+titleEn: Qit'a 216
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

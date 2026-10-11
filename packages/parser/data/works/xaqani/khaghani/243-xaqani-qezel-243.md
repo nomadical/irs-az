@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-243
 sourceId: ganjoor-14612
-titleAz: غزل شمارهٔ ۲۴۳
+titleAz: Qəzəl 243
+titleRu: Газель 243
 titleFa: غزل شمارهٔ ۲۴۳
+titleEn: Ghazal 243
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

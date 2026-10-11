@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-403
 sourceId: ganjoor-117109
-titleAz: شمارهٔ ۴۰۳
+titleAz: Qəzəl 403
+titleRu: Газель 403
 titleFa: شمارهٔ ۴۰۳
+titleEn: Ghazal 403
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

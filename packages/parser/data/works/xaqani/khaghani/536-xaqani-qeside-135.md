@@ -1,12 +1,12 @@
 ---
 slug: xaqani-qeside-135
 sourceId: ganjoor-14905
-titleAz: >-
-  شمارهٔ ۱۳۵ - در مرثیهٔ شیخ الاسلام عمدة الدین محمد بن اسعد طوسی نیشابوری شافعی
-  معروف به حفده
+titleAz: Qəsidə 135
+titleRu: Касыда 135
 titleFa: >-
   شمارهٔ ۱۳۵ - در مرثیهٔ شیخ الاسلام عمدة الدین محمد بن اسعد طوسی نیشابوری شافعی
   معروف به حفده
+titleEn: Qasida 135
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

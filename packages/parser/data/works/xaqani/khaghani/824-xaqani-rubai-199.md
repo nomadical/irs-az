@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-199
 sourceId: ganjoor-15194
-titleAz: رباعی شمارهٔ   ۱۹۹
+titleAz: Rübai 199
+titleRu: Рубаи 199
 titleFa: رباعی شمارهٔ   ۱۹۹
+titleEn: Rubai 199
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

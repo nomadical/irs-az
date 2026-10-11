@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-253
 sourceId: ganjoor-15248
-titleAz: رباعی شمارهٔ   ۲۵۳
+titleAz: Rübai 253
+titleRu: Рубаи 253
 titleFa: رباعی شمارهٔ   ۲۵۳
+titleEn: Rubai 253
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

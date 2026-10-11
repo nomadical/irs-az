@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-94
 sourceId: ganjoor-8958
-titleAz: بخش ۹۴ - چگونگی فلک
+titleAz: 'Xosrov və Şirin, fəsil 94'
+titleRu: 'Хосров и Ширин, глава 94'
 titleFa: بخش ۹۴ - چگونگی فلک
+titleEn: 'Khosrow and Shirin, chapter 94'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

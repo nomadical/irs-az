@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-105
 sourceId: ganjoor-14474
-titleAz: غزل شمارهٔ ۱۰۵
+titleAz: Qəzəl 105
+titleRu: Газель 105
 titleFa: غزل شمارهٔ ۱۰۵
+titleEn: Ghazal 105
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-38
 sourceId: ganjoor-9040
-titleAz: بخش ۳۸ - دیدن مادر مجنون را
+titleAz: 'Leyli və Məcnun, fəsil 38'
+titleRu: 'Лейли и Меджнун, глава 38'
 titleFa: بخش ۳۸ - دیدن مادر مجنون را
+titleEn: 'Layla and Majnun, chapter 38'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

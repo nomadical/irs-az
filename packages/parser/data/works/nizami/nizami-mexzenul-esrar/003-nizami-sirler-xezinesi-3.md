@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-3
 sourceId: ganjoor-9265
-titleAz: بخش ۳ - (مناجات دوم) در بخشایش و عفو یزدان
+titleAz: 'Sirlər xəzinəsi, fəsil 3'
+titleRu: 'Сокровищница тайн, глава 3'
 titleFa: بخش ۳ - (مناجات دوم) در بخشایش و عفو یزدان
+titleEn: 'The Treasury of Mysteries, chapter 3'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

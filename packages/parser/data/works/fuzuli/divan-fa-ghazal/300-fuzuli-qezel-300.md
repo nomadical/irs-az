@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-300
 sourceId: ganjoor-117006
-titleAz: شمارهٔ ۳۰۰
+titleAz: Qəzəl 300
+titleRu: Газель 300
 titleFa: شمارهٔ ۳۰۰
+titleEn: Ghazal 300
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

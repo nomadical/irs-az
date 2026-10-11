@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-212
 sourceId: ganjoor-14982
-titleAz: شمارهٔ ۲۱۲ - مطلع دوم
+titleAz: Qəsidə 212
+titleRu: Касыда 212
 titleFa: شمارهٔ ۲۱۲ - مطلع دوم
+titleEn: Qasida 212
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

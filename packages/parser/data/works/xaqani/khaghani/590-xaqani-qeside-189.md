@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-189
 sourceId: ganjoor-14959
-titleAz: شمارهٔ ۱۸۹ - در مدح جلال الدین شروان شاه اخستان بن منوچهر
+titleAz: Qəsidə 189
+titleRu: Касыда 189
 titleFa: شمارهٔ ۱۸۹ - در مدح جلال الدین شروان شاه اخستان بن منوچهر
+titleEn: Qasida 189
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

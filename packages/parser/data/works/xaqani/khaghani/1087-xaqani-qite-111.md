@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-111
 sourceId: ganjoor-27774
-titleAz: شمارهٔ ۱۱۱
+titleAz: Qitə 111
+titleRu: Кыта 111
 titleFa: شمارهٔ ۱۱۱
+titleEn: Qit'a 111
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-238
 sourceId: ganjoor-14607
-titleAz: غزل شمارهٔ ۲۳۸
+titleAz: Qəzəl 238
+titleRu: Газель 238
 titleFa: غزل شمارهٔ ۲۳۸
+titleEn: Ghazal 238
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

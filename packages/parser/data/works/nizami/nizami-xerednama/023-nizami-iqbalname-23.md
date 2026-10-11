@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-23
 sourceId: ganjoor-9235
-titleAz: بخش ۲۳ - گفتار سقراط
+titleAz: 'İqbalnamə, fəsil 23'
+titleRu: 'Икбал-наме, глава 23'
 titleFa: بخش ۲۳ - گفتار سقراط
+titleEn: 'Iqbalnama, chapter 23'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

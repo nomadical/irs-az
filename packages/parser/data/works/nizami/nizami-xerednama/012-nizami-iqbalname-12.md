@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-12
 sourceId: ganjoor-9224
-titleAz: بخش ۱۲ - افسانهٔ ماریه قبطیه
+titleAz: 'İqbalnamə, fəsil 12'
+titleRu: 'Икбал-наме, глава 12'
 titleFa: بخش ۱۲ - افسانهٔ ماریه قبطیه
+titleEn: 'Iqbalnama, chapter 12'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

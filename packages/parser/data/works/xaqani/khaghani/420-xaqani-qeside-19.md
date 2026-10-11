@@ -1,12 +1,12 @@
 ---
 slug: xaqani-qeside-19
 sourceId: ganjoor-14789
-titleAz: >-
-  شمارهٔ ۱۹ - در مدح خاقان اکبر شروان شاه منوچهربن فریدون و بستن سد باقلانی و
-  التزام صبح در هر بیت
+titleAz: Qəsidə 19
+titleRu: Касыда 19
 titleFa: >-
   شمارهٔ ۱۹ - در مدح خاقان اکبر شروان شاه منوچهربن فریدون و بستن سد باقلانی و
   التزام صبح در هر بیت
+titleEn: Qasida 19
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

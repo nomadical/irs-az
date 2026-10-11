@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-36
 sourceId: ganjoor-9185
-titleAz: بخش ۳۶ - گشودن اسکندر دز دربند را به دعای زاهد
+titleAz: 'Şərəfnamə, fəsil 36'
+titleRu: 'Шараф-наме, глава 36'
 titleFa: بخش ۳۶ - گشودن اسکندر دز دربند را به دعای زاهد
+titleEn: 'Sharafnama, chapter 36'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

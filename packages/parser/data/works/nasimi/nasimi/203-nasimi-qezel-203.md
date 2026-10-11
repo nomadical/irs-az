@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-203
 sourceId: ganjoor-117498
-titleAz: شمارهٔ ۲۰۳
+titleAz: Qəzəl 203
+titleRu: Газель 203
 titleFa: شمارهٔ ۲۰۳
+titleEn: Ghazal 203
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

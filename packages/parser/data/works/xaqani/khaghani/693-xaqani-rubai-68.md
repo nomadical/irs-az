@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-68
 sourceId: ganjoor-15063
-titleAz: رباعی شمارهٔ   ۶۸
+titleAz: Rübai 68
+titleRu: Рубаи 68
 titleFa: رباعی شمارهٔ   ۶۸
+titleEn: Rubai 68
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

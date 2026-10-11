@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-286
 sourceId: ganjoor-14655
-titleAz: غزل شمارهٔ ۲۸۶
+titleAz: Qəzəl 286
+titleRu: Газель 286
 titleFa: غزل شمارهٔ ۲۸۶
+titleEn: Ghazal 286
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

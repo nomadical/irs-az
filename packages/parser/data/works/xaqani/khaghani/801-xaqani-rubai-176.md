@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-176
 sourceId: ganjoor-15171
-titleAz: رباعی شمارهٔ   ۱۷۶
+titleAz: Rübai 176
+titleRu: Рубаи 176
 titleFa: رباعی شمارهٔ   ۱۷۶
+titleEn: Rubai 176
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

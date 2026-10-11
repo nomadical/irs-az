@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-181
 sourceId: ganjoor-14951
-titleAz: شمارهٔ ۱۸۱ - در مدح پیغمبر اکرم (ص)
+titleAz: Qəsidə 181
+titleRu: Касыда 181
 titleFa: شمارهٔ ۱۸۱ - در مدح پیغمبر اکرم (ص)
+titleEn: Qasida 181
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

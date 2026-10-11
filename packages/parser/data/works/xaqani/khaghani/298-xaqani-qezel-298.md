@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-298
 sourceId: ganjoor-14667
-titleAz: غزل شمارهٔ ۲۹۸
+titleAz: Qəzəl 298
+titleRu: Газель 298
 titleFa: غزل شمارهٔ ۲۹۸
+titleEn: Ghazal 298
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

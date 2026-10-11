@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-15
 sourceId: ganjoor-9164
-titleAz: بخش ۱۵ - تظلم مصریان از زنگیان پیش اسکندر
+titleAz: 'Şərəfnamə, fəsil 15'
+titleRu: 'Шараф-наме, глава 15'
 titleFa: بخش ۱۵ - تظلم مصریان از زنگیان پیش اسکندر
+titleEn: 'Sharafnama, chapter 15'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

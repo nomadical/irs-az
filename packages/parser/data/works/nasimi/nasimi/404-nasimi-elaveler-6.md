@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-6
 sourceId: ganjoor-117705
-titleAz: شمارهٔ ۶
+titleAz: Əlavə 6
+titleRu: Дополнение 6
 titleFa: شمارهٔ ۶
+titleEn: Addendum 6
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

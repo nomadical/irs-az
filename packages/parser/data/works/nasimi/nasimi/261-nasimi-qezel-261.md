@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-261
 sourceId: ganjoor-117556
-titleAz: شمارهٔ ۲۶۱
+titleAz: Qəzəl 261
+titleRu: Газель 261
 titleFa: شمارهٔ ۲۶۱
+titleEn: Ghazal 261
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

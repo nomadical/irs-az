@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-339
 sourceId: ganjoor-28002
-titleAz: شمارهٔ ۳۳۹
+titleAz: Qitə 339
+titleRu: Кыта 339
 titleFa: شمارهٔ ۳۳۹
+titleEn: Qit'a 339
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

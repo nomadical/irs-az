@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-2
 sourceId: ganjoor-133906
-titleAz: شمارهٔ  ۲
+titleAz: Qitə 2
+titleRu: Кыта 2
 titleFa: شمارهٔ  ۲
+titleEn: Qit'a 2
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-39
 sourceId: ganjoor-15034
-titleAz: رباعی شمارهٔ   ۳۹
+titleAz: Rübai 39
+titleRu: Рубаи 39
 titleFa: رباعی شمارهٔ   ۳۹
+titleEn: Rubai 39
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

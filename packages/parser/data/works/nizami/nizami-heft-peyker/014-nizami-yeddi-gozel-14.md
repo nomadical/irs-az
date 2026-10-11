@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-14
 sourceId: ganjoor-9062
-titleAz: بخش ۱۴ - آگاهی بهرام از وفات پدر
+titleAz: 'Yeddi gözəl, fəsil 14'
+titleRu: 'Семь красавиц, глава 14'
 titleFa: بخش ۱۴ - آگاهی بهرام از وفات پدر
+titleEn: 'The Seven Beauties, chapter 14'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

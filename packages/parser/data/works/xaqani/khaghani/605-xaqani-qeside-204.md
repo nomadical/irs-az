@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-204
 sourceId: ganjoor-14974
-titleAz: شمارهٔ ۲۰۴ - مطلع دوم در وداع کعبه
+titleAz: Qəsidə 204
+titleRu: Касыда 204
 titleFa: شمارهٔ ۲۰۴ - مطلع دوم در وداع کعبه
+titleEn: Qasida 204
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

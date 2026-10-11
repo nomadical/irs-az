@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-3
 sourceId: ganjoor-133907
-titleAz: شمارهٔ  ۳ - لغز از مهستی
+titleAz: Qitə 3
+titleRu: Кыта 3
 titleFa: شمارهٔ  ۳ - لغز از مهستی
+titleEn: Qit'a 3
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

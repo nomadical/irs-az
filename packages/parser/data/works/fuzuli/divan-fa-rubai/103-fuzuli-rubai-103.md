@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-103
 sourceId: ganjoor-117267
-titleAz: شمارهٔ ۱۰۳
+titleAz: Rübai 103
+titleRu: Рубаи 103
 titleFa: شمارهٔ ۱۰۳
+titleEn: Rubai 103
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

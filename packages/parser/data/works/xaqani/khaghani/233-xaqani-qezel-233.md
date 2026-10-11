@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-233
 sourceId: ganjoor-14602
-titleAz: غزل شمارهٔ ۲۳۳
+titleAz: Qəzəl 233
+titleRu: Газель 233
 titleFa: غزل شمارهٔ ۲۳۳
+titleEn: Ghazal 233
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

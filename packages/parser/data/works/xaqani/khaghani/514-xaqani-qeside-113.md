@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-113
 sourceId: ganjoor-14883
-titleAz: شمارهٔ ۱۱۳ - مطلع دوم
+titleAz: Qəsidə 113
+titleRu: Касыда 113
 titleFa: شمارهٔ ۱۱۳ - مطلع دوم
+titleEn: Qasida 113
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

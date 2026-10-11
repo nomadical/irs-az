@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-308
 sourceId: ganjoor-14677
-titleAz: غزل شمارهٔ ۳۰۸
+titleAz: Qəzəl 308
+titleRu: Газель 308
 titleFa: غزل شمارهٔ ۳۰۸
+titleEn: Ghazal 308
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-30
 sourceId: ganjoor-9242
-titleAz: بخش ۳۰ - خردنامه ارسطو
+titleAz: 'İqbalnamə, fəsil 30'
+titleRu: 'Икбал-наме, глава 30'
 titleFa: بخش ۳۰ - خردنامه ارسطو
+titleEn: 'Iqbalnama, chapter 30'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

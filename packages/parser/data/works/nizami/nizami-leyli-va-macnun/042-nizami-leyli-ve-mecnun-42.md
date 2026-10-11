@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-42
 sourceId: ganjoor-9044
-titleAz: بخش ۴۲ - آشنا شدن سلام بغدادی با مجنون
+titleAz: 'Leyli və Məcnun, fəsil 42'
+titleRu: 'Лейли и Меджнун, глава 42'
 titleFa: بخش ۴۲ - آشنا شدن سلام بغدادی با مجنون
+titleEn: 'Layla and Majnun, chapter 42'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

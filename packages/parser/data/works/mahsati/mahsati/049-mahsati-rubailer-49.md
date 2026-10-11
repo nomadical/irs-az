@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-49
 sourceId: ganjoor-50109
-titleAz: رباعی شمارۀ ۴۹
+titleAz: 'Rübailər, 49'
+titleRu: 'Рубайят, 49'
 titleFa: رباعی شمارۀ ۴۹
+titleEn: 'Rubaiyat, 49'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

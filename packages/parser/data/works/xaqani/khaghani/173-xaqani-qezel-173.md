@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-173
 sourceId: ganjoor-14542
-titleAz: غزل شمارهٔ ۱۷۳
+titleAz: Qəzəl 173
+titleRu: Газель 173
 titleFa: غزل شمارهٔ ۱۷۳
+titleEn: Ghazal 173
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

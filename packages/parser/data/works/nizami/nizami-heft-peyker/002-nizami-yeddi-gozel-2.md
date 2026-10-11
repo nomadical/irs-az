@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-2
 sourceId: ganjoor-9050
-titleAz: بخش ۲ - در نعت پیغمبر اکرم
+titleAz: 'Yeddi gözəl, fəsil 2'
+titleRu: 'Семь красавиц, глава 2'
 titleFa: بخش ۲ - در نعت پیغمبر اکرم
+titleEn: 'The Seven Beauties, chapter 2'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

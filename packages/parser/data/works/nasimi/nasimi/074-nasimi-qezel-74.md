@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-74
 sourceId: ganjoor-117369
-titleAz: شمارهٔ ۷۴ - استقبال از حافظ
+titleAz: Qəzəl 74
+titleRu: Газель 74
 titleFa: شمارهٔ ۷۴ - استقبال از حافظ
+titleEn: Ghazal 74
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

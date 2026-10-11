@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-33
 sourceId: ganjoor-133757
-titleAz: شمارهٔ ۳۳
+titleAz: Rübai 33
+titleRu: Рубаи 33
 titleFa: شمارهٔ ۳۳
+titleEn: Rubai 33
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-133
 sourceId: ganjoor-14502
-titleAz: غزل شمارهٔ ۱۳۳
+titleAz: Qəzəl 133
+titleRu: Газель 133
 titleFa: غزل شمارهٔ ۱۳۳
+titleEn: Ghazal 133
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

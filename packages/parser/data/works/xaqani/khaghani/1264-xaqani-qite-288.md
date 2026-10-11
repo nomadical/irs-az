@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-288
 sourceId: ganjoor-27951
-titleAz: شمارهٔ ۲۸۸
+titleAz: Qitə 288
+titleRu: Кыта 288
 titleFa: شمارهٔ ۲۸۸
+titleEn: Qit'a 288
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-320
 sourceId: ganjoor-14689
-titleAz: غزل شمارهٔ ۳۲۰
+titleAz: Qəzəl 320
+titleRu: Газель 320
 titleFa: غزل شمارهٔ ۳۲۰
+titleEn: Ghazal 320
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

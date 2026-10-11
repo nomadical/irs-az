@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-12
 sourceId: ganjoor-133916
-titleAz: شمارهٔ  ۱۲
+titleAz: Qitə 12
+titleRu: Кыта 12
 titleFa: شمارهٔ  ۱۲
+titleEn: Qit'a 12
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

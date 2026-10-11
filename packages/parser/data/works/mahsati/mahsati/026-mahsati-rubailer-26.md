@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-26
 sourceId: ganjoor-50086
-titleAz: رباعی شمارۀ ۲۶
+titleAz: 'Rübailər, 26'
+titleRu: 'Рубайят, 26'
 titleFa: رباعی شمارۀ ۲۶
+titleEn: 'Rubaiyat, 26'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

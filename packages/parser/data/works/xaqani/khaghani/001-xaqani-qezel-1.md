@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-1
 sourceId: ganjoor-14370
-titleAz: غزل شمارهٔ ۱
+titleAz: Qəzəl 1
+titleRu: Газель 1
 titleFa: غزل شمارهٔ ۱
+titleEn: Ghazal 1
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

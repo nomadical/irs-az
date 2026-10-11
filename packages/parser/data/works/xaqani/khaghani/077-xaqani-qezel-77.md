@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-77
 sourceId: ganjoor-14446
-titleAz: غزل شمارهٔ ۷۷
+titleAz: Qəzəl 77
+titleRu: Газель 77
 titleFa: غزل شمارهٔ ۷۷
+titleEn: Ghazal 77
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-75
 sourceId: ganjoor-14845
-titleAz: شمارهٔ ۷۵ - قصیده
+titleAz: Qəsidə 75
+titleRu: Касыда 75
 titleFa: شمارهٔ ۷۵ - قصیده
+titleEn: Qasida 75
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-153
 sourceId: ganjoor-133877
-titleAz: شمارهٔ ۱۵۳
+titleAz: Rübai 153
+titleRu: Рубаи 153
 titleFa: شمارهٔ ۱۵۳
+titleEn: Rubai 153
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-316
 sourceId: ganjoor-117022
-titleAz: شمارهٔ ۳۱۶
+titleAz: Qəzəl 316
+titleRu: Газель 316
 titleFa: شمارهٔ ۳۱۶
+titleEn: Ghazal 316
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

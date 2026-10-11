@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-2
 sourceId: ganjoor-9151
-titleAz: بخش ۲ - مناجات به درگاه باری عز شأنه
+titleAz: 'Şərəfnamə, fəsil 2'
+titleRu: 'Шараф-наме, глава 2'
 titleFa: بخش ۲ - مناجات به درگاه باری عز شأنه
+titleEn: 'Sharafnama, chapter 2'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-160
 sourceId: ganjoor-14930
-titleAz: شمارهٔ ۱۶۰ - مطلع دوم
+titleAz: Qəsidə 160
+titleRu: Касыда 160
 titleFa: شمارهٔ ۱۶۰ - مطلع دوم
+titleEn: Qasida 160
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

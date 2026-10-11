@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-311
 sourceId: ganjoor-27974
-titleAz: شمارهٔ ۳۱۱
+titleAz: Qitə 311
+titleRu: Кыта 311
 titleFa: شمارهٔ ۳۱۱
+titleEn: Qit'a 311
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

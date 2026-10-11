@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-1
 sourceId: ganjoor-14771
-titleAz: شمارهٔ ۱ - در یکتاپرستی و ستایش حضرت خاتم الانبیاء
+titleAz: Qəsidə 1
+titleRu: Касыда 1
 titleFa: شمارهٔ ۱ - در یکتاپرستی و ستایش حضرت خاتم الانبیاء
+titleEn: Qasida 1
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

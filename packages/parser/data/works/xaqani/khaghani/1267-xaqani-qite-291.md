@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-291
 sourceId: ganjoor-27954
-titleAz: شمارهٔ ۲۹۱ - در تعریض بر بُندار رازی
+titleAz: Qitə 291
+titleRu: Кыта 291
 titleFa: شمارهٔ ۲۹۱ - در تعریض بر بُندار رازی
+titleEn: Qit'a 291
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

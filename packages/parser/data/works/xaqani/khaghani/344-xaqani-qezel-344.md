@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-344
 sourceId: ganjoor-14713
-titleAz: غزل شمارهٔ ۳۴۴
+titleAz: Qəzəl 344
+titleRu: Газель 344
 titleFa: غزل شمارهٔ ۳۴۴
+titleEn: Ghazal 344
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

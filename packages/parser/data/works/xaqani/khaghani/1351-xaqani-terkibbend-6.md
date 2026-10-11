@@ -1,8 +1,10 @@
 ---
 slug: xaqani-terkibbend-6
 sourceId: ganjoor-15488
-titleAz: شمارهٔ ۶ - در مرثیهٔ خاقان اعظم منوچهر پسر فریدون شروان شاه
+titleAz: Tərkibbənd 6
+titleRu: Таркиббанд 6
 titleFa: شمارهٔ ۶ - در مرثیهٔ خاقان اعظم منوچهر پسر فریدون شروان شاه
+titleEn: Tarkib-band 6
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

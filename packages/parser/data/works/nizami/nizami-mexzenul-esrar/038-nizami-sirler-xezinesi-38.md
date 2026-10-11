@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-38
 sourceId: ganjoor-9300
-titleAz: بخش ۳۸ - مقالت دهم در نمودار آخرالزمان
+titleAz: 'Sirlər xəzinəsi, fəsil 38'
+titleRu: 'Сокровищница тайн, глава 38'
 titleFa: بخش ۳۸ - مقالت دهم در نمودار آخرالزمان
+titleEn: 'The Treasury of Mysteries, chapter 38'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

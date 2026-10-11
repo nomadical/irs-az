@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-180
 sourceId: ganjoor-14549
-titleAz: غزل شمارهٔ ۱۸۰
+titleAz: Qəzəl 180
+titleRu: Газель 180
 titleFa: غزل شمارهٔ ۱۸۰
+titleEn: Ghazal 180
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

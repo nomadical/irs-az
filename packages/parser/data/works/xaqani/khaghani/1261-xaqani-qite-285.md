@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-285
 sourceId: ganjoor-27948
-titleAz: شمارهٔ ۲۸۵
+titleAz: Qitə 285
+titleRu: Кыта 285
 titleFa: شمارهٔ ۲۸۵
+titleEn: Qit'a 285
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

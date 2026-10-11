@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-8
 sourceId: ganjoor-117611
-titleAz: شمارهٔ ۸
+titleAz: Rübai 8
+titleRu: Рубаи 8
 titleFa: شمارهٔ ۸
+titleEn: Rubai 8
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

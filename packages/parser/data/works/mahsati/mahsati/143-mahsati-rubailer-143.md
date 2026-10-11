@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-143
 sourceId: ganjoor-50203
-titleAz: رباعی شمارۀ ۱۴۳
+titleAz: 'Rübailər, 143'
+titleRu: 'Рубайят, 143'
 titleFa: رباعی شمارۀ ۱۴۳
+titleEn: 'Rubaiyat, 143'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

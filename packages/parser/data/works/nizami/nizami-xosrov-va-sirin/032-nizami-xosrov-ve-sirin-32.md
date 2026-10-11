@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-32
 sourceId: ganjoor-8896
-titleAz: بخش ۳۲ - بر تخت نشستن خسرو به جای پدر
+titleAz: 'Xosrov və Şirin, fəsil 32'
+titleRu: 'Хосров и Ширин, глава 32'
 titleFa: بخش ۳۲ - بر تخت نشستن خسرو به جای پدر
+titleEn: 'Khosrow and Shirin, chapter 32'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

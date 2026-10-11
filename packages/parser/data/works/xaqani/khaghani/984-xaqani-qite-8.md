@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-8
 sourceId: ganjoor-27671
-titleAz: شمارهٔ ۸ - در مدح
+titleAz: Qitə 8
+titleRu: Кыта 8
 titleFa: شمارهٔ ۸ - در مدح
+titleEn: Qit'a 8
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

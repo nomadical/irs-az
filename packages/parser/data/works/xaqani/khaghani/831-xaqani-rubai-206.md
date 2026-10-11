@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-206
 sourceId: ganjoor-15201
-titleAz: رباعی شمارهٔ   ۲۰۶
+titleAz: Rübai 206
+titleRu: Рубаи 206
 titleFa: رباعی شمارهٔ   ۲۰۶
+titleEn: Rubai 206
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

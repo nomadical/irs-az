@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-41
 sourceId: ganjoor-8905
-titleAz: بخش ۴۱ - مراد طلبیدن خسرو از شیرین و مانع شدن او
+titleAz: 'Xosrov və Şirin, fəsil 41'
+titleRu: 'Хосров и Ширин, глава 41'
 titleFa: بخش ۴۱ - مراد طلبیدن خسرو از شیرین و مانع شدن او
+titleEn: 'Khosrow and Shirin, chapter 41'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

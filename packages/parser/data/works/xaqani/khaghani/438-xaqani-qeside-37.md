@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-37
 sourceId: ganjoor-14807
-titleAz: شمارهٔ ۳۷ - در مرثیهٔ سپهبد کیالواشیر
+titleAz: Qəsidə 37
+titleRu: Касыда 37
 titleFa: شمارهٔ ۳۷ - در مرثیهٔ سپهبد کیالواشیر
+titleEn: Qasida 37
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

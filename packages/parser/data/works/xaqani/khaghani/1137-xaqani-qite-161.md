@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-161
 sourceId: ganjoor-27824
-titleAz: شمارهٔ ۱۶۱
+titleAz: Qitə 161
+titleRu: Кыта 161
 titleFa: شمارهٔ ۱۶۱
+titleEn: Qit'a 161
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

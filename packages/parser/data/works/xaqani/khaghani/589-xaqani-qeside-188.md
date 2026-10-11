@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-188
 sourceId: ganjoor-14958
-titleAz: شمارهٔ ۱۸۸ - در مدح عصمة الدین عمهٔ اخستان
+titleAz: Qəsidə 188
+titleRu: Касыда 188
 titleFa: شمارهٔ ۱۸۸ - در مدح عصمة الدین عمهٔ اخستان
+titleEn: Qasida 188
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

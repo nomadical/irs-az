@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-25
 sourceId: ganjoor-50085
-titleAz: رباعی شمارۀ ۲۵
+titleAz: 'Rübailər, 25'
+titleRu: 'Рубайят, 25'
 titleFa: رباعی شمارۀ ۲۵
+titleEn: 'Rubaiyat, 25'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-344
 sourceId: ganjoor-117050
-titleAz: شمارهٔ ۳۴۴
+titleAz: Qəzəl 344
+titleRu: Газель 344
 titleFa: شمارهٔ ۳۴۴
+titleEn: Ghazal 344
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

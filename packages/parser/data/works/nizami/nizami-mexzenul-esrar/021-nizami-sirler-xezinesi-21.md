@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-21
 sourceId: ganjoor-9283
-titleAz: بخش ۲۱ - داستان پادشاه نومید و آمرزش یافتن او
+titleAz: 'Sirlər xəzinəsi, fəsil 21'
+titleRu: 'Сокровищница тайн, глава 21'
 titleFa: بخش ۲۱ - داستان پادشاه نومید و آمرزش یافتن او
+titleEn: 'The Treasury of Mysteries, chapter 21'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

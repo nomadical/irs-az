@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-saqiname-15
 sourceId: ganjoor-117290
-titleAz: بخش ۱۵ - مناظره با مطرب
+titleAz: 'Saqinamə, fəsil 15'
+titleRu: 'Саки-наме, глава 15'
 titleFa: بخش ۱۵ - مناظره با مطرب
+titleEn: 'Saqi-nama, chapter 15'
 authorSlug: fuzuli
 collectionSlug: saqiname
 originalLang: FA

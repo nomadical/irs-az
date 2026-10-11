@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-258
 sourceId: ganjoor-15253
-titleAz: رباعی شمارهٔ   ۲۵۸
+titleAz: Rübai 258
+titleRu: Рубаи 258
 titleFa: رباعی شمارهٔ   ۲۵۸
+titleEn: Rubai 258
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

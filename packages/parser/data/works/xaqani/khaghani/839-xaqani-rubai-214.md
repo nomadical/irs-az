@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-214
 sourceId: ganjoor-15209
-titleAz: رباعی شمارهٔ   ۲۱۴
+titleAz: Rübai 214
+titleRu: Рубаи 214
 titleFa: رباعی شمارهٔ   ۲۱۴
+titleEn: Rubai 214
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

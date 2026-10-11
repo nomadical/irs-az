@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-58
 sourceId: ganjoor-8922
-titleAz: بخش ۵۸ - کوه کندن فرهاد و زاری او
+titleAz: 'Xosrov və Şirin, fəsil 58'
+titleRu: 'Хосров и Ширин, глава 58'
 titleFa: بخش ۵۸ - کوه کندن فرهاد و زاری او
+titleEn: 'Khosrow and Shirin, chapter 58'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

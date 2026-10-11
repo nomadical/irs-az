@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-174
 sourceId: ganjoor-14944
-titleAz: شمارهٔ ۱۷۴ - در تجرید و عزلت و قناعت و بی‌طمعی و شکایت از روزگار
+titleAz: Qəsidə 174
+titleRu: Касыда 174
 titleFa: شمارهٔ ۱۷۴ - در تجرید و عزلت و قناعت و بی‌طمعی و شکایت از روزگار
+titleEn: Qasida 174
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

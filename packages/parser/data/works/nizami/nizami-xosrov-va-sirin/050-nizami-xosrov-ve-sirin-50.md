@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-50
 sourceId: ganjoor-8914
-titleAz: بخش ۵۰ - (سی لحن باربد)
+titleAz: 'Xosrov və Şirin, fəsil 50'
+titleRu: 'Хосров и Ширин, глава 50'
 titleFa: بخش ۵۰ - (سی لحن باربد)
+titleEn: 'Khosrow and Shirin, chapter 50'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

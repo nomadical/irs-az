@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-saqiname-2
 sourceId: ganjoor-117277
-titleAz: بخش ۲ - نشاه جام اول
+titleAz: 'Saqinamə, fəsil 2'
+titleRu: 'Саки-наме, глава 2'
 titleFa: بخش ۲ - نشاه جام اول
+titleEn: 'Saqi-nama, chapter 2'
 authorSlug: fuzuli
 collectionSlug: saqiname
 originalLang: FA

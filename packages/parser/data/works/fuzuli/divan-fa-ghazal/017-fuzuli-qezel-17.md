@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-17
 sourceId: ganjoor-116723
-titleAz: شمارهٔ ۱۷
+titleAz: Qəzəl 17
+titleRu: Газель 17
 titleFa: شمارهٔ ۱۷
+titleEn: Ghazal 17
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

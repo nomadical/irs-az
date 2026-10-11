@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-38
 sourceId: ganjoor-9187
-titleAz: بخش ۳۸ - رفتن اسکندر به غار کیخسرو
+titleAz: 'Şərəfnamə, fəsil 38'
+titleRu: 'Шараф-наме, глава 38'
 titleFa: بخش ۳۸ - رفتن اسکندر به غار کیخسرو
+titleEn: 'Sharafnama, chapter 38'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

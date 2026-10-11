@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-32
 sourceId: ganjoor-9034
-titleAz: بخش ۳۲ - آگاهی مجنون از مرگ پدر
+titleAz: 'Leyli və Məcnun, fəsil 32'
+titleRu: 'Лейли и Меджнун, глава 32'
 titleFa: بخش ۳۲ - آگاهی مجنون از مرگ پدر
+titleEn: 'Layla and Majnun, chapter 32'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

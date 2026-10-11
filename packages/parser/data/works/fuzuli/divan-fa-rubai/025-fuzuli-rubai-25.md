@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-25
 sourceId: ganjoor-117189
-titleAz: شمارهٔ ۲۵
+titleAz: Rübai 25
+titleRu: Рубаи 25
 titleFa: شمارهٔ ۲۵
+titleEn: Rubai 25
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-55
 sourceId: ganjoor-8919
-titleAz: بخش ۵۵ - آگاهی یافتن خسرو از عشق فرهاد
+titleAz: 'Xosrov və Şirin, fəsil 55'
+titleRu: 'Хосров и Ширин, глава 55'
 titleFa: بخش ۵۵ - آگاهی یافتن خسرو از عشق فرهاد
+titleEn: 'Khosrow and Shirin, chapter 55'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-144
 sourceId: ganjoor-116850
-titleAz: شمارهٔ ۱۴۴
+titleAz: Qəzəl 144
+titleRu: Газель 144
 titleFa: شمارهٔ ۱۴۴
+titleEn: Ghazal 144
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

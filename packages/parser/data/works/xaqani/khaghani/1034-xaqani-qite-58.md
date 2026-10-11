@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-58
 sourceId: ganjoor-27721
-titleAz: شمارهٔ ۵۸ - در حماسه
+titleAz: Qitə 58
+titleRu: Кыта 58
 titleFa: شمارهٔ ۵۸ - در حماسه
+titleEn: Qit'a 58
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

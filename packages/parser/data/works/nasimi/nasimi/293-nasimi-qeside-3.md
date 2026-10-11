@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qeside-3
 sourceId: ganjoor-117589
-titleAz: شمارهٔ ۳ - فتوت نامه
+titleAz: Qəsidə 3
+titleRu: Касыда 3
 titleFa: شمارهٔ ۳ - فتوت نامه
+titleEn: Qasida 3
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

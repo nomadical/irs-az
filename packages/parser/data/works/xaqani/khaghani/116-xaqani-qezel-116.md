@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-116
 sourceId: ganjoor-14485
-titleAz: غزل شمارهٔ ۱۱۶
+titleAz: Qəzəl 116
+titleRu: Газель 116
 titleFa: غزل شمارهٔ ۱۱۶
+titleEn: Ghazal 116
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

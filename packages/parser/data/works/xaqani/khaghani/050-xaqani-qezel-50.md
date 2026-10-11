@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-50
 sourceId: ganjoor-14419
-titleAz: غزل شمارهٔ ۵۰
+titleAz: Qəzəl 50
+titleRu: Газель 50
 titleFa: غزل شمارهٔ ۵۰
+titleEn: Ghazal 50
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

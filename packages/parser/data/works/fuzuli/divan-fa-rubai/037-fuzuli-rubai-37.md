@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-37
 sourceId: ganjoor-117201
-titleAz: شمارهٔ ۳۷
+titleAz: Rübai 37
+titleRu: Рубаи 37
 titleFa: شمارهٔ ۳۷
+titleEn: Rubai 37
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

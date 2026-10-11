@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-106
 sourceId: ganjoor-27769
-titleAz: شمارهٔ ۱۰۶ - در بارهٔ رشید الدین وطواط
+titleAz: Qitə 106
+titleRu: Кыта 106
 titleFa: شمارهٔ ۱۰۶ - در بارهٔ رشید الدین وطواط
+titleEn: Qit'a 106
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

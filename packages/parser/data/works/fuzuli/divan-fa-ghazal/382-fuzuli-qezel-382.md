@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-382
 sourceId: ganjoor-117088
-titleAz: شمارهٔ ۳۸۲
+titleAz: Qəzəl 382
+titleRu: Газель 382
 titleFa: شمارهٔ ۳۸۲
+titleEn: Ghazal 382
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

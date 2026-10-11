@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-91
 sourceId: ganjoor-117386
-titleAz: شمارهٔ ۹۱
+titleAz: Qəzəl 91
+titleRu: Газель 91
 titleFa: شمارهٔ ۹۱
+titleEn: Ghazal 91
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

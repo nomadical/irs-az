@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-28
 sourceId: ganjoor-8892
-titleAz: بخش ۲۸ - رسیدن خسرو به ارمن نزد مهین بانو
+titleAz: 'Xosrov və Şirin, fəsil 28'
+titleRu: 'Хосров и Ширин, глава 28'
 titleFa: بخش ۲۸ - رسیدن خسرو به ارمن نزد مهین بانو
+titleEn: 'Khosrow and Shirin, chapter 28'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

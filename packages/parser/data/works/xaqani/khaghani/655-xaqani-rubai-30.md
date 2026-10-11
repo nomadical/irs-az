@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-30
 sourceId: ganjoor-15025
-titleAz: رباعی شمارهٔ   ۳۰
+titleAz: Rübai 30
+titleRu: Рубаи 30
 titleFa: رباعی شمارهٔ   ۳۰
+titleEn: Rubai 30
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-10
 sourceId: ganjoor-9159
-titleAz: بخش ۱۰ - فرو گفتن داستان به طریق ایجاز
+titleAz: 'Şərəfnamə, fəsil 10'
+titleRu: 'Шараф-наме, глава 10'
 titleFa: بخش ۱۰ - فرو گفتن داستان به طریق ایجاز
+titleEn: 'Sharafnama, chapter 10'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

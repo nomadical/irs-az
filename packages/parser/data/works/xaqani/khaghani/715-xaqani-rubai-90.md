@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-90
 sourceId: ganjoor-15085
-titleAz: رباعی شمارهٔ   ۹۰
+titleAz: Rübai 90
+titleRu: Рубаи 90
 titleFa: رباعی شمارهٔ   ۹۰
+titleEn: Rubai 90
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

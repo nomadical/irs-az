@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-70
 sourceId: ganjoor-50130
-titleAz: رباعی شمارۀ ۷۰
+titleAz: 'Rübailər, 70'
+titleRu: 'Рубайят, 70'
 titleFa: رباعی شمارۀ ۷۰
+titleEn: 'Rubaiyat, 70'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

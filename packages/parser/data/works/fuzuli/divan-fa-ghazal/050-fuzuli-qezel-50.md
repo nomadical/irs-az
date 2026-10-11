@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-50
 sourceId: ganjoor-116756
-titleAz: شمارهٔ ۵۰
+titleAz: Qəzəl 50
+titleRu: Газель 50
 titleFa: شمارهٔ ۵۰
+titleEn: Ghazal 50
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

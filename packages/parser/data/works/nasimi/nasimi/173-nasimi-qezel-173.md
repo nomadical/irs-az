@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-173
 sourceId: ganjoor-117468
-titleAz: شمارهٔ ۱۷۳
+titleAz: Qəzəl 173
+titleRu: Газель 173
 titleFa: شمارهٔ ۱۷۳
+titleEn: Ghazal 173
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

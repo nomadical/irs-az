@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-348
 sourceId: ganjoor-14717
-titleAz: غزل شمارهٔ ۳۴۸
+titleAz: Qəzəl 348
+titleRu: Газель 348
 titleFa: غزل شمارهٔ ۳۴۸
+titleEn: Ghazal 348
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-230
 sourceId: ganjoor-14599
-titleAz: غزل شمارهٔ ۲۳۰
+titleAz: Qəzəl 230
+titleRu: Газель 230
 titleFa: غزل شمارهٔ ۲۳۰
+titleEn: Ghazal 230
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

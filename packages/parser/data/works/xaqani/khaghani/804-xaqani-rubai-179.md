@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-179
 sourceId: ganjoor-15174
-titleAz: رباعی شمارهٔ   ۱۷۹
+titleAz: Rübai 179
+titleRu: Рубаи 179
 titleFa: رباعی شمارهٔ   ۱۷۹
+titleEn: Rubai 179
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

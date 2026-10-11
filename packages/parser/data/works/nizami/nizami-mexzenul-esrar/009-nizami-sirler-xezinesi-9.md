@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-9
 sourceId: ganjoor-9271
-titleAz: بخش ۹ - نعت چهارم
+titleAz: 'Sirlər xəzinəsi, fəsil 9'
+titleRu: 'Сокровищница тайн, глава 9'
 titleFa: بخش ۹ - نعت چهارم
+titleEn: 'The Treasury of Mysteries, chapter 9'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

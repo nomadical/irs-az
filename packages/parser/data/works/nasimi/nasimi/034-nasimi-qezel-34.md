@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-34
 sourceId: ganjoor-117329
-titleAz: شمارهٔ ۳۴
+titleAz: Qəzəl 34
+titleRu: Газель 34
 titleFa: شمارهٔ ۳۴
+titleEn: Ghazal 34
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-110
 sourceId: ganjoor-8974
-titleAz: بخش ۱۱۰ - حکمت و اندرز سرایی حکیم نظامی
+titleAz: 'Xosrov və Şirin, fəsil 110'
+titleRu: 'Хосров и Ширин, глава 110'
 titleFa: بخش ۱۱۰ - حکمت و اندرز سرایی حکیم نظامی
+titleEn: 'Khosrow and Shirin, chapter 110'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

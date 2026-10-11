@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-93
 sourceId: ganjoor-15088
-titleAz: رباعی شمارهٔ   ۹۳
+titleAz: Rübai 93
+titleRu: Рубаи 93
 titleFa: رباعی شمارهٔ   ۹۳
+titleEn: Rubai 93
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

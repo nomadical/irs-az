@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-18
 sourceId: ganjoor-50078
-titleAz: رباعی شمارۀ ۱۸
+titleAz: 'Rübailər, 18'
+titleRu: 'Рубайят, 18'
 titleFa: رباعی شمارۀ ۱۸
+titleEn: 'Rubaiyat, 18'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

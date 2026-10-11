@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-134
 sourceId: ganjoor-27797
-titleAz: شمارهٔ ۱۳۴
+titleAz: Qitə 134
+titleRu: Кыта 134
 titleFa: شمارهٔ ۱۳۴
+titleEn: Qit'a 134
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

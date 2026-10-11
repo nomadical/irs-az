@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-92
 sourceId: ganjoor-27755
-titleAz: شمارهٔ ۹۲ - در بارهٔ فوت دختر خود
+titleAz: Qitə 92
+titleRu: Кыта 92
 titleFa: شمارهٔ ۹۲ - در بارهٔ فوت دختر خود
+titleEn: Qit'a 92
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

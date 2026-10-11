@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-313
 sourceId: ganjoor-14682
-titleAz: غزل شمارهٔ ۳۱۳
+titleAz: Qəzəl 313
+titleRu: Газель 313
 titleFa: غزل شمارهٔ ۳۱۳
+titleEn: Ghazal 313
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

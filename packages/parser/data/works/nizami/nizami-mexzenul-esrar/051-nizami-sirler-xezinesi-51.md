@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-51
 sourceId: ganjoor-9313
-titleAz: بخش ۵۱ - داستان کودک مجروح
+titleAz: 'Sirlər xəzinəsi, fəsil 51'
+titleRu: 'Сокровищница тайн, глава 51'
 titleFa: بخش ۵۱ - داستان کودک مجروح
+titleEn: 'The Treasury of Mysteries, chapter 51'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

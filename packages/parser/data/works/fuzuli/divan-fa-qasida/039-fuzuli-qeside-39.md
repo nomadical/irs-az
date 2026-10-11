@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-39
 sourceId: ganjoor-116695
-titleAz: شمارهٔ ۳۹
+titleAz: Qəsidə 39
+titleRu: Касыда 39
 titleFa: شمارهٔ ۳۹
+titleEn: Qasida 39
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

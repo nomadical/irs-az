@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-327
 sourceId: ganjoor-14696
-titleAz: غزل شمارهٔ ۳۲۷
+titleAz: Qəzəl 327
+titleRu: Газель 327
 titleFa: غزل شمارهٔ ۳۲۷
+titleEn: Ghazal 327
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

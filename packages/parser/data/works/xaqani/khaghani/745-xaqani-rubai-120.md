@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-120
 sourceId: ganjoor-15115
-titleAz: رباعی شمارهٔ   ۱۲۰
+titleAz: Rübai 120
+titleRu: Рубаи 120
 titleFa: رباعی شمارهٔ   ۱۲۰
+titleEn: Rubai 120
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

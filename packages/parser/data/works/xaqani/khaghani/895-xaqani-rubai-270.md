@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-270
 sourceId: ganjoor-15265
-titleAz: رباعی شمارهٔ   ۲۷۰
+titleAz: Rübai 270
+titleRu: Рубаи 270
 titleFa: رباعی شمارهٔ   ۲۷۰
+titleEn: Rubai 270
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

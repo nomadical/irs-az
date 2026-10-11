@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-198
 sourceId: ganjoor-14968
-titleAz: شمارهٔ ۱۹۸ - مطلع سوم
+titleAz: Qəsidə 198
+titleRu: Касыда 198
 titleFa: شمارهٔ ۱۹۸ - مطلع سوم
+titleEn: Qasida 198
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

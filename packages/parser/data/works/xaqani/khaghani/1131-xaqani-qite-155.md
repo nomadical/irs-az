@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-155
 sourceId: ganjoor-27818
-titleAz: شمارهٔ ۱۵۵
+titleAz: Qitə 155
+titleRu: Кыта 155
 titleFa: شمارهٔ ۱۵۵
+titleEn: Qit'a 155
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

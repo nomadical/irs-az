@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-146
 sourceId: ganjoor-27809
-titleAz: شمارهٔ ۱۴۶ - در توصیف قلم و دوات خود
+titleAz: Qitə 146
+titleRu: Кыта 146
 titleFa: شمارهٔ ۱۴۶ - در توصیف قلم و دوات خود
+titleEn: Qit'a 146
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

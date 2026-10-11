@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-264
 sourceId: ganjoor-14633
-titleAz: غزل شمارهٔ ۲۶۴
+titleAz: Qəzəl 264
+titleRu: Газель 264
 titleFa: غزل شمارهٔ ۲۶۴
+titleEn: Ghazal 264
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

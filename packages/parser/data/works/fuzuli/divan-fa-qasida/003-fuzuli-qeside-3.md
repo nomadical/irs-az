@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-3
 sourceId: ganjoor-116659
-titleAz: شمارهٔ ۳ - ستایش قاضی رکن‌الدین بغداد
+titleAz: Qəsidə 3
+titleRu: Касыда 3
 titleFa: شمارهٔ ۳ - ستایش قاضی رکن‌الدین بغداد
+titleEn: Qasida 3
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

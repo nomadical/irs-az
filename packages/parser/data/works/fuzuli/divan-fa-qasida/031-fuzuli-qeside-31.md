@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-31
 sourceId: ganjoor-116687
-titleAz: شمارهٔ ۳۱
+titleAz: Qəsidə 31
+titleRu: Касыда 31
 titleFa: شمارهٔ ۳۱
+titleEn: Qasida 31
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

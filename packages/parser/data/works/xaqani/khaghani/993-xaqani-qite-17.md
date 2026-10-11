@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-17
 sourceId: ganjoor-27680
-titleAz: شمارهٔ ۱۷
+titleAz: Qitə 17
+titleRu: Кыта 17
 titleFa: شمارهٔ ۱۷
+titleEn: Qit'a 17
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

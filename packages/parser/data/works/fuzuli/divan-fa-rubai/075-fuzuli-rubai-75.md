@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-75
 sourceId: ganjoor-117239
-titleAz: شمارهٔ ۷۵
+titleAz: Rübai 75
+titleRu: Рубаи 75
 titleFa: شمارهٔ ۷۵
+titleEn: Rubai 75
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

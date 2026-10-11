@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-83
 sourceId: ganjoor-14853
-titleAz: شمارهٔ ۸۳ - قصیده
+titleAz: Qəsidə 83
+titleRu: Касыда 83
 titleFa: شمارهٔ ۸۳ - قصیده
+titleEn: Qasida 83
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

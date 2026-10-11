@@ -1,12 +1,12 @@
 ---
 slug: xaqani-qeside-58
 sourceId: ganjoor-14828
-titleAz: >-
-  شمارهٔ ۵۸ - این قصیدهٔ را در جواب امام مجد الدین سروده و به مدح شاه اخستان
-  پایان داده است
+titleAz: Qəsidə 58
+titleRu: Касыда 58
 titleFa: >-
   شمارهٔ ۵۸ - این قصیدهٔ را در جواب امام مجد الدین سروده و به مدح شاه اخستان
   پایان داده است
+titleEn: Qasida 58
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

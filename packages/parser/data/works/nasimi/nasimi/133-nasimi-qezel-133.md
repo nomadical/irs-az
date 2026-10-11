@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-133
 sourceId: ganjoor-117428
-titleAz: شمارهٔ ۱۳۳
+titleAz: Qəzəl 133
+titleRu: Газель 133
 titleFa: شمارهٔ ۱۳۳
+titleEn: Ghazal 133
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

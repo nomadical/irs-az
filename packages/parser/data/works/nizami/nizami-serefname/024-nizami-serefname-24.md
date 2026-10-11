@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-24
 sourceId: ganjoor-9173
-titleAz: بخش ۲۴ - پاسخ نامه دارا از جانب اسکندر
+titleAz: 'Şərəfnamə, fəsil 24'
+titleRu: 'Шараф-наме, глава 24'
 titleFa: بخش ۲۴ - پاسخ نامه دارا از جانب اسکندر
+titleEn: 'Sharafnama, chapter 24'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

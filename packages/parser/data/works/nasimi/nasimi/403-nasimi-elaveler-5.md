@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-5
 sourceId: ganjoor-117704
-titleAz: شمارهٔ ۵ - مسمط
+titleAz: Əlavə 5
+titleRu: Дополнение 5
 titleFa: شمارهٔ ۵ - مسمط
+titleEn: Addendum 5
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

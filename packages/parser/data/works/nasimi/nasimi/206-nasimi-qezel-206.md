@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-206
 sourceId: ganjoor-117501
-titleAz: شمارهٔ ۲۰۶
+titleAz: Qəzəl 206
+titleRu: Газель 206
 titleFa: شمارهٔ ۲۰۶
+titleEn: Ghazal 206
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

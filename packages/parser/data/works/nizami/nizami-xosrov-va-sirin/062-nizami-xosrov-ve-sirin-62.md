@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-62
 sourceId: ganjoor-8926
-titleAz: بخش ۶۲ - مردن مریم و تعزیت‌نامهٔ شیرین به خسرو از راه باد افراه
+titleAz: 'Xosrov və Şirin, fəsil 62'
+titleRu: 'Хосров и Ширин, глава 62'
 titleFa: بخش ۶۲ - مردن مریم و تعزیت‌نامهٔ شیرین به خسرو از راه باد افراه
+titleEn: 'Khosrow and Shirin, chapter 62'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

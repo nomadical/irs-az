@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-39
 sourceId: ganjoor-27702
-titleAz: شمارهٔ ۳۹
+titleAz: Qitə 39
+titleRu: Кыта 39
 titleFa: شمارهٔ ۳۹
+titleEn: Qit'a 39
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

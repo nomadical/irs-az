@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-15
 sourceId: ganjoor-117714
-titleAz: شمارهٔ ۱۵
+titleAz: Əlavə 15
+titleRu: Дополнение 15
 titleFa: شمارهٔ ۱۵
+titleEn: Addendum 15
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

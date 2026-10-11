@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-129
 sourceId: ganjoor-14498
-titleAz: غزل شمارهٔ ۱۲۹
+titleAz: Qəzəl 129
+titleRu: Газель 129
 titleFa: غزل شمارهٔ ۱۲۹
+titleEn: Ghazal 129
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

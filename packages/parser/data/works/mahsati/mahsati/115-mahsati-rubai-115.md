@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-115
 sourceId: ganjoor-133839
-titleAz: شمارهٔ ۱۱۵
+titleAz: Rübai 115
+titleRu: Рубаи 115
 titleFa: شمارهٔ ۱۱۵
+titleEn: Rubai 115
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

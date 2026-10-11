@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-286
 sourceId: ganjoor-117581
-titleAz: شمارهٔ ۲۸۶
+titleAz: Qəzəl 286
+titleRu: Газель 286
 titleFa: شمارهٔ ۲۸۶
+titleEn: Ghazal 286
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

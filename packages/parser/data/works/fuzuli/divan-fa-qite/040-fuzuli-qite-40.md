@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-40
 sourceId: ganjoor-117157
-titleAz: شمارهٔ ۴۰
+titleAz: Qitə 40
+titleRu: Кыта 40
 titleFa: شمارهٔ ۴۰
+titleEn: Qit'a 40
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

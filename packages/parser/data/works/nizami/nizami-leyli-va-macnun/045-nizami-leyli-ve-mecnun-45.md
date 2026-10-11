@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-45
 sourceId: ganjoor-9047
-titleAz: بخش ۴۵ - وفات مجنون بر روضه لیلی
+titleAz: 'Leyli və Məcnun, fəsil 45'
+titleRu: 'Лейли и Меджнун, глава 45'
 titleFa: بخش ۴۵ - وفات مجنون بر روضه لیلی
+titleEn: 'Layla and Majnun, chapter 45'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

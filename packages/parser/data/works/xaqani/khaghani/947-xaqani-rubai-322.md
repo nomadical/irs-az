@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-322
 sourceId: ganjoor-15317
-titleAz: رباعی شمارهٔ   ۳۲۲
+titleAz: Rübai 322
+titleRu: Рубаи 322
 titleFa: رباعی شمارهٔ   ۳۲۲
+titleEn: Rubai 322
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-148
 sourceId: ganjoor-116854
-titleAz: شمارهٔ ۱۴۸
+titleAz: Qəzəl 148
+titleRu: Газель 148
 titleFa: شمارهٔ ۱۴۸
+titleEn: Ghazal 148
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

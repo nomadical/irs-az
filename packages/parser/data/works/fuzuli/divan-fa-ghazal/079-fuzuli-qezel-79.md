@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-79
 sourceId: ganjoor-116785
-titleAz: شمارهٔ ۷۹
+titleAz: Qəzəl 79
+titleRu: Газель 79
 titleFa: شمارهٔ ۷۹
+titleEn: Ghazal 79
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

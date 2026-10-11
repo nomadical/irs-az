@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-172
 sourceId: ganjoor-27835
-titleAz: شمارهٔ ۱۷۲ - در مرثیهٔ وحید الدین عموی خود
+titleAz: Qitə 172
+titleRu: Кыта 172
 titleFa: شمارهٔ ۱۷۲ - در مرثیهٔ وحید الدین عموی خود
+titleEn: Qit'a 172
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

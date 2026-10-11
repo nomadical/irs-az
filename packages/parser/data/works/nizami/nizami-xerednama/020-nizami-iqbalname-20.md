@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-20
 sourceId: ganjoor-9232
-titleAz: بخش ۲۰ - گفتار ارسطو
+titleAz: 'İqbalnamə, fəsil 20'
+titleRu: 'Икбал-наме, глава 20'
 titleFa: بخش ۲۰ - گفتار ارسطو
+titleEn: 'Iqbalnama, chapter 20'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

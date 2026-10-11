@@ -1,8 +1,10 @@
 ---
 slug: nasimi-mesnevi-5
 sourceId: ganjoor-117602
-titleAz: شمارهٔ ۵
+titleAz: Məsnəvi 5
+titleRu: Маснави 5
 titleFa: شمارهٔ ۵
+titleEn: Masnavi 5
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

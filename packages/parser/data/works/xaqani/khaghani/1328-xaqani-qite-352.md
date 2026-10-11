@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-352
 sourceId: ganjoor-28015
-titleAz: شمارهٔ ۳۵۲
+titleAz: Qitə 352
+titleRu: Кыта 352
 titleFa: شمارهٔ ۳۵۲
+titleEn: Qit'a 352
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

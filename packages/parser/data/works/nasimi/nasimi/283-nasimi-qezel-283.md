@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-283
 sourceId: ganjoor-117578
-titleAz: شمارهٔ ۲۸۳
+titleAz: Qəzəl 283
+titleRu: Газель 283
 titleFa: شمارهٔ ۲۸۳
+titleEn: Ghazal 283
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-309
 sourceId: ganjoor-15304
-titleAz: رباعی شمارهٔ   ۳۰۹
+titleAz: Rübai 309
+titleRu: Рубаи 309
 titleFa: رباعی شمارهٔ   ۳۰۹
+titleEn: Rubai 309
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

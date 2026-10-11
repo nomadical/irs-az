@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-34
 sourceId: ganjoor-116740
-titleAz: شمارهٔ ۳۴
+titleAz: Qəzəl 34
+titleRu: Газель 34
 titleFa: شمارهٔ ۳۴
+titleEn: Ghazal 34
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-34
 sourceId: ganjoor-9082
-titleAz: بخش ۳۴ - اندرز گرفتن بهرام از شبان
+titleAz: 'Yeddi gözəl, fəsil 34'
+titleRu: 'Семь красавиц, глава 34'
 titleFa: بخش ۳۴ - اندرز گرفتن بهرام از شبان
+titleEn: 'The Seven Beauties, chapter 34'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

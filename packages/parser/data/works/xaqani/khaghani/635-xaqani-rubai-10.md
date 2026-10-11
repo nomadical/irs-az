@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-10
 sourceId: ganjoor-15004
-titleAz: رباعی شمارهٔ   ۱۰
+titleAz: Rübai 10
+titleRu: Рубаи 10
 titleFa: رباعی شمارهٔ   ۱۰
+titleEn: Rubai 10
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

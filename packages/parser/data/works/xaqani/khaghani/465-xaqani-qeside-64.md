@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-64
 sourceId: ganjoor-14834
-titleAz: شمارهٔ ۶۴ - در ستایش ابو المظفر اخستان شروان شاه
+titleAz: Qəsidə 64
+titleRu: Касыда 64
 titleFa: شمارهٔ ۶۴ - در ستایش ابو المظفر اخستان شروان شاه
+titleEn: Qasida 64
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

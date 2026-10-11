@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-123
 sourceId: ganjoor-15118
-titleAz: رباعی شمارهٔ   ۱۲۳
+titleAz: Rübai 123
+titleRu: Рубаи 123
 titleFa: رباعی شمارهٔ   ۱۲۳
+titleEn: Rubai 123
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

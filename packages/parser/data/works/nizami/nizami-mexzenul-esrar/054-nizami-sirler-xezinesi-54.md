@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-54
 sourceId: ganjoor-9316
-titleAz: بخش ۵۴ - مقالت هیجدهم در نکوهش دورویان
+titleAz: 'Sirlər xəzinəsi, fəsil 54'
+titleRu: 'Сокровищница тайн, глава 54'
 titleFa: بخش ۵۴ - مقالت هیجدهم در نکوهش دورویان
+titleEn: 'The Treasury of Mysteries, chapter 54'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

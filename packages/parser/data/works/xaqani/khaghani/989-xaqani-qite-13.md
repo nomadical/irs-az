@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-13
 sourceId: ganjoor-27676
-titleAz: شمارهٔ ۱۳
+titleAz: Qitə 13
+titleRu: Кыта 13
 titleFa: شمارهٔ ۱۳
+titleEn: Qit'a 13
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

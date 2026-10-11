@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-171
 sourceId: ganjoor-27834
-titleAz: شمارهٔ ۱۷۱ - در مرثیهٔ وحید الدین عم خود
+titleAz: Qitə 171
+titleRu: Кыта 171
 titleFa: شمارهٔ ۱۷۱ - در مرثیهٔ وحید الدین عم خود
+titleEn: Qit'a 171
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

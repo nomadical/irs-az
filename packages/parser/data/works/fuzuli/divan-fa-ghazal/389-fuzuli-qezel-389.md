@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-389
 sourceId: ganjoor-117095
-titleAz: شمارهٔ ۳۸۹
+titleAz: Qəzəl 389
+titleRu: Газель 389
 titleFa: شمارهٔ ۳۸۹
+titleEn: Ghazal 389
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

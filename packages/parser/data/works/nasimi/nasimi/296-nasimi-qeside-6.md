@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qeside-6
 sourceId: ganjoor-117592
-titleAz: شمارهٔ ۶ - تجدید مطلع
+titleAz: Qəsidə 6
+titleRu: Касыда 6
 titleFa: شمارهٔ ۶ - تجدید مطلع
+titleEn: Qasida 6
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

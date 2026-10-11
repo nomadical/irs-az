@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-34
 sourceId: ganjoor-50094
-titleAz: رباعی شمارۀ ۳۴
+titleAz: 'Rübailər, 34'
+titleRu: 'Рубайят, 34'
 titleFa: رباعی شمارۀ ۳۴
+titleEn: 'Rubaiyat, 34'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

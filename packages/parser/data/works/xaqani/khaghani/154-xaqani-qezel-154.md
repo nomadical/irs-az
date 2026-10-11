@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-154
 sourceId: ganjoor-14523
-titleAz: غزل شمارهٔ ۱۵۴
+titleAz: Qəzəl 154
+titleRu: Газель 154
 titleFa: غزل شمارهٔ ۱۵۴
+titleEn: Ghazal 154
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

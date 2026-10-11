@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-54
 sourceId: ganjoor-15049
-titleAz: رباعی شمارهٔ   ۵۴
+titleAz: Rübai 54
+titleRu: Рубаи 54
 titleFa: رباعی شمارهٔ   ۵۴
+titleEn: Rubai 54
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

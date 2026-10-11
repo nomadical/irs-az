@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-18
 sourceId: ganjoor-9020
-titleAz: بخش ۱۸ - حکایت
+titleAz: 'Leyli və Məcnun, fəsil 18'
+titleRu: 'Лейли и Меджнун, глава 18'
 titleFa: بخش ۱۸ - حکایت
+titleEn: 'Layla and Majnun, chapter 18'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

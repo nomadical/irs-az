@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-23
 sourceId: ganjoor-116679
-titleAz: شمارهٔ ۲۳
+titleAz: Qəsidə 23
+titleRu: Касыда 23
 titleFa: شمارهٔ ۲۳
+titleEn: Qasida 23
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

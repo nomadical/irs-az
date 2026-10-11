@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-76
 sourceId: ganjoor-117371
-titleAz: شمارهٔ ۷۶
+titleAz: Qəzəl 76
+titleRu: Газель 76
 titleFa: شمارهٔ ۷۶
+titleEn: Ghazal 76
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

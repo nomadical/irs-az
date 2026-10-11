@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-250
 sourceId: ganjoor-116956
-titleAz: شمارهٔ ۲۵۰
+titleAz: Qəzəl 250
+titleRu: Газель 250
 titleFa: شمارهٔ ۲۵۰
+titleEn: Ghazal 250
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-53
 sourceId: ganjoor-50113
-titleAz: رباعی شمارۀ ۵۳
+titleAz: 'Rübailər, 53'
+titleRu: 'Рубайят, 53'
 titleFa: رباعی شمارۀ ۵۳
+titleEn: 'Rubaiyat, 53'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

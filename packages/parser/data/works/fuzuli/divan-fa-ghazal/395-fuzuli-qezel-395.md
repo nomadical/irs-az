@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-395
 sourceId: ganjoor-117101
-titleAz: شمارهٔ ۳۹۵
+titleAz: Qəzəl 395
+titleRu: Газель 395
 titleFa: شمارهٔ ۳۹۵
+titleEn: Ghazal 395
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

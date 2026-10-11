@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-59
 sourceId: ganjoor-117354
-titleAz: شمارهٔ ۵۹
+titleAz: Qəzəl 59
+titleRu: Газель 59
 titleFa: شمارهٔ ۵۹
+titleEn: Ghazal 59
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-336
 sourceId: ganjoor-27999
-titleAz: شمارهٔ ۳۳۶
+titleAz: Qitə 336
+titleRu: Кыта 336
 titleFa: شمارهٔ ۳۳۶
+titleEn: Qit'a 336
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

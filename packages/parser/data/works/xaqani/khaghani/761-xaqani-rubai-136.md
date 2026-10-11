@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-136
 sourceId: ganjoor-15131
-titleAz: رباعی شمارهٔ   ۱۳۶
+titleAz: Rübai 136
+titleRu: Рубаи 136
 titleFa: رباعی شمارهٔ   ۱۳۶
+titleEn: Rubai 136
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-37
 sourceId: ganjoor-117332
-titleAz: شمارهٔ ۳۷
+titleAz: Qəzəl 37
+titleRu: Газель 37
 titleFa: شمارهٔ ۳۷
+titleEn: Ghazal 37
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

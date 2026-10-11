@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-290
 sourceId: ganjoor-116996
-titleAz: شمارهٔ ۲۹۰
+titleAz: Qəzəl 290
+titleRu: Газель 290
 titleFa: شمارهٔ ۲۹۰
+titleEn: Ghazal 290
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

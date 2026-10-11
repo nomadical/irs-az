@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-31
 sourceId: ganjoor-117148
-titleAz: شمارهٔ ۳۱
+titleAz: Qitə 31
+titleRu: Кыта 31
 titleFa: شمارهٔ ۳۱
+titleEn: Qit'a 31
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

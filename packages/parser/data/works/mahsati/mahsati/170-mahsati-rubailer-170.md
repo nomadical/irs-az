@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-170
 sourceId: ganjoor-50230
-titleAz: رباعی شمارۀ ۱۷۰
+titleAz: 'Rübailər, 170'
+titleRu: 'Рубайят, 170'
 titleFa: رباعی شمارۀ ۱۷۰
+titleEn: 'Rubaiyat, 170'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

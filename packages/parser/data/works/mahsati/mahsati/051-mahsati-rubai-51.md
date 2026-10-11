@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-51
 sourceId: ganjoor-133775
-titleAz: شمارهٔ ۵۱
+titleAz: Rübai 51
+titleRu: Рубаи 51
 titleFa: شمارهٔ ۵۱
+titleEn: Rubai 51
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

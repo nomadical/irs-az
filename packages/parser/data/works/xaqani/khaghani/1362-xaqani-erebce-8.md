@@ -1,8 +1,10 @@
 ---
 slug: xaqani-erebce-8
 sourceId: ganjoor-15499
-titleAz: در مدح صدر احل تاج الافاضل عزالدین
+titleAz: Ərəbcə şeir 8
+titleRu: Арабское стихотворение 8
 titleFa: در مدح صدر احل تاج الافاضل عزالدین
+titleEn: Arabic poem 8
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

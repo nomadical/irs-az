@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-21
 sourceId: ganjoor-117720
-titleAz: شمارهٔ ۲۱
+titleAz: Əlavə 21
+titleRu: Дополнение 21
 titleFa: شمارهٔ ۲۱
+titleEn: Addendum 21
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-385
 sourceId: ganjoor-14754
-titleAz: غزل شمارهٔ ۳۸۵
+titleAz: Qəzəl 385
+titleRu: Газель 385
 titleFa: غزل شمارهٔ ۳۸۵
+titleEn: Ghazal 385
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

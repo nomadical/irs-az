@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-212
 sourceId: ganjoor-27875
-titleAz: شمارهٔ ۲۱۲
+titleAz: Qitə 212
+titleRu: Кыта 212
 titleFa: شمارهٔ ۲۱۲
+titleEn: Qit'a 212
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

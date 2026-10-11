@@ -1,12 +1,12 @@
 ---
 slug: xaqani-qeside-223
 sourceId: ganjoor-14993
-titleAz: >-
-  شمارهٔ ۲۲۳ - در تهنیت عید و مدح خاقان کبیر ابوالمظفر اخستان بن منوچهر بن
-  فریدون
+titleAz: Qəsidə 223
+titleRu: Касыда 223
 titleFa: >-
   شمارهٔ ۲۲۳ - در تهنیت عید و مدح خاقان کبیر ابوالمظفر اخستان بن منوچهر بن
   فریدون
+titleEn: Qasida 223
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

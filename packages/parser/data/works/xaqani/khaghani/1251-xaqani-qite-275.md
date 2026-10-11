@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-275
 sourceId: ganjoor-27938
-titleAz: شمارهٔ ۲۷۵
+titleAz: Qitə 275
+titleRu: Кыта 275
 titleFa: شمارهٔ ۲۷۵
+titleEn: Qit'a 275
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

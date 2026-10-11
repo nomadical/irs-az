@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-15
 sourceId: ganjoor-117310
-titleAz: شمارهٔ ۱۵ - ستایش فضل‌الله نعیمی
+titleAz: Qəzəl 15
+titleRu: Газель 15
 titleFa: شمارهٔ ۱۵ - ستایش فضل‌الله نعیمی
+titleEn: Ghazal 15
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

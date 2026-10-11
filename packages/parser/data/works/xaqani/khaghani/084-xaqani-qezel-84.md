@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-84
 sourceId: ganjoor-14453
-titleAz: غزل شمارهٔ ۸۴
+titleAz: Qəzəl 84
+titleRu: Газель 84
 titleFa: غزل شمارهٔ ۸۴
+titleEn: Ghazal 84
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

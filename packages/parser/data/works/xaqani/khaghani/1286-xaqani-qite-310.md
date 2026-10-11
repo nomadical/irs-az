@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-310
 sourceId: ganjoor-27973
-titleAz: شمارهٔ ۳۱۰
+titleAz: Qitə 310
+titleRu: Кыта 310
 titleFa: شمارهٔ ۳۱۰
+titleEn: Qit'a 310
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

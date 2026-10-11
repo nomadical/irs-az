@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-10
 sourceId: ganjoor-133914
-titleAz: شمارهٔ  ۱۰
+titleAz: Qitə 10
+titleRu: Кыта 10
 titleFa: شمارهٔ  ۱۰
+titleEn: Qit'a 10
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

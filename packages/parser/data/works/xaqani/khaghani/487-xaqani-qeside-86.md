@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-86
 sourceId: ganjoor-14856
-titleAz: شمارهٔ ۸۶ - در رثاء امام شهاب الدین
+titleAz: Qəsidə 86
+titleRu: Касыда 86
 titleFa: شمارهٔ ۸۶ - در رثاء امام شهاب الدین
+titleEn: Qasida 86
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

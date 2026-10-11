@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-284
 sourceId: ganjoor-117579
-titleAz: شمارهٔ ۲۸۴
+titleAz: Qəzəl 284
+titleRu: Газель 284
 titleFa: شمارهٔ ۲۸۴
+titleEn: Ghazal 284
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

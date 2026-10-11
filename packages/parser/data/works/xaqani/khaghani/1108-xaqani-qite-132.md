@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-132
 sourceId: ganjoor-27795
-titleAz: شمارهٔ ۱۳۲ - در مرثیه امام ناصر الدین ابراهیم باکوئی
+titleAz: Qitə 132
+titleRu: Кыта 132
 titleFa: شمارهٔ ۱۳۲ - در مرثیه امام ناصر الدین ابراهیم باکوئی
+titleEn: Qit'a 132
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

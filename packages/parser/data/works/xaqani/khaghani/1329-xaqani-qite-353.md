@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-353
 sourceId: ganjoor-28016
-titleAz: شمارهٔ ۳۵۳ - در ترک شهوترانی
+titleAz: Qitə 353
+titleRu: Кыта 353
 titleFa: شمارهٔ ۳۵۳ - در ترک شهوترانی
+titleEn: Qit'a 353
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

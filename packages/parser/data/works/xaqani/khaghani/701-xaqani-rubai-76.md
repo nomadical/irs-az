@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-76
 sourceId: ganjoor-15071
-titleAz: رباعی شمارهٔ   ۷۶
+titleAz: Rübai 76
+titleRu: Рубаи 76
 titleFa: رباعی شمارهٔ   ۷۶
+titleEn: Rubai 76
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

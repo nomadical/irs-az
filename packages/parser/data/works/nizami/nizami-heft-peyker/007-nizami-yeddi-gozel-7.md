@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-7
 sourceId: ganjoor-9055
-titleAz: بخش ۷ - در نصیحت فرزند خویش محمد
+titleAz: 'Yeddi gözəl, fəsil 7'
+titleRu: 'Семь красавиц, глава 7'
 titleFa: بخش ۷ - در نصیحت فرزند خویش محمد
+titleEn: 'The Seven Beauties, chapter 7'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

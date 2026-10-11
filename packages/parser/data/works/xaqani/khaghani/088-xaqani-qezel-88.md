@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-88
 sourceId: ganjoor-14457
-titleAz: غزل شمارهٔ ۸۸
+titleAz: Qəzəl 88
+titleRu: Газель 88
 titleFa: غزل شمارهٔ ۸۸
+titleEn: Ghazal 88
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

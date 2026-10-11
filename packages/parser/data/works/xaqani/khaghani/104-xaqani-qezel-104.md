@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-104
 sourceId: ganjoor-14473
-titleAz: غزل شمارهٔ ۱۰۴
+titleAz: Qəzəl 104
+titleRu: Газель 104
 titleFa: غزل شمارهٔ ۱۰۴
+titleEn: Ghazal 104
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

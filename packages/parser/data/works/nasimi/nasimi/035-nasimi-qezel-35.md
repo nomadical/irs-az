@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-35
 sourceId: ganjoor-117330
-titleAz: شمارهٔ ۳۵
+titleAz: Qəzəl 35
+titleRu: Газель 35
 titleFa: شمارهٔ ۳۵
+titleEn: Ghazal 35
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-136
 sourceId: ganjoor-133860
-titleAz: شمارهٔ ۱۳۶
+titleAz: Rübai 136
+titleRu: Рубаи 136
 titleFa: شمارهٔ ۱۳۶
+titleEn: Rubai 136
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

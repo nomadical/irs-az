@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-283
 sourceId: ganjoor-116989
-titleAz: شمارهٔ ۲۸۳
+titleAz: Qəzəl 283
+titleRu: Газель 283
 titleFa: شمارهٔ ۲۸۳
+titleEn: Ghazal 283
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

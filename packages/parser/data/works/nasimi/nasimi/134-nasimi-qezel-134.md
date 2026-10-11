@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-134
 sourceId: ganjoor-117429
-titleAz: شمارهٔ ۱۳۴
+titleAz: Qəzəl 134
+titleRu: Газель 134
 titleFa: شمارهٔ ۱۳۴
+titleEn: Ghazal 134
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

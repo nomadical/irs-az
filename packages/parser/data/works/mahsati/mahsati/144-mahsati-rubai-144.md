@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-144
 sourceId: ganjoor-133868
-titleAz: شمارهٔ ۱۴۴
+titleAz: Rübai 144
+titleRu: Рубаи 144
 titleFa: شمارهٔ ۱۴۴
+titleEn: Rubai 144
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

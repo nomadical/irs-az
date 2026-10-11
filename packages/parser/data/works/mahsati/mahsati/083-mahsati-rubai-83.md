@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-83
 sourceId: ganjoor-133807
-titleAz: شمارهٔ ۸۳
+titleAz: Rübai 83
+titleRu: Рубаи 83
 titleFa: شمارهٔ ۸۳
+titleEn: Rubai 83
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-24
 sourceId: ganjoor-116680
-titleAz: شمارهٔ ۲۴
+titleAz: Qəsidə 24
+titleRu: Касыда 24
 titleFa: شمارهٔ ۲۴
+titleEn: Qasida 24
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

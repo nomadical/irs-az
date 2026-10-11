@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-145
 sourceId: ganjoor-27808
-titleAz: شمارهٔ ۱۴۵
+titleAz: Qitə 145
+titleRu: Кыта 145
 titleFa: شمارهٔ ۱۴۵
+titleEn: Qit'a 145
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

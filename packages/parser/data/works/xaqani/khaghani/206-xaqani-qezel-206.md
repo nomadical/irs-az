@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-206
 sourceId: ganjoor-14575
-titleAz: غزل شمارهٔ ۲۰۶
+titleAz: Qəzəl 206
+titleRu: Газель 206
 titleFa: غزل شمارهٔ ۲۰۶
+titleEn: Ghazal 206
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-erebce-2
 sourceId: ganjoor-15493
-titleAz: تجدید مطلع
+titleAz: Ərəbcə şeir 2
+titleRu: Арабское стихотворение 2
 titleFa: تجدید مطلع
+titleEn: Arabic poem 2
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

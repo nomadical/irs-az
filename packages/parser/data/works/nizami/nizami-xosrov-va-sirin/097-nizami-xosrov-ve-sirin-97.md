@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-97
 sourceId: ganjoor-8961
-titleAz: بخش ۹۷ - گذشتن از جهان
+titleAz: 'Xosrov və Şirin, fəsil 97'
+titleRu: 'Хосров и Ширин, глава 97'
 titleFa: بخش ۹۷ - گذشتن از جهان
+titleEn: 'Khosrow and Shirin, chapter 97'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

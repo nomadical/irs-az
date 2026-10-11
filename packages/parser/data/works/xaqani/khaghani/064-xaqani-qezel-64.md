@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-64
 sourceId: ganjoor-14433
-titleAz: غزل شمارهٔ ۶۴
+titleAz: Qəzəl 64
+titleRu: Газель 64
 titleFa: غزل شمارهٔ ۶۴
+titleEn: Ghazal 64
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

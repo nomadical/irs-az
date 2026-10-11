@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-153
 sourceId: ganjoor-27816
-titleAz: شمارهٔ ۱۵۳
+titleAz: Qitə 153
+titleRu: Кыта 153
 titleFa: شمارهٔ ۱۵۳
+titleEn: Qit'a 153
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

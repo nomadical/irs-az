@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-22
 sourceId: ganjoor-9234
-titleAz: بخش ۲۲ - گفتار بلیناس
+titleAz: 'İqbalnamə, fəsil 22'
+titleRu: 'Икбал-наме, глава 22'
 titleFa: بخش ۲۲ - گفتار بلیناس
+titleEn: 'Iqbalnama, chapter 22'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

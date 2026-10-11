@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-104
 sourceId: ganjoor-116810
-titleAz: شمارهٔ ۱۰۴
+titleAz: Qəzəl 104
+titleRu: Газель 104
 titleFa: شمارهٔ ۱۰۴
+titleEn: Ghazal 104
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

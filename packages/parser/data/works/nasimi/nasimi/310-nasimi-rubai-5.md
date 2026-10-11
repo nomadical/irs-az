@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-5
 sourceId: ganjoor-117608
-titleAz: شمارهٔ ۵
+titleAz: Rübai 5
+titleRu: Рубаи 5
 titleFa: شمارهٔ ۵
+titleEn: Rubai 5
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-163
 sourceId: ganjoor-50223
-titleAz: رباعی شمارۀ ۱۶۳
+titleAz: 'Rübailər, 163'
+titleRu: 'Рубайят, 163'
 titleFa: رباعی شمارۀ ۱۶۳
+titleEn: 'Rubaiyat, 163'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-337
 sourceId: ganjoor-14706
-titleAz: غزل شمارهٔ ۳۳۷
+titleAz: Qəzəl 337
+titleRu: Газель 337
 titleFa: غزل شمارهٔ ۳۳۷
+titleEn: Ghazal 337
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

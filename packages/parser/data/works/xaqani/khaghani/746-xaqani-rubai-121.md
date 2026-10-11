@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-121
 sourceId: ganjoor-15116
-titleAz: رباعی شمارهٔ   ۱۲۱
+titleAz: Rübai 121
+titleRu: Рубаи 121
 titleFa: رباعی شمارهٔ   ۱۲۱
+titleEn: Rubai 121
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

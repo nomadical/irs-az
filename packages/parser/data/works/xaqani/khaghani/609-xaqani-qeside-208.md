@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-208
 sourceId: ganjoor-14978
-titleAz: شمارهٔ ۲۰۸ - در مدح غیاث الدین محمد مسعود ملک‌شاه
+titleAz: Qəsidə 208
+titleRu: Касыда 208
 titleFa: شمارهٔ ۲۰۸ - در مدح غیاث الدین محمد مسعود ملک‌شاه
+titleEn: Qasida 208
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

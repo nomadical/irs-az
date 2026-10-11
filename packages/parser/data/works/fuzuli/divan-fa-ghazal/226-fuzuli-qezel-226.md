@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-226
 sourceId: ganjoor-116932
-titleAz: شمارهٔ ۲۲۶
+titleAz: Qəzəl 226
+titleRu: Газель 226
 titleFa: شمارهٔ ۲۲۶
+titleEn: Ghazal 226
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

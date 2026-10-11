@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-117
 sourceId: ganjoor-50177
-titleAz: رباعی شمارۀ ۱۱۷
+titleAz: 'Rübailər, 117'
+titleRu: 'Рубайят, 117'
 titleFa: رباعی شمارۀ ۱۱۷
+titleEn: 'Rubaiyat, 117'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

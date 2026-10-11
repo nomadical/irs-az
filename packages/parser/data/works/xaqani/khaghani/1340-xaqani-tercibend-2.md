@@ -1,8 +1,10 @@
 ---
 slug: xaqani-tercibend-2
 sourceId: ganjoor-15477
-titleAz: شمارهٔ ۲ - در مدح خاقان اعظم جلال الدین شروان شاه اخستان
+titleAz: Tərcibənd 2
+titleRu: Тарджибанд 2
 titleFa: شمارهٔ ۲ - در مدح خاقان اعظم جلال الدین شروان شاه اخستان
+titleEn: Tarji-band 2
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-128
 sourceId: ganjoor-27791
-titleAz: شمارهٔ ۱۲۸ - در مدح خاقان اعظم منوچهر شروان شاه
+titleAz: Qitə 128
+titleRu: Кыта 128
 titleFa: شمارهٔ ۱۲۸ - در مدح خاقان اعظم منوچهر شروان شاه
+titleEn: Qit'a 128
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

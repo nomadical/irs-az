@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-224
 sourceId: ganjoor-14994
-titleAz: شمارهٔ ۲۲۴ - مطلع دوم
+titleAz: Qəsidə 224
+titleRu: Касыда 224
 titleFa: شمارهٔ ۲۲۴ - مطلع دوم
+titleEn: Qasida 224
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

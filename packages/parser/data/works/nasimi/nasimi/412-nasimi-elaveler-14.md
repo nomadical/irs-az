@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-14
 sourceId: ganjoor-117713
-titleAz: شمارهٔ ۱۴
+titleAz: Əlavə 14
+titleRu: Дополнение 14
 titleFa: شمارهٔ ۱۴
+titleEn: Addendum 14
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

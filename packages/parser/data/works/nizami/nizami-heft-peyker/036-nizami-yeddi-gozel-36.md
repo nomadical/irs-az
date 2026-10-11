@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-36
 sourceId: ganjoor-9084
-titleAz: بخش ۳۶ - کشتن بهرام وزیر ظالم را
+titleAz: 'Yeddi gözəl, fəsil 36'
+titleRu: 'Семь красавиц, глава 36'
 titleFa: بخش ۳۶ - کشتن بهرام وزیر ظالم را
+titleEn: 'The Seven Beauties, chapter 36'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

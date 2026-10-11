@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-348
 sourceId: ganjoor-117054
-titleAz: شمارهٔ ۳۴۸
+titleAz: Qəzəl 348
+titleRu: Газель 348
 titleFa: شمارهٔ ۳۴۸
+titleEn: Ghazal 348
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-216
 sourceId: ganjoor-14585
-titleAz: غزل شمارهٔ ۲۱۶
+titleAz: Qəzəl 216
+titleRu: Газель 216
 titleFa: غزل شمارهٔ ۲۱۶
+titleEn: Ghazal 216
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

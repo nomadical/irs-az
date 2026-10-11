@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-128
 sourceId: ganjoor-50188
-titleAz: رباعی شمارۀ ۱۲۸
+titleAz: 'Rübailər, 128'
+titleRu: 'Рубайят, 128'
 titleFa: رباعی شمارۀ ۱۲۸
+titleEn: 'Rubaiyat, 128'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

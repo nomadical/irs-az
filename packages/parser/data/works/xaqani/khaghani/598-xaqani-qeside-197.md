@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-197
 sourceId: ganjoor-14967
-titleAz: شمارهٔ ۱۹۷ - مطلع دوم
+titleAz: Qəsidə 197
+titleRu: Касыда 197
 titleFa: شمارهٔ ۱۹۷ - مطلع دوم
+titleEn: Qasida 197
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

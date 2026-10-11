@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-250
 sourceId: ganjoor-27913
-titleAz: شمارهٔ ۲۵۰
+titleAz: Qitə 250
+titleRu: Кыта 250
 titleFa: شمارهٔ ۲۵۰
+titleEn: Qit'a 250
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

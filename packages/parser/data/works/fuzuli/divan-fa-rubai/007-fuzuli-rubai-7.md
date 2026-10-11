@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-7
 sourceId: ganjoor-117171
-titleAz: شمارهٔ ۷
+titleAz: Rübai 7
+titleRu: Рубаи 7
 titleFa: شمارهٔ ۷
+titleEn: Rubai 7
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-264
 sourceId: ganjoor-15259
-titleAz: رباعی شمارهٔ   ۲۶۴
+titleAz: Rübai 264
+titleRu: Рубаи 264
 titleFa: رباعی شمارهٔ   ۲۶۴
+titleEn: Rubai 264
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

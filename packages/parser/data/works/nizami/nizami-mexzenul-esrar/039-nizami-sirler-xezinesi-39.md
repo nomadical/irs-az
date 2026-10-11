@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-39
 sourceId: ganjoor-9301
-titleAz: بخش ۳۹ - داستان عیسی
+titleAz: 'Sirlər xəzinəsi, fəsil 39'
+titleRu: 'Сокровищница тайн, глава 39'
 titleFa: بخش ۳۹ - داستان عیسی
+titleEn: 'The Treasury of Mysteries, chapter 39'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

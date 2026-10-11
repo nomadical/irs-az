@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-96
 sourceId: ganjoor-117391
-titleAz: شمارهٔ ۹۶
+titleAz: Qəzəl 96
+titleRu: Газель 96
 titleFa: شمارهٔ ۹۶
+titleEn: Ghazal 96
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

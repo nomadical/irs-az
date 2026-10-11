@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qeside-10
 sourceId: ganjoor-117596
-titleAz: شمارهٔ ۱۰ - تجدید مطلع
+titleAz: Qəsidə 10
+titleRu: Касыда 10
 titleFa: شمارهٔ ۱۰ - تجدید مطلع
+titleEn: Qasida 10
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

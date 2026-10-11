@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-323
 sourceId: ganjoor-117029
-titleAz: شمارهٔ ۳۲۳
+titleAz: Qəzəl 323
+titleRu: Газель 323
 titleFa: شمارهٔ ۳۲۳
+titleEn: Ghazal 323
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-144
 sourceId: ganjoor-14513
-titleAz: غزل شمارهٔ ۱۴۴
+titleAz: Qəzəl 144
+titleRu: Газель 144
 titleFa: غزل شمارهٔ ۱۴۴
+titleEn: Ghazal 144
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

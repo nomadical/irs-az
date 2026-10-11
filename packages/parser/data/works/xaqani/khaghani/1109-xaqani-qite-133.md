@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-133
 sourceId: ganjoor-27796
-titleAz: شمارهٔ ۱۳۳
+titleAz: Qitə 133
+titleRu: Кыта 133
 titleFa: شمارهٔ ۱۳۳
+titleEn: Qit'a 133
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

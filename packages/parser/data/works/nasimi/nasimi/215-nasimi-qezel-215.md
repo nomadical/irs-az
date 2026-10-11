@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-215
 sourceId: ganjoor-117510
-titleAz: شمارهٔ ۲۱۵
+titleAz: Qəzəl 215
+titleRu: Газель 215
 titleFa: شمارهٔ ۲۱۵
+titleEn: Ghazal 215
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

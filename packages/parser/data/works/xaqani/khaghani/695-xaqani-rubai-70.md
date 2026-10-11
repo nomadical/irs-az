@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-70
 sourceId: ganjoor-15065
-titleAz: رباعی شمارهٔ   ۷۰
+titleAz: Rübai 70
+titleRu: Рубаи 70
 titleFa: رباعی شمارهٔ   ۷۰
+titleEn: Rubai 70
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

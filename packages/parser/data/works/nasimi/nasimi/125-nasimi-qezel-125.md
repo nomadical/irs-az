@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-125
 sourceId: ganjoor-117420
-titleAz: شمارهٔ ۱۲۵
+titleAz: Qəzəl 125
+titleRu: Газель 125
 titleFa: شمارهٔ ۱۲۵
+titleEn: Ghazal 125
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

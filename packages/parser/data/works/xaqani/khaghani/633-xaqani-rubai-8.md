@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-8
 sourceId: ganjoor-15002
-titleAz: رباعی شمارهٔ   ۸
+titleAz: Rübai 8
+titleRu: Рубаи 8
 titleFa: رباعی شمارهٔ   ۸
+titleEn: Rubai 8
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

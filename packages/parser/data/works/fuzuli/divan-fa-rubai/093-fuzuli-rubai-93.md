@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-93
 sourceId: ganjoor-117257
-titleAz: شمارهٔ ۹۳
+titleAz: Rübai 93
+titleRu: Рубаи 93
 titleFa: شمارهٔ ۹۳
+titleEn: Rubai 93
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-350
 sourceId: ganjoor-28013
-titleAz: شمارهٔ ۳۵۰
+titleAz: Qitə 350
+titleRu: Кыта 350
 titleFa: شمارهٔ ۳۵۰
+titleEn: Qit'a 350
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

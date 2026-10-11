@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-75
 sourceId: ganjoor-116781
-titleAz: شمارهٔ ۷۵
+titleAz: Qəzəl 75
+titleRu: Газель 75
 titleFa: شمارهٔ ۷۵
+titleEn: Ghazal 75
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

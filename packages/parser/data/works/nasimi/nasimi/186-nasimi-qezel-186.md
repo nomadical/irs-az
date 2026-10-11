@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-186
 sourceId: ganjoor-117481
-titleAz: شمارهٔ ۱۸۶ - ستایش فضل‌الله نعیمی
+titleAz: Qəzəl 186
+titleRu: Газель 186
 titleFa: شمارهٔ ۱۸۶ - ستایش فضل‌الله نعیمی
+titleEn: Ghazal 186
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

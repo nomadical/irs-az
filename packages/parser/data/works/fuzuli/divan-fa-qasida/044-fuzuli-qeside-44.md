@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-44
 sourceId: ganjoor-116700
-titleAz: شمارهٔ ۴۴
+titleAz: Qəsidə 44
+titleRu: Касыда 44
 titleFa: شمارهٔ ۴۴
+titleEn: Qasida 44
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

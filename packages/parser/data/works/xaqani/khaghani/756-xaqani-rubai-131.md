@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-131
 sourceId: ganjoor-15126
-titleAz: رباعی شمارهٔ   ۱۳۱
+titleAz: Rübai 131
+titleRu: Рубаи 131
 titleFa: رباعی شمارهٔ   ۱۳۱
+titleEn: Rubai 131
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

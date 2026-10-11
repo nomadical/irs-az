@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-51
 sourceId: ganjoor-14420
-titleAz: غزل شمارهٔ ۵۱
+titleAz: Qəzəl 51
+titleRu: Газель 51
 titleFa: غزل شمارهٔ ۵۱
+titleEn: Ghazal 51
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-61
 sourceId: ganjoor-50121
-titleAz: رباعی شمارۀ ۶۱
+titleAz: 'Rübailər, 61'
+titleRu: 'Рубайят, 61'
 titleFa: رباعی شمارۀ ۶۱
+titleEn: 'Rubaiyat, 61'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

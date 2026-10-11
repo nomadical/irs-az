@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-275
 sourceId: ganjoor-15270
-titleAz: رباعی شمارهٔ   ۲۷۵
+titleAz: Rübai 275
+titleRu: Рубаи 275
 titleFa: رباعی شمارهٔ   ۲۷۵
+titleEn: Rubai 275
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

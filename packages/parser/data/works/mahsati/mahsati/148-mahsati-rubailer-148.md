@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-148
 sourceId: ganjoor-50208
-titleAz: رباعی شمارۀ ۱۴۹
+titleAz: 'Rübailər, 148'
+titleRu: 'Рубайят, 148'
 titleFa: رباعی شمارۀ ۱۴۹
+titleEn: 'Rubaiyat, 148'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

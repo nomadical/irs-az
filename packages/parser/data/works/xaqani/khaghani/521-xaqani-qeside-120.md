@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-120
 sourceId: ganjoor-14890
-titleAz: شمارهٔ ۱۲۰ - مطلع چهارم
+titleAz: Qəsidə 120
+titleRu: Касыда 120
 titleFa: شمارهٔ ۱۲۰ - مطلع چهارم
+titleEn: Qasida 120
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

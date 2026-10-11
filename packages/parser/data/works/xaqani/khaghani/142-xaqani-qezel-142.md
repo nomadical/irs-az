@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-142
 sourceId: ganjoor-14511
-titleAz: غزل شمارهٔ ۱۴۲
+titleAz: Qəzəl 142
+titleRu: Газель 142
 titleFa: غزل شمارهٔ ۱۴۲
+titleEn: Ghazal 142
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

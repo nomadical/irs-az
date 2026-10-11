@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-194
 sourceId: ganjoor-117489
-titleAz: شمارهٔ ۱۹۴
+titleAz: Qəzəl 194
+titleRu: Газель 194
 titleFa: شمارهٔ ۱۹۴
+titleEn: Ghazal 194
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

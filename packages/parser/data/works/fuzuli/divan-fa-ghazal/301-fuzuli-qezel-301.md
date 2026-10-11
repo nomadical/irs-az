@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-301
 sourceId: ganjoor-117007
-titleAz: شمارهٔ ۳۰۱
+titleAz: Qəzəl 301
+titleRu: Газель 301
 titleFa: شمارهٔ ۳۰۱
+titleEn: Ghazal 301
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

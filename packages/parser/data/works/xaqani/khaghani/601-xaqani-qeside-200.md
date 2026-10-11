@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-200
 sourceId: ganjoor-14970
-titleAz: شمارهٔ ۲۰۰ - در تهنیت عید و مدح جلال الدین شروان شاه اخستان‌بن منوچهر
+titleAz: Qəsidə 200
+titleRu: Касыда 200
 titleFa: شمارهٔ ۲۰۰ - در تهنیت عید و مدح جلال الدین شروان شاه اخستان‌بن منوچهر
+titleEn: Qasida 200
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

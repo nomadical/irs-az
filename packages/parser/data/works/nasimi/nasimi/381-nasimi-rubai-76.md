@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-76
 sourceId: ganjoor-117679
-titleAz: شمارهٔ ۷۶
+titleAz: Rübai 76
+titleRu: Рубаи 76
 titleFa: شمارهٔ ۷۶
+titleEn: Rubai 76
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

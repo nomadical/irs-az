@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-213
 sourceId: ganjoor-15208
-titleAz: رباعی شمارهٔ   ۲۱۳
+titleAz: Rübai 213
+titleRu: Рубаи 213
 titleFa: رباعی شمارهٔ   ۲۱۳
+titleEn: Rubai 213
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

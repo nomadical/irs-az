@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-43
 sourceId: ganjoor-117646
-titleAz: شمارهٔ ۴۳
+titleAz: Rübai 43
+titleRu: Рубаи 43
 titleFa: شمارهٔ ۴۳
+titleEn: Rubai 43
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

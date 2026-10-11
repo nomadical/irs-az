@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-138
 sourceId: ganjoor-14908
-titleAz: شمارهٔ ۱۳۸ - در مدح عصمت الدین خواهر منوچهر و شفیع آوردن برای اجازهٔ سفر
+titleAz: Qəsidə 138
+titleRu: Касыда 138
 titleFa: شمارهٔ ۱۳۸ - در مدح عصمت الدین خواهر منوچهر و شفیع آوردن برای اجازهٔ سفر
+titleEn: Qasida 138
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

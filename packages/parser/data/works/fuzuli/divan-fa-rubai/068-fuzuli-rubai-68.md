@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-68
 sourceId: ganjoor-117232
-titleAz: شمارهٔ ۶۸
+titleAz: Rübai 68
+titleRu: Рубаи 68
 titleFa: شمارهٔ ۶۸
+titleEn: Rubai 68
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

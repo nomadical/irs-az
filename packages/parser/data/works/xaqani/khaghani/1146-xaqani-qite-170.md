@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-170
 sourceId: ganjoor-27833
-titleAz: شمارهٔ ۱۷۰
+titleAz: Qitə 170
+titleRu: Кыта 170
 titleFa: شمارهٔ ۱۷۰
+titleEn: Qit'a 170
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

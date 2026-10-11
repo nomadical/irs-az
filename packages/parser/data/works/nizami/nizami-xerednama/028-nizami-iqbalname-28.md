@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-28
 sourceId: ganjoor-9240
-titleAz: بخش ۲۸ - گفتار حکیم نظامی
+titleAz: 'İqbalnamə, fəsil 28'
+titleRu: 'Икбал-наме, глава 28'
 titleFa: بخش ۲۸ - گفتار حکیم نظامی
+titleEn: 'Iqbalnama, chapter 28'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

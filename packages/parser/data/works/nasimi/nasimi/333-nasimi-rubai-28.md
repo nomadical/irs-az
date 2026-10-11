@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-28
 sourceId: ganjoor-117631
-titleAz: شمارهٔ ۲۸
+titleAz: Rübai 28
+titleRu: Рубаи 28
 titleFa: شمارهٔ ۲۸
+titleEn: Rubai 28
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

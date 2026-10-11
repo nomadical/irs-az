@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-56
 sourceId: ganjoor-117351
-titleAz: شمارهٔ ۵۶ - مهاجرت از باکو
+titleAz: Qəzəl 56
+titleRu: Газель 56
 titleFa: شمارهٔ ۵۶ - مهاجرت از باکو
+titleEn: Ghazal 56
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

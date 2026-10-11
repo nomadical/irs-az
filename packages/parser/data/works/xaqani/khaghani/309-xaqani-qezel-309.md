@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-309
 sourceId: ganjoor-14678
-titleAz: غزل شمارهٔ ۳۰۹
+titleAz: Qəzəl 309
+titleRu: Газель 309
 titleFa: غزل شمارهٔ ۳۰۹
+titleEn: Ghazal 309
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

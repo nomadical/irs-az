@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-281
 sourceId: ganjoor-117576
-titleAz: شمارهٔ ۲۸۱
+titleAz: Qəzəl 281
+titleRu: Газель 281
 titleFa: شمارهٔ ۲۸۱
+titleEn: Ghazal 281
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

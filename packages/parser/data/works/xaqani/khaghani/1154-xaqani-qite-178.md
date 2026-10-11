@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-178
 sourceId: ganjoor-27841
-titleAz: شمارهٔ ۱۷۸ - در رثاء فرزند
+titleAz: Qitə 178
+titleRu: Кыта 178
 titleFa: شمارهٔ ۱۷۸ - در رثاء فرزند
+titleEn: Qit'a 178
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

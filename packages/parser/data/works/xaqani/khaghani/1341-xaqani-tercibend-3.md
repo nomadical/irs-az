@@ -1,8 +1,10 @@
 ---
 slug: xaqani-tercibend-3
 sourceId: ganjoor-15478
-titleAz: شمارهٔ ۳ - در مدح سلطان مظفر الدین قزل ارسلان
+titleAz: Tərcibənd 3
+titleRu: Тарджибанд 3
 titleFa: شمارهٔ ۳ - در مدح سلطان مظفر الدین قزل ارسلان
+titleEn: Tarji-band 3
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

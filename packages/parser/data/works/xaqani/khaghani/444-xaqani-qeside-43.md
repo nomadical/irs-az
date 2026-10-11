@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-43
 sourceId: ganjoor-14813
-titleAz: شمارهٔ ۴۳ - تجدید مطلع
+titleAz: Qəsidə 43
+titleRu: Касыда 43
 titleFa: شمارهٔ ۴۳ - تجدید مطلع
+titleEn: Qasida 43
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

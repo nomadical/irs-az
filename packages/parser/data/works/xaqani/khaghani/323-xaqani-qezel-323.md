@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-323
 sourceId: ganjoor-14692
-titleAz: غزل شمارهٔ ۳۲۳
+titleAz: Qəzəl 323
+titleRu: Газель 323
 titleFa: غزل شمارهٔ ۳۲۳
+titleEn: Ghazal 323
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

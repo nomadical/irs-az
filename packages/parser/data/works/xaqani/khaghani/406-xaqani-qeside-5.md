@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-5
 sourceId: ganjoor-14775
-titleAz: شمارهٔ ۵ - در نعت پیغمبر اکرم صلی‌الله علیه و آله
+titleAz: Qəsidə 5
+titleRu: Касыда 5
 titleFa: شمارهٔ ۵ - در نعت پیغمبر اکرم صلی‌الله علیه و آله
+titleEn: Qasida 5
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

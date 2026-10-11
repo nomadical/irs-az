@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-120
 sourceId: ganjoor-117415
-titleAz: شمارهٔ ۱۲۰
+titleAz: Qəzəl 120
+titleRu: Газель 120
 titleFa: شمارهٔ ۱۲۰
+titleEn: Ghazal 120
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

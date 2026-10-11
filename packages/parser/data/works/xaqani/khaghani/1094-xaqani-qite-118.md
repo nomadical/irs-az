@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-118
 sourceId: ganjoor-27781
-titleAz: شمارهٔ ۱۱۸ - در مدح منوچهر شروان شاه و شکایت اخستان شاه
+titleAz: Qitə 118
+titleRu: Кыта 118
 titleFa: شمارهٔ ۱۱۸ - در مدح منوچهر شروان شاه و شکایت اخستان شاه
+titleEn: Qit'a 118
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

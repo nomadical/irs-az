@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-75
 sourceId: ganjoor-50135
-titleAz: رباعی شمارۀ ۷۵
+titleAz: 'Rübailər, 75'
+titleRu: 'Рубайят, 75'
 titleFa: رباعی شمارۀ ۷۵
+titleEn: 'Rubaiyat, 75'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

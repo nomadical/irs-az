@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-28
 sourceId: ganjoor-9177
-titleAz: بخش ۲۸ - ویران کردن اسکندر آتشکده‌های ایران زمین را
+titleAz: 'Şərəfnamə, fəsil 28'
+titleRu: 'Шараф-наме, глава 28'
 titleFa: بخش ۲۸ - ویران کردن اسکندر آتشکده‌های ایران زمین را
+titleEn: 'Sharafnama, chapter 28'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

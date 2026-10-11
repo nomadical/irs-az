@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-72
 sourceId: ganjoor-14842
-titleAz: شمارهٔ ۷۲ - مطلع سوم
+titleAz: Qəsidə 72
+titleRu: Касыда 72
 titleFa: شمارهٔ ۷۲ - مطلع سوم
+titleEn: Qasida 72
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

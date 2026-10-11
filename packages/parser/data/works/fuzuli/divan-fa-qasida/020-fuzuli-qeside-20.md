@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-20
 sourceId: ganjoor-116676
-titleAz: شمارهٔ ۲۰
+titleAz: Qəsidə 20
+titleRu: Касыда 20
 titleFa: شمارهٔ ۲۰
+titleEn: Qasida 20
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

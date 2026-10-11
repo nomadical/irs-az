@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-50
 sourceId: ganjoor-9262
-titleAz: بخش ۵۰ - انجامش اقبال‌نامه
+titleAz: 'İqbalnamə, fəsil 50'
+titleRu: 'Икбал-наме, глава 50'
 titleFa: بخش ۵۰ - انجامش اقبال‌نامه
+titleEn: 'Iqbalnama, chapter 50'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

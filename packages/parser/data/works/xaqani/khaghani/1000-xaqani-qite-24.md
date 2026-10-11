@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-24
 sourceId: ganjoor-27687
-titleAz: شمارهٔ ۲۴
+titleAz: Qitə 24
+titleRu: Кыта 24
 titleFa: شمارهٔ ۲۴
+titleEn: Qit'a 24
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-12
 sourceId: ganjoor-9274
-titleAz: بخش ۱۲ - در مقام و مرتبت این نامه
+titleAz: 'Sirlər xəzinəsi, fəsil 12'
+titleRu: 'Сокровищница тайн, глава 12'
 titleFa: بخش ۱۲ - در مقام و مرتبت این نامه
+titleEn: 'The Treasury of Mysteries, chapter 12'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

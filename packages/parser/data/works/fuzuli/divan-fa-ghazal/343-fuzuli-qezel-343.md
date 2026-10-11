@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-343
 sourceId: ganjoor-117049
-titleAz: شمارهٔ ۳۴۳
+titleAz: Qəzəl 343
+titleRu: Газель 343
 titleFa: شمارهٔ ۳۴۳
+titleEn: Ghazal 343
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

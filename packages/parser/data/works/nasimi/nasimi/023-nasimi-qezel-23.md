@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-23
 sourceId: ganjoor-117318
-titleAz: شمارهٔ ۲۳
+titleAz: Qəzəl 23
+titleRu: Газель 23
 titleFa: شمارهٔ ۲۳
+titleEn: Ghazal 23
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

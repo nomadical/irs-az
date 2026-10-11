@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-214
 sourceId: ganjoor-14583
-titleAz: غزل شمارهٔ ۲۱۴
+titleAz: Qəzəl 214
+titleRu: Газель 214
 titleFa: غزل شمارهٔ ۲۱۴
+titleEn: Ghazal 214
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

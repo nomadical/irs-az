@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-8
 sourceId: ganjoor-9157
-titleAz: بخش ۸ - تعلیم خضر در گفتن داستان
+titleAz: 'Şərəfnamə, fəsil 8'
+titleRu: 'Шараф-наме, глава 8'
 titleFa: بخش ۸ - تعلیم خضر در گفتن داستان
+titleEn: 'Sharafnama, chapter 8'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

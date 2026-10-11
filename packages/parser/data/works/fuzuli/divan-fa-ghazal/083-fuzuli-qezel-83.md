@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-83
 sourceId: ganjoor-116789
-titleAz: شمارهٔ ۸۳
+titleAz: Qəzəl 83
+titleRu: Газель 83
 titleFa: شمارهٔ ۸۳
+titleEn: Ghazal 83
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

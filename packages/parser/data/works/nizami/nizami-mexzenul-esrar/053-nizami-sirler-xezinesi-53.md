@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-53
 sourceId: ganjoor-9315
-titleAz: بخش ۵۳ - داستان پیر و مرید
+titleAz: 'Sirlər xəzinəsi, fəsil 53'
+titleRu: 'Сокровищница тайн, глава 53'
 titleFa: بخش ۵۳ - داستان پیر و مرید
+titleEn: 'The Treasury of Mysteries, chapter 53'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

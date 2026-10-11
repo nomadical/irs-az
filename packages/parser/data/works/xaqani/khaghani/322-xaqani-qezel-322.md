@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-322
 sourceId: ganjoor-14691
-titleAz: غزل شمارهٔ ۳۲۲
+titleAz: Qəzəl 322
+titleRu: Газель 322
 titleFa: غزل شمارهٔ ۳۲۲
+titleEn: Ghazal 322
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

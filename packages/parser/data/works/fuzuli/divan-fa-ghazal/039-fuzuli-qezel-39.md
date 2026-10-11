@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-39
 sourceId: ganjoor-116745
-titleAz: شمارهٔ ۳۹
+titleAz: Qəzəl 39
+titleRu: Газель 39
 titleFa: شمارهٔ ۳۹
+titleEn: Ghazal 39
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

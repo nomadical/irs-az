@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-128
 sourceId: ganjoor-14898
-titleAz: شمارهٔ ۱۲۸ - در رثاء امام محمد بن یحیی خراسانی و خفه شدن او به دست غزان
+titleAz: Qəsidə 128
+titleRu: Касыда 128
 titleFa: شمارهٔ ۱۲۸ - در رثاء امام محمد بن یحیی خراسانی و خفه شدن او به دست غزان
+titleEn: Qasida 128
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

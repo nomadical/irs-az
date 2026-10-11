@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-46
 sourceId: ganjoor-117163
-titleAz: شمارهٔ ۴۶
+titleAz: Qitə 46
+titleRu: Кыта 46
 titleFa: شمارهٔ ۴۶
+titleEn: Qit'a 46
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

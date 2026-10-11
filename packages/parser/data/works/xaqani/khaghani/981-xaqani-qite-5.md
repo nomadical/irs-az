@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-5
 sourceId: ganjoor-27668
-titleAz: شمارهٔ ۵ - در حکمت و پند
+titleAz: Qitə 5
+titleRu: Кыта 5
 titleFa: شمارهٔ ۵ - در حکمت و پند
+titleEn: Qit'a 5
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

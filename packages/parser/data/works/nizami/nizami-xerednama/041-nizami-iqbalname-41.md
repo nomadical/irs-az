@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-41
 sourceId: ganjoor-9253
-titleAz: بخش ۴۱ - نالیدن اسکندروس در مرگ پدر و رها کردن پادشاهی
+titleAz: 'İqbalnamə, fəsil 41'
+titleRu: 'Икбал-наме, глава 41'
 titleFa: بخش ۴۱ - نالیدن اسکندروس در مرگ پدر و رها کردن پادشاهی
+titleEn: 'Iqbalnama, chapter 41'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

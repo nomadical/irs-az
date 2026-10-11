@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-44
 sourceId: ganjoor-27707
-titleAz: شمارهٔ ۴۴ - در ذم غرور به مال
+titleAz: Qitə 44
+titleRu: Кыта 44
 titleFa: شمارهٔ ۴۴ - در ذم غرور به مال
+titleEn: Qit'a 44
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-13
 sourceId: ganjoor-14783
-titleAz: شمارهٔ ۱۳ - مطلع سوم
+titleAz: Qəsidə 13
+titleRu: Касыда 13
 titleFa: شمارهٔ ۱۳ - مطلع سوم
+titleEn: Qasida 13
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

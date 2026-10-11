@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-193
 sourceId: ganjoor-27856
-titleAz: شمارهٔ ۱۹۳
+titleAz: Qitə 193
+titleRu: Кыта 193
 titleFa: شمارهٔ ۱۹۳
+titleEn: Qit'a 193
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-6
 sourceId: ganjoor-116662
-titleAz: شمارهٔ ۶
+titleAz: Qəsidə 6
+titleRu: Касыда 6
 titleFa: شمارهٔ ۶
+titleEn: Qasida 6
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

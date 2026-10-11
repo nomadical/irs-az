@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-246
 sourceId: ganjoor-14615
-titleAz: غزل شمارهٔ ۲۴۶
+titleAz: Qəzəl 246
+titleRu: Газель 246
 titleFa: غزل شمارهٔ ۲۴۶
+titleEn: Ghazal 246
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

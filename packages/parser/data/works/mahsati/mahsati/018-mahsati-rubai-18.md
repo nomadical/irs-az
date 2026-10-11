@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-18
 sourceId: ganjoor-133742
-titleAz: شمارهٔ ۱۸
+titleAz: Rübai 18
+titleRu: Рубаи 18
 titleFa: شمارهٔ ۱۸
+titleEn: Rubai 18
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

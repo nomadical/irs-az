@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-211
 sourceId: ganjoor-14580
-titleAz: غزل شمارهٔ ۲۱۱
+titleAz: Qəzəl 211
+titleRu: Газель 211
 titleFa: غزل شمارهٔ ۲۱۱
+titleEn: Ghazal 211
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

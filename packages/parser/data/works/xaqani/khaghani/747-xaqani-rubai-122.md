@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-122
 sourceId: ganjoor-15117
-titleAz: رباعی شمارهٔ   ۱۲۲
+titleAz: Rübai 122
+titleRu: Рубаи 122
 titleFa: رباعی شمارهٔ   ۱۲۲
+titleEn: Rubai 122
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

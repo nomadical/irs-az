@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-13
 sourceId: ganjoor-9225
-titleAz: بخش ۱۳ - افسانهٔ نانوای بینوا و توانگری وی به طالع پسر
+titleAz: 'İqbalnamə, fəsil 13'
+titleRu: 'Икбал-наме, глава 13'
 titleFa: بخش ۱۳ - افسانهٔ نانوای بینوا و توانگری وی به طالع پسر
+titleEn: 'Iqbalnama, chapter 13'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

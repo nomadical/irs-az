@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-318
 sourceId: ganjoor-117024
-titleAz: شمارهٔ ۳۱۸
+titleAz: Qəzəl 318
+titleRu: Газель 318
 titleFa: شمارهٔ ۳۱۸
+titleEn: Ghazal 318
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

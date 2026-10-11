@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-365
 sourceId: ganjoor-14734
-titleAz: غزل شمارهٔ ۳۶۵
+titleAz: Qəzəl 365
+titleRu: Газель 365
 titleFa: غزل شمارهٔ ۳۶۵
+titleEn: Ghazal 365
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

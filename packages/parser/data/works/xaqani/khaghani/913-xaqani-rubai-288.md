@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-288
 sourceId: ganjoor-15283
-titleAz: رباعی شمارهٔ   ۲۸۸
+titleAz: Rübai 288
+titleRu: Рубаи 288
 titleFa: رباعی شمارهٔ   ۲۸۸
+titleEn: Rubai 288
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-31
 sourceId: ganjoor-9033
-titleAz: بخش ۳۱ - وداع کردن پدر مجنون را
+titleAz: 'Leyli və Məcnun, fəsil 31'
+titleRu: 'Лейли и Меджнун, глава 31'
 titleFa: بخش ۳۱ - وداع کردن پدر مجنون را
+titleEn: 'Layla and Majnun, chapter 31'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-202
 sourceId: ganjoor-116908
-titleAz: شمارهٔ ۲۰۲
+titleAz: Qəzəl 202
+titleRu: Газель 202
 titleFa: شمارهٔ ۲۰۲
+titleEn: Ghazal 202
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

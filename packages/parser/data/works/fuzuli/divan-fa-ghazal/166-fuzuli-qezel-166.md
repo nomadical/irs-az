@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-166
 sourceId: ganjoor-116872
-titleAz: شمارهٔ ۱۶۶
+titleAz: Qəzəl 166
+titleRu: Газель 166
 titleFa: شمارهٔ ۱۶۶
+titleEn: Ghazal 166
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

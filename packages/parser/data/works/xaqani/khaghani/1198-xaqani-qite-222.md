@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-222
 sourceId: ganjoor-27885
-titleAz: شمارهٔ ۲۲۲
+titleAz: Qitə 222
+titleRu: Кыта 222
 titleFa: شمارهٔ ۲۲۲
+titleEn: Qit'a 222
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

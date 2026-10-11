@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-81
 sourceId: ganjoor-15076
-titleAz: رباعی شمارهٔ   ۸۱
+titleAz: Rübai 81
+titleRu: Рубаи 81
 titleFa: رباعی شمارهٔ   ۸۱
+titleEn: Rubai 81
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

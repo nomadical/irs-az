@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-55
 sourceId: ganjoor-27718
-titleAz: شمارهٔ ۵۵
+titleAz: Qitə 55
+titleRu: Кыта 55
 titleFa: شمارهٔ ۵۵
+titleEn: Qit'a 55
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

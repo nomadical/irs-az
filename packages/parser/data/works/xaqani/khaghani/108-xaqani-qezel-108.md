@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-108
 sourceId: ganjoor-14477
-titleAz: غزل شمارهٔ ۱۰۸
+titleAz: Qəzəl 108
+titleRu: Газель 108
 titleFa: غزل شمارهٔ ۱۰۸
+titleEn: Ghazal 108
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

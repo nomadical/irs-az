@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-366
 sourceId: ganjoor-14735
-titleAz: غزل شمارهٔ ۳۶۶
+titleAz: Qəzəl 366
+titleRu: Газель 366
 titleFa: غزل شمارهٔ ۳۶۶
+titleEn: Ghazal 366
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

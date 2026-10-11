@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-96
 sourceId: ganjoor-50156
-titleAz: رباعی شمارۀ ۹۶
+titleAz: 'Rübailər, 96'
+titleRu: 'Рубайят, 96'
 titleFa: رباعی شمارۀ ۹۶
+titleEn: 'Rubaiyat, 96'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

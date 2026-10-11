@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-91
 sourceId: ganjoor-116797
-titleAz: شمارهٔ ۹۱
+titleAz: Qəzəl 91
+titleRu: Газель 91
 titleFa: شمارهٔ ۹۱
+titleEn: Ghazal 91
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

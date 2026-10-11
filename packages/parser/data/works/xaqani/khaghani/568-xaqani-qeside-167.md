@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-167
 sourceId: ganjoor-14937
-titleAz: شمارهٔ ۱۶۷ - مطلع سوم
+titleAz: Qəsidə 167
+titleRu: Касыда 167
 titleFa: شمارهٔ ۱۶۷ - مطلع سوم
+titleEn: Qasida 167
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-145
 sourceId: ganjoor-116851
-titleAz: شمارهٔ ۱۴۵
+titleAz: Qəzəl 145
+titleRu: Газель 145
 titleFa: شمارهٔ ۱۴۵
+titleEn: Ghazal 145
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

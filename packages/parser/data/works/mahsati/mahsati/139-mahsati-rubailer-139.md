@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-139
 sourceId: ganjoor-50199
-titleAz: رباعی شمارۀ ۱۳۹
+titleAz: 'Rübailər, 139'
+titleRu: 'Рубайят, 139'
 titleFa: رباعی شمارۀ ۱۳۹
+titleEn: 'Rubaiyat, 139'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

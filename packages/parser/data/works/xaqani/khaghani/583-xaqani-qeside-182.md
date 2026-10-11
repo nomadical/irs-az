@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-182
 sourceId: ganjoor-14952
-titleAz: شمارهٔ ۱۸۲ - در مدح پدر خویش علی نجار
+titleAz: Qəsidə 182
+titleRu: Касыда 182
 titleFa: شمارهٔ ۱۸۲ - در مدح پدر خویش علی نجار
+titleEn: Qasida 182
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-217
 sourceId: ganjoor-15212
-titleAz: رباعی شمارهٔ   ۲۱۷
+titleAz: Rübai 217
+titleRu: Рубаи 217
 titleFa: رباعی شمارهٔ   ۲۱۷
+titleEn: Rubai 217
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-348
 sourceId: ganjoor-15343
-titleAz: رباعی شمارهٔ   ۳۴۸
+titleAz: Rübai 348
+titleRu: Рубаи 348
 titleFa: رباعی شمارهٔ   ۳۴۸
+titleEn: Rubai 348
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

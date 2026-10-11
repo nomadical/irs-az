@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-310
 sourceId: ganjoor-117016
-titleAz: شمارهٔ ۳۱۰
+titleAz: Qəzəl 310
+titleRu: Газель 310
 titleFa: شمارهٔ ۳۱۰
+titleEn: Ghazal 310
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

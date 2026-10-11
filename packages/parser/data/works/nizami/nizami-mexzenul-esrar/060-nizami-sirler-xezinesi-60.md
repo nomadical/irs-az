@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-60
 sourceId: ganjoor-9322
-titleAz: بخش ۶۰ - انجام کتاب
+titleAz: 'Sirlər xəzinəsi, fəsil 60'
+titleRu: 'Сокровищница тайн, глава 60'
 titleFa: بخش ۶۰ - انجام کتاب
+titleEn: 'The Treasury of Mysteries, chapter 60'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

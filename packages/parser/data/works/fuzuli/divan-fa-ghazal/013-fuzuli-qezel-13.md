@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-13
 sourceId: ganjoor-116719
-titleAz: شمارهٔ ۱۳
+titleAz: Qəzəl 13
+titleRu: Газель 13
 titleFa: شمارهٔ ۱۳
+titleEn: Ghazal 13
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

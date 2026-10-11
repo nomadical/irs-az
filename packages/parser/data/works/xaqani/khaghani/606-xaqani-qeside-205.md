@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-205
 sourceId: ganjoor-14975
-titleAz: شمارهٔ ۲۰۵ - در حال بیماری به اشتیاق خراسان
+titleAz: Qəsidə 205
+titleRu: Касыда 205
 titleFa: شمارهٔ ۲۰۵ - در حال بیماری به اشتیاق خراسان
+titleEn: Qasida 205
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

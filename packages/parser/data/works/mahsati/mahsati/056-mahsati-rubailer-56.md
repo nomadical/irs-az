@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-56
 sourceId: ganjoor-50116
-titleAz: رباعی شمارۀ ۵۶
+titleAz: 'Rübailər, 56'
+titleRu: 'Рубайят, 56'
 titleFa: رباعی شمارۀ ۵۶
+titleEn: 'Rubaiyat, 56'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

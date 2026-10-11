@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-97
 sourceId: ganjoor-117392
-titleAz: شمارهٔ ۹۷
+titleAz: Qəzəl 97
+titleRu: Газель 97
 titleFa: شمارهٔ ۹۷
+titleEn: Ghazal 97
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-29
 sourceId: ganjoor-117146
-titleAz: شمارهٔ ۲۹
+titleAz: Qitə 29
+titleRu: Кыта 29
 titleFa: شمارهٔ ۲۹
+titleEn: Qit'a 29
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

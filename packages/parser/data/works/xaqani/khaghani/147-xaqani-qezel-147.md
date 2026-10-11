@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-147
 sourceId: ganjoor-14516
-titleAz: غزل شمارهٔ ۱۴۷
+titleAz: Qəzəl 147
+titleRu: Газель 147
 titleFa: غزل شمارهٔ ۱۴۷
+titleEn: Ghazal 147
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

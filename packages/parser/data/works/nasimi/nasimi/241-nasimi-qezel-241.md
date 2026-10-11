@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-241
 sourceId: ganjoor-117536
-titleAz: شمارهٔ ۲۴۱
+titleAz: Qəzəl 241
+titleRu: Газель 241
 titleFa: شمارهٔ ۲۴۱
+titleEn: Ghazal 241
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

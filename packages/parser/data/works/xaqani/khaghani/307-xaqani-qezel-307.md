@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-307
 sourceId: ganjoor-14676
-titleAz: غزل شمارهٔ ۳۰۷
+titleAz: Qəzəl 307
+titleRu: Газель 307
 titleFa: غزل شمارهٔ ۳۰۷
+titleEn: Ghazal 307
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

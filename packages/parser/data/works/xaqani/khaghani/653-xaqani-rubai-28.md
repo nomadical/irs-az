@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-28
 sourceId: ganjoor-15023
-titleAz: رباعی شمارهٔ   ۲۸
+titleAz: Rübai 28
+titleRu: Рубаи 28
 titleFa: رباعی شمارهٔ   ۲۸
+titleEn: Rubai 28
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

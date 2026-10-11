@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-41
 sourceId: ganjoor-117644
-titleAz: شمارهٔ ۴۱
+titleAz: Rübai 41
+titleRu: Рубаи 41
 titleFa: شمارهٔ ۴۱
+titleEn: Rubai 41
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

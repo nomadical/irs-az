@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-140
 sourceId: ganjoor-116846
-titleAz: شمارهٔ ۱۴۰
+titleAz: Qəzəl 140
+titleRu: Газель 140
 titleFa: شمارهٔ ۱۴۰
+titleEn: Ghazal 140
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

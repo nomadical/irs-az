@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-150
 sourceId: ganjoor-116856
-titleAz: شمارهٔ ۱۵۰
+titleAz: Qəzəl 150
+titleRu: Газель 150
 titleFa: شمارهٔ ۱۵۰
+titleEn: Ghazal 150
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

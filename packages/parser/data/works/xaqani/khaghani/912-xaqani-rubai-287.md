@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-287
 sourceId: ganjoor-15282
-titleAz: رباعی شمارهٔ   ۲۸۷
+titleAz: Rübai 287
+titleRu: Рубаи 287
 titleFa: رباعی شمارهٔ   ۲۸۷
+titleEn: Rubai 287
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

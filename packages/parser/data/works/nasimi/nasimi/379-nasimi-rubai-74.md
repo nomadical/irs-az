@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-74
 sourceId: ganjoor-117677
-titleAz: شمارهٔ ۷۴ - ستایش فضل‌الله نعیمی
+titleAz: Rübai 74
+titleRu: Рубаи 74
 titleFa: شمارهٔ ۷۴ - ستایش فضل‌الله نعیمی
+titleEn: Rubai 74
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

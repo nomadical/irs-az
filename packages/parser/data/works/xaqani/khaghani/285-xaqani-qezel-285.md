@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-285
 sourceId: ganjoor-14654
-titleAz: غزل شمارهٔ ۲۸۵
+titleAz: Qəzəl 285
+titleRu: Газель 285
 titleFa: غزل شمارهٔ ۲۸۵
+titleEn: Ghazal 285
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

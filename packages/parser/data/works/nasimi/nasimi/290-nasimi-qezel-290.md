@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-290
 sourceId: ganjoor-117585
-titleAz: شمارهٔ ۲۹۰
+titleAz: Qəzəl 290
+titleRu: Газель 290
 titleFa: شمارهٔ ۲۹۰
+titleEn: Ghazal 290
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

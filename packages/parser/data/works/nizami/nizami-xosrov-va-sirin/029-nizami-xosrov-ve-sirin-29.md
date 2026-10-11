@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-29
 sourceId: ganjoor-8893
-titleAz: بخش ۲۹ - مجلس بزم خسرو و باز آمدن شاپور
+titleAz: 'Xosrov və Şirin, fəsil 29'
+titleRu: 'Хосров и Ширин, глава 29'
 titleFa: بخش ۲۹ - مجلس بزم خسرو و باز آمدن شاپور
+titleEn: 'Khosrow and Shirin, chapter 29'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

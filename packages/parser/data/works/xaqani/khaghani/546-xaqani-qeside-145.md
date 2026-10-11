@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-145
 sourceId: ganjoor-14915
-titleAz: شمارهٔ ۱۴۵ - در مدح امام ناصر الدین ابراهیم
+titleAz: Qəsidə 145
+titleRu: Касыда 145
 titleFa: شمارهٔ ۱۴۵ - در مدح امام ناصر الدین ابراهیم
+titleEn: Qasida 145
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-10
 sourceId: ganjoor-116666
-titleAz: شمارهٔ ۱۰
+titleAz: Qəsidə 10
+titleRu: Касыда 10
 titleFa: شمارهٔ ۱۰
+titleEn: Qasida 10
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

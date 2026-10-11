@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-171
 sourceId: ganjoor-14540
-titleAz: غزل شمارهٔ ۱۷۱
+titleAz: Qəzəl 171
+titleRu: Газель 171
 titleFa: غزل شمارهٔ ۱۷۱
+titleEn: Ghazal 171
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

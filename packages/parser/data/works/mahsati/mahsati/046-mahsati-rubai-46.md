@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-46
 sourceId: ganjoor-133770
-titleAz: شمارهٔ ۴۶
+titleAz: Rübai 46
+titleRu: Рубаи 46
 titleFa: شمارهٔ ۴۶
+titleEn: Rubai 46
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

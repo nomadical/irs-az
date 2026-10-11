@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-1
 sourceId: ganjoor-9150
-titleAz: بخش ۱ - به نام ایزد بخشاینده
+titleAz: 'Şərəfnamə, fəsil 1'
+titleRu: 'Шараф-наме, глава 1'
 titleFa: بخش ۱ - به نام ایزد بخشاینده
+titleEn: 'Sharafnama, chapter 1'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

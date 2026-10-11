@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-96
 sourceId: ganjoor-133820
-titleAz: شمارهٔ ۹۶
+titleAz: Rübai 96
+titleRu: Рубаи 96
 titleFa: شمارهٔ ۹۶
+titleEn: Rubai 96
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

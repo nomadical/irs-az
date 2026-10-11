@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-5
 sourceId: ganjoor-9154
-titleAz: بخش ۵ - در سابقهٔ نظم شرفنامه
+titleAz: 'Şərəfnamə, fəsil 5'
+titleRu: 'Шараф-наме, глава 5'
 titleFa: بخش ۵ - در سابقهٔ نظم شرفنامه
+titleEn: 'Sharafnama, chapter 5'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

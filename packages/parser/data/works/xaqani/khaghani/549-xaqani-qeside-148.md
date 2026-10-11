@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-148
 sourceId: ganjoor-14918
-titleAz: شمارهٔ ۱۴۸ - در شکایت از روزگار و مدح پیغمبر بزرگوار و یاد از کعبهٔ معظمه
+titleAz: Qəsidə 148
+titleRu: Касыда 148
 titleFa: شمارهٔ ۱۴۸ - در شکایت از روزگار و مدح پیغمبر بزرگوار و یاد از کعبهٔ معظمه
+titleEn: Qasida 148
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

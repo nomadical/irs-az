@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-314
 sourceId: ganjoor-14683
-titleAz: غزل شمارهٔ ۳۱۴
+titleAz: Qəzəl 314
+titleRu: Газель 314
 titleFa: غزل شمارهٔ ۳۱۴
+titleEn: Ghazal 314
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

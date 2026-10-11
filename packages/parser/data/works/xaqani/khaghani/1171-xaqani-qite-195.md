@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-195
 sourceId: ganjoor-27858
-titleAz: شمارهٔ ۱۹۵
+titleAz: Qitə 195
+titleRu: Кыта 195
 titleFa: شمارهٔ ۱۹۵
+titleEn: Qit'a 195
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

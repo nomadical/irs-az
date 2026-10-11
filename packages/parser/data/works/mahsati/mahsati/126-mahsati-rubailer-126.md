@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-126
 sourceId: ganjoor-50186
-titleAz: رباعی شمارۀ ۱۲۶
+titleAz: 'Rübailər, 126'
+titleRu: 'Рубайят, 126'
 titleFa: رباعی شمارۀ ۱۲۶
+titleEn: 'Rubaiyat, 126'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

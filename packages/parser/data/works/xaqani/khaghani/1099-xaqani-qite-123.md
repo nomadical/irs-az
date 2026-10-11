@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-123
 sourceId: ganjoor-27786
-titleAz: شمارهٔ ۱۲۳
+titleAz: Qitə 123
+titleRu: Кыта 123
 titleFa: شمارهٔ ۱۲۳
+titleEn: Qit'a 123
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

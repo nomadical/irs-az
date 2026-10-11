@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-71
 sourceId: ganjoor-50131
-titleAz: رباعی شمارۀ ۷۱
+titleAz: 'Rübailər, 71'
+titleRu: 'Рубайят, 71'
 titleFa: رباعی شمارۀ ۷۱
+titleEn: 'Rubaiyat, 71'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

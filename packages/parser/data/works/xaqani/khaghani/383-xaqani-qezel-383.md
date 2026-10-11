@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-383
 sourceId: ganjoor-14752
-titleAz: غزل شمارهٔ ۳۸۳
+titleAz: Qəzəl 383
+titleRu: Газель 383
 titleFa: غزل شمارهٔ ۳۸۳
+titleEn: Ghazal 383
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-81
 sourceId: ganjoor-116787
-titleAz: شمارهٔ ۸۱
+titleAz: Qəzəl 81
+titleRu: Газель 81
 titleFa: شمارهٔ ۸۱
+titleEn: Ghazal 81
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-107
 sourceId: ganjoor-117402
-titleAz: شمارهٔ ۱۰۷
+titleAz: Qəzəl 107
+titleRu: Газель 107
 titleFa: شمارهٔ ۱۰۷
+titleEn: Ghazal 107
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

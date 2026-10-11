@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-338
 sourceId: ganjoor-15333
-titleAz: رباعی شمارهٔ   ۳۳۸
+titleAz: Rübai 338
+titleRu: Рубаи 338
 titleFa: رباعی شمارهٔ   ۳۳۸
+titleEn: Rubai 338
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

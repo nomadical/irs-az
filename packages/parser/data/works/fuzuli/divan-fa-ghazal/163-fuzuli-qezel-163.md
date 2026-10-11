@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-163
 sourceId: ganjoor-116869
-titleAz: شمارهٔ ۱۶۳
+titleAz: Qəzəl 163
+titleRu: Газель 163
 titleFa: شمارهٔ ۱۶۳
+titleEn: Ghazal 163
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

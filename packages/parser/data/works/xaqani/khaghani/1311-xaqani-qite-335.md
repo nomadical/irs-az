@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-335
 sourceId: ganjoor-27998
-titleAz: شمارهٔ ۳۳۵ - در حماسه و مدح خود
+titleAz: Qitə 335
+titleRu: Кыта 335
 titleFa: شمارهٔ ۳۳۵ - در حماسه و مدح خود
+titleEn: Qit'a 335
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

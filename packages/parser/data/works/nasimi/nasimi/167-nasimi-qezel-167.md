@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-167
 sourceId: ganjoor-117462
-titleAz: شمارهٔ ۱۶۷
+titleAz: Qəzəl 167
+titleRu: Газель 167
 titleFa: شمارهٔ ۱۶۷
+titleEn: Ghazal 167
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

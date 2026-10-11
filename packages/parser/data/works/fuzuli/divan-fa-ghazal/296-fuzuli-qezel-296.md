@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-296
 sourceId: ganjoor-117002
-titleAz: شمارهٔ ۲۹۶
+titleAz: Qəzəl 296
+titleRu: Газель 296
 titleFa: شمارهٔ ۲۹۶
+titleEn: Ghazal 296
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

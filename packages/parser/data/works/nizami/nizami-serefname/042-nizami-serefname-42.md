@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-42
 sourceId: ganjoor-9191
-titleAz: بخش ۴۲ - رفتن اسکندر از هندوستان به چین
+titleAz: 'Şərəfnamə, fəsil 42'
+titleRu: 'Шараф-наме, глава 42'
 titleFa: بخش ۴۲ - رفتن اسکندر از هندوستان به چین
+titleEn: 'Sharafnama, chapter 42'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

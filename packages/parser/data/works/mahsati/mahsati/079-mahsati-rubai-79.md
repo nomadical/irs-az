@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-79
 sourceId: ganjoor-133803
-titleAz: شمارهٔ ۷۹
+titleAz: Rübai 79
+titleRu: Рубаи 79
 titleFa: شمارهٔ ۷۹
+titleEn: Rubai 79
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

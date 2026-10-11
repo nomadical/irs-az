@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-61
 sourceId: ganjoor-14831
-titleAz: شمارهٔ ۶۱ - تجدید مطلع
+titleAz: Qəsidə 61
+titleRu: Касыда 61
 titleFa: شمارهٔ ۶۱ - تجدید مطلع
+titleEn: Qasida 61
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

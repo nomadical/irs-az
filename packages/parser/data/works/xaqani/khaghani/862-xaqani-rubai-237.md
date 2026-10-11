@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-237
 sourceId: ganjoor-15232
-titleAz: رباعی شمارهٔ   ۲۳۷
+titleAz: Rübai 237
+titleRu: Рубаи 237
 titleFa: رباعی شمارهٔ   ۲۳۷
+titleEn: Rubai 237
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

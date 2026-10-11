@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-302
 sourceId: ganjoor-15297
-titleAz: رباعی شمارهٔ   ۳۰۲
+titleAz: Rübai 302
+titleRu: Рубаи 302
 titleFa: رباعی شمارهٔ   ۳۰۲
+titleEn: Rubai 302
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

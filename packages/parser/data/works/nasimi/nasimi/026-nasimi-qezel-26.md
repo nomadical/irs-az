@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-26
 sourceId: ganjoor-117321
-titleAz: شمارهٔ ۲۶
+titleAz: Qəzəl 26
+titleRu: Газель 26
 titleFa: شمارهٔ ۲۶
+titleEn: Ghazal 26
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

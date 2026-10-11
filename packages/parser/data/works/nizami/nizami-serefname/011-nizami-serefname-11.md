@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-11
 sourceId: ganjoor-9160
-titleAz: بخش ۱۱ - رغبت نظامی به نظم شرف‌نامه
+titleAz: 'Şərəfnamə, fəsil 11'
+titleRu: 'Шараф-наме, глава 11'
 titleFa: بخش ۱۱ - رغبت نظامی به نظم شرف‌نامه
+titleEn: 'Sharafnama, chapter 11'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-227
 sourceId: ganjoor-117522
-titleAz: شمارهٔ ۲۲۷
+titleAz: Qəzəl 227
+titleRu: Газель 227
 titleFa: شمارهٔ ۲۲۷
+titleEn: Ghazal 227
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

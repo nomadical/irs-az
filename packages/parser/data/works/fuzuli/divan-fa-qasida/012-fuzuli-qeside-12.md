@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-12
 sourceId: ganjoor-116668
-titleAz: شمارهٔ ۱۲
+titleAz: Qəsidə 12
+titleRu: Касыда 12
 titleFa: شمارهٔ ۱۲
+titleEn: Qasida 12
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-80
 sourceId: ganjoor-117375
-titleAz: شمارهٔ ۸۰
+titleAz: Qəzəl 80
+titleRu: Газель 80
 titleFa: شمارهٔ ۸۰
+titleEn: Ghazal 80
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

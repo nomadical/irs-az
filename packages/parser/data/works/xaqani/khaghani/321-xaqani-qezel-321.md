@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-321
 sourceId: ganjoor-14690
-titleAz: غزل شمارهٔ ۳۲۱
+titleAz: Qəzəl 321
+titleRu: Газель 321
 titleFa: غزل شمارهٔ ۳۲۱
+titleEn: Ghazal 321
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

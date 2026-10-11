@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-33
 sourceId: ganjoor-8897
-titleAz: بخش ۳۳ - باز آوردن شاپور شیرین را پیش مهین‌بانو
+titleAz: 'Xosrov və Şirin, fəsil 33'
+titleRu: 'Хосров и Ширин, глава 33'
 titleFa: بخش ۳۳ - باز آوردن شاپور شیرین را پیش مهین‌بانو
+titleEn: 'Khosrow and Shirin, chapter 33'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

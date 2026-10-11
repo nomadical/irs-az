@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-153
 sourceId: ganjoor-116859
-titleAz: شمارهٔ ۱۵۳
+titleAz: Qəzəl 153
+titleRu: Газель 153
 titleFa: شمارهٔ ۱۵۳
+titleEn: Ghazal 153
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

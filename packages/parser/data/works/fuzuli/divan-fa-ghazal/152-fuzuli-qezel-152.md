@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-152
 sourceId: ganjoor-116858
-titleAz: شمارهٔ ۱۵۲
+titleAz: Qəzəl 152
+titleRu: Газель 152
 titleFa: شمارهٔ ۱۵۲
+titleEn: Ghazal 152
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

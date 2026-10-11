@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-101
 sourceId: ganjoor-14470
-titleAz: غزل شمارهٔ ۱۰۱
+titleAz: Qəzəl 101
+titleRu: Газель 101
 titleFa: غزل شمارهٔ ۱۰۱
+titleEn: Ghazal 101
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

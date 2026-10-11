@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-114
 sourceId: ganjoor-15109
-titleAz: رباعی شمارهٔ   ۱۱۴
+titleAz: Rübai 114
+titleRu: Рубаи 114
 titleFa: رباعی شمارهٔ   ۱۱۴
+titleEn: Rubai 114
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-34
 sourceId: ganjoor-8898
-titleAz: بخش ۳۴ - گریختن خسرو از بهرام چوبین
+titleAz: 'Xosrov və Şirin, fəsil 34'
+titleRu: 'Хосров и Ширин, глава 34'
 titleFa: بخش ۳۴ - گریختن خسرو از بهرام چوبین
+titleEn: 'Khosrow and Shirin, chapter 34'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

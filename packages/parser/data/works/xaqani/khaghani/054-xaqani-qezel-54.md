@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-54
 sourceId: ganjoor-14423
-titleAz: غزل شمارهٔ ۵۴
+titleAz: Qəzəl 54
+titleRu: Газель 54
 titleFa: غزل شمارهٔ ۵۴
+titleEn: Ghazal 54
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

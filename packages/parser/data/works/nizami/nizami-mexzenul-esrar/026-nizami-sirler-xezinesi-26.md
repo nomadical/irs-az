@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-26
 sourceId: ganjoor-9288
-titleAz: بخش ۲۶ - مقالت چهارم در رعایت از رعیت
+titleAz: 'Sirlər xəzinəsi, fəsil 26'
+titleRu: 'Сокровищница тайн, глава 26'
 titleFa: بخش ۲۶ - مقالت چهارم در رعایت از رعیت
+titleEn: 'The Treasury of Mysteries, chapter 26'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

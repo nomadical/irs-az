@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-92
 sourceId: ganjoor-15087
-titleAz: رباعی شمارهٔ   ۹۲
+titleAz: Rübai 92
+titleRu: Рубаи 92
 titleFa: رباعی شمارهٔ   ۹۲
+titleEn: Rubai 92
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

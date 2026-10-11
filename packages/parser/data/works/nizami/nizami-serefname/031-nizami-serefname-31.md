@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-31
 sourceId: ganjoor-9180
-titleAz: بخش ۳۱ - فرستادن اسکندر روشنک را به روم
+titleAz: 'Şərəfnamə, fəsil 31'
+titleRu: 'Шараф-наме, глава 31'
 titleFa: بخش ۳۱ - فرستادن اسکندر روشنک را به روم
+titleEn: 'Sharafnama, chapter 31'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

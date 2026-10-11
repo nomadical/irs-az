@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-4
 sourceId: ganjoor-116660
-titleAz: شمارهٔ ۴
+titleAz: Qəsidə 4
+titleRu: Касыда 4
 titleFa: شمارهٔ ۴
+titleEn: Qasida 4
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

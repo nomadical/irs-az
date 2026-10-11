@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-239
 sourceId: ganjoor-15234
-titleAz: رباعی شمارهٔ   ۲۳۹
+titleAz: Rübai 239
+titleRu: Рубаи 239
 titleFa: رباعی شمارهٔ   ۲۳۹
+titleEn: Rubai 239
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-93
 sourceId: ganjoor-116799
-titleAz: شمارهٔ ۹۳
+titleAz: Qəzəl 93
+titleRu: Газель 93
 titleFa: شمارهٔ ۹۳
+titleEn: Ghazal 93
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

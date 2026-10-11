@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-saqiname-12
 sourceId: ganjoor-117287
-titleAz: بخش ۱۲ - نشأه جام ششم
+titleAz: 'Saqinamə, fəsil 12'
+titleRu: 'Саки-наме, глава 12'
 titleFa: بخش ۱۲ - نشأه جام ششم
+titleEn: 'Saqi-nama, chapter 12'
 authorSlug: fuzuli
 collectionSlug: saqiname
 originalLang: FA

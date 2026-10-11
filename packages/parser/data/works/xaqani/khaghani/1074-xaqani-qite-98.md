@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-98
 sourceId: ganjoor-27761
-titleAz: شمارهٔ ۹۸
+titleAz: Qitə 98
+titleRu: Кыта 98
 titleFa: شمارهٔ ۹۸
+titleEn: Qit'a 98
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

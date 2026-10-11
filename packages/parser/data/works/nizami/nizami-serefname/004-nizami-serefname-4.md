@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-4
 sourceId: ganjoor-9153
-titleAz: بخش ۴ - در معراج پیغمبر اکرم
+titleAz: 'Şərəfnamə, fəsil 4'
+titleRu: 'Шараф-наме, глава 4'
 titleFa: بخش ۴ - در معراج پیغمبر اکرم
+titleEn: 'Sharafnama, chapter 4'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

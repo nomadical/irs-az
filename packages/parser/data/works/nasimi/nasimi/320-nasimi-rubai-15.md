@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-15
 sourceId: ganjoor-117618
-titleAz: شمارهٔ ۱۵
+titleAz: Rübai 15
+titleRu: Рубаи 15
 titleFa: شمارهٔ ۱۵
+titleEn: Rubai 15
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

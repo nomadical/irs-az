@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-145
 sourceId: ganjoor-50205
-titleAz: رباعی شمارۀ ۱۴۴
+titleAz: 'Rübailər, 145'
+titleRu: 'Рубайят, 145'
 titleFa: رباعی شمارۀ ۱۴۴
+titleEn: 'Rubaiyat, 145'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-3
 sourceId: ganjoor-117606
-titleAz: شمارهٔ ۳
+titleAz: Rübai 3
+titleRu: Рубаи 3
 titleFa: شمارهٔ ۳
+titleEn: Rubai 3
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

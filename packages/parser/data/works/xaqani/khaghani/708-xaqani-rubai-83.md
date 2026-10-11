@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-83
 sourceId: ganjoor-15078
-titleAz: رباعی شمارهٔ   ۸۳
+titleAz: Rübai 83
+titleRu: Рубаи 83
 titleFa: رباعی شمارهٔ   ۸۳
+titleEn: Rubai 83
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

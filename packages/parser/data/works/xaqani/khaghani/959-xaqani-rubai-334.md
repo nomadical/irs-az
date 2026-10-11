@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-334
 sourceId: ganjoor-15329
-titleAz: رباعی شمارهٔ   ۳۳۴
+titleAz: Rübai 334
+titleRu: Рубаи 334
 titleFa: رباعی شمارهٔ   ۳۳۴
+titleEn: Rubai 334
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

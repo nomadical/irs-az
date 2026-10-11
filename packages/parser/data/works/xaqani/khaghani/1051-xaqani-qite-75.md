@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-75
 sourceId: ganjoor-27738
-titleAz: شمارهٔ ۷۵ - در صفت میر گشتاسب مطرب
+titleAz: Qitə 75
+titleRu: Кыта 75
 titleFa: شمارهٔ ۷۵ - در صفت میر گشتاسب مطرب
+titleEn: Qit'a 75
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

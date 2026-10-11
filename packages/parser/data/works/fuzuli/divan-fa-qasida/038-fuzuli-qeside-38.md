@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-38
 sourceId: ganjoor-116694
-titleAz: شمارهٔ ۳۸
+titleAz: Qəsidə 38
+titleRu: Касыда 38
 titleFa: شمارهٔ ۳۸
+titleEn: Qasida 38
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

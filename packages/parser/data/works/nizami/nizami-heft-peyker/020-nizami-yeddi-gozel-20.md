@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-20
 sourceId: ganjoor-9068
-titleAz: بخش ۲۰ - داستان بهرام با کنیزک خویش
+titleAz: 'Yeddi gözəl, fəsil 20'
+titleRu: 'Семь красавиц, глава 20'
 titleFa: بخش ۲۰ - داستان بهرام با کنیزک خویش
+titleEn: 'The Seven Beauties, chapter 20'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

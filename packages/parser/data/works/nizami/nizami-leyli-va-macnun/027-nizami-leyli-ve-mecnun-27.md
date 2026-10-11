@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-27
 sourceId: ganjoor-9029
-titleAz: بخش ۲۷ - بردن پیرزن مجنون را در خرگاه لیلی
+titleAz: 'Leyli və Məcnun, fəsil 27'
+titleRu: 'Лейли и Меджнун, глава 27'
 titleFa: بخش ۲۷ - بردن پیرزن مجنون را در خرگاه لیلی
+titleEn: 'Layla and Majnun, chapter 27'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

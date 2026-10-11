@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-40
 sourceId: ganjoor-117204
-titleAz: شمارهٔ ۴۰
+titleAz: Rübai 40
+titleRu: Рубаи 40
 titleFa: شمارهٔ ۴۰
+titleEn: Rubai 40
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

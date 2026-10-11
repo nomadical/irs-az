@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-100
 sourceId: ganjoor-27763
-titleAz: شمارهٔ ۱۰۰
+titleAz: Qitə 100
+titleRu: Кыта 100
 titleFa: شمارهٔ ۱۰۰
+titleEn: Qit'a 100
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

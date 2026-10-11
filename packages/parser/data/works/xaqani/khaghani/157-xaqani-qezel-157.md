@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-157
 sourceId: ganjoor-14526
-titleAz: غزل شمارهٔ ۱۵۷
+titleAz: Qəzəl 157
+titleRu: Газель 157
 titleFa: غزل شمارهٔ ۱۵۷
+titleEn: Ghazal 157
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

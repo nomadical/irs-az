@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-176
 sourceId: ganjoor-14545
-titleAz: غزل شمارهٔ ۱۷۶
+titleAz: Qəzəl 176
+titleRu: Газель 176
 titleFa: غزل شمارهٔ ۱۷۶
+titleEn: Ghazal 176
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

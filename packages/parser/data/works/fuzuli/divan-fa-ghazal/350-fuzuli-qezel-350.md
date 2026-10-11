@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-350
 sourceId: ganjoor-117056
-titleAz: شمارهٔ ۳۵۰
+titleAz: Qəzəl 350
+titleRu: Газель 350
 titleFa: شمارهٔ ۳۵۰
+titleEn: Ghazal 350
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

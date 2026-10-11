@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-57
 sourceId: ganjoor-117660
-titleAz: شمارهٔ ۵۷
+titleAz: Rübai 57
+titleRu: Рубаи 57
 titleFa: شمارهٔ ۵۷
+titleEn: Rubai 57
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

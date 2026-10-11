@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-48
 sourceId: ganjoor-27711
-titleAz: شمارهٔ ۴۸
+titleAz: Qitə 48
+titleRu: Кыта 48
 titleFa: شمارهٔ ۴۸
+titleEn: Qit'a 48
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-73
 sourceId: ganjoor-15068
-titleAz: رباعی شمارهٔ   ۷۳
+titleAz: Rübai 73
+titleRu: Рубаи 73
 titleFa: رباعی شمارهٔ   ۷۳
+titleEn: Rubai 73
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

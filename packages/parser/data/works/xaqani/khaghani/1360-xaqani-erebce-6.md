@@ -1,8 +1,10 @@
 ---
 slug: xaqani-erebce-6
 sourceId: ganjoor-15497
-titleAz: در وصف سلطان عادل شاه مظفر بن محمد
+titleAz: Ərəbcə şeir 6
+titleRu: Арабское стихотворение 6
 titleFa: در وصف سلطان عادل شاه مظفر بن محمد
+titleEn: Arabic poem 6
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

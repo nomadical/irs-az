@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-59
 sourceId: ganjoor-117223
-titleAz: شمارهٔ ۵۹
+titleAz: Rübai 59
+titleRu: Рубаи 59
 titleFa: شمارهٔ ۵۹
+titleEn: Rubai 59
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

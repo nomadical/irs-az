@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-17
 sourceId: ganjoor-50077
-titleAz: رباعی شمارۀ ۱۷
+titleAz: 'Rübailər, 17'
+titleRu: 'Рубайят, 17'
 titleFa: رباعی شمارۀ ۱۷
+titleEn: 'Rubaiyat, 17'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

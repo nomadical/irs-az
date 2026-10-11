@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-398
 sourceId: ganjoor-14767
-titleAz: غزل شمارهٔ ۳۹۸
+titleAz: Qəzəl 398
+titleRu: Газель 398
 titleFa: غزل شمارهٔ ۳۹۸
+titleEn: Ghazal 398
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

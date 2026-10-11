@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-81
 sourceId: ganjoor-14450
-titleAz: غزل شمارهٔ ۸۱
+titleAz: Qəzəl 81
+titleRu: Газель 81
 titleFa: غزل شمارهٔ ۸۱
+titleEn: Ghazal 81
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-118
 sourceId: ganjoor-117413
-titleAz: شمارهٔ ۱۱۸
+titleAz: Qəzəl 118
+titleRu: Газель 118
 titleFa: شمارهٔ ۱۱۸
+titleEn: Ghazal 118
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

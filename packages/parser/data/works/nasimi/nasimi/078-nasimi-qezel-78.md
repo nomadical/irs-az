@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-78
 sourceId: ganjoor-117373
-titleAz: شمارهٔ ۷۸
+titleAz: Qəzəl 78
+titleRu: Газель 78
 titleFa: شمارهٔ ۷۸
+titleEn: Ghazal 78
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-117
 sourceId: ganjoor-15112
-titleAz: رباعی شمارهٔ   ۱۱۷
+titleAz: Rübai 117
+titleRu: Рубаи 117
 titleFa: رباعی شمارهٔ   ۱۱۷
+titleEn: Rubai 117
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

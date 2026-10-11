@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-15
 sourceId: ganjoor-117179
-titleAz: شمارهٔ ۱۵
+titleAz: Rübai 15
+titleRu: Рубаи 15
 titleFa: شمارهٔ ۱۵
+titleEn: Rubai 15
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

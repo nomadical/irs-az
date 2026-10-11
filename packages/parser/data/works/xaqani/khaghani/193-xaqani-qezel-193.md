@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-193
 sourceId: ganjoor-14562
-titleAz: غزل شمارهٔ ۱۹۳
+titleAz: Qəzəl 193
+titleRu: Газель 193
 titleFa: غزل شمارهٔ ۱۹۳
+titleEn: Ghazal 193
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

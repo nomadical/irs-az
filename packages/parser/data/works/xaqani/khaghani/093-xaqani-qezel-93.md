@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-93
 sourceId: ganjoor-14462
-titleAz: غزل شمارهٔ ۹۳
+titleAz: Qəzəl 93
+titleRu: Газель 93
 titleFa: غزل شمارهٔ ۹۳
+titleEn: Ghazal 93
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

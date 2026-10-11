@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-89
 sourceId: ganjoor-14859
-titleAz: شمارهٔ ۸۹ - قصیده
+titleAz: Qəsidə 89
+titleRu: Касыда 89
 titleFa: شمارهٔ ۸۹ - قصیده
+titleEn: Qasida 89
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -27,7 +27,9 @@
     "works": "Works",
     "search": "Search",
     "blog": "Blog",
-    "contribute": "Contribute"
+    "contribute": "Contribute",
+    "skip": "Skip to content",
+    "menu_label": "Main sections"
   },
   "authors": {
     "title": "Authors",
@@ -62,7 +64,8 @@
   },
   "theme": {
     "light": "Light",
-    "dark": "Dark"
+    "dark": "Dark",
+    "toggle": "Toggle theme"
   },
   "contribute": {
     "title": "Contribute",
@@ -156,6 +159,42 @@
         "PHILOSOPHER": "Philosopher",
         "CRITIC": "Critic"
       }
+    }
+  },
+  "reading": {
+    "mode_label": "Text version",
+    "mode_translation": "Translation",
+    "mode_parallel": "Side by side",
+    "mode_original": "Original",
+    "lang_label": "Translation language",
+    "original_suffix": "original",
+    "no_translation": "This work has no translation yet.",
+    "no_translation_cta": "Suggest a translation",
+    "source": "Source",
+    "translator": "Translated by",
+    "original_text": "Original",
+    "prev": "Previous",
+    "next": "Next",
+    "nav_label": "Collection navigation",
+    "keys_hint": "Use ← → keys to move",
+    "numbered": "{form} No. {n}",
+    "section": "Part",
+    "appearance": "Appearance",
+    "loading": "Loading…",
+    "maqta": "Maqta — the closing couplet bearing the poet’s pen name",
+    "gloss": {
+      "GHAZAL": "Ghazal: a lyric poem of couplets on a single rhyme. In the closing couplet, marked ◆, the poet signs with a pen name.",
+      "MASNAVI": "Masnavi: a long poem in self-rhyming couplets, usually an epic or a tale.",
+      "RUBAI": "Rubai: a philosophical quatrain; lines one, two and four rhyme.",
+      "QASIDA": "Qasida: a long, formal poem of praise or counsel.",
+      "MURABBA": "Murabba: a poem in four-line stanzas."
+    },
+    "form_plural": {
+      "GHAZAL": "Ghazals",
+      "MASNAVI": "Masnavi",
+      "RUBAI": "Rubais",
+      "QASIDA": "Qasidas",
+      "OTHER": "Divan"
     }
   }
 }

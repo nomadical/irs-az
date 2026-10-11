@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-88
 sourceId: ganjoor-8952
-titleAz: بخش ۸۸ - بیرون آمدن شیرین از خرگاه
+titleAz: 'Xosrov və Şirin, fəsil 88'
+titleRu: 'Хосров и Ширин, глава 88'
 titleFa: بخش ۸۸ - بیرون آمدن شیرین از خرگاه
+titleEn: 'Khosrow and Shirin, chapter 88'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

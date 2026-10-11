@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-121
 sourceId: ganjoor-27784
-titleAz: شمارهٔ ۱۲۱ - در هنگام زیارت مدینهٔ منوره گفته و در آن خاک نهفته است
+titleAz: Qitə 121
+titleRu: Кыта 121
 titleFa: شمارهٔ ۱۲۱ - در هنگام زیارت مدینهٔ منوره گفته و در آن خاک نهفته است
+titleEn: Qit'a 121
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

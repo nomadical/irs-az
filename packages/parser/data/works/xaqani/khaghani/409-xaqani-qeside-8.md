@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-8
 sourceId: ganjoor-14778
-titleAz: شمارهٔ ۸ - در شکایت از حبس و بند و مدح عظیم الروم عز الدوله قیصر
+titleAz: Qəsidə 8
+titleRu: Касыда 8
 titleFa: شمارهٔ ۸ - در شکایت از حبس و بند و مدح عظیم الروم عز الدوله قیصر
+titleEn: Qasida 8
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-27
 sourceId: ganjoor-15022
-titleAz: رباعی شمارهٔ   ۲۷
+titleAz: Rübai 27
+titleRu: Рубаи 27
 titleFa: رباعی شمارهٔ   ۲۷
+titleEn: Rubai 27
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

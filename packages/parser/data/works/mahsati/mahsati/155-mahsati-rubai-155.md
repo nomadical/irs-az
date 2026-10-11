@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-155
 sourceId: ganjoor-133879
-titleAz: شمارهٔ ۱۵۵
+titleAz: Rübai 155
+titleRu: Рубаи 155
 titleFa: شمارهٔ ۱۵۵
+titleEn: Rubai 155
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-247
 sourceId: ganjoor-27910
-titleAz: شمارهٔ ۲۴۷ - در مرثیهٔ عمدة الدین محمد بن اسعد از ائمهٔ شافعیه
+titleAz: Qitə 247
+titleRu: Кыта 247
 titleFa: شمارهٔ ۲۴۷ - در مرثیهٔ عمدة الدین محمد بن اسعد از ائمهٔ شافعیه
+titleEn: Qit'a 247
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

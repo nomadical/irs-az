@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-112
 sourceId: ganjoor-117407
-titleAz: شمارهٔ ۱۱۲
+titleAz: Qəzəl 112
+titleRu: Газель 112
 titleFa: شمارهٔ ۱۱۲
+titleEn: Ghazal 112
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

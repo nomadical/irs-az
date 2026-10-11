@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-11
 sourceId: ganjoor-117128
-titleAz: شمارهٔ ۱۱
+titleAz: Qitə 11
+titleRu: Кыта 11
 titleFa: شمارهٔ ۱۱
+titleEn: Qit'a 11
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

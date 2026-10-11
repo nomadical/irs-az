@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-37
 sourceId: ganjoor-117154
-titleAz: شمارهٔ ۳۷
+titleAz: Qitə 37
+titleRu: Кыта 37
 titleFa: شمارهٔ ۳۷
+titleEn: Qit'a 37
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

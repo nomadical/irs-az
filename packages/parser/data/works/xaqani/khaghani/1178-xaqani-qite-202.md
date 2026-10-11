@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-202
 sourceId: ganjoor-27865
-titleAz: شمارهٔ ۲۰۲ - در تحسر مرگ رشید فرزند خود
+titleAz: Qitə 202
+titleRu: Кыта 202
 titleFa: شمارهٔ ۲۰۲ - در تحسر مرگ رشید فرزند خود
+titleEn: Qit'a 202
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

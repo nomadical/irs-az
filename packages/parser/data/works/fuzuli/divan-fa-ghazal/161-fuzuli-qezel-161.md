@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-161
 sourceId: ganjoor-116867
-titleAz: شمارهٔ ۱۶۱
+titleAz: Qəzəl 161
+titleRu: Газель 161
 titleFa: شمارهٔ ۱۶۱
+titleEn: Ghazal 161
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

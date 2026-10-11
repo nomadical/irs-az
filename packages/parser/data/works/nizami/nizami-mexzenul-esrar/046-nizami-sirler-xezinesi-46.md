@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-46
 sourceId: ganjoor-9308
-titleAz: بخش ۴۶ - مقالت چهاردهم در نکوهش غفلت
+titleAz: 'Sirlər xəzinəsi, fəsil 46'
+titleRu: 'Сокровищница тайн, глава 46'
 titleFa: بخش ۴۶ - مقالت چهاردهم در نکوهش غفلت
+titleEn: 'The Treasury of Mysteries, chapter 46'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

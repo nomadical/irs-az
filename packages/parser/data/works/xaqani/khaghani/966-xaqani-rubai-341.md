@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-341
 sourceId: ganjoor-15336
-titleAz: رباعی شمارهٔ   ۳۴۱
+titleAz: Rübai 341
+titleRu: Рубаи 341
 titleFa: رباعی شمارهٔ   ۳۴۱
+titleEn: Rubai 341
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

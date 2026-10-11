@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-102
 sourceId: ganjoor-133826
-titleAz: شمارهٔ ۱۰۲
+titleAz: Rübai 102
+titleRu: Рубаи 102
 titleFa: شمارهٔ ۱۰۲
+titleEn: Rubai 102
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

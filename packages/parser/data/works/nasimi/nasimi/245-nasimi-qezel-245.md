@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-245
 sourceId: ganjoor-117540
-titleAz: شمارهٔ ۲۴۵
+titleAz: Qəzəl 245
+titleRu: Газель 245
 titleFa: شمارهٔ ۲۴۵
+titleEn: Ghazal 245
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

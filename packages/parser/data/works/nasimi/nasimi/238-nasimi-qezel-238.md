@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-238
 sourceId: ganjoor-117533
-titleAz: شمارهٔ ۲۳۸
+titleAz: Qəzəl 238
+titleRu: Газель 238
 titleFa: شمارهٔ ۲۳۸
+titleEn: Ghazal 238
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

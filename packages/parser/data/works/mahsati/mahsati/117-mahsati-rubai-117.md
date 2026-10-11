@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-117
 sourceId: ganjoor-133841
-titleAz: شمارهٔ ۱۱۷
+titleAz: Rübai 117
+titleRu: Рубаи 117
 titleFa: شمارهٔ ۱۱۷
+titleEn: Rubai 117
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

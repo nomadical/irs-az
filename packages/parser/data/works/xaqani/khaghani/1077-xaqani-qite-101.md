@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-101
 sourceId: ganjoor-27764
-titleAz: شمارهٔ ۱۰۱ - در مدح قاضی عمربن عبدالعزیز
+titleAz: Qitə 101
+titleRu: Кыта 101
 titleFa: شمارهٔ ۱۰۱ - در مدح قاضی عمربن عبدالعزیز
+titleEn: Qit'a 101
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

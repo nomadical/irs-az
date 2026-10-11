@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-343
 sourceId: ganjoor-14712
-titleAz: غزل شمارهٔ ۳۴۳
+titleAz: Qəzəl 343
+titleRu: Газель 343
 titleFa: غزل شمارهٔ ۳۴۳
+titleEn: Ghazal 343
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

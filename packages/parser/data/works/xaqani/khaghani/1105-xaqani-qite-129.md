@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-129
 sourceId: ganjoor-27792
-titleAz: شمارهٔ ۱۲۹ - در نکوهش زن
+titleAz: Qitə 129
+titleRu: Кыта 129
 titleFa: شمارهٔ ۱۲۹ - در نکوهش زن
+titleEn: Qit'a 129
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

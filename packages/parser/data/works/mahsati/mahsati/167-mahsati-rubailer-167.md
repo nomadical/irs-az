@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-167
 sourceId: ganjoor-50227
-titleAz: رباعی شمارۀ ۱۶۷
+titleAz: 'Rübailər, 167'
+titleRu: 'Рубайят, 167'
 titleFa: رباعی شمارۀ ۱۶۷
+titleEn: 'Rubaiyat, 167'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-216
 sourceId: ganjoor-116922
-titleAz: شمارهٔ ۲۱۶
+titleAz: Qəzəl 216
+titleRu: Газель 216
 titleFa: شمارهٔ ۲۱۶
+titleEn: Ghazal 216
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-29
 sourceId: ganjoor-9291
-titleAz: بخش ۲۹ - داستان پیر خشت‌زن
+titleAz: 'Sirlər xəzinəsi, fəsil 29'
+titleRu: 'Сокровищница тайн, глава 29'
 titleFa: بخش ۲۹ - داستان پیر خشت‌زن
+titleEn: 'The Treasury of Mysteries, chapter 29'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

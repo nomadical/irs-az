@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-32
 sourceId: ganjoor-133756
-titleAz: شمارهٔ ۳۲
+titleAz: Rübai 32
+titleRu: Рубаи 32
 titleFa: شمارهٔ ۳۲
+titleEn: Rubai 32
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

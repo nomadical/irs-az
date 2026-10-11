@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-80
 sourceId: ganjoor-117683
-titleAz: شمارهٔ ۸۰ - ستایش فضل‌الله نعیمی
+titleAz: Rübai 80
+titleRu: Рубаи 80
 titleFa: شمارهٔ ۸۰ - ستایش فضل‌الله نعیمی
+titleEn: Rubai 80
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

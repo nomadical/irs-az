@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-179
 sourceId: ganjoor-50239
-titleAz: رباعی شمارۀ ۱۷۹
+titleAz: 'Rübailər, 179'
+titleRu: 'Рубайят, 179'
 titleFa: رباعی شمارۀ ۱۷۹
+titleEn: 'Rubaiyat, 179'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-163
 sourceId: ganjoor-27826
-titleAz: شمارهٔ ۱۶۳
+titleAz: Qitə 163
+titleRu: Кыта 163
 titleFa: شمارهٔ ۱۶۳
+titleEn: Qit'a 163
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

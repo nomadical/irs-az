@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-68
 sourceId: ganjoor-14437
-titleAz: غزل شمارهٔ ۶۸
+titleAz: Qəzəl 68
+titleRu: Газель 68
 titleFa: غزل شمارهٔ ۶۸
+titleEn: Ghazal 68
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-137
 sourceId: ganjoor-27800
-titleAz: شمارهٔ ۱۳۷
+titleAz: Qitə 137
+titleRu: Кыта 137
 titleFa: شمارهٔ ۱۳۷
+titleEn: Qit'a 137
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

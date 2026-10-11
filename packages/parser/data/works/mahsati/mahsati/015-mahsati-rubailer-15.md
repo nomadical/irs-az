@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-15
 sourceId: ganjoor-50075
-titleAz: رباعی شمارۀ ۱۵
+titleAz: 'Rübailər, 15'
+titleRu: 'Рубайят, 15'
 titleFa: رباعی شمارۀ ۱۵
+titleEn: 'Rubaiyat, 15'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

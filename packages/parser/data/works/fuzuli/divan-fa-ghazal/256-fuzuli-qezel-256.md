@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-256
 sourceId: ganjoor-116962
-titleAz: شمارهٔ ۲۵۶
+titleAz: Qəzəl 256
+titleRu: Газель 256
 titleFa: شمارهٔ ۲۵۶
+titleEn: Ghazal 256
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

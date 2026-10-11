@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-12
 sourceId: ganjoor-8876
-titleAz: بخش ۱۲ - سخنی چند در عشق
+titleAz: 'Xosrov və Şirin, fəsil 12'
+titleRu: 'Хосров и Ширин, глава 12'
 titleFa: بخش ۱۲ - سخنی چند در عشق
+titleEn: 'Khosrow and Shirin, chapter 12'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

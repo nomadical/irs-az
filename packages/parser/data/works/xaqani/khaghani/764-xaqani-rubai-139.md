@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-139
 sourceId: ganjoor-15134
-titleAz: رباعی شمارهٔ   ۱۳۹
+titleAz: Rübai 139
+titleRu: Рубаи 139
 titleFa: رباعی شمارهٔ   ۱۳۹
+titleEn: Rubai 139
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

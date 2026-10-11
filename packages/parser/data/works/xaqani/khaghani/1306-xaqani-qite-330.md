@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-330
 sourceId: ganjoor-27993
-titleAz: شمارهٔ ۳۳۰
+titleAz: Qitə 330
+titleRu: Кыта 330
 titleFa: شمارهٔ ۳۳۰
+titleEn: Qit'a 330
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

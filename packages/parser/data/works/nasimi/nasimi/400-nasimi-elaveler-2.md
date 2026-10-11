@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-2
 sourceId: ganjoor-117701
-titleAz: شمارهٔ ۲ - مستزاد
+titleAz: Əlavə 2
+titleRu: Дополнение 2
 titleFa: شمارهٔ ۲ - مستزاد
+titleEn: Addendum 2
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

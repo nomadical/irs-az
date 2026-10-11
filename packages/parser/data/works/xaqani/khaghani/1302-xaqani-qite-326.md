@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-326
 sourceId: ganjoor-27989
-titleAz: شمارهٔ ۳۲۶
+titleAz: Qitə 326
+titleRu: Кыта 326
 titleFa: شمارهٔ ۳۲۶
+titleEn: Qit'a 326
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

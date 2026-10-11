@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-49
 sourceId: ganjoor-27712
-titleAz: شمارهٔ ۴۹
+titleAz: Qitə 49
+titleRu: Кыта 49
 titleFa: شمارهٔ ۴۹
+titleEn: Qit'a 49
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

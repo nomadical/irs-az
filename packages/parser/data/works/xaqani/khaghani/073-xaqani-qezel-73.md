@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-73
 sourceId: ganjoor-14442
-titleAz: غزل شمارهٔ ۷۳
+titleAz: Qəzəl 73
+titleRu: Газель 73
 titleFa: غزل شمارهٔ ۷۳
+titleEn: Ghazal 73
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

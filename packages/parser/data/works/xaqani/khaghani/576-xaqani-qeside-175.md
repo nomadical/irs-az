@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-175
 sourceId: ganjoor-14945
-titleAz: شمارهٔ ۱۷۵ - در مرثیهٔ قدوة الحکماء کافی‌الدین عم خویش
+titleAz: Qəsidə 175
+titleRu: Касыда 175
 titleFa: شمارهٔ ۱۷۵ - در مرثیهٔ قدوة الحکماء کافی‌الدین عم خویش
+titleEn: Qasida 175
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

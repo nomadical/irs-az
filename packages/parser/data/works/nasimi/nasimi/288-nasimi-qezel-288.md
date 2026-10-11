@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-288
 sourceId: ganjoor-117583
-titleAz: شمارهٔ ۲۸۸
+titleAz: Qəzəl 288
+titleRu: Газель 288
 titleFa: شمارهٔ ۲۸۸
+titleEn: Ghazal 288
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

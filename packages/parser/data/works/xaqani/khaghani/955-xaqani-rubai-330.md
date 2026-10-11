@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-330
 sourceId: ganjoor-15325
-titleAz: رباعی شمارهٔ   ۳۳۰
+titleAz: Rübai 330
+titleRu: Рубаи 330
 titleFa: رباعی شمارهٔ   ۳۳۰
+titleEn: Rubai 330
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

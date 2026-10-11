@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-52
 sourceId: ganjoor-8916
-titleAz: بخش ۵۲ - فرستادن خسرو شاپور را به طلب شیرین
+titleAz: 'Xosrov və Şirin, fəsil 52'
+titleRu: 'Хосров и Ширин, глава 52'
 titleFa: بخش ۵۲ - فرستادن خسرو شاپور را به طلب شیرین
+titleEn: 'Khosrow and Shirin, chapter 52'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

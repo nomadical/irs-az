@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-26
 sourceId: ganjoor-117629
-titleAz: شمارهٔ ۲۶
+titleAz: Rübai 26
+titleRu: Рубаи 26
 titleFa: شمارهٔ ۲۶
+titleEn: Rubai 26
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

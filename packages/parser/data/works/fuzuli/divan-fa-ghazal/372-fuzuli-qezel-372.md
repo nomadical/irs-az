@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-372
 sourceId: ganjoor-117078
-titleAz: شمارهٔ ۳۷۲
+titleAz: Qəzəl 372
+titleRu: Газель 372
 titleFa: شمارهٔ ۳۷۲
+titleEn: Ghazal 372
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

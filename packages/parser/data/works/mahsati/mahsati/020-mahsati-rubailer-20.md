@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-20
 sourceId: ganjoor-50080
-titleAz: رباعی شمارۀ ۲۰
+titleAz: 'Rübailər, 20'
+titleRu: 'Рубайят, 20'
 titleFa: رباعی شمارۀ ۲۰
+titleEn: 'Rubaiyat, 20'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

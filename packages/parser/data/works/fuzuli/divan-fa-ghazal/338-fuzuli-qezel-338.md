@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-338
 sourceId: ganjoor-117044
-titleAz: شمارهٔ ۳۳۸
+titleAz: Qəzəl 338
+titleRu: Газель 338
 titleFa: شمارهٔ ۳۳۸
+titleEn: Ghazal 338
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

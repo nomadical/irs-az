@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-346
 sourceId: ganjoor-14715
-titleAz: غزل شمارهٔ ۳۴۶
+titleAz: Qəzəl 346
+titleRu: Газель 346
 titleFa: غزل شمارهٔ ۳۴۶
+titleEn: Ghazal 346
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

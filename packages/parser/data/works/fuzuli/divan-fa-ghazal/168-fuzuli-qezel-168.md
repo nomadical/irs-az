@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-168
 sourceId: ganjoor-116874
-titleAz: شمارهٔ ۱۶۸
+titleAz: Qəzəl 168
+titleRu: Газель 168
 titleFa: شمارهٔ ۱۶۸
+titleEn: Ghazal 168
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

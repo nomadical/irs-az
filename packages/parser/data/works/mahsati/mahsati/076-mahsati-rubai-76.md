@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-76
 sourceId: ganjoor-133800
-titleAz: شمارهٔ ۷۶
+titleAz: Rübai 76
+titleRu: Рубаи 76
 titleFa: شمارهٔ ۷۶
+titleEn: Rubai 76
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

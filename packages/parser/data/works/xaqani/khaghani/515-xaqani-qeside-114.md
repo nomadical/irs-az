@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-114
 sourceId: ganjoor-14884
-titleAz: شمارهٔ ۱۱۴ - مطلع سوم
+titleAz: Qəsidə 114
+titleRu: Касыда 114
 titleFa: شمارهٔ ۱۱۴ - مطلع سوم
+titleEn: Qasida 114
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

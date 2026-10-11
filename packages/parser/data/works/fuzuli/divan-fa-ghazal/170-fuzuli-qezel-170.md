@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-170
 sourceId: ganjoor-116876
-titleAz: شمارهٔ ۱۷۰
+titleAz: Qəzəl 170
+titleRu: Газель 170
 titleFa: شمارهٔ ۱۷۰
+titleEn: Ghazal 170
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

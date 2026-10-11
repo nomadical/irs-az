@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-317
 sourceId: ganjoor-14686
-titleAz: غزل شمارهٔ ۳۱۷
+titleAz: Qəzəl 317
+titleRu: Газель 317
 titleFa: غزل شمارهٔ ۳۱۷
+titleEn: Ghazal 317
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

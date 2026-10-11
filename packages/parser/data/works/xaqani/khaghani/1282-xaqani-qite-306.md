@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-306
 sourceId: ganjoor-27969
-titleAz: شمارهٔ ۳۰۶
+titleAz: Qitə 306
+titleRu: Кыта 306
 titleFa: شمارهٔ ۳۰۶
+titleEn: Qit'a 306
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

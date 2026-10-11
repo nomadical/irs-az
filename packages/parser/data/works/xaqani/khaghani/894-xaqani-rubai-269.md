@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-269
 sourceId: ganjoor-15264
-titleAz: رباعی شمارهٔ   ۲۶۹
+titleAz: Rübai 269
+titleRu: Рубаи 269
 titleFa: رباعی شمارهٔ   ۲۶۹
+titleEn: Rubai 269
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

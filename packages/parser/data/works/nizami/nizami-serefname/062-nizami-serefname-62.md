@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-62
 sourceId: ganjoor-9211
-titleAz: بخش ۶۲ - باز آمدن اسکندر به روم
+titleAz: 'Şərəfnamə, fəsil 62'
+titleRu: 'Шараф-наме, глава 62'
 titleFa: بخش ۶۲ - باز آمدن اسکندر به روم
+titleEn: 'Sharafnama, chapter 62'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

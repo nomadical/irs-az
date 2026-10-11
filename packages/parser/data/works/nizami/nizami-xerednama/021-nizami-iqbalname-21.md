@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-21
 sourceId: ganjoor-9233
-titleAz: بخش ۲۱ - گفتار والیس
+titleAz: 'İqbalnamə, fəsil 21'
+titleRu: 'Икбал-наме, глава 21'
 titleFa: بخش ۲۱ - گفتار والیس
+titleEn: 'Iqbalnama, chapter 21'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

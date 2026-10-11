@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-12
 sourceId: ganjoor-9161
-titleAz: بخش ۱۲ - آغاز داستان و نسب اسکندر
+titleAz: 'Şərəfnamə, fəsil 12'
+titleRu: 'Шараф-наме, глава 12'
 titleFa: بخش ۱۲ - آغاز داستان و نسب اسکندر
+titleEn: 'Sharafnama, chapter 12'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

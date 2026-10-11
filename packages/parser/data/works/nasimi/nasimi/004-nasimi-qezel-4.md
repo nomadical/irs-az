@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-4
 sourceId: ganjoor-117299
-titleAz: شمارهٔ ۴
+titleAz: Qəzəl 4
+titleRu: Газель 4
 titleFa: شمارهٔ ۴
+titleEn: Ghazal 4
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-156
 sourceId: ganjoor-15151
-titleAz: رباعی شمارهٔ   ۱۵۶
+titleAz: Rübai 156
+titleRu: Рубаи 156
 titleFa: رباعی شمارهٔ   ۱۵۶
+titleEn: Rubai 156
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

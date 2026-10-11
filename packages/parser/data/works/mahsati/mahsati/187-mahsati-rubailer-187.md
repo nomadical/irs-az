@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-187
 sourceId: ganjoor-50247
-titleAz: رباعی شمارۀ ۱۸۷
+titleAz: 'Rübailər, 187'
+titleRu: 'Рубайят, 187'
 titleFa: رباعی شمارۀ ۱۸۷
+titleEn: 'Rubaiyat, 187'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-140
 sourceId: ganjoor-14910
-titleAz: شمارهٔ ۱۴۰ - در شکایت از روزگار
+titleAz: Qəsidə 140
+titleRu: Касыда 140
 titleFa: شمارهٔ ۱۴۰ - در شکایت از روزگار
+titleEn: Qasida 140
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

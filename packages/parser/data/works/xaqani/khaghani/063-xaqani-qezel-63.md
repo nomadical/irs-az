@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-63
 sourceId: ganjoor-14432
-titleAz: غزل شمارهٔ ۶۳
+titleAz: Qəzəl 63
+titleRu: Газель 63
 titleFa: غزل شمارهٔ ۶۳
+titleEn: Ghazal 63
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

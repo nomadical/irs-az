@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-99
 sourceId: ganjoor-50159
-titleAz: رباعی شمارۀ ۹۹
+titleAz: 'Rübailər, 99'
+titleRu: 'Рубайят, 99'
 titleFa: رباعی شمارۀ ۹۹
+titleEn: 'Rubaiyat, 99'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

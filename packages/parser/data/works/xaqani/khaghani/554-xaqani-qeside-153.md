@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-153
 sourceId: ganjoor-14923
-titleAz: شمارهٔ ۱۵۳ - در شکایت از روزگار و مردم
+titleAz: Qəsidə 153
+titleRu: Касыда 153
 titleFa: شمارهٔ ۱۵۳ - در شکایت از روزگار و مردم
+titleEn: Qasida 153
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

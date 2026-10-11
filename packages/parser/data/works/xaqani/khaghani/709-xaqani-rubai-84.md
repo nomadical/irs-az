@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-84
 sourceId: ganjoor-15079
-titleAz: رباعی شمارهٔ   ۸۴
+titleAz: Rübai 84
+titleRu: Рубаи 84
 titleFa: رباعی شمارهٔ   ۸۴
+titleEn: Rubai 84
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

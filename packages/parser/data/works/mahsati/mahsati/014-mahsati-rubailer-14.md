@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-14
 sourceId: ganjoor-50074
-titleAz: رباعی شمارۀ ۱۴
+titleAz: 'Rübailər, 14'
+titleRu: 'Рубайят, 14'
 titleFa: رباعی شمارۀ ۱۴
+titleEn: 'Rubaiyat, 14'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

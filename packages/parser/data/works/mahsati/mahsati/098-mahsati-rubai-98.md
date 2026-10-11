@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-98
 sourceId: ganjoor-133822
-titleAz: شمارهٔ ۹۸
+titleAz: Rübai 98
+titleRu: Рубаи 98
 titleFa: شمارهٔ ۹۸
+titleEn: Rubai 98
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-34
 sourceId: ganjoor-14403
-titleAz: غزل شمارهٔ ۳۴
+titleAz: Qəzəl 34
+titleRu: Газель 34
 titleFa: غزل شمارهٔ ۳۴
+titleEn: Ghazal 34
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

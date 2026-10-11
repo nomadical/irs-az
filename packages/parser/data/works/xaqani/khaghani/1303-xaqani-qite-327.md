@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-327
 sourceId: ganjoor-27990
-titleAz: شمارهٔ ۳۲۷
+titleAz: Qitə 327
+titleRu: Кыта 327
 titleFa: شمارهٔ ۳۲۷
+titleEn: Qit'a 327
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

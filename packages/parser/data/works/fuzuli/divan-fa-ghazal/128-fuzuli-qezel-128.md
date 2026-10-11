@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-128
 sourceId: ganjoor-116834
-titleAz: شمارهٔ ۱۲۸
+titleAz: Qəzəl 128
+titleRu: Газель 128
 titleFa: شمارهٔ ۱۲۸
+titleEn: Ghazal 128
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

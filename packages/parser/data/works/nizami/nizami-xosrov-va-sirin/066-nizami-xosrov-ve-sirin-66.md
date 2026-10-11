@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-66
 sourceId: ganjoor-8930
-titleAz: بخش ۶۶ - تنها ماندن شیرین و زاری کردن وی
+titleAz: 'Xosrov və Şirin, fəsil 66'
+titleRu: 'Хосров и Ширин, глава 66'
 titleFa: بخش ۶۶ - تنها ماندن شیرین و زاری کردن وی
+titleEn: 'Khosrow and Shirin, chapter 66'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

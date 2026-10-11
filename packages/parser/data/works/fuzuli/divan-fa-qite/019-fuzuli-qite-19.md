@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-19
 sourceId: ganjoor-117136
-titleAz: شمارهٔ ۱۹
+titleAz: Qitə 19
+titleRu: Кыта 19
 titleFa: شمارهٔ ۱۹
+titleEn: Qit'a 19
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-66
 sourceId: ganjoor-27729
-titleAz: شمارهٔ ۶۶
+titleAz: Qitə 66
+titleRu: Кыта 66
 titleFa: شمارهٔ ۶۶
+titleEn: Qit'a 66
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

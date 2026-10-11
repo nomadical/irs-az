@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-308
 sourceId: ganjoor-27971
-titleAz: شمارهٔ ۳۰۸
+titleAz: Qitə 308
+titleRu: Кыта 308
 titleFa: شمارهٔ ۳۰۸
+titleEn: Qit'a 308
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-198
 sourceId: ganjoor-117493
-titleAz: شمارهٔ ۱۹۸
+titleAz: Qəzəl 198
+titleRu: Газель 198
 titleFa: شمارهٔ ۱۹۸
+titleEn: Ghazal 198
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

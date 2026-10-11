@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-265
 sourceId: ganjoor-15260
-titleAz: رباعی شمارهٔ   ۲۶۵
+titleAz: Rübai 265
+titleRu: Рубаи 265
 titleFa: رباعی شمارهٔ   ۲۶۵
+titleEn: Rubai 265
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

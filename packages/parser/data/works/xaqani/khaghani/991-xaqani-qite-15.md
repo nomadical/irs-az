@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-15
 sourceId: ganjoor-27678
-titleAz: شمارهٔ ۱۵
+titleAz: Qitə 15
+titleRu: Кыта 15
 titleFa: شمارهٔ ۱۵
+titleEn: Qit'a 15
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

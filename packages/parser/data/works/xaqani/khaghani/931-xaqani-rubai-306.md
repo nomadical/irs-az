@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-306
 sourceId: ganjoor-15301
-titleAz: رباعی شمارهٔ   ۳۰۶
+titleAz: Rübai 306
+titleRu: Рубаи 306
 titleFa: رباعی شمارهٔ   ۳۰۶
+titleEn: Rubai 306
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

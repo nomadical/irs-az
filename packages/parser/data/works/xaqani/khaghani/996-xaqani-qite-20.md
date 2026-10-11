@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-20
 sourceId: ganjoor-27683
-titleAz: شمارهٔ ۲۰ - در مدح منوچهر شروان شاه برای بستن سد باقلانی
+titleAz: Qitə 20
+titleRu: Кыта 20
 titleFa: شمارهٔ ۲۰ - در مدح منوچهر شروان شاه برای بستن سد باقلانی
+titleEn: Qit'a 20
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

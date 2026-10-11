@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-81
 sourceId: ganjoor-50141
-titleAz: رباعی شمارۀ ۸۱
+titleAz: 'Rübailər, 81'
+titleRu: 'Рубайят, 81'
 titleFa: رباعی شمارۀ ۸۱
+titleEn: 'Rubaiyat, 81'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

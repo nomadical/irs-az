@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-29
 sourceId: ganjoor-15024
-titleAz: رباعی شمارهٔ   ۲۹
+titleAz: Rübai 29
+titleRu: Рубаи 29
 titleFa: رباعی شمارهٔ   ۲۹
+titleEn: Rubai 29
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

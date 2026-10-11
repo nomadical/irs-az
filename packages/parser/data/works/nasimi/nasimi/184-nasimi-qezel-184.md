@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-184
 sourceId: ganjoor-117479
-titleAz: شمارهٔ ۱۸۴
+titleAz: Qəzəl 184
+titleRu: Газель 184
 titleFa: شمارهٔ ۱۸۴
+titleEn: Ghazal 184
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

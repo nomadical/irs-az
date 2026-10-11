@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-13
 sourceId: ganjoor-117130
-titleAz: شمارهٔ ۱۳
+titleAz: Qitə 13
+titleRu: Кыта 13
 titleFa: شمارهٔ ۱۳
+titleEn: Qit'a 13
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

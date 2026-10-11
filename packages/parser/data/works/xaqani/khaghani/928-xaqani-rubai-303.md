@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-303
 sourceId: ganjoor-15298
-titleAz: رباعی شمارهٔ   ۳۰۳
+titleAz: Rübai 303
+titleRu: Рубаи 303
 titleFa: رباعی شمارهٔ   ۳۰۳
+titleEn: Rubai 303
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

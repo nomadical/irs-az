@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-267
 sourceId: ganjoor-15262
-titleAz: رباعی شمارهٔ   ۲۶۷
+titleAz: Rübai 267
+titleRu: Рубаи 267
 titleFa: رباعی شمارهٔ   ۲۶۷
+titleEn: Rubai 267
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

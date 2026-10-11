@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-298
 sourceId: ganjoor-15293
-titleAz: رباعی شمارهٔ   ۲۹۸
+titleAz: Rübai 298
+titleRu: Рубаи 298
 titleFa: رباعی شمارهٔ   ۲۹۸
+titleEn: Rubai 298
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

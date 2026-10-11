@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-236
 sourceId: ganjoor-15231
-titleAz: رباعی شمارهٔ   ۲۳۶
+titleAz: Rübai 236
+titleRu: Рубаи 236
 titleFa: رباعی شمارهٔ   ۲۳۶
+titleEn: Rubai 236
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

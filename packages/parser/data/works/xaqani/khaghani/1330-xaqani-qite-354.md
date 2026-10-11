@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-354
 sourceId: ganjoor-28017
-titleAz: شمارهٔ ۳۵۴
+titleAz: Qitə 354
+titleRu: Кыта 354
 titleFa: شمارهٔ ۳۵۴
+titleEn: Qit'a 354
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

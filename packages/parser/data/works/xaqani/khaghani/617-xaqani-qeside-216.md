@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-216
 sourceId: ganjoor-14986
-titleAz: شمارهٔ ۲۱۶ - مطلع دوم
+titleAz: Qəsidə 216
+titleRu: Касыда 216
 titleFa: شمارهٔ ۲۱۶ - مطلع دوم
+titleEn: Qasida 216
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-6
 sourceId: ganjoor-8870
-titleAz: بخش ۶ - در سابقهٔ نظم کتاب
+titleAz: 'Xosrov və Şirin, fəsil 6'
+titleRu: 'Хосров и Ширин, глава 6'
 titleFa: بخش ۶ - در سابقهٔ نظم کتاب
+titleEn: 'Khosrow and Shirin, chapter 6'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-185
 sourceId: ganjoor-15180
-titleAz: رباعی شمارهٔ   ۱۸۵
+titleAz: Rübai 185
+titleRu: Рубаи 185
 titleFa: رباعی شمارهٔ   ۱۸۵
+titleEn: Rubai 185
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

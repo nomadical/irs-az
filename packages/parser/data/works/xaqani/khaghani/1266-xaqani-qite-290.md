@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-290
 sourceId: ganjoor-27953
-titleAz: شمارهٔ ۲۹۰ - در هجو رشید وطواط
+titleAz: Qitə 290
+titleRu: Кыта 290
 titleFa: شمارهٔ ۲۹۰ - در هجو رشید وطواط
+titleEn: Qit'a 290
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

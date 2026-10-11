@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-364
 sourceId: ganjoor-14733
-titleAz: غزل شمارهٔ ۳۶۴
+titleAz: Qəzəl 364
+titleRu: Газель 364
 titleFa: غزل شمارهٔ ۳۶۴
+titleEn: Ghazal 364
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

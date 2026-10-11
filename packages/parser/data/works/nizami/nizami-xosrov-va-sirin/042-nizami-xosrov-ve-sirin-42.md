@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-42
 sourceId: ganjoor-8906
-titleAz: بخش ۴۲ - به خشم رفتن خسرو از پیش شیرین و رفتن به روم و پیوند او با مریم
+titleAz: 'Xosrov və Şirin, fəsil 42'
+titleRu: 'Хосров и Ширин, глава 42'
 titleFa: بخش ۴۲ - به خشم رفتن خسرو از پیش شیرین و رفتن به روم و پیوند او با مریم
+titleEn: 'Khosrow and Shirin, chapter 42'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

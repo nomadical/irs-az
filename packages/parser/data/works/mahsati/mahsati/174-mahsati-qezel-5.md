@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qezel-5
 sourceId: ganjoor-133899
-titleAz: شمارهٔ ۵
+titleAz: Qəzəl 5
+titleRu: Газель 5
 titleFa: شمارهٔ ۵
+titleEn: Ghazal 5
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

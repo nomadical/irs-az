@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-162
 sourceId: ganjoor-117457
-titleAz: شمارهٔ ۱۶۲
+titleAz: Qəzəl 162
+titleRu: Газель 162
 titleFa: شمارهٔ ۱۶۲
+titleEn: Ghazal 162
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

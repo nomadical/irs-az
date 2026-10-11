@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-89
 sourceId: ganjoor-50149
-titleAz: رباعی شمارۀ ۸۹
+titleAz: 'Rübailər, 89'
+titleRu: 'Рубайят, 89'
 titleFa: رباعی شمارۀ ۸۹
+titleEn: 'Rubaiyat, 89'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

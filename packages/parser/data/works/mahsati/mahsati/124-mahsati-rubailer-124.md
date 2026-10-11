@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-124
 sourceId: ganjoor-50184
-titleAz: رباعی شمارۀ ۱۲۴
+titleAz: 'Rübailər, 124'
+titleRu: 'Рубайят, 124'
 titleFa: رباعی شمارۀ ۱۲۴
+titleEn: 'Rubaiyat, 124'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-14
 sourceId: ganjoor-116720
-titleAz: شمارهٔ ۱۴
+titleAz: Qəzəl 14
+titleRu: Газель 14
 titleFa: شمارهٔ ۱۴
+titleEn: Ghazal 14
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-saqiname-8
 sourceId: ganjoor-117283
-titleAz: بخش ۸ - نشأه جام چهارم
+titleAz: 'Saqinamə, fəsil 8'
+titleRu: 'Саки-наме, глава 8'
 titleFa: بخش ۸ - نشأه جام چهارم
+titleEn: 'Saqi-nama, chapter 8'
 authorSlug: fuzuli
 collectionSlug: saqiname
 originalLang: FA

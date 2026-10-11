@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-63
 sourceId: ganjoor-117666
-titleAz: شمارهٔ ۶۳
+titleAz: Rübai 63
+titleRu: Рубаи 63
 titleFa: شمارهٔ ۶۳
+titleEn: Rubai 63
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

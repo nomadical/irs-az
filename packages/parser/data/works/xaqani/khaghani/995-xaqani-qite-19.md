@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-19
 sourceId: ganjoor-27682
-titleAz: شمارهٔ ۱۹
+titleAz: Qitə 19
+titleRu: Кыта 19
 titleFa: شمارهٔ ۱۹
+titleEn: Qit'a 19
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

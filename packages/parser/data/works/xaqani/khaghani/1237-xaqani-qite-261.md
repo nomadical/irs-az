@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-261
 sourceId: ganjoor-27924
-titleAz: شمارهٔ ۲۶۱ - در مرثیهٔ اهل بیت خود
+titleAz: Qitə 261
+titleRu: Кыта 261
 titleFa: شمارهٔ ۲۶۱ - در مرثیهٔ اهل بیت خود
+titleEn: Qit'a 261
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

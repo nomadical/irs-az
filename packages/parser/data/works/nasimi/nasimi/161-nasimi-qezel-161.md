@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-161
 sourceId: ganjoor-117456
-titleAz: شمارهٔ ۱۶۱
+titleAz: Qəzəl 161
+titleRu: Газель 161
 titleFa: شمارهٔ ۱۶۱
+titleEn: Ghazal 161
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

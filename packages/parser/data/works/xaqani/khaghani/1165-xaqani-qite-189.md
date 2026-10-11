@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-189
 sourceId: ganjoor-27852
-titleAz: شمارهٔ ۱۸۹ - در مرثیهٔ وحید الدین عموی خود
+titleAz: Qitə 189
+titleRu: Кыта 189
 titleFa: شمارهٔ ۱۸۹ - در مرثیهٔ وحید الدین عموی خود
+titleEn: Qit'a 189
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

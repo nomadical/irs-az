@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-295
 sourceId: ganjoor-117001
-titleAz: شمارهٔ ۲۹۵
+titleAz: Qəzəl 295
+titleRu: Газель 295
 titleFa: شمارهٔ ۲۹۵
+titleEn: Ghazal 295
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

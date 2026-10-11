@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-183
 sourceId: ganjoor-14953
-titleAz: شمارهٔ ۱۸۳ - مطلع دوم
+titleAz: Qəsidə 183
+titleRu: Касыда 183
 titleFa: شمارهٔ ۱۸۳ - مطلع دوم
+titleEn: Qasida 183
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-218
 sourceId: ganjoor-27881
-titleAz: شمارهٔ ۲۱۸
+titleAz: Qitə 218
+titleRu: Кыта 218
 titleFa: شمارهٔ ۲۱۸
+titleEn: Qit'a 218
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

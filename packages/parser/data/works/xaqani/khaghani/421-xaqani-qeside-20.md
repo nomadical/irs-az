@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-20
 sourceId: ganjoor-14790
-titleAz: شمارهٔ ۲۰ - مطلع دوم
+titleAz: Qəsidə 20
+titleRu: Касыда 20
 titleFa: شمارهٔ ۲۰ - مطلع دوم
+titleEn: Qasida 20
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

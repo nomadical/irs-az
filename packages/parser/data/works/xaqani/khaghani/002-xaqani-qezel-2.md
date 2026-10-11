@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-2
 sourceId: ganjoor-14371
-titleAz: غزل شمارهٔ ۲
+titleAz: Qəzəl 2
+titleRu: Газель 2
 titleFa: غزل شمارهٔ ۲
+titleEn: Ghazal 2
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

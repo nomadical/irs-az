@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-127
 sourceId: ganjoor-15122
-titleAz: رباعی شمارهٔ   ۱۲۷
+titleAz: Rübai 127
+titleRu: Рубаи 127
 titleFa: رباعی شمارهٔ   ۱۲۷
+titleEn: Rubai 127
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-138
 sourceId: ganjoor-15133
-titleAz: رباعی شمارهٔ   ۱۳۸
+titleAz: Rübai 138
+titleRu: Рубаи 138
 titleFa: رباعی شمارهٔ   ۱۳۸
+titleEn: Rubai 138
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-3
 sourceId: ganjoor-117167
-titleAz: شمارهٔ ۳
+titleAz: Rübai 3
+titleRu: Рубаи 3
 titleFa: شمارهٔ ۳
+titleEn: Rubai 3
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-17
 sourceId: ganjoor-14386
-titleAz: غزل شمارهٔ ۱۷
+titleAz: Qəzəl 17
+titleRu: Газель 17
 titleFa: غزل شمارهٔ ۱۷
+titleEn: Ghazal 17
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

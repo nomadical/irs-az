@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-102
 sourceId: ganjoor-14872
-titleAz: شمارهٔ ۱۰۲ - مطلع سوم
+titleAz: Qəsidə 102
+titleRu: Касыда 102
 titleFa: شمارهٔ ۱۰۲ - مطلع سوم
+titleEn: Qasida 102
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-114
 sourceId: ganjoor-8978
-titleAz: بخش ۱۱۴ - نتیجه افسانه خسرو و شیرین
+titleAz: 'Xosrov və Şirin, fəsil 114'
+titleRu: 'Хосров и Ширин, глава 114'
 titleFa: بخش ۱۱۴ - نتیجه افسانه خسرو و شیرین
+titleEn: 'Khosrow and Shirin, chapter 114'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

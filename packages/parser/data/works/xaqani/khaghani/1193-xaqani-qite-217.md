@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-217
 sourceId: ganjoor-27880
-titleAz: شمارهٔ ۲۱۷
+titleAz: Qitə 217
+titleRu: Кыта 217
 titleFa: شمارهٔ ۲۱۷
+titleEn: Qit'a 217
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

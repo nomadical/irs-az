@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-178
 sourceId: ganjoor-117473
-titleAz: شمارهٔ ۱۷۸
+titleAz: Qəzəl 178
+titleRu: Газель 178
 titleFa: شمارهٔ ۱۷۸
+titleEn: Ghazal 178
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

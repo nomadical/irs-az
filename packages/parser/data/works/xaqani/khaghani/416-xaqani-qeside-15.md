@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-15
 sourceId: ganjoor-14785
-titleAz: شمارهٔ ۱۵ - در ستایش ابوالمظفر جلال الدین شروان شاه
+titleAz: Qəsidə 15
+titleRu: Касыда 15
 titleFa: شمارهٔ ۱۵ - در ستایش ابوالمظفر جلال الدین شروان شاه
+titleEn: Qasida 15
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

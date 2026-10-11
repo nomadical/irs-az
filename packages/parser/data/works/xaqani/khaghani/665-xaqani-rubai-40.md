@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-40
 sourceId: ganjoor-15035
-titleAz: رباعی شمارهٔ   ۴۰
+titleAz: Rübai 40
+titleRu: Рубаи 40
 titleFa: رباعی شمارهٔ   ۴۰
+titleEn: Rubai 40
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

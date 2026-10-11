@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-183
 sourceId: ganjoor-14552
-titleAz: غزل شمارهٔ ۱۸۳
+titleAz: Qəzəl 183
+titleRu: Газель 183
 titleFa: غزل شمارهٔ ۱۸۳
+titleEn: Ghazal 183
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-343
 sourceId: ganjoor-28006
-titleAz: شمارهٔ ۳۴۳
+titleAz: Qitə 343
+titleRu: Кыта 343
 titleFa: شمارهٔ ۳۴۳
+titleEn: Qit'a 343
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

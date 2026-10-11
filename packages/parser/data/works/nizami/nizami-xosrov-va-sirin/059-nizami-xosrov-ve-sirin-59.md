@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-59
 sourceId: ganjoor-8923
-titleAz: بخش ۵۹ - رفتن شیرین به کوه بیستون و مردن اسب وی
+titleAz: 'Xosrov və Şirin, fəsil 59'
+titleRu: 'Хосров и Ширин, глава 59'
 titleFa: بخش ۵۹ - رفتن شیرین به کوه بیستون و مردن اسب وی
+titleEn: 'Khosrow and Shirin, chapter 59'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

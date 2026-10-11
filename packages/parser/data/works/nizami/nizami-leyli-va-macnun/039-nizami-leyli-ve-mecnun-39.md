@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-39
 sourceId: ganjoor-9041
-titleAz: بخش ۳۹ - آگاهی مجنون از وفات مادر
+titleAz: 'Leyli və Məcnun, fəsil 39'
+titleRu: 'Лейли и Меджнун, глава 39'
 titleFa: بخش ۳۹ - آگاهی مجنون از وفات مادر
+titleEn: 'Layla and Majnun, chapter 39'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

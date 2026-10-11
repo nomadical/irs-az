@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-157
 sourceId: ganjoor-15152
-titleAz: رباعی شمارهٔ   ۱۵۷
+titleAz: Rübai 157
+titleRu: Рубаи 157
 titleFa: رباعی شمارهٔ   ۱۵۷
+titleEn: Rubai 157
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

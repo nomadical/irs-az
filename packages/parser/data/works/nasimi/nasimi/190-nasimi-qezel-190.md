@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-190
 sourceId: ganjoor-117485
-titleAz: شمارهٔ ۱۹۰
+titleAz: Qəzəl 190
+titleRu: Газель 190
 titleFa: شمارهٔ ۱۹۰
+titleEn: Ghazal 190
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

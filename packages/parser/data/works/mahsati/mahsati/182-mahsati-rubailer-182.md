@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-182
 sourceId: ganjoor-50242
-titleAz: رباعی شمارۀ ۱۸۲
+titleAz: 'Rübailər, 182'
+titleRu: 'Рубайят, 182'
 titleFa: رباعی شمارۀ ۱۸۲
+titleEn: 'Rubaiyat, 182'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

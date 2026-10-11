@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-360
 sourceId: ganjoor-14729
-titleAz: غزل شمارهٔ ۳۶۰
+titleAz: Qəzəl 360
+titleRu: Газель 360
 titleFa: غزل شمارهٔ ۳۶۰
+titleEn: Ghazal 360
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

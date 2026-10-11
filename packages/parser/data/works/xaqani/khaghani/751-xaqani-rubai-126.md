@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-126
 sourceId: ganjoor-15121
-titleAz: رباعی شمارهٔ   ۱۲۶
+titleAz: Rübai 126
+titleRu: Рубаи 126
 titleFa: رباعی شمارهٔ   ۱۲۶
+titleEn: Rubai 126
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

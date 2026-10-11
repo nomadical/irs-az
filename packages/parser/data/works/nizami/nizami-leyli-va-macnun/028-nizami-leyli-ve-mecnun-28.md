@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-28
 sourceId: ganjoor-9030
-titleAz: بخش ۲۸ - دادن پدر لیلی را به ابن‌سلام
+titleAz: 'Leyli və Məcnun, fəsil 28'
+titleRu: 'Лейли и Меджнун, глава 28'
 titleFa: بخش ۲۸ - دادن پدر لیلی را به ابن‌سلام
+titleEn: 'Layla and Majnun, chapter 28'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

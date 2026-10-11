@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-131
 sourceId: ganjoor-50191
-titleAz: رباعی شمارۀ ۱۳۱
+titleAz: 'Rübailər, 131'
+titleRu: 'Рубайят, 131'
 titleFa: رباعی شمارۀ ۱۳۱
+titleEn: 'Rubaiyat, 131'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

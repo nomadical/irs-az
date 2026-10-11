@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-164
 sourceId: ganjoor-14533
-titleAz: غزل شمارهٔ ۱۶۴
+titleAz: Qəzəl 164
+titleRu: Газель 164
 titleFa: غزل شمارهٔ ۱۶۴
+titleEn: Ghazal 164
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

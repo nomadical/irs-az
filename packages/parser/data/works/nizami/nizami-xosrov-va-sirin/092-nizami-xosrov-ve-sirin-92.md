@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-92
 sourceId: ganjoor-8956
-titleAz: بخش ۹۲ - سوال و جواب خسرو و بزرگ امید
+titleAz: 'Xosrov və Şirin, fəsil 92'
+titleRu: 'Хосров и Ширин, глава 92'
 titleFa: بخش ۹۲ - سوال و جواب خسرو و بزرگ امید
+titleEn: 'Khosrow and Shirin, chapter 92'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

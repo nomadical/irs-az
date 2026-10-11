@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-35
 sourceId: ganjoor-50095
-titleAz: رباعی شمارۀ ۳۵
+titleAz: 'Rübailər, 35'
+titleRu: 'Рубайят, 35'
 titleFa: رباعی شمارۀ ۳۵
+titleEn: 'Rubaiyat, 35'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-221
 sourceId: ganjoor-117516
-titleAz: شمارهٔ ۲۲۱ - نکوهش دزدان لباس روحانیت
+titleAz: Qəzəl 221
+titleRu: Газель 221
 titleFa: شمارهٔ ۲۲۱ - نکوهش دزدان لباس روحانیت
+titleEn: Ghazal 221
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

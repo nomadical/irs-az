@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-229
 sourceId: ganjoor-27892
-titleAz: شمارهٔ ۲۲۹
+titleAz: Qitə 229
+titleRu: Кыта 229
 titleFa: شمارهٔ ۲۲۹
+titleEn: Qit'a 229
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

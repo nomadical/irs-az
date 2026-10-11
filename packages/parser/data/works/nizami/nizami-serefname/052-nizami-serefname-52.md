@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-52
 sourceId: ganjoor-9201
-titleAz: بخش ۵۲ - جنگ چهارم اسکندر با روسیان
+titleAz: 'Şərəfnamə, fəsil 52'
+titleRu: 'Шараф-наме, глава 52'
 titleFa: بخش ۵۲ - جنگ چهارم اسکندر با روسیان
+titleEn: 'Sharafnama, chapter 52'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

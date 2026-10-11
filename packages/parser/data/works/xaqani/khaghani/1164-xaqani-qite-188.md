@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-188
 sourceId: ganjoor-27851
-titleAz: شمارهٔ ۱۸۸
+titleAz: Qitə 188
+titleRu: Кыта 188
 titleFa: شمارهٔ ۱۸۸
+titleEn: Qit'a 188
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

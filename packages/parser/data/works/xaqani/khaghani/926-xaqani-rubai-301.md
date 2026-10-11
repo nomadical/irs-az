@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-301
 sourceId: ganjoor-15296
-titleAz: رباعی شمارهٔ   ۳۰۱
+titleAz: Rübai 301
+titleRu: Рубаи 301
 titleFa: رباعی شمارهٔ   ۳۰۱
+titleEn: Rubai 301
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

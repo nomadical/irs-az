@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-180
 sourceId: ganjoor-14950
-titleAz: شمارهٔ ۱۸۰ - در تغزل و شکایت
+titleAz: Qəsidə 180
+titleRu: Касыда 180
 titleFa: شمارهٔ ۱۸۰ - در تغزل و شکایت
+titleEn: Qasida 180
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

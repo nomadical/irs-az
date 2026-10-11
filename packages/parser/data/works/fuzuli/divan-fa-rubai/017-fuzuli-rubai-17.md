@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-17
 sourceId: ganjoor-117181
-titleAz: شمارهٔ ۱۷
+titleAz: Rübai 17
+titleRu: Рубаи 17
 titleFa: شمارهٔ ۱۷
+titleEn: Rubai 17
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

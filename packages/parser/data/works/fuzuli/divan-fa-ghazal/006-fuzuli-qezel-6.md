@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-6
 sourceId: ganjoor-116712
-titleAz: شمارهٔ ۶
+titleAz: Qəzəl 6
+titleRu: Газель 6
 titleFa: شمارهٔ ۶
+titleEn: Ghazal 6
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

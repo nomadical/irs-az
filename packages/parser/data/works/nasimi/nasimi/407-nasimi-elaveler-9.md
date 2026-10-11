@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-9
 sourceId: ganjoor-117708
-titleAz: شمارهٔ ۹
+titleAz: Əlavə 9
+titleRu: Дополнение 9
 titleFa: شمارهٔ ۹
+titleEn: Addendum 9
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

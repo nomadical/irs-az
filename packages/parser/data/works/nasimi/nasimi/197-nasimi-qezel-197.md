@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-197
 sourceId: ganjoor-117492
-titleAz: شمارهٔ ۱۹۷
+titleAz: Qəzəl 197
+titleRu: Газель 197
 titleFa: شمارهٔ ۱۹۷
+titleEn: Ghazal 197
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

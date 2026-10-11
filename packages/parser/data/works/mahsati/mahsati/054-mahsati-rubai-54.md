@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-54
 sourceId: ganjoor-133778
-titleAz: شمارهٔ ۵۴
+titleAz: Rübai 54
+titleRu: Рубаи 54
 titleFa: شمارهٔ ۵۴
+titleEn: Rubai 54
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

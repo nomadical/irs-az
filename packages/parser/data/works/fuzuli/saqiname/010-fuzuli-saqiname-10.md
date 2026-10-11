@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-saqiname-10
 sourceId: ganjoor-117285
-titleAz: بخش ۱۰ - نشأه جام پنجم
+titleAz: 'Saqinamə, fəsil 10'
+titleRu: 'Саки-наме, глава 10'
 titleFa: بخش ۱۰ - نشأه جام پنجم
+titleEn: 'Saqi-nama, chapter 10'
 authorSlug: fuzuli
 collectionSlug: saqiname
 originalLang: FA

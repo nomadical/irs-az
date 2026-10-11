@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-96
 sourceId: ganjoor-27759
-titleAz: شمارهٔ ۹۶
+titleAz: Qitə 96
+titleRu: Кыта 96
 titleFa: شمارهٔ ۹۶
+titleEn: Qit'a 96
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

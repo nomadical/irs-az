@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-18
 sourceId: ganjoor-117135
-titleAz: شمارهٔ ۱۸
+titleAz: Qitə 18
+titleRu: Кыта 18
 titleFa: شمارهٔ ۱۸
+titleEn: Qit'a 18
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-11
 sourceId: ganjoor-116717
-titleAz: شمارهٔ ۱۱
+titleAz: Qəzəl 11
+titleRu: Газель 11
 titleFa: شمارهٔ ۱۱
+titleEn: Ghazal 11
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-189
 sourceId: ganjoor-117484
-titleAz: شمارهٔ ۱۸۹
+titleAz: Qəzəl 189
+titleRu: Газель 189
 titleFa: شمارهٔ ۱۸۹
+titleEn: Ghazal 189
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

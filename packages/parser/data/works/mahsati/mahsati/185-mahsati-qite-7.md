@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-7
 sourceId: ganjoor-133911
-titleAz: شمارهٔ  ۷ - مناظره ادبی
+titleAz: Qitə 7
+titleRu: Кыта 7
 titleFa: شمارهٔ  ۷ - مناظره ادبی
+titleEn: Qit'a 7
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-228
 sourceId: ganjoor-27891
-titleAz: شمارهٔ ۲۲۸ - این قطعه را ارتجالا ساخته و به دار الخلافهٔ بغداد فرستاده است
+titleAz: Qitə 228
+titleRu: Кыта 228
 titleFa: شمارهٔ ۲۲۸ - این قطعه را ارتجالا ساخته و به دار الخلافهٔ بغداد فرستاده است
+titleEn: Qit'a 228
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

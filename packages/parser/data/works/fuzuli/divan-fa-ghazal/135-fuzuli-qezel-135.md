@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-135
 sourceId: ganjoor-116841
-titleAz: شمارهٔ ۱۳۵
+titleAz: Qəzəl 135
+titleRu: Газель 135
 titleFa: شمارهٔ ۱۳۵
+titleEn: Ghazal 135
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

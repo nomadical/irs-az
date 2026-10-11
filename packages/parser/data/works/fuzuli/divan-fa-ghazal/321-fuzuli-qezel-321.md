@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-321
 sourceId: ganjoor-117027
-titleAz: شمارهٔ ۳۲۱
+titleAz: Qəzəl 321
+titleRu: Газель 321
 titleFa: شمارهٔ ۳۲۱
+titleEn: Ghazal 321
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

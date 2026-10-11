@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-40
 sourceId: ganjoor-14409
-titleAz: غزل شمارهٔ ۴۰
+titleAz: Qəzəl 40
+titleRu: Газель 40
 titleFa: غزل شمارهٔ ۴۰
+titleEn: Ghazal 40
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

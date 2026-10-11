@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-345
 sourceId: ganjoor-117051
-titleAz: شمارهٔ ۳۴۵
+titleAz: Qəzəl 345
+titleRu: Газель 345
 titleFa: شمارهٔ ۳۴۵
+titleEn: Ghazal 345
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

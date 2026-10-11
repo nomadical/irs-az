@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-183
 sourceId: ganjoor-15178
-titleAz: رباعی شمارهٔ   ۱۸۳
+titleAz: Rübai 183
+titleRu: Рубаи 183
 titleFa: رباعی شمارهٔ   ۱۸۳
+titleEn: Rubai 183
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

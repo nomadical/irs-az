@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-88
 sourceId: ganjoor-116794
-titleAz: شمارهٔ ۸۸
+titleAz: Qəzəl 88
+titleRu: Газель 88
 titleFa: شمارهٔ ۸۸
+titleEn: Ghazal 88
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

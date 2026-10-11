@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-45
 sourceId: ganjoor-117340
-titleAz: شمارهٔ ۴۵
+titleAz: Qəzəl 45
+titleRu: Газель 45
 titleFa: شمارهٔ ۴۵
+titleEn: Ghazal 45
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-124
 sourceId: ganjoor-15119
-titleAz: رباعی شمارهٔ   ۱۲۴
+titleAz: Rübai 124
+titleRu: Рубаи 124
 titleFa: رباعی شمارهٔ   ۱۲۴
+titleEn: Rubai 124
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-27
 sourceId: ganjoor-117144
-titleAz: شمارهٔ ۲۷
+titleAz: Qitə 27
+titleRu: Кыта 27
 titleFa: شمارهٔ ۲۷
+titleEn: Qit'a 27
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

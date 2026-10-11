@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-13
 sourceId: ganjoor-9162
-titleAz: بخش ۱۳ - دانش آموختن اسکندر از نقوماجس حکیم‌، پدر ارسطو
+titleAz: 'Şərəfnamə, fəsil 13'
+titleRu: 'Шараф-наме, глава 13'
 titleFa: بخش ۱۳ - دانش آموختن اسکندر از نقوماجس حکیم‌، پدر ارسطو
+titleEn: 'Sharafnama, chapter 13'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

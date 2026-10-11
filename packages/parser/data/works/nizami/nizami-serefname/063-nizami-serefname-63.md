@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-63
 sourceId: ganjoor-9212
-titleAz: بخش ۶۳ - در ستایش اتابک نصرةالدین
+titleAz: 'Şərəfnamə, fəsil 63'
+titleRu: 'Шараф-наме, глава 63'
 titleFa: بخش ۶۳ - در ستایش اتابک نصرةالدین
+titleEn: 'Sharafnama, chapter 63'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

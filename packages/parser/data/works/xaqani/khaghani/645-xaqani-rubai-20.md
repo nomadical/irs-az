@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-20
 sourceId: ganjoor-15015
-titleAz: رباعی شمارهٔ   ۲۰
+titleAz: Rübai 20
+titleRu: Рубаи 20
 titleFa: رباعی شمارهٔ   ۲۰
+titleEn: Rubai 20
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

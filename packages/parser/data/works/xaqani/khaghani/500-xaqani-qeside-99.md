@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-99
 sourceId: ganjoor-14869
-titleAz: شمارهٔ ۹۹ - مطلع دوم
+titleAz: Qəsidə 99
+titleRu: Касыда 99
 titleFa: شمارهٔ ۹۹ - مطلع دوم
+titleEn: Qasida 99
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

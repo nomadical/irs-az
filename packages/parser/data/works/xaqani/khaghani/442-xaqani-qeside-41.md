@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-41
 sourceId: ganjoor-14811
-titleAz: شمارهٔ ۴۱ - قصیده
+titleAz: Qəsidə 41
+titleRu: Касыда 41
 titleFa: شمارهٔ ۴۱ - قصیده
+titleEn: Qasida 41
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

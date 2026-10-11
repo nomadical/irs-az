@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-8
 sourceId: ganjoor-116664
-titleAz: شمارهٔ ۸
+titleAz: Qəsidə 8
+titleRu: Касыда 8
 titleFa: شمارهٔ ۸
+titleEn: Qasida 8
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

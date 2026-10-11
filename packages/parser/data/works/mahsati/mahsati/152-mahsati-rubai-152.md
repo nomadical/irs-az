@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-152
 sourceId: ganjoor-133876
-titleAz: شمارهٔ ۱۵۲
+titleAz: Rübai 152
+titleRu: Рубаи 152
 titleFa: شمارهٔ ۱۵۲
+titleEn: Rubai 152
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

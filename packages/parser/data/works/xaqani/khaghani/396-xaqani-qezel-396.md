@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-396
 sourceId: ganjoor-14765
-titleAz: غزل شمارهٔ ۳۹۶
+titleAz: Qəzəl 396
+titleRu: Газель 396
 titleFa: غزل شمارهٔ ۳۹۶
+titleEn: Ghazal 396
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

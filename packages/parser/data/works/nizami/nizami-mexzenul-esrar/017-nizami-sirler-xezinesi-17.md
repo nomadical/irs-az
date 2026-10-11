@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-17
 sourceId: ganjoor-9279
-titleAz: بخش ۱۷ - ثمره خلوت اول
+titleAz: 'Sirlər xəzinəsi, fəsil 17'
+titleRu: 'Сокровищница тайн, глава 17'
 titleFa: بخش ۱۷ - ثمره خلوت اول
+titleEn: 'The Treasury of Mysteries, chapter 17'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

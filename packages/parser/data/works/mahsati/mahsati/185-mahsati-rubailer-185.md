@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-185
 sourceId: ganjoor-50245
-titleAz: رباعی شمارۀ ۱۸۵
+titleAz: 'Rübailər, 185'
+titleRu: 'Рубайят, 185'
 titleFa: رباعی شمارۀ ۱۸۵
+titleEn: 'Rubaiyat, 185'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

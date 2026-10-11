@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-167
 sourceId: ganjoor-14536
-titleAz: غزل شمارهٔ ۱۶۷
+titleAz: Qəzəl 167
+titleRu: Газель 167
 titleFa: غزل شمارهٔ ۱۶۷
+titleEn: Ghazal 167
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

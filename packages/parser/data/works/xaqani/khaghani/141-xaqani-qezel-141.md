@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-141
 sourceId: ganjoor-14510
-titleAz: غزل شمارهٔ ۱۴۱
+titleAz: Qəzəl 141
+titleRu: Газель 141
 titleFa: غزل شمارهٔ ۱۴۱
+titleEn: Ghazal 141
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-33
 sourceId: ganjoor-116689
-titleAz: شمارهٔ ۳۳
+titleAz: Qəsidə 33
+titleRu: Касыда 33
 titleFa: شمارهٔ ۳۳
+titleEn: Qasida 33
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

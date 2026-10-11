@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-28
 sourceId: ganjoor-14798
-titleAz: شمارهٔ ۲۸ - در مدح عموی خود کافی الدین شروانی
+titleAz: Qəsidə 28
+titleRu: Касыда 28
 titleFa: شمارهٔ ۲۸ - در مدح عموی خود کافی الدین شروانی
+titleEn: Qasida 28
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

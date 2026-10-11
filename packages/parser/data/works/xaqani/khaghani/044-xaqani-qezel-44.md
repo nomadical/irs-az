@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-44
 sourceId: ganjoor-14413
-titleAz: غزل شمارهٔ ۴۴
+titleAz: Qəzəl 44
+titleRu: Газель 44
 titleFa: غزل شمارهٔ ۴۴
+titleEn: Ghazal 44
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

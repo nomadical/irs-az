@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-64
 sourceId: ganjoor-116770
-titleAz: شمارهٔ ۶۴
+titleAz: Qəzəl 64
+titleRu: Газель 64
 titleFa: شمارهٔ ۶۴
+titleEn: Ghazal 64
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-112
 sourceId: ganjoor-27775
-titleAz: شمارهٔ ۱۱۲
+titleAz: Qitə 112
+titleRu: Кыта 112
 titleFa: شمارهٔ ۱۱۲
+titleEn: Qit'a 112
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

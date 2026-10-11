@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-57
 sourceId: ganjoor-117352
-titleAz: شمارهٔ ۵۷
+titleAz: Qəzəl 57
+titleRu: Газель 57
 titleFa: شمارهٔ ۵۷
+titleEn: Ghazal 57
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

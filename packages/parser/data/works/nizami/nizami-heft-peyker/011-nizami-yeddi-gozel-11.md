@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-11
 sourceId: ganjoor-9059
-titleAz: بخش ۱۱ - شکار کردن بهرام و داغ کردن گوران
+titleAz: 'Yeddi gözəl, fəsil 11'
+titleRu: 'Семь красавиц, глава 11'
 titleFa: بخش ۱۱ - شکار کردن بهرام و داغ کردن گوران
+titleEn: 'The Seven Beauties, chapter 11'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

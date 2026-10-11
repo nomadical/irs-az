@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-56
 sourceId: ganjoor-14425
-titleAz: غزل شمارهٔ ۵۶
+titleAz: Qəzəl 56
+titleRu: Газель 56
 titleFa: غزل شمارهٔ ۵۶
+titleEn: Ghazal 56
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-mesnevi-1
 sourceId: ganjoor-117598
-titleAz: شمارهٔ ۱
+titleAz: Məsnəvi 1
+titleRu: Маснави 1
 titleFa: شمارهٔ ۱
+titleEn: Masnavi 1
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

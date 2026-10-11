@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-208
 sourceId: ganjoor-15203
-titleAz: رباعی شمارهٔ   ۲۰۸
+titleAz: Rübai 208
+titleRu: Рубаи 208
 titleFa: رباعی شمارهٔ   ۲۰۸
+titleEn: Rubai 208
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

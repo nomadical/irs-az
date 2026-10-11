@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-292
 sourceId: ganjoor-116998
-titleAz: شمارهٔ ۲۹۲
+titleAz: Qəzəl 292
+titleRu: Газель 292
 titleFa: شمارهٔ ۲۹۲
+titleEn: Ghazal 292
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

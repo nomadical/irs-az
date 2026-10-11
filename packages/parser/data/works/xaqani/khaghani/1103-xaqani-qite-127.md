@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-127
 sourceId: ganjoor-27790
-titleAz: شمارهٔ ۱۲۷ - در مرثیهٔ امیر رشید الدین اسد شروانی
+titleAz: Qitə 127
+titleRu: Кыта 127
 titleFa: شمارهٔ ۱۲۷ - در مرثیهٔ امیر رشید الدین اسد شروانی
+titleEn: Qit'a 127
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

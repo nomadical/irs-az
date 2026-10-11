@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-163
 sourceId: ganjoor-14532
-titleAz: غزل شمارهٔ ۱۶۳
+titleAz: Qəzəl 163
+titleRu: Газель 163
 titleFa: غزل شمارهٔ ۱۶۳
+titleEn: Ghazal 163
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

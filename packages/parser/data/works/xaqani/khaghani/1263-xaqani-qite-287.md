@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-287
 sourceId: ganjoor-27950
-titleAz: شمارهٔ ۲۸۷
+titleAz: Qitə 287
+titleRu: Кыта 287
 titleFa: شمارهٔ ۲۸۷
+titleEn: Qit'a 287
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

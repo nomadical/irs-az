@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-85
 sourceId: ganjoor-27748
-titleAz: شمارهٔ ۸۵
+titleAz: Qitə 85
+titleRu: Кыта 85
 titleFa: شمارهٔ ۸۵
+titleEn: Qit'a 85
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

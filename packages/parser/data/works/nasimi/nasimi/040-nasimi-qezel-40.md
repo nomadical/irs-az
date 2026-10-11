@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-40
 sourceId: ganjoor-117335
-titleAz: شمارهٔ ۴۰
+titleAz: Qəzəl 40
+titleRu: Газель 40
 titleFa: شمارهٔ ۴۰
+titleEn: Ghazal 40
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

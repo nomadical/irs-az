@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-93
 sourceId: ganjoor-133817
-titleAz: شمارهٔ ۹۳
+titleAz: Rübai 93
+titleRu: Рубаи 93
 titleFa: شمارهٔ ۹۳
+titleEn: Rubai 93
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

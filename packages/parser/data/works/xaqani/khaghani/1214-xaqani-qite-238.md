@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-238
 sourceId: ganjoor-27901
-titleAz: شمارهٔ ۲۳۸
+titleAz: Qitə 238
+titleRu: Кыта 238
 titleFa: شمارهٔ ۲۳۸
+titleEn: Qit'a 238
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

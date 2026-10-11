@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-64
 sourceId: ganjoor-133788
-titleAz: شمارهٔ ۶۴
+titleAz: Rübai 64
+titleRu: Рубаи 64
 titleFa: شمارهٔ ۶۴
+titleEn: Rubai 64
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

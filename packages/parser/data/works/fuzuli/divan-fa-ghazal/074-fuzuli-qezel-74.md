@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-74
 sourceId: ganjoor-116780
-titleAz: شمارهٔ ۷۴
+titleAz: Qəzəl 74
+titleRu: Газель 74
 titleFa: شمارهٔ ۷۴
+titleEn: Ghazal 74
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

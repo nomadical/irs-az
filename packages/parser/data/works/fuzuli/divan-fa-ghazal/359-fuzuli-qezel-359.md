@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-359
 sourceId: ganjoor-117065
-titleAz: شمارهٔ ۳۵۹
+titleAz: Qəzəl 359
+titleRu: Газель 359
 titleFa: شمارهٔ ۳۵۹
+titleEn: Ghazal 359
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

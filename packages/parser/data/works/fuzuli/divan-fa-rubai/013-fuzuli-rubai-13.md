@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-13
 sourceId: ganjoor-117177
-titleAz: شمارهٔ ۱۳
+titleAz: Rübai 13
+titleRu: Рубаи 13
 titleFa: شمارهٔ ۱۳
+titleEn: Rubai 13
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

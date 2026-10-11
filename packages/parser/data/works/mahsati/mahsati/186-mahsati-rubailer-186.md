@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-186
 sourceId: ganjoor-50246
-titleAz: رباعی شمارۀ ۱۸۶
+titleAz: 'Rübailər, 186'
+titleRu: 'Рубайят, 186'
 titleFa: رباعی شمارۀ ۱۸۶
+titleEn: 'Rubaiyat, 186'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

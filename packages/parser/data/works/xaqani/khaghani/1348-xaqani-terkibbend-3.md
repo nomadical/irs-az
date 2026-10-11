@@ -1,8 +1,10 @@
 ---
 slug: xaqani-terkibbend-3
 sourceId: ganjoor-15485
-titleAz: شمارهٔ ۳ - در مدح رکن‌الدین ارسلان شاه بن طغرل
+titleAz: Tərkibbənd 3
+titleRu: Таркиббанд 3
 titleFa: شمارهٔ ۳ - در مدح رکن‌الدین ارسلان شاه بن طغرل
+titleEn: Tarkib-band 3
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-240
 sourceId: ganjoor-117535
-titleAz: شمارهٔ ۲۴۰
+titleAz: Qəzəl 240
+titleRu: Газель 240
 titleFa: شمارهٔ ۲۴۰
+titleEn: Ghazal 240
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

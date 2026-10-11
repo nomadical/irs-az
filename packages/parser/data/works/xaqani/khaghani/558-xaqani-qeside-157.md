@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-157
 sourceId: ganjoor-14927
-titleAz: شمارهٔ ۱۵۷ - در موعظه و گوشه‌گیری
+titleAz: Qəsidə 157
+titleRu: Касыда 157
 titleFa: شمارهٔ ۱۵۷ - در موعظه و گوشه‌گیری
+titleEn: Qasida 157
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

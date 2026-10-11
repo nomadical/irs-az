@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-104
 sourceId: ganjoor-14874
-titleAz: شمارهٔ ۱۰۴ - مطلع پنجم
+titleAz: Qəsidə 104
+titleRu: Касыда 104
 titleFa: شمارهٔ ۱۰۴ - مطلع پنجم
+titleEn: Qasida 104
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-264
 sourceId: ganjoor-27927
-titleAz: شمارهٔ ۲۶۴
+titleAz: Qitə 264
+titleRu: Кыта 264
 titleFa: شمارهٔ ۲۶۴
+titleEn: Qit'a 264
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

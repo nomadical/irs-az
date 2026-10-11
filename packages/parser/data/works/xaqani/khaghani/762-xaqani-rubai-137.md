@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-137
 sourceId: ganjoor-15132
-titleAz: رباعی شمارهٔ   ۱۳۷
+titleAz: Rübai 137
+titleRu: Рубаи 137
 titleFa: رباعی شمارهٔ   ۱۳۷
+titleEn: Rubai 137
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

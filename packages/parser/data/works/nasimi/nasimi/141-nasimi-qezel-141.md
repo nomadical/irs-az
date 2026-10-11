@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-141
 sourceId: ganjoor-117436
-titleAz: شمارهٔ ۱۴۱
+titleAz: Qəzəl 141
+titleRu: Газель 141
 titleFa: شمارهٔ ۱۴۱
+titleEn: Ghazal 141
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

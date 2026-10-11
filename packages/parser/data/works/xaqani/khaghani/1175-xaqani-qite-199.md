@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-199
 sourceId: ganjoor-27862
-titleAz: شمارهٔ ۱۹۹
+titleAz: Qitə 199
+titleRu: Кыта 199
 titleFa: شمارهٔ ۱۹۹
+titleEn: Qit'a 199
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-224
 sourceId: ganjoor-27887
-titleAz: شمارهٔ ۲۲۴ - در هجو رشید الدین وطواط
+titleAz: Qitə 224
+titleRu: Кыта 224
 titleFa: شمارهٔ ۲۲۴ - در هجو رشید الدین وطواط
+titleEn: Qit'a 224
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

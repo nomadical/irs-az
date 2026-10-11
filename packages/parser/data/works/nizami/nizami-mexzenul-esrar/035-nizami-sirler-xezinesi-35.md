@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-35
 sourceId: ganjoor-9297
-titleAz: بخش ۳۵ - داستان میوه فروش و روباه
+titleAz: 'Sirlər xəzinəsi, fəsil 35'
+titleRu: 'Сокровищница тайн, глава 35'
 titleFa: بخش ۳۵ - داستان میوه فروش و روباه
+titleEn: 'The Treasury of Mysteries, chapter 35'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

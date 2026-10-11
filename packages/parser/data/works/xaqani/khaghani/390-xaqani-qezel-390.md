@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-390
 sourceId: ganjoor-14759
-titleAz: غزل شمارهٔ ۳۹۰
+titleAz: Qəzəl 390
+titleRu: Газель 390
 titleFa: غزل شمارهٔ ۳۹۰
+titleEn: Ghazal 390
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

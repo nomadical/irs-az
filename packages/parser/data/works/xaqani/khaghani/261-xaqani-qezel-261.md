@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-261
 sourceId: ganjoor-14630
-titleAz: غزل شمارهٔ ۲۶۱
+titleAz: Qəzəl 261
+titleRu: Газель 261
 titleFa: غزل شمارهٔ ۲۶۱
+titleEn: Ghazal 261
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

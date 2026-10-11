@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-342
 sourceId: ganjoor-28005
-titleAz: شمارهٔ ۳۴۲
+titleAz: Qitə 342
+titleRu: Кыта 342
 titleFa: شمارهٔ ۳۴۲
+titleEn: Qit'a 342
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

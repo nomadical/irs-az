@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-36
 sourceId: ganjoor-117200
-titleAz: شمارهٔ ۳۶
+titleAz: Rübai 36
+titleRu: Рубаи 36
 titleFa: شمارهٔ ۳۶
+titleEn: Rubai 36
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

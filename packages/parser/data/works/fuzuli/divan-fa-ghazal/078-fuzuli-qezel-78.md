@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-78
 sourceId: ganjoor-116784
-titleAz: شمارهٔ ۷۸
+titleAz: Qəzəl 78
+titleRu: Газель 78
 titleFa: شمارهٔ ۷۸
+titleEn: Ghazal 78
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

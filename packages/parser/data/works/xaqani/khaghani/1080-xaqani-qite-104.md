@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-104
 sourceId: ganjoor-27767
-titleAz: شمارهٔ ۱۰۴ - در دعای مادر
+titleAz: Qitə 104
+titleRu: Кыта 104
 titleFa: شمارهٔ ۱۰۴ - در دعای مادر
+titleEn: Qit'a 104
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

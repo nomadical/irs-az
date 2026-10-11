@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-83
 sourceId: ganjoor-8947
-titleAz: بخش ۸۳ - سرود گفتن باربد از زبان خسرو
+titleAz: 'Xosrov və Şirin, fəsil 83'
+titleRu: 'Хосров и Ширин, глава 83'
 titleFa: بخش ۸۳ - سرود گفتن باربد از زبان خسرو
+titleEn: 'Khosrow and Shirin, chapter 83'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

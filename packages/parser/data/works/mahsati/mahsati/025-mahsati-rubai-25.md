@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-25
 sourceId: ganjoor-133749
-titleAz: شمارهٔ ۲۵
+titleAz: Rübai 25
+titleRu: Рубаи 25
 titleFa: شمارهٔ ۲۵
+titleEn: Rubai 25
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

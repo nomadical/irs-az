@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-73
 sourceId: ganjoor-27736
-titleAz: شمارهٔ ۷۳
+titleAz: Qitə 73
+titleRu: Кыта 73
 titleFa: شمارهٔ ۷۳
+titleEn: Qit'a 73
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

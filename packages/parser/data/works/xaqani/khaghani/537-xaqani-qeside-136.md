@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-136
 sourceId: ganjoor-14906
-titleAz: شمارهٔ ۱۳۶ - در رثاء خانوادهٔ خود
+titleAz: Qəsidə 136
+titleRu: Касыда 136
 titleFa: شمارهٔ ۱۳۶ - در رثاء خانوادهٔ خود
+titleEn: Qasida 136
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

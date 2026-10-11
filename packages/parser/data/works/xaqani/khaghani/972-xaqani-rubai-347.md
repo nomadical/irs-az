@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-347
 sourceId: ganjoor-15342
-titleAz: رباعی شمارهٔ   ۳۴۷
+titleAz: Rübai 347
+titleRu: Рубаи 347
 titleFa: رباعی شمارهٔ   ۳۴۷
+titleEn: Rubai 347
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

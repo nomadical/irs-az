@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-264
 sourceId: ganjoor-116970
-titleAz: شمارهٔ ۲۶۴
+titleAz: Qəzəl 264
+titleRu: Газель 264
 titleFa: شمارهٔ ۲۶۴
+titleEn: Ghazal 264
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-82
 sourceId: ganjoor-116788
-titleAz: شمارهٔ ۸۲
+titleAz: Qəzəl 82
+titleRu: Газель 82
 titleFa: شمارهٔ ۸۲
+titleEn: Ghazal 82
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

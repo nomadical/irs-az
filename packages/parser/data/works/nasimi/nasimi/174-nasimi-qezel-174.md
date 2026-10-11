@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-174
 sourceId: ganjoor-117469
-titleAz: شمارهٔ ۱۷۴
+titleAz: Qəzəl 174
+titleRu: Газель 174
 titleFa: شمارهٔ ۱۷۴
+titleEn: Ghazal 174
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

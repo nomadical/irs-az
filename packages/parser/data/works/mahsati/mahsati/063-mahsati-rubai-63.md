@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-63
 sourceId: ganjoor-133787
-titleAz: شمارهٔ ۶۳
+titleAz: Rübai 63
+titleRu: Рубаи 63
 titleFa: شمارهٔ ۶۳
+titleEn: Rubai 63
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-165
 sourceId: ganjoor-14534
-titleAz: غزل شمارهٔ ۱۶۵
+titleAz: Qəzəl 165
+titleRu: Газель 165
 titleFa: غزل شمارهٔ ۱۶۵
+titleEn: Ghazal 165
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

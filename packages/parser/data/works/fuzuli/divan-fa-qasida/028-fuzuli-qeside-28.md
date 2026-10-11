@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-28
 sourceId: ganjoor-116684
-titleAz: شمارهٔ ۲۸
+titleAz: Qəsidə 28
+titleRu: Касыда 28
 titleFa: شمارهٔ ۲۸
+titleEn: Qasida 28
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

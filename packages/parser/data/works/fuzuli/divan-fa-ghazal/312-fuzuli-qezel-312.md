@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-312
 sourceId: ganjoor-117018
-titleAz: شمارهٔ ۳۱۲
+titleAz: Qəzəl 312
+titleRu: Газель 312
 titleFa: شمارهٔ ۳۱۲
+titleEn: Ghazal 312
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

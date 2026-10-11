@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-271
 sourceId: ganjoor-14640
-titleAz: غزل شمارهٔ ۲۷۱
+titleAz: Qəzəl 271
+titleRu: Газель 271
 titleFa: غزل شمارهٔ ۲۷۱
+titleEn: Ghazal 271
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

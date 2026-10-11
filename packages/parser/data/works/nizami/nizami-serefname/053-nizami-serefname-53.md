@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-53
 sourceId: ganjoor-9202
-titleAz: بخش ۵۳ - جنگ پنجم اسکندر باروسیان
+titleAz: 'Şərəfnamə, fəsil 53'
+titleRu: 'Шараф-наме, глава 53'
 titleFa: بخش ۵۳ - جنگ پنجم اسکندر باروسیان
+titleEn: 'Sharafnama, chapter 53'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

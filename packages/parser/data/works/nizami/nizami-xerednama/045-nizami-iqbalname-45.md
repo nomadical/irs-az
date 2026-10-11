@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-45
 sourceId: ganjoor-9257
-titleAz: بخش ۴۵ - انجامش روزگار بلیناس
+titleAz: 'İqbalnamə, fəsil 45'
+titleRu: 'Икбал-наме, глава 45'
 titleFa: بخش ۴۵ - انجامش روزگار بلیناس
+titleEn: 'Iqbalnama, chapter 45'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

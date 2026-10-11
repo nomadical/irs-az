@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-226
 sourceId: ganjoor-117521
-titleAz: شمارهٔ ۲۲۶
+titleAz: Qəzəl 226
+titleRu: Газель 226
 titleFa: شمارهٔ ۲۲۶
+titleEn: Ghazal 226
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

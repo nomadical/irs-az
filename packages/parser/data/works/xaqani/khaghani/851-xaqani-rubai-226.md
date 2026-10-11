@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-226
 sourceId: ganjoor-15221
-titleAz: رباعی شمارهٔ   ۲۲۶
+titleAz: Rübai 226
+titleRu: Рубаи 226
 titleFa: رباعی شمارهٔ   ۲۲۶
+titleEn: Rubai 226
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

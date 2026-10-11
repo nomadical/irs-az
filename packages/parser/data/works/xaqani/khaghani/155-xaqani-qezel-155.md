@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-155
 sourceId: ganjoor-14524
-titleAz: غزل شمارهٔ ۱۵۵
+titleAz: Qəzəl 155
+titleRu: Газель 155
 titleFa: غزل شمارهٔ ۱۵۵
+titleEn: Ghazal 155
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

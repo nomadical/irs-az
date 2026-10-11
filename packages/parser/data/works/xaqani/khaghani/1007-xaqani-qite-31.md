@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-31
 sourceId: ganjoor-27694
-titleAz: شمارهٔ ۳۱ - در نکوهش حسودان
+titleAz: Qitə 31
+titleRu: Кыта 31
 titleFa: شمارهٔ ۳۱ - در نکوهش حسودان
+titleEn: Qit'a 31
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

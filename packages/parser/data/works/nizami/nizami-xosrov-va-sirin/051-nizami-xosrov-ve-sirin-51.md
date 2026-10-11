@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-51
 sourceId: ganjoor-8915
-titleAz: بخش ۵۱ - شفاعت کردن خسرو پیش مریم از شیرین
+titleAz: 'Xosrov və Şirin, fəsil 51'
+titleRu: 'Хосров и Ширин, глава 51'
 titleFa: بخش ۵۱ - شفاعت کردن خسرو پیش مریم از شیرین
+titleEn: 'Khosrow and Shirin, chapter 51'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

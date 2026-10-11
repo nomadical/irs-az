@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-132
 sourceId: ganjoor-117427
-titleAz: شمارهٔ ۱۳۲
+titleAz: Qəzəl 132
+titleRu: Газель 132
 titleFa: شمارهٔ ۱۳۲
+titleEn: Ghazal 132
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

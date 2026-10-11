@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-26
 sourceId: ganjoor-116682
-titleAz: شمارهٔ ۲۶
+titleAz: Qəsidə 26
+titleRu: Касыда 26
 titleFa: شمارهٔ ۲۶
+titleEn: Qasida 26
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

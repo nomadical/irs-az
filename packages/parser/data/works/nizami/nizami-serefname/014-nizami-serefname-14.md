@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-14
 sourceId: ganjoor-9163
-titleAz: بخش ۱۴ - پادشاهی اسکندر به جای پدر
+titleAz: 'Şərəfnamə, fəsil 14'
+titleRu: 'Шараф-наме, глава 14'
 titleFa: بخش ۱۴ - پادشاهی اسکندر به جای پدر
+titleEn: 'Sharafnama, chapter 14'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

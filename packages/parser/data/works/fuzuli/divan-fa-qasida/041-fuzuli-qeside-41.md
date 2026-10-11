@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-41
 sourceId: ganjoor-116697
-titleAz: شمارهٔ ۴۱
+titleAz: Qəsidə 41
+titleRu: Касыда 41
 titleFa: شمارهٔ ۴۱
+titleEn: Qasida 41
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

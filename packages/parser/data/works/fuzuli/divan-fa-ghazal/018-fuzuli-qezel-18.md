@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-18
 sourceId: ganjoor-116724
-titleAz: شمارهٔ ۱۸
+titleAz: Qəzəl 18
+titleRu: Газель 18
 titleFa: شمارهٔ ۱۸
+titleEn: Ghazal 18
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

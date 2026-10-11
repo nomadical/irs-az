@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-12
 sourceId: ganjoor-117711
-titleAz: شمارهٔ ۱۲
+titleAz: Əlavə 12
+titleRu: Дополнение 12
 titleFa: شمارهٔ ۱۲
+titleEn: Addendum 12
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

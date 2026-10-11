@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-38
 sourceId: ganjoor-133762
-titleAz: شمارهٔ ۳۸
+titleAz: Rübai 38
+titleRu: Рубаи 38
 titleFa: شمارهٔ ۳۸
+titleEn: Rubai 38
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

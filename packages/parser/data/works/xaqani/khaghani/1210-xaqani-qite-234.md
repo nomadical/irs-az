@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-234
 sourceId: ganjoor-27897
-titleAz: شمارهٔ ۲۳۴
+titleAz: Qitə 234
+titleRu: Кыта 234
 titleFa: شمارهٔ ۲۳۴
+titleEn: Qit'a 234
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

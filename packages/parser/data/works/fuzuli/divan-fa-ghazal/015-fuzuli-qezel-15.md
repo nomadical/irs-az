@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-15
 sourceId: ganjoor-116721
-titleAz: شمارهٔ ۱۵
+titleAz: Qəzəl 15
+titleRu: Газель 15
 titleFa: شمارهٔ ۱۵
+titleEn: Ghazal 15
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

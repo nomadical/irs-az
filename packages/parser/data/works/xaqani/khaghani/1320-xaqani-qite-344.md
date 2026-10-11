@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-344
 sourceId: ganjoor-28007
-titleAz: شمارهٔ ۳۴۴
+titleAz: Qitə 344
+titleRu: Кыта 344
 titleFa: شمارهٔ ۳۴۴
+titleEn: Qit'a 344
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-29
 sourceId: ganjoor-117632
-titleAz: شمارهٔ ۲۹
+titleAz: Rübai 29
+titleRu: Рубаи 29
 titleFa: شمارهٔ ۲۹
+titleEn: Rubai 29
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

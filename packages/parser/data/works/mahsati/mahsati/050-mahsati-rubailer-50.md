@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-50
 sourceId: ganjoor-50110
-titleAz: رباعی شمارۀ ۵۰
+titleAz: 'Rübailər, 50'
+titleRu: 'Рубайят, 50'
 titleFa: رباعی شمارۀ ۵۰
+titleEn: 'Rubaiyat, 50'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

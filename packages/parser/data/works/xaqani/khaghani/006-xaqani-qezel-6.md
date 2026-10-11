@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-6
 sourceId: ganjoor-14375
-titleAz: غزل شمارهٔ ۶
+titleAz: Qəzəl 6
+titleRu: Газель 6
 titleFa: غزل شمارهٔ ۶
+titleEn: Ghazal 6
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

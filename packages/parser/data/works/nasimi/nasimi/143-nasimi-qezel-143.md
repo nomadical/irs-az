@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-143
 sourceId: ganjoor-117438
-titleAz: شمارهٔ ۱۴۳
+titleAz: Qəzəl 143
+titleRu: Газель 143
 titleFa: شمارهٔ ۱۴۳
+titleEn: Ghazal 143
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

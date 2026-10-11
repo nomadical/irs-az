@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-46
 sourceId: ganjoor-9048
-titleAz: بخش ۴۶ - ختم کتاب به نام شروان‌شاه
+titleAz: 'Leyli və Məcnun, fəsil 46'
+titleRu: 'Лейли и Меджнун, глава 46'
 titleFa: بخش ۴۶ - ختم کتاب به نام شروان‌شاه
+titleEn: 'Layla and Majnun, chapter 46'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

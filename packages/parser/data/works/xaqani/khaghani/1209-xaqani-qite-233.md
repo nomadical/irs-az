@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-233
 sourceId: ganjoor-27896
-titleAz: شمارهٔ ۲۳۳
+titleAz: Qitə 233
+titleRu: Кыта 233
 titleFa: شمارهٔ ۲۳۳
+titleEn: Qit'a 233
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

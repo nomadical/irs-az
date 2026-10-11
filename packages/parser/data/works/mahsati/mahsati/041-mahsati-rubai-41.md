@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-41
 sourceId: ganjoor-133765
-titleAz: شمارهٔ ۴۱
+titleAz: Rübai 41
+titleRu: Рубаи 41
 titleFa: شمارهٔ ۴۱
+titleEn: Rubai 41
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

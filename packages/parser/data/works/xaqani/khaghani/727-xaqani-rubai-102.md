@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-102
 sourceId: ganjoor-15097
-titleAz: رباعی شمارهٔ   ۱۰۲
+titleAz: Rübai 102
+titleRu: Рубаи 102
 titleFa: رباعی شمارهٔ   ۱۰۲
+titleEn: Rubai 102
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-242
 sourceId: ganjoor-116948
-titleAz: شمارهٔ ۲۴۲
+titleAz: Qəzəl 242
+titleRu: Газель 242
 titleFa: شمارهٔ ۲۴۲
+titleEn: Ghazal 242
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

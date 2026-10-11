@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-102
 sourceId: ganjoor-50162
-titleAz: رباعی شمارۀ ۱۰۲
+titleAz: 'Rübailər, 102'
+titleRu: 'Рубайят, 102'
 titleFa: رباعی شمارۀ ۱۰۲
+titleEn: 'Rubaiyat, 102'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

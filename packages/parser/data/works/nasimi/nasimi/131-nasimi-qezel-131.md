@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-131
 sourceId: ganjoor-117426
-titleAz: شمارهٔ ۱۳۱
+titleAz: Qəzəl 131
+titleRu: Газель 131
 titleFa: شمارهٔ ۱۳۱
+titleEn: Ghazal 131
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

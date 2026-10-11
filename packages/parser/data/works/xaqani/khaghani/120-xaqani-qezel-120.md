@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-120
 sourceId: ganjoor-14489
-titleAz: غزل شمارهٔ ۱۲۰
+titleAz: Qəzəl 120
+titleRu: Газель 120
 titleFa: غزل شمارهٔ ۱۲۰
+titleEn: Ghazal 120
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

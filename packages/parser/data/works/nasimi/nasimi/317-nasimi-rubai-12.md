@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-12
 sourceId: ganjoor-117615
-titleAz: شمارهٔ ۱۲
+titleAz: Rübai 12
+titleRu: Рубаи 12
 titleFa: شمارهٔ ۱۲
+titleEn: Rubai 12
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

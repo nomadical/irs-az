@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-33
 sourceId: ganjoor-9245
-titleAz: بخش ۳۳ - جهانگردی اسکندر با دعوی پیغمبری
+titleAz: 'İqbalnamə, fəsil 33'
+titleRu: 'Икбал-наме, глава 33'
 titleFa: بخش ۳۳ - جهانگردی اسکندر با دعوی پیغمبری
+titleEn: 'Iqbalnama, chapter 33'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

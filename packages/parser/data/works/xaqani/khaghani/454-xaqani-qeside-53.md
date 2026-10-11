@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-53
 sourceId: ganjoor-14823
-titleAz: شمارهٔ ۵۳ - قصیده
+titleAz: Qəsidə 53
+titleRu: Касыда 53
 titleFa: شمارهٔ ۵۳ - قصیده
+titleEn: Qasida 53
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

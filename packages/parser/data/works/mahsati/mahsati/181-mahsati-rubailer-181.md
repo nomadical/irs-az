@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-181
 sourceId: ganjoor-50241
-titleAz: رباعی شمارۀ ۱۸۱
+titleAz: 'Rübailər, 181'
+titleRu: 'Рубайят, 181'
 titleFa: رباعی شمارۀ ۱۸۱
+titleEn: 'Rubaiyat, 181'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

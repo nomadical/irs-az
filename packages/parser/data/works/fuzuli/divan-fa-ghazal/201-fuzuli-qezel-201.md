@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-201
 sourceId: ganjoor-116907
-titleAz: شمارهٔ ۲۰۱
+titleAz: Qəzəl 201
+titleRu: Газель 201
 titleFa: شمارهٔ ۲۰۱
+titleEn: Ghazal 201
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

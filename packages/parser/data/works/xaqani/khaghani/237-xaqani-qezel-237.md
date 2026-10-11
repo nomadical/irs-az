@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-237
 sourceId: ganjoor-14606
-titleAz: غزل شمارهٔ ۲۳۷
+titleAz: Qəzəl 237
+titleRu: Газель 237
 titleFa: غزل شمارهٔ ۲۳۷
+titleEn: Ghazal 237
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

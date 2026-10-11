@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-11
 sourceId: ganjoor-117306
-titleAz: شمارهٔ ۱۱
+titleAz: Qəzəl 11
+titleRu: Газель 11
 titleFa: شمارهٔ ۱۱
+titleEn: Ghazal 11
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

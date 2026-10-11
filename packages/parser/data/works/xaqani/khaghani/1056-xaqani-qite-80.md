@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-80
 sourceId: ganjoor-27743
-titleAz: شمارهٔ ۸۰
+titleAz: Qitə 80
+titleRu: Кыта 80
 titleFa: شمارهٔ ۸۰
+titleEn: Qit'a 80
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

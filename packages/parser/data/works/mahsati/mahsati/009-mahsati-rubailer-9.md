@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-9
 sourceId: ganjoor-50069
-titleAz: رباعی شمارۀ ۹
+titleAz: 'Rübailər, 9'
+titleRu: 'Рубайят, 9'
 titleFa: رباعی شمارۀ ۹
+titleEn: 'Rubaiyat, 9'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

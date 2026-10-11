@@ -11,7 +11,7 @@ import {
 import { writeCollectionMd, writeWorkMd, writeTranslationMd } from '../writers/md-writer';
 import { slugify } from '../utils/slug';
 import { detectScript } from '../utils/wikitext';
-import { ganjoorSlug } from '../utils/ganjoor-slug';
+import { GANJOOR_COLLECTION_TITLES, ganjoorSlug, ganjoorTitles } from '../utils/ganjoor-slug';
 
 const CONFIG_PATH = path.resolve(__dirname, '../../data/config/authors.json');
 
@@ -142,9 +142,12 @@ async function scrapeGanjoor(cfg: AuthorConfig, dryRun: boolean) {
     }
 
     // Write collection MD
+    const colTitles = GANJOOR_COLLECTION_TITLES[col.collectionSlug];
     writeCollectionMd({
       slug: col.collectionSlug,
-      titleAz: col.collectionSlug, // Will need manual editing
+      titleAz: colTitles?.az ?? col.collectionSlug, // Unmapped collections need manual editing
+      titleRu: colTitles?.ru,
+      titleEn: colTitles?.en,
       authorSlug: cfg.slug,
       genre: 'POEM',
       originalLang: 'FA',
@@ -157,13 +160,16 @@ async function scrapeGanjoor(cfg: AuthorConfig, dryRun: boolean) {
     for (const poem of poems) {
       const sourceId = `ganjoor-${poem.ganjoorId}`;
       const workSlug = ganjoorSlug(cfg.slug, poem.sourceUrl) ?? sourceId;
+      const titles = ganjoorTitles(poem.sourceUrl);
 
       writeWorkMd(
         {
           slug: workSlug,
           sourceId,
-          titleAz: poem.titleFa, // Will need manual editing
+          titleAz: titles?.az ?? poem.titleFa, // Unmapped sections need manual editing
+          titleRu: titles?.ru,
           titleFa: poem.titleFa,
+          titleEn: titles?.en,
           authorSlug: cfg.slug,
           collectionSlug: col.collectionSlug,
           originalLang: 'FA',

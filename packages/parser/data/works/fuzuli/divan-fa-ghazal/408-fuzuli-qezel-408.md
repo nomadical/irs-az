@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-408
 sourceId: ganjoor-117114
-titleAz: شمارهٔ ۴۰۸
+titleAz: Qəzəl 408
+titleRu: Газель 408
 titleFa: شمارهٔ ۴۰۸
+titleEn: Ghazal 408
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

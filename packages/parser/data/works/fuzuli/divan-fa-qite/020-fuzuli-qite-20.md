@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-20
 sourceId: ganjoor-117137
-titleAz: شمارهٔ ۲۰
+titleAz: Qitə 20
+titleRu: Кыта 20
 titleFa: شمارهٔ ۲۰
+titleEn: Qit'a 20
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-61
 sourceId: ganjoor-117664
-titleAz: شمارهٔ ۶۱
+titleAz: Rübai 61
+titleRu: Рубаи 61
 titleFa: شمارهٔ ۶۱
+titleEn: Rubai 61
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

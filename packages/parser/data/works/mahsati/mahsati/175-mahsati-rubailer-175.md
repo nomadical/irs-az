@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-175
 sourceId: ganjoor-50235
-titleAz: رباعی شمارۀ ۱۷۵
+titleAz: 'Rübailər, 175'
+titleRu: 'Рубайят, 175'
 titleFa: رباعی شمارۀ ۱۷۵
+titleEn: 'Rubaiyat, 175'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

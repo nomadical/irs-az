@@ -1,12 +1,12 @@
 ---
 slug: xaqani-qeside-98
 sourceId: ganjoor-14868
-titleAz: >-
-  شمارهٔ ۹۸ - خاقانی این قصیده را در مرثیهٔ فرزند خویش امیر رشید الدین سروده و
-  آن را ترنم المصائب گویند.
+titleAz: Qəsidə 98
+titleRu: Касыда 98
 titleFa: >-
   شمارهٔ ۹۸ - خاقانی این قصیده را در مرثیهٔ فرزند خویش امیر رشید الدین سروده و
   آن را ترنم المصائب گویند.
+titleEn: Qasida 98
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

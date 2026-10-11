@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-82
 sourceId: ganjoor-15077
-titleAz: رباعی شمارهٔ   ۸۲
+titleAz: Rübai 82
+titleRu: Рубаи 82
 titleFa: رباعی شمارهٔ   ۸۲
+titleEn: Rubai 82
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

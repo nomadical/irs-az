@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-39
 sourceId: ganjoor-14809
-titleAz: شمارهٔ ۳۹ - در ستایش صفوة الدین بانوی شروان شاه اخستان
+titleAz: Qəsidə 39
+titleRu: Касыда 39
 titleFa: شمارهٔ ۳۹ - در ستایش صفوة الدین بانوی شروان شاه اخستان
+titleEn: Qasida 39
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-293
 sourceId: ganjoor-14662
-titleAz: غزل شمارهٔ ۲۹۳
+titleAz: Qəzəl 293
+titleRu: Газель 293
 titleFa: غزل شمارهٔ ۲۹۳
+titleEn: Ghazal 293
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

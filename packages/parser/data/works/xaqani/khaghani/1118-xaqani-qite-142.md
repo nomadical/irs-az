@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-142
 sourceId: ganjoor-27805
-titleAz: شمارهٔ ۱۴۲
+titleAz: Qitə 142
+titleRu: Кыта 142
 titleFa: شمارهٔ ۱۴۲
+titleEn: Qit'a 142
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

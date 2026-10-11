@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-144
 sourceId: ganjoor-14914
-titleAz: شمارهٔ ۱۴۴ - در موعظه و نصیحت و تخلص به ستایش بهاء الدین سعد بن احمد
+titleAz: Qəsidə 144
+titleRu: Касыда 144
 titleFa: شمارهٔ ۱۴۴ - در موعظه و نصیحت و تخلص به ستایش بهاء الدین سعد بن احمد
+titleEn: Qasida 144
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-110
 sourceId: ganjoor-116816
-titleAz: شمارهٔ ۱۱۰
+titleAz: Qəzəl 110
+titleRu: Газель 110
 titleFa: شمارهٔ ۱۱۰
+titleEn: Ghazal 110
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

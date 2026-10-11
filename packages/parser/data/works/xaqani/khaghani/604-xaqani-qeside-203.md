@@ -1,12 +1,12 @@
 ---
 slug: xaqani-qeside-203
 sourceId: ganjoor-14973
-titleAz: >-
-  شمارهٔ ۲۰۳ - این قصیدهٔ را تحفة الحرمین و تفاحة الثقلین خوانند در کعبهٔ معظمه
-  انشاد کرده و پیش حظیرهٔ مقدس پیغمبر اکرم به عرض و اتمام آورده است
+titleAz: Qəsidə 203
+titleRu: Касыда 203
 titleFa: >-
   شمارهٔ ۲۰۳ - این قصیدهٔ را تحفة الحرمین و تفاحة الثقلین خوانند در کعبهٔ معظمه
   انشاد کرده و پیش حظیرهٔ مقدس پیغمبر اکرم به عرض و اتمام آورده است
+titleEn: Qasida 203
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

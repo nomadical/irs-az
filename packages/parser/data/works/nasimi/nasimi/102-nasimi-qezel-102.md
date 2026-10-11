@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-102
 sourceId: ganjoor-117397
-titleAz: شمارهٔ ۱۰۲
+titleAz: Qəzəl 102
+titleRu: Газель 102
 titleFa: شمارهٔ ۱۰۲
+titleEn: Ghazal 102
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qezel-9
 sourceId: ganjoor-133903
-titleAz: شمارهٔ ۹
+titleAz: Qəzəl 9
+titleRu: Газель 9
 titleFa: شمارهٔ ۹
+titleEn: Ghazal 9
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

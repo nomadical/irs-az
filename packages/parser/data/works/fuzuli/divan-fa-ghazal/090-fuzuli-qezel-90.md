@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-90
 sourceId: ganjoor-116796
-titleAz: شمارهٔ ۹۰
+titleAz: Qəzəl 90
+titleRu: Газель 90
 titleFa: شمارهٔ ۹۰
+titleEn: Ghazal 90
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-erebce-7
 sourceId: ganjoor-15498
-titleAz: وله ایضا یمدح الملک الاعظم علاء الدین
+titleAz: Ərəbcə şeir 7
+titleRu: Арабское стихотворение 7
 titleFa: وله ایضا یمدح الملک الاعظم علاء الدین
+titleEn: Arabic poem 7
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

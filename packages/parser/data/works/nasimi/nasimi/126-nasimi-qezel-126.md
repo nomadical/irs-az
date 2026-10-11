@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-126
 sourceId: ganjoor-117421
-titleAz: شمارهٔ ۱۲۶
+titleAz: Qəzəl 126
+titleRu: Газель 126
 titleFa: شمارهٔ ۱۲۶
+titleEn: Ghazal 126
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

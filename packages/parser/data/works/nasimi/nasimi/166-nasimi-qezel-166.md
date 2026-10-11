@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-166
 sourceId: ganjoor-117461
-titleAz: شمارهٔ ۱۶۶
+titleAz: Qəzəl 166
+titleRu: Газель 166
 titleFa: شمارهٔ ۱۶۶
+titleEn: Ghazal 166
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-157
 sourceId: ganjoor-116863
-titleAz: شمارهٔ ۱۵۷
+titleAz: Qəzəl 157
+titleRu: Газель 157
 titleFa: شمارهٔ ۱۵۷
+titleEn: Ghazal 157
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

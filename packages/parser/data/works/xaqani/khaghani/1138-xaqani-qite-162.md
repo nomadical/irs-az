@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-162
 sourceId: ganjoor-27825
-titleAz: شمارهٔ ۱۶۲ - در موعظه
+titleAz: Qitə 162
+titleRu: Кыта 162
 titleFa: شمارهٔ ۱۶۲ - در موعظه
+titleEn: Qit'a 162
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

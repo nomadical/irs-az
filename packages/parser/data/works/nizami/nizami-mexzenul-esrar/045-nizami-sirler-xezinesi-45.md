@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-45
 sourceId: ganjoor-9307
-titleAz: بخش ۴۵ - داستان حاجی و صوفی
+titleAz: 'Sirlər xəzinəsi, fəsil 45'
+titleRu: 'Сокровищница тайн, глава 45'
 titleFa: بخش ۴۵ - داستان حاجی و صوفی
+titleEn: 'The Treasury of Mysteries, chapter 45'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

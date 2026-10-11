@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-206
 sourceId: ganjoor-14976
-titleAz: شمارهٔ ۲۰۶ - این مرثیه را از زبان قرة العین امیر رشید فرزند خود گوید
+titleAz: Qəsidə 206
+titleRu: Касыда 206
 titleFa: شمارهٔ ۲۰۶ - این مرثیه را از زبان قرة العین امیر رشید فرزند خود گوید
+titleEn: Qasida 206
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

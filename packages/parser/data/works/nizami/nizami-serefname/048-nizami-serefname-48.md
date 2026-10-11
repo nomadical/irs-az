@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-48
 sourceId: ganjoor-9197
-titleAz: بخش ۴۸ - رسیدن اسکندر به کشور روس
+titleAz: 'Şərəfnamə, fəsil 48'
+titleRu: 'Шараф-наме, глава 48'
 titleFa: بخش ۴۸ - رسیدن اسکندر به کشور روس
+titleEn: 'Sharafnama, chapter 48'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

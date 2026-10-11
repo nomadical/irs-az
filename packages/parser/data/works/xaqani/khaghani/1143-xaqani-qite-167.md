@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-167
 sourceId: ganjoor-27830
-titleAz: شمارهٔ ۱۶۷
+titleAz: Qitə 167
+titleRu: Кыта 167
 titleFa: شمارهٔ ۱۶۷
+titleEn: Qit'a 167
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

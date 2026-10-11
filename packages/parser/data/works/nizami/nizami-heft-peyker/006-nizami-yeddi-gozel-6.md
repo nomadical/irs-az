@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-6
 sourceId: ganjoor-9054
-titleAz: بخش ۶ - ستایش سخن و حکمت و اندرز
+titleAz: 'Yeddi gözəl, fəsil 6'
+titleRu: 'Семь красавиц, глава 6'
 titleFa: بخش ۶ - ستایش سخن و حکمت و اندرز
+titleEn: 'The Seven Beauties, chapter 6'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

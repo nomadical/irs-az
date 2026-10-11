@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-156
 sourceId: ganjoor-27819
-titleAz: شمارهٔ ۱۵۶
+titleAz: Qitə 156
+titleRu: Кыта 156
 titleFa: شمارهٔ ۱۵۶
+titleEn: Qit'a 156
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-127
 sourceId: ganjoor-50187
-titleAz: رباعی شمارۀ ۱۲۷
+titleAz: 'Rübailər, 127'
+titleRu: 'Рубайят, 127'
 titleFa: رباعی شمارۀ ۱۲۷
+titleEn: 'Rubaiyat, 127'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

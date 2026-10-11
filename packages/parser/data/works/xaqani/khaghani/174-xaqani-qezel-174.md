@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-174
 sourceId: ganjoor-14543
-titleAz: غزل شمارهٔ ۱۷۴
+titleAz: Qəzəl 174
+titleRu: Газель 174
 titleFa: غزل شمارهٔ ۱۷۴
+titleEn: Ghazal 174
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

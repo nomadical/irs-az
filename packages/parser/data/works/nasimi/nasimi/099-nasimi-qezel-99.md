@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-99
 sourceId: ganjoor-117394
-titleAz: شمارهٔ ۹۹
+titleAz: Qəzəl 99
+titleRu: Газель 99
 titleFa: شمارهٔ ۹۹
+titleEn: Ghazal 99
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

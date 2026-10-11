@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-56
 sourceId: ganjoor-116762
-titleAz: شمارهٔ ۵۶
+titleAz: Qəzəl 56
+titleRu: Газель 56
 titleFa: شمارهٔ ۵۶
+titleEn: Ghazal 56
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-9
 sourceId: ganjoor-9057
-titleAz: "بخش ۹ - صفت سنمار و ساختن قصر\_خَوَرْنَق"
+titleAz: 'Yeddi gözəl, fəsil 9'
+titleRu: 'Семь красавиц, глава 9'
 titleFa: "بخش ۹ - صفت سنمار و ساختن قصر\_خَوَرْنَق"
+titleEn: 'The Seven Beauties, chapter 9'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

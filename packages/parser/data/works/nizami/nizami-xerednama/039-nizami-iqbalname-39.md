@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-39
 sourceId: ganjoor-9251
-titleAz: بخش ۳۹ - سوگند نامه اسکندر به سوی مادر
+titleAz: 'İqbalnamə, fəsil 39'
+titleRu: 'Икбал-наме, глава 39'
 titleFa: بخش ۳۹ - سوگند نامه اسکندر به سوی مادر
+titleEn: 'Iqbalnama, chapter 39'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

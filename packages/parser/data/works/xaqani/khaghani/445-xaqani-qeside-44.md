@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-44
 sourceId: ganjoor-14814
-titleAz: شمارهٔ ۴۴ - دربارهٔ بیماری خود
+titleAz: Qəsidə 44
+titleRu: Касыда 44
 titleFa: شمارهٔ ۴۴ - دربارهٔ بیماری خود
+titleEn: Qasida 44
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

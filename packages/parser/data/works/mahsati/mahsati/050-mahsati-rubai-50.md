@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-50
 sourceId: ganjoor-133774
-titleAz: شمارهٔ ۵۰
+titleAz: Rübai 50
+titleRu: Рубаи 50
 titleFa: شمارهٔ ۵۰
+titleEn: Rubai 50
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

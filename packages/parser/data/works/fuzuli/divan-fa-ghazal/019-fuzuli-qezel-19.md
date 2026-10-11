@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-19
 sourceId: ganjoor-116725
-titleAz: شمارهٔ ۱۹
+titleAz: Qəzəl 19
+titleRu: Газель 19
 titleFa: شمارهٔ ۱۹
+titleEn: Ghazal 19
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

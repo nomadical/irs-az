@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-27
 sourceId: ganjoor-117630
-titleAz: شمارهٔ ۲۷
+titleAz: Rübai 27
+titleRu: Рубаи 27
 titleFa: شمارهٔ ۲۷
+titleEn: Rubai 27
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

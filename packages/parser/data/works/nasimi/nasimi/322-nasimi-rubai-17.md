@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-17
 sourceId: ganjoor-117620
-titleAz: شمارهٔ ۱۷
+titleAz: Rübai 17
+titleRu: Рубаи 17
 titleFa: شمارهٔ ۱۷
+titleEn: Rubai 17
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

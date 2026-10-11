@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-121
 sourceId: ganjoor-117416
-titleAz: شمارهٔ ۱۲۱
+titleAz: Qəzəl 121
+titleRu: Газель 121
 titleFa: شمارهٔ ۱۲۱
+titleEn: Ghazal 121
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

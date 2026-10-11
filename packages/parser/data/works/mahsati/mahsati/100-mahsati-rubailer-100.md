@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-100
 sourceId: ganjoor-50160
-titleAz: رباعی شمارۀ ۱۰۰
+titleAz: 'Rübailər, 100'
+titleRu: 'Рубайят, 100'
 titleFa: رباعی شمارۀ ۱۰۰
+titleEn: 'Rubaiyat, 100'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

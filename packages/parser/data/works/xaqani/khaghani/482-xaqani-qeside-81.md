@@ -1,12 +1,12 @@
 ---
 slug: xaqani-qeside-81
 sourceId: ganjoor-14851
-titleAz: >-
-  شمارهٔ ۸۱ - این قصیدهٔ را حرز الحجاز خوانند در کعبهٔ علیا انشاء کرده و بر
-  بالین مقدس پیغمبر اکرم صلوات الله علیه در یثرب به پایان آورده
+titleAz: Qəsidə 81
+titleRu: Касыда 81
 titleFa: >-
   شمارهٔ ۸۱ - این قصیدهٔ را حرز الحجاز خوانند در کعبهٔ علیا انشاء کرده و بر
   بالین مقدس پیغمبر اکرم صلوات الله علیه در یثرب به پایان آورده
+titleEn: Qasida 81
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

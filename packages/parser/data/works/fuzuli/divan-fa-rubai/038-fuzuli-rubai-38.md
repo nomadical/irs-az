@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-38
 sourceId: ganjoor-117202
-titleAz: شمارهٔ ۳۸
+titleAz: Rübai 38
+titleRu: Рубаи 38
 titleFa: شمارهٔ ۳۸
+titleEn: Rubai 38
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

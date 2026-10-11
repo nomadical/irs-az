@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-79
 sourceId: ganjoor-14849
-titleAz: شمارهٔ ۷۹ - در ستایش نصرة الدین ابوالمظفر اصفهبد لیالواشیر پادشاه مازندران
+titleAz: Qəsidə 79
+titleRu: Касыда 79
 titleFa: شمارهٔ ۷۹ - در ستایش نصرة الدین ابوالمظفر اصفهبد لیالواشیر پادشاه مازندران
+titleEn: Qasida 79
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

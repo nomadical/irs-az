@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-20
 sourceId: ganjoor-9169
-titleAz: بخش ۲۰ - خراج خواستن دارا از اسکندر
+titleAz: 'Şərəfnamə, fəsil 20'
+titleRu: 'Шараф-наме, глава 20'
 titleFa: بخش ۲۰ - خراج خواستن دارا از اسکندر
+titleEn: 'Sharafnama, chapter 20'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

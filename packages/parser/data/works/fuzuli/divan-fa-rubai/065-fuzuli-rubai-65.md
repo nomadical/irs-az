@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-65
 sourceId: ganjoor-117229
-titleAz: شمارهٔ ۶۵
+titleAz: Rübai 65
+titleRu: Рубаи 65
 titleFa: شمارهٔ ۶۵
+titleEn: Rubai 65
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

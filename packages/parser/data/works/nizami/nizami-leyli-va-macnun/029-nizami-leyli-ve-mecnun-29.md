@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-29
 sourceId: ganjoor-9031
-titleAz: بخش ۲۹ - آگاهی مجنون از شوهر کردن لیلی
+titleAz: 'Leyli və Məcnun, fəsil 29'
+titleRu: 'Лейли и Меджнун, глава 29'
 titleFa: بخش ۲۹ - آگاهی مجنون از شوهر کردن لیلی
+titleEn: 'Layla and Majnun, chapter 29'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

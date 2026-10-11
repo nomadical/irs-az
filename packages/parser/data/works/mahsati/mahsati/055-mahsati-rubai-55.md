@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-55
 sourceId: ganjoor-133779
-titleAz: شمارهٔ ۵۵
+titleAz: Rübai 55
+titleRu: Рубаи 55
 titleFa: شمارهٔ ۵۵
+titleEn: Rubai 55
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

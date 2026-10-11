@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-275
 sourceId: ganjoor-14644
-titleAz: غزل شمارهٔ ۲۷۵
+titleAz: Qəzəl 275
+titleRu: Газель 275
 titleFa: غزل شمارهٔ ۲۷۵
+titleEn: Ghazal 275
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

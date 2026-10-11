@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-12
 sourceId: ganjoor-15006
-titleAz: رباعی شمارهٔ   ۱۲
+titleAz: Rübai 12
+titleRu: Рубаи 12
 titleFa: رباعی شمارهٔ   ۱۲
+titleEn: Rubai 12
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

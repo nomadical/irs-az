@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-94
 sourceId: ganjoor-14463
-titleAz: غزل شمارهٔ ۹۴
+titleAz: Qəzəl 94
+titleRu: Газель 94
 titleFa: غزل شمارهٔ ۹۴
+titleEn: Ghazal 94
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

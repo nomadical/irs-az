@@ -1,8 +1,10 @@
 ---
 slug: xaqani-erebce-10
 sourceId: ganjoor-15501
-titleAz: خاقانی این دو بیت را در مدینه بر در حرم نوشته است
+titleAz: Ərəbcə şeir 10
+titleRu: Арабское стихотворение 10
 titleFa: خاقانی این دو بیت را در مدینه بر در حرم نوشته است
+titleEn: Arabic poem 10
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

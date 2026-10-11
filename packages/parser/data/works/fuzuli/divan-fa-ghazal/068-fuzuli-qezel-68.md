@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-68
 sourceId: ganjoor-116774
-titleAz: شمارهٔ ۶۸
+titleAz: Qəzəl 68
+titleRu: Газель 68
 titleFa: شمارهٔ ۶۸
+titleEn: Ghazal 68
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-210
 sourceId: ganjoor-14579
-titleAz: غزل شمارهٔ ۲۱۰
+titleAz: Qəzəl 210
+titleRu: Газель 210
 titleFa: غزل شمارهٔ ۲۱۰
+titleEn: Ghazal 210
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

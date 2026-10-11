@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-291
 sourceId: ganjoor-14660
-titleAz: غزل شمارهٔ ۲۹۱
+titleAz: Qəzəl 291
+titleRu: Газель 291
 titleFa: غزل شمارهٔ ۲۹۱
+titleEn: Ghazal 291
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-255
 sourceId: ganjoor-15250
-titleAz: رباعی شمارهٔ   ۲۵۵
+titleAz: Rübai 255
+titleRu: Рубаи 255
 titleFa: رباعی شمارهٔ   ۲۵۵
+titleEn: Rubai 255
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

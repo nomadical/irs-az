@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-406
 sourceId: ganjoor-117112
-titleAz: شمارهٔ ۴۰۶
+titleAz: Qəzəl 406
+titleRu: Газель 406
 titleFa: شمارهٔ ۴۰۶
+titleEn: Ghazal 406
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

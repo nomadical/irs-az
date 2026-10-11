@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-151
 sourceId: ganjoor-117446
-titleAz: شمارهٔ ۱۵۱
+titleAz: Qəzəl 151
+titleRu: Газель 151
 titleFa: شمارهٔ ۱۵۱
+titleEn: Ghazal 151
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

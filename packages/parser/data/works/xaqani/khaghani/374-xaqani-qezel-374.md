@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-374
 sourceId: ganjoor-14743
-titleAz: غزل شمارهٔ ۳۷۴
+titleAz: Qəzəl 374
+titleRu: Газель 374
 titleFa: غزل شمارهٔ ۳۷۴
+titleEn: Ghazal 374
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

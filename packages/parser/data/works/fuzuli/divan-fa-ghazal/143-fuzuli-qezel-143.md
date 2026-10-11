@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-143
 sourceId: ganjoor-116849
-titleAz: شمارهٔ ۱۴۳
+titleAz: Qəzəl 143
+titleRu: Газель 143
 titleFa: شمارهٔ ۱۴۳
+titleEn: Ghazal 143
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

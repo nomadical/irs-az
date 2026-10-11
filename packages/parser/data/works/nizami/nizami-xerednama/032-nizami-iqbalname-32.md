@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-32
 sourceId: ganjoor-9244
-titleAz: بخش ۳۲ - خردنامه سقراط
+titleAz: 'İqbalnamə, fəsil 32'
+titleRu: 'Икбал-наме, глава 32'
 titleFa: بخش ۳۲ - خردنامه سقراط
+titleEn: 'Iqbalnama, chapter 32'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

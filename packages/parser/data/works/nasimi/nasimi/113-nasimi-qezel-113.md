@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-113
 sourceId: ganjoor-117408
-titleAz: شمارهٔ ۱۱۳
+titleAz: Qəzəl 113
+titleRu: Газель 113
 titleFa: شمارهٔ ۱۱۳
+titleEn: Ghazal 113
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

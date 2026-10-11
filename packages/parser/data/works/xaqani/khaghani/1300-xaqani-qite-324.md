@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-324
 sourceId: ganjoor-27987
-titleAz: شمارهٔ ۳۲۴
+titleAz: Qitə 324
+titleRu: Кыта 324
 titleFa: شمارهٔ ۳۲۴
+titleEn: Qit'a 324
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

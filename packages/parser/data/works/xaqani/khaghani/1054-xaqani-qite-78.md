@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-78
 sourceId: ganjoor-27741
-titleAz: شمارهٔ ۷۸
+titleAz: Qitə 78
+titleRu: Кыта 78
 titleFa: شمارهٔ ۷۸
+titleEn: Qit'a 78
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

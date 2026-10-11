@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-231
 sourceId: ganjoor-117526
-titleAz: شمارهٔ ۲۳۱
+titleAz: Qəzəl 231
+titleRu: Газель 231
 titleFa: شمارهٔ ۲۳۱
+titleEn: Ghazal 231
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

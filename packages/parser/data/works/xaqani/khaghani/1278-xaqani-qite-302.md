@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-302
 sourceId: ganjoor-27965
-titleAz: شمارهٔ ۳۰۲
+titleAz: Qitə 302
+titleRu: Кыта 302
 titleFa: شمارهٔ ۳۰۲
+titleEn: Qit'a 302
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

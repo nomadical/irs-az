@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-154
 sourceId: ganjoor-15149
-titleAz: رباعی شمارهٔ   ۱۵۴
+titleAz: Rübai 154
+titleRu: Рубаи 154
 titleFa: رباعی شمارهٔ   ۱۵۴
+titleEn: Rubai 154
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

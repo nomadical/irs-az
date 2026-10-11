@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-269
 sourceId: ganjoor-116975
-titleAz: شمارهٔ ۲۶۹
+titleAz: Qəzəl 269
+titleRu: Газель 269
 titleFa: شمارهٔ ۲۶۹
+titleEn: Ghazal 269
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

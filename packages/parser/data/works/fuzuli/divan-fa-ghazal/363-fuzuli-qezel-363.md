@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-363
 sourceId: ganjoor-117069
-titleAz: شمارهٔ ۳۶۳
+titleAz: Qəzəl 363
+titleRu: Газель 363
 titleFa: شمارهٔ ۳۶۳
+titleEn: Ghazal 363
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

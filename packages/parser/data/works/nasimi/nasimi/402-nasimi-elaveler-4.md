@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-4
 sourceId: ganjoor-117703
-titleAz: شمارهٔ ۴ - مسدس ترکیب
+titleAz: Əlavə 4
+titleRu: Дополнение 4
 titleFa: شمارهٔ ۴ - مسدس ترکیب
+titleEn: Addendum 4
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

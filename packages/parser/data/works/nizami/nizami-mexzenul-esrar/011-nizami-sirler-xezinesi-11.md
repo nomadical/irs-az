@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-11
 sourceId: ganjoor-9273
-titleAz: بخش ۱۱ - خطاب زمین بوس
+titleAz: 'Sirlər xəzinəsi, fəsil 11'
+titleRu: 'Сокровищница тайн, глава 11'
 titleFa: بخش ۱۱ - خطاب زمین بوس
+titleEn: 'The Treasury of Mysteries, chapter 11'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

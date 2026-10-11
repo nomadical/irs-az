@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-244
 sourceId: ganjoor-15239
-titleAz: رباعی شمارهٔ   ۲۴۴
+titleAz: Rübai 244
+titleRu: Рубаи 244
 titleFa: رباعی شمارهٔ   ۲۴۴
+titleEn: Rubai 244
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

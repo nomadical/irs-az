@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-17
 sourceId: ganjoor-117312
-titleAz: شمارهٔ ۱۷
+titleAz: Qəzəl 17
+titleRu: Газель 17
 titleFa: شمارهٔ ۱۷
+titleEn: Ghazal 17
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

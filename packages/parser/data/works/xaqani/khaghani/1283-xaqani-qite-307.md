@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-307
 sourceId: ganjoor-27970
-titleAz: شمارهٔ ۳۰۷
+titleAz: Qitə 307
+titleRu: Кыта 307
 titleFa: شمارهٔ ۳۰۷
+titleEn: Qit'a 307
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

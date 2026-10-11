@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-27
 sourceId: ganjoor-50087
-titleAz: رباعی شمارۀ ۲۷
+titleAz: 'Rübailər, 27'
+titleRu: 'Рубайят, 27'
 titleFa: رباعی شمارۀ ۲۷
+titleEn: 'Rubaiyat, 27'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

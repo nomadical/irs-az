@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-3
 sourceId: ganjoor-117120
-titleAz: شمارهٔ ۳
+titleAz: Qitə 3
+titleRu: Кыта 3
 titleFa: شمارهٔ ۳
+titleEn: Qit'a 3
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

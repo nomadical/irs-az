@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-304
 sourceId: ganjoor-15299
-titleAz: رباعی شمارهٔ   ۳۰۴
+titleAz: Rübai 304
+titleRu: Рубаи 304
 titleFa: رباعی شمارهٔ   ۳۰۴
+titleEn: Rubai 304
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

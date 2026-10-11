@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-251
 sourceId: ganjoor-27914
-titleAz: شمارهٔ ۲۵۱
+titleAz: Qitə 251
+titleRu: Кыта 251
 titleFa: شمارهٔ ۲۵۱
+titleEn: Qit'a 251
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

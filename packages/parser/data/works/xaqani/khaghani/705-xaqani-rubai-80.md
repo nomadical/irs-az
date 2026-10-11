@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-80
 sourceId: ganjoor-15075
-titleAz: رباعی شمارهٔ   ۸۰
+titleAz: Rübai 80
+titleRu: Рубаи 80
 titleFa: رباعی شمارهٔ   ۸۰
+titleEn: Rubai 80
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

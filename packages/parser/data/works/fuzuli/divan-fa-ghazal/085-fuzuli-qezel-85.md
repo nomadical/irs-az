@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-85
 sourceId: ganjoor-116791
-titleAz: شمارهٔ ۸۵
+titleAz: Qəzəl 85
+titleRu: Газель 85
 titleFa: شمارهٔ ۸۵
+titleEn: Ghazal 85
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

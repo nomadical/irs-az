@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-43
 sourceId: ganjoor-14412
-titleAz: غزل شمارهٔ ۴۳
+titleAz: Qəzəl 43
+titleRu: Газель 43
 titleFa: غزل شمارهٔ ۴۳
+titleEn: Ghazal 43
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

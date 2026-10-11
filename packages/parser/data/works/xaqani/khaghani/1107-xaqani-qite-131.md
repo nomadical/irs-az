@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-131
 sourceId: ganjoor-27794
-titleAz: شمارهٔ ۱۳۱
+titleAz: Qitə 131
+titleRu: Кыта 131
 titleFa: شمارهٔ ۱۳۱
+titleEn: Qit'a 131
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

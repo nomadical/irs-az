@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-10
 sourceId: ganjoor-9058
-titleAz: "بخش ۱۰ - صفت خَوَرْنَق\_و ناپیدا شدن نعمان"
+titleAz: 'Yeddi gözəl, fəsil 10'
+titleRu: 'Семь красавиц, глава 10'
 titleFa: "بخش ۱۰ - صفت خَوَرْنَق\_و ناپیدا شدن نعمان"
+titleEn: 'The Seven Beauties, chapter 10'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-84
 sourceId: ganjoor-8948
-titleAz: بخش ۸۴ - سرود گفتن نکیسا از زبان شیرین
+titleAz: 'Xosrov və Şirin, fəsil 84'
+titleRu: 'Хосров и Ширин, глава 84'
 titleFa: بخش ۸۴ - سرود گفتن نکیسا از زبان شیرین
+titleEn: 'Khosrow and Shirin, chapter 84'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

@@ -1,12 +1,12 @@
 ---
 slug: nizami-yeddi-gozel-27
 sourceId: ganjoor-9075
-titleAz: >-
-  بخش ۲۷ - نشستن بهرام روز یکشنبه در گنبد زرد و افسانه گفتن دختر پادشاه اقلیم
-  دوم
+titleAz: 'Yeddi gözəl, fəsil 27'
+titleRu: 'Семь красавиц, глава 27'
 titleFa: >-
   بخش ۲۷ - نشستن بهرام روز یکشنبه در گنبد زرد و افسانه گفتن دختر پادشاه اقلیم
   دوم
+titleEn: 'The Seven Beauties, chapter 27'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

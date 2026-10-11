@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-247
 sourceId: ganjoor-14616
-titleAz: غزل شمارهٔ ۲۴۷
+titleAz: Qəzəl 247
+titleRu: Газель 247
 titleFa: غزل شمارهٔ ۲۴۷
+titleEn: Ghazal 247
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

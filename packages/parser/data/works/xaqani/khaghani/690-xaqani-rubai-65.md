@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-65
 sourceId: ganjoor-15060
-titleAz: رباعی شمارهٔ   ۶۵
+titleAz: Rübai 65
+titleRu: Рубаи 65
 titleFa: رباعی شمارهٔ   ۶۵
+titleEn: Rubai 65
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

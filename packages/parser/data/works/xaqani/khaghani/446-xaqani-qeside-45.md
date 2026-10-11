@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-45
 sourceId: ganjoor-14815
-titleAz: شمارهٔ ۴۵ - در ستایش عز الدوله
+titleAz: Qəsidə 45
+titleRu: Касыда 45
 titleFa: شمارهٔ ۴۵ - در ستایش عز الدوله
+titleEn: Qasida 45
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

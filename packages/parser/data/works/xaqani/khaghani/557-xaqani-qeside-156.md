@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-156
 sourceId: ganjoor-14926
-titleAz: شمارهٔ ۱۵۶ - در شکایت از جهان و نعت خاتم پیغمبران
+titleAz: Qəsidə 156
+titleRu: Касыда 156
 titleFa: شمارهٔ ۱۵۶ - در شکایت از جهان و نعت خاتم پیغمبران
+titleEn: Qasida 156
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

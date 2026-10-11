@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-47
 sourceId: ganjoor-27710
-titleAz: شمارهٔ ۴۷ - در موعظه و نصیحت
+titleAz: Qitə 47
+titleRu: Кыта 47
 titleFa: شمارهٔ ۴۷ - در موعظه و نصیحت
+titleEn: Qit'a 47
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

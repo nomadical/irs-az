@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-196
 sourceId: ganjoor-15191
-titleAz: رباعی شمارهٔ   ۱۹۶
+titleAz: Rübai 196
+titleRu: Рубаи 196
 titleFa: رباعی شمارهٔ   ۱۹۶
+titleEn: Rubai 196
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

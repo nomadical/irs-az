@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-361
 sourceId: ganjoor-28024
-titleAz: شمارهٔ ۳۶۱
+titleAz: Qitə 361
+titleRu: Кыта 361
 titleFa: شمارهٔ ۳۶۱
+titleEn: Qit'a 361
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

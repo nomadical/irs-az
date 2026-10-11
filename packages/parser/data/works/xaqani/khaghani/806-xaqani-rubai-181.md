@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-181
 sourceId: ganjoor-15176
-titleAz: رباعی شمارهٔ   ۱۸۱
+titleAz: Rübai 181
+titleRu: Рубаи 181
 titleFa: رباعی شمارهٔ   ۱۸۱
+titleEn: Rubai 181
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

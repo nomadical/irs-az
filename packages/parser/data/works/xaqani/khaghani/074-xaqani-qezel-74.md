@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-74
 sourceId: ganjoor-14443
-titleAz: غزل شمارهٔ ۷۴
+titleAz: Qəzəl 74
+titleRu: Газель 74
 titleFa: غزل شمارهٔ ۷۴
+titleEn: Ghazal 74
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

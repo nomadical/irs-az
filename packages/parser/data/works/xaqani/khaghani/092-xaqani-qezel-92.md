@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-92
 sourceId: ganjoor-14461
-titleAz: غزل شمارهٔ ۹۲
+titleAz: Qəzəl 92
+titleRu: Газель 92
 titleFa: غزل شمارهٔ ۹۲
+titleEn: Ghazal 92
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

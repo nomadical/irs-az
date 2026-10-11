@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-16
 sourceId: ganjoor-116672
-titleAz: شمارهٔ ۱۶
+titleAz: Qəsidə 16
+titleRu: Касыда 16
 titleFa: شمارهٔ ۱۶
+titleEn: Qasida 16
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

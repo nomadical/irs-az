@@ -1,8 +1,10 @@
 ---
 slug: xaqani-tercibend-5
 sourceId: ganjoor-15480
-titleAz: شمارهٔ ۵ - در مدح خاقان کبیر جلال الدین ابو المظفر شروان شاه
+titleAz: Tərcibənd 5
+titleRu: Тарджибанд 5
 titleFa: شمارهٔ ۵ - در مدح خاقان کبیر جلال الدین ابو المظفر شروان شاه
+titleEn: Tarji-band 5
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

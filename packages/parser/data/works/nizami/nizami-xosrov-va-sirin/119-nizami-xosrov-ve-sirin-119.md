@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-119
 sourceId: ganjoor-8983
-titleAz: بخش ۱۱۹ - اندرز و ختم کتاب
+titleAz: 'Xosrov və Şirin, fəsil 119'
+titleRu: 'Хосров и Ширин, глава 119'
 titleFa: بخش ۱۱۹ - اندرز و ختم کتاب
+titleEn: 'Khosrow and Shirin, chapter 119'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

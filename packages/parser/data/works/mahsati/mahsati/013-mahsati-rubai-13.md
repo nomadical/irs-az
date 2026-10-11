@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-13
 sourceId: ganjoor-133737
-titleAz: شمارهٔ ۱۳
+titleAz: Rübai 13
+titleRu: Рубаи 13
 titleFa: شمارهٔ ۱۳
+titleEn: Rubai 13
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

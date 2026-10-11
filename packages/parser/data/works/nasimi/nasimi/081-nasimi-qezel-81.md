@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-81
 sourceId: ganjoor-117376
-titleAz: شمارهٔ ۸۱
+titleAz: Qəzəl 81
+titleRu: Газель 81
 titleFa: شمارهٔ ۸۱
+titleEn: Ghazal 81
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

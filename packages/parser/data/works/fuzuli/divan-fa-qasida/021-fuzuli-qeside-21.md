@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-21
 sourceId: ganjoor-116677
-titleAz: شمارهٔ ۲۱
+titleAz: Qəsidə 21
+titleRu: Касыда 21
 titleFa: شمارهٔ ۲۱
+titleEn: Qasida 21
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

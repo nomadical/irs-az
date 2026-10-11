@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-14
 sourceId: ganjoor-14784
-titleAz: شمارهٔ ۱۴ - مطلع چهارم
+titleAz: Qəsidə 14
+titleRu: Касыда 14
 titleFa: شمارهٔ ۱۴ - مطلع چهارم
+titleEn: Qasida 14
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

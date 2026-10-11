@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-396
 sourceId: ganjoor-117102
-titleAz: شمارهٔ ۳۹۶
+titleAz: Qəzəl 396
+titleRu: Газель 396
 titleFa: شمارهٔ ۳۹۶
+titleEn: Ghazal 396
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

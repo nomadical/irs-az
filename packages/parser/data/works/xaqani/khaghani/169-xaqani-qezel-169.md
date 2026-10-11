@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-169
 sourceId: ganjoor-14538
-titleAz: غزل شمارهٔ ۱۶۹
+titleAz: Qəzəl 169
+titleRu: Газель 169
 titleFa: غزل شمارهٔ ۱۶۹
+titleEn: Ghazal 169
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

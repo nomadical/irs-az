@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-348
 sourceId: ganjoor-28011
-titleAz: شمارهٔ ۳۴۸ - در مرثیهٔ سلطان شرق
+titleAz: Qitə 348
+titleRu: Кыта 348
 titleFa: شمارهٔ ۳۴۸ - در مرثیهٔ سلطان شرق
+titleEn: Qit'a 348
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

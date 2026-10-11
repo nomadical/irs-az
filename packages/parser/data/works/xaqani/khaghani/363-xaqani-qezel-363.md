@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-363
 sourceId: ganjoor-14732
-titleAz: غزل شمارهٔ ۳۶۳
+titleAz: Qəzəl 363
+titleRu: Газель 363
 titleFa: غزل شمارهٔ ۳۶۳
+titleEn: Ghazal 363
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

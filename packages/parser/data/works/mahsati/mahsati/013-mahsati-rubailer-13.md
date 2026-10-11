@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-13
 sourceId: ganjoor-50073
-titleAz: رباعی شمارۀ ۱۳
+titleAz: 'Rübailər, 13'
+titleRu: 'Рубайят, 13'
 titleFa: رباعی شمارۀ ۱۳
+titleEn: 'Rubaiyat, 13'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

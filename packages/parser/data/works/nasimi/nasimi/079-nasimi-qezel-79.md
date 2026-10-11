@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-79
 sourceId: ganjoor-117374
-titleAz: شمارهٔ ۷۹
+titleAz: Qəzəl 79
+titleRu: Газель 79
 titleFa: شمارهٔ ۷۹
+titleEn: Ghazal 79
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

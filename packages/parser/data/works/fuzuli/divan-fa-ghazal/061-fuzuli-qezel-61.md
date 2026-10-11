@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-61
 sourceId: ganjoor-116767
-titleAz: شمارهٔ ۶۱
+titleAz: Qəzəl 61
+titleRu: Газель 61
 titleFa: شمارهٔ ۶۱
+titleEn: Ghazal 61
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

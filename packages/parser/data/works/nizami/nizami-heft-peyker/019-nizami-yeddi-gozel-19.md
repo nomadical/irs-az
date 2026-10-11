@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-19
 sourceId: ganjoor-9067
-titleAz: بخش ۱۹ - بر تخت نشستن بهرام به جای پدر
+titleAz: 'Yeddi gözəl, fəsil 19'
+titleRu: 'Семь красавиц, глава 19'
 titleFa: بخش ۱۹ - بر تخت نشستن بهرام به جای پدر
+titleEn: 'The Seven Beauties, chapter 19'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

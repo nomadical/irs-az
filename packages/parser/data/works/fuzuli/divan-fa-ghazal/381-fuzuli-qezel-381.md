@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-381
 sourceId: ganjoor-117087
-titleAz: شمارهٔ ۳۸۱
+titleAz: Qəzəl 381
+titleRu: Газель 381
 titleFa: شمارهٔ ۳۸۱
+titleEn: Ghazal 381
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

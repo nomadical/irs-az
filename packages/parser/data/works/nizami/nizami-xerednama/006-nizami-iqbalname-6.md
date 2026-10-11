@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-6
 sourceId: ganjoor-9218
-titleAz: بخش ۶ - در ستایش ممدوح
+titleAz: 'İqbalnamə, fəsil 6'
+titleRu: 'Икбал-наме, глава 6'
 titleFa: بخش ۶ - در ستایش ممدوح
+titleEn: 'Iqbalnama, chapter 6'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-158
 sourceId: ganjoor-117453
-titleAz: شمارهٔ ۱۵۸
+titleAz: Qəzəl 158
+titleRu: Газель 158
 titleFa: شمارهٔ ۱۵۸
+titleEn: Ghazal 158
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

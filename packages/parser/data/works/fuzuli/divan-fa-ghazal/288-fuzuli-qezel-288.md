@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-288
 sourceId: ganjoor-116994
-titleAz: شمارهٔ ۲۸۸
+titleAz: Qəzəl 288
+titleRu: Газель 288
 titleFa: شمارهٔ ۲۸۸
+titleEn: Ghazal 288
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-123
 sourceId: ganjoor-50183
-titleAz: رباعی شمارۀ ۱۲۳
+titleAz: 'Rübailər, 123'
+titleRu: 'Рубайят, 123'
 titleFa: رباعی شمارۀ ۱۲۳
+titleEn: 'Rubaiyat, 123'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

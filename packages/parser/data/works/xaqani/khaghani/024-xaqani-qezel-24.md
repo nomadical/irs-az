@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-24
 sourceId: ganjoor-14393
-titleAz: غزل شمارهٔ ۲۴
+titleAz: Qəzəl 24
+titleRu: Газель 24
 titleFa: غزل شمارهٔ ۲۴
+titleEn: Ghazal 24
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

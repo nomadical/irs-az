@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-152
 sourceId: ganjoor-117447
-titleAz: شمارهٔ ۱۵۲
+titleAz: Qəzəl 152
+titleRu: Газель 152
 titleFa: شمارهٔ ۱۵۲
+titleEn: Ghazal 152
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

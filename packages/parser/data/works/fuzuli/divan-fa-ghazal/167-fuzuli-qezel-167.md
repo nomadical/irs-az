@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-167
 sourceId: ganjoor-116873
-titleAz: شمارهٔ ۱۶۷
+titleAz: Qəzəl 167
+titleRu: Газель 167
 titleFa: شمارهٔ ۱۶۷
+titleEn: Ghazal 167
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

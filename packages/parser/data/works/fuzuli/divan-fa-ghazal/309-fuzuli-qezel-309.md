@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-309
 sourceId: ganjoor-117015
-titleAz: شمارهٔ ۳۰۹
+titleAz: Qəzəl 309
+titleRu: Газель 309
 titleFa: شمارهٔ ۳۰۹
+titleEn: Ghazal 309
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

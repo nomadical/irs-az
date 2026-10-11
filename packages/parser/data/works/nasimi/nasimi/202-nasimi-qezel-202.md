@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-202
 sourceId: ganjoor-117497
-titleAz: شمارهٔ ۲۰۲
+titleAz: Qəzəl 202
+titleRu: Газель 202
 titleFa: شمارهٔ ۲۰۲
+titleEn: Ghazal 202
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

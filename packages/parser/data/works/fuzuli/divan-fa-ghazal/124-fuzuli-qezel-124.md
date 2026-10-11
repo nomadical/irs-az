@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-124
 sourceId: ganjoor-116830
-titleAz: شمارهٔ ۱۲۴
+titleAz: Qəzəl 124
+titleRu: Газель 124
 titleFa: شمارهٔ ۱۲۴
+titleEn: Ghazal 124
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

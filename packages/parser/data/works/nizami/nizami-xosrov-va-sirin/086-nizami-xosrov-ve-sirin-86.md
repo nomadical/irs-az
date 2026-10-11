@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-86
 sourceId: ganjoor-8950
-titleAz: بخش ۸۶ - سرود گفتن نیکسا از زبان شیرین
+titleAz: 'Xosrov və Şirin, fəsil 86'
+titleRu: 'Хосров и Ширин, глава 86'
 titleFa: بخش ۸۶ - سرود گفتن نیکسا از زبان شیرین
+titleEn: 'Khosrow and Shirin, chapter 86'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

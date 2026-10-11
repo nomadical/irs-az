@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-258
 sourceId: ganjoor-117553
-titleAz: شمارهٔ ۲۵۸
+titleAz: Qəzəl 258
+titleRu: Газель 258
 titleFa: شمارهٔ ۲۵۸
+titleEn: Ghazal 258
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

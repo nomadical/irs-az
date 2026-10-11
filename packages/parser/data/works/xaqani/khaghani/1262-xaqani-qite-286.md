@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-286
 sourceId: ganjoor-27949
-titleAz: شمارهٔ ۲۸۶
+titleAz: Qitə 286
+titleRu: Кыта 286
 titleFa: شمارهٔ ۲۸۶
+titleEn: Qit'a 286
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

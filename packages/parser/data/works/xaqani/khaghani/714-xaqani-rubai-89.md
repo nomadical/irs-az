@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-89
 sourceId: ganjoor-15084
-titleAz: رباعی شمارهٔ   ۸۹
+titleAz: Rübai 89
+titleRu: Рубаи 89
 titleFa: رباعی شمارهٔ   ۸۹
+titleEn: Rubai 89
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

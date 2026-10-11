@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-42
 sourceId: ganjoor-50102
-titleAz: رباعی شمارۀ ۴۲
+titleAz: 'Rübailər, 42'
+titleRu: 'Рубайят, 42'
 titleFa: رباعی شمارۀ ۴۲
+titleEn: 'Rubaiyat, 42'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

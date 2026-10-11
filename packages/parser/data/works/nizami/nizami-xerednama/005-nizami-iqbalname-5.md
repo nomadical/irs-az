@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-5
 sourceId: ganjoor-9217
-titleAz: بخش ۵ - در اندازه هر کاری نگهداشتن
+titleAz: 'İqbalnamə, fəsil 5'
+titleRu: 'Икбал-наме, глава 5'
 titleFa: بخش ۵ - در اندازه هر کاری نگهداشتن
+titleEn: 'Iqbalnama, chapter 5'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

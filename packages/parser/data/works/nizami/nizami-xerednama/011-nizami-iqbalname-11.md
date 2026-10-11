@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-11
 sourceId: ganjoor-9223
-titleAz: بخش ۱۱ - افسانهٔ ارشمیدس با کنیزک چینی
+titleAz: 'İqbalnamə, fəsil 11'
+titleRu: 'Икбал-наме, глава 11'
 titleFa: بخش ۱۱ - افسانهٔ ارشمیدس با کنیزک چینی
+titleEn: 'Iqbalnama, chapter 11'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

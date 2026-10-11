@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-149
 sourceId: ganjoor-116855
-titleAz: شمارهٔ ۱۴۹
+titleAz: Qəzəl 149
+titleRu: Газель 149
 titleFa: شمارهٔ ۱۴۹
+titleEn: Ghazal 149
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

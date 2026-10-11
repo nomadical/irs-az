@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-7
 sourceId: ganjoor-14777
-titleAz: شمارهٔ ۷ - در مباهات و نکوهش حسودان
+titleAz: Qəsidə 7
+titleRu: Касыда 7
 titleFa: شمارهٔ ۷ - در مباهات و نکوهش حسودان
+titleEn: Qasida 7
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-173
 sourceId: ganjoor-14943
-titleAz: شمارهٔ ۱۷۳ - در موعظه و تجرید و تخلص به مرگ عموی خود
+titleAz: Qəsidə 173
+titleRu: Касыда 173
 titleFa: شمارهٔ ۱۷۳ - در موعظه و تجرید و تخلص به مرگ عموی خود
+titleEn: Qasida 173
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

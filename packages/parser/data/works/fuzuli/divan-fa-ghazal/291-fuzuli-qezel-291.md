@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-291
 sourceId: ganjoor-116997
-titleAz: شمارهٔ ۲۹۱
+titleAz: Qəzəl 291
+titleRu: Газель 291
 titleFa: شمارهٔ ۲۹۱
+titleEn: Ghazal 291
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

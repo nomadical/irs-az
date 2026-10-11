@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-187
 sourceId: ganjoor-27850
-titleAz: شمارهٔ ۱۸۷ - در تولد دختر خود
+titleAz: Qitə 187
+titleRu: Кыта 187
 titleFa: شمارهٔ ۱۸۷ - در تولد دختر خود
+titleEn: Qit'a 187
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

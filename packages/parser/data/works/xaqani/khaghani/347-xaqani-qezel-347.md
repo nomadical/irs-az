@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-347
 sourceId: ganjoor-14716
-titleAz: غزل شمارهٔ ۳۴۷
+titleAz: Qəzəl 347
+titleRu: Газель 347
 titleFa: غزل شمارهٔ ۳۴۷
+titleEn: Ghazal 347
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

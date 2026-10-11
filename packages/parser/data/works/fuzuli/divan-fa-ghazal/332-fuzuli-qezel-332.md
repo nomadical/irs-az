@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-332
 sourceId: ganjoor-117038
-titleAz: شمارهٔ ۳۳۲
+titleAz: Qəzəl 332
+titleRu: Газель 332
 titleFa: شمارهٔ ۳۳۲
+titleEn: Ghazal 332
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

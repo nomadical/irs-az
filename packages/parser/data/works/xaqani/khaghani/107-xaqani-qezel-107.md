@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-107
 sourceId: ganjoor-14476
-titleAz: غزل شمارهٔ ۱۰۷
+titleAz: Qəzəl 107
+titleRu: Газель 107
 titleFa: غزل شمارهٔ ۱۰۷
+titleEn: Ghazal 107
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

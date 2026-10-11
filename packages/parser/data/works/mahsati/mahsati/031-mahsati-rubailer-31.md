@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-31
 sourceId: ganjoor-50091
-titleAz: رباعی شمارۀ ۳۱
+titleAz: 'Rübailər, 31'
+titleRu: 'Рубайят, 31'
 titleFa: رباعی شمارۀ ۳۱
+titleEn: 'Rubaiyat, 31'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

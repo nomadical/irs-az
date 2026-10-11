@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-210
 sourceId: ganjoor-14980
-titleAz: شمارهٔ ۲۱۰ - در مرثیهٔ قدوة الحکما کافی الدین عم خود
+titleAz: Qəsidə 210
+titleRu: Касыда 210
 titleFa: شمارهٔ ۲۱۰ - در مرثیهٔ قدوة الحکما کافی الدین عم خود
+titleEn: Qasida 210
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

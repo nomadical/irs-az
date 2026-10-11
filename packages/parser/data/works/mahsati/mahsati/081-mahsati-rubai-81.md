@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-81
 sourceId: ganjoor-133805
-titleAz: شمارهٔ ۸۱
+titleAz: Rübai 81
+titleRu: Рубаи 81
 titleFa: شمارهٔ ۸۱
+titleEn: Rubai 81
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

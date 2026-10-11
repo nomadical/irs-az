@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-299
 sourceId: ganjoor-27962
-titleAz: شمارهٔ ۲۹۹
+titleAz: Qitə 299
+titleRu: Кыта 299
 titleFa: شمارهٔ ۲۹۹
+titleEn: Qit'a 299
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

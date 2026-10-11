@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-115
 sourceId: ganjoor-27778
-titleAz: شمارهٔ ۱۱۵ - در مدح مجد الدین افتخار الاسلام
+titleAz: Qitə 115
+titleRu: Кыта 115
 titleFa: شمارهٔ ۱۱۵ - در مدح مجد الدین افتخار الاسلام
+titleEn: Qit'a 115
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

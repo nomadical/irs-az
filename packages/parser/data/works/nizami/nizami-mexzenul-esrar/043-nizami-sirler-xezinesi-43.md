@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-43
 sourceId: ganjoor-9305
-titleAz: بخش ۴۳ - داستان دو حکیم متنازع
+titleAz: 'Sirlər xəzinəsi, fəsil 43'
+titleRu: 'Сокровищница тайн, глава 43'
 titleFa: بخش ۴۳ - داستان دو حکیم متنازع
+titleEn: 'The Treasury of Mysteries, chapter 43'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

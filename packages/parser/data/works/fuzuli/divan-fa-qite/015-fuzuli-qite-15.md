@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-15
 sourceId: ganjoor-117132
-titleAz: شمارهٔ ۱۵
+titleAz: Qitə 15
+titleRu: Кыта 15
 titleFa: شمارهٔ ۱۵
+titleEn: Qit'a 15
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

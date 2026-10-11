@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-28
 sourceId: ganjoor-117323
-titleAz: شمارهٔ ۲۸
+titleAz: Qəzəl 28
+titleRu: Газель 28
 titleFa: شمارهٔ ۲۸
+titleEn: Ghazal 28
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

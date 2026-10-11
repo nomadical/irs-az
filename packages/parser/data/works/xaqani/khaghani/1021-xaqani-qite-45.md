@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-45
 sourceId: ganjoor-27708
-titleAz: شمارهٔ ۴۵
+titleAz: Qitə 45
+titleRu: Кыта 45
 titleFa: شمارهٔ ۴۵
+titleEn: Qit'a 45
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

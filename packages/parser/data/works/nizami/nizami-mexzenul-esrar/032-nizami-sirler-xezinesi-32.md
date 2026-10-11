@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-32
 sourceId: ganjoor-9294
-titleAz: بخش ۳۲ - مقالت هفتم در فضیلت آدمی بر حیوانات
+titleAz: 'Sirlər xəzinəsi, fəsil 32'
+titleRu: 'Сокровищница тайн, глава 32'
 titleFa: بخش ۳۲ - مقالت هفتم در فضیلت آدمی بر حیوانات
+titleEn: 'The Treasury of Mysteries, chapter 32'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

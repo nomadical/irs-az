@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-147
 sourceId: ganjoor-117442
-titleAz: شمارهٔ ۱۴۷
+titleAz: Qəzəl 147
+titleRu: Газель 147
 titleFa: شمارهٔ ۱۴۷
+titleEn: Ghazal 147
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-109
 sourceId: ganjoor-14879
-titleAz: شمارهٔ ۱۰۹ - مطلع سوم
+titleAz: Qəsidə 109
+titleRu: Касыда 109
 titleFa: شمارهٔ ۱۰۹ - مطلع سوم
+titleEn: Qasida 109
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

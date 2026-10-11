@@ -1,12 +1,12 @@
 ---
 slug: nizami-yeddi-gozel-32
 sourceId: ganjoor-9080
-titleAz: >-
-  بخش ۳۲ - نشستن بهرام روز آدینه در گنبد سپید و افسانه گفتن دختر پادشاه اقلیم
-  هفتم
+titleAz: 'Yeddi gözəl, fəsil 32'
+titleRu: 'Семь красавиц, глава 32'
 titleFa: >-
   بخش ۳۲ - نشستن بهرام روز آدینه در گنبد سپید و افسانه گفتن دختر پادشاه اقلیم
   هفتم
+titleEn: 'The Seven Beauties, chapter 32'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

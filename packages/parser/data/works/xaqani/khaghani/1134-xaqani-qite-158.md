@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-158
 sourceId: ganjoor-27821
-titleAz: شمارهٔ ۱۵۸
+titleAz: Qitə 158
+titleRu: Кыта 158
 titleFa: شمارهٔ ۱۵۸
+titleEn: Qit'a 158
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

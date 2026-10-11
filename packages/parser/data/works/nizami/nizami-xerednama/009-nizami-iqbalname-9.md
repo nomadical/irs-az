@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-9
 sourceId: ganjoor-9221
-titleAz: بخش ۹ - در اینکه چرا اسکندر را ذوالقرنین گویند
+titleAz: 'İqbalnamə, fəsil 9'
+titleRu: 'Икбал-наме, глава 9'
 titleFa: بخش ۹ - در اینکه چرا اسکندر را ذوالقرنین گویند
+titleEn: 'Iqbalnama, chapter 9'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

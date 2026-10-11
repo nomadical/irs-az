@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-150
 sourceId: ganjoor-117445
-titleAz: شمارهٔ ۱۵۰
+titleAz: Qəzəl 150
+titleRu: Газель 150
 titleFa: شمارهٔ ۱۵۰
+titleEn: Ghazal 150
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

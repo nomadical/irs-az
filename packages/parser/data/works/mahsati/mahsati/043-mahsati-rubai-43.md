@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-43
 sourceId: ganjoor-133767
-titleAz: شمارهٔ ۴۳
+titleAz: Rübai 43
+titleRu: Рубаи 43
 titleFa: شمارهٔ ۴۳
+titleEn: Rubai 43
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

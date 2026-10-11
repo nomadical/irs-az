@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-289
 sourceId: ganjoor-15284
-titleAz: رباعی شمارهٔ   ۲۸۹
+titleAz: Rübai 289
+titleRu: Рубаи 289
 titleFa: رباعی شمارهٔ   ۲۸۹
+titleEn: Rubai 289
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

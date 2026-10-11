@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-303
 sourceId: ganjoor-27966
-titleAz: شمارهٔ ۳۰۳ - در هجو رشید وطواط
+titleAz: Qitə 303
+titleRu: Кыта 303
 titleFa: شمارهٔ ۳۰۳ - در هجو رشید وطواط
+titleEn: Qit'a 303
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

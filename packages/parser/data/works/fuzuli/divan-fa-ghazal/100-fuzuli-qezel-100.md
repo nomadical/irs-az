@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-100
 sourceId: ganjoor-116806
-titleAz: شمارهٔ ۱۰۰
+titleAz: Qəzəl 100
+titleRu: Газель 100
 titleFa: شمارهٔ ۱۰۰
+titleEn: Ghazal 100
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

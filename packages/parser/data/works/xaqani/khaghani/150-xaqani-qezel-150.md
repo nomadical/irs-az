@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-150
 sourceId: ganjoor-14519
-titleAz: غزل شمارهٔ ۱۵۰
+titleAz: Qəzəl 150
+titleRu: Газель 150
 titleFa: غزل شمارهٔ ۱۵۰
+titleEn: Ghazal 150
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

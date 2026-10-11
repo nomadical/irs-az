@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-128
 sourceId: ganjoor-133852
-titleAz: شمارهٔ ۱۲۸
+titleAz: Rübai 128
+titleRu: Рубаи 128
 titleFa: شمارهٔ ۱۲۸
+titleEn: Rubai 128
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

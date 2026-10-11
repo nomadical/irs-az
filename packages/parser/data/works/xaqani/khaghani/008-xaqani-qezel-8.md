@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-8
 sourceId: ganjoor-14377
-titleAz: غزل شمارهٔ ۸
+titleAz: Qəzəl 8
+titleRu: Газель 8
 titleFa: غزل شمارهٔ ۸
+titleEn: Ghazal 8
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

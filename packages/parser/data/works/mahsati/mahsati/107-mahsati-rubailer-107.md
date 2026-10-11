@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-107
 sourceId: ganjoor-50167
-titleAz: رباعی شمارۀ ۱۰۷
+titleAz: 'Rübailər, 107'
+titleRu: 'Рубайят, 107'
 titleFa: رباعی شمارۀ ۱۰۷
+titleEn: 'Rubaiyat, 107'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

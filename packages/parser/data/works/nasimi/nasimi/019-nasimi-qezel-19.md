@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-19
 sourceId: ganjoor-117314
-titleAz: شمارهٔ ۱۹
+titleAz: Qəzəl 19
+titleRu: Газель 19
 titleFa: شمارهٔ ۱۹
+titleEn: Ghazal 19
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

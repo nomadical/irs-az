@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-18
 sourceId: ganjoor-9066
-titleAz: بخش ۱۸ - برگرفتن بهرام تاج را از میان دو شیر
+titleAz: 'Yeddi gözəl, fəsil 18'
+titleRu: 'Семь красавиц, глава 18'
 titleFa: بخش ۱۸ - برگرفتن بهرام تاج را از میان دو شیر
+titleEn: 'The Seven Beauties, chapter 18'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

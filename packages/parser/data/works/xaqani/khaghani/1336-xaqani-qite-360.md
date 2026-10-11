@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-360
 sourceId: ganjoor-28023
-titleAz: شمارهٔ ۳۶۰ - در هجو یکی از وزرای شروان‌شاه
+titleAz: Qitə 360
+titleRu: Кыта 360
 titleFa: شمارهٔ ۳۶۰ - در هجو یکی از وزرای شروان‌شاه
+titleEn: Qit'a 360
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-369
 sourceId: ganjoor-14738
-titleAz: غزل شمارهٔ ۳۶۹
+titleAz: Qəzəl 369
+titleRu: Газель 369
 titleFa: غزل شمارهٔ ۳۶۹
+titleEn: Ghazal 369
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

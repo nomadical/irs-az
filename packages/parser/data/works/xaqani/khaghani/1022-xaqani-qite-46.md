@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-46
 sourceId: ganjoor-27709
-titleAz: شمارهٔ ۴۶ - در عزلت
+titleAz: Qitə 46
+titleRu: Кыта 46
 titleFa: شمارهٔ ۴۶ - در عزلت
+titleEn: Qit'a 46
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

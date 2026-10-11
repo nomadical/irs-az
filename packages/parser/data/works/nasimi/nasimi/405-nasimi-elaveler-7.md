@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-7
 sourceId: ganjoor-117706
-titleAz: شمارهٔ ۷
+titleAz: Əlavə 7
+titleRu: Дополнение 7
 titleFa: شمارهٔ ۷
+titleEn: Addendum 7
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

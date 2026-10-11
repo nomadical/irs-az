@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-331
 sourceId: ganjoor-14700
-titleAz: غزل شمارهٔ ۳۳۱
+titleAz: Qəzəl 331
+titleRu: Газель 331
 titleFa: غزل شمارهٔ ۳۳۱
+titleEn: Ghazal 331
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

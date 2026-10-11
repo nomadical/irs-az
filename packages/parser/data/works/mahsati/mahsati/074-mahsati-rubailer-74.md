@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-74
 sourceId: ganjoor-50134
-titleAz: رباعی شمارۀ ۷۴
+titleAz: 'Rübailər, 74'
+titleRu: 'Рубайят, 74'
 titleFa: رباعی شمارۀ ۷۴
+titleEn: 'Rubaiyat, 74'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

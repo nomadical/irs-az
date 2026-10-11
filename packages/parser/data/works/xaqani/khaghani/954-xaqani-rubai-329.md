@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-329
 sourceId: ganjoor-15324
-titleAz: رباعی شمارهٔ   ۳۲۹
+titleAz: Rübai 329
+titleRu: Рубаи 329
 titleFa: رباعی شمارهٔ   ۳۲۹
+titleEn: Rubai 329
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

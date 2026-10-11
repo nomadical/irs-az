@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-100
 sourceId: ganjoor-8964
-titleAz: بخش ۱۰۰ - در یاد کردن دوره زندگی پس از مرگ
+titleAz: 'Xosrov və Şirin, fəsil 100'
+titleRu: 'Хосров и Ширин, глава 100'
 titleFa: بخش ۱۰۰ - در یاد کردن دوره زندگی پس از مرگ
+titleEn: 'Khosrow and Shirin, chapter 100'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

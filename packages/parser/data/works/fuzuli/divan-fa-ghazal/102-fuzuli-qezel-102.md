@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-102
 sourceId: ganjoor-116808
-titleAz: شمارهٔ ۱۰۲
+titleAz: Qəzəl 102
+titleRu: Газель 102
 titleFa: شمارهٔ ۱۰۲
+titleEn: Ghazal 102
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

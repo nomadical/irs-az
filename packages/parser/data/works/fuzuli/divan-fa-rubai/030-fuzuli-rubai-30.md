@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-30
 sourceId: ganjoor-117194
-titleAz: شمارهٔ ۳۰
+titleAz: Rübai 30
+titleRu: Рубаи 30
 titleFa: شمارهٔ ۳۰
+titleEn: Rubai 30
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

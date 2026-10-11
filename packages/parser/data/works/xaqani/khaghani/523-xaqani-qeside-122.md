@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-122
 sourceId: ganjoor-14892
-titleAz: شمارهٔ ۱۲۲ - مطلع دوم
+titleAz: Qəsidə 122
+titleRu: Касыда 122
 titleFa: شمارهٔ ۱۲۲ - مطلع دوم
+titleEn: Qasida 122
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

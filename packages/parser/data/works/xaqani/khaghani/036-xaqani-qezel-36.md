@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-36
 sourceId: ganjoor-14405
-titleAz: غزل شمارهٔ ۳۶
+titleAz: Qəzəl 36
+titleRu: Газель 36
 titleFa: غزل شمارهٔ ۳۶
+titleEn: Ghazal 36
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

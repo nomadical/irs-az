@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-35
 sourceId: ganjoor-14404
-titleAz: غزل شمارهٔ ۳۵
+titleAz: Qəzəl 35
+titleRu: Газель 35
 titleFa: غزل شمارهٔ ۳۵
+titleEn: Ghazal 35
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

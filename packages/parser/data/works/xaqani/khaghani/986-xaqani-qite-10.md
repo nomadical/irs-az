@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-10
 sourceId: ganjoor-27673
-titleAz: شمارهٔ ۱۰ - در نصیحت و پند
+titleAz: Qitə 10
+titleRu: Кыта 10
 titleFa: شمارهٔ ۱۰ - در نصیحت و پند
+titleEn: Qit'a 10
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

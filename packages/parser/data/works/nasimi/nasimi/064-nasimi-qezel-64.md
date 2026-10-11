@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-64
 sourceId: ganjoor-117359
-titleAz: شمارهٔ ۶۴
+titleAz: Qəzəl 64
+titleRu: Газель 64
 titleFa: شمارهٔ ۶۴
+titleEn: Ghazal 64
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

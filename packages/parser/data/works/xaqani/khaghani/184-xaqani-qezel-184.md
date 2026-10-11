@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-184
 sourceId: ganjoor-14553
-titleAz: غزل شمارهٔ ۱۸۴
+titleAz: Qəzəl 184
+titleRu: Газель 184
 titleFa: غزل شمارهٔ ۱۸۴
+titleEn: Ghazal 184
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-4
 sourceId: ganjoor-14998
-titleAz: رباعی شمارهٔ   ۴
+titleAz: Rübai 4
+titleRu: Рубаи 4
 titleFa: رباعی شمارهٔ   ۴
+titleEn: Rubai 4
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

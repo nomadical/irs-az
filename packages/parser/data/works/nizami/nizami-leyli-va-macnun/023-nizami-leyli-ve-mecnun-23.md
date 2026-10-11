@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-23
 sourceId: ganjoor-9025
-titleAz: بخش ۲۳ - عتاب کردن مجنون با نوفل
+titleAz: 'Leyli və Məcnun, fəsil 23'
+titleRu: 'Лейли и Меджнун, глава 23'
 titleFa: بخش ۲۳ - عتاب کردن مجنون با نوفل
+titleEn: 'Layla and Majnun, chapter 23'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

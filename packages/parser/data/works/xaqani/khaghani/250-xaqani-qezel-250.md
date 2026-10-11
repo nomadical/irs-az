@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-250
 sourceId: ganjoor-14619
-titleAz: غزل شمارهٔ ۲۵۰
+titleAz: Qəzəl 250
+titleRu: Газель 250
 titleFa: غزل شمارهٔ ۲۵۰
+titleEn: Ghazal 250
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

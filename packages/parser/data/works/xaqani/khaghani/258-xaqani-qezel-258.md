@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-258
 sourceId: ganjoor-14627
-titleAz: غزل شمارهٔ ۲۵۸
+titleAz: Qəzəl 258
+titleRu: Газель 258
 titleFa: غزل شمارهٔ ۲۵۸
+titleEn: Ghazal 258
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

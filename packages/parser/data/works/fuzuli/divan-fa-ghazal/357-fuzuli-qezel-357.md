@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-357
 sourceId: ganjoor-117063
-titleAz: شمارهٔ ۳۵۷
+titleAz: Qəzəl 357
+titleRu: Газель 357
 titleFa: شمارهٔ ۳۵۷
+titleEn: Ghazal 357
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

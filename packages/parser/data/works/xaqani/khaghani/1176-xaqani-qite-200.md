@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-200
 sourceId: ganjoor-27863
-titleAz: شمارهٔ ۲۰۰
+titleAz: Qitə 200
+titleRu: Кыта 200
 titleFa: شمارهٔ ۲۰۰
+titleEn: Qit'a 200
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-231
 sourceId: ganjoor-14600
-titleAz: غزل شمارهٔ ۲۳۱
+titleAz: Qəzəl 231
+titleRu: Газель 231
 titleFa: غزل شمارهٔ ۲۳۱
+titleEn: Ghazal 231
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

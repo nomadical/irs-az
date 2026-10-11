@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-155
 sourceId: ganjoor-117450
-titleAz: شمارهٔ ۱۵۵
+titleAz: Qəzəl 155
+titleRu: Газель 155
 titleFa: شمارهٔ ۱۵۵
+titleEn: Ghazal 155
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

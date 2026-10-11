@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-158
 sourceId: ganjoor-15153
-titleAz: رباعی شمارهٔ   ۱۵۸
+titleAz: Rübai 158
+titleRu: Рубаи 158
 titleFa: رباعی شمارهٔ   ۱۵۸
+titleEn: Rubai 158
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

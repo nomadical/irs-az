@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-76
 sourceId: ganjoor-14445
-titleAz: غزل شمارهٔ ۷۶
+titleAz: Qəzəl 76
+titleRu: Газель 76
 titleFa: غزل شمارهٔ ۷۶
+titleEn: Ghazal 76
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

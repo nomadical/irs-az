@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-137
 sourceId: ganjoor-14907
-titleAz: شمارهٔ ۱۳۷ - در وصف خاک مقدسی که از بالین حضرت ختمی مرتبت آورده بود
+titleAz: Qəsidə 137
+titleRu: Касыда 137
 titleFa: شمارهٔ ۱۳۷ - در وصف خاک مقدسی که از بالین حضرت ختمی مرتبت آورده بود
+titleEn: Qasida 137
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

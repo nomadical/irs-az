@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-121
 sourceId: ganjoor-14490
-titleAz: غزل شمارهٔ ۱۲۱
+titleAz: Qəzəl 121
+titleRu: Газель 121
 titleFa: غزل شمارهٔ ۱۲۱
+titleEn: Ghazal 121
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

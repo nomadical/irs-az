@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-140
 sourceId: ganjoor-50200
-titleAz: رباعی شمارۀ ۱۴۰
+titleAz: 'Rübailər, 140'
+titleRu: 'Рубайят, 140'
 titleFa: رباعی شمارۀ ۱۴۰
+titleEn: 'Rubaiyat, 140'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

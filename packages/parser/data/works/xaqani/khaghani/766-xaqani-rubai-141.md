@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-141
 sourceId: ganjoor-15136
-titleAz: رباعی شمارهٔ   ۱۴۱
+titleAz: Rübai 141
+titleRu: Рубаи 141
 titleFa: رباعی شمارهٔ   ۱۴۱
+titleEn: Rubai 141
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-5
 sourceId: ganjoor-9053
-titleAz: بخش ۵ - دعای پادشاه سعید علاء الدین کرپ ارسلان
+titleAz: 'Yeddi gözəl, fəsil 5'
+titleRu: 'Семь красавиц, глава 5'
 titleFa: بخش ۵ - دعای پادشاه سعید علاء الدین کرپ ارسلان
+titleEn: 'The Seven Beauties, chapter 5'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

@@ -1,6 +1,8 @@
 ---
 slug: khaghani
-titleAz: khaghani
+titleAz: Divan
+titleRu: Диван
+titleEn: Divan
 authorSlug: xaqani
 genre: POEM
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-213
 sourceId: ganjoor-14983
-titleAz: شمارهٔ ۲۱۳ - مطلع سوم
+titleAz: Qəsidə 213
+titleRu: Касыда 213
 titleFa: شمارهٔ ۲۱۳ - مطلع سوم
+titleEn: Qasida 213
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

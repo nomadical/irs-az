@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-86
 sourceId: ganjoor-27749
-titleAz: شمارهٔ ۸۶ - در بحث با معطل
+titleAz: Qitə 86
+titleRu: Кыта 86
 titleFa: شمارهٔ ۸۶ - در بحث با معطل
+titleEn: Qit'a 86
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

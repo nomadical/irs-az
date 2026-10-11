@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-146
 sourceId: ganjoor-117441
-titleAz: شمارهٔ ۱۴۶
+titleAz: Qəzəl 146
+titleRu: Газель 146
 titleFa: شمارهٔ ۱۴۶
+titleEn: Ghazal 146
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

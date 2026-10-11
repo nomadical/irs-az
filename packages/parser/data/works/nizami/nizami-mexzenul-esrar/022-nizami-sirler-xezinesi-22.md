@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-22
 sourceId: ganjoor-9284
-titleAz: بخش ۲۲ - مقالت دوم در عدل و نگهداری انصاف
+titleAz: 'Sirlər xəzinəsi, fəsil 22'
+titleRu: 'Сокровищница тайн, глава 22'
 titleFa: بخش ۲۲ - مقالت دوم در عدل و نگهداری انصاف
+titleEn: 'The Treasury of Mysteries, chapter 22'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

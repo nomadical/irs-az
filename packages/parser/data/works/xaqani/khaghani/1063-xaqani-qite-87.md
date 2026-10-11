@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-87
 sourceId: ganjoor-27750
-titleAz: شمارهٔ ۸۷ - در رثاء پسر خود رشید الدین و وفات دختر
+titleAz: Qitə 87
+titleRu: Кыта 87
 titleFa: شمارهٔ ۸۷ - در رثاء پسر خود رشید الدین و وفات دختر
+titleEn: Qit'a 87
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

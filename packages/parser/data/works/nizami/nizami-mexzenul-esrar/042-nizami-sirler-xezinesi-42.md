@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-42
 sourceId: ganjoor-9304
-titleAz: بخش ۴۲ - مقالت دوازدهم در وداع منزل خاک
+titleAz: 'Sirlər xəzinəsi, fəsil 42'
+titleRu: 'Сокровищница тайн, глава 42'
 titleFa: بخش ۴۲ - مقالت دوازدهم در وداع منزل خاک
+titleEn: 'The Treasury of Mysteries, chapter 42'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

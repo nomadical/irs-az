@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-50
 sourceId: ganjoor-9199
-titleAz: بخش ۵۰ - جنگ دوم اسکندر با روسیان
+titleAz: 'Şərəfnamə, fəsil 50'
+titleRu: 'Шараф-наме, глава 50'
 titleFa: بخش ۵۰ - جنگ دوم اسکندر با روسیان
+titleEn: 'Sharafnama, chapter 50'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

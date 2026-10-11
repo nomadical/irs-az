@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-172
 sourceId: ganjoor-116878
-titleAz: شمارهٔ ۱۷۲
+titleAz: Qəzəl 172
+titleRu: Газель 172
 titleFa: شمارهٔ ۱۷۲
+titleEn: Ghazal 172
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

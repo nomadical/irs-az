@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-276
 sourceId: ganjoor-15271
-titleAz: رباعی شمارهٔ   ۲۷۶
+titleAz: Rübai 276
+titleRu: Рубаи 276
 titleFa: رباعی شمارهٔ   ۲۷۶
+titleEn: Rubai 276
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

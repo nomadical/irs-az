@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-255
 sourceId: ganjoor-116961
-titleAz: شمارهٔ ۲۵۵
+titleAz: Qəzəl 255
+titleRu: Газель 255
 titleFa: شمارهٔ ۲۵۵
+titleEn: Ghazal 255
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

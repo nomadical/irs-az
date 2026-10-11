@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-78
 sourceId: ganjoor-117242
-titleAz: شمارهٔ ۷۸
+titleAz: Rübai 78
+titleRu: Рубаи 78
 titleFa: شمارهٔ ۷۸
+titleEn: Rubai 78
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

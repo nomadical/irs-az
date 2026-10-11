@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-35
 sourceId: ganjoor-27698
-titleAz: شمارهٔ ۳۵
+titleAz: Qitə 35
+titleRu: Кыта 35
 titleFa: شمارهٔ ۳۵
+titleEn: Qit'a 35
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

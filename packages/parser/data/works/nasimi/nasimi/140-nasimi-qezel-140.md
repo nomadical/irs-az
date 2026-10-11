@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-140
 sourceId: ganjoor-117435
-titleAz: شمارهٔ ۱۴۰
+titleAz: Qəzəl 140
+titleRu: Газель 140
 titleFa: شمارهٔ ۱۴۰
+titleEn: Ghazal 140
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

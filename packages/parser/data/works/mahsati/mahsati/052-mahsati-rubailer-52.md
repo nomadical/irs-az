@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-52
 sourceId: ganjoor-50112
-titleAz: رباعی شمارۀ ۵۲
+titleAz: 'Rübailər, 52'
+titleRu: 'Рубайят, 52'
 titleFa: رباعی شمارۀ ۵۲
+titleEn: 'Rubaiyat, 52'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

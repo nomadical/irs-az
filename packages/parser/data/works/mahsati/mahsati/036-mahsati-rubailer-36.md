@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-36
 sourceId: ganjoor-50096
-titleAz: رباعی شمارۀ ۳۶
+titleAz: 'Rübailər, 36'
+titleRu: 'Рубайят, 36'
 titleFa: رباعی شمارۀ ۳۶
+titleEn: 'Rubaiyat, 36'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

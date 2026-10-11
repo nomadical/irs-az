@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-385
 sourceId: ganjoor-117091
-titleAz: شمارهٔ ۳۸۵
+titleAz: Qəzəl 385
+titleRu: Газель 385
 titleFa: شمارهٔ ۳۸۵
+titleEn: Ghazal 385
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

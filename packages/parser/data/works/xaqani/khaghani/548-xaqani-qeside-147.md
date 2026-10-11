@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-147
 sourceId: ganjoor-14917
-titleAz: شمارهٔ ۱۴۷ - مطلع دوم
+titleAz: Qəsidə 147
+titleRu: Касыда 147
 titleFa: شمارهٔ ۱۴۷ - مطلع دوم
+titleEn: Qasida 147
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

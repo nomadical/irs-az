@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-27
 sourceId: ganjoor-9176
-titleAz: بخش ۲۷ - نشستن اسکندر بر جای دارا
+titleAz: 'Şərəfnamə, fəsil 27'
+titleRu: 'Шараф-наме, глава 27'
 titleFa: بخش ۲۷ - نشستن اسکندر بر جای دارا
+titleEn: 'Sharafnama, chapter 27'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

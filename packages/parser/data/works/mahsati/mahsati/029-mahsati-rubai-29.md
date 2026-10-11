@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-29
 sourceId: ganjoor-133753
-titleAz: شمارهٔ ۲۹
+titleAz: Rübai 29
+titleRu: Рубаи 29
 titleFa: شمارهٔ ۲۹
+titleEn: Rubai 29
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

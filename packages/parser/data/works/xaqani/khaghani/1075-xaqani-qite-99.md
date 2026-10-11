@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-99
 sourceId: ganjoor-27762
-titleAz: شمارهٔ ۹۹
+titleAz: Qitə 99
+titleRu: Кыта 99
 titleFa: شمارهٔ ۹۹
+titleEn: Qit'a 99
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-62
 sourceId: ganjoor-116768
-titleAz: شمارهٔ ۶۲
+titleAz: Qəzəl 62
+titleRu: Газель 62
 titleFa: شمارهٔ ۶۲
+titleEn: Ghazal 62
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

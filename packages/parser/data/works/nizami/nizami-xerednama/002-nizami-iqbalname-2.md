@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-2
 sourceId: ganjoor-9214
-titleAz: بخش ۲ - نیایش به درگاه باریتعالی
+titleAz: 'İqbalnamə, fəsil 2'
+titleRu: 'Икбал-наме, глава 2'
 titleFa: بخش ۲ - نیایش به درگاه باریتعالی
+titleEn: 'Iqbalnama, chapter 2'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

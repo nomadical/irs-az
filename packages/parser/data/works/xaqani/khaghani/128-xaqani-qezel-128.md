@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-128
 sourceId: ganjoor-14497
-titleAz: غزل شمارهٔ ۱۲۸
+titleAz: Qəzəl 128
+titleRu: Газель 128
 titleFa: غزل شمارهٔ ۱۲۸
+titleEn: Ghazal 128
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

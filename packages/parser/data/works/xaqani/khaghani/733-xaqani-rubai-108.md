@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-108
 sourceId: ganjoor-15103
-titleAz: رباعی شمارهٔ   ۱۰۸
+titleAz: Rübai 108
+titleRu: Рубаи 108
 titleFa: رباعی شمارهٔ   ۱۰۸
+titleEn: Rubai 108
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

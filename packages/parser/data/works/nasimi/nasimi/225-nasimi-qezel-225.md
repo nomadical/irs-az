@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-225
 sourceId: ganjoor-117520
-titleAz: شمارهٔ ۲۲۵ - ستایش فضل‌الله نعیمی
+titleAz: Qəzəl 225
+titleRu: Газель 225
 titleFa: شمارهٔ ۲۲۵ - ستایش فضل‌الله نعیمی
+titleEn: Ghazal 225
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

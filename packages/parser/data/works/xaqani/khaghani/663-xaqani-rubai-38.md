@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-38
 sourceId: ganjoor-15033
-titleAz: رباعی شمارهٔ   ۳۸
+titleAz: Rübai 38
+titleRu: Рубаи 38
 titleFa: رباعی شمارهٔ   ۳۸
+titleEn: Rubai 38
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

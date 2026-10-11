@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-182
 sourceId: ganjoor-116888
-titleAz: شمارهٔ ۱۸۲
+titleAz: Qəzəl 182
+titleRu: Газель 182
 titleFa: شمارهٔ ۱۸۲
+titleEn: Ghazal 182
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

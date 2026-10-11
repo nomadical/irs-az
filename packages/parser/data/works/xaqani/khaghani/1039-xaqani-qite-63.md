@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-63
 sourceId: ganjoor-27726
-titleAz: شمارهٔ ۶۳
+titleAz: Qitə 63
+titleRu: Кыта 63
 titleFa: شمارهٔ ۶۳
+titleEn: Qit'a 63
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

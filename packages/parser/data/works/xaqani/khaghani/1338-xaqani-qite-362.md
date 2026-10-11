@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-362
 sourceId: ganjoor-31456
-titleAz: شمارهٔ ۳۶۲
+titleAz: Qitə 362
+titleRu: Кыта 362
 titleFa: شمارهٔ ۳۶۲
+titleEn: Qit'a 362
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

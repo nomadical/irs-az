@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-47
 sourceId: ganjoor-9196
-titleAz: بخش ۴۷ - رسیدن اسکندر به دشت قفچاق
+titleAz: 'Şərəfnamə, fəsil 47'
+titleRu: 'Шараф-наме, глава 47'
 titleFa: بخش ۴۷ - رسیدن اسکندر به دشت قفچاق
+titleEn: 'Sharafnama, chapter 47'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

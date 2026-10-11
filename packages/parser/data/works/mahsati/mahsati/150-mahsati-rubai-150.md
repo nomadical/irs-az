@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-150
 sourceId: ganjoor-133874
-titleAz: شمارهٔ ۱۵۰
+titleAz: Rübai 150
+titleRu: Рубаи 150
 titleFa: شمارهٔ ۱۵۰
+titleEn: Rubai 150
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

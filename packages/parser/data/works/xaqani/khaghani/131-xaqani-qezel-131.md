@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-131
 sourceId: ganjoor-14500
-titleAz: غزل شمارهٔ ۱۳۱
+titleAz: Qəzəl 131
+titleRu: Газель 131
 titleFa: غزل شمارهٔ ۱۳۱
+titleEn: Ghazal 131
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

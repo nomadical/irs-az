@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-84
 sourceId: ganjoor-27747
-titleAz: شمارهٔ ۸۴
+titleAz: Qitə 84
+titleRu: Кыта 84
 titleFa: شمارهٔ ۸۴
+titleEn: Qit'a 84
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

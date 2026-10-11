@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-175
 sourceId: ganjoor-116881
-titleAz: شمارهٔ ۱۷۵
+titleAz: Qəzəl 175
+titleRu: Газель 175
 titleFa: شمارهٔ ۱۷۵
+titleEn: Ghazal 175
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

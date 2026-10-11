@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-41
 sourceId: ganjoor-117205
-titleAz: شمارهٔ ۴۱
+titleAz: Rübai 41
+titleRu: Рубаи 41
 titleFa: شمارهٔ ۴۱
+titleEn: Rubai 41
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

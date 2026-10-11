@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-27
 sourceId: ganjoor-117322
-titleAz: شمارهٔ ۲۷
+titleAz: Qəzəl 27
+titleRu: Газель 27
 titleFa: شمارهٔ ۲۷
+titleEn: Ghazal 27
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

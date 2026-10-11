@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-223
 sourceId: ganjoor-15218
-titleAz: رباعی شمارهٔ   ۲۲۳
+titleAz: Rübai 223
+titleRu: Рубаи 223
 titleFa: رباعی شمارهٔ   ۲۲۳
+titleEn: Rubai 223
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

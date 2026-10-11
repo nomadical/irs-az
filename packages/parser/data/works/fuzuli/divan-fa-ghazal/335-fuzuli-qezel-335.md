@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-335
 sourceId: ganjoor-117041
-titleAz: شمارهٔ ۳۳۵
+titleAz: Qəzəl 335
+titleRu: Газель 335
 titleFa: شمارهٔ ۳۳۵
+titleEn: Ghazal 335
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-99
 sourceId: ganjoor-8963
-titleAz: بخش ۹۹ - در چگونگی دیدار کالبد در خواب
+titleAz: 'Xosrov və Şirin, fəsil 99'
+titleRu: 'Хосров и Ширин, глава 99'
 titleFa: بخش ۹۹ - در چگونگی دیدار کالبد در خواب
+titleEn: 'Khosrow and Shirin, chapter 99'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-261
 sourceId: ganjoor-15256
-titleAz: رباعی شمارهٔ   ۲۶۱
+titleAz: Rübai 261
+titleRu: Рубаи 261
 titleFa: رباعی شمارهٔ   ۲۶۱
+titleEn: Rubai 261
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-325
 sourceId: ganjoor-27988
-titleAz: شمارهٔ ۳۲۵
+titleAz: Qitə 325
+titleRu: Кыта 325
 titleFa: شمارهٔ ۳۲۵
+titleEn: Qit'a 325
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

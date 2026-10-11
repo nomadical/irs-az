@@ -1,8 +1,10 @@
 ---
 slug: nasimi-mesnevi-4
 sourceId: ganjoor-117601
-titleAz: شمارهٔ ۴
+titleAz: Məsnəvi 4
+titleRu: Маснави 4
 titleFa: شمارهٔ ۴
+titleEn: Masnavi 4
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

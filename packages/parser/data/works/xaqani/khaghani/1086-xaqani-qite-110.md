@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-110
 sourceId: ganjoor-27773
-titleAz: شمارهٔ ۱۱۰
+titleAz: Qitə 110
+titleRu: Кыта 110
 titleFa: شمارهٔ ۱۱۰
+titleEn: Qit'a 110
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

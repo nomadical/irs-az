@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-331
 sourceId: ganjoor-117037
-titleAz: شمارهٔ ۳۳۱
+titleAz: Qəzəl 331
+titleRu: Газель 331
 titleFa: شمارهٔ ۳۳۱
+titleEn: Ghazal 331
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

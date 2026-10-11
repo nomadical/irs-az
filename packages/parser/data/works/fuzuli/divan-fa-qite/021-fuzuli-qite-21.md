@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-21
 sourceId: ganjoor-117138
-titleAz: شمارهٔ ۲۱
+titleAz: Qitə 21
+titleRu: Кыта 21
 titleFa: شمارهٔ ۲۱
+titleEn: Qit'a 21
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

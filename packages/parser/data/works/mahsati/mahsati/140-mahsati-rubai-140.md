@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-140
 sourceId: ganjoor-133864
-titleAz: شمارهٔ ۱۴۰
+titleAz: Rübai 140
+titleRu: Рубаи 140
 titleFa: شمارهٔ ۱۴۰
+titleEn: Rubai 140
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

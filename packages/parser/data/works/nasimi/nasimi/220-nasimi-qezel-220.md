@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-220
 sourceId: ganjoor-117515
-titleAz: شمارهٔ ۲۲۰ - در ستایش حافظ
+titleAz: Qəzəl 220
+titleRu: Газель 220
 titleFa: شمارهٔ ۲۲۰ - در ستایش حافظ
+titleEn: Ghazal 220
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

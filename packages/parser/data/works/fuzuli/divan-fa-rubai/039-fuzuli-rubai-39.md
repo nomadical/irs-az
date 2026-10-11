@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-39
 sourceId: ganjoor-117203
-titleAz: شمارهٔ ۳۹
+titleAz: Rübai 39
+titleRu: Рубаи 39
 titleFa: شمارهٔ ۳۹
+titleEn: Rubai 39
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-41
 sourceId: ganjoor-50101
-titleAz: رباعی شمارۀ ۴۱
+titleAz: 'Rübailər, 41'
+titleRu: 'Рубайят, 41'
 titleFa: رباعی شمارۀ ۴۱
+titleEn: 'Rubaiyat, 41'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

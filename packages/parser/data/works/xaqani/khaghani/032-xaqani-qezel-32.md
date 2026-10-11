@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-32
 sourceId: ganjoor-14401
-titleAz: غزل شمارهٔ ۳۲
+titleAz: Qəzəl 32
+titleRu: Газель 32
 titleFa: غزل شمارهٔ ۳۲
+titleEn: Ghazal 32
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

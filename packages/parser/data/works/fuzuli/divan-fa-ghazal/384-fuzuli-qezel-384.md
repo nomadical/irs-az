@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-384
 sourceId: ganjoor-117090
-titleAz: شمارهٔ ۳۸۴
+titleAz: Qəzəl 384
+titleRu: Газель 384
 titleFa: شمارهٔ ۳۸۴
+titleEn: Ghazal 384
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

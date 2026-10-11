@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-130
 sourceId: ganjoor-50190
-titleAz: رباعی شمارۀ ۱۳۰
+titleAz: 'Rübailər, 130'
+titleRu: 'Рубайят, 130'
 titleFa: رباعی شمارۀ ۱۳۰
+titleEn: 'Rubaiyat, 130'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-18
 sourceId: ganjoor-9230
-titleAz: بخش ۱۸ - گفتار حکیم هند با اسکندر
+titleAz: 'İqbalnamə, fəsil 18'
+titleRu: 'Икбал-наме, глава 18'
 titleFa: بخش ۱۸ - گفتار حکیم هند با اسکندر
+titleEn: 'Iqbalnama, chapter 18'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

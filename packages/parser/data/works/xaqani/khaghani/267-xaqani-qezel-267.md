@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-267
 sourceId: ganjoor-14636
-titleAz: غزل شمارهٔ ۲۶۷
+titleAz: Qəzəl 267
+titleRu: Газель 267
 titleFa: غزل شمارهٔ ۲۶۷
+titleEn: Ghazal 267
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

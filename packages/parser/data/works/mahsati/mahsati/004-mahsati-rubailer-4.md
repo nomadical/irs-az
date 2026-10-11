@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-4
 sourceId: ganjoor-50064
-titleAz: رباعی شمارۀ ۴
+titleAz: 'Rübailər, 4'
+titleRu: 'Рубайят, 4'
 titleFa: رباعی شمارۀ ۴
+titleEn: 'Rubaiyat, 4'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

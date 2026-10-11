@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-38
 sourceId: ganjoor-117155
-titleAz: شمارهٔ ۳۸
+titleAz: Qitə 38
+titleRu: Кыта 38
 titleFa: شمارهٔ ۳۸
+titleEn: Qit'a 38
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

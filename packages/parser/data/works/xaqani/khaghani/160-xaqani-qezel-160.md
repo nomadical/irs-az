@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-160
 sourceId: ganjoor-14529
-titleAz: غزل شمارهٔ ۱۶۰
+titleAz: Qəzəl 160
+titleRu: Газель 160
 titleFa: غزل شمارهٔ ۱۶۰
+titleEn: Ghazal 160
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

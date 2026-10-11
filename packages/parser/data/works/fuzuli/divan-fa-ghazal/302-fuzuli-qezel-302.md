@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-302
 sourceId: ganjoor-117008
-titleAz: شمارهٔ ۳۰۲
+titleAz: Qəzəl 302
+titleRu: Газель 302
 titleFa: شمارهٔ ۳۰۲
+titleEn: Ghazal 302
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

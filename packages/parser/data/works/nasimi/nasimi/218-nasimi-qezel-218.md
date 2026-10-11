@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-218
 sourceId: ganjoor-117513
-titleAz: شمارهٔ ۲۱۸
+titleAz: Qəzəl 218
+titleRu: Газель 218
 titleFa: شمارهٔ ۲۱۸
+titleEn: Ghazal 218
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

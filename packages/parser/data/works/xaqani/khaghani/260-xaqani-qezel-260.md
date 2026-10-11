@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-260
 sourceId: ganjoor-14629
-titleAz: غزل شمارهٔ ۲۶۰
+titleAz: Qəzəl 260
+titleRu: Газель 260
 titleFa: غزل شمارهٔ ۲۶۰
+titleEn: Ghazal 260
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-149
 sourceId: ganjoor-14518
-titleAz: غزل شمارهٔ ۱۴۹
+titleAz: Qəzəl 149
+titleRu: Газель 149
 titleFa: غزل شمارهٔ ۱۴۹
+titleEn: Ghazal 149
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-25
 sourceId: ganjoor-117628
-titleAz: شمارهٔ ۲۵
+titleAz: Rübai 25
+titleRu: Рубаи 25
 titleFa: شمارهٔ ۲۵
+titleEn: Rubai 25
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

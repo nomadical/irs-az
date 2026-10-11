@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-301
 sourceId: ganjoor-14670
-titleAz: غزل شمارهٔ ۳۰۱
+titleAz: Qəzəl 301
+titleRu: Газель 301
 titleFa: غزل شمارهٔ ۳۰۱
+titleEn: Ghazal 301
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

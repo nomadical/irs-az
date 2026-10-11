@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-1
 sourceId: ganjoor-117700
-titleAz: شمارهٔ ۱ - ترجیع بند
+titleAz: Əlavə 1
+titleRu: Дополнение 1
 titleFa: شمارهٔ ۱ - ترجیع بند
+titleEn: Addendum 1
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

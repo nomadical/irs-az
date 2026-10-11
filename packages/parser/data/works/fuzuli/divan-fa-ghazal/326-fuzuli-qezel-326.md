@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-326
 sourceId: ganjoor-117032
-titleAz: شمارهٔ ۳۲۶
+titleAz: Qəzəl 326
+titleRu: Газель 326
 titleFa: شمارهٔ ۳۲۶
+titleEn: Ghazal 326
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

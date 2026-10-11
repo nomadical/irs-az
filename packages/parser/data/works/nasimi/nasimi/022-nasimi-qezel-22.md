@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-22
 sourceId: ganjoor-117317
-titleAz: شمارهٔ ۲۲
+titleAz: Qəzəl 22
+titleRu: Газель 22
 titleFa: شمارهٔ ۲۲
+titleEn: Ghazal 22
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

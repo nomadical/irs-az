@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-388
 sourceId: ganjoor-14757
-titleAz: غزل شمارهٔ ۳۸۸
+titleAz: Qəzəl 388
+titleRu: Газель 388
 titleFa: غزل شمارهٔ ۳۸۸
+titleEn: Ghazal 388
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

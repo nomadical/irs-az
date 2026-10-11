@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-48
 sourceId: ganjoor-117651
-titleAz: شمارهٔ ۴۸
+titleAz: Rübai 48
+titleRu: Рубаи 48
 titleFa: شمارهٔ ۴۸
+titleEn: Rubai 48
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

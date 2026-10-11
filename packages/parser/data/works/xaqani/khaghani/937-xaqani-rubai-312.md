@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-312
 sourceId: ganjoor-15307
-titleAz: رباعی شمارهٔ   ۳۱۲
+titleAz: Rübai 312
+titleRu: Рубаи 312
 titleFa: رباعی شمارهٔ   ۳۱۲
+titleEn: Rubai 312
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

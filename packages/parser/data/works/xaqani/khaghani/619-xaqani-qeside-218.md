@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-218
 sourceId: ganjoor-14988
-titleAz: شمارهٔ ۲۱۸ - در حکمت و قناعت و عزلت
+titleAz: Qəsidə 218
+titleRu: Касыда 218
 titleFa: شمارهٔ ۲۱۸ - در حکمت و قناعت و عزلت
+titleEn: Qasida 218
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

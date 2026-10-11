@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-260
 sourceId: ganjoor-27923
-titleAz: شمارهٔ ۲۶۰
+titleAz: Qitə 260
+titleRu: Кыта 260
 titleFa: شمارهٔ ۲۶۰
+titleEn: Qit'a 260
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

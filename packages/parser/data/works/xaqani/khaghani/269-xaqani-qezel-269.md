@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-269
 sourceId: ganjoor-14638
-titleAz: غزل شمارهٔ ۲۶۹
+titleAz: Qəzəl 269
+titleRu: Газель 269
 titleFa: غزل شمارهٔ ۲۶۹
+titleEn: Ghazal 269
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

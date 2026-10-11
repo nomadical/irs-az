@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-382
 sourceId: ganjoor-14751
-titleAz: غزل شمارهٔ ۳۸۲
+titleAz: Qəzəl 382
+titleRu: Газель 382
 titleFa: غزل شمارهٔ ۳۸۲
+titleEn: Ghazal 382
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

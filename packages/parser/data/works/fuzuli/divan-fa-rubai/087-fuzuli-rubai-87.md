@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-87
 sourceId: ganjoor-117251
-titleAz: شمارهٔ ۸۷
+titleAz: Rübai 87
+titleRu: Рубаи 87
 titleFa: شمارهٔ ۸۷
+titleEn: Rubai 87
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

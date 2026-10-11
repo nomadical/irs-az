@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-393
 sourceId: ganjoor-14762
-titleAz: غزل شمارهٔ ۳۹۳
+titleAz: Qəzəl 393
+titleRu: Газель 393
 titleFa: غزل شمارهٔ ۳۹۳
+titleEn: Ghazal 393
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

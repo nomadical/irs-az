@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-37
 sourceId: ganjoor-9186
-titleAz: بخش ۳۷ - رفتن اسکندر به دز سریر
+titleAz: 'Şərəfnamə, fəsil 37'
+titleRu: 'Шараф-наме, глава 37'
 titleFa: بخش ۳۷ - رفتن اسکندر به دز سریر
+titleEn: 'Sharafnama, chapter 37'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

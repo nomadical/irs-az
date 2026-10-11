@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-saqiname-4
 sourceId: ganjoor-117279
-titleAz: بخش ۴ - نشأه جام دوم
+titleAz: 'Saqinamə, fəsil 4'
+titleRu: 'Саки-наме, глава 4'
 titleFa: بخش ۴ - نشأه جام دوم
+titleEn: 'Saqi-nama, chapter 4'
 authorSlug: fuzuli
 collectionSlug: saqiname
 originalLang: FA

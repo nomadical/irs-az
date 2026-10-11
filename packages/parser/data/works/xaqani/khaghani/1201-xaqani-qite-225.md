@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-225
 sourceId: ganjoor-27888
-titleAz: شمارهٔ ۲۲۵ - در شکر عطای جاریه که پادشاه وقت به او کرده است
+titleAz: Qitə 225
+titleRu: Кыта 225
 titleFa: شمارهٔ ۲۲۵ - در شکر عطای جاریه که پادشاه وقت به او کرده است
+titleEn: Qit'a 225
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

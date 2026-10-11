@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qezel-7
 sourceId: ganjoor-133901
-titleAz: شمارهٔ ۷
+titleAz: Qəzəl 7
+titleRu: Газель 7
 titleFa: شمارهٔ ۷
+titleEn: Ghazal 7
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

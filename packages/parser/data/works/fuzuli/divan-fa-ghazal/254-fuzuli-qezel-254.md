@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-254
 sourceId: ganjoor-116960
-titleAz: شمارهٔ ۲۵۴
+titleAz: Qəzəl 254
+titleRu: Газель 254
 titleFa: شمارهٔ ۲۵۴
+titleEn: Ghazal 254
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

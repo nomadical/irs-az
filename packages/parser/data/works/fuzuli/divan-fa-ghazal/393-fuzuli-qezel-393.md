@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-393
 sourceId: ganjoor-117099
-titleAz: شمارهٔ ۳۹۳
+titleAz: Qəzəl 393
+titleRu: Газель 393
 titleFa: شمارهٔ ۳۹۳
+titleEn: Ghazal 393
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

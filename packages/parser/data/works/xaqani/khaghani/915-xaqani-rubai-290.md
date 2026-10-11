@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-290
 sourceId: ganjoor-15285
-titleAz: رباعی شمارهٔ   ۲۹۰
+titleAz: Rübai 290
+titleRu: Рубаи 290
 titleFa: رباعی شمارهٔ   ۲۹۰
+titleEn: Rubai 290
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

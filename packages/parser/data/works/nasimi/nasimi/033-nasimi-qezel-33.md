@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-33
 sourceId: ganjoor-117328
-titleAz: شمارهٔ ۳۳
+titleAz: Qəzəl 33
+titleRu: Газель 33
 titleFa: شمارهٔ ۳۳
+titleEn: Ghazal 33
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

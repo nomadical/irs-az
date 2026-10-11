@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-116
 sourceId: ganjoor-117411
-titleAz: شمارهٔ ۱۱۶
+titleAz: Qəzəl 116
+titleRu: Газель 116
 titleFa: شمارهٔ ۱۱۶
+titleEn: Ghazal 116
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

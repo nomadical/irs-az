@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-249
 sourceId: ganjoor-14618
-titleAz: غزل شمارهٔ ۲۴۹
+titleAz: Qəzəl 249
+titleRu: Газель 249
 titleFa: غزل شمارهٔ ۲۴۹
+titleEn: Ghazal 249
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

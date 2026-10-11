@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-80
 sourceId: ganjoor-14449
-titleAz: غزل شمارهٔ ۸۰
+titleAz: Qəzəl 80
+titleRu: Газель 80
 titleFa: غزل شمارهٔ ۸۰
+titleEn: Ghazal 80
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

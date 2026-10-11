@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-92
 sourceId: ganjoor-133816
-titleAz: شمارهٔ ۹۲
+titleAz: Rübai 92
+titleRu: Рубаи 92
 titleFa: شمارهٔ ۹۲
+titleEn: Rubai 92
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

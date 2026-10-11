@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-165
 sourceId: ganjoor-116871
-titleAz: شمارهٔ ۱۶۵
+titleAz: Qəzəl 165
+titleRu: Газель 165
 titleFa: شمارهٔ ۱۶۵
+titleEn: Ghazal 165
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-98
 sourceId: ganjoor-50158
-titleAz: رباعی شمارۀ ۹۸
+titleAz: 'Rübailər, 98'
+titleRu: 'Рубайят, 98'
 titleFa: رباعی شمارۀ ۹۸
+titleEn: 'Rubaiyat, 98'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

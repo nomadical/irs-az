@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-78
 sourceId: ganjoor-15073
-titleAz: رباعی شمارهٔ   ۷۸
+titleAz: Rübai 78
+titleRu: Рубаи 78
 titleFa: رباعی شمارهٔ   ۷۸
+titleEn: Rubai 78
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

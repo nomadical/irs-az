@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-4
 sourceId: ganjoor-27667
-titleAz: شمارهٔ ۴ - در شکر
+titleAz: Qitə 4
+titleRu: Кыта 4
 titleFa: شمارهٔ ۴ - در شکر
+titleEn: Qit'a 4
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

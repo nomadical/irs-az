@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-34
 sourceId: ganjoor-117637
-titleAz: شمارهٔ ۳۴
+titleAz: Rübai 34
+titleRu: Рубаи 34
 titleFa: شمارهٔ ۳۴
+titleEn: Rubai 34
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

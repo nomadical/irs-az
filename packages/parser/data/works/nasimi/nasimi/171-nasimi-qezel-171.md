@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-171
 sourceId: ganjoor-117466
-titleAz: شمارهٔ ۱۷۱
+titleAz: Qəzəl 171
+titleRu: Газель 171
 titleFa: شمارهٔ ۱۷۱
+titleEn: Ghazal 171
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

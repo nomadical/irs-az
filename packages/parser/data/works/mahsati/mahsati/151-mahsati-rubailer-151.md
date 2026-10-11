@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-151
 sourceId: ganjoor-50211
-titleAz: رباعی شمارۀ ۱۵۱
+titleAz: 'Rübailər, 151'
+titleRu: 'Рубайят, 151'
 titleFa: رباعی شمارۀ ۱۵۱
+titleEn: 'Rubaiyat, 151'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

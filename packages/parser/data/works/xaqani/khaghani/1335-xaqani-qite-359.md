@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-359
 sourceId: ganjoor-28022
-titleAz: شمارهٔ ۳۵۹
+titleAz: Qitə 359
+titleRu: Кыта 359
 titleFa: شمارهٔ ۳۵۹
+titleEn: Qit'a 359
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

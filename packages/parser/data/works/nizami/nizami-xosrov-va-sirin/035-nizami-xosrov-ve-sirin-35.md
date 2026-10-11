@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-35
 sourceId: ganjoor-8899
-titleAz: بخش ۳۵ - به هم رسیدن خسرو و شیرین در شکارگاه
+titleAz: 'Xosrov və Şirin, fəsil 35'
+titleRu: 'Хосров и Ширин, глава 35'
 titleFa: بخش ۳۵ - به هم رسیدن خسرو و شیرین در شکارگاه
+titleEn: 'Khosrow and Shirin, chapter 35'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

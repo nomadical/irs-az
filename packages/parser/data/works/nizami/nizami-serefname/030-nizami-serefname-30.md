@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-30
 sourceId: ganjoor-9179
-titleAz: بخش ۳۰ - به پادشاهی نشستن اسکندر در اصطخر
+titleAz: 'Şərəfnamə, fəsil 30'
+titleRu: 'Шараф-наме, глава 30'
 titleFa: بخش ۳۰ - به پادشاهی نشستن اسکندر در اصطخر
+titleEn: 'Sharafnama, chapter 30'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

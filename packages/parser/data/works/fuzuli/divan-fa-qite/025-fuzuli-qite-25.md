@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-25
 sourceId: ganjoor-117142
-titleAz: شمارهٔ ۲۵
+titleAz: Qitə 25
+titleRu: Кыта 25
 titleFa: شمارهٔ ۲۵
+titleEn: Qit'a 25
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

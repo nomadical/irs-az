@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-120
 sourceId: ganjoor-116826
-titleAz: شمارهٔ ۱۲۰
+titleAz: Qəzəl 120
+titleRu: Газель 120
 titleFa: شمارهٔ ۱۲۰
+titleEn: Ghazal 120
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-191
 sourceId: ganjoor-27854
-titleAz: شمارهٔ ۱۹۱
+titleAz: Qitə 191
+titleRu: Кыта 191
 titleFa: شمارهٔ ۱۹۱
+titleEn: Qit'a 191
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

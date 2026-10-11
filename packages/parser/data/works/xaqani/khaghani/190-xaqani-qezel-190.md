@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-190
 sourceId: ganjoor-14559
-titleAz: غزل شمارهٔ ۱۹۰
+titleAz: Qəzəl 190
+titleRu: Газель 190
 titleFa: غزل شمارهٔ ۱۹۰
+titleEn: Ghazal 190
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-100
 sourceId: ganjoor-133824
-titleAz: شمارهٔ ۱۰۰
+titleAz: Rübai 100
+titleRu: Рубаи 100
 titleFa: شمارهٔ ۱۰۰
+titleEn: Rubai 100
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

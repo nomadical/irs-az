@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-186
 sourceId: ganjoor-15181
-titleAz: رباعی شمارهٔ   ۱۸۶
+titleAz: Rübai 186
+titleRu: Рубаи 186
 titleFa: رباعی شمارهٔ   ۱۸۶
+titleEn: Rubai 186
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

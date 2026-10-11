@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-90
 sourceId: ganjoor-133814
-titleAz: شمارهٔ ۹۰
+titleAz: Rübai 90
+titleRu: Рубаи 90
 titleFa: شمارهٔ ۹۰
+titleEn: Rubai 90
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

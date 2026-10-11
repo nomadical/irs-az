@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qezel-6
 sourceId: ganjoor-133900
-titleAz: شمارهٔ ۶
+titleAz: Qəzəl 6
+titleRu: Газель 6
 titleFa: شمارهٔ ۶
+titleEn: Ghazal 6
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

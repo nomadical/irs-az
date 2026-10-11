@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-83
 sourceId: ganjoor-14452
-titleAz: غزل شمارهٔ ۸۳
+titleAz: Qəzəl 83
+titleRu: Газель 83
 titleFa: غزل شمارهٔ ۸۳
+titleEn: Ghazal 83
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

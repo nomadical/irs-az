@@ -1,8 +1,10 @@
 ---
 slug: mahsati-qite-18
 sourceId: ganjoor-133922
-titleAz: شمارهٔ  ۱۸
+titleAz: Qitə 18
+titleRu: Кыта 18
 titleFa: شمارهٔ  ۱۸
+titleEn: Qit'a 18
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

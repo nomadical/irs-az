@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-49
 sourceId: ganjoor-14819
-titleAz: شمارهٔ ۴۹ - قصیده
+titleAz: Qəsidə 49
+titleRu: Касыда 49
 titleFa: شمارهٔ ۴۹ - قصیده
+titleEn: Qasida 49
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

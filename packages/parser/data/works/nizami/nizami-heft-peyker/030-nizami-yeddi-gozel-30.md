@@ -1,12 +1,12 @@
 ---
 slug: nizami-yeddi-gozel-30
 sourceId: ganjoor-9078
-titleAz: >-
-  بخش ۳۰ - نشستن بهرام روز چهارشنبه در گنبد پیروزه رنگ و افسانه گفتن دختر پادشاه
-  اقلیم پنجم
+titleAz: 'Yeddi gözəl, fəsil 30'
+titleRu: 'Семь красавиц, глава 30'
 titleFa: >-
   بخش ۳۰ - نشستن بهرام روز چهارشنبه در گنبد پیروزه رنگ و افسانه گفتن دختر پادشاه
   اقلیم پنجم
+titleEn: 'The Seven Beauties, chapter 30'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

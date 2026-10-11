@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-310
 sourceId: ganjoor-14679
-titleAz: غزل شمارهٔ ۳۱۰
+titleAz: Qəzəl 310
+titleRu: Газель 310
 titleFa: غزل شمارهٔ ۳۱۰
+titleEn: Ghazal 310
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

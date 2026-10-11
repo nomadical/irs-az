@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-15
 sourceId: ganjoor-15010
-titleAz: رباعی شمارهٔ   ۱۵
+titleAz: Rübai 15
+titleRu: Рубаи 15
 titleFa: رباعی شمارهٔ   ۱۵
+titleEn: Rubai 15
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

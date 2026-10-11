@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-176
 sourceId: ganjoor-117471
-titleAz: شمارهٔ ۱۷۶
+titleAz: Qəzəl 176
+titleRu: Газель 176
 titleFa: شمارهٔ ۱۷۶
+titleEn: Ghazal 176
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

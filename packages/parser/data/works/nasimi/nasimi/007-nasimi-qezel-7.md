@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-7
 sourceId: ganjoor-117302
-titleAz: شمارهٔ ۷ - ستایش فضل‌الله نعیمی
+titleAz: Qəzəl 7
+titleRu: Газель 7
 titleFa: شمارهٔ ۷ - ستایش فضل‌الله نعیمی
+titleEn: Ghazal 7
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

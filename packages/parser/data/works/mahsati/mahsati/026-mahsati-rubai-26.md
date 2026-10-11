@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-26
 sourceId: ganjoor-133750
-titleAz: شمارهٔ ۲۶
+titleAz: Rübai 26
+titleRu: Рубаи 26
 titleFa: شمارهٔ ۲۶
+titleEn: Rubai 26
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

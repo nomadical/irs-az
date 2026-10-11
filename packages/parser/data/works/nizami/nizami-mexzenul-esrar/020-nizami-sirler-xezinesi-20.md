@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-20
 sourceId: ganjoor-9282
-titleAz: بخش ۲۰ - مقالت اول در آفرینش آدم
+titleAz: 'Sirlər xəzinəsi, fəsil 20'
+titleRu: 'Сокровищница тайн, глава 20'
 titleFa: بخش ۲۰ - مقالت اول در آفرینش آدم
+titleEn: 'The Treasury of Mysteries, chapter 20'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

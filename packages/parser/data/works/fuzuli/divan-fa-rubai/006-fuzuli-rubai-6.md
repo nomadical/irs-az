@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-6
 sourceId: ganjoor-117170
-titleAz: شمارهٔ ۶
+titleAz: Rübai 6
+titleRu: Рубаи 6
 titleFa: شمارهٔ ۶
+titleEn: Rubai 6
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

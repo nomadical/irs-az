@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-194
 sourceId: ganjoor-14563
-titleAz: غزل شمارهٔ ۱۹۴
+titleAz: Qəzəl 194
+titleRu: Газель 194
 titleFa: غزل شمارهٔ ۱۹۴
+titleEn: Ghazal 194
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

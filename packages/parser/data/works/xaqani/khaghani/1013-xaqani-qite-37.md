@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-37
 sourceId: ganjoor-27700
-titleAz: شمارهٔ ۳۷
+titleAz: Qitə 37
+titleRu: Кыта 37
 titleFa: شمارهٔ ۳۷
+titleEn: Qit'a 37
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

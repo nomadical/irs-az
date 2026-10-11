@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-213
 sourceId: ganjoor-116919
-titleAz: شمارهٔ ۲۱۳
+titleAz: Qəzəl 213
+titleRu: Газель 213
 titleFa: شمارهٔ ۲۱۳
+titleEn: Ghazal 213
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

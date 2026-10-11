@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-165
 sourceId: ganjoor-27828
-titleAz: شمارهٔ ۱۶۵
+titleAz: Qitə 165
+titleRu: Кыта 165
 titleFa: شمارهٔ ۱۶۵
+titleEn: Qit'a 165
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

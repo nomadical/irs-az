@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-3
 sourceId: ganjoor-9152
-titleAz: بخش ۳ - در نعت خواجه کاینات
+titleAz: 'Şərəfnamə, fəsil 3'
+titleRu: 'Шараф-наме, глава 3'
 titleFa: بخش ۳ - در نعت خواجه کاینات
+titleEn: 'Sharafnama, chapter 3'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

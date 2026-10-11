@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-36
 sourceId: ganjoor-9038
-titleAz: بخش ۳۶ - نامهٔ مجنون در پاسخ لیلی
+titleAz: 'Leyli və Məcnun, fəsil 36'
+titleRu: 'Лейли и Меджнун, глава 36'
 titleFa: بخش ۳۶ - نامهٔ مجنون در پاسخ لیلی
+titleEn: 'Layla and Majnun, chapter 36'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

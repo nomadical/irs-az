@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-192
 sourceId: ganjoor-116898
-titleAz: شمارهٔ ۱۹۲
+titleAz: Qəzəl 192
+titleRu: Газель 192
 titleFa: شمارهٔ ۱۹۲
+titleEn: Ghazal 192
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

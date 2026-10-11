@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-67
 sourceId: ganjoor-15062
-titleAz: رباعی شمارهٔ   ۶۷
+titleAz: Rübai 67
+titleRu: Рубаи 67
 titleFa: رباعی شمارهٔ   ۶۷
+titleEn: Rubai 67
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

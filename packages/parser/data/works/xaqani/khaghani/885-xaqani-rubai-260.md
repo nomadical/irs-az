@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-260
 sourceId: ganjoor-15255
-titleAz: رباعی شمارهٔ   ۲۶۰
+titleAz: Rübai 260
+titleRu: Рубаи 260
 titleFa: رباعی شمارهٔ   ۲۶۰
+titleEn: Rubai 260
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

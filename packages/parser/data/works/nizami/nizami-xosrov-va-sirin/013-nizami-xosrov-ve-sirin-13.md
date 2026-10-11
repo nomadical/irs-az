@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-13
 sourceId: ganjoor-8877
-titleAz: بخش ۱۳ - عذر انگیزی در نظم کتاب
+titleAz: 'Xosrov və Şirin, fəsil 13'
+titleRu: 'Хосров и Ширин, глава 13'
 titleFa: بخش ۱۳ - عذر انگیزی در نظم کتاب
+titleEn: 'Khosrow and Shirin, chapter 13'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

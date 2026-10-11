@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-42
 sourceId: ganjoor-116698
-titleAz: شمارهٔ ۴۲
+titleAz: Qəsidə 42
+titleRu: Касыда 42
 titleFa: شمارهٔ ۴۲
+titleEn: Qasida 42
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

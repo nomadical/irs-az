@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-315
 sourceId: ganjoor-27978
-titleAz: شمارهٔ ۳۱۵
+titleAz: Qitə 315
+titleRu: Кыта 315
 titleFa: شمارهٔ ۳۱۵
+titleEn: Qit'a 315
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

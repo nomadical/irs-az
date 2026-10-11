@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-279
 sourceId: ganjoor-27942
-titleAz: شمارهٔ ۲۷۹
+titleAz: Qitə 279
+titleRu: Кыта 279
 titleFa: شمارهٔ ۲۷۹
+titleEn: Qit'a 279
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

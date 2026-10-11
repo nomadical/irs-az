@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-98
 sourceId: ganjoor-15093
-titleAz: رباعی شمارهٔ   ۹۸
+titleAz: Rübai 98
+titleRu: Рубаи 98
 titleFa: رباعی شمارهٔ   ۹۸
+titleEn: Rubai 98
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

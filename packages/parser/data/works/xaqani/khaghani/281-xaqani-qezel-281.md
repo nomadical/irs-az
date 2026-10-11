@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-281
 sourceId: ganjoor-14650
-titleAz: غزل شمارهٔ ۲۸۱
+titleAz: Qəzəl 281
+titleRu: Газель 281
 titleFa: غزل شمارهٔ ۲۸۱
+titleEn: Ghazal 281
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

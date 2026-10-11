@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-294
 sourceId: ganjoor-27957
-titleAz: شمارهٔ ۲۹۴ - بالبدیهه در صفت خربزه
+titleAz: Qitə 294
+titleRu: Кыта 294
 titleFa: شمارهٔ ۲۹۴ - بالبدیهه در صفت خربزه
+titleEn: Qit'a 294
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

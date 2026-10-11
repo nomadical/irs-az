@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-111
 sourceId: ganjoor-116817
-titleAz: شمارهٔ ۱۱۱
+titleAz: Qəzəl 111
+titleRu: Газель 111
 titleFa: شمارهٔ ۱۱۱
+titleEn: Ghazal 111
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

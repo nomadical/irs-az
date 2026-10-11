@@ -1,8 +1,10 @@
 ---
 slug: nizami-leyli-ve-mecnun-35
 sourceId: ganjoor-9037
-titleAz: بخش ۳۵ - رسیدن نامهٔ لیلی به مجنون
+titleAz: 'Leyli və Məcnun, fəsil 35'
+titleRu: 'Лейли и Меджнун, глава 35'
 titleFa: بخش ۳۵ - رسیدن نامهٔ لیلی به مجنون
+titleEn: 'Layla and Majnun, chapter 35'
 authorSlug: nizami
 collectionSlug: nizami-leyli-va-macnun
 originalLang: FA

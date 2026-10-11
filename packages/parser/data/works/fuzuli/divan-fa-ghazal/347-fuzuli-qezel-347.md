@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-347
 sourceId: ganjoor-117053
-titleAz: شمارهٔ ۳۴۷
+titleAz: Qəzəl 347
+titleRu: Газель 347
 titleFa: شمارهٔ ۳۴۷
+titleEn: Ghazal 347
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-49
 sourceId: ganjoor-14418
-titleAz: غزل شمارهٔ ۴۹
+titleAz: Qəzəl 49
+titleRu: Газель 49
 titleFa: غزل شمارهٔ ۴۹
+titleEn: Ghazal 49
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

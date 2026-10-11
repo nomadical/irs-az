@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-61
 sourceId: ganjoor-8925
-titleAz: بخش ۶۱ - تعزیت‌نامهٔ خسرو به شیرین به افسوس
+titleAz: 'Xosrov və Şirin, fəsil 61'
+titleRu: 'Хосров и Ширин, глава 61'
 titleFa: بخش ۶۱ - تعزیت‌نامهٔ خسرو به شیرین به افسوس
+titleEn: 'Khosrow and Shirin, chapter 61'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

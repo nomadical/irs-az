@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-90
 sourceId: ganjoor-50150
-titleAz: رباعی شمارۀ ۹۰
+titleAz: 'Rübailər, 90'
+titleRu: 'Рубайят, 90'
 titleFa: رباعی شمارۀ ۹۰
+titleEn: 'Rubaiyat, 90'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

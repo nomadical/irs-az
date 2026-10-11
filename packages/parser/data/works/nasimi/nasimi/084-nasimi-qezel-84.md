@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-84
 sourceId: ganjoor-117379
-titleAz: شمارهٔ ۸۴
+titleAz: Qəzəl 84
+titleRu: Газель 84
 titleFa: شمارهٔ ۸۴
+titleEn: Ghazal 84
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

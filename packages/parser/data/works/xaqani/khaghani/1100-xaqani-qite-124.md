@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-124
 sourceId: ganjoor-27787
-titleAz: شمارهٔ ۱۲۴ - در مدح اقضی القضاة عز الدین بوعمران
+titleAz: Qitə 124
+titleRu: Кыта 124
 titleFa: شمارهٔ ۱۲۴ - در مدح اقضی القضاة عز الدین بوعمران
+titleEn: Qit'a 124
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

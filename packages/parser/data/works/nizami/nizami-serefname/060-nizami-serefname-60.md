@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-60
 sourceId: ganjoor-9209
-titleAz: بخش ۶۰ - رفتن اسکندر به ظلمات
+titleAz: 'Şərəfnamə, fəsil 60'
+titleRu: 'Шараф-наме, глава 60'
 titleFa: بخش ۶۰ - رفتن اسکندر به ظلمات
+titleEn: 'Sharafnama, chapter 60'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

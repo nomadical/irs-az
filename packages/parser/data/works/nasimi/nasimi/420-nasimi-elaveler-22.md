@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-22
 sourceId: ganjoor-117721
-titleAz: شمارهٔ ۲۲
+titleAz: Əlavə 22
+titleRu: Дополнение 22
 titleFa: شمارهٔ ۲۲
+titleEn: Addendum 22
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

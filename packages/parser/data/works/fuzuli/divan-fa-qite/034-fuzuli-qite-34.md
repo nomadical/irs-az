@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qite-34
 sourceId: ganjoor-117151
-titleAz: شمارهٔ ۳۴
+titleAz: Qitə 34
+titleRu: Кыта 34
 titleFa: شمارهٔ ۳۴
+titleEn: Qit'a 34
 authorSlug: fuzuli
 collectionSlug: divan-fa-qite
 originalLang: FA

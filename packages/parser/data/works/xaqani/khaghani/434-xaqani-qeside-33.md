@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-33
 sourceId: ganjoor-14803
-titleAz: شمارهٔ ۳۳ - در مدح خاقان کبیر ابوالمظفر اخستان شروان شاه و ملکه
+titleAz: Qəsidə 33
+titleRu: Касыда 33
 titleFa: شمارهٔ ۳۳ - در مدح خاقان کبیر ابوالمظفر اخستان شروان شاه و ملکه
+titleEn: Qasida 33
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

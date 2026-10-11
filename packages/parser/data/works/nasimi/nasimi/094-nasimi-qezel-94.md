@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-94
 sourceId: ganjoor-117389
-titleAz: شمارهٔ ۹۴
+titleAz: Qəzəl 94
+titleRu: Газель 94
 titleFa: شمارهٔ ۹۴
+titleEn: Ghazal 94
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-30
 sourceId: ganjoor-117325
-titleAz: شمارهٔ ۳۰
+titleAz: Qəzəl 30
+titleRu: Газель 30
 titleFa: شمارهٔ ۳۰
+titleEn: Ghazal 30
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

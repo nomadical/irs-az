@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-24
 sourceId: ganjoor-15019
-titleAz: رباعی شمارهٔ   ۲۴
+titleAz: Rübai 24
+titleRu: Рубаи 24
 titleFa: رباعی شمارهٔ   ۲۴
+titleEn: Rubai 24
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

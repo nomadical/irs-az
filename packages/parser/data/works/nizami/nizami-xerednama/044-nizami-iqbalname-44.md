@@ -1,8 +1,10 @@
 ---
 slug: nizami-iqbalname-44
 sourceId: ganjoor-9256
-titleAz: بخش ۴۴ - انجامش روزگار افلاطون
+titleAz: 'İqbalnamə, fəsil 44'
+titleRu: 'Икбал-наме, глава 44'
 titleFa: بخش ۴۴ - انجامش روزگار افلاطون
+titleEn: 'Iqbalnama, chapter 44'
 authorSlug: nizami
 collectionSlug: nizami-xerednama
 originalLang: FA

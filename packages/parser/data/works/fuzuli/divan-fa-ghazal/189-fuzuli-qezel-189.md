@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-189
 sourceId: ganjoor-116895
-titleAz: شمارهٔ ۱۸۹
+titleAz: Qəzəl 189
+titleRu: Газель 189
 titleFa: شمارهٔ ۱۸۹
+titleEn: Ghazal 189
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

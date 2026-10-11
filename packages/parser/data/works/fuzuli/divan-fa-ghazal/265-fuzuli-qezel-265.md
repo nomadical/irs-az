@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-265
 sourceId: ganjoor-116971
-titleAz: شمارهٔ ۲۶۵
+titleAz: Qəzəl 265
+titleRu: Газель 265
 titleFa: شمارهٔ ۲۶۵
+titleEn: Ghazal 265
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

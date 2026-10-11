@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-170
 sourceId: ganjoor-14940
-titleAz: شمارهٔ ۱۷۰ - در مذمت مغرضان و حسودان
+titleAz: Qəsidə 170
+titleRu: Касыда 170
 titleFa: شمارهٔ ۱۷۰ - در مذمت مغرضان و حسودان
+titleEn: Qasida 170
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

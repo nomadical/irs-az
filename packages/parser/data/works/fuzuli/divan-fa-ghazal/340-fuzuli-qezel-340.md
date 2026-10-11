@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-340
 sourceId: ganjoor-117046
-titleAz: شمارهٔ ۳۴۰
+titleAz: Qəzəl 340
+titleRu: Газель 340
 titleFa: شمارهٔ ۳۴۰
+titleEn: Ghazal 340
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

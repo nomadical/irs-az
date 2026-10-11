@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-361
 sourceId: ganjoor-117067
-titleAz: شمارهٔ ۳۶۱
+titleAz: Qəzəl 361
+titleRu: Газель 361
 titleFa: شمارهٔ ۳۶۱
+titleEn: Ghazal 361
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

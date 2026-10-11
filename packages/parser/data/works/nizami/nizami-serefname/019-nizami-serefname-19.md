@@ -1,8 +1,10 @@
 ---
 slug: nizami-serefname-19
 sourceId: ganjoor-9168
-titleAz: بخش ۱۹ - آیینه ساختن اسکندر
+titleAz: 'Şərəfnamə, fəsil 19'
+titleRu: 'Шараф-наме, глава 19'
 titleFa: بخش ۱۹ - آیینه ساختن اسکندر
+titleEn: 'Sharafnama, chapter 19'
 authorSlug: nizami
 collectionSlug: nizami-serefname
 originalLang: FA

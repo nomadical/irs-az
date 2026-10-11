@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-300
 sourceId: ganjoor-15295
-titleAz: رباعی شمارهٔ   ۳۰۰
+titleAz: Rübai 300
+titleRu: Рубаи 300
 titleFa: رباعی شمارهٔ   ۳۰۰
+titleEn: Rubai 300
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

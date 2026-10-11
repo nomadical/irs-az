@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-52
 sourceId: ganjoor-133776
-titleAz: شمارهٔ ۵۲
+titleAz: Rübai 52
+titleRu: Рубаи 52
 titleFa: شمارهٔ ۵۲
+titleEn: Rubai 52
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

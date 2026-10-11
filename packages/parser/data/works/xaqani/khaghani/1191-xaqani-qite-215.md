@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-215
 sourceId: ganjoor-27878
-titleAz: شمارهٔ ۲۱۵
+titleAz: Qitə 215
+titleRu: Кыта 215
 titleFa: شمارهٔ ۲۱۵
+titleEn: Qit'a 215
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

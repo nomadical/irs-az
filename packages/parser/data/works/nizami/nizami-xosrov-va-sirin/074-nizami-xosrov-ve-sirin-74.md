@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-74
 sourceId: ganjoor-8938
-titleAz: بخش ۷۴ - پاسخ دادن خسرو شیرین را
+titleAz: 'Xosrov və Şirin, fəsil 74'
+titleRu: 'Хосров и Ширин, глава 74'
 titleFa: بخش ۷۴ - پاسخ دادن خسرو شیرین را
+titleEn: 'Khosrow and Shirin, chapter 74'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

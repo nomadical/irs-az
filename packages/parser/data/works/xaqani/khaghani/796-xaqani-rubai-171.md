@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-171
 sourceId: ganjoor-15166
-titleAz: رباعی شمارهٔ   ۱۷۱
+titleAz: Rübai 171
+titleRu: Рубаи 171
 titleFa: رباعی شمارهٔ   ۱۷۱
+titleEn: Rubai 171
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

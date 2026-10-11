@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-28
 sourceId: ganjoor-27691
-titleAz: شمارهٔ ۲۸ - در مدح جمال الانام حسام الدین
+titleAz: Qitə 28
+titleRu: Кыта 28
 titleFa: شمارهٔ ۲۸ - در مدح جمال الانام حسام الدین
+titleEn: Qit'a 28
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

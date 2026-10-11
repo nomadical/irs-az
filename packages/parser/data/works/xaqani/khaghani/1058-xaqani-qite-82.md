@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-82
 sourceId: ganjoor-27745
-titleAz: شمارهٔ ۸۲ - در شکر باری تعالی
+titleAz: Qitə 82
+titleRu: Кыта 82
 titleFa: شمارهٔ ۸۲ - در شکر باری تعالی
+titleEn: Qit'a 82
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-235
 sourceId: ganjoor-14604
-titleAz: غزل شمارهٔ ۲۳۵
+titleAz: Qəzəl 235
+titleRu: Газель 235
 titleFa: غزل شمارهٔ ۲۳۵
+titleEn: Ghazal 235
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-195
 sourceId: ganjoor-14564
-titleAz: غزل شمارهٔ ۱۹۵
+titleAz: Qəzəl 195
+titleRu: Газель 195
 titleFa: غزل شمارهٔ ۱۹۵
+titleEn: Ghazal 195
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

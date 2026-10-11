@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-190
 sourceId: ganjoor-15185
-titleAz: رباعی شمارهٔ   ۱۹۰
+titleAz: Rübai 190
+titleRu: Рубаи 190
 titleFa: رباعی شمارهٔ   ۱۹۰
+titleEn: Rubai 190
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

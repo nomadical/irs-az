@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-25
 sourceId: ganjoor-15020
-titleAz: رباعی شمارهٔ   ۲۵
+titleAz: Rübai 25
+titleRu: Рубаи 25
 titleFa: رباعی شمارهٔ   ۲۵
+titleEn: Rubai 25
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

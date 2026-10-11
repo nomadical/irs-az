@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-82
 sourceId: ganjoor-14451
-titleAz: غزل شمارهٔ ۸۲
+titleAz: Qəzəl 82
+titleRu: Газель 82
 titleFa: غزل شمارهٔ ۸۲
+titleEn: Ghazal 82
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

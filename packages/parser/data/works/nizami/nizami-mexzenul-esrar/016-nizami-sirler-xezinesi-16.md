@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-16
 sourceId: ganjoor-9278
-titleAz: بخش ۱۶ - خلوت اول در پرورش دل
+titleAz: 'Sirlər xəzinəsi, fəsil 16'
+titleRu: 'Сокровищница тайн, глава 16'
 titleFa: بخش ۱۶ - خلوت اول در پرورش دل
+titleEn: 'The Treasury of Mysteries, chapter 16'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

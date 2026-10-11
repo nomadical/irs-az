@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-113
 sourceId: ganjoor-50173
-titleAz: رباعی شمارۀ ۱۱۳
+titleAz: 'Rübailər, 113'
+titleRu: 'Рубайят, 113'
 titleFa: رباعی شمارۀ ۱۱۳
+titleEn: 'Rubaiyat, 113'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-305
 sourceId: ganjoor-15300
-titleAz: رباعی شمارهٔ   ۳۰۵
+titleAz: Rübai 305
+titleRu: Рубаи 305
 titleFa: رباعی شمارهٔ   ۳۰۵
+titleEn: Rubai 305
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-152
 sourceId: ganjoor-14521
-titleAz: غزل شمارهٔ ۱۵۲
+titleAz: Qəzəl 152
+titleRu: Газель 152
 titleFa: غزل شمارهٔ ۱۵۲
+titleEn: Ghazal 152
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

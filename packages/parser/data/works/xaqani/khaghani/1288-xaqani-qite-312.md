@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-312
 sourceId: ganjoor-27975
-titleAz: شمارهٔ ۳۱۲
+titleAz: Qitə 312
+titleRu: Кыта 312
 titleFa: شمارهٔ ۳۱۲
+titleEn: Qit'a 312
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-164
 sourceId: ganjoor-116870
-titleAz: شمارهٔ ۱۶۴
+titleAz: Qəzəl 164
+titleRu: Газель 164
 titleFa: شمارهٔ ۱۶۴
+titleEn: Ghazal 164
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

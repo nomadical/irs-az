@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-208
 sourceId: ganjoor-117503
-titleAz: شمارهٔ ۲۰۸
+titleAz: Qəzəl 208
+titleRu: Газель 208
 titleFa: شمارهٔ ۲۰۸
+titleEn: Ghazal 208
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

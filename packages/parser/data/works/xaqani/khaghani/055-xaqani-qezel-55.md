@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-55
 sourceId: ganjoor-14424
-titleAz: غزل شمارهٔ ۵۵
+titleAz: Qəzəl 55
+titleRu: Газель 55
 titleFa: غزل شمارهٔ ۵۵
+titleEn: Ghazal 55
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

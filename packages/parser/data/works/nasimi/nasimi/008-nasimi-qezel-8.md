@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-8
 sourceId: ganjoor-117303
-titleAz: شمارهٔ ۸
+titleAz: Qəzəl 8
+titleRu: Газель 8
 titleFa: شمارهٔ ۸
+titleEn: Ghazal 8
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

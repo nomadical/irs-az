@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-saqiname-7
 sourceId: ganjoor-117282
-titleAz: بخش ۷ - مناظره با چنگ
+titleAz: 'Saqinamə, fəsil 7'
+titleRu: 'Саки-наме, глава 7'
 titleFa: بخش ۷ - مناظره با چنگ
+titleEn: 'Saqi-nama, chapter 7'
 authorSlug: fuzuli
 collectionSlug: saqiname
 originalLang: FA

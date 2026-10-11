@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-215
 sourceId: ganjoor-116921
-titleAz: شمارهٔ ۲۱۵
+titleAz: Qəzəl 215
+titleRu: Газель 215
 titleFa: شمارهٔ ۲۱۵
+titleEn: Ghazal 215
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

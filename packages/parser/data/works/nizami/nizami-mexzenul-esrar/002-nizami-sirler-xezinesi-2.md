@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-2
 sourceId: ganjoor-9264
-titleAz: بخش ۲ - (مناجات اول) در سیاست و قهر یزدان
+titleAz: 'Sirlər xəzinəsi, fəsil 2'
+titleRu: 'Сокровищница тайн, глава 2'
 titleFa: بخش ۲ - (مناجات اول) در سیاست و قهر یزدان
+titleEn: 'The Treasury of Mysteries, chapter 2'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-32
 sourceId: ganjoor-14802
-titleAz: شمارهٔ ۳۲ - در مدح صفوة الدین بانوی شروان شاه
+titleAz: Qəsidə 32
+titleRu: Касыда 32
 titleFa: شمارهٔ ۳۲ - در مدح صفوة الدین بانوی شروان شاه
+titleEn: Qasida 32
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-328
 sourceId: ganjoor-14697
-titleAz: غزل شمارهٔ ۳۲۸
+titleAz: Qəzəl 328
+titleRu: Газель 328
 titleFa: غزل شمارهٔ ۳۲۸
+titleEn: Ghazal 328
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

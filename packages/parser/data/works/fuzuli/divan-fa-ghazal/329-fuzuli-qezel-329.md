@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-329
 sourceId: ganjoor-117035
-titleAz: شمارهٔ ۳۲۹
+titleAz: Qəzəl 329
+titleRu: Газель 329
 titleFa: شمارهٔ ۳۲۹
+titleEn: Ghazal 329
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

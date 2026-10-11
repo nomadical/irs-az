@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-39
 sourceId: ganjoor-117642
-titleAz: شمارهٔ ۳۹
+titleAz: Rübai 39
+titleRu: Рубаи 39
 titleFa: شمارهٔ ۳۹
+titleEn: Rubai 39
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

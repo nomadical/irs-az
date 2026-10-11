@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-140
 sourceId: ganjoor-14509
-titleAz: غزل شمارهٔ ۱۴۰
+titleAz: Qəzəl 140
+titleRu: Газель 140
 titleFa: غزل شمارهٔ ۱۴۰
+titleEn: Ghazal 140
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

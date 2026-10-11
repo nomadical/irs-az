@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-209
 sourceId: ganjoor-27872
-titleAz: شمارهٔ ۲۰۹
+titleAz: Qitə 209
+titleRu: Кыта 209
 titleFa: شمارهٔ ۲۰۹
+titleEn: Qit'a 209
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

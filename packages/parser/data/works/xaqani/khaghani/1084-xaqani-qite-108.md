@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-108
 sourceId: ganjoor-27771
-titleAz: شمارهٔ ۱۰۸ - در مدح مجاهد الدین نظام
+titleAz: Qitə 108
+titleRu: Кыта 108
 titleFa: شمارهٔ ۱۰۸ - در مدح مجاهد الدین نظام
+titleEn: Qit'a 108
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

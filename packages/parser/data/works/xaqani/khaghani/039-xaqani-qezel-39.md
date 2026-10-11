@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-39
 sourceId: ganjoor-14408
-titleAz: غزل شمارهٔ ۳۹
+titleAz: Qəzəl 39
+titleRu: Газель 39
 titleFa: غزل شمارهٔ ۳۹
+titleEn: Ghazal 39
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

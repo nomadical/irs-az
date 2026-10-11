@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-58
 sourceId: ganjoor-14427
-titleAz: غزل شمارهٔ ۵۸
+titleAz: Qəzəl 58
+titleRu: Газель 58
 titleFa: غزل شمارهٔ ۵۸
+titleEn: Ghazal 58
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

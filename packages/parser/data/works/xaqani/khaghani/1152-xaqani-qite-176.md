@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-176
 sourceId: ganjoor-27839
-titleAz: شمارهٔ ۱۷۶
+titleAz: Qitə 176
+titleRu: Кыта 176
 titleFa: شمارهٔ ۱۷۶
+titleEn: Qit'a 176
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

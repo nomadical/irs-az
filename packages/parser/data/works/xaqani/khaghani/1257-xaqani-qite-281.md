@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-281
 sourceId: ganjoor-27944
-titleAz: شمارهٔ ۲۸۱
+titleAz: Qitə 281
+titleRu: Кыта 281
 titleFa: شمارهٔ ۲۸۱
+titleEn: Qit'a 281
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

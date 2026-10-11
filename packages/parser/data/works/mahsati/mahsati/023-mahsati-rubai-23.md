@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-23
 sourceId: ganjoor-133747
-titleAz: شمارهٔ ۲۳
+titleAz: Rübai 23
+titleRu: Рубаи 23
 titleFa: شمارهٔ ۲۳
+titleEn: Rubai 23
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

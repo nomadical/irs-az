@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-195
 sourceId: ganjoor-116901
-titleAz: شمارهٔ ۱۹۵
+titleAz: Qəzəl 195
+titleRu: Газель 195
 titleFa: شمارهٔ ۱۹۵
+titleEn: Ghazal 195
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

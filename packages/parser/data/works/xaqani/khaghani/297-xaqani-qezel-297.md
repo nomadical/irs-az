@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-297
 sourceId: ganjoor-14666
-titleAz: غزل شمارهٔ ۲۹۷
+titleAz: Qəzəl 297
+titleRu: Газель 297
 titleFa: غزل شمارهٔ ۲۹۷
+titleEn: Ghazal 297
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

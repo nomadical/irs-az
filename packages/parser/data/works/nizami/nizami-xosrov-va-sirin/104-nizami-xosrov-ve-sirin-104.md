@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-104
 sourceId: ganjoor-8968
-titleAz: بخش ۱۰۴ - تمثیل موبد اول
+titleAz: 'Xosrov və Şirin, fəsil 104'
+titleRu: 'Хосров и Ширин, глава 104'
 titleFa: بخش ۱۰۴ - تمثیل موبد اول
+titleEn: 'Khosrow and Shirin, chapter 104'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

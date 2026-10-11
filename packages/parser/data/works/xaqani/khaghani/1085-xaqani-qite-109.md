@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-109
 sourceId: ganjoor-27772
-titleAz: شمارهٔ ۱۰۹
+titleAz: Qitə 109
+titleRu: Кыта 109
 titleFa: شمارهٔ ۱۰۹
+titleEn: Qit'a 109
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

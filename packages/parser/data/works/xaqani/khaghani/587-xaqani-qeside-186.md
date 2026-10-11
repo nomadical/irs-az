@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-186
 sourceId: ganjoor-14956
-titleAz: شمارهٔ ۱۸۶ - در تحقیق و وعظ و ذکر صفای صبح
+titleAz: Qəsidə 186
+titleRu: Касыда 186
 titleFa: شمارهٔ ۱۸۶ - در تحقیق و وعظ و ذکر صفای صبح
+titleEn: Qasida 186
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

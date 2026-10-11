@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-249
 sourceId: ganjoor-15244
-titleAz: رباعی شمارهٔ   ۲۴۹
+titleAz: Rübai 249
+titleRu: Рубаи 249
 titleFa: رباعی شمارهٔ   ۲۴۹
+titleEn: Rubai 249
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

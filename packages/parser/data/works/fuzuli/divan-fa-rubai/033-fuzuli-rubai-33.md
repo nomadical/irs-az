@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-33
 sourceId: ganjoor-117197
-titleAz: شمارهٔ ۳۳
+titleAz: Rübai 33
+titleRu: Рубаи 33
 titleFa: شمارهٔ ۳۳
+titleEn: Rubai 33
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

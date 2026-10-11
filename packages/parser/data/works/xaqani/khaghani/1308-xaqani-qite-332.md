@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-332
 sourceId: ganjoor-27995
-titleAz: شمارهٔ ۳۳۲ - در جواب مردی سروده که عنصری را بر او ترجیح داده است
+titleAz: Qitə 332
+titleRu: Кыта 332
 titleFa: شمارهٔ ۳۳۲ - در جواب مردی سروده که عنصری را بر او ترجیح داده است
+titleEn: Qit'a 332
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

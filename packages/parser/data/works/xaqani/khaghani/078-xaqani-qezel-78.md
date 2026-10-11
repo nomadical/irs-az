@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-78
 sourceId: ganjoor-14447
-titleAz: غزل شمارهٔ ۷۸
+titleAz: Qəzəl 78
+titleRu: Газель 78
 titleFa: غزل شمارهٔ ۷۸
+titleEn: Ghazal 78
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

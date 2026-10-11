@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-11
 sourceId: ganjoor-15005
-titleAz: رباعی شمارهٔ   ۱۱
+titleAz: Rübai 11
+titleRu: Рубаи 11
 titleFa: رباعی شمارهٔ   ۱۱
+titleEn: Rubai 11
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-57
 sourceId: ganjoor-8921
-titleAz: بخش ۵۷ - مناظرهٔ خسرو با فرهاد
+titleAz: 'Xosrov və Şirin, fəsil 57'
+titleRu: 'Хосров и Ширин, глава 57'
 titleFa: بخش ۵۷ - مناظرهٔ خسرو با فرهاد
+titleEn: 'Khosrow and Shirin, chapter 57'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

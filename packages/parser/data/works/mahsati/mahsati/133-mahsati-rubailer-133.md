@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-133
 sourceId: ganjoor-50193
-titleAz: رباعی شمارۀ ۱۳۳
+titleAz: 'Rübailər, 133'
+titleRu: 'Рубайят, 133'
 titleFa: رباعی شمارۀ ۱۳۳
+titleEn: 'Rubaiyat, 133'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

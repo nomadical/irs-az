@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-376
 sourceId: ganjoor-117082
-titleAz: شمارهٔ ۳۷۶
+titleAz: Qəzəl 376
+titleRu: Газель 376
 titleFa: شمارهٔ ۳۷۶
+titleEn: Ghazal 376
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

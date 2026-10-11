@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-154
 sourceId: ganjoor-50214
-titleAz: رباعی شمارۀ ۱۵۴
+titleAz: 'Rübailər, 154'
+titleRu: 'Рубайят, 154'
 titleFa: رباعی شمارۀ ۱۵۴
+titleEn: 'Rubaiyat, 154'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-50
 sourceId: ganjoor-117345
-titleAz: شمارهٔ ۵۰
+titleAz: Qəzəl 50
+titleRu: Газель 50
 titleFa: شمارهٔ ۵۰
+titleEn: Ghazal 50
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

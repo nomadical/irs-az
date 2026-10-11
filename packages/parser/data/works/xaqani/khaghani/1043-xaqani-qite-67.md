@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-67
 sourceId: ganjoor-27730
-titleAz: شمارهٔ ۶۷
+titleAz: Qitə 67
+titleRu: Кыта 67
 titleFa: شمارهٔ ۶۷
+titleEn: Qit'a 67
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

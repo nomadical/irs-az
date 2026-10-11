@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-41
 sourceId: ganjoor-27704
-titleAz: شمارهٔ ۴۱ - در ذم بی‌هنران
+titleAz: Qitə 41
+titleRu: Кыта 41
 titleFa: شمارهٔ ۴۱ - در ذم بی‌هنران
+titleEn: Qit'a 41
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

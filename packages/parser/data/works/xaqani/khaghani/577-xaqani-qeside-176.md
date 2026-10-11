@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-176
 sourceId: ganjoor-14946
-titleAz: شمارهٔ ۱۷۶ - در شکایت و عزلت و حبس و تخلص به نعت پیغمبر اکرم
+titleAz: Qəsidə 176
+titleRu: Касыда 176
 titleFa: شمارهٔ ۱۷۶ - در شکایت و عزلت و حبس و تخلص به نعت پیغمبر اکرم
+titleEn: Qasida 176
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,12 +1,12 @@
 ---
 slug: nizami-yeddi-gozel-31
 sourceId: ganjoor-9079
-titleAz: >-
-  بخش ۳۱ - نشستن بهرام روز پنجشنبه در گنبد صندلی و افسانه گفتن دختر پادشاه اقلیم
-  ششم
+titleAz: 'Yeddi gözəl, fəsil 31'
+titleRu: 'Семь красавиц, глава 31'
 titleFa: >-
   بخش ۳۱ - نشستن بهرام روز پنجشنبه در گنبد صندلی و افسانه گفتن دختر پادشاه اقلیم
   ششم
+titleEn: 'The Seven Beauties, chapter 31'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

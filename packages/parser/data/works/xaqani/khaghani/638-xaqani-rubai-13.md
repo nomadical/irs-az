@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-13
 sourceId: ganjoor-15008
-titleAz: رباعی شمارهٔ   ۱۳
+titleAz: Rübai 13
+titleRu: Рубаи 13
 titleFa: رباعی شمارهٔ   ۱۳
+titleEn: Rubai 13
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

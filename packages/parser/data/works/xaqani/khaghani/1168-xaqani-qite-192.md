@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-192
 sourceId: ganjoor-27855
-titleAz: شمارهٔ ۱۹۲
+titleAz: Qitə 192
+titleRu: Кыта 192
 titleFa: شمارهٔ ۱۹۲
+titleEn: Qit'a 192
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

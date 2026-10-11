@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-320
 sourceId: ganjoor-117026
-titleAz: شمارهٔ ۳۲۰
+titleAz: Qəzəl 320
+titleRu: Газель 320
 titleFa: شمارهٔ ۳۲۰
+titleEn: Ghazal 320
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

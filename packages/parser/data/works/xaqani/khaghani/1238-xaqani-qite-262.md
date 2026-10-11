@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-262
 sourceId: ganjoor-27925
-titleAz: شمارهٔ ۲۶۲
+titleAz: Qitə 262
+titleRu: Кыта 262
 titleFa: شمارهٔ ۲۶۲
+titleEn: Qit'a 262
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

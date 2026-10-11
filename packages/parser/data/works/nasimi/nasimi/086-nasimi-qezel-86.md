@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-86
 sourceId: ganjoor-117381
-titleAz: شمارهٔ ۸۶ - ستایش فضل‌الله نعیمی
+titleAz: Qəzəl 86
+titleRu: Газель 86
 titleFa: شمارهٔ ۸۶ - ستایش فضل‌الله نعیمی
+titleEn: Ghazal 86
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

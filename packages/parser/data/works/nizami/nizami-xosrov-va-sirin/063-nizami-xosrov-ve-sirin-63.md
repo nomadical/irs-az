@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-63
 sourceId: ganjoor-8927
-titleAz: بخش ۶۳ - رسیدن نامهٔ شیرین به خسرو
+titleAz: 'Xosrov və Şirin, fəsil 63'
+titleRu: 'Хосров и Ширин, глава 63'
 titleFa: بخش ۶۳ - رسیدن نامهٔ شیرین به خسرو
+titleEn: 'Khosrow and Shirin, chapter 63'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

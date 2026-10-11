@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-362
 sourceId: ganjoor-117068
-titleAz: شمارهٔ ۳۶۲
+titleAz: Qəzəl 362
+titleRu: Газель 362
 titleFa: شمارهٔ ۳۶۲
+titleEn: Ghazal 362
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

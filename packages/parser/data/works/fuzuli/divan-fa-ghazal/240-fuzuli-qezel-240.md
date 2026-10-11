@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-240
 sourceId: ganjoor-116946
-titleAz: شمارهٔ ۲۴۰
+titleAz: Qəzəl 240
+titleRu: Газель 240
 titleFa: شمارهٔ ۲۴۰
+titleEn: Ghazal 240
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

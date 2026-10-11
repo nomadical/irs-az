@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-23
 sourceId: ganjoor-9285
-titleAz: بخش ۲۳ - حکایت نوشیروان با وزیر خود
+titleAz: 'Sirlər xəzinəsi, fəsil 23'
+titleRu: 'Сокровищница тайн, глава 23'
 titleFa: بخش ۲۳ - حکایت نوشیروان با وزیر خود
+titleEn: 'The Treasury of Mysteries, chapter 23'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

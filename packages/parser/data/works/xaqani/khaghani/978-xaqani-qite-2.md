@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-2
 sourceId: ganjoor-27665
-titleAz: شمارهٔ ۲
+titleAz: Qitə 2
+titleRu: Кыта 2
 titleFa: شمارهٔ ۲
+titleEn: Qit'a 2
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

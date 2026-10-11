@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-185
 sourceId: ganjoor-27848
-titleAz: شمارهٔ ۱۸۵
+titleAz: Qitə 185
+titleRu: Кыта 185
 titleFa: شمارهٔ ۱۸۵
+titleEn: Qit'a 185
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

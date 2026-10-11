@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-255
 sourceId: ganjoor-14624
-titleAz: غزل شمارهٔ ۲۵۵
+titleAz: Qəzəl 255
+titleRu: Газель 255
 titleFa: غزل شمارهٔ ۲۵۵
+titleEn: Ghazal 255
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

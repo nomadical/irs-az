@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-198
 sourceId: ganjoor-27861
-titleAz: شمارهٔ ۱۹۸
+titleAz: Qitə 198
+titleRu: Кыта 198
 titleFa: شمارهٔ ۱۹۸
+titleEn: Qit'a 198
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

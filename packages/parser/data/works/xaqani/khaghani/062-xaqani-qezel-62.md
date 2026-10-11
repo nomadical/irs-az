@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-62
 sourceId: ganjoor-14431
-titleAz: غزل شمارهٔ ۶۲
+titleAz: Qəzəl 62
+titleRu: Газель 62
 titleFa: غزل شمارهٔ ۶۲
+titleEn: Ghazal 62
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

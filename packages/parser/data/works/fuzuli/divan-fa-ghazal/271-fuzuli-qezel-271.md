@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-271
 sourceId: ganjoor-116977
-titleAz: شمارهٔ ۲۷۱
+titleAz: Qəzəl 271
+titleRu: Газель 271
 titleFa: شمارهٔ ۲۷۱
+titleEn: Ghazal 271
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

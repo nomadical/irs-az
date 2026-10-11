@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-15
 sourceId: ganjoor-9277
-titleAz: بخش ۱۵ - در توصیف شب و شناختن دل
+titleAz: 'Sirlər xəzinəsi, fəsil 15'
+titleRu: 'Сокровищница тайн, глава 15'
 titleFa: بخش ۱۵ - در توصیف شب و شناختن دل
+titleEn: 'The Treasury of Mysteries, chapter 15'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

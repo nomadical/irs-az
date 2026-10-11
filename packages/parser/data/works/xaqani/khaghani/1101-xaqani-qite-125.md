@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-125
 sourceId: ganjoor-27788
-titleAz: شمارهٔ ۱۲۵ - در استغنای طبع
+titleAz: Qitə 125
+titleRu: Кыта 125
 titleFa: شمارهٔ ۱۲۵ - در استغنای طبع
+titleEn: Qit'a 125
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

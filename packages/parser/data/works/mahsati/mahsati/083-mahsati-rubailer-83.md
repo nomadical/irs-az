@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-83
 sourceId: ganjoor-50143
-titleAz: رباعی شمارۀ ۸۳
+titleAz: 'Rübailər, 83'
+titleRu: 'Рубайят, 83'
 titleFa: رباعی شمارۀ ۸۳
+titleEn: 'Rubaiyat, 83'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-43
 sourceId: ganjoor-116699
-titleAz: شمارهٔ ۴۳
+titleAz: Qəsidə 43
+titleRu: Касыда 43
 titleFa: شمارهٔ ۴۳
+titleEn: Qasida 43
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

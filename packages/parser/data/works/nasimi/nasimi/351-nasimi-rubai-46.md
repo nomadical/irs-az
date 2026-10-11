@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-46
 sourceId: ganjoor-117649
-titleAz: شمارهٔ ۴۶
+titleAz: Rübai 46
+titleRu: Рубаи 46
 titleFa: شمارهٔ ۴۶
+titleEn: Rubai 46
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

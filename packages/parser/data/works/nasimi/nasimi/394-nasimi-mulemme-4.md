@@ -1,8 +1,10 @@
 ---
 slug: nasimi-mulemme-4
 sourceId: ganjoor-117693
-titleAz: شمارهٔ ۴
+titleAz: Müləmmə 4
+titleRu: Мулямма 4
 titleFa: شمارهٔ ۴
+titleEn: Mulamma' 4
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

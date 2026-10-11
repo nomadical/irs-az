@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-273
 sourceId: ganjoor-14642
-titleAz: غزل شمارهٔ ۲۷۳
+titleAz: Qəzəl 273
+titleRu: Газель 273
 titleFa: غزل شمارهٔ ۲۷۳
+titleEn: Ghazal 273
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

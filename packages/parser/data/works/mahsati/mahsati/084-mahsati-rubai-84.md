@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-84
 sourceId: ganjoor-133808
-titleAz: شمارهٔ ۸۴
+titleAz: Rübai 84
+titleRu: Рубаи 84
 titleFa: شمارهٔ ۸۴
+titleEn: Rubai 84
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

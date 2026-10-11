@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-155
 sourceId: ganjoor-14925
-titleAz: شمارهٔ ۱۵۵ - در شکایت و عزلت و تخلص به نعت پیامبر بزرگوار
+titleAz: Qəsidə 155
+titleRu: Касыда 155
 titleFa: شمارهٔ ۱۵۵ - در شکایت و عزلت و تخلص به نعت پیامبر بزرگوار
+titleEn: Qasida 155
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

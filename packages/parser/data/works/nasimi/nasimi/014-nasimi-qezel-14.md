@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-14
 sourceId: ganjoor-117309
-titleAz: شمارهٔ ۱۴
+titleAz: Qəzəl 14
+titleRu: Газель 14
 titleFa: شمارهٔ ۱۴
+titleEn: Ghazal 14
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

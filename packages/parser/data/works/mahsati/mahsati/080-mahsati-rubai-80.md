@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-80
 sourceId: ganjoor-133804
-titleAz: شمارهٔ ۸۰
+titleAz: Rübai 80
+titleRu: Рубаи 80
 titleFa: شمارهٔ ۸۰
+titleEn: Rubai 80
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-83
 sourceId: ganjoor-117378
-titleAz: شمارهٔ ۸۳
+titleAz: Qəzəl 83
+titleRu: Газель 83
 titleFa: شمارهٔ ۸۳
+titleEn: Ghazal 83
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

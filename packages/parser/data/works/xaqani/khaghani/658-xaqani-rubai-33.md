@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-33
 sourceId: ganjoor-15028
-titleAz: رباعی شمارهٔ   ۳۳
+titleAz: Rübai 33
+titleRu: Рубаи 33
 titleFa: رباعی شمارهٔ   ۳۳
+titleEn: Rubai 33
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-175
 sourceId: ganjoor-117470
-titleAz: شمارهٔ ۱۷۵
+titleAz: Qəzəl 175
+titleRu: Газель 175
 titleFa: شمارهٔ ۱۷۵
+titleEn: Ghazal 175
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

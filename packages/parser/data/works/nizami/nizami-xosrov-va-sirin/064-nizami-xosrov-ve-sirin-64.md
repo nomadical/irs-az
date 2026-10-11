@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-64
 sourceId: ganjoor-8928
-titleAz: بخش ۶۴ - صفت داد و دهِش خسرو
+titleAz: 'Xosrov və Şirin, fəsil 64'
+titleRu: 'Хосров и Ширин, глава 64'
 titleFa: بخش ۶۴ - صفت داد و دهِش خسرو
+titleEn: 'Khosrow and Shirin, chapter 64'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

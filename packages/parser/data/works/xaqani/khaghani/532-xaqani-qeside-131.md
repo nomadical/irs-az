@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-131
 sourceId: ganjoor-14901
-titleAz: شمارهٔ ۱۳۱ - مطلع سوم
+titleAz: Qəsidə 131
+titleRu: Касыда 131
 titleFa: شمارهٔ ۱۳۱ - مطلع سوم
+titleEn: Qasida 131
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

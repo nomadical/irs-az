@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-254
 sourceId: ganjoor-27917
-titleAz: شمارهٔ ۲۵۴
+titleAz: Qitə 254
+titleRu: Кыта 254
 titleFa: شمارهٔ ۲۵۴
+titleEn: Qit'a 254
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

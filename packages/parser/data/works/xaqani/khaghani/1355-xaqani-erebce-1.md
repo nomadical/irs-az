@@ -1,8 +1,10 @@
 ---
 slug: xaqani-erebce-1
 sourceId: ganjoor-15492
-titleAz: قصیده
+titleAz: Ərəbcə şeir 1
+titleRu: Арабское стихотворение 1
 titleFa: قصیده
+titleEn: Arabic poem 1
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

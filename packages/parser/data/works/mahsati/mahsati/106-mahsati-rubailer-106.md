@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-106
 sourceId: ganjoor-50166
-titleAz: رباعی شمارۀ ۱۰۶
+titleAz: 'Rübailər, 106'
+titleRu: 'Рубайят, 106'
 titleFa: رباعی شمارۀ ۱۰۶
+titleEn: 'Rubaiyat, 106'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

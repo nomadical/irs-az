@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-43
 sourceId: ganjoor-15038
-titleAz: رباعی شمارهٔ   ۴۳
+titleAz: Rübai 43
+titleRu: Рубаи 43
 titleFa: رباعی شمارهٔ   ۴۳
+titleEn: Rubai 43
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

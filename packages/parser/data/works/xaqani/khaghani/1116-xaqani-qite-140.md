@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-140
 sourceId: ganjoor-27803
-titleAz: شمارهٔ ۱۴۰ - در مرثیهٔ امام ابو عمر و اسعد
+titleAz: Qitə 140
+titleRu: Кыта 140
 titleFa: شمارهٔ ۱۴۰ - در مرثیهٔ امام ابو عمر و اسعد
+titleEn: Qit'a 140
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

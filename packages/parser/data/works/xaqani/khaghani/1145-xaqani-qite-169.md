@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-169
 sourceId: ganjoor-27832
-titleAz: شمارهٔ ۱۶۹
+titleAz: Qitə 169
+titleRu: Кыта 169
 titleFa: شمارهٔ ۱۶۹
+titleEn: Qit'a 169
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

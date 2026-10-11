@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-293
 sourceId: ganjoor-15288
-titleAz: رباعی شمارهٔ   ۲۹۳
+titleAz: Rübai 293
+titleRu: Рубаи 293
 titleFa: رباعی شمارهٔ   ۲۹۳
+titleEn: Rubai 293
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

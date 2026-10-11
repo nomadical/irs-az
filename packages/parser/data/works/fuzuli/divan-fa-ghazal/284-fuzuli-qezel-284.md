@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-284
 sourceId: ganjoor-116990
-titleAz: شمارهٔ ۲۸۴
+titleAz: Qəzəl 284
+titleRu: Газель 284
 titleFa: شمارهٔ ۲۸۴
+titleEn: Ghazal 284
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

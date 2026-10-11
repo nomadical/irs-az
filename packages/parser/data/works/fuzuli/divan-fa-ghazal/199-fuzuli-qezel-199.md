@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-199
 sourceId: ganjoor-116905
-titleAz: شمارهٔ ۱۹۹
+titleAz: Qəzəl 199
+titleRu: Газель 199
 titleFa: شمارهٔ ۱۹۹
+titleEn: Ghazal 199
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

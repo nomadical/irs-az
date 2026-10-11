@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-373
 sourceId: ganjoor-14742
-titleAz: غزل شمارهٔ ۳۷۳
+titleAz: Qəzəl 373
+titleRu: Газель 373
 titleFa: غزل شمارهٔ ۳۷۳
+titleEn: Ghazal 373
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

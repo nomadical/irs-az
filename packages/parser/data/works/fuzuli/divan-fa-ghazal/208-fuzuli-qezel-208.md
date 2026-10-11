@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-208
 sourceId: ganjoor-116914
-titleAz: شمارهٔ ۲۰۸
+titleAz: Qəzəl 208
+titleRu: Газель 208
 titleFa: شمارهٔ ۲۰۸
+titleEn: Ghazal 208
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

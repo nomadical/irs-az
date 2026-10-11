@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-275
 sourceId: ganjoor-116981
-titleAz: شمارهٔ ۲۷۵
+titleAz: Qəzəl 275
+titleRu: Газель 275
 titleFa: شمارهٔ ۲۷۵
+titleEn: Ghazal 275
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

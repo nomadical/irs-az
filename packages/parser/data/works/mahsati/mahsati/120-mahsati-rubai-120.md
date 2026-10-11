@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-120
 sourceId: ganjoor-133844
-titleAz: شمارهٔ ۱۲۰
+titleAz: Rübai 120
+titleRu: Рубаи 120
 titleFa: شمارهٔ ۱۲۰
+titleEn: Rubai 120
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

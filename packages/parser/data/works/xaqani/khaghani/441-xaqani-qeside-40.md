@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-40
 sourceId: ganjoor-14810
-titleAz: شمارهٔ ۴۰ - قصیده
+titleAz: Qəsidə 40
+titleRu: Касыда 40
 titleFa: شمارهٔ ۴۰ - قصیده
+titleEn: Qasida 40
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

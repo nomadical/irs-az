@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-84
 sourceId: ganjoor-50144
-titleAz: رباعی شمارۀ ۸۴
+titleAz: 'Rübailər, 84'
+titleRu: 'Рубайят, 84'
 titleFa: رباعی شمارۀ ۸۴
+titleEn: 'Rubaiyat, 84'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

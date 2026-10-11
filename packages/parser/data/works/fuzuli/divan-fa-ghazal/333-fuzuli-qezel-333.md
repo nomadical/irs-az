@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-333
 sourceId: ganjoor-117039
-titleAz: شمارهٔ ۳۳۳
+titleAz: Qəzəl 333
+titleRu: Газель 333
 titleFa: شمارهٔ ۳۳۳
+titleEn: Ghazal 333
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

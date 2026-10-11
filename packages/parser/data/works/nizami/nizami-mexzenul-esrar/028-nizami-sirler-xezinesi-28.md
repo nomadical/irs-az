@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-28
 sourceId: ganjoor-9290
-titleAz: بخش ۲۸ - مقالت پنجم در وصف پیری
+titleAz: 'Sirlər xəzinəsi, fəsil 28'
+titleRu: 'Сокровищница тайн, глава 28'
 titleFa: بخش ۲۸ - مقالت پنجم در وصف پیری
+titleEn: 'The Treasury of Mysteries, chapter 28'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

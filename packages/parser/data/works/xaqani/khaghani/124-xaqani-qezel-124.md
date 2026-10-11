@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-124
 sourceId: ganjoor-14493
-titleAz: غزل شمارهٔ ۱۲۴
+titleAz: Qəzəl 124
+titleRu: Газель 124
 titleFa: غزل شمارهٔ ۱۲۴
+titleEn: Ghazal 124
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-125
 sourceId: ganjoor-133849
-titleAz: شمارهٔ ۱۲۵
+titleAz: Rübai 125
+titleRu: Рубаи 125
 titleFa: شمارهٔ ۱۲۵
+titleEn: Rubai 125
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

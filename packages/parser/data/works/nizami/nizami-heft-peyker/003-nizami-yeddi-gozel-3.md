@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-3
 sourceId: ganjoor-9051
-titleAz: بخش ۳ - معراج پیغمبر اکرم
+titleAz: 'Yeddi gözəl, fəsil 3'
+titleRu: 'Семь красавиц, глава 3'
 titleFa: بخش ۳ - معراج پیغمبر اکرم
+titleEn: 'The Seven Beauties, chapter 3'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

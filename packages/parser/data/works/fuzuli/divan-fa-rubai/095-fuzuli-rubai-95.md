@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-95
 sourceId: ganjoor-117259
-titleAz: شمارهٔ ۹۵
+titleAz: Rübai 95
+titleRu: Рубаи 95
 titleFa: شمارهٔ ۹۵
+titleEn: Rubai 95
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

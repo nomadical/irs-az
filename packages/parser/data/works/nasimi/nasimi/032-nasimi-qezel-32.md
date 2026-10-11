@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-32
 sourceId: ganjoor-117327
-titleAz: شمارهٔ ۳۲
+titleAz: Qəzəl 32
+titleRu: Газель 32
 titleFa: شمارهٔ ۳۲
+titleEn: Ghazal 32
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

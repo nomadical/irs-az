@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-94
 sourceId: ganjoor-14864
-titleAz: شمارهٔ ۹۴ - قصیده
+titleAz: Qəsidə 94
+titleRu: Касыда 94
 titleFa: شمارهٔ ۹۴ - قصیده
+titleEn: Qasida 94
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-101
 sourceId: ganjoor-14871
-titleAz: شمارهٔ ۱۰۱ - مطلع دوم
+titleAz: Qəsidə 101
+titleRu: Касыда 101
 titleFa: شمارهٔ ۱۰۱ - مطلع دوم
+titleEn: Qasida 101
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

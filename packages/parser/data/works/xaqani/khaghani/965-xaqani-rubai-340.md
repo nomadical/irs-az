@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-340
 sourceId: ganjoor-15335
-titleAz: رباعی شمارهٔ   ۳۴۰
+titleAz: Rübai 340
+titleRu: Рубаи 340
 titleFa: رباعی شمارهٔ   ۳۴۰
+titleEn: Rubai 340
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-89
 sourceId: ganjoor-116795
-titleAz: شمارهٔ ۸۹
+titleAz: Qəzəl 89
+titleRu: Газель 89
 titleFa: شمارهٔ ۸۹
+titleEn: Ghazal 89
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

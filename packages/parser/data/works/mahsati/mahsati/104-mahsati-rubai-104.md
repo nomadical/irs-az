@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-104
 sourceId: ganjoor-133828
-titleAz: شمارهٔ ۱۰۴
+titleAz: Rübai 104
+titleRu: Рубаи 104
 titleFa: شمارهٔ ۱۰۴
+titleEn: Rubai 104
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

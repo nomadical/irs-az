@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-224
 sourceId: ganjoor-116930
-titleAz: شمارهٔ ۲۲۴
+titleAz: Qəzəl 224
+titleRu: Газель 224
 titleFa: شمارهٔ ۲۲۴
+titleEn: Ghazal 224
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

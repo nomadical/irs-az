@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-135
 sourceId: ganjoor-50195
-titleAz: رباعی شمارۀ ۱۳۵
+titleAz: 'Rübailər, 135'
+titleRu: 'Рубайят, 135'
 titleFa: رباعی شمارۀ ۱۳۵
+titleEn: 'Rubaiyat, 135'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

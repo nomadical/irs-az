@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-45
 sourceId: ganjoor-50105
-titleAz: رباعی شمارۀ ۴۵
+titleAz: 'Rübailər, 45'
+titleRu: 'Рубайят, 45'
 titleFa: رباعی شمارۀ ۴۵
+titleEn: 'Rubaiyat, 45'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

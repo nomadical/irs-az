@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-148
 sourceId: ganjoor-15143
-titleAz: رباعی شمارهٔ   ۱۴۸
+titleAz: Rübai 148
+titleRu: Рубаи 148
 titleFa: رباعی شمارهٔ   ۱۴۸
+titleEn: Rubai 148
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

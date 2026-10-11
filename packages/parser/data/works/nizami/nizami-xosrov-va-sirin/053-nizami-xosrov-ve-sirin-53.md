@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-53
 sourceId: ganjoor-8917
-titleAz: بخش ۵۳ - آغاز عشق فرهاد
+titleAz: 'Xosrov və Şirin, fəsil 53'
+titleRu: 'Хосров и Ширин, глава 53'
 titleFa: بخش ۵۳ - آغاز عشق فرهاد
+titleEn: 'Khosrow and Shirin, chapter 53'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

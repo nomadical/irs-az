@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-26
 sourceId: ganjoor-14796
-titleAz: شمارهٔ ۲۶ - در شکایت از زندان
+titleAz: Qəsidə 26
+titleRu: Касыда 26
 titleFa: شمارهٔ ۲۶ - در شکایت از زندان
+titleEn: Qasida 26
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

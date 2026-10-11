@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-26
 sourceId: ganjoor-9074
-titleAz: بخش ۲۶ - نشستن بهرام روز شنبه در گنبد سیاه و افسانه گفتن دختر پادشاه اقلیم اول
+titleAz: 'Yeddi gözəl, fəsil 26'
+titleRu: 'Семь красавиц, глава 26'
 titleFa: بخش ۲۶ - نشستن بهرام روز شنبه در گنبد سیاه و افسانه گفتن دختر پادشاه اقلیم اول
+titleEn: 'The Seven Beauties, chapter 26'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-404
 sourceId: ganjoor-117110
-titleAz: شمارهٔ ۴۰۴
+titleAz: Qəzəl 404
+titleRu: Газель 404
 titleFa: شمارهٔ ۴۰۴
+titleEn: Ghazal 404
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

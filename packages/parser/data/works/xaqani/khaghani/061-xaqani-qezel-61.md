@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-61
 sourceId: ganjoor-14430
-titleAz: غزل شمارهٔ ۶۱
+titleAz: Qəzəl 61
+titleRu: Газель 61
 titleFa: غزل شمارهٔ ۶۱
+titleEn: Ghazal 61
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-330
 sourceId: ganjoor-14699
-titleAz: غزل شمارهٔ ۳۳۰
+titleAz: Qəzəl 330
+titleRu: Газель 330
 titleFa: غزل شمارهٔ ۳۳۰
+titleEn: Ghazal 330
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

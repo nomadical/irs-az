@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-3
 sourceId: ganjoor-8867
-titleAz: بخش ۳ - در استدلال نظر و توفیق شناخت
+titleAz: 'Xosrov və Şirin, fəsil 3'
+titleRu: 'Хосров и Ширин, глава 3'
 titleFa: بخش ۳ - در استدلال نظر و توفیق شناخت
+titleEn: 'Khosrow and Shirin, chapter 3'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

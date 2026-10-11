@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-246
 sourceId: ganjoor-117541
-titleAz: شمارهٔ ۲۴۶
+titleAz: Qəzəl 246
+titleRu: Газель 246
 titleFa: شمارهٔ ۲۴۶
+titleEn: Ghazal 246
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-201
 sourceId: ganjoor-14570
-titleAz: غزل شمارهٔ ۲۰۱
+titleAz: Qəzəl 201
+titleRu: Газель 201
 titleFa: غزل شمارهٔ ۲۰۱
+titleEn: Ghazal 201
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

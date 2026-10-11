@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-305
 sourceId: ganjoor-14674
-titleAz: غزل شمارهٔ ۳۰۵
+titleAz: Qəzəl 305
+titleRu: Газель 305
 titleFa: غزل شمارهٔ ۳۰۵
+titleEn: Ghazal 305
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

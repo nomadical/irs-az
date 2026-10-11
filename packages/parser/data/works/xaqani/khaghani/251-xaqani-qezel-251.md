@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-251
 sourceId: ganjoor-14620
-titleAz: غزل شمارهٔ ۲۵۱
+titleAz: Qəzəl 251
+titleRu: Газель 251
 titleFa: غزل شمارهٔ ۲۵۱
+titleEn: Ghazal 251
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

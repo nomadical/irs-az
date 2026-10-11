@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-143
 sourceId: ganjoor-27806
-titleAz: شمارهٔ ۱۴۳ - در مدح مظفر الدین قزل ارسلان ایلدگز
+titleAz: Qitə 143
+titleRu: Кыта 143
 titleFa: شمارهٔ ۱۴۳ - در مدح مظفر الدین قزل ارسلان ایلدگز
+titleEn: Qit'a 143
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

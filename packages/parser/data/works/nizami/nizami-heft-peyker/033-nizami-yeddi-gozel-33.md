@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-33
 sourceId: ganjoor-9081
-titleAz: بخش ۳۳ - آگاهی بهرام از لشکر‌کشی خاقان چین بار دوم
+titleAz: 'Yeddi gözəl, fəsil 33'
+titleRu: 'Семь красавиц, глава 33'
 titleFa: بخش ۳۳ - آگاهی بهرام از لشکر‌کشی خاقان چین بار دوم
+titleEn: 'The Seven Beauties, chapter 33'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

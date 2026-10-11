@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-38
 sourceId: ganjoor-50098
-titleAz: رباعی شمارۀ ۳۸
+titleAz: 'Rübailər, 38'
+titleRu: 'Рубайят, 38'
 titleFa: رباعی شمارۀ ۳۸
+titleEn: 'Rubaiyat, 38'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-121
 sourceId: ganjoor-116827
-titleAz: شمارهٔ ۱۲۱
+titleAz: Qəzəl 121
+titleRu: Газель 121
 titleFa: شمارهٔ ۱۲۱
+titleEn: Ghazal 121
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

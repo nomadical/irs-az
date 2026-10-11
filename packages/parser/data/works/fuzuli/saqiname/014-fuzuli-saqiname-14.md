@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-saqiname-14
 sourceId: ganjoor-117289
-titleAz: بخش ۱۴ - نشأه جام هفتم
+titleAz: 'Saqinamə, fəsil 14'
+titleRu: 'Саки-наме, глава 14'
 titleFa: بخش ۱۴ - نشأه جام هفتم
+titleEn: 'Saqi-nama, chapter 14'
 authorSlug: fuzuli
 collectionSlug: saqiname
 originalLang: FA

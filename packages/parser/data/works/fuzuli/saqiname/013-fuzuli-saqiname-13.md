@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-saqiname-13
 sourceId: ganjoor-117288
-titleAz: بخش ۱۳ - مناظره با قانون
+titleAz: 'Saqinamə, fəsil 13'
+titleRu: 'Саки-наме, глава 13'
 titleFa: بخش ۱۳ - مناظره با قانون
+titleEn: 'Saqi-nama, chapter 13'
 authorSlug: fuzuli
 collectionSlug: saqiname
 originalLang: FA

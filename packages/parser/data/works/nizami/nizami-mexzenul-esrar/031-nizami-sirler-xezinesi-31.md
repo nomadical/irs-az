@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-31
 sourceId: ganjoor-9293
-titleAz: بخش ۳۱ - داستان سگ و صیاد و روباه
+titleAz: 'Sirlər xəzinəsi, fəsil 31'
+titleRu: 'Сокровищница тайн, глава 31'
 titleFa: بخش ۳۱ - داستان سگ و صیاد و روباه
+titleEn: 'The Treasury of Mysteries, chapter 31'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

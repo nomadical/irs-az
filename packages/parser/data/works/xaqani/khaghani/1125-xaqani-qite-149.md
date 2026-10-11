@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-149
 sourceId: ganjoor-27812
-titleAz: شمارهٔ ۱۴۹ - در مرثیهٔ خواجه ناصر الدین ابراهیم عارف گنجه‌ای
+titleAz: Qitə 149
+titleRu: Кыта 149
 titleFa: شمارهٔ ۱۴۹ - در مرثیهٔ خواجه ناصر الدین ابراهیم عارف گنجه‌ای
+titleEn: Qit'a 149
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

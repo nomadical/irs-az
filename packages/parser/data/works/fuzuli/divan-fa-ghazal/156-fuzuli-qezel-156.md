@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-156
 sourceId: ganjoor-116862
-titleAz: شمارهٔ ۱۵۶
+titleAz: Qəzəl 156
+titleRu: Газель 156
 titleFa: شمارهٔ ۱۵۶
+titleEn: Ghazal 156
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

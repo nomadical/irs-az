@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-341
 sourceId: ganjoor-28004
-titleAz: شمارهٔ ۳۴۱
+titleAz: Qitə 341
+titleRu: Кыта 341
 titleFa: شمارهٔ ۳۴۱
+titleEn: Qit'a 341
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

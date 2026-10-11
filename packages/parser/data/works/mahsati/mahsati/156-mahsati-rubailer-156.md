@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-156
 sourceId: ganjoor-50216
-titleAz: رباعی شمارۀ ۱۵۶
+titleAz: 'Rübailər, 156'
+titleRu: 'Рубайят, 156'
 titleFa: رباعی شمارۀ ۱۵۶
+titleEn: 'Rubaiyat, 156'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

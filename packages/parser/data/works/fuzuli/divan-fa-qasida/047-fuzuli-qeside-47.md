@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-47
 sourceId: ganjoor-116703
-titleAz: شمارهٔ ۴۷
+titleAz: Qəsidə 47
+titleRu: Касыда 47
 titleFa: شمارهٔ ۴۷
+titleEn: Qasida 47
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

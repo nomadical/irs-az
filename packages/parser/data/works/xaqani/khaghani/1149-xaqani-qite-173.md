@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-173
 sourceId: ganjoor-27836
-titleAz: شمارهٔ ۱۷۳
+titleAz: Qitə 173
+titleRu: Кыта 173
 titleFa: شمارهٔ ۱۷۳
+titleEn: Qit'a 173
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-386
 sourceId: ganjoor-14755
-titleAz: غزل شمارهٔ ۳۸۶
+titleAz: Qəzəl 386
+titleRu: Газель 386
 titleFa: غزل شمارهٔ ۳۸۶
+titleEn: Ghazal 386
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

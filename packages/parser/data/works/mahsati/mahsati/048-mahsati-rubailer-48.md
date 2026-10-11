@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-48
 sourceId: ganjoor-50108
-titleAz: رباعی شمارۀ ۴۸
+titleAz: 'Rübailər, 48'
+titleRu: 'Рубайят, 48'
 titleFa: رباعی شمارۀ ۴۸
+titleEn: 'Rubaiyat, 48'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-55
 sourceId: ganjoor-117219
-titleAz: شمارهٔ ۵۵
+titleAz: Rübai 55
+titleRu: Рубаи 55
 titleFa: شمارهٔ ۵۵
+titleEn: Rubai 55
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

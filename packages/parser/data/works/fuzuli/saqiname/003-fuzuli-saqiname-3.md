@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-saqiname-3
 sourceId: ganjoor-117278
-titleAz: بخش ۳ - مناظره با نی
+titleAz: 'Saqinamə, fəsil 3'
+titleRu: 'Саки-наме, глава 3'
 titleFa: بخش ۳ - مناظره با نی
+titleEn: 'Saqi-nama, chapter 3'
 authorSlug: fuzuli
 collectionSlug: saqiname
 originalLang: FA

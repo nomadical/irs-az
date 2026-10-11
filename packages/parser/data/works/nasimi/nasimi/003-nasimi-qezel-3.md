@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-3
 sourceId: ganjoor-117298
-titleAz: شمارهٔ ۳
+titleAz: Qəzəl 3
+titleRu: Газель 3
 titleFa: شمارهٔ ۳
+titleEn: Ghazal 3
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

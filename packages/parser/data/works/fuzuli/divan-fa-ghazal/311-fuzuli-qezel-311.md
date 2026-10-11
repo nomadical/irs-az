@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-311
 sourceId: ganjoor-117017
-titleAz: شمارهٔ ۳۱۱
+titleAz: Qəzəl 311
+titleRu: Газель 311
 titleFa: شمارهٔ ۳۱۱
+titleEn: Ghazal 311
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-192
 sourceId: ganjoor-15187
-titleAz: رباعی شمارهٔ   ۱۹۲
+titleAz: Rübai 192
+titleRu: Рубаи 192
 titleFa: رباعی شمارهٔ   ۱۹۲
+titleEn: Rubai 192
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

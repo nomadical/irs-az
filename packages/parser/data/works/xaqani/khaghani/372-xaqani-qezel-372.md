@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-372
 sourceId: ganjoor-14741
-titleAz: غزل شمارهٔ ۳۷۲
+titleAz: Qəzəl 372
+titleRu: Газель 372
 titleFa: غزل شمارهٔ ۳۷۲
+titleEn: Ghazal 372
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

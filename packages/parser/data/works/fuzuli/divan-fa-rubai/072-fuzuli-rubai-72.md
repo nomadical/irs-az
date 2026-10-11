@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-rubai-72
 sourceId: ganjoor-117236
-titleAz: شمارهٔ ۷۲
+titleAz: Rübai 72
+titleRu: Рубаи 72
 titleFa: شمارهٔ ۷۲
+titleEn: Rubai 72
 authorSlug: fuzuli
 collectionSlug: divan-fa-rubai
 originalLang: FA

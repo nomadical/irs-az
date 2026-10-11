@@ -1,8 +1,10 @@
 ---
 slug: nizami-yeddi-gozel-24
 sourceId: ganjoor-9072
-titleAz: بخش ۲۴ - خواستن بهرام دختر شاهان هفت اقلیم را
+titleAz: 'Yeddi gözəl, fəsil 24'
+titleRu: 'Семь красавиц, глава 24'
 titleFa: بخش ۲۴ - خواستن بهرام دختر شاهان هفت اقلیم را
+titleEn: 'The Seven Beauties, chapter 24'
 authorSlug: nizami
 collectionSlug: nizami-heft-peyker
 originalLang: FA

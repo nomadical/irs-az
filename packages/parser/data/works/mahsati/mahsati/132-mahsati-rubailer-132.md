@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-132
 sourceId: ganjoor-50192
-titleAz: رباعی شمارۀ ۱۳۲
+titleAz: 'Rübailər, 132'
+titleRu: 'Рубайят, 132'
 titleFa: رباعی شمارۀ ۱۳۲
+titleEn: 'Rubaiyat, 132'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

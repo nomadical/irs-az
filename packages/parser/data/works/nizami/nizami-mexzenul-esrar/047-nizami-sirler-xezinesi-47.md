@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-47
 sourceId: ganjoor-9309
-titleAz: بخش ۴۷ - داستان پادشاه ظالم با مرد راستگوی
+titleAz: 'Sirlər xəzinəsi, fəsil 47'
+titleRu: 'Сокровищница тайн, глава 47'
 titleFa: بخش ۴۷ - داستان پادشاه ظالم با مرد راستگوی
+titleEn: 'The Treasury of Mysteries, chapter 47'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-117
 sourceId: ganjoor-8981
-titleAz: بخش ۱۱۷ - نامه نبشتن پیغمبر به خسرو
+titleAz: 'Xosrov və Şirin, fəsil 117'
+titleRu: 'Хосров и Ширин, глава 117'
 titleFa: بخش ۱۱۷ - نامه نبشتن پیغمبر به خسرو
+titleEn: 'Khosrow and Shirin, chapter 117'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

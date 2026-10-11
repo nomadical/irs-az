@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-169
 sourceId: ganjoor-14939
-titleAz: شمارهٔ ۱۶۹ - در مدح ملک الوزراء زین‌الدین دستور عراق
+titleAz: Qəsidə 169
+titleRu: Касыда 169
 titleFa: شمارهٔ ۱۶۹ - در مدح ملک الوزراء زین‌الدین دستور عراق
+titleEn: Qasida 169
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

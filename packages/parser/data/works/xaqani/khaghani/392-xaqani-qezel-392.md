@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-392
 sourceId: ganjoor-14761
-titleAz: غزل شمارهٔ ۳۹۲
+titleAz: Qəzəl 392
+titleRu: Газель 392
 titleFa: غزل شمارهٔ ۳۹۲
+titleEn: Ghazal 392
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

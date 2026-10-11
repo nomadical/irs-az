@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-217
 sourceId: ganjoor-117512
-titleAz: شمارهٔ ۲۱۷
+titleAz: Qəzəl 217
+titleRu: Газель 217
 titleFa: شمارهٔ ۲۱۷
+titleEn: Ghazal 217
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

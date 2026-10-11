@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-92
 sourceId: ganjoor-50152
-titleAz: رباعی شمارۀ ۹۲
+titleAz: 'Rübailər, 92'
+titleRu: 'Рубайят, 92'
 titleFa: رباعی شمارۀ ۹۲
+titleEn: 'Rubaiyat, 92'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

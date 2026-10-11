@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-216
 sourceId: ganjoor-117511
-titleAz: شمارهٔ ۲۱۶
+titleAz: Qəzəl 216
+titleRu: Газель 216
 titleFa: شمارهٔ ۲۱۶
+titleEn: Ghazal 216
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

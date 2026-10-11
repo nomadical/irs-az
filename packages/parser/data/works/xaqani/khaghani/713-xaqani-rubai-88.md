@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-88
 sourceId: ganjoor-15083
-titleAz: رباعی شمارهٔ   ۸۸
+titleAz: Rübai 88
+titleRu: Рубаи 88
 titleFa: رباعی شمارهٔ   ۸۸
+titleEn: Rubai 88
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

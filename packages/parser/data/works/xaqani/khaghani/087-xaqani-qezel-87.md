@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-87
 sourceId: ganjoor-14456
-titleAz: غزل شمارهٔ ۸۷
+titleAz: Qəzəl 87
+titleRu: Газель 87
 titleFa: غزل شمارهٔ ۸۷
+titleEn: Ghazal 87
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

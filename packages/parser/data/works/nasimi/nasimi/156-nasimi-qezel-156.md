@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-156
 sourceId: ganjoor-117451
-titleAz: شمارهٔ ۱۵۶
+titleAz: Qəzəl 156
+titleRu: Газель 156
 titleFa: شمارهٔ ۱۵۶
+titleEn: Ghazal 156
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

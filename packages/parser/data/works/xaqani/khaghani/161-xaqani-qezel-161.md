@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-161
 sourceId: ganjoor-14530
-titleAz: غزل شمارهٔ ۱۶۱
+titleAz: Qəzəl 161
+titleRu: Газель 161
 titleFa: غزل شمارهٔ ۱۶۱
+titleEn: Ghazal 161
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-121
 sourceId: ganjoor-8985
-titleAz: بخش ۱۲۱ - تأسف بر مرگ شمس‌الدین محمد جهان پهلوان
+titleAz: 'Xosrov və Şirin, fəsil 121'
+titleRu: 'Хосров и Ширин, глава 121'
 titleFa: بخش ۱۲۱ - تأسف بر مرگ شمس‌الدین محمد جهان پهلوان
+titleEn: 'Khosrow and Shirin, chapter 121'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

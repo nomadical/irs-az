@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-119
 sourceId: ganjoor-15114
-titleAz: رباعی شمارهٔ   ۱۱۹
+titleAz: Rübai 119
+titleRu: Рубаи 119
 titleFa: رباعی شمارهٔ   ۱۱۹
+titleEn: Rubai 119
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

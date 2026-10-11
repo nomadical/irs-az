@@ -1,8 +1,10 @@
 ---
 slug: nasimi-rubai-24
 sourceId: ganjoor-117627
-titleAz: شمارهٔ ۲۴
+titleAz: Rübai 24
+titleRu: Рубаи 24
 titleFa: شمارهٔ ۲۴
+titleEn: Rubai 24
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

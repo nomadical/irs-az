@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-14
 sourceId: ganjoor-9276
-titleAz: بخش ۱۴ - برتری سخن منظوم از منثور
+titleAz: 'Sirlər xəzinəsi, fəsil 14'
+titleRu: 'Сокровищница тайн, глава 14'
 titleFa: بخش ۱۴ - برتری سخن منظوم از منثور
+titleEn: 'The Treasury of Mysteries, chapter 14'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

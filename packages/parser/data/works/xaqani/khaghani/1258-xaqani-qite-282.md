@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-282
 sourceId: ganjoor-27945
-titleAz: شمارهٔ ۲۸۲
+titleAz: Qitə 282
+titleRu: Кыта 282
 titleFa: شمارهٔ ۲۸۲
+titleEn: Qit'a 282
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

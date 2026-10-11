@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-22
 sourceId: ganjoor-14391
-titleAz: غزل شمارهٔ ۲۲
+titleAz: Qəzəl 22
+titleRu: Газель 22
 titleFa: غزل شمارهٔ ۲۲
+titleEn: Ghazal 22
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

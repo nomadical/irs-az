@@ -1,8 +1,10 @@
 ---
 slug: nasimi-elaveler-8
 sourceId: ganjoor-117707
-titleAz: شمارهٔ ۸
+titleAz: Əlavə 8
+titleRu: Дополнение 8
 titleFa: شمارهٔ ۸
+titleEn: Addendum 8
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

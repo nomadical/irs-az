@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-232
 sourceId: ganjoor-27895
-titleAz: شمارهٔ ۲۳۲ - این قطعه را در جواب قصیدهٔ رشید وطواط گفته است
+titleAz: Qitə 232
+titleRu: Кыта 232
 titleFa: شمارهٔ ۲۳۲ - این قطعه را در جواب قصیدهٔ رشید وطواط گفته است
+titleEn: Qit'a 232
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

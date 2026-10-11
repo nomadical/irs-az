@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-196
 sourceId: ganjoor-14565
-titleAz: غزل شمارهٔ ۱۹۶
+titleAz: Qəzəl 196
+titleRu: Газель 196
 titleFa: غزل شمارهٔ ۱۹۶
+titleEn: Ghazal 196
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-75
 sourceId: ganjoor-15070
-titleAz: رباعی شمارهٔ   ۷۵
+titleAz: Rübai 75
+titleRu: Рубаи 75
 titleFa: رباعی شمارهٔ   ۷۵
+titleEn: Rubai 75
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

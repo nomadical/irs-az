@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-96
 sourceId: ganjoor-14465
-titleAz: غزل شمارهٔ ۹۶
+titleAz: Qəzəl 96
+titleRu: Газель 96
 titleFa: غزل شمارهٔ ۹۶
+titleEn: Ghazal 96
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

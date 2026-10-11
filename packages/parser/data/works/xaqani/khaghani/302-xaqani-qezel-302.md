@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-302
 sourceId: ganjoor-14671
-titleAz: غزل شمارهٔ ۳۰۲
+titleAz: Qəzəl 302
+titleRu: Газель 302
 titleFa: غزل شمارهٔ ۳۰۲
+titleEn: Ghazal 302
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

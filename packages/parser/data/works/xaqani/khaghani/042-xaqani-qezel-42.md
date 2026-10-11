@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-42
 sourceId: ganjoor-14411
-titleAz: غزل شمارهٔ ۴۲
+titleAz: Qəzəl 42
+titleRu: Газель 42
 titleFa: غزل شمارهٔ ۴۲
+titleEn: Ghazal 42
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

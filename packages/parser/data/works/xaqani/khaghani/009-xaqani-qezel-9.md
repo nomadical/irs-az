@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-9
 sourceId: ganjoor-14378
-titleAz: غزل شمارهٔ ۹
+titleAz: Qəzəl 9
+titleRu: Газель 9
 titleFa: غزل شمارهٔ ۹
+titleEn: Ghazal 9
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

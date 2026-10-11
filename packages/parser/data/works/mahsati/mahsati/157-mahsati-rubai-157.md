@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-157
 sourceId: ganjoor-133881
-titleAz: شمارهٔ ۱۵۷
+titleAz: Rübai 157
+titleRu: Рубаи 157
 titleFa: شمارهٔ ۱۵۷
+titleEn: Rubai 157
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

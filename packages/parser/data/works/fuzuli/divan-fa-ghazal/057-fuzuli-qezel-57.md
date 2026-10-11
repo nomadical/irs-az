@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-57
 sourceId: ganjoor-116763
-titleAz: شمارهٔ ۵۷
+titleAz: Qəzəl 57
+titleRu: Газель 57
 titleFa: شمارهٔ ۵۷
+titleEn: Ghazal 57
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

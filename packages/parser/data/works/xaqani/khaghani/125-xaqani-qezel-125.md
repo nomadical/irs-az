@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-125
 sourceId: ganjoor-14494
-titleAz: غزل شمارهٔ ۱۲۵
+titleAz: Qəzəl 125
+titleRu: Газель 125
 titleFa: غزل شمارهٔ ۱۲۵
+titleEn: Ghazal 125
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

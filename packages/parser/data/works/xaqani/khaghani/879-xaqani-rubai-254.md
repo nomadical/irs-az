@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-254
 sourceId: ganjoor-15249
-titleAz: رباعی شمارهٔ   ۲۵۴
+titleAz: Rübai 254
+titleRu: Рубаи 254
 titleFa: رباعی شمارهٔ   ۲۵۴
+titleEn: Rubai 254
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

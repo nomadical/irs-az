@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-138
 sourceId: ganjoor-116844
-titleAz: شمارهٔ ۱۳۸
+titleAz: Qəzəl 138
+titleRu: Газель 138
 titleFa: شمارهٔ ۱۳۸
+titleEn: Ghazal 138
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

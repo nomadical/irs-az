@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-2
 sourceId: ganjoor-50062
-titleAz: رباعی شمارۀ ۲
+titleAz: 'Rübailər, 2'
+titleRu: 'Рубайят, 2'
 titleFa: رباعی شمارۀ ۲
+titleEn: 'Rubaiyat, 2'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

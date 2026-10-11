@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-179
 sourceId: ganjoor-14548
-titleAz: غزل شمارهٔ ۱۷۹
+titleAz: Qəzəl 179
+titleRu: Газель 179
 titleFa: غزل شمارهٔ ۱۷۹
+titleEn: Ghazal 179
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

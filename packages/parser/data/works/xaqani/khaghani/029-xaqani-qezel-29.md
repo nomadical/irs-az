@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-29
 sourceId: ganjoor-14398
-titleAz: غزل شمارهٔ ۲۹
+titleAz: Qəzəl 29
+titleRu: Газель 29
 titleFa: غزل شمارهٔ ۲۹
+titleEn: Ghazal 29
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

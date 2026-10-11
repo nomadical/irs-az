@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-71
 sourceId: ganjoor-27734
-titleAz: شمارهٔ ۷۱ - در توصیف قصر صفوة الدین بانوی منوچهر شروان شاه
+titleAz: Qitə 71
+titleRu: Кыта 71
 titleFa: شمارهٔ ۷۱ - در توصیف قصر صفوة الدین بانوی منوچهر شروان شاه
+titleEn: Qit'a 71
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

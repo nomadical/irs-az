@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-252
 sourceId: ganjoor-27915
-titleAz: شمارهٔ ۲۵۲ - در شکر ایادی و انعام رئیس شمس الدین والی ارجیش
+titleAz: Qitə 252
+titleRu: Кыта 252
 titleFa: شمارهٔ ۲۵۲ - در شکر ایادی و انعام رئیس شمس الدین والی ارجیش
+titleEn: Qit'a 252
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

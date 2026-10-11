@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-194
 sourceId: ganjoor-27857
-titleAz: شمارهٔ ۱۹۴ - در حق مادر خویش
+titleAz: Qitə 194
+titleRu: Кыта 194
 titleFa: شمارهٔ ۱۹۴ - در حق مادر خویش
+titleEn: Qit'a 194
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

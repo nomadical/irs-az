@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-184
 sourceId: ganjoor-50244
-titleAz: رباعی شمارۀ ۱۸۴
+titleAz: 'Rübailər, 184'
+titleRu: 'Рубайят, 184'
 titleFa: رباعی شمارۀ ۱۸۴
+titleEn: 'Rubaiyat, 184'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-65
 sourceId: ganjoor-133789
-titleAz: شمارهٔ ۶۵
+titleAz: Rübai 65
+titleRu: Рубаи 65
 titleFa: شمارهٔ ۶۵
+titleEn: Rubai 65
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

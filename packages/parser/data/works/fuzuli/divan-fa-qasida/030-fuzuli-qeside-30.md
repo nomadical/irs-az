@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qeside-30
 sourceId: ganjoor-116686
-titleAz: شمارهٔ ۳۰
+titleAz: Qəsidə 30
+titleRu: Касыда 30
 titleFa: شمارهٔ ۳۰
+titleEn: Qasida 30
 authorSlug: fuzuli
 collectionSlug: divan-fa-qasida
 originalLang: FA

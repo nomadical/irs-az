@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-105
 sourceId: ganjoor-14875
-titleAz: شمارهٔ ۱۰۵ - قصیده
+titleAz: Qəsidə 105
+titleRu: Касыда 105
 titleFa: شمارهٔ ۱۰۵ - قصیده
+titleEn: Qasida 105
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

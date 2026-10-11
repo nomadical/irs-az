@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-71
 sourceId: ganjoor-14440
-titleAz: غزل شمارهٔ ۷۱
+titleAz: Qəzəl 71
+titleRu: Газель 71
 titleFa: غزل شمارهٔ ۷۱
+titleEn: Ghazal 71
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

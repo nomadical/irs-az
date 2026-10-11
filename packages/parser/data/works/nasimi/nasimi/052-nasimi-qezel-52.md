@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-52
 sourceId: ganjoor-117347
-titleAz: شمارهٔ ۵۲
+titleAz: Qəzəl 52
+titleRu: Газель 52
 titleFa: شمارهٔ ۵۲
+titleEn: Ghazal 52
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

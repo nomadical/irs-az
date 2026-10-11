@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-77
 sourceId: ganjoor-14847
-titleAz: شمارهٔ ۷۷ - در ستایش شروان شاه
+titleAz: Qəsidə 77
+titleRu: Касыда 77
 titleFa: شمارهٔ ۷۷ - در ستایش شروان شاه
+titleEn: Qasida 77
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-222
 sourceId: ganjoor-15217
-titleAz: رباعی شمارهٔ   ۲۲۲
+titleAz: Rübai 222
+titleRu: Рубаи 222
 titleFa: رباعی شمارهٔ   ۲۲۲
+titleEn: Rubai 222
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

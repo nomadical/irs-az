@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-226
 sourceId: ganjoor-27889
-titleAz: شمارهٔ ۲۲۶
+titleAz: Qitə 226
+titleRu: Кыта 226
 titleFa: شمارهٔ ۲۲۶
+titleEn: Qit'a 226
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

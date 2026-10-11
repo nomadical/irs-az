@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-225
 sourceId: ganjoor-14594
-titleAz: غزل شمارهٔ ۲۲۵
+titleAz: Qəzəl 225
+titleRu: Газель 225
 titleFa: غزل شمارهٔ ۲۲۵
+titleEn: Ghazal 225
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-215
 sourceId: ganjoor-15210
-titleAz: رباعی شمارهٔ   ۲۱۵
+titleAz: Rübai 215
+titleRu: Рубаи 215
 titleFa: رباعی شمارهٔ   ۲۱۵
+titleEn: Rubai 215
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

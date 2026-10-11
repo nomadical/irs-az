@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-54
 sourceId: ganjoor-116760
-titleAz: شمارهٔ ۵۴
+titleAz: Qəzəl 54
+titleRu: Газель 54
 titleFa: شمارهٔ ۵۴
+titleEn: Ghazal 54
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

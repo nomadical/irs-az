@@ -1,8 +1,10 @@
 ---
 slug: nizami-sirler-xezinesi-7
 sourceId: ganjoor-9269
-titleAz: بخش ۷ - نعت دوم
+titleAz: 'Sirlər xəzinəsi, fəsil 7'
+titleRu: 'Сокровищница тайн, глава 7'
 titleFa: بخش ۷ - نعت دوم
+titleEn: 'The Treasury of Mysteries, chapter 7'
 authorSlug: nizami
 collectionSlug: nizami-mexzenul-esrar
 originalLang: FA

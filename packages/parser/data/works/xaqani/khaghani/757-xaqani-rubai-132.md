@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-132
 sourceId: ganjoor-15127
-titleAz: رباعی شمارهٔ   ۱۳۲
+titleAz: Rübai 132
+titleRu: Рубаи 132
 titleFa: رباعی شمارهٔ   ۱۳۲
+titleEn: Rubai 132
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

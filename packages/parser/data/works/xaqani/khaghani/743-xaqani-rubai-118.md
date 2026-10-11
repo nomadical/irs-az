@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-118
 sourceId: ganjoor-15113
-titleAz: رباعی شمارهٔ   ۱۱۸
+titleAz: Rübai 118
+titleRu: Рубаи 118
 titleFa: رباعی شمارهٔ   ۱۱۸
+titleEn: Rubai 118
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

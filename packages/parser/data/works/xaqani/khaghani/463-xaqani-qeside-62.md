@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qeside-62
 sourceId: ganjoor-14832
-titleAz: شمارهٔ ۶۲ - در ستایش منوچهر بن فریدون شروان شاه
+titleAz: Qəsidə 62
+titleRu: Касыда 62
 titleFa: شمارهٔ ۶۲ - در ستایش منوچهر بن فریدون شروان شاه
+titleEn: Qasida 62
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

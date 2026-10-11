@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-365
 sourceId: ganjoor-117071
-titleAz: شمارهٔ ۳۶۵
+titleAz: Qəzəl 365
+titleRu: Газель 365
 titleFa: شمارهٔ ۳۶۵
+titleEn: Ghazal 365
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

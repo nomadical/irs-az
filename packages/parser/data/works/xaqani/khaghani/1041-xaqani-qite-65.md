@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-65
 sourceId: ganjoor-27728
-titleAz: شمارهٔ ۶۵
+titleAz: Qitə 65
+titleRu: Кыта 65
 titleFa: شمارهٔ ۶۵
+titleEn: Qit'a 65
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

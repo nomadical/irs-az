@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-143
 sourceId: ganjoor-15138
-titleAz: رباعی شمارهٔ   ۱۴۳
+titleAz: Rübai 143
+titleRu: Рубаи 143
 titleFa: رباعی شمارهٔ   ۱۴۳
+titleEn: Rubai 143
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-88
 sourceId: ganjoor-50148
-titleAz: رباعی شمارۀ ۸۸
+titleAz: 'Rübailər, 88'
+titleRu: 'Рубайят, 88'
 titleFa: رباعی شمارۀ ۸۸
+titleEn: 'Rubaiyat, 88'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-65
 sourceId: ganjoor-14434
-titleAz: غزل شمارهٔ ۶۵
+titleAz: Qəzəl 65
+titleRu: Газель 65
 titleFa: غزل شمارهٔ ۶۵
+titleEn: Ghazal 65
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

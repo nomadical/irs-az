@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-339
 sourceId: ganjoor-14708
-titleAz: غزل شمارهٔ ۳۳۹
+titleAz: Qəzəl 339
+titleRu: Газель 339
 titleFa: غزل شمارهٔ ۳۳۹
+titleEn: Ghazal 339
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

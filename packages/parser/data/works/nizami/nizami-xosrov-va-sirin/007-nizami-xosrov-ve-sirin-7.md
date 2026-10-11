@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-7
 sourceId: ganjoor-8871
-titleAz: بخش ۷ - در ستایش طغرل ارسلان
+titleAz: 'Xosrov və Şirin, fəsil 7'
+titleRu: 'Хосров и Ширин, глава 7'
 titleFa: بخش ۷ - در ستایش طغرل ارسلان
+titleEn: 'Khosrow and Shirin, chapter 7'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

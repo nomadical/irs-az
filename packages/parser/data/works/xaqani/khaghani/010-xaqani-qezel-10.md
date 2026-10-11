@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-10
 sourceId: ganjoor-14379
-titleAz: غزل شمارهٔ ۱۰
+titleAz: Qəzəl 10
+titleRu: Газель 10
 titleFa: غزل شمارهٔ ۱۰
+titleEn: Ghazal 10
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

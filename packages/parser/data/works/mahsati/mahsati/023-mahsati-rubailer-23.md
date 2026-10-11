@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-23
 sourceId: ganjoor-50083
-titleAz: رباعی شمارۀ ۲۳
+titleAz: 'Rübailər, 23'
+titleRu: 'Рубайят, 23'
 titleFa: رباعی شمارۀ ۲۳
+titleEn: 'Rubaiyat, 23'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

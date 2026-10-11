@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubai-138
 sourceId: ganjoor-133862
-titleAz: شمارهٔ ۱۳۸
+titleAz: Rübai 138
+titleRu: Рубаи 138
 titleFa: شمارهٔ ۱۳۸
+titleEn: Rubai 138
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

@@ -5,6 +5,7 @@ import { auditCommand } from './commands/audit';
 import { importMdCommand } from './commands/import-md';
 import { scrapeAllCommand } from './commands/scrape-all';
 import { reslugCommand } from './commands/reslug';
+import { retitleCommand } from './commands/retitle';
 
 const program = new Command()
   .name('irs-parser')
@@ -17,5 +18,6 @@ program.addCommand(scrapeAllCommand);
 program.addCommand(auditCommand);
 program.addCommand(importMdCommand);
 program.addCommand(reslugCommand);
+program.addCommand(retitleCommand);
 
 program.parse();

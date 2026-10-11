@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-333
 sourceId: ganjoor-15328
-titleAz: رباعی شمارهٔ   ۳۳۳
+titleAz: Rübai 333
+titleRu: Рубаи 333
 titleFa: رباعی شمارهٔ   ۳۳۳
+titleEn: Rubai 333
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-89
 sourceId: ganjoor-14458
-titleAz: غزل شمارهٔ ۸۹
+titleAz: Qəzəl 89
+titleRu: Газель 89
 titleFa: غزل شمارهٔ ۸۹
+titleEn: Ghazal 89
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

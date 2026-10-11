@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-223
 sourceId: ganjoor-27886
-titleAz: شمارهٔ ۲۲۳
+titleAz: Qitə 223
+titleRu: Кыта 223
 titleFa: شمارهٔ ۲۲۳
+titleEn: Qit'a 223
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-405
 sourceId: ganjoor-117111
-titleAz: شمارهٔ ۴۰۵
+titleAz: Qəzəl 405
+titleRu: Газель 405
 titleFa: شمارهٔ ۴۰۵
+titleEn: Ghazal 405
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

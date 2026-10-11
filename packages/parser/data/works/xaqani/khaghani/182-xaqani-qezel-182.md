@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-182
 sourceId: ganjoor-14551
-titleAz: غزل شمارهٔ ۱۸۲
+titleAz: Qəzəl 182
+titleRu: Газель 182
 titleFa: غزل شمارهٔ ۱۸۲
+titleEn: Ghazal 182
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

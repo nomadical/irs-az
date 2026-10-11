@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-65
 sourceId: ganjoor-116771
-titleAz: شمارهٔ ۶۵
+titleAz: Qəzəl 65
+titleRu: Газель 65
 titleFa: شمارهٔ ۶۵
+titleEn: Ghazal 65
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

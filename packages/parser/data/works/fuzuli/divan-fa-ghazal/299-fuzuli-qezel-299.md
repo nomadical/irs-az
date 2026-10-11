@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-299
 sourceId: ganjoor-117005
-titleAz: شمارهٔ ۲۹۹
+titleAz: Qəzəl 299
+titleRu: Газель 299
 titleFa: شمارهٔ ۲۹۹
+titleEn: Ghazal 299
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

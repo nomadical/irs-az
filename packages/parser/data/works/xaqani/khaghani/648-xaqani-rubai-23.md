@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-23
 sourceId: ganjoor-15018
-titleAz: رباعی شمارهٔ   ۲۳
+titleAz: Rübai 23
+titleRu: Рубаи 23
 titleFa: رباعی شمارهٔ   ۲۳
+titleEn: Rubai 23
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

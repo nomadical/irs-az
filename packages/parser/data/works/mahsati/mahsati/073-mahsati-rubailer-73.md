@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-73
 sourceId: ganjoor-50133
-titleAz: رباعی شمارۀ ۷۳
+titleAz: 'Rübailər, 73'
+titleRu: 'Рубайят, 73'
 titleFa: رباعی شمارۀ ۷۳
+titleEn: 'Rubaiyat, 73'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

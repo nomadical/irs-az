@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-85
 sourceId: ganjoor-15080
-titleAz: رباعی شمارهٔ   ۸۵
+titleAz: Rübai 85
+titleRu: Рубаи 85
 titleFa: رباعی شمارهٔ   ۸۵
+titleEn: Rubai 85
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

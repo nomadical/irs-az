@@ -1,8 +1,10 @@
 ---
 slug: nasimi-qezel-93
 sourceId: ganjoor-117388
-titleAz: شمارهٔ ۹۳
+titleAz: Qəzəl 93
+titleRu: Газель 93
 titleFa: شمارهٔ ۹۳
+titleEn: Ghazal 93
 authorSlug: nasimi
 collectionSlug: nasimi
 originalLang: FA

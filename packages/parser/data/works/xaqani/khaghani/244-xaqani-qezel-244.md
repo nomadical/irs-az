@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-244
 sourceId: ganjoor-14613
-titleAz: غزل شمارهٔ ۲۴۴
+titleAz: Qəzəl 244
+titleRu: Газель 244
 titleFa: غزل شمارهٔ ۲۴۴
+titleEn: Ghazal 244
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

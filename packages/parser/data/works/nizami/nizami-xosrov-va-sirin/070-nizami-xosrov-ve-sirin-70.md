@@ -1,8 +1,10 @@
 ---
 slug: nizami-xosrov-ve-sirin-70
 sourceId: ganjoor-8934
-titleAz: بخش ۷۰ - پاسخ دادن خسرو شیرین را
+titleAz: 'Xosrov və Şirin, fəsil 70'
+titleRu: 'Хосров и Ширин, глава 70'
 titleFa: بخش ۷۰ - پاسخ دادن خسرو شیرین را
+titleEn: 'Khosrow and Shirin, chapter 70'
 authorSlug: nizami
 collectionSlug: nizami-xosrov-va-sirin
 originalLang: FA

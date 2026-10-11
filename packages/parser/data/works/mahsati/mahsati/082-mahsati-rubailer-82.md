@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-82
 sourceId: ganjoor-50142
-titleAz: رباعی شمارۀ ۸۲
+titleAz: 'Rübailər, 82'
+titleRu: 'Рубайят, 82'
 titleFa: رباعی شمارۀ ۸۲
+titleEn: 'Rubaiyat, 82'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

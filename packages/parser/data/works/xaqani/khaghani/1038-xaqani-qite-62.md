@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-62
 sourceId: ganjoor-27725
-titleAz: شمارهٔ ۶۲
+titleAz: Qitə 62
+titleRu: Кыта 62
 titleFa: شمارهٔ ۶۲
+titleEn: Qit'a 62
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

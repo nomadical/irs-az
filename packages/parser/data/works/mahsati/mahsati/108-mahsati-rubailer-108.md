@@ -1,8 +1,10 @@
 ---
 slug: mahsati-rubailer-108
 sourceId: ganjoor-50168
-titleAz: رباعی شمارۀ ۱۰۸
+titleAz: 'Rübailər, 108'
+titleRu: 'Рубайят, 108'
 titleFa: رباعی شمارۀ ۱۰۸
+titleEn: 'Rubaiyat, 108'
 authorSlug: mahsati
 collectionSlug: mahsati
 originalLang: FA

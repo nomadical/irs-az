@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-255
 sourceId: ganjoor-27918
-titleAz: شمارهٔ ۲۵۵ - در طیبت
+titleAz: Qitə 255
+titleRu: Кыта 255
 titleFa: شمارهٔ ۲۵۵ - در طیبت
+titleEn: Qit'a 255
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

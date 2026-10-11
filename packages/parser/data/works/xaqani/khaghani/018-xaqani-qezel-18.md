@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qezel-18
 sourceId: ganjoor-14387
-titleAz: غزل شمارهٔ ۱۸
+titleAz: Qəzəl 18
+titleRu: Газель 18
 titleFa: غزل شمارهٔ ۱۸
+titleEn: Ghazal 18
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

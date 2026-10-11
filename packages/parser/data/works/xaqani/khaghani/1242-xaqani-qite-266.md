@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-266
 sourceId: ganjoor-27929
-titleAz: شمارهٔ ۲۶۶ - در شکر انعام رئیس شمس الدین
+titleAz: Qitə 266
+titleRu: Кыта 266
 titleFa: شمارهٔ ۲۶۶ - در شکر انعام رئیس شمس الدین
+titleEn: Qit'a 266
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

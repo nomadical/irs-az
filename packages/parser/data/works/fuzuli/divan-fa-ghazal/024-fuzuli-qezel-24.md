@@ -1,8 +1,10 @@
 ---
 slug: fuzuli-qezel-24
 sourceId: ganjoor-116730
-titleAz: شمارهٔ ۲۴
+titleAz: Qəzəl 24
+titleRu: Газель 24
 titleFa: شمارهٔ ۲۴
+titleEn: Ghazal 24
 authorSlug: fuzuli
 collectionSlug: divan-fa-ghazal
 originalLang: FA

@@ -1,8 +1,10 @@
 ---
 slug: xaqani-qite-213
 sourceId: ganjoor-27876
-titleAz: شمارهٔ ۲۱۳ - خاقانی این قطعه را به جواب فیلسوف فرستاد
+titleAz: Qitə 213
+titleRu: Кыта 213
 titleFa: شمارهٔ ۲۱۳ - خاقانی این قطعه را به جواب فیلسوف فرستاد
+titleEn: Qit'a 213
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

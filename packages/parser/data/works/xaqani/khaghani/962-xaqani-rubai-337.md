@@ -1,8 +1,10 @@
 ---
 slug: xaqani-rubai-337
 sourceId: ganjoor-15332
-titleAz: رباعی شمارهٔ   ۳۳۷
+titleAz: Rübai 337
+titleRu: Рубаи 337
 titleFa: رباعی شمارهٔ   ۳۳۷
+titleEn: Rubai 337
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA

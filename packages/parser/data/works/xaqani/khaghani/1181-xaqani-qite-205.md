@@ -1,12 +1,12 @@
 ---
 slug: xaqani-qite-205
 sourceId: ganjoor-27868
-titleAz: >-
-  شمارهٔ ۲۰۵ - در رثاء جمال الدین ابوجعفر محمدبن علی بن منصور اصفهانی وزیر قطب
-  الدین صاحب موصل
+titleAz: Qitə 205
+titleRu: Кыта 205
 titleFa: >-
   شمارهٔ ۲۰۵ - در رثاء جمال الدین ابوجعفر محمدبن علی بن منصور اصفهانی وزیر قطب
   الدین صاحب موصل
+titleEn: Qit'a 205
 authorSlug: xaqani
 collectionSlug: khaghani
 originalLang: FA
