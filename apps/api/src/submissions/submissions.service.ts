@@ -135,12 +135,7 @@ export class SubmissionsService {
    * the editorial check. Pass `publish: false` to create it as a draft instead.
    */
   async approve(id: string, reviewerId: string, { publish = true } = {}) {
-    const sub = await this.prisma.submission.findUniqueOrThrow({ where: { id } });
-
-    if (sub.status !== 'PENDING' && sub.status !== 'CHANGES_REQUESTED') {
-      throw new BadRequestException('Submission is not reviewable');
-    }
-
+    const sub = await this.assertReviewable(id);
     const payload = sub.payload as Record<string, unknown>;
     const reviewed = { status: 'APPROVED' as const, reviewedById: reviewerId, reviewedAt: new Date() };
 
@@ -177,24 +172,45 @@ export class SubmissionsService {
     });
   }
 
-  async reject(id: string, reviewerId: string, reviewNote: string) {
+  private async assertReviewable(id: string) {
+    const sub = await this.prisma.submission.findUniqueOrThrow({ where: { id } });
+    if (sub.status !== 'PENDING' && sub.status !== 'CHANGES_REQUESTED') {
+      throw new BadRequestException('Submission is not reviewable');
+    }
+    return sub;
+  }
+
+  private cleanNote(reviewNote: unknown) {
+    const note = typeof reviewNote === 'string' ? reviewNote.trim() : '';
+    if (note.length > 2000) throw new BadRequestException('Review note is too long');
+    return note || null;
+  }
+
+  async reject(id: string, reviewerId: string, reviewNote?: unknown) {
+    await this.assertReviewable(id);
+    const note = this.cleanNote(reviewNote);
     return this.prisma.submission.update({
       where: { id },
       data: {
         status: 'REJECTED',
-        reviewNote,
+        // Without a new note, keep the one from an earlier "request changes"
+        ...(note && { reviewNote: note }),
         reviewedById: reviewerId,
         reviewedAt: new Date(),
       },
     });
   }
 
-  async requestChanges(id: string, reviewerId: string, reviewNote: string) {
+  /** The note is what the contributor needs to fix, so it's required here. */
+  async requestChanges(id: string, reviewerId: string, reviewNote?: unknown) {
+    await this.assertReviewable(id);
+    const note = this.cleanNote(reviewNote);
+    if (!note) throw new BadRequestException('A review note is required when requesting changes');
     return this.prisma.submission.update({
       where: { id },
       data: {
         status: 'CHANGES_REQUESTED',
-        reviewNote,
+        reviewNote: note,
         reviewedById: reviewerId,
         reviewedAt: new Date(),
       },

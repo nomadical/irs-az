@@ -80,7 +80,7 @@ export class SubmissionsController {
   reject(
     @Param('id') id: string,
     @CurrentUser('id') reviewerId: string,
-    @Body('reviewNote') reviewNote: string,
+    @Body('reviewNote') reviewNote?: string,
   ) {
     return this.submissions.reject(id, reviewerId, reviewNote);
   }
@@ -92,7 +92,7 @@ export class SubmissionsController {
   requestChanges(
     @Param('id') id: string,
     @CurrentUser('id') reviewerId: string,
-    @Body('reviewNote') reviewNote: string,
+    @Body('reviewNote') reviewNote?: string,
   ) {
     return this.submissions.requestChanges(id, reviewerId, reviewNote);
   }

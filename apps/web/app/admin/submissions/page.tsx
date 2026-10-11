@@ -32,7 +32,9 @@ export default function AdminSubmissionsPage() {
   const [filter, setFilter] = useState('');
   const [expandedId, setExpandedId] = useState<string | null>(null);
   const [actionLoading, setActionLoading] = useState<string | null>(null);
-  const [notice, setNotice] = useState<{ text: string; href?: string; error?: boolean } | null>(null);
+  const [notice, setNotice] = useState<{ text: string; href?: string; linkText?: string; error?: boolean } | null>(null);
+  // Editor's note per submission, sent with reject / request-changes
+  const [notes, setNotes] = useState<Record<string, string>>({});
 
   const token = typeof window !== 'undefined' ? localStorage.getItem('token') : null;
 
@@ -54,7 +56,15 @@ export default function AdminSubmissionsPage() {
     loadSubmissions();
   }, [filter]);
 
-  const handleAction = async (id: string, action: 'approve' | 'reject' | 'request-changes') => {
+  /** Public contributors have no account, so the note reaches them only by email */
+  const mailtoContributor = (sub: any, note: string) =>
+    sub.contactEmail
+      ? `mailto:${sub.contactEmail}?subject=${encodeURIComponent('IRS.AZ: təklifiniz haqqında')}&body=${encodeURIComponent(note)}`
+      : undefined;
+
+  const handleAction = async (sub: any, action: 'approve' | 'reject' | 'request-changes') => {
+    const id = sub.id;
+    const reviewNote = (notes[id] ?? '').trim();
     setActionLoading(id);
     setNotice(null);
     try {
@@ -64,6 +74,7 @@ export default function AdminSubmissionsPage() {
           'Content-Type': 'application/json',
           ...(token && { Authorization: `Bearer ${token}` }),
         },
+        body: action === 'approve' ? undefined : JSON.stringify({ reviewNote }),
       });
       const result = await res.json().catch(() => ({}));
       if (!res.ok) {
@@ -71,8 +82,15 @@ export default function AdminSubmissionsPage() {
       } else {
         if (action === 'approve' && result.slug) {
           const path = result.type === 'AUTHOR' ? 'authors' : 'works';
-          setNotice({ text: 'Təsdiqləndi və dərc olundu.', href: `/az/${path}/${result.slug}` });
+          setNotice({ text: 'Təsdiqləndi və dərc olundu.', href: `/az/${path}/${result.slug}`, linkText: 'Saytda bax →' });
+        } else if (action !== 'approve') {
+          setNotice({
+            text: action === 'reject' ? 'Rədd edildi.' : 'Dəyişiklik istəndi.',
+            href: reviewNote ? mailtoContributor(sub, reviewNote) : undefined,
+            linkText: 'Müəllifə e-poçtla yaz →',
+          });
         }
+        setNotes(({ [id]: _, ...rest }) => rest);
         loadSubmissions();
         setExpandedId(null);
       }
@@ -126,7 +144,7 @@ export default function AdminSubmissionsPage() {
             <>
               {' '}
               <a href={notice.href} target="_blank" rel="noopener noreferrer">
-                Saytda bax →
+                {notice.linkText}
               </a>
             </>
           )}
@@ -202,28 +220,45 @@ export default function AdminSubmissionsPage() {
                             Mənbə: {(sub.payload as any).sourceNote}
                           </div>
                         )}
-                        {sub.status === 'PENDING' && (
+                        {sub.reviewNote && (
+                          <div className="adm-detail-source">
+                            Redaktor qeydi: {sub.reviewNote}
+                          </div>
+                        )}
+                        {(sub.status === 'PENDING' || sub.status === 'CHANGES_REQUESTED') && (
+                          <label className="adm-field adm-review-note">
+                            <span className="adm-label">Redaktor qeydi (müəllifə)</span>
+                            <textarea
+                              className="adm-textarea"
+                              rows={3}
+                              maxLength={2000}
+                              placeholder="Nəyi düzəltmək lazımdır və ya niyə rədd edilir"
+                              value={notes[sub.id] ?? ''}
+                              onChange={(e) => setNotes((n) => ({ ...n, [sub.id]: e.target.value }))}
+                            />
+                          </label>
+                        )}
+                        {(sub.status === 'PENDING' || sub.status === 'CHANGES_REQUESTED') && (
                           <div className="adm-detail-actions">
                             <button
                               className="adm-btn adm-btn-ok"
                               disabled={actionLoading === sub.id}
-                              onClick={() => handleAction(sub.id, 'approve')}
+                              onClick={() => handleAction(sub, 'approve')}
                             >
                               Təsdiqlə və dərc et
                             </button>
                             <button
                               className="adm-btn adm-btn-warn"
-                              disabled={actionLoading === sub.id}
-                              onClick={() =>
-                                handleAction(sub.id, 'request-changes')
-                              }
+                              disabled={actionLoading === sub.id || !(notes[sub.id] ?? '').trim()}
+                              title="Qeyd yazın: müəllif nəyi düzəltməlidir"
+                              onClick={() => handleAction(sub, 'request-changes')}
                             >
                               Dəyişiklik istəyin
                             </button>
                             <button
                               className="adm-btn adm-btn-no"
                               disabled={actionLoading === sub.id}
-                              onClick={() => handleAction(sub.id, 'reject')}
+                              onClick={() => handleAction(sub, 'reject')}
                             >
                               Rədd edin
                             </button>

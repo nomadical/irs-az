@@ -663,3 +663,6 @@
 }
 .adm-notice a { color: var(--pomeg); text-decoration: underline; }
 .adm-notice--error { color: var(--pomeg); }
+
+.adm-review-note { margin-top: 1rem; }
+.adm-review-note .adm-textarea { font-family: var(--font-body); line-height: 1.6; }
