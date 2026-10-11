@@ -27,11 +27,13 @@ export default async function LocaleLayout({
 }) {
   const { locale } = await params;
   const messages = await getMessages();
+  const t = await getTranslations({ locale, namespace: 'nav' });
 
   return (
     <NextIntlClientProvider messages={messages} locale={locale}>
+      <a href="#main" className="skip-link">{t('skip')}</a>
       <Header />
-      <main>{children}</main>
+      <main id="main" tabIndex={-1}>{children}</main>
       <Footer />
     </NextIntlClientProvider>
   );

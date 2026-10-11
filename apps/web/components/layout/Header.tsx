@@ -43,15 +43,15 @@ export function Header() {
     <header className="site-header">
       <div className="header-inner">
         <Link href={`/${locale}`} className="logo">
-          IRS<span className="logo-orn">◆</span><em>AZ</em>
+          IRS<span className="logo-orn" aria-hidden="true">◆</span><em>AZ</em>
         </Link>
 
-        <nav className="site-nav">
+        <nav className="site-nav" aria-label={t('menu_label')}>
           {navLinks.map((link) => (
             <Link
               key={link.href}
               href={link.href}
-              style={isActive(link.href) ? { color: 'var(--pomeg)' } : undefined}
+              aria-current={isActive(link.href) ? 'page' : undefined}
             >
               {link.label}
             </Link>

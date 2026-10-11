@@ -4,8 +4,10 @@ import { localized } from '@/lib/locale';
 import { excerpt, pageMetadata, SITE_URL } from '@/lib/seo';
 import Link from 'next/link';
 import { ReadingView } from '@/components/reading/ReadingView';
+import { WorkNavKeys } from '@/components/reading/WorkNavKeys';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { getTranslations } from 'next-intl/server';
+import { displayTitle, formatVerse, isArabicScript, isPlaceholderTitle, sourceInfo } from '@/lib/verse';
 
 export const dynamic = 'force-dynamic';
 
@@ -13,10 +15,30 @@ interface Props {
   params: Promise<{ locale: string; slug: string }>;
 }
 
+const GLOSSED_FORMS = ['GHAZAL', 'MASNAVI', 'RUBAI', 'QASIDA', 'MURABBA'];
+// Fallback collection names for imports still titled by their slug
+const FORM_PLURALS = ['GHAZAL', 'MASNAVI', 'RUBAI', 'QASIDA'];
+
+async function titleHelpers(locale: string) {
+  const t = await getTranslations({ locale, namespace: 'reading' });
+  const options = await getTranslations({ locale, namespace: 'contribute.options' });
+  return {
+    t,
+    options,
+    titleFor: (title: string | null, form: string | null) =>
+      displayTitle(title, {
+        formLabel: form && form !== 'OTHER' ? options(`form.${form}` as any) : null,
+        sectionLabel: t('section'),
+        numbered: (f, n) => t('numbered', { form: f, n }),
+      }),
+  };
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params;
   const work = (await getWorkOrRedirect(slug, locale)) as any;
-  const title = localized(work, 'title', locale) ?? work.titleAz;
+  const { titleFor } = await titleHelpers(locale);
+  const title = titleFor(localized(work, 'title', locale) ?? work.titleAz, work.form).text;
   const authorName = localized(work.author, 'name', locale);
 
   return pageMetadata({
@@ -38,12 +60,27 @@ export default async function WorkPage({ params }: Props) {
     api.getWorkNav(slug).catch(() => ({ prev: null, next: null })),
   ]);
 
-  const t = await getTranslations({ locale, namespace: 'contribute' });
-  const title = localized(work, 'title', locale);
+  const { t, options, titleFor } = await titleHelpers(locale);
+  const title = titleFor(localized(work, 'title', locale), work.form);
   const authorName = localized(work.author, 'name', locale);
+  const rawCollectionTitle = work.collection ? localized(work.collection, 'title', locale) : null;
   const collectionTitle = work.collection
-    ? localized(work.collection, 'title', locale)
+    ? isPlaceholderTitle(rawCollectionTitle, work.collection.slug)
+      ? t(`form_plural.${FORM_PLURALS.includes(work.form) ? work.form : 'OTHER'}` as any)
+      : rawCollectionTitle
     : null;
+
+  const isPoem = work.genre === 'POEM';
+  const verse = (html: string) => (isPoem ? formatVerse(html, { markLast: work.form === 'GHAZAL' }) : html);
+  const translations = (work.translations ?? []).map((tr: any) => ({
+    ...tr,
+    bodyHtml: verse(tr.bodyHtml || tr.body),
+  }));
+
+  const navHref = (item: { slug: string } | null) =>
+    item ? `/${locale}/works/${encodeURIComponent(item.slug)}` : null;
+  const navTitle = (item: any) => titleFor(localized(item, 'title', locale), work.form).text;
+  const titleLang = (text: string) => (isArabicScript(text) ? { lang: 'fa', dir: 'rtl' as const } : {});
 
   return (
     <div className="container page-content">
@@ -51,7 +88,7 @@ export default async function WorkPage({ params }: Props) {
         data={{
           '@context': 'https://schema.org',
           '@type': 'CreativeWork',
-          name: title,
+          name: title.original ?? title.text,
           url: `${SITE_URL}/${locale}/works/${slug}`,
           genre: work.genre.toLowerCase(),
           ...(work.year && { dateCreated: String(work.year) }),
@@ -70,102 +107,82 @@ export default async function WorkPage({ params }: Props) {
         }}
       />
 
-      {/* Breadcrumb */}
-      <div className="breadcrumb">
+      <nav className="breadcrumb" aria-label="Breadcrumb">
         <Link href={`/${locale}/authors/${work.author.slug}`}>{authorName}</Link>
         {collectionTitle && (
           <>
-            <span className="breadcrumb-sep">›</span>
+            <span className="breadcrumb-sep" aria-hidden="true">›</span>
             <Link href={`/${locale}/collections/${work.collection.slug}`}>
-              {collectionTitle}
+              <bdi>{collectionTitle}</bdi>
             </Link>
           </>
         )}
-        <span className="breadcrumb-sep">›</span>
-        <span className="breadcrumb-current">{title}</span>
-      </div>
+        <span className="breadcrumb-sep" aria-hidden="true">›</span>
+        <span className="breadcrumb-current" aria-current="page">
+          <bdi {...titleLang(title.text)}>{title.text}</bdi>
+        </span>
+      </nav>
 
-      {/* Title block — centered, editorial */}
-      <header className="page-header" style={{ paddingTop: '0.5rem' }}>
-        <h1 style={{ fontSize: '2.75rem' }}>{title}</h1>
-        <div className="meta-strip" style={{ justifyContent: 'center', marginTop: '0.5rem' }}>
-          <span>{work.genre.toLowerCase()}</span>
+      <header className="page-header work-header">
+        <h1 className="work-heading" {...titleLang(title.text)}>{title.text}</h1>
+        {title.original && (
+          <p className="work-heading-original" lang="fa" dir="rtl">{title.original}</p>
+        )}
+        <div className="meta-strip">
+          <span>{options(`genre.${work.genre}` as any)}</span>
           {work.form && work.form !== 'OTHER' && (
             <>
-              <span className="dot" />
-              <span>{work.form.toLowerCase()}</span>
+              <span className="dot" aria-hidden="true" />
+              <span>{options(`form.${work.form}` as any)}</span>
             </>
           )}
           {work.year && (
             <>
-              <span className="dot" />
+              <span className="dot" aria-hidden="true" />
               <span>{work.yearApprox ? '~' : ''}{work.year}</span>
             </>
           )}
         </div>
+        {work.form && GLOSSED_FORMS.includes(work.form) && (
+          <p className="work-gloss">{t(`gloss.${work.form}` as any)}</p>
+        )}
       </header>
 
-      <div className="ornament" />
+      <div className="ornament" aria-hidden="true" />
 
-      {/* Reading content */}
       <ReadingView
-        body={work.bodyHtml || work.body}
-        translations={work.translations}
+        body={verse(work.bodyHtml || work.body)}
+        translations={translations}
         originalLang={work.originalLang}
         scriptDirection={work.scriptDirection}
         locale={locale}
         genre={work.genre}
+        source={sourceInfo(work.sourceNote)}
+        suggestHref={`/${locale}/contribute?type=translation&work=${encodeURIComponent(slug)}`}
       />
 
-      {/* Source note */}
-      {work.sourceNote && (
-        <p
-          style={{
-            fontFamily: 'var(--font-ui)',
-            fontSize: '0.7rem',
-            color: 'var(--muted)',
-            textAlign: 'center',
-            fontStyle: 'italic',
-            marginBottom: '1rem',
-          }}
-        >
-          {work.sourceNote}
-        </p>
+      {(nav.prev || nav.next) && (
+        <nav className="work-nav" aria-label={t('nav_label')}>
+          {nav.prev ? (
+            <Link href={navHref(nav.prev)!} className="work-nav-btn" rel="prev">
+              <span className="work-nav-dir">← {t('prev')}</span>
+              <span className="work-nav-title"><bdi {...titleLang(navTitle(nav.prev))}>{navTitle(nav.prev)}</bdi></span>
+            </Link>
+          ) : (
+            <span />
+          )}
+          {nav.next ? (
+            <Link href={navHref(nav.next)!} className="work-nav-btn work-nav-btn--next" rel="next">
+              <span className="work-nav-dir">{t('next')} →</span>
+              <span className="work-nav-title"><bdi {...titleLang(navTitle(nav.next))}>{navTitle(nav.next)}</bdi></span>
+            </Link>
+          ) : (
+            <span />
+          )}
+          <p className="work-nav-hint">{t('keys_hint')}</p>
+        </nav>
       )}
-
-      <p className="work-suggest">
-        <Link href={`/${locale}/contribute?type=translation&work=${encodeURIComponent(slug)}`}>
-          + {t('suggest_translation')}
-        </Link>
-      </p>
-
-      {/* Prev / Next navigation */}
-      <div className="work-nav">
-        {nav.prev ? (
-          <Link href={`/${locale}/works/${nav.prev.slug}`} className="work-nav-btn">
-            <span className="work-nav-dir">
-              ← {locale === 'ru' ? 'Предыдущее' : locale === 'en' ? 'Previous' : 'Əvvəlki'}
-            </span>
-            <span className="work-nav-title">
-              {localized(nav.prev, 'title', locale)}
-            </span>
-          </Link>
-        ) : (
-          <span />
-        )}
-        {nav.next ? (
-          <Link href={`/${locale}/works/${nav.next.slug}`} className="work-nav-btn work-nav-btn--next">
-            <span className="work-nav-dir">
-              {locale === 'ru' ? 'Следующее' : locale === 'en' ? 'Next' : 'Növbəti'} →
-            </span>
-            <span className="work-nav-title">
-              {localized(nav.next, 'title', locale)}
-            </span>
-          </Link>
-        ) : (
-          <span />
-        )}
-      </div>
+      <WorkNavKeys prevHref={navHref(nav.prev)} nextHref={navHref(nav.next)} />
     </div>
   );
 }

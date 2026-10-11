@@ -4,7 +4,7 @@
    ───────────────────────────────────────────────────────────── */
 
 /* ── Fonts ─────────────────────────────────────────────────── */
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;1,8..60,400&family=Inter:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;1,8..60,400&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Amiri:ital,wght@0,400;0,700;1,400&display=swap');
 
 /* ── Tokens — Light theme ───────────────────────────────────── */
 :root {
@@ -15,6 +15,8 @@
   --pomeg-dark: #6A1010;
   --muted:      #6B5E52;
   --rule:       #A89070;
+  --control:    #8A7458;     /* borders of interactive controls: ≥3:1 on bg */
+  --pomeg-fill: #8E1515;     /* filled active states, white text on top */
   --surf:       #D9CCBA;
   --hl:         #F0E4E4;
   --warm-brown: #6B5E52;   /* alias — keep for compat */
@@ -22,7 +24,8 @@
   /* Typography */
   --font-serif: 'Cormorant Garamond', 'Source Serif 4', Georgia, serif;
   --font-body:  'Source Serif 4', Georgia, 'Times New Roman', serif;
-  --font-ui:    'Inter', system-ui, sans-serif;
+  --font-ui:    'Alegreya Sans', 'Source Serif 4', system-ui, sans-serif;
+  --font-arabic: 'Amiri', 'Noto Naskh Arabic', 'Geeza Pro', serif;
 
   /* Spacing */
   --container:  72rem;        /* 1152px */
@@ -36,26 +39,30 @@
 [data-theme='dark'] {
   --bg:         #1A1410;
   --ink:        #E8E0D4;
-  --pomeg:      #CC5A5A;
+  --pomeg:      #D96B6B;
   --pomeg-dark: #E08080;
-  --muted:      #8A7A6E;
+  --pomeg-fill: #A63A3A;
+  --muted:      #A39384;
   --rule:       #4A3A2C;
+  --control:    #857059;
   --surf:       #302619;
   --hl:         #2A1515;
-  --warm-brown: #8A7A6E;
+  --warm-brown: #A39384;
 }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme='light']) {
     --bg:         #1A1410;
     --ink:        #E8E0D4;
-    --pomeg:      #CC5A5A;
+    --pomeg:      #D96B6B;
     --pomeg-dark: #E08080;
-    --muted:      #8A7A6E;
+    --pomeg-fill: #A63A3A;
+    --muted:      #A39384;
     --rule:       #4A3A2C;
+    --control:    #857059;
     --surf:       #302619;
     --hl:         #2A1515;
-    --warm-brown: #8A7A6E;
+    --warm-brown: #A39384;
   }
 }
 
@@ -79,8 +86,37 @@ body {
 }
 
 img, video { max-width: 100%; display: block; }
-a { color: inherit; text-decoration: none; }
+a { color: inherit; text-decoration: none; text-underline-offset: 0.2em; }
 button { cursor: pointer; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition: none !important; }
+}
+
+/* ── Browser surfaces ───────────────────────────────────────── */
+::selection { background: var(--pomeg-fill); color: #fff; }
+input, textarea { caret-color: var(--pomeg); }
+:focus-visible {
+  outline:        2px solid var(--pomeg);
+  outline-offset: 2px;
+  border-radius:  2px;
+}
+main:focus { outline: none; }
+
+.skip-link {
+  position:    absolute;
+  left:        1rem;
+  top:         -3rem;
+  z-index:     200;
+  background:  var(--pomeg-fill);
+  color:       #fff;
+  font-family: var(--font-ui);
+  font-size:   0.9rem;
+  padding:     0.5rem 1rem;
+  border-radius: var(--radius);
+}
+.skip-link:focus { top: 0.5rem; }
 
 /* ── Typography ─────────────────────────────────────────────── */
 h1, h2, h3, h4, h5, h6 {
@@ -168,12 +204,15 @@ blockquote {
 }
 .site-nav a {
   font-family:    var(--font-ui);
-  font-size:      0.68rem;
+  font-size:      0.8rem;
+  font-weight:    500;
   letter-spacing: 0.07em;
   text-transform: uppercase;
   color:          var(--muted);
+  white-space:    nowrap;
 }
-.site-nav a:hover { color: var(--pomeg); }
+.site-nav a:hover,
+.site-nav a[aria-current='page'] { color: var(--pomeg); }
 
 .header-tools {
   display:     flex;
@@ -184,7 +223,7 @@ blockquote {
 .dateline {
   border-bottom: 4px double var(--pomeg);
   font-family:    var(--font-ui);
-  font-size:      0.6rem;
+  font-size:      0.75rem;
   color:          var(--muted);
   letter-spacing: 0.04em;
   padding:        0.15rem 1.5rem;
@@ -196,10 +235,10 @@ blockquote {
 }
 .lang-btn {
   font-family:  var(--font-ui);
-  font-size:    0.65rem;
+  font-size:    0.78rem;
   font-weight:  500;
-  padding:      0.22rem 0.55rem;
-  border:       1px solid var(--rule);
+  padding:      0.25rem 0.6rem;
+  border:       1px solid var(--control);
   background:   var(--surf);
   color:        var(--ink);
   transition:   background 0.12s, color 0.12s;
@@ -209,9 +248,9 @@ blockquote {
 .lang-btn + .lang-btn { border-left: none; }
 .lang-btn.active,
 .lang-btn[aria-current='true'] {
-  background:  var(--pomeg);
+  background:  var(--pomeg-fill);
   color:       white;
-  border-color: var(--pomeg);
+  border-color: var(--pomeg-fill);
 }
 .lang-btn:hover:not(.active):not([aria-current='true']) {
   background:  var(--ink);
@@ -220,13 +259,13 @@ blockquote {
 }
 
 .theme-btn {
-  width:        1.3rem;
-  height:       1.3rem;
+  width:        1.75rem;
+  height:       1.75rem;
   border-radius: 4px;
-  border:       1px solid var(--rule);
+  border:       1px solid var(--control);
   background:   var(--surf);
   color:        var(--ink);
-  font-size:    0.75rem;
+  font-size:    0.9rem;
   display:      flex;
   align-items:  center;
   justify-content: center;
@@ -259,14 +298,14 @@ blockquote {
 /* ── Ornamental dividers ────────────────────────────────────── */
 .ornament {
   text-align:  center;
-  font-size:   0.4rem;
+  font-size:   0.65rem;
   color:       var(--pomeg);
-  letter-spacing: 0.6rem;
+  letter-spacing: 0.5rem;
   line-height: 1;
   font-family: var(--font-ui);
   padding-bottom: 1.5rem;
 }
-.ornament::after { content: '◆ ── ◆ ── ◆'; }
+.ornament::after { content: '◆ ── ◆ ── ◆'; content: '◆ ── ◆ ── ◆' / ''; }
 .ornament--diamonds::after { content: '◆  ◆  ◆'; }
 .ornament--small {
   font-size: 0.5rem;
@@ -381,7 +420,7 @@ blockquote {
   gap:         0.4rem;
   flex-wrap:   wrap;
   font-family: var(--font-ui);
-  font-size:   0.68rem;
+  font-size:   0.85rem;
   color:       var(--muted);
 }
 .dot {
@@ -452,12 +491,174 @@ blockquote {
 }
 
 /* ── Reading page ───────────────────────────────────────────── */
-.reading-column {
-  max-width:  36rem;
-  margin:     0 auto;
+.work-header { padding-top: 0.5rem; }
+.work-heading {
+  font-size:    2.75rem;
+  text-wrap:    balance;
+}
+.work-heading:lang(fa) {
+  font-family:  var(--font-arabic);
+  font-weight:  700;
+  letter-spacing: 0;
+  line-height:  1.5;
+}
+.work-heading-original {
+  font-family:  var(--font-arabic);
+  font-size:    1.35rem;
+  color:        var(--muted);
+  line-height:  1.6;
+  margin:       0.15rem 0 0.4rem;
+}
+.work-header .meta-strip {
+  justify-content: center;
+  margin-top:      0.5rem;
+}
+.work-gloss {
+  max-width:   32rem;
+  margin:      0.9rem auto 0;
   font-family: var(--font-body);
-  font-size:  1.05rem;
-  line-height: 1.95;
+  font-style:  italic;
+  font-size:   0.92rem;
+  line-height: 1.6;
+  color:       var(--muted);
+  text-wrap:   pretty;
+}
+
+.reading-column {
+  max-width:   var(--reading-width, 36rem);
+  margin:      0 auto;
+  font-family: var(--reading-font, var(--font-body));
+  font-size:   var(--reading-size, 1.05rem);
+  line-height: var(--reading-leading, 1.95);
+  overflow-wrap: break-word;
+}
+.reading-column:is(:lang(fa), :lang(ar), :lang(az-Arab)) {
+  font-family:  var(--font-arabic);
+  font-size:    calc(var(--reading-size, 1.05rem) * 1.2);
+  line-height:  2.05;
+}
+
+/* Beyt: a couplet of two hemistichs (misra). Stacked, the second is indented;
+   wrapped lines hang so a run-over never reads as a new verse */
+.beyt {
+  margin-bottom: 1.15em;
+}
+.misra {
+  display:     block;
+  padding-inline-start: 1.25em;
+  text-indent: -1.25em;
+}
+.misra + .misra {
+  padding-inline-start: 4em;
+}
+
+/* Persian couplets set side by side, as in a printed divan */
+@media (min-width: 60rem) {
+  .reading-column.is-poem:is(:lang(fa), :lang(ar), :lang(az-Arab)) {
+    max-width: 48rem;
+  }
+  .reading-column:is(:lang(fa), :lang(ar), :lang(az-Arab)) .beyt {
+    display:               grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap:            3.5rem;
+    margin-bottom:         0.5em;
+  }
+  .reading-column:is(:lang(fa), :lang(ar), :lang(az-Arab)) .misra {
+    padding: 0;
+    text-indent: 0;
+    text-align: center;
+  }
+  .parallel-col .beyt { display: block; }
+}
+
+/* Maqta: the closing couplet of a ghazal, where the poet signs with a pen name */
+.beyt--maqta {
+  margin-top: 2.25em;
+  position:   relative;
+}
+.beyt--maqta::before {
+  content:     '◆';
+  content:     '◆' / '';
+  position:    absolute;
+  inset-inline: 0;
+  top:         -1.6em;
+  text-align:  center;
+  font-family: var(--font-ui);
+  font-size:   0.6rem;
+  line-height: 1;
+  color:       var(--pomeg);
+  grid-column: 1 / -1;
+}
+.beyt--maqta .misra { color: var(--pomeg-dark); }
+[data-theme='dark'] .beyt--maqta .misra { color: var(--ink); }
+
+/* Tailpiece: the printer's mark that closes the text */
+.tailpiece {
+  display:     flex;
+  align-items: center;
+  gap:         0.75rem;
+  max-width:   12rem;
+  margin:      3rem auto 1.75rem;
+  font-family: var(--font-ui);
+  font-size:   0.65rem;
+  line-height: 1;
+  color:       var(--pomeg);
+}
+.tailpiece::before,
+.tailpiece::after {
+  content:    '';
+  flex:       1;
+  border-top: 4px double var(--pomeg);
+}
+
+/* Provenance: where the text comes from and who translated it */
+.provenance {
+  max-width:   36rem;
+  margin:      0 auto 2.5rem;
+  text-align:  center;
+  font-family: var(--font-ui);
+  font-size:   0.9rem;
+  line-height: 1.6;
+  color:       var(--muted);
+}
+.provenance p { margin: 0 0 0.35rem; overflow-wrap: anywhere; }
+.provenance a { color: var(--pomeg); text-decoration: underline; text-decoration-thickness: 1px; }
+.provenance a:hover { text-decoration-thickness: 2px; }
+.provenance-key {
+  font-size:      0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-inline-end: 0.5rem;
+}
+.provenance-meta::before { content: '·'; margin: 0 0.45rem; }
+.provenance-cta { margin-top: 0.75rem !important; }
+
+.reading-toolbar {
+  display:         flex;
+  align-items:     center;
+  justify-content: space-between;
+  gap:             1rem;
+  max-width:       36rem;
+  margin:          0 auto 1.25rem;
+}
+.reading-toolbar--wide { max-width: none; }
+@media (min-width: 60rem) { .reading-toolbar--verse { max-width: 48rem; } }
+.reading-toolbar .lang-tabs { margin: 0; justify-content: flex-start; }
+.lang-tabs--langs { margin-bottom: 2rem; }
+.reading-toolbar + .reading-column,
+.reading-toolbar + .parallel-grid { margin-top: 2rem; }
+
+.page-loading {
+  text-align:  center;
+  padding-top: 4rem;
+}
+.page-loading p {
+  font-family:    var(--font-ui);
+  font-size:      0.85rem;
+  color:          var(--muted);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-top:     1.5rem;
 }
 
 .drop-cap::first-letter {
@@ -494,11 +695,11 @@ blockquote {
 
 .lang-label {
   font-family:    var(--font-ui);
-  font-size:      0.6rem;
+  font-size:      0.75rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color:          var(--pomeg);
-  margin-bottom:  0.5rem;
+  margin-bottom:  1.25rem;
   padding-bottom: 0.3rem;
   border-bottom:  0.5px solid var(--rule);
   display:        flex;
@@ -524,27 +725,22 @@ blockquote {
   border-top:    0.5px solid var(--rule);
 }
 
-/* Poem centering for single-version poems */
-.reading-column.poem-centered {
-  text-align: center;
-}
 
 /* ── Appearance popover ────────────────────────────────────── */
 .appearance-anchor {
-  position: absolute;
-  top: 0;
-  right: 0;
+  position:    relative;
+  flex-shrink: 0;
 }
 
 .appearance-trigger {
-  width:           2rem;
-  height:          2rem;
+  width:           2.25rem;
+  height:          2.25rem;
   border-radius:   var(--radius);
-  border:          1px solid var(--rule);
+  border:          1px solid var(--control);
   background:      var(--surf);
   color:           var(--ink);
   font-family:     var(--font-serif);
-  font-size:       0.85rem;
+  font-size:       1rem;
   font-weight:     600;
   display:         flex;
   align-items:     center;
@@ -559,8 +755,8 @@ blockquote {
 
 .appearance-popover {
   position:      absolute;
-  top:           2.4rem;
-  right:         0;
+  top:           2.75rem;
+  inset-inline-end: 0;
   background:    var(--bg);
   border:        1px solid var(--rule);
   border-radius: var(--radius);
@@ -582,7 +778,7 @@ blockquote {
 
 .appearance-label {
   font-family:    var(--font-ui);
-  font-size:      0.6rem;
+  font-size:      0.75rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color:          var(--muted);
@@ -595,10 +791,11 @@ blockquote {
 
 .appearance-step {
   font-family:  var(--font-ui);
-  font-size:    0.6rem;
+  font-size:    0.8rem;
   font-weight:  500;
-  padding:      0.22rem 0.55rem;
-  border:       1px solid var(--rule);
+  min-width:    2.25rem;
+  padding:      0.3rem 0.6rem;
+  border:       1px solid var(--control);
   background:   var(--surf);
   color:        var(--ink);
   transition:   background 0.12s, color 0.12s;
@@ -607,9 +804,9 @@ blockquote {
 .appearance-step:first-child { border-radius: var(--radius) 0 0 var(--radius); }
 .appearance-step:last-child  { border-radius: 0 var(--radius) var(--radius) 0; }
 .appearance-step.active {
-  background:   var(--pomeg);
+  background:   var(--pomeg-fill);
   color:        white;
-  border-color: var(--pomeg);
+  border-color: var(--pomeg-fill);
 }
 .appearance-step:hover:not(.active) {
   background:   var(--ink);
@@ -627,9 +824,9 @@ blockquote {
   margin-top:            0.75rem;
 }
 .work-nav-btn {
-  padding:    0.6rem 0.75rem;
-  border:     1px solid var(--rule);
-  background: var(--surf);
+  padding:    0.75rem 1rem;
+  border:     1px solid var(--control);
+  background: var(--bg);
   display:    block;
   transition: background 0.12s;
 }
@@ -639,17 +836,29 @@ blockquote {
 .work-nav-btn:hover .work-nav-dir,
 .work-nav-btn:hover .work-nav-title { color: var(--bg); }
 .work-nav-btn--next { text-align: right; }
+.work-nav-title bdi:lang(fa) { font-family: var(--font-arabic); font-size: 0.95em; }
+.work-nav-hint {
+  grid-column: 1 / -1;
+  text-align:  center;
+  font-family: var(--font-ui);
+  font-size:   0.8rem;
+  color:       var(--muted);
+  margin:      0.25rem 0 0;
+}
+@media (hover: none) { .work-nav-hint { display: none; } }
 .work-nav-dir {
+  display:        block;
   font-family:    var(--font-ui);
-  font-size:      0.58rem;
+  font-size:      0.75rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color:          var(--muted);
   margin-bottom:  0.2rem;
 }
 .work-nav-title {
+  display:     block;
   font-family: var(--font-serif);
-  font-size:   0.9rem;
+  font-size:   1.1rem;
   color:       var(--ink);
   line-height: 1.3;
 }
@@ -662,10 +871,10 @@ blockquote {
 }
 .lang-tab {
   font-family:  var(--font-ui);
-  font-size:    0.65rem;
+  font-size:    0.85rem;
   font-weight:  500;
-  padding:      0.3rem 0.85rem;
-  border:       1px solid var(--rule);
+  padding:      0.35rem 0.9rem;
+  border:       1px solid var(--control);
   background:   var(--surf);
   color:        var(--ink);
   transition:   background 0.12s, color 0.12s;
@@ -675,9 +884,9 @@ blockquote {
 .lang-tab:last-child      { border-radius: 0 var(--radius) var(--radius) 0; }
 .lang-tab.active,
 .lang-tab[aria-selected='true'] {
-  background:   var(--pomeg);
+  background:   var(--pomeg-fill);
   color:        white;
-  border-color: var(--pomeg);
+  border-color: var(--pomeg-fill);
 }
 .lang-tab:hover:not(.active):not([aria-selected='true']) {
   background:   var(--ink);
@@ -688,7 +897,7 @@ blockquote {
 /* ── Breadcrumb ─────────────────────────────────────────────── */
 .breadcrumb {
   font-family: var(--font-ui);
-  font-size:   0.68rem;
+  font-size:   0.85rem;
   color:       var(--muted);
   margin-bottom: 1rem;
   margin-top: 1rem;
@@ -700,6 +909,7 @@ blockquote {
 .breadcrumb a:hover { color: var(--pomeg); }
 .breadcrumb-sep { color: var(--rule); }
 .breadcrumb-current { color: var(--pomeg); }
+.breadcrumb bdi:lang(fa) { font-family: var(--font-arabic); font-size: 1.05em; }
 
 /* ── Author portrait placeholder ────────────────────────────── */
 .portrait-box {
@@ -988,7 +1198,20 @@ blockquote {
   h1 { font-size: 2rem; }
 
   .header-inner { flex-wrap: wrap; gap: 0.5rem; }
-  .site-nav     { display: none; } /* replaced by mobile menu */
+  /* Section strip: the nav becomes a scrollable second row */
+  .site-nav {
+    order:      3;
+    width:      100%;
+    overflow-x: auto;
+    scrollbar-width: none;
+    gap:        1.1rem;
+    padding:    0.35rem 0 0.15rem;
+    border-top: 0.5px solid var(--rule);
+  }
+  .site-nav::-webkit-scrollbar { display: none; }
+  .site-nav a { padding: 0.35rem 0; }
+  .work-heading { font-size: 2.1rem; }
+  .work-heading-original { font-size: 1.15rem; }
 
   .card-grid--3 { grid-template-columns: 1fr 1fr; }
   .work-list    { grid-template-columns: 1fr 1fr; }
@@ -1029,6 +1252,13 @@ blockquote {
     width: 100%;
     height: 120px;
   }
+}
+
+/* Touch: controls reach a comfortable target size */
+@media (pointer: coarse) {
+  .lang-tab, .appearance-step, .lang-btn { min-height: 2.75rem; }
+  .appearance-trigger, .theme-btn { width: 2.75rem; height: 2.75rem; }
+  .breadcrumb a { padding: 0.5rem 0; }
 }
 
 @media (max-width: 480px) {
