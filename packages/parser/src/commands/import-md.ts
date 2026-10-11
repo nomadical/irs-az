@@ -3,13 +3,14 @@ import { importAuthors } from '../importers/import-authors';
 import { importCollections } from '../importers/import-collections';
 import { importWorks } from '../importers/import-works';
 import { importTranslations } from '../importers/import-translations';
+import { importArtworks } from '../importers/import-artworks';
 import { disconnectDb } from '../importers/db';
 
-type ImportType = 'authors' | 'collections' | 'works' | 'translations' | 'all';
+type ImportType = 'authors' | 'collections' | 'works' | 'translations' | 'artworks' | 'all';
 
 export const importMdCommand = new Command('import-md')
   .description('Import .md files into the database via Prisma')
-  .option('--type <type>', 'Import only a specific type: authors, collections, works, translations', 'all')
+  .option('--type <type>', 'Import only a specific type: authors, collections, works, translations, artworks', 'all')
   .option('--author <slug>', 'Only import data for a specific author')
   .option('--dry-run', 'Show what would be imported without writing to DB')
   .option('--force', 'Overwrite existing records even if unchanged')
@@ -24,7 +25,7 @@ export const importMdCommand = new Command('import-md')
 
     try {
       const types = opts.type === 'all'
-        ? ['authors', 'collections', 'works', 'translations'] as const
+        ? ['authors', 'collections', 'works', 'translations', 'artworks'] as const
         : [opts.type] as const;
 
       for (const type of types) {
@@ -42,6 +43,9 @@ export const importMdCommand = new Command('import-md')
             break;
           case 'translations':
             await importTranslations(commonOpts);
+            break;
+          case 'artworks':
+            await importArtworks(commonOpts);
             break;
         }
       }

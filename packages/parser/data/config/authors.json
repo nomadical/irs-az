@@ -97,7 +97,21 @@
         "genre": "POEM",
         "originalLang": "FA"
       }
-    ]
+    ],
+    "met": {
+      "names": ["Fuzuli"],
+      "queries": ["Fuzuli", "Hadiqat al-Su'ada"],
+      "collections": [
+        {
+          "match": "Hadiqat",
+          "collection": "fuzuli-hediqetus-sueda"
+        },
+        {
+          "match": "Laila|Layla|Leyli|Majnun",
+          "collection": "fuzuli-leyli-ve-mecnun"
+        }
+      ]
+    }
   },
   {
     "slug": "nizami",
@@ -200,7 +214,37 @@
         "genre": "POEM",
         "originalLang": "FA"
       }
-    ]
+    ],
+    "met": {
+      "names": ["Nizami", "Nizami Ganjavi"],
+      "queries": ["Nizami", "Khamsa of Nizami", "Layla and Majnun", "Laila and Majnun", "Khusrau and Shirin", "Haft Paikar", "Bahram Gur", "Iskandarnama", "Sharafnama", "Makhzan al-Asrar"],
+      "collections": [
+        {
+          "match": "Makhzan|Sultan Sanjar",
+          "collection": "nizami-mexzenul-esrar"
+        },
+        {
+          "match": "Haft Paikar|Haft Paykar|Seven Portraits|Bahram Gur",
+          "collection": "nizami-heft-peyker"
+        },
+        {
+          "match": "Laila|Layla|Majnun",
+          "collection": "nizami-leyli-va-macnun"
+        },
+        {
+          "match": "Khusrau|Khusraw|Shirin|Farhad",
+          "collection": "nizami-xosrov-va-sirin"
+        },
+        {
+          "match": "Sharafnama|Darius",
+          "collection": "nizami-serefname"
+        },
+        {
+          "match": "Iqbalnama|Khiradnama|Seven Sages",
+          "collection": "nizami-xerednama"
+        }
+      ]
+    }
   },
   {
     "slug": "xaqani",
@@ -220,7 +264,11 @@
       "autoDiscover": true,
       "collections": []
     },
-    "collections": []
+    "collections": [],
+    "met": {
+      "names": ["Khaqani", "Khaqani Shirvani"],
+      "queries": ["Khaqani"]
+    }
   },
   {
     "slug": "nasimi",
@@ -243,7 +291,11 @@
       "autoDiscover": true,
       "collections": []
     },
-    "collections": []
+    "collections": [],
+    "met": {
+      "names": ["Nasimi", "Imad al-Din Nasimi"],
+      "queries": ["Nasimi"]
+    }
   },
   {
     "slug": "mahsati",
@@ -263,7 +315,11 @@
       "autoDiscover": true,
       "collections": []
     },
-    "collections": []
+    "collections": [],
+    "met": {
+      "names": ["Mahsati", "Mahsati Ganjavi"],
+      "queries": ["Mahsati"]
+    }
   },
   {
     "slug": "xetai",
@@ -281,7 +337,11 @@
     "wikisource": {
       "az": "Şah İsmayıl Xətai"
     },
-    "collections": []
+    "collections": [],
+    "met": {
+      "names": ["Shah Isma'il I", "Shah Isma'il", "Khata'i"],
+      "queries": ["Shah Isma'il", "Khata'i"]
+    }
   },
   {
     "slug": "vaqif",

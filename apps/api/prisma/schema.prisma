@@ -124,8 +124,8 @@ model Author {
   bornPlace      String?
   diedPlace      String?
 
-  type        AuthorType @default(POET)
-  period      String?
+  type         AuthorType @default(POET)
+  period       String?
   writingLangs Language[]
 
   bioAz String? @db.Text
@@ -141,6 +141,7 @@ model Author {
   collections Collection[]
   works       Work[]
   tags        AuthorTag[]
+  artworks    Artwork[]
   submissions Submission[]
 
   createdAt DateTime @default(now())
@@ -177,7 +178,8 @@ model Collection {
   order  Int?
   status PublishStatus @default(DRAFT)
 
-  works Work[]
+  works    Work[]
+  artworks Artwork[]
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
@@ -197,13 +199,13 @@ model Work {
   titleFa String?
   titleEn String?
 
-  body     String @db.Text
+  body     String  @db.Text
   bodyHtml String? @db.Text
 
   originalLang    Language
   scriptDirection ScriptDirection @default(LTR)
 
-  genre Genre @default(POEM)
+  genre Genre     @default(POEM)
   form  PoemForm?
 
   year       Int?
@@ -230,6 +232,7 @@ model Work {
   translations Translation[]
   tags         WorkTag[]
   submissions  Submission[]
+  artworks     Artwork[]
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
@@ -240,6 +243,52 @@ model Work {
   @@index([slug])
   @@index([originalLang])
   @@index([year])
+}
+
+// ── ARTWORK ───────────────────────────────────
+
+// Public-domain manuscript pages and miniatures from museum open-access collections,
+// linked to the author and, when the subject is known, the collection or work they illustrate
+model Artwork {
+  id String @id @default(cuid())
+
+  // Stable import key, e.g. "met-446603"
+  sourceId String @unique
+
+  title      String
+  objectDate String?
+  yearStart  Int?
+  yearEnd    Int?
+  medium     String?
+  artists    String? // calligraphers and painters, as credited by the museum
+
+  imageUrl         String
+  imageSmallUrl    String?
+  additionalImages String[] @default([])
+
+  museum     String // "The Metropolitan Museum of Art"
+  sourceUrl  String // the museum's object page
+  creditLine String?
+  license    String // "CC0"
+
+  authorId String
+  author   Author @relation(fields: [authorId], references: [id])
+
+  collectionId String?
+  collection   Collection? @relation(fields: [collectionId], references: [id])
+
+  workId String?
+  work   Work?   @relation(fields: [workId], references: [id])
+
+  order  Int?
+  status PublishStatus @default(DRAFT)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([authorId])
+  @@index([collectionId])
+  @@index([workId])
 }
 
 // ── TRANSLATION ───────────────────────────────
@@ -282,8 +331,8 @@ model Translation {
 // ── TAGS ──────────────────────────────────────
 
 model Tag {
-  id     String @id @default(cuid())
-  slug   String @unique
+  id     String  @id @default(cuid())
+  slug   String  @unique
   nameAz String
   nameRu String?
   nameEn String?

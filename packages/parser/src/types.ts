@@ -127,6 +127,28 @@ export interface TranslationFrontmatter {
   status: PublishStatus;
 }
 
+export interface ArtworkFrontmatter {
+  sourceId: string;
+  title: string;
+  authorSlug: string;
+  collectionSlug?: string;
+  workSlug?: string;
+  objectDate?: string;
+  yearStart?: number;
+  yearEnd?: number;
+  medium?: string;
+  artists?: string;
+  imageUrl: string;
+  imageSmallUrl?: string;
+  additionalImages?: string[];
+  museum: string;
+  sourceUrl: string;
+  creditLine?: string;
+  license: string;
+  order?: number;
+  status: PublishStatus;
+}
+
 // ── Scraped data interfaces ──
 
 export interface ScrapedAuthor {
@@ -190,6 +212,11 @@ export interface AuthorConfig {
     az_collection?: string; // target collection slug for AZ Wikisource works
     az_collections?: Record<string, string>; // AZ page title or author-page heading → collection slug
     ru_collection?: string; // target collection slug for RU Wikisource works
+  };
+  met?: {
+    names: string[]; // how the Met credits the author (role "Author" or "Poet"), e.g. "Nizami"
+    queries: string[]; // searches that gather candidates; the credit decides what is kept
+    collections?: { match: string; collection: string }[]; // title regex → collection slug
   };
   ganjoor?: {
     poetUrl?: string; // e.g. "https://ganjoor.net/fuzuli"

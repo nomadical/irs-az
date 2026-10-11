@@ -7,6 +7,7 @@ import type {
   CollectionFrontmatter,
   WorkFrontmatter,
   TranslationFrontmatter,
+  ArtworkFrontmatter,
 } from '../types';
 
 const DATA_DIR = path.resolve(__dirname, '../../data');
@@ -72,4 +73,10 @@ export function writeTranslationMd(data: TranslationFrontmatter, body: string) {
   const translator = data.translator ? `.${slugify(data.translator)}` : '';
   const filePath = path.join(dir, `${data.workSlug}.${data.language}.${data.type}${translator}.md`);
   writeMd(filePath, { ...data }, body);
+}
+
+/** Write artwork .md file — metadata only; the image stays on the museum's servers */
+export function writeArtworkMd(data: ArtworkFrontmatter) {
+  const filePath = path.join(DATA_DIR, 'artworks', data.authorSlug, `${data.sourceId}.md`);
+  writeMd(filePath, { ...data }, '');
 }
