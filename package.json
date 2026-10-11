@@ -4,6 +4,9 @@
   "scripts": {
     "dev:api": "pnpm --filter @irs-az/api dev",
     "dev:web": "pnpm --filter @irs-az/web dev",
+    "services:up": "docker compose up -d --wait",
+    "services:down": "docker compose down",
+    "services:logs": "docker compose logs -f",
     "dev": "pnpm --filter @irs-az/api dev & pnpm --filter @irs-az/web dev",
     "build:api": "pnpm --filter @irs-az/api build",
     "build:web": "pnpm --filter @irs-az/web build",

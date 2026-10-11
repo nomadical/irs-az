@@ -9,6 +9,8 @@
 ## Commands
 ```bash
 pnpm install                    # install all deps
+pnpm services:up                # start Postgres (:5433) + Meilisearch (:7700) via docker compose
+pnpm services:down              # stop them (data kept in named volumes)
 pnpm dev                        # run both api + web in parallel
 pnpm dev:api                    # run backend only
 pnpm dev:web                    # run frontend only
