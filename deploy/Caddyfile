@@ -1,0 +1,13 @@
+# TLS is "internal" (self-signed, local testing) or the Cloudflare origin
+# certificate pair: "/etc/caddy/certs/origin.pem /etc/caddy/certs/origin-key.pem"
+{$DOMAIN} {
+	tls {$TLS}
+	encode zstd gzip
+
+	handle /api/* {
+		reverse_proxy api:4000
+	}
+	handle {
+		reverse_proxy web:3000
+	}
+}

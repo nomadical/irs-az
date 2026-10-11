@@ -1,6 +1,11 @@
 import { notFound } from 'next/navigation';
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000/api';
+const PUBLIC_API_URL = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000/api';
+
+// Server-side rendering talks to the API over the internal network (API_URL, read at
+// runtime); the browser uses the public URL, which may be relative like `/api`.
+const API_URL =
+  typeof window === 'undefined' ? process.env.API_URL ?? PUBLIC_API_URL : PUBLIC_API_URL;
 
 export class ApiError extends Error {
   constructor(message: string, public status: number) {

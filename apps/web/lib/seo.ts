@@ -2,7 +2,8 @@ import type { Metadata } from 'next';
 import { locales, defaultLocale } from './i18n';
 
 export const SITE_NAME = 'IRS.AZ';
-export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL ?? 'http://localhost:3000').replace(/\/$/, '');
+// Server-only and read at runtime, so one image works for any domain.
+export const SITE_URL = (process.env.SITE_URL ?? 'http://localhost:3000').replace(/\/$/, '');
 
 const ogLocales: Record<string, string> = { az: 'az_AZ', ru: 'ru_RU', en: 'en_US' };
 
