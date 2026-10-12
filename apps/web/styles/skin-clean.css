@@ -709,6 +709,15 @@
   margin-bottom: 0;
 }
 [data-skin='clean'] .reading-toolbar--solo + .reading-column { margin-top: 0.75rem; }
+/* A lone poem shrinks to its longest line and centres, so its "Aa" centres above it
+   rather than hanging off the edge of a row wider than the poem */
+[data-skin='clean'] .reading-toolbar--solo:has(+ .reading-column.is-poem) { justify-content: center; gap: 0; }
+/* …and its panel opens centred under it, not leftwards off a phone's edge */
+[data-skin='clean'] .reading-toolbar--solo:has(+ .reading-column.is-poem) .appearance-popover {
+  inset-inline-end: auto;
+  left:             50%;
+  transform:        translateX(-50%);
+}
 
 /* ── Share ──────────────────────────────────────────────────── */
 [data-skin='clean'] .share-label { letter-spacing: 0.04em; font-weight: 700; }
