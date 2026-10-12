@@ -8,6 +8,7 @@
   "home": {
     "featured_label": "Poet of the week",
     "read_more": "Read more",
+    "themes_label": "By theme",
     "centuries_label": "By century",
     "authors_label": "Authors",
     "all_authors": "All authors →",
@@ -67,6 +68,22 @@
     "play": "Drama",
     "essay": "Essay",
     "philosophy": "Philosophy"
+  },
+  "tags": {
+    "title": "Themes",
+    "index_description": "Works on IRS.AZ by theme, mood, length and era.",
+    "kind_THEME": "Subject",
+    "kind_MOOD": "Mood",
+    "kind_AUDIENCE": "Audience and length",
+    "kind_ERA": "Eras",
+    "works_count": "{count, plural, one {# work} other {# works}}",
+    "all_authors": "All authors",
+    "all_tags": "All themes",
+    "by_author": "{author}: {tag}",
+    "auto_note": "Tags are assigned automatically from keywords and refined by editors.",
+    "empty": "No works with this tag yet.",
+    "pages": "Pages",
+    "work_tags": "Tags for this work"
   },
   "skin": {
     "label": "Look",

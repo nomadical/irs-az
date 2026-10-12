@@ -407,6 +407,23 @@
 }
 [data-skin='clean'] .more-works-title a:hover::after { transform: translateX(3px) rotate(45deg); }
 
+/* ── Tags ───────────────────────────────────────────────────── */
+[data-skin='clean'] .tag-pills { gap: 0.5rem; }
+[data-skin='clean'] .work-tag-row { margin-bottom: 2.5rem; }
+[data-skin='clean'] .works-themes { margin-top: 1rem; }
+[data-skin='clean'] .works-themes-all { font-size: 0.9rem; font-weight: 700; }
+[data-skin='clean'] .tag-group-title {
+  font-size:      1.375rem;
+  font-weight:    700;
+  letter-spacing: -0.01em;
+  text-transform: none;
+  color:          var(--ink);
+  border-bottom:  none;
+  padding-bottom: 0;
+}
+[data-skin='clean'] .tag-group + .tag-group { margin-top: 2.5rem; }
+[data-skin='clean'] .tag-note { font-size: 0.85rem; }
+
 /* ── Homepage ───────────────────────────────────────────────── */
 [data-skin='clean'] .home-grid {
   grid-template-columns: 1fr 20rem;

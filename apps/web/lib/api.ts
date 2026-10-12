@@ -81,6 +81,10 @@ export const api = {
   getWorkNav: (slug: string) =>
     fetcher<{ prev: NavItem | null; next: NavItem | null }>(`/works/${slug}/nav`),
 
+  // Tags
+  getTags: () => fetcher<TagSummary[]>('/tags'),
+  getTag: (slug: string) => fetcher<TagDetail>(`/tags/${slug}`),
+
   // Translations
   getTranslations: (workId: string) => fetcher(`/translations/work/${workId}`),
 
@@ -106,6 +110,24 @@ export const api = {
   register: (data: { email: string; username: string; password: string; name?: string }) =>
     fetcher('/auth/register', { method: 'POST', body: JSON.stringify(data) }),
 };
+
+export type TagKind = 'THEME' | 'MOOD' | 'AUDIENCE' | 'ERA';
+
+export interface TagRef {
+  slug: string;
+  kind: TagKind;
+  nameAz: string;
+  nameRu: string | null;
+  nameEn: string | null;
+}
+
+export interface TagSummary extends TagRef {
+  works: number;
+}
+
+export interface TagDetail extends TagSummary {
+  authors: { slug: string; nameAz: string; nameRu: string | null; nameEn: string | null; works: number }[];
+}
 
 export interface MoreWork {
   slug: string;

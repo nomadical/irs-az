@@ -1049,6 +1049,54 @@ blockquote {
 @media (max-width: 960px) { .more-works-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 480px) { .more-works-grid { grid-template-columns: 1fr; } }
 
+/* Tags: theme, mood, audience and era pills */
+.tag-pills { list-style: none; padding: 0; margin: 0; }
+.tag-pill-count {
+  margin-inline-start: 0.4em;
+  color:               var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+.pill:hover .tag-pill-count,
+.pill.active .tag-pill-count { color: inherit; opacity: 0.8; }
+.work-tag-row {
+  justify-content: center;
+  max-width:       36rem;
+  margin:          0 auto 2rem;
+}
+.works-themes {
+  display:     flex;
+  flex-wrap:   wrap;
+  align-items: center;
+  gap:         0.5rem 1rem;
+  margin-top:  0.75rem;
+}
+.works-themes-all {
+  font-family: var(--font-ui);
+  font-size:   0.78rem;
+  color:       var(--pomeg);
+}
+.tag-header .meta-strip { margin-top: 0.4rem; }
+.tag-authors { margin-bottom: 1.5rem; }
+.tag-group + .tag-group { margin-top: 1.75rem; }
+.tag-group-title {
+  font-family:    var(--font-ui);
+  font-size:      0.68rem;
+  font-weight:    400;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color:          var(--pomeg);
+  padding-bottom: 0.3rem;
+  border-bottom:  1px solid var(--rule);
+  margin-bottom:  0.75rem;
+}
+.tag-note {
+  margin-top:  2.5rem;
+  text-align:  center;
+  font-family: var(--font-ui);
+  font-size:   0.75rem;
+  color:       var(--muted);
+}
+
 /* Language tabs on reading page */
 .lang-tabs {
   display:         flex;
@@ -1533,7 +1581,7 @@ blockquote {
 }
 
 @media (max-width: 480px) {
-  .card-grid--3 { grid-template-columns: 1fr; }
+  .card-grid--3 { grid-template-columns: minmax(0, 1fr); }
   .work-list    { grid-template-columns: 1fr; }
 }
 /* ── Contribute form ────────────────────────────────────────── */

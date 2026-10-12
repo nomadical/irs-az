@@ -330,9 +330,25 @@ model Translation {
 
 // ── TAGS ──────────────────────────────────────
 
+/// What a tag describes; tag pages and filters group by it
+enum TagKind {
+  THEME
+  MOOD
+  AUDIENCE
+  ERA
+}
+
+/// Who put a tag on a work: the keyword rules (re-run freely) or an editor (kept)
+enum TagSource {
+  RULE
+  EDITOR
+}
+
 model Tag {
   id     String  @id @default(cuid())
   slug   String  @unique
+  kind   TagKind @default(THEME)
+  order  Int     @default(0)
   nameAz String
   nameRu String?
   nameEn String?
@@ -344,8 +360,8 @@ model Tag {
 model AuthorTag {
   authorId String
   tagId    String
-  author   Author @relation(fields: [authorId], references: [id])
-  tag      Tag    @relation(fields: [tagId], references: [id])
+  author   Author @relation(fields: [authorId], references: [id], onDelete: Cascade)
+  tag      Tag    @relation(fields: [tagId], references: [id], onDelete: Cascade)
 
   @@id([authorId, tagId])
 }
@@ -353,10 +369,12 @@ model AuthorTag {
 model WorkTag {
   workId String
   tagId  String
-  work   Work   @relation(fields: [workId], references: [id])
-  tag    Tag    @relation(fields: [tagId], references: [id])
+  source TagSource @default(EDITOR)
+  work   Work      @relation(fields: [workId], references: [id], onDelete: Cascade)
+  tag    Tag       @relation(fields: [tagId], references: [id], onDelete: Cascade)
 
   @@id([workId, tagId])
+  @@index([tagId])
 }
 
 // ── SUBMISSIONS ───────────────────────────────

@@ -1,0 +1,261 @@
+{
+  "id": "wilson-haft-paikar",
+  "archiveId": "in.ernet.dli.2015.179166",
+  "title": "The Haft Paikar (The Seven Beauties), Vol. I: Translation",
+  "translator": "C. E. Wilson",
+  "year": 1924,
+  "authorSlug": "nizami",
+  "collectionSlug": "nizami-heft-peyker",
+  "runningHeads": [
+    "THE HAFT PAIKAR",
+    "TRANSLATION"
+  ],
+  "endMarker": "^PROBSTHAIN|^INDEX",
+  "replacements": {
+    "Bahrain": "Bahram",
+    "Bahrdm": "Bahram",
+    "Bahrayn": "Bahram",
+    "BaJirdm": "Bahram",
+    "Khavamaq": "Khavarnaq",
+    "Ehavarnaq": "Khavarnaq",
+    "Elhavamaq": "Khavarnaq"
+  },
+  "sections": [
+    {
+      "heading": "(Invocation to God)",
+      "ganjoor": 1
+    },
+    {
+      "heading": "In praise of the Lord of Envoys, the seal of the Prophets",
+      "ganjoor": 2
+    },
+    {
+      "heading": "In description of the Ascension of his highness the chief of created beings",
+      "ganjoor": 3,
+      "match": "In description of the Ascension of his highness the chief of created"
+    },
+    {
+      "heading": "On the cause of writing the book",
+      "ganjoor": 4
+    },
+    {
+      "heading": "An apology for the writing of the book",
+      "ganjoor": 4
+    },
+    {
+      "heading": "In praise of the king 'Ala'u'd-Din",
+      "ganjoor": 5,
+      "match": "In praise of the king Ala'u'd-Din"
+    },
+    {
+      "heading": "A humble address",
+      "ganjoor": 5
+    },
+    {
+      "heading": "On the excellence of speech. Counsel to the people",
+      "ganjoor": 6
+    },
+    {
+      "heading": "Counsel to his son Muhammad",
+      "ganjoor": 7
+    },
+    {
+      "heading": "Treats of the birth of Bahram. The building of Khavarnaq",
+      "match": "Treats of the birth of Bahram",
+      "ganjoor": [
+        8,
+        9
+      ],
+      "splitAt": [
+        "Then Nu'man went together with his son, girding his loins to seek for such"
+      ]
+    },
+    {
+      "heading": "(Some) description of Khavarnaq",
+      "ganjoor": 10
+    },
+    {
+      "heading": "Nu'man gives up the sovereignty",
+      "ganjoor": 10
+    },
+    {
+      "heading": "The practice of hunting of Bahram",
+      "ganjoor": 11
+    },
+    {
+      "heading": "Bahram Gur goes to the chase and kills a lion and an onager",
+      "ganjoor": 11
+    },
+    {
+      "heading": "Bahram goes to the chase and kills a dragon",
+      "ganjoor": 12
+    },
+    {
+      "heading": "Bahram finds the picture of the Seven (Fair) Faces in Khavarnaq",
+      "ganjoor": 13
+    },
+    {
+      "heading": "Yazdijard becomes acquainted with Bahram's state",
+      "ganjoor": 14
+    },
+    {
+      "heading": "The death of Yazdijard",
+      "ganjoor": 14
+    },
+    {
+      "heading": "(The Author) complains of himself and alludes to Firdausi",
+      "ganjoor": 15
+    },
+    {
+      "heading": "Bahram Gur goes to Persia and (finds) another occupying the throne",
+      "ganjoor": [
+        15,
+        16
+      ],
+      "splitAt": [
+        "The letter opened with the name of God"
+      ]
+    },
+    {
+      "heading": "Bahram Gur's answer to the letter of the Persians",
+      "ganjoor": 17
+    },
+    {
+      "heading": "The priest's answer to King Bahram",
+      "ganjoor": 17
+    },
+    {
+      "heading": "The answer of King Bahram to the priest",
+      "ganjoor": 17
+    },
+    {
+      "heading": "How Bahram seizes the crown from between two lions",
+      "ganjoor": 18
+    },
+    {
+      "heading": "Bahram sits on the throne in his father's place",
+      "ganjoor": 19
+    },
+    {
+      "heading": "Describes Bahram Gur in his sovereignty and the manner of his life",
+      "ganjoor": 19,
+      "match": "Describes Bahram Gur in his sovereignty, and the manner of his"
+    },
+    {
+      "heading": "A famine in the world from drought",
+      "ganjoor": 19
+    },
+    {
+      "heading": "The story of Bahram and the girl named Fitna of Chinese Turkistan",
+      "ganjoor": 20
+    },
+    {
+      "heading": "Bahram goes to the chase, and the officer entertains him",
+      "ganjoor": 21
+    },
+    {
+      "heading": "The Khan of China comes to fight against Bahram Gur",
+      "ganjoor": 22
+    },
+    {
+      "heading": "Bahram Gur rebukes the Persians",
+      "ganjoor": [
+        23,
+        24
+      ],
+      "splitAt": [
+        "The king indulged in pleasure and delights"
+      ]
+    },
+    {
+      "heading": "Description of Bahram's banquet in winter",
+      "ganjoor": 25
+    },
+    {
+      "heading": "The building of the Seven Domes",
+      "ganjoor": 25
+    },
+    {
+      "heading": "Description of the seven-domed palace of Bahram Gur and of the manner of his stay in each dome",
+      "ganjoor": 25
+    },
+    {
+      "heading": "Bahram sits on Saturday in the Black Dome, and the daughter of the king of the First Clime tells him a story",
+      "ganjoor": 26
+    },
+    {
+      "heading": "Bahram on Sunday sits in the Yellow Dome, and the daughter of the king of the Second Clime tells him a story",
+      "ganjoor": 27
+    },
+    {
+      "heading": "Bahram on Monday sits in the Green Dome, and the daughter of the king of the Third Clime tells him a story",
+      "ganjoor": 28
+    },
+    {
+      "heading": "Bahram sits on Tuesday in the Red Dome, and the daughter of the king of the Fourth Clime tells him a story",
+      "ganjoor": 29
+    },
+    {
+      "heading": "Bahram sits on Wednesday in the Blue Dome, and the daughter of the king of the Fifth Clime tells him a story",
+      "ganjoor": 30
+    },
+    {
+      "heading": "Bahram on Thursday sits in the Sandal-coloured Dome, and the daughter of the king of the Sixth Clime tells him a story",
+      "ganjoor": 31
+    },
+    {
+      "heading": "Bahram sits on Friday in the White Dome, and the daughter of the king of the Seventh Clime tells him a story",
+      "ganjoor": 32
+    },
+    {
+      "heading": "Bahram finds out about the tyrannical vazir",
+      "ganjoor": [
+        33,
+        34
+      ],
+      "splitAt": [
+        "When saddened by the trouble of the affair, the king would ride out to the chase alone"
+      ]
+    },
+    {
+      "heading": "The first victim complains of the tyrannical vazir",
+      "ganjoor": 35
+    },
+    {
+      "heading": "The second victim makes (his) complaint",
+      "ganjoor": 35
+    },
+    {
+      "heading": "The third victim makes (his) complaint",
+      "ganjoor": 35
+    },
+    {
+      "heading": "The fourth victim makes (his) complaint",
+      "ganjoor": 35
+    },
+    {
+      "heading": "The fifth victim makes (his) complaint",
+      "ganjoor": 35
+    },
+    {
+      "heading": "The sixth victim makes (his) complaint",
+      "ganjoor": 35
+    },
+    {
+      "heading": "The seventh victim makes (his) complaint",
+      "ganjoor": 35
+    },
+    {
+      "heading": "The king punishes the tyrannical vazir",
+      "ganjoor": 36
+    },
+    {
+      "heading": "The passing of Bahram from the transitory temple by the decree of the All-wise King",
+      "ganjoor": 37
+    },
+    {
+      "heading": "Words in Conclusion",
+      "ganjoor": 38
+    }
+  ]
+}

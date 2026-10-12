@@ -10,7 +10,8 @@
     "scrape:ru": "tsx src/index.ts scrape-works --source wikisource-ru",
     "scrape:fa": "tsx src/index.ts scrape-works --source ganjoor",
     "import": "tsx src/index.ts import-md",
-    "audit": "tsx src/index.ts audit"
+    "audit": "tsx src/index.ts audit",
+    "tag": "tsx src/index.ts tag-works"
   },
   "keywords": [],
   "author": "",

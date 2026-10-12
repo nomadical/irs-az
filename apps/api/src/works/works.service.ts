@@ -90,6 +90,7 @@ export class WorksService {
       ...(query.authorSlug && {
         author: { slug: query.authorSlug },
       }),
+      ...(query.tag && { tags: { some: { tag: { slug: query.tag } } } }),
       ...(query.q && {
         OR: (['titleAz', 'titleRu', 'titleEn'] as const).map((field) => ({
           [field]: { contains: query.q, mode: 'insensitive' as const },
@@ -185,7 +186,10 @@ export class WorksService {
             scriptDirection: true,
           },
         },
-        tags: { include: { tag: true } },
+        tags: {
+          orderBy: [{ tag: { kind: 'asc' } }, { tag: { order: 'asc' } }],
+          select: { tag: { select: { slug: true, kind: true, nameAz: true, nameRu: true, nameEn: true } } },
+        },
       },
     });
 

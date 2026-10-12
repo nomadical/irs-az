@@ -5,6 +5,8 @@ import { localized } from '@/lib/locale';
 import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
 import { WorkCard, type Incipit } from '@/components/works/WorkCard';
+import { TagPills } from '@/components/works/TagPills';
+import { Pagination } from '@/components/ui/Pagination';
 
 export const dynamic = 'force-dynamic';
 
@@ -79,7 +81,12 @@ export default async function WorksPage({ params, searchParams }: Props) {
   query.set('limit', '30');
   query.set('incipit', ['az', 'ru', 'en'].includes(locale) ? locale : 'az');
 
-  const result = (await api.getWorks(query)) as WorksResponse;
+  const [result, tags] = await Promise.all([
+    api.getWorks(query) as Promise<WorksResponse>,
+    api.getTags().catch(() => []),
+  ]);
+  const themes = tags.filter((tag) => tag.kind === 'THEME' && tag.works > 0);
+  const tt = await getTranslations('tags');
 
   const activeForm = sp.form;
   const activeGenre = sp.genre;
@@ -127,6 +134,13 @@ export default async function WorksPage({ params, searchParams }: Props) {
         </div>
       </div>
 
+      {themes.length > 0 && (
+        <div className="works-themes">
+          <TagPills tags={themes} locale={locale} label={tt('title')} />
+          <Link href={`/${locale}/tags`} className="more works-themes-all">{tt('all_tags')} →</Link>
+        </div>
+      )}
+
       <hr className="rule rule--tight" />
 
       {/* Works list */}
@@ -170,38 +184,19 @@ export default async function WorksPage({ params, searchParams }: Props) {
         </p>
       )}
 
-      {/* Pagination */}
-      {result.meta.totalPages > 1 && (
-        <nav className="pagination" aria-label={locale === 'ru' ? 'Страницы' : locale === 'en' ? 'Pages' : 'Səhifələr'}>
-          {Array.from(
-            { length: Math.min(result.meta.totalPages, 10) },
-            (_, i) => {
-              // Show pages around current page
-              const current = result.meta.page;
-              const total = result.meta.totalPages;
-              if (total <= 10) return i + 1;
-              const start = Math.max(1, Math.min(current - 4, total - 9));
-              return start + i;
-            },
-          ).map((page) => {
-            const qp = new URLSearchParams();
-            if (activeForm) qp.set('form', activeForm);
-            if (activeGenre) qp.set('genre', activeGenre);
-            if (sp.authorSlug) qp.set('authorSlug', sp.authorSlug);
-            qp.set('page', String(page));
-            return (
-              <Link
-                key={page}
-                href={`/${locale}/works?${qp}`}
-                className={`pill ${page === result.meta.page ? 'active' : ''}`}
-                aria-current={page === result.meta.page ? 'page' : undefined}
-              >
-                {page}
-              </Link>
-            );
-          })}
-        </nav>
-      )}
+      <Pagination
+        page={result.meta.page}
+        totalPages={result.meta.totalPages}
+        href={(page) => {
+          const qp = new URLSearchParams();
+          if (activeForm) qp.set('form', activeForm);
+          if (activeGenre) qp.set('genre', activeGenre);
+          if (sp.authorSlug) qp.set('authorSlug', sp.authorSlug);
+          qp.set('page', String(page));
+          return `/${locale}/works?${qp}`;
+        }}
+        label={tt('pages')}
+      />
     </div>
   );
 }

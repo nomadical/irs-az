@@ -8,6 +8,7 @@
   "home": {
     "featured_label": "Bu həftənin şairi",
     "read_more": "Tam səhifə",
+    "themes_label": "Mövzular üzrə",
     "centuries_label": "Əsrlər üzrə",
     "authors_label": "Müəlliflər",
     "all_authors": "Bütün müəlliflər →",
@@ -67,6 +68,22 @@
     "play": "Dram",
     "essay": "Esse",
     "philosophy": "Fəlsəfə"
+  },
+  "tags": {
+    "title": "Mövzular",
+    "index_description": "IRS.AZ-dakı əsərlər mövzuya, əhvala, həcmə və dövrə görə.",
+    "kind_THEME": "Nə haqqında",
+    "kind_MOOD": "Əhval",
+    "kind_AUDIENCE": "Oxucu və həcm",
+    "kind_ERA": "Dövrlər",
+    "works_count": "{count} əsər",
+    "all_authors": "Bütün müəlliflər",
+    "all_tags": "Bütün mövzular",
+    "by_author": "{author}: {tag}",
+    "auto_note": "Teqlər açar sözlərə görə avtomatik verilib və redaktorlar tərəfindən dəqiqləşdirilir.",
+    "empty": "Bu teqlə hələ əsər yoxdur.",
+    "pages": "Səhifələr",
+    "work_tags": "Əsərin teqləri"
   },
   "skin": {
     "label": "Görünüş",

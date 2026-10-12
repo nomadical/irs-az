@@ -16,13 +16,17 @@ function entries(path: string, lastModified?: string): MetadataRoute.Sitemap {
 }
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const { authors, collections, works, blog } = await api.getSitemap();
+  const [{ authors, collections, works, blog }, tags] = await Promise.all([
+    api.getSitemap(),
+    api.getTags().catch(() => []),
+  ]);
 
   return [
-    ...['', '/authors', '/works', '/blog', '/about', '/contribute', '/contact'].flatMap((p) => entries(p)),
+    ...['', '/authors', '/works', '/tags', '/blog', '/about', '/contribute', '/contact'].flatMap((p) => entries(p)),
     ...authors.flatMap((a) => entries(`/authors/${a.slug}`, a.updatedAt)),
     ...collections.flatMap((c) => entries(`/collections/${c.slug}`, c.updatedAt)),
     ...works.flatMap((w) => entries(`/works/${w.slug}`, w.updatedAt)),
     ...blog.flatMap((b) => entries(`/blog/${b.slug}`, b.updatedAt)),
+    ...tags.filter((t) => t.works > 0).flatMap((t) => entries(`/tags/${t.slug}`)),
   ];
 }

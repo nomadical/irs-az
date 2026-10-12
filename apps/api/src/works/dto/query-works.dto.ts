@@ -21,6 +21,11 @@ export class QueryWorksDto {
   @IsString()
   authorSlug?: string;
 
+  @ApiPropertyOptional({ description: 'Tag slug (theme, mood, audience or era)' })
+  @IsOptional()
+  @IsString()
+  tag?: string;
+
   @ApiPropertyOptional({ description: 'Title contains (any language), case-insensitive' })
   @IsOptional()
   @IsString()

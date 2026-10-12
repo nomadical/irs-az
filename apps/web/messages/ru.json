@@ -8,6 +8,7 @@
   "home": {
     "featured_label": "Поэт недели",
     "read_more": "Подробнее",
+    "themes_label": "По темам",
     "centuries_label": "По векам",
     "authors_label": "Авторы",
     "all_authors": "Все авторы →",
@@ -67,6 +68,22 @@
     "play": "Драма",
     "essay": "Эссе",
     "philosophy": "Философия"
+  },
+  "tags": {
+    "title": "Темы",
+    "index_description": "Произведения на IRS.AZ по темам, настроению, объёму и эпохам.",
+    "kind_THEME": "О чём",
+    "kind_MOOD": "Настроение",
+    "kind_AUDIENCE": "Читателю и объём",
+    "kind_ERA": "Эпохи",
+    "works_count": "{count, plural, one {# произведение} few {# произведения} many {# произведений} other {# произведения}}",
+    "all_authors": "Все авторы",
+    "all_tags": "Все темы",
+    "by_author": "{author}: {tag}",
+    "auto_note": "Теги расставлены автоматически по ключевым словам и уточняются редакторами.",
+    "empty": "С этим тегом пока нет произведений.",
+    "pages": "Страницы",
+    "work_tags": "Теги произведения"
   },
   "skin": {
     "label": "Оформление",

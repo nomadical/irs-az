@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { api, getWorkOrRedirect, type MoreWork } from '@/lib/api';
+import { api, getWorkOrRedirect, type MoreWork, type TagRef } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import { excerpt, pageMetadata, SITE_URL } from '@/lib/seo';
 import Link from 'next/link';
@@ -7,6 +7,7 @@ import { ReadingView } from '@/components/reading/ReadingView';
 import { WorkNavKeys } from '@/components/reading/WorkNavKeys';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { WorkCard } from '@/components/works/WorkCard';
+import { TagPills } from '@/components/works/TagPills';
 import { getTranslations } from 'next-intl/server';
 import {
   displayTitle,
@@ -82,6 +83,7 @@ export default async function WorkPage({ params }: Props) {
   ]);
 
   const { t, options, titleFor } = await titleHelpers(locale);
+  const tTags = await getTranslations({ locale, namespace: 'tags' });
   const title = titleFor(localized(work, 'title', locale), work.form);
   const { heading, number } = headingFor(work, title);
   const authorName = localized(work.author, 'name', locale);
@@ -194,6 +196,13 @@ export default async function WorkPage({ params }: Props) {
         genre={work.genre}
         source={sourceInfo(work.sourceNote)}
         suggestHref={`/${locale}/contribute?type=translation&work=${encodeURIComponent(slug)}`}
+      />
+
+      <TagPills
+        tags={(work.tags ?? []).map((wt: { tag: TagRef }) => wt.tag)}
+        locale={locale}
+        label={tTags('work_tags')}
+        className="work-tag-row"
       />
 
       {(nav.prev || nav.next) && (

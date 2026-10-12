@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
 import { api, type PoemOfTheDay } from '../../lib/api';
 import { localized } from '@/lib/locale';
+import { TagPills } from '@/components/works/TagPills';
 
 export const dynamic = 'force-dynamic';
 
@@ -113,12 +114,14 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
   const t = await getTranslations('home');
 
   // Fetch data from API in parallel
-  const [featured, daily, authorsRes, worksRes] = await Promise.all([
+  const [featured, daily, authorsRes, worksRes, tags] = await Promise.all([
     api.getFeaturedAuthor().catch(() => null) as Promise<FeaturedAuthor | null>,
     api.getPoemOfTheDay().catch(() => null) as Promise<PoemOfTheDay | null>,
     api.getAuthors(new URLSearchParams({ limit: '4', sort: 'recent' })) as Promise<{ data: AuthorListItem[] }>,
     api.getWorks(new URLSearchParams({ limit: '6', sort: 'recent' })) as Promise<{ data: WorkListItem[] }>,
+    api.getTags().catch(() => []),
   ]);
+  const themes = tags.filter((tag) => tag.kind === 'THEME' && tag.works > 0).slice(0, 8);
 
   const recentAuthors = authorsRes?.data ?? [];
   const recentWorks = worksRes?.data ?? [];
@@ -204,6 +207,13 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
           </div>
 
           <div className="ornament ornament--diamonds home-sidebar-orn" aria-hidden="true" />
+
+          {themes.length > 0 && (
+            <div className="home-sidebar-section">
+              <p className="section-label">{t('themes_label')}</p>
+              <TagPills tags={themes} locale={locale} label={t('themes_label')} />
+            </div>
+          )}
 
           {/* Century filter */}
           <div className="home-sidebar-section">

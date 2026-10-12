@@ -13,6 +13,7 @@ import { SearchModule } from './search/search.module';
 import { BlogModule } from './blog/blog.module';
 import { UploadModule } from './upload/upload.module';
 import { SitemapModule } from './sitemap/sitemap.module';
+import { TagsModule } from './tags/tags.module';
 
 @Module({
   imports: [
@@ -25,6 +26,7 @@ import { SitemapModule } from './sitemap/sitemap.module';
     AuthorsModule,
     CollectionsModule,
     WorksModule,
+    TagsModule,
     TranslationsModule,
     SubmissionsModule,
     SearchModule,

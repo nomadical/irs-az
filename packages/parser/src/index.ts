@@ -7,6 +7,7 @@ import { scrapeAllCommand } from './commands/scrape-all';
 import { reslugCommand } from './commands/reslug';
 import { retitleCommand } from './commands/retitle';
 import { scrapeImagesCommand } from './commands/scrape-images';
+import { tagWorksCommand } from './commands/tag-works';
 
 const program = new Command()
   .name('irs-parser')
@@ -21,5 +22,6 @@ program.addCommand(importMdCommand);
 program.addCommand(reslugCommand);
 program.addCommand(retitleCommand);
 program.addCommand(scrapeImagesCommand);
+program.addCommand(tagWorksCommand);
 
 program.parse();
