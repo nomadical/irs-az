@@ -26,29 +26,35 @@ IRS.AZ is a non-commercial portal for Azerbaijani literary and cultural heritage
 ## Operating Context
 
 - UI languages: az (default), ru, en via `/az`, `/ru`, `/en`. There is no Persian UI locale; Persian appears as content.
-- Public surfaces: home (poet of the week, authors, works by century and genre, recent additions), author index and profiles, works index, the reading page, collection tables of contents, blog, search (Meilisearch).
-- Admin: editors manage authors, works, collections, translations and blog posts and review submissions. Roles: SUPERADMIN, EDITOR, CONTRIBUTOR, READER. Registration is public; contributors and above can submit.
+- Public surfaces: home (poet of the week, poem of the day, themes, centuries and forms, a section catalogue with real counts, recent additions), author index and profiles (with manuscript pages and miniatures), works index, the reading page, collection tables of contents, theme tag pages (`/tags`, `/tags/<tag>/muellif-<author>`), blog, search (Meilisearch).
+- Filter pages have readable Azerbaijani URLs in every UI language (`/az/works/muellif-fuzuli/forma-qezel`, `/az/authors/sairler/esr-12`); the vocabulary lives in `apps/web/lib/facets.ts` and is public, so values are never renamed in place.
+- The reading page ends with share (Telegram, WhatsApp, Facebook, copy link, the device share sheet) and print, more by the author, and other poets' poems on the same theme. Texts over 40 lines open folded.
+- Admin: editors manage authors, works, collections, translations and blog posts, review submissions, and confirm, remove or bulk-assign theme tags (school use, "Məktəb üçün", is assigned only by hand). Roles: SUPERADMIN, EDITOR, CONTRIBUTOR, READER. Registration is public; contributors and above can submit.
+- Theme, mood, audience and era tags are first assigned by keyword rules (`packages/parser` `tag-works`); an editor's confirmation or removal is kept when the rules run again.
 - The corpus is imported by `packages/parser` from az/ru Wikisource, Wikipedia (author bios) and Ganjoor, then edited.
 - The project is a solo build (code, design, content), with a collaborator handling community, partnerships, social media and a Telegram channel.
 
 ## Capabilities and Constraints
 
 - Work bodies are stored as Markdown and pre-rendered to `bodyHtml`. A work carries `scriptDirection` (LTR/RTL), genre (poem, prose, play, essay, philosophy, letter, memoir) and form (ghazal, masnavi, rubai, qasida, murabba, free verse).
-- Translation types: translation, transliteration, modernization. There is one per work/language/type.
+- Translation types: translation, transliteration, modernization. A work can have several translations per language (different translators); `isDefault` marks the one shown first, and readers switch versions on the reading page (`?tr=<id>`). Translation bodies are Markdown, pre-rendered to `bodyHtml` like works.
 - Content languages: AZ (Latin, Arabic, Cyrillic scripts), FA, AR, RU, EN, TR.
 - **Non-commercial.** No ads, paywalls, monetization surfaces or tracking-heavy features.
 - **Source attribution is required.** Every text and translation shows its source (e.g. Wikisource, Ganjoor) and its translator. Licensing must be visible.
-- **Persian RTL is first-class.** About 98% of the imported corpus is Persian originals, so RTL rendering must be as good as LTR.
-- Deployed at irs.az: one VPS, Docker Compose, Caddy, Cloudflare.
+- **Persian RTL is first-class.** Persian originals are most of the corpus (3,181 of 5,047 published works in October 2026), so RTL rendering must be as good as LTR.
+- Planned deployment at irs.az: one VPS, Docker Compose, Caddy, Cloudflare (`deploy/README.md`); CI builds images on every push to `main` and deploys once the server is configured. Until then the site is shown from a laptop through a temporary Cloudflare quick tunnel (`deploy/tunnel`).
 
 ## Brand Commitments
 
 - Name: **IRS.AZ**. Tagline: "Poets · Writers · Philosophers · Works · Translations".
-- Binding visual reference (user-stated in the project's CLAUDE.md): a newspaper / literary gazette aesthetic. Ivory, ink-black and pomegranate red. Molla Nasraddin ornamental accents (◆ diamonds, double rules). Light and dark themes.
+- Two reader-selectable skins on shared markup, switched from the header and remembered per reader, each in light and dark (both recorded in `DESIGN.md`):
+  - **Gazette (the default):** a newspaper / literary gazette aesthetic, user-stated in the project's CLAUDE.md. Ivory, ink-black and pomegranate red, Molla Nasraddin ornamental accents (◆ diamonds, double rules).
+  - **Clean (the approved alternative):** modelled on culture.ru at the user's request: white pages, one charcoal header bar, grey cards and pills, one crimson, PT Sans and PT Serif, no rules or ornaments. Its refusal of the gazette's ornament is deliberate, not drift.
+- Theme: the visitor's OS setting until they choose; a choice is remembered.
 
 ## Evidence on Hand
 
-- About 3,259 imported work files across 6 authors with works (Xaqani, Fuzuli, Nasimi, Mahsati, Nizami, Vaqif), 13 author profiles and 26 collections. Seed data covers Fuzuli, Nizami and Nasimi.
+- In October 2026: 5,047 published works (5,140 in all) by 12 authors with works (Xaqani, Fuzuli, Nasimi, Mahsati, Nizami, Xətai, Vaqif, Sabir, Axundzadə, Cavid, Cabbarlı, Vurğun) across 92 collections; 113 published translations (112 English, 1 Russian); 754 manuscript pages and miniatures; 25 tags. Seed data covers Fuzuli, Nizami and Nasimi.
 - No logo artwork. Only favicons exist in `public/`.
 - No user counts, testimonials, partner institutions or press exist. Never fabricate them.
 

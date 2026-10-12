@@ -8,17 +8,32 @@ export function ThemeToggle() {
   const [theme, setTheme] = useState<'light' | 'dark'>('light');
 
   useEffect(() => {
-    const stored = localStorage.getItem('theme') as 'light' | 'dark' | null;
-    const initial = stored ?? 'light';
-    setTheme(initial);
-    document.documentElement.setAttribute('data-theme', initial);
+    // The pre-paint script in app/layout.tsx already chose: the stored theme, else the OS's.
+    // Adopt it rather than writing a default, which would flip dark-OS visitors to light.
+    const root = document.documentElement;
+    setTheme(root.getAttribute('data-theme') === 'dark' ? 'dark' : 'light');
+
+    // Until the reader picks one, keep following the OS as it changes
+    const os = matchMedia('(prefers-color-scheme: dark)');
+    const follow = (e: MediaQueryListEvent) => {
+      try {
+        if (localStorage.getItem('theme')) return;
+      } catch {}
+      const next = e.matches ? 'dark' : 'light';
+      root.setAttribute('data-theme', next);
+      setTheme(next);
+    };
+    os.addEventListener('change', follow);
+    return () => os.removeEventListener('change', follow);
   }, []);
 
   const toggle = () => {
     const next = theme === 'light' ? 'dark' : 'light';
     setTheme(next);
     document.documentElement.setAttribute('data-theme', next);
-    localStorage.setItem('theme', next);
+    try {
+      localStorage.setItem('theme', next);
+    } catch {}
   };
 
   return (
