@@ -83,7 +83,11 @@
       "number": 200,
       "workSlug": "fuzuli-texmis-4-ey-herir-icre-tenin-mutleq-bulur-icre-gulab",
       "label": "Mukhammes"
-    }
+    },
+    {"volume": 1, "number": 20, "workSlug": "burhaneddin-sad-olur-isem-veslun-ile-qem-olami", "label": "Ruba'i"},
+    {"volume": 1, "number": 35, "workSlug": "burhaneddin-hemise-asiq-konli-biryan-bolur", "label": "Tuyugh"},
+    {"volume": 3, "number": 203, "workSlug": "fuzuli-leyli-ve-mecnun-29", "label": "Passage"},
+    {"volume": 3, "number": 204, "workSlug": "fuzuli-leyli-ve-mecnun-68", "label": "Passage"}
   ],
   "corrections": [
     {
@@ -209,6 +213,19 @@
     {
       "from": "Nesi'mi",
       "to": "Nesimi"
-    }
+    },
+    {"from": "glad Ijy union", "to": "glad by union"},
+    {"from": "Mejntin had ruth", "to": "Mejnún had ruth"},
+    {"from": "by blood repald?", "to": "by blood repaid?"},
+    {"from": "CO greenth by the stream", "to": "'O greenth by the stream"},
+    {"from": "Mejnun gave him all his gear", "to": "Mejnún gave him all his gear"},
+    {"from": "dream of Leyla's e'e", "to": "dream of Leylá's e'e"},
+    {"from": "\nll ne'er shall rest", "to": "\n'I ne'er shall rest"},
+    {"from": "and the answer came\n", "to": "and the answer came;\n"},
+    {"from": "is as Mejnun known", "to": "is as Mejnún known"},
+    {"from": "I have hidden farewell", "to": "I have bidden farewell"},
+    {"from": "thou coin'st anigh", "to": "thou com'st anigh"},
+    {"from": "'To me' life's harem", "to": "'To me life's harem"},
+    {"from": "'Sad Leyla hath", "to": "'Sad Leylá hath"}
   ]
 }

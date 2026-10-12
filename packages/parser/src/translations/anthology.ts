@@ -122,6 +122,8 @@ function extractPoem(lines: Line[], number: number, verseHeight: number, lefts: 
   for (let i = start + 1; i < lines.length; i++) {
     const l = lines[i];
     if (l.page === notesPage) continue;
+    // A new chapter ends the poem (its heading would otherwise pass for a running head)
+    if (/^CHAPTER\b/i.test(l.text)) break;
     // Page headers and numbers
     if (/^[\divxlc.\s]{1,6}$/i.test(l.text) || (l.height === 0 && /^[A-Z\s.,']+$/.test(l.text))) continue;
     // The next labelled poem ends this one; a prose sentence introducing it ("The following
@@ -176,7 +178,7 @@ function stripMarkers(line: string): string {
     .trim();
 }
 
-function workFile(workSlug: string): { couplets: number; singleLines: boolean } | null {
+function workFile(workSlug: string): { couplets: number; singleLines: boolean; stanzaLines: number[] } | null {
   const hit = fs
     .readdirSync(path.join(DATA_DIR, 'works'), { recursive: true, withFileTypes: true })
     .find((e) => e.isFile() && (e.name.endsWith(`-${workSlug}.md`) || e.name === `${workSlug}.md`));
@@ -185,7 +187,8 @@ function workFile(workSlug: string): { couplets: number; singleLines: boolean } 
   const paras = content.trim().split(/\n\s*\n/).filter((p) => p.trim());
   // Some az.wikisource texts put a blank line after every line, not every couplet
   const singleLines = paras.length > 1 && paras.every((p) => !p.includes('\n'));
-  return { couplets: paras.length, singleLines };
+  const stanzaLines = paras.map((p) => p.split('\n').filter((l) => l.trim() && !l.startsWith('#')).length).filter(Boolean);
+  return { couplets: paras.length, singleLines, stanzaLines };
 }
 
 export function loadAnthologyConfig(id: string): AnthologyConfig {
@@ -227,10 +230,22 @@ export async function planAnthology(
       }
       const stanzas = poem
         .map((st) => st.map((line) => stripMarkers(cleanParagraph(line, vocab, ocr))).filter(Boolean))
-        // A stanza that is only a number is a page number the layout put mid-poem
-        .filter((st) => st.length > 0 && !(st.length === 1 && /^[\d\s.,'’]{1,6}$/.test(st[0])));
-      // Match the original's paragraphing so the side-by-side view lines up
-      const blocks = work.singleLines ? stanzas.flat().map((l) => [l]) : stanzas;
+        // A stanza that is only a number is a page number the layout put mid-poem ("102", or "IO2")
+        .filter((st) => st.length > 0 && !(st.length === 1 && /^([\d\s.,'’]{1,6}|(?=.*\d)[\dIOl]{2,4})$/.test(st[0])));
+      // Match the original's paragraphing so the side-by-side view lines up: the same stanza
+      // shape when the line counts agree, or couplets for a couplet poem (a masnavi passage
+      // translated as one run of verse)
+      const verse = stanzas.flat();
+      const total = work.stanzaLines.reduce((a, b) => a + b, 0);
+      let blocks = stanzas;
+      if (work.singleLines) blocks = verse.map((l) => [l]);
+      else if (stanzas.length !== work.couplets && verse.length === total) {
+        let k = 0;
+        blocks = work.stanzaLines.map((n) => verse.slice(k, (k += n)));
+      } else if (stanzas.length !== work.couplets && work.stanzaLines.every((n) => n === 2) && verse.length % 2 === 0) {
+        blocks = [];
+        for (let k = 0; k < verse.length; k += 2) blocks.push(verse.slice(k, k + 2));
+      }
       items.push({
         workSlug: item.workSlug,
         number: item.number,
