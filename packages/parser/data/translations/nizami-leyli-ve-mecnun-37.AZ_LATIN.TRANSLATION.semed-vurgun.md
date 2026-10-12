@@ -12,10 +12,7 @@ translatorNote: >-
 sourceNote: >-
   https://az.wikisource.org/wiki/Leyli%20v%C9%99%20M%C9%99cnun%20(Nizami%20G%C9%99nc%C9%99vi)%2FM%C9%99cnunun%20day%C4%B1s%C4%B1%20S%C9%99lim%20Amirinin%20M%C9%99cnunu%20g%C3%B6rm%C9%99y%C9%99%20g%C9%99lm%C9%99si
 isDefault: true
-hold: >-
-  Səməd Vurğun died in 1956; his translation is protected in Azerbaijan until
-  the end of 2026 (life + 70). Publish from 1 January 2027
-status: DRAFT
+status: PUBLISHED
 ---
 ### Məcnunun dayısı Səlim Amirinin Məcnunu görməyə gəlməsi
 

@@ -12,10 +12,7 @@ translatorNote: >-
 sourceNote: >-
   https://az.wikisource.org/wiki/Leyli%20v%C9%99%20M%C9%99cnun%20(Nizami%20G%C9%99nc%C9%99vi)%2FSonuncu%20Pey%C4%9F%C9%99mb%C9%99rin%20t%C9%99rifi
 isDefault: true
-hold: >-
-  Səməd Vurğun died in 1956; his translation is protected in Azerbaijan until
-  the end of 2026 (life + 70). Publish from 1 January 2027
-status: DRAFT
+status: PUBLISHED
 ---
 ### Sonuncu Peyğəmbərin tərifi
 

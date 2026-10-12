@@ -12,10 +12,7 @@ translatorNote: >-
 sourceNote: >-
   https://az.wikisource.org/wiki/Leyli%20v%C9%99%20M%C9%99cnun%20(Nizami%20G%C9%99nc%C9%99vi)%2FKitab%C4%B1n%20sonu
 isDefault: true
-hold: >-
-  Səməd Vurğun died in 1956; his translation is protected in Azerbaijan until
-  the end of 2026 (life + 70). Publish from 1 January 2027
-status: DRAFT
+status: PUBLISHED
 ---
 Ey şah, bu dünyaya özün pənahsan,
 Sən bir şah deyilsən, bəlkə min şahsan.

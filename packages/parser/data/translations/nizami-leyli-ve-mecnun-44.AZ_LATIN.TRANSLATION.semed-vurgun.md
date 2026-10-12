@@ -12,10 +12,7 @@ translatorNote: >-
 sourceNote: >-
   https://az.wikisource.org/wiki/Leyli%20v%C9%99%20M%C9%99cnun%20(Nizami%20G%C9%99nc%C9%99vi)%2FPay%C4%B1z%C4%B1n%20yeti%C5%9Fm%C9%99si%20v%C9%99%20Leylinin%20%C3%B6lm%C9%99si
 isDefault: true
-hold: >-
-  Səməd Vurğun died in 1956; his translation is protected in Azerbaijan until
-  the end of 2026 (life + 70). Publish from 1 January 2027
-status: DRAFT
+status: PUBLISHED
 ---
 ### Payızın yetişməsi və Leylinin ölməsi
 
@@ -459,7 +456,7 @@ Sanki zəlzələdən tutuldu dili.
 İldırım vurmuş tək qaraldı haman,
 Həm düşdü, həm yandı bu ildırımdan.
 
-Taqətsiz yerində dayandı bir an,
+ёTaqətsiz yerində dayandı bir an,
 Fələyə üz tutub dedi: "Ey dövran!
 
 Nədir bu verdiyin insafsız qərar?

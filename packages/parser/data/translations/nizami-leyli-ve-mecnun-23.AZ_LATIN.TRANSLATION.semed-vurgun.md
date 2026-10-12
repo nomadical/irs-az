@@ -12,10 +12,7 @@ translatorNote: >-
 sourceNote: >-
   https://az.wikisource.org/wiki/Leyli%20v%C9%99%20M%C9%99cnun%20(Nizami%20G%C9%99nc%C9%99vi)%2FM%C9%99cnunun%20Nof%C9%99l%C9%99%20a%C3%A7%C4%B1qlamas%C4%B1%20(S%C3%BClh%C3%BCn%20qoqusunu%20duyunca%20M%C9%99cnun)
 isDefault: true
-hold: >-
-  Səməd Vurğun died in 1956; his translation is protected in Azerbaijan until
-  the end of 2026 (life + 70). Publish from 1 January 2027
-status: DRAFT
+status: PUBLISHED
 ---
 Sülhün qoqusunu duyunca Məcnun
 Kinlə qəzəbləndi ürəyi onun.

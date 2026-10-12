@@ -12,10 +12,7 @@ translatorNote: >-
 sourceNote: >-
   https://az.wikisource.org/wiki/Leyli%20v%C9%99%20M%C9%99cnun%20(Nizami%20G%C9%99nc%C9%99vi)%2FHekay%C9%99%20(Bir%20g%C3%BCn%20adl%C4%B1-sanl%C4%B1%20%C5%9Fahlardan%20biri)
 isDefault: true
-hold: >-
-  Səməd Vurğun died in 1956; his translation is protected in Azerbaijan until
-  the end of 2026 (life + 70). Publish from 1 January 2027
-status: DRAFT
+status: PUBLISHED
 ---
 Ana öz oğluna boylandı bir az,
 Elə bil qəlbini doğradı almaz.

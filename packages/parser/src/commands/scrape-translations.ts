@@ -75,7 +75,8 @@ async function scrapeWikisource(id: string, dryRun: boolean) {
         sourceNote: t.sourceUrl,
         isDefault: true,
         ...(cfg.hold && { hold: cfg.hold }),
-        status: 'DRAFT',
+        // Typed text, not OCR: published unless held back
+        status: cfg.hold ? 'DRAFT' : 'PUBLISHED',
       },
       t.body,
     );
