@@ -2,12 +2,12 @@
    IRS.AZ — Clean skin
    An alternative to the gazette look, opted into per reader
    (html[data-skin='clean']). White pages, one crimson accent,
-   PT Sans for the interface and PT Serif for the text, soft
+   Noto Sans for the interface and Literata for the text, soft
    grey cards instead of rules and ornaments.
    Markup is shared with the gazette skin: only styles change.
    ───────────────────────────────────────────────────────────── */
 
-/* PT Sans, PT Serif and Noto Naskh Arabic are declared with the other
+/* Noto Sans, Literata and Noto Naskh Arabic are declared with the other
    faces in globals.css; their files download only once this skin uses them */
 
 /* ── Tokens — light ─────────────────────────────────────────── */
@@ -32,9 +32,9 @@
   --header-hover:  rgba(255, 255, 255, 0.1);
   --header-accent: #FF5A5F;
 
-  --font-serif:  'PT Sans', 'Helvetica Neue', Arial, sans-serif;
-  --font-body:   'PT Serif', Georgia, serif;
-  --font-ui:     'PT Sans', 'Helvetica Neue', Arial, sans-serif;
+  --font-serif:  'Noto Sans', 'Helvetica Neue', Arial, sans-serif;
+  --font-body:   'Literata', Georgia, serif;
+  --font-ui:     'Noto Sans', 'Helvetica Neue', Arial, sans-serif;
   --font-arabic: 'Noto Naskh Arabic', 'Amiri', 'Geeza Pro', serif;
 
   --radius:      10px;

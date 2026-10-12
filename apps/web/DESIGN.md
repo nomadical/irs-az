@@ -97,40 +97,40 @@ typography:
     fontWeight: 400
     lineHeight: 2.05
   clean-display:
-    fontFamily: "PT Sans, Helvetica Neue, Arial, sans-serif"
+    fontFamily: "Noto Sans, Helvetica Neue, Arial, sans-serif"
     fontSize: "2.5rem"
     fontWeight: 700
     lineHeight: 1.2
     letterSpacing: "-0.015em"
   clean-headline:
-    fontFamily: "PT Sans, Helvetica Neue, Arial, sans-serif"
+    fontFamily: "Noto Sans, Helvetica Neue, Arial, sans-serif"
     fontSize: "1.375rem"
     fontWeight: 700
     lineHeight: 1.2
     letterSpacing: "-0.01em"
   clean-title:
-    fontFamily: "PT Sans, Helvetica Neue, Arial, sans-serif"
+    fontFamily: "Noto Sans, Helvetica Neue, Arial, sans-serif"
     fontSize: "1.125rem"
     fontWeight: 700
     lineHeight: 1.25
   clean-body:
-    fontFamily: "PT Serif, Georgia, serif"
+    fontFamily: "Literata, Georgia, serif"
     fontSize: "1rem"
     fontWeight: 400
     lineHeight: 1.6
   clean-reading:
-    fontFamily: "PT Serif, Georgia, serif"
+    fontFamily: "Literata, Georgia, serif"
     fontSize: "1.05rem"
     fontWeight: 400
     lineHeight: 1.8
   clean-label:
-    fontFamily: "PT Sans, Helvetica Neue, Arial, sans-serif"
+    fontFamily: "Noto Sans, Helvetica Neue, Arial, sans-serif"
     fontSize: "0.875rem"
     fontWeight: 400
     lineHeight: 1.6
     letterSpacing: "0"
   clean-nav:
-    fontFamily: "PT Sans, Helvetica Neue, Arial, sans-serif"
+    fontFamily: "Noto Sans, Helvetica Neue, Arial, sans-serif"
     fontSize: "0.78rem"
     fontWeight: 700
     letterSpacing: "0.06em"
@@ -228,7 +228,7 @@ components:
 
 **Creative North Star: "One Reading Room, Two Editions"**
 
-IRS.AZ is one reading room printed in two editions. The markup, the reading page and the verse layout are shared; a reader picks the edition from a header toggle (stored in `localStorage.skin`, applied as `html[data-skin='clean']` before first paint, so it never flashes). Each edition has a light and a dark theme (`data-theme`, also set before paint, defaulting to the OS preference). The **Gazette** is the default and the incumbent: a Molla Nasraddin–era literary newspaper on ivory, set in Cormorant Garamond and Source Serif, with pomegranate ink, ◆ ornaments, double rules and tracked small capitals. The **Clean** edition is the alternative: a museum-portal reading room in culture.ru's grammar. It uses white pages, one charcoal header bar, soft grey cards and pills, and a single crimson. It is set in PT Sans and PT Serif, with no rules and no ornaments.
+IRS.AZ is one reading room printed in two editions. The markup, the reading page and the verse layout are shared; a reader picks the edition from a header toggle (stored in `localStorage.skin`, applied as `html[data-skin='clean']` before first paint, so it never flashes). Each edition has a light and a dark theme (`data-theme`, also set before paint, defaulting to the OS preference). The **Gazette** is the default and the incumbent: a Molla Nasraddin–era literary newspaper on ivory, set in Cormorant Garamond and Source Serif, with pomegranate ink, ◆ ornaments, double rules and tracked small capitals. The **Clean** edition is the alternative: a museum-portal reading room in culture.ru's grammar. It uses white pages, one charcoal header bar, soft grey cards and pills, and a single crimson. It is set in Noto Sans and Literata, with no rules and no ornaments.
 
 Both editions serve the same priority: the text comes first. A poem is set large in a serif at a comfortable measure, the original sits beside its translation, Persian is set right to left in a real Naskh face with taller leading, and provenance sits under every text. Density is low on the reading page and moderate on indexes. Neither edition carries commercial surfaces.
 
@@ -237,7 +237,7 @@ The two editions are distinct worlds, not a theme and its variant. Gazette devic
 **Key Characteristics:**
 - Shared markup, two skins: all Clean overrides live under `[data-skin='clean']` in `styles/skin-clean.css`, and the Gazette lives in `styles/globals.css`.
 - Light and dark in both skins, driven by the same custom-property names (`--bg`, `--ink`, `--muted`, `--surf`, `--pomeg`, `--pomeg-fill`, `--rule`, `--control`).
-- Serif reading text in both skins: Source Serif 4 (Gazette), PT Serif (Clean).
+- Serif reading text in both skins: Source Serif 4 (Gazette), Literata (Clean).
 - Persian/Arabic-script text always switches to a Naskh face, at 1.2× size with taller leading.
 - Flat surfaces. Only the reading-appearance popover casts a shadow.
 - Icons are inline SVG at 18px with 1.6–1.8 strokes.
@@ -276,11 +276,11 @@ The Gazette is ink and pomegranate on warm paper. Clean is charcoal ink on white
 **Gazette display:** Cormorant Garamond (fallback Source Serif 4, Georgia)
 **Gazette text:** Source Serif 4 (fallback Georgia)
 **Gazette interface:** Alegreya Sans
-**Clean display and interface:** PT Sans (fallback Helvetica Neue, Arial)
-**Clean text:** PT Serif (fallback Georgia)
+**Clean display and interface:** Noto Sans (fallback Helvetica Neue, Arial)
+**Clean text:** Literata (fallback Georgia)
 **Persian / Arabic:** Amiri in the Gazette, Noto Naskh Arabic in Clean (each falls back to the other)
 
-**Character:** The Gazette pairs a high-contrast Garamond display with a sturdy text serif and a humanist sans for the small print, the way a literary weekly does. Clean uses one PT superfamily: a bold sans for every heading and control, and its serif for anything meant to be read. All six faces load in one Google Fonts request. A face's files download only when a skin uses it.
+**Character:** The Gazette pairs a high-contrast Garamond display with a sturdy text serif and a humanist sans for the small print, the way a literary weekly does. Clean uses a bold sans for every heading and control, and a book serif for anything meant to be read. Every reading face must carry Ə/ə (U+018F/U+0259), the commonest Azerbaijani vowel: Clean left PT Sans and PT Serif for this reason, since they lack it and the browser filled every ə from a fallback face. All six faces load in one Google Fonts request. A face's files download only when a skin uses it.
 
 ### Hierarchy
 - **Display** (gazette-display / clean-display): page and work titles. Work titles are 2.75rem in the Gazette and 2.5rem in Clean (2rem under 768px). They are centred and balanced. A Persian title switches to the Naskh face at 700 weight with 1.5 leading.
@@ -335,7 +335,7 @@ Both skins are flat. The Gazette conveys depth with rules (0.5px hairlines, 1px 
 
 ### Buttons
 - **Gazette:** small Alegreya Sans (0.7rem, 0.05em tracking) on surface tint with a 1px rule border and a 4px radius. Hover inverts to an ink fill with paper text. Primary is a pomegranate fill with white text and a pomegranate-deep hover. The search button is a tracked-caps pomegranate block.
-- **Clean:** bold PT Sans at 0.85rem, borderless, 10px radius, `0.55rem 1.1rem`. The default is grey with a grey-deep hover. Primary and search are crimson with white text and a crimson-deep hover.
+- **Clean:** bold Noto Sans at 0.85rem, borderless, 10px radius, `0.55rem 1.1rem`. The default is grey with a grey-deep hover. Primary and search are crimson with white text and a crimson-deep hover.
 - **Read on (unfold):** in the Gazette a tracked-caps bordered button, in Clean a grey 999px pill in sentence case (0.9rem bold), with crimson text on hover.
 - **Focus:** both skins use a 2px `--pomeg` outline with a 2px offset (6px radius in Clean, white inside the charcoal header).
 
@@ -350,12 +350,12 @@ Both skins are flat. The Gazette conveys depth with rules (0.5px hairlines, 1px 
 
 ### Inputs / Fields
 - **Gazette:** tinted surface with a 1px rule border and no radius. Focus turns the border pomegranate.
-- **Clean:** grey fill with a transparent 1px border and a 10px radius, PT Sans at 1rem. Focus turns the fill white and the border crimson. The caret is `--pomeg` in both skins.
+- **Clean:** grey fill with a transparent 1px border and a 10px radius, Noto Sans at 1rem. Focus turns the fill white and the border crimson. The caret is `--pomeg` in both skins.
 
 ### Navigation
 - **Gazette header:** paper-coloured and sticky. The logo is pomegranate "IRS" with an ink "AZ" joined by a ◆. The nav is tracked uppercase Alegreya Sans in muted, with pomegranate for hover and the current page. A dateline strip (date · Baku · tagline) sits under a hairline and closes on a 4px pomegranate double rule.
 - **Clean header:** a sticky charcoal bar with no dateline. The wordmark is white "IRS", muted ".", and header-crimson "AZ". The nav is bold uppercase in header-muted, white on hover. The current section is white with a 2px header-crimson underline. On phones the nav moves to a second row and scrolls sideways.
-- **Footer (the imprint line):** one line on wide screens, stacked and centred under 900px. In the Gazette it opens on the 4px pomegranate double rule. The site's description comes first in muted italic Source Serif. The about, contribute and contact links end the line in tracked uppercase Alegreya Sans in muted, turning pomegranate on hover, with small ◆ between them. The masthead is not repeated. In Clean it is a grey-deep band with no rule. It starts with the wordmark in PT Sans with a crimson "AZ", then the description in a muted sans, then the links in bold ink and sentence case with no separators.
+- **Footer (the imprint line):** one line on wide screens, stacked and centred under 900px. In the Gazette it opens on the 4px pomegranate double rule. The site's description comes first in muted italic Source Serif. The about, contribute and contact links end the line in tracked uppercase Alegreya Sans in muted, turning pomegranate on hover, with small ◆ between them. The masthead is not repeated. In Clean it is a grey-deep band with no rule. It starts with the wordmark in Noto Sans with a crimson "AZ", then the description in a muted sans, then the links in bold ink and sentence case with no separators.
 - **Language switcher:** a three-segment strip (AZ / RU / EN). The active segment is a pomegranate or crimson fill. In Clean the outer ends are rounded to pills, set on a translucent white border.
 - **Skin and theme toggles:** square buttons with a 4px radius in the Gazette, 2.25rem circles with 24% white borders in Clean. Each is an `aria-pressed` toggle with a "page look" or moon/sun SVG.
 - **Breadcrumb:** muted interface text with › separators. The current page is pomegranate in the Gazette and bold ink in Clean. Persian crumbs switch to Naskh.

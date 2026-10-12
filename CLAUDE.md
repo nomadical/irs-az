@@ -42,6 +42,6 @@ pnpm build                      # build everything
 ## Design
 Two reader-selectable skins on shared markup, each with light and dark themes. Full system in `apps/web/DESIGN.md`.
 - **Gazette (default)**: newspaper/literary gazette aesthetic — ivory, ink-black, pomegranate red; Molla Nasraddin ornamental accents (◆ diamonds, double rules). Styles in `apps/web/styles/globals.css`
-- **Clean (alternative)**: culture.ru-style — white pages, one charcoal header bar, grey cards and pills, one crimson `#C8102E`, PT Sans + PT Serif, no rules, no ornaments, sentence-case labels. Overrides scoped to `[data-skin='clean']` in `apps/web/styles/skin-clean.css`. Its lack of gazette ornament is deliberate, not drift — never add ◆, double rules or tracked caps to it
+- **Clean (alternative)**: culture.ru-style — white pages, one charcoal header bar, grey cards and pills, one crimson `#C8102E`, Noto Sans + Literata, no rules, no ornaments, sentence-case labels. Overrides scoped to `[data-skin='clean']` in `apps/web/styles/skin-clean.css`. Its lack of gazette ornament is deliberate, not drift — never add ◆, double rules or tracked caps to it
 - Skin via `html[data-skin='clean']` (header toggle, `localStorage.skin`); theme via `[data-theme]` (OS preference until the reader chooses, `localStorage.theme`). Both are set before paint by the inline script in `app/layout.tsx`
 - New components style both skins: base rules in `globals.css` read the shared CSS variables (`--bg`, `--ink`, `--pomeg`, `--surf`…), and clean-specific shape goes in `skin-clean.css`
