@@ -5,6 +5,7 @@ import { useTranslations } from 'next-intl';
 import { useParams, useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { api } from '@/lib/api';
+import { isArabicScript, langTag } from '@/lib/verse';
 
 // useSearchParams needs a Suspense boundary for the page to prerender
 export default function SearchPage() {
@@ -120,21 +121,29 @@ function Search() {
                   __html: hit._formatted?.authorNameAz || hit.authorNameAz,
                 }}
               />
-              {hit._formatted?.body && (
-                <span
-                  style={{
-                    fontSize: '0.85rem',
-                    color: 'var(--warm-brown)',
-                    fontStyle: 'italic',
-                    lineHeight: 1.6,
-                  }}
-                  dangerouslySetInnerHTML={{ __html: hit._formatted.body }}
-                />
-              )}
+              {hit._formatted?.body && <Snippet html={hit._formatted.body} lang={hit.lang} />}
             </Link>
           ))}
         </div>
       )}
     </div>
+  );
+}
+
+/**
+ * The passage that matched. It may come from the original or from any translation,
+ * so its script decides the direction: Persian and Arabic-script Azerbaijani run
+ * right to left in the Naskh face, never in a slanted Latin italic.
+ */
+function Snippet({ html, lang }: { html: string; lang?: string }) {
+  const rtl = isArabicScript(html.replace(/<[^>]+>/g, ''));
+  const tag = rtl ? (['FA', 'AR', 'AZ_ARABIC'].includes(lang ?? '') ? langTag[lang!] : 'fa') : undefined;
+  return (
+    <span
+      className="search-snippet"
+      lang={tag}
+      dir={rtl ? 'rtl' : undefined}
+      dangerouslySetInnerHTML={{ __html: html }}
+    />
   );
 }

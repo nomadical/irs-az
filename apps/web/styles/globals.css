@@ -1273,6 +1273,21 @@ blockquote {
 
 .search-highlight,
 .work-row mark { background: var(--hl); color: var(--pomeg); }
+/* The matched passage under a search result */
+.search-snippet {
+  font-size:   0.85rem;
+  line-height: 1.6;
+  font-style:  italic;
+  color:       var(--warm-brown);
+}
+.search-snippet[dir='rtl'] {
+  align-self:  stretch;
+  text-align:  start;
+  font-family: var(--font-arabic);
+  font-size:   1rem;
+  font-style:  normal;
+  line-height: 1.9;
+}
 
 /* ── Collection TOC ─────────────────────────────────────────── */
 .coll-header {
