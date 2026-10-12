@@ -394,6 +394,9 @@
       "ru": "Насими"
     },
     "wikisource": {
+      "az_extra": {
+        "Gözlərim yarın qəmindən aхıdar dürdanəyi": "nasimi-qezeller"
+      },
       "az": "İmadəddin Nəsimi"
     },
     "ganjoor": {
@@ -451,6 +454,13 @@
       "ru": "Исмаил I"
     },
     "wikisource": {
+      "az_extra": {
+        "Gedər (Şah İsmayıl Xətai)": "xetai-qosmalar",
+        "Keçər (Şah İsmayıl Xətai)": "xetai-qosmalar",
+        "Gəldim (Şah İsmayıl Xətai)": "xetai-geraylilar",
+        "Bax, nəzər eylə də həmən arif оl.": "xetai-varsagi",
+        "Həqiqət bir gizli sirdir": "xetai-muxtelif-seirler"
+      },
       "az": "Şah İsmayıl Xətai"
     },
     "collections": [],
@@ -473,6 +483,10 @@
       "ru": "Вагиф"
     },
     "wikisource": {
+      "az_extra": {
+        "Gözlərin cəlladdır": "vaqif-qosmalar",
+        "Hər gedən gəlmiş, mənim ol qəmküsarım gəlməmiş": "vaqif-qosmalar"
+      },
       "az": "Molla Pənah Vaqif"
     },
     "collections": []
@@ -508,6 +522,15 @@
       "ru": "Сабир, Мирза Алекпер"
     },
     "wikisource": {
+      "az_extra": {
+        "Ağacların bəhsi": "sabir-seirler",
+        "Məktəb şərqisi (Mirzə Ələkbər Sabir)": "sabir-seirler",
+        "Məktəbə tərğib": "sabir-seirler",
+        "Nə yazım (Mirzə Ələkbər Sabir)": "sabir-seirler",
+        "Ruhum!..": "sabir-seirler",
+        "Əqvalı-hikmətdən müqtəbis bir mənzum": "sabir-seirler",
+        "Analar bəzəyi (Gər olsa nisadə elmü irfan)": "sabir-seirler"
+      },
       "az": "Mirzə Ələkbər Sabir"
     },
     "collections": []
@@ -550,6 +573,14 @@
       "ru": "Джаббарлы, Джафар"
     },
     "wikisource": {
+      "az_extra": {
+        "Qızlardan kişilərə protesto": "cabbarli-seirler",
+        "O nədir?": "cabbarli-seirler",
+        "Bilənlərə": "cabbarli-seirler",
+        "Eşidənlərə": "cabbarli-seirler",
+        "Olmasın (Cəfər Cabbarlı)": "cabbarli-seirler",
+        "Ədibi-möhtərəm Haşım bəy Vəzirovun rəsminə (Cəfər Cabbarlı)": "cabbarli-seirler"
+      },
       "az": "Cəfər Cabbarlı",
       "az_collection": "cabbarli-pyesler"
     },
@@ -584,6 +615,120 @@
     },
     "wikisource": {
       "az": "Səməd Vurğun"
+    },
+    "collections": []
+  },
+  {
+    "slug": "qatran",
+    "nameAz": "Qətran Təbrizi",
+    "nameRu": "Катран Тебризи",
+    "nameFa": "قطران تبریزی",
+    "nameEn": "Qatran Tabrizi",
+    "type": "POET",
+    "period": "XI əsr",
+    "writingLangs": [
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Qətran Təbrizi",
+      "ru": "Катран Тебризи"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/ghatran",
+      "collections": [
+        {
+          "catUrl": "/ghatran/divan",
+          "collectionSlug": "qatran-divan"
+        }
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "beylaqani",
+    "nameAz": "Mücirəddin Beyləqani",
+    "nameRu": "Муджиреддин Бейлагани",
+    "nameFa": "مجیرالدین بیلقانی",
+    "nameEn": "Mujir al-Din Baylaqani",
+    "type": "POET",
+    "period": "XII əsr",
+    "writingLangs": [
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Mücirəddin Beyləqani",
+      "ru": "Муджиреддин Бейлагани"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/beylaghani",
+      "collections": [
+        {
+          "catUrl": "/beylaghani/divan",
+          "collectionSlug": "beylaqani-divan"
+        }
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "falaki",
+    "nameAz": "Fələki Şirvani",
+    "nameRu": "Фелеки Ширвани",
+    "nameFa": "فلکی شروانی",
+    "nameEn": "Falaki Shirvani",
+    "type": "POET",
+    "period": "XII əsr",
+    "writingLangs": [
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Fələki Şirvani",
+      "ru": "Фелеки Ширвани"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/falaki",
+      "collections": [
+        {
+          "catUrl": "/falaki/divan",
+          "collectionSlug": "falaki-divan"
+        }
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "ovhadi",
+    "nameAz": "Əvhədi Marağalı",
+    "nameRu": "Аухади Марагаи",
+    "nameFa": "اوحدی مراغه‌ای",
+    "nameEn": "Awhadi Maraghai",
+    "type": "POET",
+    "period": "XIII-XIV əsr",
+    "writingLangs": [
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Əvhədi Marağalı",
+      "ru": "Аухади Марагаи"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/ouhadi",
+      "collections": [
+        {
+          "catUrl": "/ouhadi/divano",
+          "collectionSlug": "ovhadi-divan"
+        },
+        {
+          "catUrl": "/ouhadi/mantegholoshagh",
+          "collectionSlug": "ovhadi-mentiqul-ussaq",
+          "form": "MASNAVI"
+        },
+        {
+          "catUrl": "/ouhadi/jaamejam",
+          "collectionSlug": "ovhadi-cami-cem",
+          "form": "MASNAVI"
+        }
+      ]
     },
     "collections": []
   }

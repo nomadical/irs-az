@@ -35,6 +35,20 @@ const SECTIONS: Record<string, Section> = {
   arabikh: poem('erebce', 'Ərəbcə şeir', 'Арабское стихотворение', 'Arabic poem'),
   tarjeeatkh: poem('tercibend', 'Tərcibənd', 'Тарджибанд', 'Tarji-band'),
   tarkibatkh: poem('terkibbend', 'Tərkibbənd', 'Таркиббанд', 'Tarkib-band'),
+  // Qatran, Beylaqani, Falaki and Ouhadi (Ouhadi's divan sections carry an "o" suffix)
+  ghazalo: poem('qezel', 'Qəzəl', 'Газель', 'Ghazal'),
+  ghasideo: poem('qeside', 'Qəsidə', 'Касыда', 'Qasida'),
+  robaeeo: poem('rubai', 'Rübai', 'Рубаи', 'Rubai'),
+  tarjee: poem('tercibend', 'Tərcibənd', 'Тарджибанд', 'Tarji-band'),
+  tarjeeato: poem('tercibend', 'Tərcibənd', 'Тарджибанд', 'Tarji-band'),
+  tarkib: poem('terkibbend', 'Tərkibbənd', 'Таркиббанд', 'Tarkib-band'),
+  tarkibato: poem('terkibbend', 'Tərkibbənd', 'Таркиббанд', 'Tarkib-band'),
+  mosammat: poem('musemmet', 'Müsəmmət', 'Мусаммат', 'Musammat'),
+  molamma: poem('mulemme', 'Müləmmə', 'Мулямма', "Mulamma'"),
+  shakva: poem('sikayetname', 'Şikayətnamə', 'Жалоба', 'Complaint'),
+  digar: poem('perakende', 'Pərakəndə şeir', 'Отдельное стихотворение', 'Miscellaneous poem'),
+  morabba: poem('murebbe', 'Mürəbbe', 'Мурабба', "Murabba'"),
+  esfahani: poem('isfahan-lehcesi', 'İsfahan ləhcəsində şeir', 'Стихотворение на исфаханском диалекте', 'Poem in the Isfahani dialect'),
   // Mahsati's separate rubai selection, distinct from divan/robaee
   robmah: { slug: 'rubailer', az: 'Rübailər', ru: 'Рубайят', en: 'Rubaiyat', kind: 'list' },
   // Book-length masnavis, split into chapters
@@ -45,26 +59,35 @@ const SECTIONS: Record<string, Section> = {
   '7peykar': chapter('yeddi-gozel', 'Yeddi gözəl', 'Семь красавиц', 'The Seven Beauties'),
   sharafname: chapter('serefname', 'Şərəfnamə', 'Шараф-наме', 'Sharafnama'),
   kheradname: chapter('iqbalname', 'İqbalnamə', 'Икбал-наме', 'Iqbalnama'),
+  mantegholoshagh: chapter('mentiqul-ussaq', 'Məntiqül-üşşaq', 'Мантик аль-ушшак', "Mantiq al-'Ushshaq"),
+  jaamejam: chapter('cami-cem', 'Cami-Cəm', 'Джам-и Джам', 'Jam-i Jam'),
 };
 
 const URL_PATTERN = /^https?:\/\/ganjoor\.net\/[^/]+\/(?:.*\/)?([^/]+)\/sh(\d+)\/?$/;
+// A lone poem named after its form, e.g. https://ganjoor.net/ghatran/divan/masnavi
+const SINGLE_PATTERN = /^https?:\/\/ganjoor\.net\/[^/]+\/(?:.*\/)?([^/]+?)\/?$/;
 
 function parse(sourceUrl: string | undefined | null) {
   const match = sourceUrl?.match(URL_PATTERN);
   const section = match && SECTIONS[match[1]];
-  return section ? { section, number: match[2] } : null;
+  if (section) return { section, number: match[2] };
+  const single = sourceUrl?.match(SINGLE_PATTERN);
+  const lone = single && SECTIONS[single[1]];
+  return lone?.kind === 'poem' ? { section: lone, number: null } : null;
 }
 
 /** Returns null when the URL isn't a Ganjoor poem URL or its section is unmapped. */
 export function ganjoorSlug(authorSlug: string, sourceUrl: string | undefined | null): string | null {
   const parsed = parse(sourceUrl);
-  return parsed ? `${authorSlug}-${parsed.section.slug}-${parsed.number}` : null;
+  if (!parsed) return null;
+  return parsed.number ? `${authorSlug}-${parsed.section.slug}-${parsed.number}` : `${authorSlug}-${parsed.section.slug}`;
 }
 
 export function ganjoorTitles(sourceUrl: string | undefined | null): Titles | null {
   const parsed = parse(sourceUrl);
   if (!parsed) return null;
   const { section: s, number: n } = parsed;
+  if (!n) return { az: s.az, ru: s.ru, en: s.en };
   switch (s.kind) {
     case 'poem':
       return { az: `${s.az} ${n}`, ru: `${s.ru} ${n}`, en: `${s.en} ${n}` };
@@ -91,6 +114,12 @@ export const GANJOOR_COLLECTION_TITLES: Record<string, Titles> = {
   'nizami-heft-peyker': { az: 'Yeddi gözəl', ru: 'Семь красавиц', en: 'The Seven Beauties' },
   'nizami-serefname': { az: 'Şərəfnamə', ru: 'Шараф-наме', en: 'Sharafnama' },
   'nizami-xerednama': { az: 'İqbalnamə', ru: 'Икбал-наме', en: 'Iqbalnama' },
+  'qatran-divan': { az: 'Divan', ru: 'Диван', en: 'Divan' },
+  'beylaqani-divan': { az: 'Divan', ru: 'Диван', en: 'Divan' },
+  'falaki-divan': { az: 'Divan', ru: 'Диван', en: 'Divan' },
+  'ovhadi-divan': { az: 'Divan', ru: 'Диван', en: 'Divan' },
+  'ovhadi-mentiqul-ussaq': { az: 'Məntiqül-üşşaq', ru: 'Мантик аль-ушшак', en: "Mantiq al-'Ushshaq" },
+  'ovhadi-cami-cem': { az: 'Cami-Cəm', ru: 'Джам-и Джам', en: 'Jam-i Jam' },
 };
 
 export const isLegacyGanjoorSlug = (slug: string) => /^ganjoor-\d+$/.test(slug);
