@@ -30,5 +30,12 @@ bioRu: >-
   представительством Азербайджана при ЮНЕСКО. В рамках вечера состоялся концерт
   традиционной азербайджанской музыки и песен, были зачитаны стихи, а также
   прошла выставка произведений поэтессы и биографических изданий о ней.
+portraitUrl: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Soltan_Sanjar_surprises_his_beloved_entertaining_Mahsati_in_his_tent.jpg/330px-Soltan_Sanjar_surprises_his_beloved_entertaining_Mahsati_in_his_tent.jpg
+portraitSource: >-
+  https://commons.wikimedia.org/wiki/File:Soltan_Sanjar_surprises_his_beloved_entertaining_Mahsati_in_his_tent.jpg
+portraitCredit: >-
+  Farid al-Katib [scribe] Husayn ibn Ismail Gazurgahi [author], 1552 · Public
+  domain
 ---
 Məhsəti təxəllüsünün mənşəyi barədə bir neçə rəvayət vardır. Bunlardan birində deyilir ki, guya Sultan Səncərlə söhbətlərindən birində Mənicə öz mühitində hamıdan kiçik və görünməz olduğunu söyləyir. Sultan isə onunla razılaşmayıb deyir ki,"to, meh-həsti" (yəni, "sən hamıdan böyüksən"). Və guya "meh-həsti"-"məhsəti"yə çevrilib, onun təxəllüsü olur. Abbasqulu ağa Bakıxanovun "Gülistani-İrəm" əsərinin "Nəticə" adlanan hissəsində irəli sürülmüş fərziyyəyə görə, "Məhsəti" "mah" və "səti" olmaqla iki sözdən ibərətdir və "böyük xanım" anlamına gəlir. 2013-cü ildə UNESCO-nun Baş Konfransının 36-cı sessiyasında Məhsəti Gəncəvinin 900 illik yubileyinin dünya səviyyəsində qeyd edilməsi haqqında qərar qəbul edilib.

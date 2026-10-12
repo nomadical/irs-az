@@ -54,6 +54,11 @@ export async function importAuthors(opts: {
       continue;
     }
 
+    // Portrait fields only when the file has them, so one set in the admin isn't wiped
+    const portrait = fm.portraitUrl
+      ? { portraitUrl: fm.portraitUrl, portraitSource: fm.portraitSource ?? null, portraitCredit: fm.portraitCredit ?? null }
+      : {};
+
     await db.author.upsert({
       where: { slug: fm.slug },
       create: {
@@ -73,6 +78,7 @@ export async function importAuthors(opts: {
         writingLangs: fm.writingLangs ?? [],
         bioAz: bioAz || null,
         bioRu: fm.bioRu ?? null,
+        ...portrait,
         status: newStatus(opts, fm.status),
       },
       update: {
@@ -91,6 +97,7 @@ export async function importAuthors(opts: {
         writingLangs: fm.writingLangs ?? [],
         bioAz: bioAz || null,
         bioRu: fm.bioRu ?? null,
+        ...portrait,
         ...statusUpdate(opts),
       },
     });

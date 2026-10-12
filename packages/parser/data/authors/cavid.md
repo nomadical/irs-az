@@ -18,6 +18,10 @@ bioRu: >-
   поступил в школу Мохаммеда Таги Сидги «Мектеби-тербие». Позднее в письме к К.
   Шарифову Г. Джавид писал: *«Если бы я рос по программе отца, то, кто знает,
   кем бы я сейчас был... Это вы вовлекли меня в школу Сидги»*.
+portraitUrl: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Huseyn_Javid.jpg/330px-Huseyn_Javid.jpg
+portraitSource: 'https://commons.wikimedia.org/wiki/File:Huseyn_Javid.jpg'
+portraitCredit: 'Unknown author, 1924 · Public domain'
 ---
 İbtidai təhsilini Naxçıvan molla məktəbində, orta təhsilini M. T. Sidqinin "Məktəbi-tərbiyə" adlı yeni üsullu məktəbində almışdır. 1899–1903-cü illərdə Təbrizin "Talibiyyə" mədrəsəsində təhsilini davam etdirmişdir. İstanbul Universitetinin ədəbiyyat şöbəsini bitirdikdən sonra Naxçıvanda, sonra isə Gəncə və Tiflisdə, 1915-ci ildən isə Bakıda müəllimlik etmişdir.
 

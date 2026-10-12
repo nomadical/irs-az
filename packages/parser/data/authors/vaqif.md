@@ -9,6 +9,10 @@ period: XVIII əsr
 writingLangs:
   - AZ_ARABIC
 status: DRAFT
+portraitUrl: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Molla_P%C9%99nah_Vaqif.jpg/330px-Molla_P%C9%99nah_Vaqif.jpg
+portraitSource: 'https://commons.wikimedia.org/wiki/File:Molla_P%C9%99nah_Vaqif.jpg'
+portraitCredit: 'Cekli829, 2014 · CC BY-SA 4.0'
 ---
 {{Yazıçı
  |adı           = Molla Pənah Vaqif

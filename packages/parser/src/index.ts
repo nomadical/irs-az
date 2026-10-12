@@ -8,6 +8,7 @@ import { reslugCommand } from './commands/reslug';
 import { retitleCommand } from './commands/retitle';
 import { scrapeImagesCommand } from './commands/scrape-images';
 import { scrapeTranslationsCommand } from './commands/scrape-translations';
+import { scrapePortraitsCommand } from './commands/scrape-portraits';
 import { tagWorksCommand } from './commands/tag-works';
 
 const program = new Command()
@@ -24,6 +25,7 @@ program.addCommand(reslugCommand);
 program.addCommand(retitleCommand);
 program.addCommand(scrapeImagesCommand);
 program.addCommand(scrapeTranslationsCommand);
+program.addCommand(scrapePortraitsCommand);
 program.addCommand(tagWorksCommand);
 
 program.parse();

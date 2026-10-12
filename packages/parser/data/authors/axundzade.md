@@ -32,5 +32,10 @@ bioRu: |-
 
   | викитека = Мирза Фатали Ахундов
   }}
+portraitUrl: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Mirz%C9%99_F%C9%99t%C9%99li_Axundov_2.jpg/330px-Mirz%C9%99_F%C9%99t%C9%99li_Axundov_2.jpg
+portraitSource: >-
+  https://commons.wikimedia.org/wiki/File:Mirz%C9%99_F%C9%99t%C9%99li_Axundov_2.jpg
+portraitCredit: Unknown author · Public domain
 ---
 

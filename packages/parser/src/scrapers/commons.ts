@@ -112,15 +112,19 @@ export async function planCommonsArtworks(cfg: AuthorConfig): Promise<{ artworks
       if (/metmuseum|thewalters/i.test(meta.Credit?.value ?? '')) { drop('copy of a Met / Walters image'); continue; }
       if (NOT_ARTWORK.test(p.title)) { drop('coin, banknote or stamp'); continue; }
 
-      const date = text(meta.DateTimeOriginal?.value);
+      // Commons' date template leaves machine markup after the readable date: "1671 date QS:P571,+1671…"
+      const date = text(meta.DateTimeOriginal?.value).split(/\s*date QS:/)[0].trim();
       // Years before the work existed are Hijri dates or shelfmarks, not the copy's date
       const years = [...date.matchAll(/\b(1[0-9]{3})\b/g)].map((m) => Number(m[1])).filter((y) => y >= (commons.earliest ?? 0));
+      // "16 th century", "16th-century": the century's span
+      const century = date.match(/\b(1[0-9]|[1-9])\s*(?:st|nd|rd|th)[\s-]*century/i);
+      if (!years.length && century) years.push((Number(century[1]) - 1) * 100, (Number(century[1]) - 1) * 100 + 99);
       const fromManuscript = !poemCategories.has(where.category) && !roots.has(where.category);
       if (years.length ? Math.min(...years) > 1900 : !fromManuscript) { drop(years.length ? 'after 1900' : 'undated, outside a manuscript'); continue; }
 
       const name = p.title.replace(/^File:/, '').replace(/\.[a-z]+$/i, '');
-      // The same picture uploaded twice ("… Füzuli" and "… Füzuli2")
-      const key = name.replace(/\s*\d+$/, '').toLowerCase();
+      // The same picture uploaded twice ("… Füzuli" and "… Füzuli2", "… (cropped)")
+      const key = name.replace(/\s*\((cropped|crop)\)$/i, '').replace(/\s*\d+$/, '').toLowerCase();
       if (names.has(key)) { drop('duplicate upload'); continue; }
       names.add(key);
       const cats = (p.categories ?? []).map((c) => c.title);
@@ -137,7 +141,8 @@ export async function planCommonsArtworks(cfg: AuthorConfig): Promise<{ artworks
         yearStart: years.length ? Math.min(...years) : undefined,
         yearEnd: years.length ? Math.max(...years) : undefined,
         medium: undefined,
-        artists: text(meta.Artist?.value).slice(0, 200) || undefined,
+        // "Unknown authorUnknown author": Commons repeats the label it renders
+        artists: text(meta.Artist?.value).replace(/^(.+?)\s*\1$/, '$1').slice(0, 200) || undefined,
         // The original (possibly a TIFF) is the "Full size" link; galleries show the 960px rendering
         imageUrl: info.url,
         // Commons appends tracking parameters ("?utm_source=…"); one clean URL caches better

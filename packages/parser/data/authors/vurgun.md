@@ -21,6 +21,10 @@ bioRu: |-
 
   | автограф = Samad Vurgun signature.png
   }}
+portraitUrl: >-
+  https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/S%C9%99m%C9%99d_Vur%C4%9Fun_%281947%29.jpg/330px-S%C9%99m%C9%99d_Vur%C4%9Fun_%281947%29.jpg
+portraitSource: 'https://commons.wikimedia.org/wiki/File:S%C9%99m%C9%99d_Vur%C4%9Fun_(1947).jpg'
+portraitCredit: 'Владимир Савостьянов, 1947 · Public domain'
 ---
 Onun 6 yaşı olarkən anası Məhbub xanım 28 yaşında vəfat etmiş, atası Yusif ağanın və ana nənəsi Aişə xanımın himayəsində böyümüşdür. Şairin ana babası Mehdixan ağa Köhənsal təxəllüsü ilə tanınan el şairi idi. Şairin ana nənəsi Aişə xanım görkəmli Azərbaycan şairi və dövlət xadimi Molla Pənah Vaqifin nəslindən idi.
 

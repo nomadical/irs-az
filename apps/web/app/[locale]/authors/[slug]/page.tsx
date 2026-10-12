@@ -81,19 +81,43 @@ export default async function AuthorPage({ params }: Props) {
 
       {/* Author header — portrait + info grid */}
       <div className="author-header-grid">
-        <div className="portrait-placeholder">
-          {author.portraitUrl ? (
-            <img src={author.portraitUrl} alt={name} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
-          ) : (
-            <>
-              <svg width="44" height="58" viewBox="0 0 44 58" fill="none">
-                <circle cx="22" cy="17" r="13" stroke="var(--rule)" strokeWidth="1"/>
-                <path d="M2 58 Q12 42 22 38 Q32 42 42 58" stroke="var(--rule)" strokeWidth="1" fill="none"/>
-              </svg>
-              <span className="portrait-placeholder-label">
-                {locale === 'ru' ? 'Нет портрета' : locale === 'en' ? 'No portrait' : 'Portret yoxdur'}
-              </span>
-            </>
+        <div>
+          <div className="portrait-placeholder">
+            {author.portraitUrl ? (
+              <img src={author.portraitUrl} alt={name} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+            ) : (
+              <>
+                <svg width="44" height="58" viewBox="0 0 44 58" fill="none">
+                  <circle cx="22" cy="17" r="13" stroke="var(--rule)" strokeWidth="1"/>
+                  <path d="M2 58 Q12 42 22 38 Q32 42 42 58" stroke="var(--rule)" strokeWidth="1" fill="none"/>
+                </svg>
+                <span className="portrait-placeholder-label">
+                  {locale === 'ru' ? 'Нет портрета' : locale === 'en' ? 'No portrait' : 'Portret yoxdur'}
+                </span>
+              </>
+            )}
+          </div>
+          {/* Credit the portrait: most are public domain, some CC BY-SA (artist, year, licence) */}
+          {author.portraitUrl && author.portraitCredit && (
+            <p
+              style={{
+                fontFamily: 'var(--font-ui)',
+                fontSize: '0.6rem',
+                lineHeight: 1.3,
+                color: 'var(--muted)',
+                marginTop: '0.35rem',
+                maxWidth: '130px',
+                overflowWrap: 'anywhere',
+              }}
+            >
+              {author.portraitSource ? (
+                <a href={author.portraitSource} target="_blank" rel="noopener noreferrer" style={{ color: 'inherit' }}>
+                  {author.portraitCredit}
+                </a>
+              ) : (
+                author.portraitCredit
+              )}
+            </p>
           )}
         </div>
 

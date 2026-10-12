@@ -75,6 +75,7 @@ export interface AuthorFrontmatter {
   writingLangs: Language[];
   portraitUrl?: string;
   portraitSource?: string;
+  portraitCredit?: string;
   status: PublishStatus;
 }
 

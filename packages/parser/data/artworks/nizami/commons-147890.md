@@ -17,7 +17,7 @@ creditLine: 'Khamsa of Nizami, British Library, Or. 6810'
 license: Public domain
 authorSlug: nizami
 museum: Wikimedia Commons
-order: 140
+order: 142
 status: DRAFT
 ---
 

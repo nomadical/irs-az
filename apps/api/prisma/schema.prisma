@@ -134,6 +134,8 @@ model Author {
 
   portraitUrl    String?
   portraitSource String?
+  // Artist, year and licence, e.g. "Elmju, 2009 · CC BY-SA 3.0" — shown with a link to portraitSource
+  portraitCredit String?
 
   status     PublishStatus @default(DRAFT)
   featuredAt DateTime?
