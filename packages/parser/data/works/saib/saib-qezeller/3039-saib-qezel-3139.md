@@ -1,0 +1,31 @@
+---
+slug: saib-qezel-3139
+sourceId: ganjoor-55337
+titleAz: Qəzəl 3139
+titleRu: Газель 3139
+titleFa: غزل شمارهٔ ۳۱۳۹
+titleEn: Ghazal 3139
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 3039
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3139'
+status: DRAFT
+---
+زمین و آسمان از ناله من در خروش آمد
+نشست از جوش دریا، سینه من تا به جوش آمد
+
+نشاط دایمی خواهی، به درد از صاف قانع شو
+که در دورست دایم جام هر کس درد نوش آمد
+
+تو محو رنگ و بویی، ورنه از هر جنبش خاری
+صریر خامه تقدیر، عارف را به گوش آمد
+
+زدست رد مردم آن که می نالد نمی داند
+که از دست نوازش کوه غم ما را به دوش آمد
+
+خرابات مغان پرجوش بود از شور من صائب
+جهان افسرده شد دیوانه ما تا به هوش آمد

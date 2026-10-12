@@ -1,0 +1,31 @@
+---
+slug: saib-qezel-1132
+sourceId: ganjoor-53329
+titleAz: Qəzəl 1132
+titleRu: Газель 1132
+titleFa: غزل شمارهٔ ۱۱۳۲
+titleEn: Ghazal 1132
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 1062
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1132'
+status: DRAFT
+---
+هر که عاشق نیست خون در پیکرش افسرده ست
+گفتگو با زاهدان تلقین خون مرده است
+
+پشت سر بسیار خواهد دید عمر خضر را
+از دم تیغ شهادت هر که آبی خورده است
+
+در غم عاشق بود هر چند بی پرواست حسن
+فکر بلبل غنچه را سر در گریبان برده است
+
+بوی خون می آید امروز از لب میگون یار
+تا به یاد او که دندان بر جگر افشرده است؟
+
+در غریبی وا شود صائب دل ارباب درد
+غنچه ما تا بود در بوستان پژمرده است

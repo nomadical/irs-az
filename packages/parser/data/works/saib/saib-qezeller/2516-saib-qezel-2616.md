@@ -1,0 +1,28 @@
+---
+slug: saib-qezel-2616
+sourceId: ganjoor-54814
+titleAz: Qəzəl 2616
+titleRu: Газель 2616
+titleFa: غزل شمارهٔ ۲۶۱۶
+titleEn: Ghazal 2616
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 2516
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh2616'
+status: DRAFT
+---
+یوسف ما در دل چه بر سر بازار بود
+این گل از صبح ازل شیدایی دستار بود
+
+پیشطاق شهرت از شعر بلندم رتبه یافت
+اینچنین زلفی رخ این صفحه را در کار بود
+
+کوه و صحرا پر شد از آوازه زنجیر من
+پای صحرا گرد مجنون کی به این پرگار بود؟
+
+صائب این طرز سخن را از کجا آورده ای؟
+هر که را دیدیم داغ طرز این اشعار بود

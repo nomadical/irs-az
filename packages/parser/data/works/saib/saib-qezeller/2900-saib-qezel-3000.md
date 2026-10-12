@@ -1,0 +1,34 @@
+---
+slug: saib-qezel-3000
+sourceId: ganjoor-55198
+titleAz: Qəzəl 3000
+titleRu: Газель 3000
+titleFa: غزل شمارهٔ ۳۰۰۰
+titleEn: Ghazal 3000
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 2900
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3000'
+status: DRAFT
+---
+به رغبت با خم زلفش دل بی‌تاب می‌سازد
+چو آب زندگی با ماهی این قلاب می‌سازد
+
+شود گلزار ابراهیم آتش بر گنهکاران
+دل ما را چنین گر شرم عصیان آب می‌سازد
+
+به احسان ای توانگر دستگیری کن فقیران را
+که دریا بهر ریزش ابر را سیراب می‌سازد
+
+سپهر کج‌رو از جا در نیارد اهل تمکین را
+خس و خاشاک را سرگشته این گرداب می‌سازد
+
+سفیدی‌های مو گفتم شود صبح امید من
+ندانستم که غفلت پرده‌های خواب می‌سازد
+
+وفاداری مجو از دولت هرجایی دنیا
+به یک روزن کجا خورشید عالم‌تاب می‌سازد؟

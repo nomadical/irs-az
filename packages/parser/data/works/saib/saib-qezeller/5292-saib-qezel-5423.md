@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-5423
+sourceId: ganjoor-57621
+titleAz: Qəzəl 5423
+titleRu: Газель 5423
+titleFa: غزل شمارهٔ ۵۴۲۳
+titleEn: Ghazal 5423
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 5292
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5423'
+status: DRAFT
+---
+قبله را تغییر ازان محراب ابرو می کنم
+می روم با آستانش کار یکرو می کنم
+
+می نویسم خط بیزاری به طرف عارضش
+باطل السحری به کار نرگس او می کنم
+
+عجز در درگاه استغنای او کاری نساخت
+می فرستم آه گرمی را ویکرو می کنم
+
+آیه نومیدی از چین جبینش خوانده ام
+همتی یاران وداع آن سرکو می کنم
+
+حسن را در شیوه کامل ساختن حق من است
+چشم آهو را به تعلیمی سخنگو می کنم
+
+می دهم جان در بهای حسن تا در پرده است
+من گل این باغ را در غنچگی بو می کنم
+
+چند با داغ جنون همکاسه باشم سوختم
+مدتی صائب به درد بیغمی خو می کنم

@@ -1,0 +1,34 @@
+---
+slug: saib-qezel-474
+sourceId: ganjoor-52671
+titleAz: Qəzəl 474
+titleRu: Газель 474
+titleFa: غزل شمارهٔ ۴۷۴
+titleEn: Ghazal 474
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 474
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh474'
+status: DRAFT
+---
+چسان گردد تهی از عقد گوهر سینه دریا؟
+که هر موج خطر قفلی است بر گنجینه دریا
+
+ندارد تربیت تأثیر در دلهای ظلمانی
+که عنبر را نسازد پخته جوش سینه دریا
+
+تپیدن گوهرم را قطره سیماب می سازد
+چو می افتم به فکر صحبت دیرینه دریا
+
+به وصل گوهر شهوار آسان نیست پیوستن
+که هر گرداب باشد مهر بر گنجینه دریا
+
+دل پر خون مرا آزاد کرد از قید خودبینی
+که شوید عکس را از چهره ها آیینه دریا
+
+میندیش از غبار معصیت با رحمت یزدان
+که گردد صاف سیلی از سینه بی کینه دریا

@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-770
+sourceId: ganjoor-52967
+titleAz: Qəzəl 770
+titleRu: Газель 770
+titleFa: غزل شمارهٔ ۷۷۰
+titleEn: Ghazal 770
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 700
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh770'
+status: DRAFT
+---
+آشفتگی ز عقل پذیرد دماغ ما
+فانوس گردباد شود بر چراغ ما
+
+چون خون مرده در گل سرخش نشاط نیست
+گویا که ریخت ماتمیی رنگ باغ ما
+
+ماییم و داغی از جگر گل فگارتر
+ناخن مبادش آن که بکاود به داغ ما
+
+ای بخت ما به ظلمت شبهای غم خوشیم
+روغن مکش ز ریگ برای چراغ ما
+
+انجام خود در آینه شیشه دیده است
+پیوند تاک می برد انگور باغ ما
+
+با آن که از شکسته دلی پر نمی زند
+بر گرد سرو شیشه تذروست زاغ ما
+
+صائب ز جویبار حیا آب خورده ایم
+خورشید چشم بسته درآید به باغ ما

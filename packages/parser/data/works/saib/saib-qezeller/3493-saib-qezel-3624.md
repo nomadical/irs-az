@@ -1,0 +1,31 @@
+---
+slug: saib-qezel-3624
+sourceId: ganjoor-55822
+titleAz: Qəzəl 3624
+titleRu: Газель 3624
+titleFa: غزل شمارهٔ ۳۶۲۴
+titleEn: Ghazal 3624
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 3493
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3624'
+status: DRAFT
+---
+سرخوش از صحبت ارباب هوس می آید
+شعله طور ز دلسوزی خس می آید
+
+ناکسی بین که سر از صحبت من می پیچد
+سر زلفی که به دست همه کس می آید
+
+ای گل شوخ که در شیشه گلابت کردند
+هیچ یادت ز اسیران قفس می آید؟
+
+روی گردان نشود صافدل از دشمن خویش
+آخر آیینه به بالین نفس می آید
+
+صائب از گردش چرخ است فغان دل ما
+می رود محمل و آواز جرس می آید

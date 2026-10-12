@@ -1,0 +1,31 @@
+---
+slug: saib-qezel-1188
+sourceId: ganjoor-53385
+titleAz: Qəzəl 1188
+titleRu: Газель 1188
+titleFa: غزل شمارهٔ ۱۱۸۸
+titleEn: Ghazal 1188
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 1118
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1188'
+status: DRAFT
+---
+بی جمالت مردمک آیینه نزدوده ای است
+بی تماشای تو مژگان دست بر هم سوده ای است
+
+عاشقان را بی خرام قامت موزون تو
+سرو در مد نظر، شمشیر زهرآلوده ای است
+
+ماه کز نظاره اش چشم جهانی روشن است
+پیش خورشید جمالت قلب روی اندوده ای است
+
+همت پیران جوانان را به مقصد رهنماست
+بی کمان، تیر سبکرو پای خواب آلوده ای است
+
+نیست غیر از دیده قربانیان، بی چشم زخم
+در همه روی زمین صائب اگر آسوده ای است

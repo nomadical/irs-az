@@ -1,0 +1,34 @@
+---
+slug: saib-qezel-6851
+sourceId: ganjoor-59049
+titleAz: Qəzəl 6851
+titleRu: Газель 6851
+titleFa: غزل شمارهٔ ۶۸۵۱
+titleEn: Ghazal 6851
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 6720
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh6851'
+status: DRAFT
+---
+هزار عقد محبت به این و آن بندی
+همین به کشتن من تیغ بر میان بندی
+
+ترا که هر مژه تیغ کجی است زهرآلود
+چه لازم است که شمشیر بر میان بندی؟
+
+ز تلخ گویی من عیش عالمی تلخ است
+به بوسه ای چه شود گر مرا دهان بندی؟
+
+درین دو هفته که گل می توان ز روی تو چید
+در وصال چه بر روی دوستان بندی؟
+
+به جرم خیرگی بوالهوس مسوز مرا
+گناه گرگ چرا بر سگ شبان بندی؟
+
+چو نیست رنگ وفا بر عذار گل صائب
+درین ریاض چه افتاده آشیان بندی؟

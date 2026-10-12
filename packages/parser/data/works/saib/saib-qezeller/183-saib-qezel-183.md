@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-183
+sourceId: ganjoor-52380
+titleAz: Qəzəl 183
+titleRu: Газель 183
+titleFa: غزل شمارهٔ ۱۸۳
+titleEn: Ghazal 183
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 183
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh183'
+status: DRAFT
+---
+تر نسازد گریه های ابر نیسانی مرا
+جوهر دیگر بود در گوهرافشانی مرا
+
+چون نباشم یک سر و گردن بلند از آفتاب؟
+می کند زخم تو بر گردن گریبانی مرا
+
+گر نمی شد دانه خال تو خضر راه کفر
+سبحه می انداخت در دام مسلمانی مرا
+
+در قیامت هم نخواهم از عتابش شکوه کرد
+زین زبان بندی که کرد آن چین پیشانی مرا
+
+عشق تا دست نوازش بر سر دوشم کشید
+عمر چون کاکل به سر شد در پریشانی مرا
+
+از هوا گیرد خطر را کشتی من چون حباب
+هر نسیمی می تواند کرد طوفانی مرا
+
+ظاهرم گو جلوه گاه صورت دیبا مباش
+بس بود آیینه سان تشریف عریانی مرا

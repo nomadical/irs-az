@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-279
+sourceId: ganjoor-52476
+titleAz: Qəzəl 279
+titleRu: Газель 279
+titleFa: غزل شمارهٔ ۲۷۹
+titleEn: Ghazal 279
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 279
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh279'
+status: DRAFT
+---
+گر به ظاهر چون لب پیمانه خاموشیم ما
+از ته دل چون خم سربسته در جوشیم ما
+
+گر در آن محراب ابرو نیست ما را راه حرف
+از دعاگویان آن صبح بناگوشیم ما
+
+از نسیمی می شود بنیاد ما زیر و زبر
+بحر هستی را حباب خانه بر دوشیم ما
+
+رزق ما از شهد چون زنبور غیر از نیش نیست
+ورنه این میخانه را صهبای سرجوشیم ما
+
+از دل روشن رگ خواب جهان در دست ماست
+گر به ظاهر همچو چشم یار مدهوشیم ما
+
+نعل وارونی بود خمیازه آغوش ما
+ورنه همچون موج با دریا هم آغوشیم ما
+
+گرچه فانوس خیالیم این زمان صائب ز فکر
+چشم تا بر هم زنی، خواب فراموشیم ما

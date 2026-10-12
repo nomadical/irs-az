@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-5367
+sourceId: ganjoor-57565
+titleAz: Qəzəl 5367
+titleRu: Газель 5367
+titleFa: غزل شمارهٔ ۵۳۶۷
+titleEn: Ghazal 5367
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 5236
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5367'
+status: DRAFT
+---
+شد ز بیقدری غبار دیده ها شعر ترم
+مهره گل گشت از گرد کسادی گوهرم
+
+بس که کشتی را به خشکی بست پیر میفروش
+دست خواهش چون سبو شد خشک درزیر سرم
+
+گفتم از می گرد کلفت را فرو شویم زدل
+می چو داغ لاله خون مرده شد در ساغرم
+
+عندلیبی را دهن پر زر نکردم در بهار
+عاقبت چون گل به کوری خرج آتش شد زرم
+
+گرچه پیری آتش شوق مرا خاموش کرد
+می شود روشن چراغ مرده از خاکسترم
+
+غوطه در دریای آتش تا ز یکرنگی زدم
+چون سمندر جوشن داود شد بال و پرم
+
+دیده من تا به خورشید جمال او فتاد
+می کند رقص روانی در چشم ترم

@@ -1,0 +1,31 @@
+---
+slug: saib-qezel-805
+sourceId: ganjoor-53002
+titleAz: Qəzəl 805
+titleRu: Газель 805
+titleFa: غزل شمارهٔ ۸۰۵
+titleEn: Ghazal 805
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 735
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh805'
+status: DRAFT
+---
+از بدگهری می شکند گوهر رز را
+در دل چه گره هاست ز زاهد بر رز را
+
+حاشا که گذارد کرم ساقی کوثر
+در گلشن فردوس ملامتگر رز را
+
+یک دانه انگور به زاهد مچشانید
+حیف است فکندن به وبال اختر رز را
+
+ای شیشه می چند دهن بسته نشینی؟
+با جام بکن عقد روان دختر رز را
+
+صائب اگر از نشأه می چشم دهی آب
+از آب گهر سبز نمایی سر رز را

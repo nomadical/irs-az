@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-4104
+sourceId: ganjoor-56302
+titleAz: Qəzəl 4104
+titleRu: Газель 4104
+titleFa: غزل شمارهٔ ۴۱۰۴
+titleEn: Ghazal 4104
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 3973
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4104'
+status: DRAFT
+---
+انگور ما رسید و به خم رفت وباده شد
+شکر خدا که عقده مشکل گشاده شد
+
+قدر سخن بجا چو بود بیش می شود
+نازل شود بهای نگین چون پیاده شد
+
+فرش است نور زنده دلی در سرای من
+تا لوح من چو آینه از نقش ساده شد
+
+دامن شود بر آتش یعقوب پیرهن
+از نامه شوق من به عزیزان زیاده شد
+
+از چار پای جسم فرودآ که شد سوار
+عیسی به دوش چرخ چوزین خر پیاده شد
+
+ابروی یار تن به کشیدن نمی دهد
+وریه کمان چرخ ز آهم کباده شد
+
+صائب به نفس دون بود آزادگی گران
+بی اعتبار گشت چو سگ بی قلاده شد

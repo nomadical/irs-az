@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-121
+sourceId: ganjoor-52318
+titleAz: Qəzəl 121
+titleRu: Газель 121
+titleFa: غزل شمارهٔ ۱۲۱
+titleEn: Ghazal 121
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 121
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh121'
+status: DRAFT
+---
+خُلقِ خوش در نوبهار عافیت دارد مرا
+خاکساری در حصار عافیت دارد مرا
+
+تا چه بدمستی ز من سرزد که دوُرِ روزگار
+در کشاکش از خمار عافیت دارد مرا
+
+آسمان گر از خزانِ درد پامالم کند
+بهْ که سرسبز از بهار عافیت دارد مرا
+
+تا سبو بر دوش دارم از خمار آسوده‌ام
+مِی‌کِشی در زیر بار عافیت دارد مرا
+
+صبحِ محشر شور در عالم فکند و همچنان
+آسمان امیدوار عافیت دارد مرا
+
+شُکرِ زنجیرِ جنون بر گردنِ من واجب است
+مدّتی شد در حصار عافیت دارد مرا
+
+اهلِ دُردی نیست صائب زین همه دُردی‌کشان
+تا به جامی شرمسار عافیت دارد مرا

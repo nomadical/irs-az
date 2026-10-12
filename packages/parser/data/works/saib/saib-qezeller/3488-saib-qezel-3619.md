@@ -1,0 +1,34 @@
+---
+slug: saib-qezel-3619
+sourceId: ganjoor-55817
+titleAz: Qəzəl 3619
+titleRu: Газель 3619
+titleFa: غزل شمارهٔ ۳۶۱۹
+titleEn: Ghazal 3619
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 3488
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3619'
+status: DRAFT
+---
+چشم دارم که مه نو سفرم باز آید
+روشنی بخش چراغ نظرم باز آید
+
+چون صدف مشرق خمیازه شده است آغوشم
+به امیدی که گرامی گهرم باز آید
+
+نفس پا به رکابم دم عیسی گردد
+اگر آن مایه جانها ز درم باز آید
+
+به پر کاغذی از آتش هجران گذرم
+نامه در دست اگر نامه برم باز آید
+
+به تماشای سر زلف تو عقل از سر من
+نه چنان رفت که دیگر به سرم باز آید
+
+صائب از عمر گرامی گروی می گیرم
+اگر آن سرو خرامان ز درم باز آید

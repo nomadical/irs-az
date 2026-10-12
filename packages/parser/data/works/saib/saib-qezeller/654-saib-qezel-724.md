@@ -1,0 +1,40 @@
+---
+slug: saib-qezel-724
+sourceId: ganjoor-52921
+titleAz: Qəzəl 724
+titleRu: Газель 724
+titleFa: غزل شمارهٔ ۷۲۴
+titleEn: Ghazal 724
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 654
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh724'
+status: DRAFT
+---
+ابروی او نرفت ز مد نظر مرا
+در زیر تیغ، زندگی آمد بسر مرا
+
+دارم چو شمع گردنی از موم نرمتر
+تیغ برهنه است نسیم سحر مرا
+
+زخم زبان مرا نتواند گرفته ساخت
+دل وا شود چو آبله از نیشتر مرا
+
+بر رشته گسسته عمر سبک عنان
+باشد خطر چو سبحه ز صد رهگذر مرا
+
+هر چند بگسلد رگ جان، نگسلم ازو
+پیوند دیگرست به موی کمر مرا
+
+پیری مرا به گوشه عزلت دلیل شد
+بال شکسته شد به قفس راهبر مرا
+
+تا در کمند رشته هستی فتاده ام
+دل خوردن است کار چو عقد گهر مرا
+
+صائب دو عالم از اثر توتیای فقر
+افتاد چون دو قطره اشک از نظر مرا

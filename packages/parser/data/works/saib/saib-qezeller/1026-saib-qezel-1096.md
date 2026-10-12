@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-1096
+sourceId: ganjoor-53293
+titleAz: Qəzəl 1096
+titleRu: Газель 1096
+titleFa: غزل شمارهٔ ۱۰۹۶
+titleEn: Ghazal 1096
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 1026
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1096'
+status: DRAFT
+---
+چرخ را خون شفق در دل ز استغنای اوست
+رنگ زرد آفتاب از آتش سودای اوست
+
+از علم غافل نگردد لشکری در کارزار
+فتنه روی زمین را چشم بر بالای اوست
+
+آن که کوه صبر ما را سر به صحرا داده است
+کوه طور از وحشیان دامن صحرای اوست
+
+آرزو در دل، نگه در چشم سوزد خلق را
+از حیا نوری که در آیینه سیمای اوست
+
+هست دیوان قیامت را اگر بسم اللهی
+پیش ارباب بصیرت، قامت رعنای اوست
+
+آن که ما را سر به صحرا داده چون موج سراب
+در لباس شبروان آب خضر جویای ماست
+
+عشق هیهات است گردد جمع صائب با خرد
+هر سری کز عقل خالی شد پر از سودای اوست

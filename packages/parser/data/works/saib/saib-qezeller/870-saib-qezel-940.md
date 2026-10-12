@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-940
+sourceId: ganjoor-53137
+titleAz: Qəzəl 940
+titleRu: Газель 940
+titleFa: غزل شمارهٔ ۹۴۰
+titleEn: Ghazal 940
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 870
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh940'
+status: DRAFT
+---
+شکر این آب و علف ضایع کنان یک دم بجاست
+شکر ارباب سخن باقی است تا عالم بجاست
+
+می کند اشک ندامت پاک، دل را از گناه
+نیست از دوزخ غمی تا دیده پر نم بجاست
+
+بی کشاکش نیست عیسی گر برآید بر فلک
+چشم سوزن می پرد تا رشته مریم بجاست
+
+کعبه حاجت روا را چشم زخمی لازم است
+گر رگ تلخی بود با چشمه زمزم، بجاست
+
+نیست بر صاحبدلان دستی هوای نفس را
+باد در دست سلیمان است تا خاتم بجاست
+
+نام فانی را اثر بخشد حیات جاودان
+تا نیفتاده است جام از دور، نام جم بجاست
+
+لازم شمع است صائب اشک و آه آتشین
+تا اثر از زندگانی هست، درد و غم بجاست

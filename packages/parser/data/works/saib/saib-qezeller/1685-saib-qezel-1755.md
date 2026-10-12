@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-1755
+sourceId: ganjoor-53952
+titleAz: Qəzəl 1755
+titleRu: Газель 1755
+titleFa: غزل شمارهٔ ۱۷۵۵
+titleEn: Ghazal 1755
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 1685
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1755'
+status: DRAFT
+---
+به نیم جلوه کسی کشوری بهم نزده است
+به یک پیاده کسی لشکری بهم نزده است
+
+ز چشم شوخ تو شد ملک صبر زیر و زبر
+به یک نگاه کسی کشوری بهم نزده است
+
+مرا به بلبل تصویر، رحم می آید
+که در هوای تو بال و پری بهم نزده است
+
+هوای خانه بود چون حباب دشمن من
+بساط عیش مرا صرصری بهم نزده است
+
+ز اشتیاق تو بر هم زدم دو عالم را
+به این نشاط، دو کف دیگری بهم نزده است
+
+شمار داغ مرا بوالهوس چه می داند؟
+ز پاره های جگر دفتری بهم نزده است
+
+سری به عالم آسودگی بکش صائب
+ترا که کاکل سیمین بری بهم نزده است

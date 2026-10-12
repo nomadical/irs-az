@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-3683
+sourceId: ganjoor-55881
+titleAz: Qəzəl 3683
+titleRu: Газель 3683
+titleFa: غزل شمارهٔ ۳۶۸۳
+titleEn: Ghazal 3683
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 3552
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3683'
+status: DRAFT
+---
+ملایمت سپر خصم تندخو گردد
+شراب شیشه شکن عاجز کدو گردد
+
+به چشم خویش جهان را سیه کند چو عقیق
+ز ساده لوحی خود هرکه نامجو گردد
+
+صدف عبث دهنی باز می کند به سؤال
+گهر چگونه برابر به آبرو گردد؟
+
+کنند بوی شناسان غلط به ناف غزال
+ز نقش پای تو خاکی که مشکبو گردد
+
+رخی که دیده خورشید ازو پرآب شده است
+چه لایق است به آیینه روبرو گردد؟
+
+همیشه سبز بود حرف هرکه چون طوطی
+ز وصل آینه قانع به گفتگو گردد
+
+ز چار موجه به ساحل رساند کشتی خویش
+ز خلق هرکه چو صائب کناره جو گردد

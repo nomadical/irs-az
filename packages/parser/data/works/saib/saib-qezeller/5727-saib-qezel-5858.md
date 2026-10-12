@@ -1,0 +1,31 @@
+---
+slug: saib-qezel-5858
+sourceId: ganjoor-58056
+titleAz: Qəzəl 5858
+titleRu: Газель 5858
+titleFa: غزل شمارهٔ ۵۸۵۸
+titleEn: Ghazal 5858
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 5727
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5858'
+status: DRAFT
+---
+ما همچو آفتاب به هرجا رسیده‌ایم
+هر کوچه‌ای که هست به عالم دویده‌ایم
+
+وحشت کنیم ازآن که به خلق است آشنا
+ما چون غزال، رام زهر خود رمیده‌ایم
+
+گر خون عرق کنیم چو خورشید دور نیست
+باری که آسمان نکشد ما کشیده‌ایم
+
+چون میوه پخته گشت گرانی برد ز باغ
+ما بار نخل چون ثمر نارسیده‌ایم
+
+دل‌های مرده را ز دمی زنده کرده‌ایم
+هرجا که همچو صبح قیامت دمیده‌ایم

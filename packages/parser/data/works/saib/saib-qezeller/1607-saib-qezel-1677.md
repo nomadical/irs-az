@@ -1,0 +1,34 @@
+---
+slug: saib-qezel-1677
+sourceId: ganjoor-53874
+titleAz: Qəzəl 1677
+titleRu: Газель 1677
+titleFa: غزل شمارهٔ ۱۶۷۷
+titleEn: Ghazal 1677
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 1607
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1677'
+status: DRAFT
+---
+حضور خاطر اگر در نماز معتبرست
+امید ما به نماز نکرده بیشترست
+
+به گرمی جگر ما دل که خواهد سوخت؟
+درین بساط که خورشید آتشین جگرم
+
+شرر به آتش و شبنم به بوستان برگشت
+حضور خاطر عاشق هنوز در سفرست
+
+ز دار و گیر خزان و بهار آسوده است
+چو سرو هر که درین روزگار بی ثمرست
+
+حباب کسب هوا می کند ز بی بصری
+درین محیط که کشتی نوح در خطرست
+
+دمید صبح قیامت، رسید روز جزا
+هنوز صائب مغرور مست و بیخبرست

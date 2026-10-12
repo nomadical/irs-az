@@ -1,0 +1,33 @@
+---
+slug: saib-perakende-72
+sourceId: ganjoor-59380
+titleAz: Pərakəndə şeir 72
+titleRu: Отдельное стихотворение 72
+titleFa: شمارهٔ ۷۲
+titleEn: Miscellaneous poem 72
+authorSlug: saib
+collectionSlug: saib-perakende
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 72
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/motefarreghat/sh72'
+status: DRAFT
+---
+سبزه خط تو راه دل آگاه زده است
+این چه خضرست ندانم که مرا راه زده است
+
+راهزن نیست در آن دشت که من سیارم
+تا برون رفته‌ام از راه، مرا راه زده است
+
+دامن پاک بود شرط هم آغوشی حسن
+گل شبنم زده را ره به گریبانش نیست
+
+گر چنین افسون غفلت پنبه در گوشم نهد
+کاسه سر را خطر از خواب سنگین من است
+
+(داغ دارد بلبلان را شعله آواز من
+شاخ گل در خون ز مصرع‌های رنگین من است)
+
+(گرچه مرجان پنجه با دریای خونین می‌زند
+کی حریف پنجه دریای خونین من است)

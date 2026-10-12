@@ -1,0 +1,28 @@
+---
+slug: saib-qezel-1981
+sourceId: ganjoor-54178
+titleAz: Qəzəl 1981
+titleRu: Газель 1981
+titleFa: غزل شمارهٔ ۱۹۸۱
+titleEn: Ghazal 1981
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 1911
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh1981'
+status: DRAFT
+---
+امروز قدر نکته موزون نمانده است
+انصاف در قلمرو گردون نمانده است
+
+هیچ است صد رساله حکمت به چشم ما
+بهتر ز خم اثر ز فلاطون نمانده است
+
+یک عمر می توان سخن از زلف یار گفت
+در بند آن مباش که مضمون نمانده است
+
+صائب پیاله گیر که تا کرده ای نگاه
+یک خشت از عمارت گردون نمانده است

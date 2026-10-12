@@ -1,0 +1,34 @@
+---
+slug: saib-qezel-14
+sourceId: ganjoor-52211
+titleAz: Qəzəl 14
+titleRu: Газель 14
+titleFa: غزل شمارهٔ ۱۴
+titleEn: Ghazal 14
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 14
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh14'
+status: DRAFT
+---
+می‌توان در زلفِ او دیدن دلِ بی‌تاب را
+پرده‌‌پوشی چون کند شب گوهرِ شب‌تاب را
+
+غیرتِ طاقِ دلاویزِ خمِ ابروی او
+همچو ناخن می‌خراشد سینهٔ محراب را
+
+دیدهٔ حسرت عنانِ عمر نتواند گرفت
+هیچ دامی مانع از جولان نگردد آب را
+
+چون عنان‌داری کنم دل را، که چشمِ شوخِ او
+شهپرِ پرواز می‌گردد دل‌ِ بی‌‌تاب را
+
+در لباسِ عاریت چون ابر آرامش مجو
+برق زیرِ پوست باشد جامهٔ سنجاب را
+
+خاکیان را بحرِ رحمت می‌کند روشنگری
+موجهٔ دریاست صیقل، ظلمتِ سیلاب را

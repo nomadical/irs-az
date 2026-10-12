@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-6451
+sourceId: ganjoor-58649
+titleAz: Qəzəl 6451
+titleRu: Газель 6451
+titleFa: غزل شمارهٔ ۶۴۵۱
+titleEn: Ghazal 6451
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 6320
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh6451'
+status: DRAFT
+---
+عشق صیادی است گردون حلقه فتراک او
+هر دو عالم در رکاب توسن چالاک او
+
+تا که را از خاک برگیرد، که را در خون کشد
+ناوک مشکل پسند غمزه بی باک او
+
+کشته پیکان او را شستشو در کار نیست
+می تراود چشمه کوثر ز شست پاک او
+
+کیست در روی زمین با او تواند دست کوفت؟
+کآسمان با این زبردستی بود در خاک او
+
+جوهر غیرت بر او ختم است از صاحبدلان
+می گریزد برق عالمسوز از خاشاک او
+
+چون پر پروانه سوزد پرده افلاک را
+چون برافروزد ز می رخسار آتشناک او
+
+صائب از نخجیرگاه او به ناکامی بساز
+نیست هر صید زبون شایسته فتراک او
