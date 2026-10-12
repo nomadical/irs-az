@@ -209,7 +209,27 @@
     "iioTise": "house",
     "tunel": "tuneful",
     "Amiil": "Amul",
-    "kabahs": "kababs"
+    "kabahs": "kababs",
+    "nule": "mile",
+    "JIahan": "Mahan",
+    "thinh": "think",
+    "gbiils": "ghuls",
+    "aheady": "already",
+    "flowiag": "flowing",
+    "mulaM": "mulahi",
+    "PomegraBates": "Pomegranates",
+    "irom": "from",
+    "BismiQah": "Bismillah",
+    "nly": "my",
+    "lihe": "like",
+    "stdl": "still",
+    "wUl": "will",
+    "ffled": "filled",
+    "stiulang": "stinking",
+    "whohy": "wholly",
+    "cohar": "collar",
+    "feh": "fell",
+    "Malud": "Mahmud"
   },
   "corrections": [
     {
@@ -539,6 +559,54 @@
     {
       "from": "the air without “ ahf ”",
       "to": "the air without “alif”"
+    },
+    {
+      "from": "was &ee.",
+      "to": "was free."
+    },
+    {
+      "from": "Rose-garden soTight lie,",
+      "to": "Rose-garden sought he,"
+    },
+    {
+      "from": "anyone’ sJention give no beed",
+      "to": "anyone’s attention give no heed"
+    },
+    {
+      "from": "had turned to Rinks of",
+      "to": "had turned to sinks of"
+    },
+    {
+      "from": "wholly bash-scented wine had ah become",
+      "to": "wholly basil-scented wine had all become"
+    },
+    {
+      "from": "what tie is this 1 what collar",
+      "to": "what tie is this? what collar"
+    },
+    {
+      "from": "A rViti drawn over blood",
+      "to": "A skin drawn over blood"
+    },
+    {
+      "from": "(So) lie made search",
+      "to": "(So) he made search"
+    },
+    {
+      "from": "WThat (else) am II",
+      "to": "What (else) am I?"
+    },
+    {
+      "from": "“ ghuls ”",
+      "to": "“ghuls”"
+    },
+    {
+      "from": "and then ad&' me",
+      "to": "and then admit me"
+    },
+    {
+      "from": "instead of verdure,\" flowers",
+      "to": "instead of verdure, flowers"
     }
   ],
   "sections": [

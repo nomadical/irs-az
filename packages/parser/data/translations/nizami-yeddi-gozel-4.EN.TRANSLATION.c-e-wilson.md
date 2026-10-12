@@ -102,7 +102,7 @@ A work more sweet than plates of honey-comb — should not munificence attend to
 
 But why think of munificence and work? The thing depends on Fortune, I am naught.
 
-Firdausi’s bounty, Malud’s stinginess, on Sagittarius and Scorpio lay.
+Firdausi’s bounty, Mahmud’s stinginess, on Sagittarius and Scorpio lay.
 
 He favoured Asadi who had Alif ”, the ascendant and its subject were at one.
 
@@ -124,7 +124,7 @@ For such a spell which is by genius taught put on new dress, for ’tis the New 
 
 From evil genii keep it so concealed that it be seen by none but Solomon.
 
-Seek me from it, for ’tis my essence, know. WThat (else) am II A piece of skin (still) left.
+Seek me from it, for ’tis my essence, know. What (else) am I? A piece of skin (still) left.
 
 Without the ring’s inscription I’m but wax, (wax) free from both the honey and the bee,
 

@@ -108,7 +108,7 @@ Though from fatigue the former lagged behind, the leader, calling to the laggard
 
 The partner vanished (then) from Mahan’s sight; Mahan was (almost) crazy left astray.
 
-The bird of early morning spread its wings, the brain of night from fantasies was &ee.
+The bird of early morning spread its wings, the brain of night from fantasies was free.
 
 Then the man’s eyes by fantasy enchained, escaped from the deceit of fancy’s play.
 
@@ -120,7 +120,7 @@ When from the hotness of the sun his head grew hotter than the fire within his h
 
 He opened eyes to gaze upon the road, he gave a glance around on every side.
 
-Rose-garden soTight lie, but he saw no rose, saw nothing but a trouble-branded heart.
+Rose-garden sought he, but he saw no rose, saw nothing but a trouble-branded heart.
 
 Cave upon cave he saw as his abode, than dragon larger was the snake in each.
 
@@ -176,7 +176,7 @@ I and this woman are your friends and mates; we both will be your guardians on t
 
 Be stout of heart and walk between us two; go with us foot for foot and step for step.
 
-Mahan proceeded (then) between those guides, and traversed mile by nule the road (with them).
+Mahan proceeded (then) between those guides, and traversed mile by mile the road (with them).
 
 Till early dawn they uttered not a word, save after one another took no step.
 
@@ -188,13 +188,13 @@ Again Mahan fell down (upon the ground), sat where he was, dejected and fatigued
 
 When day diffused its light (throughout the earth), and earth inclined to shed the blood of night,
 
-All through a narrow gorge JIahan went on, mount upon mount he saw, a narrow pass.
+All through a narrow gorge Mahan went on, mount upon mount he saw, a narrow pass.
 
 His strength departed, for there was no food, — no food there was except regret and pain. o
 
-(So) lie made search for roots and seeds of herbs, and ate them few by few in place of bread.
+(So) he made search for roots and seeds of herbs, and ate them few by few in place of bread.
 
-He could not thinh of staying from the road; his travel he pursued and went along.
+He could not think of staying from the road; his travel he pursued and went along.
 
 (Then) crept into a cave and slept awhile, concealed his face from those who were concealed.
 
@@ -248,7 +248,7 @@ From all sides came the sound of the guitar, the plaint of lute, the dulcet tone
 
 On that side rose the cry, come hither, come! on this, the cry. May the cup give you life!
 
-On all the plain, instead of verdure," flowers, innumerable “ ghuls ” and ceaseless noise.
+On all the plain, instead of verdure, flowers, innumerable “ghuls” and ceaseless noise.
 
 Mountain and plain were worn out by the divs: the mountain took the plain, the plain the mount.
 
@@ -266,7 +266,7 @@ When a short time had gone by, from afar a thousand torches (all) aflame appeare
 
 (And) suddenly some persons came to view, forms cast in tall and formidable mould.
 
-All of them “ gbiils ” like blackest Ethiops; pitchlike the dress of all, like tar their caps.
+All of them “ghuls” like blackest Ethiops; pitchlike the dress of all, like tar their caps.
 
 All with the trunks of elephants and homed, combining oz and elephant in one.
 
@@ -340,9 +340,9 @@ He said, ’Tis best that I should rest at night, for through the night my mind 
 
 I (now) indeed in atrabilious mood, an air (so) dry, a road of solitude, —
 
-How should oppressive fancies not prevail? my mind’s (aheady) crushed with fancy’s play.
+How should oppressive fancies not prevail? my mind’s (already) crushed with fancy’s play.
 
-When he saw verdant ground and flowiag stream, his old heart like (his) fortune became young.
+When he saw verdant ground and flowing stream, his old heart like (his) fortune became young.
 
 He drank some water of the stream, and bathed, (and then) he sought a place wherein to sleep.
 
@@ -398,7 +398,7 @@ The honey of its; figs, its almond-nuts, were to its bowl as cups of paludah.
 
 Its grape-vines (with their) hats set (all) awry saw under their control both white and black:
 
-The raziqi, mulaM, jazari, the budari, gulabi, shakari.
+The raziqi, mulahi, jazari, the budari, gulabi, shakari.
 
 A garden, a magician in the spells of (its) abundant buds of varied hue.
 
@@ -408,7 +408,7 @@ The juice of grape and pomegranate fire-hued bore witness of blood-shedding for 
 
 When such a paradise Mahan had found, he turned his heart from last night's hell-abode.
 
-PomegraBates, jujubes, apples, fruit on fruit, — like sappan red, like pure white sugar too.
+Pomegranates, jujubes, apples, fruit on fruit, — like sappan red, like pure white sugar too.
 
 From the delight such honeyed draughts conferred, the smacking of his lips came to (his) ears.
 
@@ -428,7 +428,7 @@ What person are you; of what lineage known? who are you, what are you, what are 
 
 When the old man used such words to Mahan, the poor man (nearly) perished at the words.
 
-He said, I am a stranger, and have strayed far irom my home into an unknown place.
+He said, I am a stranger, and have strayed far from my home into an unknown place.
 
 Put up with strangers who have suffered pain, that heaven may call you cherisher of such.
 
@@ -478,13 +478,13 @@ I was bewildered, (knew not) what to do, quite innocent, yet weeping with distre
 
 Sometimes my eyes would lead me to complain, sometimes I stroked my eyes (to wipe the tears).
 
-(Then) I went forth and hastened on the way, — this with “ La haul ”, and that with “ BismiQah ”,
+(Then) I went forth and hastened on the way, — this with “ La haul ”, and that with “ Bismillah ”,
 
 Until (at last) God saved me from my woes, and changed my darkness to the Stream of Life.
 
 I found a garden sweeter than Iram; a gard’ner still more charming than the same.
 
-My terror of last night has left me now; to-night nly wish tends towards security.
+My terror of last night has left me now; to-night my wish tends towards security.
 
 The old man said, O you who’ve care escaped, and paradise’s sanctuary reached,
 
@@ -588,9 +588,9 @@ Until I come be patient in (your) place; descend not from your sleeping-place at
 
 Whoever questions you, lend not your ear; keep silence, and no word in answer speak.
 
-By no one’s courtesy be you beguiled, to anyone’ sJention give no beed.
+By no one’s courtesy be you beguiled, to anyone’s attention give no heed.
 
-If I should come, for some assurance ask, and then ad&' me to your safe retreat.
+If I should come, for some assurance ask, and then admit me to your safe retreat.
 
 Since in all earnestness between us two a close and lively friendship has been fixed,
 
@@ -660,11 +660,11 @@ Since (too) his nature was refined and keen, — when the sweet music and the so
 
 He wished to find some excellent device to get down quickly from his airy (perch):
 
-And with such beauties, huri-lihe in make, to be in heaven without the Judgment Day.
+And with such beauties, huri-like in make, to be in heaven without the Judgment Day.
 
 Again, he brought to mind the old man’s words, he held in check the struggling of his heart.
 
-And stdl those idols in their sport and play showed all deluding and beguiling art.
+And still those idols in their sport and play showed all deluding and beguiling art.
 
 When they had spent some time in merriment, they placed a tray, on feasting set their minds;
 
@@ -686,7 +686,7 @@ A share of perfume it has given my brain, — but is content of mind, or perfume
 
 It seems (to me) that one of friendly mind is on the tree, and harbours some desire.
 
-(Go), call him down for fellowship (with me), that I may play his fancies (at my wUl).
+(Go), call him down for fellowship (with me), that I may play his fancies (at my will).
 
 If he come not, (then) say the tray’s prepared, (but that) love for the guest is (far) too great
 
@@ -780,7 +780,7 @@ Beneath that pitch-like dragon he became — (without description) you must take
 
 He shrieked aloud like any child in fright, or woman in the pain of giving birth.
 
-And that black monster like the (famed) White Div the willow with her kisses would have ffled.
+And that black monster like the (famed) White Div the willow with her kisses would have filled.
 
 Until the (first) light of the dawn appeared, the cock crowed, and the demon fied away.
 
@@ -810,31 +810,31 @@ Those (costly) tissues (all) adorned with gems (were now ah) leather sis, with t
 
 The sandal-tree and carpets honeycombed had camphor-like evaporated (all).
 
-Tanks (clear) as eyes reflecting honour’s soul had turned to Rinks of putrid, stiulang lymph.
+Tanks (clear) as eyes reflecting honour’s soul had turned to sinks of putrid, stinking lymph.
 
 And that which had been left of (all) the food; that which remained in the cupbearers’ jugs.
 
 Was refuse, in its nature ordurous; was percolation, ah, of (oozing) sores.
 
-That which was whohy bash-scented wine had ah become a cesspool’s filthy flow.
+That which was wholly basil-scented wine had all become a cesspool’s filthy flow.
 
 A gain Mahan despaired of his affairs; God’s pardon and protection he invoked.
 
 To set out on the way he had no power, nor had he daring (in the place) to stay.
 
-He pondered thus, It is a wondrous thing; what tie is this 1 what cohar (round my neck)?
+He pondered thus, It is a wondrous thing; what tie is this? what collar (round my neck)?
 
 To see a flowering garden yesternight; to see a place of misery to-day!
 
 What meant a show of roses and (then) thorns? What gain is in the produce of earth’s fields?
 
-And he knew not that all that we possess is a (feh) dragon hid beneath a moon.
+And he knew not that all that we possess is a (fell) dragon hid beneath a moon.
 
 If they cast down the veil you (then) will see to what things foolish men devote their love.
 
 These Grecian and these Chinese figures, all, are ugly Ethiopians when you look.
 
-A rViti drawn over blood (presents to view) wine outside, but a cesspool ’tis within.
+A skin drawn over blood (presents to view) wine outside, but a cesspool ’tis within.
 
 If they took off from us these veins and skin, (all love would cease), a dust-heap no one loves.
 
