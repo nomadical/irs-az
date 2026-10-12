@@ -64,6 +64,11 @@ export function loadSplitConfig(id: string): SplitConfig {
 
 /** The poem's verse lines in order, footnotes and page furniture gone, wrapped lines rejoined */
 export async function poemLines(cfg: SplitConfig, opts: { sections?: boolean } = {}): Promise<string[]> {
+  return (await poemPageLines(cfg, opts)).map((l) => l.text);
+}
+
+/** The poem's lines with the scan page each comes from (0-based), for proofreading */
+export async function poemPageLines(cfg: SplitConfig, opts: { sections?: boolean } = {}): Promise<{ page: number; text: string }[]> {
   const meta = await cachedGetJson<{ result: { name: string }[] }>(`https://archive.org/metadata/${cfg.archiveId}/files`);
   const xmlName = meta.result.find((f) => f.name.endsWith('_djvu.xml'))?.name;
   if (!xmlName) throw new Error(`No OCR word positions in ${cfg.archiveId}`);
@@ -84,7 +89,7 @@ export async function poemLines(cfg: SplitConfig, opts: { sections?: boolean } =
     margins.set(page, xs[Math.floor(xs.length / 2)] ?? 0);
   }
 
-  const out: string[] = [];
+  const out: { page: number; text: string }[] = [];
   let afterBreak = true; // a heading or prose was the last thing read
   for (const l of lines.slice(start, end + 1)) {
     const text = norm(l.text);
@@ -95,13 +100,13 @@ export async function poemLines(cfg: SplitConfig, opts: { sections?: boolean } =
       continue;
     }
     if (cfg.prose && (l.x < cfg.prose.left || (afterBreak && l.right >= cfg.prose.right))) {
-      if (out.length && out[out.length - 1] !== GAP) out.push(GAP);
+      if (out.length && out[out.length - 1].text !== GAP) out.push({ page: l.page, text: GAP });
       afterBreak = true;
       continue;
     }
     // Page numbers, signature letters, section numerals (kept as "§ IV" for aligning by hand)
     if (/^([\divxlcIVXLC.\s]{1,7}|[A-Z])$/.test(text)) {
-      if (opts.sections && /^[ivxlcIVXLC]+\.?$/.test(text) && l.height === 0 && l.x > (margins.get(l.page) ?? 0) + 150) out.push(`§ ${text}`);
+      if (opts.sections && /^[ivxlcIVXLC]+\.?$/.test(text) && l.height === 0 && l.x > (margins.get(l.page) ?? 0) + 150) out.push({ page: l.page, text: `§ ${text}` });
       continue;
     }
     if (l.height > 0 && l.height < cfg.noteHeight) continue;
@@ -109,14 +114,14 @@ export async function poemLines(cfg: SplitConfig, opts: { sections?: boolean } =
     // left of it, the last words of a footnote
     const margin = margins.get(l.page) ?? l.x;
     if (/^[a-zа-яё]/.test(text) && text.split(' ').length <= 3) {
-      if (out.length && l.x > margin + 60) out[out.length - 1] += ` ${text}`;
+      if (out.length && l.x > margin + 60) out[out.length - 1].text += ` ${text}`;
       continue;
     }
-    out.push(text);
+    out.push({ page: l.page, text });
     afterBreak = false;
   }
   // Superscript footnote markers read as digits or stray letters after a word: "Saki,1", "veil l o'er"
-  return out.map((t) => t.replace(/([A-Za-z,;:.!?'’])\d\b/g, '$1').replace(/\s+([,;:.!?])/g, '$1').trim());
+  return out.map((l) => ({ page: l.page, text: l.text.replace(/([A-Za-z,;:.!?'’])\d\b/g, '$1').replace(/\s+([,;:.!?])/g, '$1').trim() }));
 }
 
 export async function planSplit(cfg: SplitConfig): Promise<{ translations: SplitTranslation[]; unusedCorrections: string[] }> {
