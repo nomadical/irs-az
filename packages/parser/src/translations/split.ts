@@ -23,6 +23,8 @@ export interface SplitConfig {
   year: number;
   translatorNote?: string;
   workSlugBase: string;
+  /** The translation's language (EN unless stated) */
+  language?: 'EN' | 'RU';
   /** Letter height (scan pixels) below which a line is a footnote */
   noteHeight: number;
   /** The poem's first and last lines, as printed */
@@ -34,7 +36,19 @@ export interface SplitConfig {
   starts: Record<string, string>;
   /** Proofreading corrections, checked against the scan: exact text or a pattern */
   corrections?: ({ from: string; to: string } | { pattern: string; flags?: string; to: string })[];
+  /** Lines in capitals are headings and running heads, not verse */
+  dropCaps?: boolean;
+  /**
+   * An editor's prose set between the verse (summaries of omitted chapters): its lines start
+   * left of `left`, and its first, indented line runs out to `right`. A verse line can run that
+   * far too, so the right edge only counts right after a heading or another prose line.
+   * Each dropped passage leaves a "[…]" between the verse on either side.
+   */
+  prose?: { left: number; right: number };
 }
+
+/** Where an editor's prose summary stood between verse passages */
+const GAP = '[…]';
 
 export interface SplitTranslation {
   workSlug: string;
@@ -71,10 +85,20 @@ export async function poemLines(cfg: SplitConfig, opts: { sections?: boolean } =
   }
 
   const out: string[] = [];
+  let afterBreak = true; // a heading or prose was the last thing read
   for (const l of lines.slice(start, end + 1)) {
     const text = norm(l.text);
     // Running heads, and the rows of asterisks between scenes
     if (!text || heads.test(text) || /^[*•■\s]+$/.test(text)) continue;
+    if (cfg.dropCaps && /\p{Lu}{3}/u.test(text) && !/\p{Ll}{2}/u.test(text)) {
+      afterBreak = true;
+      continue;
+    }
+    if (cfg.prose && (l.x < cfg.prose.left || (afterBreak && l.right >= cfg.prose.right))) {
+      if (out.length && out[out.length - 1] !== GAP) out.push(GAP);
+      afterBreak = true;
+      continue;
+    }
     // Page numbers, signature letters, section numerals (kept as "§ IV" for aligning by hand)
     if (/^([\divxlcIVXLC.\s]{1,7}|[A-Z])$/.test(text)) {
       if (opts.sections && /^[ivxlcIVXLC]+\.?$/.test(text) && l.height === 0 && l.x > (margins.get(l.page) ?? 0) + 150) out.push(`§ ${text}`);
@@ -84,11 +108,12 @@ export async function poemLines(cfg: SplitConfig, opts: { sections?: boolean } =
     // A word or two in lowercase: set right of the margin, the end of the verse line above;
     // left of it, the last words of a footnote
     const margin = margins.get(l.page) ?? l.x;
-    if (/^[a-z]/.test(text) && text.split(' ').length <= 3) {
+    if (/^[a-zа-яё]/.test(text) && text.split(' ').length <= 3) {
       if (out.length && l.x > margin + 60) out[out.length - 1] += ` ${text}`;
       continue;
     }
     out.push(text);
+    afterBreak = false;
   }
   // Superscript footnote markers read as digits or stray letters after a word: "Saki,1", "veil l o'er"
   return out.map((t) => t.replace(/([A-Za-z,;:.!?'’])\d\b/g, '$1').replace(/\s+([,;:.!?])/g, '$1').trim());
@@ -114,14 +139,27 @@ export async function planSplit(cfg: SplitConfig): Promise<{ translations: Split
 
   const translations = starts.map(({ n, at }, i) => {
     const chunk = lines.slice(at, starts[i + 1]?.at ?? lines.length);
+    while (chunk[chunk.length - 1] === GAP) chunk.pop();
     const warnings: string[] = [];
-    if (chunk.length % 2) warnings.push(`${chunk.length} lines, odd`);
     const couplets: string[] = [];
-    // Paired like the original's couplets; English rhymes are too irregular in spelling to check
-    for (let k = 0; k < chunk.length; k += 2) couplets.push(chunk.slice(k, k + 2).join('\n'));
+    // Paired like the original's couplets, afresh after each gap; rhymes are too irregular in
+    // spelling to check
+    let run: string[] = [];
+    const flush = () => {
+      if (run.length % 2) warnings.push(`${run.length} lines from "${run[0].slice(0, 30)}", odd`);
+      for (let k = 0; k < run.length; k += 2) couplets.push(run.slice(k, k + 2).join('\n'));
+      run = [];
+    };
+    for (const line of chunk) {
+      if (line === GAP) {
+        flush();
+        couplets.push(GAP);
+      } else run.push(line);
+    }
+    flush();
     return {
       workSlug: `${cfg.workSlugBase}-${n}`,
-      couplets: couplets.length,
+      couplets: couplets.filter((c) => c !== GAP).length,
       opening: chunk.slice(0, 2).join(' / '),
       body: couplets.join('\n\n'),
       warnings,

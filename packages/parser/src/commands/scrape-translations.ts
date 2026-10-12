@@ -99,7 +99,7 @@ async function scrapeSplit(id: string, dryRun: boolean) {
     writeTranslationMd(
       {
         workSlug: t.workSlug,
-        language: 'EN',
+        language: cfg.language ?? 'EN',
         type: 'TRANSLATION',
         scriptDirection: 'LTR',
         translator: cfg.translator,
