@@ -10,6 +10,16 @@ sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
 status: DRAFT
 ---
+We, like the earth, with mud are all bestained; the shadow of the mud infolds the sun. —
+
+With eyes cast on the world’s oppressive acts, aiming by justice to restore affairs,
+
+He sought to find out what was best to do, from the thorn’s harshness how to free the rose.
+
+When the vazir’s affair he called to mind, he leant his head upon his hand in thought.
+
+Till dawn he slept not from the shame he felt; (his) eyes he closed not from distress of heart.
+
 When in this vase of earthenware the sun sweet basil planted by its radiance,
 
 The king arrived like basil-scented rain, and scattered on the thirsty pearly drops.

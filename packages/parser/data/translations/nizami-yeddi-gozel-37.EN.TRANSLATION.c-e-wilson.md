@@ -301,3 +301,9 @@ The world’s (sweet) honey and precedent sting are in one insect’s mouth and 
 Within the veils of dark and light not far from Jesus’ sun the cowries of the ass.
 
 Who is it raises on the earth (his) throne that is not pressed down by the earth at last?
+
+O Lord grant that which will afford repose, and will not finally bring penitence.
+
+The door of kindness to Nizami open, place him within the shelter of Your door.
+
+(As) at the first You gave him good repute, give him a happy issue at the last.

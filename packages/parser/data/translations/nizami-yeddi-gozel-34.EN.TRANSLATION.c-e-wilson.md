@@ -152,7 +152,7 @@ As in the case I’ve witnessed I, (in truth), the shepherd am, my subjects are 
 
 The basis of affairs not resting sound, the trusted must be asked about the breach.
 
-Then he who’s my vaar, sharp-sighted man, my trusted agent to protect the flock, —
+Then he who’s my vazir, sharp-sighted man, my trusted agent to protect the flock, —
 
 From him must I enquire where are the troops; though lost the learned, where the pulpit is.
 

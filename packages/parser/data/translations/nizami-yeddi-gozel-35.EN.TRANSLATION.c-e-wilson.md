@@ -326,7 +326,7 @@ He said. Than wealth, from which I am divorced, give something better, for I’v
 
 He danced, (but) not through minstrel or to song; he so became that no one saw him more.
 
-Those travellers on the Path who so have been, — their Leads from earth have on the heavens touched.
+Those travellers on the Path who so have been, — their heads from earth have on the heavens touched.
 
 (But) ere you find matured wine in the cup, thousands of unripe sour grapes you must see.
 
@@ -335,13 +335,3 @@ This set, although they are of human stock, are all (but) demons, though entitle
 The water of the stream, so vehement, is from the rill which rises from a sink.
 
 Matured is he who from a set so crude holds off his collar and draws in his skirt.
-
-We, like the earth, with mud are all bestained; the shadow of the mud infolds the sun. —
-
-With eyes cast on the world’s oppressive acts, aiming by justice to restore affairs,
-
-He sought to find out what was best to do, from the thorn’s harshness how to free the rose.
-
-When the vaar’s affair he called to mind, he leant his head upon his hand in thought.
-
-Till dawn he slept not from the shame he felt; (his) eyes he closed not from distress of heart.

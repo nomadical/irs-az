@@ -174,7 +174,8 @@
     "bouses": "houses",
     "gtcl": "girl",
     "Untn": "Until",
-    "XJntn": "Until"
+    "XJntn": "Until",
+    "vaar": "vazir"
   },
   "corrections": [
     {
@@ -272,6 +273,14 @@
     {
       "from": "could be to marriage haste, nor could be find such slave-girl as be wished",
       "to": "could he to marriage haste, nor could he find such slave-girl as he wished"
+    },
+    {
+      "from": "their Leads from earth",
+      "to": "their heads from earth"
+    },
+    {
+      "from": "an “,en I ” from angels",
+      "to": "an “Amen!” from angels"
     }
   ],
   "sections": [
@@ -498,7 +507,8 @@
     },
     {
       "heading": "The seventh victim makes (his) complaint",
-      "ganjoor": 35
+      "ganjoor": [35, 36],
+      "splitAt": ["We, like the earth, with mud"]
     },
     {
       "heading": "The king punishes the tyrannical vazir",
@@ -510,7 +520,8 @@
     },
     {
       "heading": "Words in Conclusion",
-      "ganjoor": 38
+      "ganjoor": [37, 38],
+      "splitAt": ["Since in reflection and the test"]
     }
   ]
 }

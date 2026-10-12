@@ -10,12 +10,6 @@ sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
 status: DRAFT
 ---
-O Lord grant that which will afford repose, and will not finally bring penitence.
-
-The door of kindness to Nizami open, place him within the shelter of Your door.
-
-(As) at the first You gave him good repute, give him a happy issue at the last.
-
 Since in reflection and the test (of gold) the coin of this fine Grecian treasure shines,
 
 I have attached to it a royal name, that the inscription may exalt my hand.
@@ -162,4 +156,4 @@ May you be prosperous where’er you be! attendant at your stirrup be the sky!
 
 By the (true) Faith be increase to your State, and by felicity affairs be sealed!
 
-To this prayer every moment an “,en I ” from angels to the highest heavens attains.
+To this prayer every moment an “Amen!” from angels to the highest heavens attains.
