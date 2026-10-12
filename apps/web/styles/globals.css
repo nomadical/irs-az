@@ -1867,9 +1867,9 @@ blockquote {
 }
 
 /* ── Responsive ─────────────────────────────────────────────── */
-@media (max-width: 768px) {
-  h1 { font-size: 2rem; }
-
+/* The header needs about 1,010px for logo, one-row nav and tools side by side (the
+   Russian nav is widest); below that the nav takes its own scrollable row */
+@media (max-width: 1023px) {
   /* Three header rows would eat a quarter of a phone screen; tuck them away while reading down */
   .site-header { transition: transform 0.2s ease; }
   .site-header.is-hidden { transform: translateY(-100%); }
@@ -1886,6 +1886,10 @@ blockquote {
   }
   .site-nav::-webkit-scrollbar { display: none; }
   .site-nav a { padding: 0.35rem 0; }
+}
+@media (max-width: 768px) {
+  h1 { font-size: 2rem; }
+
   .work-heading { font-size: 2.1rem; }
   .work-heading-original { font-size: 1.15rem; }
 

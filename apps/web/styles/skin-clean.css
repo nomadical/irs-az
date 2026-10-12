@@ -688,12 +688,15 @@
 [data-skin='clean'] .footer-links a + a::before { content: none; }
 
 /* ── Responsive ─────────────────────────────────────────────── */
-@media (max-width: 768px) {
-  :where([data-skin='clean']) h1 { font-size: 2rem; }
+/* The nav's own row, from the same 1,023px as globals.css */
+@media (max-width: 1023px) {
   [data-skin='clean'] .site-nav {
     border-top-color: var(--header-line);
     gap:              1.25rem;
   }
+}
+@media (max-width: 768px) {
+  :where([data-skin='clean']) h1 { font-size: 2rem; }
   [data-skin='clean'] .work-heading { font-size: 2rem; }
   [data-skin='clean'] .home-grid { grid-template-columns: 1fr; gap: 2.5rem; padding-top: 1.25rem; }
   /* The grid gap already stands between them; their own margin tops it up to 3.5rem */
