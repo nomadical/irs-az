@@ -336,18 +336,6 @@
 }
 [data-skin='clean'] .reading-column:is(:lang(fa), :lang(ar), :lang(az-Arab)) { line-height: 2.1; }
 
-[data-skin='clean'] .beyt--maqta .misra { color: inherit; }
-[data-skin='clean'] .beyt--maqta::before {
-  content:      '';
-  width:        1.75rem;
-  height:       2px;
-  margin:       0 auto;
-  inset-inline: 0;
-  top:          -1.2em;
-  background:   var(--pomeg);
-}
-[data-skin='clean'] .parallel .beyt--maqta::before { margin: 0 0 0.6em; }
-
 [data-skin='clean'] .lang-label {
   font-size:      0.75rem;
   font-weight:    700;
@@ -801,8 +789,6 @@
 [data-skin='clean'] .rule--tight { border-top-color: transparent; margin: 0.75rem 0; }
 [data-skin='clean'] body:has(.more-works--others) .footer { border-top: none; }
 [data-skin='clean'] .footer { background: var(--surf-2); }
-/* The closing couplet is marked by the space before it alone */
-[data-skin='clean'] .beyt--maqta::before { content: none; }
 
 /* Labels in sentence case, muted, untracked */
 [data-skin='clean'] .lang-label,

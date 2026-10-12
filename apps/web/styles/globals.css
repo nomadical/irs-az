@@ -659,33 +659,6 @@ blockquote {
   text-align:  start;
 }
 .parallel .parallel-cell .misra + .misra { padding-inline-start: 4em; }
-.parallel .beyt--maqta::before {
-  position:   static;
-  display:    block;
-  text-align: start;
-  margin-bottom: 0.4em;
-}
-
-/* Maqta: the closing couplet of a ghazal, where the poet signs with a pen name */
-.beyt--maqta {
-  margin-top: 2.25em;
-  position:   relative;
-}
-.beyt--maqta::before {
-  content:     '◆';
-  content:     '◆' / '';
-  position:    absolute;
-  inset-inline: 0;
-  top:         -1.6em;
-  text-align:  center;
-  font-family: var(--font-ui);
-  font-size:   0.6rem;
-  line-height: 1;
-  color:       var(--pomeg);
-  grid-column: 1 / -1;
-}
-.beyt--maqta .misra { color: var(--pomeg-dark); }
-
 /* Tailpiece: the printer's mark that closes the text */
 .tailpiece {
   display:     flex;
