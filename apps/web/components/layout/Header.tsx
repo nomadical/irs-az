@@ -1,12 +1,14 @@
 'use client';
 
 import Link from 'next/link';
+import { useRef } from 'react';
 import { useTranslations } from 'next-intl';
 import { useParams, usePathname } from 'next/navigation';
 import { authorsPath } from '@/lib/facets';
 import { ThemeToggle } from '@/components/ui/ThemeToggle';
 import { SkinToggle } from '@/components/ui/SkinToggle';
 import { LanguageSwitcher } from '@/components/ui/LanguageSwitcher';
+import { useHideOnScroll } from './useHideOnScroll';
 
 const datelineSubtitle: Record<string, string> = {
   az: 'Azərbaycan ədəbiyyatı xəzinəsi',
@@ -53,6 +55,8 @@ export function Header() {
   const t = useTranslations('nav');
   const { locale } = useParams<{ locale: string }>();
   const pathname = usePathname();
+  const headerRef = useRef<HTMLElement>(null);
+  const hidden = useHideOnScroll(headerRef);
 
   const navLinks: NavLink[] = [
     { href: authorsPath(locale, { type: 'POET' }), label: t('poets') },
@@ -65,7 +69,7 @@ export function Header() {
   ];
 
   return (
-    <header className="site-header">
+    <header ref={headerRef} className={hidden ? 'site-header is-hidden' : 'site-header'}>
       <div className="header-inner">
         <Link href={`/${locale}`} className="logo">
           IRS<span className="logo-orn" aria-hidden="true">◆</span><em>AZ</em>
