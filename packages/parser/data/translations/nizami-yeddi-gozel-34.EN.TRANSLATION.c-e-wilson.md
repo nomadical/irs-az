@@ -188,7 +188,7 @@ Bahram set up (his) court upon the sky, granted the people public audience.
 
 The grandees from all parts assembled (there), and ranged themselves according to their rank.
 
-East-rushan entered by the palace door, and boldly went to his exalted place.
+Rast-rushan entered by the palace door, and boldly went to his exalted place.
 
 With stem and angry gaze the monarch looked, and shouted in a way to strike him dead:
 
@@ -208,7 +208,7 @@ His Faith would own ’tis worse in every one to overlook a favour than his Fait
 
 To meet the claims of favours by one’s acts brings favours still to him who has received.
 
-When that East-rushan came to me in you, justice departed, brightness was dispelled.
+When that Rast-rushan came to me in you, justice departed, brightness was dispelled.
 
 Both troops and treasure you have injured so that neither troops nor treasure now remains.
 

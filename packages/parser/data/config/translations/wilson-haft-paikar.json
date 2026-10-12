@@ -239,7 +239,13 @@
     "Piirak": "Furak",
     "Baja": "Raja",
     "Hasrin": "Nasrin",
-    "hiim": "him"
+    "hiim": "him",
+    "Siyavasb": "Siyavash",
+    "pahns": "palms",
+    "wfllow": "willow",
+    "calamiiy": "calamity",
+    "vioe": "vice",
+    "Iike": "like"
   },
   "corrections": [
     {
@@ -653,6 +659,26 @@
     {
       "from": "’tis said, Regions are states ”.",
       "to": "’tis said, “Regions are states”."
+    },
+    {
+      "pattern": "\\bEast-rushan\\b",
+      "to": "Rast-rushan"
+    },
+    {
+      "from": "Rash-riishan,,",
+      "to": "Rast-rushan,"
+    },
+    {
+      "from": "Narsf s hands",
+      "to": "Narsi’s hands"
+    },
+    {
+      "from": "How TCing Jamsbid was bumbled to the dust, and bow Darius",
+      "to": "How King Jamshid was humbled to the dust, and how Darius"
+    },
+    {
+      "from": "world-illumi ning",
+      "to": "world-illumining"
     }
   ],
   "sections": [

@@ -12,7 +12,7 @@ status: DRAFT
 ---
 The first of them then said to (King) Bahram, O you whose foe is as his foe could wish,
 
-East-rushan, the vazir, with grievous hurts upon the rack my brother put to death.
+Rast-rushan, the vazir, with grievous hurts upon the rack my brother put to death.
 
 Goods, torses, (otter) things, wtate’er there was, te seized on all: bott life and also wealth.
 
@@ -140,7 +140,7 @@ Life to my heart she gave, as lamp to night, by me she was as garden-verdure gay
 
 She lighted up a candle where she dwelt, (and) burnt the moth’s heart with the fire of it.
 
-As lighted taper bright and straight in form, — East-rushan took her from (your) slave away.
+As lighted taper bright and straight in form, — Rast-rushan took her from (your) slave away.
 
 When I, through losing her, disturbed and mad, sought to regain companionship with her,
 

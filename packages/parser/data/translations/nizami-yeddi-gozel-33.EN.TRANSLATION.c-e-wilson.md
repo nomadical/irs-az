@@ -12,13 +12,13 @@ status: DRAFT
 ---
 Saturn and Jupiter in aspect trine, the sun from Pisces then in Aries;
 
-The verdure, Khizr-Iike, found youth again, the springs of water (too) renewed their life.
+The verdure, Khizr-like, found youth again, the springs of water (too) renewed their life.
 
 The heart of every spring became a Nile, and every fount became a Salsabil.
 
 The earth in aloes dressed took musky scent, the breeze, musk-seller, steeped itself in musk.
 
-The New Year’s equable and temperate air made its way straight to world-illumi ning.
+The New Year’s equable and temperate air made its way straight to world-illumining.
 
 From the air’s skirt was dew deposited; the heat broke up the form of winter’s cold.
 
@@ -40,7 +40,7 @@ The fresh buds of the blossoms of the trees made pearls widespread as tulips’ 
 
 The cypress which by shade gave canopies, combed the locks of the hox-tree (with its leaves).
 
-For the corona of narcissi drunk, the lilies put gold ingots on their pahns.
+For the corona of narcissi drunk, the lilies put gold ingots on their palms.
 
 Through the north breeze the pastils of the Spring were scattering stars without the Judgment Day.
 
@@ -68,7 +68,7 @@ The willow scent of aloes-wood diffused; sometimes it scattered camphor, sometim
 
 The Judas’ tree and jasmine raised their flags, a black and white, before the willow-tree.
 
-The wfllow gnawed its hands, regretting leaves lost through the bane of autumn’s piercing winds.
+The willow gnawed its hands, regretting leaves lost through the bane of autumn’s piercing winds.
 
 The rose assumed its place as sovereign chief; the earth, e’en as the breeze, its loyal friend.
 
@@ -110,7 +110,7 @@ Over a wide expanse the torrents rush, (in size) each dragon in them like a sea.
 
 Should the king have no thought for this affair, the Chinamen will drink our blood in bowls.
 
-The king, who heard of this calamiiy, for safety from the sore affliction sought.
+The king, who heard of this calamity, for safety from the sore affliction sought.
 
 (So) ere the net were cast about (his) head, he drew (his) skirt from wine, (his) hand from cup.
 
@@ -124,21 +124,21 @@ He found the royal treasury was void, that arms and army too were scattered wide
 
 The monarch, I have heard, had a vazir, an impious man, one far removed from God;
 
-Who’d named himself, from a self-chosen roll, Rash-riishan,, but he was not bright (or) straight.
+Who’d named himself, from a self-chosen roll, Rast-rushan, but he was not bright (or) straight.
 
 His brightness and his straightness most minute; his straightness crooked, and his brightness dark.
 
 He made the king assured of good repute, whilst good repute attached not to his name.
 
-When the vazirate was in Narsf s hands, in the vazirate there was fear of God;
+When the vazirate was in Narsi’s hands, in the vazirate there was fear of God;
 
-But when East-rushan seized the vazirate, all perished that was either just or true.
+But when Rast-rushan seized the vazirate, all perished that was either just or true.
 
-The king in drinking and in pleasure sunk, (East-rushan) gave a loose to tyranny,
+The king in drinking and in pleasure sunk, (Rast-rushan) gave a loose to tyranny,
 
 He raised up trouble, and abolished good, he sought for land, and heaped up property.
 
-The king's vioe-gerent (too) by gold and gems he gained as partner in (his) hurtful acts.
+The king's vice-gerent (too) by gold and gems he gained as partner in (his) hurtful acts.
 
 He said. The people have grown covetous; they have become rude, bold, and mannerless.
 
@@ -154,9 +154,9 @@ Men, they are evil and of evil stock; appearing Josephs, they are worse than wol
 
 Wild beasts (like them) pay no beed to good faith, and till the sword compel, spurn all commands.
 
-You may have read, concerning the distressed, of what Siyavasb suffered from wild beasts.
+You may have read, concerning the distressed, of what Siyavash suffered from wild beasts.
 
-How TCing Jamsbid was bumbled to the dust, and bow Darius, king, was crucified.
+How King Jamshid was humbled to the dust, and how Darius, king, was crucified.
 
 Their riches are a tank, and sated, they: water left long in tanks must putrify.
 
