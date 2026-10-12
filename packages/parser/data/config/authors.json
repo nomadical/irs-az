@@ -1096,5 +1096,56 @@
       "az": "Mikayıl Müşfiq"
     },
     "collections": []
+  },
+  {
+    "slug": "memmedquluzade",
+    "nameAz": "Cəlil Məmmədquluzadə",
+    "nameRu": "Джалил Мамедкулизаде",
+    "nameEn": "Jalil Mammadguluzadeh",
+    "type": "WRITER",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Cəlil Məmmədquluzadə",
+      "ru": "Мамедкулизаде, Джалил Гусейнкули оглы"
+    },
+    "wikisource": {
+      "az": "Cəlil Məmmədquluzadə",
+      "az_titles": {
+        "Atlar dayandı": "Atlar dayandı"
+      }
+    },
+    "collections": []
+  },
+  {
+    "slug": "haqverdiyev",
+    "nameAz": "Əbdürrəhim bəy Haqverdiyev",
+    "nameRu": "Абдуррагим-бек Ахвердов",
+    "nameEn": "Abdurrahim bey Hagverdiyev",
+    "type": "WRITER",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "skipSources": [
+      "wikisource-az-29479",
+      "wikisource-az-29534"
+    ],
+    "wikipedia": {
+      "az": "Əbdürrəhim bəy Haqverdiyev",
+      "ru": "Ахвердов, Абдуррагим-бек Асад-бек оглы"
+    },
+    "wikisource": {
+      "az": "Əbdürrəhim bəy Haqverdiyev"
+    },
+    "collections": [
+      {
+        "slug": "haqverdiyev-eserler",
+        "titleAz": "Hekayələr",
+        "genre": "PROSE"
+      }
+    ]
   }
 ]

@@ -17,9 +17,9 @@ Public domain only (died 1955 or earlier, life + 70). Sources are unverified unt
 - [x] Mirzə Şəfi Vazeh — XIX, AZ + FA — wikisource; only his 7 original works. The "Mirzə Şəfi nəğmələri" cycles are Bodenstedt's, could go in as Bodenstedt's German originals (PD)
 - [x] Abbasqulu ağa Bakıxanov — XIX, AZ + FA — wikisource
 - [x] Aşıq Ələsgər — XIX–XX, AZ — wikisource
-- [ ] Nəcəf bəy Vəzirov — XIX–XX, AZ plays — wikisource
-- [ ] Cəlil Məmmədquluzadə — XX, AZ prose — wikisource
-- [ ] Əbdürrəhim bəy Haqverdiyev — XX, AZ prose + plays — wikisource
+- [ ] Nəcəf bəy Vəzirov — XIX–XX, AZ plays — not on wikisource: every link on his author page is a missing page; needs OCR of a printed edition
+- [x] Cəlil Məmmədquluzadə — XX, AZ prose — wikisource
+- [x] Əbdürrəhim bəy Haqverdiyev — XX, AZ prose + plays — wikisource has 2 stories; 8 works and acts 3–5 of "Ağa Məhəmməd şah Qacar" are missing pages, the rest needs OCR
 - [x] Məhəmməd Hadi — XX, AZ — wikisource
 - [x] Abbas Səhhət — XX, AZ — wikisource
 - [x] Mikayıl Müşfiq — XX, AZ — wikisource
