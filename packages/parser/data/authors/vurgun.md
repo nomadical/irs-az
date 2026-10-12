@@ -1,7 +1,7 @@
 ---
 slug: vurgun
 nameAz: Səməd Vurğun
-nameRu: 'Вургун, Самед'
+nameRu: Самед Вургун
 nameEn: Samad Vurgun
 type: POET
 period: XX əsr
@@ -13,6 +13,8 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/S%C9%99m%C9%99d_Vur%C4%9Fun_%281947%29.jpg/330px-S%C9%99m%C9%99d_Vur%C4%9Fun_%281947%29.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:S%C9%99m%C9%99d_Vur%C4%9Fun_(1947).jpg'
 portraitCredit: 'Владимир Савостьянов, 1947 · Public domain'
+bornYear: 1906
+diedYear: 1956
 ---
 **Səməd Vurğun** (*doğum adı:* Səməd Yusif oğlu Vəkilov) — Azərbaycan şairi, dramaturq, tərcüməçi, ədəbiyyatşünas, Azərbaycanın ilk xalq şairi (1956), 2 dəfə "Stalin" mükafatı laureatı (1941, 1942) və 2 dəfə "Lenin" ordeni laureatı, Azərbaycan Yazıçılar İttifaqının sədri (1941–1948), Azərbaycan SSR Ali Sovetinin deputatı, Azərbaycanın Xarici Ölkələrlə Mədəni əlaqə Cəmiyyətinin sədri, Azərbaycan SSR EA-nın akademiki (1945) və vitse-prezidenti (1954–1956). Azərbaycan Elmlər Akademiyasının təsisçilərindən biridir.
 

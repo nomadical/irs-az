@@ -1,7 +1,7 @@
 ---
 slug: axundzade
 nameAz: Mirzə Fətəli Axundzadə
-nameRu: 'Ахундов, Мирза Фатали'
+nameRu: Мирза Фатали Ахундзаде
 nameFa: میرزا فتحعلی آخوندزاده
 nameEn: Mirza Fatali Akhundov
 type: PLAYWRIGHT
@@ -16,6 +16,8 @@ portraitUrl: >-
 portraitSource: >-
   https://commons.wikimedia.org/wiki/File:Mirz%C9%99_F%C9%99t%C9%99li_Axundov_2.jpg
 portraitCredit: Unknown author · Public domain
+bornYear: 1812
+diedYear: 1878
 ---
 **Mirzə Fətəli Axundov** (tam adı: *Mirzə Fətəli Məhəmmədtağı oğlu Axundov*) və ya **Mirzə Fətəli Axundzadə** — Azərbaycan dramaturqu, maarifçi, şair, materialist filosof və ictimai xadim; Azərbaycan dramaturgiyası və ədəbiyyatında ədəbi tənqidin banisi. "Müsəlman Molyer" kimi tanınan Axundov həm də romantik və müasir İran millətçiliyinin sələflərindən biri idi.
 

@@ -1,7 +1,7 @@
 ---
 slug: xetai
 nameAz: Şah İsmayıl Xətai
-nameRu: Исмаил I
+nameRu: Шах Исмаил Хатаи
 nameFa: شاه اسماعیل ختایی
 nameEn: Shah Ismail Khatai
 type: POET
@@ -16,6 +16,8 @@ portraitUrl: >-
 portraitSource: >-
   https://commons.wikimedia.org/wiki/File:Portrait_of_Shah_Ismail_I._Inscribed_%22Ismael_Sophy_Rex_Pers%22._Painted_by_Cristofano_dell%27Altissimo,_dated_1552-1568.jpg
 portraitCredit: 'Cristofano dell''Altissimo, 1552 · Public domain'
+bornYear: 1487
+diedYear: 1524
 ---
 **Şah İsmayıl Səfəvi**, **I İsmayıl** və ya **Şah İsmayıl** (tam adı: *Əbül-Müzəffər İsmail ibn Heydər əs-Səfəvi*) — Səfəviyyə təriqətinin şeyxi (1494–1524); Səfəvilər dövlətinin banisi və ilk şahı; Azərbaycan şairi, Azərbaycan türklərinin piri. O, 1501-ci ilin iyul ayında Təbriz şəhərində özünü şah elan edib.
 

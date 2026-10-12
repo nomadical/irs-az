@@ -1,7 +1,7 @@
 ---
 slug: cavad
 nameAz: Əhməd Cavad
-nameRu: 'Джавад, Ахмед'
+nameRu: Ахмед Джавад
 nameEn: Ahmad Javad
 type: POET
 period: XX əsr
@@ -14,6 +14,8 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Ahmad_Javad.jpg/330px-Ahmad_Javad.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Ahmad_Javad.jpg'
 portraitCredit: Unknown author · Public domain
+bornYear: 1892
+diedYear: 1937
 ---
 **Əhməd Cavad** (tam adı: **Cavad Məhəmmədəli oğlu Axundzadə**) — Azərbaycan şairi, tərcüməçi, Azərbaycan Yazıçılar İttifaqının üzvü (1934), professor (1933), Quba Xalq Maarif şöbəsinin müdiri, Gəncədə Azərbaycan Kənd Təsərrüfatı İnstitutunda Azərbaycan və rus dilləri kafedrasında müəllim, dosent, kafedra müdiri (1930–1933), Azərbaycan Dövlət Nəşriyyatının tərcümə şöbəsində redaktor (1934), "Azərbaycanfilm" studiyasında sənədli filmlər şöbəsinin müdiri (1935–1936)
 

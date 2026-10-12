@@ -15,6 +15,8 @@ portraitUrl: >-
 portraitSource: >-
   https://commons.wikimedia.org/wiki/File:Nizami_ad%C4%B1na_%C6%8Fd%C9%99biyyat_Muzeyinin_binas%C4%B1n%C4%B1n_p%C9%99nc%C9%99r%C9%99sind%C9%99_Mucir%C9%99ddin_Beyl%C9%99qani_r%C9%99smi_(1).JPG
 portraitCredit: 'Samral, 2015 · CC BY-SA 4.0'
+bornYear: 1130
+diedYear: 1194
 ---
 **Mücirəddin Beyləqani** — Azərbaycan şairi.
 

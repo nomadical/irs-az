@@ -22,6 +22,8 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Portrait_of_Nasimi.jpg/330px-Portrait_of_Nasimi.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Portrait_of_Nasimi.jpg'
 portraitCredit: 'Andrei Sdobnikov, 2007 · Public domain'
+bornYear: 1369
+diedYear: 1419
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli 211 nömrəli Qərarı ilə İmadəddin Nəsimi Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 

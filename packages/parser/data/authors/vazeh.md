@@ -29,6 +29,8 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Mirza_Shafi_Vazeh_1850.png/330px-Mirza_Shafi_Vazeh_1850.png
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Mirza_Shafi_Vazeh_1850.png'
 portraitCredit: 'Bodenstedt, 1850 · Public domain'
+bornYear: 1794
+diedYear: 1852
 ---
 Mirzə Şəfi çoxlu qəzəlllər, müxəmməslər, məsnəvilər, rübailər və s. yazmışdır. Onun şeirləri intim-lirik və satirik xarakteri daşıyırdı. Bundan başqa Vazeh poeziya tipli "Müdriklik dərnəyi"nin başında dayanırdı. Vazehin əsərlərinin əsas mövzusu romantik sevginin tərənnümü və həyatın nəşəsidi, amma bəzi şeirlərində Mirzə Şəfi feodal cəmiyyətinin eyiblərini göstərir, köləlik şəxsiyyətlik və dini fanatizmin əleyhinə çıxış edir.
 

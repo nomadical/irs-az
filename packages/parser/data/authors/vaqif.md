@@ -1,7 +1,7 @@
 ---
 slug: vaqif
 nameAz: Molla Pənah Vaqif
-nameRu: Вагиф
+nameRu: Молла Панах Вагиф
 nameFa: ملا پناه واقف
 nameEn: Molla Panah Vagif
 type: POET
@@ -13,6 +13,8 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Molla_P%C9%99nah_Vaqif.jpg/330px-Molla_P%C9%99nah_Vaqif.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Molla_P%C9%99nah_Vaqif.jpg'
 portraitCredit: 'Cekli829, 2014 · CC BY-SA 4.0'
+bornYear: 1717
+diedYear: 1797
 ---
 {{Yazıçı
  |adı           = Molla Pənah Vaqif

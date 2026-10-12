@@ -12,6 +12,8 @@ bioRu: "В 1912\_году вышли сборник стихов «Разбит�
 portraitUrl: 'https://upload.wikimedia.org/wikipedia/commons/f/f5/AbbasSahhat.jpg'
 portraitSource: 'https://commons.wikimedia.org/wiki/File:AbbasSahhat.jpg'
 portraitCredit: 'Unknown author, 1918 · Public domain'
+bornYear: 1874
+diedYear: 1918
 ---
 "Yeni üslublu məktəblər" ideyasının yorulmaz müdafiəçisi olan Abbas Səhhət, professor Əli bəy Hüseynzadənin banisi olduğu Azərbaycan romantik ədəbiyyatı cərəyanına qoşulur (Füyuzat jurnalı, 1906–1907-ci illər). Abbas Səhhət o dövrdə Bakıda nəşr olunan bütün jurnal və qəzetlərdə mütəmadi qaydada çıxış edir. Tərcüməçilik fəaliyyəti ilə də məşğul olan yazıçı o dövr Azərbaycan oxucusunu rus (Lermontov, Puşkin, Krılov, Nadson, Maksim Qorki və b.), fransız (Hüqo, Müsse, Sülli-Prüdom və b.), alman şair və yazıçılarının əsərləri ilə tanış edir
 

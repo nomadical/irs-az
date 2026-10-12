@@ -40,22 +40,33 @@ function cleanYear(raw: string): string {
   return year ? year[1] : '';
 }
 
-async function wikidataItem(site: string, title: string): Promise<{ id: string; image?: string } | null> {
+export interface WikidataItem {
+  id: string;
+  claims: Record<string, any[]>;
+}
+
+async function wikidataItem(site: string, title: string): Promise<WikidataItem | null> {
   const qs = new URLSearchParams({ action: 'wbgetentities', sites: site, titles: title, props: 'claims', format: 'json' });
   const d = await cachedGetJson<{ entities?: Record<string, any> }>(`${WIKIDATA}?${qs}`);
   const e = Object.values(d.entities ?? {})[0];
   if (!e || 'missing' in e || !e.id) return null;
-  return { id: e.id, image: e.claims?.P18?.[0]?.mainsnak?.datavalue?.value };
+  return { id: e.id, claims: e.claims ?? {} };
+}
+
+/** The author's Wikidata item, found through their Wikipedia article */
+export async function findWikidataItem(cfg: AuthorConfig): Promise<WikidataItem | null> {
+  const wp = cfg.wikipedia ?? {};
+  for (const [lang, title] of [['az', wp.az], ['ru', wp.ru], ['en', wp.en]] as const) {
+    if (!title) continue;
+    const item = await wikidataItem(`${lang}wiki`, title);
+    if (item) return item;
+  }
+  return null;
 }
 
 export async function findPortrait(cfg: AuthorConfig): Promise<Portrait | null> {
-  const wp = cfg.wikipedia ?? {};
-  let item: { id: string; image?: string } | null = null;
-  for (const [lang, title] of [['az', wp.az], ['ru', wp.ru], ['en', wp.en]] as const) {
-    if (!title) continue;
-    item = await wikidataItem(`${lang}wiki`, title);
-    if (item) break;
-  }
+  const found = await findWikidataItem(cfg);
+  const item = found && { id: found.id, image: found.claims.P18?.[0]?.mainsnak?.datavalue?.value as string | undefined };
   if (!item?.image) return null;
 
   const qs = new URLSearchParams({

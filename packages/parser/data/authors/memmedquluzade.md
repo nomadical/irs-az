@@ -1,7 +1,7 @@
 ---
 slug: memmedquluzade
 nameAz: Cəlil Məmmədquluzadə
-nameRu: 'Мамедкулизаде, Джалил Гусейнкули оглы'
+nameRu: Джалил Мамедкулизаде
 nameEn: Jalil Mammadguluzadeh
 type: WRITER
 period: XIX-XX əsr
@@ -13,6 +13,8 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Jalil_Mammadguluzadeh%2C_c._1920.jpg/330px-Jalil_Mammadguluzadeh%2C_c._1920.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Jalil_Mammadguluzadeh,_c._1920.jpg'
 portraitCredit: 'Unknown author, 1920 · Public domain'
+bornYear: 1869
+diedYear: 1932
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli 211 nömrəli Qərarı ilə Cəlil Məmmədquluzadə Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 

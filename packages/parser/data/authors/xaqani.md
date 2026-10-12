@@ -14,6 +14,10 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Khaqani_Park3_%28cropped%29.JPG/330px-Khaqani_Park3_%28cropped%29.JPG
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Khaqani_Park3_(cropped).JPG'
 portraitCredit: 'Elmju, 2009 · CC BY-SA 3.0'
+bornYear: 1121
+bornYearApprox: true
+diedYear: 1199
+diedYearApprox: true
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli 211 nömrəli Qərarı ilə Şirvani Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 

@@ -1,7 +1,7 @@
 ---
 slug: cavid
 nameAz: Hüseyn Cavid
-nameRu: 'Джавид, Гусейн'
+nameRu: Гусейн Джавид
 nameEn: Huseyn Javid
 type: PLAYWRIGHT
 period: XX əsr
@@ -14,6 +14,8 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Huseyn_Javid.jpg/330px-Huseyn_Javid.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Huseyn_Javid.jpg'
 portraitCredit: 'Unknown author, 1924 · Public domain'
+bornYear: 1882
+diedYear: 1941
 ---
 **Hüseyn Cavid** (doğum adı: *Hüseyn Abdulla oğlu Rasizadə*) — Azərbaycan şairi, yazıçı və dramaturq. Azərbaycan ədəbiyyatında romantizm ədəbi cərəyanının əsas nümayəndəsi olan Hüseyn Cavid milli romantik şeirin və mənzum faciənin banisidir.
 

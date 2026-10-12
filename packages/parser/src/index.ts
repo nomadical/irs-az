@@ -9,6 +9,7 @@ import { retitleCommand } from './commands/retitle';
 import { scrapeImagesCommand } from './commands/scrape-images';
 import { scrapeTranslationsCommand } from './commands/scrape-translations';
 import { scrapePortraitsCommand } from './commands/scrape-portraits';
+import { scrapeLifespansCommand } from './commands/scrape-lifespans';
 import { tagWorksCommand } from './commands/tag-works';
 import { scrapeBookCommand } from './commands/scrape-book';
 
@@ -27,6 +28,7 @@ program.addCommand(retitleCommand);
 program.addCommand(scrapeImagesCommand);
 program.addCommand(scrapeTranslationsCommand);
 program.addCommand(scrapePortraitsCommand);
+program.addCommand(scrapeLifespansCommand);
 program.addCommand(tagWorksCommand);
 program.addCommand(scrapeBookCommand);
 

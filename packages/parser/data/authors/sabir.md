@@ -1,7 +1,7 @@
 ---
 slug: sabir
 nameAz: Mirzə Ələkbər Sabir
-nameRu: 'Сабир, Мирза Алекпер'
+nameRu: Мирза Алекпер Сабир
 nameEn: Mirza Alakbar Sabir
 type: POET
 period: XIX-XX əsr
@@ -14,6 +14,8 @@ portraitUrl: >-
 portraitSource: >-
   https://commons.wikimedia.org/wiki/File:Mirz%C9%99_%C6%8Fl%C9%99kb%C9%99r_Sabir.jpg
 portraitCredit: 'Unknown author, 1911 · Public domain'
+bornYear: 1862
+diedYear: 1911
 ---
 Mirzə Ələkbər Sabir 1862-ci ilin 30 may tarixində Şamaxı şəhərində anadan olmuşdur. O, ilk təhsilini mollaxanada alsa da, sonradan Seyid Əzim Şirvaninin təsis etdiyi yeni üsullu məktəbdə oxumuşdur. Yaradıcılığa erkən yaşlarda başlamış, lirik şeirlərlə bədii fəaliyyətə qədəm qoymuşdur. Mirzə Ələkbər Sabirin ictimai fəaliyyətində "Molla Nəsrəddin" jurnalının rolu böyükdür. O, bu satirik jurnalın əsas müəlliflərindən biri olmuş, geniş oxucu auditoriyasına malik olan bu platformada müntəzəm çıxış edərək maarifçilik ideyalarını, ictimai tənqidi və satiranı birləşdirən dərin məzmunlu əsərlər qələmə almışdır. Eyni zamanda, "Zənbur", "Həyat", "İrşad", "Təzə Həyat", "Dəbistan" kimi dövrünün mühüm nəşrlərində də şeir və publisistik məqalələr ilə çıxış etmişdir. Şair ömrünün son illərində ağır xəstəlik keçirmiş və 1911-ci ildə doğma Şamaxı şəhərində vəfat etmişdir. Onun irsi Azərbaycan ədəbiyyatında maarifçi-demokratik ideyaların daşıyıcısı kimi mühüm yer tutur. Mirzə Ələkbər Sabir Azərbaycan poeziya tarixində yeni satirik üslubun və yeni satirik şeirin banisi hesab olunur. O, satirik şeirlərində sosial bərabərsizliyi, mürtəce dini təbəqəni kəskin şəkildə tənqid etmişdir. Sabir yaradıcılığında xalqı öz hüquqlarını dərk etməyə və mütəşəkkil şəkildə mübarizəyə səsləyən çağırışlar xüsusi yer tutur.
 

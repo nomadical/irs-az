@@ -1,7 +1,7 @@
 ---
 slug: vidadi
 nameAz: Molla Vəli Vidadi
-nameRu: 'Видади, Молла Вели'
+nameRu: Молла Вели Видади
 nameEn: Molla Vali Vidadi
 type: POET
 period: XVIII əsr
@@ -25,6 +25,8 @@ bioRu: >-
   безысходность. Пессимистические настроения поэта нашли отражение в
   стихотворениях «Журавли», «Послания поэту Вагифу», «Поплачешь». Считается
   последователем творчества Физули.
+bornYear: 1709
+diedYear: 1809
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli, 211 nömrəli Qərarı ilə Molla Vəli Vidadi Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 

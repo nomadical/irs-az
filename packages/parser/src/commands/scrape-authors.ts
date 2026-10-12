@@ -3,6 +3,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import type { AuthorConfig } from '../types';
 import { scrapeAuthorFromWikipedia } from '../scrapers/wikipedia';
+import { findLifespan } from '../scrapers/lifespan';
 import { writeAuthorMd } from '../writers/md-writer';
 import { slugify } from '../utils/slug';
 
@@ -43,18 +44,21 @@ export const scrapeAuthorsCommand = new Command('scrape-authors')
       }
 
       const scraped = await scrapeAuthorFromWikipedia(wikiAz, wikiRu);
+      // Infoboxes mostly draw dates from Wikidata through templates, leaving nothing to parse
+      const life = scraped.bornYear || scraped.diedYear ? null : await findLifespan(cfg);
 
       writeAuthorMd(
         {
           slug: cfg.slug,
           nameAz: cfg.nameAz,
-          nameRu: scraped.nameRu ?? cfg.nameRu,
+          // The ru article title is an index form ("Вургун, Самед"); the config has the name
+          nameRu: cfg.nameRu ?? scraped.nameRu,
           nameFa: scraped.nameFa ?? cfg.nameFa,
           nameEn: scraped.nameEn ?? cfg.nameEn,
-          bornYear: scraped.bornYear,
-          bornYearApprox: scraped.bornYearApprox,
-          diedYear: scraped.diedYear,
-          diedYearApprox: scraped.diedYearApprox,
+          bornYear: scraped.bornYear ?? life?.bornYear,
+          bornYearApprox: scraped.bornYearApprox ?? life?.bornYearApprox,
+          diedYear: scraped.diedYear ?? life?.diedYear,
+          diedYearApprox: scraped.diedYearApprox ?? life?.diedYearApprox,
           bornPlace: scraped.bornPlace,
           diedPlace: scraped.diedPlace,
           type: cfg.type ?? scraped.type,

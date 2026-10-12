@@ -13,6 +13,9 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Ashig_Alesger.jpg/330px-Ashig_Alesger.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Ashig_Alesger.jpg'
 portraitCredit: 'Unknown author, 1926 · Public domain'
+bornYear: 1821
+bornYearApprox: true
+diedYear: 1926
 ---
 **Aşıq Ələsgər** (doğum adı: *Ələsgər Alməmməd oğlu*) — XIX–XX əsr Azərbaycan aşığı.
 

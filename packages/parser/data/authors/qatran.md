@@ -25,6 +25,10 @@ bioRu: >-
 
 
   Катран Тебризи оставил глубокий след в поэзии и истории лексикографии Ирана.
+bornYear: 1009
+bornYearApprox: true
+diedYear: 1072
+diedYearApprox: true
 ---
 XI əsrdə yaşamış Qətran Təbrizinin (1012–1081) ana dili fars dili olmuşdur. Onun bizə gəlib çatmış "Divan"ı əsas etibarilə dövrün hökmdarlarına yazılmış mədhiyyə-qəsidələrdən ibarətdir. Bizə gəlib çatmamış əsərləri arasına "Təfasir fil-lüğətil-fürs" (Fars dilinin izahlı lüğəti), "Qövsnamə" (və ya Quşnamə) və "Vamiq və Əzra" əsərləri daxildir.
 

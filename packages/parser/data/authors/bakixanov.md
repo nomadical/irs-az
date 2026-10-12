@@ -1,7 +1,7 @@
 ---
 slug: bakixanov
 nameAz: Abbasqulu ağa Bakıxanov
-nameRu: 'Бакиханов, Аббас-Кули-ага'
+nameRu: Аббас-Кули-ага Бакиханов
 nameEn: Abbasgulu agha Bakikhanov
 type: WRITER
 period: XIX əsr
@@ -41,6 +41,8 @@ bioRu: |-
 portraitUrl: 'https://upload.wikimedia.org/wikipedia/commons/4/4a/Qudsi.jpg'
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Qudsi.jpg'
 portraitCredit: Unknown Painter · Public domain
+bornYear: 1794
+diedYear: 1847
 ---
 Əsərinin müqəddiməsində həmin əsərin "Ümumi coğrafiya" kitabının "riyazi hissəsindən" götürüldüyü qeyd olunur. Bu əsər ərəb dilində qələmə alınmışdır. Əsərdə müəllif islamın ehkamlarının əksinə olaraq heliosentrik nəzəriyyəyə tərəfdar çıxmışdır. 30-cu illərdə Abbasqulu ağa Bakıxanov kainatın quruluşu və vəziyyətindən bəhs edən əsərlərlə maraqlanır, qədim yunan və ərəb alimlərinin bu sahədə yazdıqları əsərləri mütaliə edir. Yeni inqilabi kəşfləri ilə məşhur olan Nyuton, Qaliley, Kopernik, Kepler və s. məşhur alimlərin əsərləri ilə tanış olur. Maraqlıdır ki, o bu əsəri 1832-ci ildə yazmış və özü ilə 1846-cı ildə Türkiyəyə aparmış və Osmanlı sultanı Sultan Əbdülməcidə təqdim etmişdir. Əsər 1848-ci ildə Türkiyədə "Əfkarül-cəbarut fi əsrarül-məlakut" adı ilə İstanbulda nəşr olunmuşdur. O bu çapı görə bilməmişdir. Müəllifin qeyd etdiyinə görə əsərin farsca da variantı olmuşdur, lakin həmin variant əlimizdə yoxdur.
 Onun ərəb dilində yazılmış digər elmi əsəri **"Eynəl-mizan"** adlanır. Əsər məntiq elminə həsr olunub.

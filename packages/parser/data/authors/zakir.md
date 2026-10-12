@@ -20,6 +20,8 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Gasim_bey_Zakir.jpg/330px-Gasim_bey_Zakir.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Gasim_bey_Zakir.jpg'
 portraitCredit: Unknown author · Public domain
+bornYear: 1784
+diedYear: 1857
 ---
 İvano bəy deyə Zakirin müraciət etdiyi şəxs İvan Silvitiskidir (1820–1874). O, 1850–1854-cü illərdə Tiflisdə nəşr edilən "Kavkaz" qəzetinin baş redoktoru olmuş, M. F. Axundovun pyeslərini tamaşaya qoymuşdur. Şeirdə "İliqo" deyə müraciət olunan şəxs knyaz Orbelianidir. Məhz onun sayəsində şairin övladları sürgündən azad olunmuş və şair "Knyaz" şeirində bunu vəsf etmişdir.
 Şair bir neçə ay Bakıda sürgün həyatı keçirəndən sonra bu şəxslərin səyi nəticəsində Şuşaya qayıtdı. Lakin o, ömrünün axırınadək polis nəzarəti altında yaşadı. Oğlu və qardaşı oğlu isə 3 il Rusiyada sürgündə qaldılar.

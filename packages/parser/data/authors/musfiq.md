@@ -1,7 +1,7 @@
 ---
 slug: musfiq
 nameAz: Mikayıl Müşfiq
-nameRu: 'Мушфиг, Микаил'
+nameRu: Микаил Мушфиг
 nameEn: Mikayil Mushfig
 type: POET
 period: XX əsr
@@ -22,6 +22,8 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Mikayil_Mushfig.jpg/330px-Mikayil_Mushfig.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Mikayil_Mushfig.jpg'
 portraitCredit: 'Unknown author, 1930s · Public domain'
+bornYear: 1908
+diedYear: 1938
 ---
 **Mikayıl Müşfiq** (tam adı: *Mikayıl Əbdülqadir oğlu İsmayılzadə*) — Azərbaycan şairi, tərcüməçisi və pedaqoqu, Azərbaycan Yazıçılar Birliyinin üzvü (1934), "Azərnəşr"in keçmiş redaktoru.
 

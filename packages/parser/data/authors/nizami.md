@@ -14,6 +14,10 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Nizami_Rug_Crop.jpg/330px-Nizami_Rug_Crop.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Nizami_Rug_Crop.jpg'
 portraitCredit: 'Unknown author, 2004 · CC BY-SA 2.0'
+bornYear: 1141
+bornYearApprox: true
+diedYear: 1209
+diedYearApprox: true
 ---
 Şifahi xalq ədəbiyyatı və yazılı tarixi salnamələrin ənənəvi mövzularından istifadə edən Nizami, islamdan əvvəlki və islam dövrü İranını birləşdirmişdir. Nizaminin qəhrəmanlıq-romantik poeziyası sonrakı əsrlər boyunca, fars dilinin istifadə olunduğu bütün ərazilərdə özünü ona oxşatmağa çalışan gənc sənətkarların yaradıcılığına təsir etmiş, nəinki Persiyada, həm də Azərbaycan, Əfqanıstan, Gürcüstan, Hindistan, İran, Pakistan, Tacikistan, Türkiyə və Özbəkistan kimi müasir ölkələrin mədəniyyətinin formalaşmasında rol oynamışdır. Nizaminin yaradıcılığı, Hafiz Şirazi, Mövlana Cəlaləddin Rumi və Sədi Şirazi kimi böyük sənətkarların yaradıcılığına təsir etmişdir. Onun, müxtəlif ictimai, mədəni və elmi mövzuları işıqlandıran beş məsnəvisi bütün Şərq ölkələrində böyük məşhurluğa malik olmuşdur ki, bunu da, şairin əsərlərinin çoxlu sayda və müxtəlif dövrlərə aid əlyazmalarının dövrümüzə çatması sübut edir. Nizaminin *"Xosrov və Şirin"*, *"Leyli və Məcnun"* və *"İsgəndərnamə"* kimi əsərlərinin qəhrəmanları, indi də, bütün islam ölkələrində, eləcə də dünyada tanınmaqdadır.
 

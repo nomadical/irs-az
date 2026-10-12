@@ -1,7 +1,7 @@
 ---
 slug: haqverdiyev
 nameAz: Əbdürrəhim bəy Haqverdiyev
-nameRu: 'Ахвердов, Абдуррагим-бек Асад-бек оглы'
+nameRu: Абдуррагим-бек Ахвердов
 nameEn: Abdurrahim bey Hagverdiyev
 type: WRITER
 period: XIX-XX əsr
@@ -13,6 +13,8 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Abdurrahim_bey_Hagverdiyev_4.jpg/330px-Abdurrahim_bey_Hagverdiyev_4.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Abdurrahim_bey_Hagverdiyev_4.jpg'
 portraitCredit: 'Unknown author, 1933 · Public domain'
+bornYear: 1870
+diedYear: 1933
 ---
 Əbdürrəhim bəy Haqverdiyev XIX əsrin sonu – XX əsrin əvvəllərində ədəbi-mədəni mühitin aparıcı simalarından biri olmuşdur. Mirzə Fətəli Axundzadə və Nəcəf bəy Vəzirovun yaradıcılıq ənənələrini davam etdirən Haqverdiyev eyni zamanda satirik və psixoloji dram janrlarında yazdığı əsərlərlə milli ədəbiyyatın inkişafına töhfə vermişdir.
 

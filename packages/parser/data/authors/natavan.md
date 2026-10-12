@@ -1,7 +1,7 @@
 ---
 slug: natavan
 nameAz: Xurşidbanu Natəvan
-nameRu: 'Натаван, Хуршидбану'
+nameRu: Хуршидбану Натаван
 nameEn: Khurshidbanu Natavan
 type: POET
 period: XIX əsr
@@ -14,6 +14,8 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Natavan.jpg/330px-Natavan.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Natavan.jpg'
 portraitCredit: 'Unknown author, 1897 · Public domain'
+bornYear: 1832
+diedYear: 1897
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli 211 nömrəli Qərarı ilə Xurşidbanu Natəvan Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 

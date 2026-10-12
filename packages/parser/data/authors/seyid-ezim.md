@@ -1,7 +1,7 @@
 ---
 slug: seyid-ezim
 nameAz: Seyid Əzim Şirvani
-nameRu: 'Ширвани, Сеид Азим'
+nameRu: Сеид Азим Ширвани
 nameEn: Seyid Azim Shirvani
 type: POET
 period: XIX əsr
@@ -13,6 +13,8 @@ bioRu: "Первые сведения о Сеид Азим Ширвани был
 portraitUrl: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/Seyid_Azim_Shirvani.jpg'
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Seyid_Azim_Shirvani.jpg'
 portraitCredit: Unknown author · Public domain
+bornYear: 1835
+diedYear: 1888
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli 211 nömrəli Qərarı ilə Seyid Əzim Şirvani Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 
