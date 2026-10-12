@@ -802,5 +802,52 @@
       "az": "Həbibi"
     },
     "collections": []
+  },
+  {
+    "slug": "vidadi",
+    "nameAz": "Molla Vəli Vidadi",
+    "nameRu": "Молла Вели Видади",
+    "nameEn": "Molla Vali Vidadi",
+    "type": "POET",
+    "period": "XVIII əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "skipSources": [
+      "wikisource-az-2698",
+      "wikisource-az-32317",
+      "wikisource-az-32356",
+      "wikisource-az-2691"
+    ],
+    "wikipedia": {
+      "az": "Molla Vəli Vidadi",
+      "ru": "Видади, Молла Вели"
+    },
+    "wikisource": {
+      "az": "Molla Vəli Vidadi",
+      "az_extra": {
+        "Ah kim, gör neylədi bu gərdişi-dövran bu gün": "vidadi-muxemmesler"
+      }
+    },
+    "collections": []
+  },
+  {
+    "slug": "zakir",
+    "nameAz": "Qasım bəy Zakir",
+    "nameRu": "Касум-бек Закир",
+    "nameEn": "Gasim bey Zakir",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Qasım bəy Zakir",
+      "ru": "Касум-бек Закир"
+    },
+    "wikisource": {
+      "az": "Qasım bəy Zakir"
+    },
+    "collections": []
   }
 ]
