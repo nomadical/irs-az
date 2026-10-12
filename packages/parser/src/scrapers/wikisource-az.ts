@@ -625,6 +625,9 @@ export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePla
     const page = listed && (await ownVersion(listed));
     if (listed && !page) continue;
     if (page && seenPages.has(page.pageid)) continue;
+    // A page of several poems that az_extra cuts up is left to it
+    const split = page && cfg.wikisource?.az_extra?.[page.title];
+    if (split && typeof split === 'object' && (split.separator || split.starts)) continue;
     const params = vet(page, entry.title);
     if (!page || !params) continue;
 
