@@ -1157,5 +1157,48 @@
         "genre": "PROSE"
       }
     ]
+  },
+  {
+    "slug": "saib",
+    "nameAz": "Saib Təbrizi",
+    "nameRu": "Саиб Тебризи",
+    "nameFa": "صائب تبریزی",
+    "nameEn": "Saib Tabrizi",
+    "type": "POET",
+    "period": "XVII əsr",
+    "writingLangs": [
+      "FA",
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Saib Təbrizi",
+      "ru": "Саиб Тебризи"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/saeb",
+      "collections": [
+        {
+          "catUrl": "/saeb/divan-saeb/ghazalkasa",
+          "collectionSlug": "saib-qezeller",
+          "form": "GHAZAL"
+        },
+        {
+          "catUrl": "/saeb/divan-saeb/ghtorki",
+          "collectionSlug": "saib-turki-qezeller",
+          "form": "GHAZAL",
+          "lang": "AZ_ARABIC"
+        },
+        {
+          "catUrl": "/saeb/divan-saeb/ghasayed-sa",
+          "collectionSlug": "saib-qesideler",
+          "form": "QASIDA"
+        },
+        {
+          "catUrl": "/saeb/divan-saeb/motefarreghat",
+          "collectionSlug": "saib-perakende"
+        }
+      ]
+    },
+    "collections": []
   }
 ]

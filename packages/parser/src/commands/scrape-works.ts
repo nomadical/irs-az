@@ -241,7 +241,7 @@ async function scrapeGanjoor(cfg: AuthorConfig, dryRun: boolean) {
       titleEn: colTitles?.en,
       authorSlug: cfg.slug,
       genre: 'POEM',
-      originalLang: 'FA',
+      originalLang: col.lang ?? 'FA',
       status: 'DRAFT',
     });
 
@@ -264,7 +264,7 @@ async function scrapeGanjoor(cfg: AuthorConfig, dryRun: boolean) {
           titleEn: titles?.en,
           authorSlug: cfg.slug,
           collectionSlug: col.collectionSlug,
-          originalLang: 'FA',
+          originalLang: col.lang ?? 'FA',
           scriptDirection: 'RTL',
           genre: 'POEM',
           form,

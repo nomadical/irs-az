@@ -256,6 +256,7 @@ export interface AuthorConfig {
       catUrl: string; // e.g. "https://ganjoor.net/fuzuli/divan-fa/ghazal-fa"
       collectionSlug: string;
       form?: PoemForm;
+      lang?: Language; // the poems' language when not Persian, e.g. Saib's Turkic ghazals (AZ_ARABIC)
     }[];
   };
   collections?: {

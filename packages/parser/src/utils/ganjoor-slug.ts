@@ -49,6 +49,11 @@ const SECTIONS: Record<string, Section> = {
   digar: poem('perakende', 'Pərakəndə şeir', 'Отдельное стихотворение', 'Miscellaneous poem'),
   morabba: poem('murebbe', 'Mürəbbe', 'Мурабба', "Murabba'"),
   esfahani: poem('isfahan-lehcesi', 'İsfahan ləhcəsində şeir', 'Стихотворение на исфаханском диалекте', 'Poem in the Isfahani dialect'),
+  // Saib's divan sections
+  ghazalkasa: poem('qezel', 'Qəzəl', 'Газель', 'Ghazal'),
+  ghtorki: poem('turki-qezel', 'Türki qəzəl', 'Тюркская газель', 'Turkic ghazal'),
+  'ghasayed-sa': poem('qeside', 'Qəsidə', 'Касыда', 'Qasida'),
+  motefarreghat: poem('perakende', 'Pərakəndə şeir', 'Отдельное стихотворение', 'Miscellaneous poem'),
   // Mahsati's separate rubai selection, distinct from divan/robaee
   robmah: { slug: 'rubailer', az: 'Rübailər', ru: 'Рубайят', en: 'Rubaiyat', kind: 'list' },
   // Book-length masnavis, split into chapters
@@ -120,6 +125,10 @@ export const GANJOOR_COLLECTION_TITLES: Record<string, Titles> = {
   'ovhadi-divan': { az: 'Divan', ru: 'Диван', en: 'Divan' },
   'ovhadi-mentiqul-ussaq': { az: 'Məntiqül-üşşaq', ru: 'Мантик аль-ушшак', en: "Mantiq al-'Ushshaq" },
   'ovhadi-cami-cem': { az: 'Cami-Cəm', ru: 'Джам-и Джам', en: 'Jam-i Jam' },
+  'saib-qezeller': { az: 'Fars dilində divan: qəzəllər', ru: 'Персидский диван: газели', en: 'Persian Divan: Ghazals' },
+  'saib-turki-qezeller': { az: 'Türki qəzəllər', ru: 'Тюркские газели', en: 'Turkic Ghazals' },
+  'saib-qesideler': { az: 'Fars dilində divan: qəsidələr', ru: 'Персидский диван: касыды', en: 'Persian Divan: Qasidas' },
+  'saib-perakende': { az: 'Fars dilində divan: pərakəndə şeirlər', ru: 'Персидский диван: отдельные стихотворения', en: 'Persian Divan: Miscellaneous Poems' },
 };
 
 export const isLegacyGanjoorSlug = (slug: string) => /^ganjoor-\d+$/.test(slug);
