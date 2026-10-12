@@ -1272,6 +1272,15 @@ blockquote {
   outline:      none;
 }
 .search-input:focus { border-color: var(--pomeg); }
+/* A search field can shrink below its natural width, so the button stays on a 320px screen;
+   appearance:none keeps WebKit from restyling type="search" */
+.search-input { min-width: 0; -webkit-appearance: none; appearance: none; }
+.search-btn { flex-shrink: 0; }
+@media (pointer: coarse) {
+  /* iOS zooms into any field set under 16px; 44px is the touch-target height */
+  .search-input { font-size: 1rem; }
+  .search-input, .search-btn { min-height: 2.75rem; }
+}
 .search-btn {
   padding:      0.5rem 0.9rem;
   background:   var(--pomeg);
@@ -1942,6 +1951,15 @@ blockquote {
 @media (pointer: coarse) {
   .lang-tab, .appearance-step, .lang-btn { min-height: 2.75rem; }
   .appearance-trigger, .theme-btn { width: 2.75rem; height: 2.75rem; }
+}
+/* Under 360px the logo and the tools don't fit one row at touch sizes; tighten the tools
+   so the header stays two rows: narrower language buttons, 40px theme buttons */
+@media (max-width: 359px) {
+  .header-tools { gap: 0.25rem; }
+  .lang-btn { padding-left: 0.35rem; padding-right: 0.35rem; }
+}
+@media (pointer: coarse) and (max-width: 359px) {
+  .theme-btn { width: 2.5rem; height: 2.5rem; }
   .breadcrumb a { padding: 0.5rem 0; }
 }
 

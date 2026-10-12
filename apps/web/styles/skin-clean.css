@@ -714,6 +714,13 @@
 @media (pointer: coarse) {
   [data-skin='clean'] .theme-btn { width: 2.75rem; height: 2.75rem; }
 }
+/* Under 360px: the same tightening as globals.css, at the clean skin's specificity */
+@media (max-width: 359px) {
+  [data-skin='clean'] .lang-btn { padding-left: 0.4rem; padding-right: 0.4rem; }
+}
+@media (pointer: coarse) and (max-width: 359px) {
+  [data-skin='clean'] .theme-btn { width: 2.5rem; height: 2.5rem; }
+}
 
 /* With no ornament line to sit on, a lone "Aa" takes its own row */
 [data-skin='clean'] .reading-toolbar--solo {

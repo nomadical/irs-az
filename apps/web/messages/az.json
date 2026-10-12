@@ -58,7 +58,8 @@
   "search": {
     "placeholder": "Axtar: müəllif, əsər, söz...",
     "results": "{count} nəticə",
-    "no_results": "Heç nə tapılmadı"
+    "no_results": "Heç nə tapılmadı",
+    "more": "Daha çox"
   },
   "common": {
     "read_more": "Ətraflı",

@@ -26,6 +26,9 @@ function Search() {
   const [query, setQuery] = useState(q);
   const [results, setResults] = useState<any>(null);
   const [loading, setLoading] = useState(false);
+  // Results come 20 at a time; "show more" appends the next page
+  const [page, setPage] = useState(1);
+  const [loadingMore, setLoadingMore] = useState(false);
 
   useEffect(() => {
     setQuery(q);
@@ -35,6 +38,7 @@ function Search() {
     }
     let current = true;
     setLoading(true);
+    setPage(1);
     api
       .search(new URLSearchParams({ q }))
       .then((data) => current && setResults(data))
@@ -44,6 +48,23 @@ function Search() {
       current = false;
     };
   }, [q]);
+
+  const loadMore = async () => {
+    setLoadingMore(true);
+    try {
+      const next = page + 1;
+      const data: any = await api.search(new URLSearchParams({ q, page: String(next) }));
+      setResults((prev: any) => {
+        const seen = new Set(prev.hits.map((h: any) => h.id));
+        return { ...prev, hits: [...prev.hits, ...data.hits.filter((h: any) => !seen.has(h.id))] };
+      });
+      setPage(next);
+    } catch {
+      // Keep what is shown; the button stays so the reader can try again
+    } finally {
+      setLoadingMore(false);
+    }
+  };
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -67,7 +88,8 @@ function Search() {
         }}
       >
         <input
-          type="text"
+          type="search"
+          enterKeyHint="search"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder={t('search.placeholder')}
@@ -124,6 +146,14 @@ function Search() {
               {hit._formatted?.body && <Snippet html={hit._formatted.body} lang={hit.lang} />}
             </Link>
           ))}
+
+          {results.hits?.length < results.estimatedTotalHits && (
+            <div className="unfold">
+              <button type="button" className="unfold-btn" onClick={loadMore} disabled={loadingMore}>
+                {loadingMore ? '…' : t('search.more')}
+              </button>
+            </div>
+          )}
         </div>
       )}
     </div>
