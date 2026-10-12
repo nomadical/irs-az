@@ -32,6 +32,7 @@ export class SearchService implements OnModuleInit {
           'titleAz',
           'titleAzPlain',
           'titleRu',
+          'titleEn',
           'titleFa',
           'authorNameAz',
           'authorNamePlain',
@@ -39,6 +40,7 @@ export class SearchService implements OnModuleInit {
           'body',
           'bodyPlain',
           'bodyRu',
+          'bodyEn',
         ],
         filterableAttributes: [
           'authorSlug',
@@ -53,6 +55,7 @@ export class SearchService implements OnModuleInit {
           'slug',
           'titleAz',
           'titleRu',
+          'titleEn',
           'authorNameAz',
           'authorNameRu',
           'authorSlug',
@@ -64,6 +67,7 @@ export class SearchService implements OnModuleInit {
           // returned attributes); stripped from search responses
           'body',
           'bodyRu',
+          'bodyEn',
           'titleAzPlain',
           'bodyPlain',
           'authorNamePlain',
@@ -92,9 +96,8 @@ export class SearchService implements OnModuleInit {
       return;
     }
 
-    const ruTranslation = work.translations.find(
-      (t) => t.language === 'RU' && t.isDefault,
-    );
+    const translation = (language: string) =>
+      work.translations.find((t) => t.language === language && t.isDefault)?.body?.substring(0, 2000);
 
     await this.client.index('works').addDocuments([
       {
@@ -105,7 +108,9 @@ export class SearchService implements OnModuleInit {
         titleFa: work.titleFa,
         body: work.body.substring(0, 2000),
         bodyPlain: fold(work.body.substring(0, 2000)),
-        bodyRu: ruTranslation?.body?.substring(0, 2000),
+        bodyRu: translation('RU'),
+        bodyEn: translation('EN'),
+        titleEn: work.titleEn,
         titleAzPlain: fold(work.titleAz),
         authorNameAz: work.author.nameAz,
         authorNamePlain: fold(work.author.nameAz),
@@ -143,7 +148,7 @@ export class SearchService implements OnModuleInit {
       const terms = queryTerms(dto.q ?? '');
       const hits = result.hits.map(
         // The *Plain fields and full bodies are only fetched to build highlights
-        ({ body, bodyRu, titleAzPlain, bodyPlain, authorNamePlain, _matchesPosition: mp = {}, ...hit }) => {
+        ({ body, bodyRu, bodyEn, titleAzPlain, bodyPlain, authorNamePlain, _matchesPosition: mp = {}, ...hit }) => {
           const title: string = hit.titleAz ?? '';
           const titleStarts = [...matchStarts(title, mp.titleAz), ...matchStarts(title, mp.titleAzPlain, true)];
           const bodyStarts = body ? [...matchStarts(body, mp.body), ...matchStarts(body, mp.bodyPlain, true)] : [];
@@ -160,6 +165,7 @@ export class SearchService implements OnModuleInit {
               body:
                 (body && snippet(body, terms, bodyStarts)) ??
                 (bodyRu && snippet(bodyRu, terms, matchStarts(bodyRu, mp.bodyRu))) ??
+                (bodyEn && snippet(bodyEn, terms, matchStarts(bodyEn, mp.bodyEn))) ??
                 (body ? opening(body) : null),
             },
           };
