@@ -238,7 +238,8 @@
     "bxdlder": "builder",
     "Piirak": "Furak",
     "Baja": "Raja",
-    "Hasrin": "Nasrin"
+    "Hasrin": "Nasrin",
+    "hiim": "him"
   },
   "corrections": [
     {
@@ -644,6 +645,14 @@
     {
       "from": "e\"en by Grecian wiles",
       "to": "e’en by Grecian wiles"
+    },
+    {
+      "from": "(Nu'naan) might clothe",
+      "to": "(Nu'man) might clothe"
+    },
+    {
+      "from": "’tis said, Regions are states ”.",
+      "to": "’tis said, “Regions are states”."
     }
   ],
   "sections": [

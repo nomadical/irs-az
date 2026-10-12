@@ -60,7 +60,7 @@ Should be from Persia to the Arabs borne, that he amongst the Arabs should be re
 
 In hope that from that place he’d fortune gain — From some place every one to honour comes —
 
-In hope that region might bring state to hiim — although, indeed, ’tis said, Regions are states ”.
+In hope that region might bring state to him — although, indeed, ’tis said, “Regions are states”.
 
 His sire loved rather to preserve his life than keep him as the object of his love.
 
@@ -70,7 +70,7 @@ He summoned Nu'man, and the anemone of ruby on the garden he bestowed;
 
 That when Nu'man strewed flowers, and that shoot grew a Nu'manian anemone,
 
-(Nu'naan) might clothe it with the kingly traits, and inculcate the rules of sovereignty.
+(Nu'man) might clothe it with the kingly traits, and inculcate the rules of sovereignty.
 
 He took him from the litter of the king, and made his breast a litter for the moon.
 
