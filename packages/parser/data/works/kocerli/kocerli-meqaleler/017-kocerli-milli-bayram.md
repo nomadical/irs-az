@@ -1,0 +1,34 @@
+---
+slug: kocerli-milli-bayram
+sourceId: wikisource-az-19325
+titleAz: Milli bayram
+authorSlug: kocerli
+collectionSlug: kocerli-meqaleler
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: ESSAY
+year: 1908
+order: 17
+sourceNote: 'https://az.wikisource.org/wiki/Milli%20bayram'
+status: DRAFT
+---
+Budur, beş-altı aydır ki, hörmətli qonşumuz gürcü milləti artıq ciddi-cəhd, şövq və həvəslə böyük bir milli bayramlarının icrasına hazırlaşmaqdadırlar. Bu bayrama, demək olur ki, tamam millət hazırlaşır. Böyük, kiçik, arvad, kişi, xəvass və avam, müəllim və şagird, hər bir sinif və firqə, hətta mehmanxanalar və traktirlərdə qulluq edən lakeylər də milli bayramlarına hazırlaşmaqdadırlar. Bu bayram gürcülərin məşhur şairi Akaki Seretelinin əlli sənəlik yubileyidir ki, bu dekabrın 7-də artıq cəlal və təntənə ilə Gürcüstanın hər yerində icra olunacaqdır. O vaxt biz də "Tərəqqi"nin möhtərəm oxucularına cənab Seretelinin tərcümeyi-halından və asari-qələmiyyəsindən icmalən məlumat verərik. Burada ancaq gürcülərin bu ittihad və ittifaqı bizi bir yandan şad edib, bir yandan mütəəllim etməklə və dərin fikirlərə salmaqla qareini-girami aşna etmək istəyirik.
+
+Əlli sənə millətə xidmət eləmək, onun ürəyində gözəl və pakizə hissiyyatın doğub nəşv-nüma tapmasına səbəb olmaq, millətin keçəcək və istiqbalını, nicat və səadətini şairanə və ədibanə nəzmə çəkmək, əbnayi-millətin təlim və tərbiyəsinə, ruhani məişətinə qulluq eləmək, əlbəttə, böyük hünərdir. Əlli sənə millət balalarının beşiyini yırğalayıb onlara layla çalmaq, gözəl nağıllar demək, millət analarının qəlbində məhəbbət toxumu saçıb o məhəbbətlə Gürcüstanın yaralarını sağaltmağı mühəyya etmək, millət cavanlarının ürəyində qeyrət və fədakarlıq hissiyyatına pərvəriş vermək, millət əkinçilərinin ağır zəhmətini gözəl mahnılar ilə yüngülləşdirmək, əlbəttə, böyük və əvəzsiz qulluqlardır ki, bunların müqabilində nə qədər hörmət və ehtiram olunsa yenə də azdır. Bu qədər vəsfə gəlməyən xidmətlərin əvəzində hər bir maddi müavinət və ehsanatdan, hər qisim töhfə və hədiyyələrdən ziyadə şairi xoşhal və səadətmənd edən bir şey varsa o da millətin məhəbbətidir. Sereteli cənablarını bu bimisl səmimi və mənəvi töhfə ilə biz təbrik edə bilərik. Doğrudan da gürcü camaatının ürəyi şairə nisbət məhəbbət hissi ilə doludur necə ki, gürcü milləti sağ və salamatdır, onun adı dəxi xəyal ilə zində və baqi qalacaqdır. Budur, qonşularımızın hal-həyatda olan şair və ədibləri haqqında etdiyi ifayi-məhəbbət və müvəddət və izhari-sədaqət və xlusiyyət! İndi keçək ölmüş ədiblərinin üstə.
+
+Keçən sənədə sentyabrın 7-də knyaz İlya Çavçavadzenin təşyiyi-cənazəsində olub, gürcülərin mütəvəffi ədiblərinə göstərdiyi ehtiramı da gördük. Bu qisim ehtiramı və bu sayaq təziyədarlığı, belə ittihad və ittifaqı bu vaxta kimi biz bir kəsin haqqında görməmişdik. Cəmi Gürcüstan, demək olardı ki, böyük bir hüzn və qəmə, intəhasız bir yasa düçar olub öz şairlərinin cəsədi ilə belə ruhani zindəganlıqlarının mayəsini hazırlaşdırdılar ki, qara torpağın altında dəfn etsinlər. Gürcüstanın hər yerindən: uzaq və uca dağlarından, dərin dərələrindən və qalın meşələrindən deputatlar Tiflis şəhərinə cəm olub, hər biri bir növlə izhari-təəssüf və zar-təzərrö edirdilər. Əkinçidən tutmuş ərbabi-qələmə kimi, rəiyyətdən knyazlaracan, fəqir-füqəradan sərvət və dövlət əhlinədək, hər qisim sənətkar və əsnaflardan, şagirdlərdən, müəllimlərdən, qara camaatdan, ruhanilərdən, müəllimə və mütəəllimələrdən, hər bir firqə və partiyalardan, sahibi-mənsəblərdən, mütəəddid dəftərxana çinovniklərindən iki yüzəcən venoklar mühəyya olunub, hər firqənin vəkili öz venokunu məhzun və qəmgin bir halət üzrə təşyiyi-cənazədə apardılar. Gürcü qəzetə və jurnalları başdan ayağa hüznavər və ənduhsirişt məqalələrlə dolmuş idi. Hər yazıçı bir dil ilə, hər şair bir növhə və təranə ilə yetmiş sinnində məqtul olunmuş ədiblərini oxşayırdı....
+
+Aya, biz Azərbaycan türklərinin sereteliləri və çavçavadzeləri olmayıbdırmı? Bizim milli şairlərimiz ərseyi-dünyaya gəlməyibdirmi? Aya, bizlər belə möhtərəm şəxslərin vücudundan məhrummu qalmışıq? Bu suallara cavab verib deyə bilərik ki, bizim də çox böyük, müqtədir və xoştəb milli şairlərimiz olubdur və lakin mətəəssüf onların qədir və qiyməti nə öz vaxtlarında və nə bu halda bilinməyibdir. Bu vaxtadək nə Qasımbəy Zakirin və nə Hacı Seyid Əzim Şirvaninin tərcümeyi-halları və əşari-asarı kamalınca öyrənilməyibdir. Bu qəflət və kəmetinalıq bizim hala cəhalət və kəsalət içrə yaşayıb qalmağımıza böyük bir sübutdur. İndiyə kimi Qasımbəy Zakirin əsərlərindən Adolf Berjenin Leypsiqdə təb olunmuş məcmuəsinə daxil olan nəviştəcat və bəzi qəzəliyyatdan başqa birisi də çap olunmayıbdır. Hacı Seyid Əzimin əsərlərindən bir parası çap olunubsa da, bir çoxu dəxi təb və nəşr olunmayıbdır. Çap olunanları dəxi xeyli biqayda və bisəliqə tərtib olunubdur.
+
+Əsla lüzumiyyəti olmayan və təqazayi-zəmanayə müvafiq gəlməyən əsərlər məcmuəyə daxil olduğu [halda], ziyadə əhəmiyyətli və lazımlıları unudulub kitaba salınmayıbdır. Nəstəliq xətti ilə Ünsizadənin mətbəəsində çap olunmuş kitabda həddən ziyadə səhv və qələtlər vardır, kitabın kağızı alçaq və cod olmağa görə bəzi yerləri bir sayaq qarışıq və bulaşıq xətlə çap olubdur ki, düz oxunması savad əhlinə dəxi müyəssər deyil. Budur bizim əvvəlinci şairimizin, milli ədibimizin və mayeyi-fəxrimiz olan Seyidin əsərlərinə və ya digərlərinə olan hörmət və ehtiram. Bizim yəqinimizdir ki, əgər Hacı Seyid Əzim kimi şair, Avropa əhlini hələ kənarda qoyaq, bizim qonşularımız erməni və gürcü tayfalarının içində vücuda gəlmiş olsa idi, onun əsərləri kərrat ilə çapdan çıxıb, oxucular arasında bir dərəcədə intişar bulmuşdu ki, uşaqdan böyüyə kimi cümləsi onları oxuyub əksəriyyəti əzbərdən bilərdilər.
+
+Budur, beş ildən ziyadədir ki, biz fəqir milli şairlərimizin tərcümeyi-hallarına dair əhvalat yığmağa çalışırıq, kifayətincə məlumat cəm etmək bacarmadıq. Hacı Seyid Əzimin, Abdulla bəy Asinin və mərhum Mirzə Fətəli Axundovun vəfatlarına gəldikdə bunların haqqında izhar olunan bietinalığı və bir dərəcədə biədəbliyi dilə gətirməsək yaxşıdır.... Ancaq mayeyi-təsəllimiz bu ola bilər ki, ədiblərimizin qədr və qiyməti öz vaxtlarında və bu halda bilinməsə də gələcəkdə qəflət yuxusundan ayılmış millətimizin zirək və qədrşünas balaları bilərlər və onların nam və şöhrətini uca məqama qalxızarlar və bu unudulmuş əsərlərini intişar etməklə adlarını zində qılarlar. Çünki bizim şüəra cismən ölüb fövt olublarsa da, ruhən və mənən həlak olmayıblar.
+
+Farsların Sədi və Hafizi diri qalan kimi bizlərin də Zakiri, Seyidi, Nəbatisi, Saliki, Arifi, Fəqiri, Kamisi gərək diri qalsınlar.
+
+Mərhum Hacı Seyid Əzimin bu beyti ki, onun qəbr daşına yazılıbdır, bizim arzunun gələcəkdə nəticə-bəxş olunmasına şəhadət verir:
+
+Mövti-cismani ilə sanma mənim ölməyimi,
+Seyyida, ölmərəm, aləmdə səsim var mənim!
+
+Əlbəttə, bizim də milli bayramımız olacaqdır!

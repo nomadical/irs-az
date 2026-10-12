@@ -1371,5 +1371,28 @@
       "az": "Xəstə Qasım"
     },
     "collections": []
+  },
+  {
+    "slug": "kocerli",
+    "nameAz": "Firidun bəy Köçərli",
+    "nameRu": "Фиридун-бек Кочарлинский",
+    "nameEn": "Firidun bey Kocharli",
+    "type": "CRITIC",
+    "period": "XIX-XX əsr",
+    "writingLangs": ["AZ_ARABIC"],
+    "skipSources": ["wikisource-az-19500"],
+    "wikipedia": {
+      "az": "Firidun bəy Köçərli",
+      "ru": "Кочарлинский, Фиридун-бек Ахмед-бек оглы",
+      "en": "Firidun bey Kocharli"
+    },
+    "wikisource": {
+      "az": "Firidun bəy Köçərli",
+      "az_aliases": ["Firudin bəy Köçərli"],
+      "az_titles": {
+        "Azərbaycan ədəbiyyatı (F.Köçərli, II cild)/Fatimə xanım \"Kəminə\"": "Fatimə xanım \"Kəminə\""
+      }
+    },
+    "collections": []
   }
 ]

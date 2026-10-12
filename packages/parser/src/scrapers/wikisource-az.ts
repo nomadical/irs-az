@@ -443,6 +443,8 @@ export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePla
   const plan: WikisourcePlan = { collections: [], works: [], skipped: [] };
   const seenPages = new Set<number>();
   const skipSources = new Set(cfg.skipSources);
+  // A critic's untyped sections are criticism, a poet's are poems
+  const defaultGenre: Genre = cfg.type === 'CRITIC' ? 'ESSAY' : 'POEM';
   const usedSlugs = new Set<string>();
 
   const uniqueSlug = (base: string) => {
@@ -515,8 +517,10 @@ export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePla
     // chapter's own name is then in the link text
     const header = params['başlıq'] && headerTitle(params['başlıq']);
     // `[[../]]` (a link to the parent page) is wiki shorthand for the book's name too
+    // So is the book's name with its volume: "Azərbaycan ədəbiyyatı. I cild."
     const repeatsBook =
-      !!header && (/^\.{0,2}\//.test(header) || header.replace(/[.\s]+$/, '') === coll.titleAz);
+      !!header && (/^\.{0,2}\//.test(header) || header.replace(/[.\s]+$/, '') === coll.titleAz ||
+        header.startsWith(`${coll.titleAz}. `));
     const titleAz =
       cfg.wikisource?.az_titles?.[page.title] ?? (header && !repeatsBook ? header : cleanTitle(display, authorTokens));
     const leaf = cleanTitle(page.title, authorTokens);
@@ -642,7 +646,7 @@ export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePla
     const hasChildren =
       entry.children.length > 0 || parts.length > 0 || listLinks(page.wikitext, page.title).length > 0;
     const year = parseYear(params['il']) ?? entry.year;
-    const sectionGenre = genreOf(entry.heading) ?? 'POEM';
+    const sectionGenre = genreOf(entry.heading) ?? defaultGenre;
 
     if (hasChildren) {
       // An index of its own (a divan, a poem in chapters, a play in acts) → its own collection
@@ -651,7 +655,7 @@ export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePla
         ? headerTitle(params['başlıq'])
         : cleanTitle(entry.display, authorTokens);
       // The section heading knows the genre better than the title ("Hekayəti…" is a comedy)
-      const coll = collectionFor(page.title, title, genreOf(entry.heading) ?? genreOf(title) ?? 'POEM', year);
+      const coll = collectionFor(page.title, title, genreOf(entry.heading) ?? genreOf(title) ?? defaultGenre, year);
       const prefix = `${cfg.slug}-${shortSlug(cleanTitle(page.title, authorTokens))}`;
       await walk(page, params, entry.display, coll, {
         form: formOf(title) ?? formOf(entry.heading),
