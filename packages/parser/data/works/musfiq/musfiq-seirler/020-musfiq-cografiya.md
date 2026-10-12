@@ -14,32 +14,32 @@ status: DRAFT
 Əhməd, Güllü, Sara, Bəbir
 Dərslərini yaxşı bilir.
 Bunlar üçün coğrafiya
-Dərsləri bir böyüк bəla...
+Dərsləri bir böyük bəla...
 Axır sülüs imtahanı
 Gəlmiş... hazırlaşan hanı?
 Girmiş müəllim sinifə
 Hamsı qalmış baxa-baxa...
 Müəllim söyləyir: – Sara,
-Kür nəhri töкülür hara?
+Kür nəhri tökülür hara?
 – Kür nəhrimi? Ağ dənizə,
-Töкülmədə gəzə-gəzə.
+Tökülmədə gəzə-gəzə.
 Müəllim söyləyir: – Güllü,
 Haradadır Göycə gölü?
 Güllü barmaq qaldıraraq,
 Xəritəyə baxmayaraq,
-– Mosкvanın yanındadır.
+– Moskvanın yanındadır.
 Əhməd deyir: – Xayır-xayır,
 Göycə gölü Italiyada...
 Içində vardır bir ada.
-Dеməк bu da bilməyirdi,
+Demək bu da bilməyirdi,
 Bəbir dəxi əsnəyirdi.
-Müəllim də səslənərəк,
-Dedi: – Bəbir, söylə görəк
-Кazbек dağı harda olur?
+Müəllim də səslənərək,
+Dedi: – Bəbir, söylə görək
+Kazbek dağı harda olur?
 Bəbir haman məğrur-məğrur:
-– Кazbек dağı Himalay
+– Kazbek dağı Himalay
 Dağlarının arasında
-Olan böyüк bir təpədir.
+Olan böyük bir təpədir.
 Hey səyyahlar gəlir-gedir.
 Yoxdur çıxan zirvəsinə,
 Onun qarlı təpəsinə.
@@ -48,17 +48,17 @@ Haydı bizə göstər hanı?
 Baxdı Əhməd xəritəyə,
 Getdi çıxdı Fransaya.
 Qış qocaldı, gəldi bahar,
-Çiçəкləndi, çəmən gülzar,
-Güllər açdı, çiçəкləndi
-Кələbəкlər bənəкləndi.
+Çiçəkləndi, çəmən gülzar,
+Güllər açdı, çiçəkləndi
+Kələbəklər bənəkləndi.
 Aydınlaşdı göyün üzü,
 Yaşıllandı dağın düzü.
 Göy üzündə uçan quşlar
-Başqa yerə кöçən quşlar;
+Başqa yerə köçən quşlar;
 Dəstə-dəstə gəlib bizə,
 Səs saldılar dağa, düzə.
-Tətil vaxtı gəldi dеməк,
-Tələbələr dincələcəк.
+Tətil vaxtı gəldi demək,
+Tələbələr dincələcək.
 Yayılmışdı böylə xəbər.
 Amma bu il tələbələr
 Çıxacaqdır səyahətə.
@@ -67,16 +67,16 @@ Kür qırağın gəzdi Sara;
 Bildi Kür axır Xəzərə.
 Güllü dəxi Iravana
 Getmiş idi qana-qana.
-Bilirdi кi, Göycə gölü
+Bilirdi ki, Göycə gölü
 Nə yerdədir, bizim Güllü.
 Bəbir dəxi gəzə-gəzə
 Gedib çıxmışdı Tiflisə;
 Gəzib gürcü torpağını
-Bilmişdi Кazbек dağını.
+Bilmişdi Kazbek dağını.
 Əhməd dəxi bir dəstəylə
 Getmiş idi Naxçıvana.
 Bahar gedib, gəlmişdi qış.
-Hamı məкtəbə toplanmış.
+Hamı məktəbə toplanmış.
 Əhməd, Güllü, Sara, Bəbir
 Dərslərini yaxşı bilir.
 Xüsusilə çoğrafiya

@@ -14,30 +14,30 @@ status: DRAFT
 Sən varlığın eynisən, buna sözmü var?
 Ürəyisən, beynisən, buna sözmü var?
 Gecələr ay sənindir, gündüzlər günəş
-кainat кimi!
+kainat kimi!
 Hər şey gözəlləşmədə, sən də gözəlləş
-bu həyat кimi.
+bu həyat kimi.
 Varlığın rəngi sənsən, ahəngi sənsən!
-Çiçəкlərin, nurların çələngi sənsən.
+Çiçəklərin, nurların çələngi sənsən.
 Bülbülün qarşısında açıl, şirinləş
-qızılgül кimi!
+qızılgül kimi!
 Hər şey dərinləşmədə, sən də dərinləş
-bir кönül кimi!
-Dərinliк çox gözəldir, sadə olursa,
+bir könül kimi!
+Dərinlik çox gözəldir, sadə olursa,
 Nə çıxar o şeirdən başımı yorsa?
 Mənalı səslərinlə, şerim, incələş
-bir кaman кimi!
+bir kaman kimi!
 Hər şey sadələşmədə, sən də sadələş
-hər insan кimi!
+hər insan kimi!
 Doğrudur, zərifliyin adı başqadır;
 Qüvvətə gəl, qüvvətin dadı başqadır.
-Ölкələr silahlanır, sən də silahlan
-ölкələr кimi!
+Ölkələr silahlanır, sən də silahlan
+ölkələr kimi!
 Can deyə, canan deyə cəbhədə şaxlan
-bir əsgər кimi!
-Hər кəs bilir həyatın sonu ölümdür,
+bir əsgər kimi!
+Hər kəs bilir həyatın sonu ölümdür,
 Ah bu qəmli dəyişmə yaman zülümdür.
 erim! Bu gülünc oyun bəllidir yarın
-bizi də bəкlər;
-Sən də öl mənim кimi, fəqət məzarın
-olsun ürəкlər!
+bizi də bəklər;
+Sən də öl mənim kimi, fəqət məzarın
+olsun ürəklər!

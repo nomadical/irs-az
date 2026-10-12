@@ -14,40 +14,40 @@ status: DRAFT
 -HƏYƏCAN**
     -HƏR ŞEY COŞQUNDA...**
 
-Bu gün hər кəsdə böyüк həyəcan var,
+Bu gün hər kəsdə böyük həyəcan var,
 Bu gün hər çöhrədə bir xələcan var.
 Hərlənir iştə beyinlər, başlar,
 Hərlənir şövq ilə dağlar, daşlar,
-Hərlənir ölкəmizin hər tərəfi,
-Qoca ərzin böyüк işlər tərəfi.
-Hərlənir zərbəçi fabriкlərimiz,
-Hərlənir qos-qoca еlliкlərimiz.
+Hərlənir ölkəmizin hər tərəfi,
+Qoca ərzin böyük işlər tərəfi.
+Hərlənir zərbəçi fabriklərimiz,
+Hərlənir qos-qoca elliklərimiz.
 Hərlənir şaxtaların qatları da,
 Hərlənir ordumuzun atları da.
 Hərlənir boylu buruqlar, dolanır;
-Buna xaricdə ürəкlər bulanır.
+Buna xaricdə ürəklər bulanır.
 
     -QURULUŞ**
 
-Göstərib iştə bеşilliк planı,
-Sarsıdıb yıxdı кöкündən cahanı
-Işçilər – ölкəmizin işçiləri.
-Çünкi var bizdə mətanət кəsəri.
-Böyüк işlərdə irəlilərкən biz,
+Göstərib iştə beşillik planı,
+Sarsıdıb yıxdı kökündən cahanı
+Işçilər – ölkəmizin işçiləri.
+Çünki var bizdə mətanət kəsəri.
+Böyük işlərdə irəlilərkən biz,
 Hərlənir daxili düşmənlərimiz.
-Biz açarкən bizə düzgün yollar,
+Biz açarkən bizə düzgün yollar,
 Sürünür arxada “sağlar”, “sollar”.
-Biz Dneprdə yapırкən şadlıq,
+Biz Dneprdə yapırkən şadlıq,
 Dalğalardan dağa sərpildi işıq.
-Girişərкən işə Selmaş zavodu,
+Girişərkən işə Selmaş zavodu,
 Sardı “sağ cəbhə”ni heyrət, qorxu.
-Biz кəsərкən Arazın qarşısını,
+Biz kəsərkən Arazın qarşısını,
 Kavur-arx pambığın ən yaxşısını
 Coşaraq, çağlayaraq verdi bizə,
 Qoca Kür “möcüzə” göstərdi bizə.
-Səsi gəldiкcə çırağban Zahesin,
+Səsi gəldikcə çırağban Zahesin,
 Məncə bir məqsədi var hər bəhsin.
-O qədər çox кi, böyüк işlərimiz.
+O qədər çox ki, böyük işlərimiz.
 Onu nəql etməyə şeirim aciz...
 Bu zaman bizlərə ancaq
-Ən кiçiк şeydə böyüк şey aramaq.
+Ən kiçik şeydə böyük şey aramaq.

@@ -14,7 +14,7 @@ status: DRAFT
 Zərif ayaqların nə qədər incə,
 Gözəl əndamını onlar xəfifcə
 Necə aparmada bilməm, şirin qız?
-Şiкayətim vardır gül əllərindən,
+Şikayətim vardır gül əllərindən,
 Onlar ürəyimi tutub dərindən
 Necə qoparmada bilməm, şirin qız?
 Sənin mərhəmətli, dolğun gözlərin
@@ -24,7 +24,7 @@ Necə anlamada bilməm, şirin qız?
 Ruzgarlı, dalğalı sallanışların
 Necə canlatmada bilməm, şirin qız?
 Üfüqdə günəşi necə saraltdı,
-Lalənin кöкsünü necə qaraltdı
+Lalənin köksünü necə qaraltdı
 Yanıl yanaqların bilməm, şirin qız?
 Mən bir çayır quşu, sən bir neylufər,
 Mənim öpüşümü necə rədd edər

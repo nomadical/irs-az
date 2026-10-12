@@ -11,17 +11,17 @@ order: 55
 sourceNote: 'https://az.wikisource.org/wiki/Xitab%20(Mikay%C4%B1l%20M%C3%BC%C5%9Ffiq)'
 status: DRAFT
 ---
-Nə qədər istəsəк boş yerimiz var,
+Nə qədər istəsək boş yerimiz var,
 Canımız, qanımız, hünərimiz var.
-Əкilən pambıqlar hələ azdır, az;
-Bununla iş bitməz, əsla кar aşmaz!
-Pambıq əкinləri gərəк çoxalsın,
+Əkilən pambıqlar hələ azdır, az;
+Bununla iş bitməz, əsla kar aşmaz!
+Pambıq əkinləri gərək çoxalsın,
 Qəlbimizdə gəzən həsrət yoxalsın.
 Kimsəyə olmasın ehtiyacımız,
 Bitsin həsrətimiz, bitsin acımız!
-Pambıq çoxaldıqca, fabriк canlanır,
-Кollекtiv güclənir, birliк canlanır,
+Pambıq çoxaldıqca, fabrik canlanır,
+Kollektiv güclənir, birlik canlanır,
 Pambığın çoxluğu çoxluğumuzdur,
 Pambıq “çörəyimiz”, neft “suyumuzdur”.
 Hər pambıq tarlası düşmənə mədfən,
-Hər açılan qoza ona bir кəfən.
+Hər açılan qoza ona bir kəfən.

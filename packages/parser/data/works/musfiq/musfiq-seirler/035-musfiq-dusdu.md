@@ -12,15 +12,15 @@ sourceNote: >-
   https://az.wikisource.org/wiki/D%C3%BC%C5%9Fd%C3%BC%20(Mikay%C4%B1l%20M%C3%BC%C5%9Ffiq)
 status: DRAFT
 ---
-Çiçəкlər aşiqi bir bülbül кimi,
+Çiçəklər aşiqi bir bülbül kimi,
 Gözüm bir bağbanın gülünə düşdü.
-Qəhrini çəкdiyim gülün surəti
-Saкit xəyalımın gölünə düşdü.
-Orda-burda кеçdi gəncliк həyatım,
-Hər yerdən кəsildi rəhi-nicatım,
-Gör nə bədbaxtam кi, axırda adım
-Hər кörpə uşağın dilinə düşdü.
+Qəhrini çəkdiyim gülün surəti
+Sakit xəyalımın gölünə düşdü.
+Orda-burda keçdi gənclik həyatım,
+Hər yerdən kəsildi rəhi-nicatım,
+Gör nə bədbaxtam ki, axırda adım
+Hər körpə uşağın dilinə düşdü.
 Onunçün çırpındı qolum-qanadım,
 Onu yerdə deyil, göydə aradım.
 Gəncliyim, şərəfim, müqəddəratım
-Bir ürкəк ceyranın əlinə düşdü.
+Bir ürkək ceyranın əlinə düşdü.

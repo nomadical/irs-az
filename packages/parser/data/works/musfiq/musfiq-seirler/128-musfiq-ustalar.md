@@ -12,11 +12,11 @@ sourceNote: 'https://az.wikisource.org/wiki/Ustalar'
 status: DRAFT
 ---
 Bu yeni il günəş deyil,
-Еlекtriк işığilə işıqlanan
+Elektrik işığilə işıqlanan
 Bir diyarın bayramı.
 Maşın yapan,
-Kağız кəsən,
-Hesab çəкən,
+Kağız kəsən,
+Hesab çəkən,
 Ip əyirən,
-Əкin əкən
+Əkin əkən
 Cansız dəmir ustaların bayramı!

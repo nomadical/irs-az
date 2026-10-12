@@ -19,7 +19,7 @@ Olsun ürəyin şad!
 
 Təyin elə cindarı ki, etsin ona imdad,
 
-Та dəyməyə həmzad;
+Ta dəyməyə həmzad;
 
 Sağdan sola, soldan sağa sal boynuna heykəl,
 
@@ -65,7 +65,7 @@ On yaşa yetincə uşağın eyləmə qəflət,
 
 Qandır neçə bidət;
 
-Та on beşə yetdikcə tapa işdə məharət,
+Ta on beşə yetdikcə tapa işdə məharət,
 
 Həm eyləyə adət;
 

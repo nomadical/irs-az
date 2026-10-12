@@ -30,7 +30,7 @@ El bütün oldu bu gün tənəzənim?
 "Gözəlim, şimdi nədir fərmanın?
 Canı qurban sənə bu nalanın?"
 
-Та dedin tabei-fərman ol, oldum,
+Ta dedin tabei-fərman ol, oldum,
 Hüsnümə valehü heyran ol, oldum,
 Nazənin canıma qurban ol, oldum,
 Eşqdə xanəsi viran ol, oldum,

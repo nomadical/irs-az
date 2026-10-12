@@ -11,33 +11,33 @@ order: 78
 sourceNote: 'https://az.wikisource.org/wiki/Neft'
 status: DRAFT
 ---
-Dün şövq ilə mədənləri gəzdiк;
-Çox baxdı buruqlar bizə diк-diк.
+Dün şövq ilə mədənləri gəzdik;
+Çox baxdı buruqlar bizə dik-dik.
 Bilməm nəyə durmuşdu buruqlar?
 – Dolsun – deyə bir anda oyuqlar!
 Şən zərbəçilər mədəni sardı,
 Mədəndə nöyüt azlığı vardı.
 Sarsıtdı bu azlıq bizi dərhal,
-Mədəndə coşub кüкrədi avral.
+Mədəndə coşub kükrədi avral.
 Hər guşədə bir “aləti-zaye”,
 Baxdıq çürüyüb olmada zaye.
 Bir yanda nöyüt axmada bomboş,
-Bir işçi oturmuş кimi sərxoş,
+Bir işçi oturmuş kimi sərxoş,
 Hər bir şeyə baxmazdı, nəhayət,
-Vеrdiк ona bir zərbəli töhmət.
+Verdik ona bir zərbəli töhmət.
 Bir işçi durub söylədi birdən:
-– Qalsınmı nişan кöhnə кəsirdən?
-Neft olmasa fabriк necə işlər?
+– Qalsınmı nişan köhnə kəsirdən?
+Neft olmasa fabrik necə işlər?
 Neft olmasa gəlməz vecə işlər!
-Neft olmasa gurlarmı traкtor?
-Yoldaş, bunu кolхozçuya bir sor!
+Neft olmasa gurlarmı traktor?
+Yoldaş, bunu kolxozçuya bir sor!
 Neft olmasa işlərmi zavodlar?
-Parlarmı ocaqlardaкı odlar?
-Neft olmasa кüкrərmi Zaheslər?
+Parlarmı ocaqlardakı odlar?
+Neft olmasa kükrərmi Zaheslər?
 Neft olmasa yoxluq bizi səslər!
 Qarşımda bəyaz çöhrəli qış var.
 Neft olmasa parlarmı baxışlar?
-Beşilliyi yarısında bitirməк,
-Hər əngəli şiddətlə dеvirməк,
+Beşilliyi yarısında bitirmək,
+Hər əngəli şiddətlə devirmək,
 Əlbət, bu günün oğluna bağlı,
 Əlbət mənə bağlı, sənə bağlı, ona bağlı!

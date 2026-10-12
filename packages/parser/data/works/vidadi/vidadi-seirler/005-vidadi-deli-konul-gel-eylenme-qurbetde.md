@@ -24,7 +24,7 @@ Yaxşı gündə yarü yoldaş çox olur,
 
 Yaman gündə heç bulunmaz, yox olur.
 
-Yad ellərin tənə sözü ох olur,
+Yad ellərin tənə sözü ox olur,
 
 Bir gün olur vətən deyib ağlarsan.
 

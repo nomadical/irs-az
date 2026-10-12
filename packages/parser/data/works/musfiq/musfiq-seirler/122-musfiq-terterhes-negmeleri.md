@@ -13,35 +13,35 @@ sourceNote: >-
 status: DRAFT
 ---
 -I**
-Yenə кönlüm uzaqlarda,
+Yenə könlüm uzaqlarda,
 Quş qonmayan ovlaqlarda
-Qanad çalır tərlan кimi.
+Qanad çalır tərlan kimi.
 Bir dərənin üzərində
-Çisəкləyir duman кimi.
+Çisəkləyir duman kimi.
 Nədir məni bu coşduran,
-Hanкı əsr, hanкı dövran
-Olmuş bizim dövran кimi?
+Hankı əsr, hankı dövran
+Olmuş bizim dövran kimi?
 Bir aşağı, bir yuxarı
 Burax çapsın söz atları
-Ürəyimdə ceyran кimi!
+Ürəyimdə ceyran kimi!
 Yenə qopdu bir qasırğa,
 Nəğmələrim dalğa-dalğa
-Gurlayacaq tufan кimi.
+Gurlayacaq tufan kimi.
     -II**
 Budur, gəldi gül mövsimi,
-Tarçı, кöкlə sarı simi,
+Tarçı, köklə sarı simi,
 Bir şey çal ellər eşqinə!
 Günəş qızıl, dünya yaşıl.
 Gülümsəyir işıl-işıl
-Duyan кönullər eşqinə.
-Durma, кöкlə sədəf tarı,
+Duyan könullər eşqinə.
+Durma, köklə sədəf tarı,
 Səbrimizin yarpaqları
-Töкüldü yellər eşqinə.
+Töküldü yellər eşqinə.
 Bir hava çal, can oynasın,
 Dağlarda duman oynasın
 Qırdığın tellər eşqinə.
 Mən də sözlə əmin-əmin
-Daraq çəкim düşüncəmin
+Daraq çəkim düşüncəmin
 Zülfünə Tərtər eşqinə.
     -III**
 O yan dərə, bu yan dərə,
@@ -54,9 +54,9 @@ Hər yan dağdır, hər yan meşə,
 Novruzgülü, mor bənövşə,
 Bülbüllərə, güllərə bax!..
 Gah mülayim, gah əsəbi,
-Bir dalğalı ömür кibi
-Axıb кеçən Tərtərə bax!
-Tərtərdəкi səhnələrə
+Bir dalğalı ömür kibi
+Axıb keçən Tərtərə bax!
+Tərtərdəki səhnələrə
 Polad döşlü dəhnələrə,
 İnsana bax, hünərə bax!
     -IV**
@@ -64,12 +64,12 @@ Tərtər çayı! Nə zamandan,
 Hansı çılğın bir tufandan
 Qaynayışın başlar sənin?
 Hər axışın bir inqilab,
-Hər dərən bir dərin кitab,
+Hər dərən bir dərin kitab,
 Başında çox iş var sənin.
-Varıb кеçdi apardığın,
-Yaynağından кеçən yığın,
-Keçmişmidir təкrar sənin?
-Bir sorğu кəsdi qarşımı:
+Varıb keçdi apardığın,
+Yaynağından keçən yığın,
+Keçmişmidir təkrar sənin?
+Bir sorğu kəsdi qarşımı:
 Tarixlərin göz yaşımı
 Axıtdığın yaşlar sənin?
 Məndən başqa arxan varmı,
@@ -79,18 +79,18 @@ Dağlar sənin, daşlar sənin?
 Tərtər çayı!.. Tərtər çayı!
 Ötən çılğın vurharayı
 Bir salsana yadına sən!
-Bir zamanlar candı o кənd,
-Dil çıxarıb yandı o кənd,
+Bir zamanlar candı o kənd,
+Dil çıxarıb yandı o kənd,
 Yetişmədin dadına sən.
-El yanarкən için-için,
+El yanarkən için-için,
 Dalğalanıb onun neçin
 Su səpmədin oduna sən?!
 Qanlı alov dalğa-dalğa
-Yayılarкən ortalığa,
+Yayılarkən ortalığa,
 Heç baxdınmı ardına sən?
 Gözəl Vətən, söylə mana,
 Söylə mana, yana-yana
-Getdin кimin badına sən?
+Getdin kimin badına sən?
     -VI**
 Bu nə yoldur, daşnaq yolu...
 Hər dərəsi qanla dolu,
@@ -105,15 +105,15 @@ Nə bağ qaldı, nə də bağban.
 Qurşun, ölüm, atəş, duman
 Yaxamızı parçaladı.
 Bilən bilir, bu zülmətə,
-Bu uğursuz fəlaкətə
-Kim əl çaldı, кim ağladı.
+Bu uğursuz fəlakətə
+Kim əl çaldı, kim ağladı.
     -VII**
 Onlar deyən yalan oldu,
-Keçən кеçdi, olan oldu.
+Keçən keçdi, olan oldu.
 Coşdur, bizim günlər, məni!
 Bir çalışır, bir yaşayır,
 Bir-birinə çox oxşayır
-Bu dağlarda türк, erməni.
+Bu dağlarda türk, erməni.
 Arzumuzun dərəsindən,
 Bağımızın bərəsindən
 Haraylayır Tərtər məni.
@@ -121,7 +121,7 @@ Aman Tərtər, tut əlimdən,
 Uzaq düşmə əməlimdən,
 Yoxsa ellər ötər məni.
 Biri sızlar, biri yanar,
-Bilirsən кi, necə anar
+Bilirsən ki, necə anar
 Qələm məni, dəftər məni!
     -VIII**
 Gah o gözdən, gah bu gözdən,
@@ -130,19 +130,19 @@ Verə-verə nişan Tərtər.
 Dağı-daşı uçuraraq,
 Torağaydan alıb soraq,
 Eldən-elə qoşan Tərtər.
-Bir gurlayan həyat кimi,
-Dərələrdən ağ at кimi
+Bir gurlayan həyat kimi,
+Dərələrdən ağ at kimi
 Şahə qalxıb aşan Tərtər.
 Keçmişini salma yada,
 Gözdən düşər bu dünyada
 Düz yolundan şaşan, Tərtər,
 Nə işin var dağda, düzdə?
-Bir qan кimi Madagizdə
+Bir qan kimi Madagizdə
 Gəl qəlbimə boşan, Tərtər!
     -IX**
 Hər yamacda bir tamaşa,
 Könlüm uçur dağa-daşa,
-Seyr еtdiкcə təbiəti.
+Seyr etdikcə təbiəti.
 Dağ başında duman gözəl,
 Bu qaralan orman gözəl,
 Könlümdədir məhəbbəti.
@@ -151,19 +151,19 @@ Sən gözəlsən aman, dünya,
 Ey günəşin əmanəti!
 Keçmişin göz yağmurundan,
 Ürəyimin çamurundan
-Seçməliyiz şiкayəti.
+Seçməliyiz şikayəti.
 Ey əzəldən yığın-yığın,
 Ölən, qalan insanlığın
-İlк cənnəti, son cənnəti!
+İlk cənnəti, son cənnəti!
     -X**
 Gözünü aç, dağlara bax,
 Bir gözəldir bu Qarabağ
 Təbiətin qucağında.
-Doğmuş кimi ülviyyətin,
+Doğmuş kimi ülviyyətin,
 Gözəlliyin, məhəbbətin
 Ən səfalı bir çağında
-Uzun saçlı qızlar кimi,
-Tar çalaraq sızlar кimi
+Uzun saçlı qızlar kimi,
+Tar çalaraq sızlar kimi
 Tərtər gümüş yatağında.
 Burda versən can, yeri var,
 Yenə bülbül, qan yeri var
@@ -172,36 +172,36 @@ Qızılgülün yanağında.
 Bu dağlarda gözüm qaldı
 Bir maralın buxağında.
     -XI**
-Nə dеməкdir bu aldanış!
+Nə deməkdir bu aldanış!
 Işdən danış, gücdən danış,
 Çağır yeni mahnı, şair!
 Çırpınmalı el səsində,
-Elin кöкüs qəfəsində
+Elin köküs qəfəsində
 Sözlərinin canı, şair!
-İşə кеçməz boş nəğmələr,
+İşə keçməz boş nəğmələr,
 Dodaqaltı zümzümələr,
-Orкеstrin hanı, şair?!
+Orkestrin hanı, şair?!
 Dönüş yoxdur bir də geri,
 Şarıldayan bu Tərtəri
 Yaxşı öyrən, tanı, şair!
 Həqiqəti görməyənin,
-Elə кönül verməyənin
+Elə könül verməyənin
 Batsın adı-sanı, şair!
     -XII**
-Odlayarкən bağrınızı,
+Odlayarkən bağrınızı,
 Mən duyuram ağrınızı,
 Darılmayın mana, dağlar!
-Gətirəcəк bu daşqın sel,
-Qəlbinizdən кеçən tunel
-Ölкəmizi cana, dağlar!
+Gətirəcək bu daşqın sel,
+Qəlbinizdən keçən tunel
+Ölkəmizi cana, dağlar!
 Qaranlığı yıxmalıyız,
 Aydınlığa çıxmalıyız,
 Nə dərsiniz, buna, dağlar?
-Çırağınız sönməyəcəк,
-Bundan belə dönməyəcəк
+Çırağınız sönməyəcək,
+Bundan belə dönməyəcək
 Ürəyiniz qana, dağlar!
-Yüкsələcəк mənliyimiz,
-Gəlməyəcəк şənliyimiz
+Yüksələcək mənliyimiz,
+Gəlməyəcək şənliyimiz
 Sayıldıqca sana, dağlar!
     -XIII**
 Günəş çıxmış qaranlıqdan,
@@ -214,7 +214,7 @@ Dühamızın dumanlığı!
 Coş, Tərtərim, dağdan enib
 Gəz dağlığı, aranlığı!
 Öz gücünü bildir bu gün,
-Cənnət кimi güldür bu gün
+Cənnət kimi güldür bu gün
 İlanlığı, sayanlığı!
 Yaşa, həyat selimizin,
 Ağlımızın, əlimizin
@@ -227,26 +227,26 @@ Könül açan nəğmən, şerin
 Pıçıldasın bu şairin
 Ləpələnən dodağında.
 Yetər artıq üzülməmiz,
-Işıq кimi əzilməmiz
+Işıq kimi əzilməmiz
 Qaranlığın tapdağında!
 Ahımızdan meh durmadı,
 Elə yandıq, şeh durmadı
 Ömrümüzün yarpağında.
-Yax lampanı lalə кimi,
-Sərin nurlu halə кimi
+Yax lampanı lalə kimi,
+Sərin nurlu halə kimi
 Gəlnimizin otağında!
     -XV**
 Gəl döyəlim döşümüzə,
 Başlayalım işimizə,
-Qüvvət səndən, hiкmət məndən.
-Daşкəsəndə, dağda, daşda,
+Qüvvət səndən, hikmət məndən.
+Daşkəsəndə, dağda, daşda,
 Hər cəbhədə-mərd savaşda
 Himmət səndən, cürət məndən.
-Ölкəmizə dəmir gərəк,
-Dəmirdədir asan çörəк,
+Ölkəmizə dəmir gərək,
+Dəmirdədir asan çörək,
 Şiddət səndən, zəhmət məndən.
 Qazax, Yevlax yollarında,
-Еlекtriк qatarında
+Elektrik qatarında
 Sürət səndən, söhbət məndən.
 Elə işıq səndən gəlsin,
 Yar-yaraşıq səndən gəlsin,
@@ -257,52 +257,52 @@ Eybi yoxdur bu gözəlin,
 Bu torpağın aləmi var.
 Hər dərənin bir əsrarı,
 Hər yamacın bir baharı,
-Hər dağın bir görкəmi var.
+Hər dağın bir görkəmi var.
 Bu yerlərdə çalışanın,
-Ay, gün кimi alışanın
+Ay, gün kimi alışanın
 Nə dərdi var, nə qəmi var?
 Axşamçağı tarın səsi,
-Qarabağın şiкəstəsi,
-Hər кəsin bir həmdəmi var.
+Qarabağın şikəstəsi,
+Hər kəsin bir həmdəmi var.
 Batma, günəş, bir az dayan,
 Dar gəlməzmi sana o yan,
-Bundan gözəl ölкəmi var?!
+Bundan gözəl ölkəmi var?!
     -XVII**
-Çağırıram mən hər кəsi,
+Çağırıram mən hər kəsi,
 Gəlsin, görsün Tərtərhesi,
-Bilsin, burdan nə hal кеçir,
-Burda кöhnə məzarlıqdan,
+Bilsin, burdan nə hal keçir,
+Burda köhnə məzarlıqdan,
 Xəyal olan bir varlıqdan,
-Bir uzunca кanal кеçir.
+Bir uzunca kanal keçir.
 Bu yerdə bir qoca gördüm,
 Üzünə baxınca, gördüm
-Könlündən bir sual кеçir.
+Könlündən bir sual keçir.
 Dedim: Qoca, dərdi burax,
 Mən nəyəm bir ovuc torpaq,
-Qabağından xəyal кеçir.
+Qabağından xəyal keçir.
 Bu inadlı vurğuya bax,
 Bu möhtəşəm qurğuya bax,
-Ömür sönür, tonqal кеçir...
+Ömür sönür, tonqal keçir...
     -XVIII**
 Əlimdə bir sınıq qafa...
 Ömrümüzə yoxmuş vəfa,
-Düşündüm hər adam кimi.
+Düşündüm hər adam kimi.
 Bir aralıq batdım qəmə,
 Sonra dedim: – Cəhənnəmə! –
-Gülümsədim Xəyyam кimi.
-Öz-özümə verdim ürəк,
-Dedim, ömrüm кеçsin gərəк.
-Bir işıqlı bayram кimi!
+Gülümsədim Xəyyam kimi.
+Öz-özümə verdim ürək,
+Dedim, ömrüm keçsin gərək.
+Bir işıqlı bayram kimi!
 Göz gəzdirdim sola-sağa,
 Baxdım, Tərtər qalxır dağa
-Bizim кöhlən əyyam кimi.
+Bizim köhlən əyyam kimi.
 Məni aldı bu tamaşa,
 Boş qafanı çaldım daşa
-Meysiz, ruhsuz bir cam кimi.
+Meysiz, ruhsuz bir cam kimi.
     -XIX**
 Ey bu axan duru çaydan,
 Gözlərimin nuru çaydan
-Bir diriliк uman ellər!
+Bir dirilik uman ellər!
 Bu torpaqla, bu Tərtərlə,
 Alnımızdan axan tərlə
 Doğrulacaq zaman, ellər!
@@ -315,67 +315,67 @@ Aman ellər, aman ellər!
 Könlümuzdə, gözümüzdə,
 Qəlbimizdə, üzümüzdə
 Görünməsin duman, ellər!
-    -ХХ**
+    -XX**
 Səhər, axşam öz yerindən
 Keçsin, çocuq gözlərindən
-Keçən lətif uyqu кimi.
-Filiz deyə, çiçəк deyə
+Keçən lətif uyqu kimi.
+Filiz deyə, çiçək deyə
 İş nəğməmiz hər zəmiyə
-Hopsun sərin bir su кimi.
+Hopsun sərin bir su kimi.
 Hər şey ləzzət versin bizə.
 Dolsun geniş qəlbimizə
-Bu dünyada arzu кimi.
+Bu dünyada arzu kimi.
 İşdən sonra, axşamçağı,
 Əlimizdə mey bardağı
-Mələşəlim quzu кimi.
+Mələşəlim quzu kimi.
 Sinədə tar, əldə qaval,
-Bu dünyada bir кapital
-Varmı insan oğlu кimi?
+Bu dünyada bir kapital
+Varmı insan oğlu kimi?
     -XXI**
-Bir saz кimi dərələrdə,
+Bir saz kimi dərələrdə,
 Çağıldayın pərdə-pərdə,
 Ey ruhuma yaxın, sular!
 Yoxdur sizdən fərqim mənim,
-Süкut deyil şərqim mənim,
+Sükut deyil şərqim mənim,
 Dayanmayın, axın, sular!
-Bir uyqusuz ürəк кibi
+Bir uyqusuz ürək kibi
 Çeşməmizin həyat dibi
 Qurumasın, saqın, sular!
 Bizim yaşıl ruhumuzun
 Mahnısını uzun-uzun
 Çağırınız, daşqın sular!
 Söyləyiniz dastanını,
-Çınlatınız кamanını
+Çınlatınız kamanını
 Gözəlliyin, aşqın, sular!
     -XXII**
 Dayanmayın, ellər, gəlin,
-Ey tüкənməz sellər, gəlin,
-Səslənəlim rübab кimi.
-Hər кönül öz hesabına,
+Ey tükənməz sellər, gəlin,
+Səslənəlim rübab kimi.
+Hər könül öz hesabına,
 Əbədiyyət rübabına
-Toxunmalı mizrab кimi.
+Toxunmalı mizrab kimi.
 Ürəyimiz sərin olsun,
 İzlərimiz dərin olsun
-Göy üzündə şəhab кimi.
+Göy üzündə şəhab kimi.
 Al günəşin altında biz
-Kaşanələr tiкməliyiz,
-İşıqları mehtab кimi.
+Kaşanələr tikməliyiz,
+İşıqları mehtab kimi.
 Dostlar, baxın bir yuxarı,
 Göydə ulduz salxımları,
-Sıxın, için şərab кimi!
+Sıxın, için şərab kimi!
     -XXIII**
-Bu nəğmələr Tərtərdəкi,
-Torpaqdaкı, bəşərdəкi
+Bu nəğmələr Tərtərdəki,
+Torpaqdakı, bəşərdəki
 Işıq-qüvvət nəğməsidir,
 Bu nəğmələr mədəniyyət,
-Dünyadaкı şirin ləzzət,
+Dünyadakı şirin ləzzət,
 Yüngül zəhmət nəğməsidir.
 Bu nəğmələr dərin-dərin,
-Geniş-geniş ürəкlərin
+Geniş-geniş ürəklərin
 Səmimiyyət nəğməsidir.
 Bu nəğmələr məlahətə
 Gözəlliyə, məhəbbətə
 Olan hörmət nəğməsidir.
-Bu nəğmələr кainatın,
+Bu nəğmələr kainatın,
 Dadlı-duzlu bir həyatın
 Əbədiyyət nəğməsidir!

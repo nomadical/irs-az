@@ -459,7 +459,7 @@ Sanki zəlzələdən tutuldu dili.
 İldırım vurmuş tək qaraldı haman,
 Həm düşdü, həm yandı bu ildırımdan.
 
-ёTaqətsiz yerində dayandı bir an,
+Taqətsiz yerində dayandı bir an,
 Fələyə üz tutub dedi: "Ey dövran!
 
 Nədir bu verdiyin insafsız qərar?

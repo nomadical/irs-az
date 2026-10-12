@@ -166,7 +166,7 @@ Qüssədir ovlağın qəmdir vətənin
 Pərişan saçların nə tanmardın..
 Ruhunda ağlayan bir neymi vardır?
 Bizim ki, atamız, anamız birdir,
-Qəlbimiz, eşqimiz аул deyildir.
+Qəlbimiz, eşqimiz aul deyildir.
 Mən azad olmuşam, adım da Bahar,
 Səninsə qəlbində bülbüllər ağlar!
 

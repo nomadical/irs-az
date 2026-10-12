@@ -15,7 +15,7 @@ Gər bu il xəlqi təbah etdi giranlıq, bizə nə?!
 Tapmayır ac-yalavaclar güzəranlıq, bizə nə?!
 
 Biz məgər aclara vəqf eyləmişik malımızı,
-Та ki, hər müstəhəqə bəzl edək əmvalımızı?
+Ta ki, hər müstəhəqə bəzl edək əmvalımızı?
 Biz müraat edərik ancaq öz əhvalımızı,
 Daima bəsləyərik naz ilə ətfalımızı.
 Atasız tiflləri basdı boranlıq, bizə nə?!

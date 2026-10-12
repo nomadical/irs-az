@@ -17,7 +17,7 @@ Günəş kimi qaranlığı boğaraq,
 Verdim odlu diləklərə könlümü.
 
 Cavan ömrüm bir mum kimi sönərkən,
-Yüкsəklərdən alçaqlara enərkən,
+Yüksəklərdən alçaqlara enərkən,
 Əməllərim bir səraba dönərkən,
 Çaxıb verdim şimşəklərə könlümü.
 

@@ -32,7 +32,7 @@ Dağları dənizin iki qola ayrılmış.
 Dəniz əlan
 Sinif duyğusilə çarpınan
 Bir kommunist qəlbi –
-кibi...
+kibi...
 
 Dəniz sudan qamçılarla
 Göstərib hünərini –

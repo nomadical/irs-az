@@ -148,7 +148,7 @@ T e y m u r. (növbətçilərə). Yardım edin!
 Olqayı qaldırırlar. Elmas çəkilir.  Ətrafda gurultu və çarpışma səsləri yüksəlir. Teymur Divan bəyiyə.
 Baq gör nə var?
 D i v a n b ə y i. (yola baqar). Iştə, Sobutay gəliyor.
-S o b u t a y. (gəlir, əyilir). Böyük xaqana müжdələr.
+S o b u t a y. (gəlir, əyilir). Böyük xaqana müjdələr.
 T e y m u r. Nə olmuş?
 S o b u t a y. Yıldırım ordusu bozuldu.
 T e y m u r. Nasıl? Ətraflı söylə!

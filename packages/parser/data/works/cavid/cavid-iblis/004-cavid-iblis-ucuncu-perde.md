@@ -249,7 +249,7 @@ B i r i n c i z a b i t
 (silahı rədd ilə)
 
 Bu xəbərdən sevinci çoqdu onun,
-Ona layiqdi müжdə bir qurşun.
+Ona layiqdi müjdə bir qurşun.
 
 İ k i n c i z a b i t
 

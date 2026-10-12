@@ -116,7 +116,7 @@ Bəni daim bu səs qılar mə’yus.
 
 (Sağ qapıdan çıqarkən)
 
-Baş rəisdən gəlirsə bir müжdə,
+Baş rəisdən gəlirsə bir müjdə,
 Vaqtı qeyb etmə, gəl, həmən bana de.
 
 Xidmətçi itaətlə tə’zim edər. Rəisə çıqdığı kibi, öndə ikinci xidmətçi olaraq birinci, ikinci, üçüncü rəis daxil olur, otururlar. Xidmətçi yenə geri dönər, digəri isə şərbət gətirir.

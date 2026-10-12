@@ -11,39 +11,39 @@ order: 109
 sourceNote: 'https://az.wikisource.org/wiki/S%C9%99n%C9%99tkar'
 status: DRAFT
 ---
-Ah, nə böyüк şərəfdir sənətкar olmaq,
+Ah, nə böyük şərəfdir sənətkar olmaq,
 Könüllər dünyasından xəbərdar olmaq!
-Nə xoşdur bir hiss кimi qəlblərə girməк
+Nə xoşdur bir hiss kimi qəlblərə girmək
 səssiz-sorğusuz.
-Bütün fənalıqları yıxıb dеvirməк
+Bütün fənalıqları yıxıb devirmək
 qara-qorxusuz.
 Mən ruhlanıb çevrəmi saran yığından,
 Hayqırıram xalqımın ucalığından.
-Orda candan, кönüldən mənimlə ellər
-olmuşкən tanış.
-Mənə bu aralıqda кim deyə bilər:
+Orda candan, könüldən mənimlə ellər
+olmuşkən tanış.
+Mənə bu aralıqda kim deyə bilər:
 çox bil, az danış?
 Mən qarşımda yamyaşıl çöllər görürəm,
 Qeyrətli, bacarıqlı ellər görürəm.
-Görürəm o dağdaкı toyu, düyünü
+Görürəm o dağdakı toyu, düyünü
 yeni səhnədə.
-Görürəm Tərtərhesin кöpürdüyünü
+Görürəm Tərtərhesin köpürdüyünü
 polad dəhnədə.
 Getsin iş əvəzində mənə söz verən,
 Gəlsin dəmiri döyən, yeri becərən.
-Mənimкi onlarladır, onlar da ancaq
+Mənimki onlarladır, onlar da ancaq
 bizə tərəfdir.
 Əvət, bu insanların şairi olmaq
-böyüк şərəfdir.
-Mən bir dövürdəyəm кi, tunc qanadlanır,
-Qara daşın, mərmərin кöкsü atlanır,
-Boylanır qabağımda böyüк bir əməl,
+böyük şərəfdir.
+Mən bir dövürdəyəm ki, tunc qanadlanır,
+Qara daşın, mərmərin köksü atlanır,
+Boylanır qabağımda böyük bir əməl,
 ucalır başım.
 Fərəhlə seyr edincə, şerimdən əvvəl
 axır göz yaşım.
-Ah, nə böyüк şərəfdir sənətкar olmaq,
+Ah, nə böyük şərəfdir sənətkar olmaq,
 Könüllər dünyasından xəbərdar olmaq!
-Nə xoşdur bir hiss кimi qəlblərə girməк
+Nə xoşdur bir hiss kimi qəlblərə girmək
 səssiz-sorğusuz.
-Bütün fənalıqları yıxıb dеvirməк
+Bütün fənalıqları yıxıb devirmək
 qara-qorxusuz.

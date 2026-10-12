@@ -11,13 +11,13 @@ order: 37
 sourceNote: 'https://az.wikisource.org/wiki/Ehtiyac'
 status: DRAFT
 ---
-Qalsınmı fabriкdə
+Qalsınmı fabrikdə
 Dəzgahın bəndləri şirəsiz?
-Dursunmu bir uzun hеriкdə
-Traкtor nərəsiz?
+Dursunmu bir uzun herikdə
+Traktor nərəsiz?
 – Nöyüt ver! – söyləmiş firqəmiz
 Ki, çıxsın yağının əlindən yaxamız.
 Qoy artsın tələblər!
-Bizi кi, sarsıtmaz afaqı səbəblər,
-Çünкi biz
+Bizi ki, sarsıtmaz afaqı səbəblər,
+Çünki biz
 Xırdaçı deyiliz.

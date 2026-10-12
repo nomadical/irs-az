@@ -281,20 +281,20 @@ Kart masa üstundə daraq-daraqdır.
 Ürəyim sıxılır, uşaqlar, artıq
 Gəlin yığışdıraq, bəsdir oynadıq,
 Burdanca bərabər gedək kinoya.
-    -M i ş к a**
+    -M i ş k a**
 Zəhləmizi tökmə, bəsdir, ay Qaya!
     -Q a y a**
 Teatro necədir?
-    -M i ş к a**
+    -M i ş k a**
 O, bundan da pis.
 Görürsən qızışıb yenicə məclis!
     -P o l a d**
 Pul çıxar!
-    -M i ş к a**
+    -M i ş k a**
 Ver bangi!
     -P o l a d**
 Pul çıxar. Birdən qızışma!
-    -M i ş к a**
+    -M i ş k a**
 Deyirəm sənə, ver!
 (Mişka uduzmuş,
 Boğazı qurumuş, dili qurumuş,
@@ -413,7 +413,7 @@ Hamsının heyrətli nəzərlərində
 Vardı bu heyrətdə böyük təmtəraq.
 Mişka bir quş kimi sıçradı qaçdı,
 Köhnə həmdəminə ruhunu açdı.
-    -M i ş к a**
+    -M i ş k a**
 Mən ölüm, bəri gəl, Qaya, ay Qaya!
 Bu qədər xor baxma bizim dünyaya.
 Bunlar bütün sənin yarın, yoldaşın,
@@ -428,7 +428,7 @@ Artıq aramızda bir uçurum var.
 Mənim ayrı dərdim, ayrı yolum var.
 Daha mən sizinlə barışa bilməm!
 Sizin sıranıza qarışa bilməm!
-    -M i ş к a**
+    -M i ş k a**
 Neçin?
     -Q a y a**
 Neçinlərin cavabı çətin,
@@ -437,7 +437,7 @@ Bir zaman üzərək çirkablarında,
 Səfalətlərində, əzablarında.
 Nələr eşitmədim, nələr görmədim?
 Orda yaxşılıqdan əsər görmədim.
-    -M i ş к a**
+    -M i ş k a**
 Canım, nə yaxşılıq, budur yaxşılıq…
 (Əlini cibinə vurur.)
     -Q a y a**
@@ -451,7 +451,7 @@ Ya əli qabarlı bir oğulundur.
 O səni qarğıyır bu saat evdə,
 Sən bu səfaləti ürəklə sev də,
 Baxalım nə olur sonu?
-    -M i ş к a**
+    -M i ş k a**
 Ay Qaya!
 Bu qədər bənd olma çox da dünyaya.
 Bu sabah girimə düşmüşdü bir "yağ",
@@ -481,7 +481,7 @@ Qaranlıq çökürkən gözlərimizə,
 Dostlar ağlayaraq, baxarkən bizə,
 Güclə ayrılırız bu şən dünyadan,
 Ulduzlu dünyadan, gülşən dünyadan.
-    -M i ş к a**
+    -M i ş k a**
 Qaya, yadındamı, vaxtilə sən də,
 Bizimlə birlikdə keflər çəkəndə,
 Bir gözəl yanıqlı şərqi oxurdun?
@@ -490,14 +490,14 @@ Neçin fikirləşib don kimi durdun?
 Xatırında yoxmu?
     -Q a y a**
 Xeyir.
-    -M i ş к a**
+    -M i ş k a**
 Bu saat.
 Çağırım oxusun qoy cunquş Murad.
 -(Mişka Muradı çağırır.)*
     -M u r a d**
 Gözəl səhər, gözəl hava,
 Zalım ovçu çıxdı ova…
-    -M i ş к a**
+    -M i ş k a**
 Ay çanım, onu yox, o birin oxu,
 O qədər ruhumu oxşamayır bu.
     -Q a y a**
@@ -506,7 +506,7 @@ Görünür ki, sizi dünyada yalnız,
 Ölümlü kəlmələr maraqlandırır,
 Qan deyən nəğmələr maraqlandırır.
 Öyləmi?
-    -M i ş к a**
+    -M i ş k a**
 Arxadaş, öylədir, öylə.
 Hər günüm keçməsə bir vəlvələylə,
 Gen dünya başıma dar gəlir mənim,
@@ -539,7 +539,7 @@ Ay canım, bəri gəl, o bir kənəkdir,
 Işi molla kimi vəz eyləməkdir.
 Sən də ki, günahkar bir uşaq kimi…
 Əsirsən önündə bir yarpaq kimi,
-    -M i ş к a**
+    -M i ş k a**
 (hayqıraraq)
 Beş günlük ömründə kefə bax, kefə,
 Kim gəlmiş dünyaya ikinci dəfə?
@@ -582,11 +582,11 @@ Bu gün xəbər tutmuş filan yerdədir,
 O, söylənən yerə gəldi sevincək,
 Onun quşcuğazı yad əllərdədir,
 Bilir ya verəcək, ya verməyəcək.
-    -M i ş к a**
+    -M i ş k a**
 Mənim göyərçinim uğramış sizə.
     -P o l a d**
 Bəli, göyərçinin uğramış bizə.
-    -M i ş к a**
+    -M i ş k a**
 Verin!
 (Polad gülür kinayələrlə.
 Mişkanın ürəyi yanır kədərlə.)
@@ -594,17 +594,17 @@ Gülmə arvad kimi, ver göyərçini!
 (Bu sözlər Poladın kəsir içini.)
     -P o l a d**
 Get burdan, əcəlin tamam olmamış!
-    -M i ş к a**
+    -M i ş k a**
 O yan-bu yan etmə, ağıllı danış.
 Çox da öz-özünə havalanma sən!
 Yanımdan yel olub ötə bilməzsən.
     -P o l a d**
 Çənə döyüşdürmə mənimlə, get, get!
-    -M i ş к a**
+    -M i ş k a**
 Gəlmişəm, kişisən, nə bilirsən et!
     -P o l a d**
 Qan tutmasın səni, sovuş başımdan!
-    -M i ş к a**
+    -M i ş k a**
 Çox uzun danışma, bu sən, bu meydan!
 (Poladın gözləri iki ocaqdı,
 Bıçaq şimşək kimi əlində çaxdı.)

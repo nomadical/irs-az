@@ -216,7 +216,7 @@ function listLinks(wikitext: string, pageTitle: string): ListLink[] {
 
 // Latin text on az.wikisource is peppered with Cyrillic look-alikes (е, о, а, х …)
 const HOMOGLYPHS: Record<string, string> = {
-  а: 'a', е: 'e', о: 'o', р: 'p', с: 'c', х: 'x', у: 'y', і: 'i', ј: 'j', һ: 'h', ә: 'ə',
+  а: 'a', е: 'e', о: 'o', р: 'p', с: 'c', х: 'x', у: 'y', і: 'i', ј: 'j', һ: 'h', ә: 'ə', к: 'k',
   А: 'A', Е: 'E', О: 'O', Р: 'P', С: 'C', Х: 'X', У: 'Y', І: 'I', Ј: 'J', Һ: 'H', Ә: 'Ə',
   К: 'K', М: 'M', Н: 'H', Т: 'T', В: 'B',
 };

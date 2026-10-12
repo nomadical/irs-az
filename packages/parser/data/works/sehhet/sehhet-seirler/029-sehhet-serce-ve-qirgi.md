@@ -20,7 +20,7 @@ Söylədi: “Rəhm eylə, məni qıl xilas,
 İcz ilə səndən edirəm iltimas.
 İstər idim ovlamağa sərçəni,
 Sən niyə nahaq yerə tutdun məni?
-Verməmiєəm mən ki, xəsarət sənə
+Verməmişəm mən ki, xəsarət sənə
 Sən də dəxi vermə əziyyət mənə”.
 Cütçü baba böylə deyib qeyznak,
 Eylədi ol qırğını ol dəm həlak.

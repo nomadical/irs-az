@@ -50,4 +50,4 @@ Yaxşı olan nəsib olmaz yamana.
 
 Vidadiyəm sinəm gəldi nişana,
 
-Bir ох atdım iqbalına, sevdiyim!
+Bir ox atdım iqbalına, sevdiyim!

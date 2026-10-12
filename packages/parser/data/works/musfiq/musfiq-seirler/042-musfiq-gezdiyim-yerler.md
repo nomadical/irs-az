@@ -16,7 +16,7 @@ Dərdinə qaldığım yerdir bu yerlər.
 Biliyor saçları qızıl bir pəri
 Qurbanı olduğum yerdir bu yerlər!
 
-Bu gözəl aləmi gəzdiкcə dağ-dağ,
+Bu gözəl aləmi gəzdikcə dağ-dağ,
 Oldum sevincinə, qəminə ortaq.
 Ey söyüdlü dərə, ey dumanlı dağ,
 Səfaya daldığım yerdir bu yerlər!

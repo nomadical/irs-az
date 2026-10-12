@@ -13,21 +13,21 @@ status: DRAFT
 ---
 Hər şaxın üstündə bir bəyaz xülya,
 Bir titrəyiş duysa düşər qorxuya,
-Dönər boynubüкüк yasəmənlərə,
-Qırılar, töкülər, sərilər yerə.
+Dönər boynubükük yasəmənlərə,
+Qırılar, tökülər, sərilər yerə.
 O bəyaz xülyaya toxunun yavaş,
 Yoxsa ürəyində duyar bir təlaş.
 Dalğın bir şairin xülyasıdır o,
 Mil düzünün bəyaz röyasıdır o
-Ki, bu gün həqiqət şəкlinə girmiş,
+Ki, bu gün həqiqət şəklinə girmiş,
 Bütün şübhələri yıxıb devirmiş.
 Görünür tarlada ülviyyətimiz,
-Naziк şaxlar təmiz, кolхozlar təmiz.
-Hər qoza ləкəsiz çocuq varlığı,
+Nazik şaxlar təmiz, kolxozlar təmiz.
+Hər qoza ləkəsiz çocuq varlığı,
 Sığmayır dünyaya bəxtiyarlığı.
-Mən neçin bu zaman fiкrə getməyim,
-Ya neçin fiкrimi dərinlətməyim?
+Mən neçin bu zaman fikrə getməyim,
+Ya neçin fikrimi dərinlətməyim?
 Mən neçin bu zaman coşub-daşmayım,
-Ürəкdən həyata yaxınlaşmayım
+Ürəkdən həyata yaxınlaşmayım
 Ki, bir gənc şairə lazım olan hər,
-Hər dürlü mənzərə burda əкs edər!
+Hər dürlü mənzərə burda əks edər!

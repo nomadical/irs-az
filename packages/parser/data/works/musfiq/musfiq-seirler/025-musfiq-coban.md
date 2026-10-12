@@ -984,7 +984,7 @@ Qızına, susdu dərban.
 Sağ ol, sevgili Mərcan!
 Kəndlər üç günə qədər
 Hücuma keçəcəklər.
-Xanın кеyfi necədir?
+Xanın keyfi necədir?
 
     -M ə r c a n**
 

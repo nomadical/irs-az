@@ -16,12 +16,12 @@ Daşlar ayağını əzər, maralım!
 Gəl səni bəsləyim gözümün üstdə,
 Etmə aşiqindən həzər, maralım!
 
-Diкsinə-diкsinə qıya baxanda,
-Səкsənmə кönlümü oda yaxanda,
+Diksinə-diksinə qıya baxanda,
+Səksənmə könlümü oda yaxanda,
 Çeşmeyi-çeşmindən nurlar axanda.
 Qaynar bulaqlara bənzər, maralım!
 
 Səyyarə tutmuşdur hüsnündən soraq,
 Bədnəzər gözündən olasan iraq!
-Кöкsümdə gəl gizlən, getmə çox uzaq,
+Köksümdə gəl gizlən, getmə çox uzaq,
 Hicran dağlarını gəzər, maralım!

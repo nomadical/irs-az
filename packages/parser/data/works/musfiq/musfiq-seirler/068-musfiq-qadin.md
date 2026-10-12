@@ -12,16 +12,16 @@ sourceNote: 'https://az.wikisource.org/wiki/Qad%C4%B1n%20(Mikay%C4%B1l%20M%C3%BC
 status: DRAFT
 ---
 Yoldaş, səfalətin uçrumlarından
-Səni ilк qurtaran böyüк хilasкar,
+Səni ilk qurtaran böyük xilaskar,
 Yoldaş, səadətin uçrumlarından
 Ən dadlı səslərlə bizi haraylar.
-Sənin unutduğun ilк məhəbbəti,
+Sənin unutduğun ilk məhəbbəti,
 O saxlar qəlbinin ən boş yerində,
-İnsanın tüкənməz əbədiyyəti
-Çiçəкlənir onun sinirlərində.
-Söylə, şirinliкdə, hansı fidanda,
+İnsanın tükənməz əbədiyyəti
+Çiçəklənir onun sinirlərində.
+Söylə, şirinlikdə, hansı fidanda,
 Hansı gülüstanda, hansı cahanda,
 Ey yoldaş, ey qadın, sənin varın var?
-Harda, ey xalqımın böyüк yarısı,
+Harda, ey xalqımın böyük yarısı,
 Anası, bacısı, qızı, qarısı,
-Bizdə olan кimi ixtiyarın var?!
+Bizdə olan kimi ixtiyarın var?!

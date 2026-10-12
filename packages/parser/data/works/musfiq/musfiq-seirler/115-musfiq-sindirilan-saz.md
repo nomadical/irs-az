@@ -219,7 +219,7 @@ Hardan gəlib çıxdı bu qara bayquş?
 Çana doyduracaq bizi axırda.
 Altdan-altdan bizə hələ baxır da,
 Sanki marıtlayıb oğru bir pişik.
-Biz toya gəlmişiк? Yasa gəlmişiк?
+Biz toya gəlmişik? Yasa gəlmişik?
 – Ay qız, yum ağzını, eşidər.
 – Burax!
 Uzun danışmasın bəlkə bu sarsaq,
@@ -553,7 +553,7 @@ Bəli, vurdum onu yoldan keçəndə,
 Bu gecə gedirik, kimsə bilməsin.
 Bura gəlməyin də hiss edilməsin.
     -S ə r i n**
-Hara gedəcəyiк?
+Hara gedəcəyik?
     -D u m a n**
 Yaradan bilir.
 Neçin gözlərindən yaşlar sərpilir?

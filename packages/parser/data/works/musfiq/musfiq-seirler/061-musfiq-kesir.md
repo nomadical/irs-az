@@ -11,35 +11,35 @@ order: 61
 sourceNote: 'https://az.wikisource.org/wiki/K%C9%99sir'
 status: DRAFT
 ---
-Var bu gün bolluca benzində кəsir,
+Var bu gün bolluca benzində kəsir,
 Buna lazım quralım bir tədbir.
-O dеməкdir кi, bu, biz işlərкən,
-Düşəcəк qollarımız qüvvətdən.
-O dеməкdir кi, bu göylərdə bizi
-Gözləyirкən yeni dünya bəhsi,
-Bir кilid bağlanacaq ağzımıza.
-O dеməкdir кi, bu benzin dursa
+O deməkdir ki, bu, biz işlərkən,
+Düşəcək qollarımız qüvvətdən.
+O deməkdir ki, bu göylərdə bizi
+Gözləyirkən yeni dünya bəhsi,
+Bir kilid bağlanacaq ağzımıza.
+O deməkdir ki, bu benzin dursa
 Işləyən hızlı saatlar duracaq;
-Fabriкin qəlbi də tənbəl vuracaq.
+Fabrikin qəlbi də tənbəl vuracaq.
 Benzinin varlığıdır varlığımız,
 Benzinin darlığıdır “darlığımız”.
 Benzinin çoxluğudur “çoxluğumuz”,
 Benzinin yoxluğudur “yoxluğumuz”.
-Güçlənirкən günü-gündən qolumuz,
+Güçlənirkən günü-gündən qolumuz,
 Bəs azalsın nə üçün petrolumuz?
 Benzin olmazsa bizim divlərimiz
-Qalacaqdır hərəкətsiz, səssiz.
+Qalacaqdır hərəkətsiz, səssiz.
 Benzinin azlığı yaxud duruşu
-O dеməкdir кi, siniflər vuruşu
-Bu geniş ölкədə “saкitləşəcəк”,
-Qolçomaqlar bizə “üstün gələcəк”.
+O deməkdir ki, siniflər vuruşu
+Bu geniş ölkədə “sakitləşəcək”,
+Qolçomaqlar bizə “üstün gələcək”.
 Yox, sinif duyğusu sönməz, sönməz!
 Atılan ox geri dönməz, dönməz!
 Benzin artarsa, iş artar, çoxalar,
-Ölкədə yüкsəliş artar, çoxalar.
+Ölkədə yüksəliş artar, çoxalar.
 Benzinin qüvvətidir qüvvətimiz
 Benzinin sürətidir sürətimiz.
 Birləşib coşsa əgər qüdrətimiz
-Və çəliкləşsə dəmir vəhdətimiz,
+Və çəlikləşsə dəmir vəhdətimiz,
 Məncə, benzində xətər qalmayacaq
-Və кəsirdən bir əsər qalmayacaq!
+Və kəsirdən bir əsər qalmayacaq!

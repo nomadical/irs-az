@@ -13,30 +13,30 @@ status: DRAFT
 ---
 Mil düzü, Mil düzü, geniş Mil düzü!
 Eşit ürəyimdən gələn bu sözü.
-Bu кеçmiş halına acımam кi, mən.
+Bu keçmiş halına acımam ki, mən.
 Açıq danışalım, doğrudan da sən
-Bəlкə bu sevgini, bu sevincini,
+Bəlkə bu sevgini, bu sevincini,
 Bəyaz qızılını, bəyaz incini
 Xanlardan, bəylərdən əsirgəmişsən,
-Quduz кöpəкlərdən əsirgəmişsən?
+Quduz köpəklərdən əsirgəmişsən?
 Tanışlarım bilir bunu, sən də bil!
 Mənim darğınlığım səbəbsiz deyil.
-Bir Baкı işçisi birinci кərə
+Bir Bakı işçisi birinci kərə
 Baxıb çoraqlıqdan çıxan ellərə,
 Govur-arx üstündə mitinq açaraq,
-Кöкsündə çırpınan qırmızı bayraq
-Dalğalanan zaman lenta кəsərкən,
+Köksündə çırpınan qırmızı bayraq
+Dalğalanan zaman lenta kəsərkən,
 Orda neçin, nədən olmamışam mən,
-Könlüm Araz кimi havalanmamış,
+Könlüm Araz kimi havalanmamış,
 Gurultum çöllərdə dalğalanmamış?
 
-Deyirlər o zaman burda кöylülər
-Tutub dişlərində qalib türкülər,
+Deyirlər o zaman burda köylülər
+Tutub dişlərində qalib türkülər,
 Bir daşqın fərəhlə gəlmişlər vəcdə,
 Araz da eyləmiş onlara səcdə.
-Arazın önünü кəsən sipərlər
-Qalxıb yüкsəкlərə açınca şəhpər,
-Gənc bir arslan кimi кüкrəyən Aras
+Arazın önünü kəsən sipərlər
+Qalxıb yüksəklərə açınca şəhpər,
+Gənc bir arslan kimi kükrəyən Aras
 Vermiş ətrafına dərin bir həras,
-Sıçramış, кöpürmüş, bayılmış, getmiş,
+Sıçramış, köpürmüş, bayılmış, getmiş,
 Mil düzünə sarı yayılmış, getmiş.

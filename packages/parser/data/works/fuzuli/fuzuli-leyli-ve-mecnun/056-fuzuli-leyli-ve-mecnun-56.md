@@ -50,10 +50,10 @@ Bel olmuş idi alinda dırnaq,
 Yerdən sovurardi başa topraq.
 
 Muyinda qtibar olub fərahəm,
-Əşк ilə çəkib zaman-zaman nəm,
+Əşk ilə çəkib zaman-zaman nəm,
 
 Abubara sabzazari oldu,
-Gulzari-сünun bahari oldu.
+Gulzari-cünun bahari oldu.
 
 Gor tutsa idi gəvəzn ilə xu,
 Axardi gözündən ol qədər su

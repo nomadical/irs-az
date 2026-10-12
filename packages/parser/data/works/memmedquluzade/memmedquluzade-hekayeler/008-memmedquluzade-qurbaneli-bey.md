@@ -203,7 +203,7 @@ Qurbanəli bəy sağ əlini qoydu gözünün üstünə və dedi:
 
 -   Kərbəlayı Qasım, tez get atı çək gətir, naçalnik baxsın. Kərbəlayı Qasım qaçdı və tövlədən atı çıxartdı eşiyə. Naçalnik,
 
-pristav, Qurbanəli bəy, pristavların biri və xanımların biri getdilər atın yanına. Qurbanəli bəy ata yavıqlaşıb başladı atın alnını tumarlamağa. Naçalnik keçdi atın dalına, sonra keçdi qabağına və istədi ağzını açıb dişlərinə baxsın. Ал başını göyə qalxızıb çəkildi bir tərəfə.. Qurbanəli bəy çığırdı ata:
+pristav, Qurbanəli bəy, pristavların biri və xanımların biri getdilər atın yanına. Qurbanəli bəy ata yavıqlaşıb başladı atın alnını tumarlamağa. Naçalnik keçdi atın dalına, sonra keçdi qabağına və istədi ağzını açıb dişlərinə baxsın. At başını göyə qalxızıb çəkildi bir tərəfə.. Qurbanəli bəy çığırdı ata:
 
 -    Tərpənmə, axmaq!
 

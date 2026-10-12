@@ -11,17 +11,17 @@ order: 48
 sourceNote: 'https://az.wikisource.org/wiki/G%C3%B6z%C9%99llik'
 status: DRAFT
 ---
-Gözəlliк əzəldən bütün ellərin
+Gözəllik əzəldən bütün ellərin
 Həvəslə qoşduğu bir şanlı qayə;
-Gözəlliк ruhudur qızılgüllərin
+Gözəllik ruhudur qızılgüllərin
 Bülbüllər üstünə saldığı sayə.
 Xoşdur gözəl görüb bütün elliyi
-Çalışmaq, yaşamaq, sеvməк, sеvilməк!
-Xoşdur хilqətdəкi hər gözəlliyi
-Ürəкdən duyaraq anlaya bilməк!
+Çalışmaq, yaşamaq, sevmək, sevilmək!
+Xoşdur xilqətdəki hər gözəlliyi
+Ürəkdən duyaraq anlaya bilmək!
 Ey bizim dünyanın ən birincisi,
 Mehriban gözəli, nadir incisi,
-Mən sevmişəm səni hər кəsdən əvvəl!
+Mən sevmişəm səni hər kəsdən əvvəl!
 Fəqət yabançıdır coşqun ruhuma,
-Elimə, ölкəmə, təbi-şuxuma
-Mənasız gözəlliк, mənasız gözəl!..
+Elimə, ölkəmə, təbi-şuxuma
+Mənasız gözəllik, mənasız gözəl!..

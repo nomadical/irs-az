@@ -171,7 +171,7 @@ Mə'şuq edər əhli-eşqi kamil.
 Olmaz isə eşq, hüsn olur xar,
 Eşq ilədir əhli-husna bazar.
 
-Мəcnun idi sam'i-məclisafruz,
+Məcnun idi sam'i-məclisafruz,
 Leyli ona atəşi-cigarsuz.
 
 Məcnun idi cami-rahətəfza,
@@ -186,8 +186,8 @@ Eşq idi edən camala meyli.
 Bir gün Macnuni-dilşikəstə
 Səhrada gəzirdi zaru xəstə,
 
-Bir səhfədə gördü iki реуkər,
-Leyli Мəcnun ilə müsavvar.
+Bir səhfədə gördü iki peykər,
+Leyli Məcnun ilə müsavvar.
 
 Məhv eylədi nəqşi-dilsitanın,
 Qoydu özünün həmin nişanın.

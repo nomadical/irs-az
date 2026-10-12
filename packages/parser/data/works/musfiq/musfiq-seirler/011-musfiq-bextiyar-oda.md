@@ -12,12 +12,12 @@ sourceNote: 'https://az.wikisource.org/wiki/B%C9%99xtiyar%20oda'
 status: DRAFT
 ---
 Ey altun şəfəqli bəxtiyar oda
-De nurlu qoynunda sənin кim yaşar?
-Ellər dolaşarкən açıq havada,
+De nurlu qoynunda sənin kim yaşar?
+Ellər dolaşarkən açıq havada,
 Səni Dilbərinmi nəfəsi oxşar?!
 Nə olaydı bu dəm bir quş olaydım,
 Sənin pəncərənə qonmuş olaydım.
-Gözümü hüsnündən çəкə bilmirəm
+Gözümü hüsnündən çəkə bilmirəm
 De, niyə salmısan məni bu hala?!
 Sənsiz sevinmirəm, sənsiz gülmürəm
 Qəlbim elə coşur, derəm nə ola:

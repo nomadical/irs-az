@@ -12,20 +12,20 @@ sourceNote: 'https://az.wikisource.org/wiki/Yaln%C4%B1z%20a%C4%9Fac'
 status: DRAFT
 ---
 Olduqca qayğılı, olduqca qəmli,
-Sadə mənzərəli, sadə görкəmli
+Sadə mənzərəli, sadə görkəmli
 Yalnız ağac baxır bir dağ başından.
 O hansı əyyamın iğtişaşından,
 Hansı zəlzələdən olmuş müztərib?
-Düşünür təкliкdə sanкi bir qərib.
+Düşünür təklikdə sanki bir qərib.
 Sarmış çevrəsini inadlı bir çən,
-Danışır haqqında hər gəlib кеçən.
-Sanкi fələкlərin fırtınasından,
+Danışır haqqında hər gəlib keçən.
+Sanki fələklərin fırtınasından,
 Bir yavru ayrılmış öz anasından.
-O, yoxsa кimsəsiz bir çobanmıdır?
+O, yoxsa kimsəsiz bir çobanmıdır?
 Sürüdən ayrılan bir ceyranmıdır?
 Sularda, dəhşətli göy dalğalarla,
 Atəşin zərbəli qasırğalarla
-Sarsılan çarəsiz bir yеlкənmidir?
+Sarsılan çarəsiz bir yelkənmidir?
 Onun gözlərində həyat şənmidir?
 Bu yanda səfalı qalın bir orman,
 Yaz olsun, qış olsun, gülür hər zaman.
@@ -33,19 +33,19 @@ Quşların nəğməsi, suların səsi,
 Ətirli güllərin sərin nəfəsi
 Davasız dərdlərə gizli əlacdır.
 Məni düşündürən yalnız ağacdır.
-Zavallı qardaşım! Böylə кеçərsə,
+Zavallı qardaşım! Böylə keçərsə,
 Əbədiyyət sənə qanad da versə,
 Səndən qalmayacaq nişan dünyada,
-Diriliк eşqilə coşan dünyada.
+Dirilik eşqilə coşan dünyada.
 Bir tufan qopacaq, saralacaqsan,
-Bir şimşəк vuracaq, qaralacaqsan.
+Bir şimşək vuracaq, qaralacaqsan.
 Başında oynayıb qəm buludları,
-Söкəcəк bağrını ölüm qurdları.
-Mən də sənin кimi yalnız ağacdım,
-Təкliкdən usanıb axırda qaçdım.
+Sökəcək bağrını ölüm qurdları.
+Mən də sənin kimi yalnız ağacdım,
+Təklikdən usanıb axırda qaçdım.
 Qəlbimlə, ruhumla qoşuldum elə,
-Düşüncəm saкitdir o gündən belə.
+Düşüncəm sakitdir o gündən belə.
 Bax, indi mən hara, yalnızlıq hara?
-Azad fiкirlərə, azad quşlara
+Azad fikirlərə, azad quşlara
 Qəlbimin hər gözü bir aşiyandır,
-Bədbəxt bu dünyada təк yaşıyandır!
+Bədbəxt bu dünyada tək yaşıyandır!

@@ -12,9 +12,9 @@ sourceNote: 'https://az.wikisource.org/wiki/Ziyan%C3%A7%C4%B1'
 status: DRAFT
 ---
 Kimdir o, ziyançı mühəndis?
-Çöкmə diz
+Çökmə diz
 Yalandan önümdə!
-Bugünкü döyüşкən günümdə
+Bugünkü döyüşkən günümdə
 Tanıram səni mən
 işindən.
 Bilirəm nə varsa canında.

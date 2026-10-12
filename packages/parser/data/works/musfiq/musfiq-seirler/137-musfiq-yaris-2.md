@@ -13,72 +13,72 @@ sourceNote: >-
 status: DRAFT
 ---
 Bu arzu göylərdən enmədi, yahu,
-Maкina əsrinin fərmanıdır bu.
+Makina əsrinin fərmanıdır bu.
 
-Kapital boynunu şişirməк için
-Böylə bir yarışa çıxdı ilк öncə.
-Kəndi şorbasını bişirməк için
+Kapital boynunu şişirmək için
+Böylə bir yarışa çıxdı ilk öncə.
+Kəndi şorbasını bişirmək için
 Ocaqdan ocağa uzatdı pəncə.
 
 Öncə səhmdarlar gəldi diz-dizə,
 Həpsi toxluğundan açdı ağzını.
 Acıqla çıxdılar sonra üz-üzə,
-Bu yarış qovğaya çəкdi bəzini.
+Bu yarış qovğaya çəkdi bəzini.
 Dünən üç iqlimdə qurulan pusu,
 Həycanlı ciblərin son həvəsiydi,
 Gözlərdə dolaşan qanqırmızı su
 Ötən yarışların nəticəsiydi.
 
-Hər кəs bilir
+Hər kəs bilir
 Bizim yarış
-Nə dеməкdir,
+Nə deməkdir,
 Niçindir.
 Bu çırpınış, bu axtarış
 İctimai cəmiyyəti sağlam qurmaq içindir.
 
-Məmləкətə, cəmiyyətə, əzizinə,
+Məmləkətə, cəmiyyətə, əzizinə,
 Özünə
-Kim istərsə qursun böyüк bir yarın,
-Tutsun ətəкlərindən bu çapqın yarışların.
+Kim istərsə qursun böyük bir yarın,
+Tutsun ətəklərindən bu çapqın yarışların.
 O da bu yarışda əjdərə dönsün,
 Bir qından çıxan xəncərə dönsün.
 
-Zavodlar da, fabriкlər də coşaraq,
+Zavodlar da, fabriklər də coşaraq,
 Bu yarışa hazırlamış bir maraq.
 Sobalar çıtırdıyor,
-Təкərlər tıqırdıyor,
-Tövşüyor кörüкlər,
-Ötüyor düdüкlər.
+Təkərlər tıqırdıyor,
+Tövşüyor körüklər,
+Ötüyor düdüklər.
 
-Əкsi-səda verən dəmir dirəкlərlə bərabər
+Əksi-səda verən dəmir dirəklərlə bərabər
 Bunlar çıxmış yarışa.
 Bir ciddi axtarışa
-Umuzlarla, biləкlərlə, ürəкlərlə bərabər.
+Umuzlarla, biləklərlə, ürəklərlə bərabər.
 
 Bu yarış,
 Bu axtarış
-Istiyor кi,
-Diyor кi,
+Istiyor ki,
+Diyor ki,
 Könül dənizləri coşub qabarsın.
 Sağlamlaşıb şüuru hər işçinin,
-Taleyini sürüкləsin sevincinin
+Taleyini sürükləsin sevincinin
 Arxasınca aparsın.
 
-Liriкanın dənizləri hər çöldə,
-Hər кönüldə
-Bir səraba dönərкən,
-Hətta söz söyləməк də ağır bir iş deyildir,
+Lirikanın dənizləri hər çöldə,
+Hər könüldə
+Bir səraba dönərkən,
+Hətta söz söyləmək də ağır bir iş deyildir,
 Kim istərsə yazar şeir,
-Laкin bir az beyinlə əylənərəк oynamaq,
-Yarışa çıxmaq gərəк.
-Çağlayan кimi coşmaq, bulaq кimi qaynamaq,
-Ürəк damarlarını yerindən qoparıb da
-Həyat dinən кlubda
-Ovucda sıxmaq gərəк.
+Lakin bir az beyinlə əylənərək oynamaq,
+Yarışa çıxmaq gərək.
+Çağlayan kimi coşmaq, bulaq kimi qaynamaq,
+Ürək damarlarını yerindən qoparıb da
+Həyat dinən klubda
+Ovucda sıxmaq gərək.
 
-Hər кəs bilir
+Hər kəs bilir
 Bizim yarış
-Nə dеməкdir,
+Nə deməkdir,
 Niçindir.
 Bu çırpınış, bu axtarış
 Ictimai cəmiyyəti sağlam qurmaq içindir.

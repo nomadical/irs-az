@@ -33,7 +33,7 @@ Yamayardım babamın çul-çuxasın,
 Tez durub sübh sağardım inəyi,
 Xansənəmdən diləməzdim köməyi;
 
-Neyləyirdim bəzəyi уа düzəyi?
+Neyləyirdim bəzəyi ya düzəyi?
 Dama, divara yapardım təzəyi.
 
 Atam əllaf, babam dülgər idi,

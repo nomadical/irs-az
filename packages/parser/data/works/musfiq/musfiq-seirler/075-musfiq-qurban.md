@@ -19,7 +19,7 @@ Bir qara buludam uca göylərdə,
 Bu qara baxtımla bizim ellərdə
 Sən neçin ağlarsan mən duran yerdə,
 Nərgiz gözlərinin yaşına qurban?
-Sinən billur кimi, altında daş var,
-Bilməzsən кönlümdə nə iğtişaş var,
-Nə qədər кi, mənim gözümdə yaş var,
+Sinən billur kimi, altında daş var,
+Bilməzsən könlümdə nə iğtişaş var,
+Nə qədər ki, mənim gözümdə yaş var,
 Olsun ürəyinin daşına qurban!

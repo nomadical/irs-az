@@ -46,7 +46,7 @@ Azadlığın bayrağını o da almış öz əlinə.
 Deyir: "Mənəm bolqar qızı, Bolqarıstan vətənimdir.
 Mədən mənim, torpaq mənim, qüvvət mənim, söz mənimdir.
 Mənim gözəl torpağıma qoy gəlməsin qəsbkarlar.
-Həг ananın ürəyində min aslanın qüvvəti var"
+Hər ananın ürəyində min aslanın qüvvəti var"
 Deyir: "Yaşıl tarlamızı düşmən əli qoy biçməsin,
 Mənim axar çaylarımdan alman atı su içməsin!
 Gəlin, dedi bolqar qızı, — bir son qoyaq biz bu dərdə",

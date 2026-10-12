@@ -17,20 +17,20 @@ Qırılmış şəhpəri,
 uçamaz!
 Keçməyir günləri binamaz.
 Canamaz
-üstündə кəsilmiş taqəti;
-Vird еtməк adəti.
+üstündə kəsilmiş taqəti;
+Vird etmək adəti.
 Getməyir qabağa,
 Yürüşü bir bağa
 yürüşü...
 Həyatı, görüşü
-pəк əsкi
-bir Baкı.
+pək əski
+bir Bakı.
 Başının ağası
 Ingilis darğası.
 Ey Murtuz, ey Nobel,
 Bir daha bağlamaz sənə bel
 buralar!
-Biz bayram еdərкən ürəyin aldımı yaralar?
+Biz bayram edərkən ürəyin aldımı yaralar?
 O hansı zamandı,
 Hər tərəf dumandı
 O gecə?..
@@ -39,7 +39,7 @@ Sarıydı əyninin paltarı,
 Gəzirdin bulvarı.
 Kaspinin üzündə oynaşan dalğalar,
 qaynaşan dalğalar,
-Əsdiкcə giləvar
+Əsdikcə giləvar
 Oynardı bulvar.
 Oynardı “ovlar”, oynardı “zadələr”,
 “Zadələr” önündə qırılmış badələr..

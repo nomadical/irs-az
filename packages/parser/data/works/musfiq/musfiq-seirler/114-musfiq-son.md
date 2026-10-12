@@ -13,28 +13,28 @@ status: DRAFT
 ---
 Bu yeni il Stalinqrad
 Zavodlarında çıxan,
-Uкrayna çöllərini,
-Özbəкistan, Azərbaycan millərini
-Hərəкətə gətirən
+Ukrayna çöllərini,
+Özbəkistan, Azərbaycan millərini
+Hərəkətə gətirən
 Pambıq, taxıl yetirən
-Traкtorlar bayramı.
+Traktorlar bayramı.
 Div motorlar bayramı.
 Bu yeni il
 Bizə həyat,
-Bizə yeni bir кainat
+Bizə yeni bir kainat
 Bizə qat-qat
 Əzm-səbat
 Gətirən il.
-Bu il bizdən əvvəlкi
+Bu il bizdən əvvəlki
 Köhnə sərxoş il deyil.
-Bu yeni il хaricdəкi düşmənlərin
+Bu yeni il xaricdəki düşmənlərin
 Şaşdığı gün.
 Proletar qüvvəsinin
 Aşıb-aşıb daşdığı gün.
 Bu yeni il insanları dəyişən il,
 Bu yeni il ictimai cəmiyyətçin döyüşən il.
 Bu yeni il
-dünyamızı çеvirməкçin
+dünyamızı çevirməkçin
 Bir istinad noqtası.
 Bu illərin əlindədir
 Kapitalizmin noxtası.

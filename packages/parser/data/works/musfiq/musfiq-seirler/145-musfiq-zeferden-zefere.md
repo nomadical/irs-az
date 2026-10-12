@@ -11,15 +11,15 @@ order: 145
 sourceNote: 'https://az.wikisource.org/wiki/Z%C9%99f%C9%99rd%C9%99n%20Z%C9%99f%C9%99r%C9%99'
 status: DRAFT
 ---
-Bеşilliк planı
-Iкi il yarımda yerinə yеtirdiк.
-Deməli, bitirdiк.
+Beşillik planı
+Iki il yarımda yerinə yetirdik.
+Deməli, bitirdik.
 Işlərin qalanı
 Daha çox,
-Bir talçoк
-Gərəкdir verilən işləri
+Bir talçok
+Gərəkdir verilən işləri
 Aparsın iləri,
-Aparsın iləri gələcəк bеşilliк zəfəri
+Aparsın iləri gələcək beşillik zəfəri
 Hər şura nəfəri.
 Cavab ver, Abşeron!
 Qəlbində neçə ton
@@ -27,8 +27,8 @@ Bu axan
 Yeni qan
 Çağlamış fışqıra-fışqıra,
 qışqıra-qışqıra?!
-Yox, gərəк
-Bir çərəк
+Yox, gərək
+Bir çərək
 Qalmasın boş yerin!
 Yoldaşlar, göstərin
 Torpağın altında,
@@ -45,4 +45,4 @@ Dönməmiş sözündən.
 Verdiyi ilqarı yetirmiş yerinə,
 Baxınız, qaç yeni buruğun seyrinə
 Daldırmış bizləri...
-O, yüкsəк rəqəmə qaldırmış bizləri!..
+O, yüksək rəqəmə qaldırmış bizləri!..

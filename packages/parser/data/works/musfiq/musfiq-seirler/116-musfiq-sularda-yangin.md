@@ -16,9 +16,9 @@ Dneprdə su altında odlar yanar,
 Əfsanələr əfsanəsi...
 Qatı polad qatlarını
 Parçalamaq çətin deyil,
-Doğram-doğram еdərəк
+Doğram-doğram edərək
 Xırçalamaq çətin deyil.
-Laкin sular altında
+Lakin sular altında
 Poladları doğramaqçın
 Məqsədə uğramaqçın,
 Su altında qaz alovu yaratmaq
