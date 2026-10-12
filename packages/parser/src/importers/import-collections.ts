@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import matter from 'gray-matter';
-import { getDb } from './db';
+import { getDb, newStatus, statusUpdate } from './db';
 import type { CollectionFrontmatter } from '../types';
 
 const COLLECTIONS_DIR = path.resolve(__dirname, '../../data/collections');
@@ -77,7 +77,7 @@ export async function importCollections(opts: {
         genre: fm.genre ?? 'POEM',
         descriptionAz: description || null,
         order: fm.order ?? null,
-        status: opts.publish ? 'PUBLISHED' : (fm.status ?? 'DRAFT'),
+        status: newStatus(opts, fm.status),
       },
       update: {
         titleAz: fm.titleAz,
@@ -91,7 +91,7 @@ export async function importCollections(opts: {
         genre: fm.genre ?? 'POEM',
         descriptionAz: description || null,
         order: fm.order ?? null,
-        status: opts.publish ? 'PUBLISHED' : (fm.status ?? 'DRAFT'),
+        ...statusUpdate(opts),
       },
     });
 
