@@ -17,12 +17,27 @@ Public domain only (died 1955 or earlier, life + 70). Sources are unverified unt
 - [x] Mirzə Şəfi Vazeh — XIX, AZ + FA — wikisource; only his 7 original works. The "Mirzə Şəfi nəğmələri" cycles are Bodenstedt's, could go in as Bodenstedt's German originals (PD)
 - [x] Abbasqulu ağa Bakıxanov — XIX, AZ + FA — wikisource
 - [x] Aşıq Ələsgər — XIX–XX, AZ — wikisource
-- [ ] Nəcəf bəy Vəzirov — XIX–XX, AZ plays — not on wikisource: every link on his author page is a missing page; needs OCR of a printed edition
+- [ ] Nəcəf bəy Vəzirov — XIX–XX, AZ plays — not on wikisource: every link on his author page is a missing page; needs OCR of a printed edition; the Presidential Library has the 2005 Şərq-Qərb *Əsərləri* as an e-book (preslib.az/az/elibrary/ebook/8f6IWYG1, download behind email + captcha): plays only, not the editor's notes
 - [x] Cəlil Məmmədquluzadə — XX, AZ prose — wikisource
 - [x] Əbdürrəhim bəy Haqverdiyev — XX, AZ prose + plays — wikisource has 2 stories; 8 works and acts 3–5 of "Ağa Məhəmməd şah Qacar" are missing pages, the rest needs OCR
 - [x] Məhəmməd Hadi — XX, AZ — wikisource
 - [x] Abbas Səhhət — XX, AZ — wikisource
 - [x] Mikayıl Müşfiq — XX, AZ — wikisource
+
+Next batch (az.wikisource author pages; counts are linked pages that exist, unchecked):
+- [x] Əhməd Cavad — XX, AZ — wikisource (191: rübais and qitʿas split; the ghazal page is single couplets, kept whole)
+- [ ] Aşıq Qurbani — XVI, AZ — wikisource, ~144
+- [ ] Əliqulu Qəmküsar — XX, AZ — wikisource, ~109
+- [ ] Almas İldırım — XX, AZ — wikisource ("Almas Yıldırım"), ~88
+- [ ] Aşıq Abbas Tufarqanlı — XVII, AZ — wikisource, ~84
+- [ ] Xəstə Qasım — XVIII, AZ — wikisource, ~83
+- [ ] Firidun bəy Köçərli — XX, AZ criticism — wikisource, ~38
+- [ ] Fatma xanım Kəminə — XIX, AZ — wikisource, ~19
+- [ ] Üzeyir Hacıbəyov — XX, AZ librettos + satire — wikisource, ~18
+- [ ] Mir Möhsün Nəvvab — XIX, AZ + FA — wikisource, ~16
+- [ ] Qövsi Təbrizi — XVII, AZ — wikisource, ~15
+- [ ] Nəriman Nərimanov, Əli bəy Hüseynzadə, Heyran xanım, Mirzə Ələsgər Növrəs, Kişvəri — wikisource, 5–12 each
+- Too little on wikisource: Çəmənzəminli (2), Süleyman Sani Axundov (1), Nişat Şirvani (2), Məsihi (1), Qənizadə (1); no author page: Seyid Nigari, Möcüz, Abdulla Tofiq Sur, Ömər Faiq Nemanzadə, Nəbati
 
 Housekeeping:
 - [x] Delete the empty duplicate authors `nizami-gencevi` and `nesimi` from the DB

@@ -1108,6 +1108,81 @@
     "collections": []
   },
   {
+    "slug": "cavad",
+    "nameAz": "Əhməd Cavad",
+    "nameRu": "Ахмед Джавад",
+    "nameEn": "Ahmad Javad",
+    "type": "POET",
+    "period": "XX əsr",
+    "writingLangs": [
+      "AZ_LATIN",
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Əhməd Cavad",
+      "ru": "Джавад, Ахмед"
+    },
+    "wikisource": {
+      "az": "Əhməd Cavad",
+      "az_titles": {
+        "Gəlmişəm pambıqlar diyarından": "Gəlmişəm pambıqlar diyarından",
+        "Kiçik çillə (Əhməd Cavad)": "Kiçik çillə",
+        "İmansıza": "İmansıza",
+        "Elin bayrağı": "Elin bayrağı"
+      },
+      "az_extra": {
+        "Rübailər (Əhməd Cavad)": {
+          "collection": "cavad-rubailer",
+          "form": "RUBAI",
+          "starts": [
+            "Bükdü belimi fırqətin",
+            "Xəllaqi-cahan xəlq eyləyib",
+            "Şəhla gözünü etsəm əgər",
+            "Hər kipriyin bin ox kimi",
+            "Bitab edüb dilbər bəni",
+            "Aman, ey bivəfa, zülmün",
+            "Ey xaliqi rəhmən, yenə",
+            "Xudaya, cismim ayrılsa",
+            "Nəqşi aləmidir keçmişəm",
+            "Cana cavan ömrüm bənim",
+            "Könlüm yenə bir kasə",
+            "Saqiyə, rəhm qılıb badə",
+            "Xəndeyi xunriziniz amadədir",
+            "Cəfayi yarə səbr etmək",
+            "Varınsa gər ədavət zahirən",
+            "Dela əğyarə meyl ilə",
+            "Aləm ağlar halimə",
+            "Vəqti-nüsrətdir",
+            "Bu qədər naleyi-cansuz",
+            "Sanma bihudə bənim",
+            "Sən əgər ətfl nəzər",
+            "Biçarə dilcugöz yenə"
+          ]
+        },
+        "Qitələr (Əhməd Cavad)": {
+          "collection": "cavad-qiteler",
+          "starts": [
+            "Sən bəni bircə an gözləməsən",
+            "Min dəfə gülsən də",
+            "Demişdin: “Ölüm",
+            "Məhəbbət gələndə insan",
+            "Sanki varlığımı salırlar",
+            "Mənə nə lazımdır gündə",
+            "Nə çoxdur dünyada qədir",
+            "Səndən dövlətlisi gələndə",
+            "Deyirlər, gözəllik gəldi",
+            "Sevda yollarında ağlamayan",
+            "Yarımın sevdası gəzir",
+            "Qəm, kədər çəkənə gün",
+            "Sən güldükcə mən ağlaram",
+            "Dünyaya yas tutdum"
+          ]
+        }
+      }
+    },
+    "collections": []
+  },
+  {
     "slug": "memmedquluzade",
     "nameAz": "Cəlil Məmmədquluzadə",
     "nameRu": "Джалил Мамедкулизаде",

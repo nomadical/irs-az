@@ -162,6 +162,7 @@ const AUTHOR_ERA: Record<string, string> = {
   hadi: 'maarifcilik',
   sehhet: 'maarifcilik',
   musfiq: 'sovet-dovru',
+  cavad: 'maarifcilik',
   memmedquluzade: 'maarifcilik',
   haqverdiyev: 'maarifcilik',
   vurgun: 'sovet-dovru',
