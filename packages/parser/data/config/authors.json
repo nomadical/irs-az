@@ -997,5 +997,40 @@
       }
     },
     "collections": []
+  },
+  {
+    "slug": "elesger",
+    "nameAz": "Aşıq Ələsgər",
+    "nameRu": "Ашуг Алескер",
+    "nameEn": "Ashiq Alasgar",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "skipSources": [
+      "wikisource-az-22331",
+      "wikisource-az-22332",
+      "wikisource-az-22333",
+      "wikisource-az-22334",
+      "wikisource-az-22335",
+      "wikisource-az-22340",
+      "wikisource-az-22341",
+      "wikisource-az-22342",
+      "wikisource-az-22343",
+      "wikisource-az-22344",
+      "wikisource-az-22345",
+      "wikisource-az-22346",
+      "wikisource-az-21307",
+      "wikisource-az-23734"
+    ],
+    "wikipedia": {
+      "az": "Aşıq Ələsgər",
+      "ru": "Ашуг Алескер"
+    },
+    "wikisource": {
+      "az": "Aşıq Ələsgər"
+    },
+    "collections": []
   }
 ]
