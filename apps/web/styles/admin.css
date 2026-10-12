@@ -666,3 +666,73 @@
 
 .adm-review-note { margin-top: 1rem; }
 .adm-review-note .adm-textarea { font-family: var(--font-body); line-height: 1.6; }
+
+/* ── Tags ───────────────────────────────────────────────────── */
+.adm-tag-group + .adm-tag-group { margin-top: 1.75rem; }
+.adm-num { font-variant-numeric: tabular-nums; }
+.adm-row-actions { display: flex; gap: 0.35rem; justify-content: flex-end; }
+.adm-pager { justify-content: center; margin-top: 1rem; font-family: var(--font-ui); font-size: 0.75rem; }
+
+.adm-tag-editor {
+  border:  none;
+  padding: 0;
+  margin:  0.5rem 0 0;
+}
+.adm-tag-editor legend { margin-bottom: 0.4rem; }
+.adm-tag-legend {
+  display:     flex;
+  flex-wrap:   wrap;
+  align-items: center;
+  gap:         0.35rem;
+  font-family: var(--font-ui);
+  font-size:   0.65rem;
+  margin-bottom: 0.6rem;
+}
+.adm-tag-row {
+  display:     flex;
+  flex-wrap:   wrap;
+  align-items: center;
+  gap:         0.3rem;
+  margin-bottom: 0.5rem;
+}
+.adm-tag-kind {
+  flex-basis:  100%;
+  font-family: var(--font-ui);
+  font-size:   0.62rem;
+  color:       var(--muted);
+}
+.adm-tag-chip {
+  font-family:   var(--font-ui);
+  font-size:     0.7rem;
+  padding:       0.2rem 0.55rem;
+  border:        1px solid var(--rule);
+  border-radius: 999px;
+  background:    var(--bg);
+  color:         var(--muted);
+  cursor:        pointer;
+  display:       inline-flex;
+  align-items:   center;
+  gap:           0.3rem;
+  transition:    background 0.1s, color 0.1s, border-color 0.1s;
+}
+.adm-tag-chip:hover { border-color: var(--ink); color: var(--ink); }
+.adm-tag-chip.on {
+  background:   var(--ink);
+  border-color: var(--ink);
+  color:        var(--bg);
+}
+.adm-tag-chip.on.is-editor { background: var(--pomeg-fill); border-color: var(--pomeg-fill); color: #fff; }
+.adm-tag-chip.is-rejected { text-decoration: line-through; border-style: dashed; }
+.adm-tag-chip:disabled { opacity: 0.5; cursor: progress; }
+.adm-tag-auto {
+  font-size:      0.55rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  opacity:        0.75;
+}
+.adm-tag-status {
+  font-family: var(--font-ui);
+  font-size:   0.68rem;
+  color:       var(--muted);
+  min-height:  1em;
+}

@@ -338,10 +338,12 @@ enum TagKind {
   ERA
 }
 
-/// Who put a tag on a work: the keyword rules (re-run freely) or an editor (kept)
+/// Who put a tag on a work: the keyword rules (re-run freely) or an editor (kept).
+/// REJECTED is an editor removing a tag: hidden from readers, and the rules won't re-add it.
 enum TagSource {
   RULE
   EDITOR
+  REJECTED
 }
 
 model Tag {

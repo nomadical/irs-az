@@ -14,6 +14,7 @@ import { UserRole } from '@prisma/client';
 import { WorksService } from './works.service';
 import { CreateWorkDto } from './dto/create-work.dto';
 import { QueryWorksDto } from './dto/query-works.dto';
+import { SetWorkTagsDto } from './dto/set-work-tags.dto';
 import { Roles } from '../common/decorators/roles.decorator';
 import { RolesGuard } from '../common/guards/roles.guard';
 import { Public } from '../common/decorators/public.decorator';
@@ -87,6 +88,14 @@ export class WorksController {
   @Patch(':id')
   update(@Param('id') id: string, @Body() dto: Partial<CreateWorkDto>) {
     return this.works.update(id, dto);
+  }
+
+  @ApiBearerAuth()
+  @UseGuards(AuthGuard('jwt'), RolesGuard)
+  @Roles(UserRole.EDITOR, UserRole.SUPERADMIN)
+  @Patch(':id/tags')
+  setTags(@Param('id') id: string, @Body() dto: SetWorkTagsDto) {
+    return this.works.setTags(id, dto);
   }
 
   @ApiBearerAuth()

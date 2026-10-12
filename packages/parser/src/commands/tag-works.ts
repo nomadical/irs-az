@@ -5,7 +5,8 @@ import { tagsFor } from '../tagging/rules';
 
 /**
  * Tag works by keyword and structural rules. Rule tags are replaced on every run;
- * tags an editor set (source EDITOR) are never touched.
+ * tags an editor confirmed (EDITOR) or removed (REJECTED) are never touched, and
+ * a rejected tag is not re-added (createMany skips the existing row).
  */
 export const tagWorksCommand = new Command('tag-works')
   .description('Assign theme, mood, audience and era tags to works by keyword rules')

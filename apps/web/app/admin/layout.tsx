@@ -21,6 +21,7 @@ const navSections = [
     items: [
       { href: '/admin/authors', label: 'Müəlliflər' },
       { href: '/admin/works', label: 'Əsərlər' },
+      { href: '/admin/tags', label: 'Teqlər' },
       { href: '/admin/blog', label: 'Bloq' },
     ],
   },

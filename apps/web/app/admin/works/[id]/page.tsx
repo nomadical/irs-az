@@ -2,6 +2,8 @@
 
 import { useState, useEffect } from 'react';
 import { useRouter, useParams } from 'next/navigation';
+import { WorkTagEditor } from '@/components/admin/WorkTagEditor';
+import type { TagSource } from '@/lib/adminTags';
 
 const API = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000/api';
 
@@ -12,6 +14,7 @@ export default function EditWorkPage() {
   const [collections, setCollections] = useState<any[]>([]);
   const [saving, setSaving] = useState(false);
   const [loading, setLoading] = useState(true);
+  const [tags, setTags] = useState<{ source: TagSource; tag: { slug: string } }[]>([]);
 
   const [form, setForm] = useState({
     titleAz: '',
@@ -70,6 +73,7 @@ export default function EditWorkPage() {
           sourceNote: data.sourceNote ?? '',
           status: data.status ?? 'DRAFT',
         });
+        setTags(data.tags ?? []);
         setLoading(false);
       })
       .catch(() => setLoading(false));
@@ -240,6 +244,7 @@ export default function EditWorkPage() {
               <label className="adm-label">Mənbə qeydi</label>
               <input className="adm-input" value={form.sourceNote} onChange={(e) => update('sourceNote', e.target.value)} />
             </div>
+            <WorkTagEditor workId={id} initial={tags} />
           </div>
 
           <div>

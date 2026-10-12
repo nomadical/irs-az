@@ -90,7 +90,7 @@ export class WorksService {
       ...(query.authorSlug && {
         author: { slug: query.authorSlug },
       }),
-      ...(query.tag && { tags: { some: { tag: { slug: query.tag } } } }),
+      ...(query.tag && { tags: { some: { tag: { slug: query.tag }, source: { not: 'REJECTED' } } } }),
       ...(query.q && {
         OR: (['titleAz', 'titleRu', 'titleEn'] as const).map((field) => ({
           [field]: { contains: query.q, mode: 'insensitive' as const },
@@ -138,10 +138,42 @@ export class WorksService {
       include: {
         author: { select: { slug: true, nameAz: true } },
         collection: { select: { slug: true, titleAz: true } },
+        tags: { select: { source: true, tag: { select: { slug: true } } } },
       },
     });
     if (!work) throw new NotFoundException('Work not found');
     return work;
+  }
+
+  /**
+   * Editor changes to a work's tags. Adding marks the tag EDITOR (kept by the rules);
+   * removing marks it REJECTED, so re-running the keyword rules won't bring it back.
+   */
+  async setTags(id: string, { add = [], remove = [] }: { add?: string[]; remove?: string[] }) {
+    const work = await this.prisma.work.findUnique({ where: { id }, select: { id: true } });
+    if (!work) throw new NotFoundException('Work not found');
+
+    const slugs = [...new Set([...add, ...remove])];
+    const tags = await this.prisma.tag.findMany({ where: { slug: { in: slugs } }, select: { id: true, slug: true } });
+    const idOf = new Map(tags.map((t) => [t.slug, t.id]));
+    const unknown = slugs.filter((s) => !idOf.has(s));
+    if (unknown.length) throw new NotFoundException(`Unknown tags: ${unknown.join(', ')}`);
+
+    const upsert = (slug: string, source: 'EDITOR' | 'REJECTED') =>
+      this.prisma.workTag.upsert({
+        where: { workId_tagId: { workId: id, tagId: idOf.get(slug)! } },
+        create: { workId: id, tagId: idOf.get(slug)!, source },
+        update: { source },
+      });
+    await this.prisma.$transaction([
+      ...add.map((slug) => upsert(slug, 'EDITOR')),
+      ...remove.filter((slug) => !add.includes(slug)).map((slug) => upsert(slug, 'REJECTED')),
+    ]);
+
+    return this.prisma.workTag.findMany({
+      where: { workId: id },
+      select: { source: true, tag: { select: { slug: true } } },
+    });
   }
 
   /** Current slug for a work's current or previous slug, so old URLs can redirect. */
@@ -187,6 +219,7 @@ export class WorksService {
           },
         },
         tags: {
+          where: { source: { not: 'REJECTED' } },
           orderBy: [{ tag: { kind: 'asc' } }, { tag: { order: 'asc' } }],
           select: { tag: { select: { slug: true, kind: true, nameAz: true, nameRu: true, nameEn: true } } },
         },
