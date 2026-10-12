@@ -744,5 +744,63 @@
       ]
     },
     "collections": []
+  },
+  {
+    "slug": "burhaneddin",
+    "nameAz": "Qazi Bürhanəddin",
+    "nameRu": "Кади Бурханеддин",
+    "nameEn": "Kadi Burhan al-Din",
+    "type": "POET",
+    "period": "XIV əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Qazi Bürhanəddin",
+      "ru": "Кади Бурханеддин Ахмед"
+    },
+    "wikisource": {
+      "az": "Qazi Bürhanəddin",
+      "az_extra": {
+        "Rübailər/Qazi Bürhanəddin": {
+          "collection": "burhaneddin-rubailer",
+          "form": "RUBAI",
+          "starts": [
+            "Şad olur isəm",
+            "Sərvün ki, rəvan oldı",
+            "Ol göz ki, yüzün görməyə",
+            "Eşq əhli yari yolına",
+            "Unıtma bəni, şaha ki"
+          ]
+        },
+        "Tuyuğlar/Qazi Bürhanəddin": {
+          "collection": "burhaneddin-tuyuglar",
+          "separator": "***"
+        }
+      }
+    },
+    "collections": []
+  },
+  {
+    "slug": "habibi",
+    "nameAz": "Həbibi",
+    "nameRu": "Хабиби",
+    "nameEn": "Habibi",
+    "type": "POET",
+    "period": "XV-XVI əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "skipSources": [
+      "wikisource-az-33100"
+    ],
+    "wikipedia": {
+      "az": "Həbibi",
+      "ru": "Хабиби (азербайджанский поэт)"
+    },
+    "wikisource": {
+      "az": "Həbibi"
+    },
+    "collections": []
   }
 ]

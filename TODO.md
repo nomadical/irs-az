@@ -7,8 +7,8 @@ Public domain only (died 1955 or earlier, life + 70). Sources are unverified unt
 - [x] Mücirəddin Beyləqani — XII, FA — Ganjoor
 - [x] Fələki Şirvani — XII, FA — Ganjoor
 - [x] Əvhədi Marağalı — XIV, FA — Ganjoor
-- [ ] Qazi Bürhanəddin — XIV, AZ — wikisource / OCR
-- [ ] Həbibi — XVI, AZ — wikisource
+- [x] Qazi Bürhanəddin — XIV, AZ — wikisource has 39 poems of a ~1,500-poem divan; the rest needs OCR
+- [x] Həbibi — XVI, AZ — wikisource
 - [ ] Saib Təbrizi — XVII, FA + AZ — Ganjoor has 9,877 poems (more than the whole site today); deferred
 - [ ] Molla Vəli Vidadi — XVIII, AZ — wikisource
 - [ ] Qasım bəy Zakir — XIX, AZ — wikisource
