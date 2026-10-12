@@ -3,10 +3,22 @@ import { Language } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { CreateTranslationDto } from './dto/create-translation.dto';
 import { renderMarkdown } from '../common/utils/markdown';
+import { SearchService } from '../search/search.service';
 
 @Injectable()
 export class TranslationsService {
-  constructor(private prisma: PrismaService) {}
+  constructor(
+    private prisma: PrismaService,
+    private search: SearchService,
+  ) {}
+
+  /** A work's search entry holds its translations; search is secondary, so a failure only warns */
+  private async reindex<T extends { workId: string }>(translation: T): Promise<T> {
+    await this.search.indexWork(translation.workId).catch((err) => {
+      console.warn(`Search reindex failed for work ${translation.workId}: ${err.message}`);
+    });
+    return translation;
+  }
 
   async findByWork(workId: string) {
     return this.prisma.translation.findMany({
@@ -40,9 +52,11 @@ export class TranslationsService {
     }
 
     const isDefault = dto.isDefault ?? (await this.isFirstInLanguage(dto.workId, dto.language));
-    return this.prisma.translation.create({
-      data: { ...dto, isDefault, bodyHtml },
-    });
+    return this.reindex(
+      await this.prisma.translation.create({
+        data: { ...dto, isDefault, bodyHtml },
+      }),
+    );
   }
 
   async update(id: string, dto: Partial<CreateTranslationDto>) {
@@ -50,7 +64,7 @@ export class TranslationsService {
     if (dto.body) {
       data.bodyHtml = renderMarkdown(dto.body);
     }
-    return this.prisma.translation.update({ where: { id }, data });
+    return this.reindex(await this.prisma.translation.update({ where: { id }, data }));
   }
 
   async setDefault(id: string) {
@@ -63,10 +77,12 @@ export class TranslationsService {
       data: { isDefault: false },
     });
 
-    return this.prisma.translation.update({
-      where: { id },
-      data: { isDefault: true },
-    });
+    return this.reindex(
+      await this.prisma.translation.update({
+        where: { id },
+        data: { isDefault: true },
+      }),
+    );
   }
 
   async createFromPayload(

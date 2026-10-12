@@ -96,9 +96,15 @@ export class SearchService implements OnModuleInit {
       return;
     }
 
-    // Texts go in whole, so a line deep inside a long one is found
+    // Texts go in whole, so a line deep inside a long one is found. Every published
+    // translation in the language counts, the default first, so another translator's
+    // wording is found too
     const translation = (language: string) =>
-      work.translations.find((t) => t.language === language && t.isDefault)?.body;
+      work.translations
+        .filter((t) => t.language === language)
+        .sort((a, b) => Number(b.isDefault) - Number(a.isDefault))
+        .map((t) => t.body)
+        .join('\n\n') || undefined;
 
     await this.client.index('works').addDocuments([
       {
