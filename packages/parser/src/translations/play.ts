@@ -12,6 +12,8 @@ import * as path from 'path';
 import { pdfDocument } from '../scrapers/book-pdf';
 
 const CONFIG_DIR = path.resolve(__dirname, '../../data/config/translations');
+/** Works transcribed by hand from the scans, where the OCR was too poor to correct: <book id>/<work slug>.txt */
+const PROOFREAD_DIR = path.resolve(__dirname, '../../data/proofread');
 
 export interface PlayConfig {
   id: string;
@@ -22,7 +24,8 @@ export interface PlayConfig {
   year: number;
   translatorNote?: string;
   /** Where each work begins: a PDF page (0-based) and the words that open it there; `cast` for a
-   * play's list of characters, kept line by line */
+   * play's list of characters, kept line by line up to the first act (a play that is one work of
+   * ours goes on from there as usual) */
   parts: { workSlug: string; page: number; at: string; cast?: boolean }[];
   /** The last PDF page of the last work */
   lastPage: number;
@@ -35,6 +38,8 @@ export interface PlayTranslation {
   paragraphs: number;
   opening: string;
   body: string;
+  /** Transcribed by hand from the scans, not OCR */
+  proofread: boolean;
 }
 
 export function loadPlayConfig(id: string): PlayConfig {
@@ -62,6 +67,9 @@ export function modernise(text: string): string {
     .replace(/([а-яё]{2,})аго(?![а-яё])/gi, '$1ого')
     .replace(/([а-яё]{2,})яго(?![а-яё])/gi, '$1его');
 }
+
+/** Act headings, however the OCR spells them: "ЛѢЙСТВІЕ", "ДѢЙ5ТВІЕ", "ДѢНСТВІЕ" */
+const ACT = /^[ДЛ]Ѣ\S{0,3}ТВ[ІИ]Е\s+(\S+?)\.?$/;
 
 /** A speaker's line: a name in capitals, maybe with a direction in parentheses */
 const SPEAKER = /^([A-ZА-ЯЁІѢѲ0-9][A-ZА-ЯЁІѢѲ0-9\s.,\-—'"»«]{2,}?)\.?\s*(\(.*)?$/;
@@ -135,12 +143,14 @@ export async function planPlay(cfg: PlayConfig): Promise<{ translations: PlayTra
   };
 
   const translations = cfg.parts.map((part, i) => {
-    const lines = workLines(part, cfg.parts[i + 1] ?? null);
-    if (part.cast) {
-      const body = modernise(fixMixedScript(lines.join('\n')));
-      return { workSlug: part.workSlug, paragraphs: lines.length, opening: body.slice(0, 120), body };
-    }
+    let lines = workLines(part, cfg.parts[i + 1] ?? null);
     const paragraphs: string[] = [];
+    if (part.cast) {
+      const act = lines.findIndex((l) => ACT.test(l));
+      const cast = act < 0 ? lines : lines.slice(0, act);
+      paragraphs.push(cast.join('\n'));
+      lines = act < 0 ? [] : lines.slice(act);
+    }
     let current = '';
     let direction = false;
     const push = () => {
@@ -152,8 +162,7 @@ export async function planPlay(cfg: PlayConfig): Promise<{ translations: PlayTra
       current = current.endsWith('-') ? current.slice(0, -1) + text : current ? `${current} ${text}` : text;
     };
     for (const line of lines) {
-      // Act headings, however the OCR spells them: "ЛѢЙСТВІЕ", "ДѢЙ5ТВІЕ", "ДѢНСТВІЕ"
-      const act = line.match(/^[ДЛ]Ѣ\S{0,3}ТВ[ІИ]Е\s+(\S+?)\.?$/);
+      const act = line.match(ACT);
       if (act) {
         push();
         paragraphs.push(`ДЕЙСТВИЕ ${act[1]}`);
@@ -186,13 +195,18 @@ export async function planPlay(cfg: PlayConfig): Promise<{ translations: PlayTra
     }
     push();
 
+    const proofread = path.join(PROOFREAD_DIR, cfg.id, `${part.workSlug}.txt`);
+    if (fs.existsSync(proofread)) {
+      const body = fs.readFileSync(proofread, 'utf-8').trim();
+      return { workSlug: part.workSlug, paragraphs: body.split(/\n\n+/).length, opening: body.slice(0, 120), body, proofread: true };
+    }
     let body = paragraphs.map((p) => modernise(fixMixedScript(p))).join('\n\n');
     (cfg.corrections ?? []).forEach((c, k) => {
       const next = 'from' in c ? body.split(c.from).join(c.to) : body.replace(new RegExp(c.pattern, c.flags ?? 'g'), c.to);
       if (next !== body) used.add(k);
       body = next;
     });
-    return { workSlug: part.workSlug, paragraphs: paragraphs.length, opening: body.slice(0, 120), body };
+    return { workSlug: part.workSlug, paragraphs: paragraphs.length, opening: body.slice(0, 120), body, proofread: false };
   });
 
   const unusedCorrections = (cfg.corrections ?? [])
