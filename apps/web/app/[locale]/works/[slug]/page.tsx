@@ -8,6 +8,7 @@ import { WorkNavKeys } from '@/components/reading/WorkNavKeys';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { WorkCard } from '@/components/works/WorkCard';
 import { TagPills } from '@/components/works/TagPills';
+import { RefreshIcon } from '@/components/ui/RefreshIcon';
 import { ShareBar } from '@/components/reading/ShareBar';
 import { getTranslations } from 'next-intl/server';
 import {
@@ -236,7 +237,7 @@ export default async function WorkPage({ params }: Props) {
       )}
       <WorkNavKeys prevHref={navHref(nav.prev)} nextHref={navHref(nav.next)} randomHref={`/${locale}/random`} />
       <p className="work-random">
-        <Link href={`/${locale}/random`} prefetch={false} aria-keyshortcuts="r">↻ {t('random_poem')}</Link>
+        <Link href={`/${locale}/random`} prefetch={false} aria-keyshortcuts="r"><RefreshIcon /> {t('random_poem')}</Link>
       </p>
 
       {more.length > 0 && (

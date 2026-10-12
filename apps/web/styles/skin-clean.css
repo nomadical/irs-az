@@ -462,7 +462,7 @@
 }
 /* The pull-quote mark becomes a crimson drop cap on the first letter */
 [data-skin='clean'] .featured-quote { display: none; }
-[data-skin='clean'] .featured-bio::first-letter {
+[data-skin='clean'] .featured-bio--dropcap::first-letter {
   font-family:  var(--font-body);
   font-weight:  700;
   font-size:    3.4em;
@@ -765,3 +765,76 @@
   margin-top: 0;
   border-top: 1px solid var(--rule);
 }
+
+/* ── Finish review: no rules, no ornaments, no tracked capitals ── */
+/* Space and the grey surface separate things; lines are the gazette's */
+[data-skin='clean'] .lang-label { border-bottom: none; padding-bottom: 0; }
+[data-skin='clean'] .parallel-cell + .parallel-cell { border-inline-start: none; }
+[data-skin='clean'] .parallel-row { column-gap: 3.5rem; }
+[data-skin='clean'] .tailpiece { display: none; }
+[data-skin='clean'] .provenance { margin-top: 2.5rem; }
+[data-skin='clean'] .rule,
+[data-skin='clean'] .rule--tight { border-top-color: transparent; margin: 0.75rem 0; }
+[data-skin='clean'] body:has(.more-works--others) .footer { border-top: none; }
+[data-skin='clean'] .footer { background: var(--surf-2); }
+/* The closing couplet is marked by the space before it alone */
+[data-skin='clean'] .beyt--maqta::before { content: none; }
+
+/* Labels in sentence case, muted, untracked */
+[data-skin='clean'] .lang-label,
+[data-skin='clean'] .provenance-key,
+[data-skin='clean'] .share-label,
+[data-skin='clean'] .work-nav-dir {
+  text-transform: none;
+  letter-spacing: 0;
+  font-size:      0.875rem;
+  font-weight:    400;
+  color:          var(--muted);
+}
+[data-skin='clean'] .provenance-key { margin-inline-end: 0.4rem; }
+
+/* Catalogue: the number leads; what it counts follows as a caption */
+[data-skin='clean'] .catalog-count { order: 0; margin-top: 0; }
+[data-skin='clean'] .catalog-unit { order: 1; }
+[data-skin='clean'] .catalog-kind {
+  order:          2;
+  margin-top:     auto;
+  text-transform: none;
+  letter-spacing: 0;
+  font-weight:    400;
+  font-size:      0.8rem;
+  color:          var(--muted);
+}
+[data-skin='clean'] .catalog-tile { justify-content: flex-start; }
+
+/* Recent works: title first, then author, then form and year */
+[data-skin='clean'] .works-strip-col { display: flex; flex-direction: column; }
+[data-skin='clean'] .works-strip-type {
+  order:          3;
+  margin:         0.35rem 0 0;
+  text-transform: none;
+  letter-spacing: 0;
+  font-weight:    400;
+  font-size:      0.8rem;
+  color:          var(--muted);
+}
+
+/* Glossary toggle: a drawn chevron instead of a "+" */
+[data-skin='clean'] .work-gloss summary::after {
+  content:      '';
+  width:        0.4em;
+  height:       0.4em;
+  border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform:    translateY(-0.12em) rotate(45deg);
+  transition:   transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+[data-skin='clean'] .work-gloss[open] summary::after { content: ''; transform: translateY(0.1em) rotate(-135deg); }
+@media (max-width: 768px) {
+  [data-skin='clean'] .parallel-row { border-bottom: none; padding-bottom: 0.5rem; }
+}
+
+/* Poem of the day inside the left column, under the poet card */
+[data-skin='clean'] .home-featured .daily-poem { margin-top: 3rem; }
+[data-skin='clean'] .unfold-btn { text-transform: none; letter-spacing: 0; font-size: 0.9rem; }
+[data-skin='clean'] .catalog-kind--redundant { display: none; }

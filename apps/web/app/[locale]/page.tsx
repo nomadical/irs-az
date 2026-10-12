@@ -7,6 +7,7 @@ import { api, type PoemOfTheDay } from '../../lib/api';
 import { localized } from '@/lib/locale';
 import { TagPills } from '@/components/works/TagPills';
 import { CatalogTiles } from '@/components/home/CatalogTiles';
+import { RefreshIcon } from '@/components/ui/RefreshIcon';
 import { authorsPath, worksPath } from '@/lib/facets';
 
 export const dynamic = 'force-dynamic';
@@ -174,7 +175,8 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                 </div>
 
                 {bioSnippet && (
-                  <p className="featured-bio">
+                  // The drop cap only takes a letter: a bio opening on a year would split it
+                  <p className={`featured-bio${/^\p{L}/u.test(bioSnippet) ? ' featured-bio--dropcap' : ''}`}>
                     <span className="featured-quote" aria-hidden="true">{'\u201C'}</span>
                     {bioSnippet}
                   </p>
@@ -191,6 +193,27 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
           ) : (
             <p className="empty-note">{t('coming_soon')}</p>
           )}
+
+          {/* Poem of the day sits under the poet, so the column ends level with the sidebar */}
+        {daily && (
+          <section className="daily-poem" aria-labelledby="daily-poem-title">
+            <p className="section-label">{t('daily_label')}</p>
+            <h2 id="daily-poem-title" className="daily-poem-title">
+              <Link href={`/${locale}/works/${daily.slug}`}>{localeTitle(daily, locale)}</Link>
+            </h2>
+            <div className="daily-poem-author">
+              <Link href={`/${locale}/authors/${daily.author.slug}`}>{localeName(daily.author, locale)}</Link>
+              {daily.year ? ` · ${daily.year}` : ''}
+            </div>
+            <blockquote className="daily-poem-excerpt" lang="az-Latn">
+              {daily.excerpt.map((line, i) => <p key={i}>{line}</p>)}
+            </blockquote>
+            <div className="daily-poem-actions">
+              <Link href={`/${locale}/works/${daily.slug}`} className="more">{t('read_full')} →</Link>
+              <Link href={`/${locale}/random`} prefetch={false} className="more"><RefreshIcon /> {t('random_poem')}</Link>
+            </div>
+          </section>
+        )}
         </div>
 
         {/* ── Right: Sidebar ────────────────────────────────── */}
@@ -246,26 +269,6 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
       </div>
 
       {/* ── Poem of the day ──────────────────────────────── */}
-      {daily && (
-        <section className="daily-poem" aria-labelledby="daily-poem-title">
-          <p className="section-label">{t('daily_label')}</p>
-          <h2 id="daily-poem-title" className="daily-poem-title">
-            <Link href={`/${locale}/works/${daily.slug}`}>{localeTitle(daily, locale)}</Link>
-          </h2>
-          <div className="daily-poem-author">
-            <Link href={`/${locale}/authors/${daily.author.slug}`}>{localeName(daily.author, locale)}</Link>
-            {daily.year ? ` · ${daily.year}` : ''}
-          </div>
-          <blockquote className="daily-poem-excerpt" lang="az-Latn">
-            {daily.excerpt.map((line, i) => <p key={i}>{line}</p>)}
-          </blockquote>
-          <div className="daily-poem-actions">
-            <Link href={`/${locale}/works/${daily.slug}`} className="more">{t('read_full')} →</Link>
-            <Link href={`/${locale}/random`} prefetch={false} className="more">↻ {t('random_poem')}</Link>
-          </div>
-        </section>
-      )}
-
       {catalog && (
         <CatalogTiles
           catalog={catalog}

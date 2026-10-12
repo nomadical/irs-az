@@ -34,8 +34,11 @@ export function SkinToggle() {
       title={t(skin === 'clean' ? 'gazette' : 'clean')}
     >
       <span className="glyph" aria-hidden="true">¶</span>
-      <svg className="icon" aria-hidden="true" viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round">
-        <path d="M4 5.5h12M4 10h12M4 14.5h7" />
+      {/* A page with its header band: "page look", not a menu */}
+      <svg className="icon" aria-hidden="true" viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
+        <rect x="3.5" y="3" width="13" height="14" rx="2" />
+        <path d="M3.5 7h13" />
+        <path d="M6.5 10.5h7M6.5 13.5h4.5" strokeWidth="1.3" />
       </svg>
     </button>
   );

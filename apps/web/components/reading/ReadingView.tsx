@@ -239,10 +239,11 @@ export function ReadingView({
           tabIndex={foldable ? -1 : undefined}
         >
           <div className="parallel-row parallel-head" aria-hidden="true">
-            <p className="lang-label">
-              {langName(originalLang)} · {t('original_suffix')}
+            {/* Each head sits on its column's start edge: the right for Persian */}
+            <p className="lang-label" dir={originalDir}>
+              {langName(originalLang === 'AZ_ARABIC' && originalTag.endsWith('-Latn') ? 'AZ_LATIN' : originalLang)} · {t('original_suffix')}
             </p>
-            <p className="lang-label">{langName(translation.language)}</p>
+            <p className="lang-label" dir={translationAttrs.dir}>{langName(translation.language)}</p>
           </div>
           {rows ? (
             rows.map(([orig, trans], i) => (
@@ -327,7 +328,7 @@ export function ReadingView({
         <p className="provenance-cta">
           {translations.length === 0 && <span>{t('no_translation')} </span>}
           <Link href={suggestHref}>
-            {translations.length > 0 ? `+ ${t('no_translation_cta')}` : `${t('no_translation_cta')} →`}
+            {translations.length > 0 ? t('no_translation_cta') : `${t('no_translation_cta')} →`}
           </Link>
         </p>
       </footer>
