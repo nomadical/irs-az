@@ -26,7 +26,7 @@ Public domain (died 1955 or earlier, life + 70), except that Soviet-era authors 
 
 Next batch (az.wikisource author pages; counts are linked pages that exist, unchecked):
 - [x] Əhməd Cavad — XX, AZ — wikisource (191: rübais and qitʿas split; the ghazal page is single couplets, kept whole)
-- [ ] Aşıq Qurbani — XVI, AZ — wikisource, ~144
+- [x] Aşıq Qurbani — XVI, AZ — wikisource, 143 works (with "Dirili Qurbani" pages)
 - [ ] Əliqulu Qəmküsar — XX, AZ — wikisource, ~109
 - [ ] Almas İldırım — XX, AZ — wikisource ("Almas Yıldırım"), ~88
 - [ ] Aşıq Abbas Tufarqanlı — XVII, AZ — wikisource, ~84

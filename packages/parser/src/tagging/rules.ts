@@ -138,7 +138,7 @@ function score(texts: WorkFacts['texts'], compiled: Compiled, matched: Record<st
   );
 }
 
-const ASHUG_FORMS = /qoşma|gəraylı|varsağı|bayatı|təcnis|deyişmə/i;
+const ASHUG_FORMS = /qoşma|gəraylı|varsağı|bayatı|təcnis|deyişmə|divani|qıfılbənd/i;
 const SATIRE = /satir/i;
 const CHILDREN_TITLE = /(^|\s)(uşaq|bala|balalar|körpə|məktəb|şagird)/i;
 const MODERN_AUTHORS = new Set(['sabir', 'vurgun', 'cavid', 'cabbarli', 'axundzade']);
@@ -154,6 +154,7 @@ const AUTHOR_ERA: Record<string, string> = {
   fuzuli: 'sefevi-dovru',
   habibi: 'sefevi-dovru',
   saib: 'sefevi-dovru',
+  qurbani: 'sefevi-dovru',
   axundzade: 'maarifcilik',
   sabir: 'maarifcilik',
   'seyid-ezim': 'maarifcilik',

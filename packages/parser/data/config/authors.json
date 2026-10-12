@@ -1275,5 +1275,24 @@
       ]
     },
     "collections": []
+  },
+  {
+    "slug": "qurbani",
+    "nameAz": "Aşıq Qurbani",
+    "nameRu": "Ашуг Гурбани",
+    "nameEn": "Ashiq Qurbani",
+    "type": "POET",
+    "period": "XVI əsr",
+    "writingLangs": ["AZ_ARABIC"],
+    "skipSources": ["wikisource-az-18203"],
+    "wikipedia": {
+      "az": "Aşıq Qurbani",
+      "ru": "Ашуг Гурбани"
+    },
+    "wikisource": {
+      "az": "Aşıq Qurbani",
+      "az_aliases": ["Dirili Qurbani"]
+    },
+    "collections": []
   }
 ]
