@@ -504,7 +504,8 @@ export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePla
     // `[[../]]` (a link to the parent page) is wiki shorthand for the book's name too
     const repeatsBook =
       !!header && (/^\.{0,2}\//.test(header) || header.replace(/[.\s]+$/, '') === coll.titleAz);
-    const titleAz = header && !repeatsBook ? header : cleanTitle(display, authorTokens);
+    const titleAz =
+      cfg.wikisource?.az_titles?.[page.title] ?? (header && !repeatsBook ? header : cleanTitle(display, authorTokens));
     const leaf = cleanTitle(page.title, authorTokens);
     const pageCats = [...page.wikitext.matchAll(/\[\[Kateqoriya:([^\]|]+)/gi)].map((m) => m[1]);
 
