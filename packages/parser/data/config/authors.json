@@ -1335,5 +1335,23 @@
       }
     },
     "collections": []
+  },
+  {
+    "slug": "tufarqanli",
+    "nameAz": "Aşıq Abbas Tufarqanlı",
+    "nameRu": "Ашуг Аббас Туфарганлы",
+    "nameEn": "Ashiq Abbas Tufarqanli",
+    "type": "POET",
+    "period": "XVI-XVII əsr",
+    "writingLangs": ["AZ_ARABIC"],
+    "wikipedia": {
+      "az": "Aşıq Abbas Tufarqanlı",
+      "ru": "Ашуг Аббас Туфарганлы",
+      "en": "Ashik Abbas Tufarqanlı"
+    },
+    "wikisource": {
+      "az": "Aşıq Abbas Tufarqanlı"
+    },
+    "collections": []
   }
 ]

@@ -29,7 +29,7 @@ Next batch (az.wikisource author pages; counts are linked pages that exist, unch
 - [x] Aşıq Qurbani — XVI, AZ — wikisource, 143 works (with "Dirili Qurbani" pages)
 - [x] Əliqulu Qəmküsar — XX, AZ — wikisource, 75 poems and 33 feuilletons
 - [x] Almas İldırım — XX, AZ — wikisource ("Almas Yıldırım"), 88 poems
-- [ ] Aşıq Abbas Tufarqanlı — XVII, AZ — wikisource, ~84
+- [x] Aşıq Abbas Tufarqanlı — XVII, AZ — wikisource, 82 poems and the dastan "Abbas və Gülgəz" (2 links are red)
 - [ ] Xəstə Qasım — XVIII, AZ — wikisource, ~83
 - [ ] Firidun bəy Köçərli — XX, AZ criticism — wikisource, ~38
 - [ ] Fatma xanım Kəminə — XIX, AZ — wikisource, ~19
