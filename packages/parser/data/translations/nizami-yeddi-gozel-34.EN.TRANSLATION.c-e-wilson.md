@@ -74,7 +74,7 @@ If from the country to the town I went, the flock was happy in his watchful care
 
 And if my business in the town was long, be would take borne the flock again himself.
 
-(Thus) be kept watch for me for several years, was true, and saved me from (all) fear and toil.
+(Thus) he kept watch for me for several years, was true, and saved me from (all) fear and toil.
 
 Till one day in the book of (my) affairs I noted down the number of my flock.
 
@@ -98,7 +98,7 @@ So far that the collector for the poor took what remained from me as legal alms.
 
 And I, a dweller in the wilderness, became a shepherd after owning flocks.
 
-That sore and heavy trouble humbled me; it took efEect on (my) discouraged heart,
+That sore and heavy trouble humbled me; it took effect on (my) discouraged heart,
 
 I said, This stroke, given by the evil eye, — of what wild beasts is it the handiwork!
 
@@ -110,7 +110,7 @@ Then with my head bent down upon my staff, making no noise, I walked along with 
 
 A female wolf I saw spring up afar, which came and sat down near before the dog.
 
-In her dog-language (then) she called the dog; the dog ran up to her with feiendlv mien.
+In her dog-language (then) she called the dog; the dog ran up to her with friendly mien.
 
 He ran around her, scattered dust about, now wagged his tail, and now pricked up his ears.
 
@@ -140,7 +140,7 @@ He has betrayed the trust (reposed in him), and trustiness exchanged for treache
 
 Even should death result I have full leave to see that he shall not escape such bonds.
 
-No person whosoever would applaud the man who towards the gmlty acts not so.
+No person whosoever would applaud the man who towards the guilty acts not so.
 
 Bahram, the king, (then) from the (shepherd’s) words took secretly a warning (to himself).
 

@@ -186,7 +186,11 @@
     "Besting": "Resting",
     "Taman": "Yaman",
     "KJivarazm": "Khyarazm",
-    "ids": "his"
+    "ids": "his",
+    "incasteUed": "incastelled",
+    "efEect": "effect",
+    "feiendlv": "friendly",
+    "gmlty": "guilty"
   },
   "corrections": [
     {
@@ -428,6 +432,14 @@
     {
       "from": "O yon, in whom",
       "to": "O you, in whom"
+    },
+    {
+      "from": "(Thus) be kept watch",
+      "to": "(Thus) he kept watch"
+    },
+    {
+      "from": "comi)ared",
+      "to": "compared"
     }
   ],
   "sections": [

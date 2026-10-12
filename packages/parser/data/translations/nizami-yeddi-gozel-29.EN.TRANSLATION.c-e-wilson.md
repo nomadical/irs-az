@@ -96,7 +96,7 @@ So that when far his honey from the hive, the bees might not swarm in by roof an
 
 Also, that with the treasure in a fort, the watchman might not be disturbed by thieves.
 
-(Then) that incasteUed beauty, for (her) ease, saw to the proper ordering of the fort.
+(Then) that incastelled beauty, for (her) ease, saw to the proper ordering of the fort.
 
 When she had built a castle of such strength, she went and treasure-like remained in it.
 
@@ -568,7 +568,7 @@ He, who poured milk upon the (mixture then), so that one melted and the other st
 
 Meant that the sugar mixed up with the pearls would (from them) with a drop of milk divide,
 
-I, who drank up the sugar from his cup, was but a suckling (when) comi)ared with him.
+I, who drank up the sugar from his cup, was but a suckling (when) compared with him.
 
 My sending (him) a ring (was meant to show) that in his wedding me I acquiesced.
 
