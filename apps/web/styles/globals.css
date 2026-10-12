@@ -606,6 +606,11 @@ blockquote {
   line-height: var(--reading-leading, 1.95);
   overflow-wrap: break-word;
 }
+/* A poem read on its own shrinks to its longest line, so the block centres
+   under the title while its lines keep their left edge and indents */
+.reading-column.is-poem:not(.parallel-cell) {
+  width: fit-content;
+}
 .reading-column:is(:lang(fa), :lang(ar), :lang(az-Arab)) {
   font-family:  var(--font-arabic);
   font-size:    calc(var(--reading-size, 1.05rem) * 1.2);
