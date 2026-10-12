@@ -1635,6 +1635,24 @@ blockquote {
   .footer-links { align-items: baseline; }
   .footer-links::before { content: '◆'; content: '◆' / ''; font-size: 0.5rem; color: var(--pomeg); }
 }
+/* Short screens (Windows laptops at 125%, ~730px tall): trim the top row and the gaps */
+@media (min-width: 1100px) and (max-height: 800px) {
+  .home-featured { padding-top: 1rem; padding-bottom: 0.75rem; }
+  .home-sidebar  { padding-top: 1rem; padding-bottom: 0.75rem; }
+  .home-lead { padding-bottom: 0.75rem; }
+  .featured-box-inner { padding: 1rem 1.25rem; }
+  .featured-name { font-size: 2.1rem; }
+  .featured-bio { -webkit-line-clamp: 3; }
+  .daily-poem-excerpt { line-height: 1.6; margin: 0.5rem auto; }
+  .catalog { padding: 0.5rem 0 0.25rem; }
+  .catalog-count { font-size: 1.5rem; }
+  .works-strip { padding-top: 0.5rem; }
+  .home-sidebar .recent-item { padding: 0.2rem 0; }
+  .home-sidebar-orn { display: none; }
+  .home-sidebar .pill { padding-top: 0.1rem; padding-bottom: 0.1rem; }
+  .home-sidebar-section + .home-sidebar-section { margin-top: 0.25rem; }
+  .footer { padding: 0.6rem 1.5rem; }
+}
 
 /* ── Author page header grid ───────────────────────────────── */
 .author-header-grid {
