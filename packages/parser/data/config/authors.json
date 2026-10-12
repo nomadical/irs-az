@@ -36,7 +36,8 @@
       "wikisource-az-22607",
       "wikisource-az-22610",
       "wikisource-az-22609",
-      "wikisource-az-22611"
+      "wikisource-az-22611",
+      "wikisource-az-12174"
     ],
     "wikipedia": {
       "az": "Məhəmməd Füzuli",
@@ -389,6 +390,9 @@
     "type": "POET",
     "period": "XIV-XV əsr",
     "writingLangs": ["AZ_ARABIC", "FA", "AR"],
+    "skipSources": [
+      "wikisource-az-33517"
+    ],
     "wikipedia": {
       "az": "İmadəddin Nəsimi",
       "ru": "Насими"
@@ -459,7 +463,8 @@
         "Keçər (Şah İsmayıl Xətai)": "xetai-qosmalar",
         "Gəldim (Şah İsmayıl Xətai)": "xetai-geraylilar",
         "Bax, nəzər eylə də həmən arif оl.": "xetai-varsagi",
-        "Həqiqət bir gizli sirdir": "xetai-muxtelif-seirler"
+        "Həqiqət bir gizli sirdir": "xetai-muxtelif-seirler",
+        "Qoşmalar (Şah İsmayıl Xətayi)": {"collection": "xetai-qosmalar", "separator": "***"}
       },
       "az": "Şah İsmayıl Xətai"
     },
@@ -478,6 +483,12 @@
     "type": "POET",
     "period": "XVIII əsr",
     "writingLangs": ["AZ_ARABIC"],
+    "skipSources": [
+      "wikisource-az-32410-12",
+      "wikisource-az-32390-7",
+      "wikisource-az-32390-6",
+      "wikisource-az-32390-9"
+    ],
     "wikipedia": {
       "az": "Molla Pənah Vaqif",
       "ru": "Вагиф"
@@ -485,7 +496,9 @@
     "wikisource": {
       "az_extra": {
         "Gözlərin cəlladdır": "vaqif-qosmalar",
-        "Hər gedən gəlmiş, mənim ol qəmküsarım gəlməmiş": "vaqif-qosmalar"
+        "Hər gedən gəlmiş, mənim ol qəmküsarım gəlməmiş": "vaqif-qosmalar",
+        "Müxəmməslər": {"collection": "vaqif-muxemmesler", "stanza": 5, "starts": ["Nə xoşdur baş qoymaq", "Gədə, mən qurban olum", "Bilmənəm məndən neçün", "Bərq vurub gün tək", "Neylərəm, belə munun", "Ey gül, sənə yoxdur", "Sevdayi-saçın, keçsə", "Dilbər, nə deyim", "Ah... bir sərxoş nigarın", "Ah kim, bir yarın", "Aldı canım naz ilə", "Ey səba, yara de kim"]},
+        "Qəzəllər Molla Pənah vaqif": {"collection": "vaqif-qezeller", "stanza": 2, "form": "GHAZAL", "starts": ["Hər kimin cananı kim", "Riyayü kibrü kizbü", "Vidadidən gələn kağız", "Saçına uymuş xəyalım", "Salmaq nəzərindən məni", "Kim ki, sevdayi-səri-zülfü", "Qarabağ içrə bir şair", "Ey güli-xəndan, fəraqından", "Mehribanlıq görməyib"]}
       },
       "az": "Molla Pənah Vaqif"
     },

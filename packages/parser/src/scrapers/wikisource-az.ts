@@ -48,7 +48,7 @@ export interface PlannedWork {
 
 export interface SkippedPage {
   title: string;
-  reason: 'translation' | 'other-author' | 'missing' | 'empty';
+  reason: 'translation' | 'other-author' | 'missing' | 'empty' | 'skip-list' | 'duplicate';
   detail?: string;
 }
 
@@ -426,6 +426,7 @@ export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePla
 
   const plan: WikisourcePlan = { collections: [], works: [], skipped: [] };
   const seenPages = new Set<number>();
+  const skipSources = new Set(cfg.skipSources);
   const usedSlugs = new Set<string>();
 
   const uniqueSlug = (base: string) => {
@@ -480,6 +481,11 @@ export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePla
     coll: PlannedCollection,
     ctx: { form?: PoemForm; year?: number; slugPrefix: string },
   ): boolean => {
+    // Listed duplicates and fakes are dropped here, before they can claim a slug
+    if (skipSources.has(`wikisource-az-${page.pageid}`)) {
+      plan.skipped.push({ title: page.title, reason: 'skip-list' });
+      return true;
+    }
     const body = pageText(page.wikitext);
     if (body.length < MIN_TEXT) return false;
 
@@ -613,6 +619,90 @@ export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePla
       });
       if (!wrote) plan.skipped.push({ title: page.title, reason: 'empty' });
     }
+  }
+
+  // Pages credited to the author that the author page doesn't link, each into a named collection
+  const firstLine = (body: string) =>
+    body.split('\n').find((l) => l.trim())?.trim().replace(/[.,;:!?…]+$/, '') ?? '';
+  const lineKey = (line: string) => line.toLowerCase().replace(/[^\p{L}]/gu, '').replace(/ı/g, 'i');
+  const extra = cfg.wikisource?.az_extra ?? {};
+  const extraPages = await fetchPages(Object.keys(extra));
+  for (const [title, entry] of Object.entries(extra)) {
+    const spec = typeof entry === 'string' ? { collection: entry } : entry;
+    const page = extraPages.get(title) ?? null;
+    if (page && seenPages.has(page.pageid)) continue;
+    const params = vet(page, title);
+    if (!page || !params) continue;
+    seenPages.add(page.pageid);
+    let coll = plan.collections.find((c) => c.slug === spec.collection);
+    if (!coll) {
+      coll = { slug: spec.collection, titleAz: title, genre: 'POEM', order: plan.collections.length + 1 };
+      plan.collections.push(coll);
+    }
+    if (!spec.separator && !spec.starts) {
+      const wrote = addWork(page, params, title, coll, { year: parseYear(params['il']), slugPrefix: cfg.slug });
+      if (!wrote) plan.skipped.push({ title: page.title, reason: 'empty' });
+      continue;
+    }
+
+    // A page of several poems: cut at a separator line or at each poem's first line.
+    // The separator ("***") would read as wiki markup, so it becomes a placeholder first
+    const CUT = '\u2042CUT\u2042';
+    const separator = spec.separator
+      ? new RegExp(`^[ \\t]*${spec.separator.replace(/[*.?+^$()[\]{}|\\]/g, '\\$&')}[ \\t]*$`, 'gm')
+      : null;
+    const body = pageText(separator ? page.wikitext.replace(separator, CUT) : page.wikitext);
+    const pieces: string[] = [];
+    if (separator) {
+      pieces.push(...body.split(CUT));
+    } else {
+      const starts = spec.starts!.map(lineKey);
+      let current: string[] = [];
+      for (const line of body.split('\n').filter((l) => l.trim())) {
+        if (starts.some((s) => lineKey(line).startsWith(s)) && current.length) {
+          pieces.push(current.join('\n'));
+          current = [];
+        }
+        current.push(line.trim());
+      }
+      pieces.push(current.join('\n'));
+    }
+    // Stanzas rebuilt from the form when the page's blank lines can't be trusted
+    const stanzas = (piece: string) => {
+      if (!spec.stanza) return piece.trim();
+      const lines = piece.split('\n').filter((l) => l.trim());
+      const out: string[] = [];
+      for (let i = 0; i < lines.length; i += spec.stanza) out.push(lines.slice(i, i + spec.stanza).join('\n'));
+      return out.join('\n\n');
+    };
+    const known = new Set(plan.works.map((w) => lineKey(firstLine(w.body))));
+    pieces.map(stanzas).filter((p) => p.length >= MIN_TEXT).forEach((piece, i) => {
+      const titleAz = firstLine(piece);
+      const sourceId = `wikisource-az-${page.pageid}-${i + 1}`;
+      // Variants of a poem the author already has, spelt too differently to match on the first line
+      if (skipSources.has(sourceId)) {
+        plan.skipped.push({ title: `${page.title} → ${titleAz}`, reason: 'skip-list' });
+        return;
+      }
+      if (known.has(lineKey(titleAz))) {
+        plan.skipped.push({ title: `${page.title} → ${titleAz}`, reason: 'duplicate' });
+        return;
+      }
+      known.add(lineKey(titleAz));
+      plan.works.push({
+        slug: uniqueSlug(shortSlug(`${cfg.slug}-${titleAz}`)),
+        sourceId,
+        titleAz,
+        collectionSlug: coll!.slug,
+        genre: coll!.genre,
+        form: spec.form,
+        year: parseYear(params['il']),
+        order: plan.works.filter((w) => w.collectionSlug === coll!.slug).length + 1,
+        scriptDirection: detectScript(piece),
+        sourceNote: `https://${SITE}/wiki/${encodeURIComponent(page.title)}`,
+        body: piece,
+      });
+    });
   }
 
   // Sections whose every entry was skipped (or folded away) leave empty collections behind

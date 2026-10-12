@@ -180,9 +180,7 @@ async function scrapeWikisourceAz(cfg: AuthorConfig, dryRun: boolean) {
     });
   }
 
-  const skip = new Set(cfg.skipSources);
   for (const w of plan.works) {
-    if (skip.has(w.sourceId)) continue;
     writeWorkMd(
       {
         slug: w.slug,
@@ -203,7 +201,7 @@ async function scrapeWikisourceAz(cfg: AuthorConfig, dryRun: boolean) {
     );
   }
 
-  console.log(`  Wrote ${plan.works.filter((w) => !skip.has(w.sourceId)).length} works in ${plan.collections.length} collections`);
+  console.log(`  Wrote ${plan.works.length} works in ${plan.collections.length} collections`);
 }
 
 async function scrapeGanjoor(cfg: AuthorConfig, dryRun: boolean) {

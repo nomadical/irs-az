@@ -37,7 +37,7 @@ export const scrapeBookCommand = new Command('scrape-book')
       }
       if (opts.dryRun) continue;
 
-      const prefix = `${book.id}-${section.slugBase}-`;
+      const prefix = `${book.id}-${section.slugBase}`;
       for (const file of sectionFiles(book.authorSlug, section.collectionSlug, prefix)) fs.unlinkSync(file);
 
       for (const w of works) {
@@ -53,7 +53,7 @@ export const scrapeBookCommand = new Command('scrape-book')
             genre: 'POEM',
             form: section.form,
             year: section.year,
-            order: w.n,
+            order: (section.orderFrom ?? 0) + w.n,
             // A bare URL, so the reading page links it; the page anchor opens the PDF there
             sourceNote: `${book.url}#page=${w.page}`,
             ...(w.previousSlugs && { previousSlugs: w.previousSlugs }),

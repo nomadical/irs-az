@@ -217,6 +217,15 @@ export interface AuthorConfig {
     ru?: string; // RU Wikisource author page
     az_collection?: string; // target collection slug for AZ Wikisource works
     az_collections?: Record<string, string>; // AZ page title or author-page heading → collection slug
+    /**
+     * Pages the author page doesn't link: AZ page title → collection slug, or, for a page of
+     * several poems, how to cut it: at a separator line ("***") or before each poem's first line,
+     * optionally regrouping lines into stanzas of `stanza` lines
+     */
+    az_extra?: Record<
+      string,
+      string | { collection: string; separator?: string; starts?: string[]; stanza?: number; form?: PoemForm }
+    >;
     ru_collection?: string; // target collection slug for RU Wikisource works
   };
   met?: {

@@ -19,12 +19,20 @@ const RAW_DIR = path.resolve(__dirname, '../../data/raw');
 
 export interface BookSection {
   collectionSlug: string;
-  /** Work slugs are `${slugBase}-${n}` */
+  /** Work slugs are `${slugBase}-${n}`, or `slugBase` alone for a section that is one work */
   slugBase: string;
   /** Printed page numbers, inclusive */
   pages: [number, number];
   /** Regex on a heading (in capitals) that starts a new work; other headings stay inside it */
-  chapters: string;
+  chapters?: string;
+  /** The section is one work with this title, from its first page */
+  title?: string;
+  /** Regex on lines that head a part without capitals ("2. Həmzə.", a hadith's number) */
+  subheadings?: string;
+  /** Prose with verse set in it: long lines are wrapped prose, short ones verse */
+  prose?: boolean;
+  /** Added to each work's position, to place the section after a collection's other works */
+  orderFrom?: number;
   form?: PoemForm;
   year?: number;
   /** Headings (regex) whose block is set in quatrains rather than couplets */
@@ -90,11 +98,51 @@ const isJoiner = (line: string) => line === 'və' || line === 'va' || line === '
 const isHeading = (line: string) =>
   isJoiner(line) || (/\p{Lu}{2}/u.test(line) && !/\p{Ll}/u.test(line.replace(/\d+$/, '')));
 
-/** Footnote markers glued to a word ("biniş1." → "biniş."), and "ä" misread for "ə" in verse */
+/** Footnote markers glued to a word or quote ("biniş1." → "biniş."), and "ä" misread for "ə" in verse */
 const clean = (line: string) =>
   line
-    .replace(/(\p{L}['’]?)\d{1,2}(?=[\s.,!?;:"»)]|$)/gu, '$1')
+    .replace(/(\p{L}['’]?|["»”])\d{1,2}(?=[\s.,!?;:"»)]|$)/gu, '$1')
     .replace(/ä/g, 'ə');
+
+/** Wrapped prose runs to the margin; verse lines stop well short of it */
+const PROSE_WIDTH = 65;
+
+/**
+ * Prose with verse set in it. A long line is prose, and so is every line until its paragraph
+ * ends on a full stop (or ":", "!", "?"); short lines after that are verse, in stanzas of
+ * `size` lines. A short lead-in ending in ":" that would leave the verse a line over goes
+ * back to the prose. Wrapped words rejoin: a line ending in "-" continues a hyphenated
+ * compound ("nəqşi-" + "səhifeyi" → "nəqşi-səhifeyi").
+ */
+function proseAndVerse(lines: string[], size: number): string[] {
+  const out: string[] = [];
+  let paragraph = '';
+  let verse: string[] = [];
+  const ends = (line: string) => /[.:!?»"”]$/.test(line);
+  const flushVerse = () => {
+    if (verse.length % size && verse[0].endsWith(':')) out.push(verse.shift()!);
+    const stanzas: string[] = [];
+    for (let i = 0; i < verse.length; i += size) stanzas.push(verse.slice(i, i + size).join('\n'));
+    if (stanzas.length) out.push(stanzas.join('\n\n'));
+    verse = [];
+  };
+  const flushParagraph = () => {
+    if (paragraph) out.push(paragraph);
+    paragraph = '';
+  };
+  for (const line of lines) {
+    if (line.length >= PROSE_WIDTH || paragraph) {
+      flushVerse();
+      paragraph = !paragraph ? line : paragraph.endsWith('-') ? paragraph + line : `${paragraph} ${line}`;
+      if (line.length < PROSE_WIDTH && ends(line)) flushParagraph();
+    } else {
+      verse.push(line);
+    }
+  }
+  flushParagraph();
+  flushVerse();
+  return out;
+}
 
 function titleCase(heading: string, names: string[]): string {
   const words = azLower(heading).split(' ');
@@ -129,7 +177,7 @@ function joinHeading(lines: string[]): string {
 }
 
 interface Token {
-  kind: 'heading' | 'line';
+  kind: 'heading' | 'sub' | 'line';
   text: string;
   page: number;
 }
@@ -156,12 +204,17 @@ export function parseSection(pages: string[], book: BookConfig, section: BookSec
   const fixes = Object.entries(book.headingFixes ?? {});
   const names = book.names ?? [];
   const fix = (h: string) => fixes.reduce((s, [from, to]) => s.split(from).join(to), h);
-  const chapterRe = new RegExp(section.chapters);
+  const chapterRe = section.chapters ? new RegExp(section.chapters) : null;
   const quatrainRe = section.quatrains ? new RegExp(section.quatrains) : null;
+  const subRe = section.subheadings ? new RegExp(section.subheadings) : null;
 
   // Consecutive heading lines are one heading
   const items: Token[] = [];
   for (const t of tokens(pages, section.pages)) {
+    if (subRe?.test(t.text)) {
+      items.push({ ...t, kind: 'sub' });
+      continue;
+    }
     const last = items[items.length - 1];
     if (t.kind === 'heading' && last?.kind === 'heading') last.text += '\n' + t.text;
     else items.push({ ...t });
@@ -169,19 +222,25 @@ export function parseSection(pages: string[], book: BookConfig, section: BookSec
 
   const works: BookWork[] = [];
   let work: BookWork | null = null;
-  let block: { heading?: string; lines: string[] } = { lines: [] };
+  let block: { heading?: string; sub?: boolean; lines: string[] } = { lines: [] };
   let chapterHeading = '';
   const parts: string[] = [];
 
   const flushBlock = () => {
     if (!work) return;
     const size = quatrainRe?.test(block.heading ?? chapterHeading) ? 4 : 2;
+    if (section.prose) {
+      if (block.heading) parts.push(`### ${block.sub ? block.heading : titleCase(joinHeading(block.heading.split('\n')), names)}`);
+      parts.push(...proseAndVerse(block.lines, size));
+      block = { lines: [] };
+      return;
+    }
     if (block.lines.length % size) {
       work.warnings.push(`"${block.heading ?? work.titleAz}": ${block.lines.length} lines, not in ${size}s`);
     }
     const stanzas: string[] = [];
     for (let i = 0; i < block.lines.length; i += size) stanzas.push(block.lines.slice(i, i + size).join('\n'));
-    if (block.heading) parts.push(`### ${titleCase(joinHeading(block.heading.split('\n')), names)}`);
+    if (block.heading) parts.push(`### ${block.sub ? block.heading : titleCase(joinHeading(block.heading.split('\n')), names)}`);
     if (stanzas.length) parts.push(stanzas.join('\n\n'));
     block = { lines: [] };
   };
@@ -194,13 +253,32 @@ export function parseSection(pages: string[], book: BookConfig, section: BookSec
     parts.length = 0;
   };
 
+  if (section.title) {
+    work = {
+      n: 1,
+      slug: section.slugBase,
+      sourceId: `${book.id}-${section.slugBase}`,
+      titleAz: section.title,
+      body: '',
+      page: section.pages[0],
+      previousSlugs: section.previousSlugs?.['1'],
+      warnings: [],
+    };
+  }
+
   for (const item of items) {
     if (item.kind === 'line') {
       block.lines.push(item.text);
       continue;
     }
+    if (item.kind === 'sub') {
+      flushBlock();
+      block.heading = fix(item.text);
+      block.sub = true;
+      continue;
+    }
     const heading = fix(item.text);
-    if (chapterRe.test(heading.replace(/\n/g, ' '))) {
+    if (chapterRe?.test(heading.replace(/\n/g, ' '))) {
       flushWork();
       const n = works.length + 1;
       chapterHeading = heading;

@@ -116,7 +116,7 @@ Meydani-soxən fərax bayəd,
 Ta təb' səvareyi nomayəd.
 
 Dər gərmiyi-rigü səxtiyi-kuh
-Ta çənd soxən rəvəd beənbuh?"1
+Ta çənd soxən rəvəd beənbuh?"
 
 Bir iş ki, qılır şikayət ustad,
 Şagirdə olur rücui bidad.

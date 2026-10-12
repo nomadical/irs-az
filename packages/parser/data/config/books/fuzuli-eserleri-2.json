@@ -14,9 +14,10 @@
     "QATE 'DİR": "QATE'DİR",
     "MƏ 'ZİRƏTDİR": "MƏ'ZİRƏTDİR",
     "ƏHVÄLIN": "ƏHVALIN",
-    "İSTİĞNÄ": "İSTİĞNA"
+    "İSTİĞNÄ": "İSTİĞNA",
+    "l.İmam": "1. İmam"
   },
-  "names": ["leyli", "məcnun", "zeyd", "növfəl", "səlam", "ibni", "kə'bə", "allah"],
+  "names": ["leyli", "məcnun", "zeyd", "növfəl", "səlam", "ibni", "kə'bə", "allah", "əlaəddin", "əhməd", "bayəzid", "çələbi"],
   "sections": [
     {
       "collectionSlug": "fuzuli-leyli-ve-mecnun",
@@ -45,6 +46,40 @@
         "66": ["fuzuli-biz-cahan-memuresin-menide-viran-bilmisiz"],
         "69": ["fuzuli-yandi-canim-hicr-ile-vesli-ruxi-yar-isterem"]
       }
+    },
+    {
+      "collectionSlug": "fuzuli-eserler",
+      "slugBase": "fuzuli-muemmalar",
+      "title": "Müəmmalar",
+      "pages": [277, 284],
+      "subheadings": "^[\\dl]+\\.\\s*\\S",
+      "orderFrom": 10
+    },
+    {
+      "collectionSlug": "fuzuli-eserler",
+      "slugBase": "fuzuli-hedisi-erbein",
+      "title": "Hədisi-ərbəin",
+      "pages": [285, 294],
+      "subheadings": "^\\d+$",
+      "quatrains": "^\\d+$",
+      "prose": true,
+      "orderFrom": 11
+    },
+    {
+      "collectionSlug": "fuzuli-eserler",
+      "slugBase": "fuzuli-sikayetname",
+      "title": "Şikayətnamə",
+      "pages": [295, 302],
+      "prose": true,
+      "orderFrom": 12
+    },
+    {
+      "collectionSlug": "fuzuli-eserler",
+      "slugBase": "fuzuli-mektub",
+      "pages": [303, 310],
+      "chapters": "MƏKTUB$",
+      "prose": true,
+      "orderFrom": 13
     }
   ]
 }

@@ -79,7 +79,7 @@ Ol pərdəyə kimsə rah bulmaz,
 Təhqiq bil, onu bilmək olmaz.
 
 Gər yetsə idi bu sirrə idrak,
-Demozdi Rəsul "maərəfhak”1
+Demozdi Rəsul "maərəfhak”
 
 Xəlq oldu bu bəbri-heyrətə qərq,
 Ta xəlqdən ola Xaliqə fərq.
