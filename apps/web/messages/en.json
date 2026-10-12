@@ -250,7 +250,8 @@
     "font_names": {
       "serif": "Serif",
       "sans": "Sans-serif"
-    }
+    },
+    "random_poem": "Random poem"
   },
   "contact": {
     "email_label": "Email",

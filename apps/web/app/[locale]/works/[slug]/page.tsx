@@ -227,6 +227,9 @@ export default async function WorkPage({ params }: Props) {
         </nav>
       )}
       <WorkNavKeys prevHref={navHref(nav.prev)} nextHref={navHref(nav.next)} />
+      <p className="work-random">
+        <Link href={`/${locale}/random`} prefetch={false}>↻ {t('random_poem')}</Link>
+      </p>
 
       {more.length > 0 && (
         <section className="more-works" aria-labelledby="more-works-title">

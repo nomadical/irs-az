@@ -1034,6 +1034,16 @@ blockquote {
   line-height: 1.3;
 }
 
+.work-random {
+  text-align:     center;
+  font-family:    var(--font-ui);
+  font-size:      0.78rem;
+  letter-spacing: 0.03em;
+  margin:         1rem 0 0;
+}
+.work-random a { color: var(--pomeg); }
+.work-random a:hover { text-decoration: underline; }
+
 /* More by this author: four other works with their opening lines */
 .more-works {
   margin-top:  3rem;
