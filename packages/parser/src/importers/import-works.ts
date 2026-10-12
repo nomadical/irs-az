@@ -112,19 +112,25 @@ export async function importWorks(opts: {
       continue;
     }
 
+    // Old URLs that redirect here: a renamed slug, and the slugs of works this file replaced
+    const redirects = (prior: string[]) =>
+      [...new Set([...prior, ...(fm.previousSlugs ?? [])])].filter((s) => s !== fm.slug);
+
     if (existing) {
-      const renamed = existing.slug !== fm.slug;
+      const prior = existing.slug !== fm.slug ? [...existing.previousSlugs, existing.slug] : existing.previousSlugs;
       await db.work.update({
         where: { id: existing.id },
         data: {
           ...data,
           ...statusUpdate(opts, fm.hold),
           slug: fm.slug,
-          ...(renamed && { previousSlugs: { push: existing.slug } }),
+          previousSlugs: redirects(prior),
         },
       });
     } else {
-      await db.work.create({ data: { ...data, slug: fm.slug, status: newStatus(opts, fm.status, fm.hold) } });
+      await db.work.create({
+        data: { ...data, slug: fm.slug, previousSlugs: redirects([]), status: newStatus(opts, fm.status, fm.hold) },
+      });
     }
 
     console.log(`  Upserted work: ${fm.slug}`);

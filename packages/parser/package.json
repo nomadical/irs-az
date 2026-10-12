@@ -25,7 +25,8 @@
     "glob": "^13.0.6",
     "gray-matter": "^4.0.3",
     "marked": "^15.0.12",
-    "slugify": "^1.6.9"
+    "slugify": "^1.6.9",
+    "unpdf": "1.8.1"
   },
   "devDependencies": {
     "@types/node": "^22.19.17",

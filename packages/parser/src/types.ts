@@ -112,6 +112,8 @@ export interface WorkFrontmatter {
   yearApprox?: boolean;
   order?: number;
   sourceNote?: string;
+  /** Slugs of works this one replaced; the importer adds them so their URLs redirect here */
+  previousSlugs?: string[];
   /** Why the work must stay a draft; the importer never publishes it, even with --publish */
   hold?: string;
   status: PublishStatus;

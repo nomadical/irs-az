@@ -10,6 +10,7 @@ import { scrapeImagesCommand } from './commands/scrape-images';
 import { scrapeTranslationsCommand } from './commands/scrape-translations';
 import { scrapePortraitsCommand } from './commands/scrape-portraits';
 import { tagWorksCommand } from './commands/tag-works';
+import { scrapeBookCommand } from './commands/scrape-book';
 
 const program = new Command()
   .name('irs-parser')
@@ -27,5 +28,6 @@ program.addCommand(scrapeImagesCommand);
 program.addCommand(scrapeTranslationsCommand);
 program.addCommand(scrapePortraitsCommand);
 program.addCommand(tagWorksCommand);
+program.addCommand(scrapeBookCommand);
 
 program.parse();

@@ -1,0 +1,50 @@
+{
+  "id": "anl-fm-e2",
+  "url": "https://anl.az/el/f/fm_e2.pdf",
+  "citation": "Məhəmməd Füzuli. Əsərləri. Altı cilddə. II cild. Tərtib edəni Həmid Araslı. Bakı, «Şərq-Qərb», 2005",
+  "authorSlug": "fuzuli",
+  "headingFixes": {
+    "LEVLİ": "LEYLİ",
+    "NÖVHƏL": "NÖVFƏL",
+    "MƏCNUM": "MƏCNUN",
+    "MƏDHİDTR": "MƏDHİDİR",
+    "VADİVİ": "VADİYİ",
+    "ZAVİVEYİ": "ZAVİYEYİ",
+    "HƏŞƏMTLƏ": "HƏŞƏMƏTLƏ",
+    "QATE 'DİR": "QATE'DİR",
+    "MƏ 'ZİRƏTDİR": "MƏ'ZİRƏTDİR",
+    "ƏHVÄLIN": "ƏHVALIN",
+    "İSTİĞNÄ": "İSTİĞNA"
+  },
+  "names": ["leyli", "məcnun", "zeyd", "növfəl", "səlam", "ibni", "kə'bə", "allah"],
+  "sections": [
+    {
+      "collectionSlug": "fuzuli-leyli-ve-mecnun",
+      "slugBase": "fuzuli-leyli-ve-mecnun",
+      "pages": [10, 227],
+      "chapters": "^(BU, |RÜBAİLƏR$|BU QƏSİDƏ |MƏCNUNUN LEYLİ VƏFATINDAN)",
+      "quatrains": "RÜBAİLƏR|MÜRƏBBE",
+      "form": "MASNAVI",
+      "year": 1536,
+      "previousSlugs": {
+        "1": ["fuzuli-rubailer-leyli-ve-mecnun"],
+        "2": ["fuzuli-bu-hezreti-izzetden"],
+        "3": ["fuzuli-bu-sukufeyi-gulzari-tovhidir"],
+        "4": ["fuzuli-bu-munacat-deryasindan"],
+        "19": ["fuzuli-qezeli-leyli", "fuzuli-qezeli-mecnun"],
+        "22": ["fuzuli-qezeli-ustad"],
+        "26": ["fuzuli-qezel-mecnun-dilpezirindir"],
+        "37": ["fuzuli-bu-qezel-leyliyi-dilpezirindir"],
+        "41": ["fuzuli-bu-qezel-mecnuni-zarindir"],
+        "46": ["fuzuli-bu-qezel-leyli-dilindendir"],
+        "47": ["fuzuli-bu-qezel-mecnun-dilindendir"],
+        "51": ["fuzuli-murebbe"],
+        "52": ["fuzuli-bu-murebbe-leyli-dilindendir"],
+        "58": ["fuzuli-qezel-asiq-oldur-kim-qilir-canin-feda-cananina"],
+        "63": ["fuzuli-oyle-sermestem-ki-idrak-etmezem-dunya-nedir", "fuzuli-ey-qilan-seyda-meni-menden-bu-istigna-nedir"],
+        "66": ["fuzuli-biz-cahan-memuresin-menide-viran-bilmisiz"],
+        "69": ["fuzuli-yandi-canim-hicr-ile-vesli-ruxi-yar-isterem"]
+      }
+    }
+  ]
+}
