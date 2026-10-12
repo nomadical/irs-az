@@ -419,6 +419,9 @@ function authorEntries(wikitext: string): Entry[] {
 export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePlan> {
   const authorName = cfg.wikisource!.az!;
   const authorTokens = nameTokens(authorName);
+  // The author page's name, or another spelling pages use for it ("Xurşudbanu Natəvan")
+  const isAuthor = (name: string) =>
+    [authorName, ...(cfg.wikisource?.az_aliases ?? [])].some((n) => sameAuthor(name, n));
   const overrides = cfg.wikisource?.az_collections ?? {};
   // A poet who never wrote in Azerbaijani: every text here is someone's translation
   const writesAz = cfg.writingLangs.some((l) => l.startsWith('AZ_'));
@@ -467,7 +470,7 @@ export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePla
     const params = headerParams(page.wikitext);
     const isEditor = (name?: string) => !!name && EDITORS.some((e) => sameAuthor(e, name));
     const author = params['müəllif'] ?? params['keçidsiz müəllif'];
-    if (author && !isEditor(author) && !sameAuthor(author, authorName)) {
+    if (author && !isEditor(author) && !isAuthor(author)) {
       plan.skipped.push({ title: page.title, reason: 'other-author', detail: author });
       return null;
     }
@@ -586,15 +589,26 @@ export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePla
    */
   const ownVersion = async (page: Page): Promise<Page | null> => {
     if (!DISAMBIGUATION.test(page.wikitext)) return page;
-    const own = listLinks(page.wikitext, page.title).find((l) => {
+    const links = listLinks(page.wikitext, page.title);
+    const own = links.find((l) => {
       const m = l.target.match(/\(([^()]*)\)\s*$/);
       return m && [...nameTokens(m[1])].some((t) => authorTokens.has(t));
     });
-    if (!own) {
+    if (own) return (await fetchPages([own.target])).get(own.target) ?? null;
+    // Disambiguated by kind, not author ("Siçan və pişik (şeir)" / "(nağıl)"): the one credited to the author
+    const fetched = await fetchPages(links.map((l) => l.target));
+    const credited = links
+      .map((l) => fetched.get(l.target))
+      .find((p) => {
+        const params = p && headerParams(p.wikitext);
+        const author = params?.['müəllif'] ?? params?.['keçidsiz müəllif'];
+        return !!author && isAuthor(author);
+      });
+    if (!credited) {
       plan.skipped.push({ title: page.title, reason: 'missing', detail: 'disambiguation without own version' });
       return null;
     }
-    return (await fetchPages([own.target])).get(own.target) ?? null;
+    return credited;
   };
 
   for (const entry of entries) {
