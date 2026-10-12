@@ -11,6 +11,7 @@ Literary texts, translations and artwork metadata imported into IRS.AZ.
 | `works/` | [Ganjoor](https://ganjoor.net) | `ganjoor-` | Classical Persian-language poetry (Fuzuli, Nasimi, Khaqani, Mahsati, Nizami and others) |
 | `works/` | [Azerbaijani Wikisource](https://az.wikisource.org) | `wikisource-az-` | Azerbaijani texts; `sourceNote` links the original page |
 | `translations/` | C. E. Wilson, *The Haft Paikar (The Seven Beauties)*, 1924 | — | English translation of Nizami, OCR from a scanned copy |
+| `translations/` | H. Wilberforce Clarke, *The Sikandar Nama, e Bara*, 1881 ([Internet Archive](https://archive.org/details/sikandarnmaebara00nimg)) | — | English translation of Nizami's *Sharafnama*, OCR from a scanned copy |
 | `artworks/` | [The Metropolitan Museum of Art Open Access](https://www.metmuseum.org/about-the-met/policies-and-procedures/image-resources) | `met-` | Object metadata; images are linked, not stored here |
 
 ## Reuse
