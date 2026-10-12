@@ -96,7 +96,7 @@ export class SearchService implements OnModuleInit {
       return;
     }
 
-    // Translations go in whole, so a line deep inside a long one is found
+    // Texts go in whole, so a line deep inside a long one is found
     const translation = (language: string) =>
       work.translations.find((t) => t.language === language && t.isDefault)?.body;
 
@@ -107,8 +107,8 @@ export class SearchService implements OnModuleInit {
         titleAz: work.titleAz,
         titleRu: work.titleRu,
         titleFa: work.titleFa,
-        body: work.body.substring(0, 2000),
-        bodyPlain: fold(work.body.substring(0, 2000)),
+        body: work.body,
+        bodyPlain: fold(work.body),
         bodyRu: translation('RU'),
         bodyEn: translation('EN'),
         titleEn: work.titleEn,
