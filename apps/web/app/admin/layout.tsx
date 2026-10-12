@@ -22,6 +22,8 @@ const navSections = [
       { href: '/admin/authors', label: 'Müəlliflər' },
       { href: '/admin/works', label: 'Əsərlər' },
       { href: '/admin/tags', label: 'Teqlər' },
+      // School use can't be inferred from the text, so editors assign it by hand
+      { href: '/admin/tags/mekteb?mode=add', label: 'Məktəb üçün' },
       { href: '/admin/blog', label: 'Bloq' },
     ],
   },

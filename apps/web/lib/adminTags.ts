@@ -47,3 +47,11 @@ export function setWorkTags(workId: string, change: { add?: string[]; remove?: s
     body: JSON.stringify(change),
   });
 }
+
+/** Put one tag on many works (as an editor) or take it off them (the rules won't re-add it) */
+export function bulkSetTag(slug: string, change: { add?: string[]; remove?: string[] }) {
+  return adminFetch<{ added: number; removed: number }>(`/tags/${slug}/works`, {
+    method: 'PATCH',
+    body: JSON.stringify(change),
+  });
+}
