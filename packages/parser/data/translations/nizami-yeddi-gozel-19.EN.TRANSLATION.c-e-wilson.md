@@ -66,7 +66,7 @@ If you right action do not take in hand, how much wrong action will (from others
 
 When I have rested some few days the door of equity and justice I will open.
 
-A fixed religious duty ’his to me: (to give) for justice justice, wrong for wrong.
+A fixed religious duty ’tis to me: (to give) for justice justice, wrong for wrong.
 
 Of no man have I any fear or awe, except of that man who confesses God.
 
@@ -164,7 +164,7 @@ They cast off from their hearts (all) thanks to God; and kindliness discarded fr
 
 Whenever God’s created beings fail to offer thanks for bounties He bestows.
 
-For them is that abundance changed to dearth, from stone and iron ’his if food they get.
+For them is that abundance changed to dearth, from stone and iron ’tis if food they get.
 
 One year the blades produced so little grain that for the wide world narrowed was the stock.
 

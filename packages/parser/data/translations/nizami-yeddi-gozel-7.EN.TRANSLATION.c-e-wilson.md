@@ -38,7 +38,7 @@ See not the horse’s dancing with the thought, How good its paces! See, how har
 
 If o’er this road you fly like falcon white, keep like the sun your eyes upon the road.
 
-The more so that a road ’his for the chase — the sky has bow and arrow (for the prey).
+The more so that a road ’tis for the chase — the sky has bow and arrow (for the prey).
 
 Although your iron be of temper fine, the road is stone, and lodestone is that stone.
 
@@ -76,11 +76,11 @@ How many a dullard, through his being taught, becomes the chief judge of the Sev
 
 The (prey) half-eaten of the hunting dogs is but through knowledge taught (us) lawful food.
 
-By knowledge since a dog may grow upright, ’his like a man an angel may become.
+By knowledge since a dog may grow upright, ’tis like a man an angel may become.
 
 Like Khizr know yourself, that you may, too, drink as (that prophet) of the Stream of Life.
 
-Life’s Water is not that of living things; ’his soul with reason, reason ’his with soul.
+Life’s Water is not that of living things; ’tis soul with reason, reason ’tis with soul.
 
 The reason with the soul’s a single gift; the soul with reason’s that which lives for aye.
 
@@ -148,7 +148,7 @@ I, who’ve become contented with my grain, am, like the oyster, lord in my own 
 
 The lion gains an honourable grade, since he disdains the yoke of servitude.
 
-From your own tray ’his better to give bread than to eat “ halva ” from the mean man’s tray.
+From your own tray ’tis better to give bread than to eat “ halva ” from the mean man’s tray.
 
 Since a sharp dagger has been drawn by dawn, how long, Nizami, will you sleep 1 Arise!
 

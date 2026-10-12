@@ -40,7 +40,7 @@ My eminence has given me crown and throne — the base man never can he eminent.
 
 Though the dominion of the earth is mine; the leadership of fairies and of men,
 
-Still with this sovereignty I’m not content, for ’his a piece of honey poison-mixed.
+Still with this sovereignty I’m not content, for ’tis a piece of honey poison-mixed.
 
 So much I had of power and needful means that through the same my star was always young.
 
@@ -92,7 +92,7 @@ After such tyranny as showed itself now fierce, now swift, in shedding people’
 
 No one could utter praises of that line; no one could in that ground sow (any) seed.
 
-Since no one (here) desires you as (his) king, ’his better (far) that you should (hence) retire.
+Since no one (here) desires you as (his) king, ’tis better (far) that you should (hence) retire.
 
 You’ll meet hot fire if you get hot and rage; you’ll (only) strike cold iron if you strive.
 

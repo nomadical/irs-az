@@ -112,7 +112,7 @@ For what the cloud disperses through the air the shell constructs into a royal p
 
 For this discourse to which I’d honour give I crave support, thus wishing, from the king.
 
-Of standard quality and quantity, so far as ’his, the cause is such support.
+Of standard quality and quantity, so far as ’tis, the cause is such support.
 
 If at the monarch’s Court support be (given) — four into four are sixteen, sooth to say.
 
@@ -120,11 +120,11 @@ What say I? What these words? when from the cloud my water is, my pearls from Ad
 
 Hot Gabriel, but the genius my pen, inscribes upon my page the words which come:
 
-For such a spell which is by genius taught put on new dress, for ’his the New Tear’s time.
+For such a spell which is by genius taught put on new dress, for ’tis the New Tear’s time.
 
 From evil genii keep it so concealed that it be seen by none but Solomon.
 
-Seek me from it, for ’his my essence, know. WThat (else) am II A piece of skin (still) left.
+Seek me from it, for ’tis my essence, know. WThat (else) am II A piece of skin (still) left.
 
 Without the ring’s inscription I’m but wax, (wax) free from both the honey and the bee,
 

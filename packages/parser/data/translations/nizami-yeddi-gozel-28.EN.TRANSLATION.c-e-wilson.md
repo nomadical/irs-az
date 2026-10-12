@@ -156,7 +156,7 @@ He said. Why is one cloud as black as pitch; another cloud as white in hue as mi
 
 Bashr answered, God’s command effects such things; you know yourself (that it is even so).
 
-He said. No more of this, ’his (but) a shift, the arrow shot should hit the target (fair).
+He said. No more of this, ’tis (but) a shift, the arrow shot should hit the target (fair).
 
 The dusky cloud is (naught but) burning smoke; on such a point intelligence agrees.
 
@@ -180,7 +180,7 @@ He said, You throw me still on argument; how long will you ascribe things to the
 
 Terrific torrents brought on by the clouds incline the mountains to the lower ground.
 
-But when the summit tends to lofty heights, ’his farther off from where the torrents rush.
+But when the summit tends to lofty heights, ’tis farther off from where the torrents rush.
 
 By reason guided Bashr exclaimed at him, and said, (Seek) not (to) strive with God’s decrees.
 
@@ -434,7 +434,7 @@ Beneficent is he whom, in his acts, Satan leads not astray by coins of gold.
 
 Mallkha, dead, consigned to earth his frame, has borne his soul to an appropriate place.
 
-You spoke of him as hard to please, ’twas so; ’his true, increased a thousandfold your count.
+You spoke of him as hard to please, ’twas so; ’tis true, increased a thousandfold your count.
 
 His occupation naught but tyranny, but faithlessness and torture of mankind.
 
@@ -498,7 +498,7 @@ And by His favour and compassion God brought to me all that is before (me now).
 
 Unlike the sensual I avoided lust for haram fair ones, wealth of other men.
 
-If He now give one fair as you and wealth, if He has made them lawful (now), ’his well.
+If He now give one fair as you and wealth, if He has made them lawful (now), ’tis well.
 
 When she became acquainted with his love, her own from erstwhile grew from one to ten.
 

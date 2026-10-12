@@ -52,11 +52,11 @@ They do nor good nor ill till Thou command; no act perform on their authority.
 
 Thou hast enkindled in the brain (the light of) intellect, more shining than a lamp.
 
-But yet with all its keenness ’his (confined) to its own place, ’his senseless as to Thee.
+But yet with all its keenness ’tis (confined) to its own place, ’tis senseless as to Thee.
 
 The intellect breaks down upon Thy path; life passes off in efforts to approach.
 
-The soul’s a substance, and ’his in our frame, (but yet) no person knows where is its place;
+The soul’s a substance, and ’tis in our frame, (but yet) no person knows where is its place;
 
 Thou art no substance, and Thou hast no place; how can distraught conjecture reach to Thee?
 
@@ -112,7 +112,7 @@ To whom should I complain? the Helper, Thou. Accept me, for Thou art He who acce
 
 Though many hidden secrets there may be, the secret of no one from Thee is hid.
 
-’Tis best that I from Thee my object seek; ’his best that I to Thee address my words.
+’Tis best that I from Thee my object seek; ’tis best that I to Thee address my words.
 
 E’en if through Thee this aim I gain not, still with no self-interest I’ll accord with Thee.
 

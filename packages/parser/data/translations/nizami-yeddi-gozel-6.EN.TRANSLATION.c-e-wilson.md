@@ -100,7 +100,7 @@ Do not eat bread before (the poor) who fast; (but) if you eat, let all sit at yo
 
 Weigh not much gold before the destitute, that like a snake they writhe not near the hoard.
 
-Though the wind be a breeze of New Year’s day, ’his best you light no lamp before the breeze.
+Though the wind be a breeze of New Year’s day, ’tis best you light no lamp before the breeze.
 
 Man for the sake of eating has not life, for intellect and reason is it given.
 
@@ -192,7 +192,7 @@ Though what you gather might three porters load, you’ll bear away but the four
 
 The earth and air which are your foes are these: the unfriendly earth, the air without “ ahf ”.
 
-The branch which to the date-palm pays no toU ’his best to make a rolling-pin for paste.
+The branch which to the date-palm pays no toU ’tis best to make a rolling-pin for paste.
 
 To cure the pain of him whose stomach’s leer some “ tutmaj strips excel rose-petals far.
 

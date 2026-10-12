@@ -204,7 +204,7 @@ Required from subjects not the taxes due, but all their means at times, at times
 
 The claims my bounty gives me cast aside, having no shame before me, — shame on you!
 
-His Faith would own ’his worse in every one to overlook a favour than his Faith.
+His Faith would own ’tis worse in every one to overlook a favour than his Faith.
 
 To meet the claims of favours by one’s acts brings favours still to him who has received.
 

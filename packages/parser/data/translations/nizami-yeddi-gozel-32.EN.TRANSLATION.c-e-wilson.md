@@ -134,7 +134,7 @@ You through whose brand the garden (is) displeased, were there no guard what gai
 
 A thief who into others’ garden goes, — in beating him the gardener does well.
 
-We, who have somewhat wounded you with sticks, — ’his well that we have tied you hand and foot.
+We, who have somewhat wounded you with sticks, — ’tis well that we have tied you hand and foot.
 
 Then too, perverse and stupid-minded man, you leave the gate and enter through the wall!
 
@@ -456,7 +456,7 @@ Questioned about his state, he told the tale: (even) in hell ’twould raise a b
 
 From his contracted heart they loosed the bonds, heartened one out of heart by promises.
 
-Be in this business more expert, (said they); you love, ’his true, (but) be more loving still.
+Be in this business more expert, (said they); you love, ’tis true, (but) be more loving still.
 
 At the due time make such a place your nest that (no) calamity may fly to it.
 

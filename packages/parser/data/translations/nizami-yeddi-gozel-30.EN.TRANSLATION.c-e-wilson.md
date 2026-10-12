@@ -80,7 +80,7 @@ On hearing you were on a visit (here), I came, (but) it is easy to return.
 
 (Still) it is best that you come to the town: the welfare of the village is its chief.
 
-On a dark night ’his also possible that from taxation we secure our goods.
+On a dark night ’tis also possible that from taxation we secure our goods.
 
 Mahan, heart-gladdened at (the thought of) wealth, set out to follow in his partner’s steps.
 
@@ -286,7 +286,7 @@ A four-legged dragon with two wings (it was), and, stranger still, it had (too) 
 
 (A four-legged beast with four wings who has seen? I err, a seven-headed dragon, sure).
 
-The sky which is around us as a belt, — why strange? A seven-headed dragon ’his.
+The sky which is around us as a belt, — why strange? A seven-headed dragon ’tis.
 
 On that destructive-looking dragon he, with legs drawn to his armpits on its neck;
 
@@ -834,7 +834,7 @@ If they cast down the veil you (then) will see to what things foolish men devote
 
 These Grecian and these Chinese figures, all, are ugly Ethiopians when you look.
 
-A rViti drawn over blood (presents to view) wine outside, but a cesspool ’his within.
+A rViti drawn over blood (presents to view) wine outside, but a cesspool ’tis within.
 
 If they took off from us these veins and skin, (all love would cease), a dust-heap no one loves.
 

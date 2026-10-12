@@ -684,7 +684,7 @@ Woe to the life of a base man like you! You sought to take life, yours you shall
 
 Bad looked at Good’s face, which he recognized; he cast himself (before him) on the ground.
 
-He said. Have mercy, though I have done ill; ’his I who did it, therefore see it not.
+He said. Have mercy, though I have done ill; ’tis I who did it, therefore see it not.
 
 To this look, that the swiftly-rolling sky gave Bad as name to me, and Good to you.
 

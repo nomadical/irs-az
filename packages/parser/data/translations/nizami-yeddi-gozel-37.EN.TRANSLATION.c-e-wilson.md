@@ -124,7 +124,7 @@ They dug the ground up (there) for forty days; — how many such grave-diggers i
 
 The ground though to the water-level dug, that treasure none saw (even) in a dream.
 
-He who has all that’s worth upon the heavens, — ’his (a) hard (task) to seek him out on earth.
+He who has all that’s worth upon the heavens, — ’tis (a) hard (task) to seek him out on earth.
 
 The body and the bones are (found) on earth; the heavenly part is found upon the heavens.
 
@@ -244,7 +244,7 @@ From One has come first each duality, and when the latter goes the One remains.
 
 Whoever comes into this transient house, must very soon go back (from it again).
 
-Move warily in it, for it is keen; ’his slow to take, but (can be) quick to kill.
+Move warily in it, for it is keen; ’tis slow to take, but (can be) quick to kill.
 
 Though in (its) rule it does not persecute the weak, in its account no one’s forgot.
 

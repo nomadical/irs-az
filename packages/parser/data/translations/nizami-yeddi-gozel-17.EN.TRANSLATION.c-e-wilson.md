@@ -20,7 +20,7 @@ How that the letter has been read I’ve heard that which the writers in the let
 
 Although the writer was not dexterous, the counsel is not void of standard worth.
 
-That which has been expressed by noble sense I (must) applaud, ’his worthy of applause. —
+That which has been expressed by noble sense I (must) applaud, ’tis worthy of applause. —
 
 I, to whom earth and silver are the same, would not stoop down to (take) the Seven Climes.
 
@@ -120,7 +120,7 @@ So that in this affair we be not shamed; the compact be not broken, we not griev
 
 King Bahram when he heard this (last) reply, gave to them such an answer as was meet.
 
-He said, Your plea is not admissible; ’his best the man of wisdom keep good faith.
+He said, Your plea is not admissible; ’tis best the man of wisdom keep good faith.
 
 This foe (of mine), your king, who’s seized the throne, is child to me, though an old man to you.
 
@@ -220,7 +220,7 @@ When the fierce lion stretches out his claws, to stand against him none will. ha
 
 He forcibly will seize the throne and crown; he’ll drag the leaders at his horse’s feet.
 
-’Tis best that we arouse him not to warmth; (’his best) we light not an extinguished fire.
+’Tis best that we arouse him not to warmth; (’tis best) we light not an extinguished fire.
 
 As for the lion, and the crown to be home off — no such condition does he need.
 

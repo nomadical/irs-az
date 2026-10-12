@@ -138,7 +138,7 @@ That the good luck of joy might never stray, pleasure not ruined be for those wh
 
 So that the king might be for ever glad, the wind not snatch the grain of his delight.
 
-’Tis urgent that the monarch’s life be gay, if (e’en) our lives be sacrificed ’his fit.
+’Tis urgent that the monarch’s life be gay, if (e’en) our lives be sacrificed ’tis fit.
 
 When to an end the speaker brought (his) speech, all present fixed (their) hearts upon the speech.
 

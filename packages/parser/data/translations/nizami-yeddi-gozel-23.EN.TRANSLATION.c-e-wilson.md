@@ -160,7 +160,7 @@ We who are (humble) servants of your court, are chiefs through the protection of
 
 Whatever we possess we have from you; you have control of all that we possess.
 
-Arab or Persian, if ’his your command, we will devote our beads as bumble slaves.
+Arab or Persian, if ’tis your command, we will devote our heads as humble slaves.
 
 A long time now it is that I have served at the king's court with (all the) art (I have).
 

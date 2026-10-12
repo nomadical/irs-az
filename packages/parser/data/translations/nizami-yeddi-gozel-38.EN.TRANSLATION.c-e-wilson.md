@@ -68,7 +68,7 @@ O’er all men like the sky conspicuous, excelling all men as the angels do; —
 
 ’Tis fitting I address this book to you, for through you one may reach to high renown.
 
-Since rubies have been set into its crown, to you through fear of pillage ’his addressed.
+Since rubies have been set into its crown, to you through fear of pillage ’tis addressed.
 
 If hearing it (you find) it please your heart, ’twUl be exalted (even) as your throne.
 
@@ -108,7 +108,7 @@ The sword has scattered from that Rocky Mount rubies and diamonds o’er a hundr
 
 The rubies, as is fit, for hands of friends, the diamonds for the feet of enemies.
 
-A fort! nay, ’his the Ka'ba of Islam; the shrine of spiritual travellers.
+A fort! nay, ’tis the Ka'ba of Islam; the shrine of spiritual travellers.
 
 It compasses the cart«h from “Qaf ” to '' Qaf ”; nay, in its vision penetrates beyond.
 

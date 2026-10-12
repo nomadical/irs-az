@@ -88,7 +88,7 @@ Then (if) a woman bears it to a height of sixty steps, is it not marvellous?
 
 After the officer had told this tale, the king bit with his teeth his finger-tips.
 
-He said. How can a thing of this kind be? It cannot; if it be, ’his sorcery.
+He said. How can a thing of this kind be? It cannot; if it be, ’tis sorcery.
 
 This business I, in truth, shall not believe, until with my own eyes I see it (done).
 

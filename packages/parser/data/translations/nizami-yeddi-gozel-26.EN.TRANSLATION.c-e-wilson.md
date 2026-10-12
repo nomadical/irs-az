@@ -126,7 +126,7 @@ He said, Desist! abstain from words (like) these, for of the Simurgh none have g
 
 I said, Disclose (the matter), seek no pleas; inform me of the pitch-pot and the pitch.
 
-He said, you must excuse, for ’his a wish (about a thing) which cannot be revealed.
+He said, you must excuse, for ’tis a wish (about a thing) which cannot be revealed.
 
 Ho one has knowledge of this blackness, know, save only him who has this black (attire).
 
@@ -138,7 +138,7 @@ But when my entreaties had exceeded bounds, he grew ashamed at my uneasiness.
 
 He said. There is in China’s realm a town, pleasant, adorned like highest paradise.
 
-“ The City of the Stupefied ” its name; the house of mourning ’his of those in black,
+“ The City of the Stupefied ” its name; the house of mourning ’tis of those in black,
 
 (Fair) as the moon is every person’s face, (and) all (are dressed) in black silk like the moon.
 
@@ -578,7 +578,7 @@ My heart’s blood heated was to ferment stirred, (and) when its beating reached
 
 She said. To-night with kisses be content, no more scrape off the colour of the sky.
 
-Whatever passes this is not allowed — ’his best the lover ingrate should not be.
+Whatever passes this is not allowed — ’tis best the lover ingrate should not be.
 
 As long as calmness may abide in you, play with (my) locks, snatch kisses, taste my lips.
 
@@ -984,7 +984,7 @@ In wish for me, a world-illuming sun, you’ve passed from night to night and da
 
 Do with the hope to-night of treasured store, and seize the treasure on the ensuing night.
 
-One night of patience, sure, is possible: to-night is but a night, ’his not a year.
+One night of patience, sure, is possible: to-night is but a night, ’tis not a year.
 
 (But) this desire which for herself she showed increased my own desire a hundred-fold.
 

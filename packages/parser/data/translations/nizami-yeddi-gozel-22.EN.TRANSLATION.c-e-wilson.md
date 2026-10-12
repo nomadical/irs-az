@@ -54,7 +54,7 @@ The mind of each was stirred with the desire that the realm’s business should 
 
 The khan of khans from China (then) set out to take the monarch of the world’s abode.
 
-With bim, like formidable dragons, were three hundred thousand archers strong and skilled.
+With him, like formidable dragons, were three hundred thousand archers strong and skilled.
 
 He crossed the Oxus and advanced with speed; a resurrection in Khurasan raised.
 
@@ -156,7 +156,7 @@ And through the numbers slaughtered by the sword the gall-bladder was stirred to
 
 The lance (there) wagered with the sword its head that dragons it would reap like ears of corn.
 
-The shaft was in the fight a darting snake — when darts the snake ’his bad (for all who’re near).
+The shaft was in the fight a darting snake — when darts the snake ’tis bad (for all who’re near).
 
 King Bahram fighting in the battle ranks, his arrow-points-as hairs, were splitting hairs.
 
@@ -164,7 +164,7 @@ If with his sword be struck a horseman’s head, down to the waist he clove him 
 
 And if with stroke oblique be terrified, be cleft the man asunder at the waist.
 
-Of this kind was (his) sword, of that, (his) shaft — ’his likely that the foe would be dismayed.
+Of this kind was (his) sword, of that, (his) shaft — ’tis likely that the foe would be dismayed.
 
 The Turks from this his sudden Turk-like raid, and wounds so deadly on the path he took,
 

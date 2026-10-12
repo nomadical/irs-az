@@ -22,7 +22,7 @@ The fair Slavonian rosy-red of cheek, in hue like fire, like water all benign.
 
 Ran up to meet the king, and homage paid, and with her sleeve swept from his cheek the dust.
 
-For service worshipful she then prepared, — ’his sweet to see a moon adore the sun.
+For service worshipful she then prepared, — ’tis sweet to see a moon adore the sun.
 
 When night had raised its gilded globe on high, and dimmed the lustre of the solar cup.
 
@@ -146,7 +146,7 @@ That fairy-faced one, dweller in the fort, of China’s studios was a painter sk
 
 When she engaged in painting with the brush, she tied knots on the water like a shell.
 
-With the black paint, as ’his with huris’ locks, she painted (darkest) shadow upon light.
+With the black paint, as ’tis with huris’ locks, she painted (darkest) shadow upon light.
 
 When she was high-established in that house, (and) the house shone by that high-’stablished Moon,
 

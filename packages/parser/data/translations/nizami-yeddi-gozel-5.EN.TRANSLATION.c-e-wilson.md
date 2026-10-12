@@ -12,7 +12,7 @@ status: DRAFT
 ---
 O heart, how long this play of fantasy? This fancy of displaying fantasies?
 
-The fancy of this fancy I will quit: ’his best my eyes seek not these fantasies.
+The fancy of this fancy I will quit: ’tis best my eyes seek not these fantasies.
 
 My aim is four divisions in this range, each one excelling the division. Spring:
 
@@ -58,7 +58,7 @@ A king exalted, of so high a throne, that from its loftiness the mind’s made s
 
 In greatness equal to the angels, he; in loftiness the equal of the sky.
 
-His name’s embellished by Sublunity ”, if o’er the sky he rise ’his only fit.
+His name’s embellished by Sublunity ”, if o’er the sky he rise ’tis only fit.
 
 Though low the sky without sublimity, in this last there is height without the sky.
 
@@ -88,7 +88,7 @@ A lion on a dragon’s seldom seen, and a sun which has drawn a scimitar,
 
 But see the king who in the fight and chase riding a lion burns the dragon fell.
 
-The axe beneath the dragon of his flag splits at a stroke the dragon as a snake.
+His axe beneath the dragon of his flag splits at a stroke the dragon as a snake.
 
 The closeness of his aim by arrow forked for raging lions widens out the grave.
 
@@ -96,23 +96,23 @@ He wins the game of roughness from the sword; roughness like that of bears does 
 
 A lion-taker, not in drunkenness; lions he takes by having dragons’ might.
 
-The fore and hind legs of the tearing wolf by loop of lasso he has pMoried.
+The fore and hind legs of the tearing wolf by loop of lasso he has pilloried.
 
-When fore and kind legs from the wolf he tears the lion’s palsied in forelegs and hind.
+When fore and hind legs from the wolf he tears the lion’s palsied in forelegs and hind.
 
-His bolts, through wolves’ fore legs and leopards’ hind, restrict the plain for the d ass’s hoofs,
+His bolts, through wolves’ fore legs and leopards’ hind, restrict the plain for the wild ass’s hoofs,
 
-His iiTmtiiLg-groiind, through blood wMcb sea-like fumes, the wolf’s skin now puts on, and now the pard’s.
+His hunting-ground, through blood which sea-like fumes, the wolf’s skin now puts on, and now the pard’s.
 
-The boar at which be sharply drives his sword flies (quickly) from the wound that be inflicts.
+The boar at which he sharply drives his sword flies (quickly) from the wound that he inflicts.
 
-Exerting strength upon the leathern string, to stag be makes the leathern bide a grave.
+Exerting strength upon the leathern string, to stag he makes the leathern hide a grave.
 
-When to the battle-field be goes the heart of rock be breaks as though it were (but) shell.
+When to the battle-field he goes the heart of rock he breaks as though it were (but) shell.
 
-With poisoned sword be offers such effect as might the sky’s destruction of the earth.
+With poisoned sword he offers such effect as might the sky’s destruction of the earth.
 
-He at the feast and in the fight is famed: by cup and sword be gives life and be takes.
+He at the feast and in the fight is famed: by cup and sword he gives life and he takes.
 
 By reason of his sheen the dusky earth is full of lustre by his sovereign sway.
 
@@ -122,23 +122,23 @@ The realm in every part forms necklaces and perfume from his rubies and his musk
 
 Such wearer of the kingly cap’s attire, suffices for a cap from heaven to earth.
 
-The bow of such a bolder of the earth has the Nine-handled Bow as smallest bolt.
+The bow of such a holder of the earth has the Nine-handled Bow as smallest bolt.
 
 Such greatness is involved in his designs that the Great Bear’s four stars are (as) his throne.
 
 His enemies are like uprooted trees to crucifixes fastened at his door.
 
-Our faces, from the sim of his renown, bright as the moon; his foemen’s faces black.
+Our faces, from the sun of his renown, bright as the moon; his foemen’s faces black.
 
 What wonder that a gold-shod sun has given rock to the mount and rubies to the mine?
 
-Subdued by him the jewels of the mine; the mine of jewels (too) his (bumble) slave.
+Subdued by him the jewels of the mine; the mine of jewels (too) his (humble) slave.
 
 His onyx food to mount and sea has given — this, named pearl-strewer, ruby-strewer, that.
 
-He guards the law in both Abodes: the law of those of God’s Law be administers.
+He guards the law in both Abodes: the law of those of God’s Law he administers.
 
-God’s favour gives idm that which is required; (and) he conveys it to his slaves again.
+God’s favour gives him that which is required; (and) he conveys it to his slaves again.
 
 (Then) since through him the world is prosperous, his portion from the world be happiness!
 
@@ -156,9 +156,9 @@ Adorning crown and throne the power of one, Nusratu ’d-Din Malik Muhammad Shah
 
 The other’s name by observation raised unto the sky, his name is Ahmad (twice).
 
-In two forms from a common source there are the species Ahm ad and Muhammad too.
+In two forms from a common source there are the species Ahmad and Muhammad too.
 
-When at these blessed names you look (’his seen that) in one circle they both make their place.
+When at these blessed names you look (’tis seen that) in one circle they both make their place.
 
 When out of one two things arise, then how between them can one make a difference!
 
@@ -216,7 +216,7 @@ Except your cloud, which is an April cloud, those other clouds are clouds of win
 
 They give much pain before they lay a cloth; they take a life before they give a loaf.
 
-You summon late (’his true), but cherish quick the man on whom (your) shadow you may cast.
+You summon late (’tis true), but cherish quick the man on whom (your) shadow you may cast.
 
 The worth of men of talent he may know who many works of talent has perused.
 
@@ -290,7 +290,7 @@ Not (produce) such as in an age or two the lofty sphere may cancel with a pen.
 
 Now, in the cycle of seven thousand, work so perfect in Seven Pictures I’ve prepared:
 
-Its sweetness is to brighten up your soul — may it agree! enjoy it, ’his your food.
+Its sweetness is to brighten up your soul — may it agree! enjoy it, ’tis your food.
 
 To fashion it I’ve cared with endless zeal, and made it then devote itself to you.
 

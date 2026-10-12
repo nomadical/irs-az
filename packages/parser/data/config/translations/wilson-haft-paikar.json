@@ -175,7 +175,12 @@
     "gtcl": "girl",
     "Untn": "Until",
     "XJntn": "Until",
-    "vaar": "vazir"
+    "vaar": "vazir",
+    "pMoried": "pilloried",
+    "wMcb": "which",
+    "bumble": "humble",
+    "idm": "him",
+    "bim": "him"
   },
   "corrections": [
     {
@@ -281,6 +286,70 @@
     {
       "from": "an “,en I ” from angels",
       "to": "an “Amen!” from angels"
+    },
+    {
+      "from": "The axe beneath the dragon",
+      "to": "His axe beneath the dragon"
+    },
+    {
+      "from": "When fore and kind legs",
+      "to": "When fore and hind legs"
+    },
+    {
+      "from": "for the d ass’s hoofs",
+      "to": "for the wild ass’s hoofs"
+    },
+    {
+      "from": "iiTmtiiLg-groiind",
+      "to": "hunting-ground"
+    },
+    {
+      "from": "at which be sharply drives",
+      "to": "at which he sharply drives"
+    },
+    {
+      "from": "wound that be inflicts",
+      "to": "wound that he inflicts"
+    },
+    {
+      "from": "to stag be makes the leathern bide",
+      "to": "to stag he makes the leathern hide"
+    },
+    {
+      "from": "battle-field be goes the heart of rock be breaks",
+      "to": "battle-field he goes the heart of rock he breaks"
+    },
+    {
+      "from": "poisoned sword be offers",
+      "to": "poisoned sword he offers"
+    },
+    {
+      "from": "sword be gives life and be takes",
+      "to": "sword he gives life and he takes"
+    },
+    {
+      "from": "a bolder of the earth",
+      "to": "a holder of the earth"
+    },
+    {
+      "from": "the sim of his renown",
+      "to": "the sun of his renown"
+    },
+    {
+      "from": "Law be administers",
+      "to": "Law he administers"
+    },
+    {
+      "from": "Ahm ad",
+      "to": "Ahmad"
+    },
+    {
+      "from": "devote our beads as",
+      "to": "devote our heads as"
+    },
+    {
+      "pattern": "’his\\b",
+      "to": "’tis"
     }
   ],
   "sections": [
