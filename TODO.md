@@ -14,8 +14,8 @@ Public domain only (died 1955 or earlier, life + 70). Sources are unverified unt
 - [x] Qasım bəy Zakir — XIX, AZ — wikisource
 - [x] Seyid Əzim Şirvani — XIX, AZ + FA — wikisource
 - [x] Xurşidbanu Natəvan — XIX, AZ + FA — wikisource
-- [ ] Mirzə Şəfi Vazeh — XIX, AZ + FA — wikisource; Bodenstedt's German translations are PD
-- [ ] Abbasqulu ağa Bakıxanov — XIX, AZ + FA — wikisource
+- [x] Mirzə Şəfi Vazeh — XIX, AZ + FA — wikisource; only his 7 original works. The "Mirzə Şəfi nəğmələri" cycles are Bodenstedt's, could go in as Bodenstedt's German originals (PD)
+- [x] Abbasqulu ağa Bakıxanov — XIX, AZ + FA — wikisource
 - [ ] Aşıq Ələsgər — XIX–XX, AZ — wikisource
 - [ ] Nəcəf bəy Vəzirov — XIX–XX, AZ plays — wikisource
 - [ ] Cəlil Məmmədquluzadə — XX, AZ prose — wikisource

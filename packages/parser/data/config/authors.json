@@ -892,5 +892,110 @@
       ]
     },
     "collections": []
+  },
+  {
+    "slug": "vazeh",
+    "nameAz": "Mirzə Şəfi Vazeh",
+    "nameRu": "Мирза Шафи Вазех",
+    "nameEn": "Mirza Shafi Vazeh",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "skipSources": [
+      "wikisource-az-18901",
+      "wikisource-az-18902",
+      "wikisource-az-18900",
+      "wikisource-az-18895",
+      "wikisource-az-18898",
+      "wikisource-az-18903",
+      "wikisource-az-18904",
+      "wikisource-az-18905",
+      "wikisource-az-18896",
+      "wikisource-az-18712",
+      "wikisource-az-18899"
+    ],
+    "wikipedia": {
+      "az": "Mirzə Şəfi Vazeh",
+      "ru": "Мирза Шафи Вазех"
+    },
+    "wikisource": {
+      "az": "Mirzə Şəfi Vazeh"
+    },
+    "collections": []
+  },
+  {
+    "slug": "bakixanov",
+    "nameAz": "Abbasqulu ağa Bakıxanov",
+    "nameRu": "Аббас-Кули-ага Бакиханов",
+    "nameEn": "Abbasgulu agha Bakikhanov",
+    "type": "WRITER",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA",
+      "AR"
+    ],
+    "wikipedia": {
+      "az": "Abbasqulu ağa Bakıxanov",
+      "ru": "Бакиханов, Аббас-Кули-ага"
+    },
+    "wikisource": {
+      "az": "Abbasqulu ağa Bakıxanov",
+      "az_extra": {
+        "Rübailər/Abbasqulu ağa Bakıxanov": {
+          "collection": "bakixanov-rubailer",
+          "form": "RUBAI",
+          "starts": [
+            "Biliklər, önündə bir müşgülatdır",
+            "Qəlbimin istəyi hər arzu",
+            "Kafirlik ömrümü etmişdir hədər",
+            "Dərgahda olmaq bir böyük",
+            "O gözlər qəlbimi edir",
+            "Sözlərin şəkərdir şirin bir",
+            "Ruhumu çox tərif etsən",
+            "Əgər can nur isə",
+            "İradə çox olsa, təəssüb",
+            "Tərsinə dolanır amansız dövran",
+            "Sənətin fırçası köhnə, şahkar",
+            "Əlində tutduğun dolu peymanə",
+            "Talein yar olsa sənə",
+            "Təkcə nöqsan görər eyib",
+            "Yaxşılıq sevməyir dünyada riya",
+            "Fəryad ki, əksimə dövr",
+            "Davada tüfəng də verir",
+            "Halım etmiş məni həyatdan",
+            "Allahım istəsə qurtarram qəmdən",
+            "Bürümüş tənimi, canımı fəraq",
+            "Odunla alışdı bu can",
+            "Saqi, gəl badə ver",
+            "Sinəmə dağ çəkir mənim",
+            "Ümidim çoxdur ki, hicran",
+            "Sənsiz rahatlığım yoxdur, a",
+            "Gözəlim bilmədi necəyəm bir",
+            "Tamahla səadət birləşməz inan",
+            "Ayrıldıq, ürəyim qana döndü",
+            "Bu fələk işləri etdi",
+            "Söz yandı qələmin ucuyla",
+            "Ah necə mən tapım",
+            "Saraldı Günəşin üzu bu",
+            "Ey könül, yanmaqdan qorxmursan",
+            "Dost yoxsa bir an",
+            "Ey könül zülfünə sən",
+            "Olsaydı əlimdə mənim ixtiyar",
+            "Yolları ey gizli, ahəstə",
+            "Nəsimin baxışı ruhpərvərdir",
+            "Dünyada bir yerdə olur",
+            "Cünunluq etməyə maildir bəşər",
+            "Dörd heydən bir yerdə",
+            "Güldür bu? deyil, gül",
+            "Bu şəhin zatini haq"
+          ]
+        }
+      }
+    },
+    "collections": []
   }
 ]
