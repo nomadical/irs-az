@@ -1312,5 +1312,28 @@
       "az": "Əliqulu Qəmküsar"
     },
     "collections": []
+  },
+  {
+    "slug": "ildirim",
+    "nameAz": "Almas İldırım",
+    "nameRu": "Алмас Илдырым",
+    "nameEn": "Almas Ildyrym",
+    "type": "POET",
+    "period": "XX əsr",
+    "writingLangs": ["AZ_LATIN"],
+    "wikipedia": {
+      "az": "Almas İldırım",
+      "ru": "Алмас Илдырым",
+      "en": "Almas Ildyrym"
+    },
+    "wikisource": {
+      "az": "Almas Yıldırım",
+      "az_aliases": ["Almas İldırım"],
+      "az_titles": {
+        "A dağlar (Almas İldırım)": "A dağlar",
+        "Şərqi (Almas İldırım)": "Şərqi"
+      }
+    },
+    "collections": []
   }
 ]
