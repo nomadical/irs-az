@@ -126,7 +126,7 @@ export default async function AuthorsPage({ params, searchParams }: Props) {
                 <span
                   style={{
                     fontFamily: 'var(--font-ui)',
-                    fontSize: '0.6rem',
+                    fontSize: '0.7rem',
                     color: 'var(--pomeg)',
                     textTransform: 'uppercase',
                     letterSpacing: '0.05em',

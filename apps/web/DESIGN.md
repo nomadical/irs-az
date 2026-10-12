@@ -39,11 +39,23 @@ colors:
   clean-dark-red: "#FF6B6E"
   clean-dark-header: "#0F1012"
 typography:
+  gazette-featured:
+    fontFamily: "Cormorant Garamond, Source Serif 4, Georgia, serif"
+    fontSize: "3.5rem"
+    fontWeight: 700
+    lineHeight: 1.15
+    letterSpacing: "-0.03em"
   gazette-display:
     fontFamily: "Cormorant Garamond, Source Serif 4, Georgia, serif"
     fontSize: "3rem"
     fontWeight: 600
     lineHeight: 1.15
+    letterSpacing: "-0.03em"
+  gazette-masthead:
+    fontFamily: "Cormorant Garamond, Source Serif 4, Georgia, serif"
+    fontSize: "1.95rem"
+    fontWeight: 700
+    lineHeight: 1
     letterSpacing: "-0.03em"
   gazette-headline:
     fontFamily: "Cormorant Garamond, Source Serif 4, Georgia, serif"
@@ -72,6 +84,12 @@ typography:
     fontSize: "0.75rem"
     fontWeight: 400
     lineHeight: 1.6
+    letterSpacing: "0.12em"
+  gazette-caption:
+    fontFamily: "Alegreya Sans, Source Serif 4, system-ui, sans-serif"
+    fontSize: "0.7rem"
+    fontWeight: 400
+    lineHeight: 1.4
     letterSpacing: "0.12em"
   gazette-arabic:
     fontFamily: "Amiri, Noto Naskh Arabic, Geeza Pro, serif"
@@ -270,7 +288,7 @@ The Gazette is ink and pomegranate on warm paper. Clean is charcoal ink on white
 - **Title** (gazette-title / clean-title): card and list titles. Work-card titles are 1.05rem/600 in the Gazette and 1.125rem/700 in Clean.
 - **Body** (gazette-body / clean-body): prose, biographies and text pages. Biographies and text pages run at 1.0625rem with 1.7–1.75 leading in Clean, with a 38–44rem measure.
 - **Reading** (gazette-reading / clean-reading): the text of a work, driven by `--reading-size`, `--reading-font` and `--reading-leading` from the "Aa" appearance popover. Persian/Arabic reading text is 1.2× the reading size with 2.05 (Gazette) or 2.1 (Clean) leading.
-- **Label**: the Gazette's labels are Alegreya Sans in tracked uppercase (0.68–0.75rem, 0.08–0.14em tracking), in muted or pomegranate. Clean labels (clean-label) are 0.875rem, sentence case, untracked, regular weight and muted. This covers language labels over parallel columns, "Source"/"Translator" keys, "Share" and "Previous/Next".
+- **Label**: the Gazette's labels are Alegreya Sans in tracked uppercase: gazette-label (0.75rem) for running labels and gazette-caption (0.7rem) for section heads, chips and metadata, at 0.08–0.14em tracking. Nothing is smaller; only the ◆ ornaments go below 0.7rem. The masthead (gazette-masthead) and the poet of the week (gazette-featured) are Cormorant Garamond 700, in muted or pomegranate. Clean labels (clean-label) are 0.875rem, sentence case, untracked, regular weight and muted. This covers language labels over parallel columns, "Source"/"Translator" keys, "Share" and "Previous/Next".
 - **Nav** (clean-nav): Clean's header nav is the one uppercase line in that skin. It is bold, tracked 0.06em, header-muted, and white when current.
 
 ### Named Rules

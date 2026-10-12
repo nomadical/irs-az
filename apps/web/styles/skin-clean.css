@@ -196,8 +196,6 @@
   border-color: var(--header-line);
   color:        var(--header-ink);
 }
-[data-skin='clean'] .theme-btn .glyph { display: none; }
-[data-skin='clean'] .theme-btn .icon  { display: block; }
 
 /* ── Controls ───────────────────────────────────────────────── */
 [data-skin='clean'] .pill {

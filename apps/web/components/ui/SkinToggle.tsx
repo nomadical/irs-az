@@ -33,7 +33,6 @@ export function SkinToggle() {
       aria-pressed={skin === 'clean'}
       title={t(skin === 'clean' ? 'gazette' : 'clean')}
     >
-      <span className="glyph" aria-hidden="true">¶</span>
       {/* A page with its header band: "page look", not a menu */}
       <svg className="icon" aria-hidden="true" viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
         <rect x="3.5" y="3" width="13" height="14" rx="2" />

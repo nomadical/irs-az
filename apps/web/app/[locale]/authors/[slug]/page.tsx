@@ -102,7 +102,7 @@ export default async function AuthorPage({ params }: Props) {
             <p
               style={{
                 fontFamily: 'var(--font-ui)',
-                fontSize: '0.6rem',
+                fontSize: '0.7rem',
                 lineHeight: 1.3,
                 color: 'var(--muted)',
                 marginTop: '0.35rem',
