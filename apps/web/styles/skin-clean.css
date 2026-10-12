@@ -289,6 +289,16 @@
   gap:           0.75rem;
 }
 [data-skin='clean'] .appearance-label { letter-spacing: 0.04em; }
+/* On near-black the panel's shadow barely shows, so in dark it lifts to the surface grey,
+   and its buttons step up one shade to stay visible on it */
+:root[data-skin='clean'][data-theme='dark'] .appearance-popover { background: var(--surf); }
+:root[data-skin='clean'][data-theme='dark'] .appearance-popover .appearance-step:not(.active) { background: var(--surf-2); }
+:root[data-skin='clean'][data-theme='dark'] .appearance-popover .appearance-step:hover:not(.active) { background: #3A3936; }
+@media (prefers-color-scheme: dark) {
+  :root[data-skin='clean']:not([data-theme='light']) .appearance-popover { background: var(--surf); }
+  :root[data-skin='clean']:not([data-theme='light']) .appearance-popover .appearance-step:not(.active) { background: var(--surf-2); }
+  :root[data-skin='clean']:not([data-theme='light']) .appearance-popover .appearance-step:hover:not(.active) { background: #3A3936; }
+}
 
 [data-skin='clean'] .reading-select select {
   border:        none;
