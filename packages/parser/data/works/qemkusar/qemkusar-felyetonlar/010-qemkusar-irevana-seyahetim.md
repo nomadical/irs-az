@@ -1,0 +1,23 @@
+---
+slug: qemkusar-irevana-seyahetim
+sourceId: wikisource-az-21998
+titleAz: İrəvana səyahətim
+authorSlug: qemkusar
+collectionSlug: qemkusar-felyetonlar
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: ESSAY
+order: 10
+sourceNote: 'https://az.wikisource.org/wiki/%C4%B0r%C9%99vana%20s%C9%99yah%C9%99tim'
+status: DRAFT
+---
+Mən bu az ömrümdə çox şəhər gəzmişəm və çox yeriər kəştigüzar etmişəm. Amma heç bir yerin əhlini İrəvan adamı kimi xoşrəftar, holim, mehriban, dinc və sakit görməmişəm. Doğrudan, bu şehərdə qurd qoyunla otlayır. Hor bir yığıncaqda camaatın bəhsi elmdən, maarifden, toməddündən və söhbətİ İttihaddan, ittifaqdan və məhəbbətdəndir, Bir əhəddən eşıtməzsən ki, bir kəlmə xilafiinsaııiyyət vo ya xilafı-ədəb söz söyləsin. Amma bunun hamrsı İlə bclə bu şəhərin əhli çox rəşid, şücaətli ve igid adamlardır. Məsələn, çox vaxt görürsən ki, bir nefer bığıburma, şəstli, ucaboy, qazaçı formada, belinde qəmə cavan, yainkı bir saqqalı ağ, beli əyilmiş, başı qırxıq qoca əyləşib bir məclisin yuxarı başmda, camaat hamı dövrhadövr qulağın və gozün ona dikib baxırlar və başları ilə hey bəIİ-bəli İşarəsi ilə söhbət edirlər və o şexs de bu qərar ilə onlar üçün söhbət eləyir: “Mən indiyecən doqquz adam Öldürmüşəm - üçü crməni, altısı müsəlman. Dörd de arvad Öldürmüşəm, on doqquz ev yarmışam, bir ermeni qızı gotürüb aparıb heftelerlə gizlətmişem, Bunların hamısı ilə bele bir gün də qazamatda yatmamışam, divan-dere üzü görməmişəm. Səbəbi də budur ki, elə gəzmemişam ki, bir kəs həndəvərimə dolana bilmesin” .
+Bu cür söhbəüəri qəfəde, bulvarda, qəstində, bazarda və məsciddə çoxlarından eşİdirson və bclə igidlər camaatm ən bİrinci hörmətlisi, əzizi və İstəklisİ hesab olunurlar, Camaat onlan gecə-gündüz cvlərində arvad-uşaqlarına və qonum-qonşularına tərif edirlər ki, maşallah, maşallah, filankəs doğrudan çox qoçaq vo igid imiş, Bu gün Məşədi Yusif Cavad oğlunu dörd xəncər yarası ilə bazarda pristavların gözlərinin qabağında öldürdü, heç kəs yavuğuna düşə bilmədi.
+Men bu şəhərin vəzinden uzaqdan çox şey eşıtmişdim. Amma gəlib gördüm, bildim ki, nə qədər ki, tərif edirdilər, yüz o qədər İmiş. Müsəlmançıtıq, möminçİlik və dindarlıq var imişsə də bu şəhərdə İmiş. Belə ki, bir müsəlman artistkası, bilmirəm göyərçİn idi, tuti quşu idi, qazalax idi, nə idi; buraya gəlməklə camaatın içinə vəlvələ düşüb. “Va şəriəta, va milləta” sədası asimane bülənd olmuşdu ki, din əldən gedib, miiselman qızı şehərləri gəzir. Məscidde şura edib adam təyin eləmişdiler ki, onu güllələsin və bu böyük ləkəni müselman mtllətinin üstündən götürsün. Daha bundan artıq din təəssübü çəkmək necə olar.
+İrəvana yetişen kimi menİ apardılar əllameyi-fehhameyi-ağayişeyx Elcktrik cənabİanmn qulluğuna. Həqiqətde şeyx, nə şeyx, əmmamə, nə əmmame, qurşaq, nə qurşaq, əba, nə əba, don ne babat. Bir saat onun mübarək simasına, şeklinə, şəmayilinə, heyəünə tamaşa edib heyran və sərgərdan qaldım. Üz-gözündən nur yağırdı. Təəssüf elədim kİ, heyf, bu cür müqəddəs və nurani vücudlan görmək hamıya mümkün olmur. Yaxşı olardı kİ, bu cənabı vıstavkalarm birinə göndərəydilər və bütün dünyaya elan edəydilər, ta cəmi böyük-kiçik, firəng, rus, yəhudi, nemsə, ingilis gəlib onu ziyarət edəydi və biz müsəlmanlardan ötrü artıq fəxr olaydı və hamı biləydi ki, müsəlman mİllətı ki, bu qedər tərəqqi edib qabağa gedib, hamısı bu cür ağalarm bərəkətindəndir.
+Çıxıb bazara yetim Cücəni, Müridil-məşayixi və Məhkəmə pişi— yini1 xəbər aldım. Dedilər ki, onlar adam içinə çıxmağa ehtiyat edirlər, çünki həmin bu cənab ki, terifı qabaqda kcçdi, onlann küfrüno Fıtva verib, onları öldürəcəklər. Mən həqiqətdo çox şad oldum, dedİm kı, yaxşı edibdir. O cür mollalara, seyidlərə rişxənd və mesxərə edənleri və şeyxlerə sataşanları doğrudan öldürmək lazımdır ki, xalqın qulağı dincəlsin. Daha hər bir yerinden qalxan yetənə yetib, ötəne bir daş atmasın.
+Sen allah, bir insaf ele, oniar oimasa kimin ne işi var desin ki, niye İran konsulu, Məmmədəli İrana gələndə açıq-açığına deyibdir ki, “nə eybi var, o olmasın, bu olsun”, yəni moşrutə olmasm, yene Mommədəli olsun, bu ki, onlardan yaxşıdır!
+Xülasə, İrəvan, nə İrəvan! Tərif etməklə başa gəlınəz. Maşallah olstm, o qodər İtilget və arpazavonm adamlar var ki, hamısı başdan ayağa qraxmala qərq, manjetli, əldə trost, gözdə açgİ səherdənaxşama kimi bulvarda var gəl edirlər və urusuca elə vıdır-vıdır ötürlər kİ, urusun babası da elə danışa bilməz.
+Bunlann hamıst keçəndən sonra, bunlann şayani-heyrət təəssübleri və milletpərəstlikləri vardır. Bele ki, İrəvanda asari-ətiqədən ki, İran vaxtmdan qalır, bir Serdar imaroti və bir Serdar mescidi var, darmadağm edib ayaqyolu qayırıblar ki, bilmərre mehv olub getsin.
+
+- "Molla Nəsrəddin", 20 noyabr 1911, N 41

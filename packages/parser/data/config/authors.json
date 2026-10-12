@@ -1294,5 +1294,23 @@
       "az_aliases": ["Dirili Qurbani"]
     },
     "collections": []
+  },
+  {
+    "slug": "qemkusar",
+    "nameAz": "Əliqulu Qəmküsar",
+    "nameRu": "Алигулу Гамгюсар",
+    "nameEn": "Aligulu Gamgusar",
+    "type": "POET",
+    "period": "XX əsr",
+    "writingLangs": ["AZ_ARABIC"],
+    "wikipedia": {
+      "az": "Əliqulu Qəmküsar",
+      "ru": "Гамгюсар, Аликули",
+      "en": "Aligulu Gamgusar"
+    },
+    "wikisource": {
+      "az": "Əliqulu Qəmküsar"
+    },
+    "collections": []
   }
 ]

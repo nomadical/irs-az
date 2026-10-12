@@ -1,0 +1,24 @@
+---
+slug: qemkusar-mekke
+sourceId: wikisource-az-22006
+titleAz: Məkkə
+authorSlug: qemkusar
+collectionSlug: qemkusar-felyetonlar
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: ESSAY
+order: 13
+sourceNote: 'https://az.wikisource.org/wiki/M%C9%99kk%C9%99'
+status: DRAFT
+---
+Bir gxitı bir nəfər təzə Məkkədən gələn hacıya çox ürəiym yandı. Həqiqətdə də bu cür adamlara ürək yanmalıdır. Çünki şəherində oturduğu yerdə axundlar o qədər yazığa altdan-üstdən deyirlər ki, san müstətesən, beləsən, şeləsən, binəvant üzdən-gözdən salırlar. Durur, az-çox nə mayası var, üzləyİr, bir qədər pul götürüb düşür bərri-biyabanə, durma gəldim, Məkkə. Günə bir mənzİl, təyyinıənazil, qeti-mərahıl, yetişcək haman fövri bİr naxoşluq yapışır yaxasmdan, öl ki öləsən. Necə ki, her il minlərlə və olexüsus bu İl otuz altı min nəfər ölübdür...
+Hocc Fürui-dindən olub, onun barəsində danışmaq nəinki “Molla Nesrəddin”in, bəlke onun babasının da hünəri deyil və camaat da ki, hər il yiiz minlərlə gedib ora, yüz min deveni, camışı, inəyi, qoyunu qurban edib, dübarə pul verib basdırırlar torpağa, bir hikmətdİr ki, ona heç kəs əl apara bilməz. Ancaq menim bu damşığım orıdan ötrüdür kİ, öz günümə ağlayıram və hesab eİByirəm ki, ildə bu qədər adam ki Məkkəyə gedİT və çoxu da dəTəceyi-şəhadətə yetişir, onların hər birisinə behiştdə yetmiş min qəsr zebərcəddən, yaqutdan vcrsələr və hər qəsrİ yetmiş min dəfə bu dünyadan böyük olsa, mən ondan qorxuram ki, bİzlərə dəxİ cənnatdə yer qalmıya. Və işdi, Allah eləməmiş, biz də getməlİ olsaq, üzrümüzü istayalər. Odur ki, bunlann hər il bu qədər qınlmağın eşidəndə qısqanmağım hıtur ve hesəd aparıram buların o səadətinə ki, Məkkə kimi müqeddəs bir şəhərdə can cahan-afarinə tapşınriar, çünki onsuz da çoxusu Ogər vətənlerindo vofat etsələr, vesiyyət edəcəklər kı, sümüklərini Vığıb-yığışdırıb Kerbalayi-müellayə aparsınlar.
+İndı burada bir iş var ki, görək aya, bu gedənlər hamisı sədaqət iləmi gedirlər, ya bir biclikdir ki, elayirlər, xalqın gözünə torpaq otsmlar? Bu baredə biri neçə kəlme danışmalı ki, işin həqiqətİ meydana çıxsın.
+Mən elə hacı tanıyıram ki, özünün heç bir zada etiqadı olmayaolınaya Məkkəyə müşərrəf olur və gedən zaman avam soruşanda ki, fıhmkəs, eşitmişəm Həccə gedirson, deyir: “Gərək insanın başı bir Verə bağlı olsun, yoxsa bir para təbiilor kimİ, heç zada inanmamaq adamı başıaçıq qoyar”. Amma bunun ovozində, özü kimı bir lamezhobə də rast gəlondə deiyr ki, gedirem Mokkəyo məhzi görüm bu nadanlar, bu vəhşitor ki, hər tərəfdən ora cəm olurlar, nə hoqqabazlıq eləyİrlər.
+Bİzim hacılann içində bu cürüləri çox-çoxdur və əlavə elələri də var ki, üç-dord yüz manat xərc qoyub Məkkəyə gedəndə və Allah əcəlden aman verib salamat qayıdıb gəlendə, öz yerində Məkkənin xərcini bir ildə çıxardır. Gündo min dofe “getdiyim beytə and olsun" deyib malı birə üç qiymətə satır və çox olur ki, on Məkkə xərcinə bərabər bir əmanət gətirib tapşırırlar ona, salır içəriyə, əmanot sahibi cınqırm çəkəndə camaat yığışıb ağzın-bumun əzirlər ki, son niyə hacıya şər atırsan və böhtan deyirsən?
+Bunlarm hamısı ilə belə monim heç kəs ilə İşim yoxdur, lıər kəs nə bİlirsə eləsin, Hacı Məmmodvəli kişinin pulu öz puludur, istəyir tüməni on şahı ilə icariye verir, istəyir aparıb dovəyə verib, kəsir basdirır torpağa və habelə istəyir pulu öz vətənində firəng qəndinə, nerasə çayına vcrib mərsiyə oxutdurur, yainkı aparıb Məkko yolunda tökür əcnəbİlorin cibino. Ancaq mənim deyəcok sözüm bircə budur ki, Hacı Mommedvəli öz vəteninda həmd surəsini dürüst öyrenib və mənasiki-həcci tamam-kamal bilib, sora yerindən dəbərsin və heccə getmək xəyalına düşsün. Daha yollarda uruslann murdar vaqonlarında vo ıngilislərin murdar paraxodlarında həmd surəsi höccoliye-höccəliyə getməsin ki, çox günahdır və cayiz deyil o müqəddəs ayələr nəcis yerloıdə tələffüz olunsun...
+Və hər kəs də sarsaxlayıb desə ki, həccə gedonlor niyə bu qodər pullan aparıb sərf ediriər, heç olmasa hərəsi bir lirə osmanlı dovlətinə verrnir ki, onların xəzinəsi dolub, ehtiyacları olmasın ki, al osmanın necmi-baxtər kimi qiymətli toxtini satmaq istəsinlər, yainkİ labüd qalıb taci-şahini xarici yanmda girov qoymaq xəyallarmdan keçsin. Onda mən o adama bu cavabı vcrərəm ki, bular bütün axmaq və bitnəni sözlərdir ki, o damşır. Çünkİ əvvəla, bu Məkkə yolunda xərc olunan pullara bire min bu dünyada, birə min axirətdə əvoz verilocəkdir.
+İkimcisi, ora yığtşan adamm Fıkri gərok həmişo axirət yarvında olsun və cəmi olaqəsin dünya və mafihadan kəssin. Hərgah bu cür 111 fıkiriər qəlbindən keçmiş olsa, lazımdır əlli dəvə kəsib torpağa quylatsm ki, ondan bu cür böyük terki-övta baş verdi.
+Üçümcüsü də, ora yığışaniann biri buxaralıdır, biri qafqazlıdır, biri iranlıdır, biri əfqanlı, biri cavəli, biri hindustanlıdır, cəfəri, həmbəli, şafeyi, maliki, vəhabi... Min məzhəb qarışıb bir-birinə. Onlara nə herəc vaqe olub ki, osmanlı fıkri çəksinlər. Qoy canı çıxsın pulsuzluqdan dermədağın dağılsın.
+
+- "Molla Nəsrəddin", 3 fevral 1913, N 4

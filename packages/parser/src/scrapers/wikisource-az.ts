@@ -203,9 +203,15 @@ const FOREIGN_NS = /^(Kateqoriya|Category|Müəllif|İndeks|Səhifə|Fayl|Şəki
 /** Links that make up a list (the "table of contents" of an index page) */
 function listLinks(wikitext: string, pageTitle: string): ListLink[] {
   const links: ListLink[] = [];
+  let inPoem = false;
   for (const line of wikitext.split('\n')) {
+    if (/<poem[\s>]/i.test(line)) inPoem = true;
+    if (/<\/poem>/i.test(line)) inPoem = false;
     const m = line.trim().match(LIST_LINE);
     if (!m) continue;
+    // In a text, a listed link followed by more is its source note ("* [[Zənbur]], 29 may 1909, N 12");
+    // a bare list there is still a contents ("İblis" lists its acts inside <poem>)
+    if (inPoem && line.trim().slice(m[0].length).trim()) continue;
     let target = m[2].trim().replace(/‎/g, '');
     if (FOREIGN_NS.test(target) || target.startsWith('#')) continue;
     if (target.startsWith('/')) target = pageTitle + target.replace(/\/$/, '');
@@ -288,7 +294,7 @@ function pageText(wikitext: string): string {
 function genreOf(label: string): Genre | undefined {
   const l = label.toLocaleLowerCase('az');
   if (/dram|pyes|komediya|faciə|tamaşa/.test(l)) return 'PLAY';
-  if (/məqalə|publisist/.test(l)) return 'ESSAY';
+  if (/məqalə|publisist|felyeton/.test(l)) return 'ESSAY';
   if (/mənzum/.test(l)) return 'POEM'; // "Mənzum hekayətlər" are tales in verse
   // A dastan is a folk tale told in prose, the songs set into it
   if (/hekayə|povest|roman|^dastan|(^|\s)nəsr/.test(l)) return 'PROSE';
