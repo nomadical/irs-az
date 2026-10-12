@@ -893,3 +893,16 @@
   [data-skin='clean'] .home-sidebar .pill { padding: 0.15rem 0.8rem; }
   [data-skin='clean'] .footer { margin-top: 0.75rem; padding: 0.6rem 1.5rem; }
 }
+
+/* ── Last tracked capitals: sentence case like every other clean label ── */
+[data-skin='clean'] .appearance-label,
+[data-skin='clean'] .work-row-meta,
+[data-skin='clean'] .page-loading p,
+[data-skin='clean'] .author-type {
+  text-transform: none;
+  letter-spacing: 0;
+}
+[data-skin='clean'] .appearance-label { font-size: 0.85rem; }
+[data-skin='clean'] .work-row-meta { font-size: 0.8rem; color: var(--muted); }
+[data-skin='clean'] .page-loading p { font-size: 0.9rem; }
+[data-skin='clean'] .author-type { font-size: 0.8rem; font-weight: 700; color: var(--pomeg); }

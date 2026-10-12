@@ -38,6 +38,14 @@ async function resolveFilters(locale: string, sp: Record<string, string | string
   return { filters, given, heading: parts.length ? parts.join(' · ') : t('authors') };
 }
 
+/** Author type in the reader's language; the database holds the enum (POET, WRITER…) */
+const TYPE_LABELS: Record<string, Record<string, string>> = {
+  POET:        { az: 'Şair', ru: 'Поэт', en: 'Poet' },
+  WRITER:      { az: 'Yazıçı', ru: 'Писатель', en: 'Writer' },
+  PLAYWRIGHT:  { az: 'Dramaturq', ru: 'Драматург', en: 'Playwright' },
+  PHILOSOPHER: { az: 'Filosof', ru: 'Философ', en: 'Philosopher' },
+};
+
 const AZ_ALPHABET = 'ABCÇDEƏFGĞHXIİJKQLMNOÖPRSŞTUÜVYZ';
 
 export async function generateMetadata({ params, searchParams }: Props): Promise<Metadata> {
@@ -123,18 +131,8 @@ export default async function AuthorsPage({ params, searchParams }: Props) {
                 <span style={{ fontFamily: 'var(--font-serif)', fontSize: '1.05rem', fontWeight: 600 }}>
                   {name}
                 </span>
-                <span
-                  style={{
-                    fontFamily: 'var(--font-ui)',
-                    fontSize: '0.7rem',
-                    color: 'var(--pomeg)',
-                    textTransform: 'uppercase',
-                    letterSpacing: '0.05em',
-                    flexShrink: 0,
-                    marginLeft: '0.5rem',
-                  }}
-                >
-                  {author.type}
+                <span className="author-type">
+                  {TYPE_LABELS[author.type]?.[locale] ?? TYPE_LABELS[author.type]?.az ?? author.type}
                 </span>
               </div>
               <div className="meta-strip" style={{ marginTop: '0.3rem' }}>

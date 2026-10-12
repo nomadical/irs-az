@@ -2244,3 +2244,14 @@ a.gallery-coll:hover { text-decoration: underline; }
     color:       #444;
   }
 }
+
+/* Author type on the authors index cards */
+.author-type {
+  flex-shrink:    0;
+  margin-left:    0.5rem;
+  font-family:    var(--font-ui);
+  font-size:      0.7rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color:          var(--pomeg);
+}
