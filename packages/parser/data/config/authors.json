@@ -849,5 +849,48 @@
       "az": "Qasım bəy Zakir"
     },
     "collections": []
+  },
+  {
+    "slug": "seyid-ezim",
+    "nameAz": "Seyid Əzim Şirvani",
+    "nameRu": "Сеид Азим Ширвани",
+    "nameEn": "Seyid Azim Shirvani",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Seyid Əzim Şirvani",
+      "ru": "Ширвани, Сеид Азим"
+    },
+    "wikisource": {
+      "az": "Seyid Əzim Şirvani"
+    },
+    "collections": []
+  },
+  {
+    "slug": "natavan",
+    "nameAz": "Xurşidbanu Natəvan",
+    "nameRu": "Хуршидбану Натаван",
+    "nameEn": "Khurshidbanu Natavan",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Xurşidbanu Natəvan",
+      "ru": "Натаван, Хуршидбану"
+    },
+    "wikisource": {
+      "az": "Xurşidbanu Natəvan",
+      "az_aliases": [
+        "Xurşudbanu Natəvan"
+      ]
+    },
+    "collections": []
   }
 ]

@@ -155,6 +155,7 @@ const AUTHOR_ERA: Record<string, string> = {
   habibi: 'sefevi-dovru',
   axundzade: 'maarifcilik',
   sabir: 'maarifcilik',
+  'seyid-ezim': 'maarifcilik',
   vurgun: 'sovet-dovru',
 };
 
