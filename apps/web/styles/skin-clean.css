@@ -747,3 +747,21 @@
   [data-skin='clean'] .catalog-grid li + li { border: none; }
   [data-skin='clean'] .catalog-tile { min-height: 7.5rem; padding: 1rem 1.15rem; }
 }
+
+/* ── Other poets: a full-width grey band with white cards ───── */
+[data-skin='clean'] .more-works--others {
+  margin-top:  4rem;
+  padding:     2.5rem 0 3rem;
+  background:  var(--surf);
+  box-shadow:  0 0 0 100vmax var(--surf);
+  clip-path:   inset(0 -100vmax);
+}
+[data-skin='clean'] .more-works--others .card-item { background: var(--bg); }
+[data-skin='clean'] .more-works--others .card-item:hover { background: var(--surf-2); }
+[data-skin='clean'] .more-works-theme { color: var(--pomeg); }
+/* When the band ends the page it runs into the footer, divided by a hairline */
+[data-skin='clean'] .page-content:has(> .more-works--others:last-child) { padding-bottom: 0; }
+[data-skin='clean'] body:has(.more-works--others) .footer {
+  margin-top: 0;
+  border-top: 1px solid var(--rule);
+}

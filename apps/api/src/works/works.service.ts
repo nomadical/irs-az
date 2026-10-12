@@ -316,6 +316,74 @@ export class WorksService {
     return works.map(withIncipit);
   }
 
+  /**
+   * Poems by other poets, one per poet, preferring ones that share a theme with this work.
+   * Stable per work (a hash of the slug picks among the candidates), so pages cache well.
+   */
+  async byOtherPoets(slug: string, locale = 'az', take = 4) {
+    const work = await this.prisma.work.findFirst({
+      where: { slug, status: 'PUBLISHED' },
+      select: {
+        id: true,
+        authorId: true,
+        tags: {
+          where: { source: { not: 'REJECTED' }, tag: { kind: 'THEME' } },
+          orderBy: { tag: { order: 'asc' } },
+          select: { tag: { select: { id: true, slug: true, kind: true, nameAz: true, nameRu: true, nameEn: true } } },
+        },
+      },
+    });
+    if (!work) throw new NotFoundException('Work not found');
+
+    const others: Prisma.WorkWhereInput = { status: 'PUBLISHED', genre: 'POEM', authorId: { not: work.authorId } };
+    /** One candidate per poet, chosen by the slug's hash so the pick differs between works */
+    const pickPerPoet = async (where: Prisma.WorkWhereInput) => {
+      const rows = await this.prisma.work.findMany({ where, orderBy: { id: 'asc' }, select: { id: true, authorId: true } });
+      const byAuthor = new Map<string, string[]>();
+      for (const r of rows) byAuthor.set(r.authorId, [...(byAuthor.get(r.authorId) ?? []), r.id]);
+      return [...byAuthor.entries()]
+        .sort(([a], [b]) => hash(slug + a) - hash(slug + b))
+        .map(([authorId, ids]) => ({ authorId, id: ids[hash(slug + authorId) % ids.length] }));
+    };
+
+    // The work's first theme that other poets also wrote on
+    let theme: (typeof work.tags)[number]['tag'] | null = null;
+    let picks: { authorId: string; id: string }[] = [];
+    for (const { tag } of work.tags) {
+      picks = await pickPerPoet({ ...others, tags: { some: { tagId: tag.id, source: { not: 'REJECTED' } } } });
+      if (picks.length >= 2) {
+        theme = tag;
+        break;
+      }
+    }
+    if (!theme) picks = await pickPerPoet(others);
+
+    const ids = picks.slice(0, take).map((p) => p.id);
+    const works = await this.prisma.work.findMany({
+      where: { id: { in: ids } },
+      select: {
+        id: true,
+        slug: true,
+        titleAz: true,
+        titleRu: true,
+        titleEn: true,
+        genre: true,
+        form: true,
+        year: true,
+        author: { select: { slug: true, nameAz: true, nameRu: true, nameEn: true } },
+        ...INCIPIT_SOURCE(UI_LANGUAGE[locale] ?? 'AZ_LATIN'),
+      },
+    });
+    const order = new Map(ids.map((id, i) => [id, i]));
+    const { id: _themeId, ...themeRef } = theme ?? { id: '' };
+    return {
+      theme: theme ? themeRef : null,
+      works: works
+        .sort((a, b) => order.get(a.id)! - order.get(b.id)!)
+        .map(({ id: _id, ...w }) => withIncipit(w)),
+    };
+  }
+
   /** Published counts for the homepage catalog: works by form and genre, authors by type */
   async catalog() {
     const pub = { status: 'PUBLISHED' as const };

@@ -1142,6 +1142,9 @@ blockquote {
   color:       var(--muted);
 }
 
+.more-works--others { margin-top: 2.5rem; }
+.more-works-theme { color: var(--pomeg); }
+
 /* Language tabs on reading page */
 .lang-tabs {
   display:         flex;

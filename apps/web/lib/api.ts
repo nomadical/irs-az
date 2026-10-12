@@ -79,6 +79,8 @@ export const api = {
   resolveWork: (slug: string) => fetcher<{ slug: string }>(`/works/resolve/${slug}`),
   getMoreByAuthor: (slug: string, locale: string) =>
     fetcher<MoreWork[]>(`/works/${slug}/more?locale=${locale}`),
+  getOtherPoets: (slug: string, locale: string) =>
+    fetcher<{ theme: TagRef | null; works: OtherWork[] }>(`/works/${slug}/others?locale=${locale}`),
   getWorkNav: (slug: string) =>
     fetcher<{ prev: NavItem | null; next: NavItem | null }>(`/works/${slug}/nav`),
 
@@ -147,6 +149,10 @@ export interface MoreWork {
   form: string | null;
   year: number | null;
   incipit: { lines: string[]; lang: string };
+}
+
+export interface OtherWork extends MoreWork {
+  author: { slug: string; nameAz: string; nameRu: string | null; nameEn: string | null };
 }
 
 interface NavItem {

@@ -75,6 +75,12 @@ export class WorksController {
   }
 
   @Public()
+  @Get(':slug/others')
+  byOtherPoets(@Param('slug') slug: string, @Query('locale') locale?: string) {
+    return this.works.byOtherPoets(slug, locale);
+  }
+
+  @Public()
   @Get(':slug/nav')
   getNav(@Param('slug') slug: string) {
     return this.works.getNav(slug);

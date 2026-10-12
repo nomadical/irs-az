@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { api, getWorkOrRedirect, type MoreWork, type TagRef } from '@/lib/api';
+import { api, getWorkOrRedirect, type MoreWork, type OtherWork, type TagRef } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import { excerpt, pageMetadata, SITE_URL } from '@/lib/seo';
 import Link from 'next/link';
@@ -76,11 +76,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function WorkPage({ params }: Props) {
   const { locale, slug } = await params;
 
-  const [work, nav, more] = await Promise.all([
+  const [work, nav, more, others] = await Promise.all([
     getWorkOrRedirect(slug, locale) as Promise<any>,
     // Old slugs redirect above, so nav only matters when the work exists
     api.getWorkNav(slug).catch(() => ({ prev: null, next: null })),
     api.getMoreByAuthor(slug, locale).catch(() => [] as MoreWork[]),
+    api.getOtherPoets(slug, locale).catch(() => ({ theme: null, works: [] as OtherWork[] })),
   ]);
 
   const { t, options, titleFor } = await titleHelpers(locale);
@@ -260,6 +261,41 @@ export default async function WorkPage({ params }: Props) {
                         {item.year && <span>{item.year}</span>}
                       </>
                     )
+                  }
+                />
+              );
+            })}
+          </div>
+        </section>
+      )}
+
+      {others.works.length > 0 && (
+        <section className="more-works more-works--others" aria-labelledby="other-poets-title">
+          <h2 id="other-poets-title" className="more-works-title">
+            <Link href={others.theme ? `/${locale}/tags/${others.theme.slug}` : `/${locale}/works`}>
+              {t('other_poets')}
+              {others.theme && <span className="more-works-theme"> · {localized(others.theme, 'name', locale)}</span>}
+            </Link>
+          </h2>
+          <div className="card-grid more-works-grid">
+            {others.works.map((item) => {
+              const itemForm = item.form && item.form !== 'OTHER' ? options(`form.${item.form}` as any) : null;
+              return (
+                <WorkCard
+                  key={item.slug}
+                  href={navHref(item)!}
+                  title={titleFor(localized(item, 'title', locale), item.form).text}
+                  incipit={item.incipit}
+                  meta={
+                    <>
+                      <span>{localized(item.author, 'name', locale)}</span>
+                      {itemForm && (
+                        <>
+                          <span className="dot" aria-hidden="true" />
+                          <span>{itemForm}</span>
+                        </>
+                      )}
+                    </>
                   }
                 />
               );
