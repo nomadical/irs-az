@@ -245,7 +245,12 @@
     "wfllow": "willow",
     "calamiiy": "calamity",
     "vioe": "vice",
-    "Iike": "like"
+    "Iike": "like",
+    "doorrkey": "door-key",
+    "wrriter": "writer",
+    "twUl": "twill",
+    "Kegarding": "Regarding",
+    "thoih": "though"
   },
   "corrections": [
     {
@@ -679,6 +684,14 @@
     {
       "from": "world-illumi ning",
       "to": "world-illumining"
+    },
+    {
+      "from": "It compasses the cart«h from “Qaf ” to '' Qaf ”",
+      "to": "It compasses the earth from “Qaf” to “Qaf”"
+    },
+    {
+      "from": "The seeds of it a5ord",
+      "to": "The seeds of it afford"
     }
   ],
   "sections": [

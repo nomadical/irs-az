@@ -28,11 +28,11 @@ Why look to this that freedom I have given to ears and eyes to range a broad exp
 
 I have some narrow-eyed fair ones of art, who veil themselves from those of narrow sight:
 
-Each beauty like a closed-up treasury, — the treasure-doorrkey fastened ’neath her locks.
+Each beauty like a closed-up treasury, — the treasure-door-key fastened ’neath her locks.
 
 He will find gold who opens back the door; he who can find the door will gather pearls.
 
-I, wrriter with a reed of sugar-cane, strew from the palm-tree of this writing, dates:
+I, writer with a reed of sugar-cane, strew from the palm-tree of this writing, dates:
 
 A king of Grecian raiment, Chinese crown, to whom Greece land-tax, China tribute pays;
 
@@ -70,11 +70,11 @@ O’er all men like the sky conspicuous, excelling all men as the angels do; —
 
 Since rubies have been set into its crown, to you through fear of pillage ’tis addressed.
 
-If hearing it (you find) it please your heart, ’twUl be exalted (even) as your throne.
+If hearing it (you find) it please your heart, ’twill be exalted (even) as your throne.
 
 I’ve given you from the garden of my brain fruit rich and sweet like honey (mixed) with milk.
 
-The seeds of it a5ord the taste of figs; the almond-kernels are contained inside.
+The seeds of it afford the taste of figs; the almond-kernels are contained inside.
 
 It’s outside will the superficial please; within it is the kernel for the deep.
 
@@ -100,7 +100,7 @@ Virgo has taken to herself these ears, though ‘‘ Storyteller story-teller ha
 
 Since from the fort of my contented state I’ve offered to the king a store of pearls, —
 
-Kegarding pay (for these) in current gold, the Brazen Fort my debtor (still) remains.
+Regarding pay (for these) in current gold, the Brazen Fort my debtor (still) remains.
 
 (Such) debt is not from want of will to give; a fort from want of silver may be brass.
 
@@ -110,7 +110,7 @@ The rubies, as is fit, for hands of friends, the diamonds for the feet of enemie
 
 A fort! nay, ’tis the Ka'ba of Islam; the shrine of spiritual travellers.
 
-It compasses the cart«h from “Qaf ” to '' Qaf ”; nay, in its vision penetrates beyond.
+It compasses the earth from “Qaf” to “Qaf”; nay, in its vision penetrates beyond.
 
 It is the gold nails of the steed, the world; its name of Brazen Fort (but) from its strength.
 
@@ -146,7 +146,7 @@ Though gorgeous are the banquets which you hold, this is a banquet which for eve
 
 All things which gems and treasure have been called give naught but pain, and this alone brings ease.
 
-Those things thoih they should last five hundred years — May you live long! — will not escape decay.
+Those things though they should last five hundred years — May you live long! — will not escape decay.
 
 But this rare store, which really makes (your) Court, to all eternity will he with you. —
 
