@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-324
+sourceId: ganjoor-17278
+titleAz: Qəzəl 324
+titleRu: Газель 324
+titleFa: غزل شمارهٔ ۳۲۴
+titleEn: Ghazal 324
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 325
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh324'
+status: DRAFT
+---
+همیشه تا تن من برقرار خواهد بود
+به کوی عشق دلم را گذار خواهد بود
+
+سرم به خاک بپوسید و آتش غم دوست
+در استخوان تن من به کار خواهد بود
+
+بتا، بدور غم خویش کشته گیر مرا
+جنایت تو اگر زین شمار خواهد بود
+
+ز بهر کشتن من چرخ تیز می‌بینم
+که باستیزهٔ چشم تو یار خواهد بود
+
+بلای عشق تو خوش کرده‌ایم با دل خود
+به بوی آنکه خزان را بهار خواهد بود
+
+دلم ز هجر تو اندر حساب داشت غمی
+گمان که برد که چندین هزار خواهد بود؟
+
+بیا، که تا نبود پیشت اوحدی را بار
+همیشه دیدهٔ او اشکبار خواهد بود

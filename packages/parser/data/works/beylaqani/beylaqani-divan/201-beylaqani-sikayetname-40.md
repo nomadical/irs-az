@@ -1,0 +1,39 @@
+---
+slug: beylaqani-sikayetname-40
+sourceId: ganjoor-114818
+titleAz: Şikayətnamə 40
+titleRu: Жалоба 40
+titleFa: شمارهٔ ۴۰
+titleEn: Complaint 40
+authorSlug: beylaqani
+collectionSlug: beylaqani-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 201
+sourceNote: 'https://ganjoor.net/beylaghani/divan/shakva/sh40'
+status: DRAFT
+---
+چه وقت موی سیپدست روز برنایی
+چه روز زحمت پیری است وقت زیبایی
+
+مرا که اول عهد جوانی امروزست
+شبم چو روز همی گردد اینت رسوایی!
+
+رواست کز پی موی سیاه دل تنگم
+که در میان سیاهی است نور بینایی
+
+تو ای زمانه چه دیدی در آنکه پیش از وقت؟
+عبیر بر سر کافور تازه اندایی
+
+تو ای سپید موی! از خدای شرمی دار
+نه وقت تست که تو از کمین برون آیی
+
+مرا بنفشه چو نورسته است هم شاید
+گرم بنفشه به برگ سمن نیالایی
+
+اگر چه موی سیاه و سپید هر دو یکی است
+مرا که فارغم از تازگی و برنایی
+
+ولیک خوش نبود کز سپید کاری خویش
+ز ظلم موی سپیدم به خلق بنمایی

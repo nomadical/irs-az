@@ -1,0 +1,42 @@
+---
+slug: ovhadi-qezel-647
+sourceId: ganjoor-17601
+titleAz: Qəzəl 647
+titleRu: Газель 647
+titleFa: غزل شمارهٔ ۶۴۷
+titleEn: Ghazal 647
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 648
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh647'
+status: DRAFT
+---
+دوست با کاروان کن فیکون
+آمد از شهر لامکان بیرون
+
+عور گشت از لباس بی‌چونی
+باز پوشید کسوت چه و چون
+
+گه بر آمد به صورت لیلی
+گه در آمد به دیدهٔ مجنون
+
+گاه مشهور شد به آیت نور
+گاه مذکور شد به سورهٔ نون
+
+چون به آب و زمین او بر رست
+ریشه و بیخهای گوناگون
+
+پیش کافور و زنجبیل نهاد
+عسل و تین و روغن و زیتون
+
+می‌سرشت این چهار جنس بهم
+مدتی چون تمام شد معجون
+
+دردها را درو نهاد دوا
+زهرها را ازو نبشت افسون
+
+اوحدی شربتی از آن بچشید
+گشت دیوانه والجنون فنون

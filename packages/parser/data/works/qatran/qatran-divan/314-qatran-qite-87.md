@@ -1,0 +1,42 @@
+---
+slug: qatran-qite-87
+sourceId: ganjoor-115524
+titleAz: Qitə 87
+titleRu: Кыта 87
+titleFa: شمارهٔ ۸۷
+titleEn: Qit'a 87
+authorSlug: qatran
+collectionSlug: qatran-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 314
+sourceNote: 'https://ganjoor.net/ghatran/divan/ghete/sh87'
+status: DRAFT
+---
+زان زرد شد از داغ و درد رویم
+زیرا که بوصل تو نیست رویم
+
+من راه نیابم سوی تو دانی
+هرچند بسوی تو راه جویم
+
+زان پس که همه روز با تو بودم
+پوشیده نبود از تو روی و مویم
+
+چو نان نگسستی ز من که روزی
+آرد بر تو باد تند بویم
+
+تا روی بشوراب چشم شوئی
+من روی به آب دیده شویم
+
+چون بر گذری نام تو بگویم
+از دور کند بر خروش رویم
+
+در دیده شود سرشگ رویم
+چون دور کند پیک تو بگویم
+
+با کس نتوانم حدیث گفتن
+گه گاه بخلوت غم مویم
+
+رازم بجهان کس نگه ندارد
+من راز تو جز با تو با که گویم

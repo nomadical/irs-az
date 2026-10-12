@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-425
+sourceId: ganjoor-17379
+titleAz: Qəzəl 425
+titleRu: Газель 425
+titleFa: غزل شمارهٔ ۴۲۵
+titleEn: Ghazal 425
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 426
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh425'
+status: DRAFT
+---
+نسپردم از خرابی دل خود به چشم مستش
+ور زانکه می‌سپردم در حال می‌شکستش
+
+نقاش دوربین را از دست بر نیاید
+نقش دگر نهادن پیش نگار دستش
+
+کی در کنارم آید؟ چو زان میان لاغر
+در چشم من نیاید غیر از کمر، که بستش
+
+هر کس که دید روزی از دور صورت او
+نزدیک دوربینان دورست باز رستش
+
+در سالها نیاید روزی به پرسش ما
+ور ساعتی بیاید یک دم بود نشستش
+
+جز روی او نباشد قندیل شب نشینان
+جز کوی او نباشد محراب بت پرستش
+
+نی، پای بر نیاورد از دامش اوحدی، کو
+سر نیز بر نیاورد از نیستی که هستش

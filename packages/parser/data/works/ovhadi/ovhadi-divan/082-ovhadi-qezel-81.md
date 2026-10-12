@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-81
+sourceId: ganjoor-17035
+titleAz: Qəzəl 81
+titleRu: Газель 81
+titleFa: غزل شمارهٔ ۸۱
+titleEn: Ghazal 81
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 82
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh81'
+status: DRAFT
+---
+پیراهن ار ز یاسمن و گل کند رواست
+آن سرو لاله چهره، که در غنچهٔ قباست
+
+خلقی، چو طرف، بر کمرش بسته‌اند دل
+وین دولت از میانه ببینیم تا کراست؟
+
+کرد از هوای خویش دلم گرم ذره‌وار
+آن آفتاب روی، که بر بام این سراست
+
+بر خاک پای او چه غم؟ ار صد هزار پی
+آب رخم بریخت، که خون منش بهاست
+
+چشمش چه ساحریست؟ که شرطی ز دشمنی
+با من رها نکرد و همان دوستی بجاست
+
+با من، دلا، گر سخن آن دهان مگوی
+من بر شنیده‌ام سخن او، دهان کجاست؟
+
+در جان اوحدی اگر او ناوکی نخست
+چندین فغان و ناله و فریادش از چه خاست؟

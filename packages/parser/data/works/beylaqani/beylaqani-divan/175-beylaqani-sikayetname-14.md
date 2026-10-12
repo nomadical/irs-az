@@ -1,0 +1,36 @@
+---
+slug: beylaqani-sikayetname-14
+sourceId: ganjoor-114792
+titleAz: Şikayətnamə 14
+titleRu: Жалоба 14
+titleFa: شمارهٔ ۱۴
+titleEn: Complaint 14
+authorSlug: beylaqani
+collectionSlug: beylaqani-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 175
+sourceNote: 'https://ganjoor.net/beylaghani/divan/shakva/sh14'
+status: DRAFT
+---
+هیچ کس را از زمانه حاصلی در دست نیست
+هیچ کس را در جهان آسایشی پیوست نیست
+
+نیست هشیاری که اندر بزم گیتی هر زمان
+از شراب نکبت و جام حوادث مست نیست
+
+همچو ماهی گر شود در قعر دریا آدمی
+حاصلش الا تحیر در دهان شست نیست
+
+هیچ دلی دانی به عالم کز فراق همدمی
+زیر پای صد هزار اندیشه و غم پست نیست
+
+گر کسی گوید ز بی حسی که در ملک جهان
+بتر از اندوه فرقت هیچ دردی هست نیست؟
+
+رفته اند آنها کز ایشان راحتی در دست بود
+وز غم ایشان کنون جز حسرتی در دست نیست
+
+صد ره اندر شست فرقت مانده ایم از روزگار
+خود ز عالم عمر ما جز نیمه‌ای از شست نیست

@@ -1,0 +1,36 @@
+---
+slug: beylaqani-qezel-28
+sourceId: ganjoor-114728
+titleAz: Qəzəl 28
+titleRu: Газель 28
+titleFa: شمارهٔ ۲۸
+titleEn: Ghazal 28
+authorSlug: beylaqani
+collectionSlug: beylaqani-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 112
+sourceNote: 'https://ganjoor.net/beylaghani/divan/ghazal/sh28'
+status: DRAFT
+---
+دل سوختست چون به وصالت نمی رسد
+جان خسته تا به صورت حالت نمی رسد
+
+از حد گذشت کار جمال تو پس رواست
+گر عقل ما به کنه کمالت نمی رسد
+
+مه را چه سود گرد فلک تاختن که او؟
+با حسن خود به گرد جمالت نمی رسد
+
+گفتی که دل به وصل بده راضیم بدین
+لیکن دل از غمت به وصالت نمی رسد
+
+مردیم از آرزوی خیال تو پس به ما
+وصلت کجا رسد چو خیالت نمی رسد؟
+
+گر در خطست دل ز غمت حق به دست اوست
+کز خط غم به نقطه خالت نمی رسد
+
+با تو مجیر پر نتواند فشاند از آنک
+سیمرغ عقل در پر و بالت نمی رسد

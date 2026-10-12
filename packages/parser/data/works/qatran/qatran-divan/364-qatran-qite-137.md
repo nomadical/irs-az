@@ -1,0 +1,30 @@
+---
+slug: qatran-qite-137
+sourceId: ganjoor-115574
+titleAz: Qitə 137
+titleRu: Кыта 137
+titleFa: شمارهٔ ۱۳۷
+titleEn: Qit'a 137
+authorSlug: qatran
+collectionSlug: qatran-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 364
+sourceNote: 'https://ganjoor.net/ghatran/divan/ghete/sh137'
+status: DRAFT
+---
+خدایگانا کار جهان شناخته‌ای
+به تیغ سر ز همه مهتران فراخته‌ای
+
+بسا ملک پسرا کو فتاده بوده ز ملک
+تو بر سریر بملک اندرش شناخته‌ای
+
+موافقان را از ناز دل فروخته‌ای
+مخالفان را از رنج تن گداخته‌ای
+
+ترا خدای بهر نیکویی نواخته است
+چو خلق را به همه نیکویی نواخته‌ای
+
+ز روزگار همه کار خویش یافته‌ای
+به تیغ کین به همه دشمنانت تاخته‌ای

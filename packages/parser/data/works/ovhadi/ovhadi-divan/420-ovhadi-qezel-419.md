@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-419
+sourceId: ganjoor-17373
+titleAz: Qəzəl 419
+titleRu: Газель 419
+titleFa: غزل شمارهٔ ۴۱۹
+titleEn: Ghazal 419
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 420
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh419'
+status: DRAFT
+---
+بیا، که صفهٔ ما بوریای میکده بس
+به خورخانه نسیم هوای میکده بس
+
+ز میر و خواجه ملولیم، بعد ازین همه عمر
+حضور و صحبت رند و گدای میکده بس
+
+به منعمان بهل آواز چنگ رندان را
+ترانهٔ سبک از جار تای میکده بس
+
+ز قلیه‌های بزرگان سر که پیشانی
+مرا سه جرعهٔ بر ناشتای میکده بس
+
+گرم به صفهٔ صدر ملک نباشد بار
+نشستنم به میان سرای میکده بس
+
+مرا به صومعه، گو: شیخ شهریار مده
+سر مرا به جهان خشت‌های میکده بس
+
+گر اوحدی دگری را دعا کند گو: کن
+مرا دعای مغان و ثنای میکده بس

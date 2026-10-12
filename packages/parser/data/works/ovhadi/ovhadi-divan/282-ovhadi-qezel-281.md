@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-281
+sourceId: ganjoor-17235
+titleAz: Qəzəl 281
+titleRu: Газель 281
+titleFa: غزل شمارهٔ ۲۸۱
+titleEn: Ghazal 281
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 282
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh281'
+status: DRAFT
+---
+هر که در حلقهٔ زلف تو گرفتار بماند
+همچو من سوخته و خسته دل و زار بماند
+
+دل من، کو گرو مهر ببرد از همه کس
+از دغا باختن چشم تو عیار بماند
+
+عمر من در سرکار تو رود، می‌دانم
+خود پدیدست که: از عمر چه مقدار بماند؟
+
+اگر از پای در آییم به سر باید رفت
+ننشینیم که دست طلب از کار بماند
+
+خرقه پوشیده که زنار بیندازد گبر
+من به می خرقه گرو کردم و زنار بماند
+
+هیچ شک نیست که: بسیار بماند سخنم
+سخن سوختگان بود که بسیار بماند
+
+اوحدی، خون دلت گر بخورد دوست مرنج
+تا نگویند که: از یار دل یار بماند

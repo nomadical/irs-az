@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-809
+sourceId: ganjoor-17763
+titleAz: Qəzəl 809
+titleRu: Газель 809
+titleFa: غزل شمارهٔ ۸۰۹
+titleEn: Ghazal 809
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 810
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh809'
+status: DRAFT
+---
+بکوش و روی مگردان ز جور و بارکشی
+مگر مراد دل خویش در کنار کشی
+
+چو اختیار دلت عشق روی دلداریست
+ضرورتست که جورش به اختیار کشی
+
+به یاد او قدح زهر ناب می‌باید
+که همچو شربت شیرین خوشگوار کشی
+
+به هر صفت که میسر شود بکن جهدی
+که خویش را به سر کوی آن نگار کشی
+
+ز جاه و دولت دنیا دگر چه میطلبی؟
+سعادت تو همین بس که جور یار کشی
+
+اگر به آخر عمر این مراد خواهی یافت
+روا بود که همه عمرش انتظار کشی
+
+چو اوحدی دلت ار با گلیست حیف مدار
+ز بهر خاطر گل گر جفای خار کشی

@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-591
+sourceId: ganjoor-17545
+titleAz: Qəzəl 591
+titleRu: Газель 591
+titleFa: غزل شمارهٔ ۵۹۱
+titleEn: Ghazal 591
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 592
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh591'
+status: DRAFT
+---
+کجاست منزل آن کوچ کرده؟ تا برویم
+چو بادش از پی و چون برقش از قفا برویم
+
+چو باز مرغ دل ما هوای او دارد
+ضرورتست که: چون مرغ در هوا برویم
+
+ز پی دویدن او جز به سر طریقی نیست
+از آنکه ترک ادب باشد، ار به پا برویم
+
+ز ما رقیب چو بیگانه بود روز رحیل
+رها نکرد که با یار آشنا برویم
+
+چنین که در پی او ما گریستیم، عجب!
+گر آب دیده گذر می‌دهد، که ما برویم
+
+به روز وصل چو امید بود می‌بودم
+بسوز هجر چو گشتیم مبتلا برویم
+
+بلاست دوری او، اوحدی، بکوش تو نیز
+مگر پگاه‌تر از پیش این بلا برویم

@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-11
+sourceId: ganjoor-16965
+titleAz: Qəzəl 11
+titleRu: Газель 11
+titleFa: غزل شمارهٔ ۱۱
+titleEn: Ghazal 11
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 12
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh11'
+status: DRAFT
+---
+بر قتل چون منی چه گماری رقیب را؟
+ای در جهان غریب، مسوز این غریب را
+
+دورم همی کنند ادیبان ز پیش تو
+ای حورزاده، عشق بیاموز ادیب را
+
+روی تو گر ز دور ببیند خطیب شهر
+دیگر حضور قلب نباشد خطیب را
+
+ترسا گر آن دو زلف چو زنار بنگرد
+در حال همچو عود بسوزد صلیب را
+
+ما دوست را به دنیی و عقبی نمی‌دهیم
+زنهار! کس چگونه فروشد حبیب را
+
+از من مدار چشم خموشی، که وقت گل
+مشکل کسی خموش کند عندلیب را
+
+همرنگ اوحدی شود اندر جهان به عشق
+هر کس که او نگه کند این رنگ و طیب را

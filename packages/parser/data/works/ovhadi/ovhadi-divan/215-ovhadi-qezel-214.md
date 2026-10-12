@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-214
+sourceId: ganjoor-17168
+titleAz: Qəzəl 214
+titleRu: Газель 214
+titleFa: غزل شمارهٔ ۲۱۴
+titleEn: Ghazal 214
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 215
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh214'
+status: DRAFT
+---
+چو میل او کنم، از من به عشوه بگریزد
+دگر چو روی به پیچم به من در آویزد
+
+اگر برابرش آیم به خشم برگردد
+وگر برش بنشینم به طیره برخیزد
+
+به رغم من برود هر زمان، که در نظرم
+کسی بجوید و با مهر او در آمیزد
+
+شبی که بر سر کویش گذر کنم چون باد
+رقیب او ز جفا خاک بر سرم بیزد
+
+و گر به چشم نیازش نگه کنم روزی
+به خشم درشود و فتنه‌ای برانگیزد
+
+در آتشم من و جز دیده کس نمی‌بینم
+که بی‌مضایقه آبی بر آتشم ریزد
+
+نه کار ماست چنین دوستی، ولی چه کنم؟
+که اوحدی ز چنین کارها نپرهیزد

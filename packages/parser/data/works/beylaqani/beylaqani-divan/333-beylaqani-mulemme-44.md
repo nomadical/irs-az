@@ -1,0 +1,33 @@
+---
+slug: beylaqani-mulemme-44
+sourceId: ganjoor-114950
+titleAz: Müləmmə 44
+titleRu: Мулямма 44
+titleFa: شمارهٔ ۴۴
+titleEn: Mulamma' 44
+authorSlug: beylaqani
+collectionSlug: beylaqani-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 333
+sourceNote: 'https://ganjoor.net/beylaghani/divan/molamma/sh44'
+status: DRAFT
+---
+الدیک فی صیاح واللیل فی انهزام
+والنور قد تبدی من لجة الظلام
+
+ای همچو دیده در خوروی همچو جان گرامی
+چون از غم تو شادم می ده به شادکامی
+
+اسمع فداک روحی فالدیک قال حقا
+یا معشر السکاری هبوا من المنام
+
+صبح است و باده حاضر می ده که کم در افتد
+وقتی بدین لطیفی کاری بدین تمامی
+
+یا صاحب الاغانی اضرب علی المثانی
+شعری کزهر روض فی سیدالکرام
+
+یاد مظفرالدین می خور که نوش بادت
+یعنی قزل که پیشش گردون کند غلامی

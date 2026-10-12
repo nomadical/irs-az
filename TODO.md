@@ -3,13 +3,13 @@
 ## Authors to add
 Public domain only (died 1955 or earlier, life + 70). Sources are unverified until the box is ticked.
 
-- [ ] Qətran Təbrizi — XI, FA — Ganjoor
-- [ ] Mücirəddin Beyləqani — XII, FA — Ganjoor
-- [ ] Fələki Şirvani — XII, FA — Ganjoor (to confirm)
-- [ ] Əvhədi Marağai — XIV, FA — Ganjoor
+- [x] Qətran Təbrizi — XI, FA — Ganjoor
+- [x] Mücirəddin Beyləqani — XII, FA — Ganjoor
+- [x] Fələki Şirvani — XII, FA — Ganjoor
+- [x] Əvhədi Marağalı — XIV, FA — Ganjoor
 - [ ] Qazi Bürhanəddin — XIV, AZ — wikisource / OCR
 - [ ] Həbibi — XVI, AZ — wikisource
-- [ ] Saib Təbrizi — XVII, FA + AZ — Ganjoor (very large)
+- [ ] Saib Təbrizi — XVII, FA + AZ — Ganjoor has 9,877 poems (more than the whole site today); deferred
 - [ ] Molla Vəli Vidadi — XVIII, AZ — wikisource
 - [ ] Qasım bəy Zakir — XIX, AZ — wikisource
 - [ ] Seyid Əzim Şirvani — XIX, AZ + FA — wikisource

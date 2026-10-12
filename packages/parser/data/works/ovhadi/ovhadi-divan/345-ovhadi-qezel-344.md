@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-344
+sourceId: ganjoor-17298
+titleAz: Qəzəl 344
+titleRu: Газель 344
+titleFa: غزل شمارهٔ ۳۴۴
+titleEn: Ghazal 344
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 345
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh344'
+status: DRAFT
+---
+روزی کنی به سنگ فراقم جدا ز خود
+روزی چنان شوی که ندانم ترا ز خود
+
+من آشنای روی تو بودم، مرا ز چه
+بیگانه می‌کنی دگر، ای آشنا، ز خود؟
+
+هر گه که پر شود ز خیالت ضمیر من
+پر بینم این محله و شهر و سرا ز خود
+
+وقتی به حال خود نظرم بود و این زمان
+گشتم چنان، که یاد نیاید مرا ز خود
+
+چون عاشق توام، چه برم نام خویشتن؟
+چون درد من ز تست، چه جویم دوا ز خود؟
+
+ای اوحدی، اگر نه جدایی ز سر کار
+او را بکوش تا نشناسی جدا ز خود
+
+غیر از تو هیچ کس نشناسم بلای تو
+سعیی بکن، که دور کنی این بلا ز خود

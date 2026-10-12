@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-557
+sourceId: ganjoor-17511
+titleAz: Qəzəl 557
+titleRu: Газель 557
+titleFa: غزل شمارهٔ ۵۵۷
+titleEn: Ghazal 557
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 558
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh557'
+status: DRAFT
+---
+به آن سرم که: سر خود ز می چو مست کنم
+گذر به کوچهٔ آن ترک می‌پرست کنم
+
+به خیره سوختنم دست یافت دوست، مگر
+به چاره ساختن آن دوست را به دست کنم
+
+به گردن دلم از نو درافگند بندی
+از آن کمند چو آهنگ بازرست کنم
+
+دلم به دام بالها در اوفتد چون صید
+چو یاد صید که از دام من بجست کنم
+
+هوای قد بلندش مرا چو پست کند
+نوای گفتهٔ خود را بلند و پست کنم
+
+دلم به تیر غمش خسته گشت و می‌خواهم
+که جان خود هدف آن کمان و شست کنم
+
+گرم طلب کنی، ای اوحدی، ازان درجوی
+که من به خاک سر کوی او نشست کنم

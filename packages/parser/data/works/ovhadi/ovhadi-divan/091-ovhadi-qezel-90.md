@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-90
+sourceId: ganjoor-17044
+titleAz: Qəzəl 90
+titleRu: Газель 90
+titleFa: غزل شمارهٔ ۹۰
+titleEn: Ghazal 90
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 91
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh90'
+status: DRAFT
+---
+تا زنده‌ایم، یاد لبش بر زبان ماست
+ذکرش دوای درد دل ناتوان ماست
+
+گر فتنه می‌شویم بر آن روی، طرفه نیست
+زیرا که یار فتنهٔ آخر زمان ماست
+
+گیرم که مهر او ز دل خود برون برم
+این درد را چه چاره؟ که در مغز جان ماست
+
+از ما مپرس: کاتش دل تا چه غایتست؟
+از آب دیده پرس، که او ترجمان ماست
+
+انصاف، حیف نیست که باری نمی‌دهد؟
+شاخی چنین شگرف، که در بوستان ماست
+
+مشکل رها کند که : بگوییم حال خویش
+بندی، که از محبت او بر زبان ماست
+
+ای اوحدی، ز غیر شکایت چه می‌کنی؟
+ما را شکایت از بت نامهربان ماست

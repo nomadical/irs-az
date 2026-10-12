@@ -1,0 +1,33 @@
+---
+slug: qatran-qite-69
+sourceId: ganjoor-115506
+titleAz: Qitə 69
+titleRu: Кыта 69
+titleFa: شمارهٔ ۶۹
+titleEn: Qit'a 69
+authorSlug: qatran
+collectionSlug: qatran-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 296
+sourceNote: 'https://ganjoor.net/ghatran/divan/ghete/sh69'
+status: DRAFT
+---
+ایا ز عز و شرف تاج برنهاده بسر
+زمانه بر ده همه عمر دشمنانت بسر
+
+اگر بجای پسر دختر آیدت چه زیان
+که دختر چو تو باشد به از هزار پسر
+
+اگر شهی را باشد دو صد پسر همه شیر
+یکی بود که سزد افسر پدرش بسر
+
+نه دختری ببر تخت ملک چهر آراست
+که بر بساطش بوسید گوهر اسکندر
+
+تو روزگار بدیدی بمان و خندان باش
+که روزگار نشاندت دو تا جور در بر
+
+همیشه تا مه و خور بر فلک دهند فروغ
+ز رامش و طرب و عیش در جهان برخور

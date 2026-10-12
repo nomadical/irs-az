@@ -1,0 +1,36 @@
+---
+slug: qatran-qite-130
+sourceId: ganjoor-115567
+titleAz: Qitə 130
+titleRu: Кыта 130
+titleFa: شمارهٔ ۱۳۰
+titleEn: Qit'a 130
+authorSlug: qatran
+collectionSlug: qatran-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 357
+sourceNote: 'https://ganjoor.net/ghatran/divan/ghete/sh130'
+status: DRAFT
+---
+ای همه از رادی و از راستی
+جان و دل از راستی آراستی
+
+شمع سخاوت را افروختی
+سرو سیادت را پیراستی
+
+بی تو خدا دانی ناقص بود
+راست چو پیراهن بی آستی
+
+تا بنشانده است بخیری پدرت
+غم ز دل مردم بنشاستی
+
+در دل یاران و دل دشمنان
+درد بیفزودی و غم کاستی
+
+طبع تو از راستی آمد پدید
+دوست ندارد کجی از راستی
+
+از امرا جمله ترا خواستم
+کز شعرا جمله مرا خواستی

@@ -1,0 +1,36 @@
+---
+slug: qatran-qite-124
+sourceId: ganjoor-115561
+titleAz: Qitə 124
+titleRu: Кыта 124
+titleFa: شمارهٔ ۱۲۴
+titleEn: Qit'a 124
+authorSlug: qatran
+collectionSlug: qatran-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 351
+sourceNote: 'https://ganjoor.net/ghatran/divan/ghete/sh124'
+status: DRAFT
+---
+شادی ز دلم دور شد و خواب ز دیده
+تا من نیم آن روی دلارام تو دیده
+
+گر تو به تن و جان و دل و دیده نیائی
+سوی تو فرستم دل و جان و تن و دیده
+
+از من به جز آواز و حدیث ایچ نمانده است
+تا من نیم آواز و حدیث تو شنیده
+
+تا بی سببی خویشتن از من بکشیدی
+گشتم ز غم حجر تو چون زر کشیده
+
+تا هست میان من و تو پرده جدائی
+من برده دلم روز و شب و پرده دریده
+
+تا تو بگسستی شدم از خواب گسسته
+تا تو ببریدی شدم از خود ببریده
+
+گوئی نبدم رنج فراق تو فرخته
+گوئی نبدم ناز وصال تو خریده

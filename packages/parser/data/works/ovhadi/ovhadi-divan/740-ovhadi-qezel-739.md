@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-739
+sourceId: ganjoor-17693
+titleAz: Qəzəl 739
+titleRu: Газель 739
+titleFa: غزل شمارهٔ ۷۳۹
+titleEn: Ghazal 739
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 740
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh739'
+status: DRAFT
+---
+یارب! تو دوش با که به شادی نشسته‌ای؟
+کامروز بی‌غم از در ما باز جسته‌ای
+
+از روی عشوه بند قبا را گشاده باز
+وز راه شیوه طرف کله بر شکسته‌ای
+
+سیم از میان ببرده و در کیسه ریخته
+زر در کمر کشیده و بر کوه بسته‌ای
+
+امروز گو: شکفته مشو هیچ گل، که تو
+صد گلبن شکفته و صد لاله دسته‌ای
+
+گل نقل نیست باده بنه، کز دهان و لب
+یک خانه شهد و شکر و عناب و پسته‌ای
+
+برخیز و شمع را بنشان، یا بهل چنان
+تا شمع بیندت که چنین خوش نشسته‌ای
+
+گر دیگری ز حسرت او غصه میخورد
+ای اوحدی، تو باری ازین غصه راسته‌ای

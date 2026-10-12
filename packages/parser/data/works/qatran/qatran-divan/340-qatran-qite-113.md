@@ -1,0 +1,36 @@
+---
+slug: qatran-qite-113
+sourceId: ganjoor-115550
+titleAz: Qitə 113
+titleRu: Кыта 113
+titleFa: شمارهٔ ۱۱۳
+titleEn: Qit'a 113
+authorSlug: qatran
+collectionSlug: qatran-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 340
+sourceNote: 'https://ganjoor.net/ghatran/divan/ghete/sh113'
+status: DRAFT
+---
+ای خسرو جوان و جوانبخت گاه نو
+در خور چو اول شب شوال ماه نو
+
+فرخنده باد بر تو و بر دوستان نو
+این مجلس پرآئین وین بزمگاه نو
+
+هستی تو یادگار فریدون و همچو او
+آئین نو نمائی هر روز و راه نو
+
+هر ساعتیت باد یکی شهر و گنج نو
+هر ساعتیت باد یکی تاج و گاه نو
+
+کینت مخالفان ترا کرد بند نو
+مهرت موافقان ترا کرد جاه نو
+
+هر روز دشمنان ترا داد رنج نو
+هر ماه دوستان ترا داد ماه نو
+
+هر ماه نو بدست تو بادایسر جهان
+هم بسته هم گشاده نگین و کلاه نو

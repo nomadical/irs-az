@@ -1,0 +1,36 @@
+---
+slug: beylaqani-qezel-2
+sourceId: ganjoor-114702
+titleAz: Qəzəl 2
+titleRu: Газель 2
+titleFa: شمارهٔ ۲
+titleEn: Ghazal 2
+authorSlug: beylaqani
+collectionSlug: beylaqani-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 86
+sourceNote: 'https://ganjoor.net/beylaghani/divan/ghazal/sh2'
+status: DRAFT
+---
+بیا بنشین که دلها بی تو برخاست
+دمی با ما دل سنگین بکن راست
+
+من اندیشم که جان بر تو فشانم
+مشو از جای، کین اندیشه برجاست
+
+ز تو جورست با ما و غمی نیست
+اگر خواهی غرامت نیز بر ماست
+
+دمم دادی و من چون شهد خوردم
+ندانم کان چه شوخی وین چه سوداست؟
+
+ز من جان خواستی جان را چه قدرست؟
+تو بنشین کز سر جان بر توان خاست
+
+بیفکن سایه بر کارم که بی تو
+چو سایه کار من افتاده در پاست
+
+مجیر از عمر، حاصل خواست وصلت
+بنامیزد چنان آمد که او خواست

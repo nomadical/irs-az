@@ -1,0 +1,45 @@
+---
+slug: beylaqani-sikayetname-20
+sourceId: ganjoor-114798
+titleAz: Şikayətnamə 20
+titleRu: Жалоба 20
+titleFa: شمارهٔ ۲۰
+titleEn: Complaint 20
+authorSlug: beylaqani
+collectionSlug: beylaqani-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 181
+sourceNote: 'https://ganjoor.net/beylaghani/divan/shakva/sh20'
+status: DRAFT
+---
+هر کو ز نژاد آدم افتاد
+شادی به نصیب او کم افتاد
+
+بنمای دلی که او درین دور
+از صدمه غم مسلم افتاد
+
+زخمی که زمانه بر دلم زد
+افزون ز هزار مرهم افتاد
+
+چون خوش بود ای عجب دل آنک؟
+در یک سالش دو ماتم افتاد
+
+قصه چکنم که ساغر غم؟
+بر دست دلم دمادم افتاد
+
+جان در عجب است و عقل عاجز
+کین واقعه ها چه محکم افتاد
+
+زان روز که رنج با دل ما
+از نکبت دهر همدم افتاد
+
+در دیده خوشدلی نمک ریخت
+در قامت خرمی خم افتاد
+
+نه لهو و نشاط با هم آمد
+نه یکشبه عیش درهم افتاد
+
+آری به مراد کم زند دم
+آن کس که ز نسل آدم افتاد

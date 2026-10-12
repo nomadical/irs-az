@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-266
+sourceId: ganjoor-17220
+titleAz: Qəzəl 266
+titleRu: Газель 266
+titleFa: غزل شمارهٔ ۲۶۶
+titleEn: Ghazal 266
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 267
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh266'
+status: DRAFT
+---
+نه آخر دل من خراب از تو شد؟
+نه آخر دو چشمم پرآب از تو شد؟
+
+نه آخر تن ناز پرورد من
+گرفتار چندین عذاب از تو شد؟
+
+مکن خواب و چشم مرا غم بخور
+کزین گونه بی‌خورد و خواب از تو شد
+
+ز لب آب وصلی بدین سینه ریز
+که برآتش غم کباب از تو شد
+
+چو چنگم به گفتار خوش می‌نواز
+که فریاد من چون رباب از تو شد
+
+به یاقوت خود حال اشکم بپرس
+که بر چهره چون لعل ناب از تو شد
+
+متاب از بر اوحدی روی خویش
+که بیچاره در تنگ و تاب از تو شد

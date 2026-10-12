@@ -1,0 +1,27 @@
+---
+slug: qatran-qite-20
+sourceId: ganjoor-115457
+titleAz: Qitə 20
+titleRu: Кыта 20
+titleFa: شمارهٔ ۲۰
+titleEn: Qit'a 20
+authorSlug: qatran
+collectionSlug: qatran-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 247
+sourceNote: 'https://ganjoor.net/ghatran/divan/ghete/sh20'
+status: DRAFT
+---
+ای شهی کز مهر تو چون بهرمان گردد چمست
+جام می بستان که عید فرخ و جشن جمست
+
+چون جمت با دادیار و ملک نارفته ز چنگ
+رخ ز می بیجاده رنگ و دل ز ناز و نوش مست
+
+با رضای تو ولی را خار گردد چون حریر
+با خلاف تو عدو را شهد گردد چون کبست
+
+گر بدریا در نهان گردد چو ماهی خصم تو
+زو برون آری بزو بینش چو ماهی را بشست

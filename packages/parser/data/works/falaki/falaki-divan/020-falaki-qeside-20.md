@@ -1,0 +1,45 @@
+---
+slug: falaki-qeside-20
+sourceId: ganjoor-115148
+titleAz: Qəsidə 20
+titleRu: Касыда 20
+titleFa: شمارهٔ ۲۰ - قصیده
+titleEn: Qasida 20
+authorSlug: falaki
+collectionSlug: falaki-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 20
+sourceNote: 'https://ganjoor.net/falaki/divan/ghaside/sh20'
+status: DRAFT
+---
+ای لطف تو یار با برحم
+در وصف تو هر گروه پی گم
+
+از هیبت تو فلک سبک پای
+وز قوت تو زمین گران سم
+
+آن را که به مهر گوئی اجلس
+ایام به کین نگویدش قم
+
+فرمان تو رات قضا پیاپی
+رایات تو را قدر دمادم
+
+در گرد و سم سمند تو شب
+چون مردمه نور چشم مردم
+
+آباد بدان سمند کز وی
+در خود کشد اژدها دم و دم
+
+در زیر سمش زمن گه سیر
+گوئی که در آسیاست گندم
+
+یک ساعت سیر او به میدان
+صد ساله سیر چرخ و انجم
+
+زد چرخ به دور با تعجب
+زو باد به سیر با تبسم
+
+چون پای به پشت او درآری
+سر بر فلک آرد از تنعم

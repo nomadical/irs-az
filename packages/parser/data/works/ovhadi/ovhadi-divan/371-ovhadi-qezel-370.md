@@ -1,0 +1,42 @@
+---
+slug: ovhadi-qezel-370
+sourceId: ganjoor-17324
+titleAz: Qəzəl 370
+titleRu: Газель 370
+titleFa: غزل شمارهٔ ۳۷۰
+titleEn: Ghazal 370
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 371
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh370'
+status: DRAFT
+---
+دیریست که یار ما نمی‌آید
+پیغام به کار ما نمی‌آید
+
+هر کس به تفرجی و صحرایی
+خود بوی بهار ما نمی‌آید
+
+ما را به دیار او نباشد ره
+او خود به دیار ما نمی‌آید
+
+کمتر ز سگیم در شمار او
+زیرا به شمار ما نمی‌آید
+
+ای دل، بتو پیش ازین همی گفتم:
+کین عشق به کار ما نمی‌آید
+
+دولت همه جا برفت و باز آمد
+هرگز بگذار ما نمی‌آید
+
+یک دم نرود که یاد او صد پی
+اندر دل زار ما نمی‌آید
+
+آن دام که ما نهاده‌ایم، ای دل
+در چشم شکار ما نمی‌آید
+
+ای اوحدی، از خوشی کناری کن
+کان بت به کنار ما نمی‌آید

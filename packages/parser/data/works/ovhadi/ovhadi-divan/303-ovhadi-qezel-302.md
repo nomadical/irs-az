@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-302
+sourceId: ganjoor-17256
+titleAz: Qəzəl 302
+titleRu: Газель 302
+titleFa: غزل شمارهٔ ۳۰۲
+titleEn: Ghazal 302
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 303
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh302'
+status: DRAFT
+---
+مطرب، مهل که محنت و غم قصد جان کند
+راهی سبک بیار، که رطلم گران کند
+
+گیر و گرفت چیست؟ چو با عشق ساختیم
+بر ما گرفته گیر که وصلی زیان کند
+
+گر مهر و ماه را به در او برم شفیع
+بر من به جهد اگر دل او مهربان کند
+
+جز دیده و دلم نپسندد نشانه‌ای
+تیری که چشم و ابرویش اندر کمان کند
+
+دیدیم سروها که نشانند در چمن
+لیکن کسی ندید که سروی روان کند
+
+صورت کشند و نقش بر ایوان، نه این چنین
+کش نوش در لب و گهر اندر دهان کند
+
+شاید که اوحدی: بنویسد حدیث خویش
+با دوستان حکایت ازین داستان کند

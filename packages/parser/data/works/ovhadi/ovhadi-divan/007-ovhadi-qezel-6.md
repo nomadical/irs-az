@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-6
+sourceId: ganjoor-16960
+titleAz: Qəzəl 6
+titleRu: Газель 6
+titleFa: غزل شمارهٔ ۶
+titleEn: Ghazal 6
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 7
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh6'
+status: DRAFT
+---
+پیر ریاضت ما عشق تو بود، یارا
+گر تو شکیب داری، طاقت نماند ما را
+
+پنهان اگر چه داری چون من هزار مونس
+من جز تو کس ندارم پنهان و آشکارا
+
+روزی حکایت ما ناگه به گفتن آید
+پوشیده چند داریم این درد بی‌دوا را؟
+
+تا کی خَلی درین دل پیوسته خارِ هجران؟
+مُردم ز جورت آخر، مَردم نه سنگ خارا
+
+آخر مرا ببینی در پای خویش مرده
+کاوّل ندیده بودم پایان این بلا را
+
+باد صبا ندارد پیش تو راه، ورنه
+با ناله‌های خونین بفرستمی صبا را
+
+چون اوحدی بنالد، گویی که صبر می‌کن
+مشتاقی و صبوری از حد گذشت یارا

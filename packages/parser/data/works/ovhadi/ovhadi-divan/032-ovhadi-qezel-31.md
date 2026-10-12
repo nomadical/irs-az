@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-31
+sourceId: ganjoor-16985
+titleAz: Qəzəl 31
+titleRu: Газель 31
+titleFa: غزل شمارهٔ ۳۱
+titleEn: Ghazal 31
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 32
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh31'
+status: DRAFT
+---
+چون کژ کنی به شیوه به سر بر کلاه را
+زلف و رخ تو طیره کند مشک و ماه را
+
+یزدان هزار عذر بخواهد ز روی تو
+فردا که هیچ عذر نباشد گناه را
+
+نشگفت پای ما که بر آید به سنگ غم
+زیرت که احتیاط نکردیم راه را
+
+دارم گواه آنکه تو کشتی مرا، ولیک
+ترسم که: نرگست بفریبد گواه را
+
+روزی چنان بگریم ازین غم، که اشک من
+ز آن خاک آستان بدماند گیاه را
+
+گر بشنود جفا که تو در شهر می‌کنی
+خسرو بی‌اغیان نفرستد سپاه را
+
+شد سالها که بندهٔ تست اوحدی، دریغ
+کز حال بندگان خبری نیست شاه را

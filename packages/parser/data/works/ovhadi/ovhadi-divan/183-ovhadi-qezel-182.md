@@ -1,0 +1,33 @@
+---
+slug: ovhadi-qezel-182
+sourceId: ganjoor-17136
+titleAz: Qəzəl 182
+titleRu: Газель 182
+titleFa: غزل شمارهٔ ۱۸۲
+titleEn: Ghazal 182
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 183
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh182'
+status: DRAFT
+---
+بمیرم چشم مستت را که جانم زنده می‌دارد
+دلم را با خیال خود به جان با زنده می‌دارد
+
+به نقد اندر بهشتست آنکه در خلوت سرای خود
+چنان شاخ گل و سرو سهی نازنده می‌دارد
+
+دعای عاشقان تست در شبهای تنهایی
+که روز دولت حسن ترا پاینده می‌دارد
+
+ز چشمت مردمی دیدیم و از روی تو نیکویی
+ولی زلف سیه کار تو ما را زنده می‌دارد
+
+مباد، ای اوحدی، هرگز ترا با خسروان کاری
+غلام لعل شیرین شو، که نیکو بنده می‌دارد
+
+مرا بس باشد این دولت که آن مهروی هر صبحی
+دلم را همچو روی خویشتن فرخنده می‌دارد

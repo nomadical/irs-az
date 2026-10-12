@@ -1,0 +1,30 @@
+---
+slug: qatran-qite-45
+sourceId: ganjoor-115482
+titleAz: Qitə 45
+titleRu: Кыта 45
+titleFa: شمارهٔ ۴۵
+titleEn: Qit'a 45
+authorSlug: qatran
+collectionSlug: qatran-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 272
+sourceNote: 'https://ganjoor.net/ghatran/divan/ghete/sh45'
+status: DRAFT
+---
+جایگاه شاه یا برگاه یا بر تخت باد
+وز بداندیشان او روی زمین پردخت باد
+
+روز کوشیدن زمینش زیر گرد خیل باد
+روز آسودن زمانش زیر بار رخت باد
+
+بر هواخواهان او آهن چو وشی نرم باد
+بر بداندیشان او وشی چون آهن سخت باد
+
+از پس و پیشش همیشه گاه باد و ماه باد
+زیر و بالایش همیشه تاج باد و تخت باد
+
+یارمند و دستگیر خسروان عالمست
+یارمندش چرخ با دو دستگیرش بخت باد

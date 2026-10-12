@@ -1,0 +1,33 @@
+---
+slug: ovhadi-qezel-678
+sourceId: ganjoor-17632
+titleAz: Qəzəl 678
+titleRu: Газель 678
+titleFa: غزل شمارهٔ ۶۷۸
+titleEn: Ghazal 678
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 679
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh678'
+status: DRAFT
+---
+سوی من شادی نیاید،تا نیایم سوی تو
+روی شادی آن زمان بینم که بینم روی تو
+
+من دلی دارم که در وی روی شادی هیچ نیست
+غیر از آن ساعت که آرد باد صبحم بوی تو
+
+هر کسی از غم پناه خود به جایی می‌برد
+من چو غم بینم روم شادی‌کنان در کوی تو
+
+چشم ترکت را غلامان گر چه بسیارند، لیک
+زین غلامان مقبل آن خالست و مخلص موی تو
+
+من به غم خوردن نهادم گردن بیچارگی
+زانکه کس شادی نبیند در جهان از خوی تو
+
+اوحدی، تن در شب غم ده، کزین شیرین‌لبان
+روز شادی کس نخواهد کرد جست و جوی تو

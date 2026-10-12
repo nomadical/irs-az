@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-399
+sourceId: ganjoor-17353
+titleAz: Qəzəl 399
+titleRu: Газель 399
+titleFa: غزل شمارهٔ ۳۹۹
+titleEn: Ghazal 399
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 400
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh399'
+status: DRAFT
+---
+همه عالم پرست ازین منظور
+همه آفاق را گرفت این نور
+
+حاصل شهر عاشقان سریست
+گرد بر گرد آن هزاران سور
+
+گر چه پر آفتاب گشت این شهر
+زان میان نیست جز یکی مشهور
+
+گنج در پیش چشم و ما مفلس
+دوست بر دستگاه و ما مهجور
+
+اصل این کل و جز و یک کلمه است
+خواه تورات خوان و خواه زبور
+
+هر کس از جانبیش می‌جویند
+مصطفی از حری، کلیم از طور
+
+اوحدی، رخ درو کن و بگذار
+آرزوی بهشت و حور و قصور

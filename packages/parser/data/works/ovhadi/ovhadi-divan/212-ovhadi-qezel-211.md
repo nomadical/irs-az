@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-211
+sourceId: ganjoor-17165
+titleAz: Qəzəl 211
+titleRu: Газель 211
+titleFa: غزل شمارهٔ ۲۱۱
+titleEn: Ghazal 211
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 212
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh211'
+status: DRAFT
+---
+چون گره بر سر آن زلف دو تاه اندازد
+مشک را خوارتر از خاک به راه اندازد
+
+اگر آن چاه زنخدان به سر کوچه برد
+ای بسا دل! که در آن کوچه به جاه اندازد
+
+نظر زهره کند، خنجر مریخ زند
+نور خورشید دهد، پرتو ماه اندازد
+
+چشم آن ترک سپاهی به هزیمت ببرد
+ناوک غمزه چو در قلب سپاه اندازد
+
+گر گواهیش بیارم که: مرا زلف تو کشت
+حسن او لرزه بر اندام گواه اندازد
+
+تیر هجرم به جگر در زد و اندیشه نکرد
+که دلم در پی او ناوک آه اندازد
+
+اوحدی، دیده مدوز از رخ او، عیبی نیست
+گر گدایی نظری بر رخ شاه اندازد

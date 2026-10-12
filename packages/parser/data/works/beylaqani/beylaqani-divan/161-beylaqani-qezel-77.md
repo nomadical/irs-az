@@ -1,0 +1,36 @@
+---
+slug: beylaqani-qezel-77
+sourceId: ganjoor-114777
+titleAz: Qəzəl 77
+titleRu: Газель 77
+titleFa: شمارهٔ ۷۷
+titleEn: Ghazal 77
+authorSlug: beylaqani
+collectionSlug: beylaqani-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 161
+sourceNote: 'https://ganjoor.net/beylaghani/divan/ghazal/sh77'
+status: DRAFT
+---
+انصاف داده‌ام که به خوبی یگانه‌ای
+واندر جهان به حیله و افسون فسانه‌ای
+
+پاکیزه‌تر ز غنچه گل بر بنفشه‌ای
+پوشیده‌تر ز دانه در در خزانه‌ای
+
+شاخی است دلبری که تو آن را شکوفه‌ای
+عقدی است دلبری که تو آن را میانه‌ای
+
+شادی به روی تو که ز تو شاد نیست کس
+صد جان فدای غم که تو غم را بهانه‌ای
+
+در خون من مشو که نه همدست عالمی
+بر جان من مزن نه تو یار زمانه‌ای
+
+روزی که آیم از پی دیدار بر درت
+با من برون پرده و بی‌من به خانه‌ای
+
+گفتی بدان مجیر که از دل ترا نیم
+عقلی و هوش نیست عجب گر مرا نه‌ای!

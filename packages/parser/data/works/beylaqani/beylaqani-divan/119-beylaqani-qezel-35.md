@@ -1,0 +1,36 @@
+---
+slug: beylaqani-qezel-35
+sourceId: ganjoor-114735
+titleAz: Qəzəl 35
+titleRu: Газель 35
+titleFa: شمارهٔ ۳۵
+titleEn: Ghazal 35
+authorSlug: beylaqani
+collectionSlug: beylaqani-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 119
+sourceNote: 'https://ganjoor.net/beylaghani/divan/ghazal/sh35'
+status: DRAFT
+---
+جانا خبر وصل تو زی ما که رساند؟
+یا قصه ما سوی تو تنها که رساند؟
+
+توتوست چو دفتر غم ما از هوس آنک
+زینجا به تو طومار غم ما که رساند؟
+
+اینجا که منم طمع وصال تو محال است
+وآنجا که تویی حال من آنجا که رساند؟
+
+دورست بخارا نرسد پیش تو اما
+سوزنده بخاری به بخارا که رساند؟
+
+جان رفت و زبان را سخن اینست که یارب
+زی ما دم جان‌بخش مسیحا که رساند؟
+
+هر مرغ که بد در ره عشق تو پر افگند
+اکنون به تو نامه که دهد یا که رساند؟
+
+امروز مجیر است ز غم با نفس سرد
+تا خود نفس سرد به فردا که رساند؟

@@ -1,0 +1,36 @@
+---
+slug: ovhadi-qezel-856
+sourceId: ganjoor-17810
+titleAz: Qəzəl 856
+titleRu: Газель 856
+titleFa: غزل شمارهٔ ۸۵۶
+titleEn: Ghazal 856
+authorSlug: ovhadi
+collectionSlug: ovhadi-divan
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 857
+sourceNote: 'https://ganjoor.net/ouhadi/divano/ghazalo/sh856'
+status: DRAFT
+---
+ز دست کس نکشیدم جفا و مسکینی
+مگر ز دست تو کافر، که دشمن دینی
+
+چو دیدهٔ همه کس دیدن تو میخواهد
+کسی چه عیب تو گوید؟ که: خویشتن بینی
+
+اگر پیاده روی، سرو گلشن جانی
+وگر سوار شوی، شمع خانهٔ زینی
+
+شب شراب که باشد رخ تو شاهد و شمعی
+بجز لب تو نیاید بکار شیرینی
+
+ندانمت که به دست که اوفتادی باز؟
+عجب که دست نبوسند کش تو شاهینی!
+
+به درد مند غم او رمن که میگوید؟
+مکن حکایت درمان چو درد او چنین
+
+میان به جستن یار، اوحدی،چنان دربند
+که تا به دست نیاید ز پای ننشینی
