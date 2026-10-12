@@ -1,38 +1,58 @@
 'use client';
 
-import { useState } from 'react';
+import { Suspense, useEffect, useState } from 'react';
 import { useTranslations } from 'next-intl';
-import { useParams } from 'next/navigation';
+import { useParams, useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { api } from '@/lib/api';
 
+// useSearchParams needs a Suspense boundary for the page to prerender
 export default function SearchPage() {
+  return (
+    <Suspense>
+      <Search />
+    </Suspense>
+  );
+}
+
+function Search() {
   const t = useTranslations();
+  const genres = useTranslations('contribute.options.genre');
   const { locale } = useParams<{ locale: string }>();
-  const [query, setQuery] = useState('');
+  const router = useRouter();
+  // The query lives in the URL (?q=), so a search can be shared and survives reloads
+  const q = useSearchParams().get('q')?.trim() ?? '';
+  const [query, setQuery] = useState(q);
   const [results, setResults] = useState<any>(null);
   const [loading, setLoading] = useState(false);
 
-  const handleSearch = async (e: React.FormEvent) => {
+  useEffect(() => {
+    setQuery(q);
+    if (!q) {
+      setResults(null);
+      return;
+    }
+    let current = true;
+    setLoading(true);
+    api
+      .search(new URLSearchParams({ q }))
+      .then((data) => current && setResults(data))
+      .catch(() => current && setResults(null))
+      .finally(() => current && setLoading(false));
+    return () => {
+      current = false;
+    };
+  }, [q]);
+
+  const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
     if (!query.trim()) return;
-
-    setLoading(true);
-    try {
-      const params = new URLSearchParams({ q: query });
-      const data = await api.search(params);
-      setResults(data);
-    } catch {
-      setResults(null);
-    } finally {
-      setLoading(false);
-    }
+    router.replace(`/${locale}/search?${new URLSearchParams({ q: query.trim() })}`, { scroll: false });
   };
 
   return (
     <div className="container page-content">
       <header className="page-header" style={{ paddingBottom: '1rem' }}>
-        <p className="section-label">{t('nav.search')}</p>
         <h1>{t('nav.search')}</h1>
       </header>
 
@@ -52,8 +72,8 @@ export default function SearchPage() {
           placeholder={t('search.placeholder')}
           className="search-input"
         />
-        <button type="submit" className="btn btn-primary">
-          ◆ {t('nav.search').toUpperCase()}
+        <button type="submit" className="search-btn">
+          {t('nav.search')}
         </button>
       </form>
 
@@ -86,7 +106,8 @@ export default function SearchPage() {
                   }}
                 />
                 <span className="work-row-meta">
-                  {hit.genre?.toLowerCase()} {hit.year && `· ${hit.year}`}
+                  {hit.genre && genres(hit.genre)}
+                  {hit.year && ` · ${hit.year}`}
                 </span>
               </div>
               <span

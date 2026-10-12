@@ -1264,6 +1264,12 @@ blockquote {
   text-transform: uppercase;
 }
 .search-btn:hover { background: var(--pomeg-dark); }
+/* The gazette's diamond, drawn here so the clean skin can drop it */
+.search-btn::before {
+  content:      '◆';
+  margin-right: 0.4em;
+  font-size:    0.8em;
+}
 
 .search-highlight,
 .work-row mark { background: var(--hl); color: var(--pomeg); }

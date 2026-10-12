@@ -26,6 +26,9 @@ export class SearchService implements OnModuleInit {
     try {
       const index = this.client.index('works');
       await index.updateSettings({
+        // Meilisearch stops counting at 1,000 by default, which undercounts any big author
+        // (Saib alone has 7,743 works); keep the count exact for the whole library
+        pagination: { maxTotalHits: 100000 },
         // *Plain fields hold the same text without Azerbaijani letters (see foldAz), so
         // "qezel" finds "qəzəl". They are stripped from search responses.
         searchableAttributes: [

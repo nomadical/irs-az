@@ -619,6 +619,7 @@
   background:     var(--pomeg-fill);
 }
 [data-skin='clean'] .search-btn:hover { background: #A30D25; }
+[data-skin='clean'] .search-btn::before { content: none; }
 [data-skin='clean'] .search-highlight,
 [data-skin='clean'] .work-row mark { border-radius: 3px; }
 
