@@ -20,6 +20,6 @@ Mətnlər müəllif hüquqları bitmiş nəşrlərdən və açıq kitabxanalarda
 
 ## Necə kömək etmək olar
 
-Mətn, tərcümə və ya müəllif haqqında məlumat göndərin: [Töhfə ver](/az/contribute). Redaktorlar hər təklifi yoxlayır.
+Mətn, tərcümə və ya müəllif haqqında məlumat göndərin: [Təklif et](/az/contribute). Redaktorlar hər təklifi yoxlayır.
 
 IRS.AZ qeyri-kommersiya layihəsidir.

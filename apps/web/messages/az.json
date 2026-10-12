@@ -32,7 +32,7 @@
     "works": "Əsərlər",
     "search": "Axtarış",
     "blog": "Bloq",
-    "contribute": "Töhfə ver",
+    "contribute": "Təklif et",
     "skip": "Mətnə keç",
     "menu_label": "Əsas bölmələr",
     "about": "Layihə haqqında",
@@ -128,7 +128,7 @@
     "toggle": "Mövzunu dəyiş"
   },
   "contribute": {
-    "title": "Töhfə ver",
+    "title": "Material təklif et",
     "intro": "IRS.AZ birlikdə yaradılır. Əlinizdə olan mətnləri, tərcümələri və müəlliflər haqqında məlumatları göndərin. Redaktorlar yoxlayıb sayta əlavə edəcəklər.",
     "tab_work": "Əsər",
     "tab_translation": "Tərcümə",
@@ -290,7 +290,7 @@
   },
   "contact": {
     "email_label": "E-poçt",
-    "email_soon": "E-poçt ünvanı tezliklə burada olacaq. Hələlik töhfə formundan istifadə edin."
+    "email_soon": "E-poçt ünvanı tezliklə burada olacaq. Hələlik təklif formundan istifadə edin."
   },
   "gallery": {
     "heading": "Əlyazmalar və miniatürlər",
