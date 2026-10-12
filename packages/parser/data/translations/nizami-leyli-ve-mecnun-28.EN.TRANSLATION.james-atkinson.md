@@ -32,7 +32,7 @@ For though he has survived the blow,
 He keenly feels his overthrow.
 
 His tale is told: some Diw or Ghoul
-Had palsied his intrepid sold,
+Had palsied his intrepid soul,
 
 And held his arm by magic foul,
 Or potion from the enchanter's bowl;
@@ -73,8 +73,8 @@ Given to be loved, but rival hearts to vex;
 For when the lamp of joy illumes her cheeks,
 The lover smiles, and yet his heart it breaks:
 
-The full-blown rose thus sheds its fragrance
-But there are thorns, not given to charm, but
+The full-blown rose thus sheds its fragrance round;
+But there are thorns, not given to charm, but wound.
 
 Among the rest that stripling came,
 Who had before avowed his flame;
@@ -103,7 +103,7 @@ Persuasion brings in favouring hour,
 To magnify his worth, and prove
 That he alone deserves her love. —
 
-' A youth of royal presence, Yemen's boast,
+'A youth of royal presence, Yemen's boast,
 Fierce as a lion, mighty as a host;
 
 Of boundless wealth, and valour's self, he wields
@@ -130,8 +130,8 @@ Flung his own offspring in the dragon's mouth.
 Forthwith the nuptial pomp, the nuptial rites,
 Engage the chieftain's household — every square
 
-Eincs with the rattling drums whose noise excites
-More deafening clamour through the wide bazar.
+Rings with the rattling drums whose noise excites
+More deafening clamour through the wide bazár.
 
 The pipe and cymbal, shrill and loud,
 Delight the gay assembled crowd;
@@ -167,7 +167,7 @@ Shed from the morn's refulgent beam
 Empurpled Dijla's rolling stream,
 
 The bridegroom, joyous, rose to see
-The bride ecpiipped as bride should be:
+The bride equipped as bride should be:
 
 The litter and the golden throne,
 Prepared for her to rest upon:
@@ -184,23 +184,23 @@ And from her scornful presence shrinks and reels:
 A solemn oath she takes, and cries,
 With frenzy flashing from her eyes, —
 
-' Hopest thou I ever shall be thine?
-It is my fathers will, not mine!
+'Hopest thou I ever shall be thine?
+It is my father's will, not mine!
 
-Eather than be that thing abhorred,
+Rather than be that thing abhorred,
 My life-blood shall distain thy sword.
 
 Away! nor longer seek to gain
 A heart foredoomed to endless pain;
 
 A heart, no power of thine can move;
-A bleeding heart, which scorns thy love!!
+A bleeding heart, which scorns thy love!'
 
-When Ibn Salam her frenzied look beheld,
+When Ibn Salám her frenzied look beheld,
 And heard her vows, his cherished hopes were quelled.
 
 He soon perceived what art had been employed, —
-AIL his bright visions faded and destroyed; —
+All his bright visions faded and destroyed; —
 
 And found, when love has turned a maiden's brain,
 Father and mother urge their power in vain.

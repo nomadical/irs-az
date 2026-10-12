@@ -101,7 +101,7 @@ Blended our souls in one, may come
 And weep upon his Lailí's tomb.
 
 Forbid him not; but let him there
-Pour forth the flood of his despair.
+Pour forth the flood of his despair,
 
 And no unhallowed step intrude
 Upon his sacred solitude.
@@ -131,7 +131,7 @@ No worldly cares her thoughts had e'er oppressed;
 The love of thee alone disturbed her rest;
 
 And in that love her gentle spirit passed,
-Breathing on thee her blessing to the last." '
+Breathing on thee her blessing to the last."'
 
 The mournful mother gazed upon her child,
 Now voiceless — though her lips imploring smiled;
@@ -169,7 +169,7 @@ Alike is found a yawning grave;
 For formless, riding through the air,
 Devouring death is everywhere;
 
-Khosrii, and Kai-kobad, and Ji'im,
+Khosrú, and Kai-kobád, and Júm,
 Have all descended to the tomb;
 
 And who, composed of mortal clay,
@@ -214,13 +214,13 @@ His friend approach, and asked him why he grieved;
 What withering sorrow on his cheek had preyed,
 And why in melancholy black arrayed.
 
-' Alas i ' he cried, ' the hail has crushed my bowers;
+'Alas!' he cried, 'the hail has crushed my bowers;
 A sudden storm has blighted all my flowers;
 
 Thy cypress-tree o'erthrown, the leaves are sear;
 The moon has fallen from her lucid sphere;
 
-Lailí is dead! ' No sooner was the word
+Lailí is dead!' No sooner was the word
 Uttered, no sooner the dread tidings heard,
 
 Than Majnún, sudden as the lightning's stroke
@@ -233,22 +233,22 @@ But, soon recovering, he prepared to rise,
 Rewakened frenzy glaring in his eyes,
 
 And, starting on his feet, a hollow groan
-Burst from his heart. ' Now, now, I am alone!
+Burst from his heart. 'Now, now, I am alone!
 
 Why hast thou harrowing words like these expressed?
 Why hast thou plunged a dagger in my breast?
 
-Away! away! ' The savage beasts around,
+Away! away!' The savage beasts around,
 In a wide circle couched upon the ground,
 
-Wondering looked on, whilst furiously he'rent
+Wondering looked on, whilst furiously he rent
 His tattered garments, and his loud lament
 
 Rang through the echoing forest. Now he threads
 The mazes of the shadowy wood, which spreads
 
 Perpetual gloom, and now emerges where
-Nor hower nor grove obstructs the fiery air;
+Nor bower nor grove obstructs the fiery air;
 
 Climbs to the mountain's brow, o'er hill and plain
 Urged quicker onwards by his burning brain,
@@ -262,10 +262,10 @@ Prostrate he falls, the ground his tears bedew;
 Rolling distraught, he spreads his arms to clasp
 The sacred temple, writhing like an asp:
 
-Despair and horror swell his ceaseless moan.
+Despair and horror swell his ceaseless moan,
 And still he clasps the monumental stone.
 
-' Alas! ' he cries — ' No more shall I behold
+'Alas!' he cries — 'No more shall I behold
 That angel-face, that form of heavenly mould.
 
 She was the rose I cherished — but a gust
@@ -311,12 +311,12 @@ There, where angelic bliss can never cloy,
 We soon shall meet in everlasting joy;
 
 The taper of our souls, more clear and bright,
-Will then be lustrous with immortal light! '
+Will then be lustrous with immortal light!'
 
 He ceased, and from the tomb to which he clung
 Suddenly to a distance wildly sprung,
 
-Aud, seated on his camel, took the way
+And, seated on his camel, took the way
 Leading to where his father's mansion lay;
 
 His troop of vassal-beasts, as usual, near,
@@ -329,7 +329,7 @@ He sped along, or stopped; the woods and plains
 Resounding with his melancholy strains;
 
 Such strains as from a broken spirit flow,
-The waitings of immitigable woe;
+The wailings of unmitigable woe;
 
 But the same frenzy which had fired his mind
 Strangely to leave his Lailí's grave behind,
@@ -379,7 +379,7 @@ Stretched on the ground, his head upon a stone.
 Majnún, up-gazing, recognised his face,
 And bade his growling followers give him place;
 
-Then said: ' Why art thou here again, since thou
+Then said: 'Why art thou here again, since thou
 Left me in wrath? What are thy wishes now?
 
 I am a wretch bowed down with bitterest woe,
@@ -389,9 +389,9 @@ Whilst thou, in affluence born, in pleasure nursed,
 Stranger to ills the direst and the worst,
 
 Can never join, unless in mockery,
-With one so lost to all the world as me! '
+With one so lost to all the world as me!'
 
-Selim replied: ' Fain would I change thy will.
+Selim replied: 'Fain would I change thy will,
 And bear thee hence, — be thy companion still:
 
 Wealth shall be thine, and peace and social joy,
@@ -400,7 +400,7 @@ And tranquil days, no sorrow to annoy;
 And she for whom thy soul has yearned so long
 May yet be gained, and none shall do thee wrong.'
 
-— Deeply he groaned, and wept: ' No more, no more!
+— Deeply he groaned, and wept: 'No more, no more!
 Speak not of her whose memory I adore;
 
 She whom I loved, than life itself more dear,
@@ -410,10 +410,10 @@ Dead! — but her spirit's now in heaven, whilst I
 Live, and am dead with grief — yet do not die.
 
 This is the fatal spot, my Lailí's tomb, —
-This the lamented place of martyrdom. h
+This the lamented place of martyrdom.
 
 Here lies my life's sole treasure, life's sole trust;
-All that was bright in beauty gone to dust! '
+All that was bright in beauty gone to dust!'
 
 Selim before him in amazement stood,
 Stricken with anguish, weeping tears of blood;
@@ -425,7 +425,7 @@ His gentle words and looks were only found
 To aggravate the agonising wound;
 
 And weeks in fruitless sympathy had passed,
-But, patient stdl, he lingered to the last;
+But, patient still, he lingered to the last;
 
 Then, with an anxious heart, of hope bereft,
 The melancholy spot, reluctant, left.

@@ -46,16 +46,16 @@ The heart's deep anguish to remove;
 Who lived to succour the distressed,
 To soothe and staunch the bleeding breast:
 
-To him she spake — ' In pity hear,
+To him she spake — 'In pity hear,
 A wretch distraught with love and fear!
 
 Know'st thou the youth, of peerless grace,
 Who mingles with the forest-race,
 
 Savage or tame, and fills the air,
-Alas! for me, with his despair? '
+Alas! for me, with his despair?'
 
-— ' Yes, lovely moon! ' he answered, — ' well I know
+— 'Yes, lovely moon! 'he answered, — 'well I know
 That hapless wanderer, and his cureless woe;
 
 Lailí still on his tongue, the Arab maid
@@ -64,19 +64,19 @@ He ceaseless seeks through every bower and glade,
 Unconscious of the world, its bloom or blight,
 Lailí alone for ever in his sight.'
 
-The Arab maiden wept, and cried, — ' No more!
+The Arab maiden wept, and cried, — 'No more!
 I am the cause, and I his loss deplore;
 
 Both have our sorrows, both are doomed to feel
 The wounds of absence, which will never heal;
 
 For me he roams through desert wild and drear,
-While Fate condemns me to be fettered here! '
+While Fate condemns me to be fettered here!'
 
 — Then from her ear a lustrous gem she drew,
 Which, having kissed, she to the hermit threw —
 
-And said, — ' Forbid it I should ask in vain!
+And said, — 'Forbid it I should ask in vain!
 Let these fond eyes behold his face again!
 
 But caution must control the zeal you show:
@@ -86,9 +86,9 @@ When he is nigh — some stanzas of his own
 Warbled beneath my casement, where, alone,
 
 I sit and watch — for secret must we be,
-Or all is lost to Majnún and to me! '
+Or all is lost to Majnún and to me!'
 
-— Within his birdie-fold the smilins; saint
+— Within his girdle-fold the smiling saint
 Placed the rich gem, and on his errand went.
 
 But did no obstacle his task oppose?
@@ -101,7 +101,7 @@ Through tangled glens, the ground with creepers spread,
 Meshes of shadowy branches o'er his head,
 
 Now a wide plain before him — mountains grey,
-And now an emerald greensward cheered his way
+And now an emerald greensward cheered his way:
 
 At last, upon a hillock's shady side,
 The long-sought love-sick wanderer he descried,
@@ -113,9 +113,9 @@ Majnún perceived him, and with upraised hand
 Made his wild followers at a distance stand;
 
 And then the seer approached — his homage paid—
-' O thou, unmatched in love! ' he kindly said,
+'O thou, unmatched in love! 'he kindly said,
 
-' Lailí, the world and beauty's cpieen,
+'Lailí, the world and beauty's queen,
 Who long has thy adorer been;
 
 And many a year has run its race,
@@ -169,7 +169,7 @@ Whispered the presence of her own Majnún.
 But woman's mind can from its purpose range,
 And seem to change, without the power to change;
 
-And thus she said — ' Alas! it cannot be:
+And thus she said — 'Alas! it cannot be:
 I must not meet him— such is Fate's decree;
 
 The lamp thus lit, Love's temple to illume,
@@ -178,7 +178,7 @@ Will not enlighten, but the heart consume;
 For I am wedded— to another given —
 This worthless dust still in the view of Heaven;
 
-And though compelled — let others bear the blame '.-
+And though compelled — let others bear the blame! —
 I was not born to sacrifice my fame.
 
 Prudence forbids such perils should be mine;
@@ -196,7 +196,7 @@ And, still adoring, I will drink it up.'
 Prostrate, in tears, upon a fountain's side,
 The saint found Majnún, who impatient cried —
 
-' What is this amber incense round me flying?
+'What is this amber incense round me flying?
 Is it the breath of spring o'er rosebuds sighing?
 
 No — not the fragrance of the early spring —
@@ -208,17 +208,17 @@ They fill with dying ecstasy my heart.'
 The saint, well-taught in love's mysterious lore,
 Knew what it was the absent to deplore;
 
-But said — ' Thou canst not hope that she,
+But said — 'Thou canst not hope that she,
 Unsought, unasked, will come to thee!
 
 Woman demands a warmer suit,
 And none her sacred power dispute.'
 
-' Upbraid me not with maxim old —
+'Upbraid me not with maxim old —
 Think'st thou that Majnún's suit is cold
 
 When, from the very scent, I feel
 Intoxication o'er me steal?
 
 Must I the real bliss decline
-And never taste the luscious wine? '
+And never taste the luscious wine?'

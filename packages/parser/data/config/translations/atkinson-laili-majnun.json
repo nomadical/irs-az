@@ -261,6 +261,820 @@
       "pattern": "\\bMaj ?(?:n[uú]n|niin|mín|min|nrin|in'in|ruin|m'm)(?![a-z])",
       "flags": "g",
       "to": "Majnún"
+    },
+    {
+      "from": "And never taste the luscious wine? '",
+      "to": "And never taste the luscious wine?'"
+    },
+    {
+      "from": "We arc but one",
+      "to": "We are but one"
+    },
+    {
+      "from": "lend heauty to the sky",
+      "to": "lend beauty to the sky"
+    },
+    {
+      "from": "Converting into dazzling day the night;\n",
+      "to": "Converting into dazzling day the night;\nAnd we together seated, ear to ear,\n"
+    },
+    {
+      "from": "one moment of delight! '",
+      "to": "one moment of delight!'"
+    },
+    {
+      "from": "The mournful lovers amorous strains;",
+      "to": "The mournful lover's amorous strains;"
+    },
+    {
+      "from": "\"With withered hopes, in pity hung",
+      "to": "With withered hopes, in pity hung"
+    },
+    {
+      "from": "Anxious to he the first to see",
+      "to": "Anxious to be the first to see"
+    },
+    {
+      "from": "And whence the hurrying stranger came. -",
+      "to": "And whence the hurrying stranger came. —"
+    },
+    {
+      "from": "Let us together live — together die! '",
+      "to": "Let us together live — together die!'"
+    },
+    {
+      "from": "And never think of such a wretch as me! '",
+      "to": "And never think of such a wretch as me!'"
+    },
+    {
+      "from": "And, while it strengthens, cheers the drooping\n",
+      "to": "And, while it strengthens, cheers the drooping heart.'\n"
+    },
+    {
+      "from": "The burning mountain flames no more! '",
+      "to": "The burning mountain flames no more!'"
+    },
+    {
+      "from": "First from the oceans bed the sands remove!",
+      "to": "First from the ocean's bed the sands remove!"
+    },
+    {
+      "from": "What words are those which meet her anxious ear I",
+      "to": "What words are those which meet her anxious ear?"
+    },
+    {
+      "from": "And what destroyed all chance of blame I",
+      "to": "And what destroyed all chance of blame?"
+    },
+    {
+      "from": "\"What secrets may her bosom swell?",
+      "to": "What secrets may her bosom swell?"
+    },
+    {
+      "from": "I may escape and feel the bliss of day! '",
+      "to": "I may escape and feel the bliss of day!'"
+    },
+    {
+      "from": "Eise up! the world is full of joy;",
+      "to": "Rise up! the world is full of joy;"
+    },
+    {
+      "from": "Else up! and serve thy mistress, boy;",
+      "to": "Rise up! and serve thy mistress, boy;"
+    },
+    {
+      "from": "Thus when a chamber holds no golden store.",
+      "to": "Thus when a chamber holds no golden store,"
+    },
+    {
+      "from": "' Alas!: she said, as over him she hung,",
+      "to": "' Alas!' she said, as over him she hung,"
+    },
+    {
+      "from": "Thy love has vanished, and thy voice is gone! '",
+      "to": "Thy love has vanished, and thy voice is gone!'"
+    },
+    {
+      "from": "Of the same essence formed, together joined.",
+      "to": "Of the same essence formed, together joined,"
+    },
+    {
+      "from": "Two drops in one, each soul to each resigned.\n",
+      "to": "Two drops in one, each soul to each resigned.'\n"
+    },
+    {
+      "from": "her jasmine - scented breath",
+      "to": "her jasmine-scented breath"
+    },
+    {
+      "from": "Eends off his Jama-dress",
+      "to": "Rends off his Jama-dress"
+    },
+    {
+      "from": "Pour forth the flood of his despair.",
+      "to": "Pour forth the flood of his despair,"
+    },
+    {
+      "from": "Breathing on thee her blessing to the last.\" '",
+      "to": "Breathing on thee her blessing to the last.\"'"
+    },
+    {
+      "from": "Khosrii, and Kai-kobad, and Ji'im,",
+      "to": "Khosrú, and Kai-kobád, and Júm,"
+    },
+    {
+      "from": "' Alas i ' he cried,",
+      "to": "' Alas!' he cried,"
+    },
+    {
+      "from": "Lailí is dead! ' No sooner",
+      "to": "Lailí is dead!' No sooner"
+    },
+    {
+      "from": "Away! away! ' The savage",
+      "to": "Away! away!' The savage"
+    },
+    {
+      "from": "whilst furiously he'rent",
+      "to": "whilst furiously he rent"
+    },
+    {
+      "from": "Nor hower nor grove",
+      "to": "Nor bower nor grove"
+    },
+    {
+      "from": "Despair and horror swell his ceaseless moan.",
+      "to": "Despair and horror swell his ceaseless moan,"
+    },
+    {
+      "from": "' Alas! ' he cries",
+      "to": "' Alas!' he cries"
+    },
+    {
+      "from": "Will then be lustrous with immortal light! '",
+      "to": "Will then be lustrous with immortal light!'"
+    },
+    {
+      "from": "Aud, seated on his camel",
+      "to": "And, seated on his camel"
+    },
+    {
+      "from": "The waitings of immitigable woe;",
+      "to": "The wailings of unmitigable woe;"
+    },
+    {
+      "from": "With one so lost to all the world as me! '",
+      "to": "With one so lost to all the world as me!'"
+    },
+    {
+      "from": "' Fain would I change thy will.",
+      "to": "' Fain would I change thy will,"
+    },
+    {
+      "from": "This the lamented place of martyrdom. h",
+      "to": "This the lamented place of martyrdom."
+    },
+    {
+      "from": "All that was bright in beauty gone to dust! '",
+      "to": "All that was bright in beauty gone to dust!'"
+    },
+    {
+      "from": "But, patient stdl, he lingered",
+      "to": "But, patient still, he lingered"
+    },
+    {
+      "from": "That, in the Prophet's name, he may return to Thee!\n",
+      "to": "That, in the Prophet's name, he may return to Thee!'\n"
+    },
+    {
+      "from": "But follows the same path whate'er his claim",
+      "to": "But follows the same path? whate'er his claim"
+    },
+    {
+      "from": "Whose presence filled with teiTor all around,",
+      "to": "Whose presence filled with terror all around,"
+    },
+    {
+      "from": "Assembled friends from every cpuarter came;",
+      "to": "Assembled friends from every quarter came;"
+    },
+    {
+      "from": "Warbling his rich mellifluous song •",
+      "to": "Warbling his rich mellifluous song;"
+    },
+    {
+      "from": "They reap their great reward in this! '",
+      "to": "They reap their great reward in this!'"
+    },
+    {
+      "from": "Eeceives its recompense above.",
+      "to": "Receives its recompense above."
+    },
+    {
+      "from": "On what this nattering world bestows,",
+      "to": "On what this flattering world bestows,"
+    },
+    {
+      "from": "Along the glades where wild deer stray:",
+      "to": "Along the glades where wild deer stray;"
+    },
+    {
+      "from": "!Tis not for thee their smiles to share:",
+      "to": "'Tis not for thee their smiles to share:"
+    },
+    {
+      "from": "And feel the pomp of Kai-Kobad.",
+      "to": "And feel the pomp of Kai-Kobád."
+    },
+    {
+      "from": "from hirn fled repose:",
+      "to": "from him fled repose:"
+    },
+    {
+      "from": "Love's naming taper more intensely blazed.",
+      "to": "Love's flaming taper more intensely blazed."
+    },
+    {
+      "from": "Love concpier'd both",
+      "to": "Love conquer'd both"
+    },
+    {
+      "from": "And. whilst subdued in that delicious thrall,",
+      "to": "And, whilst subdued in that delicious thrall,"
+    },
+    {
+      "from": "Khosrii, without his throne or crown.",
+      "to": "Khosrú, without his throne or crown."
+    },
+    {
+      "from": "Could he that thought support oh, never, never!",
+      "to": "Could he that thought support? oh, never, never!"
+    },
+    {
+      "from": "Must be, as Kaf's ice-summit, cold,",
+      "to": "Must be, as Káf's ice-summit, cold,"
+    },
+    {
+      "from": "That rosy cheek, that lily hand,\n",
+      "to": ""
+    },
+    {
+      "from": "Would give thy poet more delight\n",
+      "to": ""
+    },
+    {
+      "from": "His friends, to whom his griefs are known.",
+      "to": "His friends, to whom his griefs are known,"
+    },
+    {
+      "from": "They try to soothe his wildered mind,\n",
+      "to": "They try to soothe his wildered mind,\nWhere reason once was seen enshrined;\n"
+    },
+    {
+      "from": "Behind the Harern-screen appears,",
+      "to": "Behind the Harem-screen appears,"
+    },
+    {
+      "from": "What but fulfilling his desires %",
+      "to": "What but fulfilling his desires?"
+    },
+    {
+      "from": "Keep them in mind, and trouble me no more '. '",
+      "to": "Keep them in mind, and trouble me no more!'"
+    },
+    {
+      "from": "What medicine can affection find '.",
+      "to": "What medicine can affection find?"
+    },
+    {
+      "from": "Eepeating still his Lailí's name,",
+      "to": "Repeating still his Lailí's name,"
+    },
+    {
+      "from": "And Lailí! Lailí! still through grove and fori",
+      "to": "And Lailí! Lailí! still through grove and forest rung."
+    },
+    {
+      "from": "What know ye of a heart that 's breaking ':",
+      "to": "What know ye of a heart that 's breaking!'"
+    },
+    {
+      "from": "And find the wreck of hope on winch they gaze.",
+      "to": "And find the wreck of hope on which they gaze."
+    },
+    {
+      "from": "That blessed boon to mortals given,",
+      "to": "That blessèd boon to mortals given,"
+    },
+    {
+      "from": "The holy Kaba where the prophet prayed,",
+      "to": "The holy Kába where the prophet prayed,"
+    },
+    {
+      "from": "\"Where Zam-Zam's waters yield their saving aid.",
+      "to": "Where Zam-Zam's waters yield their saving aid."
+    },
+    {
+      "from": "Rich tasseUed housings",
+      "to": "Rich tasselled housings"
+    },
+    {
+      "from": "And save him, save him from the bane of love!:",
+      "to": "And save him, save him from the bane of love!'"
+    },
+    {
+      "from": "What friend could wish me to resign\n",
+      "to": "What friend could wish me to resign\nA love so pure, so true as mine?\n"
+    },
+    {
+      "from": "I envy not the heart that 's free-",
+      "to": "I envy not the heart that 's free—"
+    },
+    {
+      "from": "His arms outstretched, his head all bare.",
+      "to": "His arms outstretched, his head all bare,"
+    },
+    {
+      "from": "Their sight on every side they strain.",
+      "to": "Their sight on every side they strain,"
+    },
+    {
+      "from": "And groans, and tears, and music's softest lay.",
+      "to": "And groans, and tears, and music's softest lay,"
+    },
+    {
+      "from": "Successive marked his melancholy clay.",
+      "to": "Successive marked his melancholy day."
+    },
+    {
+      "from": "A wanderer never gathers store,\n",
+      "to": "A wanderer never gathers store,\nBe thou a wanderer now no more.\n"
+    },
+    {
+      "from": "To be the cruel sport of one %",
+      "to": "To be the cruel sport of one?"
+    },
+    {
+      "from": "I 'in but a gnat,",
+      "to": "I 'm but a gnat,"
+    },
+    {
+      "from": "\"Wouldst thou root up resemblance so complete,",
+      "to": "Wouldst thou root up resemblance so complete,"
+    },
+    {
+      "from": "\"What! Lailí's form? no: spare the cypress-tree;",
+      "to": "What! Lailí's form? no: spare the cypress-tree;"
+    },
+    {
+      "from": "And save the graceful shape of her I love!;",
+      "to": "And save the graceful shape of her I love!'"
+    },
+    {
+      "from": "\"When gathered in one amorous glance,",
+      "to": "When gathered in one amorous glance,"
+    },
+    {
+      "from": "Her lips of rnby ask for kisses;",
+      "to": "Her lips of ruby ask for kisses;"
+    },
+    {
+      "from": "She drooped like broken-winged bird.",
+      "to": "She drooped like broken-wingèd bird."
+    },
+    {
+      "from": "Her secret thoughts her love concealing.",
+      "to": "Her secret thoughts her love concealing,"
+    },
+    {
+      "from": "Wandering in sisrht, For she had none",
+      "to": "Wandering in sight. For she had none"
+    },
+    {
+      "from": "And though she smiled, her mind's distres",
+      "to": "And though she smiled, her mind's distress"
+    },
+    {
+      "from": "Filled all her thoughts with bitterne>s;",
+      "to": "Filled all her thoughts with bitterness;"
+    },
+    {
+      "from": "Yet true love has resources stdl,",
+      "to": "Yet true love has resources still,"
+    },
+    {
+      "from": "Beneath the harem- walls reciting",
+      "to": "Beneath the harem-walls reciting"
+    },
+    {
+      "from": "Kecorded her affecting strains;",
+      "to": "Recorded her affecting strains;"
+    },
+    {
+      "from": "The crimson tidip and golden rose",
+      "to": "The crimson tulip and golden rose"
+    },
+    {
+      "from": "Her cheeks the softest vermd-red,",
+      "to": "Her cheeks the softest vermil-red,"
+    },
+    {
+      "from": "Her secret watch tdl evening fall.",
+      "to": "Her secret watch till evening fall,"
+    },
+    {
+      "from": "She strolls amid its varied scenes.",
+      "to": "She strolls amid its varied scenes,"
+    },
+    {
+      "from": "Its pleasant copses, evergreens,",
+      "to": "Its pleasant copses, evergreens;"
+    },
+    {
+      "from": "Lailí's light mind to other objects turns.",
+      "to": "Lailí's light mind to other objects turns.'"
+    },
+    {
+      "from": "Her hair in many a witchirig curl;",
+      "to": "Her hair in many a witching curl;"
+    },
+    {
+      "from": "(Ibn Salam his honoured name),",
+      "to": "(Ibn Salám his honoured name),"
+    },
+    {
+      "from": "That wild, wdd look, which well might claim",
+      "to": "That wild, wild look, which well might claim"
+    },
+    {
+      "from": "Kestores its long-lost harmonies:",
+      "to": "Restores its long-lost harmonies:"
+    },
+    {
+      "from": "■Swift as the feathered race the assembled train",
+      "to": "Swift as the feathered race the assembled train"
+    },
+    {
+      "from": "And who presumes the splendid moon to gain I",
+      "to": "And who presumes the splendid moon to gain?"
+    },
+    {
+      "from": "The parley over, Noufal draws his sword.",
+      "to": "The parley over, Noufal draws his sword,"
+    },
+    {
+      "from": "Was crushed, tho' steadfast as the Mount Elberz.",
+      "to": "Was crushed, tho' steadfast as the Mount Elbĕrz."
+    },
+    {
+      "from": "Wearied at length, both tribes at once withdrew.",
+      "to": "Wearied at length, both tribes at once withdrew,"
+    },
+    {
+      "from": "Or, if thou 'dst rather see the maiden bleed.",
+      "to": "Or, if thou 'dst rather see the maiden bleed,"
+    },
+    {
+      "from": "And rue defrauded of my beauteous prey.",
+      "to": "And me defrauded of my beauteous prey."
+    },
+    {
+      "from": "Near where Forat's bright stream rolls on, reclined,",
+      "to": "Near where Forát's bright stream rolls on, reclined,"
+    },
+    {
+      "from": "Staunching my wounds, hope soothed my tortured\n",
+      "to": "Staunching my wounds, hope soothed my tortured mind,\n"
+    },
+    {
+      "from": "He stops — while thus exclaims the youth\n",
+      "to": "He stops — while thus exclaims the youth:\n"
+    },
+    {
+      "from": "And for that fragrant gift thou \"rt led",
+      "to": "And for that fragrant gift thou 'rt led"
+    },
+    {
+      "from": "Had palsied his intrepid sold,",
+      "to": "Had palsied his intrepid soul,"
+    },
+    {
+      "from": "The full-blown rose thus sheds its fragrance\n",
+      "to": "The full-blown rose thus sheds its fragrance round;\n"
+    },
+    {
+      "from": "But there are thorns, not given to charm, but\n",
+      "to": "But there are thorns, not given to charm, but wound.\n"
+    },
+    {
+      "from": "Eincs with the rattling drums whose noise excites",
+      "to": "Rings with the rattling drums whose noise excites"
+    },
+    {
+      "from": "More deafening clamour through the wide bazar.",
+      "to": "More deafening clamour through the wide bazár."
+    },
+    {
+      "from": "The bride ecpiipped as bride should be:",
+      "to": "The bride equipped as bride should be:"
+    },
+    {
+      "from": "It is my fathers will, not mine!",
+      "to": "It is my father's will, not mine!"
+    },
+    {
+      "from": "Eather than be that thing abhorred,",
+      "to": "Rather than be that thing abhorred,"
+    },
+    {
+      "from": "A bleeding heart, which scorns thy love!!",
+      "to": "A bleeding heart, which scorns thy love!'"
+    },
+    {
+      "from": "When Ibn Salam her frenzied look beheld,",
+      "to": "When Ibn Salám her frenzied look beheld,"
+    },
+    {
+      "from": "AIL his bright visions faded and destroyed;",
+      "to": "All his bright visions faded and destroyed;"
+    },
+    {
+      "from": "— Distant from her adorer's view.",
+      "to": "— Distant from her adorer's view,"
+    },
+    {
+      "from": "Than man's — more excmisite her sense;",
+      "to": "Than man's — more exquisite her sense;"
+    },
+    {
+      "from": "' What added curse is this V he groaning said,",
+      "to": "' What added curse is this?' he groaning said,"
+    },
+    {
+      "from": "Upon the foul betrayer's head '?",
+      "to": "Upon the foul betrayer's head?"
+    },
+    {
+      "from": ";Tis not in gold to purchase love,",
+      "to": "'Tis not in gold to purchase love,"
+    },
+    {
+      "from": "Spotless remains, still hrni, unbroken,",
+      "to": "Spotless remains, still firm, unbroken,"
+    },
+    {
+      "from": "Unchanged, unchangeable her earliest cherished name.'",
+      "to": "Unchanged, unchangeable her earliest cherished flame.'"
+    },
+    {
+      "from": "And am I worthless as a clesert-stone?",
+      "to": "And am I worthless as a desert-stone?"
+    },
+    {
+      "from": "Where has the hopeless wanderer gone I '",
+      "to": "Where has the hopeless wanderer gone?'"
+    },
+    {
+      "from": "After long search? ' Embracing', both remained",
+      "to": "After long search?' Embracing, both remained"
+    },
+    {
+      "from": "Shows blades of swords, not harmless blades of grass:\n",
+      "to": "Shows blades of swords, not harmless blades of grass;\nAnd I would warn thee never more to roam;\n"
+    },
+    {
+      "from": "Doo-s have a home, and thou hast none to boast:",
+      "to": "Dogs have a home, and thou hast none to boast:"
+    },
+    {
+      "from": "But what am I I a helpless wretch, a worm,",
+      "to": "But what am I? a helpless wretch, a worm,"
+    },
+    {
+      "from": "His father's bones, now crumbling witli decay.",
+      "to": "His father's bones, now crumbling with decay."
+    },
+    {
+      "from": "\"When the indulgent heart is cold,",
+      "to": "When the indulgent heart is cold,"
+    },
+    {
+      "from": "\"Which would have sealed his happiness,",
+      "to": "Which would have sealed his happiness,"
+    },
+    {
+      "from": "WThere the fresh breeze adds coolness to the shade?",
+      "to": "Where the fresh breeze adds coolness to the shade?"
+    },
+    {
+      "from": "Xo dread has he from aught of earth or air,",
+      "to": "No dread has he from aught of earth or air,"
+    },
+    {
+      "from": "From den or eyry, calm in his despair:\n",
+      "to": "From den or eyry, calm in his despair:\nHe seems to court new perils, and can view\n"
+    },
+    {
+      "from": "Among; the rest, one little fawn",
+      "to": "Among the rest, one little fawn"
+    },
+    {
+      "from": "\"With his own hand the fawn he fed,",
+      "to": "With his own hand the fawn he fed,"
+    },
+    {
+      "from": "\"Were cast into that dreadful cell.",
+      "to": "Were cast into that dreadful cell."
+    },
+    {
+      "from": "For wisdom, v\\ it, and shrewdness known,",
+      "to": "For wisdom, wit, and shrewdness known,"
+    },
+    {
+      "from": "'Twas night when in the den he casl",
+      "to": "'Twas night when in the den he cast"
+    },
+    {
+      "from": "' Komantic youth! I see the timorous deer",
+      "to": "' Romantic youth! I see the timorous deer"
+    },
+    {
+      "from": "What wouldst thou feel, did I her name declare I",
+      "to": "What wouldst thou feel, did I her name declare?"
+    },
+    {
+      "from": "What is the cypress to her form divine I",
+      "to": "What is the cypress to her form divine?"
+    },
+    {
+      "from": "What is the perfume from a martyr's shrine >.",
+      "to": "What is the perfume from a martyr's shrine?"
+    },
+    {
+      "from": "What, should that idol's fate be mixed with thine.'",
+      "to": "What, should that idol's fate be mixed with thine?"
+    },
+    {
+      "from": "Her ringlets twisted like the graceful Jim,",
+      "to": "Her ringlets twisted like the graceful Jím,"
+    },
+    {
+      "from": "Her shape an Alif, and her mouth a Mini;",
+      "to": "Her shape an Alif, and her mouth a Mím;"
+    },
+    {
+      "from": "But what can I of such perfection say I",
+      "to": "But what can I of such perfection say?"
+    },
+    {
+      "from": "How to the blind Creations charms portray?",
+      "to": "How to the blind Creation's charms portray?"
+    },
+    {
+      "from": "Which has no sense of outward things; tbat love",
+      "to": "Which has no sense of outward things; that love"
+    },
+    {
+      "from": "Eeturn, and tell me his forlorn retreat.\"",
+      "to": "Return, and tell me his forlorn retreat.\""
+    },
+    {
+      "from": "Tiiat passionate record of her truth,",
+      "to": "That passionate record of her truth,"
+    },
+    {
+      "from": "A flood of tears, whilst mournfully she said-",
+      "to": "A flood of tears, whilst mournfully she said—"
+    },
+    {
+      "from": "His love and goodness,' — thus her ndmeh ran —",
+      "to": "His love and goodness,' — thus her námeh ran —"
+    },
+    {
+      "from": "Yet in a diiferent sphere my race is run;",
+      "to": "Yet in a different sphere my race is run;"
+    },
+    {
+      "from": "Turned to the bitterness of fell Zilcum.'",
+      "to": "Turned to the bitterness of fell Zikúm.'"
+    },
+    {
+      "from": "What can it do but sigh and weep I",
+      "to": "What can it do but sigh and weep?"
+    },
+    {
+      "from": "I am the dust beneath thy feet,\n",
+      "to": "I am the dust beneath thy feet,\nThough destined never more to meet.\n"
+    },
+    {
+      "from": "Garden of Irem — hid from me,\n",
+      "to": "Garden of Irem — hid from me,\nThe Paradise I must not see;\n"
+    },
+    {
+      "from": "Yet thou hast cptenched my genial light;",
+      "to": "Yet thou hast quenched my genial light;"
+    },
+    {
+      "from": "But is the joy of memory less %",
+      "to": "But is the joy of memory less?"
+    },
+    {
+      "from": "'Tis ours, divided, to deplore\n",
+      "to": "'Tis ours, divided, to deplore\nScenes we can never witness more;\n"
+    },
+    {
+      "from": "Then Selira asked — ' What is thy food, my friend %",
+      "to": "Then Selim asked — ' What is thy food, my friend?"
+    },
+    {
+      "from": "For what can pomp, and wealth, and feasts avail \\",
+      "to": "For what can pomp, and wealth, and feasts avail?"
+    },
+    {
+      "from": "I live on crass: — but hear the Zahid's talc.",
+      "to": "I live on grass: — but hear the Záhid's tale."
+    },
+    {
+      "from": "A Zahid's desolate abode,",
+      "to": "A Záhid's desolate abode,"
+    },
+    {
+      "from": "What the Recluse was wTont to do;",
+      "to": "What the Recluse was wont to do;"
+    },
+    {
+      "from": "A courtier to the Zahid ran,",
+      "to": "A courtier to the Záhid ran,"
+    },
+    {
+      "from": "And thou 'it not fancy grass so good.\"",
+      "to": "And thou 'lt not fancy grass so good.\""
+    },
+    {
+      "from": "\" Indeed! \" the Zahid said, and smiled,",
+      "to": "\" Indeed! \" the Záhid said, and smiled,"
+    },
+    {
+      "from": "Fell at the pious Zahid's feet,",
+      "to": "Fell at the pious Záhid's feet,"
+    },
+    {
+      "from": "And now lie asks for friends he once preferred,",
+      "to": "And now he asks for friends he once preferred,"
+    },
+    {
+      "from": "And wishes e'en to visit home again — ■",
+      "to": "And wishes e'en to visit home again —"
+    },
+    {
+      "from": "Without delay the Avanderer. Deep her grief",
+      "to": "Without delay the wanderer. Deep her grief"
+    },
+    {
+      "from": "Thy nest; — and birds, though distant in their flight,",
+      "to": "Thy nest; — and birds, though distant in their flight,\nAlways return to their own nests at night."
+    },
+    {
+      "from": "Eefuse the joy thy presence can impart,",
+      "to": "Refuse the joy thy presence can impart,"
+    },
+    {
+      "from": "Ask me not, mother, to remain at home;\n",
+      "to": "Ask me not, mother, to remain at home;\nFor there, to me, no peace can ever come.\n"
+    },
+    {
+      "from": "Abandoned all for love alone '",
+      "to": "Abandoned all for love alone?"
+    },
+    {
+      "from": "— Within his birdie-fold the smilins; saint",
+      "to": "— Within his girdle-fold the smiling saint"
+    },
+    {
+      "from": "And now an emerald greensward cheered his way\n",
+      "to": "And now an emerald greensward cheered his way:\n"
+    },
+    {
+      "from": "' Lailí, the world and beauty's cpieen,",
+      "to": "' Lailí, the world and beauty's queen,"
+    },
+    {
+      "from": "And though compelled — let others bear the blame '.-",
+      "to": "And though compelled — let others bear the blame! —"
+    },
+    {
+      "from": "' 'Twas wrong",
+      "to": "''Twas wrong"
+    },
+    {
+      "pattern": "(?<=[A-Za-z?!.,;:—'\"]) (['\"])(?=[ ]*(?:—|$|[,.;:!?'\"]))",
+      "flags": "gm",
+      "to": "$1"
+    },
+    {
+      "pattern": "(^|[\\s—:(])(['\"]) (?=[A-Za-z])",
+      "flags": "gm",
+      "to": "$1$2"
     }
   ]
 }

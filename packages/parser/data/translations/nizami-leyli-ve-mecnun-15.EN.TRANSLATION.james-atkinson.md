@@ -34,7 +34,7 @@ And there he wept and sobbed aloud,
 Unwitnessed by the gazing crowd;
 His eyes all tears, his soul all flame,
 
-Eepeating still his Lailí's name,
+Repeating still his Lailí's name,
 And Lailí! Lailí! echoed round,
 
 Still dwelling on that rapturous sound.
@@ -46,7 +46,7 @@ And still, as memory touched his brain,
 He murmured some love-wildered strain:
 But still her name was ever on his tongue,
 
-And Lailí! Lailí! still through grove and fori
+And Lailí! Lailí! still through grove and forest rung.
 Sad inmate of the desert wild,
 
 His form and face with dust defiled;
@@ -55,7 +55,7 @@ Exhausted with his grief's excess,
 He sat him down in weariness.
 'Estranged from friends,' he weeping cried,
 
-' My homeward course is dark to me;
+'My homeward course is dark to me;
 But, Lailí, were I at thy side,
 
 How blessed would thy poor lover be!
@@ -73,4 +73,4 @@ O ye who never felt distress,
 Never gay scenes of joy forsaking,
 Whose minds, at peace, no cares oppress,
 
-What know ye of a heart that 's breaking ':
+What know ye of a heart that 's breaking!'

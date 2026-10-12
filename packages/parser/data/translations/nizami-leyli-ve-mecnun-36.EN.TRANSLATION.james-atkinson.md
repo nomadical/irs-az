@@ -22,7 +22,7 @@ No tablets, to supply his need —
 But Lailí's messenger had brought
 The means — and thus the maniac wrote: —
 
-' To Him who formed the starry throne
+'To Him who formed the starry throne
 Of heaven, and rules the world alone;
 
 Who, in the dark mysterious mine,
@@ -35,18 +35,21 @@ To Him be gratitude and praise,
 The constant theme of Moslem lays!
 
 — A burning heart, in sorrow deep,
-What can it do but sigh and weep I
+What can it do but sigh and weep?
 
 And what can this memorial bear
 To thee, but wailings of despair?
 
 I am the dust beneath thy feet,
+Though destined never more to meet.
+
 Thy beauty is my Kaba shrine,
-
 The arc of heaven, for ever mine;
-Garden of Irem — hid from me,
 
-Yet thou hast cptenched my genial light;
+Garden of Irem — hid from me,
+The Paradise I must not see;
+
+Yet thou hast quenched my genial light;
 My day is now like blackest night.
 
 With fondness on thy flattering tongue
@@ -71,7 +74,7 @@ But, peace! — no more of thoughts so sad,
 Or I shall grow intensely mad;
 
 I yearn no more those lips to press; —
-But is the joy of memory less %
+But is the joy of memory less?
 
 The morning-breeze thy fragrance brings;
 And up my heart exulting springs;
@@ -98,6 +101,7 @@ No — they 're indelibly impressed
 Within my ever-faithful breast.
 
 'Tis ours, divided, to deplore
-But, though on earth denied to rest,
+Scenes we can never witness more;
 
-Shall we not both in heaven be blessed? '
+But, though on earth denied to rest,
+Shall we not both in heaven be blessed?'

@@ -25,14 +25,14 @@ The welcome breeze of spring perfuming.
 The killing witchery that lies
 In her soft, black, delicious eyes,
 
-"When gathered in one amorous glance,
+When gathered in one amorous glance,
 Pierces the heart like sword or lance;
 
 The prey that falls into her snare,
 For life must mourn and struggle there;
 
 Her eyelash speaks a thousand blisses,
-Her lips of rnby ask for kisses;
+Her lips of ruby ask for kisses;
 
 Soft lips where sugar-sweetness dwells,
 Sweet as the bee-hive's honey-cells;
@@ -47,22 +47,22 @@ With all these charms the heart to win,
 There was a cureless grief within —
 
 Yet none beheld her grief, or heard;
-She drooped like broken-winged bird.
+She drooped like broken-wingèd bird.
 
-Her secret thoughts her love concealing.
+Her secret thoughts her love concealing,
 But, softly to the terrace stealing,
 
 From morn to eve she gazed around,
 In hopes her Majnún might be found,
 
-Wandering in sisrht, For she had none
+Wandering in sight. For she had none
 To sympathise with her — not one!
 
 None to compassionate her woes —
 In dread of rivals, friends, and foes;
 
-And though she smiled, her mind's distres
-Filled all her thoughts with bitterne>s;
+And though she smiled, her mind's distress
+Filled all her thoughts with bitterness;
 
 The fire of absence on them preyed,
 But light nor smoke that fire betrayed;
@@ -70,7 +70,7 @@ But light nor smoke that fire betrayed;
 Shut up within herself, she sate,
 Absorbed in grief, disconsolate;
 
-Yet true love has resources stdl,
+Yet true love has resources still,
 Its soothing arts, and ever will!
 
 Voices in guarded softness rose
@@ -86,7 +86,7 @@ And what, before, destruction seemed,
 With rays of better promise gleamed.
 
 Voices of young and old she heard
-Beneath the harem- walls reciting
+Beneath the harem-walls reciting
 
 Her Majnún's songs; each thrilling word
 Her almost broken heart delighting.
@@ -104,7 +104,7 @@ Told all her hopes and sorrows o'er,
 Though told a thousand times before:
 
 The life-blood circling through her veins
-Kecorded her affecting strains;
+Recorded her affecting strains;
 
 And as she wrote, with passion flushed,
 The glowing words with crimson blushed.
@@ -143,7 +143,7 @@ Rich blossoms laugh on every tree,
 Like men of fortunate destiny,
 
 Or the shining face of revelry.
-The crimson tidip and golden rose
+The crimson tulip and golden rose
 
 Their sweets to all the world disclose.
 I mark the glittering pearly wave
@@ -161,13 +161,13 @@ Like Majnún, chant a mournful tale.
 The season of the rose has led
 
 Lailí to her own favourite bower;
-Her cheeks the softest vermd-red,
+Her cheeks the softest vermil-red,
 
 Her eyes the modest sumbul flower.
 She has left her father's painted hall,
 
 She has left the terrace where she kept
-Her secret watch tdl evening fall.
+Her secret watch till evening fall,
 
 And where she oft till midnight wept.
 A golden fillet sparkling round
@@ -217,8 +217,8 @@ Nor fountain half so clear, so sweet,
 As that which flowed at Lailí's feet.
 The Grove of Palms her steps invites;
 
-She strolls amid its varied scenes.
-Its pleasant copses, evergreens,
+She strolls amid its varied scenes,
+Its pleasant copses, evergreens;
 
 In which her wakened heart delights.
 Where'er the genial zephyr sighs,
@@ -235,19 +235,19 @@ And thoughts, too deep to hide, reveals:
 Beneath a cypress-tree reclined,
 In secret thus she breathes her mind: —
 
-' O faithful friend, and lover true,
+'O faithful friend, and lover true,
 Still distant from thy Lailí's view;
 
 Still absent, still beyond her power
 To bring thee to her fragrant bower;
 
 O noble youth, still thou art mine,
-And Lailí, Lailí still is thine! '
+And Lailí, Lailí still is thine!'
 
 As thus she almost dreaming spoke,
 A voice reproachful her attention woke.
 
-' What! hast thou banished prudence from thy mind?
+'What! hast thou banished prudence from thy mind?
 And shall success be given to one unkind?
 
 Majnún on billows of despair is tossed,
@@ -269,7 +269,7 @@ Majnún is bound by love's mysterious spell,
 Lailí's bright cheeks of cheerful feelings tell;
 
 Majnún his Lailí's absence ever mourns,
-Lailí's light mind to other objects turns.
+Lailí's light mind to other objects turns.'
 
 At this reproof tears flowed apace
 Down Lailí's pale, dejected face;

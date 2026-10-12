@@ -19,11 +19,11 @@ His troubled day was closing fast in night.
 Still weeping, bitter, bitter tears he shed,
 As grovelling in the dust his hands he spread
 
-In holy prayer. ' O God! Thy servant hear!
+In holy prayer. 'O God! Thy servant hear!
 And in Thy gracious mercy set him free
 
 From the afflictions which oppress him here.
-That, in the Prophet's name, he may return to Thee!
+That, in the Prophet's name, he may return to Thee!'
 
 Thus murmuring, on the tomb he laid his head,
 And with a sigh his wearied spirit fled.
@@ -31,7 +31,7 @@ And with a sigh his wearied spirit fled.
 And he, too, has performed his pilgrimage.
 And who, existing on this earthly stage,
 
-But follows the same path whate'er his claim
+But follows the same path? whate'er his claim
 To virtue, honour, — worthy praise, or blame;
 
 So will he answer at the judgment-throne,
@@ -49,7 +49,7 @@ And, wakening, saw her mingled with the blessed.
 There still lay stretched his body, many a day,
 Protected by his faithful beasts of prey;
 
-Whose presence filled with teiTor all around,
+Whose presence filled with terror all around,
 Who sought to know where Majnún might be found:
 
 Listening they heard low murmurs on the breeze,
@@ -65,7 +65,7 @@ Some had been called away, and some had died —
 At last the smouldering relics were descried;
 
 And when the truth had caught the breath of fame,
-Assembled friends from every cpuarter came;
+Assembled friends from every quarter came;
 
 Weeping, they washed his bones, now silvery white,
 With ceaseless tears performed the funeral rite,
@@ -104,7 +104,7 @@ He saw the ever-verdant bowers,
 With golden fruit and blooming flowers:
 
 The bulbul heard, their sweets among,
-Warbling his rich mellifluous song •
+Warbling his rich mellifluous song;
 
 The ring-dove's murmuring, and the swell
 Of melody from harp and shell:
@@ -136,20 +136,20 @@ Demanded, with becoming awe,
 What sacred names the happy pair
 In Irem-bowers were wont to bear.
 
-A voice replied: ' That sparkling moon
+A voice replied: 'That sparkling moon
 Is Lailí still — her friend, Majnún;
 
 Deprived in your frail world of bliss,
-They reap their great reward in this! '
+They reap their great reward in this!'
 
 Zyd, wakening from his wondrous dream,
 Now dwelt upon the mystic theme,
 
 And told to all how faithful love
-Eeceives its recompense above.
+Receives its recompense above.
 
 O ye, who thoughtlessly repose
-On what this nattering world bestows,
+On what this flattering world bestows,
 
 Reflect how transient is your stay!
 How soon e'en sorrows fade away!

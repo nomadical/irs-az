@@ -43,7 +43,7 @@ To mark the features of his face.
 Loud roaring, like a demon, he awoke
 The maniac from his trance, and gaily spoke:
 
-' Up, up, thou sluggard! up and see,
+'Up, up, thou sluggard! up and see,
 What thy heart's-ease has done for thee!
 
 Better drive feeling from thy mind,
@@ -64,7 +64,7 @@ Kissing and dalliance their delight;
 Whilst thou, from human solace flying,
 With unrequited love art dying.
 
-— Distant from her adorer's view.
+— Distant from her adorer's view,
 One in a thousand may be true:
 
 The pen which writes, as if it knew
@@ -77,7 +77,7 @@ Faithless, she wastes no thought on thee,
 Wrapped in her own felicity.
 
 Woman's desire is more intense
-Than man's — more excmisite her sense;
+Than man's — more exquisite her sense;
 
 But, never blinded by her flame,
 Gain and fruition are her aim.
@@ -106,8 +106,8 @@ Fire ran through every swelling vein:
 Frantic he dashed his forehead on the ground,
 And blood flowed trickling from the ghastly wound.
 
-' What added curse is this V he groaning said, —
-' Another tempest, roaring round my head! '
+'What added curse is this?' he groaning said, —
+'Another tempest, roaring round my head!'
 
 When ever did a bleeding heart
 Betray no sign of blighted reason?
@@ -127,7 +127,7 @@ Who guides the faithful Moslem here.
 Love sanctifies the erring thought,
 And Heaven forgives the deed by frenzy wrought.
 
-' A rose, a lovely rose, I found,
+'A rose, a lovely rose, I found,
 With thorns and briars compassed round;
 
 And, struggling to possess that prize,
@@ -155,12 +155,12 @@ Though wrapped in sweetest innocence,
 The fell oppressor snatched her thence.
 
 But who deserves the curse that 's sped
-Upon the foul betrayer's head '?
+Upon the foul betrayer's head?
 
 The gardener, in his lust for gold,
 That rose — the boast of Irem— sold.
 
-' Poor wretch! if worlds of wealth were mine,
+'Poor wretch! if worlds of wealth were mine,
 Full willingly I 'd make them thine;
 
 But not a dirhem for that rose,
@@ -169,7 +169,7 @@ The fatal cause of all my woes.
 I would not play a villain's part,
 And buy with gold a woman's heart;
 
-;Tis not in gold to purchase love,
+'Tis not in gold to purchase love,
 Above all wealth, all price above;
 
 For I would rather die than see
@@ -185,7 +185,7 @@ The flood of joy o'erwhelming quite
 My glowing senses with delight.
 
 — Base wretch! and thou that rose hast sold:
-A demon's curse upon thy gold! '
+A demon's curse upon thy gold!'
 
 The traveller witnessed with surprise
 How he the maniac's heart had wrung —
@@ -196,7 +196,7 @@ He from his camel sprung;
 And when the sufferer seemed to be restored,
 Forgiveness anxiously implored:
 
-' 'Twas wrong, and I deserve the blame;
+''Twas wrong, and I deserve the blame;
 I marked with infamy her name:
 
 My fault is of the darkest hue, —
@@ -205,7 +205,7 @@ My crime — for Lailí still is true!
 What though in nuptial band united,
 Her faith, to thee so often plighted,
 
-Spotless remains, still hrni, unbroken,
+Spotless remains, still firm, unbroken,
 As proved by many a mournful token.
 
 For every moment's space can claim
@@ -218,7 +218,7 @@ One year has passed since she was made a bride;
 But what of years? whatever may betide,
 
 Were it a thousand, still her heart's the same,
-Unchanged, unchangeable her earliest cherished name.'
+Unchanged, unchangeable her earliest cherished flame.'
 
 Now Majnún, desolate, his fate perceived,
 As in a glass, the misery of his lot,
@@ -232,11 +232,11 @@ And, turning to that magic point which led
 To where his angel-face was wont to stay,
 Thus, in a melancholy tone, he said:
 
-' Alas! my passion glowed in every part;
+'Alas! my passion glowed in every part;
 Thine in thy tongue, but never in thy heart;
 
 With thy new love hast thou so amorous grown?
-And am I worthless as a clesert-stone?
+And am I worthless as a desert-stone?
 
 What is a word, a promise, oath, or pledge?
 Mockery, which never can the heart engage.
@@ -254,4 +254,4 @@ Think of thy broken vows, to what they tend;
 Think of thy falsehood, and lament its end.
 
 My doom is fixed; my choice no longer free;
-My martyr-life devoted still to thee! '
+My martyr-life devoted still to thee!'

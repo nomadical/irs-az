@@ -17,10 +17,10 @@ Through many a town and bower had spread
 The maniac's tale— all anxious read
 
 In Bagdad and far-distant plains
-The mournful lovers amorous strains;
+The mournful lover's amorous strains;
 
 And every heart, which had been wrung
-"With withered hopes, in pity hung
+With withered hopes, in pity hung
 
 O'er sorrows which to madness drove —
 The very martyrdom of love.
@@ -43,7 +43,7 @@ The pangs of love, impatient rose,
 And on his camel, all alone,
 Sought for the man of many woes;
 
-Anxious to he the first to see
+Anxious to be the first to see
 The man pre-eminent in misery;
 
 And many a farsang he had rode,
@@ -53,9 +53,9 @@ Majnún beheld him from afar,
 And sent his vassals to their lair;
 
 And welcome gave, and asked his name,
-And whence the hurrying stranger came. -
+And whence the hurrying stranger came. —
 
-' I come, my friend, to make thee glad;
+'I come, my friend, to make thee glad;
 I come from beautiful Bagdad.
 
 In that enchanting place I might
@@ -71,18 +71,18 @@ Thy tuneful strains such joy impart,
 Each word is treasured in my heart:
 
 In love, like thee, I weep and sigh —
-Let us together live — together die! '
+Let us together live — together die!'
 
 Astonished at this strange desire,
 Laughing, the maniac thus replies:
 
-' Sir knight! so soon does pleasure tire?
+'Sir knight! so soon does pleasure tire?
 And dost thou worldly pomp despise,
 
 And all that luxury can give,
 With me in wood and cave to live?
 
-' Mistaken youth! what dost thou know
+'Mistaken youth! what dost thou know
 Of broken hearts — of love like mine —
 
 That thou shouldst life's sweet joys forego,
@@ -116,7 +116,7 @@ Whilst thou, surrounded by thy friends at home,
 Moved by no need, but by a whim to roam,
 
 Mayst pass thy hours in cheerfulness and glee,
-And never think of such a wretch as me! '
+And never think of such a wretch as me!'
 
 The gallant youth now placed in view
 Various refreshments he had thither brought —
@@ -127,19 +127,19 @@ Heart-easing wine, his purpose to promote,
 To win the favour of the moon-struck man;
 And thus his brief but earnest speech began:
 
-' Friend, share my meal in kindness, and allow
+'Friend, share my meal in kindness, and allow
 A smile of joy to clear that furrowed brow!
 
 In bread is life; it strengthens every part,
-And, while it strengthens, cheers the drooping
+And, while it strengthens, cheers the drooping heart.'
 
-Majnún rejoined: ' The argument is just;
+Majnún rejoined: 'The argument is just;
 Without refreshment man descends to dust:
 
 Nerve, power, and strength from nourishment proceed;
 But this is not the nourishment I need.'
 
-' Yet mortals change, whate'er their aim;
+'Yet mortals change, whate'er their aim;
 Nothing on earth remains the same:
 
 I know thou canst not be unmoved;
@@ -173,10 +173,10 @@ This fire of love, which burns so bright,
 What is it but a treacherous light?
 
 The type of youth; — when that is o'er,
-The burning mountain flames no more! '
+The burning mountain flames no more!'
 
 But Majnún spurned the traitor-thought, and said:
-' Speak'st thou to me as one to feeling dead?
+'Speak'st thou to me as one to feeling dead?
 
 I am myself the king of love; and now
 Glory in my dominion: and wouldst thou
@@ -191,7 +191,7 @@ That pure ethereal love, that mystic flower,
 Nurtured in Heaven, fit for an angel's dower?
 
 What! from my heart expel the dream of love?
-First from the oceans bed the sands remove!
+First from the ocean's bed the sands remove!
 
 Useless the effort, — useless is thy aim, —
 Thou canst not quench a never-dying flame.

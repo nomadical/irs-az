@@ -26,7 +26,7 @@ And never rested, night or day,
 Till he had, wandering far away,
 
 Reached the sad spot where peaceful lay
-His father's bones, now crumbling witli decay.
+His father's bones, now crumbling with decay.
 
 His arms around the grave he flung,
 And to the earth delirious clung:
@@ -59,9 +59,9 @@ Had with a child's impatience burned,
 And scorn for sympathy returned;
 
 And now, like all of human mould,
-"When the indulgent heart is cold,
+When the indulgent heart is cold,
 
-"Which would have sealed his happiness,
+Which would have sealed his happiness,
 He mourns — but mourns his own distress;
 
 For, when the diamond blazed like day,

@@ -16,7 +16,7 @@ status: DRAFT
 So saying, seated in that palmy grove,
 To Lailí thus he breathed his lay of love.
 
-' O whither art thou gone?
+'O whither art thou gone?
 And where am I? — alone!
 
 Forsaken, lost — and what remains?
@@ -38,12 +38,12 @@ Thy matchless beauty:— without grief, no thought
 Of thy perfections to my mind is brought.
 
 O Heaven! that ever we were doomed to part! —
-We arc but one — two bodies, and one heart.
+We are but one — two bodies, and one heart.
 
 As summer clouds with rain the meadows greet,
 Majnún dissolves in sorrow at thy feet;
 
-Whilst thy soft cheeks lend heauty to the sky,
+Whilst thy soft cheeks lend beauty to the sky,
 Majnún, alas! is taught by them to die.
 
 The bulbul o'er thy roses joyous stoops;
@@ -58,37 +58,38 @@ And yield the blessings of successfnl love!
 The gorgeous moon, with her pellucid light,
 Converting into dazzling day the night;
 
+And we together seated, ear to ear,
 The sparkling wine, our beverage, ever near;
+
 I playing with those ringlets, which descend
-
 In magic curls, and o'er thy shoulders bend;
+
 Thou, with those dark and love-enkindling eyes,
-
 In which the living spell of witchery lies,
+
 Gazing in fondness on me. That sweet lip!
-
 I see it the rich wine enamoured sip:
+
 I see us both — what happiness! and none
-
 To drive the sovereign pleasure from his throne;
+
 Nor shame, nor fear, to crush affection's flower,
-
 Happy, unseen, in that sequestered bower.
+
 — But bring me wine! this bright illusion stay!
-
 Wine! wine! keep sad realities away!
+
 Wine, Saki, wine! the house without a light
-
 Is but a prison, odious to the sight;
+
 For broken hearts, immured in gloom like mine,
-
 Are dungeon-dark, unblessed with light or wine;
+
 O God! preserve me from this endless night!
+Give me one day of joy — one moment of delight!'
 
-Give me one day of joy — one moment of delight! '
 Then strangely moved, he wildly closed his lay,
-
 Sprung on his feet, and sudden burst away;
-And Lailí, who had heard him, deeply mourned,
 
+And Lailí, who had heard him, deeply mourned,
 And, sad, to her secluded home returned.

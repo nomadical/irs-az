@@ -44,4 +44,4 @@ For what to him was hoarded store,
 The wealth of parents now no more?
 
 Had he not long, ill-fated one!
-Abandoned all for love alone '
+Abandoned all for love alone?

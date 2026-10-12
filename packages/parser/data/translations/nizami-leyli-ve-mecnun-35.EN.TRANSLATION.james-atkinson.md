@@ -28,20 +28,20 @@ And, warmed with hope, his orisons preferred;
 When suddenly a horseman met his view,
 Who, as it seemed, the wandering lover knew.
 
-' Komantic youth! I see the timorous deer
+'Romantic youth! I see the timorous deer
 And the fierce lion meet in concord here,
 
 And thou the monarch— strange! but mark! I bear
 A secret tale of one, so loved, so fair.
 
-What wouldst thou feel, did I her name declare I
-What is the cypress to her form divine I
+What wouldst thou feel, did I her name declare?
+What is the cypress to her form divine?
 
-What is the perfume from a martyr's shrine >.
-What, should that idol's fate be mixed with thine.'
+What is the perfume from a martyr's shrine?
+What, should that idol's fate be mixed with thine?
 
-Her ringlets twisted like the graceful Jim,
-Her shape an Alif, and her mouth a Mini;
+Her ringlets twisted like the graceful Jím,
+Her shape an Alif, and her mouth a Mím;
 
 Her eyes like two Narcissuses, that grow
 Where the pure waters of a fountain flow;
@@ -49,8 +49,8 @@ Where the pure waters of a fountain flow;
 Her eyebrows, joined, a double arch express;
 Her beauteous cheeks an angel might caress.
 
-But what can I of such perfection say I
-How to the blind Creations charms portray?
+But what can I of such perfection say?
+How to the blind Creation's charms portray?
 
 I saw her weep— the tear-drops glistening fell
 In showers from eyes which their own tale could tell;
@@ -59,7 +59,7 @@ And yet I asked for whom she wept and mourned —
 For one untrue, or one to dust returned?
 
 Opening her ruby lips, she softly said:
-" My heart is desolate — my joys are fled;
+"My heart is desolate — my joys are fled;
 
 I once was Lailí — need I more reveal?
 Worse than a thousand maniacs now I feel:
@@ -76,7 +76,7 @@ Disordered aspect, oft pronounced as mad;
 By that unutterable grief which preys
 Upon his heart; that melancholy gaze,
 
-Which has no sense of outward things; tbat love
+Which has no sense of outward things; that love
 So pure, an emanation from above.
 
 O that I could escape this wretched thrall,
@@ -86,9 +86,9 @@ But go, and seek the wanderer; — glen and cave
 Patient explore — his refuge, or his grave:
 
 Find him; and, faithful, with unwearied feet
-Eeturn, and tell me his forlorn retreat."
+Return, and tell me his forlorn retreat."
 
-' Silent I heard her earnest prayer:
+'Silent I heard her earnest prayer:
 Marked her desponding voice and air;
 
 And while she still, in tenderest mood,
@@ -112,7 +112,7 @@ But soon as that dread swoon was o'er,
 And sobs and tears relieved her heart;
 Again she pressed me to restore
 
-Him she adored — " If kind thou art,
+Him she adored — "If kind thou art,
 And kind thou must be to a wretch forlorn,
 
 I feel thou wouldst not play a traitor's part;
@@ -121,17 +121,17 @@ Thou canst not view my misery with scorn.
 Alas! though I may seem to him untrue,
 Pity is still to woman's sorrows due."
 
-' Her rosy fingers press
+'Her rosy fingers press
 The written tale of her distress;
 
 And, raising to her ruby mouth
-Tiiat passionate record of her truth,
+That passionate record of her truth,
 
 Kissed it a thousand times, and shed
-A flood of tears, whilst mournfully she said-
+A flood of tears, whilst mournfully she said—
 
-" To him this sad memorial give —
-To him for whom alone I live." '
+"To him this sad memorial give —
+To him for whom alone I live."'
 
 Majnún, perplexed, with painful feelings riven,
 Seemed to refuse what still to him was Heaven;
@@ -143,10 +143,10 @@ At length, the writing eagerly he took;
 But, as he read, he faltered, wept, and shook.
 
 Adoring the Creator, she began —
-' Beyond the praise of tongue, to mortal man
+'Beyond the praise of tongue, to mortal man
 
-His love and goodness,' — thus her ndmeh ran —
-' He with the light of wisdom cheers the soul;
+His love and goodness,' — thus her námeh ran —
+'He with the light of wisdom cheers the soul;
 
 He bids the cheek to glow, the eye to roll,
 And every mortal bends to His control.
@@ -172,7 +172,7 @@ Thine own unchanged — unchangeable in death.
 Thou 'rt all the world to me — the very earth
 Thou treadst on is to me of matchless worth;
 
-Yet in a diiferent sphere my race is run;
+Yet in a different sphere my race is run;
 I am the moon, and thou the radiant sun:
 
 By destiny thus sundered — how can I
@@ -182,4 +182,4 @@ Since thus divided, pity thou my lot,
 With all thy vows and raptures unforgot;
 
 Life's sweetest flowerets, in their brightest bloom,
-Turned to the bitterness of fell Zilcum.'
+Turned to the bitterness of fell Zikúm.'

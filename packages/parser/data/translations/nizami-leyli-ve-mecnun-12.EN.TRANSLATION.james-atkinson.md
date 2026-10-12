@@ -44,16 +44,16 @@ One single glance the nerves to frenzy wrought,
 One single glance bewildered every thought;
 
 And, when o'er Kais affection's blushing rose
-Diffused its sweetness, from hirn fled repose:
+Diffused its sweetness, from him fled repose:
 
 Tumultuous passion danced upon his brow;
 He sought to woo her, but he knew not how:
 
 He gazed upon her cheek, and, as he gazed,
-Love's naming taper more intensely blazed.
+Love's flaming taper more intensely blazed.
 
 Soon mutual pleasure warm'd each other's heart;
-Love concpier'd both — they never dreamt to part;
+Love conquer'd both — they never dreamt to part;
 
 And, while the rest were poring o'er their books,
 They pensive mused, and read each other's looks:
@@ -73,7 +73,7 @@ And writing ghazels to each other's eyes.
 Yes, love triumphant came, engrossing all
 The fond luxuriant thoughts of youth and maid;
 
-And. whilst subdued in that delicious thrall,
+And, whilst subdued in that delicious thrall,
 Smiles and bright tears upon their features played.
 
 Then in soft converse did they pass the hours, —
@@ -167,7 +167,7 @@ The lover from his mistress parted,
 Lingering, oppressed, and broken-hearted,
 
 Sank, like the sun all rayless, down—
-Khosrii, without his throne or crown.
+Khosrú, without his throne or crown.
 
 With matted locks and bosom bare,
 Unshielded from the scorching air,
@@ -220,11 +220,11 @@ Through grove and frowning glen he lonely strayed,
 And with his griefs the rocks were vocal made.
 Beautiful Lailí! had she gone for ever? —
 
-Could he that thought support oh, never, never!
+Could he that thought support? oh, never, never!
 Whilst deep emotion agonised his breast,
 
 He to the morning-breeze these words addressed:—
-' Breeze of the morn! so fresh and sweet,
+'Breeze of the morn! so fresh and sweet,
 
 Wilt thou my blooming mistress greet;
 And, nestling in her glossy hair,
@@ -239,7 +239,7 @@ In grief how prostrate I am laid!
 And gently whisper in her ear
 
 This message, with an accent clear: —
-" Thy form is ever in my sight,
+"Thy form is ever in my sight,
 
 In thought by day, in dreams by night;
 For one, in spirits sad and broken,
@@ -254,12 +254,9 @@ And does not feel his soul in arms,
 Bursting with passion, rapture, all
 
 That speak love's deepest, wildest thrall,
-Must be, as Kaf's ice-summit, cold,
+Must be, as Káf's ice-summit, cold,
 
 And, haply, scarce of human mould.
-That rosy cheek, that lily hand,
-
-Would give thy poet more delight
 Let him, unmoved by charms like thine,
 
 His worthless life at once resign —
@@ -281,4 +278,4 @@ Thy form a Peri's self in lightness;
 A treasure thou, which, poets say,
 
 The heavens would gladly steal away —
-Too good, too pure, on earth to stay! " '
+Too good, too pure, on earth to stay!"'

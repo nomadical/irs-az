@@ -22,8 +22,8 @@ Grief o'er him shed its withering blight;
 Incessant yearnings wrung his heart,
 He sat in darkness, silent, lone:
 
-' Why did my child from home depart?
-Where has the hopeless wanderer gone I '
+'Why did my child from home depart?
+Where has the hopeless wanderer gone?'
 
 Dreading that Death's relentless dart
 His best-beloved had overthrown.
@@ -68,12 +68,12 @@ With cautious step descending, he surveys
 Th' unconscious youth, who meets his anxious gaze
 
 With a wild look which could not recognise
-The tottering form before him: ' Who art thou?
+The tottering form before him: 'Who art thou?
 
-And what thy errand? ' The old man replies —
-' I am thy father! I have found thee now,
+And what thy errand? 'The old man replies —
+'I am thy father! I have found thee now,
 
-After long search? ' Embracing', both remained
+After long search?' Embracing, both remained
 In deep compassionate sorrow, fondly strained
 
 Each to the other's bosom; and when he,
@@ -86,93 +86,94 @@ Joy sparkled in his faded eye a while,
 And his parched lips seemed curled into a smile.
 
 The poor old father said, with feeble voice,
-' Thou makest my heart both tremble and rejoice:
+'Thou makest my heart both tremble and rejoice:
 
 The path o'er which thy feet are doomed to pass
-Shows blades of swords, not harmless blades of grass:
+Shows blades of swords, not harmless blades of grass;
 
+And I would warn thee never more to roam;
 Thy only safety is to stay at home.
-Doo-s have a home, and thou hast none to boast:
 
+Dogs have a home, and thou hast none to boast:
 Art thou a man, to human comfort lost?
+
 If man thou art, then like a man appear,
-
 Or, if a demon, be a demon here.
+
 The ghoul, created to perplex the earth,
-
 Is still a ghoul, and answers to its birth;
+
 But thou 'rt a man; and why, with human soul,
-
 Forget thy nature and become a ghoul?
+
 To-day if thou shouldst throw the reins aside,
-
 To-morrow thou mayst ask, and be denied.
+
 Soon shall I pass away, and be at rest;
-
 No longer this frail world's unhappy guest.
+
 My day is mingling with the shades of night;
-
 My life is losing all its wonted light.
+
 Soul of thy father! re-inspired with grace,
-
 Rise, and protect the honours of thy race,
+
 That, ere this frame be in the grave laid low,
-
 I may the guardian of my birthright know;
+
 That, ere I die, to sooth a parent's grief,
-
 Thou mayst be hailed in thine own home the chief.
+
 Forbid it, Heaven, that, when my hour is past,
-
 My house and home should to the winds be cast!
+
 That plundering strangers, with rapacious hand,
-
 Should waste my treasure and despoil my land!
+
 And Heaven forbid, that both at once should fall,
-
 (My greatest dread), and thus extinguish all!
+
 That when the summons reaches me to die,
+Thy death should also swell the funeral cry!'
 
-Thy death should also swell the funeral cry! '
 These words sank deep in Majnún's breast: he seemed
-
 Altered in mood, as through his senses streamed
+
 The memory of his home, the fond regard
-
 Of his dear mother, and the joys he shared
+
 From her affection. Days and nights he tried
-
 To banish from his thoughts another's bride:
+
 Repentance came, and oft the strife renewed,
-
 But tyrant love that feeling soon subdued;
+
 (Love, a wild elephant in might, which grows
-
 More powerful when opposed by friends or foes);
+
 And the poor maniac thus his sire addressed:
+'Thy counsel, father, is the wisest, best;
 
-' Thy counsel, father, is the wisest, best;
 And I would gladly to thy wish conform:
+But what am I? a helpless wretch, a worm,
 
-But what am I I a helpless wretch, a worm,
 Without the power to do what I approve,
-
 Enslaved, the victim of almighty love.
+
 To me the world is swallowed up — I see
-
 Nothing but Lailí — all is lost to me,
+
 Save her bright image — father, mother, home,
-
 All buried in impenetrable gloom,
+
 Beyond my feeling; — yet I know thou 'rt here,
-
 And I could weep; — but what avails the tear,
+
 Even were it at a father's funeral shed?
-
 For human sorrows never reach the dead.
+
 Thou sayst the night of Death is on thee falling!
-
 Then must I weep, thy fostering care recalling;
-But I shall die in utter misery,
 
+But I shall die in utter misery,
 And none be left in life to weep for me.'

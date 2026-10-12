@@ -20,7 +20,7 @@ How sweetly bloomed the Arab maid,
 Girt by her train in fair array!
 
 Her moist red lips, her teeth of pearl,
-Her hair in many a witchirig curl;
+Her hair in many a witching curl;
 
 Haply, on that devoted day,
 A gallant youth, with followers gay,
@@ -34,7 +34,7 @@ And in his bosom rose the fire
 Of still-increasing fond desire.
 Resolved at once her hand to claim
 
-(Ibn Salam his honoured name),
+(Ibn Salám his honoured name),
 He from her parents seeks success,
 
 Offering the nuptial-knot to tie;
@@ -58,8 +58,8 @@ The sweet pomegranate still was green;
 But a future day should surely deck
 With a bridal yoke her spotless neck;
 
-' We will then surrender the maiden to thee,
-The maiden, till now, unaffianced and free! '
+'We will then surrender the maiden to thee,
+The maiden, till now, unaffianced and free!'
 
 The promise soothes his eager heart,
 He and his followers, pleased, depart.

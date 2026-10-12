@@ -52,8 +52,8 @@ His hand receives a sudden check;
 And looking upwards, with surprise
 (A mounted chief before his eyes!),
 
-He stops — while thus exclaims the youth
-' If e'er thy bosom throbbed with ruth,
+He stops — while thus exclaims the youth:
+'If e'er thy bosom throbbed with ruth,
 
 Forbear! for 'tis a crime to spill
 A gazelle's blood — it bodeth ill;
@@ -76,7 +76,7 @@ And winning meekness of its face.
 The musk-pod is its fatal dower,
 Like beauty, still the prey of power;
 
-And for that fragrant gift thou "rt led
+And for that fragrant gift thou 'rt led
 The gentle gazelle's blood to shed!
 
 O, seek not gain by cruel deed,
@@ -91,7 +91,7 @@ To watch and snare the forest-game.'
 Majnún, upon this stern reply,
 Alighted from his steed, and said —
 
-' O, let them live! they must not die.
+'O, let them live! they must not die.
 Forbear! and take this barb instead.'
 
 The sportsman seized it eagerly,

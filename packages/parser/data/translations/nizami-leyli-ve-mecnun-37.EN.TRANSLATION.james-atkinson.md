@@ -38,9 +38,9 @@ And then, approaching near, he told his name,
 And recognised him, though his wasted frame
 
 Seemed an uncoffined corse. Ashamed, he said —
-' O let these robes thy naked body shade,
+'O let these robes thy naked body shade,
 
-These robes for thee brought hither.' ' Not for me;
+These robes for thee brought hither.' 'Not for me;
 I want no covering, — without clothes I 'm free.
 
 Behold these tattered fragments, thrown aside;
@@ -55,10 +55,10 @@ But not a morsel raised he to his head;
 He turned him round, and, scorning the repast,
 To his familiars all the banquet cast.
 
-Then Selira asked — ' What is thy food, my friend %
+Then Selim asked — 'What is thy food, my friend?
 Without support, thy life must quickly end.'
 
-— ' My spirit's freshness, and its secret power,
+— 'My spirit's freshness, and its secret power,
 Come from the breeze which marks the morning-hour;
 
 Yes, every zephyr from my mistress brings
@@ -79,56 +79,56 @@ Birds might be caught; but I detest the deed;
 And he who is contented grass to eat,
 Defies the world — the world is at his feet;
 
-For what can pomp, and wealth, and feasts avail \
-I live on crass: — but hear the Zahid's talc.
+For what can pomp, and wealth, and feasts avail?
+I live on grass: — but hear the Záhid's tale.
 
-' In ancient times a king, they say,
+'In ancient times a king, they say,
 Through a wild forest took his way;
 
 And marking, as along he rode,
-A Zahid's desolate abode,
+A Záhid's desolate abode,
 
 Asked his attendants if they knew
-What the Recluse was wTont to do;
+What the Recluse was wont to do;
 
 What was his food, and where he slept,
 And why remote from man he kept. —
 
-A courtier to the Zahid ran,
+A courtier to the Záhid ran,
 And soon brought forth that holy man; —
 
-" And wherefore dost thou pass thy days
+"And wherefore dost thou pass thy days
 Shunning the world's inviting ways,
 
 Choosing this dismal wretched hole,
-Grave of the body and the soul? "
+Grave of the body and the soul?"
 
-— " I have no friends to love me — none;
+— "I have no friends to love me — none;
 No power, except to live alone."
 
 Then, where his fawns in quiet fed,
 Took up some blades of grass, and said —
 
-" This is my food — this, want supplies! '
+"This is my food — this, want supplies!'
 The courtier looked with scornful eyes,
 
-And answered, — " Taste but royal food,
-And thou 'it not fancy grass so good."
+And answered, — "Taste but royal food,
+And thou 'lt not fancy grass so good."
 
-" Indeed! " the Zahid said, and smiled,
-" That is a sad mistake, my child!
+"Indeed! "the Záhid said, and smiled,
+"That is a sad mistake, my child!
 
 Worldlings are still to luxury prone;
 To thee its sweetness is unknown;
 
 Stranger to such delicious fare,
-No doubt thou 'rt charmed with food more rare; "
+No doubt thou 'rt charmed with food more rare;"
 
 — Soon as this speech the monarch heard,
 Noting, attentive, every word,
 
 And wondering such a seer to meet,
-Fell at the pious Zahid's feet,
+Fell at the pious Záhid's feet,
 
 And kissed the greensward, as he knelt
 Where that contented hermit dwelt.'

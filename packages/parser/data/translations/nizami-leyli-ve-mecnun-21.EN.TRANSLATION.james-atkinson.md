@@ -52,7 +52,7 @@ Had, sorrow-laden, struck his ear.
 He now beheld that wasted frame,
 That head and mien o'ergrown with hair,
 
-That wild, wdd look, which well might claim
+That wild, wild look, which well might claim
 Brotherly kindred with despair,
 
 Dejected, miserable, borne
@@ -83,7 +83,7 @@ The sympathy of generous minds
 Around the heart its influence winds,
 
 And, ever soothing, by degrees,
-Kestores its long-lost harmonies:
+Restores its long-lost harmonies:
 
 Majnún, so long to love a prey,
 Death hastening on by swift decay,
@@ -154,7 +154,7 @@ In vain, to fill that aching void:
 For, though the liquid sparkling red
 Still flowed, his friend thus sorrowing said:
 
-' My generous host, with plenty blessed,
+'My generous host, with plenty blessed,
 No boding cares thy thoughts molest;
 
 Thy kindness many a charm hath given,
@@ -173,4 +173,4 @@ Bring me the cure my wounds require;
 Quench in my heart this raging fire;
 
 My Lailí, oh! my Lailí give,
-Or thy poor friend must cease to live! '
+Or thy poor friend must cease to live!'

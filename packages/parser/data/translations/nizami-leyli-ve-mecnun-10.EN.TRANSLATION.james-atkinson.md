@@ -26,7 +26,7 @@ With thee inspired, I touch the string,
 And, rapt, of love and pleasure sing.
 
 Thou art a lion, seeking prey,
-Along the glades where wild deer stray:
+Along the glades where wild deer stray;
 
 And like a lion I would roam,
 To bring the joys I seek for home;
@@ -86,7 +86,7 @@ And lifts the mind, now grown elate,
 To Jemshid's glory, Jemshid's state. —
 
 But of the kingly race beware;
-!Tis not for thee their smiles to share:
+'Tis not for thee their smiles to share:
 
 Smiles are deceitful, fire looks bright,
 And sheds a lucid, dazzling light;
@@ -107,7 +107,7 @@ The key which opens wide the door
 Of rapture's rich and varied store;
 
 Which makes the mounting spirits glad,
-And feel the pomp of Kai-Kobad.
+And feel the pomp of Kai-Kobád.
 
 Wine o'er the temper casts a spell
 Of kindness indescribable:

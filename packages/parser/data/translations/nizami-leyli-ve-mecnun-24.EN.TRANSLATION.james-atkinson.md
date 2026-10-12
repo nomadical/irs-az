@@ -35,7 +35,7 @@ Numbers lay bleeding of that conquered band,
 And died unsuccoured on the burning sand.
 
 And now the elders of that tribe appear,
-Imploring the proud victor. ' Chieftain, hear!
+Imploring the proud victor. 'Chieftain, hear!
 
 The work of slaughter is complete;
 Thou seest our power destroyed; allow
@@ -49,7 +49,7 @@ Khanjer and spear have laid them low;
 At peace, behold our kinsmen slain,
 And thou art now without a foe.
 
-' Then pardon what of wrong has been:
+'Then pardon what of wrong has been:
 Let us retire, unharmed — unstayed —
 
 Far from this sanguinary scene,
@@ -58,7 +58,7 @@ And take thy prize — the Arab Maid.'
 Then came the father, full of grief, and said —
 (Ashes and dust upon his hoary head,)
 
-' With thee, alas! how useless to contend!
+'With thee, alas! how useless to contend!
 Thou art the conqueror, and to thee I bend.
 
 Without resentment now the vanquished view,
@@ -88,7 +88,7 @@ Let the red flames ascend from blazing brand,
 Waiting their victim, crackling in the air,
 And Lailí duteously shall perish there.
 
-Or, if thou 'dst rather see the maiden bleed.
+Or, if thou 'dst rather see the maiden bleed,
 This thirsty sword shall do the dreadful deed;
 
 Dissever at one blow that lovely head,
@@ -127,8 +127,8 @@ The festering poison-wounds remain for ever.'
 Thus spake the father, and in Noufal's breast
 Excited feelings not to be repressed:
 
-' I hoped to win consent,' he said —
-' But now that anxious hope is dead,
+'I hoped to win consent,' he said —
+'But now that anxious hope is dead,
 
 And thou and thine may quit the field,
 Still armed with khanjer, sword, and shield;
@@ -139,14 +139,14 @@ Blood has bedewed this thirsty plain.'
 When Majnún this conclusion hears,
 He flies incensed to Noufal, and with tears
 
-Wildly exclaims — ' The dawn, my generous friend!
+Wildly exclaims — 'The dawn, my generous friend!
 Promised this day in happiness would end;
 
 But thou hast let the gazelle slip away,
-And rue defrauded of my beauteous prey.
+And me defrauded of my beauteous prey.
 
-Near where Forat's bright stream rolls on, reclined,
-Staunching my wounds, hope soothed my tortured
+Near where Forát's bright stream rolls on, reclined,
+Staunching my wounds, hope soothed my tortured mind,
 
 And gave me Lailí; now that hope is crossed,
 And life's most valued charm for ever lost.'

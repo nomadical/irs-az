@@ -37,7 +37,7 @@ Shut like a gem within its stony bed.
 And who the warder of that place of sighs?
 Her husband! — he the dragon-watch supplies
 
-What words are those which meet her anxious ear I
+What words are those which meet her anxious ear?
 Unusual sounds, unusual sights appear;
 
 Lamps flickering round, and wailings sad and low,
@@ -86,7 +86,7 @@ Had been removed from where it grew.
 But Arab laws had still their claim
 
 Upon a virtuous widow's fame.
-And what destroyed all chance of blame I
+And what destroyed all chance of blame?
 
 Two years to droop behind the screen;
 Two years unseeing, and unseen!
@@ -101,7 +101,7 @@ She must at home her vigils keep,
 Her business still to groan and weep.
 
 And Lailí weeps; but who can tell
-"What secrets may her bosom swell?
+What secrets may her bosom swell?
 
 The beauteous eyes in tears may swim,
 The heart may throb, but not for him
@@ -115,13 +115,13 @@ Her distant lover's glowing verse,
 Framed like a spell to charm and bless,
 And soothe her heart's extreme distress.
 
-' O what a night! a long and dreary night!
+'O what a night! a long and dreary night!
 It is not night, but darkness without end;
 
 Awful extinction of ethereal light,
 Companionless I sit, without one friend.
 
-' Is the immortal source of light congealed?
+'Is the immortal source of light congealed?
 Or has the dreadful day of judgment come?
 
 Nature's fair form beneath a pall concealed;
@@ -133,11 +133,11 @@ Is the Mowazzin heedless of his trust?
 Has the lone warder from his watch-tower fled,
 Or, weary of his task, returned to dust?
 
-' O God! restore to me the joyous light
+'O God! restore to me the joyous light
 Which first illumed my heart — the golden ray
 
 Of youthful love — that from this prison, night,
-I may escape and feel the bliss of day! '
+I may escape and feel the bliss of day!'
 
 Years, days, how slowly they roll on!
 And yet, how quickly life is gone!
@@ -166,14 +166,14 @@ And first she called her faithful Zyd,
 On many a tender mission tried,
 In whom her heart could best confide:
 
-' To-day is not the day of hope,
+'To-day is not the day of hope,
 Which only gives to fancy scope;
 
 It is the day our hopes completing,
 It is the lover's day of meeting!
 
-Eise up! the world is full of joy;
-Else up! and serve thy mistress, boy;
+Rise up! the world is full of joy;
+Rise up! and serve thy mistress, boy;
 
 Together, where the cypress grows,
 Place the red tulip and the rose;
@@ -190,7 +190,7 @@ Silent confusion sat upon each cheek;
 Speechless with love unutterable, they
 Stood gazing at each other all the day.
 
-Thus when a chamber holds no golden store.
+Thus when a chamber holds no golden store,
 No lock protects the ever-open door;
 
 But when rich hoards of gold become a lure,
@@ -202,7 +202,7 @@ For ready speech with grief is rarely found.
 Lailí, with looks of love, was first who caught
 The soft expression of her bursting thought:
 
-' Alas!: she said, as over him she hung,
+'Alas!' she said, as over him she hung,
 'What wondrous grief is this that chains the tongue?
 
 The bulbul, famed for his mellifluous note,
@@ -218,7 +218,7 @@ Why, being absent, whilst unseen by thee,
 Arose to heaven thy voice and minstrelsy?
 
 And now, at length, when we are met, alone,
-Thy love has vanished, and thy voice is gone! '
+Thy love has vanished, and thy voice is gone!'
 
 A gush of tears to Majnún gave relief:
 Words came: 'The misery mine, and mine the grief:
@@ -244,8 +244,8 @@ Are equal — equal in our constancy:
 Two bodies with one heart and soul the same:
 Two tapers with one pure celestial flame;
 
-Of the same essence formed, together joined.
-Two drops in one, each soul to each resigned.
+Of the same essence formed, together joined,
+Two drops in one, each soul to each resigned.'
 
 He paused, and, with ineffable delight,
 Lailí gazed on his glowing countenance,
@@ -254,7 +254,7 @@ So long estranged and hidden from her sight.
 Now throbs his heart at every fondling glance:
 
 The fragrance of her ringlets which enwreath
-Her smooth round neck, her jasmine - scented breath,
+Her smooth round neck, her jasmine-scented breath,
 
 The sweet confession of her tremulous eyes,
 The ardent love which time and chance defies,
@@ -268,7 +268,7 @@ A sudden tempest rushes through his brain;
 Furious he gazes round him for a while,
 Then looks at Lailí with a ghastly smile;
 
-Eends off his Jama-dress in frantic mood,
+Rends off his Jama-dress in frantic mood,
 Starts, as with more than human force endued,
 
 And, shouting, hurries to the desert plain,
