@@ -1,11 +1,11 @@
 'use client';
 
-import { useState, type CSSProperties } from 'react';
+import { useRef, useState, type CSSProperties } from 'react';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
 import { useTranslations } from 'next-intl';
 import { useReadingPrefs } from '@/lib/useReadingPrefs';
-import { isArabicScript, langTag, localeLang, sourceInfo, verseBlocks, type SourceInfo } from '@/lib/verse';
+import { isArabicScript, langTag, lineCount, localeLang, sourceInfo, verseBlocks, type SourceInfo } from '@/lib/verse';
 import { AppearancePopover } from './AppearancePopover';
 
 interface Translation {
@@ -35,6 +35,9 @@ interface Props {
 
 const ORIGINAL = 'original';
 const MAX_SEGMENTS = 4;
+// Texts longer than this many lines open folded, culture.ru-style, showing the first part
+const LONG_LINES = 40;
+const FOLDED_LINES = 24;
 
 const fontSizeValues = ['0.95rem', '1.05rem', '1.2rem', '1.35rem'];
 const widthValues = ['36rem', '44rem', '100%'];
@@ -83,6 +86,11 @@ export function ReadingView({
   const [selectedId, setSelectedId] = useState<string | null>(() => params.get('tr'));
 
   const { prefs, update: updatePrefs } = useReadingPrefs();
+
+  // Folding of long texts: open once expanded, across language switches
+  const [expanded, setExpanded] = useState(false);
+  const textRef = useRef<HTMLDivElement>(null);
+  const textId = 'work-text';
 
   const versions = selectedLang === ORIGINAL ? [] : translations.filter((tr) => tr.language === selectedLang);
   const translation =
@@ -137,6 +145,19 @@ export function ReadingView({
   const translationAttrs = translation
     ? ({ lang: langTag[translation.language], dir: translation.scriptDirection === 'RTL' ? 'rtl' : 'ltr' } as const)
     : null;
+
+  // Long texts open folded; decided from the text itself so server and client agree
+  const lines = Math.max(lineCount(body), translation ? lineCount(translationHtml) : 0);
+  const foldable = lines > LONG_LINES;
+  const folded = foldable && !expanded;
+  const foldClass = folded ? ' is-folded' : '';
+  const foldVars = { '--folded-lines': FOLDED_LINES } as CSSProperties;
+
+  function unfold() {
+    setExpanded(true);
+    // The button goes away; keep focus in the text instead of dropping it on <body>
+    requestAnimationFrame(() => textRef.current?.focus({ preventScroll: true }));
+  }
 
   // Line the two texts up beyt by beyt when both split into the same blocks;
   // on a phone this interleaves them instead of stacking two whole poems
@@ -210,7 +231,13 @@ export function ReadingView({
       )}
 
       {translation && translationAttrs ? (
-        <div className="parallel" style={readingVars}>
+        <div
+          className={`parallel${foldClass}`}
+          style={{ ...readingVars, ...foldVars }}
+          id={textId}
+          ref={textRef}
+          tabIndex={foldable ? -1 : undefined}
+        >
           <div className="parallel-row parallel-head" aria-hidden="true">
             <p className="lang-label">
               {langName(originalLang)} · {t('original_suffix')}
@@ -232,7 +259,23 @@ export function ReadingView({
           )}
         </div>
       ) : (
-        <div className={columnClass} style={readingVars} {...originalAttrs} dangerouslySetInnerHTML={{ __html: body }} />
+        <div
+          className={`${columnClass}${foldClass}`}
+          style={{ ...readingVars, ...foldVars }}
+          id={textId}
+          ref={textRef}
+          tabIndex={foldable ? -1 : undefined}
+          {...originalAttrs}
+          dangerouslySetInnerHTML={{ __html: body }}
+        />
+      )}
+
+      {folded && (
+        <div className="unfold">
+          <button type="button" className="unfold-btn" onClick={unfold} aria-expanded={false} aria-controls={textId}>
+            {t('read_on')}
+          </button>
+        </div>
       )}
 
       <div className="tailpiece" aria-hidden="true">◆</div>

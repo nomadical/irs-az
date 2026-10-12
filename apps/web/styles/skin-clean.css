@@ -698,3 +698,13 @@
   height:        2.5rem;
 }
 [data-skin='clean'] .share-btn:hover { background: var(--surf-2); color: var(--pomeg); }
+
+/* ── Read on ────────────────────────────────────────────────── */
+[data-skin='clean'] .unfold-btn {
+  border:         none;
+  border-radius:  999px;
+  letter-spacing: 0.04em;
+  font-weight:    700;
+  padding:        0.65rem 1.6rem;
+}
+[data-skin='clean'] .unfold-btn:hover { background: var(--surf-2); color: var(--pomeg); }

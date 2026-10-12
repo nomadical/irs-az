@@ -122,6 +122,17 @@ export function verseBlocks(html: string): string[] | null {
   return blocks && blocks.join('') === html ? blocks : null;
 }
 
+/**
+ * Roughly how many lines a text takes to read: its verse lines (hemistichs and free lines),
+ * or for prose, its length in ~80-character lines plus a break per paragraph.
+ */
+export function lineCount(html: string): number {
+  const verse = (html.match(/class="(?:misra|verse-line)/g) ?? []).length;
+  if (verse) return verse;
+  const text = html.replace(/<[^>]+>/g, '');
+  return Math.ceil(text.length / 80) + (html.match(/<\/p>/g) ?? []).length;
+}
+
 /** First hemistich of a poem, as plain text: the name a ghazal is known by */
 export function incipit(html: string): string | null {
   const first = html.match(/<p[^>]*>([\s\S]*?)(?:<br\s*\/?>|<\/p>)/);
