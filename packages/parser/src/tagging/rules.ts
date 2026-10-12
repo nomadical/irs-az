@@ -147,7 +147,6 @@ const MODERN_AUTHORS = new Set(['sabir', 'vurgun', 'cavid', 'cabbarli', 'axundza
 const AUTHOR_ERA: Record<string, string> = {
   xaqani: 'selcuq-dovru',
   nizami: 'selcuq-dovru',
-  'nizami-gencevi': 'selcuq-dovru',
   mahsati: 'selcuq-dovru',
   xetai: 'sefevi-dovru',
   fuzuli: 'sefevi-dovru',

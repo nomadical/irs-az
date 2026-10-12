@@ -27,7 +27,7 @@ cp apps/web/.env.example apps/web/.env
 
 pnpm services:up      # Postgres on :5433, Meilisearch on :7700
 pnpm db:migrate
-pnpm db:seed          # admin user and a few sample works
+pnpm db:seed          # admin user
 pnpm parse:import --publish   # the full library from packages/parser/data
 
 pnpm dev              # web on http://localhost:3000, API on :4000

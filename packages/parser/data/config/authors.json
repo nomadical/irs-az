@@ -8,6 +8,17 @@
     "type": "POET",
     "period": "XVI əsr",
     "writingLangs": ["AZ_ARABIC", "FA", "AR"],
+    "skipSources": [
+      "wikisource-az-23990",
+      "wikisource-az-23198",
+      "wikisource-az-23204",
+      "wikisource-az-18744",
+      "wikisource-az-23244",
+      "wikisource-az-23260",
+      "wikisource-az-23271",
+      "wikisource-az-23274",
+      "wikisource-az-23887"
+    ],
     "wikipedia": {
       "az": "Məhəmməd Füzuli",
       "ru": "Физули"
@@ -386,6 +397,12 @@
     "type": "POET",
     "period": "XII əsr",
     "writingLangs": ["FA"],
+    "skipSources": [
+      "ganjoor-133741",
+      "ganjoor-133749",
+      "ganjoor-133786",
+      "ganjoor-133824"
+    ],
     "wikipedia": {
       "az": "Məhsəti Gəncəvi",
       "ru": "Мехсети Гянджеви"

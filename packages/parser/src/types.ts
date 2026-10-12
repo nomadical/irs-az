@@ -204,6 +204,7 @@ export interface AuthorConfig {
   type: AuthorType;
   period?: string;
   writingLangs: Language[];
+  skipSources?: string[]; // sourceIds of pages that repeat another work; scrapers don't write them
   wikipedia?: {
     az?: string; // AZ Wikipedia page title
     ru?: string; // RU Wikipedia page title
