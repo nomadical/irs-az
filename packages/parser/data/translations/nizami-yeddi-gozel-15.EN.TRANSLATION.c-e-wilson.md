@@ -24,7 +24,7 @@ So far as may be, like the vernal breeze, my claim shall not be patching up old 
 
 Still, to the treasury when one the road — the target one, although the arrows two —
 
-Though in the art of boring pearls (72S) We bound myself not to repeat what has been said,
+Though in the art of boring pearls I’ve bound myself not to repeat what has been said,
 
 When repetition I can not avoid, I can produce fine silk from woollen stuff.
 
@@ -40,7 +40,7 @@ As soon as Bahram Gur became aware that one, a stranger, had usurped the crown.
 
 He actively prepared for enmity, to seek the crown of the Kayanian kings.
 
-In (this his) quest of universal sway Numan and Muimr gave him (every) help:
+In (this his) quest of universal sway Nu'man and Munzir gave him (every) help:
 
 Treasure more plentiful than could be named; jewels more numerous than one could bore.
 
@@ -68,17 +68,17 @@ The monarch of the world received the news that a young dragon had unclosed its 
 
 That to the earth the heavens had inclined, Canopus had from Yaman raised its head.
 
-A lion had stretched out Lis claws with might to put his foe as ‘‘ gur ” into the “ gur ”.
+A lion had stretched out his claws with might to put his foe as “gur” into the “gur”.
 
 That he would take the throne and seize the crown — would settle down himself, and lay the dust.
 
 The nobles and the ministers and guards all came together to the royal court.
 
-They met in congress and expressed their views; they spumed all arrogance away (from them).
+They met in congress and expressed their views; they spurned all arrogance away (from them).
 
 After reflection they decided thus, that they would write a letter to Bahram.
 
-AH that good sense dictated, that, they wrote, they sowed seed which had (previously) been peeled.
+All that good sense dictated, that, they wrote, they sowed seed which had (previously) been peeled.
 
 The letter written out they folded it, and made their preparations to depart.
 

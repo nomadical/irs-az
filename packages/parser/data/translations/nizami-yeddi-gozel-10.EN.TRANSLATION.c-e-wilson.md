@@ -62,7 +62,7 @@ Of that deep knowledge should you be possessed, you would withdraw your heart fr
 
 Since the sky raised its seven (high) fortresses, so strong a crane had never been at work.
 
-Hu'man sprang from his place and rent his robes; he ran down (from the roof) hke one distraught.
+Hu'man sprang from his place and rent his robes; he ran down (from the roof) like one distraught.
 
 He sought the village, turned his heart from self, (and) understood his business in a trice.
 

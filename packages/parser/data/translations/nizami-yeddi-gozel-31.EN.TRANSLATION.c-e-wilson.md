@@ -544,7 +544,7 @@ Of such a work of happy aim as this may the result be good as is your name!
 
 Then he consigned him to an intimate, to take him to (his) daughter’s private room.
 
-He saw a sun-hke face, a cypress tree, to a willow turned from epilepsy’s blasts.
+He saw a sun-like face, a cypress tree, to a willow turned from epilepsy’s blasts.
 
 With eyes of ox, like lion all perturbed, by night not resting, sleeping not by day.
 
@@ -650,7 +650,7 @@ Bad who had been companion on his road, and been acquainted with his good and ba
 
 Traded with Jewish craft and stinginess; Good saw that Jew, and recognized him (soon).
 
-He said, Bring to the garden after me that person with (ah) harshness and contempt.
+He said, Bring to the garden after me that person with (all) harshness and contempt.
 
 Good to the garden went, and sat at ease; the Kurd sat (there) before him, sword in hand.
 
@@ -688,7 +688,7 @@ He said. Have mercy, though I have done ill; ’tis I who did it, therefore see 
 
 To this look, that the swiftly-rolling sky gave Bad as name to me, and Good to you.
 
-If on that former day I did to you that which the name of one hke me entails,
+If on that former day I did to you that which the name of one like me entails,
 
 In such a state of peril do to me what fits the name of one renowned like you.
 

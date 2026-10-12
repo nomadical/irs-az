@@ -82,7 +82,7 @@ Upon a day, on Yaman’s hunting-ground, in company with brave men of that land,
 
 The prince whose name had Bahram Gur become, whose Bahram bore the ball off from the sky,
 
-Was breathing in the pleasure of the chase — Munzir preceding, and Numan behind.
+Was breathing in the pleasure of the chase — Munzir preceding, and Nu'man behind.
 
 Lost in amazement at the majesty his form from head to foot displayed were all.
 

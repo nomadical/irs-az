@@ -90,7 +90,7 @@ The king thus spoke; opinions were compared; the oldest priest then stood up fro
 
 He said, You in your lordliness are wise and giver, too, of wisdom (to us all).
 
-AH you have said in your well-ordered sense reason has graven on the ring, the heart.
+All you have said in your well-ordered sense reason has graven on the ring, the heart.
 
 The highest place befits you, for of all you’re chief, the shepherd, guardian of the flock.
 

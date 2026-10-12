@@ -200,7 +200,7 @@ Till in the kingdom, ere a year had passed, no land or wealth remained to anyone
 
 The probity of each man was approved according to the measure of his bribe.
 
-Of gold and jewels, male and female slaves, to no one aught remained in (ah) the realm.
+Of gold and jewels, male and female slaves, to no one aught remained in (all) the realm.
 
 The richer than the poorer more in want, not from deficiency, but having more.
 

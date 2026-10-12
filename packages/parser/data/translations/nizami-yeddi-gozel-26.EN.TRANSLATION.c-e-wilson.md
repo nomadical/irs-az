@@ -410,7 +410,7 @@ Till night-time I reposed in that retreat; I had not gone though endless work ha
 
 I ate a little, slept a little (too); thanksgiving offered up for every state.
 
-When night adorned (the world) in different mode, gathered collyrium up and crimson spumed;
+When night adorned (the world) in different mode, gathered collyrium up and crimson spurned;
 
 When o’er the hills the moon wove linen threads, and like a flower was cleft the eastern sky,
 
@@ -866,7 +866,7 @@ Drink you the wine still, the habab ” will come; look at the Moon still, for t
 
 I said, O Sun, by whom my garden lives, fountain of light, and source of (all) my joy.
 
-The dawn, your face, has risen hke the rose — how should I die not, near you, like a lamp!
+The dawn, your face, has risen like the rose — how should I die not, near you, like a lamp!
 
 You show sweet water to a thirsty one, (and) then say. Close your lips, (and) drink (it) not.
 
@@ -896,7 +896,7 @@ Though you have haunches like a (young) gazelle’s, how long into a hare’s sl
 
 I fear this ancient wolf of vulpine craft in wolfish, vulpine dealings will engage;
 
-That hke a lion-taker it will charge, and, as a leopard might, win cast me down.
+That like a lion-taker it will charge, and, as a leopard might, win cast me down.
 
 Consumed am I by my desire for you, (then) suffer me to attain to my desire.
 

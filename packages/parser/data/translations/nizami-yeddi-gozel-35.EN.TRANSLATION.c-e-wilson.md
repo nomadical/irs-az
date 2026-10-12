@@ -32,7 +32,7 @@ That brother done to death by tyranny, this one, with loss of all, escaping deat
 
 "When from the victim’s words the king had learned that which the minister had done to him,
 
-AH that from him the minister had stolen, all, with the price of blood, he granted him.
+All that from him the minister had stolen, all, with the price of blood, he granted him.
 
 He set him free (from jail) and cheered his heart, (and) let him (then) return to his affairs.
 
@@ -80,7 +80,7 @@ And (then), that in the court where wrongs are heard I might not bring this wron
 
 With pain and suffering he imprisoned me: two years your humble (slave) has suffered this.
 
-The king gave him a garden, fields as well: he gave a house and garden hke Baghdad.
+The king gave him a garden, fields as well: he gave a house and garden like Baghdad.
 
 (TFen) the third prisoner said to King (Bahram), You who have over all entire control,
 
@@ -194,7 +194,7 @@ Give me, as should be given, my share of it, or I will give your head unto the w
 
 To end the business, he afflicted me: made me his slave and put me into jail.
 
-’GPis now five years that, in the prison kept, We been removed from children, house, and home.
+’Tis now five years that, in the prison kept, I’ve been removed from children, house, and home.
 
 The king commanded he should be restored in comfort and in ease to what he’d owned.
 

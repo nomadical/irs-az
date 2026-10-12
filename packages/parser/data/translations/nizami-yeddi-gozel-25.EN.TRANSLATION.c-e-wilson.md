@@ -44,7 +44,7 @@ The roses through the furnace strained by art had plastered (too) cement above (
 
 The drops mercurial in the water-glass were, layer upon layer, silver pure.
 
-In such a season the king’s winter-house of (ah) four seasons kept the temperature.
+In such a season the king’s winter-house of (all) four seasons kept the temperature.
 
 Through all the many fragrant perfumes (burnt) (well)- tempered had the wintry air become.
 

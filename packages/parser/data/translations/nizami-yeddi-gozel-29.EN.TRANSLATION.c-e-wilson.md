@@ -346,7 +346,7 @@ He dressed in red, for blood’s involved, said he; this plaint is from the sky�
 
 Since he was soon to enter seas of blood, he made his garments, as his eyes, blood-stained.
 
-AH care for his own safety he resigned.--(Then) cries of disapproval rose from all.
+All care for his own safety he resigned.--(Then) cries of disapproval rose from all.
 
 He said, I take not for myself this pain; nay, rather, I avenge unnumbered heads.
 
@@ -546,7 +546,7 @@ I who have wisdom and approve the wise, in wisdom am inferior to him.
 
 Her father, when he heard these pleasant words, said to the O you of angel kind,
 
-The converse which We witnessed (at this time), — its face behind a veil has been concealed.
+The converse which I’ve witnessed (at this time), — its face behind a veil has been concealed.
 
 All that in secret converse has occurred, you must successively narrate to me.
 

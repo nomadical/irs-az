@@ -164,7 +164,7 @@ Gold is two letters, unconnected each; how long boast of this worthless, scatter
 
 Let not your heart, like earth, be filled with gold, so that you be not scattered e’en like gold.
 
-AH pictures which have breast-plates made of gold have tunics made of lapis lazuli.
+All pictures which have breast-plates made of gold have tunics made of lapis lazuli.
 
 Each balance which devotes itself to gold suffers from stoning at a thousand doors.
 

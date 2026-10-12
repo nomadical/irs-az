@@ -78,7 +78,7 @@ The wings of peacocks from its feet arose; above its head a (radiant) throne-lik
 
 It flew so (quick) that from that heated flight the vultures four behind it shed their plumes.
 
-It passed (straight) over whatso’er it saw: the night was spumed, the moon drew in (her) reins.
+It passed (straight) over whatso’er it saw: the night was spurned, the moon drew in (her) reins.
 
 Bewildered at that movement was the sphere; through such bewilderment (its head) went round.
 

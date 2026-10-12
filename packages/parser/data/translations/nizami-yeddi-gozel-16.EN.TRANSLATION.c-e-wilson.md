@@ -32,7 +32,7 @@ You, with the wisdom of a king, king’s son, who’re just to manliness and gen
 
 How should I who by race am Kisra called, by ill-advised contention suffer loss?
 
-We merit and experience of the world; I’m in the eyes of (ah) the world approved.
+I’ve merit and experience of the world; I’m in the eyes of (all) the world approved.
 
 And for my merit Fortune fosters me — How can the meritless get crown and throne?
 

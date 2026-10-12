@@ -132,7 +132,7 @@ After a little while the royal guards came up in troops upon the prince’s trac
 
 When one and all of them had joined the prince, they (all) drew up in (serried) ranks around.
 
-The prince commanded that the servants (there) — (ah) those who were both bold and also strong —
+The prince commanded that the servants (there) — (all) those who were both bold and also strong —
 
 Should get into the treasure-house, the cave; should bear the treasure out and load it up.
 

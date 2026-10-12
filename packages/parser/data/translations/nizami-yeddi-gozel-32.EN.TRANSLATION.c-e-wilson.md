@@ -278,7 +278,7 @@ Whenever she began to touch the strings, love woke alert, and intellect was dimm
 
 The master with that charmer of the world more charmed afar than watchmen are with light.
 
-Although each one was (like) a (radiant) moon, in that assembly she was hke a queen.
+Although each one was (like) a (radiant) moon, in that assembly she was like a queen.
 
 The ascetic in his heart strayed from the path: the laxness see! fine moral usages!
 
@@ -538,7 +538,7 @@ He whom the demon brings not to his aims is good in grain, naught that is good d
 
 (But) lie who puts his heart on action base, — saving your presence, — base of birth is he.
 
-A beauty with so fairy-hke a face, — no person can refrain from loving her:
+A beauty with so fairy-like a face, — no person can refrain from loving her:
 
 (No man), especially, who has some youth, the feelings of a man, some love in him.
 

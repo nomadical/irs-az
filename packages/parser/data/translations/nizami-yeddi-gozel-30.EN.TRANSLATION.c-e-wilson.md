@@ -96,7 +96,7 @@ Mahan said, From the Nile to my abode the distance of the way is but a mile.
 
 (But) we have traversed leagues exceeding four, beyond the limits of the circle gone.
 
-Again he said. But I perchance am drunk, erroneous pictures on my eyes We drawn.
+Again he said. But I perchance am drunk, erroneous pictures on my eyes I’ve drawn.
 
 He who is acting as my friendly guide knows (well) the road and is intelligent.
 
@@ -492,7 +492,7 @@ That (dreary) desert which surrounds these tracts, fearful and sterile, is the a
 
 From those base-natured beings you are saved, and such a treasure-house you (now) have reached.
 
-Those Ethiop-hke dwellers in the waste are fiends who ape men’s form, and men devour.
+Those Ethiop-like dwellers in the waste are fiends who ape men’s form, and men devour.
 
 They first of all deceive men (by their wiles), then (with) no stinted torture torture them.
 
@@ -502,7 +502,7 @@ Their love is (but) a prelude to (their) hate; such (always) is the habit of the
 
 He who (by nature) to deceit is given is] even] of the demons of those depths.
 
-And such-hke fiends are many in the world, who laugh at fools whilst they are fools themselves.
+And such-like fiends are many in the world, who laugh at fools whilst they are fools themselves.
 
 Sometimes they hide a lie beneath the truth; sometimes find poison in an antidote.
 
@@ -516,7 +516,7 @@ Such tricks as these by wicked beings played, they show not save to simple-minde
 
 (’Twas) terror made a fierce attack on you, and gave the play of fancy to your mind.
 
-AH this oppression practised upon you came from alarm at straying from the road.
+All this oppression practised upon you came from alarm at straying from the road.
 
 If your heart then had kept its normal state, your mind would not have harboured fantasies.
 
@@ -756,7 +756,7 @@ O you whose head has come into my hands; O you whose lips are bitten by my teeth
 
 You put your hands on me, your teeth as well, to kiss my lips, and (kiss) my chin as well.
 
-(Now) look at hands and teeth, — nay, sword and lance! hke this are hands and teeth, (and) not like that.
+(Now) look at hands and teeth, — nay, sword and lance! like this are hands and teeth, (and) not like that.
 
 What was all this desire of yours at first? and why has your desire so weakened now!
 
@@ -766,7 +766,7 @@ Do not take wine from such a cupbearer as tempts to sense-deluding drunkenness.
 
 (And) do not hire a house (too) in a street where the police-director is a thief. —
 
-AH these, my acts, are such as they should be, if I would treat you as is requisite. p
+All these, my acts, are such as they should be, if I would treat you as is requisite.
 
 If I should act not as befits you, then I am the same one that you saw at first.
 
@@ -806,13 +806,13 @@ The breasts of birds and backs of (tender) kids were ah but carrion (now) of ten
 
 The player’s instruments, harps, rebecks (all) were (nothing but) the bones of animals.
 
-Those (costly) tissues (ah) adorned with gems (were now ah) leather sis, with tanning, foul.
+Those (costly) tissues (all) adorned with gems (were now ah) leather sis, with tanning, foul.
 
-The sandal-tree and carpets honeycombed had camphor-hke evaporated (ah).
+The sandal-tree and carpets honeycombed had camphor-like evaporated (all).
 
 Tanks (clear) as eyes reflecting honour’s soul had turned to Rinks of putrid, stiulang lymph.
 
-And that which had been left of (ah) the food; that which remained in the cupbearers’ jugs.
+And that which had been left of (all) the food; that which remained in the cupbearers’ jugs.
 
 Was refuse, in its nature ordurous; was percolation, ah, of (oozing) sores.
 

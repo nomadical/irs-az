@@ -48,7 +48,7 @@ With carpets made the belvedere like heaven, (and) well disposed all ornaments r
 
 The monarch’s canopy, when from the chase he came, again reached the moon’s apogee.
 
-The host then (came and) from his choicest rolls, — both stuffs of Bum and China’s finest goods, —
+The host then (came and) from his choicest rolls, — both stuffs of Rum and China’s finest goods, —
 
 Layer on layer of (these) gorgeous stuffs, in whose resplendence heart and brain rejoiced, —
 

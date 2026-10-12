@@ -118,11 +118,11 @@ const CONFUSIONS: [string, string][] = [
   ['1', 'l'], ['0', 'o'],
   // Wilson's Haft Paikar (an Indian Digital Library scan) has its own: "tMs" (this), "stiH" (still),
   // "Kke" (like), "seK" (self), "foimd"/"roxmd" (found, round), "WTien"/"WHien" (When), "hiTn"
-  // (him), "kmg" (king), "IVe" (We), "aSairs" (affairs), "witi" (with); E, B or P for F/R
+  // (him), "kmg" (king), "aSairs" (affairs), "witi" (with); E, B or P for F/R
   ['M', 'hi'], ['M', 'ki'], ['M', 'h'], ['M', 'lf'], ['H', 'll'], ['H', 'li'], ['H', 'il'], ['H', 'hi'], ['H', 'lf'],
   ['K', 'li'], ['K', 'lf'], ['h', 'lf'],
   ['im', 'un'], ['xm', 'un'], ['im', 'nn'], ['Ti', 'h'], ['Hi', 'h'], ['Ti', 'n'], ['Tn', 'm'], ['TY', 'm'],
-  ['m', 'in'], ['IV', 'W'], ['S', 'ff'], ['S', 'fl'], ['E', 'ff'], ['i', 'h'],
+  ['m', 'in'], ['S', 'ff'], ['S', 'fl'], ['E', 'ff'], ['i', 'h'],
   ['E', 'F'], ['E', 'R'], ['E', 'K'], ['B', 'F'], ['P', 'F'],
 ];
 

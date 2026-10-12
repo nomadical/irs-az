@@ -280,7 +280,7 @@ Since I’ve, in truth, been able to infer that those possessed of learning you 
 
 That wily men’s deceit you favour not, reject the imposture of satiric rogues,
 
-This picture from the eternal studio, Leo ascendant, We attached to you.
+This picture from the eternal studio, Leo ascendant, I’ve attached to you.
 
 How fortunate that person who may bring such produce to your house from grain you give!
 

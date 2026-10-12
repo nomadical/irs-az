@@ -191,7 +191,13 @@
     "efEect": "effect",
     "feiendlv": "friendly",
     "gmlty": "guilty",
-    "spUt": "split"
+    "spUt": "split",
+    "IVe": "I’ve",
+    "Muimr": "Munzir",
+    "spumed": "spurned",
+    "AH": "All",
+    "Numan": "Nu'man",
+    "hke": "like"
   },
   "corrections": [
     {
@@ -473,6 +479,38 @@
     {
       "from": "brought the gurkhan ” to the jars, leaving no trace, the gur ” (then)",
       "to": "brought the “gurkhan” to the jars, leaving no trace, the “gur” (then)"
+    },
+    {
+      "from": "boring pearls (72S) ",
+      "to": "boring pearls "
+    },
+    {
+      "from": "stretched out Lis claws",
+      "to": "stretched out his claws"
+    },
+    {
+      "from": "stuffs of Bum and",
+      "to": "stuffs of Rum and"
+    },
+    {
+      "from": "’GPis now five years",
+      "to": "’Tis now five years"
+    },
+    {
+      "from": "(ah) the world",
+      "to": "(all) the world"
+    },
+    {
+      "from": "as is requisite. p",
+      "to": "as is requisite."
+    },
+    {
+      "from": "as ‘‘ gur ” into the “ gur ”",
+      "to": "as “gur” into the “gur”"
+    },
+    {
+      "pattern": "\\(ah\\)",
+      "to": "(all)"
     }
   ],
   "sections": [
