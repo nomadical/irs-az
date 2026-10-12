@@ -96,7 +96,7 @@ export const scrapeTranslationsCommand = new Command('scrape-translations')
           type: 'TRANSLATION',
           scriptDirection: 'LTR',
           translator: cfg.translator,
-          translatorNote: `${cfg.title}. OCR text from a scanned copy; may contain scanning errors.`,
+          translatorNote: cfg.proofread ? cfg.title : `${cfg.title}. OCR text from a scanned copy; may contain scanning errors.`,
           year: cfg.year,
           sourceNote: plan.sourceUrl,
           isDefault: true,

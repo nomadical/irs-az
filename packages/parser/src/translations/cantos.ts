@@ -72,8 +72,17 @@ function pageLines(page: string): Line[] {
   return lines;
 }
 
-/** OCR renderings of margin numbers: "i" (1), "e" (5), "is" (15), "so" (50) … */
-const MARGIN = /^(\d{1,3}|i|e|is|so|io|lo|3\(>)\s+/;
+/**
+ * OCR renderings of margin numbers: "i" (1), "e" (5), "is" (15), "so" (50), "eo" (60), "i°" (10) …
+ * Only checked left of the text edge, where a verse line never starts with a lowercase word
+ */
+const MARGIN = /^(\d{1,3}|[a-z°]{1,3}|3\(>)\s+/;
+
+/**
+ * A running head with the canto number, as OCR mangles it: "(JANTO XXV.]", "0ANT0 XXV.]",
+ * "OAKTO XXXIV.]", "nANTo lxx.]", "[canto L."
+ */
+const CANTO_HEAD = /^[\[(.]?\S{0,4}T[O0o]\s+[XLVIl1in]+[.,]?\s*([\]j]|$)/i;
 
 /**
  * runningHeads: page headers as printed ("THE SIKANDAR NAMA,E BARA"), matched loosely since
@@ -110,7 +119,11 @@ export function parseCantos(
       const k = Math.round(l.x / 20);
       starts.set(k, (starts.get(k) ?? 0) + 1);
     }
-    const shared = [...starts].filter(([, n]) => n >= 2).map(([k]) => k);
+    // A stray line or two (a margin number, scanner noise) mustn't set the edge: then every
+    // real line looks indented and all are glued into one. Count a start only if it is shared
+    // by at least a quarter as many lines as the most common start
+    const most = Math.max(0, ...starts.values());
+    const shared = [...starts].filter(([, n]) => n >= 2 && n >= most / 4).map(([k]) => k);
     const edge = 20 * (shared.length ? Math.min(...shared) : Math.min(...starts.keys()));
 
     let inNotes = false;
@@ -141,10 +154,19 @@ export function parseCantos(
         inNotes = false;
         continue;
       }
+      // Headers are set in capitals; verse naming the book ("(the Sikandar Nama,e bara),") is not
+      const letters = t.replace(/[^A-Za-z]/g, '');
+      const capitals = letters.replace(/[^A-Z]/g, '').length >= letters.length * 0.7;
       const isHeader =
         /^[CO0]ANTO\b/i.test(t) ||
+        CANTO_HEAD.test(t) ||
+        // "the sikandak nama,e bara. [canto xxvii.", "BAEA. [CAJNTO XXXIII.": the canto named mid-line
+        /\bcanto\s+[xlvij1]+\b/i.test(t) ||
+        /[[(]\s*\S{0,3}NT[O0]\s+[XLVI]+/.test(t) ||
         /^[\dIVXLC.\s]{1,6}$/.test(t) ||
-        runningHeads.some((h) => similarity(t.replace(/\[.*$/, ''), h) >= 0.6);
+        // "SIKANDAR PREPARES FOR WAR. 271": a line of capitals ending in a page number
+        (capitals && letters.length >= 10 && /\d{2,3}\s*$/.test(t)) ||
+        (capitals && runningHeads.some((h) => similarity(t.replace(/\[.*$/, ''), h) >= 0.6));
       if (isHeader) continue;
       if (!current) continue;
 

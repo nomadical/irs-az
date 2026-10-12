@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -240,9 +238,6 @@ Saying: — " To-night, through gladsomeness, there is freshness for the world;
 " If his be the standard above his head,
 " Mine are a hundred standards outside the door.
 
-Outside my door a hundred persons, standard-bearing, are standing
-to purchase my beauty.
-
 "If through pre-excellence he became sovereign of the world,
 " By soul-cherishing I am sovereign of the lovely ones!
 
@@ -288,7 +283,7 @@ When I cast up my veil from my face
 " I practise silver- working (the fascinating of men), because I am silvern of body;
 " But I shatter not the lock (of chastity) of the treasure (the body).
 
-oo " Of the door (of chastity) of our garden (the body), which became hidden (behind the screen of neglect),
+" Of the door (of chastity) of our garden (the body), which became hidden (behind the screen of neglect),
 " No one save the gardener (Sikandar) knows the key.
 
 " Although I have many fresh dates (charms),
@@ -334,7 +329,7 @@ M akes its mansion empty in hope of me.
 " From which (in envy) the musk of the deer in the desert became dry.
 
 " When I bring the amorous glance into my intoxicated (wanton) eye,
-u I bring to my hand (to sense) a hundred (lovers of mine, hearts) gone from the hand.
+I bring to my hand (to sense) a hundred (lovers of mine, hearts) gone from the hand.
 
 " When 1 make the tress a curl on the shoulder-side,
 " Come, that thou mayst see (a hundred lovers of mine) heart gone from sense.
@@ -348,7 +343,7 @@ u I bring to my hand (to sense) a hundred (lovers of mine, hearts) gone from the
 " Place the wax-seal with the sovereignty of Chin;
 " Strike five drums for the plunder of Rum (far distant from Chin).
 
-no " Am a liver-piece (a cherished one) of the men of Chin by my mole;
+" Am a liver-piece (a cherished one) of the men of Chin by my mole;
 " Am the lamp of the heart of the men of Rum by the omen (of beholding my beauteous face):
 
 " Give the rose-conserve (to the lover) when I become sleepy;
@@ -361,16 +356,13 @@ no " Am a liver-piece (a cherished one) of the men of Chin by my mole;
 " He considers me the idol-house of the garden of Iram.
 
 " When my pomegranate-breast became upreared,
-u The heart of the pomegranate of the garden became shed (in envy).
+The heart of the pomegranate of the garden became shed (in envy).
 
 " Of my pomegranate (breast), which is the orange (of delight) of the 'Nau-roz,'
 " To whom — share and power? To whom, — is such daily food?
 
 " The auspicious tree am I, who am the friend of my own fruit;
 " I am the rose, fruit-producing, although I am in the skin (in bud).
-
-U5 The orange of the Nau-roz, kings and nobles pass round for good
-luck,
 
 " I and red water (wine) and the king's fresh head (are enough);
 " Say to the world: — Wash (down) thyself with black water (the salt sea).
@@ -429,8 +421,6 @@ luck,
 " Fruit (a person) like me, — only in the shade of the house — O leave not!
 " For fruit, shade-ripened, is unpleasant.
 
-The being dusty (humble) is best, so that thou mayst remain long.
-
 " Thou thyself (art) my fragrant herb-seizer,
 " For the house, no help is of the fragrant herb.
 
@@ -443,12 +433,10 @@ The being dusty (humble) is best, so that thou mayst remain long.
 " Thou mayst not obtain a greater liver-devourer (a (tormentor of lovers) than me;
 " A liver-devourer! nay, a sugar-lump (one of sweet gait)!
 
-uo " How many hearts that have become blood through my devouring the blood (of their livers)!
+" How many hearts that have become blood through my devouring the blood (of their livers)!
 " How much blood that has remained on my neck.
 
-" (In sale) I became opposed to (was put in competition
-
-, with) sugar-lumps;
+" (In sale) I became opposed to (was put in competition with) sugar-lumps;
 " Than for them, — the markets were brisker for me.
 
 " I am pleasant and heart-alluring in voice and face;
@@ -456,8 +444,6 @@ uo " How many hearts that have become blood through my devouring the blood (of t
 
 " When I become the cup-bearer, wine (from my hand) is not unlawful;
 " When I become the minstrel I scatter sweetness (of song) from the palate.
-
-The second line may be: — Fear the eagles (the vicissitudes of Time) making prey (of pleasure).
 
 " When happy, I place my hand on the stringed instrument of melody,
 " I make (the hearer) intoxicated with love, and then become the (slayer) of the intoxicated.

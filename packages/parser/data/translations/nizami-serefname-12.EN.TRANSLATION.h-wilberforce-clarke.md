@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -30,7 +28,7 @@ Rum and Russ accepters of his command.
 His abode was in the Greek-land;
 His place (dominion) more particularly in Makedonia.
 
-s He was the best of the kings of the world;
+He was the best of the kings of the world;
 Was the maternal uncle-born one of 'Iys (Esau), son of Ishak (Isaac):
 
 Was such a dispenser of justice that, by his own justice,

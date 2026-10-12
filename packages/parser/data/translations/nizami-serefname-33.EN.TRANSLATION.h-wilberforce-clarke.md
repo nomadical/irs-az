@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -17,8 +15,6 @@ Is, like running (pure) water, fit for the thirsty one, —
 
 In this grief (of desire of gold) in which from thirst I have burned,
 Give me; for I have learned drinking the wine (of senselessness).
-
-Firdausi, in his Shah-Nama, calls her — Kaydafa.
 
 Burda'! O happy country (in) whose confines, —
 Neither the spring month (sun in Taurus) nor the winter month (sun in Capricorn) — is flowerless.
@@ -49,8 +45,6 @@ Thou wouldest say: — " In it, they have sown gold and saffron."
 
 The prond mover over the verdure of that land
 Beholds no form save joyousness.
-
-Xenophon found the word pairidaeza (a piece of ground enclosed by a
 
 Now, the throne of that court has become shattered;
 The wind has carried its damask silk and brocade:
@@ -185,7 +179,10 @@ But none (of them) sees her face.
 " She is, all day, edifice- worshipping (laying foundations of buildings).
 
 " Has a lofty royal pavilion;
-" Within it, a valuable carpet spread: A throne of crystal upreared; On it, jewels in ass-loads strewed (studded).
+" Within it, a valuable carpet spread:
+
+A throne of crystal upreared;
+On it, jewels in ass-loads strewed (studded).
 
 " From many night-lamps (jewels), that precious place (the throne)
 " Is at night the resplendent moon, lamp-like.
@@ -354,11 +351,6 @@ Saying: — " This man, affairs-understanding, of deliberate judgment,
 
 From head to foot she glanced at the monarch;
 Struck the proof of the pure gold (Sikandar) on the touchstone (of her glance).
-
-In the king's presence messengers went through the forms of supplication (niyaz); of humility (khuzu'); and of eye-lowering (khushu.').
-The second line may be: — The beholder's eye became jewel (tear) -scattering.
-
-Otherwise: —
 
 When she clearly saw, she recognized him;
 She made his place of ease on her throne:
@@ -609,7 +601,7 @@ To him she spoke, saying: — " O prosperous king!
 " I have sent to every territory
 " One intelligence-recognising and picture-painting,
 
-no " Por the reason that of kings, world-seizing,
+" Por the reason that of kings, world-seizing,
 " Should on silk express the form of each,
 
 " The form-delineator of every country,
@@ -624,7 +616,7 @@ no " Por the reason that of kings, world-seizing,
 " When they say, — it is the picture of a certain king,
 " I accept (the fact) that that picture is a true picture.
 
-lis " Then from the nail of the foot to the crown of the head
+" Then from the nail of the foot to the crown of the head
 " On every form, I establish my sight.
 
 " Of everyone years-experienced and everyone youthful,
@@ -699,7 +691,7 @@ Again (to his heart) Sikandar said: — " What is this loss of self-possession?
 " If thou hadst found a malicious enemy,
 " Save head-severing, what wouldst thou have spun (reaped)?
 
-ho " If I withdraw myself from this place,
+" If I withdraw myself from this place,
 " I will preserve the extent of my own work:
 
 Will not again clothe the face like strangers;
@@ -1047,7 +1039,8 @@ Prepared a noose, ambergris-scattering.
 With that musky noose (dark night) — the moon and Jupiter (the damsels of fairy form),
 He brought down from the lofty sphere (and detained for his night-feast).
 
-May with wine (rose-water sprinkling) become illumined like the rose; May bring forth, sweat (of freshness) from this flagon of clay (the body of dust).
+May with wine (rose-water sprinkling) become illumined like the rose;
+May bring forth sweat (of freshness) from this flagon of clay (the body of dust).
 
 That heart-enchanting night was the night of the feast;
 Pari-forms, Pari-like, splendour-displaying (in bejewelled garments),

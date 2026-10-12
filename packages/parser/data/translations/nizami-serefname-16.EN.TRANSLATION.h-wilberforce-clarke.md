@@ -4,14 +4,18 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
 status: DRAFT
 ---
+Come, cup-bearer! that wine (of senselessness) that is like the men of Rum (red and white)
+Give me; for my temperament is happy like the (temperament of the) men of Zang.
+
+Perhaps with (opposed to) me this fearless panther (the traitor, Time)
+May not be of two colours (deceitful) like the men of Rum and of Zang.
+
 This far-road (the world) is a deceiver-road;
 Because one beholds its light on the seventh heaven (exceedingly distant).
 
@@ -135,9 +139,6 @@ He drank it (the blood) like (simple) water, but drank not (simple) water!
 Those persons who were with him (Tutiya-Nosh) on the road
 Went before Sikandar, water in the eye (weeping).
 
-The King of Zang js likened to a snake on account of his contortions,
-blackness, and injuriousness.
-
 They represented, saying: — " That man of Rum of beautiful countenance (Tutiya-Nosh),
 " How much ill he experienced from that man of Zang of cold (little) love."
 
@@ -163,7 +164,7 @@ Put out of his head anger, thought-consuming.
 The bird (the owl) on the resolution of nightfall, uttered a plaintive tale.
 
 The men of Bum paled at the thought of being devoured by the men
-of Zang.
+Zang.
 
 When the Hindu of the sky (Saturn) hung from his waist
 Bells of gold (stars) for watch-keeping over the king.
@@ -354,15 +355,13 @@ They cut off the head, like a mountain-fragment;
 Gave it to the cook, saying: — " Take it;
 " Prepare whatever is fit for the king."
 
-Quatrain: —
-
 He (Sikandar), on the other hand, uttered the secret to the cook —
 How it was proper to prepare for him this repast.
 
 On foot before the Khusrau the other men of Zang
 Were at that custom and usage helplessly astonied.
 
-us When the Khusrau ordered that they should bring the tray;
+When the Khusrau ordered that they should bring the tray;
 Should lay the victual (table) -cloth.
 
 The intelligent person (the cook) brought the tray,
@@ -437,7 +436,7 @@ As the star from the dark cloud at night.
 Again the two armies arose:
 They arranged their ranks in another form.
 
-no Two clouds from two directions began to shout;
+Two clouds from two directions began to shout;
 Two seas of fire came into agitation.
 
 The armies of Rum and Zang commingled;
@@ -527,7 +526,7 @@ Saying: — " Than the (consuming) fire beneath the smoke, I am more consuming (
 " Weapons (the hand and foot) like the male lion from my body spring;
 " Besides, I have the weapon of steel (the sword).
 
-i?o " Like the diamond (the steel sword) and iron (the mail armour) — my veins and body!
+" Like the diamond (the steel sword) and iron (the mail armour) — my veins and body!
 " Of diamond and iron — mine, what need?
 
 " When in neck-extending (arrogance) I extend my neck,
@@ -747,7 +746,7 @@ Verily the army of Zang and the tribe of Abyssinia
 Became in every corner sword-drawing.
 
 On the right flank the men of Abyssinia; on the left the men of Barbary;
-n the centre the man of Zang (the chief) demon-like.
+In the centre the man of Zang (the chief) demon-like.
 
 When the king's drummer beat the drum of battle,
 The Zangi bell-holder shook the bell (of battle).
@@ -796,8 +795,6 @@ The steed, under the subjection of the rein, began to dance.
 
 By the point of the arrow of wasp-sting
 The surface of iron and stone became rent.
-
-The arched eye-brow (the bow), eye-lash (arrow) shooting, was so
 
 The earth, stained (or distracted) with the blood of those cleft asunder (with the sword),
 The air bound by the sighs of those wounded.
@@ -868,8 +865,8 @@ To the king he spoke, saying: — " O lion, prey-experienced (war-tried)!
 " Go not, so that I may display the contest of warriors,
 " So that I may show in this battle-field the rage of lions.
 
-" We shall see to which of us is superiority; To which in this matter is victory."
-a rn.
+" We shall see to which of us is superiority;
+" To which in this matter is victory."
 
 At the raging of the man of Zang, inexperienced in action,
 The blood in the monarch's heart raged.
@@ -1099,8 +1096,6 @@ Tumult brought forth its head (appeared) from the midst (of the men).
 When the conflict of the two armies passed beyond limit,
 Time folded up the leaf of one (the Zang).
 
-The sky, really of an azure colour, is by poetical usage black.
-
 Victory became the guide (ally) of the strong one (army of Rum);
 The weak one (of the army of Zang) came to quarter-asking.
 
@@ -1196,8 +1191,6 @@ It is not possible to draw the head from destiny.
 
 Like smoke — from beneath the veil of sombre hue (mourning garment),
 Turn not the head from the (order of the) azure (black) vault (of the sky).
-
-very black) could surpass (in beauty) the moon and Jupiter. A corn-
 
 The heavens that are like azure-coloured silk,
 Are blue (black) dyers of all garments (of the disobedient).

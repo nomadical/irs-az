@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -162,7 +160,7 @@ He sent a portion to every treasury.
 When the time reached (came) to D&r&'s selected portion,
 The camel-loads of gold reached to Bukhara city.
 
-o He (Sikandar) chose a man possessed of wisdom and judgment,
+He (Sikandar) chose a man possessed of wisdom and judgment,
 Who should perform the regulations of that service (of embassage to Dara):
 
 Selected from the booty many valuables,
@@ -176,8 +174,6 @@ Ambergris in chests; musk in ass-loa*i>:
 
 One (house) full of gold and silver unsmelted (virgin);
 Another house full of camphor unrefined (raw):
-
-.Mo XXI.j S1KAXDAE FOUNDS ISKAMDBIIA. 227
 
 Of aloe-knots loads bound in bales.
 1 >f which every load was one hundred '; man " in weight:
@@ -235,8 +231,6 @@ Verily, the man of Rum became free from (the reproach of) pusillanimity.
 
 — When Time practises helping the feeble,
 The (weak) ant sports with the savage dragon. —
-
-Dara's reply was — envy-stirring, hostility-exciting.
 
 In this mill (of Time) thou mayst behold many grains (of property);
 Everyone, in turn, throws (his property) beneath the mill-stone.

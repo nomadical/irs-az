@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -56,8 +54,6 @@ Both throne-adorner, and also crown-bestower.
 
 By the custom, which was the regulation of kings, —
 The key was of iron; the treasure, of gold.
-
-Nasratu-d-din kept living — the earth, by justice and liberality; and
 
 Except him (Nasratu-d-din), — who illumines (polishes) the iron of the sword;
 Who makes the key of gold, and the treasure of iron (the sword).
@@ -254,7 +250,7 @@ Increases (replenishes as a servant) the oil of thy lamp (of life).
 All day the sun with the collar of gold
 Binds his loins (as a servant) at the foot of thy throne.
 
-s The Entruster of Royalty to thee (God)
+The Entruster of Royalty to thee (God)
 Entrusted to thee whatever of the world thou desirest.
 
 He gave thee country for that reason that thou niightest exercise sovereignty (world-guarding),
@@ -267,7 +263,7 @@ Thanks to the Lord, World- Shelter (G-od),
 That the king's justice is more than this (my) precept (of guidance to justice).
 
 I have an eye to (I hope for) the king's justice,
-That he may, a little while, look into this tale (of the
+That he may, a little while, look into this tale (of the Sikandar-Nama).
 
 If he consider the tale far from the path (of reason),
 Let him cast on it neither shadow nor splendour.
@@ -294,7 +290,7 @@ Wisdom — that makes the sky, earth —
 Utters praise on this my praise (of thee).
 
 When from the monarch came the command like this: —
-" In (to) my name, depict (dedicate) this picture (of the
+" In (to) my name, depict (dedicate) this picture (of the Sikandar-Nama)! "
 
 I will make my brain fresh (concentrate thought) by the king's word;
 I will remain silent (thought-collecting) by the people's word:

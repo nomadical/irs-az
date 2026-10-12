@@ -262,8 +262,6 @@ That I may get into this wholesome fount, may wash my body and be free from dust
 
 For dirt has settled on me head to foot from perspiration troublesome and salt.
 
-164:
-
 With water I will wash away my dirt, and get upon the road quite clean and fine.
 
 Then with a stone I’ll break the jar to bits, and save the quarry (thus) from injury.
@@ -407,8 +405,6 @@ To her of moon-bright face and silvery limbs Bashr told fully every incident.
 His coming into fellowship with him, his heaiiog him hold forth on arts (he claimed).
 
 Then his rude rousing up to aiument, his claiming (knowledge) on all themes (that rose).
-
-16S
 
 His thinking evil too of everytMng, putting on every good the stain of ill.
 

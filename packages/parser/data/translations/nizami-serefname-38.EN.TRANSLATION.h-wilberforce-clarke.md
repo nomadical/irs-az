@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -128,6 +126,12 @@ Remains yet in place in that throne.
 
 "When the king renewed the custom of Kay Khusrau (by sitting on the throne and drinking the cup),
 Like Kay Khusrau (who sought the cave) he resolved to go to the gate (of the fortress of Sarir):
+
+Orientale; " Notices et Extraits des Manuscrits de la Bibliotheque
+Nationale," p. 107, by M. De Sacy; " Historia Dynastiarum " (Arabic
+
+Olearius (Leps. 1709, folio, pp. 112, 130, 147, etc.); Gibbon's " Boman
+Empire," chap. ii. note 63.
 
 Went forth from seeing the throne and the cup;
 Took his way towards Kay Khusrau's cave (in the mountain outside of the fortress) —

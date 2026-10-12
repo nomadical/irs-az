@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -17,8 +15,6 @@ Measure out (the wine), the measuring of the wind, — how long?
 
 Make me intoxicated with the wine of the special cup (of Divine love);
 I may perhaps obtain release from this tavern (of corporeal affections).
-
-[The Battle of (Gaugamela— 20 miles S.W. of) Arbela (Arbil), fought 1st October, b.c. 331.]
 
 The prond moving (revolving) of the azure sphere;
 Verily, the revolving of the moon and the sun around (the world).
@@ -79,8 +75,6 @@ The sky gave a kiss on the mouth of the drum.
 
 The clashing of the armour of the raging elephant
 Broke (through its terrifying sound) many a shoulder-bone on (of) the backs of elephants.
-
-(UNTO XXIX.] DARA's FIGHT AT MOSUL. 319
 
 The trumpet brought forth the lion's roar;
 The brain became sated of (distressed by) the breath (scream; of the ox- tail (trumpet).
@@ -199,7 +193,7 @@ He spread a thousand (scarlet) Rumish satins (bloody bodies).
 And on that side, Sikandar with the sharp sword,
 — The (commotion of) resurrection stirred up in the world:
 
-fi0 Both hands brought forth with effort;
+Both hands brought forth with effort;
 In each hand the sword (sharp) like the diamond, —
 
 Caused the sword to pass (cleave) in such a way,
@@ -302,9 +296,7 @@ Held the standard for the sake of honour;
 Abandoned not their booty to the enemy (the men of Iran).
 
 When the man of Zang (night) studded jewels (stars) in the crown (firmament),
-The King of China (the sun) descended from the throne of
-
-. ivory (day);
+The King of China (the sun) descended from the throne of ivory (day);
 
 (And) from the midst of the dark night the resplendent moon gleamed,
 Mirror-like, luminosity-possessing,
@@ -351,7 +343,35 @@ Saying: — " We are the only special attendants of Dara-;
 " To-morrow we desire to assault him;
 " To make the land (of Iran) void of his oppression.
 
-lis Not his, was the belief that those two of unjust faith Would commit this crime against their own lord. But everyone brings to his hand (employs) that pearl. (design), By which he may bring defeat to his own enemy, In that path in which injustice appeared justice, The old story came to his memory: — " That, doubtless, the hare of every country, " The dog of that country can seize." When these traitors, lord-slaying, Learned from the lord of knowledge (Sikandar)
+" Only to-night, keep with effort thy ground;
+" For to-morrow the enemy (Dani) will come from his footing.
+
+" When to-morrow he raises his standard in the ranks of battle,
+" He will suffer the sword-blow, side-cleaving.
+
+" But on the condition that, without hand-toil (difficulty),
+" Thou makest open to us the lock of the treasure;
+
+" Makest each of us rich;
+" Makest the work of both of us like gold, with gold."
+
+Sikandar made covenant as to that desired;
+Gave his hand to the covenanters of the wealth.
+
+Not his, was the belief that those two of unjust faith
+Would commit this crime against their own lord.
+
+But everyone brings to his hand (employs) that pearl. (design),
+By which he may bring defeat to his own enemy,
+
+In that path in which injustice appeared justice,
+The old story came to his memory: —
+
+" That, doubtless, the hare of every country,
+" The dog of that country can seize."
+
+When these traitors, lord-slaying,
+Learned from the lord of knowledge (Sikandar)
 
 That he would give them gratification as to the treasure,
 Would give assistance towards the blood-shedding of his enemy,

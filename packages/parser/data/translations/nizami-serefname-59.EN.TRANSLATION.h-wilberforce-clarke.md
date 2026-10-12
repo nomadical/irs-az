@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -62,8 +60,6 @@ Saying: — "Its musk is such (most fragrant), and its brocade such (soft and be
 
 Another said: — " Hindustan is better;
 " For its fuel is all aloe-wood; and dust, ambergris."
-
-1- Firidun, after conquering the country of Sipahan and slaying Zuhhak,
 
 In that assembly was an old man;
 When to him the turn of speech at last came,
@@ -155,11 +151,6 @@ That desolate land became habitation-possessing (prosperous).
 The Muslims usually confound Khizr with Phineas, Elias, and
 St. George, saying that his soul passed by metempsychosis through all
 
-three.
-Some say that he was one, Balya ibn Malkan, in the time of Firidun
-
-(b.c. 800); that he preceded Zu-'l-Karnain (Asa,ab ibnu-'r-Rayesh); and
-
 The desert watch-keeper (Sikandar) called it Bun-Ghar;
 That Bunghar (in time) became, in name, Bulghar.
 
@@ -220,9 +211,6 @@ The veil of terror displayed the Dark Land.
 In one direction, the Dark Land revealed the margin (of the earth);
 In the other direction, the deep sea (earth-encircling) closed the path:
 
-Otherwise: — A luminosity appeared from the (north) pole of the sky (the sun); It (the sun) ascended and descended (rose and set) in a moment.
-They say that for forty days every year the people of Balghar have no
-
 The skilful guide kept travelling northwards;
 In one direction from the compass (the ecliptic) of the lofty sphere.
 
@@ -249,8 +237,6 @@ No one found the path to the devising of the remedy.
 
 When night came, that half -lit land (where the north pole was in the zenith)
 Chose the black musk (night, in preference) to the wood aloe (half- lit day).
-
-CAKTO LXVIII.] S1KANDAR DESIRES THE WATER OP LIFE. 793
 
 The sphere became confounded like one mad (who strikes hand and foot on the dust),
 The Kashmiri (the half -lit land) became changed to the Zangi (pitch dark night).
@@ -360,7 +346,7 @@ The youth said: — " If thou give me protection,
 " The first day, when the monarch ordered
 " That the old man, unsound of body, should not come to the path,
 
-no "I had a father, an old man of ancient years,
+"I had a father, an old man of ancient years,
 " Much chastisement found from the sphere;
 
 " From compassion for the old man, my own father,

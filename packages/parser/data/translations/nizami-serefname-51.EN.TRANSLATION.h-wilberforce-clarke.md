@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -114,8 +112,6 @@ Prepared to go straight into battle:
 Raised to his head the terrible iron-face,
 A helmet, thick (having eye-holes) with iron of Chin:
 
-Otherwise: —
-
 A sword slung, poison-possessing;
 A noose like the ringlet of lovely ones, coil-possessing:
 
@@ -191,7 +187,7 @@ He should put an electuary on that wound-place:
 Should cherish him, so that at leisure
 Davali might rest from his woundedness.
 
-flo When night brought over its head the silken cloth of collyrium hue (lay in the ambush of darkness),
+When night brought over its head the silken cloth of collyrium hue (lay in the ambush of darkness),
 The head of the moon (its beloved) came (captive) to the musky noose (of its darkness),
 
 The two lines of the army kept watch;

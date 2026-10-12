@@ -102,8 +102,6 @@ He boldly drove a javelin at its throat, as lion’s claws are into wild ass (dr
 
 The javelin, six-sided, eight fists long, the throat and palate of the dragon tore.
 
-54:
-
 A mighty clamoiir from the dragon rose; like tree or column on its head it crashed.
 
 That awfulness and writhing scared him not — how should the cloud e’er fear the mountain’s height?

@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -96,9 +94,6 @@ He sought the enumeration of the names of the renowned ones.
 The general gave information that six hundred thousand
 Warriors, extraordinary horsemen, were mustered.
 
-The agent to the verb (compute) is the word " officers " in the second
-line.
-
 When the business (mustering) of the army became completed,
 He prepared an assembly (muster) — without wine-cup or music.
 
@@ -153,8 +148,6 @@ They renewed their prayers for the lord of the marches, (Sikandar),
 " In such a way it comes to the mind of the world-experienced ones,
 " Verily — of the approved wise ones,
 
-(JANTO XXV.] SIKANDAR PREPARES FOR WAR. 271
-
 " That, when the heart of the malice-seeker (Dara) became malicious,
 " Every thorn (of irritation) and dart (of alienation) sprang up from (Dara's) path.
 
@@ -208,8 +201,6 @@ Concordant fortune came to his hand,
 
 With auspicious omen, with arrangements for (clearing) the road.
 He ordered that the army should move from its place.
-
-0ANT0 XXV.] SIKANDAR PREPARES FOR WAR. 273
 
 Victorious in battle, rein-turning (proceeding) went — the king,
 Loins tightly girt, against the malice of his enemy.

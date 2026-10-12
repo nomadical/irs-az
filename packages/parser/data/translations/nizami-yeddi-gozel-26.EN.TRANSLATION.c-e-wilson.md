@@ -260,8 +260,6 @@ Awhile he stood like those whose hearts are scared, and closed his eyes like tho
 
 He said, You ask an inexpedient thing, (but) I’ll give answer such as meets the case. —
 
-* ♦ 4: « *
-
 When night o’er camphor scattered ambergris, and men abandoned paths by men pursued.
 
 He said, (Now) is the time that you should see what you desire, and Imow it (as it is).

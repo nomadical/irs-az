@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -102,9 +100,6 @@ One door towards humility, the other towards reproach.
 The decoration of the beginning of the letter was — from the first,
 In that name (of God) by which names became true.
 
-The Mush-bladder (nafa) is taken from the belly (naf) of the deer and
-wrapped in silk (harfr).
-
 The Lord, friendless (without partner), yet Friend of all!
 Of Himself alive, and alive-keeper of all!
 
@@ -198,9 +193,7 @@ That I may turn this indigence (the emptying of the stores) from my own city.
 Although by practising deceit and sorcery
 It is impossible to make Chin void of food,
 
-[canto L.
-
-c Yet concord, — better than conflict and contest;
+Yet concord, — better than conflict and contest;
 For this (conflict) brings the stain of sorrow; that (concord), water and colour.
 
 Make not ruined the bark of the people of Chin;
@@ -226,8 +219,6 @@ He should make contest with the Lord of power.
 
 To make — gold from silver, cornelian from crystal,
 ' Is to cause fruit to ripen by force (in a hot house).
-
-Otherwise: —
 
 " In the house he ripens the (unripe) market-apple;
 " But it is pleasant to the teeth of none.
@@ -348,9 +339,6 @@ Saying: — " Of advice no help is mine:
 
 " Meet Sikandar; if not, the lofty sky
 " Will bring injury to those injuring power (God-given):
-
-Otherwise: — This (speech of mine), what thoughtest thou, — that it is mere pastime? Verily, this is the subtlety (of counsel) for thy action.
-The second line may be: — Will bring injury to those inclining to power (God-given; and wishing that they too may possess this power).
 
 ' It is possible — neither to overthrow good fortune,
 ' Nor to exercise enmity with the prosperous (whom the sky assists).
@@ -658,8 +646,8 @@ The monarch said: — " O one of approved judgment!
 " Will neither desire from thee crown, or territory, or throne;
 " Nor exercise with thee severity in these matters:
 
-a r\
-But on the condition that from thy own country Thou presentest to me the revenue of seven years:
+" But on the condition that from thy own country
+" Thou presentest to me the revenue of seven years:
 
 " When thou bringest me the tolls of seven years,
 " The tolls of other years become lawful to thee."
@@ -697,7 +685,7 @@ Saying: — " Although the king his own word
 " That when I present the tribute of one year
 " The king will not move me from my place (Chin).
 
-loo " I will place the king's writing like the amulet of the arm;
+" I will place the king's writing like the amulet of the arm;
 " Will preserve it for my own head's sake.
 
 " Will also give to the king the covenant as regards (my rising for) blood-shedding,
@@ -885,8 +873,6 @@ When he said this he descended from the elephant's back,
 
 When the king (Sikandar) saw that that Khusrau, apology-making,
 Went on foot before him,
-
-0ANT0 in.] sikandab's suspicion against the khakan. 637
 
 He drew forth for his sake a steed,
 From head to crupper hidden under gold trappings:

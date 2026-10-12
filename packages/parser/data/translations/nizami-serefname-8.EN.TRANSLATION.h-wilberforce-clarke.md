@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -216,7 +214,7 @@ And from it, — may the animadversion of enemies be far!
 Melody — (even) if it be the melody of the (joy-exciting) Chagawak (Lark),
 When the enemy touches the chord, it is the arrow (of abhorrence) swiftly flying.
 
-In that circle (earth's surface), in which I have urged this
+In that circle (earth's surface), in which I have urged this speech (the Sikandar-Nama),
 I have invoked my own heart-cherisher (God),
 
 That He may make this charming book famous; *

@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -42,8 +40,6 @@ I fly towards this garden (of retirement):
 Enjoy this heart-alluring garden (of retirement):
 Make my heart happy with it.
 
-Otherwise: —
-
 The representer (Nizami) of the workshop of speech (tale of Sikandar),
 From (the authority of) those old wise men (historians, fire-worshippers) relates in this way,
 
@@ -61,8 +57,6 @@ The musician, nor the cup-bearer, nor music and wine.
 
 He kept no account — save of his own pleasure;
 And better than that, none possessed life.
-
-THE S1KANDAE NAMA,E BAUA. CANTO XXII.
 
 The world-possessor, sphere-illuminating, seated,
 Brought in prosperousness night to day:
@@ -86,7 +80,7 @@ Saying: — " O fortune-shelter! be young (prosperous) in fortune:
 " Prepare pleasure and give justice to youth (enjoy it).
 
 " When thou hast youth, and fortune is (present),
-b is proper to sit joyous, with song and with wine.
+It is proper to sit joyous, with song and with wine.
 
 " Since thou completedst the sword's work (war),
 " Prepare the assembly for the arranging of the wine-cup.
@@ -94,7 +88,7 @@ b is proper to sit joyous, with song and with wine.
 " Take the (seven climes of the) world within the shadow of thy crown and throne;
 " The world holds not this work (of world-seizing) difficult to thee.
 
-x "Thou tookest blackness (the country of Zang), now take whiteness (other countries);
+"Thou tookest blackness (the country of Zang), now take whiteness (other countries);
 " Such a piebald colour (the whole world) is necessary for thee.
 
 " Pitch the standard (of sovereignty) on the sky, for the world is thine;
@@ -292,9 +286,6 @@ Saying; — " While the revolving sphere and stars exist,
 " Thou art sword seizer; lie wine-cup seizer:
 " Thou sittest on the enemy's head; lie on the throne (of ease).
 
-of luxury should be introduced by bis mother, Olympias. His age was
-was then twenty-two years (b.c. 334).
-
 " Thou art possessed of justice; he is a tyrant;
 " Thou the balance of power (powerful); he, the balance of gold (wealthy but miserly).
 
@@ -346,7 +337,7 @@ It is not proper that this fancy should bind thee (from battle with Dara);
 " If lie comes (in majesty) as thunder, thou art (with the sword of anger) the lightning;
 " If he be treasure-holder, thou art treasure-giver. Though thy father was endowed with lion-force, He was for malice-seeking (with Dara) of gentle sword.
 
-no " Thou art that lion-seizer that in battle-time
+" Thou art that lion-seizer that in battle-time
 " The hard stone becomes blood (destroyed) by thy sword!
 
 " In battle with the black men of Zang nature,
@@ -367,16 +358,14 @@ no " Thou art that lion-seizer that in battle-time
 " That eagle that practises prey-making, —
 " Sports he (in battle) with chickens?
 
-Thunder-noise, a sign of the want of rain, possesses nothing but
-sound, awe-inspiring.
-
 " Moreover, — since the stars (the seven planets) are thy well-wishers,
 " All creatures of the dust (men) are the dust of thy path (obedient).
 
 " The example of world-conquering is thine;
 " Injuring (weakness) is the enemy's; the preserving substance (order) thine!
 
-"With so many victorious signs, How may not disaster reach the enemy P
+" With so many victorious signs,
+" How may not disaster reach the enemy?
 
 " By that lot which one can calculate from the star
 " Thou hast pre-excellence in this contest.

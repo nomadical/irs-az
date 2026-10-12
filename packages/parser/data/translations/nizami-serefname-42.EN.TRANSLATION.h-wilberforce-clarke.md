@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -22,7 +20,7 @@ Happiness again showed her face to us;
 The player of the musical instrument (the administrator of the empire) played the instrument (the gift of verse).
 
 The representing of the matter (the tale of Sikandar) reached (to this point) by the assisting (of the king);
-The orator (Nizami) attained hopefulness (as to concluding
+The orator (Nizami) attained hopefulness (as to concluding the Sikandar- Nama).
 
 O narrator! Make keen the brain;
 Represent (to the end) this charming history.
@@ -285,8 +283,6 @@ Saying: — " He is a king possessed of majesty and of splendour:
 " Perhaps his arrow is from the quiver of Arash,
 " That with his arrow-point the hard stone is bescratched.
 
-For firishta, read suroshe, called hatif-i-ghaib.
-
 ' When he seizes the sword he is like lightning (the consumer);
 ' When he takes wine in the palm (of the hand) he becomes treasure-giver.
 
@@ -346,8 +342,6 @@ Save him, there is no sword-striker in his army;
 
 Casts widely the carpet of his court (gives access to all; repels not the petitioner);
 " Laughs within limit when he finds joy.
-
-When the pilrthe castle) comes against the asp (the knight), the latter
 
 " Looks — for honour to himself — at none;
 " But if he glance, he favours him much.
@@ -523,8 +517,6 @@ Saying: — " From the bold-hearted Sikandar, this letter
 " The army have, through my waiting, come into agitation (for war with thee);
 " Have, through my shortcoming (delay) come to shouting (for the plunder of thy land).
 
-repeller of poison). It is cylindrical, slightly curved, shining, hard,
-
 " My lions (warriors) have beheld the deer (the sluggish army) of Chin;
 " Fat deer like these, seldom have they seen.
 
@@ -548,8 +540,6 @@ repeller of poison). It is cylindrical, slightly curved, shining, hard,
 
 " When I abandon friendship and peace,
 " Me, — God forbid I should through fear drink a drop of water (delay).
-
-HANTO XLVIII.] SIKANDAR'S LETTER TO THE KHAKAN. 605
 
 " My spear devours the dragon, just as
 " The deluge of fire consumes grass.

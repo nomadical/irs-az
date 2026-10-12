@@ -46,6 +46,15 @@ export interface BookConfig {
   /** Couplets matching this are stray footnote fragments ("signifies", "See couplet 12") */
   dropPattern?: string;
   /**
+   * Drop "couplets" that are a wrapped prose sentence — a footnote the layout let through:
+   * the first line breaks without closing punctuation and the second carries on in lowercase
+   * ("…by the black helmets; and the / lightning by the sword-sheen."), or, in the cantos
+   * layout, the first line itself opens in lowercase ("life, a thousand years)."). Verse lines
+   * open with a capital and end a clause; fused verse paragraphs (over 120 characters) are
+   * left for corrections.
+   */
+  dropWrappedProse?: boolean;
+  /**
    * An interlude the book prints at the end of a section but the original opens the next one
    * with — Clarke closes a canto with "Come, cup-bearer! …" where Ganjoor's next section
    * starts «بیا ساقی». english: how the book's address begins; original: how the work's does.
@@ -54,6 +63,8 @@ export interface BookConfig {
   endMarker?: string;
   /** Whole-word OCR misreadings that are real words ("Bahrain" for Bahram) */
   replacements?: Record<string, string>;
+  /** Proofread against the scan: the translations no longer carry the OCR caveat */
+  proofread?: boolean;
   /** heading: shown in the translation; match: the body's wording when it differs from the contents */
   /**
    * heading: the book's section title (headings layout: also how it is found); canto: the canto
@@ -222,6 +233,32 @@ function cantoSections(layoutXml: string, cfg: BookConfig): { sections: string[]
   };
 }
 
+/**
+ * Couplets put back together once footnote lines are gone (cantos layout):
+ *   - a wrapped half-line read as a couplet of its own (". ivory (day);", ", with) sugar-lumps;")
+ *     goes back onto the line it continues;
+ *   - two lone halves in a row are one couplet.
+ */
+function repair(couplets: string[]): string[] {
+  const open = (line: string) => !/[,;:.!?—)"']\s*$/.test(line);
+  const continuation = /^[.,]?\s*(?=[a-z])/;
+  const out: string[][] = [];
+  for (const c of couplets) {
+    const lines = c.split('\n');
+    const prev = out[out.length - 1];
+    const last = prev?.[prev.length - 1];
+    if (prev && open(last) && continuation.test(lines[0]) && (lines.length === 1 || prev.length === 1)) {
+      prev[prev.length - 1] = `${last} ${lines[0].replace(continuation, '')}`;
+      prev.push(...lines.slice(1));
+    } else if (prev && prev.length === 1 && lines.length === 1) {
+      prev.push(lines[0]);
+    } else {
+      out.push(lines);
+    }
+  }
+  return out.map((lines) => lines.join('\n'));
+}
+
 export async function planBookTranslation(cfg: BookConfig): Promise<BookPlan> {
   const text = await fetchText(cfg.archiveId);
   const vocab = new Vocabulary(text);
@@ -241,11 +278,25 @@ export async function planBookTranslation(cfg: BookConfig): Promise<BookPlan> {
     couplet
       .split(LINE_BREAK)
       .map((line) => applyReplacements(cleanParagraph(line, vocab, ocr), cfg.replacements))
-      .filter(Boolean)
+      // A verse line has a word; OCR specks ("jt", "i rp", "« n") don't
+      .filter((line) => /[A-Za-z]{3,}/.test(line))
+      // A margin number read as letters just inside the edge: "fi0 Both hands", "e The hill"
+      .map((line) => (cfg.layout === 'cantos' ? line.replace(/^[a-z][a-z0-9?*°]{0,2}\s+(?=["'«(]?\s*[A-Z])/, '') : line))
       .join('\n');
 
   const drop = cfg.dropPattern ? new RegExp(cfg.dropPattern, 'i') : null;
-  const cleaned = sections.map((sec) => sec.map(clean).filter((p) => p.length > 0 && !drop?.test(p)));
+  const wrappedProse = (p: string) => {
+    const [first, second, ...rest] = p.split('\n');
+    if (rest.length || second === undefined) return false;
+    return /^[a-z]{2,}\b/.test(second) && first.length <= 120 && !/[;:.!?"]\s*$/.test(first);
+  };
+  const cleaned = sections.map((sec) => {
+    const kept = sec.map(clean).filter((p) => p.length > 0 && !drop?.test(p) && !(cfg.dropWrappedProse && wrappedProse(p)));
+    if (cfg.layout !== 'cantos') return kept;
+    // Once wrapped half-lines are back in place, a couplet opening in lowercase is the tail
+    // of a note: "life, a thousand years). / The pumpkin represents…"
+    return repair(kept).filter((p) => !(cfg.dropWrappedProse && /^[a-z]{3,}\b/.test(p)));
+  });
 
   // Move a section-closing interlude to the start of the next section, where the original has it
   if (cfg.movedInterlude) {

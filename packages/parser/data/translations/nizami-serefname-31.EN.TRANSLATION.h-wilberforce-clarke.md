@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -18,13 +16,7 @@ Give me; for my foot has come against a stone.
 I may, perhaps, devise a remedy in respect to this stone-raining (of Time);
 May like (the brittle) amber fly from the (hard) stone (the vicissitudes of Time).
 
-" Arya " (ai'ya, excellent) is connected with the root of arare, to
-plough. The (cultivator) Aryan is opposed to the (nomad) Turanian
-
-(from Tura, the swiftness of the horseman). The country (Airy a)
-occupied by the Aryans was comprehended within a line running along
-
-the Paromisus and Caucasus Indicus, the Oxus and Jaxartes, the
+Paromisus and Caucasus Indicus, the Oxus and Jaxartes, the
 Caspian (including Hyrcania and Ragha). the borders of Niscea, Ai'ia,
 
 The sky makes its camel (steed) swift-moving, for that reason,

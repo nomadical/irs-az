@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -81,8 +79,6 @@ The sky, by his hand, made fresh its patched garment (of Faith).
 For him, the blackness of the sky became a rose-garden, —
 For him, the luminous ones (the stars) luminous of eye become.
 
-That Burak, notwithstanding being of little value, became, by Muhammad's riding, joyous and leaped, saying: — Yes; a priceless night jewel, like
-
 Within that screen, (God) that was free from stain,
 It is not proper to go, skirt dust-stained (with sin).
 
@@ -115,11 +111,6 @@ Each one hand-fixed (in attendance) in his saddle-strap.
 
 He urged — height on height, mountain on mountain;
 Caused his steed to leap (from) hill to hill.
-
-Mars is called — turk ya jallad-i-falak, the soldier or the executioner of
-the sky.
-
-Jupiter, the judge of the sky, is self-adorning and self-fashioning.
 
 In message-service for him, Khizr and Musa running;
 What shall I say? Masiha (the Messiah) running in his suite!
@@ -246,8 +237,6 @@ The decree struck — " O my Follower! O my Follower!"
 
 Of the meanest of the followers of thy dust (path), —!
 Notwithstanding this (my) weakness (in the faith of Islam) — the great prey of thy saddle-strap.
-
-prayer.
 
 Nizami, who became city-bound (captive) in Ganja-city,
 Let him not be portionless of thy blessing! %

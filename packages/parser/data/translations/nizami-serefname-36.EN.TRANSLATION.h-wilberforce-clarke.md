@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -53,8 +51,6 @@ Would glance oftener upon the fallen (the abject).
 
 Wherever he used to find a recluse in a state of retirement,
 He quickly hastened to his place of retirement.
-
-The second line may be: — (Clothed) in goodness, sell the other garments (of adornment).
 
 Wherever he prepared an assembly (an army),
 He used to ask aid of them (those of retirement) by blessing (prayer).
@@ -152,8 +148,6 @@ Summoned the chiefs, and expanded his eye-brows (all frown gone, his face beamin
 Those country-conquerors, neck-exalting,
 Sate, and offered prayer for the king,
 
-falakhan, a catapult. 33 *
-
 Saying: — " So long as we slaves have bound the loins (in thy service),
 " We have not sate (in ease) a single day in this matter.
 
@@ -229,7 +223,7 @@ The recluse uttered benedictions, saying: — " Be heart-joyful!
 " Risen be thy star in fortune!
 " Adorned, thy fortune with victory!
 
-t" If I well recognized the king, — (it is well);
+" If I well recognized the king, — (it is well);
 " Everyone at night recognizes the moon.
 
 Not alone hast thou in the hand a mirror world-displaying;
@@ -316,7 +310,7 @@ The members of the assembly ran to him (in the ceremonial of welcome).
 They again arranged the assembly;
 Sate with music, and asked for wine.
 
-loo One came, saying: — " The fortress- keeper of this fortress
+One came, saying: — " The fortress- keeper of this fortress
 " Is standing at the door in the hope of admittance."
 
 The king ordered that they should bring him quickly;
@@ -340,11 +334,44 @@ Declared saying: — " To-night, by the king's power,
 " Its destruction I know is not through this army;
 " For this engine of destruction is from another fortress ( — from God).
 
-" When the command of the celestial fortress is thine, " Thou knowest, — other sovereignty is thine." The king glanced at the army leaders, Saying: — " What mark of prayer is better than this?
-no " Forty days it is, that men of action " Strove with the sword against this fortress, — " With so many sword-points, diamond-like, " (And) pierced not a single stone of this hard stone. " With a single sigh, which a foodless one heaved, " An angle (a salient of a bastion) poured down from its face. " In respect to this, what appears to you? " — Let not the land be without good men! — The chiefs of the army, with apology For such disputing, became penitent.
+" When the command of the celestial fortress is thine,
+" Thou knowest, — other sovereignty is thine."
 
-lis At the king's assembly they gave the ground-kiss, Saying: — •" Let not the throne and crown be void of thee! " May thy arm be powerful in the country! " May the silver of the balance be lasting! " Such means thou knowest how to understand; " For for thee God made His own shadow. " Since we also became acquainted with this screen (the (effect of prayer), " We have come to the road (of prayer) though (before this) we went from the road." The king sent so that they hastened to the fortress; And emptied the fort of those robbers.
-The next day, when the king took that fortress, To the fortress they opened the path to the monarch.
+The king glanced at the army leaders,
+Saying: — " What mark of prayer is better than this?
+
+" Forty days it is, that men of action
+" Strove with the sword against this fortress, —
+
+" With so many sword-points, diamond-like,
+" (And) pierced not a single stone of this hard stone.
+
+" With a single sigh, which a foodless one heaved,
+" An angle (a salient of a bastion) poured down from its face.
+
+" In respect to this, what appears to you? "
+— Let not the land be without good men! —
+
+The chiefs of the army, with apology
+For such disputing, became penitent.
+
+At the king's assembly they gave the ground-kiss,
+Saying: — •" Let not the throne and crown be void of thee!
+
+" May thy arm be powerful in the country!
+" May the silver of the balance be lasting!
+
+" Such means thou knowest how to understand;
+" For for thee God made His own shadow.
+
+" Since we also became acquainted with this screen (the (effect of prayer),
+" We have come to the road (of prayer) though (before this) we went from the road."
+
+The king sent so that they hastened to the fortress;
+And emptied the fort of those robbers.
+
+The next day, when the king took that fortress,
+To the fortress they opened the path to the monarch.
 
 All the people of that fortress became subject,
 Though before this they were enemies.
@@ -403,7 +430,7 @@ He raised the standard with the intention of moving.
 From the beating of the small drum and of the great drum, — became
 (Black) ebony, the (white) poplar within those forests (of Alburz).
 
-ho The king led the steed towards the desert;
+The king led the steed towards the desert;
 Gave the rein to the road and pursued his stage (in haste):
 
 Urged his steed like the planet (the moon, the quick mover) of the sphere;

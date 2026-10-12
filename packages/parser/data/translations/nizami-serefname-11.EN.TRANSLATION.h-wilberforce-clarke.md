@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -60,7 +58,7 @@ For that reason, the desire of the heart of friends is happy.
 The trees blossomed by the border of the garden;
 Each flower, lamp-like, lit up.
 
-l* To the bird (nightingale) tongue-bound (on account of autumn) give voice,
+To the bird (nightingale) tongue-bound (on account of autumn) give voice,
 Saying: — Renew the flight (of song) of the past year.
 
 Make the wail of the harp the speaker;
@@ -76,7 +74,7 @@ Bind a handful of odoriferous herbs (as a bouquet);
 Scatter (them) on the stature of the (flowerless) lofty cypress.
 
 With that silver-like (white) coin of the fresh spring (the white rose newly blossomed),
-Scatter coin at the fountain head of the stream (the
+Scatter coin at the fountain head of the stream (the Sikandar-Nama).
 
 About the lake (the Sikandar-Nama), water (verse) containing,
 Cast a carpet of silk from the water lily (of lustrous verse).
@@ -91,7 +89,7 @@ To the memory of friends (past poets, or holy travellers) journey- taking (to th
 Of whom I behold none in his place.
 
 In a season so joyful and concordant,
-I went towards the lofty cypress (Nasratu-d-din) in the
+I went towards the lofty cypress (Nasratu-d-din) in the garden (the Sikandar-Nama).
 
 Through the perfume of the rose (the nature of Nasratu-d-din), and the shade of the cypress tree (his perfect justice),
 The joy of singing came to the nightingale (Nizami).
@@ -120,7 +118,7 @@ When the arm (power of verse) is, — no fear of the sword (of the critic) is.
 I prepared many old treasures (tales of former kings);
 Cast into them new subtleties of verse:
 
-Summoned resolve first towards " the Makhzanu-1-Asrar."
+Summoned resolve first towards " the Makhzanu-l-Asrar."
 In which work (of subtlety), I displayed no idleness at all.
 
 And than that (Makhzan), evoked (a work) more lustrous and pleasing;
@@ -150,13 +148,11 @@ He might, by the fountain of life, become living:
 Sought the road to the fountain of life (Nizami's lustrous verse),
 — Found now that fountain, which then he (vainly) sought.
 
-Emperor Maurice.
-
 The king of speakers (Muhammad) expressed a saying such as this —
 Namely: — " Seekers are finders."
 
 O Nizami! when thou drinkest wine (of lustrous verse) with (to the memory of) Sikandar,
 Preserve respect, so that thou mayst enjoy benefit of thyself (thy mention of him).
 
-When thou art sitting at the same table with the prophet Khizr on this side of the stream (of verse of the
+When thou art sitting at the same table with the prophet Khizr on this side of the stream (of verse of the Sikandar- Nama),
 Wash (carefully) thy lip with seventy and seven waters.

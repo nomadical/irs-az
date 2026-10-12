@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -59,9 +57,6 @@ Sometimes he scattered treasure on music (the minstrel) and wine (the cup-bearer
 
 Thus seated like the fountain of light (the sun),
 When a cry for justice came from the far road.
-
-O man! art thou careless of the torrents of blood which they devour
-who bring the ruby (of delight) to thy hand.
 
 The news-master took the news to the king,
 Saying: — " A handful of men, tyranny-experienced, justice-seeking,
@@ -138,9 +133,6 @@ His army should march towards the desert.
 For contest the men of Zang went hastening;
 Two horses apiece, they went towards the desert.
 
-The army resembled the thunder-cloud by the black helmets; and the
-lightning by the sword-sheen.
-
 The warriors dragged their chattels to (halted in) the desert.
 For fighting the men of Zang, waist-belt made tight.
 
@@ -203,13 +195,3 @@ The men rested from moving.
 
 (Separately) in one place (the men) both of Rum and also of Zang;
 The men of Rum and of Zang listless as to action (of battle).
-
-jt
-Come, cup-bearer! that wine (of senselessness) that is like the men of Rum (red and white)
-
-Give me; for my temperament is happy like the (temperament of the) men of Zang.
-
-Perhaps with (opposed to) me this fearless panther (the traitor, Time)
-May not be of two colours (deceitful) like the men of Rum and of Zang.
-
-The meaning may be: —

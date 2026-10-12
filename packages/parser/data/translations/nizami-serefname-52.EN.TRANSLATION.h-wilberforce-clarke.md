@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -24,7 +22,7 @@ The blood (of men) boiled at the trumpet's breath.
 From the clamour of the (Rumish) brazen trumpet, and the sound of the drum,
 From the red rose (the ruddy cheek), — the yellow colour of juniper appeared.
 
-s At that moment, Jawdara hastened to the battle-field;
+At that moment, Jawdara hastened to the battle-field;
 For, in himself, he found not a particle of weakness (through wounds).
 
 Again Hindi, like the black lion (the fiercest of all lions),
@@ -54,7 +52,7 @@ Which brings tumult from mountain to valley.
 In those hostile encounters,
 They displayed much bravery.
 
-At last, the Russian (Tartiis) made an assault,
+At last, the Russian (Tartus) made an assault,
 Such that he brought forth the dust (of destruction) from that warrior, Hindi:
 
 Emptied the limbs of his blood,
@@ -66,8 +64,8 @@ Took off the helmet from his head (to display his face to Sikandar's army), and 
 " That one who expresses against me the fold of the eyebrow (the angry frown), —
 " Best, that he should put on the shroud instead of the mail armour.
 
-" Me, whom my mother calls Tartiis
-k< The Russian, in the Russian tongue, calls Rustam.
+" Me, whom my mother calls Tartus
+The Russian, in the Russian tongue, calls Rustam.
 
 " I will not go back to my place from the battle-field
 " Unless (until) I bring down an army from its footing."
@@ -79,7 +77,7 @@ He was intent on that he might turn his own rein towards battle;
 Delay again occurred in regard to his intention.
 
 Left and right, lie glanced (to see) — of the army
-Who would go, revenge-seeking, from the revengeful one (Tartiis):
+Who would go, revenge-seeking, from the revengeful one (Tartus):
 
 Moved his steed, a hastener,
 With steel clothing, a great gleamer, like lightning.
@@ -94,9 +92,9 @@ In caracoling, arrogance-displaying;
 With the sword, play-exhibiting like lightning (the leaper):
 
 From those dextrous deeds of skill which he displayed
-Against him, the enemy's (Tartiis') power become languid, —
+Against him, the enemy's (Tartus') power become languid, —
 
-Hurled his steed like the wind against that Russian (Tartiis);
+Hurled his steed like the wind against that Russian (Tartus);
 Extended his arm for sword-proving:
 
 Struck, in such a way that, from his neck-striking sword
@@ -167,6 +165,3 @@ At that hand and sword — was praise-utterer,
 
 " A man, he was not; — the roaring lion, he was:
 " A hundred praises be on that lion! "
-
-When the moon comes within the shadow of Draco, it becomes black
-or eclipsed.

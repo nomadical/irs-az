@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -17,8 +15,6 @@ Give me; for wine is pleasant in youth.
 
 Perhaps, when I make my mouth moist with that wine,
 By it I may make my own fortune more youthful.
-
-So that the after-comers reap the fruit of the toil of the forerunners.
 
 When the vigilance of fortune became guide,
 Sikandar came forth from the Darkness.
@@ -61,8 +57,6 @@ The light from which was food for the eye.
 
 Of one, — with few jewels the heart, in sorrow;
 Of another, — with want of jewels the breath, cold.
-
-nANTo lxx.] sikandar's coming from the darkness. 81i
 
 Regretful became that one who left a residue (took up little);
 More regretful that one who indeed took not up.
@@ -147,8 +141,6 @@ Saying: — " The king, the world-seizer, the world-wanderer,
 
 " He becomes invisible behind the mountain;
 " Of that difficulty none knows the key.
-
-The first line may be: — At that sound, — the hearer, order-accepting.
 
 " If the king desire his body safe from death,
 " It is doubtless proper to go to that city."
@@ -284,6 +276,3 @@ He uttered a proverb: — " Everyone who was born died;
 
 To suffer the arrow (decreed by fate), — sometimes the bold eagle
 Comes on its own wing (of its own free will) from sublimity (the sky) to profundity (the earth).
-
-This hints at the falling of the eagle by an arrow feathered with
-eagles' feathers. $2

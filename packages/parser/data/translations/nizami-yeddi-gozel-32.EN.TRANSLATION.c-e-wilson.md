@@ -360,8 +360,6 @@ She said. Be salutation from my harp by the strings’ dulcet plaint to lovers g
 
 She touched the strings and thus began to sing: The Judas’ tree had come, the flowers bloomed;
 
-2i4:
-
 The cypress had drawn out its lofty form, the rose’s smile displayed a hox of sweets.
 
 The nightingale arrived, sat on (its) branch; the day of making love had (brightly) dawned.
@@ -397,8 +395,6 @@ The master took her hand and (then) advanced unto a certain place that he though
 Branch upon branch the branches of the trees, forming aloft innumerable thrones.
 
 He sped beneath the branch of a high tree; with joy of heart he made a pleasant seat.
-
-24:5
 
 With love he drew the heart-ensnarer close: close to his bosom as the heart it held:
 

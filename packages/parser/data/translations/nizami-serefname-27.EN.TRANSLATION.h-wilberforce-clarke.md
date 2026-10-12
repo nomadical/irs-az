@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -201,6 +199,9 @@ He came forth from the obligation of his own promise.
 He ordered so that they rendered them contemptible;
 Placed them rope-bound on the gallows.
 
+They hanged them slain on the gallows.
+" Plutarch's Lives," by Langhorne, 1879, p. 477.
+
 A proclamation went forth about the army,
 To this effect: — " This is the retribution of the bloodshedder of the king!
 
@@ -294,7 +295,7 @@ Saying: — " May the world-possessor be mated with his desire!
 " For the elderly head, the blue vault (abandonment of the world);
 " Behold what it (the vault) did to Zuhhak and Jamshid!
 
-ei When the world-king is of lengthened years,
+When the world-king is of lengthened years,
 " Vexation takes the servant from him.
 
 " Best, if he have knowledge of the kernel (the valuable) and of the husk (the valueless);
@@ -302,9 +303,6 @@ ei When the world-king is of lengthened years,
 
 " On his account trembling comes into everyone's heart,
 " When they see that he is the man-recognizer:
-
-Dara's dying and Sikandar's gaining the country were as shown in
-the couplet.
 
 " They exercise remedy-devising to cast him down;
 " Make claim of independence of him (by slaying him).
@@ -336,9 +334,6 @@ He inquired, saying: — " In battle, what is that
 The war-tried, world-experienced one spoke,
 Saying: — " Victory is the partner (servant) of that hero
 
-In old age Kay Kubjid (Dijoces, b.c. 696) went to Mount Alburz and
-kept performing the worship of fire; Kay Khusrau (Cyrus, B.C. 558)
-
 '* Who in the army is a monarch like thee;
 « One heart (soldier) with thy grandeur is a great army.
 
@@ -351,7 +346,7 @@ kept performing the worship of fire; Kay Khusrau (Cyrus, B.C. 558)
 " Boldness is the rule of army-leading,
 « Head-lowering (abjectness in flight) lies not m head-exalting (chieftainship).
 
-no « At the time of army-arraying,
+« At the time of army-arraying,
 « It is not proper to seek aid from the army.
 
 « Nay, desire patience from thyself; and victory from God;
@@ -366,10 +361,11 @@ no « At the time of army-arraying,
 « Of omens, which thou shouldst gain as to victory, the first
 « Should be— a heart free from fear of the enemy.
 
-us " To (his son) Firamurz, Rustam thus spoke,
-« Saying -.-Break not thy heart; but break the mountain Alburz! « To Bahman, Isfandiyar thus spoke,
+" To (his son) Firamurz, Rustam thus spoke,
+" Saying: — Break not thy heart; but break the mountain Alburz!
 
-" Saying:— If thou break not (thyself) thou wilt break the battle-ranks,
+" To Bahman, Isfandiyar thus spoke,
+" Saying: — If thou break not (thyself) thou wilt break the battle-ranks,
 
 " A defeat by which the blood (of grief) reacted the (heart of the) hard stone;
 " Also reached Dara, by reason of his heart-breaking (on hearing my counsel).
@@ -396,7 +392,10 @@ In reply, the old man thus spoke,
 Saying: — " The tongue is the revolver in speech.
 
 " Rustam's strife was so perfect
-" That he first used to overthrow the army-leaders. When the army-leader fell by the sword, The army (of the enemy), through fear, used to take flight.
+" That he first used to overthrow the army-leaders.
+
+When the army-leader fell by the sword,
+The army (of the enemy), through fear, used to take flight.
 
 " The man who, alone, would rout a great army,
 " Becomes, by tins plan, powerful against the enemy.
@@ -452,7 +451,7 @@ Saying: — " Although the region of the world is for thee prosperous,
 " The earth devoured; and after devouring them long time ha,s not passed;
 " Yet of devouring them its belly is not sated.
 
-us " They passed away (died); and we also shall pass away;
+" They passed away (died); and we also shall pass away;
 " For, like the rosary-bead, we are strung to one another.
 
 " Strike not five drums (boast not) within these four arches (the world of four elements);
@@ -574,8 +573,6 @@ That one, who is the mean-cherisher, became not the Khusrau;
 
 The husbandman performed the work of the soldier;
 The soldier began husbandry.
-
-i rp
 
 ' — The building (prosperousness) of the world remains not long,
 ' When everyone abandons his own work. —

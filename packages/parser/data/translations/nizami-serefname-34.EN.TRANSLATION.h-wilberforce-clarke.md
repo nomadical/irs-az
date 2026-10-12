@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -45,18 +43,13 @@ The other — one cannot hunt (women) in the sacred enclosure (of the ka'ba).
 One by one, all the army, from shame of him,
 Wandered not a moment from his manner (of regarding the damsels).
 
-with a view to preserving a difference, observe New Year's Day ten days
-later.
-
-The " Burhan-i-Kati'," " Farhaug-i-Jahangir/,'' " Anjuman-i-Ara,"
-
 The air, cold; but the court of the sun (Sikandar), warm (with hospitality);
 The earth, withered (frozen, flowerless); but the pillow-place of Jamshid (Sikandar), soft (joyous) and luxurious).
 
 From the well (the mansion) of Aquarius, the sun went forth,
 For fish-seizing, towards the fountain (the mansion) of Pisces.
 
-i° The purse (the pool) of the mountain and the hard ground (on the mountain-slope) diram on diram (wave on wave),
+The purse (the pool) of the mountain and the hard ground (on the mountain-slope) diram on diram (wave on wave),
 Knotted with ice like the (scaly) back of the fish:
 
 The cold, the breath-seizer (of man), like the wolf's eye (with which sorcerers render men speechless);
@@ -67,8 +60,6 @@ Displayed force (crowded for warmth) against the flanks of lions:
 
 Snow falling from the cloud
 Scattered the salt (of envy) on the liver (the heart) of the water.
-
-Otherwise: —
 
 From the raining (snowing) of the cloud, snow-bearing,
 The jessamine (the snow-flake) — from the hands (the leaves) of the plane-tree sprung.
@@ -99,8 +90,6 @@ The heart-fascinating assembly like the garden of Iram.
 
 In it (the assembly), a fire kindled like the rose;
 With envy of that rose-garden (the assembly), — the rose, scorched.
-
-Otherwise: — The nightingales, drum rent (disgraced) by the zephyr (blowing unseasonably in the autumn); The rose, face-concealed from strangers (crows, kites, and wintry winds). The zephyr, blowing in season, brings forth the rose-bud, the joy of
 
 The (small) thorn — by reason of the fire (kindled in it), like (red, burnished) gold, you may say the rose (is) in its hand;
 Not like the (fuel-) thorn (saturated with musk and ambergris) of Zardusht the fire-worshipper:
@@ -153,11 +142,6 @@ Cast gold (delight) from every side (of the stove) upon the skirt (of the people
 Vapour (smoke) over the fiery flame,
 Like a blue silk garment over the red rose (of fire):
 
-men poke a fire that is low, these black lines depart and the fuel becomes
-fiery red.
-
-thus: —
-
 A piece of earthenware (a stove) decorated with the (red) rose (of fire),
 With the redness (of kindled fuel) sprung from the forests.
 
@@ -188,11 +172,6 @@ On it, the (roasting) partridge like the ring-dove lamenting.
 If the plane-tree (the lambent flame) bring the duck's foot to its top, —
 On it, the duck's breast expresses a very sorrowful lament.
 
-Jerdon's " Book of Birds," vol. ii. says: — The whistling teal, spread throughout India and Burma, breeds in
-the drier patches of grass on the ground, and occasionally in the hollows
-
-of trees (p. 780).
-
 The duck's body is fit for the water-pool;
 When thou bringest it to the fire (to roast), it brings forth a lament.
 
@@ -216,8 +195,6 @@ The orange, and the quince, and the pomegranate, and also the citron:
 
 A singer, — in music like Venus;
 A flagon, — gleaming like Jupiter.
-
-" Shakar para" (where para may be replaced by — para, parah, pura,
 
 With a rose-coloured draught, most heart-fascinating,
 Time assuaged the head-ache of the people of the world (the large assembly).

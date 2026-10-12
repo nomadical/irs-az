@@ -465,5 +465,3 @@ The candle from its yellow veil takes light; through yellow Moses’ calf its va
 Gold which is yellow is the source of joy, and yellow ochre’s precious too for this.
 
 When to an end the king had heard this tale, he took her to his arms and happy slept.
-
-15T

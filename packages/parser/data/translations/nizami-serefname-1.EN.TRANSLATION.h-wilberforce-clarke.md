@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -62,13 +60,6 @@ Further sleeping; or yet eating.
 
 The freshening of the tongue in confession of Thee,
 Not raising the (question of) cause of Thy work.
-
-Note the idiom in the Persian text.
-
-In the opinion of many, things possible (or created) are of four kinds,
-to wit: — warmness, coldness, dryness, and wetness, of which the results
-
-are — blackness, yellowness, bloodiness, and mucilaginousness.
 
 That calculation which passes beyond this is straying from the true path:
 Of thy mystery, (our) thought is without knowledge.
@@ -126,8 +117,6 @@ Thou art the aid-giver (in our powerfulness); Thou art the hand-seizer (in our h
 
 Whether it be the foot of the elephant, or the wing of the ant,
 Thou gavest to each — feebleness and powerfulness.
-
-Otherwise —
 
 When Thou sendest force (strengthenest) — by pure Fate,
 Thou bringest forth the destruction of the great snake by means of the little ant.
@@ -288,9 +277,7 @@ Make not the heart of the enemy (Shaitan) joyful over me.
 That evil (of time) in respect to which I am impatient,
 O Thou far from injustice! keep far from me.
 
-Cause me to attain first to thanks, then to wealth (good
-
-health);
+Cause me to attain first to thanks, then to wealth (good health);
 Give me first patience, then distress (ill-health).
 
 If Thou make me afflicted in affliction,

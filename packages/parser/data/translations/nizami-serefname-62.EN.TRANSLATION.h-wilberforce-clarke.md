@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -66,8 +64,6 @@ Shone, like the night with the shining moon.
 Every jeweller's face became like the ruby,
 At (purchasing) the ruby of the Zulmat entered by Sikandar.
 
-The first line may be: — (The goods of) the world proved many people in the world (Time).
-
 All the land and the city came into decoration (through the building of palaces);
 Earth obtained a share (of freshness) from the hidden treasure.
 
@@ -125,17 +121,16 @@ The first time, — the city and territory; the second time, — the mountain an
 Of that time, — that was when the prosperous soil (the city and territory)
 He saw all together and came to Rum.
 
-G-od has called — 'ilm-i-shari'yat, philosophy (hikmat).
-
 Of this time, — that was when roadless (the mountain and plain)
 He moved the standard like the sun and the moon.
 
-When I became disengaged from this banquet-place (the
+When I became disengaged from this banquet-place (the Sikandar Nama,e bara),
+I prepared another banquet (the Sikandar Nama,e bahri), sugar-scattering.
 
-I prepared another banquet (the Sikandar Nama,e bahri), sugar-scattering. sweet words,
+In this half of the casket (the Sikandar Nama,e bara), — sweet words,
 Many, I expended from virgin thought.
 
-If those pearls, — which I have one by one fastened to it
+If those pearls, — which I have one by one fastened to it (the Sikandar Nama,e bara);
 Which I have bound to every poem-opening (canto) —
 
 They (the sages) should bring upon the thread in one place,
@@ -168,6 +163,7 @@ Had urged mistakenly from the truth of the matter,
 I bound again the decoration (of verse) to the uttered error;
 That uttered word, I uttered again with this excuse.
 
+When a half (the Sikandar Nama,e bara) of this edifice (the Sikandar Nama,e bara va bahri) became finished,
 A half of the world (the populous part) came to my hand.
 
 If Time (my life) were, — the other half,
@@ -179,7 +175,7 @@ Would bring to dancing the fishes in the water.
 If Time will give me respite, —
 Of reflection, in thought so it is,
 
-That in the garden of this picture of Burnish fold (the
+That in the garden of this picture of Burnish fold (the Sikandar Nama,e bahri)
 I will cause the red rose (fresh speech, joy-exciting) to spring from the yellow dust (my withered yellow body):
 
 Will make a treasure full of versified speech,

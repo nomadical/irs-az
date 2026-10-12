@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -30,8 +28,6 @@ Should render subject, — (me) the holder of the faith?
 Gold is for the sake of ornament (of reputation);
 When thou confinest it (in the treasury), it is a fetter of gold.
 
-i
-
 "When his gold is beneath the dust, the rich man
 Is day and night fearful of thieves.
 
@@ -47,10 +43,10 @@ For it is both for himself and also for his relations.
 Night and day, fearless he enjoys (the world);
 Neither fear of the watchman, nor watch for the thief.
 
-i° The abundant treasury is abundant grief;
+The abundant treasury is abundant grief;
 Little grief, to that one whose is little wealth.
 
-The representor of the chaplet (history), jewel-scattering
+The representor of the chaplet (history), jewel-scattering (the Sikandar-Nama),
 Gave (news) of that mine, jewel-scattering (Sikandar) in such a way,
 
 That, when the chief (Sikandar), endowed with the sense of Jamshid,
@@ -76,8 +72,6 @@ In every way employed words,
 
 Saying: — " Last night, came to my heart desire such
 That, save it, I can utter naught to you.
-
-« n
 
 " O ye princes! by the power of judgment
 " I will behold the world, limit to limit.
@@ -231,8 +225,6 @@ Set up a form of his own form (body).
 
 The night-playing (deceitfulness) of Time was such that
 It became the teacher of another path to the king.
-
-Otherwise: — When they bring evidence as regards their treasure,
 
 By another unbeaten path, Sikandar came back to Rum;
 His treasure remained within that land and clime.

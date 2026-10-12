@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -182,8 +180,6 @@ For heart-ravishing, perfect, like the Hindu (the notorious thief):
 
 With her Rumish (ruddy) face and the Hindu ball (the black mole),
 The king of the people of Rum became her slave (adorer).
-
-Otherwise: —
 
 One of sweet laughter, straight like the sugar-cane,
 Witty, and pleasant, and fresh, and sweet, and joyous:

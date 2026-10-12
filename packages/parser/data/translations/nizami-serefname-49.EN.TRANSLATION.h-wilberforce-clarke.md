@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -15,7 +13,7 @@ status: DRAFT
 Come, cup-bearer! that quicksilver reduced to ashes (the wine of senselessness, ruddy and joyous),
 Produced by cinnabar- working (mixing),
 
-n5 Give me, that I may take it into the palace-court (of my retirement, or of my heart, the place of Divine inspiration);
+Give me, that I may take it into the palace-court (of my retirement, or of my heart, the place of Divine inspiration);
 May bring it to use (drink it) like ground cinnabar.
 
 O world-experienced old villager (Nizami)! bring (utter)
@@ -90,8 +88,6 @@ From the left, the shout of the men of Purtas excited.
 In rear, the men of Alan; on the wing the tribe of Isu,
 The casting of the (enemy's) head (slaying) rendered lawful (obligatory) to themselves.
 
-Otherwise: —
-
 In the centre, the Russian (general), the malice-seeker,
 Breast-washed of love for Sikandar.
 
@@ -121,9 +117,6 @@ As the fowl of two feathers (wings) over the meadow.
 
 From the spear, the surface of the dust became the canebrake;
 From the iron maces, the low earth became the mountain:
-
-The second line may mean — that the plateau of the battle-field was as
-lofty as the sky.
 
 The spear-point opened a fountain of blood from the stone (the warrior's body);
 In it, a hundred forests of the arrow of the white poplar sprung:
@@ -202,8 +195,6 @@ The brave Rumi came to the dust.
 
 Another Rumi went and also experienced the dust (of destruction);
 For he found the Purtasi very skilful.
-
-OAiNTO LVI11.] SIKANDAB*S EIGHT WITH THE RUSSIANS. 699
 
 Thus, until to the number of seventy men
 Of the men of Rum came to the sword in conflict.

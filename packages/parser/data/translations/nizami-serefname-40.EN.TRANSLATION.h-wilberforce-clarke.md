@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -73,13 +71,9 @@ Saying: — " The empire (of Iran and Khurasan) have expressed the kiss (of obei
 " I will incline the army towards the Khan-i-Khakan (the king of Chin):
 
 Anciently, b.c. 1000, the Rajputs, the oldest race in India, had thrones
-in Northern India, at Indra-prastha (Delhi), Kannauj (Kannauj, near
+Northern India, at Indra-prastha (Delhi), Kannauj (Kannauj, near
 
-Cawnpur), Ayodhya (Oude), and Patali-putra (Patna).
-
-a
 And thence I will go towards CMch (in Chin) and Tiraz (in Hindustan);
-
 " Will traverse the earth (Hindustan) in one excursion."
 
 The warriors of Rum, the chiefs of the banquet,
@@ -104,7 +98,7 @@ Again, by the counsel of the sages,
 He did not what comes from the foolish (he displayed no haste).
 
 A messenger, expeditious, swift of foot,
-He sent, and gave to him a message for the Hindu: v-
+He sent, and gave to him a message for the Hindu:
 
 " If thou be for war, lead forth thy army;
 " For, behold I have arrived like the black cloud.
@@ -138,11 +132,6 @@ He sent, and gave to him a message for the Hindu: v-
 
 " If impetuosity be mine as to lovely ones,
 " The sun (the beauty of lovely ones) in Khwarazm is more resplendent.
-
-The preserving of the kakul (the hair-lock) is by the Hindu, religion
-enjoined, and on its preservation a person's respect depends.
-
-If az be omitted, the first line may be: — If there, — the tip of a hair (on thy body) be raised (through pride or wrath).
 
 " I have come to Hind, a sword of Indian steel in hand;
 " For me is necessary — fresh meat (revenue) from the raging black elephant (Hindustan, producing brave black men).

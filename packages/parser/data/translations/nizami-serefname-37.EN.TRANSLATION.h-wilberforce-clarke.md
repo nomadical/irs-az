@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -258,8 +256,6 @@ Saying: — " How long (wilt thou remember) — Kay Khusrau and Kay Kubad? (Beho
 " In that place before the throne, — every omen of the Khusrau,
 " Fortune brought forth in victoriousness.
 
-Otherwise: —
-
 " When the king (Sikandar) gave (by his person) beauty to that throne,
 " He gave back life to the dead Kay Khusrau! "
 
@@ -347,7 +343,7 @@ Since our place is the plank of the grave (takhta), not the throne (takht).
 Not the throne of gold is this which is our place;
 Nay, it is a clog of iron about our feet (inasmuch as we regret to leave it at death).
 
-no Since one cannot perpetually sit on the throne,
+Since one cannot perpetually sit on the throne,
 It is proper before this (the coming of death) to shatter the throne.
 
 Since in the (world-displaying) cup of Kay Khusrau (through his dying) lustrousness remains not,

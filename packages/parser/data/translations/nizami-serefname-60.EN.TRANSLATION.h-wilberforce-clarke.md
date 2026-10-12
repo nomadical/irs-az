@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -18,7 +16,7 @@ Seek; and bring to the hand the water of life (the wine of senselessness).
 By that luminous water behold me;
 And (by drinking it) make me more living than this (terrestrial) life (so that I may obtain eternal life).
 
-l In this happy section (chapter) — from new to old,
+In this happy section (chapter) — from new to old,
 I sing the song of the villager's (the fire-worshipper's) history.
 
 The village- narrator thus wrote,
@@ -41,8 +39,6 @@ He inclined to the abandoning of important affairs (world-seizing):
 
 Loosed the rein towards the Dark Land;
 Became concealed like the moon (eclipsed) in the mouth of Draco:
-
-Otherwise: —
 
 Grave the order in that new road (of journeying) in such a way
 That the prophet Khizr was leader.
@@ -194,8 +190,6 @@ For verdure grows more succulent by the fountain:
 Consumed forty days in searching for the fountain (of the water of life);
 On it, — he cast his shadow (came near to it); and (deprived of the luminosity of the water) remained in the shade (the Dark Land).
 
-Otherwise: —
-
 — Perhaps in his straitened heart he possessed great ardour,
 That he preserved his resolution (of going) to the fountain and the shade (the Zulmat).
 
@@ -291,12 +285,6 @@ Sit thou! that fortune herself may appear.
 
 One sows the seed; another reaps;
 Happy that one who hears this speech.
-
-angel of revelation, who communicated the Kuran to Muhammad, and
-who promised the Virgin Mary " a Holy Son "; Michael (Micha,il,
-
-Bihtar), the friend of the Jews; enmity against either him or Gabriel
-involves enmity against God; Azrael (Azra,il, Murdad), the angel of
 
 It is improper to sow always for one's self,
 For victual-devourers are beyond limit.

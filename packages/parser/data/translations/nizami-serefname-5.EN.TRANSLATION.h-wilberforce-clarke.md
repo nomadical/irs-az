@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -67,7 +65,7 @@ In those contemplative paths (of verse),
 The pure (whole) brain in my head became perturbed.
 
 From the agitation (sleep) of the brain, came mine a dream;
-In that dream, I beheld a beautiful garden (the lustrous
+In that dream, I beheld a beautiful garden (the lustrous verse of the Sikandar Nama),
 
 From which variegated garden I kept plucking the date (of subtlety);
 And of it kept giving to whomsoever I saw.
@@ -122,8 +120,6 @@ When more than that, the cloud (of Divine Bounty) gives me reward?
 
 If thou light up a hundred lamps (of poetry) like the moon,
 On them will be the name (mark) of robbery from the sun (Nizami).
-
-It is well known that the moon's light is derived from the sun.
 
 I (have) heard that an insolent fellow, liver-consumed (state-distressed)
 Possessed an old gold coin (an ashrafi) newly-gained.

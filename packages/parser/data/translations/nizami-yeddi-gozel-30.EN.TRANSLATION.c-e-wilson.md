@@ -196,8 +196,6 @@ All through a narrow gorge JIahan went on, mount upon mount he saw, a narrow pas
 
 His strength departed, for there was no food, — no food there was except regret and pain. o
 
-194:
-
 (So) lie made search for roots and seeds of herbs, and ate them few by few in place of bread.
 
 He could not thinh of staying from the road; his travel he pursued and went along.

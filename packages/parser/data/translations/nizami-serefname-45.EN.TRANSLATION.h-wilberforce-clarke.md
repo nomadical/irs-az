@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -237,8 +235,6 @@ Like a samander? No; a Sikandar-bearer (chosen out of all the horses of the worl
 A hunting-bird of distraught brain (impetuous in the attack of birds);
 More distraught (restless) than the sleep of (men on) the night of calamity:
 
-The couplet may be: —
-
 Like (un-ending) Time in to and fro motion, swift of wing;
 Going (after prey) like the (fierce) south wind; coming (back to the falconer) like the north:
 
@@ -347,7 +343,7 @@ For manliness is little in women.
 Woman of silvern body, though she be of brazen body, —
 Why boasts she of manliness? for, verily, she is woman.
 
-no If a fish (of silvern body) be of the hard stone, —
+If a fish (of silvern body) be of the hard stone, —
 It is (verily) the prey of the crocodile of the river.
 
 Of paper it is improper to make shields;
@@ -452,7 +448,7 @@ He ordered that the army should alight:
 Regarded that portion of ground (on the bank of the Jihun), heart-exhilarating;
 Considered it fortune to sit in that spot.
 
-us The tent-rope of the royal pavilion,
+The tent-rope of the royal pavilion,
 They drew; and the peg (tent-pole) of the centre became firm.
 
 From many bejewelled pavilions,

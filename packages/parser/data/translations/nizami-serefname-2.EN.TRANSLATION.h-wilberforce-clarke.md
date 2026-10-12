@@ -4,15 +4,13 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
 status: DRAFT
 ---
-i O great-One! O greatness-Bestower! I am friendless;
+O great-One! O greatness-Bestower! I am friendless;
 Thou art my aid-giver and aid-arriver.
 
 I brought, at first, nothing from the house (the mother's womb);
@@ -24,7 +22,7 @@ Keep far from me the wind (of calamity) of torch-extinguishers (Devils and Jinns
 Thou gavest me (in this world) powerfulness as to sowing (good deeds);
 Give me (in the other world) fruitfulness of what I sowed.
 
-e The hill (of desire) is lofty, and the torrent (of the vicissitudes of the world) rude;
+The hill (of desire) is lofty, and the torrent (of the vicissitudes of the world) rude;
 Twist not my rein from the true path.
 
 Let me pass over this torrent-place (of the world), in such a way,

@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -20,9 +18,6 @@ From it, is the oil for the lamp of my (luminous) body.
 
 (gold of) speech! say — what is thy alchemy (composition)?
 Of thy proof, who is the alchemist?
-
-Istakhr may be spelled — f&*>\,f&~>\,;«&*-!, i£»*\.
-C.OT0 XXXrV.] SIKANDAB SUPPLANTS THE KAYAN KINGS. 419
 
 That from thee they (the poets of the world) evoked so many pictures (versified books),
 Yet rendered thee not void (deficient) of a (single) word (particle).
@@ -198,7 +193,7 @@ I prepare the share for whoever there is:
 " That I may bring forth from the dust (exalt) the head of the truth-recognizers (Muslims);
 " May bring destruction upon the false worshippers (infidels):
 
-flo " May take from the world the rust of shamelessness;
+" May take from the world the rust of shamelessness;
 " May (through my perfect justice) give concord to the wind with the lamp (put down rebellion):
 
 " May make the demon (the crabbed one) of every house the angel (the good-natured one);
@@ -251,8 +246,6 @@ Saying: — " O king! for me a diram is necessary;
 
 The world-possessor said: — " Of the lord of the throne,
 " Ask for treasure conformable to his dignity."
-
-OAKTO XXXIV.] SIKANDALI SUPPLANTS THE KAYAN KINGS. 427
 
 The inquirer said: — " Since of one diram
 " The king suffers shame, because it is a little matter,
@@ -320,7 +313,7 @@ Preserved the custom of the prosperous:
 Sent a letter (of peace) to every country;
 To every lord of the marches (of Turan) and to every chief:
 
-loo Inclined their hearts (to him) by his magic (gracious words);
+Inclined their hearts (to him) by his magic (gracious words);
 Gave them peace from his own assault:
 
 Made the world (of Iran and Turan) obedient to his own command;

@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -45,7 +43,7 @@ Fire expired, and the fire-worshipper burned (with grief).
 Sikandar ordered that the men of Iran
 Should unloose the girdle (of service) as regards fire-worshipping:
 
-to Should renew that same old religion (of Ibrahim);
+Should renew that same old religion (of Ibrahim);
 Should incline towards the religion of the Khusrau (Sikandar):
 
 Should consign the chattels (the cord, &c.) of the fire-worshippers to the fire;
@@ -83,8 +81,6 @@ Used to run -with wantonness from every direction:
 
 Like the fire-worshipper, red wine uplifted;
 In memory of the fire-worshippers, neck-exalted.
-
-Tabriz (called by Arabs — Azarbijan, and by Persians — A'zarabad), and
 
 From the (book) Barzin of the villager (the fire-worshipper) and the sorcery of the Zand,
 A smoke (of the sigh of love for the brides) brought forth to the lofty sky.
@@ -197,7 +193,7 @@ Came to the fire-temple of Azar-abad (Tabriz).
 In every place in which he saw fire, — quickly
 He both quenched the fire and washed (effaced) the Zand.
 
-eo In that place (Tabriz), was a fire built round with stone,
+In that place (Tabriz), was a fire built round with stone,
 Which the fire-worshipper used to call — " wisdom-consumer."
 
 For it, were a hundred priests of the fire-temple with collar of gold,

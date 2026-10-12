@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -59,9 +57,6 @@ The brain from anger's flame went boiling.
 
 From the flashing of the sword-point and the lighting of the spear,
 The head went from the (true) path, and the hand from the rein.
-
-At the time of battle an elephant furnished with a throne used to
-accompany the king.
 
 The twanging of the bow passed into the brain of the mountain;
 Against every crowd, — the arrow whiz zing-making.

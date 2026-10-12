@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -126,7 +124,7 @@ The nature of the earth (the body) became camphor-devouring (virility- wan ting)
 Sometimes, the heart inclines to moving;
 Sometimes, the head makes praise of sleeping.
 
-he reproach of brides (damsels) came to my ear;
+The reproach of brides (damsels) came to my ear;
 The jar (of the body) became empty (of the wine of prosperity); and the Cup-bearer (youth's vigour), silent.
 
 The head turned from sport (of youthfulness); and the ear from song;

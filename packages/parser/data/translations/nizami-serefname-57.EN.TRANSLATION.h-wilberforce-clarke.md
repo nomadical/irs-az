@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -18,7 +16,7 @@ Scatter a jewel (the wine of senselessness) on my composition (body).
 By it my soul (rust-eaten with carelessness) may, perhaps, become fresh (and lustrous);
 For the rust (blight) of the jewel departs by the (rubbing of the) jewel.
 
-l "When Sikandar (son) of Faylikus became free
+"When Sikandar (son) of Faylikus became free
 As to the booty of Purtas and the plunder of Russia, —
 
 In that quarter he sought out an abiding place
@@ -138,7 +136,7 @@ To the sage he spoke, saying: — " In royalty,
 " In this territory, of whatever I have seen,
 " This (governing) is best; and of this I have approved.
 
-u If this jewel (of Kintal's governing) had not been this people's
+If this jewel (of Kintal's governing) had not been this people's
 " None would have bound his loins (in obedience) to a person's (a chief's) order.
 
 " None (of the chiefs of Russia) has kingly qualities;

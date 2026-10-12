@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -88,8 +86,9 @@ In the world, thou art the kin g of vigilant fortune;
 Fortune considered thee worthy of the throne.
 
 In the world, none has that power
-That he may send a present worthy of the king. from this clay pitcher ( Nizami' s dusty body),
+That he may send a present worthy of the king.
 
+If a drop of water (the Sikandar Nama,e bara) trickle from this clay pitcher ( Nizami' s dusty body),
 In that deep sea (Nasratu-'d-Din, of great majesty), — how may it be visible?
 
 The fountain that comes from the hard stone
@@ -148,15 +147,3 @@ Give me a cup (of senselessness) and seize my hand.
 
 (A cup) of that wine by which sense may be the soul's;
 Be it — for me, the draught (of senselessness); and for the king, the water of life!
-
-LONDON:
-PHINTED BY W. H. ALLEN AND CO., 13 WATERLOO PLACE.
-
-T
-,!
-
-BRIGHAM YOUNG UNIVERSITY
-1197 21785 7306
-
-All
-Date Due

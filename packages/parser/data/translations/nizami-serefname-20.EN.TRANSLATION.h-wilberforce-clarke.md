@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -125,8 +123,6 @@ As speaks (befits) the Lord of the sword and the throne.
 
 " The tongue that in the heat of passion exercises patience
 " Puts distance from its own distance-maker (severer, or enemy).
-
-Otherwise: —
 
 " Although speech be excellent as regards him,
 " Not speaking is even better than speaking to him.
@@ -347,7 +343,7 @@ When the general took up the computation of the army,
 Of fighting horsemen, skilful (firm) of stirrup,
 Nine hundred thousand came into (his) reckoning.
 
-no When the world-seeker (Dara) beheld that by his (countless) army
+When the world-seeker (Dara) beheld that by his (countless) army
 His country kept raising the wave of the sea.
 
 He urged an army like fire (the desolator) towards Rum;

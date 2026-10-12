@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -68,8 +66,6 @@ As to that fragment would show much favour:
 
 Would give to those petitioning (the chiefs of Usturakh) a present road-brought;
 Would give to the world (Iran) life anew.
-
-14( The first line may be: — Would, the water of life creating (bounty-bestowing), pass by that land (Usturakh).
 
 His thought within this screen (of imaginings) travelled,
 — (Just) kings have no occupation save this (equity, liberality, and bounty to the people), —
@@ -134,8 +130,8 @@ Verily, in the treasury, a thing wrapped up (gold or silver) remained not.
 " Thou wilt see that in these few years the Russians
 " Will cause injury to reach Rum and Arman.
 
-" Since they have thus found a way to the treasure, They will attack as they have attacked:
-a mi
+" Since they have thus found a way to the treasure,
+" They will attack as they have attacked:
 
 " They are all highwaymen like the wolf and the lion;
 " Are not impetuous for (spreading) the table (of hospitality), but impetuous for blood (the slaughter of man):

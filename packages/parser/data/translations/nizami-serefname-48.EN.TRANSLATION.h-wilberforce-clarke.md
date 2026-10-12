@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -18,7 +16,7 @@ Give me, if solicitude for a husband be hers.
 I will perform hand-washing with pure (wine of senselessness) from the impure (apparent wine);
 To the virgin like this, it is proper to draw the hand (washed as regards all other virgins)!
 
-l Again the nightingale (Nizami) has entered the garden (of sweet speech);
+Again the nightingale (Nizami) has entered the garden (of sweet speech);
 The Pari (Nizami) has come before the luminous lamp (of sweet speech).
 
 My (poetic) fancy makes the Pari-form (presents the beauteous form);
@@ -306,7 +304,7 @@ They have not experienced double-handed anyone's sword,
 " Often, the poison which brings distress to the body, —
 " By another poison it is proper to obstruct.
 
-lt I have heard that from the wolf, the fox-seizer,
+I have heard that from the wolf, the fox-seizer,
 " The old fox escaped through the noise of dogs: —
 
 " Two young wolves sowed the seed of malice;
@@ -345,7 +343,7 @@ Saying: — " We pour our blood at thy feet.
 When the Khusrau gave much heart (encouragement) to the army,
 — For it is improper that anyone should be heartless, —
 
-no He was in thought until evening-time,
+He was in thought until evening-time,
 Saying: — " To-morrow the sword (of war) and the cup (of peace) — which befits? "
 
 When the luminous day was hidden by the dark night,

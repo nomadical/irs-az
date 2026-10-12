@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -32,8 +30,6 @@ From the face of the world ( Sikandar' s guests) dust (vexation) risen (and depa
 
 In that joyousness, — with delight and wine,
 The wave (of speech) of the jewel-seller (the sage) reached the lip (of utterance).
-
-wrong.
 
 Speech of the work of those work-knowing (traders), — passed,
 Namely: — " Of the world, who are most talented?
@@ -185,11 +181,35 @@ That — Mani had impressed the prohibiter (the dead dog) on that pool,
 Through the many sorceries of his wisdom,
 To it (his wisdom) and his picture, — they inclined.
 
-Behold how again I have urged (my steed of speech)! Where I exalted the head of my speech!
-The world-possessor with the king of Chin some days Was music-kindler with (by means of) the gleaming wine. Time to time their love increased; The world praised both that one and this one. One day he spoke to him saying: — " I desire " — If the sky bring not before me foot-turning (from the true path), —
+Behold how again I have urged (my steed of speech)!
+Where I exalted the head of my speech!
 
-go " That I may return to my own country; " May make an expedition from Chin to Rum." The Khakan of Chin gave him an answer like this, Saying: — " Earth's seven territories have become thy kingdom. " Wherever thou wishest, proceed proudly with fortune's aid; " Wherever thou makest thy abode thou art the point of adoration. " Wherever the king's cavalcade hastens, " From us slaves, — service-performing." On account of the Khakan's skill and his vigilance, The king was astounded at his fidelity (which was great).
-G3 Every moment with the chief of Chin the king's assembly Became more resplendent than the sun and the moon.
+The world-possessor with the king of Chin some days
+Was music-kindler with (by means of) the gleaming wine.
+
+Time to time their love increased;
+The world praised both that one and this one.
+
+One day he spoke to him saying: — " I desire
+" — If the sky bring not before me foot-turning (from the true path), —
+
+" That I may return to my own country;
+" May make an expedition from Chin to Rum."
+
+The Khakan of Chin gave him an answer like this,
+Saying: — " Earth's seven territories have become thy kingdom.
+
+" Wherever thou wishest, proceed proudly with fortune's aid;
+" Wherever thou makest thy abode thou art the point of adoration.
+
+" Wherever the king's cavalcade hastens,
+" From us slaves, — service-performing."
+
+On account of the Khakan's skill and his vigilance,
+The king was astounded at his fidelity (which was great).
+
+G3 Every moment with the chief of Chin the king's assembly
+Became more resplendent than the sun and the moon.
 
 The Khakan — for order-accepting loin-girt,
 An attendant, a ring in his ear (verily, a slave), —
@@ -220,9 +240,6 @@ He loosed the frown from the forehead of the men of Chin.
 
 In Chin was none of the people
 Who put not on (stuffs) silken or satin.
-
-"Maula" may come from — malik (a lord), or from mamluk (a
-purchased slave).
 
 When, through goodness, the king made
 The eye-brow open for those of narrow eyes,

@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -153,8 +151,6 @@ By the return of goodness I make (him) penitent.
 I utter not evil of the enemy even,
 Lest that, from that uttered, I should be my own enemy.
 
-poetry, they liken the pleasant disposition to the pleasant perfume of
-
 By reason of this goodness, they (the men of the world) bring me — from the desert and the river bed,
 From the good (holy men) and those renowned (kings) — blessing.
 
@@ -196,8 +192,6 @@ If I move from my (corner) place, the root (of abstinence) may become languid.
 
 When the (periods of) forty days (chilla) became forty (in number); and (times of) retirement (khilwat) a thousand,
 It is far from the work (of the hermit) to come to the banquet.
-
-Otherwise: —
 
 At the time of the torrent (of weakness through austerity) being evident,
 It is not proper (though short the distance) to go from Ray to Bukhara.
@@ -337,20 +331,19 @@ Produces it much fruit on the tree?
 That land which possesses defective soil,
 One cannot truly establish in it a foundation.
 
-i° If the fig-eating birds (plagiarists) had been many,
+If the fig-eating birds (plagiarists) had been many,
 There would not have remained a single* fig (hidden subtlety of verse) on any bough (of my book).
 
-With splendour (of excellence), I can execute this work (of
-
+With splendour (of excellence), I can execute this work (of the Sikandar-Nama);
 With want of splendour, work issues not from man.
+
 When, in respect to the grain, there is hope of profit,
-
 The husbandman enters the harvest-field.
+
 When the corn becomes dull and low in price,
-
 The seed-scatterer abandons working.
-Those music-understanding, melody-hearers,
 
+Those music-understanding, melody-hearers,
 Took their ear (off) from (listened not to) the melody of the singer (Firdausi).
 
 It became necessary — to make this employment (of versifying);

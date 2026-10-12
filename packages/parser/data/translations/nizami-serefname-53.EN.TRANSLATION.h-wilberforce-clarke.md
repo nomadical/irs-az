@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -89,5 +87,3 @@ Dispersion came upon them, as the (dispersion of the) cloud (from the sword of t
 
 They exercised a little patience (delay) for reputation sake;
 Aroused an idea for artifice.
-
-" Digar yaragi " is not one compound word meaning digar bar.

@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -17,9 +15,6 @@ Give, so that in the morning-time I may take a precious morning draught.
 
 A morning draught (of senselessness), that from the stream of Kausar I drink,
 Is lawful, (even) if till the day of assembling I drink.
-
-"Kausar" is the name of a nectar-flowing river in Paradise; it here
-means — joy on beholding God's majesty.
 
 The world (Time) is (engaged) in cherishing the bad and the good;
 Many good and evil deeds are on its neck.
@@ -79,7 +74,7 @@ I chose from every book its charm (excellence);
 Took out from every husk (book) its brain (pith):
 
 Gathered treasure (the Sikandar-Nama) — speech within speech (boundless);
-And prepared from that total (of varied tongues) the sum
+And prepared from that total (of varied tongues) the sum total (the Sikandar-Nama).
 
 Whosoever is acquainted with every language (in which the tale of Sikandar is related),
 His tongue is short of criticism (on this work).
@@ -162,11 +157,6 @@ Like to which another seldom makes a city.
 The door and wall that Darband first obtained,
 It obtained, by the wisdom of that wise one (Sikandar).
 
-They say that Sikandar was of the faith of Ibrahim (the prophet),
-and consequently mu,min (orthodox); and that Adam was the first
-
-Muslim.
-
 Pass beyond Bulghar, which is of his work;
 Its true site is his Bunghar (chattel-place).
 
@@ -193,11 +183,6 @@ Its other peg in the southern amplitude.
 
 He drew the tent-rope from this side to the east;
 From it another tent-rope reached to the west.
-
-the two tribes, Ya,juj (Gog) and Ma,juj (Magog), the offspring of Yafar,
-the son of Nub (on him be peace!), might not intrude. Sale's Kuran,
-
-Nama,e bahri); and the Shah-Nama, by Firdausi.
 
 Within this workshop (of the world) as regards (measuring) this length and breadth (of the world);
 To whom other (than he) was such power?

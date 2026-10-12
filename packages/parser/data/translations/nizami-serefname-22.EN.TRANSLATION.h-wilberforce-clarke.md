@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -41,9 +39,6 @@ Fashion out thy own profit by thy own nature.
 
 Until the day of death, in hospitality to thyself,
 Be that tree leaf -making of itself (and beg not of others).
-
-The man covetous of the world makes his own reason (that was his
-good neighbour) of bad repute.
 
 When the silkworm devours the victuals (mulberry-leaves) of men,
 Its body becomes all thick like the finger; and it vomits back (as silk) the food eaten.
@@ -348,7 +343,7 @@ Saying: — " In me, what soft iron (languor) hast thou seen,
 " Of old age, the mark is the stumbling foot (sin);
 " Forgetfulness of the work (of the kingly assembly) comes to the brain.
 
-no " Of old men two things are possessed of suitableness;
+" Of old men two things are possessed of suitableness;
 " One, being in the tomb; the other, in prayer.
 
 " To young men, war-tried, — the world
@@ -438,11 +433,6 @@ Saying: — " Verily, thou art the possessor (the king) of Time!
 " When (being of full age) it becomes sated with the small water-wheel of the vine,
 " It comes down (to the earth), — the cord bound about its neck.
 
-life, a thousand years).
-The pumpkin represents Sikandar' s youth (twenty-four years of age);
-
-and the plane-tree Dara's age (forty-eight years).
-
 " He (Sikandar) is the pumpkin-tree, neck-exalted;
 " The rope (of exaltation) made of a (mere) grass-blade.
 
@@ -520,9 +510,6 @@ Makes the stars cornelian (luminous) on the firmament.
 
 Come, cup-bearer! bring that water of immortality;
 Bring the wine of soul-ease to my soul.
-
-by Jesus Christ, and gained many converts, even among the Christian
-patriarchs and bishops. Forced by Shahpur to fly from Persia, he went
 
 Give wine that imparts deliciousness to my soul;
 And, if I remain not (die), — it will point me out.

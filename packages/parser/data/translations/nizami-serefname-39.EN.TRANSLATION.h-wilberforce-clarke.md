@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -23,8 +21,6 @@ For the sake of every kind of delicious food a condiment mixing!
 
 At thy door, was reared the tree of desire;
 Twist its head that it may not twist thy head (in the day of want).
-
-Otherwise: — O heart! how long with this sport-exciting (of Time),
 
 Pure wine not drunk (carnal pleasures unenjoyed) — thou displajest the intoxication (of lust);
 And if thou drinkest wine (en jo jest carnal pleasures), — thou doest the act of the idol- worshipper.
@@ -109,8 +105,6 @@ Saying: — " For the threshold-kiss of this court,
 
 " The people of Khurasan draw his rein (for battle with thee):
 " Draw him in the midst for contest with the king (Sikandar):
-
-The herdsmen who practise deer-tending (in place of sheep-herding),
 
 " From the boundary of Nishapur to the dust of Balkh,
 " The j make him bitter in hostility to us.
@@ -201,8 +195,6 @@ The leaves of trees began to dance (in the soft wind):
 
 From the sweet cry of the fore-finger (the beak) of the patch- weaver (the nightingale),
 The niorniDg-wind (in ecstasy) rent the soft silken undergarment of the rose to the navel (the base of the bud).
-
-Otherwise: — The lip of the great river, with its many torrents,
 
 Proudly moving (by wind-action) on the steed of motley-coloured hoof (the rose-stem), —
 The red rose, — beneath the red pomegranate:
@@ -336,9 +328,6 @@ Placed in every corner without hand-toil.
 The sun- worshipper struck his golden shoe (so rich was he) against the steed;
 The name of that edifice (the fire-temple of Balkh) became " Azr-Grushasp " (the fire-leaper).
 
-Azr Gushasp, at Balkh, was a fire-temple founded by Gushtasp
-(b.c. 519).
-
 When the Khusrau obtained power over that treasure-receptacle (the fire-temple full of treasures),
 He found the fire-worshippers intoxicated with the cup of wine of the fire-worshippers:
 
@@ -354,7 +343,7 @@ Halted awhile at every city:
 Cast agitation (threat) into the brain (the city) of Khurasan;
 Rubbed the ear of (chastised) the people of Khurasan:
 
-no Despatched a mounted troop to every country;
+Despatched a mounted troop to every country;
 For youthful fortune was his ally.
 
 Khurasan, and Kirman, and Ghuznin, and Ghur, —
@@ -369,7 +358,7 @@ All his road was treasure on treasure.
 At every stage where he used to take rest,
 On account of treasure, great used to be the load.
 
-us He used to store the land with a great treasure;
+He used to store the land with a great treasure;
 Used to leave (the land) and abandon (the treasure) in the soil.
 
 That gold which makes man fearful (of robbers), —

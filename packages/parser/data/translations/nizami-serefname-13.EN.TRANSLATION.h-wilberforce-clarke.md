@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -102,8 +100,6 @@ He added an oath to the agreement,
 Saying:— " When thou bringest forth thy head (in exaltation) to the lofty sphere;
 ' Causest the dun steed (of empire) to leap from the school to the plain (of battle);
 
-When Sikandar was eight years of age, Lysimachus (an Acarnanian)
-
 " Bringest the head of enemies to the earth;
 " Bringest the world (in submission) beneath the seal of the seal-ring;
 
@@ -122,7 +118,8 @@ When Sikandar was eight years of age, Lysimachus (an Acarnanian)
 " Wilt become, by his ministership, experienced in affairs;
 " — For the wise minister is better than property (the Amir's) and treasure (the official's).
 
-" Thine ally is fortune; his, skill: The skilful one is necessary for the master of fortune.
+" Thine ally is fortune; his, skill:
+" The skilful one is necessary for the master of fortune.
 
 " "Wherever skill found its full value,
 " It brought forth renown for the lord of wealth.

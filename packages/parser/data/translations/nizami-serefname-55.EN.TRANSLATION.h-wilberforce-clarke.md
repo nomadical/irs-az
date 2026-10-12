@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -270,8 +268,6 @@ Drank wine, pleasant-tasting, joyfully.
 When night fixed the blue lock (of its darkness) upon the treasure (of day),
 (And) the balance of camphor (the whiteness of day) became musk-essaying (dark),
 
-Otherwise: —
-
 Verily, the king drank musk-scented wine;
 Verily, the musician preserved the true note.
 
@@ -341,10 +337,41 @@ He sought the trace of that matter from the chiefs,
 Saying:— " When that fettered one became joyous with wine!
 " Why went he far from us when lie became free?"
 
-no Iu respect to that searching (question), the great ones of the empire Fell into consideration about that matter (of the demon - man's departure). One said: — " He is a desert one. O wonder! " When they cut his bonds he took the desert." Another said: — " When wine worked upon him " He bound his load towards his own house." The king — to whatever passed, open or hidden (reply), Listened, but said nothing. He remained in that reflection, saying: — " This screen of blue colour (the sky), " What night-play brings it forth from the screen? "
-lis When the king's heart became acquainted with this matter, He became wish-seeker from his own cup-bearer. Again, he held delay to be approved; For he had in his eye the plunder of the enemy. When some time passed that intoxicated elephant came, The waist-place (the girdle) of a beautiful maiden in his hand. He placed her with reverence before the Khusrau; Gave the ground-kiss according to usage of adoration. When in this way he produced a prey from the road, He again went forth from the king's assembly.
+In respect to that searching (question), the great ones of the empire
+Fell into consideration about that matter (of the demon - man's departure).
 
-The king was amazed when he witnessed this matter (the return both of the demon-man and of the damsel); He looked at the jewel in the snake's head (the damsel), not at the snake (the demon). From shame of the king that delicate doll, Like the doll, drew the sleeve (as a veil) over her head,
+One said: — " He is a desert one. O wonder!
+" When they cut his bonds he took the desert."
+
+Another said: — " When wine worked upon him
+" He bound his load towards his own house."
+
+The king — to whatever passed, open or hidden (reply),
+Listened, but said nothing.
+
+He remained in that reflection, saying: — " This screen of blue colour (the sky),
+" What night-play brings it forth from the screen? "
+
+When the king's heart became acquainted with this matter,
+He became wish-seeker from his own cup-bearer.
+
+Again, he held delay to be approved;
+For he had in his eye the plunder of the enemy.
+
+When some time passed that intoxicated elephant came,
+The waist-place (the girdle) of a beautiful maiden in his hand.
+
+He placed her with reverence before the Khusrau;
+Gave the ground-kiss according to usage of adoration.
+
+When in this way he produced a prey from the road,
+He again went forth from the king's assembly.
+
+The king was amazed when he witnessed this matter (the return both of the demon-man and of the damsel);
+He looked at the jewel in the snake's head (the damsel), not at the snake (the demon).
+
+From shame of the king that delicate doll,
+Like the doll, drew the sleeve (as a veil) over her head,
 
 When in the tent the king beheld that moon,
 The tent he made void of men:
@@ -370,7 +397,7 @@ She used to make a prey of spiritualities.
 Her lip, — what a lip! the distraction of markets!
 In it, candy and sugar (sweet speech) in ass-loads.
 
-iso In her (white) bosom, the spectacle of the jasmine;
+In her (white) bosom, the spectacle of the jasmine;
 The pink lobe of her ear — the spectacle of the ruddy rose.
 
 When the Khusrau looked at that face like the (luminous) moon,
@@ -409,15 +436,13 @@ Saying: — " Be not thy crown hidden from the world!
 " By thee, the liberation (of wretched ones from the vicissitudes of Time) on the day of hope;
 " From thee, the splendour of the luminous sun (of justice).
 
-The first line may be: — A virgin prey of sugar-laughter he gained.
-
 " Other kings, army-shattering, —
 " One became crowned (king through ancestry); the other, the sword-striker (king through bravery).
 
 " At this time thou art that sun;
 " For thou art both the sword-seizer and also the crown-possessor.
 
-lis " When thou art in the assembly, thou art the world-Khusrau;
+" When thou art in the assembly, thou art the world-Khusrau;
 " "When thou essayest battle, — thou art the world-champion.
 
 " One dusky like me possesses not that power
@@ -572,9 +597,6 @@ Saying: — "Into the garden (of youth) came a beautiful tree (a damsel);
 
 " In the garden (the bloom of youth) was a rose unblossomed;
 " Verily, the narcissus half asleep in the parterre.
-
-and its death-blow came with the subsequent adoption of the Modern
-Persian alphabet.
 
 " The red wine (of joy) in the cup (the unblossomed rose) was untasted;
 " An unpierced (unblemished) pearl was hand -untouched.

@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -285,7 +283,7 @@ Should adorn with collar and ear-ring,
 With brocade and jewel; (and) with sword and cup,
 Should bestow the decoration of perfect royalty.
 
-do The treasurer, practised in action, did so,
+The treasurer, practised in action, did so,
 As the monarch of good judgment directed.
 
 When with good fortune Davali
@@ -296,9 +294,6 @@ He became neck-exalting among those neck-exalting (the great ones).
 
 Opened his tongue in thanks to the monarch;
 Invoked a blessing on him from God:
-
-Formerly, when kings honoured anyone, they gave a golden collar, a
-jewelled girdle, and an ear-ring (or two).
 
 Became the greater hastener in that service;
 Became head-exalter (in honour) instead of head-lowerer (in shame):

@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
@@ -65,8 +63,6 @@ Saying: — " Would that to-night had been long.
 
 " Perhaps its length would have made delay;
 " The battle-day would have appeared with great delay."
-
-They call night — zillu-l-arz, earth-shade.
 
 The thought of the strivers (Dara and Sikandar) was such
 That they would scatter (extinguish) anger, the rager.
@@ -347,7 +343,7 @@ Two bad players out of harmony,
 They (his own officers) should keep firm on their ground;
 He himself, like one distraught, moved from his place:
 
-no Came opposite to the pillow-place of the wounded,
+Came opposite to the pillow-place of the wounded,
 Unloosed the link of the Kayan armour:
 
 Placed the wounded head on his thigh:
@@ -357,7 +353,7 @@ That sleeping (powerless) body (Dara's), eye-closed,
 To it he (Sikandar) said: — " From this blood and dust arise! "
 
 Dizh Ruyi'n was a fortress (said to be near Ardabil) in Turan, beyond
-the Oxus, the capital of Arjasp, Afrasiyab's grandson.
+Oxus, the capital of Arjasp, Afrasiyab's grandson.
 
 " Release me (move me not); for release (from death) remains not in me;
 " Splendour remains not for my lamp (of life, body-illuminating).
@@ -497,8 +493,6 @@ He spoke to him, saying: — " O one of better fortune than myself!
 " From it (the world's plundering), neither safe are those who are alive;
 " Nor have even those escaped who have departed (in death).
 
-(UNTO XXX.] SIKANDAE'S VICTORY. 3 10
-
 Behold my day (of slaughter); pursue justice;
 Reflect thou also upon such a day.
 
@@ -562,9 +556,6 @@ Wept in the night-time, till the morning.
 At him, he gazed; over himself, bewailed;
 Because it was necessary for him to drink the same poison (of death).
 
-The next day, when the morning, the piebald horseman
-Appeared over this meadow (of the sky),
-
 Sikandar ordered — that they should bring the means (of burial);
 Should take Dara's body back to the first place (the grave-place).
 
@@ -592,7 +583,7 @@ When, from the salt sea, they fall on the salt dust (of the shore).
 Of this thoroughfare (the world) the custom is in this way,
 That it keeps the road for coming and going.
 
-loo Time swiftly brings this one to the place (of honour);
+Time swiftly brings this one to the place (of honour);
 Says to that one: — From the place of honour arise (and descend)!
 
 Beneath this azure carpet (of the sky) display not

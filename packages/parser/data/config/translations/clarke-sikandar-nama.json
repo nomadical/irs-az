@@ -4,6 +4,7 @@
   "title": "The Sikandar Nama, e Bara, or Book of Alexander the Great",
   "translator": "H. Wilberforce Clarke",
   "year": 1881,
+  "proofread": true,
   "authorSlug": "nizami",
   "collectionSlug": "nizami-serefname",
   "layout": "cantos",
@@ -11,7 +12,8 @@
     "THE SIKANDAR NAMA,E BARA"
   ],
   "firstCanto": "^INVOCATION\\.?$",
-  "dropPattern": "\\bsignif(y|ies|ics|ying)\\b|\\bcouplets?\\s+\\d|\\bfootnote\\b|\\bmay be rendered\\b|\\bIn some copies\\b|\\bmay be read\\b|\\bbe read for\\b|\\bthe couplet will\\b|\\bis said to be\\b|\\bSee Sale\\b|\\(properly, sukht\\)|\\beach equal to\\b|\\bHence they call\\b|\\bbelongs to the class\\b|\\bis produced by the mixing\\b|\\+[±A]",
+  "dropPattern": "\\bsignif(y|ies|ics|ying)\\b|\\bcouplets?\\s+\\d|\\bfootnote\\b|\\bmay be rendered\\b|\\bIn some copies\\b|\\bmay be read\\b|\\bbe read for\\b|\\bthe couplet will\\b|\\bis said to be\\b|\\bSee Sale\\b|\\(properly, sukht\\)|\\beach equal to\\b|\\bHence they call\\b|\\bbelongs to the class\\b|\\bis produced by the mixing\\b|\\+[±A]|^The meaning may be|^Otherwise\\s*:?\\s*—|\\bThe (first|second) line may be\\b|^The couplet may be|^If \\w+ be omitted|^For \\w+, read|^Note the idiom|^are — blackness|^(Muslim|Emperor Maurice|prayer|wrong|thus: —)\\.?$|^Nama,e bahri\\)|^When Sikandar was eight years|^Quatrain: —|^The arched eye-brow \\(the bow\\)|^The sky, really of an azure|^very black\\)|^Dara's reply was —|^and the plane-tree Dara's age|^\\[The Battle of|^They call night|^Tabriz \\(called|^\\.?\\s*\\\" Mush \\\" means|^The seven treasures are|^Firdausi, in his Shah-Nama|^Xenophon found|^The \\\" Burhan|^of trees \\(p\\. \\d+\\)|^\\\" Shakar para|^falakhan|^The herdsmen who practise deer-tending|^That Burak, notwithstanding|^Jupiter, the judge of the sky|^Cawnpur\\)|^When the pil|^repeller of poison|^It is well known|^\\\" Digar yaragi|^The being dusty \\(humble\\)|^1- Firidun|^\\(b\\.c\\. 800\\)|^So that the after-comers|^G-od has called|^poetry, they liken|^Nasratu-d-din kept living|\\bmay be spelled\\b|^Azr Gushasp, at Balkh|^secretary of King Kaid|^[xlvi]+\\. \\d+\\.$|^\\\" Pil-band \\\" is a chess-term",
+  "dropWrappedProse": true,
   "movedInterlude": {
     "english": "cup-?\\s*bearer|minstrel|singer",
     "original": "ساقی|مغنی"
@@ -48,7 +50,8 @@
     "Giipal": "Gupal",
     "Griipal": "Gupal",
     "Hariim": "Harum",
-    "Humi": "Rumi"
+    "Humi": "Rumi",
+    "Tartiis": "Tartus"
   },
   "corrections": [
     {
@@ -57,7 +60,7 @@
       "to": ""
     },
     {
-      "pattern": "(?<=[a-z])-1-(?=[a-z])",
+      "pattern": "(?<=[a-z])-1-(?=[A-Za-z])",
       "to": "-l-"
     },
     {
@@ -154,10 +157,6 @@
       "to": "\" The third that,"
     },
     {
-      "from": "lfio The next day",
-      "to": "The next day"
-    },
-    {
       "from": "(completed tb,6 tale)",
       "to": "(completed the tale)"
     },
@@ -201,6 +200,66 @@
       "pattern": "^.*M'MHIIi.*$\\n?",
       "flags": "gm",
       "to": ""
+    },
+    {
+      "from": "k< The Russian",
+      "to": "The Russian"
+    },
+    {
+      "from": "\" We shall see to which of us is superiority; To which in this matter is victory.\"",
+      "to": "\" We shall see to which of us is superiority;\n\" To which in this matter is victory.\""
+    },
+    {
+      "from": "Iu respect to that searching",
+      "to": "In respect to that searching"
+    },
+    {
+      "from": "\" Thine ally is fortune; his, skill: The skilful one",
+      "to": "\" Thine ally is fortune; his, skill:\n\" The skilful one"
+    },
+    {
+      "from": "\"With so many victorious signs, How may not disaster reach the enemy P",
+      "to": "\" With so many victorious signs,\n\" How may not disaster reach the enemy?"
+    },
+    {
+      "from": "like the rose; May bring forth, sweat",
+      "to": "like the rose;\nMay bring forth sweat"
+    },
+    {
+      "from": "But on the condition that from thy own country Thou presentest",
+      "to": "\" But on the condition that from thy own country\n\" Thou presentest"
+    },
+    {
+      "from": "\" Since they have thus found a way to the treasure, They will attack",
+      "to": "\" Since they have thus found a way to the treasure,\n\" They will attack"
+    },
+    {
+      "from": "« Saying -.-Break not thy heart; but break the mountain Alburz! « To Bahman, Isfandiyar thus spoke,\n\n\" Saying:—",
+      "to": "\" Saying: — Break not thy heart; but break the mountain Alburz!\n\n\" To Bahman, Isfandiyar thus spoke,\n\" Saying: —"
+    },
+    {
+      "pattern": "\\n+LONDON:\\n[\\s\\S]*$",
+      "to": ""
+    },
+    {
+      "from": "t\" If I well recognized",
+      "to": "\" If I well recognized"
+    },
+    {
+      "from": "\nhe reproach of brides",
+      "to": "\nThe reproach of brides"
+    },
+    {
+      "from": "\nn the centre the man of Zang",
+      "to": "\nIn the centre the man of Zang"
+    },
+    {
+      "from": "\nb is proper to sit joyous",
+      "to": "\nIt is proper to sit joyous"
+    },
+    {
+      "from": "a message for the Hindu: v-",
+      "to": "a message for the Hindu:"
     }
   ],
   "sections": [

@@ -38,8 +38,6 @@ When he had gone some steps towards the smoke, he saw a tent (there) rising to a
 
 A flock of sheep (too) seething in the sun, from hoofs to ears like to a stew of meat; s
 
-25S
-
 A dog suspended from a branch he saw, with fore and hind legs bound tight like a stone.
 
 He swiftly urged (his) horse towards the tent; he saw an old man like a sun-stirred dawn.

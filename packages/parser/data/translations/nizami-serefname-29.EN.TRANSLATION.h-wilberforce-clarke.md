@@ -4,15 +4,13 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: H. Wilberforce Clarke
-translatorNote: >-
-  The Sikandar Nama, e Bara, or Book of Alexander the Great. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Sikandar Nama, e Bara, or Book of Alexander the Great'
 year: 1881
 sourceNote: 'https://archive.org/details/sikandarnmaebara00nimg'
 isDefault: true
 status: DRAFT
 ---
-lis Come, cup-bearer! that stream of Paradise,
+Come, cup-bearer! that stream of Paradise,
 Cast into that cup of fire-nature.
 
 From that water (the stream of Paradise) and fire (the desired cup) turn not away my head;
@@ -72,13 +70,6 @@ Many a garment of the belly-skin, heart-cherishing,
 He sent at once to the women-folk of the king (Dara);
 He exchanged the black colour (of mourning) for the ruddiness (of happiness):
 
-. " Mush " means — coming together.
-
-The kings of Persia had seven treasuries; those of Khusrau Parviz are
-celebrated.
-
-The seven treasures are — gold, silver, iron, tin, copper, lead, and brass.
-
 Removed dust from the blue (mourning garments) with coral (red, joyous garments):
 Cast a (red) gold (joyous) wash on the lapis lazuli (mourning garments):
 
@@ -99,9 +90,6 @@ Make head and hair-parting trim and pleasant.
 
 Bring into the brain the desire for the rose (the adorning of the body, and the perfuming of the apparel);
 Bring the glance toward the luminous lamp (the sun).
-
-The garments of mourning of Dara's family were changed for those
-of feasting.
 
 When Sikandar knew that of mourning no trace remained,
 He cast out the sleeve of decoration (abandoned present-giving) for apology.
@@ -144,8 +132,6 @@ He continued to sport (in gallantry) like a man with the apple.
 
 The first word that fell, —
 He gave, on the king's part, to the veiled ones, salutation,
-
-THE S1KANDAK KAMA,! BAKA. j" CANTO XXXIII.
 
 Saying: — " The splendour (of joy) be from the king (Sikandar) to the king's (Dara's) women-folk!
 " Duality (alienation) be far from your midst!
@@ -336,8 +322,6 @@ Saying: — " The unparalleled Sikandrian ruby (Sikandar),
 " Save him (Sikandar), whoever strikes his head (desires propinquity) with thee,
 " Strikes his head, like thy ringlet, on the girdle (or mountain).
 
-Otherwise: — They should bring to the garden-cherisher (Sikandar) in the garden (his own dwelling).
-
 " If in thy ear be the gold ring,
 When it is without him it is (only) the door ring.
 
@@ -362,7 +346,7 @@ She consigned the precious pearl-shell (Roshanak) to the sea (Sikandar),
 Saying: — " Of the seed of (Kayan) kings, neck-exalting,
 " This one straight cypress (only) has remained a token.
 
-no "I say not — a jewel, most precious,
+"I say not — a jewel, most precious,
 " I entrust to a husband most renowned;
 
 " (But) one father-slain, left fatherless,
@@ -377,7 +361,7 @@ He placed the diadem of equality on her head.
 They gave the hox-tree (Roshanak, of lofty stature) to the lily (Sikandar, soft of tongue and very kind);
 — The parterre (Sikandar' s dwelling) became the ground of the noble cypress. —
 
-us The king, on account of the beauty of that royal jewel (Roshanak),
+The king, on account of the beauty of that royal jewel (Roshanak),
 Entered upon the work of jewel-purchasing.
 
 He beheld such a Pari that, from heart-ravishingness,
@@ -398,8 +382,6 @@ The waist slim; and the bosom high.
 One cherished like the liver with pure blood;
 One brought forth like vision from the eye (of her parents).
 
-THE iSlKAJSDAB NAMA,E BAEA. [CAJNTO XXXIII.
-
 In every tumult (of saucy speech, love-stirring) that she used to excite with her lip,
 She used to strew the salt (of passion) upon those heartbroken:
 
@@ -414,8 +396,6 @@ A rose-water from every (lustrous) fountain (cheek), — excited.
 
 Sikandar, who beheld that fountain (the cheek) and shadow (the tress),
 Became comforted when he reached the stage (of obtaining Roshanak).
-
-Otherwise: —
 
 To his eye of fidelity she became agreeable;
 She took his heart when she entered his embrace.
@@ -441,9 +421,6 @@ He was not patient so long as he went not towards her.
 With gladsomeness in that country (Isfahan), Paradise-like,
 He reposed with that Paradise-creature (the buri).
 
-According to the Shar' (the precepts of Muhammad), the lords of
-religion preserved respect for their women-folk.
-
 When the morning lifted the veil from the face of day,
 Khutan (the brightness of day) placed the mark of capitation tax (sovereignty) on Ethiopia (the darkness of night).
 
@@ -458,9 +435,6 @@ Brought colour into the cheek of the world.
 
 The king of seven regions, according to the custom of Kayan kings,
 — On his waist the girdle decorated with seven jewels, —
-
-derive additional beauty from being half-veiled by shady avenues and
-luxurious gardens.
 
 1*0 Ascended the throne, like the sun,
 The sky (in pleasure) girdle made tight in attendance (on him);
