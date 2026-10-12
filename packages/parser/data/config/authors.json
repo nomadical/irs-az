@@ -111,6 +111,16 @@
           "collection": "fuzuli-leyli-ve-mecnun"
         }
       ]
+    },
+    "commons": {
+      "roots": [
+        {
+          "category": "Leyli and Majnun (Fuzuli)",
+          "depth": 1,
+          "collection": "fuzuli-leyli-ve-mecnun"
+        }
+      ],
+      "earliest": 1530
     }
   },
   {
@@ -274,6 +284,43 @@
         },
         {
           "match": "^iskandarnamah",
+          "collection": ""
+        }
+      ]
+    },
+    "commons": {
+      "roots": [
+        {
+          "category": "Khamsa of Nizami",
+          "depth": 2
+        }
+      ],
+      "exclude": "Walters|Metropolitan|\\bMET\\b",
+      "earliest": 1180,
+      "poems": [
+        {
+          "category": "Treasury of Mysteries",
+          "match": "Makhzan|Sultan Sanjar|Treasury of Mysteries",
+          "collection": "nizami-mexzenul-esrar"
+        },
+        {
+          "category": "Khosrow and Shirin",
+          "match": "Khus?r[ao]w|Khosrow|Shirin|Farhad",
+          "collection": "nizami-xosrov-va-sirin"
+        },
+        {
+          "category": "Leyli and Majnun (Nizami Ganjavi)",
+          "match": "La[iy]l[aiy]|Leyli|Majnun|Mejnun",
+          "collection": "nizami-leyli-va-macnun"
+        },
+        {
+          "category": "Seven beauties",
+          "match": "Haft Pa[iy]kar|Bahram|Seven (Beauties|Portraits)",
+          "collection": "nizami-heft-peyker"
+        },
+        {
+          "category": "Iskandarnama (Nizami)",
+          "match": "Iskandar|Sikandar|Alexander|Khizr",
           "collection": ""
         }
       ]

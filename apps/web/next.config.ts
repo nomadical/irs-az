@@ -46,6 +46,9 @@ const nextConfig: NextConfig = {
       // Museum images in the artwork galleries, resized here instead of loaded at full size
       { protocol: 'https', hostname: 'images.metmuseum.org', pathname: '/CRDImages/**' },
       { protocol: 'https', hostname: 'thedigitalwalters.org', pathname: '/Data/WaltersManuscripts/**' },
+      // Wikimedia Commons: originals on upload., the renderings the galleries use on thumb.
+      { protocol: 'https', hostname: 'upload.wikimedia.org', pathname: '/wikipedia/commons/**' },
+      { protocol: 'https', hostname: 'thumb.wikimedia.org', pathname: '/wikipedia/commons/**' },
     ],
   },
 };

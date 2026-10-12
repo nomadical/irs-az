@@ -36,6 +36,14 @@ function licenceUrl(licence: string): string | null {
   return m ? `https://creativecommons.org/licenses/${m[1].toLowerCase()}/${m[2]}/` : null;
 }
 
+/**
+ * Wikimedia Commons renders thumbnails itself at standard widths and rate-limits servers that
+ * fetch many at once, so its images skip our resizer and load straight from Commons at the
+ * size needed. Other museums' images go through next/image.
+ */
+const isCommons = (url: string) => /^https:\/\/(upload|thumb)\.wikimedia\.org\//.test(url);
+const commonsWidth = (url: string, width: number) => url.replace(/\/\d+px-/, `/${width}px-`);
+
 /** Strip the catalogue's quotes: "Laila and Majnun at School", Folio … → Laila and Majnun at School, Folio … */
 const plainTitle = (title: string) => title.replace(/^"([^"]+)",?/, '$1,').replace(/,$/, '');
 
@@ -94,7 +102,14 @@ export function ArtworkGallery({ artworks, locale, showCollection = false, initi
               >
                 <span className="gallery-thumb-frame">
                   {/* Resized by Next.js: museum originals run to a megabyte or more */}
-                  <Image src={a.imageSmallUrl ?? a.imageUrl} alt="" fill sizes="(min-width: 40rem) 12rem, 45vw" />
+                  {(() => {
+                    const src = a.imageSmallUrl ?? a.imageUrl;
+                    return isCommons(src) ? (
+                      <Image src={commonsWidth(src, 500)} alt="" fill unoptimized />
+                    ) : (
+                      <Image src={src} alt="" fill sizes="(min-width: 40rem) 12rem, 45vw" />
+                    );
+                  })()}
                 </span>
               </button>
               <figcaption className="gallery-caption">
@@ -143,6 +158,7 @@ export function ArtworkGallery({ artworks, locale, showCollection = false, initi
                 width={1200}
                 height={1500}
                 sizes="(min-width: 60rem) 48rem, 100vw"
+                unoptimized={isCommons(active.imageSmallUrl ?? active.imageUrl)}
               />
             </div>
 
@@ -187,6 +203,9 @@ export function ArtworkGallery({ artworks, locale, showCollection = false, initi
               <p className="lightbox-license">
                 {active.license === 'CC0' ? (
                   t('public_domain')
+                ) : active.license === 'Public domain' ? (
+                  // Out of copyright by age (Commons' PD-Art), not dedicated by the museum as CC0
+                  t('public_domain_mark')
                 ) : licenceUrl(active.license) ? (
                   // Attribution licences ask for the licence to be indicated: link its deed
                   <a href={licenceUrl(active.license)!} target="_blank" rel="noopener license">

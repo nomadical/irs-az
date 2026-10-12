@@ -220,6 +220,12 @@ export interface AuthorConfig {
     queries: string[]; // searches that gather candidates; the credit decides what is kept
     collections?: { match: string; collection: string }[]; // title regex → collection slug
   };
+  commons?: {
+    roots: { category: string; depth?: number; collection?: string }[]; // walked for files; collection = default
+    exclude?: string; // categories to skip (regex), e.g. the Met's and Walters' manuscripts
+    earliest?: number; // years before this in a file's date are Hijri dates or shelfmarks, not the copy's year
+    poems?: { category: string; match: string; collection: string }[]; // poem category or title keywords → collection; "" = author only
+  };
   walters?: {
     manuscripts: string[]; // Digital Walters ids, e.g. "W610"
     poems: { match: string; collection: string }[]; // poem name (diacritics off) → collection slug; "" = author only
