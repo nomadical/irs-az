@@ -24,7 +24,7 @@
     "Elhavamaq": "Khavarnaq",
     "Eing": "King",
     "Eish": "Fish",
-    "Tainan": "Taman",
+    "Tainan": "Yaman",
     "spung": "spring",
     "whick": "which",
     "Tha": "The",
@@ -183,7 +183,9 @@
     "bim": "him",
     "mysell": "myself",
     "bas": "has",
-    "Besting": "Resting"
+    "Besting": "Resting",
+    "Taman": "Yaman",
+    "KJivarazm": "Khyarazm"
   },
   "corrections": [
     {
@@ -409,6 +411,14 @@
     {
       "from": "a merchant bad with",
       "to": "a merchant had with"
+    },
+    {
+      "from": "an ascendant alluring good",
+      "to": "an ascendant auguring good"
+    },
+    {
+      "from": "a lovely girl [fit",
+      "to": "a lovely girl fit"
     }
   ],
   "sections": [

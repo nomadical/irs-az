@@ -10,7 +10,7 @@ sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
 status: DRAFT
 ---
-One day with an ascendant alluring good (King) Bahram took his place upon the throne.
+One day with an ascendant auguring good (King) Bahram took his place upon the throne.
 
 Where’er there was a king or emperor, a giver or a holder of the crown —
 
@@ -190,6 +190,6 @@ More pearls and rubies than could pearl-sellers or ruby-experts estimate or thin
 
 From his own head a jewelled crown (he gave), with dress worth more than Shushtar’s revenue.
 
-In Taman down to Aden, land he gave; such gifts made (Nu'man’s) face bright as the moon.
+In Yaman down to Aden, land he gave; such gifts made (Nu'man’s) face bright as the moon.
 
 Nu'man and Munzir with such bounteous gifts departed from the king in pomp and state.

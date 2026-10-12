@@ -46,7 +46,7 @@ Then the straight cypress from that garden borne, he went thence to the realm of
 
 With sense and judgment he demanded (there) the daughter of the Ray, and gained his wish.
 
-His courier went and asked from KJivarazm a lovely girl [fit to adorn a feast.
+His courier went and asked from Khyarazm a lovely girl fit to adorn a feast.
 
 He wrote to Saqlab, and demanded there a beauty as a drop of water bright.
 
