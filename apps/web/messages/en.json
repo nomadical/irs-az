@@ -283,8 +283,10 @@
       "full": "Full"
     },
     "font_names": {
-      "serif": "Serif",
-      "sans": "Sans-serif"
+      "book": "Book",
+      "literary": "Literary",
+      "sans": "Sans-serif",
+      "system": "System"
     },
     "random_poem": "Random poem"
   },

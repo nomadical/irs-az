@@ -250,6 +250,11 @@
 }
 [data-skin='clean'] .lang-tab { padding: 0.45rem 1rem; }
 [data-skin='clean'] .appearance-steps { gap: 0.3rem; }
+/* The font grid stays four loose pills, not the gazette's joined block */
+[data-skin='clean'] .appearance-steps--grid .appearance-step:nth-child(n) {
+  border:        none;
+  border-radius: 999px;
+}
 [data-skin='clean'] .lang-tab:hover:not(.active):not([aria-selected='true']),
 [data-skin='clean'] .appearance-step:hover:not(.active) {
   background: var(--surf-2);

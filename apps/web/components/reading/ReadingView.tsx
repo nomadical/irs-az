@@ -4,7 +4,7 @@ import { useRef, useState, type CSSProperties } from 'react';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
 import { useTranslations } from 'next-intl';
-import { useReadingPrefs } from '@/lib/useReadingPrefs';
+import { useReadingPrefs, type ReadingFont } from '@/lib/useReadingPrefs';
 import { isArabicScript, langTag, lineCount, localeLang, sourceInfo, verseBlocks, type SourceInfo } from '@/lib/verse';
 import { AppearancePopover } from './AppearancePopover';
 
@@ -41,6 +41,13 @@ const FOLDED_LINES = 24;
 
 const fontSizeValues = ['0.95rem', '1.05rem', '1.2rem', '1.35rem'];
 const widthValues = ['36rem', '44rem', '100%'];
+// Book and sans follow the skin; literary and system are the same in both
+const readingFontValues: Record<ReadingFont, string> = {
+  book: 'var(--font-body)',
+  literary: 'var(--font-literary)',
+  sans: 'var(--font-ui)',
+  system: 'var(--font-system)',
+};
 
 /** Keep the chosen version in the URL so it can be shared and survives reloads */
 function syncUrl(patch: Record<string, string | null>) {
@@ -123,7 +130,7 @@ export function ReadingView({
   const readingVars = {
     '--reading-size': fontSizeValues[prefs.fontSize],
     '--reading-width': isPoem ? undefined : widthValues[prefs.width],
-    '--reading-font': prefs.fontFamily === 'sans' ? 'var(--font-ui)' : 'var(--font-body)',
+    '--reading-font': readingFontValues[prefs.fontFamily],
     '--reading-leading': prefs.fontSize >= 2 ? 2.1 : 1.95,
   } as CSSProperties;
 

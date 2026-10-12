@@ -283,8 +283,10 @@
       "full": "Tam"
     },
     "font_names": {
-      "serif": "Klassik",
-      "sans": "Sadə"
+      "book": "Kitab",
+      "literary": "Ədəbi",
+      "sans": "Sadə",
+      "system": "Sistem"
     },
     "random_poem": "Təsadüfi şeir"
   },

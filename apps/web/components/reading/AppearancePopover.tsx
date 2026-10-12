@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useRef, useId } from 'react';
 import { useTranslations } from 'next-intl';
-import type { ReadingPrefs } from '@/lib/useReadingPrefs';
+import { readingFonts, type ReadingPrefs } from '@/lib/useReadingPrefs';
 
 interface Props {
   prefs: ReadingPrefs;
@@ -12,7 +12,6 @@ interface Props {
 
 const fontSizeSteps = ['S', 'M', 'L', 'XL'] as const;
 const widthSteps = ['standard', 'wide', 'full'] as const;
-const fontSteps = ['serif', 'sans'] as const;
 
 export function AppearancePopover({ prefs, onUpdate, isPoem }: Props) {
   const t = useTranslations('reading');
@@ -102,10 +101,11 @@ export function AppearancePopover({ prefs, onUpdate, isPoem }: Props) {
             </div>
           )}
 
-          <div className="appearance-row" role="group" aria-label={t('appearance_font')}>
+          {/* Four faces don't fit beside the label: they sit under it, two by two */}
+          <div className="appearance-row appearance-row--stacked" role="group" aria-label={t('appearance_font')}>
             <span className="appearance-label" aria-hidden="true">{t('appearance_font')}</span>
-            <div className="appearance-steps">
-              {fontSteps.map((f) => {
+            <div className="appearance-steps appearance-steps--grid">
+              {readingFonts.map((f) => {
                 const name = t(`font_names.${f}`);
                 return step(prefs.fontFamily === f, name, name, () => onUpdate({ fontFamily: f }));
               })}
