@@ -1,0 +1,34 @@
+---
+slug: saib-qezel-3001
+sourceId: ganjoor-55199
+titleAz: Qəzəl 3001
+titleRu: Газель 3001
+titleFa: غزل شمارهٔ ۳۰۰۱
+titleEn: Ghazal 3001
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 3001
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3001'
+status: DRAFT
+---
+مرا پیمانه کی سیر از شراب ناب می‌سازد؟
+کجا ریگ روان را شبنمی سیراب می‌سازد؟
+
+سفیدی‌های مو گفتم پر و بالم شود، غافل
+که غفلت بادبان را پرده‌های خواب می‌سازد
+
+به دریا می‌رساند سیل خاک پای در گل را
+خوشا احوال آن سالک که دل را آب می‌سازد
+
+ز هر خامی نمی‌آید فریب پختگان دادن
+تسلی کی دل پروانه را مهتاب می‌سازد؟
+
+لطیف افتاده و بی‌رنگ چندان آب این دریا
+که ماهی را ز هجر خویشتن قلاب می‌سازد
+
+عبث خم در خم من دارد آن ابر و کمان صائب
+دل هرجایی من کی به یک محراب می‌سازد؟

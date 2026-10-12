@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-3241
+sourceId: ganjoor-55439
+titleAz: Qəzəl 3241
+titleRu: Газель 3241
+titleFa: غزل شمارهٔ ۳۲۴۱
+titleEn: Ghazal 3241
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 3241
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3241'
+status: DRAFT
+---
+دل سودازده در طره دلدار افتاد
+گل بچینید که دیوانه به بازار افتاد
+
+همچو مفلس که فتد راه به گنجش ناگاه
+بوسه را راه به کنج دهن یار افتاد
+
+هر تنک حوصله ره یافت در آن خلوت خاص
+شیشه ماست که از طاق دل یار افتاد
+
+بر دل خونشده دندان نگذارد، چه کند؟
+کار گوهر چو به انصاف خریدار افتاد
+
+نیست ممکن نشود نقل مجالس اشکش
+دیده هر که بر آن لعل شکر بار افتاد
+
+از جبین گوهر جان را چو عرق ریخت به خاک
+راه هرکس که به این وادی خونخوار افتاد
+
+سنگ طفلان شمرد کوه گران را صائب
+عاشقی را که چو فرهاد به سرکار افتاد

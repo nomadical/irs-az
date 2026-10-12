@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-3550
+sourceId: ganjoor-55748
+titleAz: Qəzəl 3550
+titleRu: Газель 3550
+titleFa: غزل شمارهٔ ۳۵۵۰
+titleEn: Ghazal 3550
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 3550
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3550'
+status: DRAFT
+---
+دل اهل نظر آن به که گرفتار بود
+صحت چشم در آن است که بیمار بود
+
+جسم در دامن جان بیهده آویخته است
+نور خورشید کجا خانه نگهدار بود؟
+
+سر به بالین فراغت نگذارد هرگز
+هرکه را درد سخن قافله سالار بود
+
+زهر در ساغر ما چاشنی قند دهد
+زنگ بر سینه ما مرهم زنگار بود
+
+دل ندارد خبر از راز نهانی که مراست
+در نهانخانه من آینه ستار بود
+
+بیشتر باعث سرگشتگی ما فلک است
+نقطه را سیر به بال و پر پرگار بود
+
+صائب از دیده انصاف اگر در نگری
+نیست یک خار درین باغ که بیکار بود

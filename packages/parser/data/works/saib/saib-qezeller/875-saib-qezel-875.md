@@ -1,0 +1,34 @@
+---
+slug: saib-qezel-875
+sourceId: ganjoor-53072
+titleAz: Qəzəl 875
+titleRu: Газель 875
+titleFa: غزل شمارهٔ ۸۷۵
+titleEn: Ghazal 875
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 875
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh875'
+status: DRAFT
+---
+در شب وصل تو می لرزد دلم چون آفتاب
+تا مباد از رخنه ای آرد شبیخون آفتاب
+
+هر سری را در خور همت کلاهی داده اند
+افسر دیوانگان باشد به هامون آفتاب
+
+هیچ جا در عالم وحدت تهی از یار نیست
+نامه هر ذره ای اینجاست مضمون آفتاب
+
+ناخنی خورده است بر دل از هلال ابروی من
+زان نشیند از شفق هر شام در خون آفتاب
+
+از رخت آیینه را خوش دولتی رو داده است
+در درون خانه اش ماه است و بیرون آفتاب
+
+صائب آن بهتر که گردون ترک بی رویی کند
+زردرویی می کشد زان روی گلگون آفتاب

@@ -1,0 +1,31 @@
+---
+slug: saib-qezel-4178
+sourceId: ganjoor-56376
+titleAz: Qəzəl 4178
+titleRu: Газель 4178
+titleFa: غزل شمارهٔ ۴۱۷۸
+titleEn: Ghazal 4178
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 4178
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4178'
+status: DRAFT
+---
+هشیار را خرام تو سر مست می کند
+این سیل اگر به کوه رسد پست می کند
+
+تا وا کند نسیم سحرگاه غنچه ای
+صد عقده باز تاک زبردست می کند
+
+قد ترا به سرو چه نسبت که آب را
+حیرانی خرام تو پا بست می کند
+
+از خط فزود مستی آن چشم پرخمار
+بادام را بنفشه سیه مست می کند
+
+صائب من از نظاره ساقی شدم خراب
+ورنه مرا شراب کجا مست می کند

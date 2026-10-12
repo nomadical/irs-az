@@ -1,0 +1,40 @@
+---
+slug: saib-qezel-6931
+sourceId: ganjoor-59129
+titleAz: Qəzəl 6931
+titleRu: Газель 6931
+titleFa: غزل شمارهٔ ۶۹۳۱
+titleEn: Ghazal 6931
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 6931
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh6931'
+status: DRAFT
+---
+چند از بهار عشق قناعت به خس کنی؟
+در آشیانه عیش به یاد قفس کنی
+
+از خون لعل، تیشه مردان بهار کرد
+زین کوهسار چند به آوازه بس کنی؟
+
+در صیدگاه عشق، هما موج می زند
+چون عنکبوت چند شکار مگس کنی؟
+
+لوح دلی که آینه راز عالم است
+حیف است حیف تخته مشق هوس کنی
+
+سیلاب بازگشت به صحرا نمی کند
+آن راه نیست عشق که رو باز پس کنی
+
+در کاروان اگر نرسی آنقدر بکوش
+کز دور گوش وقف صدای جرس کنی
+
+زینسان که می روی پی گفتار، عاقبت
+سر چون حباب در سر کار نفس کنی
+
+از آتشین دمان به فغانی کن اقتدا
+صائب اگر تتبع دیوان کس کنی

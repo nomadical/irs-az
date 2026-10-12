@@ -1,0 +1,31 @@
+---
+slug: saib-qezel-4342
+sourceId: ganjoor-56540
+titleAz: Qəzəl 4342
+titleRu: Газель 4342
+titleFa: غزل شمارهٔ ۴۳۴۲
+titleEn: Ghazal 4342
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 4342
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4342'
+status: DRAFT
+---
+طفل است و غم نالهٔ ما هیچ ندارد
+این غنچه سر و برگ صبا هیچ ندارد
+
+پیداست ز هر قطرهٔ شبنم که درین باغ
+عشقی که هوایی است بقا هیچ ندارد
+
+گفتم به تهیدستی امّید ببخشای
+گفتا الف قامت ما هیچ ندارد
+
+نخل قد او دید و ز شرم آب نگردید
+شاخ گل این باغ، حیا هیچ ندارد
+
+صائب چه عجب گر دلت از هند سیه شد
+این خاکِ سیه نور و صفا هیچ ندارد

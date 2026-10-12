@@ -1,0 +1,31 @@
+---
+slug: saib-qezel-686
+sourceId: ganjoor-52883
+titleAz: Qəzəl 686
+titleRu: Газель 686
+titleFa: غزل شمارهٔ ۶۸۶
+titleEn: Ghazal 686
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 686
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh686'
+status: DRAFT
+---
+فصل بهار کرد مصور بهشت را
+پر حور ساخت عالم خاکی سرشت را
+
+هر موج سبزه صیقل زنگ کدورت است
+از کف درین دو هفته مده طرف کشت را
+
+هر شاخ خشک می‌دهد از جوی شیر یاد
+نقد از شکوفه کرد بهاران بهشت را
+
+شبنم نکرد داغ دل لاله را علاج
+نتوان به گریه شست خط سرنوشت را
+
+از باده می‌پرست ندارد نظر به ظرف
+صائب چسان ز کعبه شناسد کنشت را؟

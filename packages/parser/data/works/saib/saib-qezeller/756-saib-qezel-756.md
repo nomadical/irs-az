@@ -1,0 +1,34 @@
+---
+slug: saib-qezel-756
+sourceId: ganjoor-52953
+titleAz: Qəzəl 756
+titleRu: Газель 756
+titleFa: غزل شمارهٔ ۷۵۶
+titleEn: Ghazal 756
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 756
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh756'
+status: DRAFT
+---
+در داغ غوطه خورد دل غم سرشت ما
+با کعبه هم لباس شد آخر کنشت ما
+
+از سنگ کودکان سر ما لاله زار شد
+خط شکسته بود مگر سرنوشت ما؟
+
+برق از زمین سوخته نومید می رود
+دوزخ چه می کند به دل غم سرشت ما؟
+
+هرگز چنان نشد که شود مصدر اثر
+مطلب چه بود ازین تن خاکی سرشت ما؟
+
+یک اهل دل به سایه دیوار ما نخفت
+بالین یک غریب نگردید خشت ما
+
+صائب از خاکمال حوادث شدیم خاک
+خط غبار بود مگر سرنوشت ما؟

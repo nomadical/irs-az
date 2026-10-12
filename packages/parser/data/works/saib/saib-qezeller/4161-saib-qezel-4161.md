@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-4161
+sourceId: ganjoor-56359
+titleAz: Qəzəl 4161
+titleRu: Газель 4161
+titleFa: غزل شمارهٔ ۴۱۶۱
+titleEn: Ghazal 4161
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 4161
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4161'
+status: DRAFT
+---
+داغ از حرارت جگرم داد می‌زند
+آتش به سوز سینه من باد می‌زند
+
+هر لاله‌ای که از جگر سنگ می‌دمد
+دامن به آتش دل فرهاد می‌زند
+
+از دل نمی‌رسد نفس عاشقان به لب
+بلبل ز بیغمی است که فریاد می‌زند
+
+در خانمان خرابی خود سعی می‌کند
+چون غنچه هر که دم ز دل شاد می‌زند
+
+آیینه خانه دل من از خیال او
+چون کوه قاف موج پریزاد می‌زند
+
+از ترکتاز عشق کسی جان نمی‌برد
+این سیل بر خرابه و آبادمی‌زند
+
+صائب به پای خویش زند تیشه بی‌خبر
+آن بی‌ادب که خنده به استاد می‌زند

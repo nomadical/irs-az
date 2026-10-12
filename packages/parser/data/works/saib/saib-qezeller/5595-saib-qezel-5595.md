@@ -1,0 +1,34 @@
+---
+slug: saib-qezel-5595
+sourceId: ganjoor-57793
+titleAz: Qəzəl 5595
+titleRu: Газель 5595
+titleFa: غزل شمارهٔ ۵۵۹۵
+titleEn: Ghazal 5595
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 5595
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh5595'
+status: DRAFT
+---
+نشست از آسیای چرخ گرد شیب بر رویم
+سفیدی می کند راه فنا از هر سر مویم
+
+از آن بیماری من می شود هر روز سنگین تر
+که گیرد گوش خود با هر که درد خویش می گویم
+
+بود در دیده حق بین من دیر و حرم یکسان
+ندارد سنگ کم در پله بینش ترازویم
+
+از آن ساغر که در آغازِ عشق ، از دستِ او خوردم
+همان بیخود شوم هر گاه دست خویش می بویم
+
+کلید از خانه دارد قفل وسواس و من از حیرت
+گشادِ عقدهء دل را ، ز هر بیدرد می جویم
+
+می گلگون چه سازد با دل پر خون من صائب؟
+که من از ساده لوحی خون به خون پیوسته می شویم

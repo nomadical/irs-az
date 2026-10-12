@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-4674
+sourceId: ganjoor-56872
+titleAz: Qəzəl 4674
+titleRu: Газель 4674
+titleFa: غزل شمارهٔ ۴۶۷۴
+titleEn: Ghazal 4674
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 4674
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh4674'
+status: DRAFT
+---
+برفروز از می و زنگ از دل آگاه ببر
+بر فلک جرعه بیفشان کلف از ماه ببر
+
+ثمری نیست دل خام که بر شاخ رسد
+چند روزیش به آتشکده آه ببر
+
+فیض، پروانه هر شمع تنک پرتو نیست
+از دل زنده چراغی به سر راه ببر
+
+رزق لب تشنه ارباب توکل باشد
+بگذر از دلو ورسن، یوسف ازین چاه ببر
+
+خبرحسرت آغوش تهیدست مرا
+یک ره ای هاله بیدرد، به آن ماه ببر
+
+صیقل آینه سینه بود روی گشاد
+حاجت خویش به دیوان سحرگاه ببر
+
+صائب از چرخ شکایت ز جوانمردی نیست
+این غبار از دل آگاه به یک آه ببر

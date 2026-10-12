@@ -1,0 +1,34 @@
+---
+slug: saib-qezel-3395
+sourceId: ganjoor-55593
+titleAz: Qəzəl 3395
+titleRu: Газель 3395
+titleFa: غزل شمارهٔ ۳۳۹۵
+titleEn: Ghazal 3395
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 3395
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3395'
+status: DRAFT
+---
+چه میان است که دایم چو دل من لرزد
+اینقدر مور مگر بر سر خرمن لرزد؟
+
+عجبی نیست ز تأثیر نظربازیها
+که دل چشمه خورشید به روزن لرزد
+
+سخن از موی میان و سر زلفش مکنید
+مپسندید کز این بیش دل من لرزد
+
+دانه ام خال لب کشت شد از سوختگی
+در زمینی که دل برق به خرمن لرزد
+
+تنگ چشمی اگر (از) خاک چنین گیرد اوج
+دل عیسی به سر سوزن آهن لرزد
+
+لرزش مردم عالم به سر دین و دل است
+دل صائب به سر طره پرفن لرزد

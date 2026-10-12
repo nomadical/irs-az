@@ -1,0 +1,34 @@
+---
+slug: saib-qezel-3627
+sourceId: ganjoor-55825
+titleAz: Qəzəl 3627
+titleRu: Газель 3627
+titleFa: غزل شمارهٔ ۳۶۲۷
+titleEn: Ghazal 3627
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 3627
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh3627'
+status: DRAFT
+---
+خانه بر دوش غریبی ز وطن می‌آید
+رو خراشیده عقیقی به یمن می‌آید
+
+آنچه بر زلف ایاز از دهن تیغ نرفت
+از حسودان به سر زلف سخن می‌آید
+
+حرم عصمت یوسف چه نشاط‌انگیز است
+طفل یک‌روزه در آنجا به سخن می‌آید
+
+خاطرش آینهٔ برگ خزان می‌گردد
+هرکه بی‌بادهٔ گلگون به چمن می‌آید
+
+رخت هستی نگشود از دل ما بند ملال
+این گشاد از ید بیضای کفن می‌آید
+
+صدف از اشک گهر دامن دریا گردد
+هرکجا خامهٔ صائب به سخن می‌آید

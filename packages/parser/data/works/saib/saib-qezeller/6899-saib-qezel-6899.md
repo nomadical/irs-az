@@ -1,0 +1,37 @@
+---
+slug: saib-qezel-6899
+sourceId: ganjoor-59097
+titleAz: Qəzəl 6899
+titleRu: Газель 6899
+titleFa: غزل شمارهٔ ۶۸۹۹
+titleEn: Ghazal 6899
+authorSlug: saib
+collectionSlug: saib-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 6899
+sourceNote: 'https://ganjoor.net/saeb/divan-saeb/ghazalkasa/sh6899'
+status: DRAFT
+---
+من کیستم، چو پل دل خود آب کرده ای
+آغوش باز در ره سیلاب کرده ای
+
+در جستجوی ماهی سیمین لباس او
+تن را درین محیط چو قلاب کرده ای
+
+چون طفل، گوش هوش به افسانه داده ای
+در رهگذار سیل فنا خواب کرده ای
+
+درگاه خلق را به خدا برگزیده ای
+بتخانه را تصور محراب کرده ای
+
+چون ابر، دامن از کف دریا کشیده ای
+دل در هوای وصل گهر آب کرده ای
+
+از صحبت هدف ز هواهای مختلف
+قطع نظر چو ناوک پرتاب کرده ای
+
+دست از جهان بشوی، چه فارغ نشسته ای؟
+صائب ترا که هست دل آب کرده ای
