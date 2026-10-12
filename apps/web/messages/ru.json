@@ -69,6 +69,17 @@
     "essay": "Эссе",
     "philosophy": "Философия"
   },
+  "share": {
+    "label": "Поделиться",
+    "native": "Поделиться…",
+    "telegram": "Поделиться в Telegram",
+    "whatsapp": "Поделиться в WhatsApp",
+    "facebook": "Поделиться в Facebook",
+    "copy": "Скопировать ссылку",
+    "copied": "Ссылка скопирована",
+    "copy_failed": "Не удалось скопировать",
+    "print": "Распечатать"
+  },
   "tags": {
     "title": "Темы",
     "index_description": "Произведения на IRS.AZ по темам, настроению, объёму и эпохам.",

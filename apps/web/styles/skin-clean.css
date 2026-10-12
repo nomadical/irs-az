@@ -688,3 +688,13 @@
   top:           0;
   margin-bottom: 0.5rem;
 }
+
+/* ── Share ──────────────────────────────────────────────────── */
+[data-skin='clean'] .share-label { letter-spacing: 0.04em; font-weight: 700; }
+[data-skin='clean'] .share-btn {
+  border:        none;
+  border-radius: 50%;
+  width:         2.5rem;
+  height:        2.5rem;
+}
+[data-skin='clean'] .share-btn:hover { background: var(--surf-2); color: var(--pomeg); }

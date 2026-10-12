@@ -69,6 +69,17 @@
     "essay": "Essay",
     "philosophy": "Philosophy"
   },
+  "share": {
+    "label": "Share",
+    "native": "Share…",
+    "telegram": "Share on Telegram",
+    "whatsapp": "Share on WhatsApp",
+    "facebook": "Share on Facebook",
+    "copy": "Copy link",
+    "copied": "Link copied",
+    "copy_failed": "Couldn't copy the link",
+    "print": "Print"
+  },
   "tags": {
     "title": "Themes",
     "index_description": "Works on IRS.AZ by theme, mood, length and era.",

@@ -1963,3 +1963,82 @@ a.gallery-coll:hover { text-decoration: underline; }
   .lightbox-image { min-height: 70dvh; }
   .lightbox-image img { max-height: calc(100dvh - 4rem); }
 }
+
+/* ── Share and print ────────────────────────────────────────── */
+.share-bar {
+  display:         flex;
+  flex-wrap:       wrap;
+  align-items:     center;
+  justify-content: center;
+  gap:             0.4rem;
+  margin:          0 auto 2.25rem;
+}
+.share-label {
+  font-family:    var(--font-ui);
+  font-size:      0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color:          var(--muted);
+  margin-inline-end: 0.25rem;
+}
+.share-btn {
+  width:           2.25rem;
+  height:          2.25rem;
+  display:         inline-flex;
+  align-items:     center;
+  justify-content: center;
+  border:          1px solid var(--control);
+  border-radius:   var(--radius);
+  background:      var(--surf);
+  color:           var(--ink);
+  transition:      background 0.12s, color 0.12s, border-color 0.12s;
+}
+.share-btn:hover {
+  background:   var(--ink);
+  border-color: var(--ink);
+  color:        var(--bg);
+}
+.share-status {
+  flex-basis:  100%;
+  min-height:  1.2em;
+  text-align:  center;
+  font-family: var(--font-ui);
+  font-size:   0.8rem;
+  color:       var(--muted);
+}
+@media (pointer: coarse) { .share-btn { width: 2.75rem; height: 2.75rem; } }
+
+/* Shown only on paper: where the printed text came from */
+.print-source { display: none; }
+
+@media print {
+  @page { margin: 18mm 16mm; }
+  :root, :root[data-theme='dark'], :root[data-skin] {
+    --bg: #fff; --ink: #000; --muted: #444; --rule: #999; --pomeg: #000; --pomeg-dark: #000; --surf: #fff;
+  }
+  body { background: #fff; color: #000; font-size: 11pt; min-height: 0; }
+  .site-header, .footer, .skip-link, .ornament, .reading-toolbar, .appearance-anchor,
+  .lang-tabs, .work-gloss, .tag-pills, .share-bar, .work-nav, .work-random, .more-works,
+  nextjs-portal { display: none !important; }
+  /* The breadcrumb names the author on paper; the title follows in full */
+  .breadcrumb { justify-content: center; margin: 0 0 0.5rem; color: #000; }
+  .breadcrumb-current, .breadcrumb-sep:has(+ .breadcrumb-current) { display: none; }
+  .container { max-width: none; padding: 0; }
+  .page-content { padding: 0; }
+  .work-heading { font-size: 22pt; }
+  .reading-column, .parallel { max-width: none; font-size: 11.5pt; line-height: 1.55 !important; }
+  .beyt, .stanza, .parallel-row, .verse-line { break-inside: avoid; }
+  .tailpiece { margin: 1.5rem auto 1rem; }
+  /* The closing mark, attribution and URL stay on one page */
+  .tailpiece { break-after: avoid; }
+  .provenance { margin-bottom: 0.5rem; break-inside: avoid; break-after: avoid; }
+  .provenance a { color: #000; text-decoration: none; }
+  .provenance-cta { display: none; }
+  .print-source {
+    display:     block;
+    text-align:  center;
+    font-family: var(--font-ui);
+    font-size:   9pt;
+    color:       #444;
+  }
+}

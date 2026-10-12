@@ -8,6 +8,7 @@ import { WorkNavKeys } from '@/components/reading/WorkNavKeys';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { WorkCard } from '@/components/works/WorkCard';
 import { TagPills } from '@/components/works/TagPills';
+import { ShareBar } from '@/components/reading/ShareBar';
 import { getTranslations } from 'next-intl/server';
 import {
   displayTitle,
@@ -204,6 +205,12 @@ export default async function WorkPage({ params }: Props) {
         label={tTags('work_tags')}
         className="work-tag-row"
       />
+
+      <ShareBar
+        url={`${SITE_URL}/${locale}/works/${slug}`}
+        text={`${heading} — ${authorName}`}
+      />
+      <p className="print-source">IRS.AZ · {`${SITE_URL}/${locale}/works/${slug}`}</p>
 
       {(nav.prev || nav.next) && (
         <nav className="work-nav" aria-label={t('nav_label')}>

@@ -69,6 +69,17 @@
     "essay": "Esse",
     "philosophy": "Fəlsəfə"
   },
+  "share": {
+    "label": "Paylaş",
+    "native": "Paylaş…",
+    "telegram": "Telegram-da paylaş",
+    "whatsapp": "WhatsApp-da paylaş",
+    "facebook": "Facebook-da paylaş",
+    "copy": "Linki kopyala",
+    "copied": "Link kopyalandı",
+    "copy_failed": "Kopyalamaq alınmadı",
+    "print": "Çap et"
+  },
   "tags": {
     "title": "Mövzular",
     "index_description": "IRS.AZ-dakı əsərlər mövzuya, əhvala, həcmə və dövrə görə.",
