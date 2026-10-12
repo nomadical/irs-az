@@ -1,0 +1,87 @@
+{
+  "id": "gibb-ottoman-poetry",
+  "layout": "anthology",
+  "title": "A History of Ottoman Poetry",
+  "translator": "E. J. W. Gibb",
+  "volumes": [
+    {
+      "volume": 1,
+      "archiveId": "historyofottoman01gibbuoft",
+      "year": 1900
+    },
+    {
+      "volume": 3,
+      "archiveId": "historyofottoman03gibbuoft",
+      "year": 1904
+    }
+  ],
+  "verseHeight": 37,
+  "items": [
+    {
+      "volume": 1,
+      "number": 55,
+      "workSlug": "nasimi-ey-uzun-nesrun-minellah-vey-sacin-fethun-qerib",
+      "label": "Ghazel"
+    },
+    {
+      "volume": 1,
+      "number": 56,
+      "workSlug": "nasimi-sol-tamam-ayin-uzunden-cunki-ref-oldu-niqab",
+      "label": "Ghazel"
+    },
+    {
+      "volume": 3,
+      "number": 192,
+      "workSlug": "fuzuli-dostum-alem-senincin-ger-olur-dusmen-mana",
+      "label": "Ghazel"
+    },
+    {
+      "volume": 3,
+      "number": 193,
+      "workSlug": "fuzuli-ney-kimi-her-dem-ki-bezmi-veslini-yad-eylerem",
+      "label": "Ghazel"
+    },
+    {
+      "volume": 3,
+      "number": 194,
+      "workSlug": "fuzuli-dust-biperva-felek-birehm-dovran-bisukun",
+      "label": "Ghazel"
+    },
+    {
+      "volume": 3,
+      "number": 195,
+      "workSlug": "fuzuli-qaliba-bir-ehli-dil-topragidir-durdi-serab",
+      "label": "Ghazel"
+    },
+    {
+      "volume": 3,
+      "number": 196,
+      "workSlug": "fuzuli-subh-salib-mah-ruxunden-niqab",
+      "label": "Ghazel"
+    },
+    {
+      "volume": 3,
+      "number": 197,
+      "workSlug": "fuzuli-qildi-zulfun-tek-perisan-halimi-xalin-senin",
+      "label": "Ghazel"
+    },
+    {
+      "volume": 3,
+      "number": 198,
+      "workSlug": "fuzuli-heyret-ey-but-suretin-gordukde-lal-eyler-meni",
+      "label": "Ghazel"
+    },
+    {
+      "volume": 3,
+      "number": 199,
+      "workSlug": "fuzuli-ey-xos-ol-gunler-ki-ruxsarin-mene-menzur-idi",
+      "label": "Ghazel"
+    },
+    {
+      "volume": 3,
+      "number": 200,
+      "workSlug": "fuzuli-texmis-4-ey-herir-icre-tenin-mutleq-bulur-icre-gulab",
+      "label": "Mukhammes"
+    }
+  ]
+}
