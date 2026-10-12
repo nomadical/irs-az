@@ -138,7 +138,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
     : null;
 
   return (
-    <div className="container page-content">
+    <div className="container page-content home">
       <JsonLd
         data={{
           '@context': 'https://schema.org',
@@ -150,70 +150,107 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
       />
       <div className="home-grid">
 
-        {/* ── Left: Featured author ─────────────────────────── */}
+        {/* ── Left: poet and poem side by side, then the catalogue and new works ── */}
         <div className="home-featured">
-          <p className="section-label">{t('featured_label')}</p>
+          <div className="home-lead">
+            <div className="home-lead-author">
+              <p className="section-label">{t('featured_label')}</p>
 
-          {featured ? (
-            <div className="featured-box">
-              <div className="featured-box-inner">
-                <h1 className="featured-name">
-                  {localeName(featured, locale)}
-                </h1>
-                <div className="meta-strip featured-meta">
-                  {featured.bornYear && featured.diedYear && (
-                    <span>{featured.bornYear} — {featured.diedYear}</span>
-                  )}
-                  {featured.period && (
-                    <>
-                      {featured.bornYear && <span className="dot" />}
-                      <span>{featured.period}</span>
-                    </>
-                  )}
-                  <span className="dot" />
-                  <span>{authorTypeMeta(featured.type, locale)}</span>
+              {featured ? (
+                <div className="featured-box">
+                  <div className="featured-box-inner">
+                    <h1 className="featured-name">
+                      {localeName(featured, locale)}
+                    </h1>
+                    <div className="meta-strip featured-meta">
+                      {featured.bornYear && featured.diedYear && (
+                        <span>{featured.bornYear} — {featured.diedYear}</span>
+                      )}
+                      {featured.period && (
+                        <>
+                          {featured.bornYear && <span className="dot" />}
+                          <span>{featured.period}</span>
+                        </>
+                      )}
+                      <span className="dot" />
+                      <span>{authorTypeMeta(featured.type, locale)}</span>
+                    </div>
+
+                    {bioSnippet && (
+                      // The drop cap only takes a letter: a bio opening on a year would split it
+                      <p className={`featured-bio${/^\p{L}/u.test(bioSnippet) ? ' featured-bio--dropcap' : ''}`}>
+                        <span className="featured-quote" aria-hidden="true">{'\u201C'}</span>
+                        {bioSnippet}
+                      </p>
+                    )}
+
+                    <Link
+                      href={`/${locale}/authors/${featured.slug}`}
+                      className="more featured-more"
+                    >
+                      {t('read_more')} →
+                    </Link>
+                  </div>
                 </div>
-
-                {bioSnippet && (
-                  // The drop cap only takes a letter: a bio opening on a year would split it
-                  <p className={`featured-bio${/^\p{L}/u.test(bioSnippet) ? ' featured-bio--dropcap' : ''}`}>
-                    <span className="featured-quote" aria-hidden="true">{'\u201C'}</span>
-                    {bioSnippet}
-                  </p>
-                )}
-
-                <Link
-                  href={`/${locale}/authors/${featured.slug}`}
-                  className="more featured-more"
-                >
-                  {t('read_more')} →
-                </Link>
-              </div>
+              ) : (
+                <p className="empty-note">{t('coming_soon')}</p>
+              )}
             </div>
-          ) : (
-            <p className="empty-note">{t('coming_soon')}</p>
+
+            {daily && (
+              <section className="daily-poem" aria-labelledby="daily-poem-title">
+                <p className="section-label">{t('daily_label')}</p>
+                <h2 id="daily-poem-title" className="daily-poem-title">
+                  <Link href={`/${locale}/works/${daily.slug}`}>{localeTitle(daily, locale)}</Link>
+                </h2>
+                <div className="daily-poem-author">
+                  <Link href={`/${locale}/authors/${daily.author.slug}`}>{localeName(daily.author, locale)}</Link>
+                  {daily.year ? ` · ${daily.year}` : ''}
+                </div>
+                <blockquote className="daily-poem-excerpt" lang="az-Latn">
+                  {daily.excerpt.map((line, i) => <p key={i}>{line}</p>)}
+                </blockquote>
+                <div className="daily-poem-actions">
+                  <Link href={`/${locale}/works/${daily.slug}`} className="more">{t('read_full')} →</Link>
+                  <Link href={`/${locale}/random`} prefetch={false} className="more"><RefreshIcon /> {t('random_poem')}</Link>
+                </div>
+              </section>
+            )}
+          </div>
+
+          {/* ── Catalogue ──────────────────────────────────────── */}
+          {catalog && (
+            <CatalogTiles
+              catalog={catalog}
+              themes={tags.filter((tag) => tag.kind === 'THEME' && tag.works > 0).length}
+              locale={locale}
+            />
           )}
 
-          {/* Poem of the day sits under the poet, so the column ends level with the sidebar */}
-        {daily && (
-          <section className="daily-poem" aria-labelledby="daily-poem-title">
-            <p className="section-label">{t('daily_label')}</p>
-            <h2 id="daily-poem-title" className="daily-poem-title">
-              <Link href={`/${locale}/works/${daily.slug}`}>{localeTitle(daily, locale)}</Link>
-            </h2>
-            <div className="daily-poem-author">
-              <Link href={`/${locale}/authors/${daily.author.slug}`}>{localeName(daily.author, locale)}</Link>
-              {daily.year ? ` · ${daily.year}` : ''}
+          {/* ── Bottom: Recent works strip ─────────────────────── */}
+          {recentWorks.length > 0 && (
+            <div className="works-strip">
+              <p className="section-label">
+                {t('recent_works_label')}
+              </p>
+              <div className="works-strip-grid">
+                {recentWorks.slice(0, 3).map((w) => (
+                  <div key={w.slug} className="works-strip-col">
+                    <div className="works-strip-type">
+                      {genreLabel(w.genre, w.form ?? undefined, locale)}
+                      {w.year ? ` · ${w.year}` : ''}
+                    </div>
+                    <Link href={`/${locale}/works/${w.slug}`} className="works-strip-title">
+                      {localeTitle(w, locale)}
+                    </Link>
+                    <div className="works-strip-author">
+                      {localeName(w.author, locale)}
+                    </div>
+                  </div>
+                ))}
+              </div>
             </div>
-            <blockquote className="daily-poem-excerpt" lang="az-Latn">
-              {daily.excerpt.map((line, i) => <p key={i}>{line}</p>)}
-            </blockquote>
-            <div className="daily-poem-actions">
-              <Link href={`/${locale}/works/${daily.slug}`} className="more">{t('read_full')} →</Link>
-              <Link href={`/${locale}/random`} prefetch={false} className="more"><RefreshIcon /> {t('random_poem')}</Link>
-            </div>
-          </section>
-        )}
+          )}
         </div>
 
         {/* ── Right: Sidebar ────────────────────────────────── */}
@@ -268,39 +305,6 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         </div>
       </div>
 
-      {/* ── Poem of the day ──────────────────────────────── */}
-      {catalog && (
-        <CatalogTiles
-          catalog={catalog}
-          themes={tags.filter((tag) => tag.kind === 'THEME' && tag.works > 0).length}
-          locale={locale}
-        />
-      )}
-
-      {/* ── Bottom: Recent works strip ─────────────────────── */}
-      {recentWorks.length > 0 && (
-        <div className="works-strip">
-          <p className="section-label">
-            {t('recent_works_label')}
-          </p>
-          <div className="works-strip-grid">
-            {recentWorks.slice(0, 3).map((w) => (
-              <div key={w.slug} className="works-strip-col">
-                <div className="works-strip-type">
-                  {genreLabel(w.genre, w.form ?? undefined, locale)}
-                  {w.year ? ` · ${w.year}` : ''}
-                </div>
-                <Link href={`/${locale}/works/${w.slug}`} className="works-strip-title">
-                  {localeTitle(w, locale)}
-                </Link>
-                <div className="works-strip-author">
-                  {localeName(w.author, locale)}
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-      )}
     </div>
   );
 }
