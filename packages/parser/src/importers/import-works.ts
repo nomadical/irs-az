@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import matter from 'gray-matter';
-import { findWork, getDb } from './db';
+import { findWork, getDb, newStatus, statusUpdate } from './db';
 import { renderMarkdown } from '../utils/markdown';
 import type { WorkFrontmatter } from '../types';
 
@@ -96,7 +96,6 @@ export async function importWorks(opts: {
       collectionId,
       sourceNote: fm.sourceNote ?? null,
       sourceId: fm.sourceId ?? null,
-      status: fm.hold ? ('DRAFT' as const) : opts.publish ? ('PUBLISHED' as const) : (fm.status ?? 'DRAFT'),
     };
 
     // Match on the stable import key first, so a renamed slug updates the same row.
@@ -119,12 +118,13 @@ export async function importWorks(opts: {
         where: { id: existing.id },
         data: {
           ...data,
+          ...statusUpdate(opts, fm.hold),
           slug: fm.slug,
           ...(renamed && { previousSlugs: { push: existing.slug } }),
         },
       });
     } else {
-      await db.work.create({ data: { ...data, slug: fm.slug } });
+      await db.work.create({ data: { ...data, slug: fm.slug, status: newStatus(opts, fm.status, fm.hold) } });
     }
 
     console.log(`  Upserted work: ${fm.slug}`);

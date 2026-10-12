@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import matter from 'gray-matter';
-import { findWork, getDb } from './db';
+import { findWork, getDb, newStatus, statusUpdate } from './db';
 import type { ArtworkFrontmatter } from '../types';
 
 const ARTWORKS_DIR = path.resolve(__dirname, '../../data/artworks');
@@ -78,13 +78,12 @@ export async function importArtworks(opts: {
       collectionId,
       workId,
       order: fm.order ?? null,
-      status: opts.publish ? ('PUBLISHED' as const) : (fm.status ?? 'DRAFT'),
     };
 
     await db.artwork.upsert({
       where: { sourceId: fm.sourceId },
-      create: { sourceId: fm.sourceId, ...data },
-      update: data,
+      create: { sourceId: fm.sourceId, ...data, status: newStatus(opts, fm.status) },
+      update: { ...data, ...statusUpdate(opts) },
     });
   }
 
