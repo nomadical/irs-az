@@ -214,6 +214,7 @@ export class WorksService {
             translator: true,
             translatorNote: true,
             year: true,
+            sourceNote: true,
             isDefault: true,
             scriptDirection: true,
           },

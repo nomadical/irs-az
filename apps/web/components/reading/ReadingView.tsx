@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
 import { useTranslations } from 'next-intl';
 import { useReadingPrefs } from '@/lib/useReadingPrefs';
-import { isArabicScript, langTag, localeLang, verseBlocks, type SourceInfo } from '@/lib/verse';
+import { isArabicScript, langTag, localeLang, sourceInfo, verseBlocks, type SourceInfo } from '@/lib/verse';
 import { AppearancePopover } from './AppearancePopover';
 
 interface Translation {
@@ -17,6 +17,7 @@ interface Translation {
   translator: string | null;
   translatorNote: string | null;
   year: number | null;
+  sourceNote?: string | null;
   isDefault: boolean;
   scriptDirection: string;
 }
@@ -89,6 +90,8 @@ export function ReadingView({
     versions.find((tr) => tr.isDefault) ??
     versions[0] ??
     null;
+  // Where the translation itself comes from, e.g. the scanned book on Internet Archive
+  const translationSource = sourceInfo(translation?.sourceNote);
 
   /** Translator's name, or the translation type when there is none; numbered if still ambiguous */
   const versionLabel = (tr: Translation, i: number) => {
@@ -261,6 +264,21 @@ export function ReadingView({
               {translation.translator}
               {translation.year && `, ${translation.year}`}
             </span>
+            {translationSource?.href && (
+              <span className="provenance-meta">
+                <a href={translationSource.href} target="_blank" rel="noopener noreferrer">
+                  {translationSource.label}
+                  <span aria-hidden="true"> ↗</span>
+                  <span className="sr-only"> {t('new_tab')}</span>
+                </a>
+              </span>
+            )}
+          </p>
+        )}
+        {translation?.translatorNote && (
+          <p>
+            <span className="provenance-key">{t('translator_note')}</span>
+            <span dir="auto">{translation.translatorNote}</span>
           </p>
         )}
         <p className="provenance-cta">

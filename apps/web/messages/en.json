@@ -201,6 +201,7 @@
     "no_translation_cta": "Suggest a translation",
     "source": "Source",
     "translator": "Translator",
+    "translator_note": "Note",
     "original_text": "Original",
     "prev": "Previous",
     "next": "Next",

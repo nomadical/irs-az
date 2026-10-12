@@ -156,7 +156,9 @@ export function sourceInfo(note: string | null | undefined): SourceInfo | null {
     const host = url.hostname.replace(/^www\./, '');
     const label = host === 'ganjoor.net'
       ? 'Ganjoor'
-      : host.endsWith('wikisource.org')
+      : host === 'archive.org'
+        ? 'Internet Archive'
+        : host.endsWith('wikisource.org')
         ? 'Wikisource'
         : host.endsWith('wikipedia.org')
           ? 'Wikipedia'
