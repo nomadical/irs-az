@@ -10,6 +10,7 @@ genre: POEM
 order: 67
 sourceNote: >-
   https://az.wikisource.org/wiki/Dostlar%20x%C9%99b%C9%99ri%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
+hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Bir xəbər almışam dostlar əlindən:

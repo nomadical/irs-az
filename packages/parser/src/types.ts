@@ -111,6 +111,8 @@ export interface WorkFrontmatter {
   yearApprox?: boolean;
   order?: number;
   sourceNote?: string;
+  /** Why the work must stay a draft; the importer never publishes it, even with --publish */
+  hold?: string;
   status: PublishStatus;
 }
 

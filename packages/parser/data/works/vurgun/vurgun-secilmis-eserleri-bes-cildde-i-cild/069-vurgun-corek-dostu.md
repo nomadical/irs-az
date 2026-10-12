@@ -10,6 +10,7 @@ genre: POEM
 order: 69
 sourceNote: >-
   https://az.wikisource.org/wiki/%C3%87%C3%B6r%C9%99k%20dostu%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
+hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Bir az yeyər, içər keyfi durular,

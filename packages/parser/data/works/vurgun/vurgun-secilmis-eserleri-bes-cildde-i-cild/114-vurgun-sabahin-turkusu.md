@@ -10,6 +10,7 @@ genre: POEM
 order: 114
 sourceNote: >-
   https://az.wikisource.org/wiki/Sabah%C4%B1n%20t%C3%BCrk%C3%BCs%C3%BC%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
+hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Ey səhər, ey Günəş, ey ulu qüvvət!

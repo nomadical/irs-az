@@ -10,6 +10,7 @@ genre: POEM
 order: 154
 sourceNote: >-
   https://az.wikisource.org/wiki/B%C3%BClb%C3%BCl%20v%C9%99%20ba%C4%9Fban%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
+hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Gözəl bir bağçada bir bülbül vardı,

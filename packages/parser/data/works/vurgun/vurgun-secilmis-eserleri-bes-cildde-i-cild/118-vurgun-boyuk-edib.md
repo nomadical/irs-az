@@ -10,6 +10,7 @@ genre: POEM
 order: 118
 sourceNote: >-
   https://az.wikisource.org/wiki/B%C3%B6y%C3%BCk%20%C9%99dib%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
+hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Döydü qapımızı bir acı ruzgar,

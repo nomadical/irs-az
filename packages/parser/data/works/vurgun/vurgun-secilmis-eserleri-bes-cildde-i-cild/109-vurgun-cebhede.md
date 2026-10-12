@@ -10,6 +10,7 @@ genre: POEM
 order: 109
 sourceNote: >-
   https://az.wikisource.org/wiki/C%C9%99bh%C9%99d%C9%99%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
+hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Toxunub dağlara qayıdır yenə

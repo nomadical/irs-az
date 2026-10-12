@@ -96,7 +96,7 @@ export async function importWorks(opts: {
       collectionId,
       sourceNote: fm.sourceNote ?? null,
       sourceId: fm.sourceId ?? null,
-      status: opts.publish ? ('PUBLISHED' as const) : (fm.status ?? 'DRAFT'),
+      status: fm.hold ? ('DRAFT' as const) : opts.publish ? ('PUBLISHED' as const) : (fm.status ?? 'DRAFT'),
     };
 
     // Match on the stable import key first, so a renamed slug updates the same row.

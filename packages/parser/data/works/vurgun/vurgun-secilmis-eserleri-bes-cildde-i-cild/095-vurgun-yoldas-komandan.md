@@ -10,6 +10,7 @@ genre: POEM
 order: 95
 sourceNote: >-
   https://az.wikisource.org/wiki/Yolda%C5%9F%20komandan%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
+hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Bu gün dünya boyu bir axın var ki,

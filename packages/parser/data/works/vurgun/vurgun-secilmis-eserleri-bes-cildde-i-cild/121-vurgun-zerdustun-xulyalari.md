@@ -10,6 +10,7 @@ genre: POEM
 order: 121
 sourceNote: >-
   https://az.wikisource.org/wiki/Z%C9%99rd%C3%BC%C5%9Ft%C3%BCn%20x%C3%BClyalar%C4%B1%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
+hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Üç min il keçəcək dönəcək zaman
