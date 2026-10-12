@@ -2,10 +2,11 @@
 
 import Link from 'next/link';
 import { CENTURIES } from '@irs-az/shared';
+import { authorsPath, type AuthorFilters as Filters } from '@/lib/facets';
 
 interface Props {
   locale: string;
-  current: Record<string, string | undefined>;
+  current: Filters;
 }
 
 const authorTypes = [
@@ -16,13 +17,6 @@ const authorTypes = [
 ];
 
 export function AuthorFilters({ locale, current }: Props) {
-  const buildHref = (key: string, value: string) => {
-    const params = new URLSearchParams();
-    if (key !== 'type' && current.type) params.set('type', current.type);
-    if (key !== 'century' && current.century) params.set('century', current.century);
-    params.set(key, value);
-    return `/${locale}/authors?${params}`;
-  };
 
   return (
     <div style={{ display: 'flex', gap: '1.5rem', flexWrap: 'wrap' }}>
@@ -31,11 +25,7 @@ export function AuthorFilters({ locale, current }: Props) {
         {authorTypes.map((t) => (
           <Link
             key={t.value}
-            href={
-              current.type === t.value
-                ? `/${locale}/authors`
-                : buildHref('type', t.value)
-            }
+            href={authorsPath(locale, { ...current, type: current.type === t.value ? undefined : t.value })}
             className={`pill ${current.type === t.value ? 'active' : ''}`}
           >
             {locale === 'ru' ? t.labelRu : locale === 'en' ? t.labelEn : t.labelAz}
@@ -48,12 +38,8 @@ export function AuthorFilters({ locale, current }: Props) {
         {CENTURIES.filter((c) => c.value >= 12 && c.value <= 21).map((c) => (
           <Link
             key={c.value}
-            href={
-              current.century === String(c.value)
-                ? `/${locale}/authors`
-                : buildHref('century', String(c.value))
-            }
-            className={`pill ${current.century === String(c.value) ? 'active' : ''}`}
+            href={authorsPath(locale, { ...current, century: current.century === c.value ? undefined : c.value })}
+            className={`pill ${current.century === c.value ? 'active' : ''}`}
             style={{ fontSize: '0.7rem' }}
           >
             {locale === 'ru' ? c.labelRu : locale === 'en' ? c.labelEn : c.labelAz}

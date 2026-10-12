@@ -6,12 +6,24 @@ import { localized } from '@/lib/locale';
 import { pageMetadata } from '@/lib/seo';
 import { WorkCard, type Incipit } from '@/components/works/WorkCard';
 import { Pagination } from '@/components/ui/Pagination';
+import { notFound } from 'next/navigation';
+import { parseTagFacet, tagPath } from '@/lib/facets';
 
 export const dynamic = 'force-dynamic';
 
 interface Props {
   params: Promise<{ locale: string; slug: string }>;
-  searchParams: Promise<Record<string, string | undefined>>;
+  searchParams: Promise<Record<string, string | string[] | undefined>>;
+}
+
+const one = (v: string | string[] | undefined) => (Array.isArray(v) ? v[0] : v);
+
+/** The author named by /tags/<slug>/muellif-<author>; an unknown one is a 404 */
+function authorFacet(tag: TagDetail, f: string | string[] | undefined) {
+  const { filters, invalid } = parseTagFacet(f);
+  if (invalid) notFound();
+  if (filters.author && !tag.authors.some((a) => a.slug === filters.author)) notFound();
+  return filters.author;
 }
 
 interface WorkItem {
@@ -38,11 +50,11 @@ export async function generateMetadata({ params, searchParams }: Props): Promise
   const sp = await searchParams;
   const t = await getTranslations({ locale, namespace: 'tags' });
   const tag = await api.getTag(slug).catch(notFoundOn404);
-  const { title, author } = heading(tag, sp.author, locale, (v) => t('by_author', v as any));
+  const { title, author } = heading(tag, authorFacet(tag, sp.f), locale, (v) => t('by_author', v as any));
 
   return pageMetadata({
     locale,
-    path: `/tags/${slug}${author ? `?author=${author.slug}` : ''}`,
+    path: tagPath(locale, slug, author?.slug, { page: one(sp.page) }).slice(locale.length + 1),
     title,
     description: `${title} — ${t('works_count', { count: author?.works ?? tag.works })}`,
   });
@@ -55,23 +67,17 @@ export default async function TagPage({ params, searchParams }: Props) {
   const options = await getTranslations('contribute.options');
 
   const tag = await api.getTag(slug).catch(notFoundOn404);
-  const { title, author } = heading(tag, sp.author, locale, (v) => t('by_author', v as any));
+  const { title, author } = heading(tag, authorFacet(tag, sp.f), locale, (v) => t('by_author', v as any));
 
   const query = new URLSearchParams({ tag: slug, limit: '24', incipit: ['az', 'ru', 'en'].includes(locale) ? locale : 'az' });
   if (author) query.set('authorSlug', author.slug);
-  if (sp.page) query.set('page', sp.page);
+  if (one(sp.page)) query.set('page', one(sp.page)!);
   const result = (await api.getWorks(query)) as {
     data: WorkItem[];
     meta: { total: number; page: number; totalPages: number };
   };
 
-  const base = `/${locale}/tags/${slug}`;
-  const withAuthor = (authorSlug?: string, page?: number) => {
-    const qp = new URLSearchParams();
-    if (authorSlug) qp.set('author', authorSlug);
-    if (page && page > 1) qp.set('page', String(page));
-    return qp.size ? `${base}?${qp}` : base;
-  };
+  const withAuthor = (authorSlug?: string, page?: number) => tagPath(locale, slug, authorSlug, { page });
 
   return (
     <div className="container page-content">

@@ -2,6 +2,10 @@ import type { MetadataRoute } from 'next';
 import { api } from '@/lib/api';
 import { locales } from '@/lib/i18n';
 import { SITE_URL } from '@/lib/seo';
+import { AUTHOR_TYPE_SLUGS, authorsPath, FORM_SLUGS, GENRE_SLUGS, worksPath } from '@/lib/facets';
+
+/** A facet path without its locale prefix, for entries() */
+const bare = (path: string) => path.replace(/^\/[a-z]{2}/, '');
 
 export const dynamic = 'force-dynamic';
 
@@ -28,5 +32,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ...works.flatMap((w) => entries(`/works/${w.slug}`, w.updatedAt)),
     ...blog.flatMap((b) => entries(`/blog/${b.slug}`, b.updatedAt)),
     ...tags.filter((t) => t.works > 0).flatMap((t) => entries(`/tags/${t.slug}`)),
+    // Readable filter pages: each form, genre and author type, and each author's works
+    ...Object.keys(FORM_SLUGS).filter((f) => f !== 'OTHER').flatMap((form) => entries(bare(worksPath('az', { form })))),
+    ...Object.keys(GENRE_SLUGS).flatMap((genre) => entries(bare(worksPath('az', { genre })))),
+    ...Object.keys(AUTHOR_TYPE_SLUGS).flatMap((type) => entries(bare(authorsPath('az', { type })))),
+    ...authors.flatMap((a) => entries(bare(worksPath('az', { author: a.slug })))),
   ];
 }

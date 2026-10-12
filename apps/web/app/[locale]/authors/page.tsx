@@ -6,24 +6,50 @@ import { localized } from '@/lib/locale';
 import Link from 'next/link';
 import type { PaginatedResponse, AuthorSummary } from '@irs-az/shared';
 import { AuthorFilters } from '@/components/authors/AuthorFilters';
+import { notFound, permanentRedirect } from 'next/navigation';
+import { CENTURIES } from '@irs-az/shared';
+import { authorsPath, parseAuthorFacets } from '@/lib/facets';
 
 export const dynamic = 'force-dynamic';
 
 interface Props {
   params: Promise<{ locale: string }>;
-  searchParams: Promise<Record<string, string | undefined>>;
+  searchParams: Promise<Record<string, string | string[] | undefined>>;
+}
+
+const one = (v: string | string[] | undefined) => (Array.isArray(v) ? v[0] : v);
+const TYPE_NAV: Record<string, string> = {
+  POET: 'poets',
+  WRITER: 'writers',
+  PHILOSOPHER: 'philosophers',
+  PLAYWRIGHT: 'playwrights',
+};
+
+/** Filters from the readable path, and the heading they make: "Şairlər · XII əsr" */
+async function resolveFilters(locale: string, sp: Record<string, string | string[] | undefined>) {
+  const { filters, invalid, given } = parseAuthorFacets(sp.f);
+  if (invalid) notFound();
+  const t = await getMetaTranslations({ locale, namespace: 'nav' });
+  const century = CENTURIES.find((c) => c.value === filters.century);
+  const parts = [
+    filters.type && t(TYPE_NAV[filters.type] as any),
+    century && (locale === 'ru' ? century.labelRu : locale === 'en' ? century.labelEn : century.labelAz),
+  ].filter(Boolean) as string[];
+  return { filters, given, heading: parts.length ? parts.join(' · ') : t('authors') };
 }
 
 const AZ_ALPHABET = 'ABCÇDEƏFGĞHXIİJKQLMNOÖPRSŞTUÜVYZ';
 
-export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+export async function generateMetadata({ params, searchParams }: Props): Promise<Metadata> {
   const { locale } = await params;
+  const sp = await searchParams;
   const t = await getMetaTranslations({ locale });
+  const { filters, heading } = await resolveFilters(locale, sp);
 
   return pageMetadata({
     locale,
-    path: '/authors',
-    title: t('nav.authors'),
+    path: authorsPath(locale, filters, { letter: one(sp.letter), page: one(sp.page) }).slice(locale.length + 1),
+    title: heading,
     description: t('site.description'),
   });
 }
@@ -32,27 +58,31 @@ export default async function AuthorsPage({ params, searchParams }: Props) {
   const { locale } = await params;
   const sp = await searchParams;
 
+  const { filters, given, heading } = await resolveFilters(locale, sp);
+  const letter = one(sp.letter);
+  const canonical = authorsPath(locale, filters, { letter, page: one(sp.page) });
+  const requested = authorsPath(locale, {}, { letter, page: one(sp.page) }).replace(
+    `/${locale}/authors`,
+    `/${locale}/authors${given.map((g) => `/${g}`).join('')}`,
+  );
+  if (canonical !== requested) permanentRedirect(canonical);
+
   const query = new URLSearchParams();
-  if (sp.type) query.set('type', sp.type);
-  if (sp.period) query.set('period', sp.period);
-  if (sp.century) query.set('century', sp.century);
-  if (sp.letter) query.set('letter', sp.letter);
-  if (sp.page) query.set('page', sp.page);
+  if (filters.type) query.set('type', filters.type);
+  if (one(sp.period)) query.set('period', one(sp.period)!);
+  if (filters.century) query.set('century', String(filters.century));
+  if (letter) query.set('letter', letter);
+  if (one(sp.page)) query.set('page', one(sp.page)!);
 
   const result = (await api.getAuthors(query)) as PaginatedResponse<AuthorSummary>;
 
   return (
     <div className="container page-content">
-      <header className="page-header" style={{ textAlign: 'left', paddingTop: 0 }}>
-        <p className="section-label">
-          {locale === 'ru' ? 'Авторы' : locale === 'en' ? 'Authors' : 'Müəlliflər'}
-        </p>
-        <h1>
-          {locale === 'ru' ? 'Авторы' : locale === 'en' ? 'Authors' : 'Müəlliflər'}
-        </h1>
+      <header className="page-header page-header--start">
+        <h1>{heading}</h1>
       </header>
 
-      <AuthorFilters locale={locale} current={sp} />
+      <AuthorFilters locale={locale} current={filters} />
 
       <hr className="rule" style={{ margin: '1rem 0' }} />
 
@@ -61,7 +91,7 @@ export default async function AuthorsPage({ params, searchParams }: Props) {
         {AZ_ALPHABET.split('').map((letter) => (
           <Link
             key={letter}
-            href={`/${locale}/authors?letter=${letter}`}
+            href={authorsPath(locale, filters, { letter: letter === sp.letter ? undefined : letter })}
             className={`pill ${sp.letter === letter ? 'active' : ''}`}
             style={{ minWidth: '1.75rem', textAlign: 'center', padding: '0.2rem 0.3rem' }}
           >
@@ -70,7 +100,7 @@ export default async function AuthorsPage({ params, searchParams }: Props) {
         ))}
         {sp.letter && (
           <Link
-            href={`/${locale}/authors`}
+            href={authorsPath(locale, filters)}
             className="pill"
             style={{ padding: '0.2rem 0.6rem' }}
           >
@@ -141,7 +171,7 @@ export default async function AuthorsPage({ params, searchParams }: Props) {
           {Array.from({ length: result.meta.totalPages }, (_, i) => i + 1).map((page) => (
             <Link
               key={page}
-              href={`/${locale}/authors?page=${page}${sp.letter ? `&letter=${sp.letter}` : ''}${sp.type ? `&type=${sp.type}` : ''}`}
+              href={authorsPath(locale, filters, { letter, page })}
               className={`pill ${page === result.meta.page ? 'active' : ''}`}
             >
               {page}

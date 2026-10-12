@@ -508,6 +508,8 @@ blockquote {
 
 .page-header--start { text-align: left; padding-top: 1.5rem; }
 .filter-bar { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+.filter-clear { margin-top: 0.35rem; font-family: var(--font-ui); font-size: 0.85rem; }
+.filter-clear a { color: var(--pomeg); }
 .rule--tight { margin: 1rem 0; }
 .empty-note--center { text-align: center; margin-top: 2rem; }
 .pagination { display: flex; justify-content: center; flex-wrap: wrap; gap: 0.35rem; margin-top: 2rem; }

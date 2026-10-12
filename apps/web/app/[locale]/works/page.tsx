@@ -7,12 +7,15 @@ import { getTranslations } from 'next-intl/server';
 import { WorkCard, type Incipit } from '@/components/works/WorkCard';
 import { TagPills } from '@/components/works/TagPills';
 import { Pagination } from '@/components/ui/Pagination';
+import { notFound, permanentRedirect } from 'next/navigation';
+import { notFoundOn404 } from '@/lib/api';
+import { parseWorkFacets, worksPath, type WorkFilters } from '@/lib/facets';
 
 export const dynamic = 'force-dynamic';
 
 interface Props {
   params: Promise<{ locale: string }>;
-  searchParams: Promise<Record<string, string | undefined>>;
+  searchParams: Promise<Record<string, string | string[] | undefined>>;
 }
 
 interface WorkItem {
@@ -55,14 +58,36 @@ function label(item: { az: string; ru: string; en: string }, locale: string) {
   return locale === 'ru' ? item.ru : locale === 'en' ? item.en : item.az;
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+const one = (v: string | string[] | undefined) => (Array.isArray(v) ? v[0] : v);
+
+/** Filters from the readable path, the author they name, and the page heading */
+async function resolveFilters(locale: string, sp: Record<string, string | string[] | undefined>) {
+  const { filters, invalid, given } = parseWorkFacets(sp.f);
+  if (invalid) notFound();
+  const author = filters.author
+    ? ((await api.getAuthor(filters.author).catch(notFoundOn404)) as Record<string, any>)
+    : null;
+  const t = await getTranslations({ locale, namespace: 'works' });
+  const genre = GENRE_FILTERS.find((g) => g.value === filters.genre);
+  const form = FORM_FILTERS.find((f) => f.value === filters.form);
+  const parts = [
+    author && (localized(author, 'name', locale) ?? author.nameAz),
+    form ? label(form, locale) : genre ? label(genre, locale) : null,
+  ].filter(Boolean) as string[];
+  return { filters, given, heading: parts.length ? parts.join(' · ') : t('title'), filtered: parts.length > 0 };
+}
+
+export async function generateMetadata({ params, searchParams }: Props): Promise<Metadata> {
   const { locale } = await params;
+  const sp = await searchParams;
   const t = await getTranslations({ locale });
+  const { filters, heading, filtered } = await resolveFilters(locale, sp);
+  const page = Number(one(sp.page)) || 1;
 
   return pageMetadata({
     locale,
-    path: '/works',
-    title: t('nav.works'),
+    path: worksPath(locale, filters, { page }).slice(locale.length + 1),
+    title: filtered ? `${heading} — ${t('nav.works')}` : t('nav.works'),
     description: t('site.description'),
   });
 }
@@ -72,12 +97,23 @@ export default async function WorksPage({ params, searchParams }: Props) {
   const sp = await searchParams;
   const t = await getTranslations('works');
 
+  const { filters, given, heading } = await resolveFilters(locale, sp);
+  const lang = one(sp.lang);
+  // Segments in another order (or a stray ?page=1) redirect to the one canonical URL
+  const canonical = worksPath(locale, filters, { lang, page: one(sp.page) });
+  const requested = worksPath(locale, {}, { lang, page: one(sp.page) }).replace(
+    `/${locale}/works`,
+    `/${locale}/works${given.map((g) => `/${g}`).join('')}`,
+  );
+  if (canonical !== requested) permanentRedirect(canonical);
+  const href = (f: WorkFilters, page?: number) => worksPath(locale, f, { lang, page });
+
   const query = new URLSearchParams();
-  if (sp.form) query.set('form', sp.form);
-  if (sp.genre) query.set('genre', sp.genre);
-  if (sp.lang) query.set('lang', sp.lang);
-  if (sp.authorSlug) query.set('authorSlug', sp.authorSlug);
-  if (sp.page) query.set('page', sp.page);
+  if (filters.form) query.set('form', filters.form);
+  if (filters.genre) query.set('genre', filters.genre);
+  if (filters.author) query.set('authorSlug', filters.author);
+  if (lang) query.set('lang', lang);
+  if (one(sp.page)) query.set('page', one(sp.page)!);
   query.set('limit', '30');
   query.set('incipit', ['az', 'ru', 'en'].includes(locale) ? locale : 'az');
 
@@ -88,26 +124,31 @@ export default async function WorksPage({ params, searchParams }: Props) {
   const themes = tags.filter((tag) => tag.kind === 'THEME' && tag.works > 0);
   const tt = await getTranslations('tags');
 
-  const activeForm = sp.form;
-  const activeGenre = sp.genre;
+  const activeForm = filters.form;
+  const activeGenre = filters.genre;
 
   return (
     <div className="container page-content">
       <header className="page-header page-header--start">
-        <h1>{t('title')}</h1>
+        <h1>{heading}</h1>
+        {filters.author && (
+          <p className="filter-clear">
+            <Link href={href({ ...filters, author: undefined })}>← {tt('all_authors')}</Link>
+          </p>
+        )}
       </header>
 
       {/* Filters */}
       <div className="filter-bar">
-        {/* Genre filter */}
+        {/* Genre and form replace each other (a form is a kind of poem); the author stays */}
         <div className="chip-row">
           {GENRE_FILTERS.map((g) => (
             <Link
               key={g.value}
               href={
                 activeGenre === g.value
-                  ? `/${locale}/works`
-                  : `/${locale}/works?genre=${g.value}`
+                  ? href({ author: filters.author })
+                  : href({ author: filters.author, genre: g.value })
               }
               className={`pill ${activeGenre === g.value ? 'active' : ''}`}
             >
@@ -123,8 +164,8 @@ export default async function WorksPage({ params, searchParams }: Props) {
               key={f.value}
               href={
                 activeForm === f.value
-                  ? `/${locale}/works`
-                  : `/${locale}/works?form=${f.value}`
+                  ? href({ author: filters.author })
+                  : href({ author: filters.author, form: f.value })
               }
               className={`pill ${activeForm === f.value ? 'active' : ''}`}
             >
@@ -187,14 +228,7 @@ export default async function WorksPage({ params, searchParams }: Props) {
       <Pagination
         page={result.meta.page}
         totalPages={result.meta.totalPages}
-        href={(page) => {
-          const qp = new URLSearchParams();
-          if (activeForm) qp.set('form', activeForm);
-          if (activeGenre) qp.set('genre', activeGenre);
-          if (sp.authorSlug) qp.set('authorSlug', sp.authorSlug);
-          qp.set('page', String(page));
-          return `/${locale}/works?${qp}`;
-        }}
+        href={(page) => href(filters, page)}
         label={tt('pages')}
       />
     </div>

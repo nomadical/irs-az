@@ -3,7 +3,7 @@ import { Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { QueryAuthorsDto } from './dto/query-authors.dto';
 import { CreateAuthorDto } from './dto/create-author.dto';
-import { slugify, uniqueSlug } from '../common/utils/slug';
+import { safeAuthorBase, slugify, uniqueSlug } from '../common/utils/slug';
 import { renderMarkdown } from '../common/utils/markdown';
 import { publishedArtworks } from '../common/utils/artwork';
 import {
@@ -162,7 +162,7 @@ export class AuthorsService {
   }
 
   private newSlug(names: (string | null | undefined)[]) {
-    const base = names.map((n) => slugify(n ?? '')).find(Boolean) ?? 'muellif';
+    const base = safeAuthorBase(names.map((n) => slugify(n ?? '')).find(Boolean) ?? 'muellif');
     return uniqueSlug(base, async (slug) => (await this.prisma.author.count({ where: { slug } })) > 0);
   }
 

@@ -55,3 +55,21 @@ export async function uniqueSlug(
     if (!(await taken(slug))) return slug;
   }
 }
+
+/**
+ * Words the web app's readable filter URLs use (apps/web/lib/facets.ts):
+ * /az/works/forma-qezel, /az/authors/sairler/esr-12. A work or author slug that looked
+ * like one would be shadowed by the filter page, so new slugs steer around them.
+ */
+const FILTER_WORK_PREFIX = /^(muellif|janr|forma)-/;
+const FILTER_AUTHOR_SLUG = /^(sairler|yazicilar|filosoflar|dramaturqlar|esr-\d+)(-|$)/;
+
+/** A slug base that is safe for a work: one shaped like a filter gets the author's slug in front */
+export function safeWorkBase(base: string, authorSlug: string) {
+  return FILTER_WORK_PREFIX.test(base) ? `${authorSlug}-${base}` : base;
+}
+
+/** A slug base that is safe for an author: one shaped like a filter gets "-muellif" after it */
+export function safeAuthorBase(base: string) {
+  return FILTER_AUTHOR_SLUG.test(base) ? `${base}-muellif` : base;
+}

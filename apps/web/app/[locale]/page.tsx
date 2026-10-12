@@ -6,6 +6,7 @@ import { getTranslations } from 'next-intl/server';
 import { api, type PoemOfTheDay } from '../../lib/api';
 import { localized } from '@/lib/locale';
 import { TagPills } from '@/components/works/TagPills';
+import { authorsPath, worksPath } from '@/lib/facets';
 
 export const dynamic = 'force-dynamic';
 
@@ -15,12 +16,13 @@ const CENTURIES = [
   { label: 'XX', y: 20 },
 ];
 
+// Poem forms and prose genres side by side; each links to its own filter
 const GENRES = [
-  { key: 'GHAZAL',  az: 'Qəzəl',  ru: 'Газель', en: 'Ghazal' },
-  { key: 'MASNAVI', az: 'Məsnəvi', ru: 'Маснави', en: 'Masnavi' },
-  { key: 'RUBAI',   az: 'Rübai',   ru: 'Рубаи',  en: 'Rubai' },
-  { key: 'PROSE',   az: 'Nəsr',    ru: 'Проза',   en: 'Prose' },
-  { key: 'PLAY',    az: 'Dram',    ru: 'Драма',   en: 'Drama' },
+  { filter: { form: 'GHAZAL' },  az: 'Qəzəl',  ru: 'Газель', en: 'Ghazal' },
+  { filter: { form: 'MASNAVI' }, az: 'Məsnəvi', ru: 'Маснави', en: 'Masnavi' },
+  { filter: { form: 'RUBAI' },   az: 'Rübai',   ru: 'Рубаи',  en: 'Rubai' },
+  { filter: { genre: 'PROSE' },  az: 'Nəsr',    ru: 'Проза',   en: 'Prose' },
+  { filter: { genre: 'PLAY' },   az: 'Dram',    ru: 'Драма',   en: 'Drama' },
 ];
 
 interface FeaturedAuthor {
@@ -220,7 +222,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             <p className="section-label">{t('centuries_label')}</p>
             <div className="chip-row">
               {CENTURIES.map(({ label, y }) => (
-                <Link key={label} href={`/${locale}/authors?century=${y}`} className="pill pill--century">
+                <Link key={label} href={authorsPath(locale, { century: y })} className="pill pill--century">
                   {label}
                 </Link>
               ))}
@@ -232,7 +234,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             <p className="section-label">{t('genres_label')}</p>
             <div className="chip-row">
               {GENRES.map((g) => (
-                <Link key={g.key} href={`/${locale}/works?form=${g.key}`} className="pill">
+                <Link key={g.en} href={worksPath(locale, g.filter)} className="pill">
                   {locale === 'ru' ? g.ru : locale === 'en' ? g.en : g.az}
                 </Link>
               ))}

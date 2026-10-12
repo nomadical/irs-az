@@ -3,7 +3,7 @@ import { Language, Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { CreateWorkDto } from './dto/create-work.dto';
 import { QueryWorksDto } from './dto/query-works.dto';
-import { slugify, uniqueSlug } from '../common/utils/slug';
+import { safeWorkBase, slugify, uniqueSlug } from '../common/utils/slug';
 import { renderMarkdown } from '../common/utils/markdown';
 import { paginationArgs, paginatedResult } from '../common/utils/pagination';
 
@@ -359,7 +359,7 @@ export class WorksService {
       where: { id: authorId },
       select: { slug: true },
     });
-    const base = titles.map((t) => slugify(t ?? '')).find(Boolean) ?? `${author.slug}-eser`;
+    const base = safeWorkBase(titles.map((t) => slugify(t ?? '')).find(Boolean) ?? `${author.slug}-eser`, author.slug);
     return uniqueSlug(
       base,
       async (slug) =>
