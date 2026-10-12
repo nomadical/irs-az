@@ -153,6 +153,7 @@ const AUTHOR_ERA: Record<string, string> = {
   xetai: 'sefevi-dovru',
   fuzuli: 'sefevi-dovru',
   habibi: 'sefevi-dovru',
+  saib: 'sefevi-dovru',
   axundzade: 'maarifcilik',
   sabir: 'maarifcilik',
   'seyid-ezim': 'maarifcilik',

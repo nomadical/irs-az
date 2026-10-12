@@ -9,7 +9,7 @@ Public domain only (died 1955 or earlier, life + 70). Sources are unverified unt
 - [x] Əvhədi Marağalı — XIV, FA — Ganjoor
 - [x] Qazi Bürhanəddin — XIV, AZ — wikisource has 39 poems of a ~1,500-poem divan; the rest needs OCR
 - [x] Həbibi — XVI, AZ — wikisource
-- [ ] Saib Təbrizi — XVII, FA + AZ — Ganjoor has 9,877 poems (more than the whole site today); deferred
+- [x] Saib Təbrizi — XVII, FA + AZ — Ganjoor: ghazals, Turkic ghazals (7 with az.wikisource transliterations), qasidas, miscellany (7,743); single couplets, opening lines and attributed poems skipped
 - [x] Molla Vəli Vidadi — XVIII, AZ — wikisource
 - [x] Qasım bəy Zakir — XIX, AZ — wikisource
 - [x] Seyid Əzim Şirvani — XIX, AZ + FA — wikisource
