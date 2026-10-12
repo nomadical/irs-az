@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Он украсил все девять небес и седмицу планет,
 Был последним посланцем, последним пророком Ахмед.

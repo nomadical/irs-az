@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 В некий день, едва лишь солнце на небо взошло,
 Небосвод в сребристом блеске обнажил чело.

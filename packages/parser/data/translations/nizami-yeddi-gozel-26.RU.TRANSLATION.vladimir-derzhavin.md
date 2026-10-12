@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Образы семи красавиц сердцем возлюбя,
 Шах Бахрам в неволю страсти отдал сам себя.

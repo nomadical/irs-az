@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Ветер смел покрывало, что мой прикрывало рассказ.
 Сердце встретило розу, чей облик — отрада для глаз.

@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Только пробой осветился звонкий золотой,
 Что в Гяндже был по-румийски отчеканен мной,

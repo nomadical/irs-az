@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 О довольный! Ты к миру, в спокойствии сладком, привык.
 Ты — осел на лугу, ты к кормушке склонившийся бык.

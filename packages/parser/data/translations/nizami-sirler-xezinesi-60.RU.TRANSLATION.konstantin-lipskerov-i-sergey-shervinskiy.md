@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 О писец, да пошлет тебе доброе утро Аллах!
 Вот я узником стал, как перо у поэта в руках.

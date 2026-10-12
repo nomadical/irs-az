@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 «Алиф», только лишь был он на первой начертан скрижали,
 Сел у двери, ее же пять букв на запоре держали.

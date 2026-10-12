@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Ты, с чьей плотью пречистые души и те не сравнимы!
 Дух твой кликом взлелеян: «Всю жизнь за тебя отдадим мы!»

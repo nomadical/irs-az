@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Жил властитель один, был с людьми он безжалостно строг.
 Словно злобный Хаджадж, издеваться над всеми он мог.

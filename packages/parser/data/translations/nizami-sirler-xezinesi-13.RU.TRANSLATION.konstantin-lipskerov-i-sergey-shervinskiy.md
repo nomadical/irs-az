@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 В час, как начал надзвездный свои начертанья калам,
 С первой буквы о слове он начал рассказывать нам.

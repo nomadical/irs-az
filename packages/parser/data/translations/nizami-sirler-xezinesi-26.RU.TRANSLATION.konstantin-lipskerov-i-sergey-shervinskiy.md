@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Ты — боец без щита. Ты — в гордыне один. Иль тебя
 Гуль в пустыню загнал, отчужденную душу губя?

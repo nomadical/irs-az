@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Жизни той, что цвела на разостланном богом ковре,
 Вновь не стало. Смотри: сколько смен в этой вечной игре!

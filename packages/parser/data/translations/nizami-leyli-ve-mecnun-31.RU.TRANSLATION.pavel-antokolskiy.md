@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 «Дай руку, сын, прощай, пока не поздно.
 Смой пыль мою хотя бы влагой слезной,

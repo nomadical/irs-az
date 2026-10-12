@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Если россыпи слов, что размерной не тешат игрой
 Те, что чтут жемчуга, жемчугами считают порой,

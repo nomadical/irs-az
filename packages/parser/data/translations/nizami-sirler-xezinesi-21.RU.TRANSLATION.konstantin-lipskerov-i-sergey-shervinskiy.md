@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Некий муж справедливый и чтимый в обширной стране
 Справедливость не знавшего как-то увидел во сне

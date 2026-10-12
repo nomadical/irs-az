@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Ты последний свой круг не спеши совершить, небосвод!
 О земля! Отдали ты беды неизбежный приход!

@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 «В прославленье Аллаха, что благом и милостью щедр!»
 Вот к премудрости ключ, к тайнику сокровеннейших недр.

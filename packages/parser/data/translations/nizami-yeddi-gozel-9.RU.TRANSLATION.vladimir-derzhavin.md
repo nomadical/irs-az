@@ -12,7 +12,7 @@ translatorNote: >-
 year: 1968
 sourceNote: 'https://archive.org/details/bvl_tom_25'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Ездил шах Нуман с Мунзиром среди гор и скал,
 Мест хороших для Бахрама долго он искал,
