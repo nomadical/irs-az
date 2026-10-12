@@ -57,5 +57,3 @@ vətəndaşlarına səbri-cəmil əta eləyə...
 Bu xəbər dünkü qəzetimizin təb’ makinasına verildiyindən sonar əlimizə düşdüyünə
 görə bir gün tə’xirə düçar olmuş isə də, cənnətməkan Abdulla Tofiq haqqında bə’zi xatirat
 və təfsilatı havi olduğuna görə, dərci əlzəm bilinmişdir.
-
-## Qeydlər

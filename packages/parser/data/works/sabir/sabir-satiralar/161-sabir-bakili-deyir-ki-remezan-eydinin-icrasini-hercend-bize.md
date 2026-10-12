@@ -19,7 +19,3 @@ Rəməzan eydinin icrasını hərçənd bizə
 Həzərati-üləma bircə gün e’lam etdi;
 Biz o bir gündə də açdıq dükan, aldıq, satdıq,
 Ancaq onlar qara məxluq ilə bayram etdi.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 47**

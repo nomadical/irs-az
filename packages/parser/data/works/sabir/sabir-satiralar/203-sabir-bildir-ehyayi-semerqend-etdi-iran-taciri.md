@@ -17,7 +17,3 @@ Bildir ehyayi-Səmərqənd etdi İran taciri,
 Məktəb açdı, xəlqi xürsənd etdi İran taciri;
 Gördü əlsizlər, ayaqsızlar da insan tək oxur –
 Məktəbi bilmərrə dərbənd etdi İran taciri.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 319**

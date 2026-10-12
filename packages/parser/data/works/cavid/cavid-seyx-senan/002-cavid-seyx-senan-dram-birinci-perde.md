@@ -1568,5 +1568,3 @@ Onu gözdən ayırmayın əsla.
 Əlvida!.. Əlvida!.. Gözəl Zəhra!..
 
 Pərdə
-
-## Qeydlər

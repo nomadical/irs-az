@@ -134,7 +134,3 @@ Bu anlaşılmayacaq bir suali-müşkildir
 Ki, həll edilməsi zənnimcə qeyri-qabildir.
 Bu fikrə qarşı nə mazi cavab verdi, nə hal;
 Sənin bu fikrini kəşf eylər ancaq istiqbal...
-
-## Xarici keçid
-
-- Yeni elanlar

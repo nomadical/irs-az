@@ -33,7 +33,3 @@ Zülfünə dəydikcə şanə könlümü çak eylərəm.
 
 Sabira, torpağa saldı sayə rəna dilbərim,
 Gər mələk olsam da, labüd səcdeyi-xak eylərəm.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 309**

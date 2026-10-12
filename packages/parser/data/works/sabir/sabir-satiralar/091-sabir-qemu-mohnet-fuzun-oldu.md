@@ -63,6 +63,3 @@ O “keyfi-mayəşa”sından
 Neçün “layəs’əlun” oldu,
 Bütün işlər oyun oldu,
 Səbəb boynu yoğun oldu!
-
-## Mənbə
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh.**

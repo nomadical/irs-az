@@ -264,5 +264,3 @@ məzlumlar için şərəfli bir bayram, zalımlar için qorqunc bir intiqam gün
 heyrətlə). Ah, ölmüş... Şeyda... Şeyda... (deyə acı bir fəryad ilə qucaqlar).
 
 Pərdə
-
-## Qeydlər

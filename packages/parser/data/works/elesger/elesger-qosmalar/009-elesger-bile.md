@@ -26,5 +26,3 @@ Yazıq Ələsgərəm, abdal olmuşam,
 Seçilib cövhərdən zülal olmuşam,
 Sən ağ çalsan, mən də göy çal olmuşam,
 Lazımdı ki, çalın qədrin çal bilə.
-
-## Qeydlər

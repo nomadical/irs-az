@@ -17,7 +17,3 @@ Kimdir arif? – deyə sordum, dedilər, əsrə görə:
 Arifin indi nə dini və nə imanı olur.
 Bunu bildim, tanıdım, zahidi sordum, dedilər:
 Zahidin heç şeyi olmazsa, cibişdanı olur.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh.**

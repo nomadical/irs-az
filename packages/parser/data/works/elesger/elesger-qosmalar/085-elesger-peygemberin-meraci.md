@@ -71,5 +71,3 @@ Yazıq Ələsgərəm, azdı kamalım,
 Vacibdi ki, bir ustaddan dərs alım,
 Dərs aldım, öyrəndim, oldu öz malım,
 Bizdən də ustada nəfi-rəhmətdi.
-
-## Qeydlər

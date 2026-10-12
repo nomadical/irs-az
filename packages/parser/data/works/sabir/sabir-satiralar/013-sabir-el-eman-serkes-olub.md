@@ -47,7 +47,3 @@ Gedə qış, gələ həm yay,
 Ötə il, dolana ay,
 Sata bilməyə mumyay,
 İş oldu bu da, hay-hay!..
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 80**

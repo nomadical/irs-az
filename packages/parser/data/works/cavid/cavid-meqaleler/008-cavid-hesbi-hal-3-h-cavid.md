@@ -93,5 +93,3 @@ məktəblərdə ana dilini oquyub öyrənməsələr, yaxud ata-anaları tərəfi
 edilsələr, bir-iki il sonra zor ilə, qəhr ilə oqumağa məcbur olacaqlar. Bir də cəbrə, təzyiqə
 nə hacət, artıq iyirmi ilə otuz hesab etmək için anaların təsbihlər ilə, qızların barmaqlarilə
 komediya çıqarmaları çəkilir bir dərd deyildir. Azacıq da utanıb qızarmalıyız.
-
-## Qeydlər

@@ -35,6 +35,3 @@ Taxtına çıxmanam, taxtın ucadır,
 Qoynuna girmənəm, yarı gecədir,
 Deməginən Molla Pənah qocadır
 Səni tamam yesəm doymanam, gəlin!
-
-## Mənbə
-- Molla Pənah Vaqif erotikası.

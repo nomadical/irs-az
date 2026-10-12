@@ -65,5 +65,3 @@ isə böylə həqiqi və mə’nidar tamaşadan qaçıyorlar. Tiflisdəki teatr 
 Bu pyes hər kəsi sıqacaq dərəcədə uzun olduğu halda, hazirundan məmnun qalmayacaq
 bir zata təsadüf ediləməzdi...
     -Müxbir**
-
-## Qeydlər

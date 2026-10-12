@@ -39,7 +39,3 @@ Elə hey qəzet yazırsan, kişi, bircə mətləb anna!
 Əməlin gör əğniyanın, yeri varsa, sonra danna!
 Pulunu fəqirə versin, bəs acından ölsün Anna?
 O məgər ki, Xansənəmdir, qapılar dolanə, ya rəb?!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh. **

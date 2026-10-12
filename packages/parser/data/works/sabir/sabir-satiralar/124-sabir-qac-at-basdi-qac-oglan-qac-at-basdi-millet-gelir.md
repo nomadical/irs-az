@@ -80,7 +80,3 @@ Nə mabeynə nifrət, nə lə’nət gəlir,
 Nə böhtan, nə hədyan, nə qeybət gəlir,
 Nə cib, nə cibişdan, nə rüşvət gəlir,
 Qaç, oğlan! Qaç, at basdı! Millət gəlir!..
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh.**

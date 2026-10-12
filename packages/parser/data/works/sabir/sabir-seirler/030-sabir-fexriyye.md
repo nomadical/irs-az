@@ -87,7 +87,3 @@ Bir qitə yer üstündə qopub bir yekə dəva,
 Meydan ki qızışdı olanq məhv sərapa...
 Onsuz da əgərçənd ki, yeksər tələfız biz!
 Öz qövmümüzün başına əngəlkələfiz biz!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 123**

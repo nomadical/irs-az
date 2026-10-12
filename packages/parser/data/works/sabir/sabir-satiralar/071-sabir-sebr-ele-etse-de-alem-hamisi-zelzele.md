@@ -47,7 +47,3 @@ Qatsa da düşmənlər ağı aşına,
 Qərq olasan axırı göz yaşına,
 Müxtəsəri, keçsə də iş çəngələ,
 Qovzama başın, cocuğum, səbr elə!..
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh. **

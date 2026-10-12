@@ -40,7 +40,3 @@ Heç yerdə səsim yox,
 Kəskin nəfəsim yox,
 Fikrimdə cavanlıq,
 Başqa həvəsim yox.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 22**

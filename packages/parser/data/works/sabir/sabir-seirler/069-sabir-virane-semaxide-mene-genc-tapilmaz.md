@@ -33,7 +33,3 @@ Səntək gözəl, ey dilbəri-Gürgənc, tapılmaz.
 
 Şirin söz ilə saldı o ahuni kəməndə,
 Sabir kimi bir rindi-süxənsənc tapılmaz.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 313**

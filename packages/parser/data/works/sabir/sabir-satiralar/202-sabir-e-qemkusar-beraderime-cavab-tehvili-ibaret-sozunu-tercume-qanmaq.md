@@ -17,7 +17,3 @@ status: DRAFT
 Məktəbli çocuqlar da bilir kim, bu xətadır;
 Bir boylə xəta kəlmə mühərrir qələmindən
 Cari olur isə, ədəbiyyatə bəladır!..
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 319**

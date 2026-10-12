@@ -17,7 +17,3 @@ Cəvankən fəqrdən etmə şikayət,
 Cəvanlıqdan böyük bir sərvət olmaz!
 Qoca müstəğniyi-sərvət də olsa,
 Qolunda bir çocuqca qüvvət olmaz!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 307**

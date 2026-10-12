@@ -40,5 +40,3 @@ Vəh əla kəmalə zatikə fi əhsənis-sifat..
 Qıldın ədayi-nə’t, Füzuli, təmam qıl,
 
 Kəmmilhu bis-səlami və təmmimhu bis-səlat..
-
-## İstinadlar

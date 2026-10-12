@@ -267,5 +267,3 @@ Z ə h r a b ə y i m. Sizə gələn qada-bala mənə gəlsin, ay balalarım, sa
 -Qoltuğundan bayazını çıxardıb, qalxızır yuxarı. Oğlanları uzaqlaşıb yox olandan sonra qayıdıb oturur yerində. Bayazını yenə qoyur qoltuq cibinə və dərin fikrə gedir.*
 
 -P ə r d ə s a l ı n ı r.*
-
-## Qeydlər

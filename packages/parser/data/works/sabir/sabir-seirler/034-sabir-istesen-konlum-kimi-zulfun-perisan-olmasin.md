@@ -33,7 +33,3 @@ Eylə bir tədbir kim, bu dərdə dərman olmasın!
 
 Sabira, ümmidi-vəsl ilə qəmi-hicranə döz,
 Hansı bir müşküldi kim, səbr ilə asan olmasın?!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 308**

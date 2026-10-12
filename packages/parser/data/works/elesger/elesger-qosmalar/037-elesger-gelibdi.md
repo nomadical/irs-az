@@ -15,5 +15,3 @@ Allahverdi neylər dünya malını,
 Vəsf edər Göyçəni – öz mahalını,
 Yaxın dostlar Ağ Aşığın halını,
 Sormaq üçün Kərkibaşa gəlibdi.
-
-## Qeydlər

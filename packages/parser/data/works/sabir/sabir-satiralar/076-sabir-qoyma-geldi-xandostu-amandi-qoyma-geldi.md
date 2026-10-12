@@ -40,7 +40,3 @@ Qətran qoxusu gəlir buyundan,
 Lap doğrusu qorxmuşam xuyundan,
 Bir əf’i ilandı, qoyma, gəldi!
 Kirdarı yamandı, qoyma, gəldi!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh. **

@@ -34,7 +34,3 @@ status: DRAFT
 
 - Etsək nə olur biz də belə şirkətə iqdam?
 - Sus, söylə bizə təfriqəni, ta edək əncam...
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 293**

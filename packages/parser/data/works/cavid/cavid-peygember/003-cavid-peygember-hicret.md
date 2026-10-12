@@ -1393,5 +1393,3 @@ P e y ğ ə m b ə r
 
 Əvət, ən doğru, ən gözəl ayin:
 Əhli-vicdanə – busə, xainə – kin!..
-
-## Qeydlər

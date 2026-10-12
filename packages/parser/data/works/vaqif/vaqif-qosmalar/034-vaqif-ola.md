@@ -30,6 +30,3 @@ Hayası üzündə, əqli başında,
 Öldürə Vaqivi gözü-qaşında.
 Ya on üç, ya on dörd, on beş yaşında,
 Nə ondan böyükrək, nə uşaq ola…
-
-## Mənbə
-- Molla Pənah Vaqif erotikası.

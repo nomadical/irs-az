@@ -66,5 +66,3 @@ Lakin rusca müəllimlərinin əxlaq və iste’dadına bir az diqqət lazım. M
 olduqca sihhi, gözəl və havadar bir yerdə vaqe olur, hər xüsusda bu məktəb digərlərindən
 şərəflidir və onlara tərcih olunmalıdır. Çünki oğlan-qız bütün vətən yavrularının tərbiyeyiibtidaiyyəsi
 ancaq onların ağuşi-şəfqətində hüsulpəzir ola bilər.
-
-## Qeydlər

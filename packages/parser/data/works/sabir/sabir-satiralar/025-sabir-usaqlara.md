@@ -51,7 +51,3 @@ Göz nuri hesab eylədiyi dərdi-sər oldu,
 Zəhmətlə əmək  verdiyi cümlə  hədər  oldu;
 Nə ölmədi ta  kim, qutara  canı, uşaqlar!
 Nə  tapmadı öz  dərdinə  dərmanı, uşaqlar!.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 44**

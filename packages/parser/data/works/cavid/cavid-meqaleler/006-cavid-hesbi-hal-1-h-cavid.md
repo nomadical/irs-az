@@ -116,5 +116,3 @@ dağınıq fikirlər xəyalımda belə yoq idi. Tə’lim və tərbiyəyə aid b
 istərkən dağdan-daşa, dərədən-təpəyə düşdük. Fəqət hər məktəbin ilk əsası onun
 tə’sisindən və hey’ətiidarəsindən başladığı için yenə faydasız çıqmaz zənn edərim.
 İnşallah gələcək nömrələrdə bir qaç dəfə tə’lim-tərbiyə haqqında həsbi-hal edəriz
-
-## Qeydlər

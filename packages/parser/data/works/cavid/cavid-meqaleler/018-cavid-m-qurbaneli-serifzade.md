@@ -70,4 +70,3 @@ Cənabi-Haqq ruhi-nəcibinə rəhmət, evlad və ailəsinə, əhibba və əqrəb
 mətanət kəramət eyləyə...
 
     -Hüseyn Cavid**
-## Qeydlər

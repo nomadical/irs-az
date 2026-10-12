@@ -240,5 +240,3 @@ O r x a n . Bir gün gəlir ki, şu yeni qönçələr açar, bizim arzularımız
 N a z i m (gəlir, əyilir). Buyursunlar. (Önlərincə gedər).
 O r x a n . Gedəlim. (Nazimi göstərir.)  İştə bu gecə qiyafətli məxluq bizi uğurlu və parlaq bir sabaha də’vət edir. (Gedirlər).
 Pərdə
-
-## Qeydlər

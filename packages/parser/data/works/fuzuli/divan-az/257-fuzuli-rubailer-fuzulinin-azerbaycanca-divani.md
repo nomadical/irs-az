@@ -387,5 +387,3 @@ Gördüm səni, əldən ixtiyarım getdi,
 Baxdım üzünə, səbrü qərarım getdi.
 Xak oldumü hər yana qübarım getdi,
 Əlqissə, qapından e’tibarım getdi.
-
-## İzahlar

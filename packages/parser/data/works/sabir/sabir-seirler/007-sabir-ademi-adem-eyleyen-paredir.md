@@ -35,6 +35,3 @@ Ta ki, var əldə beş puçuq quruşun –
 Mötəbərsən gözündə əşrafın;
 Adəmi adəm eyləyən parədir,
 Parasız adamın üzü qarədir,
-
-## Mənbə
--Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 169.

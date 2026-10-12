@@ -33,5 +33,3 @@ Bulmazdı, qəhrin açmasa xani-siyasətin,
 
 Ya rəb, bəlayi-qeydə Füzuli əsirdir,
 Ol bidili bu dami-küdurətdən et rəha.
-
-## Qeydlər

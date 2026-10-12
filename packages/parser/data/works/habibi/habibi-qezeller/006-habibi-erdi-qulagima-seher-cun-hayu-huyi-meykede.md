@@ -48,5 +48,3 @@ Gördüm ki, çün eylər xuruş sümayi-nayi-meykədə.
 
 Məndən eşit doğru xəbər, edəm sənə söz müxtəsər,
 Sən, ey Həbibi, dur səhər, et cüstücuyi-meykədə.
-
-## Qeydlər

@@ -84,7 +84,3 @@ Fərman gedər əldən,
 Saman gedər əldən,
 Yalnız nə ki, Tehran,
 İran gedər əldən!..
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh. **

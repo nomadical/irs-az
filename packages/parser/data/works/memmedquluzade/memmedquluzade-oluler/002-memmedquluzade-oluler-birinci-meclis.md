@@ -310,5 +310,3 @@ K ə r b a l a y ı F a t m a x a n ı m (hər iki əlini yuxarı qalxızıb ağ
 İ s k ə n d ə r (içəri girir, yavaş-yazaş gəlib durur anasının yanında və başını aşağı salıb qəmgin deyir). Yazıq ana!
 
 -P ə r d ə*
-
-## Qeydlər

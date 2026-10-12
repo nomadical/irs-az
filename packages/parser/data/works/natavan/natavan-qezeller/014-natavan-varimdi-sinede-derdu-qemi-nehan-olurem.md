@@ -39,6 +39,3 @@ Qədər bukub belimi, eyləyib kəman, ölürəm.
 
 Fəraqdan tukənib tabu taqətim, billah,
 Vüsalə yetməz əlim, zaru Natəvan ölürəm.
-
-## Xarici keçidlər
--

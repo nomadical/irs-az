@@ -1269,5 +1269,3 @@ O yanan qəlbə qavuşmaq dilərim,
 Ona qoşmaq dilərim.
 
 (Sinirli adımlarla Peyğəmbər getdiyi tərəfə doğru ilərilər, Nədimə də kəndisini izlər)
-
-## Qeydlər

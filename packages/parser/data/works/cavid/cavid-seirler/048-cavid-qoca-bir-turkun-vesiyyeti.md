@@ -87,5 +87,3 @@ Elmas kibi ləkəsizdir, saqın, qafil olmayın.
 Əsr, iyirminci əsrdir! Vəzifəsi pək ağır…
 Arş iləri!
 Qomşular yol aldı, geri qalmayın!
-
-## Qeydlər

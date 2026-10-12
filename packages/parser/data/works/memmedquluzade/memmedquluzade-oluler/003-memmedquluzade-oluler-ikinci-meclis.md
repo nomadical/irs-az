@@ -300,5 +300,3 @@ Hamı çıxır və balaca övrət qalır otaqda. Bu da istəyir adamların dalı
 Ş e y x N ə s r u l l a h. O sənin öz ixtiyarındadır: istəyirsən get, istəyirsən qal. O sənin öz ixtiyarındadır ki, öləndə düşəsən bərzəx aləminə. Ayaq tərəfindən baca açıla cəhənnəmə və qatır yekəlikdə əqrəblər gəlib yapışalar bədəninə. Bu da sənin öz ixtiyarındadır ki, səni qəbrə qoyanda baş tərəfindən bir dəriçə açıla və o dəriçədən bir nəfər qılman gəlib sənnən mazaqlaşa və bu əsnada qılmanın boynunda sana düzülmüş zəbərcəd danələri qırılıb dağılalar və başlayasınız hərə bir tərəfdən zəbərcədi genə sapa düzməyə və bir də görəsiniz ki, yetmiş min dünya saatları gəlib dolanıb və indi qiyam-qiyamət olur. (Övrətə yavuqlaşır). O vədə qılman yapışar sənin əlindən (yapışır övrətin əlindən) və gülə-gülə sənə deyər: "Görəsən dünyada nə qədər savab işlər görübsən?"
 
 -P ə r d ə*
-
-## Qeydlər

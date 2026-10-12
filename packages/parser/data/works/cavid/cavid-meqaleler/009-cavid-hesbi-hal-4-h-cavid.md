@@ -194,5 +194,3 @@ Bir çoq təbii levhələr ilə məktəb otağı təzyin edilməlidir, çocuqlar
 duymayacaq dərəcədə bir taqım xoş mevzulardan bəhs edilməlidir.
 Kor-koranə “sür dərəyə” qanununu əsla tələbəyə hiss etdirməməlidir, çünki təşəbbüsi-
 şəxsidən bütün-bütün məhrum qalmış olur.
-
-## Qeydlər

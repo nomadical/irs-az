@@ -37,7 +37,3 @@ Axirətim, imanım var, dinim var,
 Ariflərnən ədavətim, kinim var,
 Bir xoruzam əlli yerdə hinim var,
 Qoca kişi yalqız yatmaz...m!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh.**

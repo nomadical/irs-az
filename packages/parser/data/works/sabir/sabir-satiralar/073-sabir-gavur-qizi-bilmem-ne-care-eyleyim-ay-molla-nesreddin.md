@@ -37,7 +37,3 @@ Yoxsa nə borcuna ki, ər övrət alır yenə,
 Övrətsən, ancaq eylə itaət, gavur qızı!
 Ərdir, özü bilər, neçə övrət alar, alar,
 Heyvan kimi durar, baxar övrət, gavur qızı!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh. **

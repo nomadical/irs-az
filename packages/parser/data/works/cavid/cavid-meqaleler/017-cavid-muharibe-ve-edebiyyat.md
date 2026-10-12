@@ -174,5 +174,3 @@ daha mətin bir yol izləyəcək... Və şimdiyə qadar qaraladığımız saçma
 ala-bəzək ədəbiyyatımız da büsbütün alt-üst olacaq. Gənc münəqqidlərin nəzəriistehzasına
 uğrayacaq. Həm də insafsız, mərhəmətsiz, e’tinasız bir surətdə yırtılıb
 atılacaq. Heyhat!.. Son nədamət isə fayda verməyəcəkdir.
-
-## Qeydlər

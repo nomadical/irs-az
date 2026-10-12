@@ -33,6 +33,3 @@ Kim, ola sabit həq isbatında nəfyi-maəda.
 
 Ey Füzuli, intihasız zövq buldun eşqdən,
 Böylədir hər iş ki, Həqq adilə qılsan ibtida.
-
-## Qeydlər
-[[Kateqoriya:Qəzəllər]

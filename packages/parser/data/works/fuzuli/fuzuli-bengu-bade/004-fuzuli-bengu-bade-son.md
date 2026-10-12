@@ -634,5 +634,3 @@ Allah-allah bu məhz isyandır,
 Var ümidim ki, üzrim ola qəbul,
 
 Olmaya böylə cürm ilə məsul.
-
-## Qeyd

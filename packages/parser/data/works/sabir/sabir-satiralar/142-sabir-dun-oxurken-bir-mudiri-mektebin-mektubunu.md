@@ -17,7 +17,3 @@ Dün oxurkən bir müdiri-məktəbin məktubunu
 Min qələt gördüm qarışmış bir vərəq imlasına;
 Uf!.. Yazıq millət, dedim, bilsəydiniz məktəb nədir,
 Boylələr düşməzdi tə’lim etmənin sövdasına.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh.**

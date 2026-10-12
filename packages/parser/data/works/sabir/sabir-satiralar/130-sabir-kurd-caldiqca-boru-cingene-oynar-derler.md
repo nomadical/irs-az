@@ -17,7 +17,3 @@ Kürd çaldıqca boru çingənə oynar, derlər, –
 Bir məsəldir ki, demiş Türkiyə iz’anlıları.
 Bir tuhaf çalğı ilə oynadıyor avropalı
 Şimdi yunanlı ilə bir sürü osmanlıları.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 47**

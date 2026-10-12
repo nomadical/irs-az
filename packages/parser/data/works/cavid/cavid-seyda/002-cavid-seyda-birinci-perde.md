@@ -353,5 +353,3 @@ Musa (şaşqın və çılğın). Tək əl işə yaramaz, öyləmi!? (Acı qəhq�
 alçaq, vicdansız!..
 
 Pərdə
-
-## Qeydlər

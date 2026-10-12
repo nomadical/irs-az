@@ -17,7 +17,3 @@ Bəs deyilmiş bunca Mehdilər1 xüruci, indi də
 Volqadan bir tazə Mehdi xəlqi iğfal eyləyir.
 Cahiliyyət hökmfərmadır ki, hər şəxsi-müzill
 “Mehdiyəm” namilə xəlqüllahı izlal eyləyir.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 315**

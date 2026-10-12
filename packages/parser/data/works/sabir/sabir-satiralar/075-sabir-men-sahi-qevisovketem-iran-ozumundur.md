@@ -54,7 +54,3 @@ Nikbətdə, əsarətdə, məzəllətdə həmişə;
 İranlı, itil, get yaxanı bitdə həmişə!
 Xaqan özümün, kişvərü saman özümündür!
 Şövkət özümün, fəxr özümün, şan özümündür!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh. **

@@ -45,6 +45,3 @@ Hökm eləyin, küfrlə ulğaşdılar,
 Dini-xudadən qırılıb qaşdılar,
 Cümləsi kafirlərə yoldaşdılar.
 Çünki təəssübləri yox, çaşdılar!
-
-## Mənbə
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh.**

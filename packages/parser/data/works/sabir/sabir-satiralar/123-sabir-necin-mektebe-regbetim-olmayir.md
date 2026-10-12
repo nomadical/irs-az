@@ -63,7 +63,3 @@ Beş-üç kəlmə söz söylənir, iş bitir,
 Fəqət şə’nimiz günbəgündən itir,
 Bizə ehtiram olmayır, olmayır!
 Qarın dolmayır, dolmayır, dolmayır!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 47**

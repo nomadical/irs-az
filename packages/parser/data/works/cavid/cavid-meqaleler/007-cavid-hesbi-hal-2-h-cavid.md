@@ -115,4 +115,3 @@ gəzməsinə, tə’lim və tərbiyəsinə diqqət edəcək analar nerdə? Erkə
 surətdə doğub böyüməsinə qadınlar səbəb olduğu kibi, mə’nəviyyatca da münəvvərəlfikr,
 tərəqqipərvər olmalarına yenə yeganə vasitə qadınlardır, demək ki, tərəqqinin ilk vasitəsi
 qadın və qız məktəbləridir.
-## Qeydlər

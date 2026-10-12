@@ -116,4 +116,3 @@ proqramına ilavə olunmuş, ilahiyyat şö’bəsinə dəvam edər. Dünya və 
 mükəmməlcə təhsil etmiş olur. Və həqiqi, mühakiməli, doğru bir mə’lumata malik olunur.
 İştə o zaman haqqilə alim adına layiq alimlər görərik. Və müəllim qıtlığı çəkməkdən də
 azad olarıq.
-## Qeydlər

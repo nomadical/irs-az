@@ -85,5 +85,3 @@ Sordun ki, sənə gizli qalan sirlər açım mən?!
 Doldur qədəhi, durma daha peydəri-pey ver.
 Ver səbi-məsani adına yeddidə gəl dur,
 Ver, ver ki, içim, qıyma mənə kasəni doldur.
-
-## Bölmələr

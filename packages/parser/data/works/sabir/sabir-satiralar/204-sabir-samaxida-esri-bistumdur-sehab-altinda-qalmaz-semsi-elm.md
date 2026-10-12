@@ -17,7 +17,3 @@ status: DRAFT
 Bir zəman təl’ət açar, pərtöv saçar, zülmət qaçar;
 Məktəbi-nisvan lüzumu hər kəsə məfhum olar,
 Şeyxzadəm açmaz isə, xahərim Gövhər açar.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 319**

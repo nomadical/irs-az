@@ -17,7 +17,3 @@ status: DRAFT
 Qiymətin bildi əcəb konsulunuz!
 Istədi “Merkuri”dən yüz qırx min...
 A yetimlər, sevinin, var pulunuz!..
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 315**

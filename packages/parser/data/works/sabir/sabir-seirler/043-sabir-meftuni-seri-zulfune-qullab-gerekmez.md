@@ -33,7 +33,3 @@ Hicrində rəvadir ciyərim qanı tökülsün,
 
 Sirab eləyib ləli-ləbin Sabiri, ey şux,
 Təbdari-qəm-eşqinə qəndab gərəkməz.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 306**

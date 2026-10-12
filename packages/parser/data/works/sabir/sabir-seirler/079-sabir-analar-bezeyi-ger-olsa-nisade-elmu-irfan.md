@@ -35,7 +35,3 @@ Elm ilə olur nüfuzi-millət.
 
 Elmə çağırır bütün əvamı
 “Əl-elmü fərizətün” kəlamı.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 298**

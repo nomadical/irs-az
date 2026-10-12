@@ -42,6 +42,3 @@ Ta görəsən vəchi-dilarasını?!
 
 Hu çəkib axır gəzəsən kubəku,
 Tərk edəsən zöhd müsəllasını.
-
-## Mənbə
-- “ŞƏRQ-QƏRB”, BAKI-2004 'Mirzə Ələkbər Sabir, Hophopnamə. səh. 321

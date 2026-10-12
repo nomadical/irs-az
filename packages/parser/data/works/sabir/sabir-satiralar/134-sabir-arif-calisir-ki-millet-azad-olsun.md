@@ -17,7 +17,3 @@ Arif çalışır ki, millət azad olsun,
 Zahid çığırır ki, məscid abad olsun.
 Söz boynu qraxmallılarındır ki, deyir:
 – Bir madmazel olsun ki, pərizad olsun!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 288 səh. **

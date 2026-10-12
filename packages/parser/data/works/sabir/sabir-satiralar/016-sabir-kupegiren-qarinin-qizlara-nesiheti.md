@@ -82,7 +82,3 @@ Sən çəkmə məlalı,
 Qur məclsisi-alı,
 Pozma bu cəlalı,
 Ay başı bəlalı!..
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 48-49**

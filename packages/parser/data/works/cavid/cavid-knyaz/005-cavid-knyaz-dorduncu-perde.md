@@ -595,5 +595,3 @@ Yetər, ah!..
 K n y a z
 İştə cəza! Haydı, gəbər!..
 Pərdə
-
-## Qeydlər

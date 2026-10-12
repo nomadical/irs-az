@@ -110,5 +110,3 @@ Mən lap pis günə qaldım. Bilmədim kimə acığım tutsun və kimin üstün�
 Bir on beş dəqiqə orada avara və sərkərdan dayanandan sonra Əsəd yapışıb atların cilovundan çəkə-çəkə ehmalca aparıb. Sonra mən və uşaqlar piyadaca faytonun dalıyca getmişik haman camaatın içinə!
 
 Burası yamandır ey!…
-
-## Qeydlər

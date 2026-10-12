@@ -32,7 +32,3 @@ Tez götürüb tiryakını at, kişi!
 Qalyanını çağla, xoruldat, kişi!
 Bir qədər öz sinəni toxdat, kişi!
 Çək başına yorğanını yat, kişi!..
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh.**

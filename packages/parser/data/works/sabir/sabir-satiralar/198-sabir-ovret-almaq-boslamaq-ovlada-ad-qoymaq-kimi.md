@@ -17,7 +17,3 @@ status: DRAFT
 Nəsnələrdən ücrət almaqçın Qazan mollaları
 Ittifaq etdisə də, lakin cənabət qüslünün
 Muzdunu heyfa unutdu xatiri-valaları.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 315 **

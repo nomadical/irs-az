@@ -33,7 +33,3 @@ Eylə xətin tərash, qoy ömrüm uzanmasın.
 
 Derlər, nəvidi-vəsl verib yar Sabirə,
 Xam olmasın, bu mətləbə hərgiz inanmasın.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 307**

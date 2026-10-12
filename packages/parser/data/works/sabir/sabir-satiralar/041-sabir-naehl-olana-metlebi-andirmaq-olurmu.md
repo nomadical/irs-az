@@ -57,7 +57,3 @@ Bizlərdə yox idi belə adət, – yeni çıxdı,
 İslamə xələl qatdı bu bid’ət, – yeni çıxdı,
 Bu çeşməni bir növ’ bulandırmaq olurmu?!
 Naəhl olana mətləbi andırmaq olurmu?!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, səh. 103**

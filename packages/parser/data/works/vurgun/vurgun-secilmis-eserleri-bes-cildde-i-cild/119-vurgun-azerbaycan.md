@@ -114,6 +114,3 @@ Yurdum, yuvam, məskənimsən.
 Anam, doğma vətənimsən!
 Ayrılarmı könül candan?
 Azərbaycan, Azərbaycan!
-
-## Mənbə
-- AZƏRBAYCAN ŞEİRİ

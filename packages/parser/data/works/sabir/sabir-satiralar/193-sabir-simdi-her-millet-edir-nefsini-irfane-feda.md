@@ -17,7 +17,3 @@ status: DRAFT
 Vətən övladı üçün elmə, dəbistanə fəda.
 Qara məxluq deyil, bizdəki ariflər də
 Vətən övladın edir nəf’i-cibişdanə fəda.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 314**

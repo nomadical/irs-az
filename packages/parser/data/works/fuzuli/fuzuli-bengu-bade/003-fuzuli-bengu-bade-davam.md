@@ -602,5 +602,3 @@ Yeməyəm nəsnə, tutmayam aram,
 Edəyim zaye etdigi əməgin,
 
 Ağrıdıb həmnişinlərin yürəgin.
-
-## Qeyd

@@ -36,5 +36,3 @@ Haşa ki, səndən özgə ola müddəa mana.
 
 Həbsi-həvadə qoyma Füzulisifət əsir,
 Ya Rəb, hidayət eylə təriqi-fəna mana!
-
-## Qeydlər

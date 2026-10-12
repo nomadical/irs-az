@@ -96,5 +96,3 @@ Hələ türk lisan və ədəbiyyatını azacıq nəzəri-diqqətə alsalar, tür
 on ay qədər göz gəzdirsələr, şübhəsiz ki, vətənə, millətə çoq, həm də pək çoq xidmət
 etmiş olurlar. Fəqət əhəmiyyətsiz bir vəziyyət alacaq olsalar, təbiidir ki, lisanımızı bərbad
 etməkdə əvvəlinci qısımdan geri qalmayacaqdır.
-
-## Qeydlər

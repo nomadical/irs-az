@@ -31,7 +31,3 @@ Elmin anası bir belə!.. Cəhlin atası bir belə...
 Mən dəliyəmmi oğlumu məktəbə, dərsə sövq edəm?
 
 Dərsin əzası bir belə!.. Xəlqin ədası bir belə...
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 97**

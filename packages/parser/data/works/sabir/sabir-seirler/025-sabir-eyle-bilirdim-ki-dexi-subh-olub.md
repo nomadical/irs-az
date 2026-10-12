@@ -35,7 +35,3 @@ Banlamaram, banalamaram bir daha.
 
 Banlamamaqdır sizə əhdim mənim,>
 Söyləmirəm: anlamaram bir daha!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 47**

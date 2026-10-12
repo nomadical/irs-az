@@ -23,7 +23,3 @@ Boynun surahi, boy-buxunun bir uca çinar,
 
 Xalın üzündə buğda, başında saçın qürab,
 Qah, qah!... qəribə gülməlisən xaniman xərab!..
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 176**

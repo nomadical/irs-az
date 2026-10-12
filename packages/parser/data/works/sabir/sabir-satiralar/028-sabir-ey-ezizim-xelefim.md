@@ -45,6 +45,3 @@ Bu əməldən ucalarsan,
 Amilyanov olarsan,
 Nə qədr olsa da ömrün,
 O yerlərdə qalarsan!..
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 86 səh. **

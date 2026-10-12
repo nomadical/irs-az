@@ -39,7 +39,3 @@ Sən o deyilmidin, dedin: var bizim ittihadımız?
 Mən də, yadında var, dedim: yox buna e’timadımız,
 Büğzə, nifaqədir bizim qeyrətü ictihadımız?!
 Pərdə açıldı nagəhan, mən deyən oldu, olmadı?.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, səh. 97**

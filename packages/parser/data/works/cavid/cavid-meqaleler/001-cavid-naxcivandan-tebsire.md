@@ -89,5 +89,3 @@ rəvayətlərdən eşidib məsciddən çıxanda əsnai-söhbətdə onun sözlər
 müsəlman, müsəlman millətinin və əbnayi-vətənin halına yanıb tərəqqi və təməddün
 fikrində olur. Bir surətdə ki, islamiyyət nə deməkdir, əbədən ittilai olmayıb əsla məqamie’tinada
 bulunmayır.
-
-## Qeydlər

@@ -45,7 +45,3 @@ Qalmaz o məvadə aman hiç, hiç!
 
 Bari, Xudaya, özün islah qıl,
 Ta edələr pirü cəvan sülh, sülh!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 43**

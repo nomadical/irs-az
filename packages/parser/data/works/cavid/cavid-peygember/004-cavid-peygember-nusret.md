@@ -1432,5 +1432,3 @@ Allahu əkbər... Allahu əkbər...
 SON
 
 Qeyd – Şu əsərdə bə’zi cümlələr tırnacıq arasına alınıb da qailləri göstərilmək icab edərdi. Fəqət məzkur cümlələr bəlli şəxslər – yə’ni əsil qailləri tərəfindən söyləndiyi için fəzlə izahata ehtiyac görülmədi. H.C.
-
-## Qeydlər

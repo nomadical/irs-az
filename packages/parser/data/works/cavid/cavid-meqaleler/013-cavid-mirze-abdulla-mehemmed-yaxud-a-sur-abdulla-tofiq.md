@@ -308,5 +308,3 @@ Cənabi-Haqq öz birliyi hörmətinə bu nakam cavanın cənazəsi üzərində p
 sinələrə, qoparılan saçlara, tökülən göz yaşlarına, sızlayan yürəklərə mərhəmət buyurub
 da onu, o namurad bəndəsini dəryayi-ehsan və kərəminə qərq eyləsin.
 Əgər günahı var isə, öz lütfilə, öz böyüklüyilə bağışlasın. (Ami n ...)
-
-## Qeydlər

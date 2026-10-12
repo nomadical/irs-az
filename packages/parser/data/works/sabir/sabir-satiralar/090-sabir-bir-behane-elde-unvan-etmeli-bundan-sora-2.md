@@ -39,6 +39,3 @@ Arqadaşlar, əl’əman, gəl tez verib də əl-ələ,
 Həm bu yolda əhdü peyman ətməli bundan sora!
 Aid olmur indi bunlardan bizə bir mənfəət,
 Pul verərlərsə, müsəlman etməli bundan sora!
-
-## Mənbə
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh.**

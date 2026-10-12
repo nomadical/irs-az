@@ -52,7 +52,3 @@ Dövlətliyə insanlığın isbat edə bilməz,
 Dövlətli fəqir ilə müsavat edə bilməz,
 Nöqsan gətirər şəninə bu kar, dilənçi!
 Rədd ol qapıdan, ağlama zar-zar, dilənçi!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 137-138**

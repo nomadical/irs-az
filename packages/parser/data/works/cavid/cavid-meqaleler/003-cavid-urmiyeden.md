@@ -100,5 +100,3 @@ həzrətlərindən yetişən o əmri-nəvahinin hansı birisinə amil və peyrə
 bir tə’kidati-elmiyyə və sənaiyyəsinə də rövnəqəfza olub, təməddün və tədəyyün
 xüsusunda buyurduğu fərmayişata himmət və sədaqətlə əməl edib, kəmali-sə’y və
 ehtimamla çalışıb, tainki miləlimütəməddinə nəzərlərində mövhun və sərnigün olmayaq!
-
-## Qeydlər

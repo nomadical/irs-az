@@ -85,7 +85,3 @@ Bir kimsədə bir söz deməyə olmaya cür’ət,
 
 Heyhat və heyhat və heyhat və heyhat!!!
 Get yat və get yat və get yat və get yat!!!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 77**

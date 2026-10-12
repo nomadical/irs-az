@@ -292,5 +292,3 @@ R o z a n ı n s ə s i . Saqın, unutma, gəl ha!..
 -Şeyda qapıyı qapar. “Ah” deyə qısqanc və mə’yus bir tevr ilə əli alnında olaraq iskəmləyə
 oturur.*
 Pərdə
-
-## Qeydlər

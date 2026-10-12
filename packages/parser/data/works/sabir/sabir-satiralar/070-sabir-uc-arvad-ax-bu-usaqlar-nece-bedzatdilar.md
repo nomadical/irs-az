@@ -56,7 +56,3 @@ Bağrımı çatdatdılar,
 Sinəmi oxlatdılar,
 İl gecəni sübhə tək
 Bircə məgər yatdılar?!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh. **

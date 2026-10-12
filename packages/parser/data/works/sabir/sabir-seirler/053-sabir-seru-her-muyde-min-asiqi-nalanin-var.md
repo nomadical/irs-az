@@ -33,7 +33,3 @@ Mərəzi eşqə nə tədbir, nə fərmanın var.
 
 Sabira, qərq edər axır səni bu seyli bəla,
 Olma qafil belə kim, dideyi giryanın var.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 311**

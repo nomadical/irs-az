@@ -55,5 +55,3 @@ Dərəsi, təpəsi bahalı dağlara.
 Bir sabah olarkən qızıldan dirəyin,
 Səslənib duracaq əlində şən sazım,
 Qafqazım, Qafqazım, qazanclı Qafqazım.
-
-## Qeydlər

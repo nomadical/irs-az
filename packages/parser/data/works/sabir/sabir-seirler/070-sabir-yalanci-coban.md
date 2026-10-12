@@ -55,7 +55,3 @@ Həm də xəlq içrə hörmətin olmaz,
 
 “Evi yandı yalançının, - derlər, -
 Ona bir kimsə etmədi bavər”.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 320-321**

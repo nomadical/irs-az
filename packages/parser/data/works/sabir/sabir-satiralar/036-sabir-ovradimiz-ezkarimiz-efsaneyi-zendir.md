@@ -45,7 +45,3 @@ Tez boşluyuruz, çün bu libas ariyəmizdir,
 Övrət nə demək? Xadiməmiz, cariyəmizdir!
 Hərçənd alan vəqtdə azad alırız biz!
 Dindarləriz, gündə bir arvad alırız biz!..
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 96**

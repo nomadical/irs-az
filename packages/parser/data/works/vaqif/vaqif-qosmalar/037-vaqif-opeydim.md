@@ -31,7 +31,3 @@ Vaqifin bağrını döndərib közə
 Yar odur yarının gövrünə dözə
 Yarım sallanıban gələndə bizə
 Düşübən əl-ayağından öpəydim.
-
-## Mənbə
-
-- Molla Pənah Vaqif erotikası.

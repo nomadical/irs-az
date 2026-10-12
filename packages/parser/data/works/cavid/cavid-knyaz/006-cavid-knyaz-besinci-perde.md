@@ -788,5 +788,3 @@ A n t o n
 Qeysərlərə, knyazlara ən şanlı mükafat!!!
 Pərdə
 SON
-
-## Xarici keçidlər

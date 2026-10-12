@@ -48,7 +48,3 @@ Anlamam hərgiz, cəhalət bəstərində yatmışam.
 
 Qəzetçi
 Mən çəridəm dolmaq üçün mətləbi uzatmışam.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 248**

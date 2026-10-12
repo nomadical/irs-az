@@ -45,7 +45,3 @@ Amma elə bərk yuxula ki, hətta get özündən,
 Afaqı tutan şurü qiyamətdən ayılma!
 Laylay, bala, laylay!
 Yat, qal dala, laylay!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 32**

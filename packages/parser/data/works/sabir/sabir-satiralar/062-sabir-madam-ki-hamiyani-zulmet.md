@@ -39,6 +39,3 @@ Hökmündə olub edə məişət;
 Əfsaneyi-küfrü şirkü mülhid,
 Heyhat, olurmu tərki-adət?!
 Bu nüktəni qanə-qanə xab et!..
-
-## Mənbə
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 248**

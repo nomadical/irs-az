@@ -27,7 +27,3 @@ Yoxsa dövran fitneyi-axır zaman etmiş durur.
 
 Ey Xətai, ahuyi-könlün şikar etməkliyə,
 Dəsti-qüdrət kim, səni əbru kəman etmiş durur.
-
-## Mənbə
-
--

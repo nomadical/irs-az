@@ -63,7 +63,3 @@ Lap bizi ovsarladılar, mindilər,
 Ay keçən əyyam, olasan indilər!..
 Onda ki, övladi-vətən xam idi!
 Ax!.. necə kef çəkməli əyyam idi!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 210-211**

@@ -192,5 +192,3 @@ Nasəza ilə Bəngi yad etdi.
 Tündü təlx oldu ol hekayətdən,
 
 Qəzəbü qəhri artdı ğayətdən.
-
-## Qeyd

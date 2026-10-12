@@ -32,5 +32,3 @@ Vəl-ömrü keyfə ma kan mislur-riyahi rayeh..
 Eşqin, Füzuliyi-zar, tərk etmək oldu düşvar
 
 Ya arifən bima sar, la tuksirin-nəsayeh..
-
-## İstinadlar

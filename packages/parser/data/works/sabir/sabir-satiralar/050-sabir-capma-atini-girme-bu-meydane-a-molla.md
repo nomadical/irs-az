@@ -45,7 +45,3 @@ Vur başına noxtadı, bu məxluqə, səvabı,
 Aya, nə işin var, yazıb ayati-hicabı?
 Bu sözləri insan yazıb insanə, a Molla!
 Noxta yaranıb firqeyi-heyvanə, a Molla!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 130**

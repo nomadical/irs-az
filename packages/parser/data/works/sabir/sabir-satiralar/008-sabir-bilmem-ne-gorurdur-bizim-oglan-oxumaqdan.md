@@ -77,7 +77,3 @@ elm fərahəm,
 Ol qüssəyə həmdəm;
 Ömrün olacaq kəm,
 Düşmən sənə  aləm!..
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 20-21**

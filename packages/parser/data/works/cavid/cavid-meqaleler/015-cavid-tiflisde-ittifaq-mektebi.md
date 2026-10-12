@@ -48,5 +48,3 @@ istədiyimiz bir şey varsa, mədrəsənin bəqa və dəvamı için lazım gəl�
 sərf olunmasıdır.
 
     -Müxbir**
-
-## Qeydlər

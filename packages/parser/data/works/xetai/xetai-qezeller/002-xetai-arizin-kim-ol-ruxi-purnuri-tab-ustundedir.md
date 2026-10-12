@@ -30,7 +30,3 @@ Kim, bəli gəncin yeri daim xərab üstündədir.
 
 Ayağın toprağıdır həq əhlinin başında tac,
 Cismi daim bu Xətainin türab üstündədir.
-
-## Mənbə
-
--

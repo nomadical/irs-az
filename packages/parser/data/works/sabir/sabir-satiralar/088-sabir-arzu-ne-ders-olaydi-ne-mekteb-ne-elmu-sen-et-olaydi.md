@@ -39,7 +39,3 @@ O köhnələrdən əcəb kim, utanmayıb da deyirlər:
 Gərək bu əsrə görə boylə, boylə adət olaydı!
 Bu bişüurların əqlinə, kəmalına bax bir!
 Qadam kəmalınıza! Barı sizdə qeyrət olaydı!..
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh.**

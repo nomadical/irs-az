@@ -33,5 +33,3 @@ Görəli can Kəbəsində çün o vəchi-əhsəni.
 
 Bu Həbibi surəti-rəhmanə edər səcdəsin,
 Bu viran dil kim olubdur, gənci-eşqin məxzəni.
-
-## Qeydlər

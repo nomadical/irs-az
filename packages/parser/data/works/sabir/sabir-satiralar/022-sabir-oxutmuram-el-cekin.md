@@ -69,7 +69,3 @@ Sövq edəsiz oğlumu bir para hədyanlara,
 Mənzilinizdir səqər, oxutmuram, əl çəkin!
 Eyləməyin dəngəsər, oxutmuram, əl çəkin!
 Dinə zərərdir, zərər, oxutmuram, əl çəkin!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hop-hopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 193-194**

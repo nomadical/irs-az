@@ -21,6 +21,3 @@ Uçitellərsə fəqət ildə alır doqquz yüz,
 Gündə beş saət edir əlli uşaqçın xidəmat.
 Var ikən məs’ələdə bunca təfavüt, əcəba,
 Rayevski utanırmı dediyindən, heyhat?!
-
-## Mənbə
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 319**

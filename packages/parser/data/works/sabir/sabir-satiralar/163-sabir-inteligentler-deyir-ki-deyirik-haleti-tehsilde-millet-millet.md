@@ -19,7 +19,3 @@ Deyirik haləti-təhsildə: millət! millət!
 Diplom alcaq görünür bizlərə illət millət;
 Basırıq bağrımıza hər birimiz bir hacını,
 Canı çıxsın ki, görür min cürə zillət millət!..
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 47**

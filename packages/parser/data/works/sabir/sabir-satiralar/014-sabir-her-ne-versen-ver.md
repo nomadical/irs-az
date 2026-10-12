@@ -35,7 +35,3 @@ Gəlməsən imanə, gəlmə, gəlmə, gəl lənətlərə.
 
 Olmasan bir xeyrə bais, olma, ol bais şərə,
 Etməsən imdad, etmə, et sitəm acizlərə.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 46**

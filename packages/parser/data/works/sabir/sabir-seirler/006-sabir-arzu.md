@@ -50,7 +50,3 @@ Gərək bu əsrə görə boylə, boylə adət olaydı!
 
 Bu bişüurların ağlına, kəmalına bax bir!
 Qadam kəmalınıza! Barı sizdə qeyrət olaydı!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 119**

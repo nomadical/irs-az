@@ -36,7 +36,3 @@ Millətdən ötür ağlıyan axırda olur kor, –
 Məzmunlu məsəldir bu ibarət, uçitellər!
 Bildir də nə zəhmətlə bu iclasa yığışdıq,
 Etdik nə qədər boş yerə söhbət, uçitellər!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 118 səh. **

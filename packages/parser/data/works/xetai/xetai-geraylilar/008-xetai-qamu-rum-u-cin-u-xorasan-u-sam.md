@@ -16,6 +16,3 @@ Qamu Rum-u Çin-ü Xorasan-u Şam,
 Açar bir bəy igid bunları tamam.
 Alıb Şam-u Rumı müsəxxər qılıb,
 Pəs ondan həva-yi Firəng eylərəm
-
-## Mənbə
-Xətai külliyatı

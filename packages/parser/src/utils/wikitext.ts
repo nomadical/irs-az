@@ -11,7 +11,7 @@ export function wikitextToMarkdown(wikitext: string): string {
   text = text.replace(/<ref[^>]*\/>/gi, '');
 
   // Remove categories [[Kateqoriya:...]] / [[Категория:...]] / [[Category:...]]
-  text = text.replace(/\[\[(Kateqoriya|Категория|Category|Təsnifat):[^\]]+\]\]/gi, '');
+  text = text.replace(/\[\[(Kateqoriya|Категория|Category|Təsnifat):[^\]]+\]\]?/gi, '');
 
   // Remove templates {{...}} — simple non-nested
   text = text.replace(/\{\{[^{}]*\}\}/g, '');
@@ -59,10 +59,36 @@ export function wikitextToMarkdown(wikitext: string): string {
   text = text.replace(/^\*\*/gm, '    -');
   text = text.replace(/^\*/gm, '-');
 
+  text = stripApparatus(text);
+
   // Normalize whitespace: collapse 3+ newlines into 2
   text = text.replace(/\n{3,}/g, '\n\n');
 
   return text.trim();
+}
+
+/** The wiki's own sections at the foot of a page: its source, references and links */
+const APPARATUS = /^(Mənbə|Mənbələr|İstinadlar|Xarici keçid(lər)?|Həmçinin bax|Wikipedia|Ədəbiyyat|Источники?|Ссылки|См\. также|Bölmələr)$/;
+/** Notes headings, dropped only when empty: their notes went with the stripped <ref> marks */
+const NOTES = /^(Qeydlər|Qeyd|İzahlar|Примечания)$/;
+
+/**
+ * Drops the wiki's apparatus sections from Markdown: a "## Mənbə" with the book the page was
+ * typed from, "## İstinadlar", "## Xarici keçidlər" and the like, and notes sections left empty
+ */
+export function stripApparatus(md: string): string {
+  const parts = md.split(/^(?=## )/m);
+  return parts
+    .filter((part) => {
+      const m = part.match(/^## (.+)\n?([\s\S]*)$/);
+      if (!m) return true;
+      const heading = m[1].trim();
+      // A list of nothing but dashes, or nothing at all
+      const empty = !m[2].replace(/^\s*-\s*$/gm, '').trim();
+      return !APPARATUS.test(heading) && !(NOTES.test(heading) && empty);
+    })
+    .join('')
+    .replace(/\s+$/, '\n');
 }
 
 /** Count RTL characters to determine script direction */

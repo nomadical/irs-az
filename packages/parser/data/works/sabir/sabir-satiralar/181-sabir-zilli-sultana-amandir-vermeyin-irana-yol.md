@@ -17,7 +17,3 @@ Zilli-Sultana, amandır, verməyin Irana yol,
 Rəhm edin bir kərrə xəlqüllaha, Allah eşqinə!
 Işbu millət xainin mən, sən deyil, aləm tanır,
 Yalxı xəlqüllah deyil, Allah satar şah eşqinə!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 47**

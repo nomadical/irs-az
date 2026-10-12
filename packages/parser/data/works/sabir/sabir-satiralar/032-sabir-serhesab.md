@@ -51,7 +51,3 @@ Işləri yaşdı, qoymayın!
 Lap danabaşdı, qoymayın!
 Qırıldı qaşdı, qoymayın!
 Gözdən uzaşdı, qoymayın!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 62**

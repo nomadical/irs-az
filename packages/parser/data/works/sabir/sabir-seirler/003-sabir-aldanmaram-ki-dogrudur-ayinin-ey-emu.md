@@ -29,7 +29,3 @@ Olmazdı bunca zəhmətə təmkinin, ey əmu?
 
 Tikmə namazını gözümə bir cida kimi,
 Göstər müamiləndəki təyinin, ey əmu!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 105**

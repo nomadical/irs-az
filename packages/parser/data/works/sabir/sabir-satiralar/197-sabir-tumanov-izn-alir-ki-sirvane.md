@@ -17,6 +17,3 @@ Tumanov izn alır ki, Şirvanə
 Sığnağdan çəkə dəmir yolunu;
 Buna, aya1, bizimkilər nə deyir?
 Boşlayırlarmı Kürdəmir yolunu?
-
-## Mənbə
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 315**

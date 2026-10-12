@@ -46,7 +46,3 @@ Sən əgər söz verəsən: “Qorxma, qıl əhvali rəqəm”,
 Vazi-halın yazılarsa zili-zilü bəmi bəm,
 Elə bir halə düşərsən ki, tükün biz-biz olar,
 Əyninə geyməyə şey tapmasan, astar üz olar!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 207**

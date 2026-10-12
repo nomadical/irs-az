@@ -33,5 +33,3 @@ Eyləyib məhbublər məcmuəsindən intixab.
 
 Ey Füzuli, hər əməl qılsan xətadır, qeyri-eşq,
 Budurur mən bildigim, "vallahu ə’ləm bis-səvab".
-
-## İstinadlar

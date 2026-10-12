@@ -47,7 +47,3 @@ Avropalı öz millətin ihya edir, etsin,
 
 Qəflətdə yatıb, ad batırıb, nam alırız biz,
 Başə yumuruq zolladırız, kam alırız biz!..
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 90**

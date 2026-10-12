@@ -1299,5 +1299,3 @@ Ya hər kəsə xain olan insan nədir?
 Pərdə
 
 SON
-
-## Qeydlər

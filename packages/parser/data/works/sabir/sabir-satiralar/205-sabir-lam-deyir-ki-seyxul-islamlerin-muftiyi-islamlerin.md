@@ -17,7 +17,3 @@ status: DRAFT
 Hankısı satmadı on müslümi bir tərsayə?
 “Satdı gülzari-behişti iki buğdayə babam,
 Satmasam naxələfəm mən onu bir arpayə”.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 319**

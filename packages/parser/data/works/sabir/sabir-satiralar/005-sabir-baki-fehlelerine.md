@@ -56,7 +56,3 @@ Zinhar qoyub dəhrdə bir xeyr füqərasın…
 Yad eyləmə, şad eyləmə millət füqərasın…
 Bu çərxi-fələk tərsinə dövran edir imdi,
 Fəhlə də özün daxili-insan edir imdi.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 23-24**

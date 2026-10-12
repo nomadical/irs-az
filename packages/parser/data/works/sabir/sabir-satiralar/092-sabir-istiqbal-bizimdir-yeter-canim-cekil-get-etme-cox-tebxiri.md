@@ -43,6 +43,3 @@ Yatıb iranlılar, nagəh görərlər ölkə virandır,
 Hələ qoy söyləsinlər də – mücahid namüsəlmandır;
 Hələ qoy eyləsinlər büsbütün təkfiri-hürriyyət!
 Desinlər də – bizə lazım deyil tə’miri-hürriyyət!
-
-## Mənbə
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh.**

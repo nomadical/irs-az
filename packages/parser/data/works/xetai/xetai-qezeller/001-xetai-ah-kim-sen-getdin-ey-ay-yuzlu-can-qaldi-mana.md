@@ -27,7 +27,3 @@ Göydə mah anun yüzündən bir nişan qaldı mana.
 
 Taki səndən ayrı düşdi bu Xətai xəstədil,
 Buyi-muyin müşk ilə ənbərfişan qaldı mana.
-
-## Mənbə
-
--

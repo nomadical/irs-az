@@ -36,6 +36,3 @@ Mənim tək binəva gədayə düşər.
 Könül pərişandır, xatir şikəstə,
 İstər vüsalını Vidadi xəstə,
 Üz xakə fərş eylər, duayə düşər.
-
-## Xarici keçidlər
--

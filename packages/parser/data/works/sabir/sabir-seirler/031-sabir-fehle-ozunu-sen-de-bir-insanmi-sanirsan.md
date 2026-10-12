@@ -55,7 +55,3 @@ Heç bir utanırsan?!
 Ya bir usanırsan?!
 Əlminnətü-lillah,
 Odlara yanırsan?!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 81-82**

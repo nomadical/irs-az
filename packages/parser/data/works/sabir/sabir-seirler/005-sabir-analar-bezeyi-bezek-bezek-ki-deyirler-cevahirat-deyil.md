@@ -26,7 +26,3 @@ Səzayi-məkrəməti-nami-validat deyil.
 
 Həyata layiq olan ziynət – elm gövhəridir
 Ki, boylə bir dirilik qabili-məmat deyil.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 299**

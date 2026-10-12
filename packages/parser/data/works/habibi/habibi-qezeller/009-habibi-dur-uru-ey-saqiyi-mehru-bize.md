@@ -39,5 +39,3 @@ Versə ləlin çün bir içim su bizə.
 
 Rəhzəni-candır, Həbibi, xaki-dust,
 Vəh ki, edər ol dil siyəh hindu bizə.
-
-## Qeydlər

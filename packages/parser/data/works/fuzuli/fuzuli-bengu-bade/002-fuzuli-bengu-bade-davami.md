@@ -224,5 +224,3 @@ Dedi: - Ey Buzə, yaxşısan, üzün ağ!
 Yeri, onun şükuhini sındır,
 
 Badipayi-qüruridən endir!
-
-## Qeyd

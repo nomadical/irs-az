@@ -17,7 +17,3 @@ Qlasnı seçkisini qoydu dum müzakirəyə,
 Çatır sezon ki, yenə əlbəəl gəzə rüşvət.
 Qlasnı olmaq iki şərtə bağlıdır ancaq:
 Birinci rüşvət, ikinci hədə, fəqət xəlvət.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 480 səh.**

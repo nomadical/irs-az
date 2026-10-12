@@ -32,7 +32,3 @@ Məmatında onu yeksan qılan xaki-nədamətdir.
 
 Cənabı-həq o bəhri-bigiranı-mərhəmətdir kim,
 Ona mülhəq olan insan şərəfyabı-səadətdir.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 294**

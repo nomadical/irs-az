@@ -17,7 +17,3 @@ Asta-asta, ey hacı, izhar olur xəlvətdəki,
 Get-gedə lap şöhreyi-bazar olur xəlvətdəki;
 Pərdə çəkdin, yorğan altında yatırdın işləri,
 Bilmədinmi bir zəman bidar olur xəlvətdəki?!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 314**

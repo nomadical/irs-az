@@ -57,6 +57,3 @@ Ay bərəkallah, nə gözəl canlarıq!
 Kimlər sənə gör indi tərəfdar olacaqdır!
 Baş saçlı, ayaq çəkməli, mırt mırt danışanlar!
 Din qədri bilib mömini dindar olacaqdır!
-
-## Mənbə
--Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 271-272.

@@ -41,5 +41,3 @@ ikinci tərbiyətgahı olan bu müqəddəs binanın əhyasına çalışmaları �
 xüsusunda bir məs’uliyyəti-vicdani qarşısında olduqlarını unutamayacaqlardır.
 
     -Növrəs**
-
-## Qeydlər

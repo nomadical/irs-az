@@ -39,7 +39,3 @@ Hirs kon tiztər əz atəşi-Nəmrud gozər,
 Xaki-rahi ki, beru migozərəd zud gozər,
 Ta nənalənd zi cövri-to bemə’bud gozər
 Ki, üyunəstü cüfunəstü xüdudəstü qüdud.
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, səh. 98**

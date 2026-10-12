@@ -318,5 +318,3 @@ Musa dərhal çəkilir.
 
 Roza. Ah, annəciyim!.. (Bitab olaraq sıra üzərinə düşər).
 Pərdə
-
-## Qeydlər

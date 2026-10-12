@@ -67,5 +67,3 @@ Mən hər səhər, hər axşam,
 Bağırarkən şeirimi mən bar-bar üfüqlərə,
 Onda göy saçlarını oxşayan dadlı yellər,
 Bəstələyib şeirimi, qaçarlar üfüqlərə.
-
-## Qeydlər

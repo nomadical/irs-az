@@ -88,5 +88,3 @@ kəndilərini unutuyorlar. Özlərini, sözlərini bilmiyorlar. Tarixlərindən,
 xəbərsiz qalırlar. Bu da bir millət için pək böyük qəflət, pək böyük tədənnidir. Dilsiz bir
 millət yaşamaz, çabuq münqəriz olur. Bir millətin lisanı, mevcudiyyətinin ən parlaq
 bürhanıdır.
-
-## Qeydlər

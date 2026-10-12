@@ -45,6 +45,3 @@ Yorğan-döşəyimə düşə gər yadə tərəqqi,
 Bizdə edərik aləmi-röyada tərəqqi;
 Millət necə tarac olur olsun, nə işim var?!
 Düşmənlərə möhtac olur olsun, nə işim var?!
-
-## Mənbə
--Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh.. 17.

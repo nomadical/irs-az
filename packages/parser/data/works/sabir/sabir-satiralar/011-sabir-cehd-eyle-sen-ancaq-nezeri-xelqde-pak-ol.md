@@ -49,7 +49,3 @@ Məkr isə özün qıl, oxu şeytanə də lə’nət!
 Təzvirü dəğəldən,
 İmanı da versən,
 Vermə pulu əldən!
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 50**

@@ -46,5 +46,3 @@ Həsrət ilə hamının ürəyi doldu qana,
 Fəraqilə onların həyat ümidi itdi.
 Tövhid gülüstanının gülçini olmuşdur o,
 Müqəddəs yol yolçusu olub, o yola getdi.
-
-## Qeydlər

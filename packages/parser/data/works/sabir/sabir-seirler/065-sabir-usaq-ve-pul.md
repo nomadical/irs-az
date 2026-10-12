@@ -52,9 +52,3 @@ Baxamaz kimsəyə xəcalətdən;
 
 Gərçi pul çox fərəhfəzadır, oğul,
 Leyk namus pək bəhadır, oğul!”
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 322-323**
-
-peyman

@@ -35,5 +35,3 @@ Xəstə Zakir kimi hanı
 könlü olan ğəm məkanı?
 Mən öldüm, ahü əfğanı
 Bülbülü-zarə tapşırdım.
-
-## İstinadlar

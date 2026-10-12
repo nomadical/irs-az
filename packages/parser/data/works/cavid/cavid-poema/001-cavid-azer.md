@@ -1296,5 +1296,3 @@ Görmək istərdi dikənlikdə çiçək…
 
     -TISBAĞANIN ZEVQİ**
 -"H"*
-
-## Qeydlər

@@ -31,7 +31,3 @@ Bütün el yatmış ikən banladın da?
 Olaydın sən dəxi bir mö’mini-pak!
 Çək indi dutduğun karın cəzasın!
 Eşit hər səmtdən lə’nət sədasın!..
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir. Hophopnamə. İki cilddə. I cild. Bakı, “Şərq-Qərb”, 2004, 240 səh. **

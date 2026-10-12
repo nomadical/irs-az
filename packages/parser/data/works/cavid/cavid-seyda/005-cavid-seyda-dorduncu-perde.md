@@ -286,5 +286,3 @@ Musa ilə məzarçı da əli bağlı olaraq, digər tərəfdən iki polislə bə
 bir yerdə çəkilib gedərlər.
 
 Pərdə
-
-## Qeydlər

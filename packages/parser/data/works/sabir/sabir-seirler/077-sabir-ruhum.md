@@ -40,7 +40,3 @@ Mən gedərsəm, var olsun amalım!
 Yaşasın-şəhriayi-hürriyyət!
 Yaşasın-şəhriayi-hürriyyət!
 Mən gedərsəm, var olsun amalım!..
-
-## Mənbə
-
-- **Mirzə Ələkbər Sabir, Hophopnamə. Bakı, "Turan" nəşrlər evi, 2002. səh. 285**
