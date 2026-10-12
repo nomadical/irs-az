@@ -185,7 +185,8 @@
     "bas": "has",
     "Besting": "Resting",
     "Taman": "Yaman",
-    "KJivarazm": "Khyarazm"
+    "KJivarazm": "Khyarazm",
+    "ids": "his"
   },
   "corrections": [
     {
@@ -419,6 +420,14 @@
     {
       "from": "a lovely girl [fit",
       "to": "a lovely girl fit"
+    },
+    {
+      "pattern": "\\byon (?=(?:may|must|took)\\b)",
+      "to": "you "
+    },
+    {
+      "from": "O yon, in whom",
+      "to": "O you, in whom"
     }
   ],
   "sections": [

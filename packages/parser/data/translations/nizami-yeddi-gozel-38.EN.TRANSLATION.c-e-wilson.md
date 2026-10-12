@@ -56,7 +56,7 @@ His coat of mail has lances snatched from dawn; his lance from mail-clad moon be
 
 The world entire is through his armour armed; the seven skies are by his lasso noosed.
 
-O yon, in whom Nizami places hope, who have the ordering of the turns of fate,
+O you, in whom Nizami places hope, who have the ordering of the turns of fate,
 
 The earth regards you from (your) power as sky; the sky its threshold as your threshold high.
 

@@ -198,7 +198,7 @@ One day he took me to his house (as guest); gave entertainment more than was his
 
 He set the tray before me and brought food, good service to his entertainment joined.
 
-Upon ids tray was all that was required — except the object of his guest’s desire.
+Upon his tray was all that was required — except the object of his guest’s desire.
 
 When we had eaten every kind of food, we talked on every topic (that occurred).
 

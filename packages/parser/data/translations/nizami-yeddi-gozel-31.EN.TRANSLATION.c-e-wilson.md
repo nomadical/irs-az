@@ -670,7 +670,7 @@ You are the worst of men, your name is Bad; worse than your name (too) is your t
 
 Are you not he whose torturing hand tore out for water once a thirsty person’s eyes!
 
-The gems, his eyes, the gems (too) in his belt, — yon took out both, and burnt ids heart (with grief).
+The gems, his eyes, the gems (too) in his belt, — you took out both, and burnt his heart (with grief).
 
 And what was worse, in such a (desert) place you took the water off and gave him none.
 

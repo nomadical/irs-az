@@ -42,7 +42,7 @@ Amongst such prey, the hunting of the king was swift pursuit (there) of the prey
 
 Each wishing for the wild-ass of the plains; he seeking for the tomb of solitude.
 
-He sought a tomb, to be ids dwelling-place; as game he brought down vices — from himself.
+He sought a tomb, to be his dwelling-place; as game he brought down vices — from himself.
 
 Wild-ass, gazelle seek not from this salt plain; vice its gazelle, its wild-ass is the tomb.
 
@@ -52,7 +52,7 @@ The king knew well that one of angel-kind was (come) to guide him on the road to
 
 He spurred his horse against the onager, and roused the mettle of his fiery steed.
 
-After the game he took ids rapid course across the plain and through the desert tracts.
+After the game he took his rapid course across the plain and through the desert tracts.
 
 His helper, of set purpose, drew him on; two slave-boys, only, followed in his tracl.
 

@@ -182,9 +182,9 @@ The wine the Magian elder has put down be only to the Magian elder given.
 
 But through fidelity to covenants, (and) not through arrogance and kingly weight.
 
-(Then) if I act, I’ll act as yon may will: to seek your satisfaction is my will.
+(Then) if I act, I’ll act as you may will: to seek your satisfaction is my will.
 
-As to your words, that yon must have a plea by which the knot your compact ties be loosed—
+As to your words, that you must have a plea by which the knot your compact ties be loosed—
 
 Be this the pretext that the crown be his who from between two lions seizes it.
 
