@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -24,7 +22,7 @@ Whoe’er proposed to cany out that ahu — the plan that he proposed was not ap
 
 Until at last true tidings reached Nu‘man that such an artist as would meet his views
 
-Was one most famous from the land of Eum, a cunning man who’d turn stone into wax.
+Was one most famous from the land of Rum, a cunning man who’d turn stone into wax.
 
 One quick and dexterous, skilled in finest work; one of the race of Sam, his name Simnar.
 
@@ -40,7 +38,7 @@ With judgment and discernment joined to this the stars he’d studied, taken alt
 
 His glance had spun a web across the sky from out the astro-labian spider’s mouth.
 
-Like Eoman Phny he had judgment keen, formed tables, and solved talismans as well.
+Like Roman Phny he had judgment keen, formed tables, and solved talismans as well.
 
 Acquainted with the veiled ones of the sky, the moon’s night raids, the sun’s hostility.
 
@@ -62,7 +60,7 @@ The worker’s hands then iron-like became; for years he worked upon the edifice
 
 Till finally with golden-fingered hand he made of clay and stone a silver house.
 
-A citadel whose towers reached the moon; the cynosure of aU, both white and black.
+A citadel whose towers reached the moon; the cynosure of all, both white and black.
 
 A house in ornament and gilding rich; fire-hued, adorned as Simnar could adorn.
 
@@ -72,7 +70,7 @@ A pole formed after those of south and north; the Zeuxian work of countless fant
 
 The sight of it as sleep to the fatigued; its deckings water to the thirsty soul.
 
-If on it light was scattered by the sun, the buri with her headdress hid her eyes.
+If on it light was scattered by the sun, the huri with her headdress hid her eyes.
 
 In comfort ’twas like paradise, within; and outside, in adornment like the sky.
 
@@ -120,7 +118,7 @@ He answered. At your wish when I designed, I’d make such that this by it would
 
 ’Twould have a hundred hues, this has (but) three; ’twould be of rubies, this is (but) of stone.
 
-TMs shows itself possessor of one dome, but that would, like the sky, have seven domes.
+This shows itself possessor of one dome, but that would, like the sky, have seven domes.
 
 The face of Nu'man fired up at these words; he burnt the store of kind and human thought. —
 
@@ -138,18 +136,18 @@ Said Nu'man, If he’s left with gold and power, he’ll (no doubt) elsewhere bu
 
 So that they tore that cypress from the root; they blinded Mm, and threw him from the fort. —
 
-The worker see — how earth, which blood devours, parted Mm from the object of Ms work!
+The worker see — how earth, which blood devours, parted Mm from the object of his work!
 
 He raised a castle in some years aloft, and fortune threw him from it in a trice.
 
 He made a fire and feU into the smoke; he went late on the roof, and feU down soon.
 
-His falling he foresaw not when he raised that building Mgher than a hundred ells.
+His falling he foresaw not when he raised that building higher than a hundred ells.
 
 If he had been aware of his own tomb, three ells he’d not exceeded by a span.
 
-’Tis well to raise the throne-steps not so Mgh that you’d be fractured if you feU from them. —
+’Tis well to raise the throne-steps not so high that you’d be fractured if you feU from them. —
 
-By that exalted building Nu'man’s name through Mghness flung (its) lasso round the moon.
+By that exalted building Nu'man’s name through highness flung (its) lasso round the moon.
 
 The people called Mm sorcerer supreme; the earth entitled him “Khavarnaq’s Lord”.

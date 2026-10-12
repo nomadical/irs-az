@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -18,21 +16,19 @@ The king adorned with ornaments of white, went forth in pride and joy to the Whi
 
 Venus upon the Sign of the Fifth Clime played the five turns in honour of the king.
 
-Untn the Greeks attacked the Ethiop van, the kiTig indulged in pleasure without stint.
+Untn the Greeks attacked the Ethiop van, the king indulged in pleasure without stint.
 
 When night with sky-prepared collyrium gave brightness to the eyes of moon and stars.
 
 He, from that loving soul-caressing bride, associate of the night, born of the dawn,
 
-Eequested that with dulcet fluted tones she would evoke the echoes of her Dome.
+Requested that with dulcet fluted tones she would evoke the echoes of her Dome.
 
 When she, that fair one, blessings had invoked both on the king and on his lofty throne, —
 
 Such blessings as increase prosperity, and may become so great a throne and crown, —
 
 She said, Since you demand a pleasing tale, this one occurs to me of those I know.
-
-Story of the Master.
 
 Thus said my mother, a true, worthy dame, — old women may be wolves, a lamb was she, —
 
@@ -44,7 +40,7 @@ Lamb, birds, ‘Iraqian cumin-flavoured meat, round bread-cakes, and thin flour 
 
 Some species of “ halva ” which have no name: some with pistachios, some with almonds dressed.
 
-Eruits, fine and delicate, to charm the taste; apples from Isfahan, and grapes from Eai.
+Fruits, fine and delicate, to charm the taste; apples from Isfahan, and grapes from Kai.
 
 Speak not of pomegranate, the drinker’s fruit; pomegranate-bosoms filled the house entire.
 
@@ -110,9 +106,9 @@ He had no self-control to turn away, nor any key with which to unlock the gate.
 
 He knocked mncli at the gate, no answer came; — the cypress dancing, and the rose asleep.
 
-The garden lie encompassed aU around; in aU the garden lie could find no way.
+The garden lie encompassed all around; in all the garden lie could find no way.
 
-When he could gain no access by bis gate, he tore some stone out from the garden-wall.
+When he could gain no access by his gate, he tore some stone out from the garden-wall.
 
 He went inside to have a look around; with earnest observation to inspect;
 
@@ -124,7 +120,7 @@ Of all those roses who illumed the place, who in the garden present were that da
 
 Two jasmine-bosomed ones of silvery limbs were keeping order at the garden-gate;
 
-So that no ahen’s eyes should (dare to) gaze upon those (radiant) Moons of buri face.
+So that no alien’s eyes should (dare to) gaze upon those (radiant) Moons of huri face.
 
 (Then) when the master entered by the hole, the girls found him devoid of shame and rude.
 
@@ -146,23 +142,23 @@ The man replied. The garden is my own; (but) of my branding is this brand on me.
 
 A gate at hand, wide as a lion’s moutlt, I leave the gate, and enter by a bole.
 
-Whoever comes into bis land like this, bis land will too fall surely to the ground.
+Whoever comes into his land like this, his land will too fall surely to the ground.
 
-When the girls saw bis nature they inquired into the features of the garden (claimed).
+When the girls saw his nature they inquired into the features of the garden (claimed).
 
-They found him in (bis) evidence correct; anger subsided, btigation fled.
+They found him in (his) evidence correct; anger subsided, btigation fled.
 
 The master of the garden (better) known, — the heart of each was drawn to love of him.
 
-For be was handsome, young, and eloquent; — a woman’s lost who sees such (qualities).
+For he was handsome, young, and eloquent; — a woman’s lost who sees such (qualities).
 
 They judged it well to be at peace with him, because they found him of congenial kind.
 
-They were rejoiced to have him as a friend, and set to work to free him (from bis bonds).
+They were rejoiced to have him as a friend, and set to work to free him (from his bonds).
 
-They loosened from bis bands and feet the bonds, and planted kisses on his bands and feet.
+They loosened from his bands and feet the bonds, and planted kisses on his bands and feet.
 
-Many apologies they made to him, and in attention to bis business joined.
+Many apologies they made to him, and in attention to his business joined.
 
 Then with excuse might turn a foe to friend, — repair the breach (too) in the garden-wall, —
 
@@ -180,7 +176,7 @@ Have in the garden all together joined, tapers and pictures void of smoke and fl
 
 As an excuse for having used you ill, (and) having (thus) cast dust upon our lot, —
 
-Rise and step out a little wMle with us, that you may gain your wish from which you please.
+Rise and step out a little while with us, that you may gain your wish from which you please.
 
 Go to some nook (well) out of sight, and from th% strewing of the roses gain some joy.
 
@@ -214,7 +210,7 @@ In gardens pomegranates and apples too fail not, still less when gard’ners use
 
 Beauties of silver limb, pomegranate breast, were strewing roses upon every side.
 
-Light to the eyes were aU the honey-lipped, sweeter than (aU) the ripe fruits (of the place).
+Light to the eyes were all the honey-lipped, sweeter than (all) the ripe fruits (of the place).
 
 Pomegranate breasts and chins like apples there be and other apples held as naught.
 
@@ -240,15 +236,15 @@ When the moon into water “dirams” pours, where there is any fish it darts (b
 
 With hands joined in a ring they danced awhile, mocking the jasmine (in their loveliness).
 
-Awhile in ranks opposed they scattered pearls; made pomegranate and orange valued Mgh.
+Awhile in ranks opposed they scattered pearls; made pomegranate and orange valued high.
 
 One came and made another fear a snake: A snake 1 she cried, whilst throwing out a curl.
 
 Una dum alteri crurem natesque ostenderet dixit, Montem vide, et fissum terrse motu solum.
 
-Columns in Bistun (colunmless) they raised; killiTig Farhad with the sharp axe (of love).
+Columns in Bistun (colunmless) they raised; killing Farhad with the sharp axe (of love).
 
-The milky stream wMch Shirins’s palace had, in that delightful, pleasant basin rose.
+The milky stream which Shirins’s palace had, in that delightful, pleasant basin rose.
 
 The master saw; no self-control remained; but what avail? he had no friend or help.
 
@@ -260,7 +256,7 @@ He looked towards every C 3 rpress statured (belle); a Resurrection, ne*er a sta
 
 His veins, full-blooded, through their ferment drew from his whole Being cries and clamour loud.
 
-Standing (there) like a thief concealed (from sight); — that which you Imow in such state as you know, —
+Standing (there) like a thief concealed (from sight); — that which you know in such state as you know, —
 
 His bird through aperture, his snake through hole, wished among (them) audaciously to dart.
 
@@ -294,13 +290,13 @@ Advanced to speak (with him) in honeyed tones, their muslin veiling crowns of ma
 
 They saw the master in the curtained place; as keepers of the curtain questioned him.
 
-Said they, To which of all these lovely ones of buri race does (most) incline your heart?
+Said they, To which of all these lovely ones of huri race does (most) incline your heart?
 
 The beauty there who pleased the master most, he pointed out to those two lovely ones.
 
 Ere he had spoken out (they both) sprang up: as deer, nay rather raging lions, sped.
 
-That beauty, fairy-bom, with many a wile, with words sung to the harp they led away,
+That beauty, fairy-born, with many a wile, with words sung to the harp they led away,
 
 In manner such, that no one might suspect, that might not peril, but advance the afEair.
 
@@ -310,7 +306,7 @@ Although he knew not he was mate for her, she mate for him, and easy his emprise
 
 (’Twas so), for those fair harpers who had sped, had harmonized his business like a harp.
 
-Those stores of grace and beauty had (before) told her in detail aU the master’s case.
+Those stores of grace and beauty had (before) told her in detail all the master’s case.
 
 That charming one, endowed with fairy face, had fixed her heart on him (as yet) unseen.
 
@@ -324,15 +320,15 @@ What is your curtain? Music, answered she. And what your business? Coquetry, she
 
 He said. What is your source? She answered. Light. He said. The evil eye be far from you!
 
-A Mss you’ll give, said he? Sixty, she said. He said. Come, is it time? She said. It is.
+A kiss you’ll give, said he? Sixty, she said. He said. Come, is it time? She said. It is.
 
 Said he, Shall you be gained? She answered, Soon. He said, Was this in view? She said, It was.
 
-The master’s heart with strong emotion stirred, he lost (aU) bashfulness and diffidence.
+The master’s heart with strong emotion stirred, he lost (all) bashfulness and diffidence.
 
 He seized the lovely charmer’s harp-like locks, embraced her tightly, strained as his heart-strings.
 
-He Mssed and tasted (lips as) sugar (sweet), (gave kisses) one to ten, tui ten times ten.
+He kissed and tasted (lips as) sugar (sweet), (gave kisses) one to ten, tui ten times ten.
 
 The kisses were as fire to stir (his) heart; the (fervent) heat gave keenness to his aim.
 
@@ -432,7 +428,7 @@ He wished to the extent of (his) desire by union with her happiness to gain,
 
 To take her to his arms as love dictates: — sweet in the arms of cypress the red rose!
 
-TFeii through her (swelling) bosom and her cMn, an apple eat, pomegranate from ber breast.
+TFeii through her (swelling) bosom and her chin, an apple eat, pomegranate from her breast.
 
 Ad locum ubi thesaurus asservatur manus protendere Yoluit, ut thesauri portam aperiret;
 
@@ -448,7 +444,7 @@ A moth is left (here) anxious for the light; a thirsty one far from the fount of
 
 (When) this ode had been sung her confidants, as sympathizers, understood (its aim).
 
-They went with deprecation to the youth, and found hiTn stretched at full length (on the ground).
+They went with deprecation to the youth, and found him stretched at full length (on the ground).
 
 They found him lying, resting on the ground, (greatly) abashed and (much) distressed in heart.
 
@@ -460,7 +456,7 @@ Questioned about his state, he told the tale: (even) in hell ’twould raise a b
 
 From his contracted heart they loosed the bonds, heartened one out of heart by promises.
 
-Be in this business more expert, (said they); you love, ’his true, (but) be more loving stOl.
+Be in this business more expert, (said they); you love, ’his true, (but) be more loving still.
 
 At the due time make such a place your nest that (no) calamity may fly to it.
 
@@ -490,9 +486,9 @@ SpeciUo pixi qua collyrium conditur nondum immisso, — the curved dome played (
 
 Some foxes in recesses of the cave had come together in pursuit of game.
 
-A woH had followed close and barred their road, to separate each from the other one.
+A wolf had followed close and barred their road, to separate each from the other one.
 
-The foxes knowing that he fed on aU, — a terrible and great calamity, —
+The foxes knowing that he fed on all, — a terrible and great calamity, —
 
 (With terror) took to flight, the woK behind, their only road across the master’s bed.
 
@@ -528,7 +524,7 @@ Since from a (radiant) Moon no sin has come, (so) must you sing a better air to 
 
 If in such want of faith be any sin, hands should be laid on those ashamed (of it).
 
-Her nature is quite pure of any sin; any ofience committed is from me.
+Her nature is quite pure of any sin; any offence committed is from me.
 
 The clever and sharp-witted of the world are all devoted servants of the pure.
 
@@ -540,7 +536,7 @@ Since (my good) fate had given me continence, — they gave me freedom from so i
 
 He whom the demon brings not to his aims is good in grain, naught that is good does hi.
 
-(But) lie who puts Ms heart on action base, — saving your presence, — base of birth is he.
+(But) lie who puts his heart on action base, — saving your presence, — base of birth is he.
 
 A beauty with so fairy-hke a face, — no person can refrain from loving her:
 
@@ -548,27 +544,27 @@ A beauty with so fairy-hke a face, — no person can refrain from loving her:
 
 But sthl when chastity protects the road, one cannot (think of) going to meet sin.
 
-No one can eat fruit from the fruitful tree on wMch a single evil eye may look:
+No one can eat fruit from the fruitful tree on which a single evil eye may look:
 
 The eyes of hundred kinds of beasts of prey (were) on us, hence our business turned out ill.
 
-What’s gone has gone, of that I will not speak; thus will I spoil not that wMch (stiH) I have.
+What’s gone has gone, of that I will not speak; thus will I spoil not that which (still) I have.
 
-I now repent of (aU) both Md and clear, and from the Buler of the world accept
+I now repent of (all) both Md and clear, and from the Buler of the world accept
 
 That if He grant me still a time to live, — since she of sugar lips receives her slave, —
 
 As lawful wife I’ll take her as my bride, treat her with more devotion than before.
 
-The agents seeing how it was with him, were awed at Ms God-fearing piety.
+The agents seeing how it was with him, were awed at his God-fearing piety.
 
 They put their heads before him on the ground; they said. Be blessings on a faith so pure:
 
-(Faith) in wMch seeds of goodness have been sown, and wMch from evil disposition ’s kept.
+(Faith) in which seeds of goodness have been sown, and which from evil disposition ’s kept.
 
-How many are the griefs wMch seemed as griefs! they were thought griefs, but comforts were in fact.
+How many are the griefs which seemed as griefs! they were thought griefs, but comforts were in fact.
 
-How many too the pains wMch come on man, and still a remedy is in the pain.
+How many too the pains which come on man, and still a remedy is in the pain.
 
 The lovely ones put coquetry aside, confounded at the puppet-playing sphere.
 
@@ -576,11 +572,9 @@ When from the mountain rose the fount of light, it banished from the world the e
 
 Dawn, like the spider of the astrolabe, unto the world’s pole spun (its) gossamer.
 
-TEGS HAET PAIKAK
-
 Bearing a lamp a breeze arose and bore the gard’ner from the garden to the town.
 
-The master raised (bis) standard in control, released from that subjection and those bonds.
+The master raised (his) standard in control, released from that subjection and those bonds.
 
 From last night’s fire of love-essays his heart was cauldron-like to ebullition brought.
 

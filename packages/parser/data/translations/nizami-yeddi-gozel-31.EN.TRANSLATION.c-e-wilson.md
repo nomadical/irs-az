@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -20,7 +18,7 @@ In concord with the sandal-colomed earth, the king used dress and wine-cup sanda
 
 (Then) from the Azure Dome he issued forth, and to the Sandal-coloured Dome he went.
 
-Wine he received not from a Chinese doll, but Kausar’s nectar from a buri’s hand.
+Wine he received not from a Chinese doll, but Kausar’s nectar from a huri’s hand.
 
 In happiness he spent the day till night, and drinking wine he drank of joyousness.
 
@@ -48,8 +46,6 @@ A bag of babble I will open (now), and (by it) add a smile to cheerfulness.
 
 The radiant Moon, the adorer of the Sun (1,7X1), this homage offered, kissed the monarch’s hand.
 
-Story.
-
 She said. Once on a time from their own town two youths departed for another town.
 
 Each one into a comer of his bag had put his food, provision for the road.
@@ -74,7 +70,7 @@ Had secretly with water filled a skin, and kept it in his bag like (costly) pear
 
 In the hot desert and the drawn-out road in utmost haste and hurry ran the two.
 
-When the sun reached fuH heat, grew scorching hot, Bad had his water, that of Good was gone.
+When the sun reached full heat, grew scorching hot, Bad had his water, that of Good was gone.
 
 Bad, who the water had concealed from Good, spoke not a word to him of bad or good.
 
@@ -86,7 +82,7 @@ Though he was burning in the heat of thirst, no word of supplication did he spea
 
 Thirsty he gazed on water, whilst his mouth was watering with water from his heart.
 
-So much so that his heart became aU dry, his eyes incapable of opening.
+So much so that his heart became all dry, his eyes incapable of opening.
 
 ’Twixt prayers of morn and even he remained thirsty, without endurance, power to bear.
 
@@ -136,7 +132,7 @@ How for the Fount of Life could one exchange one’s (precious) eyes 1 The water
 
 The rubies take, and everything I have: I’ll also sign a deed for what I have.
 
-By the God of the world I’ll take an oath, that with such settlement I’U rest content.
+By the God of the world I’ll take an oath, that with such settlement I’ll rest content.
 
 Leave me my eyes, O worthy man; be not, as to a trifl.e of cold water, cold.
 
@@ -190,7 +186,7 @@ By chance, no longer than two days before, like desert-king he’d seized upon t
 
 He had a daughter fair of face, whose eyes with those of Turks, whose moles with Hindus vied.
 
-A cypress watered with the blood of hearts, a charmer bred in love (bestowed by aU).
+A cypress watered with the blood of hearts, a charmer bred in love (bestowed by all).
 
 Honey, like silver in its purity, enclosed in most transparent Syrian glass.
 
@@ -224,7 +220,7 @@ She said, Alas for you 1 Who can you be, so abject in the dust, and stained with
 
 Who has been so unjust to one so young 1 Who has betrayed, conspired against you so?
 
-Good said, O envoy (of) celestial (mien), whether an angel, whether angel-bom,
+Good said, O envoy (of) celestial (mien), whether an angel, whether angel-born,
 
 My case involves some wondrous play (of Fate); the story (I might tell) is somewhat long.
 
@@ -258,7 +254,7 @@ She quickly to (her) mother went herself, and set forth the event which had occu
 
 (Her) mother said. Why did you leave (him there), coming (yourself), not bringing (him) with you?
 
-For then perhaps some means might have been foimd, by which a little ease would have accrued.
+For then perhaps some means might have been found, by which a little ease would have accrued.
 
 She said, I brought him, though in desperate plight; I hope that he directly wfil be here.
 
@@ -296,7 +292,7 @@ There grows a noble, excellent old tree, the scent of which gives comfort to the
 
 Its trunk, two branches rising from its root, the separation ’twixt those branches wide.
 
-The leaves of one branch, like the hurls' robes, would bring back light again to sightless eyes.
+The leaves of one branch, like the huris' robes, would bring back light again to sightless eyes.
 
 The leaves of the other, like the Fount of Life, would epileptics cure of their complaint.
 
@@ -344,7 +340,7 @@ That lovely one had fixed hex heart on him, he his on her — ■wondrous relati
 
 Good every dawn in the old Kurd’s behalf would gird himself ■to do him service (leal).
 
-In (his) charge of the camels and the flocks he used great gentleness and Mndness e’er.
+In (his) charge of the camels and the flocks he used great gentleness and kindness e’er.
 
 He kept the plague of wolves far from the flocks; with care he guarded all, both small and great.
 
@@ -374,7 +370,7 @@ Good became still more famous than (his) name; became •to ■fchem more precio
 
 They treated and maintained him as they should; the charmer let no other wait on him.
 
-With face inveiled she tended him herseh, she gave him water whilst she suff[ered fire,
+With face inveiled she tended him herself, she gave him water whilst she suffered fire,
 
 Good gave entirely (all) his heart to her, to her gave up the life from her received.
 
@@ -412,7 +408,7 @@ No longer (truly) should I be your guest; my (wounded) heart should not be rubbe
 
 Not as your hospitality demands can fitting thanks to you be given by me,
 
-Unless God by His grace afford the means to acquit myseM of what is due to you.
+Unless God by His grace afford the means to acquit myself of what is due to you.
 
 Although by parting I am seeking grief, for leave to quit your service I must ask.
 
@@ -424,7 +420,7 @@ Though I in body separate from you, in mind I shall be near your tliiesbold’s 
 
 My hope in one like you, a fount of Hgbt, is that you will not drive me from your heart.
 
-That you will (too) encourage my design, and make as lawful aU I have received.
+That you will (too) encourage my design, and make as lawful all I have received.
 
 The speaker having finished (thus his) words, the household of the Kurd was fired (by grief).
 
@@ -440,7 +436,7 @@ He spoke to Good (as follows), Modest youth, smart, handsome, finendly, and inte
 
 Think of yourself as gone to your own town, some new distress endured from some (new) friend,
 
-When comfort, wealth, good fortune, here are yours, and over aU, both good and bad, fxdl power.
+When comfort, wealth, good fortune, here are yours, and over all, both good and bad, fxdl power.
 
 Good, worthy men do not incline to ill, they do not give up friends for enemies.
 
@@ -448,7 +444,9 @@ I have in my possession ample wealth, besides the one dear daughter whom I have:
 
 A daughter amiable, disposed to serve, — ’twere bad were I to say she is not good:
 
-Although the musk is Lidden in the pod, the scent of it is patent to the world. li on my daughter and on me your heart should fix — you’re dearer than (my) life to me.
+Although the musk is hidden in the pod, the scent of it is patent to the world.
+
+If on my daughter and on me your heart should fix — you’re dearer than (my) life to me.
 
 For such a daughter I, with thankfulness, would choose you as my son-in-law (from all).
 
@@ -536,7 +534,7 @@ That God may, in a blest and favoured time, grant me the means to carry out this
 
 When his communication reached the king, the king allowed him access to kiss hands.
 
-Good went, and pald (the monarch) homage meet; the latter asked him, saying. Worthy man.
+Good went, and paid (the monarch) homage meet; the latter asked him, saying. Worthy man.
 
 What is your name? He said. My name is Good, because my star displayed auspiciousness.
 
@@ -608,7 +606,7 @@ He defied his royal robe and gave it him, in value greater than a province ’tw
 
 Some other ornaments he gave besides; a belt of gold, a baldrick of (fine) gems.
 
-Eound town and palace were pavilions raised; the townsmen decked (the town) in festive guise.
+Found town and palace were pavilions raised; the townsmen decked (the town) in festive guise.
 
 The girl came from (her) arched room on the roof; she saw the bridegroom like a (bright) full moon:
 
@@ -714,13 +712,13 @@ Those jewels are conferred on you for these; those jewels are your own you know 
 
 When Good’s affairs were settled as he wished, (his) people from him naught but good received.
 
-Since (his) good fortune gave to him the throne, and iron became gold, Ms sackcloth silk.
+Since (his) good fortune gave to him the throne, and iron became gold, his sackcloth silk.
 
 He settled justice on a basis firm, and (so) secured the empire to himself.
 
 (And since) those leaves which from the tree he brought had given him from his grievous pains relief,
 
-Brom time to time, to ward off injury, he used to ride off to that lofty tree.
+From time to time, to ward off injury, he used to ride off to that lofty tree.
 
 He used (then) to dismount beneath the tree, and greet and bless the land (in which it grew).
 

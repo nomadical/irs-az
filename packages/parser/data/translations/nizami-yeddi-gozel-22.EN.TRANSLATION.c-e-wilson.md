@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -16,7 +14,7 @@ When the renown of Bahram (Gur) as king had risen from the Fish up to the moon,
 
 The hearts of the distinguished gained new strength; the fame of (all) the famous lived again.
 
-]VIalignants perished in obscurity, the heads of all beneath black water plunged.
+]Malignants perished in obscurity, the heads of all beneath black water plunged.
 
 There was a good old man, Narsi byname — (the same name had the brother of Bahram) —
 
@@ -30,7 +28,7 @@ He had three sons, each one of whom possessed a certain branch of knowledge to h
 
 (Then) he who was the eldest of the sons Zaravand by his father had been named.
 
-The monarch had discerned his standard worth, and he had made him chief of aU his priests.
+The monarch had discerned his standard worth, and he had made him chief of all his priests.
 
 He thought as gnostics do, he knew the Way, and measureless was his asceticism.
 
@@ -44,7 +42,7 @@ The monarch left the government to them; the governors were faithful to their tr
 
 Each night he brightened up the feast with wine; each day his governors were at their work.
 
-Eevolving like a mill around Mmself, Trhatever lie acquired lie threw away.
+Revolving like a mill around himself, Whatever he acquired he threw away.
 
 This story was divulged throughout the world; axes were sharpened with a view to cut.
 
@@ -102,7 +100,7 @@ He did what in his foe he’d not approved, so that his foe (thereafter) laughed
 
 King Bahram day and night was at the chase, whilst couriers in (his) business were engaged.
 
-About the Chinese leader news he sought, imtil his courier brought him truthful news:
+About the Chinese leader news he sought, until his courier brought him truthful news:
 
 That he felt safe, at ease about the king — this was of happiest omen to the king.
 
@@ -128,7 +126,7 @@ A night which had removed (all) lamps away, (when) mount and plain were blacker 
 
 (And) fearing those Ethiops who ran about, men opened wide their eyes, though naught they saw;
 
-(When) the bright-hearted sky in black sHk dressed was like a jar of gold closed up with pitch —
+(When) the bright-hearted sky in black silk dressed was like a jar of gold closed up with pitch —
 
 On such a night of ambergris so pure Bahram (went out and) waged Bahramian war.
 
@@ -156,31 +154,31 @@ From all the blood shed by the hero-king a stream of blood flowed, bore down bea
 
 And through the numbers slaughtered by the sword the gall-bladder was stirred to vomit bile.
 
-The lance (there) wagered with the sword its bead that dragons it would reap like ears of corn.
+The lance (there) wagered with the sword its head that dragons it would reap like ears of corn.
 
 The shaft was in the fight a darting snake — when darts the snake ’his bad (for all who’re near).
 
-King Babram fighting in the battle ranks, bis arrow-points-as hairs, were splitting hairs.
+King Bahram fighting in the battle ranks, his arrow-points-as hairs, were splitting hairs.
 
-If with bis sword be struck a horseman’s bead, down to the waist be clove him like a gourd.
+If with his sword be struck a horseman’s head, down to the waist he clove him like a gourd.
 
-And if with stroke oblique be terrificd, be cleft the man asunder at the waist.
+And if with stroke oblique be terrified, be cleft the man asunder at the waist.
 
-Of this kind was (bis) sword, of that, (bis) shaft — ’his likely that the foe would be dismayed.
+Of this kind was (his) sword, of that, (his) shaft — ’his likely that the foe would be dismayed.
 
-The Turks from this bis sudden Turk-like raid, and wounds so deadly on the path be took,
+The Turks from this his sudden Turk-like raid, and wounds so deadly on the path he took,
 
 Inclined to flight; the swords of all of them became (all) blunted, and their racing keen.
 
 When the king’s sword was brandished on all sides, the Turkish troops relaxed in (their) attempts.
 
-The king discerning signs of victory, drove (at the foe bis) sword, and shot (bis) shafts.
+The king discerning signs of victory, drove (at the foe his) sword, and shot (his) shafts.
 
-By the shock of (bis) sword be broke their ranks: be was the wind, you’d say, and they were clouds.
+By the shock of (his) sword he broke their ranks: he was the wind, you’d say, and they were clouds.
 
 In triumph to his troops he called (aloud), Behold (our) fortune, see (our happy) lot!
 
-That we may strike a bead off strive again, that we may tear the centre from its place.
+That we may strike a head off strive again, that we may tear the centre from its place.
 
 Supporting one another (then) they charged, lions beneath them, dragons in their bands.
 
@@ -192,7 +190,7 @@ An army more in number than the grains of sand and earth he ruined by his raids.
 
 The hardness of the swarthy lions’ claws pounded the brains of those whose swords were soft.
 
-Eapid in action as the snake (their) shafts; from their effects the horsemen fell and lay.
+Rapid in action as the snake (their) shafts; from their effects the horsemen fell and lay.
 
 Through the sharp dagger’s (work) the dust of flight reached the Turks’ army to the Oxus stream.
 
@@ -214,4 +212,4 @@ From that great spoil and treasure he endowed the temples with a thousand camel 
 
 In skirtfuls gold, and pearls in hatfuls too, he to the priesthood of the temples gave.
 
-So much gold from his treasury he gave that no one poor remained in (aU) the world.
+So much gold from his treasury he gave that no one poor remained in (all) the world.

@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -40,7 +38,7 @@ Strengthened by him the Aq Sunqurs’ high race; his sire and grandsire glorifie
 
 A leader he, this resting-place’s sun; his rule the sealing of the latest age.
 
-A Eustam, great, of greatness giver too by the power of his steed to mount the sky.
+A Rustam, great, of greatness giver too by the power of his steed to mount the sky.
 
 [The heavens’ compeer, lavish as the cloud, in body lion, lion too in name.]
 
@@ -76,37 +74,37 @@ In strife with him, where lions e’en lose hope, his foe’s steed is upon its 
 
 When in his morning draught he spills the blood of grapes, from frozen water fire he brings.
 
-When lance he sharpens for the shock of war, he makes the day the Eesurrection Day.
+When lance he sharpens for the shock of war, he makes the day the Resurrection Day.
 
 When he to bounty’s mine the entrance opes, he gives out treasure, (and) forgives misdeeds.
 
-Sea-like the king nor grudging is nor false; Ms ebb and fl.ow are in his whip and sword.
+Sea-like the king nor grudging is nor false; His ebb and fl.ow are in his whip and sword.
 
-All that the efforts of Ms sword draw in he gives, (as some obtain), by crack of wMp.
+All that the efforts of his sword draw in he gives, (as some obtain), by crack of whip.
 
-Like Jupiter upon the lofty sky with Ms steed’s hoofs he digs out Saturn’s grave.
+Like Jupiter upon the lofty sky with his steed’s hoofs he digs out Saturn’s grave.
 
-A Hon on a dragon’s seldom seen, and a sun wMch has drawn a scimitar,
+A lion on a dragon’s seldom seen, and a sun which has drawn a scimitar,
 
-But see the king who in the fight and chase riding a Hon burns the dragon fell.
+But see the king who in the fight and chase riding a lion burns the dragon fell.
 
-TTia axe beneath the dragon of Ms flag spHts at a stroke the dragon as a snake.
+The axe beneath the dragon of his flag splits at a stroke the dragon as a snake.
 
-The closeness of Ms aim by arrow forked for raging Hons widens out the grave.
+The closeness of his aim by arrow forked for raging lions widens out the grave.
 
 He wins the game of roughness from the sword; roughness like that of bears does he subdue.
 
-A Hon-taker, not in drunkenness; Hons he takes by having dragons’ might.
+A lion-taker, not in drunkenness; lions he takes by having dragons’ might.
 
 The fore and hind legs of the tearing wolf by loop of lasso he has pMoried.
 
-When fore and Mud legs from the wolf he tears the Hon’s palsied in forelegs and hind.
+When fore and kind legs from the wolf he tears the lion’s palsied in forelegs and hind.
 
 His bolts, through wolves’ fore legs and leopards’ hind, restrict the plain for the d ass’s hoofs,
 
 His iiTmtiiLg-groiind, through blood wMcb sea-like fumes, the wolf’s skin now puts on, and now the pard’s.
 
-The boar at which be sharply drives bis sword flies (quickly) from the wound that be inflicts.
+The boar at which be sharply drives his sword flies (quickly) from the wound that be inflicts.
 
 Exerting strength upon the leathern string, to stag be makes the leathern bide a grave.
 
@@ -116,25 +114,25 @@ With poisoned sword be offers such effect as might the sky’s destruction of th
 
 He at the feast and in the fight is famed: by cup and sword be gives life and be takes.
 
-By reason of bis sheen the dusky earth is full of lustre by bis sovereign sway.
+By reason of his sheen the dusky earth is full of lustre by his sovereign sway.
 
 His inner character as artist’s reed has musk in bosom, rubies in its skirt.
 
-The realm in every part forms necklaces and perfume from his rubies and bis musk.
+The realm in every part forms necklaces and perfume from his rubies and his musk.
 
 Such wearer of the kingly cap’s attire, suffices for a cap from heaven to earth.
 
 The bow of such a bolder of the earth has the Nine-handled Bow as smallest bolt.
 
-Such greatness is involved in bis designs that the Great Bear’s four stars are (as) bis throne.
+Such greatness is involved in his designs that the Great Bear’s four stars are (as) his throne.
 
-His enemies are like uprooted trees to crucifixes fastened at bis door.
+His enemies are like uprooted trees to crucifixes fastened at his door.
 
-Our faces, from the sim of bis renown, bright as the moon; bis foemen’s faces black.
+Our faces, from the sim of his renown, bright as the moon; his foemen’s faces black.
 
 What wonder that a gold-shod sun has given rock to the mount and rubies to the mine?
 
-Subdued by him the jewels of the mine; the mine of jewels (too) bis (bumble) slave.
+Subdued by him the jewels of the mine; the mine of jewels (too) his (bumble) slave.
 
 His onyx food to mount and sea has given — this, named pearl-strewer, ruby-strewer, that.
 
@@ -176,7 +174,7 @@ Be the course of his rule o’er South and North by these Poles of perfection or
 
 Good fortune be his prey, his prey be fat I Better than day his day, his night than night!
 
-Veiled by the curtain of bis night that one of Abmad’s race be light of dawn to him!
+Veiled by the curtain of his night that one of Abmad’s race be light of dawn to him!
 
 May the life of Bilqis be luminous under the shade of Solomon’s control!
 
@@ -184,7 +182,7 @@ As the celestial sires be lavish, he! She, of existence’ mothers be the seal!
 
 His name be Kiiizr of immortality I Be her equivalence the Stream of Life!
 
-The shadow of the king, the fount of light, be from that Eose and Eose-garden not far!
+The shadow of the king, the fount of light, be from that Rose and Rose-garden not far!
 
 Asylum of the world ” has always been his quality; his sway endure for aye!
 
@@ -256,9 +254,7 @@ Four (previous) kings have had four ornaments; in this you are a fifth — Be yo
 
 In Aristotle Alexander had one from whom precious sciences he learnt.
 
-The court of Nushirvan was heaven, since he had
-
-Buzurjmihr, of the world best gift.
+The court of Nushirvan was heaven, since he had Buzurjmihr, of the world best gift.
 
 Parviz a Barbad had, a minstrel famed, who’d play not hundred but a myriad airs.
 
@@ -284,7 +280,7 @@ Since I’ve, in truth, been able to infer that those possessed of learning you 
 
 That wily men’s deceit you favour not, reject the imposture of satiric rogues,
 
-This picture from the eternal studio, Leo ascendant, IVe attached to you.
+This picture from the eternal studio, Leo ascendant, We attached to you.
 
 How fortunate that person who may bring such produce to your house from grain you give!
 
@@ -312,7 +308,7 @@ The king’s a sun illumining the world; my eyes like founts of water have becom
 
 Although the sun on water may be cast, water cannot be cast upon the sun.
 
-If eyes agree not with the fount (of light), (stib) with its image they may fancies raise.
+If eyes agree not with the fount (of light), (still) with its image they may fancies raise.
 
 What does not in the monarch’s store exist except this coin, fresh comer from the road?
 
@@ -334,12 +330,12 @@ But if you think the picture’s very small — the wind has borne off many such
 
 Whate’er is to your state agreeable — may that thing (ever) keep good faith with you!
 
-And aU that from your favour falls afar — from you and your dominion be it far!
+And all that from your favour falls afar — from you and your dominion be it far!
 
 As long as in the sky the sun may shine, your friend be prosperous, your foe be blind!
 
-Your foes so (placed), that, with afficted heart, they beat their heads with stone, stone with their heads!
+Your foes so (placed), that, with afflicted heart, they beat their heads with stone, stone with their heads!
 
-(Of aU) you have precedence, may you have than all more learning (too), and longer life!
+(Of all) you have precedence, may you have than all more learning (too), and longer life!
 
 In every circumstance decadence’ hand be distant from the frontiers of your state!

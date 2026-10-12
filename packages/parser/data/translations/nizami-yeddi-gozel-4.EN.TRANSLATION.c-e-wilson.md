@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -46,7 +44,7 @@ Be active, draw the curtain back; comply, and let the curtained beauty be displa
 
 When the (king’s) envoy sought this aim of me, joy settled down, and grief (at once) arose.
 
-I sought out (then) from works both rare and choice whatever nodght give glaiiess to the heart.
+I sought out (then) from works both rare and choice whatever might give gladness to the heart.
 
 Whate’er concerned the history of kings — in one work there was choice (of it for me).
 
@@ -90,13 +88,13 @@ The painter who has ten subservient parts holds to the end of every single threa
 
 If one should not trace out these threads aright, correctness is with me, and leaves me not.
 
-I measure aU these threads in faultless mode; I ever keep in mind the main design.
+I measure all these threads in faultless mode; I ever keep in mind the main design.
 
 The thread if single, I should dread its risk, the more so that I’ve brought unmeasured pearls.
 
 You may indeed in countless waters bathe before you come to waters you might drink.
 
-A little water cast, a man is bom, but water’s often cast away and lost.
+A little water cast, a man is born, but water’s often cast away and lost.
 
 I, shell-like, make pearls with the water; sure, a little water I deserve and food.
 
@@ -118,7 +116,7 @@ Of standard quality and quantity, so far as ’his, the cause is such support.
 
 If at the monarch’s Court support be (given) — four into four are sixteen, sooth to say.
 
-What say I? WTiat these words? when from the cloud my water is, my pearls from Aden are.
+What say I? What these words? when from the cloud my water is, my pearls from Aden are.
 
 Hot Gabriel, but the genius my pen, inscribes upon my page the words which come:
 
@@ -156,7 +154,7 @@ What is there touching gems of treasured store that I, of gems a weigher, have n
 
 Though many a special treasure I have oped, to the supremely pure I’ve found no key.
 
-With aU the dainties which at dawn descend, in deprecation I am still engaged.
+With all the dainties which at dawn descend, in deprecation I am still engaged.
 
 Nizami, your Messiah is your breath; your Tree of Mary is your learning gained.
 

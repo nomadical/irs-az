@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -22,7 +20,7 @@ The loins of kings produce the same effect: they give as offspring either stones
 
 At times a stone comes from a pearl, at times a ruby from an amber-coloured (stone).
 
-As stone and pearl in their respective fame, so were (King) Yazdijard and King Babram.
+As stone and pearl in their respective fame, so were (King) Yazdijard and King Bahram.
 
 One struck, the other cherished — strange indeed! It is as rock with ruby, spines with dates.
 
@@ -74,7 +72,7 @@ That when Nu'man strewed flowers, and that shoot grew a Nu'manian anemone,
 
 (Nu'naan) might clothe it with the kingly traits, and inculcate the rules of sovereignty.
 
-He took him from the litter of the king, and made his breast a Htter for the moon.
+He took him from the litter of the king, and made his breast a litter for the moon.
 
 He held in greater honour than his eyes a fount (of light) more famous than the sun.
 

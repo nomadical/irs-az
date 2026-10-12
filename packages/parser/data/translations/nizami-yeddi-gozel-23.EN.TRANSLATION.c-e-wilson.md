@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -34,7 +32,7 @@ Whom have I seen that has advanced, or bound a foe, or subjugated any land!
 
 One boasts he has the nature of Iraj, another claims Arash’s excellence.
 
-This man’s (forsooth) a Giv, that a Eustam; this one and that from ‘‘ lion ” take a name.
+This man’s (forsooth) a Giv, that a Rustam; this one and that from ‘‘ lion ” take a name.
 
 I saw no one (of you) make any fight, or any work do at the time for work.
 
@@ -46,7 +44,7 @@ He drinks of wine, and calls no one to mind — no one with such a king would be
 
 Though I drink wine, I drink not so that I, through drunkenness, have no care for the world.
 
-If from a hurl’s hand I drink a draught, my sword’s not distant from a stream of blood.
+If from a huri’s hand I drink a draught, my sword’s not distant from a stream of blood.
 
 I’m like the lightning when the cloud pours forth — one hand holds wine, the other holds the sword.
 
@@ -70,7 +68,7 @@ When I engage in (drinking) wine I pour into friend’s sleeves the treasures of
 
 The liver of (my) foes, whose hearts I pierce, (e’en) as “ hababs ’’ I put upon a spit.
 
-WTbiat do my (faithful friends), well-wishers, think? (Think they) the heavenly planets do not work!
+What do my (faithful friends), well-wishers, think? (Think they) the heavenly planets do not work!
 
 Though I be drunk and sleep, fortune, awake, is (busied) with some work (in my behalf).
 
@@ -78,7 +76,7 @@ Despite the sleep (in) which I was (immersed), behold how I disturbed the khaqan
 
 In spite of such persistence in (my) faults, see how I carried off the Hindu’s things!
 
-The man who through his weakness does not sleep at rdght upon his watch is (but) a dog.
+The man who through his weakness does not sleep at night upon his watch is (but) a dog.
 
 The lion though he’s bold can enter not the dragon’s door though in his cave he sleep.
 
@@ -100,7 +98,7 @@ That which we slaves have witnessed from the king no one from white or black has
 
 He has bound demons, and burnt dragons too, killed elephants, transfixed rhinoceri.
 
-Pass Hons by, what game indeed are they? (such and) all usual game are marks for shafts.
+Pass lions by, what game indeed are they? (such and) all usual game are marks for shafts.
 
 But when we reckon, there is none save him to turn the neck of the rhinoceros.
 
@@ -128,7 +126,7 @@ When he brings down his mace on any head, he splits the helmet on the head in tw
 
 If (the king’s) sabre strike upon hard stone, the stone is shivered into bits like sand.
 
-The snake-stone, his lance-head, of poison cures; the dragon, too, his bridle, s-ops the way.
+The snake-stone, his lance-head, of poison cures; the dragon, too, his bridle, stops the way.
 
 (Lo)! every body which opposes him, e’en as a candle is consumed by Fate.
 
@@ -160,15 +158,15 @@ Who should make the relations of the crown to the king’s head (to be) or true 
 
 We who are (humble) servants of your court, are chiefs through the protection of your crown.
 
-Whatever we possess we have from you; you have control of aU that we possess.
+Whatever we possess we have from you; you have control of all that we possess.
 
 Arab or Persian, if ’his your command, we will devote our beads as bumble slaves.
 
-A long time now it is that I have served at the king's court with (aU the) art (I have).
+A long time now it is that I have served at the king's court with (all the) art (I have).
 
-Since I’ve become exalted at bis court; found in bis path the path of sustenance,
+Since I’ve become exalted at his court; found in his path the path of sustenance,
 
-If be will deign to hold me (now) excused, with (bis) permission I will go back home.
+If be will deign to hold me (now) excused, with (his) permission I will go back home.
 
 I’ll rest a little from the journey’s toil, and when the king commands, I will return.
 
@@ -190,7 +188,7 @@ Both Indian sabres and Davidian mail: his lavishness sailed over Ararat;
 
 More pearls and rubies than could pearl-sellers or ruby-experts estimate or think.
 
-From bis own head a jewelled crown (be gave), with dress worth more than Shushtar’s revenue.
+From his own head a jewelled crown (he gave), with dress worth more than Shushtar’s revenue.
 
 In Taman down to Aden, land he gave; such gifts made (Nu'man’s) face bright as the moon.
 

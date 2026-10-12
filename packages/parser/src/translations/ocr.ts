@@ -56,7 +56,8 @@ export class Vocabulary {
    */
   private counts = new Map<string, number>();
 
-  constructor(text: string, minCount = 4) {
+  /** extra: the book's own lowercase terms ("huri", "vazir"), known like dictionary words */
+  constructor(text: string, minCount = 4, private extra = new Set<string>()) {
     for (const w of text.toLowerCase().match(/[a-z]+/g) ?? []) this.counts.set(w, (this.counts.get(w) ?? 0) + 1);
     const counts = new Map<string, number>();
     for (const w of text.match(/\b[A-Z][a-z]+/g) ?? []) counts.set(w.toLowerCase(), (counts.get(w.toLowerCase()) ?? 0) + 1);
@@ -92,8 +93,8 @@ export class Vocabulary {
    */
   isWord(word: string): boolean {
     const w = word.toLowerCase();
-    if (dict().has(w)) return true;
-    if (/ies$/.test(w) && dict().has(w.slice(0, -3) + 'y')) return true; // "armies" → army
+    if (dict().has(w) || this.extra.has(w) || (/s$/.test(w) && this.extra.has(w.slice(0, -1)))) return true;
+    if (/ie[sd]$/.test(w) && dict().has(w.slice(0, -3) + 'y')) return true; // "armies", "replied"
     for (const suffix of ['s', 'es', 'ed', 'd', 'ing', 'ly', 'est', 'er', 'eth', 'st']) {
       if (w.endsWith(suffix) && w.length - suffix.length >= 3) {
         const stem = w.slice(0, -suffix.length);
@@ -115,7 +116,18 @@ const CONFUSIONS: [string, string][] = [
   ['ii', 'h'], ['li', 'h'], ['b', 'h'], ['h', 'b'], ['k', 'h'], ['vd', 'wi'], ['tl', 'th'],
   ['e', 'c'], ['c', 'e'], ['e', 'r'], ['c', 'r'], ['t', 'h'], ['n', 'u'], ['u', 'n'], ['i', 'l'], ['l', 'i'],
   ['1', 'l'], ['0', 'o'],
+  // Wilson's Haft Paikar (an Indian Digital Library scan) has its own: "tMs" (this), "stiH" (still),
+  // "Kke" (like), "seK" (self), "foimd"/"roxmd" (found, round), "WTien"/"WHien" (When), "hiTn"
+  // (him), "kmg" (king), "IVe" (We), "aSairs" (affairs), "witi" (with); E, B or P for F/R
+  ['M', 'hi'], ['M', 'ki'], ['M', 'h'], ['M', 'lf'], ['H', 'll'], ['H', 'li'], ['H', 'il'], ['H', 'hi'], ['H', 'lf'],
+  ['K', 'li'], ['K', 'lf'], ['h', 'lf'],
+  ['im', 'un'], ['xm', 'un'], ['im', 'nn'], ['Ti', 'h'], ['Hi', 'h'], ['Ti', 'n'], ['Tn', 'm'], ['TY', 'm'],
+  ['m', 'in'], ['IV', 'W'], ['S', 'ff'], ['S', 'fl'], ['E', 'ff'], ['i', 'h'],
+  ['E', 'F'], ['E', 'R'], ['E', 'K'], ['B', 'F'], ['P', 'F'],
 ];
+
+/** Two-letter misreadings, too short for the confusion search: "aU" (all), "Ms" (his) */
+const SHORT: Record<string, string> = { aU: 'all', iU: 'ill', Ms: 'his', bj: 'by', mj: 'my' };
 
 function candidates(word: string): string[] {
   const out: string[] = [];
@@ -172,22 +184,37 @@ export interface OcrStats {
   words: number;
 }
 
-/** Fix one word if a single confusion makes it known; keeps the original capitalisation */
-function fixWord(word: string, vocab: Vocabulary, stats: OcrStats): string {
+/**
+ * Fix one word if a single confusion makes it known. Of several fixes, the one the book uses
+ * most: "Mssed" is kissed, not hissed. A capital the confusion put in for a small letter
+ * ("Hke" for like, "Ms" for his) is kept only at a sentence start
+ */
+function fixWord(word: string, vocab: Vocabulary, stats: OcrStats, sentenceStart: boolean): string {
   stats.words++;
+  const recase = (c: string) => {
+    if (!/^[A-Z]/.test(word)) return c;
+    const sameLetter = c[0].toLowerCase() === word[0].toLowerCase();
+    return sameLetter || sentenceStart || /^[A-Z]/.test(c) ? c[0].toUpperCase() + c.slice(1) : c;
+  };
   if (word === 'AU') return 'All'; // "AU beings" — U for ll, capitalised
+  if (SHORT[word]) {
+    stats.fixed++;
+    return recase(SHORT[word]);
+  }
   // Acronyms and roman numerals are not OCR damage
   if (word.length < 3 || (word === word.toUpperCase() && /[A-Z]/.test(word)) || vocab.inDictionary(word)) return word;
   // A dictionary fix beats a recurring word: "Tbe" recurs at sentence starts but is "The".
   // But a recurring name ("Greece") is only "fixed" into a word the book uses more often
   const trusted = vocab.isTrusted(word);
+  let best: string | null = null;
   for (const c of candidates(word)) {
     if (/[A-Z]/.test(c.slice(1)) && c !== c.toUpperCase()) continue;
     if (trusted && vocab.count(c) <= vocab.count(word)) continue;
-    if (vocab.isWord(c)) {
-      stats.fixed++;
-      return /^[A-Z]/.test(word) ? c[0].toUpperCase() + c.slice(1) : c;
-    }
+    if (vocab.isWord(c) && (!best || vocab.count(c) > vocab.count(best))) best = c;
+  }
+  if (best) {
+    stats.fixed++;
+    return recase(best);
   }
   const name = fixName(word, vocab);
   if (name) {
@@ -221,7 +248,10 @@ export function cleanParagraph(text: string, vocab: Vocabulary, stats: OcrStats)
     .replace(/\s{2,}/g, ' ')
     .trim();
 
-  return t.replace(/[A-Za-z][A-Za-z01]*/g, (w) => fixWord(w, vocab, stats));
+  return t.replace(/[A-Za-z][A-Za-z01]*/g, (w, at: number) =>
+    // A sentence starts after its closing mark, or a bracket at a sentence start: "(Then) to her sire"
+    fixWord(w, vocab, stats, at === 0 || /(^|[.!?:;—"“‘'])\s*\(?\s*$/.test(t.slice(Math.max(0, at - 4), at))),
+  );
 }
 
 /** Letters only, lowercase: for fuzzy heading comparison */

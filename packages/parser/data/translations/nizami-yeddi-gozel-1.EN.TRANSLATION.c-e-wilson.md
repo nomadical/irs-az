@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -14,13 +12,13 @@ status: DRAFT
 ---
 O Thou from whom the universe exists, before whom naught that being has has been!
 
-Beginning of all things when things began, and at the end the End of ever 3 rthing!
+Beginning of all things when things began, and at the end the End of everything!
 
-O Eaiser of the lofty sphere, of stars Illumer, of their meetings Orderer!
+O Raiser of the lofty sphere, of stars Illumer, of their meetings Orderer!
 
-Author of (all) the stores of bounteous gifts, of aU existent things Creative Power!
+Author of (all) the stores of bounteous gifts, of all existent things Creative Power!
 
-Through Thee are well disposed the affairs of aU, O All Thyself and Author (too) of aU!
+Through Thee are well disposed the affairs of all, O All Thyself and Author (too) of all!
 
 Thou art; and there is nothing like to Thee — those who are wise regard Thee only thus.
 
@@ -30,21 +28,21 @@ All beings by (the principle of) life have life, but this Thy Being gives alone.
 
 O Maker of the universe from naught, Giver of sustenance and Cherisher!
 
-Thy name, of aU names the Beginning, is the first Beginning and the latest End.
+Thy name, of all names the Beginning, is the first Beginning and the latest End.
 
 First of the First Thou if we reckon back; Last of the Last, too, at the end of things.
 
-By Thee the being of aU (things) is formed; to Thee is the return of aU, to Thee.
+By Thee the being of all (things) is formed; to Thee is the return of all, to Thee.
 
 To Thy sublimity thought has no path, decadence’ dust can never touch Thy door.
 
-Thou wast not bom, (all) others have been horn; Thou, Thou art God, (all) others are (but) air.
+Thou wast not born, (all) others have been horn; Thou, Thou art God, (all) others are (but) air.
 
 The way Thou showest by a single thought; and dost by one fine point facilitate.
 
 But he whose head’s unfit to bow in prayer, his door is fastened up by lock on lock.
 
-Thou makest dawn illuimner of night, bird to the day, and food to bird Thou giv’st.
+Thou makest dawn illuminer of night, bird to the day, and food to bird Thou giv’st.
 
 Unto the sun and moon Thou hast consigned two (lofty) tents (in colour) white and black.
 
@@ -54,7 +52,7 @@ They do nor good nor ill till Thou command; no act perform on their authority.
 
 Thou hast enkindled in the brain (the light of) intellect, more shining than a lamp.
 
-But yet with aU its keenness ’his (confined) to its own place, ’his senseless as to Thee.
+But yet with all its keenness ’his (confined) to its own place, ’his senseless as to Thee.
 
 The intellect breaks down upon Thy path; life passes off in efforts to approach.
 
@@ -80,9 +78,9 @@ The world, the sky which round the world revolves, before Thy door cry out (to m
 
 A painter on Thy canvas every one, but all are naught, (all) deeds are done by Thee.
 
-How from the stars should good and ill arise, when they are helpless before good and iU?
+How from the stars should good and ill arise, when they are helpless before good and ill?
 
-If the stars gave good fortime Kai-Qubad would have been bom of an astrologer.
+If the stars gave good fortune Kai-Qubad would have been born of an astrologer.
 
 What man who in the stars is learned finds the way by reckoning to a treasure hid?
 
@@ -92,7 +90,7 @@ All fine particulars which touch the stars, with every subtle point of science k
 
 I’ve read, and sought the secret of each page; when Thee I found I washed the pages clean.
 
-I saw the faces of aU turned to God; I saw Thee as that God above aU (else).
+I saw the faces of all turned to God; I saw Thee as that God above all (else).
 
 Thou by Whom lives each (soul) where soul there be, Whose oven gives each (loaf) where loaf there be,
 

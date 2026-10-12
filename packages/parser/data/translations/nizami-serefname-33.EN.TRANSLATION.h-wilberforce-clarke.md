@@ -601,7 +601,7 @@ To him she spoke, saying: — " O prosperous king!
 " I have sent to every territory
 " One intelligence-recognising and picture-painting,
 
-" Por the reason that of kings, world-seizing,
+" For the reason that of kings, world-seizing,
 " Should on silk express the form of each,
 
 " The form-delineator of every country,

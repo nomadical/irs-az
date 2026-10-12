@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -32,7 +30,7 @@ In it were finely painted seven forms, each one connected with a certain Clime:
 
 Piirak, of India’s Baja daughter, first, in face more lovely than the moon when full.
 
-(Then) Yaghma-Naz, the Eliaqan’s daughter fair, disturber of Taraz and China’s belles.
+(Then) Yaghma-Naz, the Khaqan’s daughter fair, disturber of Taraz and China’s belles.
 
 The king of Khyarazm’s daughter Naz-Pari, graceful as mountain-partridge in her gait.
 
@@ -42,7 +40,7 @@ The king of Maghrib’s daughter Azar-Gun, a sun like to the daily waxing moon.
 
 The wisdom-gifted Qaisar’s daughter, next, august, and named Humay, Bird August.
 
-The Kisra’s daughter of Ka’us’s race, named Dursiti, and buri-like in grace.
+The Kisra’s daughter of Ka’us’s race, named Dursiti, and huri-like in grace.
 
 Within one circle by a cord hung up these seven had been all together limned,
 
@@ -88,7 +86,7 @@ He said, If I should hear that anyone (dare) for a moment (to) unlock this door.
 
 I’ll have his blood shed even in this room: I’ll have his head suspended from his neck.
 
-In aU the household, man or woman, none (dared ever) give a glance towards that room.
+In all the household, man or woman, none (dared ever) give a glance towards that room.
 
 From time to time when overcome with love, the prince went towards that door (with) key in hand.
 

@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -22,11 +20,11 @@ He binds up demons with (his) lasso’s noose; he wears down mountains ’neath 
 
 His diamond turns iron into silk; and of hard stone his iron makes a paste; —
 
-The father from the fire of Bahmm’s youth saw, (as he thought), his own death in his life.
+The father from the fire of Bahram’s youth saw, (as he thought), his own death in his life.
 
-As fearful of that fiery Hon (then) was (Yazdijard) as Hons are of fire.
+As fearful of that fiery lion (then) was (Yazdijard) as lions are of fire.
 
-Far from his sight he let him (still) remain, although sight is deficient wanting Hght.
+Far from his sight he let him (still) remain, although sight is deficient wanting light.
 
 Bahram both day and night went to the chase: sometimes he rode his steed, sometimes drank wine.
 
@@ -60,13 +58,13 @@ Said everyone. We will not look at him, nor give him tidings of his father’s d
 
 Since that wild man, amongst the Arabs bred, could not administer the Persians’ realm.
 
-Land, treasure to the Arabs he would give, (whilst) those in Persia bom would sufier pain.
+Land, treasure to the Arabs he would give, (whilst) those in Persia born would sufier pain.
 
 No one desired him to ascend the throne, (but) since God wished it he assumed the crown.
 
 An aged man of wisdom (then) they chose, and called him the Just Ruler of the Earth.
 
-Though not of those entitled to the crown, stiH by his race he was of princely rank.
+Though not of those entitled to the crown, still by his race he was of princely rank.
 
 They placed the royal crown upon his head, (and) gave to him the belt of seven gems.
 
@@ -90,11 +88,11 @@ Although the Persians erred in this that they withdrew their hearts from reveren
 
 I will not look into their hardened hearts, (but) mildness use, for mildness is the key.
 
-With aU their currishness they are my game; they (all) are (still) the sheep of my own mead.
+With all their currishness they are my game; they (all) are (still) the sheep of my own mead.
 
 Although they lie and sleep in their own wool, all lie and sleep still in my cotton fields.
 
-’Tis best they slwvM be faithless, hard of heart, that they at last before me may be shamed.
+’Tis best they should be faithless, hard of heart, that they at last before me may be shamed.
 
 From perfidy shame overtakes a man, and from that shame regret and pain ensue.
 

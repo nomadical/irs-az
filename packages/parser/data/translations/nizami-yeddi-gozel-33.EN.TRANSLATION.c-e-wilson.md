@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -18,11 +16,11 @@ The verdure, Khizr-Iike, found youth again, the springs of water (too) renewed t
 
 The heart of every spring became a Nile, and every fount became a Salsabil.
 
-The earth in aloes dressed took musky scent, the breeze, musk-seller, steeped itseH in musk.
+The earth in aloes dressed took musky scent, the breeze, musk-seller, steeped itself in musk.
 
 The New Year’s equable and temperate air made its way straight to world-illumi ning.
 
-From the air’s sMrt was dew deposited; the heat broke up the form of winter’s cold.
+From the air’s skirt was dew deposited; the heat broke up the form of winter’s cold.
 
 By a new mortgage-deed the New Year’s breeze mortgaged its life to (all) the Vagrant herbs.
 
@@ -34,7 +32,7 @@ Down from the mountain gorge the pure white snow gave grandeur to the river by (
 
 The morning breezes by their musky breath rubbed galla on the violet’s dark dress.
 
-The fresh narcissus with (its) sleepy eyes deprived of sleep the eyes of aU it saw.
+The fresh narcissus with (its) sleepy eyes deprived of sleep the eyes of all it saw.
 
 The lotus from the torture of the fire found in the fortress, water, a retreat.
 
@@ -46,7 +44,7 @@ For the corona of narcissi drunk, the lilies put gold ingots on their pahns.
 
 Through the north breeze the pastils of the Spring were scattering stars without the Judgment Day.
 
-Having tears in its eyes the fenugreek by eating of the saSron smiled again.
+Having tears in its eyes the fenugreek by eating of the saffron smiled again.
 
 The writer of God’s will in life’s whole book sanctioned the bloodshed of the anemone {1,881).
 
@@ -98,7 +96,7 @@ A messenger of noble form arrived, who sought the palace of the seven brides.
 
 That heavenly palace entering, his heart expanded like the (spacious) heavenly gates.
 
-He praised and blessed the king in lengthy speech, and after that, respectful homage pald.
+He praised and blessed the king in lengthy speech, and after that, respectful homage paid.
 
 He said. Once more from China, picture-land, a rush of troops has occupied the earth.
 
@@ -144,7 +142,7 @@ The king's vioe-gerent (too) by gold and gems he gained as partner in (his) hurt
 
 He said. The people have grown covetous; they have become rude, bold, and mannerless.
 
-Creatures of earth, ('his true), bom of the earth, (but) wild beasts they, (and only) men in form.
+Creatures of earth, ('his true), born of the earth, (but) wild beasts they, (and only) men in form.
 
 If we with sense and judgment punish not, the evil eye will punish (soon) the realm.
 
@@ -154,7 +152,7 @@ We must subject and overpower these wolves: how long appear to heed not and igno
 
 Men, they are evil and of evil stock; appearing Josephs, they are worse than wolves.
 
-Wild beasts (like them) pay no beed to good faith, and till the sword compel, spurn aU commands.
+Wild beasts (like them) pay no beed to good faith, and till the sword compel, spurn all commands.
 
 You may have read, concerning the distressed, of what Siyavasb suffered from wild beasts.
 
@@ -166,11 +164,11 @@ The water, which by earth gets turbid, dark, also by means of earth gets clear a
 
 If drunk the monarch, sober is the foe; asleep the watch, the robber is awake.
 
-If harsh control be used not by the king, bis royal power and state will (soon) be marred.
+If harsh control be used not by the king, his royal power and state will (soon) be marred.
 
 Let chastisement be yours, and counsel mine: seize anyone I say is to be seized.
 
-Bold and presuming subjects are as fiends; let them alone and they exceed aU bounds.
+Bold and presuming subjects are as fiends; let them alone and they exceed all bounds.
 
 The king who (fitting) chastisement inflicts, — from him both enemies and demons flee.
 
@@ -188,7 +186,7 @@ Lower the people in their rank and wealth, that you may be exalted in their eyes
 
 Whene’er the subjects are depressed and weak, the realm is always on a sobd base.
 
-The king’s vice-gerent, as one void of sense, joined with him in bis acts of tyranny.
+The king’s vice-gerent, as one void of sense, joined with him in his acts of tyranny.
 
 With such ill-treatment as was pointed out he would oppress the subjects of the king.
 
@@ -225,8 +223,6 @@ Through fear of the vazir whose fires rose high, no one would tell by day what p
 Each one gave some false reason, speaking thus: This needy man has gone, and that one fled.
 
 The ground gives no returns, no grain remains, so in the treasury no treasure’s left.
-
-TEAJSrSLATION
 
 (The peasant) gone from lack of means and cash, our monarch’s lands now feel the bad effects.
 

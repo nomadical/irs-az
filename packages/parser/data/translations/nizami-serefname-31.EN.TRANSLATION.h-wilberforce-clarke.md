@@ -212,7 +212,7 @@ Through the business of their own country, each one
 " So that thou mayst not bring into ferment the blood of tumult.
 
 " Of the blood of those neck-exalting, — think not that
-" There remains no trace like the (red wood) khiin-i-Sly awash.
+" There remains no trace like the (red wood) khun-i-Siyawash.
 
 " Draw not the sword pitilessly for anyone's blood,
 " Thine also is the blood (of slaughter) with the sword of the sphere.

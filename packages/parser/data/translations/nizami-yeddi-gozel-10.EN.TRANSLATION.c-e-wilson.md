@@ -4,15 +4,13 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
 status: DRAFT
 ---
-Kiiavamaq through the glory of Bahram — when it became so solacing a place
+Khavarnaq through the glory of Bahram — when it became so solacing a place
 
 That by the sky ’twas called earth’s cynosure ”, and ‘‘ Spring of China ” by creation named, —
 
@@ -20,7 +18,7 @@ From hearing news about it, countless men to gaze (upon its splendour) (thither)
 
 Whoever saw it uttered (words of) praise, and humbly swept its threshold with his sleeves.
 
-One or another would in flowing verse each point (of beauty) of Ediavamaq show.
+One or another would in flowing verse each point (of beauty) of Khavarnaq show.
 
 O’er Yaman since Canopus bright had shone, nor moon nor sun such worship had received.
 
@@ -38,7 +36,7 @@ The sun, within, refulgent beauty showed; the moon, without, a lamp to traveller
 
 The wind was always blowing o’er its head; from cold autumnal breezes (it was) free.
 
-On aU sides of the palace looking down, he saw a plain as spacious as the sky.
+On all sides of the palace looking down, he saw a plain as spacious as the sky.
 
 Sweet water on one side was flowing past; in wholesome purity the Stream of Life.
 
@@ -72,11 +70,11 @@ Descended from the palace Nu'man turned like any lion towards the desert waste.
 
 He gave up thoughts of treasure and of rule: — religion and the world cannot accord.
 
-He took hims elf away from sovereignty, and vanished from the people Hke a fay.
+He took hims elf away from sovereignty, and vanished from the people like a fay.
 
 No person saw him more in his own house — how excellent the great king of his age!
 
-Though Munzir used aU promptitude the voice of happy fortune gave him no reply.
+Though Munzir used all promptitude the voice of happy fortune gave him no reply.
 
 He mourned as it was fitting he should mourn, devoting to his sorrow sundry days.
 
@@ -84,7 +82,7 @@ Much grief he felt, had reason too for grief, his house becoming blackened throu
 
 He seeing no escape from throne and crown, assumed the duties of the crown and throne.
 
-Forced back oppression, justice forwarded, and j&xed dominion on a solid base.
+Forced back oppression, justice forwarded, and fixed dominion on a solid base.
 
 The monarch to the troops and country gave the robe, contentment, with his leadership.
 
@@ -120,7 +118,7 @@ He kindly put before him tablet, stile, (and) taught him (then) the secrets of t
 
 All the ideas which (from most) were hid, whether pertaining to the earth or heavens —
 
-He gathered all together one by one, (and) when aU had been gathered, taught him (them).
+He gathered all together one by one, (and) when all had been gathered, taught him (them).
 
 Tin Bahram so improved he knew in full the principles of every science known.
 
@@ -132,7 +130,7 @@ When he was skilled in controversial arts he (next) elected to get skilled in ar
 
 In riding, racing, and in arms, he bore the ball off from the polo-playing sky.
 
-When by that grade distinguished, he could tear claws from the Hon, from the wolf the neck.
+When by that grade distinguished, he could tear claws from the lion, from the wolf the neck.
 
 Before his skill in piercing with the lance dawn’s sword despaired at his pre-excellence.
 
@@ -152,10 +150,10 @@ And there where skilful archery was shown, (he with) his arrow with a hair would
 
 He struck, though far away, whate’er he saw, whether enshadowed, whether in the light.
 
-That widcli in shooting too he could not see — his luck hit that which it judged well (to hit).
+That which in shooting too he could not see — his luck hit that which it judged well (to hit).
 
 The elephant and lion, hunting flocks, from him, Bahram, of lions’ courage bragged.
 
 At times he would attack the elephant, at times play with the raging lion fierce.
 
-In Yaman wheresoever they conversed, they gaje to him the name of Yaman’s Star ”.
+In Yaman wheresoever they conversed, they gave to him the name of Yaman’s Star ”.

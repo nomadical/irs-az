@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -16,57 +14,55 @@ One day Bahram descending from the throne, went off to hunt the quarry on the pl
 
 When near the village where the officer possessed that lofty belvedere he passed,
 
-He saw an excellent, delightful place, with verdmre upon verdure, shade on shade.
+He saw an excellent, delightful place, with verdure upon verdure, shade on shade.
 
 He asked and said, To whom belongs this land, (and) where (too) is the owner of ti s place?
 
-The officer was by his stirrup then; when from the king he heard such-like adchess.
+The officer was by his stirrup then; when from the king he heard such-like address.
 
-He kissed the ound, and showed (him) reverence; he said, O king, who cherish (all your) slaves.
+He kissed the ground, and showed (him) reverence; he said, O king, who cherish (all your) slaves.
 
-Your slave has an estate which is your gift; its chann is from the vase whence flows your wine.
+Your slave has an estate which is your gift; its charm is from the vase whence flows your wine.
 
 (So) if the monarch should approve the place, and will exalt his lowly, humble slave,
 
 (If) waiving forms, according to his mode, the practice of his blest and happy mind.
 
-TEAJiTSLATION
+He’ll bow his head to this small, narrow door, (his) officer will be o’er all upraised.
 
-Hell bow Ms bead to tMs small, narrow door, (bis) officer will be o’er all upraised.
-
-I have — ’twas given me by the monarch’s grace — a bouse whose bead arises to the moon.
+I have — ’twas given me by the monarch’s grace — a house whose head arises to the moon.
 
 Around it garden upon garden lies — the Garden their apprentice, heaven their slave.
 
 If on its summit you will drink of wine, the stars will kiss the earth before its door.
 
-The monarch! s fragrance will perfume the bouse; my bees, my cows, will honey give and milk.
+The monarch! s fragrance will perfume the house; my bees, my cows, will honey give and milk.
 
-When the king saw that in sincerity be spoke such words as might an officer,
+When the king saw that in sincerity he spoke such words as might an officer,
 
 He said, Command is yours, do (what’s required) by such time as I come back from the chase.
 
-The officer (then humbly) kissed the ground, (and) went and cleaned the mirrors (all) foom rust;
+The officer (then humbly) kissed the ground, (and) went and cleaned the mirrors (all) from rust;
 
 With carpets made the belvedere like heaven, (and) well disposed all ornaments required.
 
-The monarch’s canopy, when from the chase be came, again reached the moon’s apogee.
+The monarch’s canopy, when from the chase he came, again reached the moon’s apogee.
 
-The host then (came and) from bis choicest rolls, — both stuffs of Bum and CMna’s finest goods, —
+The host then (came and) from his choicest rolls, — both stuffs of Bum and China’s finest goods, —
 
 Layer on layer of (these) gorgeous stuffs, in whose resplendence heart and brain rejoiced, —
 
-He threw beneath the monarch’s Klatlian steed, with sundry other tasteful tMngs as well.
+He threw beneath the monarch’s Klatlian steed, with sundry other tasteful things as well.
 
-Ascending to the terrace, sixty steps, the king saw an arched room xmique in height.
+Ascending to the terrace, sixty steps, the king saw an arched room unique in height.
 
-It threw Kbavamaq’s face upon the groimd; it spread a carpet on the azure sphere.
+It threw Khavarnaq’s face upon the ground; it spread a carpet on the azure sphere.
 
 The host (then) came and gave what was required of incense, sherbet, rose-water, and food.
 
 When with the palatable food he’d done, the king sought wine, began a joyous bout.
 
-When sundry cups of wine the king bad drunk, the perspiration started from bis brow.
+When sundry cups of wine the king bad drunk, the perspiration started from his brow.
 
 He said, O host, who own (this) golden house, your place is pleasant, and your means are good.
 
@@ -74,7 +70,7 @@ But this high palace (here) of sixty steps, around whose head the sky its lasso 
 
 When sixty years have now passed over you, how can you -walk up to the top of it?
 
-The officer replied, The Eang live aye! His wine be Kausar, hurls give the cup!
+The officer replied, The King live aye! His wine be Kausar, huris give the cup!
 
 This is in me no wonder, I’m a man; how should I (then) be wearied by such steps?
 
@@ -134,9 +130,9 @@ Like a full moon she went up to the ox — the moon when she’s in Taurus is in
 
 Her head she lowered and raised up the ox — See how an o3 had honour (from her act)!
 
-When step by step she’d rxm up to the roof, she went (then to the foot of Bahram’s throne.
+When step by step she’d run up to the roof, she went (then to the foot of Bahram’s throne.
 
-She stood on foot, the ox upon her neck; the lion, whei he saw the ox, was moved.
+She stood on foot, the ox upon her neck; the lion, when he saw the ox, was moved.
 
 In wonder lost, he thought what may this be 1 Interest o his? What interest he knew not.
 
@@ -174,9 +170,7 @@ If I did light a fire through self-conceit, ’twas I was burnt, whilst you’ve
 
 When from disturbers, all, the place was freed, he made “ Disturbance ” near him settle down.
 
-Eitna sat down, and (then) began to speak, saying, O King, who set disturbance down,
-
-TEAJNfSLATION
+Fitna sat down, and (then) began to speak, saying, O King, who set disturbance down,
 
 You who destroyed me by disunion erst, and by your love renewed have made me live.
 
@@ -206,9 +200,9 @@ Without the officer’s protecting care, this jewel had beer fractured by a ston
 
 (The king then) called the officer (to him), embraced hire, and brought gladness to his heart.
 
-He gave to him most rare and splendid gifts; he gave a thousanc in return for one.
+He gave to him most rare and splendid gifts; he gave a thousand in return for one.
 
-After (bestowing) numerous fine things, he gave him Eai with other honours too.
+After (bestowing) numerous fine things, he gave him Kai with other honours too.
 
 He went (then) to the town, rejoicings made, he made th usual offerings at his feast.
 

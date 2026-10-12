@@ -338,7 +338,7 @@ I bring to my hand (to sense) a hundred (lovers of mine, hearts) gone from the h
 " I show the (dimple or pit of the) chin, so that I may cast him into the pit (whence he may not turn aside).
 
 " By (showing) a single hair of mine, I give the collar and the crown (of sovereignty) to the lover;
-" -y (givmg) a particle of perfume from my tress, I take tribute from (the beauties of) Khallakh:
+" -y (giving) a particle of perfume from my tress, I take tribute from (the beauties of) Khallakh:
 
 " Place the wax-seal with the sovereignty of Chin;
 " Strike five drums for the plunder of Rum (far distant from Chin).

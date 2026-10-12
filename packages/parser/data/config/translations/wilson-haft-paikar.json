@@ -4,12 +4,15 @@
   "title": "The Haft Paikar (The Seven Beauties), Vol. I: Translation",
   "translator": "C. E. Wilson",
   "year": 1924,
+  "proofread": true,
   "authorSlug": "nizami",
   "collectionSlug": "nizami-heft-peyker",
   "runningHeads": [
     "THE HAFT PAIKAR",
     "TRANSLATION"
   ],
+  "words": ["huri", "darvish", "vazir", "vazirate", "halva", "ghul", "diram", "qibla", "khaqan", "haram", "harim", "paluda", "faghfur", "yaqut"],
+  "dropPattern": "^TE[A-Za-z]{2,5}SLATION$|^TEGS HAET PAIKAK$|^Story( of the [A-Z][a-z]+)?\\.$",
   "endMarker": "^PROBSTHAIN|^INDEX",
   "replacements": {
     "Bahrain": "Bahram",
@@ -20,8 +23,255 @@
     "Ehavarnaq": "Khavarnaq",
     "Elhavamaq": "Khavarnaq",
     "Eing": "King",
-    "Eish": "Fish"
+    "Eish": "Fish",
+    "Tainan": "Taman",
+    "spung": "spring",
+    "whick": "which",
+    "Tha": "The",
+    "shih": "still",
+    "Fang": "King",
+    "hurls": "huris",
+    "burls": "huris",
+    "ofE": "off",
+    "ofience": "offence",
+    "ofEences": "offences",
+    "Imow": "know",
+    "Imots": "knots",
+    "firom": "from",
+    "stfll": "still",
+    "stOl": "still",
+    "StUl": "Still",
+    "nodght": "might",
+    "glaiiess": "gladness",
+    "rdght": "night",
+    "widcli": "which",
+    "lus": "his",
+    "afficted": "afflicted",
+    "dehghtful": "delightful",
+    "sialtan": "sultan",
+    "fuO": "full",
+    "fmit": "fruit",
+    "clamoiir": "clamour",
+    "Fd": "I'd",
+    "kiag": "king",
+    "aiBSixed": "affixed",
+    "Ajid": "And",
+    "againet": "against",
+    "bimseK": "himself",
+    "neghgence": "negligence",
+    "jfire": "fire",
+    "confinned": "confirmed",
+    "appgee": "apogee",
+    "pubhc": "public",
+    "tlianisgiving": "thanksgiving",
+    "Uons": "lions",
+    "lyranny": "tyranny",
+    "jour": "your",
+    "verdmre": "verdure",
+    "adchess": "address",
+    "chann": "charm",
+    "thousanc": "thousand",
+    "VIalignants": "Malignants",
+    "Trhatever": "Whatever",
+    "WTbiat": "What",
+    "hgaged": "engaged",
+    "Poirtraibs": "Portraits",
+    "emlDracing": "embracing",
+    "dovercoloured": "dove-coloured",
+    "everylihing": "everything",
+    "kihg": "king",
+    "Seveji": "Seven",
+    "driok": "drink",
+    "ezciting": "exciting",
+    "dxess": "dress",
+    "bke": "like",
+    "spbt": "split",
+    "sacnflcial": "sacrificial",
+    "Uppn": "Upon",
+    "difiexent": "different",
+    "ghis": "girls",
+    "WFen": "When",
+    "facedj": "faced",
+    "Iier": "Her",
+    "fiire": "fire",
+    "distranglit": "distraught",
+    "Uon": "lion",
+    "wfll": "will",
+    "tovm": "town",
+    "Iffe": "life",
+    "sprinkbng": "sprinkling",
+    "trafSc": "traffic",
+    "bps": "lips",
+    "sHveiy": "silvery",
+    "ojne": "one",
+    "Pm": "I'm",
+    "cjrpresSj": "cypress",
+    "whirb": "which",
+    "jSxst": "first",
+    "cjress": "cypress",
+    "facewhich": "face which",
+    "coquettishlures": "coquettish lures",
+    "rthee": "thee",
+    "stujfis": "stuffs",
+    "ofiSiee": "office",
+    "needfol": "needful",
+    "Elnock": "Knock",
+    "heaiiog": "hearing",
+    "didmuch": "did much",
+    "sncli": "such",
+    "Ids": "His",
+    "skj": "sky",
+    "Stoby": "Story",
+    "statuxed": "statured",
+    "fiWhen": "When",
+    "hinn": "him",
+    "treasxurer": "treasurer",
+    "carefidly": "carefully",
+    "myeh": "myself",
+    "himselE": "himself",
+    "noiay": "noisy",
+    "tbia": "this",
+    "ahen": "alien",
+    "ber": "her",
+    "Kiiavamaq": "Khavarnaq",
+    "Ediavamaq": "Khavarnaq",
+    "Kbavamaq": "Khavarnaq",
+    "Babram": "Bahram",
+    "Bahmm": "Bahram",
+    "Eustam": "Rustam",
+    "Eitna": "Fitna",
+    "Simnrgh": "Simurgh",
+    "Eliaqan": "Khaqan",
+    "Kliurasan": "Khurasan",
+    "illuimner": "illuminer",
+    "gux": "gur",
+    "Turldstan": "Turkistan",
+    "sufiered": "suffered",
+    "Lidden": "hidden",
+    "pald": "paid",
+    "fehcitates": "felicitates",
+    "bis": "his",
+    "Hons": "lions",
+    "Hon": "lion",
+    "hon": "lion",
+    "bom": "born",
+    "hom": "born",
+    "bouse": "house",
+    "fixe": "fire",
+    "slwvM": "should",
+    "nde": "rule",
+    "estabhshed": "established",
+    "iatunate": "intimate",
+    "ound": "ground",
+    "foom": "from",
+    "whei": "when",
+    "wbome": "whome",
+    "noine": "mine",
+    "thoili": "though",
+    "limpiiaess": "limpidness",
+    "gaje": "gave",
+    "baste": "haste",
+    "bouses": "houses",
+    "gtcl": "girl"
   },
+  "corrections": [
+    {
+      "from": "sufi[ered",
+      "to": "suffered"
+    },
+    {
+      "from": "a hurl’s hand",
+      "to": "a huri’s hand"
+    },
+    {
+      "from": "infring ement",
+      "to": "infringement"
+    },
+    {
+      "from": "hims€il£",
+      "to": "himself"
+    },
+    {
+      "from": "in black? well that you impart",
+      "to": "in black?\n\n’Tis well that you impart"
+    },
+    {
+      "from": "(as I’ve described). light was my prospect",
+      "to": "(as I’ve described).\n\nLight was my prospect"
+    },
+    {
+      "from": "later at night a him shared",
+      "to": "later at night a huri shared"
+    },
+    {
+      "from": "shortly shall be small. When she had done",
+      "to": "shortly shall be small.\n\nWhen she had done"
+    },
+    {
+      "from": "patent to the world. li on my daughter",
+      "to": "patent to the world.\n\nIf on my daughter"
+    },
+    {
+      "from": "fresh ears of coin. yirgo has taken",
+      "to": "fresh ears of coin.\n\nVirgo has taken"
+    },
+    {
+      "from": "obtaining it., Every desire",
+      "to": "obtaining it.\n\nEvery desire"
+    },
+    {
+      "from": "since he had\n\nBuzurjmihr",
+      "to": "since he had Buzurjmihr"
+    },
+    {
+      "pattern": "(?<!\\b(?:might|may|must|would|could|should|shall|will|can|to|not|n\u2019t) )\\b(?:be|lie) (?=(?:broke|threw|took|gave|went|came|saw|fell|ran|rode|sat|slew|smote|spoke|stood|tore|wrote|knew|drew|drank|rose|bore|wore|was|clove|acquired)\\b)",
+      "to": "he "
+    },
+    {
+      "pattern": "\\b(whose|its|horseman’s|his|a) bead\\b(?! on wrist)",
+      "to": "$1 head"
+    },
+    {
+      "from": "bead-dress",
+      "to": "head-dress"
+    },
+    {
+      "from": "Hell bow",
+      "to": "He’ll bow"
+    },
+    {
+      "from": "mixi n g",
+      "to": "mixing"
+    },
+    {
+      "from": "j&xed",
+      "to": "fixed"
+    },
+    {
+      "from": "ever 3 rthing",
+      "to": "everything"
+    },
+    {
+      "from": "s-ops",
+      "to": "stops"
+    },
+    {
+      "from": "afi[ord",
+      "to": "afford"
+    },
+    {
+      "pattern": "’U\\b",
+      "to": "’ll"
+    },
+    {
+      "pattern": "’!!",
+      "to": "’ll"
+    },
+    {
+      "from": "could be to marriage haste, nor could be find such slave-girl as be wished",
+      "to": "could he to marriage haste, nor could he find such slave-girl as he wished"
+    }
+  ],
   "sections": [
     {
       "heading": "(Invocation to God)",
@@ -132,7 +382,8 @@
     },
     {
       "heading": "How Bahram seizes the crown from between two lions",
-      "ganjoor": 18
+      "ganjoor": [18, 19],
+      "splitAt": ["The horoscope of (Bahram"]
     },
     {
       "heading": "Bahram sits on the throne in his father's place",

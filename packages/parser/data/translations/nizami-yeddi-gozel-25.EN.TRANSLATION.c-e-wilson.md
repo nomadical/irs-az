@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -78,7 +76,7 @@ Those, agate-hued, this, with cornelians’ worth; it was a mine of rabies in th
 
 Its gems, (which) to the eyes gave sustenance, (were), like the “ yaqut ”, yellow, red, and blue.
 
-A young bride (’twas) whose ornaments were sparks; one ambergris-perfumed, emlDracing coal.
+A young bride (’twas) whose ornaments were sparks; one ambergris-perfumed, embracing coal.
 
 A draped bower and some nooks at goldsmiths’ work — an aloes-wood bower, and pomegranate-nooks.
 
@@ -98,7 +96,7 @@ Around the fire with special native grace ring-doves were flapping in the dance 
 
 The room more pleasant than the cypress shade; the wine more rosy than the pheasant’s blood.
 
-The ring-dovercoloured sky poured from the air ring-doves, (and) poured out from the ring-doves blood.
+The ring-dove-coloured sky poured from the air ring-doves, (and) poured out from the ring-doves blood.
 
 The wine within the cup of crystal-make was like wet fire in arid water placed.
 
@@ -130,7 +128,7 @@ Health, safety, and subsistence — these three (things) are the essentials, oth
 
 When clothed the body and the stomach full, say. Be not pearls or rubies in the world!
 
-(Then) we who have (with us) a king like you, in having you have everylihing (we can).
+(Then) we who have (with us) a king like you, in having you have everything (we can).
 
 Would that in that there were some means by which the evil eye might e’er from us be turned!
 
@@ -138,7 +136,7 @@ That the stars’ motion and the heavens’ march an aspect so auspicious (e’e
 
 That the good luck of joy might never stray, pleasure not ruined be for those who joy!
 
-So that the kihg might be for ever glad, the wind not snatch the grain of his delight.
+So that the king might be for ever glad, the wind not snatch the grain of his delight.
 
 ’Tis urgent that the monarch’s life be gay, if (e’en) our lives be sacrificed ’his fit.
 
@@ -164,9 +162,9 @@ He’d helped his master in Khavarnaq erst in painting and in sculptured work as
 
 When at that feast he saw the monarch gay; fluent of tongue, with fervidness of heart,
 
-He kissed the earth, pald homage to the king, sat down again when he had kissed the earth.
+He kissed the earth, paid homage to the king, sat down again when he had kissed the earth.
 
-He said. If by the king I’m given leave, I’U keep the evil eye far from his lands;
+He said. If by the king I’m given leave, I’ll keep the evil eye far from his lands;
 
 For I can weigh the sky, I know the stars, by reason know the business of the stars.
 
@@ -176,13 +174,13 @@ I’ll form a likeness to the lofty spheres, by means of which they will not har
 
 Whilst he is in the picture-room, the world, he’ll have no fear of the celestial stars.
 
-Placed in the place of safety as to life, on earth he’U be, (in power), as the sky.
+Placed in the place of safety as to life, on earth he’ll be, (in power), as the sky.
 
 I mean, from my ideas of the affair like the Seven Skies I’ll make a seven-domed house.
 
 The hue of every dome distinct, more fibre than hue of any idol-temple known.
 
-Seveji rare and charming idols lias the king (I 5 I 43 ), each signalized as of a different Clime (1,1)-
+Seven rare and charming idols lias the king (I 5 I 43 ), each signalized as of a different Clime (1,1)-
 
 In ground-work and in columns every Clime is with a certain planet in accord.
 
@@ -190,21 +188,21 @@ In ground-work and in columns every Clime is with a certain planet in accord.
 
 On such days, days to light a festive scene, let him take pleasure in a dome each day;
 
-Put on attire in colour as the house, and with the charmer of the house driok wine.
+Put on attire in colour as the house, and with the charmer of the house drink wine.
 
 If with these words (of mine) the king conform, he’ll magnify himself, be glorious.
 
 So long as life exists and may be used, (the kil) will have enjoyment of his life.
 
-The king said. Granting that I do (aU) this, the house of gold, the doors of iron make,
+The king said. Granting that I do (all) this, the house of gold, the doors of iron make,
 
 Since at the end of things I needs must die, why should I all this pain and trouble bear!
 
 As to your words, that I should raise a house of domes, and in such wise adorn the domes —
 
-Houses of fancy and desire aU these — where is the house of servitude to God!
+Houses of fancy and desire all these — where is the house of servitude to God!
 
-Although in aU of them I may express applause, where shall I the Creator seek?
+Although in all of them I may express applause, where shall I the Creator seek?
 
 Again he said, These words are Hi-conceived — why spoke I of the place-Creator’s place!
 
@@ -212,7 +210,7 @@ He who cannot in (any) place be seen may be adored and served in every place.
 
 The monarch spoke these words, was silent (then) — his brain full of excitement from the theme.
 
-Por he had seen in Simnar’s formula what served as. comment on the seven forms;
+For he had seen in Simnar’s formula what served as. comment on the seven forms;
 
 Those fairy forms too of the Seven Climes like pearls of price he in his casket had.
 
@@ -242,7 +240,7 @@ The monarch came, and seeing seven skies in friendship hand in hand together joi
 
 He thought how the act of Nu'man towards Simnar throughout all countries had become well-known;
 
-(And how) the killing of that wondrous man was disapproved by aU who could discern.
+(And how) the killing of that wondrous man was disapproved by all who could discern.
 
 The town of Amiil he to Shida gave, that Shida might through Bahram be content.
 
@@ -254,7 +252,7 @@ The action of the world can be like this — it gives one loss, and gives anothe
 
 (Like) a “ habab ” one friend becomes through thirst; another friend immersed in water drowns.
 
-All are bewildered at their own aSairs; except submission know no remedy.
+All are bewildered at their own affairs; except submission know no remedy.
 
 No one the secret of this knows but God, He, only, knowledge of all secrets has.
 
@@ -282,17 +280,17 @@ That which of Venus’ grace had happy news — its hue was like the face of Ven
 
 The one which had from Mercury its lot was turquoise-hued from its felicity.
 
-And that one by whose tower the moon went forti through the moon’s aspect throve in verdancy.
+And that one by whose tower the moon went forth through the moon’s aspect throve in verdancy.
 
 (So) with the nature of the planets seven the seven domes in this mode raised their forms.
 
 The Seven Climes tad covenants from them; the seven kings’ daughters there remained as brides.
 
-With (aU her) grace and wisdom each of them in one of these seven domes had her abode.
+With (all her) grace and wisdom each of them in one of these seven domes had her abode.
 
 After the house’s pattern she’d made all, even to seats, the colour of the dome.
 
-Day after day the happy king would take his place each day within a diSerent dome.
+Day after day the happy king would take his place each day within a different dome.
 
 On Saturday the place prescribed for it, and on the other days as it was meet.
 
@@ -304,7 +302,7 @@ The lady of the dome would drink of wine; each moment show her charm in some new
 
 (Seeking) how she should ravish the king’s heart, (and) how the king should in her sweetness joy.
 
-(So) she would tell him love-ezciting tales, should sharpen those in whom desire was blunt. —
+(So) she would tell him love-exciting tales, should sharpen those in whom desire was blunt. —
 
 Although Bahram raised castles in this mode, he did not save his life from death at last. —
 

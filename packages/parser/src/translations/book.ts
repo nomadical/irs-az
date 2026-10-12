@@ -63,6 +63,8 @@ export interface BookConfig {
   endMarker?: string;
   /** Whole-word OCR misreadings that are real words ("Bahrain" for Bahram) */
   replacements?: Record<string, string>;
+  /** The book's lowercase terms the word list lacks ("huri", "vazir"): OCR fixes may turn into them */
+  words?: string[];
   /** Proofread against the scan: the translations no longer carry the OCR caveat */
   proofread?: boolean;
   /** heading: shown in the translation; match: the body's wording when it differs from the contents */
@@ -163,10 +165,19 @@ function paragraphs(text: string, cfg: BookConfig): string[] {
   }
   flush();
 
-  // A paragraph starting in lowercase continues the previous one across a page break
+  // A couplet broken by a page break or a stray blank line: the rest starts in lowercase, with a
+  // comma or a note number ("(1.198) he withdrew from us."), or is a short tail after a line left
+  // open ("…a fairy I have seen, / O fairy-born."). Headings end open too, so an open line alone isn't enough
+  const isHeading = (p: string) => cfg.sections.some((h) => similarity(p, h.match ?? h.heading) >= HEADING_MATCH);
   const merged: string[] = [];
   for (const p of paras) {
-    if (merged.length && /^[a-z]/.test(p)) merged[merged.length - 1] += '\n' + p;
+    const prev = merged[merged.length - 1];
+    const continues =
+      prev !== undefined &&
+      (/^([a-z,]|\(\s*[\d.,]+\s*\))/.test(p) ||
+        // after a verse line, and not a heading (OCR ends some with a comma or full stop)
+        (p.length < 40 && prev.length > 40 && !/[.!?;:)]\s*$/.test(prev) && /[.!?;,]\s*$/.test(p) && !isHeading(p)));
+    if (continues) merged[merged.length - 1] += '\n' + p;
     else merged.push(p);
   }
   return merged;
@@ -261,7 +272,7 @@ function repair(couplets: string[]): string[] {
 
 export async function planBookTranslation(cfg: BookConfig): Promise<BookPlan> {
   const text = await fetchText(cfg.archiveId);
-  const vocab = new Vocabulary(text);
+  const vocab = new Vocabulary(text, undefined, new Set(cfg.words ?? []));
   const ocr: OcrStats = { fixed: 0, unknown: 0, words: 0 };
   const sourceUrl = `https://archive.org/details/${cfg.archiveId}`;
 

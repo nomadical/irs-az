@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -38,9 +36,7 @@ The Grecian bride, adorned and lovely, said, O lord of Greece, of China, and Tar
 
 Whoe’er resolves to be aught but your slave, casts his head underfoot like scattered coin.
 
-When she had pald the dues of homage (thus), as incense of the censer, made her breath, —
-
-Story.
+When she had paid the dues of homage (thus), as incense of the censer, made her breath, — Story.
 
 She said, A certain city in ‘Iraq had (once) a king unique among (all) kings.
 
@@ -74,9 +70,9 @@ When the girl often heard deceit (like) this, the duties of her service she’d 
 
 Of meddling fools how many (do we see) who, (though their) friends, lead servants into pride [
 
-Such are balistas, beautified, adorned, they ruin bouses, families delude.
+Such are balistas, beautified, adorned, they ruin houses, families delude.
 
-However much the king would strive (to please), no girl assumed ber just and proper place.
+However much the king would strive (to please), no girl assumed her just and proper place.
 
 Each one for whom be sewed a robe of love, would sell it, since she had no love for him.
 
@@ -84,15 +80,15 @@ By dint of parting with the young slave-girls the title, “ Seller of slave-gir
 
 Each one by outer (tokens) only judged, no one the inner bearings could compute.
 
-Through seeking much the king became distressed, (and) no desire (of bis) was gratified.
+Through seeking much the king became distressed, (and) no desire (of his) was gratified.
 
-Nor through ill fate could be to marriage baste, nor could be find such slave-gtcl as be wished.
+Nor through ill fate could he to marriage haste, nor could he find such slave-girl as he wished.
 
 Of all who were impure be washed his bands; be sought one who was beautiful and pure.
 
 Until one day a man who dealt in slaves brought information to a royal slave
 
-That from the picture-house of China’s realm a merchant bad with thousand burls come.
+That from the picture-house of China’s realm a merchant bad with thousand huris come.
 
 Virgin dave-girls of countries different: some of Kkallukb, some also of Cathay.
 
@@ -100,15 +96,15 @@ Each one, in face, a world-illuming sun; a love-compeller, one who lovers burnt.
 
 Among them a young slave-girl like a fay, who from the morning star bad borne off light.
 
-A ear-bored (slave-girl), (but) an unbored pearl; appraised by the pearl-seller at a Iffe.
+A ear-bored (slave-girl), (but) an unbored pearl; appraised by the pearl-seller at a life.
 
 Her lips like coral — (coral) clasped with pearls; bitter in answer she, but sweet in smile.
 
-One who bestowing sugar-sprinkbng smiles, makes aU eat (only) sugar many years.
+One who bestowing sugar-sprinkling smiles, makes all eat (only) sugar many years.
 
 (Yet) one whose tray, with naught but sugar charged, affords but bitterness as food of men.
 
-(E’en) I, who in this trafSc am engaged, at such bps, moles, and ringlets have been dazed.
+(E’en) I, who in this traffic am engaged, at such lips, moles, and ringlets have been dazed.
 
 I am assured if you should also see that beauty and attraction you’d approve.
 
@@ -122,13 +118,13 @@ The eyes approved her as more beautiful than, by the speaker, she had been descr
 
 The king said to the dealer. Tell me (now) what kind of disposition has this girl!
 
-If in my mind I feel a wish for her, whatever price you ask, I’U add to it.
+If in my mind I feel a wish for her, whatever price you ask, I’ll add to it.
 
 The merchant from Cathay thus loosed his tongue. This maiden, honey-giver, honey-lipped.
 
 Save one bad fault, and that is truly bad, — that she displays no love for him who woos, —
 
-Has, as you see now, aU the qualities of beauty and attraction which are sought.
+Has, as you see now, all the qualities of beauty and attraction which are sought.
 
 Whoever buys her with delight of me, next morning gives her back to me again.
 
@@ -156,7 +152,7 @@ His heart could tire not of its love for her; not could he rashly buy with such 
 
 At last, (in spite of all), love turned his head, threw dust into the eye of kingly power.
 
-Silver he poured before the sHveiy-limbed; he bought with silver one of silvery form.
+Silver he poured before the silvery-limbed; he bought with silver one of silvery form.
 
 The door of one wish on himself he shut, and passed a pleasant life with that fair maid.
 
@@ -180,9 +176,9 @@ He drove away the old dame from the house — see to a charmeress what charm he 
 
 Tin the girl grew so precious in his eyes that he became through love the slave-girrs slave.
 
-Although that raiding Turk's insidiousness he felt, yet stfll he practised self-restraint.
+Although that raiding Turk's insidiousness he felt, yet still he practised self-restraint.
 
-Until ojne night it happened in this wise, a fire was kindled in those lovers twain.
+Until one night it happened in this wise, a fire was kindled in those lovers twain.
 
 The monarch’s feet (lay) in the charmer’s lap — the gold bought slave (was dressed) in painted silks.
 
@@ -194,7 +190,7 @@ The king when heated by a flaming fire, said to that rose, of rose-water the fou
 
 The cypress to your form, as grass; to you, a jug-bearer the basin of the moon, —
 
-I’U ask of you a thing of import hid; answer me truly as I question you;
+I’ll ask of you a thing of import hid; answer me truly as I question you;
 
 (For) if the answer (that you give) be straight, things will be straight for me, (straight) as your form.
 
@@ -230,7 +226,7 @@ These are that with your wife when face tb face, each, (questioned by the other)
 
 If both give truthfully your narratives, (then) from the child the trouble can depart.
 
-When Solomon reported to Bilqis in (aU due) haste the words of Gabriel,
+When Solomon reported to Bilqis in (all due) haste the words of Gabriel,
 
 Bilqis, rejoicing at those words, exclaimed, May our house flourish by a worthy heir!
 
@@ -250,7 +246,7 @@ The seal of the prophetic office yours, the seal too of the world, this fact's n
 
 Yet spite of all your beauty and your youth, your sovereign power and absolute success.
 
-Whene’er I see a young man from afar, from wicked inclination Pm not free.
+Whene’er I see a young man from afar, from wicked inclination I'm not free.
 
 After the child with useless hands had heard this secret (told) he stretched his hands to her.
 
@@ -260,15 +256,15 @@ When she of fairy face by speaking truth had given hands to one of fairy birth,
 
 She said, O lord of demons and of fays, like goodness comely, and like wisdom good,
 
-Disclose a secret in the child’s behaM, that he gain feet from you, as hands from me.
+Disclose a secret in the child’s behalf, that he gain feet from you, as hands from me.
 
 I’]l ask a question if it pain you not: to-wit, you have much treasure, many a store —
 
-(Now say) does greed attack your heart at aU, so that it covet what another owns!
+(Now say) does greed attack your heart at all, so that it covet what another owns!
 
 The godly prophet said (in his reply), I have (indeed) what no one (ever) had:
 
-(All) sovereign power, and wealth, and kingly hoards — aU have I from the moon down to the Fish.
+(All) sovereign power, and wealth, and kingly hoards — all have I from the moon down to the Fish.
 
 With affluence so copious and complete, — whoever comes to me to pay me court,
 
@@ -286,13 +282,13 @@ As in God’s sanctum you have spoken truth; the trouble’s left my hands, the 
 
 Granted that I continue (thus) in pain, and (only) from a distance glance at you,
 
-(StUl) why have you, so fairy-like in face, so beautiful, abandoned thought of love?
+(Still) why have you, so fairy-like in face, so beautiful, abandoned thought of love?
 
-The graceful cjrpresSj near the limpid spring, could see no better answer than the truth.
+The graceful cypress near the limpid spring, could see no better answer than the truth.
 
 She said. There is in our unworthy race a property which by us has been proved.
 
-Whoever of (our) women trusts her heart to (any) man dies when a child is bom.
+Whoever of (our) women trusts her heart to (any) man dies when a child is born.
 
 Since every woman of us dies who bears, how should we give our heart to (any) man!
 
@@ -316,7 +312,7 @@ Whomever like a lamp he treats with care, he puts out like a candle (soon) again
 
 He raises her in comfort to the sky, (then) casts her in abasement to the earth.
 
-The kmg replied; Because no one of them displayed a particle of love for me;
+The king replied; Because no one of them displayed a particle of love for me;
 
 In their own business they were all engrossed; at first they seemed good, but were (really) bad;
 
@@ -328,7 +324,7 @@ A stomach must be stone-like that its mill by a handful of corn may not be vexed
 
 A woman seeing one of open face, looks both at him and also at herself.
 
-Trust not in any woman, she’s a straw; the wind whirb off a straw in any place.
+Trust not in any woman, she’s a straw; the wind which off a straw in any place.
 
 A woman who sees gold upon the scales, will bow her head for one grain to an ass.
 
@@ -358,7 +354,7 @@ Patient with thirst upon the water’s brink, whilst time (impatient) speeded (o
 
 Gained knowledge of the patience of the king, and of his not obtaining his desire.
 
-How foiled by one just come to woman’s age, he, one of mighty frame, had lost his nodght.
+How foiled by one just come to woman’s age, he, one of mighty frame, had lost his might.
 
 She said, Now is the time if by some trick I am to lead a fay a demon’s dance;
 
@@ -378,7 +374,7 @@ By bridling thus the tame colt then contrive under control to bring the unbroken
 
 The king was pleased with these insidious words; the bricks of this (her) mod seemed whole and sound.
 
-He bought a spritely girl of honeyed Hps, versed in insidious and in cunning arts.
+He bought a spritely girl of honeyed lips, versed in insidious and in cunning arts.
 
 One knowing haram life had trained her well; from birth was she too of a docile mind.
 
@@ -398,7 +394,7 @@ The road and rule of service still she kept; she passed not a hair’s breadth f
 
 She tried to fancy what the trick might be — from the old woman’s oven rose the storm.
 
-She still kept quiet, practised patience stfll, (but) in love patience is of no avail.
+She still kept quiet, practised patience still, (but) in love patience is of no avail.
 
 One night in private she, of blessed face, found an occasion, and inspired by love.
 
@@ -406,7 +402,7 @@ Thus spoke, O monarch of angelic kind, ruling the realm by justice and the Faith
 
 Since you are truthful and right-judging (too), keep to the road of truth and right with me.
 
-Each day that steps forth sees at jSxst a dawn, and at the last (it sees) an eventide.
+Each day that steps forth sees at first a dawn, and at the last (it sees) an eventide.
 
 Since you, — whose day let no decline affect, whose night be naught but night of union’s joy! —
 
@@ -444,7 +440,7 @@ For since my sun has entered Aries, why should I call to mind the old dame’s c
 
 Many such soothing words he spoke, and she, delightful fair one, heard them with delight.
 
-Thus taught, the lily-finder access gave unto the lily-scented cjress-tree.
+Thus taught, the lily-finder access gave unto the lily-scented cypress-tree.
 
 Luscinia rosse calycls solio superincubuit; evolvit se rosse calyx, et luscinia cupidine factus est ebrius.
 
@@ -452,7 +448,7 @@ Stagno injecit piscem; laeti dactylum injecit.
 
 Mira dulcedine pinguitudineque erat; ejus dactyli dulcedinem auxit.
 
-Eex formae sinensi sericum sinense pictum et subti-liasiTnnm detraxit; portulse scram auream excussit.
+Rex formae sinensi sericum sinense pictum et subti-liasiTnnm detraxit; portulse scram auream excussit.
 
 Dignis auro magaritis ref ertum thesaurum vidit; omamentis additis aureis effecit ut (illse margaritse) flavae fierent.
 

@@ -80,7 +80,7 @@ Again the blood in the liver expressed the agitation (of wrath),
 God's detailed decree reproved God's general decree (saying: — Why hast thou not accomplished the appointed order?).
 
 From the Russian (array), came a horseman like the elephant,
-With a face (ruddy) like the red-coloured (hakam) tree; eyes (black) like the (black) _Nile.
+With a face (ruddy) like the red-coloured (bakam) tree; eyes (black) like the (black) _Nile.
 
 He sought out an opponent from among the men of Rum;
 Kept displaying manliness; kept slaying men:

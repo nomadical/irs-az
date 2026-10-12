@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -14,7 +12,7 @@ status: DRAFT
 ---
 That which is new and also old is speech, and on this speech some speech is (to be used).
 
-In aU creation the creatress “ Be ” no child has brought forth loveher than speech.
+In all creation the creatress “ Be ” no child has brought forth loveher than speech.
 
 Beware! say not the eloquent are dead; they’ve sunk their heads beneath the stream of words;
 
@@ -22,11 +20,11 @@ Speak but the name of anyone you will; like fish he raises from the stream his h
 
 Speech, faultless like the spirit, is the guard of the (rich) treasure-house of the unknown.
 
-It knows the story wMck has not been heard; it reads the hook which has not (yet) been writ.
+It knows the story which has not been heard; it reads the hook which has not (yet) been writ.
 
 Of everything which God has made exist — consider what remains of it save speech.
 
-The lasting monument of man is speech; those other (things) are aU (but empty) air.
+The lasting monument of man is speech; those other (things) are all (but empty) air.
 
 To mineral and vegetable (look), to animal and intellectual.
 
@@ -38,7 +36,7 @@ He who knows not the fashion of his make must pass, (but) he is permanent who do
 
 See what it is that has this knowledge (then), (for) that which has it is the permanent.
 
-WHien you know well yourself you will not die, though (seemingly) at first you pass away.
+When you know well yourself you will not die, though (seemingly) at first you pass away.
 
 But those who of existence nothing know, come in at this door, and pass out at that.
 
@@ -94,8 +92,6 @@ Live so that should you suffer a mishap, you may at least not suffer taunts from
 
 One, weeping as at ills which have prevailed; one, laughing as at merited return.
 
-TEAJSrSLATION
-
 Although no one indeed may take your hand; though no one at your tomb (with grief) may die,
 
 ’Tis better pity in his heart should be than that he should be joyful at your grief.
@@ -110,7 +106,7 @@ Man for the sake of eating has not life, for intellect and reason is it given.
 
 (Even) a dog is nobler than the man who keeps his eyes fixed like an ass on food.
 
-Strive earnestly to be of use to aU, that you by service may adorn the world.
+Strive earnestly to be of use to all, that you by service may adorn the world.
 
 ’Tis best to have good nature like the rose, that one may be sweet-scented in the world.
 
@@ -126,7 +122,7 @@ Practise not harshness, the harsh earth has killed like you a hundred for a loaf
 
 If any ask, (How is it) knowledge pure from man arises, and from earth the man!
 
-Say, Eoses give rose-water, thorns the rose; the snake-stone antidote, the snake the stone.
+Say, Roses give rose-water, thorns the rose; the snake-stone antidote, the snake the stone.
 
 Exchange not salutations with the world: pitch not your tent within a dragon’s mouth.
 
@@ -164,7 +160,7 @@ Pour out upon the sun a purse of gold, and in the fiery ruby plant a stone.
 
 Your eyes by gold are bright, and (this) is bad, (since) the world’s eyes by wisdom are made bright.
 
-Gold is two letters, unconnected each; how long boast of this worthless, scattered thmg?
+Gold is two letters, unconnected each; how long boast of this worthless, scattered thing?
 
 Let not your heart, like earth, be filled with gold, so that you be not scattered e’en like gold.
 
@@ -216,7 +212,7 @@ The foot of one upon a treasure hits, another gains a scrap (of gold) with toil.
 
 Affairs when not to any person’s wish — frustration’s better than obtaining it.
 
-, Every desire which late in life (you’ve) gained fehcitates (you) on a life prolonged.
+Every desire which late in life (you’ve) gained felicitates (you) on a life prolonged.
 
 ’Tis best the long-hved gain their wishes late; life’s business in perfection’s perfected.
 
@@ -306,7 +302,7 @@ The sky’s spade of the earth has made a pit; the earth regards not such a spad
 
 Consider when you first came (to the world) what you possessed of that which now you have —
 
-You’U take from these two passes of dispute that which you brought with you on (that) first day.
+You’ll take from these two passes of dispute that which you brought with you on (that) first day.
 
 With debts around your neck to sea and mount, how can you with the heavens hope to dance!
 

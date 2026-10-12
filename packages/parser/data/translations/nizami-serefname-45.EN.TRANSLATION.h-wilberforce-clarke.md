@@ -244,7 +244,7 @@ Through his design (of attack) the black eagles, black-clad (in mourning),
 Much blood (of birds) on his neck deposited, —
 The claws of his grasp, eagle-overthrowing:
 
-In assaulting, the grinder of the liver of the (mighty yet terrificd) Simurgh,
+In assaulting, the grinder of the liver of the (mighty yet terrified) Simurgh,
 Making every rhinoceros its prey:
 
 Angry and blood-shedding and bold of eye, —

@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -72,7 +70,7 @@ The two young slaves, to wait upon the king, took up their post beside the caver
 
 No way for them to creep into the cave, no power or will to go back to the chase.
 
-With bitter sighs expectant they remained, looking aU round for traces of the guards.
+With bitter sighs expectant they remained, looking all round for traces of the guards.
 
 When after that a good time had elapsed, from every side the (royal) guards arrived.
 
@@ -114,7 +112,7 @@ She sought the long, like other people not, for she sought with (her) soul, and 
 
 She sought the rose, found thorns her bosom-friend; the more she sought, the less her hopes became.
 
-In heaps she poured out money moimtain-high for multitudes of men to dig the ground.
+In heaps she poured out money mountain-high for multitudes of men to dig the ground.
 
 She dug a pit, but found the treasure not; she did not find her Joseph in the pit.
 
@@ -136,7 +134,7 @@ The first one fosters it with tender care; the second takes it back again from h
 
 Yet of these mothers of (the king) Bahram, his mother, earth, was kinder of the two;
 
-For taking him, she gave him back no more; in this no helper could afi[ord (them) help.
+For taking him, she gave him back no more; in this no helper could afford (them) help.
 
 Through grief at mother earth’s oppressive act, the mother, by blood-ties, was well-nigh lost.
 
@@ -146,7 +144,7 @@ You, thoughtless, raging like a beast of prey, seeking to find a saint of the un
 
 God to your custody consigned a charge, (and) when the term arrived required it back.
 
-Kill not yourseh as one devoid of sense in (your) farewell to any trust consigned.
+Kill not yourself as one devoid of sense in (your) farewell to any trust consigned.
 
 Go back again, and do the work you have; indulge no longer in protracted grief.
 
@@ -190,7 +188,7 @@ Else, if you wish the sky to be subdued, step to the heights and flee from earth
 
 Ever advance, and in no way look back, that to the earth you fall not from the sky.
 
-The stars celestial are your shoulder-belt; (these stars) what are they aU? They are your means.
+The stars celestial are your shoulder-belt; (these stars) what are they all? They are your means.
 
 Tour field surrounds the narrow bounds of all; (all) these designs are on your canvas limned.
 
@@ -198,7 +196,7 @@ Each one from you (its) picture has derived; why take you (then) an omen by each
 
 That which they do, — you are yourself that light; that which they suffer, — you are far from it.
 
-Save one line widcli supports you, central dot, those other letters, all, are of your book.
+Save one line which supports you, central dot, those other letters, all, are of your book.
 
 You are the guardian angel of God’s praise; the signs which to the Maker lead you know.
 

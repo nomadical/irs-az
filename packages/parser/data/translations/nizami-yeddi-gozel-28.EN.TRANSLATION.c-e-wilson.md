@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -14,7 +12,7 @@ status: DRAFT
 ---
 When Monday came the king unto the moon upraised his fortune-favoured canopy.
 
-In green resplendent he was bright and gay, like heavenly angels (aU in) green (attired).
+In green resplendent he was bright and gay, like heavenly angels (all in) green (attired).
 
 He set off on his way to the Green Dome, giving his heart to gladness and to joy.
 
@@ -34,15 +32,13 @@ The crown has exaltation from your head; the throne has sovereign power from you
 
 When she had honoured (thus) the lofty throne, her lips poured forth sweet eloquent discourse.
 
-Story.
-
 She said, There was a worthy man in Rum, like honey in the wax, good, blessed in heart.
 
-Of art and knowledge aU required in man he had, all goodness (too) with it as crown.
+Of art and knowledge all required in man he had, all goodness (too) with it as crown.
 
 His goodness, wisdom, such, he was disposed to pure and chaste relations (in his life).
 
-The people aU had great respect for him; they called him Bashr, the abstinent (and pure).
+The people all had great respect for him; they called him Bashr, the abstinent (and pure).
 
 One day for pleasure by a road he went, a road devoid of incline and decline.
 
@@ -56,7 +52,7 @@ The wind to trial and temptation guide; the Moon came forth from ’neath a murk
 
 When Bashr saw, his legs grew weak, and he, pierced by the arrow of a glance, stood still.
 
-He sawa facewhich by coquettishlures hundred such abjurations would annul.
+He sawa face which by coquettish lures hundred such abjurations would annul.
 
 A heap of roses, but with cypress form; one of fair face, washed with the pheasant’s blood.
 
@@ -84,7 +80,7 @@ He said, If I pursue, it is not right; yet to rest patient, cold, — how can it
 
 Yet patience is the sole resource I have; whatever passes this is infamy.
 
-Though led astray by passion, after aU I am a man, I shall not die from grief.
+Though led astray by passion, after all I am a man, I shall not die from grief.
 
 To give up lust’s a token of the Faith; sobriety (too) stipulates the same.
 
@@ -112,11 +108,11 @@ In this way it must be, he’d say, or that; let no one wag his tongue in sensel
 
 (Thus) Bashr, (now led to) talking, he had made forgetful (quite) of taciturnity.
 
-When Bashr on any theme would speak, he roused at aU that would admit of subtle glose.
+When Bashr on any theme would speak, he roused at all that would admit of subtle glose.
 
 He asked, What is your name, that I may know, and henceforth call you by your proper name.
 
-Bashr answered him and said. Your servant’s name is Bashr; now (tell me), pr 3 rthee, what is yours.
+Bashr answered him and said. Your servant’s name is Bashr; now (tell me), pr 3 thee, what is yours.
 
 He said, (Then) you are Bashr, pride of men, (and) I, Malikha, leader of mankind.
 
@@ -180,7 +176,7 @@ He saw a lofty mount, and said, This mount — why is it more majestic than the 
 
 Bashr answered. This relation is of God that one of them is low, another high.
 
-He said, You throw me stOl on argument; how long will you ascribe things to the Pen!
+He said, You throw me still on argument; how long will you ascribe things to the Pen!
 
 Terrific torrents brought on by the clouds incline the mountains to the lower ground.
 
@@ -196,7 +192,7 @@ We cannot reach to yon side of the Veil, then how review the pictures on this si
 
 No effort void of error can be made; no trust in faulty reading can be placed.
 
-When cast aside this Veil I fear they’U tax the faulty readers with their faulty view.
+When cast aside this Veil I fear they’ll tax the faulty readers with their faulty view.
 
 (So) with the tree whose branches tower so high the hand of everyone should not make free.
 
@@ -214,7 +210,7 @@ Verdure (there was) beneath it like green silk, the eye was cheered and gladdene
 
 Embedded in it was an earthen jar, in which was water truly sweet and pure.
 
-The gabbler saw the Kmpid water there like fresh sweet basil in (dry) earthen sherds.
+The gabbler saw the limpid water there like fresh sweet basil in (dry) earthen sherds.
 
 He said, Felicitous companion mine, I ask (of you), pray say on what account
 
@@ -322,7 +318,7 @@ With urgent haste he drew the drowned man out, bore him to pit of earth from wat
 
 When he had filled (the grave) with earth and stones, sad, grieved in heart, he sat beside its head.
 
-He said, Where (now) your judgment, cunning arts? Where is that awl with which you loosened Imots?
+He said, Where (now) your judgment, cunning arts? Where is that awl with which you loosened knots?
 
 (Where too is) all your claim to artful schemes towards beasts of prey and demons, men and fays?
 
@@ -330,7 +326,7 @@ And (all) your boast that you would lasso, you, the secrets of the seven lofty s
 
 Where now your claim to (knowledge of) twelve arts 1 (your words), Nor man nor woman one thus dead?
 
-And your declaring that you could foresee by your devices aU things (which should come)?
+And your declaring that you could foresee by your devices all things (which should come)?
 
 An open well before (you) on the road how with your eyes of knowledge saw you not?
 
@@ -354,15 +350,15 @@ But I about it entertained good thoughts, — my good was fortunate, I saved my 
 
 He spoke these words, and (then) rose from the ground, and sought (Malikha's) goods to right and left.
 
-He went and took up one by one his things: Egyptian stujfis, turban of linen fine.
+He went and took up one by one his things: Egyptian stuffs, turban of linen fine.
 
-When from his roll of goods he took the seal, a purse of gold fell out upon the groxmd.
+When from his roll of goods he took the seal, a purse of gold fell out upon the ground.
 
 A thousand “ durusts " of Egyptian gold, those ancient corns which were in early times.
 
 He sealed (it) up, detached his heart from it, and left it as before sealed at the mouth.
 
-(Said he), Since he received no help horn me, I'll serve the ofiSiee of custodianship.
+(Said he), Since he received no help horn me, I'll serve the office of custodianship.
 
 All I fasten up and keep secure, and give to him who has a claim to it.
 
@@ -374,7 +370,7 @@ If I indeed should do as he has done, I too should eat from the same place as he
 
 He set out on his way and travelled on; by hill and plain he came towards a town.
 
-After a few days’ rest within the town, partaking of (the'needfol) food and sleep.
+After a few days’ rest within the town, partaking of (the'needful) food and sleep.
 
 He showed the turban to each person there, asking who might the owner of it be.
 
@@ -382,7 +378,7 @@ A worthy man who recognized it said. You must from here a little distance walk.
 
 Within a street, the houses it contains so many, stands a mansion fine and high.
 
-Elnock at the door, the threshold of his house; do not have any doubt, the house is his.
+Knock at the door, the threshold of his house; do not have any doubt, the house is his.
 
 (Then) Bashr, garments, turban, gold, in hand, went to the house of which he’d been informed.
 
@@ -398,15 +394,15 @@ Tell her what fraud and perfidy from fate Malikha, he of heaven-born wisdom, saw
 
 The woman led him (then) within the house, and on a cushioned seat gave him a place.
 
-(The dame) herseH, with face inveiled (from view), said, Speak, a meritable act ’twill be.
+(The dame) herself, with face inveiled (from view), said, Speak, a meritable act ’twill be.
 
 To her of moon-bright face and silvery limbs Bashr told fully every incident.
 
-His coming into fellowship with him, his heaiiog him hold forth on arts (he claimed).
+His coming into fellowship with him, his hearing him hold forth on arts (he claimed).
 
 Then his rude rousing up to aiument, his claiming (knowledge) on all themes (that rose).
 
-His thinking evil too of everytMng, putting on every good the stain of ill.
+His thinking evil too of everything, putting on every good the stain of ill.
 
 How too lie dug a well for other men, and how he went himself into the well.
 
@@ -424,7 +420,7 @@ Clothes, gold he laid at once before (the dame), approving his integrity to her.
 
 She was experienced and possessed rare gifts; she read the page (before her) word by word.
 
-Awhile she was afSicted by the words; she shed some tears at that which had occurred.
+Awhile she was afflicted by the words; she shed some tears at that which had occurred.
 
 She then gave answer, Man of noble sense, beneficent you are, a slave of God.
 
@@ -440,11 +436,11 @@ Mallkha, dead, consigned to earth his frame, has borne his soul to an appropriat
 
 You spoke of him as hard to please, ’twas so; ’his true, increased a thousandfold your count.
 
-His occupation naught but tyraimy, but faithlessness and torture of mankind.
+His occupation naught but tyranny, but faithlessness and torture of mankind.
 
-He didmuch ’wrong to women and to men; for sncli a one such (fate) is fit and meet.
+He did much ’wrong to women and to men; for such a one such (fate) is fit and meet.
 
-A Jew of rancorous nature in Ids faith, subtle as snake, a dragon in his acts.
+A Jew of rancorous nature in His faith, subtle as snake, a dragon in his acts.
 
 For years from him I suffered much distress, no fruit I’ve eaten from him saving ill.
 
@@ -484,13 +480,9 @@ The unconscious man to consciousness restored, his head 'was heated with the hea
 
 He said, Though through a fairy I’m distraught, think not that I am a demoniac.
 
-Though he is lost who has beheld a div, a fairy I have seen,
+Though he is lost who has beheld a div, a fairy I have seen, O fairy-born.
 
-O fairy-bom.
-
-And what you see is no love of to-day’s; long time it is that
-
-I have felt this pain.
+And what you see is no love of to-day’s; long time it is that 1 have felt this pain.
 
 For in a certain narrow street one day the wind blew from your hand your veil aside.
 
@@ -510,7 +502,7 @@ If He now give one fair as you and wealth, if He has made them lawful (now), ’
 
 When she became acquainted with his love, her own from erstwhile grew from one to ten.
 
-So fair entreated by that buri Bashr went out on festive preparations bent.
+So fair entreated by that huri Bashr went out on festive preparations bent.
 
 Pledged to the marriage-gift, he married her; a boon he gained, and for the boon gave thanks.
 
@@ -520,7 +512,7 @@ He saved a queenly being from a Jew; he rescued from eclipse a (brilliant) moon;
 
 Washed from her mead the dust of yellowness; petals of lily grew and hyacinth.
 
-He judged her to the heavenly ones akin, so dressed her like the hurls (all) in green.
+He judged her to the heavenly ones akin, so dressed her like the huris (all) in green.
 
 Green dress is better far than yellow badge; green is becoming to the cypress-tree.
 

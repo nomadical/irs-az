@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -46,7 +44,7 @@ A king of Grecian raiment, Chinese crown, to whom Greece land-tax, China tribute
 
 The fortune of the Law, in root and branch, has gained the beauty of accord through him.
 
-The sky’s on foot to bow before the king; before his grandeur aU creation's prone.
+The sky’s on foot to bow before the king; before his grandeur all creation's prone.
 
 Adorned and ordered as the (starry) sky, his banquets are as (Rustam’s) Seven Feasts.
 
@@ -54,7 +52,7 @@ From earth to fiery sphere are dregs and scum; he pure, since he is eminence its
 
 In that beneficence of musky scent which turns the dusky earth to lustrous pearls,
 
-The Egyptian gold he gives to him who asks outnumbers (aU the grains of) Meccan sands.
+The Egyptian gold he gives to him who asks outnumbers (all the grains of) Meccan sands.
 
 His sabre treats the hardness of the rock as fierce impetuous fire (treats) poplar chips.
 
@@ -72,7 +70,7 @@ You, as the sky in water, far and near, keen, steady as the sun in mirror seen;
 
 You, steadfast in your charge of all the world, (your) steadfast namesake prostrate at your hands;
 
-O’er all men like the sky conspicuous, excelling aU men as the angels do; —
+O’er all men like the sky conspicuous, excelling all men as the angels do; —
 
 ’Tis fitting I address this book to you, for through you one may reach to high renown.
 
@@ -102,7 +100,9 @@ I set forth this choice work in happy style, — how sweet the marrow in so choi
 
 With every art I have adorned (the work), that to its beauty you may give a glance.
 
-The reed, my pen, has from the field of art conveyed to Mercury fresh ears of corn. yirgo has taken to herself these ears, though ‘‘ Storyteller story-teller hates.
+The reed, my pen, has from the field of art conveyed to Mercury fresh ears of coin.
+
+Virgo has taken to herself these ears, though ‘‘ Storyteller story-teller hates.
 
 Since from the fort of my contented state I’ve offered to the king a store of pearls, —
 
@@ -110,7 +110,7 @@ Kegarding pay (for these) in current gold, the Brazen Fort my debtor (still) rem
 
 (Such) debt is not from want of will to give; a fort from want of silver may be brass.
 
-The sword has scattered from that Eocky Mount rubies and diamonds o’er a hundred leagues:
+The sword has scattered from that Rocky Mount rubies and diamonds o’er a hundred leagues:
 
 The rubies, as is fit, for hands of friends, the diamonds for the feet of enemies.
 
@@ -132,7 +132,7 @@ In order that the bird on joyous wing may bear it to the person who can help.
 
 Have tied a missive to a pigeon too, which if it to the long convey I’m saved. —
 
-You, at whose gate the sky’s an ear-ringed slave, ofience-condoner of Cathayan dress,
+You, at whose gate the sky’s an ear-ringed slave, offence-condoner of Cathayan dress,
 
 Since your exalted state has favoured me, behold the sorcery that I’ve displayed.
 

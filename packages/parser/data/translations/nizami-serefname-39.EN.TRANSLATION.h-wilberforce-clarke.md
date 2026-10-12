@@ -112,7 +112,7 @@ Saying: — " For the threshold-kiss of this court,
 " Hair bound up (ready) for the chieftainship of calamity,
 " He turns his face towards the place of thy crown (thy head).
 
-" Our, a calamity like this, who has become ardent in malice,
+" One, a calamity like this, who has become ardent in malice,
 " Consider not a small matter, — if thou consider the small.
 
 " From small things, — many a calamity becomes great,

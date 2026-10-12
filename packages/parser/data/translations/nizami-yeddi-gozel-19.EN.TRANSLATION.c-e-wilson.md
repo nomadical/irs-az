@@ -4,21 +4,33 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
 status: DRAFT
 ---
+The horoscope of (Bahram’s) throne and rule came out auspicious in goodwill to him.
+
+Ere this the observer learned in the stars had taken observations for the throne.
+
+Leo ascendant of the throne he’d found: stable ascendant of confirmed good luck.
+
+A sun exalted to its apogee with Mercury in (its) conjunction joined.
+
+Venus in Taurus was, and Jupiter was in the Bow, the house heaven-like from both.
+
+The moon was in the tenth. Mars in the sixth adorned the assembly with (his) sword and cup.
+
+Saturn’s hand holding Libra weighing hoards which reached to highest Saturn from the earth.
+
 When with this happy-omened horoscope the king endowed with virtues took the throne.
 
 Through all the rubies and the pearls poured out the ship, the throne, was filled up like the sea.
 
 Treasure on treasure those who treasure had beyond all bounds and reckoning scattered it.
 
-He who first had the throne of sovereignty; to whom pald homage citizens and troops.
+He who first had the throne of sovereignty; to whom paid homage citizens and troops.
 
 Seeing the majesty of King Bahram, through whom the crown and throne had gained renown,
 
@@ -26,7 +38,7 @@ He first of all the people, great and small, called him the king and sovereign o
 
 The priests called him the ruler of the world, and kings entitled him lord paramount.
 
-And so each one according to his power in pubhc or in private offered praise.
+And so each one according to his power in public or in private offered praise.
 
 When o’er the world the king became upraised — his exaltation higher than the sky’s —
 
@@ -34,11 +46,11 @@ He spoke upon the justice he designed; he strewed fresh pearls from balas rubies
 
 He (thus) spoke, God has given me the crown — in me may (then) this gift of God he blest!
 
-I offer praise and tlianisgiving to God — He who confesses God — to him be praise!
+I offer praise and thanksgiving to God — He who confesses God — to him be praise!
 
 I do not turn my back to God’s good gifts; I give thanks for his gifts — why should I not?
 
-To bear the crown oS from two Uons’ jaws — I take this as from God, not from (my) sword.
+To bear the crown oS from two lions’ jaws — I take this as from God, not from (my) sword.
 
 Since I have reached the crown and lofty throne, I will do works of which God may approve.
 
@@ -82,9 +94,9 @@ He fastened on the belt of seven gems, and sat upon the throne of seven steps.
 
 Dressed in a Chini like a falcon’s breast, a E-umi as adornment over it;
 
-He by his beauty took ‘the crown from Eum; from China tribute by his comeliness.
+He by his beauty took ‘the crown from Rum; from China tribute by his comeliness.
 
-He had estabhshed like Jamshid a throne; his turns of music rose above the sun.
+He had established like Jamshid a throne; his turns of music rose above the sun.
 
 He gave the world the rule of equity; he raised the head of justice o’er the sky.
 
@@ -96,27 +108,27 @@ Through him the world’s affairs were prosperous; the atmosphere serene to brea
 
 The barren cow brought forth abundantly; the water in the livers fuller flowed.
 
-The trees abounded (aU) with ripened fruits; the coining-dies took rest upon the coins.
+The trees abounded (all) with ripened fruits; the coining-dies took rest upon the coins.
 
 Through him the world was well administered; divided inclination left the realm.
 
-In every quarter princes royal-born gained rank and honour through lus majesty.
+In every quarter princes royal-born gained rank and honour through his majesty.
 
 The officers of all (the king’s) domains poured out (full) loads (of treasure) at his gate.
 
-The governors of forts brought treasures too; they offered him the keys of (aU) the forts.
+The governors of forts brought treasures too; they offered him the keys of (all) the forts.
 
 Each one new journals of transactions made; pledged to the king’s sign-manual his life.
 
-The king engaging in the realm’s aSairs, honoured each one according to his rank.
+The king engaging in the realm’s affairs, honoured each one according to his rank.
 
 (All) hapless people’s business ordered well; and brought back people who had left the land.
 
-He freed the sheep from the wolf’s lyranny; he made the falcon the dove’s relative.
+He freed the sheep from the wolf’s tyranny; he made the falcon the dove’s relative.
 
 He cleared sedition’s head from drunkenness; he held back (too) the hand of tyranny.
 
-He broke the basis of his foes’ affairs, and gave his friends control of aU the world.
+He broke the basis of his foes’ affairs, and gave his friends control of all the world.
 
 He practised in his rule humanity; sure, that is better than oppressive rule.
 
@@ -146,7 +158,7 @@ Great riches by the sword he would acquire; as one might crack a whip he’d giv
 
 Although the realm was flourishing through him, — for sun-like at a rapid pace he went, —
 
-His people, led away by bounteous gifts, rehed (too much) upon a plenteous year.
+His people, led away by bounteous gifts, relied (too much) upon a plenteous year.
 
 They cast off from their hearts (all) thanks to God; and kindliness discarded from their breasts.
 
@@ -164,7 +176,7 @@ They spoke of this condition to Bahram, saying. There is complete dearth in the 
 
 Men like unto the worms (are) eating men; now they eat men, now carrion they devour.
 
-When the 'kmg saw the price of grain was high, the doors he unlocked of his granaries.
+When the 'king saw the price of grain was high, the doors he unlocked of his granaries.
 
 He sent a letter (then) to every town in which there (happened to) be any store.
 
@@ -216,19 +228,19 @@ Of (all) the great and small of his domains no person, I have heard, for four ye
 
 Happy the king who by his generous gifts has kept death from his subjects far away!
 
-Whoever in the world was bom survived — what better than receipts without expense!
+Whoever in the world was born survived — what better than receipts without expense!
 
 So from the people’s increase (in that time) neither the plains nor mounts remained untilled.
 
-From Isfahan to Eai, (so) have I heard, house followed upon house as in the reed;
+From Isfahan to Kai, (so) have I heard, house followed upon house as in the reed;
 
-(And) if he (so) desired a man could go from roof to roof to Isfahan from Eai.
+(And) if he (so) desired a man could go from roof to roof to Isfahan from Kai.
 
 If this narration seems improbable, the author is responsible, not I.
 
 Those who enjoyed good gifts were numerous, but more than the enjoyers were the gifts.
 
-Join palm with palm — the branches are increased, and more abundantly are dates supplicd.
+Join palm with palm — the branches are increased, and more abundantly are dates supplied.
 
 When scarce the people, food is (also) scarce; the more the men the greater the returns.
 

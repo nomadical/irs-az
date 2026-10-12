@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -16,7 +14,7 @@ When the world could not hold his crown his throne was placed upon the ‘Arsh b
 
 To raise him from a lowly stage on high came Gabriel to him with (swift) Buraq.
 
-He said, Place on the air your earthy feet, in order that the heavens noiay be your earth.
+He said, Place on the air your earthy feet, in order that the heavens noisy be your earth.
 
 Be for the night of the most sacred house, you, to-night guardian of the purest, best.
 
@@ -40,7 +38,7 @@ Arise, that they may glance at you, and cut their palms together with the orange
 
 This is the night of power, the time of prayer: whatever you demand you will obtain.
 
-Eenew the angels’ carpet, pitch your tent upon the platform of the Throne, the ‘‘ ‘Arsh ”.
+Renew the angels’ carpet, pitch your tent upon the platform of the Throne, the ‘‘ ‘Arsh ”.
 
 To those who move at night give lamp-like blooms; be fresh of visage like the garden-flowers.
 
@@ -48,7 +46,7 @@ Give to the ‘‘ ‘Arsh’s ” eyes light by your light; pass o’er and lea
 
 Assume the crown for you’ve become the king; rise above all for you’ve become the head.
 
-Eaise up your head to an exalted state, and by an inroad make the two worlds yours.
+Raise up your head to an exalted state, and by an inroad make the two worlds yours.
 
 Deliver from the dust (of earth) your path, and to the court of Him, Eternal, speed;
 
@@ -62,19 +60,19 @@ The one, God’s agent in revealing truth; the other, intellect’s in words and
 
 Two agents true custodians of one charge: that, far from demons, this, from demon-men.
 
-That one brought faithfully the message given; tbia one conceived the secret of the words;
+That one brought faithfully the message given; this one conceived the secret of the words;
 
-And in the darkest night through that bright lamp was sealed with the impression of Ms wish.
+And in the darkest night through that bright lamp was sealed with the impression of his wish.
 
 That honeyed message heard, he gave his eyes a promise through the medium of his ears.
 
-With eagerness of heart, with soul wMch craved, that one unique in beauty briskly rose.
+With eagerness of heart, with soul which craved, that one unique in beauty briskly rose.
 
 He turned not from obedience to those words, so that he gained proximity to God.
 
-Buraq he mounted Hke a lightning flash: beneath him Arab steed, in hand a wMp.
+Buraq he mounted like a lightning flash: beneath him Arab steed, in hand a whip.
 
-Into the stirrups when he put Ms feet, Buraq, parader o’er the heights, sprang up.
+Into the stirrups when he put his feet, Buraq, parader o’er the heights, sprang up.
 
 The wings of peacocks from its feet arose; above its head a (radiant) throne-like moon.
 

@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -20,9 +18,9 @@ Hu‘man and Munzir from his merits were in kindness as a brother and a sice.
 
 Speak not of fatherhood and brotherhood — a servant that, in all things, this, a slave.
 
-The sice to him in giving knowledge kmd, the son with him, to grace assemblies, joined.
+The sice to him in giving knowledge kind, the son with him, to grace assemblies, joined.
 
-One by imparting knowledge strengthened him, the other took him for dehghtful rides.
+One by imparting knowledge strengthened him, the other took him for delightful rides.
 
 Until the riding of Bahram was such that to the sky from earth his name arose.
 
@@ -30,7 +28,7 @@ His business only drinking and the chase — no other business occupied (his tim
 
 A man to cope with ten gur ” in the chase — how can a man (indeed) avoid the “ gur ”?
 
-Whene’er his arrow fleeted from the bow, a “ gux’s ” eye gave it, as a “ gur ”, an eye.
+Whene’er his arrow fleeted from the bow, a “ gur’s ” eye gave it, as a “ gur ”, an eye.
 
 He had a chestnut like the wind in speed, in paces faultless, in its gallop, smooth.
 
@@ -54,7 +52,7 @@ The field became (soon) from its shoes a place of pictures, picture upon picture
 
 More than the rocks have weight did he spread out hillocks (around) of onagers and deer.
 
-The plain beneath his horse’s hoofs became a tomb through aU the heaps of onagers.
+The plain beneath his horse’s hoofs became a tomb through all the heaps of onagers.
 
 Upon his chestnut, courser of the hills, through whose swift flight the sky lost currency,
 
@@ -62,7 +60,7 @@ The hunting lasso when he took in hand, he captured countless living onagers.
 
 Most of the onagers which (Bahram) took, by (strength of) arm or lasso did he throw.
 
-If he dashed down a himdred onagers, not any less than four years old he killed.
+If he dashed down a hundred onagers, not any less than four years old he killed.
 
 He had forbidden (all) to shed the blood of any one not fully four years old.
 
@@ -74,7 +72,7 @@ When he perceived the monarch’s brand on it, he did not seek to do it any harm
 
 He kissed the place on which it had been marked, and loosened (then) the fastening of its bonds. —
 
-I 'who am branded with the sialtan’s name, somewhat more joyfully should offer thanks.
+I 'who am branded with the sultan’s name, somewhat more joyfully should offer thanks.
 
 By such a king on mountain or on plain the onager when branded brands escapes. —
 
@@ -94,13 +92,13 @@ The monarch of the world urged on his steed, like flowing water towards that dus
 
 A lion, with aggressive claws stretched out, on a wild ass’s back and neck he saw.
 
-(So) from above to bring it to the groimd the prince took out (Ms) bow and lay in wait.
+(So) from above to bring it to the ground the prince took out (his) bow and lay in wait.
 
 Sought from the quiver a sharp-pointed shaft, then put it to the string and drew it back.
 
 The sharp point struck the shoulders of the two, (and) having pierced (them) passed through both the holes;
 
-Then to (its) notch ’twas buried in the ground — What profits mail or sMeld before such shaft?
+Then to (its) notch ’twas buried in the ground — What profits mail or shield before such shaft?
 
 When from the thumbstall he had sent the shaft, the prince stood holding in (his) hand the bow.
 

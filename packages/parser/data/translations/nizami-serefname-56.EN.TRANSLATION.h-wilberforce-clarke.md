@@ -149,7 +149,7 @@ Flight fell upon the enemy;
 Time gave sovereignty to the king of the world (Sikandar);
 
 (And) from the many cast heads of the Russians
-Made a field of red wood (hakam) with the slain.
+Made a field of red wood (bakam) with the slain.
 
 They poured many a stream of blood from the Russian;
 They took, and slew, and grappled.

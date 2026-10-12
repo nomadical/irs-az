@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -33,8 +31,6 @@ I and a thousand slaves above me far are honoured by submissive lowliness.
 It would be ill before a honey-spring to open shop to deal in vinar.
 
 Since (too) the king’s command must be obeyed, I will narrate if he will bear the pain.
-
-Story.
 
 There was a man in Egypt named Mahan, more handsome than the moon when at the full.
 
@@ -66,7 +62,7 @@ When Mahan’s brain was heated with the wine, he saw the shining of the moon, a
 
 Went round the garden like a drunken man, till from the garden a palm-grove he reached.
 
-Afar he saw a man, who (then) approached, and told hiTn he was one who knew him well.
+Afar he saw a man, who (then) approached, and told him he was one who knew him well.
 
 (He saw) on recognition ’twas a friend, (he saw) it was a partner in his trade.
 
@@ -100,7 +96,7 @@ Mahan said, From the Nile to my abode the distance of the way is but a mile.
 
 (But) we have traversed leagues exceeding four, beyond the limits of the circle gone.
 
-Again he said. But I perchance am drunk, erroneous pictures on my eyes IVe drawn.
+Again he said. But I perchance am drunk, erroneous pictures on my eyes We drawn.
 
 He who is acting as my friendly guide knows (well) the road and is intelligent.
 
@@ -124,7 +120,7 @@ When from the hotness of the sun his head grew hotter than the fire within his h
 
 He opened eyes to gaze upon the road, he gave a glance around on every side.
 
-Eose-garden soTight lie, but he saw no rose, saw nothing but a trouble-branded heart.
+Rose-garden soTight lie, but he saw no rose, saw nothing but a trouble-branded heart.
 
 Cave upon cave he saw as his abode, than dragon larger was the snake in each.
 
@@ -156,7 +152,7 @@ This land and region are the abode of divs, the lion clamours from the dread of 
 
 He answered, Tou are welcome, worthy man; show such humanity as one should show.
 
-Of my own will indeed I have not come, — of demons speak not, I am human-bom.
+Of my own will indeed I have not come, — of demons speak not, I am human-born.
 
 Last night I was in luxury, at ease, in Iram’s (heavenly) gardens as a guest.
 
@@ -242,7 +238,7 @@ Urge on the rapid courser on my road, and (fail not) in your heart (to) call on 
 
 Worn out, afflicted by the vales and caves, he mounted, (as enjoined), the swift-paced steed.
 
-From a low moimtain-tract there came to view a level waste, — of what kind? — like one’s palm.
+From a low mountain-tract there came to view a level waste, — of what kind? — like one’s palm.
 
 He rode his steed so (swiftly) in his wake that (soon) the wind, (outstripped), was left behind.
 
@@ -276,7 +272,7 @@ All with the trunks of elephants and homed, combining oz and elephant in one.
 
 Each of them bearing fire upon his hand, (each) ugly, evil one like drunken fiend.
 
-Eire (also) from their throats was casting flames; reciting verse, they clashed the horn and blade.
+Fire (also) from their throats was casting flames; reciting verse, they clashed the horn and blade.
 
 By playing tambourines with tinkling bells they set the whole world dancing (to the rhythm).
 
@@ -292,23 +288,23 @@ A four-legged dragon with two wings (it was), and, stranger still, it had (too) 
 
 The sky which is around us as a belt, — why strange? A seven-headed dragon ’his.
 
-On that destructive-lookmg dragon he, with legs drawn to his armpits on its neck;
+On that destructive-looking dragon he, with legs drawn to his armpits on its neck;
 
 Whilst that tyrannic demon, frolicsome, engaged in some new frolic ceaselessly.
 
 It went on dancing with a thousand twists, coiling and writhing more than twisted rope.
 
-Him, — Hke the straws and leaves, erstwhile at rest, which torrents drive along down hill and d, —
+Him, — Like the straws and leaves, erstwhile at rest, which torrents drive along down hill and d, —
 
 It cast from side to side and bore away; it bruised and crushed (all over) utterly.
 
 (As i£) in drunken sport it made him run; it cast him on the hills and on the plains.
 
-Sometimes it tossed him like a ball away; sometimes it put its foot upon Ms neck.
+Sometimes it tossed him like a ball away; sometimes it put its foot upon his neck.
 
 It played a thousand kind of tricks on him, until the cock’s crow and the time of dawn.
 
-(Then) when the dawn breathed from the lion’s mouth, it cast hiTY) quickly from (its) neck away.
+(Then) when the dawn breathed from the lion’s mouth, it cast him) quickly from (its) neck away.
 
 The noise and clamour (all) had left the world; (all) the black cauldrons (then) had ceased to boil.
 
@@ -316,13 +312,13 @@ When from the div the man who rode it fell, he lost all power like those who see
 
 Beside himself upon that road he lay, like one asleep, or, rather, one who’s dead.
 
-Until Ms head was heated with the sun, his consciousness of self and world was gone.
+Until his head was heated with the sun, his consciousness of self and world was gone.
 
-With brain excited by the heat his sense wMch had departed came to him again.
+With brain excited by the heat his sense which had departed came to him again.
 
 Rubbing his eyes he rose up from the ground; awhile he looked intently left and right.
 
-He saw himself in that drear wilderness, wMch from (its) length (appeared) to have no end.
+He saw himself in that drear wilderness, which from (its) length (appeared) to have no end.
 
 It was as red as blood, as hot as hell, the coloured sand in endless carpets spread. —
 
@@ -362,7 +358,7 @@ Like Joseph he went down into the pit; his legs (then) slackened like the rope (
 
 When he awakened from a pleasant sleep, and had arranged the pillows of his room,
 
-He looked on his surroimdings in the pit; he drew a picture upon blackest silk.
+He looked on his surroundings in the pit; he drew a picture upon blackest silk.
 
 A white light (then), in size a “diram”, saw, like jasmine on the black of willow’s shade.
 
@@ -370,7 +366,7 @@ He looked around the light to right and left, that (he might find) from where it
 
 He saw a breach through which the lofty sphere let the moon’s rays gain entrance (to the pit).
 
-WTien he discovered that the spring of light shone from the moon — the moon so far away —
+When he discovered that the spring of light shone from the moon — the moon so far away —
 
 He put his hands and nails into the hole, and widened out its narrowness by force.
 
@@ -414,7 +410,7 @@ When such a paradise Mahan had found, he turned his heart from last night's hell
 
 PomegraBates, jujubes, apples, fruit on fruit, — like sappan red, like pure white sugar too.
 
-From the delight such honeyed draughts conferred, the smacking of his Hps came to (his) ears.
+From the delight such honeyed draughts conferred, the smacking of his lips came to (his) ears.
 
 He ate the fruits in honeyed sweetness rich; he ate of those provisions choice as gold.
 
@@ -446,7 +442,7 @@ What wrongs from foolish people you’ve endured, what evil, wicked men have don
 
 When from the ancient man Mahan received soft words of kindness and of sympathy.
 
-With his adventures he acquamted him: with what he’d seen and that which had occurred.
+With his adventures he acquainted him: with what he’d seen and that which had occurred.
 
 Hia falling out of comfort into pain, each night his heart subjected to some grief.
 
@@ -454,7 +450,7 @@ And (then) of his despair at what might come, as sometimes he was troubled, some
 
 Until the pit and that auspicious lamp, which led him to the garden from its gloom.
 
-In detail he narrated (aU) the tale: the hidden matter he disclosed to him.
+In detail he narrated (all) the tale: the hidden matter he disclosed to him.
 
 Hearing his words the ancient man was dazed at (all) the wondrous trials he had borne.
 
@@ -464,7 +460,7 @@ For all the old man’s kindness and support Mahan felt gratitude within (his he
 
 Then he enquired (and said), That vile abode, what region is it, in what land its seat?
 
-Last night the Eesurrection it appeared, with (all) its infidels intent on me.
+Last night the Resurrection it appeared, with (all) its infidels intent on me.
 
 Demons I saw, and to myself was lost; such is the state of him who demons sees.
 
@@ -542,7 +538,7 @@ All this I have, but still no child, no son, on whom to fix the affection of my 
 
 When I saw you, by reason of your worth, I fixed my heart on you to be my son.
 
-If this should please you, you to whom I’m slave, aU this (at once) I will devote to you;
+If this should please you, you to whom I’m slave, all this (at once) I will devote to you;
 
 That you in this fresh garden may rejoice, enjoy (its) blessings, wander (at your will).
 
@@ -664,9 +660,9 @@ Since (too) his nature was refined and keen, — when the sweet music and the so
 
 He wished to find some excellent device to get down quickly from his airy (perch):
 
-And with such beauties, buri-lihe in make, to be in heaven without the Judgment Day.
+And with such beauties, huri-lihe in make, to be in heaven without the Judgment Day.
 
-Again, he brought to mind the old man’s words, he held in check the strugglmg of his heart.
+Again, he brought to mind the old man’s words, he held in check the struggling of his heart.
 
 And stdl those idols in their sport and play showed all deluding and beguiling art.
 
@@ -736,11 +732,11 @@ Now bit he as the crop-sick sugar bite; now did he taste as bees the honey taste
 
 When Mahan to that moon made ardent love, the moonfaced beauty turned away through shame.
 
-He took that CHnese idol to Ms breast, those sweet white petals of the Chinese rose.
+He took that Chinese idol to his breast, those sweet white petals of the Chinese rose.
 
 He put his lips upon that fount of wine: on red cornelian put a ruby seal.
 
-When Ms approving eyes looked well on her, that lustre of his eyes, a candied fount, —
+When his approving eyes looked well on her, that lustre of his eyes, a candied fount, —
 
 He saw an ‘Ifrit who from mouth to foot had her existence from the wrath of God.
 
@@ -754,21 +750,21 @@ A nose (she had) like a brick-maker’s kiln; (she had) a mouth (too) like a dye
 
 Her lips apart like jaws of crocodile; — she closely held Mahan in her embrace.
 
-Upon Ms head and face, no matter how, she showered kisses, and thus spoke (to him):
+Upon his head and face, no matter how, she showered kisses, and thus spoke (to him):
 
 O you whose head has come into my hands; O you whose lips are bitten by my teeth.
 
-You put your hands on me, your teeth as well, to kiss my lips, and (Mss) my chin as well.
+You put your hands on me, your teeth as well, to kiss my lips, and (kiss) my chin as well.
 
 (Now) look at hands and teeth, — nay, sword and lance! hke this are hands and teeth, (and) not like that.
 
-WTiat was all this desire of yours at first? and why has your desire so weakened now!
+What was all this desire of yours at first? and why has your desire so weakened now!
 
 The same lips are these lips, for kisses ask; the face the same, shut eyes not to the Moon. —
 
 Do not take wine from such a cupbearer as tempts to sense-deluding drunkenness.
 
-(And) do not hire a house (too) in a street where the police-director is a tMef. —
+(And) do not hire a house (too) in a street where the police-director is a thief. —
 
 AH these, my acts, are such as they should be, if I would treat you as is requisite. p
 
@@ -784,7 +780,7 @@ Beneath that pitch-like dragon he became — (without description) you must take
 
 He shrieked aloud like any child in fright, or woman in the pain of giving birth.
 
-And that black monster Hke the (famed) White Div the willow with her kisses would have ffled.
+And that black monster like the (famed) White Div the willow with her kisses would have ffled.
 
 Until the (first) light of the dawn appeared, the cock crowed, and the demon fied away.
 
@@ -808,7 +804,7 @@ The hox and cypress naught but weeds and thorns, the fruits (all) ants, the keep
 
 The breasts of birds and backs of (tender) kids were ah but carrion (now) of ten years’ date.
 
-The player’s instruments, harps, rebecks (aU) were (nothing but) the bones of animals.
+The player’s instruments, harps, rebecks (all) were (nothing but) the bones of animals.
 
 Those (costly) tissues (ah) adorned with gems (were now ah) leather sis, with tanning, foul.
 
@@ -836,7 +832,7 @@ And he knew not that all that we possess is a (feh) dragon hid beneath a moon.
 
 If they cast down the veil you (then) will see to what things foolish men devote their love.
 
-These Grecian and these Chinese figures, aU, are ugly Ethiopians when you look.
+These Grecian and these Chinese figures, all, are ugly Ethiopians when you look.
 
 A rViti drawn over blood (presents to view) wine outside, but a cesspool ’his within.
 
@@ -844,7 +840,7 @@ If they took off from us these veins and skin, (all love would cease), a dust-he
 
 Many keen men who pay for snake-stones think they have them, but find in the basket snakes.
 
-Many deluded men in tHs dry bag find a musk-pod a knur of aloes-wood.
+Many deluded men in this dry bag find a musk-pod a knur of aloes-wood.
 
 When Mahan from wrong-doers’ hands escaped, — as I (now) from the story of Mahan, —
 

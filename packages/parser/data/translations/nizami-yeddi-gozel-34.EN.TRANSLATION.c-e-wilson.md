@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -46,7 +44,7 @@ The old man when he saw (his) guest sprang up, and girded up (his) loins to wait
 
 Like the earth (humble) he received (his) guest, and held the reins of (one like) heaven (high).
 
-First praise and blessing did he offer him, and afterwards he helped him to dismoimt.
+First praise and blessing did he offer him, and afterwards he helped him to dismount.
 
 Whatever he had ready in the house he brought with soft and deprecating words.
 
@@ -72,7 +70,7 @@ To him I left the guarding of my house, and him I called my (faithful) guardian 
 
 He with foe-lacerating teeth and claws was to me night and day (as) iron arms.
 
-If from the coxmtry to the town I went, the flock was happy in his watchful care.
+If from the country to the town I went, the flock was happy in his watchful care.
 
 And if my business in the town was long, be would take borne the flock again himself.
 
@@ -92,7 +90,7 @@ Whilst in the business more alert than I, than I by far more watchful was the do
 
 .my heart was full of grief and pain, finding the flock in sheep.
 
-And when again I verifled the count, they still fell short as on the former day.
+And when again I verified the count, they still fell short as on the former day.
 
 By twos and fives they were diminishing, like ice which had been melted by the sun.
 
@@ -132,7 +130,7 @@ That flock of sheep, he had to serve and tend, — he sacrificed it to his love-
 
 (Though) often (this occurred) I made no change; I let him off though guilty of offence.
 
-Until at last I took hiTn with the wolf, and bound him for so serious a crime.
+Until at last I took him with the wolf, and bound him for so serious a crime.
 
 I put him to the torture of a jail, that he might be again subservient slave.
 
@@ -202,7 +200,7 @@ Have taken from my troops all arms and stores, so that no arms or stores are lef
 
 Deprived my (loyal) subjects of their all, planted your feet in every person’s blood;
 
-Eequired from subjects not the taxes due, but all their means at times, at times their rank;
+Required from subjects not the taxes due, but all their means at times, at times their rank;
 
 The claims my bounty gives me cast aside, having no shame before me, — shame on you!
 
@@ -218,13 +216,13 @@ What did you think, that in my drinking bouts the sleep of negligence would seiz
 
 That you’d deprive of use a drunkard’s hands, and break the subjects’ and dependents’ legs?
 
-On me may dust be (scattered) if Babram forgets the sword when taking up the cup!
+On me may dust be (scattered) if Bahram forgets the sword when taking up the cup!
 
 If I forget myself in wine and song, I’m not forgetful of the azure sphere.
 
 By such words countless iron rings he forged, (and) cast them all around the vazir’s neck.
 
-He ordered then that a repulsive guard should drive him ofE from paradise to hell.
+He ordered then that a repulsive guard should drive him off from paradise to hell.
 
 A halter of (his) turban (then) they made; they drew him in and put him into bonds:
 

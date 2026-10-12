@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -38,7 +36,7 @@ With him a girl of moon-like fairness rode, whose quickness kept her always at h
 
 Fitna her name, a thousand were her lures; seductive she to him seduced by her.
 
-Fresh-faced as early Spring in paradise; with graceful gait as corn that breezes stir.
+Fresh-faced as early Spring in paradise; with graceful gait as coin that breezes stir.
 
 Apiece of (sweetest) honeysmeared with oil; a dish of “paluda” both fat and sweet.
 
@@ -116,15 +114,15 @@ She’s a disturber of my house of state— to kill disturbers is in reason righ
 
 The brave man took that girl of fairy face bound from before that monarch to his house.
 
-He thought to end her business and to strike her head ofE from her body candle-like.
+He thought to end her business and to strike her head off from her body candle-like.
 
 With tearful eyes that captivator said, Ho not approve so odious an act.
 
-If you are not a foe to seK take not the blood of guiltless me upon your head,
+If you are not a foe to self take not the blood of guiltless me upon your head,
 
 I am the monarch’s special intimate, the one most chosen out of (all) his slaves.
 
-So much so that at wine or at the chase no other’s been his iatunate and friend.
+So much so that at wine or at the chase no other’s been his intimate and friend.
 
 If through an act of boldness which I did, a (wicked) ‘‘ div ” has played a trick on me;
 
@@ -132,13 +130,13 @@ And the king, wrathful, orders punishment, do not in Inlling me be over quick.
 
 Wait (but) a few short days, be patient (still), and tell the king you’ve killed me; use deceit.
 
-If at jour words the king should be rejoiced, (then) kill me; to you lawful be my blood!
+If at your words the king should be rejoiced, (then) kill me; to you lawful be my blood!
 
 But if he be afflicted at my death, you will be quite secure in life and limb.
 
 You will escape enquiry, and I, death; a cypress free will fall not to the ground.
 
-A day may come when, though I’m naught, I may in something serve you stiH for what you’ve done.
+A day may come when, though I’m naught, I may in something serve you still for what you’ve done.
 
 She spoke these words, and took her necklace oS, and offered him seven rubies (as a gift):
 
@@ -190,7 +188,7 @@ Nor did she suffer trouble from the load, since she’d become accustomed to the
 
 One day that narrow-eyed one, grieved in heart, was sitting with the officer alone.
 
-That fair one, (lovely) as a buri, took four jewels from her jewel-bearing ears.
+That fair one, (lovely) as a huri, took four jewels from her jewel-bearing ears.
 
 This ready value take and sell, said she; the price of it when given in silver bring.
 

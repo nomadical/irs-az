@@ -164,7 +164,7 @@ After that, he (Kintal) urged his horse of mountain-stature,
 Some individuals accompanying him.
 
 He pointed out with the finger, saying: — " Behold, from afar
-" Are the delicate ones and buris, world within world (numerous):
+" Are the delicate ones and huris, world within world (numerous):
 
 " The door and the court full of jewels and treasures;
 " The ruby and the pearl instead of the spear and the mail-armour:
@@ -320,7 +320,7 @@ I have heard that from the wolf, the fox-seizer,
 " For they thought the fox a wolf.
 
 " From the noise of the dogs, which came from afar,
-" The wolves were terrificd and the fox escaped.
+" The wolves were terrified and the fox escaped.
 
 " The meditator, work-knowing, at the time of action,
 " Becomes free from the enemy (the Russians) by the enemy (the Turks).

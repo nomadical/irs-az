@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -30,7 +28,7 @@ And had him hung up without scruple alive, so that in shame he perished like a t
 
 He said, Who in that wise exalts his head, his head will Fortune in this wise hurl down.
 
-Dishonesty will lead to iU-repute; an evil end will wait on evil deeds.
+Dishonesty will lead to ill-repute; an evil end will wait on evil deeds.
 
 The tyrant who brings trouble in that way, thus to the tomb the just will bring him down.
 
@@ -56,7 +54,7 @@ He said. He who deserved the death you gave was an affliction and to discord aid
 
 He sent a letter asking me to come, and wrote some heart-alluring passages.
 
-So that by heart-beguilmg arts he made me, simple of heart, unable to abstain.
+So that by heart-beguiling arts he made me, simple of heart, unable to abstain.
 
 He said. The mine is rich, the road is free; hasten immediately if you desire.
 
@@ -74,7 +72,7 @@ My daughter is the slave-girl of your house; my crown’s the dust that on your 
 
 And that which the destructive traitor sent in writing to complain about the king, —
 
-He rolled up aU the writings and enjoined his envoy to submit them to the kmg.
+He rolled up all the writings and enjoined his envoy to submit them to the king.
 
 When the king read the notes of the vazir, his wrath was sharpened as a writer’s reed.
 
@@ -84,4 +82,4 @@ When justice’ face before the monarch’s eyes raised up a warning as to all a
 
 He from its beauty and (engaging) look, gave up the seven faces for that face.
 
-Uprooting (from his mind) aU other thoughts, on that he fixed his heart, with that content.
+Uprooting (from his mind) all other thoughts, on that he fixed his heart, with that content.

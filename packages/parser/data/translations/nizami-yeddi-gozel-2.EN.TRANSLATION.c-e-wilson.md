@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -46,15 +44,15 @@ Who rose (in pride), him did he cast down low, but took the hand of him who (low
 
 To those of kindly nature he was kind, but harshly treated evil-natured men.
 
-Here, sword (engaged) with sanguinary rage, there, kindliness on mixi n g salves (intent).
+Here, sword (engaged) with sanguinary rage, there, kindliness on mixing salves (intent).
 
 These were (employed) to comfort the distressed; his sword to punish stoney-hearted men.
 
 There where they closed the roadway of the Faith, and tied the thong of hatred round their waists.
 
-Behold! to-day, after so many years, aU, (willing), lay the thong upon his drum.
+Behold! to-day, after so many years, all, (willing), lay the thong upon his drum.
 
-Although God chose him out of (aU) the world, and made the heavens existent for his sake,
+Although God chose him out of (all) the world, and made the heavens existent for his sake,
 
 His eyes, bright with the salve, ‘‘ Turned not aside ”, a garden alien to this garden own.
 

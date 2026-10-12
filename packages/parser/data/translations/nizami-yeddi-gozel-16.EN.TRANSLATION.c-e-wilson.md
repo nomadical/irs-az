@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -22,21 +20,21 @@ His power the painter of all being is within the picture-room of (His) good gift
 
 There is no lord, save Him, who has not need of some relationship, or thing conjoined.
 
-Creation is a knot by Him unloosed; praise is the seal He has aiBSixed (to it).
+Creation is a knot by Him unloosed; praise is the seal He has affixed (to it).
 
 He is the keeper of the earth and time; both this and that obey as He commands.
 
 When he who read had read the praise of (God), Maker (of all), exalted (over all).
 
-He read praise of the kmg, a king’s son, thus. You who have raised your head to the blue sky.
+He read praise of the king, a king’s son, thus. You who have raised your head to the blue sky.
 
 You, with the wisdom of a king, king’s son, who’re just to manliness and generous thought,
 
 How should I who by race am Kisra called, by ill-advised contention suffer loss?
 
-IVe merit and experience of the world; I’m in the eyes of (ah) the world approved.
+We merit and experience of the world; I’m in the eyes of (ah) the world approved.
 
-Ajid for my merit Fortune fosters me — How can the meritless get crown and throne?
+And for my merit Fortune fosters me — How can the meritless get crown and throne?
 
 My eminence has given me crown and throne — the base man never can he eminent.
 
@@ -52,7 +50,7 @@ The Persians’ zealous kindness, spite of me, so roused my zeal that (to refuse
 
 They (thus) induced me to become the king — the exalted holder of the crown and throne,
 
-To keep deterioration from the realm — such (office) is not nde, but guardianship.
+To keep deterioration from the realm — such (office) is not rule, but guardianship.
 
 This proverb comes in story apposite: The foe to greed’s a friend to all the world.
 
@@ -72,7 +70,7 @@ Hot like me day and night remote from joy, and heart-sick with <the care of) men
 
 At times my business troubling for (my) friends, at times I’m apprehensive of (my) foes.
 
-(My) least affliction this that for the crown I must contend againet a prince like you.
+(My) least affliction this that for the crown I must contend against a prince like you.
 
 How happy is your pleasure-loving soul that your head is remote from such distress!
 
@@ -96,7 +94,7 @@ No one could utter praises of that line; no one could in that ground sow (any) s
 
 Since no one (here) desires you as (his) king, ’his better (far) that you should (hence) retire.
 
-You’U meet hot fixe if you get hot and rage; you’ll (only) strike cold iron if you strive.
+You’ll meet hot fire if you get hot and rage; you’ll (only) strike cold iron if you strive.
 
 I, in the time of (your) necessity, will from (my) secret treasure scatter gold.
 
@@ -104,6 +102,6 @@ All that may best supply your requisites, and may with usefulness be spent on yo
 
 I’ll sufier not, by any reason led, shortcoming as regards your maintenance.
 
-I’U be your lieutenant in sovereignty; the orderer of everything you wish.
+I’ll be your lieutenant in sovereignty; the orderer of everything you wish.
 
 (And) when the people’s minds get tired of me, the rule is yours without (appeal to) arms.

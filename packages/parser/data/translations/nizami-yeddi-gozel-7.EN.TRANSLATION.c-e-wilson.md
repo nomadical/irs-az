@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -22,7 +20,7 @@ Let your coin bear the impression of good fame — by loftiness you reach the lo
 
 So that I in the place where I’m confined may be upraised by your exaltitude. n
 
-Seek company whick from its good repute may give you (at the last) a happy end.
+Seek company which from its good repute may give you (at the last) a happy end.
 
 A friend whose breath is had is better far than one who, speaking, (only) nonsense talks.
 
@@ -54,7 +52,7 @@ How many a dream which fills the heart with gloom is really gladness when interp
 
 Although the shaft of sorrow pierce the heart, for such day patience is a coat of mail.
 
-Maintain your promises and faith with God, and keep your heart by other ties imvexed.
+Maintain your promises and faith with God, and keep your heart by other ties unvexed.
 
 When you break not your promises to God, I promise you’ll escape from this and that.
 
@@ -96,7 +94,7 @@ Abandon three, this sums up piety; two also leave, the jurist’s judgment this,
 
 (Come) grasp the end of one thread like a man; abandon two, and make three be (but) one.
 
-Till from belief in three you’re safe you’U not bear o’er the sky the ball of Unity.
+Till from belief in three you’re safe you’ll not bear o’er the sky the ball of Unity.
 
 When to these two you’re lost no fables tell; and seek no medium when you’ve found that One.
 
@@ -108,9 +106,9 @@ When the straight cypress falls off in decay, where (then) can any remedy be gai
 
 You, with youth’s freshness, who possess the world, pursue the path now which you can (pursue).
 
-Eose-like, gird on religion’s path your loins, that like the lofty cypress you may rise.
+Rose-like, gird on religion’s path your loins, that like the lofty cypress you may rise.
 
-I who, rattan-Kke, have no freshness left — my tulips yellow grown, my violets white —
+I who, rattan-like, have no freshness left — my tulips yellow grown, my violets white —
 
 Through lack of strength no longer have the power to wear a crown or gird my loins to serve.
 
@@ -130,7 +128,7 @@ I see no one before me who is not a friend before me, (and) a foe behind.
 
 A few crude persons being (my sole) aids, to whom with safety can I turn my face?
 
-Though mj youth has departed from the world, what can I do, still youthful is my greed?
+Though my youth has departed from the world, what can I do, still youthful is my greed?
 
 The more in years an aged man becomes, the greedier becomes his greediness.
 
@@ -144,7 +142,7 @@ How long (shall) darkness (last still)? Give me light! Since You have broken, gi
 
 My neck is freed from cords; I will not bear that it he galled ’neath any person’s load.
 
-I, who’ve become contented with my grain, am, Kke the oyster, lord in my own house.
+I, who’ve become contented with my grain, am, like the oyster, lord in my own house.
 
 ’Tis best that lordship, too, my comrade be; what business, (pray), of mine is servitude?
 

@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -20,13 +18,13 @@ E’en at the first my covenant was made — with whom? — with Him whose coven
 
 That what a certain other bard had said — I still drink wine, but he has gone to sleep —
 
-I would not make (such) thought of his my own: ill-doing Fd not make my attribute.
+I would not make (such) thought of his my own: ill-doing I'd not make my attribute.
 
 So far as may be, like the vernal breeze, my claim shall not be patching up old things.
 
-StiH, to the treasury when one the road — the target one, although the arrows two —
+Still, to the treasury when one the road — the target one, although the arrows two —
 
-Though in the art of boring pearls (72S) IVe bound myself not to repeat what has been said,
+Though in the art of boring pearls (72S) We bound myself not to repeat what has been said,
 
 When repetition I can not avoid, I can produce fine silk from woollen stuff.
 
@@ -94,7 +92,7 @@ They went before him with a thousand fears; they bowed down to the ground, and o
 
 He who the ball of wisdom bore away, kissing the superscription, gave the note.
 
-After unsealing it the monarch’s scribe (then) read it to the kingdom-taking kiag.
+After unsealing it the monarch’s scribe (then) read it to the kingdom-taking king.
 
 [From shell to kernel of that beauteous note — the shell was silk, the kernel almond was.
 

@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -14,7 +12,7 @@ status: DRAFT
 ---
 The reader having read the letter through, an angry fire blazed up in Bahram’s breast.
 
-Again, by great exertion, like the wise, to patience he constrained bimseK forthwith.
+Again, by great exertion, like the wise, to patience he constrained himself forthwith.
 
 Such heat (of anger) led him not to haste; he first reflected, then gave answer thus:
 
@@ -36,7 +34,7 @@ For sins I’ve not committed blame me not: I’m alien to my father’s wickedn
 
 My father is not I, I am not he; if he was stone, I am (not stone, but) gem.
 
-The lustrous dawn arises from the night; the clear and lucent ruby’s bom of stone.
+The lustrous dawn arises from the night; the clear and lucent ruby’s born of stone.
 
 ’Tis Ol to testify against my sice, for God has now delivered you from him.
 
@@ -60,15 +58,15 @@ Although my sleep has been a heavy sleep, fortune has not been absent from my si
 
 Fortune has, in its kindness, wakened me; I’m (now) awakened from my heavy sleep.
 
-Henceforth (my) face is turned to good (alone); (my) heart is void (now) of aU neghgence.
+Henceforth (my) face is turned to good (alone); (my) heart is void (now) of all negligence.
 
-I’ll use no (more) seH-will and want of thought; since I’m matured, how rawness should I show?
+I’ll use no (more) self-will and want of thought; since I’m matured, how rawness should I show?
 
 I’ll favour those whose acts are for the best, and go to meet the most expedient plans.
 
 I’ll look not at the faults of any one; (his) wealth not covet, aim not at (his) head.
 
-Bygone ofEences I’U not call to mind; I will not vex at what the times set forth.
+Bygone offences I’ll not call to mind; I will not vex at what the times set forth.
 
 Towards you I’ll act as it is meet I should; and what is meet from you will I receive.
 
@@ -76,21 +74,21 @@ In no one’s treasure will I make a breach; I’ll make (my) treasure of my foe
 
 The prudent from my court shall not be far; lU, and the ill-advised I’ll alienate.
 
-I’U show my favour to the good alone; I’U not learn evil from the guide to it.
+I’ll show my favour to the good alone; I’ll not learn evil from the guide to it.
 
-I’U have no harshness in my government; I’ll act as one not void of shame towards God.
+I’ll have no harshness in my government; I’ll act as one not void of shame towards God.
 
 The wives and children, land and wealth of all (shall be) more safe with me than flock with herd.
 
-The loaf of no one will I take bj force, but rather bj a loaf increase his loaf.
+The loaf of no one will I take by force, but rather by a loaf increase his loaf.
 
-The demon, greed, shall lead me not astray; I’U count greed as a punishable sin.
+The demon, greed, shall lead me not astray; I’ll count greed as a punishable sin.
 
 I win not show to the spectator’s eyes what the Creator would not hold approved.
 
 The king thus spoke; opinions were compared; the oldest priest then stood up from the midst.
 
-He said, You in your lordliness are wise and giver, too, of wisdom (to us aU).
+He said, You in your lordliness are wise and giver, too, of wisdom (to us all).
 
 AH you have said in your well-ordered sense reason has graven on the ring, the heart.
 
@@ -116,7 +114,7 @@ A heavy hand is laid upon us (all) by this strict pledge to him who holds the th
 
 That by our will no one should have the crown save him; that from his court we would not turn.
 
-We must now have some strong and valid plea to save us from the infring ement of that pledge;
+We must now have some strong and valid plea to save us from the infringement of that pledge;
 
 So that in this affair we be not shamed; the compact be not broken, we not grieved.
 
@@ -168,7 +166,7 @@ How Munzir sends to me a tray of food; now Human sacrifices makes for me.
 
 With all (my) royalty they give me bread, whilst (there) they eat my bread so wickedly.
 
-I, a yoxmg lion, taker of domains — how should my place come to an aged fox?
+I, a young lion, taker of domains — how should my place come to an aged fox?
 
 (From) me, the Kai, should foeman take the crown? Save to Kayanian how should tribute come?
 
@@ -220,11 +218,11 @@ That mounted hero is a lion bold and fierce; he hunts the dragon with a shaft.
 
 When the fierce lion stretches out his claws, to stand against him none will. have the power.
 
-He forcibly will seize the throne and crown; he’U drag the leaders at his horse’s feet.
+He forcibly will seize the throne and crown; he’ll drag the leaders at his horse’s feet.
 
-’Tis best that we arouse him not to warmth; (’his best) we light not an extinguished jfire.
+’Tis best that we arouse him not to warmth; (’his best) we light not an extinguished fire.
 
-As for the hon, and the crown to be home off — no such condition does he need.
+As for the lion, and the crown to be home off — no such condition does he need.
 
 But the condition is a weighty proof which indicates the lion and the wolf.
 
@@ -246,7 +244,7 @@ Give to the heir of these domains the throne; a young man, not an old, should we
 
 From this affair I (now) withhold my hand: I’m not the king, but the king’s loyal (slave).
 
-The nobles gave him answer, speaking thus, O chief of kmgs and wearers of the crown.
+The nobles gave him answer, speaking thus, O chief of kings and wearers of the crown.
 
 Our stipulation with you as to rule is simply of this wise and prudent kind:
 
@@ -256,7 +254,7 @@ Since his condition touches lions, sure, much daring will be want to accomplish 
 
 To seize a crown from lions is no play: — (let’s see) what tricks the dark night will show forth.
 
-To Ms condition we will give effect; secure the lions, put the crown by (them).
+To his condition we will give effect; secure the lions, put the crown by (them).
 
 If he should fear, the ivory throne is yours, and if he’s killed, again the crown is yours.
 
@@ -264,6 +262,6 @@ If he should fear, the ivory throne is yours, and if he’s killed, again the cr
 
 He will be worthy of the throne and praise; but still remote (the chance) it so should be.
 
-The matter ended finally in tMs that the agreement should not be disturbed:
+The matter ended finally in this that the agreement should not be disturbed:
 
-(That) when the morrow should be bom the king (Bahram) in lion-hunting should engage.
+(That) when the morrow should be born the king (Bahram) in lion-hunting should engage.

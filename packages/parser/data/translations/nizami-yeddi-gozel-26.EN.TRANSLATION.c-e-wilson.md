@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -14,7 +12,7 @@ status: DRAFT
 ---
 Bahram when bent on pleasure fixed his eyes upon the portraits of the seven brides.
 
-Erom the Shammasian temple, Saturday, he pitched his tent on the 'Abbasian rug.
+From the Shammasian temple, Saturday, he pitched his tent on the 'Abbasian rug.
 
 To the domed-edifice of galla hue to (see) the Indian princess went Bahram.
 
@@ -38,9 +36,7 @@ In everything he wishes to obtain, may tardiness be absent from his fate!
 
 Her prayer concluded, she bowed down her head; from sugar brought the sweets of aloes-wood.
 
-Story.
-
-With eyes cast on the groimd in modesty, she told (her story) — finer never heard:
+With eyes cast on the ground in modesty, she told (her story) — finer never heard:
 
 In childhood I’ve been told by relatives — quick-witted people of keen intellect —
 
@@ -48,7 +44,9 @@ That of the ladies of the heavenly fort one (most) ascetic, gentle, and refined.
 
 Used every month to visit at our house, her dress composed entirely of black silk.
 
-They asked her, Through what fear or fantasy, ingot of silver, are you (dressed) in black? well that you impart to us the tale, the blackness whiten of this (mystery);
+They asked her, Through what fear or fantasy, ingot of silver, are you (dressed) in black?
+
+’Tis well that you impart to us the tale, the blackness whiten of this (mystery);
 
 That in your friendly feeling you explain what means the marvel of your (robes of) black.
 
@@ -68,39 +66,35 @@ As (his) adornment in past times he had things red and yellow of (most) wondrous
 
 As roses in the garden kind to guests, like to the red rose in its sheath he smiled.
 
-Eor guests he had a room prepared which turned its face from earth unto the pleiades.
+For guests he had a room prepared which turned its face from earth unto the pleiades.
 
 He had a tray laid, and had carpets spread, servants he kindly entertained (to serve).
 
 Whoever came, he made him stop (awhile), and bade him welcome as his visitor.
 
-WTien they had laid the tray in fitting style, supplicd provisions suited to his rank,
+When they had laid the tray in fitting style, supplied provisions suited to his rank,
 
 The king would ask his story, (and enquire) about his stay abroad and his own land.
 
 Then whilst the king gave ear the traveller would tell each wondrous thing that he had seen.
 
-After this method all Ms life was passed; whilst life endured this rule adhered to it.
+After this method all his life was passed; whilst life endured this rule adhered to it.
 
-(Then) for a time he disappeared from us; like to the Simurgh
+(Then) for a time he disappeared from us; like to the Simurgh he withdrew from us.
 
-he withdrew from us.
+When after this a long time passed, and none, as of the *Anqa, could give news of him.
 
-WTien after tMs a long time passed, and none, as of the *Anqa
+Through fortune’s ace the wearer of the crown one day ascended suddenly (his) throne.
 
-, could give news of him.
-
-Through fortune’s ace the wearer of the crown one day ascended suddenly (Ms) throne.
-
-His body bead to foot was (clothed in) black: (bis) tunic, bead-dxess, and (bis) gown (were Hack).
+His body bead to foot was (clothed in) black: (his) tunic, head-dress, and (his) gown (were Hack).
 
 Keen-witted all the time be ruled the world, be dressed in black though suffering no loss.
 
-In blackness bke the Stream of Life be lived; (but) none the reason of this blackness asked.
+In blackness like the Stream of Life be lived; (but) none the reason of this blackness asked.
 
 One night I was, in kindness and in love, waiting upon that “ qibla ” (of the world).
 
-Besting bis foot upon my lap in love, be was complaining of the stars of heaven.
+Besting his foot upon my lap in love, he was complaining of the stars of heaven.
 
 Said be. See what a raid the sky bas made; what games it’s practised on a king like me!
 
@@ -108,19 +102,19 @@ From Iram’s region it bas cut me off, and brought me ’neath the blackness of
 
 No one bas asked me where that region is, nor why this blackness on my silver bes.
 
-I thought upon an answer to the king; I gently rubbed my face upon bis foot.
+I thought upon an answer to the king; I gently rubbed my face upon his foot.
 
-I said (to him), O aid to the distressed, best one of aU the rulers of the earth,
+I said (to him), O aid to the distressed, best one of all the rulers of the earth,
 
 Who on the earth bas such an arm that be may graze (the face of) heaven with an axe?
 
 Into a hidden story to enquire (is not for us); you know (it) and can tell.
 
-My master finding me (fit) confidant, bored rubies (red) and spbt the musk-pod open.
+My master finding me (fit) confidant, bored rubies (red) and split the musk-pod open.
 
 He said, When in this sovereignty of mine I formed a habit of receiving guests,
 
-I made enquiries of wbome’er I saw into (his) past adventures, bad or good.
+I made enquiries of whome’er I saw into (his) past adventures, bad or good.
 
 One day a stranger came from off the road, (whose) turban, shoes, and dress were all of black.
 
@@ -128,7 +122,7 @@ When I bad ordered food, as was my mode, I summoned him and honoured him (as gue
 
 I said, O you, whose book I have not read, (tell me) on what account your dress is black.
 
-He said, Desist! abstain from words (like) these, for of the Simnrgh none have given news.
+He said, Desist! abstain from words (like) these, for of the Simurgh none have given news.
 
 I said, Disclose (the matter), seek no pleas; inform me of the pitch-pot and the pitch.
 
@@ -136,7 +130,7 @@ He said, you must excuse, for ’his a wish (about a thing) which cannot be reve
 
 Ho one has knowledge of this blackness, know, save only him who has this black (attire).
 
-Secret cajoleries I used with him, — I an Traqian, he of Kliurasan.
+Secret cajoleries I used with him, — I an Traqian, he of Khurasan.
 
 Cajolery had no effect on him, he lifted not the veil from the affair.
 
@@ -168,7 +162,7 @@ I tried to lure to patience thoughts and care, — (such luring) gave no patienc
 
 Though openly and secretly I asked, none could explain the matter as it was.
 
-At last I quit the realm, and left to rule a relative of noine, of my own house,
+At last I quit the realm, and left to rule a relative of mine, of my own house,
 
 I took of dress, of treasure, and of gems that which should keep the mind devoid of stress.
 
@@ -196,7 +190,7 @@ Day after day I added to his wealth, with gold did I a piece of iron gild.
 
 I made him utterly my game and prey, at times by silk, at times by silk-faced girls.
 
-(So) the man by that scattering of gold became my prey like sacnflcial ox.
+(So) the man by that scattering of gold became my prey like sacrificial ox.
 
 My gifts of treasure thus affected him that he was troubled by the load of it.
 
@@ -204,7 +198,7 @@ One day he took me to his house (as guest); gave entertainment more than was his
 
 He set the tray before me and brought food, good service to his entertainment joined.
 
-Uppn ids tray was all that was required — except the object of his guest’s desire.
+Upon ids tray was all that was required — except the object of his guest’s desire.
 
 When we had eaten every kind of food, we talked on every topic (that occurred).
 
@@ -262,23 +256,23 @@ He said, You ask an inexpedient thing, (but) I’ll give answer such as meets th
 
 When night o’er camphor scattered ambergris, and men abandoned paths by men pursued.
 
-He said, (Now) is the time that you should see what you desire, and Imow it (as it is).
+He said, (Now) is the time that you should see what you desire, and know it (as it is).
 
 Arise, that I the secret may reveal, and show to you the aspect of the case.
 
-He spoke these words, and went out of the house; he made hims€il£ my guide upon the road.
+He spoke these words, and went out of the house; he made himself my guide upon the road.
 
 He went in front, I (following) behind, of people there was not a soul with us.
 
-He cut me ofE from men as thoili I were fay-bom, and towards a ruin led me on.
+He cut me off from men as though I were fay-born, and towards a ruin led me on.
 
 When we bad gone into that ruined place, we fell like fairies, both, beneath a veil.
 
 There was a basket fastened by a rope; he went and brought it quietly to me.
 
-A rope was roxmd the basket tied, (’twas like) a serpent round a serpent-basket coiled.
+A rope was round the basket tied, (’twas like) a serpent round a serpent-basket coiled.
 
-He said, A moment in this basket sit, and o’er the heavens and earth display yourseH,
+He said, A moment in this basket sit, and o’er the heavens and earth display yourself,
 
 That you may know why all who silence keep are in this manner dressed in black attire.
 
@@ -306,31 +300,31 @@ It did its business with me, and went off; I raised much outcry, ’twas of no a
 
 When I looked high and low upon the world, I saw myself bestowed upon the heavens.
 
-Tie (lofty) sky lad o’er me cast a spell; I found mysell suspended like tie sky.
+Tie (lofty) sky had o’er me cast a spell; I found mysell suspended like tie sky.
 
-Tirougi anguisi suci as nearly caused my deati, my eyes from terror could not do tieir work.
+Through anguish such as nearly caused my death, my eyes from terror could not do their work.
 
-Upwards my ieart could not witi boldness look, (and) wio would lave tie courage to look down!
+Upwards my heart could not with boldness look, (and) who would have tie courage to look down!
 
-Witi terror overcome I closed my eyes, to utter ielplessness resigned myself;
+With terror overcome I closed my eyes, to utter helplessness resigned myself;
 
-Regretful, and repenting my emprise, (and) yearning for my relatives and louse.
+Regretful, and repenting my emprise, (and) yearning for my relatives and house.
 
-Tiere was no profit in tiat penitence, save piety, and invocation’s aid.
+Tiere was no profit in that penitence, save piety, and invocation’s aid.
 
-Wien after this a short time lad elapsed, — upon tie top of tiat long, lofty tower
+When after this a short time had elapsed, — upon tie top of that long, lofty tower
 
-A bird came up and perched as might a mount, (suci) tiat from it my ieart some trouble felt.
+A bird came up and perched as might a mount, (such) that from it my heart some trouble felt.
 
 Tie branches of a tree its wings and plumes, its feet were like tie bases of a throne.
 
-And from tie size it lad from head to foot, tie tower was, one might say, reduced to naught.
+And from tie size it had from head to foot, tie tower was, one might say, reduced to naught.
 
-As long as any column was its beak, a Bistun witi a cavern in tie midst.
+As long as any column was its beak, a Bistun with a cavern in tie midst.
 
 (Tie bird) would every moment scratch itself, and plume and clean itself unceasingly.
 
-Each feather which it scratched out from tie root scattered (abroad) a shell replete witi pearls.
+Each feather which it scratched out from tie root scattered (abroad) a shell replete with pearls.
 
 It went to sleep above my head, whilst I despaired as drowning man at water does.
 
@@ -338,9 +332,9 @@ I said, If I take hold of tie bird’s foot, ’twill clutch me in its talons as
 
 And if I wait, tie place is full of risk, calamity’s below me and above.
 
-A faithless man has tirougi (his) baseness done an act so heartless of deceit to me.
+A faithless man has through (his) baseness done an act so heartless of deceit to me.
 
-What object lad he in tormenting me, tiat in this manner he has crushed my hands?
+What object had he in tormenting me, that in this manner he has crushed my hands?
 
 My property, perchance, led him astray, for that he’s brought destruction on (a friend).
 
@@ -352,7 +346,7 @@ That bird’s heart too by restlessness disturbed, — it flapped its pinions an
 
 Trusting in God, I lifted up my hands, (and) seized the foot of that strong-pinioned (bird).
 
-It brought its feet together, spread its wings, and to the heights, Hke air, it carried earth.
+It brought its feet together, spread its wings, and to the heights, like air, it carried earth.
 
 From early dawn to mid-day travelled I, a traveller-disquieter (the hied).
 
@@ -378,7 +372,7 @@ A garden I beheld whose ground was heaven; on it the dust of man had never lain.
 
 A hundred thousand flowers were blooming there; the verdure wakeful, whilst the water slept.
 
-Of difiexent kind in colour every flower, the scent of each extended to a league.
+Of different kind in colour every flower, the scent of each extended to a league.
 
 The hyacinth’s (dark) locks with lasso loops took captive there the ringlets of the pink.
 
@@ -388,17 +382,17 @@ The dust was camphor, ambergris the earth, the sand was gold, (and all) the ston
 
 The running springs, rose-water to the sense, in them cornelians (shone) and lustrous pearls.
 
-(Bright) rivulets from which this turquoise fort for limpiiaess and colour had to beg.
+(Bright) rivulets from which this turquoise fort for limpidness and colour had to beg.
 
 The fish amidst the rivulets were like to silver dirams ” in quicksilver placed. *
 
-Aroimd the garden, hills of emerald hue, the wood on them of cypress, poplar, pine.
+Around the garden, hills of emerald hue, the wood on them of cypress, poplar, pine.
 
 The stones were all red rubies to the view, and from their hue the poplar pale turned red.
 
 Sandal and aloes stood on every side, the breeze rubbed sandal and burned aloes-wood.
 
-Hurls had turned their minds to forming it, and Gabriel had brought it from the heavens.
+Huris had turned their minds to forming it, and Gabriel had brought it from the heavens.
 
 “ Best to the Heart ” its name by Iram given, and by the azure sphere called “ Paradise
 
@@ -426,11 +420,11 @@ A cloud appeared like clouds of April-time, and o’er the verdure scattered lus
 
 The road when swept and sprinkled by the shower became with idols like a temple decked.
 
-I saw afar unnumbered huns fair, through whom repose and seK-control were lost.
+I saw afar unnumbered huns fair, through whom repose and self-control were lost.
 
-A world of brightest pictures that possessed the damtiness of wine of fragrant scent.
+A world of brightest pictures that possessed the daintiness of wine of fragrant scent.
 
-Like a fresh spimg was every picture (there), (and) all had henna in their hands (as flowers).
+Like a fresh spring was every picture (there), (and) all had henna in their hands (as flowers).
 
 (Their) ruby lips like tulips in the garth; their rubies bloodwite (too) of EFuzistan.
 
@@ -440,11 +434,11 @@ Candles for monarchs fit were in their hands, (candles) devoid of snuffers, smok
 
 In lively, graceful manner they approached, displaying thousand beauties to the view.
 
-Those ghis of buri-kind bore on their heads a throne and rugs like those of paradise.
+Those girls of huri-kind bore on their heads a throne and rugs like those of paradise.
 
 They spread the rugs and (then) set up the throne, with fierce attack assailed my self-control.
 
-WFen after this a time, not long, had passed, the moon, you’d say, descended from the sky;
+When after this a time, not long, had passed, the moon, you’d say, descended from the sky;
 
 A sun (so brilliant) from afar appeared that through (its) light the sky was lost to view.
 
@@ -472,9 +466,9 @@ A moment like a rose with head inclined she rested, casting fire into the world.
 
 A short time having passed she raised her head, and to a confidant she had close by
 
-She said. It seems to me some one is here, an earth-bom one who has no right to come.
+She said. It seems to me some one is here, an earth-born one who has no right to come.
 
-Else, and go round the circuit (of this place), (and) bring before me whomsoe’er you meet.
+Rise, and go round the circuit (of this place), (and) bring before me whomsoe’er you meet.
 
 That one of fairy birth rose from the ground, and like a fairy flew to right and left.
 
@@ -486,13 +480,13 @@ I added nothing to the words (she spoke), for they were words which pleased me (
 
 I flew like crow with bird of paradise, and came up to the throne where sat the bride.
 
-I went before ber with alacrity; I kissed the earth before her, I earth-bom.
+I went before her with alacrity; I kissed the earth before her, I earth-born.
 
 She said, Arise, (that) place is not your place; the rank of servitude befits you not.
 
 With one like me, of hospitable kind, the guest should in the kernel be, not shell.
 
-Still more, since you are handsome, pleasant-facedj and have been trained (too) by the trainer, worth.
+Still more, since you are handsome, pleasant-faced and have been trained (too) by the trainer, worth.
 
 (Come then), ascend the throne and sit by me; the moon’s in concord with the Pleiades.
 
@@ -520,7 +514,7 @@ Since I could see no course but servitude, I stood as (humble) slave upon my fee
 
 When I was seated on that lofty throne, I saw a Moon, (and) seized it with a noose.
 
-That lovely idol (then) with pleasant speech gave token of much kmdness and regard.
+That lovely idol (then) with pleasant speech gave token of much kindness and regard.
 
 Site ordered them to bring a tray with food, exceeding (all one’s power to) describe.
 
@@ -534,7 +528,7 @@ As soon as we had finished (our) repast, (our banquet) of hot viands and cold dr
 
 The minstrel came, the cupbearer went off, (and) gaiety was left without a plea.
 
-A pearl was bored by every imbored Pearl, verses were sung by every lovely one.
+A pearl was bored by every unbored Pearl, verses were sung by every lovely one.
 
 The dance a square oped, and a circle closed; wings came to feet of those who would abjure.
 
@@ -594,7 +588,7 @@ Of (aH) these girls, each one of whom’s a Moon, and a (resplendent) dawn to lo
 
 The one you find most lovely in (your) eyes, on whom you find desire fix its regard, —
 
-Command, and I will let Iier go from me, and bring ber under your control at once;
+Command, and I will let Her go from me, and bring her under your control at once;
 
 That in your service she may (then) engage, and to a special chamber be attached;
 
@@ -604,7 +598,7 @@ Ut aqua e rivulo suo emissa vim flammae huse oppiimat.
 
 Ap.other night if a new bride you wish, I’D give you one, you’re lord of all you want.
 
-From these I’U give you every night a pearl; another should you wish, her tod I’ll give.
+From these I’ll give you every night a pearl; another should you wish, her tod I’ll give.
 
 She spoke these words, (and) when she’d closed her speech, she treated me with kindness and regard.
 
@@ -640,7 +634,7 @@ She made a spacious tank my bathing-place, yellow with gold, and red with (lustr
 
 When with rose-water I bad bathed in it, I came forth crowned and vested like the rose.
 
-(Then) from that treasure-house I came away; the stars were each and aU upon the heavens.
+(Then) from that treasure-house I came away; the stars were each and all upon the heavens.
 
 I crept into a lonely nook, (and there) performed at once the duties God ordains.
 
@@ -660,7 +654,7 @@ As on the night before came cloud and breeze, one scattering pearls, the other o
 
 The breeze swept (clean), the cloud (too) sprinkled rain; that, jasmine sowed, this, planted violets.
 
-When the meads were with ambergris perfumed, rose-water, stream on stream, laid down its bead,
+When the meads were with ambergris perfumed, rose-water, stream on stream, laid down its head,
 
 The beauties full of gaiety returned, the sky again became a conjurer.
 
@@ -698,7 +692,7 @@ She showed extreme desire to treat me well, and acted in my interests as a frien
 
 With coquetry gave glances to her love, so that her handmaids left her presence (soon).
 
-Eetirement favouring, with a friend (so) fair, — fiire from my heart flew (quickly) to my head.
+Retirement favouring, with a friend (so) fair, — fire from my heart flew (quickly) to my head.
 
 Her waist I compassed, vying with her locks, (and) drew her as a lover to my breast.
 
@@ -752,7 +746,7 @@ You have the garden, seek not mountain slopes; you have the bird, look not for m
 
 You have enjoyment and your heart’s desire, why do you put your hand to perfidy!
 
-Eestrain yourself this night and do not strive; content yourself with what last night bestowed.
+Restrain yourself this night and do not strive; content yourself with what last night bestowed.
 
 When from this lofty height I do descend, I’ll come the better for my coming late.
 
@@ -786,7 +780,7 @@ All those (bright) colours which beguiled the eyes had left the carpet of adornm
 
 (There) was I seated ’neath a cypress-tree, free from associate and concordant friend.
 
-Longing, when night returned, to drink of wine with beauties of Taraz and Turldstan;
+Longing, when night returned, to drink of wine with beauties of Taraz and Turkistan;
 
 Put round my waist the ringlets of a Turk, take to my heart a heart-caresser fair;
 
@@ -796,7 +790,9 @@ All was made ready when the night returned; my throne was higher than the Pleiad
 
 For some time thus I had with lute and wine enjoyment every night without a break.
 
-For nine and twenty nights my mart thus brisk with (times) heart-stirring such (as I’ve described). light was my prospect early in the night; later at night a him shared my nest.
+For nine and twenty nights my mart thus brisk with (times) heart-stirring such (as I’ve described).
+
+Light was my prospect early in the night; later at night a huri shared my nest.
 
 The garden mine by day, and heaven at night, the earth of musk, the house of golden bricks.
 
@@ -808,7 +804,7 @@ Since I was thankless for the favours shown, the claims on gratitude exceeded bo
 
 I washed my page of words of joyousness, for I from (having) more (still) sought for more.
 
-When the moon’s term had stretched to thirty nights, the night effaced aU traces of the stars.
+When the moon’s term had stretched to thirty nights, the night effaced all traces of the stars.
 
 The palace of the sky’s black coping (then) drew in with love the moon’s embroidery.
 
@@ -830,7 +826,7 @@ The minstrels framed their notes upon the modes: they, skilled in modes, relaxed
 
 The cupbearers poured out the rosy wine to the sweet modulations of the harp.
 
-(Then) said the queen of those of honeyed Hps, Bring that associate of mine at once.
+(Then) said the queen of those of honeyed lips, Bring that associate of mine at once.
 
 Again those beauties led me courteously, and brought me (forward) to their charming (queen).
 
@@ -844,13 +840,13 @@ When from the trays we’d eaten of the food, (then) wine began its cheering off
 
 From the cupbearers’ hands which, like the sea, were prodigal, the bowls as shells cast pearls.
 
-Again I grew distranglit and drunk with love, (and) seized upon her (long and) snake-like locks.
+Again I grew distraught and drunk with love, (and) seized upon her (long and) snake-like locks.
 
-Again mj demons firom their cords escaped, and fastened me, (with love) distraught, with ropes.
+Again my demons from their cords escaped, and fastened me, (with love) distraught, with ropes.
 
 A spider I became in dalliance, and in the night-time learnt to dance on ropes.
 
-I grew insane like asses seeing corn, or epileptics seeing the new moon.
+I grew insane like asses seeing coin, or epileptics seeing the new moon.
 
 Trembling, as does a thief before a hoard, I put my hand upon her slender waist;
 
@@ -858,7 +854,7 @@ Over pure silver did I pass my hand; restraint was hard, and I was soft and weak
 
 When (that bright) Moon of lovely face saw this, with kindliness she put (her) hand on mine.
 
-She, envied of the buris, kissed my hand, that I might keep it from the treasury.
+She, envied of the huris, kissed my hand, that I might keep it from the treasury.
 
 Said, To a treasure closed stretch not your hand, for the long hand attains not to its aim.
 
@@ -900,7 +896,7 @@ Though you have haunches like a (young) gazelle’s, how long into a hare’s sl
 
 I fear this ancient wolf of vulpine craft in wolfish, vulpine dealings will engage;
 
-That hke a Uon-taker it will charge, and, as a leopard might, win cast me down.
+That hke a lion-taker it will charge, and, as a leopard might, win cast me down.
 
 Consumed am I by my desire for you, (then) suffer me to attain to my desire.
 
@@ -908,7 +904,7 @@ Consumed am I by my desire for you, (then) suffer me to attain to my desire.
 
 (Then) suffer my exactions, (even) kings and sultans bear the exactions of (their) guests.
 
-When once again I had no patience left, she said. It wfll be so, withhold your hand.
+When once again I had no patience left, she said. It will be so, withhold your hand.
 
 Though life they touch. I’ll suffer your demands — you from KhalluHi, from Ethiopia I.
 
@@ -934,7 +930,7 @@ When the beguiling of her tongue I saw, I gave ear to her, but I did not hear.
 
 Although I strove for calm and modesty, my sword was keen, and fervid was my Are.
 
-(Then) from afar said Fortune, Foolish man. Beyond ‘Abbdddn there is ne’er a tovm.
+(Then) from afar said Fortune, Foolish man. Beyond ‘Abbdddn there is ne’er a town.
 
 I immature, through too much diffidence, after (the chance of) much had little gain.
 
@@ -962,13 +958,13 @@ Who would not gain a treasure (then) for naught, and at the cost of life a wish 
 
 I shall give light for this night like a lamp, for, as a lamp, from love of you I burn.
 
-My burning keeps me bright with Kfe as lamps: the living bums, but branded is the dead.
+My burning keeps me bright with life as lamps: the living bums, but branded is the dead.
 
 Should the sun not revolve in burning state, ’twould be in woeful state through dearth of light.
 
 My brain has been asleep; what doubt of this! — the sleeping and the dead are reckoned one.
 
-This not the wish I seek (to gain) from you; a dream I call it for myseh (alone).
+This not the wish I seek (to gain) from you; a dream I call it for myself (alone).
 
 (But) i£ my eyes had not beheld your face, how could they (e’er) have seen such dreams as these?
 

@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -30,7 +28,7 @@ A musky line was drawn from head to tad, and streak on streak was seen from haun
 
 In place of horse’s housing it was clothed as with a veil of silk of rusty hue.
 
-Its frame bore off the ball from aU its kmd; its haunches bore it off from aU its frame.
+Its frame bore off the ball from all its kind; its haunches bore it off from all its frame.
 
 A fire which made the hay its relative; a ruddy-faced one clad in darvish robe.
 
@@ -62,11 +60,11 @@ Unto, it reached a cave far from the plain, by which the foot of man had never p
 
 When near upon (his) prey, the hunter saw a dragon lying at the cavern’s mouth.
 
-A pitchy mountain fuO of twists and turns — the mountain naught before that mountain-mass.
+A pitchy mountain full of twists and turns — the mountain naught before that mountain-mass.
 
-A fixe, in blackness issuing, like smoke which through a chimney raises up its head.
+A fire, in blackness issuing, like smoke which through a chimney raises up its head.
 
-Or like a tree devoid of fmit and leaves; hell’s keeper, and a go-between of death.
+Or like a tree devoid of fruit and leaves; hell’s keeper, and a go-between of death.
 
 A cavern’s month its month, (and) in the world with naught but havoc was it occupied.
 
@@ -102,13 +100,13 @@ He boldly drove a javelin at its throat, as lion’s claws are into wild ass (dr
 
 The javelin, six-sided, eight fists long, the throat and palate of the dragon tore.
 
-A mighty clamoiir from the dragon rose; like tree or column on its head it crashed.
+A mighty clamour from the dragon rose; like tree or column on its head it crashed.
 
 That awfulness and writhing scared him not — how should the cloud e’er fear the mountain’s height?
 
 Ahriman’s head he cut off with his sword — ’Tis best one’s foe should lose his head, be killed —
 
-He spKt it open (then) from mouth to tail, (and) in its stomach saw the ass’s foal.
+He split it open (then) from mouth to tail, (and) in its stomach saw the ass’s foal.
 
 He (then) was sure the vengeful onager had summoned him for vengeance (on its foe).
 
@@ -126,7 +124,7 @@ Many large, splendid jars had (there) been placed, which fairy-like their faces 
 
 When it had brought the gurkhan ” to the jars, leaving no trace, the gur ” (then) left the vault.
 
-Since to the treasure-lock he’d foimd a key, and cut the dragon from the treasure-house,
+Since to the treasure-lock he’d found a key, and cut the dragon from the treasure-house,
 
 He came out through the cavern’s narrow mouth, and sought the road, and to the road a guide.
 

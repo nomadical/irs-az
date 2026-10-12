@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: C. E. Wilson
-translatorNote: >-
-  The Haft Paikar (The Seven Beauties), Vol. I: Translation. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'The Haft Paikar (The Seven Beauties), Vol. I: Translation'
 year: 1924
 sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
@@ -18,7 +16,7 @@ East-rushan, the vazir, with grievous hurts upon the rack my brother put to deat
 
 Goods, torses, (otter) things, wtate’er there was, te seized on all: bott life and also wealth.
 
-By reason of his yontt and beauty all were much afSicted at his loss of life.
+By reason of his yontt and beauty all were much afflicted at his loss of life.
 
 And since I raised an outcry at the deed, the vazir took me prisoner for that crime;
 
@@ -76,7 +74,7 @@ He strove much with contention, fuss, and noise; for force or gold I would not s
 
 At last when he grew drunk with hate and spite, he brought against (your slave) a lying charge.
 
-So that, as fine to him for that ofience, he took away the garden from poor me.
+So that, as fine to him for that offence, he took away the garden from poor me.
 
 And (then), that in the court where wrongs are heard I might not bring this wrong before the king.
 
@@ -104,7 +102,7 @@ He summoned (me) and bought (them), and through awe, I in appraising was most mo
 
 (Then) when the time arrived to pay the price, all kinds of vain excuses he began.
 
-With trouble and distress I sought the price; he oSered naught but vain and idle pleas.
+With trouble and distress I sought the price; he offered naught but vain and idle pleas.
 
 A few days, good or evil, (passed away, whilst) he heaped wile on wile, I still in hope.
 
@@ -118,7 +116,7 @@ He getting hold of (lustrous) pearls from me; I at his hands in torture left to 
 
 He putting pearls into his turban-folds; I, shell-like, at the bottom of a pit.
 
-From the bad-natiired vazir’s store the king gave hiTn some pearls, with gold and ornaments.
+From the bad-natiired vazir’s store the king gave him some pearls, with gold and ornaments.
 
 (Then) full of deepest awe the fourth man said, O you who’re worthy of a thousand thanks,
 
@@ -150,11 +148,11 @@ When I, through losing her, disturbed and mad, sought to regain companionship wi
 
 He, at (his) ease, with my bride whom he’d stolen; with countless needs and longings I, in jail.
 
-’Tis (now) four years since, in (his) tyraimy, he’s kept me, guiltless, in this abject state.
+’Tis (now) four years since, in (his) tyranny, he’s kept me, guiltless, in this abject state.
 
-Tie Mug at once gave up tie girl to lim, not ler alone, but thousand things as well.
+Tie Mug at once gave up tie girl to him, not her alone, but thousand things as well.
 
-He gave for her a portion wien he wed, and set him free from durance with his bride.
+He gave for her a portion when he wed, and set him free from durance with his bride.
 
 (Then) the fifth person to the star-king said. You with whose sky-like tent the -world is joined,
 
@@ -186,7 +184,7 @@ When these proceedings reached the vazir’s ears, he made the cauldron of injus
 
 He took from me my stewardship and power, and laid his hand upon my wealth and lands.
 
-He said, TMs wealth is gained not by your work; your gifts suit not such store as you should have.
+He said, This wealth is gained not by your work; your gifts suit not such store as you should have.
 
 YouVe made a furnace hot for alchemy, or else in ass-loads treasure you have found.
 
@@ -196,7 +194,7 @@ Give me, as should be given, my share of it, or I will give your head unto the w
 
 To end the business, he afflicted me: made me his slave and put me into jail.
 
-’GPis now five years that, in the prison kept, IVe been removed from children, house, and home.
+’GPis now five years that, in the prison kept, We been removed from children, house, and home.
 
 The king commanded he should be restored in comfort and in ease to what he’d owned.
 
@@ -228,7 +226,7 @@ Or (treating me) as spendthrift, destitute, from the exchequer new provision giv
 
 He shouted out at me, Be silent, you 1 Scrape from your arrow-heads the rust, yourself.
 
-Whilst the king, dull and sour, keeps idle so, ’twixt hiTn and none does any trouble rise.
+Whilst the king, dull and sour, keeps idle so, ’twixt him and none does any trouble rise.
 
 No enemy has come close to his gate, that troops and combating should be required.
 
@@ -254,7 +252,7 @@ He said. With ignorance and folly (crass) with water as a clod you’d threaten 
 
 With food-dispensing now you’d saddle me,; and now you’d threaten with the monarch’s (ire).
 
-The king I seated on the throne myself; aU people on my mandates bow their heads.
+The king I seated on the throne myself; all people on my mandates bow their heads.
 
 The heads of kings are underneath my feet; they all have life (too) by my will (alone).
 
