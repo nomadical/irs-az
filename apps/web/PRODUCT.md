@@ -49,7 +49,7 @@ IRS.AZ is a non-commercial portal for Azerbaijani literary and cultural heritage
 - Name: **IRS.AZ**. Tagline: "Poets · Writers · Philosophers · Works · Translations".
 - Two reader-selectable skins on shared markup, switched from the header and remembered per reader, each in light and dark (both recorded in `DESIGN.md`):
   - **Gazette (the default):** a newspaper / literary gazette aesthetic, user-stated in the project's CLAUDE.md. Ivory, ink-black and pomegranate red, Molla Nasraddin ornamental accents (◆ diamonds, double rules).
-  - **Clean (the approved alternative):** modelled on culture.ru at the user's request: white pages, one charcoal header bar, grey cards and pills, one crimson, Noto Sans and Literata, no rules or ornaments. Its refusal of the gazette's ornament is deliberate, not drift.
+  - **Clean (the approved alternative):** modelled on culture.ru at the user's request: warm grey pages, one charcoal header bar, grey cards and pills, one crimson, Noto Sans and Literata, no rules or ornaments. Its refusal of the gazette's ornament is deliberate, not drift.
 - Theme: the visitor's OS setting until they choose; a choice is remembered.
 
 ## Evidence on Hand

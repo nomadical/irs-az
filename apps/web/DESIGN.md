@@ -19,25 +19,26 @@ colors:
   gazette-dark-rule: "#4A3A2C"
   gazette-dark-surface: "#302619"
   clean-white: "#FFFFFF"
+  clean-page: "#EFEEEC"
   clean-ink: "#232427"
-  clean-muted: "#6B6E76"
-  clean-grey: "#F2F3F5"
-  clean-grey-deep: "#E8E9EC"
-  clean-hairline: "#E4E5E9"
-  clean-control: "#8C8F97"
+  clean-muted: "#5F5D58"
+  clean-grey: "#E4E2DF"
+  clean-grey-deep: "#D9D7D3"
+  clean-hairline: "#DCDAD6"
+  clean-control: "#86837D"
   clean-highlight: "#FBE7EA"
   clean-crimson: "#C8102E"
   clean-crimson-deep: "#A30D25"
-  clean-charcoal: "#2B2C30"
-  clean-header-muted: "#B4B6BD"
+  clean-charcoal: "#2D2C2A"
+  clean-header-muted: "#B7B4AE"
   clean-header-accent: "#FF5A5F"
-  clean-dark-bg: "#17181A"
-  clean-dark-ink: "#E8E9EC"
-  clean-dark-muted: "#9C9FA6"
-  clean-dark-grey: "#222326"
-  clean-dark-grey-deep: "#2C2D31"
+  clean-dark-bg: "#1A1917"
+  clean-dark-ink: "#EAE8E4"
+  clean-dark-muted: "#A29F99"
+  clean-dark-grey: "#252421"
+  clean-dark-grey-deep: "#2F2E2B"
   clean-dark-red: "#FF6B6E"
-  clean-dark-header: "#0F1012"
+  clean-dark-header: "#100F0E"
 typography:
   gazette-featured:
     fontFamily: "Cormorant Garamond, Source Serif 4, Georgia, serif"
@@ -139,6 +140,11 @@ typography:
     fontSize: "1.26rem"
     fontWeight: 400
     lineHeight: 2.1
+  reading-literary:
+    fontFamily: "Alegreya, Source Serif 4, Georgia, serif"
+    fontSize: "1.05rem"
+    fontWeight: 400
+    lineHeight: 1.95
 rounded:
   gazette: "4px"
   clean-control: "10px"
@@ -228,7 +234,7 @@ components:
 
 **Creative North Star: "One Reading Room, Two Editions"**
 
-IRS.AZ is one reading room printed in two editions. The markup, the reading page and the verse layout are shared; a reader picks the edition from a header toggle (stored in `localStorage.skin`, applied as `html[data-skin='clean']` before first paint, so it never flashes). Each edition has a light and a dark theme (`data-theme`, also set before paint, defaulting to the OS preference). The **Gazette** is the default and the incumbent: a Molla Nasraddin–era literary newspaper on ivory, set in Cormorant Garamond and Source Serif, with pomegranate ink, ◆ ornaments, double rules and tracked small capitals. The **Clean** edition is the alternative: a museum-portal reading room in culture.ru's grammar. It uses white pages, one charcoal header bar, soft grey cards and pills, and a single crimson. It is set in Noto Sans and Literata, with no rules and no ornaments.
+IRS.AZ is one reading room printed in two editions. The markup, the reading page and the verse layout are shared; a reader picks the edition from a header toggle (stored in `localStorage.skin`, applied as `html[data-skin='clean']` before first paint, so it never flashes). Each edition has a light and a dark theme (`data-theme`, also set before paint, defaulting to the OS preference). The **Gazette** is the default and the incumbent: a Molla Nasraddin–era literary newspaper on ivory, set in Cormorant Garamond and Source Serif, with pomegranate ink, ◆ ornaments, double rules and tracked small capitals. The **Clean** edition is the alternative: a museum-portal reading room in culture.ru's grammar. It uses warm grey pages, one charcoal header bar, soft grey cards and pills, and a single crimson. It is set in Noto Sans and Literata, with no rules and no ornaments.
 
 Both editions serve the same priority: the text comes first. A poem is set large in a serif at a comfortable measure, the original sits beside its translation, Persian is set right to left in a real Naskh face with taller leading, and provenance sits under every text. Density is low on the reading page and moderate on indexes. Neither edition carries commercial surfaces.
 
@@ -258,7 +264,7 @@ The Gazette is ink and pomegranate on warm paper. Clean is charcoal ink on white
 - **Gazette Muted** (gazette-muted): metadata, datelines, incipits and footer text.
 - **Gazette Rule** (gazette-rule): the 0.5px hairlines between cards, rows and columns. **Gazette Control** (gazette-control) is the 1px border on interactive controls (at least 3:1 on ivory).
 - **Gazette Surface** (gazette-surface): filled pills, buttons and hover backgrounds. **Gazette Highlight** (gazette-highlight) marks search hits.
-- **Clean White** (clean-white) and **Clean Ink** (clean-ink, 15.5:1): page and text. In dark theme they become clean-dark-bg and clean-dark-ink.
+- **Clean Page** (clean-page) and **Clean Ink** (clean-ink, 13.4:1): a warm grey page and its text, greyer than culture.ru's white at the user's request. Clean White is only the text on crimson. In dark theme they become clean-dark-bg and clean-dark-ink.
 - **Clean Muted** (clean-muted): breadcrumbs, metadata, labels and captions. It measures 5.1:1 on white and 4.6:1 on grey. Its dark-theme counterpart, clean-dark-muted, measures 6.7:1.
 - **Clean Grey** (clean-grey) and **Clean Grey Deep** (clean-grey-deep): the surface pair. Cards, pills, tiles, nav buttons and the "other poets" band use grey, and their hover state uses grey deep. The footer also uses grey deep.
 - **Charcoal** (clean-charcoal): the header bar only (clean-dark-header in dark theme), with white text and nav in **Header Muted** (clean-header-muted).
@@ -278,9 +284,10 @@ The Gazette is ink and pomegranate on warm paper. Clean is charcoal ink on white
 **Gazette interface:** Alegreya Sans
 **Clean display and interface:** Noto Sans (fallback Helvetica Neue, Arial)
 **Clean text:** Literata (fallback Georgia)
+**Reader-chosen text (both skins):** Alegreya for "Literary", `system-ui` for "System"
 **Persian / Arabic:** Amiri in the Gazette, Noto Naskh Arabic in Clean (each falls back to the other)
 
-**Character:** The Gazette pairs a high-contrast Garamond display with a sturdy text serif and a humanist sans for the small print, the way a literary weekly does. Clean uses a bold sans for every heading and control, and a book serif for anything meant to be read. Every reading face must carry Ə/ə (U+018F/U+0259), the commonest Azerbaijani vowel: Clean left PT Sans and PT Serif for this reason, since they lack it and the browser filled every ə from a fallback face. All six faces load in one Google Fonts request. A face's files download only when a skin uses it.
+**Character:** The Gazette pairs a high-contrast Garamond display with a sturdy text serif and a humanist sans for the small print, the way a literary weekly does. Clean uses a bold sans for every heading and control, and a book serif for anything meant to be read. Every reading face must carry Ə/ə (U+018F/U+0259), the commonest Azerbaijani vowel: Clean left PT Sans and PT Serif for this reason, since they lack it and the browser filled every ə from a fallback face. All eight faces load in one Google Fonts request. A face's files download only when a skin uses it.
 
 ### Hierarchy
 - **Display** (gazette-display / clean-display): page and work titles. Work titles are 2.75rem in the Gazette and 2.5rem in Clean (2rem under 768px). They are centred and balanced. A Persian title switches to the Naskh face at 700 weight with 1.5 leading.
@@ -316,7 +323,7 @@ The page is a centred column of up to 72rem with 1.5rem side padding.
 
 ## Elevation & Depth
 
-Both skins are flat. The Gazette conveys depth with rules (0.5px hairlines, 1px control borders, 4px double rules in pomegranate) and filled surface tints. Clean conveys it with tonal steps: white page, grey surface, grey-deep hover, a charcoal bar. One element floats in each skin: the reading-appearance popover.
+Both skins are flat. The Gazette conveys depth with rules (0.5px hairlines, 1px control borders, 4px double rules in pomegranate) and filled surface tints. Clean conveys it with tonal steps: warm grey page, deeper grey surface, grey-deep hover, a charcoal bar. One element floats in each skin: the reading-appearance popover.
 
 ### Shadow Vocabulary
 - **Gazette popover** (`box-shadow: 0 4px 16px rgba(0,0,0,0.12)`): the "Aa" appearance popover only.

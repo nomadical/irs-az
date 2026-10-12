@@ -1,7 +1,7 @@
 /* ─────────────────────────────────────────────────────────────
    IRS.AZ — Clean skin
    An alternative to the gazette look, opted into per reader
-   (html[data-skin='clean']). White pages, one crimson accent,
+   (html[data-skin='clean']). Warm grey pages, one crimson accent,
    Noto Sans for the interface and Literata for the text, soft
    grey cards instead of rules and ornaments.
    Markup is shared with the gazette skin: only styles change.
@@ -12,22 +12,22 @@
 
 /* ── Tokens — light ─────────────────────────────────────────── */
 :root[data-skin='clean'] {
-  --bg:          #FFFFFF;
+  --bg:          #EFEEEC;
   --ink:         #232427;
-  --muted:       #6B6E76;
-  --rule:        #E4E5E9;
-  --control:     #8C8F97;
-  --surf:        #F2F3F5;
-  --surf-2:      #E8E9EC;
+  --muted:       #5F5D58;
+  --rule:        #DCDAD6;
+  --control:     #86837D;
+  --surf:        #E4E2DF;
+  --surf-2:      #D9D7D3;
   --hl:          #FBE7EA;
   --pomeg:       #C8102E;
   --pomeg-dark:  #A30D25;
   --pomeg-fill:  #C8102E;
-  --warm-brown:  #6B6E76;
+  --warm-brown:  #5F5D58;
 
-  --header-bg:     #2B2C30;
+  --header-bg:     #2D2C2A;
   --header-ink:    #FFFFFF;
-  --header-muted:  #B4B6BD;
+  --header-muted:  #B7B4AE;
   --header-line:   rgba(255, 255, 255, 0.24);
   --header-hover:  rgba(255, 255, 255, 0.1);
   --header-accent: #FF5A5F;
@@ -39,44 +39,44 @@
 
   --radius:      10px;
   --radius-lg:   16px;
-  --shadow-pop:  0 10px 32px -8px rgba(20, 22, 28, 0.18), 0 2px 6px rgba(20, 22, 28, 0.06);
+  --shadow-pop:  0 10px 32px -8px rgba(28, 26, 22, 0.18), 0 2px 6px rgba(28, 26, 22, 0.06);
 
   color-scheme: light;
 }
 
 /* ── Tokens — dark ──────────────────────────────────────────── */
 :root[data-skin='clean'][data-theme='dark'] {
-  --bg:          #17181A;
-  --ink:         #E8E9EC;
-  --muted:       #9C9FA6;
-  --rule:        #2C2E32;
-  --control:     #6E7178;
-  --surf:        #222326;
-  --surf-2:      #2C2D31;
+  --bg:          #1A1917;
+  --ink:         #EAE8E4;
+  --muted:       #A29F99;
+  --rule:        #2F2D2A;
+  --control:     #73706A;
+  --surf:        #252421;
+  --surf-2:      #2F2E2B;
   --hl:          #3A1C21;
   --pomeg:       #FF6B6E;
   --pomeg-dark:  #FF8A8C;
   --pomeg-fill:  #C8102E;
-  --warm-brown:  #9C9FA6;
-  --header-bg:   #0F1012;
+  --warm-brown:  #A29F99;
+  --header-bg:   #100F0E;
   --shadow-pop:  0 12px 36px -8px rgba(0, 0, 0, 0.6), 0 2px 6px rgba(0, 0, 0, 0.3);
   color-scheme: dark;
 }
 @media (prefers-color-scheme: dark) {
   :root[data-skin='clean']:not([data-theme='light']) {
-    --bg:          #17181A;
-    --ink:         #E8E9EC;
-    --muted:       #9C9FA6;
-    --rule:        #2C2E32;
-    --control:     #6E7178;
-    --surf:        #222326;
-    --surf-2:      #2C2D31;
+    --bg:          #1A1917;
+    --ink:         #EAE8E4;
+    --muted:       #A29F99;
+    --rule:        #2F2D2A;
+    --control:     #73706A;
+    --surf:        #252421;
+    --surf-2:      #2F2E2B;
     --hl:          #3A1C21;
     --pomeg:       #FF6B6E;
     --pomeg-dark:  #FF8A8C;
     --pomeg-fill:  #C8102E;
-    --warm-brown:  #9C9FA6;
-    --header-bg:   #0F1012;
+    --warm-brown:  #A29F99;
+    --header-bg:   #100F0E;
     --shadow-pop:  0 12px 36px -8px rgba(0, 0, 0, 0.6), 0 2px 6px rgba(0, 0, 0, 0.3);
     color-scheme: dark;
   }
