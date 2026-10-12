@@ -14,15 +14,15 @@ status: DRAFT
 ---
 The letter opened with the name of God, who by His grace guides those who go astray.
 
-Of heaven and earth Creator Absolute, through whom nonbeing being bas obtained.
+Of heaven and earth Creator Absolute, through whom nonbeing being has obtained.
 
 Of mankind down to all the animals, of the exalted sky and ponderous mount —
 
 His power the painter of all being is within the picture-room of (His) good gifts.
 
-There is no lord, save Him, who bas not need of some relationship, or thing conjoined.
+There is no lord, save Him, who has not need of some relationship, or thing conjoined.
 
-Creation is a knot by Him unloosed; praise is the seal He bas aiBSixed (to it).
+Creation is a knot by Him unloosed; praise is the seal He has aiBSixed (to it).
 
 He is the keeper of the earth and time; both this and that obey as He commands.
 
@@ -38,7 +38,7 @@ IVe merit and experience of the world; I’m in the eyes of (ah) the world appro
 
 Ajid for my merit Fortune fosters me — How can the meritless get crown and throne?
 
-My eminence bas given me crown and throne — the base man never can he eminent.
+My eminence has given me crown and throne — the base man never can he eminent.
 
 Though the dominion of the earth is mine; the leadership of fairies and of men,
 

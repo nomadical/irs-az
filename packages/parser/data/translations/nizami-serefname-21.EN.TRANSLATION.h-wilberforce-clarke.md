@@ -221,13 +221,13 @@ An army like the hornet with sharp sting;
 Even more (in number) than a swarm of hornets.
 
 The banner was sought (made) from the lofty banner
-That remained of the victorious Firidiin,
+That remained of the victorious Firidun,
 
 At the time when that time was favourer;
 And the sky was of friends the cherisher.
 
 Much higher than the Kavah standard,
-He fastened to the spear-head of his (Firidiin's) standard a blue silk banner.
+He fastened to the spear-head of his (Firidun's) standard a blue silk banner.
 
 A pine shaft, fifty yards (in length),
 Nourished in liver-blood.

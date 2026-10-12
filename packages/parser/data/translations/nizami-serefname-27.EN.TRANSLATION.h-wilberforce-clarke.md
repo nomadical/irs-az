@@ -366,7 +366,7 @@ no « At the time of army-arraying,
 « Of omens, which thou shouldst gain as to victory, the first
 « Should be— a heart free from fear of the enemy.
 
-us " To (his son) Fmimurz, Rustam thus spoke,
+us " To (his son) Firamurz, Rustam thus spoke,
 « Saying -.-Break not thy heart; but break the mountain Alburz! « To Bahman, Isfandiyar thus spoke,
 
 " Saying:— If thou break not (thyself) thou wilt break the battle-ranks,
@@ -447,7 +447,7 @@ Saying: — " Although the region of the world is for thee prosperous,
 " Who remained who may utter words to me (of past affairs)?
 
 " Rustam and Zal and the Simurgh and Sam — where?
-" Firidiin and his skill, Jamshid and his cup, — where?
+" Firidun and his skill, Jamshid and his cup, — where?
 
 " The earth devoured; and after devouring them long time ha,s not passed;
 " Yet of devouring them its belly is not sated.
@@ -495,7 +495,7 @@ Every property which conies into this world —
 ' Thou art not the tyrant; do justice! do justice!
 
 If thou abandon the tyranny of Dara (in amassing wealth), — well;
-' If he were the holder (of world-treasures), thou art the Sikandar (the Grod- worshipper).
+' If he were the holder (of world-treasures), thou art the Sikandar (the God- worshipper).
 
 ' Behold what he experienced from the world's harvest!
 Do not thou the same, so that thou experience not the same.

@@ -126,11 +126,11 @@ They dug the ground up (there) for forty days; — how many such grave-diggers i
 
 The ground though to the water-level dug, that treasure none saw (even) in a dream.
 
-He who bas all that’s worth upon the heavens, — ’his (a) hard (task) to seek him out on earth.
+He who has all that’s worth upon the heavens, — ’his (a) hard (task) to seek him out on earth.
 
 The body and the bones are (found) on earth; the heavenly part is found upon the heavens.
 
-Each body ’neath the sky bas mothers (twain): one, of the blood, the other one, the earth.
+Each body ’neath the sky has mothers (twain): one, of the blood, the other one, the earth.
 
 The first one fosters it with tender care; the second takes it back again from her.
 
@@ -154,7 +154,7 @@ When from the heavenly voice she heard the address, she tore the love of Bahram 
 
 She went, and on the interests of his son employed the heart which she had pledged to him.
 
-She gave his heir his diadem and throne; — none who bas been an heir of his bas died. —
+She gave his heir his diadem and throne; — none who has been an heir of his has died. —
 
 You who have given news of Bahram Gur, desist from this, (and) look to Bahram’s tomb.
 
@@ -194,7 +194,7 @@ The stars celestial are your shoulder-belt; (these stars) what are they aU? They
 
 Tour field surrounds the narrow bounds of all; (all) these designs are on your canvas limned.
 
-Each one from you (its) picture bas derived; why take you (then) an omen by each one?
+Each one from you (its) picture has derived; why take you (then) an omen by each one?
 
 That which they do, — you are yourself that light; that which they suffer, — you are far from it.
 
@@ -222,7 +222,7 @@ Before without the village you are put, load with your goods and chattels ox and
 
 By the soul travel, valueless the frame; load lightly (too), for restive is the horse.
 
-The dead (in heart) who is in evil plight, — his soul bas towards the body been inclined.
+The dead (in heart) who is in evil plight, — his soul has towards the body been inclined.
 
 But he who knows what is the soul’s first source, — his soul without (his) body can exist.
 
@@ -238,11 +238,11 @@ One Pen alone designed when things began these seven tablets with their fourfold
 
 A hundred though they were, not seven and four, they (still) would be from one controlling hand.
 
-(From) the first point (to) the last circle, all from One bas come, and all to One returns.
+(From) the first point (to) the last circle, all from One has come, and all to One returns.
 
 Dualities and their division spurn; look to the One, and see their source in One.
 
-From One bas come first each duality, and when the latter goes the One remains.
+From One has come first each duality, and when the latter goes the One remains.
 
 Whoever comes into this transient house, must very soon go back (from it again).
 
@@ -252,7 +252,7 @@ Though in (its) rule it does not persecute the weak, in its account no one’s f
 
 If you work out no end of clever schemes, more than your destined lot you’ll not enjoy.
 
-The sky (above us) bas an ice-bound tank; how long seek profit from this ice? how long?
+The sky (above us) has an ice-bound tank; how long seek profit from this ice? how long?
 
 (Exposed) to air through which you may be ficozen, seek you to be alive before you die.
 
@@ -266,9 +266,9 @@ Despise possessions, (and) think not of food; so, you may be in safety from the 
 
 Man’s safety (in the world) lies in two things: to give abundantly and sparely eat.
 
-Whoe’er to power and greatness makes his way, bas been through these two fame-bestowers famed.
+Whoe’er to power and greatness makes his way, has been through these two fame-bestowers famed.
 
-No greedy eater bas attained to rank; position none have gained who little give.
+No greedy eater has attained to rank; position none have gained who little give.
 
 The inspector-censor’s scourge, which shames, is used on villagers who give too little curds.
 
@@ -294,9 +294,9 @@ The earth’s not free from rude oppressive acts; not free from serpents are its
 
 Where is a date that is without a spine? Or snakestone antidote without a snake?
 
-Each good and ill on earth bas as its law, that balm with poison mix, with poison balm.
+Each good and ill on earth has as its law, that balm with poison mix, with poison balm.
 
-Who is there drinks a draught of honey-wine that for it bas not suffered from the sting!
+Who is there drinks a draught of honey-wine that for it has not suffered from the sting!
 
 The world’s (sweet) honey and precedent sting are in one insect’s mouth and tail contained.
 

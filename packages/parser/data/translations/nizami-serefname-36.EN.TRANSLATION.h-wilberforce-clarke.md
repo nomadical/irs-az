@@ -59,7 +59,7 @@ The second line may be: — (Clothed) in goodness, sell the other garments (of a
 Wherever he prepared an assembly (an army),
 He used to ask aid of them (those of retirement) by blessing (prayer).
 
-Yerily, he was victorious in battle on that account,
+Verily, he was victorious in battle on that account,
 That he separated (distinguished) the turquoise (the good man) from the stone (the bad man).
 
 The army which came with him for battle,
@@ -338,7 +338,7 @@ Declared saying: — " To-night, by the king's power,
 " How would the sun (the fortress) have been rent by an atom (the weak engine)?
 
 " Its destruction I know is not through this army;
-" For this engine of destruction is from another fortress ( — from Grod).
+" For this engine of destruction is from another fortress ( — from God).
 
 " When the command of the celestial fortress is thine, " Thou knowest, — other sovereignty is thine." The king glanced at the army leaders, Saying: — " What mark of prayer is better than this?
 no " Forty days it is, that men of action " Strove with the sword against this fortress, — " With so many sword-points, diamond-like, " (And) pierced not a single stone of this hard stone. " With a single sigh, which a foodless one heaved, " An angle (a salient of a bastion) poured down from its face. " In respect to this, what appears to you? " — Let not the land be without good men! — The chiefs of the army, with apology For such disputing, became penitent.

@@ -118,9 +118,9 @@ Whoe’er had any store, said from that store something within the bounds of his
 
 When speech became enchained with speech (these words) came from the tongue of one of eloquence:
 
-The lofty steps which on the sky the king bas mounted, and the subtlety he bas —
+The lofty steps which on the sky the king has mounted, and the subtlety he has —
 
-No one, in what is manifest or hid, bas seen in any of the kings of earth.
+No one, in what is manifest or hid, has seen in any of the kings of earth.
 
 We by the glory of the (monarch’s) head have everything through his auspicious steps.
 
@@ -256,7 +256,7 @@ The action of the world can be like this — it gives one loss, and gives anothe
 
 All are bewildered at their own aSairs; except submission know no remedy.
 
-No one the secret of this knows but God, He, only, knowledge of all secrets bas.
+No one the secret of this knows but God, He, only, knowledge of all secrets has.
 
 When he who wore the crown of Kai-Qubad exalted to the moon Kai-Khusrau’s crown,
 

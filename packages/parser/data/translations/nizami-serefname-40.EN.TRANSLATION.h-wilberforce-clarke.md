@@ -69,13 +69,13 @@ Saying: — " The empire (of Iran and Khurasan) have expressed the kiss (of obei
 " When I bring the troop to the end of the distant road (the frontier of Hindustan),
 " I will bring the sword-point on Fur's head.
 
-" When I snatch the crown from Fur (Porus) and Furan (Kaunauj);
+" When I snatch the crown from Fur (Porus) and Furan (Kannauj);
 " I will incline the army towards the Khan-i-Khakan (the king of Chin):
 
 Anciently, b.c. 1000, the Rajputs, the oldest race in India, had thrones
-in Northern India, at Indra-prastha (Delhi), Kaunauj (Kinnauj, near
+in Northern India, at Indra-prastha (Delhi), Kannauj (Kannauj, near
 
-Cawnpur), Ayodhva (Oude), and Patali-putra (Patna).
+Cawnpur), Ayodhya (Oude), and Patali-putra (Patna).
 
 a
 And thence I will go towards CMch (in Chin) and Tiraz (in Hindustan);
@@ -91,7 +91,7 @@ On the day when the auspicious star was his ally,
 Sikandar raised his head above the sphere (mounted on his steed);
 Moved the troop like the brilliant sun:
 
-Entered Hindustan from Grhiiznin;
+Entered Hindustan from Ghuznin;
 — The path, from his cavalcade, became like the rose-garden. —
 
 Was on that intent that he might bring confusion into the brain;
@@ -104,7 +104,7 @@ Again, by the counsel of the sages,
 He did not what comes from the foolish (he displayed no haste).
 
 A messenger, expeditious, swift of foot,
-He sent, and gave to him a message for the Hindii: v-
+He sent, and gave to him a message for the Hindu: v-
 
 " If thou be for war, lead forth thy army;
 " For, behold I have arrived like the black cloud.
@@ -306,7 +306,7 @@ He raised with his ardent (friendly) heart.
 When the letter-writer wrote this treaty,
 A royal order composed of camphor (white paper) and ambergris (black ink),
 
-Balinas, with the office-holders of Riim,
+Balinas, with the office-holders of Rum,
 Went from that land and clime towards Kaid.
 
 In that expedition, when the sage of Rum

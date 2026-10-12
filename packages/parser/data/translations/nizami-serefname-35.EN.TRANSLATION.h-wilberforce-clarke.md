@@ -54,7 +54,7 @@ The representor of the chaplet (history), jewel-scattering
 Gave (news) of that mine, jewel-scattering (Sikandar) in such a way,
 
 That, when the chief (Sikandar), endowed with the sense of Jamshid,
-Drank awhile wine to the memory of Niishaba,
+Drank awhile wine to the memory of Nushaba,
 
 With the perfume of ruddy wine, heart-elevating,
 He passed some days with the kings (of the provinces):

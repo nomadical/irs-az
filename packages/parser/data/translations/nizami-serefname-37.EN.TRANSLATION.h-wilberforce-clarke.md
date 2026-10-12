@@ -22,7 +22,7 @@ When the white day from the night of crow colour
 Issued like camphor (white) from the boundaries of Ethiopia (the darkness of night):
 
 A gleaming day, pure, like Paradise,
-(Joyous, like) the treasure of Kariin brought forth from the dust:
+(Joyous, like) the treasure of Karun brought forth from the dust:
 
 Gate (mountain-pass) and plain illumined like the garden;
 From it, — the eye of the ill-seeing one stitched up:
@@ -260,7 +260,7 @@ Saying: — " How long (wilt thou remember) — Kay Khusrau and Kay Kubad? (Beho
 
 Otherwise: —
 
-" When the king (Sikanclar) gave (by his person) beauty to that throne,
+" When the king (Sikandar) gave (by his person) beauty to that throne,
 " He gave back life to the dead Kay Khusrau! "
 
 On that throne he sate one moment, — not longer;

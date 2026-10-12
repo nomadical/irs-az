@@ -22,7 +22,7 @@ At the time of mid-winter, — how happy that one who
 Places before himself — fire and roast fowl and wine!
 
 * Roshan is the name; the affix at is used in an endearing sense.
-Richardson's Dictionary, 1829, gives Roshang only. Milcolm, in his
+Richardson's Dictionary, 1829, gives Roshang only. Malcolm, in his
 
 Brings to his hand an idol (a lovely, virgin woman) of pomegranate bosom,
 That brings defeat (of shame) to the pomegranate of the garden.
@@ -54,7 +54,7 @@ Sought out news of Dara's women-folk:
 Opened the doors of the seven treasuries;
 Prepared a dress of honour according to the custom of the Kayan kings:
 
-Of Egyptian, and Chini, and Runrish silken cloths (for the house),
+Of Egyptian, and Chini, and Rumish silken cloths (for the house),
 Prepared a costly present: —
 
 Royal costly garments (for apparel),
@@ -145,7 +145,7 @@ He continued to sport (in gallantry) like a man with the apple.
 The first word that fell, —
 He gave, on the king's part, to the veiled ones, salutation,
 
-THE S1KANDAK KAMA,! BAKA. j" CANTO XXXlll.
+THE S1KANDAK KAMA,! BAKA. j" CANTO XXXIII.
 
 Saying: — " The splendour (of joy) be from the king (Sikandar) to the king's (Dara's) women-folk!
 " Duality (alienation) be far from your midst!
@@ -294,7 +294,7 @@ For the musk (darkness of night) and the moon (light) are (a bride) worthy of th
 The next day, when the lofty sun
 Drew forth its head, bride-like, from the (black) silk (of night).
 
-The heart of that monarch of Riim, on account of that bride (Roshanak),
+The heart of that monarch of Rum, on account of that bride (Roshanak),
 Fell into tumult like the Russian camel-bell.
 
 He prepared a banquet with music and wine,
@@ -398,7 +398,7 @@ The waist slim; and the bosom high.
 One cherished like the liver with pure blood;
 One brought forth like vision from the eye (of her parents).
 
-THE iSlKAJSDAB NAMA,E BAEA. [CAJNTO XXXIll.
+THE iSlKAJSDAB NAMA,E BAEA. [CAJNTO XXXIII.
 
 In every tumult (of saucy speech, love-stirring) that she used to excite with her lip,
 She used to strew the salt (of passion) upon those heartbroken:

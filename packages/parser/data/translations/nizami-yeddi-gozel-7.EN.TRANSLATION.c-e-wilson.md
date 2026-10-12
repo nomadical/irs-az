@@ -40,7 +40,7 @@ See not the horse’s dancing with the thought, How good its paces! See, how har
 
 If o’er this road you fly like falcon white, keep like the sun your eyes upon the road.
 
-The more so that a road ’his for the chase — the sky bas bow and arrow (for the prey).
+The more so that a road ’his for the chase — the sky has bow and arrow (for the prey).
 
 Although your iron be of temper fine, the road is stone, and lodestone is that stone.
 
@@ -116,7 +116,7 @@ Through lack of strength no longer have the power to wear a crown or gird my loi
 
 I used to do some service men might do, (but) truly I’m not now the man I was.
 
-Fortune bas seized and bound me in this mode; such (rule and) custom are in Fortune (seen).
+Fortune has seized and bound me in this mode; such (rule and) custom are in Fortune (seen).
 
 My wings were broken e’en before I fell; how is my state (then now) that I have fallen!
 
@@ -124,19 +124,19 @@ If in the little man of ugly face pock-marks break out, how win it be (with him)
 
 Though from a shadow gains my genius power, my canopy’s in my accomplishments.
 
-That person bas no shadow in the world who before (men’s) a lamb, a wolf behind.
+That person has no shadow in the world who before (men’s) a lamb, a wolf behind.
 
 I see no one before me who is not a friend before me, (and) a foe behind.
 
 A few crude persons being (my sole) aids, to whom with safety can I turn my face?
 
-Though mj youth bas departed from the world, what can I do, still youthful is my greed?
+Though mj youth has departed from the world, what can I do, still youthful is my greed?
 
 The more in years an aged man becomes, the greedier becomes his greediness.
 
-My coin bas this impression not alone — this stigma’s on the coin of every one.
+My coin has this impression not alone — this stigma’s on the coin of every one.
 
-O You, my heart’s Physician, keep my clay from bowing low at any person’s fret.
+O You, my heart’s Physician, keep my clay from bowing low at any person’s feet.
 
 How long (shall) darkness (last still)? Give me light! Since You have broken, give the remedy.
 
@@ -150,8 +150,8 @@ I, who’ve become contented with my grain, am, Kke the oyster, lord in my own h
 
 The lion gains an honourable grade, since he disdains the yoke of servitude.
 
-Prom your own tray ’his better to give bread than to eat “ halva ” from the mean man’s tray.
+From your own tray ’his better to give bread than to eat “ halva ” from the mean man’s tray.
 
-Since a sharp dagger bas been drawn by dawn, how long, Nizami, will you sleep 1 Arise!
+Since a sharp dagger has been drawn by dawn, how long, Nizami, will you sleep 1 Arise!
 
 Do miners’ work, and vex not at your toil: open to men the door of hidden stores.

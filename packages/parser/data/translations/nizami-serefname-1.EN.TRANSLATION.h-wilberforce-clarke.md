@@ -77,12 +77,12 @@ Of whatever Thou didst create, or picture Thou didst paint —
 Need (is) not Thine— O Thou independent of all!
 
 Thou so createdst the earth, and the Heavens,
-— Yerily the revolution of the stars and sky, —
+— Verily the revolution of the stars and sky, —
 
 That, as much as thought becomes lofty (in effort),
 It brings not forth its head from this noose (of effort).
 
-Creation was not. Grod! Thou wast:
+Creation was not. God! Thou wast:
 (When), all (creation) is not, — Thou art still in place (existent).
 
 Neither, when creation was not, wast Thou in solitude (ease);
@@ -133,7 +133,7 @@ When Thou sendest force (strengthenest) — by pure Fate,
 Thou bringest forth the destruction of the great snake by means of the little ant.
 
 When Thou raisest (removest) the smoke (of the darkness of infidelity) from the path (of Islam),
-The little gnat devours Nimriid's brain.
+The little gnat devours Nimrud's brain.
 
 When in the enemy's army Thou bringest departure (death),
 By birds, Thou slayest the elephant and the elephant-masters.
@@ -232,7 +232,7 @@ No one beholds my pure soul:
 Attributes non-existence to my existence —
 
 Thou mayst, from the hidden, bring to his hand that token,
-That of this hidden one (Mzami) he may learn that he is existent.
+That of this hidden one (Nizami) he may learn that he is existent.
 
 Since, regarding Thy existence, I of weak understanding
 Have evoked much argument, heart-exhilarating,

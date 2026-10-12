@@ -32,7 +32,7 @@ He saw some smoke (then) like a dragon black, raising its head high to eclipse t
 
 Coiling and writhing, roll involved in roll, designing, (as it seemed), to mount the sky.
 
-He said. Although that smoke bas risen from fire, yet from the kindler water I must seek.
+He said. Although that smoke has risen from fire, yet from the kindler water I must seek.
 
 When he had gone some steps towards the smoke, he saw a tent (there) rising to a height;
 
@@ -62,7 +62,7 @@ He said. I’ll then, and not before, eat bread, when you shall truly tell me wh
 
 To-wit, why this poor dog is (thus) tied up: why he, the lion of the house, is bound!
 
-The old man answered (him), O handsome youth, I will exactly tell you what bas passed.
+The old man answered (him), O handsome youth, I will exactly tell you what has passed.
 
 This was a dog the guardian of the flock; to him I had entrusted my affairs;
 
@@ -106,7 +106,7 @@ That sore and heavy trouble humbled me; it took efEect on (my) discouraged heart
 
 I said, This stroke, given by the evil eye, — of what wild beasts is it the handiwork!
 
-With such a dog, whose acts were lion-like, who bas this insolent presumption used?
+With such a dog, whose acts were lion-like, who has this insolent presumption used?
 
 Till one day on the border of a stream I slept (awhile), and (then) awoke from sleep.
 
@@ -140,7 +140,7 @@ I put him to the torture of a jail, that he might be again subservient slave.
 
 No dog of mine, a robber on my road; or else a butcher of my sheep is he.
 
-He bas betrayed the trust (reposed in him), and trustiness exchanged for treachery.
+He has betrayed the trust (reposed in him), and trustiness exchanged for treachery.
 
 Even should death result I have full leave to see that he shall not escape such bonds.
 
@@ -202,7 +202,7 @@ Have heaped up jewels in your treasury, scattering my jewels and my treasured st
 
 Have taken from my troops all arms and stores, so that no arms or stores are left to them;
 
-Deprived my (loyal) subjects of their all, planted your fret in every person’s blood;
+Deprived my (loyal) subjects of their all, planted your feet in every person’s blood;
 
 Eequired from subjects not the taxes due, but all their means at times, at times their rank;
 
@@ -210,7 +210,7 @@ The claims my bounty gives me cast aside, having no shame before me, — shame o
 
 His Faith would own ’his worse in every one to overlook a favour than his Faith.
 
-To meet the claims of favours by one’s acts brings favours still to him who bas received.
+To meet the claims of favours by one’s acts brings favours still to him who has received.
 
 When that East-rushan came to me in you, justice departed, brightness was dispelled.
 

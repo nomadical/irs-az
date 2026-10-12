@@ -129,7 +129,7 @@ When the Writings (of deeds) go flying towards the man (or woman),
 " Thou gavest me lofty rank (independence),
 " Seize Thou my hand (aid me) in this foot-tied place (the world).
 
-" Since Thou gavest me the (spiritual) fame of the renowned ones (of Grod),
+" Since Thou gavest me the (spiritual) fame of the renowned ones (of God),
 " O Ruler of Rulers! give me justice (that I may be independent of the world).
 
 " The head, on which Thou placedst the Crown (of external and internal excellence),

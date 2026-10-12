@@ -28,7 +28,7 @@ She said. You by whose life my life is glad, — May all lives be a sacrifice fo
 
 Your tent is the abode of power and state; the crown and throne the threshold of your Gate.
 
-The crown bas exaltation from your head; the throne bas sovereign power from your Gate.
+The crown has exaltation from your head; the throne has sovereign power from your Gate.
 
 (Your) crown’s the very keystone of the realm; all heads must seek your Gate to gain their wants.
 
@@ -146,7 +146,7 @@ Stones by my alchemy are turned to gems, (and) earth (too) in my hands becomes a
 
 By breath of sorcery breathed from my mouth I make a pied-snake of palm-fibre rope.
 
-And every treasure (too) which God bas made, — I am the breaker of its talisman.
+And every treasure (too) which God has made, — I am the breaker of its talisman.
 
 All one may ask about the sky and earth, — I can give knowledge both of this and that.
 
@@ -164,7 +164,7 @@ He said. No more of this, ’his (but) a shift, the arrow shot should hit the ta
 
 The dusky cloud is (naught but) burning smoke; on such a point intelligence agrees.
 
-Whilst the milk-coloured cloud of pearly hue bas in its native state a frigid damp.
+Whilst the milk-coloured cloud of pearly hue has in its native state a frigid damp.
 
 (Then) he discussed with him the hidden winds. Again see how the idle gabbler spoke.
 
@@ -222,7 +222,7 @@ This earthen jar (here) with (its) open mouth is hidden to the brim beneath the 
 
 Say, how far does the water in it reach? No mountain tract (here), desert all around.
 
-Bashr answered (thus). Someone for heavenly meed bas set it up, as they have often done;
+Bashr answered (thus). Someone for heavenly meed has set it up, as they have often done;
 
 And fearing by some shock it might be broke (deep) in the ground they have embedded it.
 
@@ -246,7 +246,7 @@ He’ll shoot the game (there) as it (stands to) drink, and of the wounded game 
 
 So loosen you the knots of bonds and ties that the investigator cry. Well done!
 
-Bashr answered, Happy speaker of the world, each one at heart bas his own mode of thought.
+Bashr answered, Happy speaker of the world, each one at heart has his own mode of thought.
 
 That which is hidden in your heart and mine we think is in the heart of everyone.
 
@@ -260,7 +260,7 @@ MalTkha (then) to Bashr in haste cried out, Get up and sit a little farther off.
 
 That I may get into this wholesome fount, may wash my body and be free from dust.
 
-For dirt bas settled on me head to foot from perspiration troublesome and salt.
+For dirt has settled on me head to foot from perspiration troublesome and salt.
 
 164:
 
@@ -290,7 +290,7 @@ The water which he swallowed stopped his breath; at last he drowned and ’neath
 
 On that side Bashr sat with troubled heart, (and) shed some tears (of sorrow) for his friend.
 
-Again he said, He with consummate schemes bas in his smartness hidden me farewell.
+Again he said, He with consummate schemes has in his smartness hidden me farewell.
 
 I fear with dirt that sample of the base will bring pollution on the limpid fount;
 
@@ -344,7 +344,7 @@ We cast a fire upon our jar by all we cast into the water of that jar.
 
 Other the work of that Artificer; outside my reckoning, out of your’s it stood.
 
-The Sphere bas tied the thread together, so that none have come upon the end of it.
+The Sphere has tied the thread together, so that none have come upon the end of it.
 
 Though all that we have utter-ed of that kind was only (based) upon erroneous thought,
 
@@ -366,11 +366,11 @@ He sealed (it) up, detached his heart from it, and left it as before sealed at t
 
 (Said he), Since he received no help horn me, I'll serve the ofiSiee of custodianship.
 
-All I fasten up and keep secure, and give to him who bas a claim to it.
+All I fasten up and keep secure, and give to him who has a claim to it.
 
 I'll seek his house with closest scrutiny, and give it to the person of the house.
 
-If I indeed should do as he bas done, I too should eat from the same place as he.
+If I indeed should do as he has done, I too should eat from the same place as he.
 
 (So) lie tied up the roll as it had been, and when ’twas tied he took it in his hand.
 
@@ -440,7 +440,7 @@ Beneficence is not to fill oneself, for that is what a fly is fit to do.
 
 Beneficent is he whom, in his acts, Satan leads not astray by coins of gold.
 
-Mallkha, dead, consigned to earth his frame, bas borne his soul to an appropriate place.
+Mallkha, dead, consigned to earth his frame, has borne his soul to an appropriate place.
 
 You spoke of him as hard to please, ’twas so; ’his true, increased a thousandfold your count.
 
@@ -456,17 +456,17 @@ I, sleeping on the couch of his harim; he, forging falsehoods to discredit me.
 
 Through loads imposed my head like clouds depressed; he, like the lightning, drawing sword at me.
 
-(But now) since God bas driven him from my side, disturbance and distress have left me (too).
+(But now) since God has driven him from my side, disturbance and distress have left me (too).
 
 But good or ill his acts, his face is hid; evil must not be spoken of the dead.
 
-He bas departed from the midst of us; relations (now) are otherwise disposed.
+He has departed from the midst of us; relations (now) are otherwise disposed.
 
 (And) you, since you are one who meets my views, I choose to be the partner (of my life).
 
 Wealth, land, and beauty, modesty, are mine; better where should you meet with lawful spouse?
 
-(For union) order soon all needful things, a union God Himself bas, (sure), ordained.
+(For union) order soon all needful things, a union God Himself has, (sure), ordained.
 
 I have approved of you to be my mate, for I have seen your noble, generous mind.
 
@@ -488,7 +488,7 @@ The unconscious man to consciousness restored, his head 'was heated with the hea
 
 He said, Though through a fairy I’m distraught, think not that I am a demoniac.
 
-Though he is lost who bas beheld a div, a fairy I have seen,
+Though he is lost who has beheld a div, a fairy I have seen,
 
 O fairy-bom.
 
@@ -510,7 +510,7 @@ And by His favour and compassion God brought to me all that is before (me now).
 
 Unlike the sensual I avoided lust for haram fair ones, wealth of other men.
 
-If He now give one fair as you and wealth, if He bas made them lawful (now), ’his well.
+If He now give one fair as you and wealth, if He has made them lawful (now), ’his well.
 
 When she became acquainted with his love, her own from erstwhile grew from one to ten.
 

@@ -36,9 +36,9 @@ Bear toil, the time for bearing it is now — the leaves you count out form the 
 
 Your bearing toil will to a treasure lead; he bears a treasure off who suffers toil.
 
-Until the grape bas first wept bitterly it does not finally display sweet smiles.
+Until the grape has first wept bitterly it does not finally display sweet smiles.
 
-No one bas marrow seen without a bone; without a bee can honey e’er be found?
+No one has marrow seen without a bone; without a bee can honey e’er be found?
 
 How long a cloud be which no water gives? You have the oven heated, bake the bread.
 
@@ -84,7 +84,7 @@ Through sharing like adornments and affairs one each of them one each of these s
 
 If seven lines converge, a single point at last falls on the target of the affair.
 
-The painter who bas ten subservient parts holds to the end of every single thread;
+The painter who has ten subservient parts holds to the end of every single thread;
 
 (For) if one thread should stray from the (main cord), all the subservient threads would faulty be.
 
@@ -136,13 +136,13 @@ Whether the face be red or whether black, the monarch’s scribe's the painter (
 
 If no one seek my perfume (still) my musk is store good and sufficient for my silk,
 
-In poetry on me it bas devolved to give pure gold, not gold with half alloy.
+In poetry on me it has devolved to give pure gold, not gold with half alloy.
 
 The eloquent who spoke that which was fit became fatigued and fell asleep at last.
 
 I, looper of the knots, the alchemy and bond of travellers to the village am.
 
-Of those species of verse in vogue before no one fresh fruit bas given more than I.
+Of those species of verse in vogue before no one fresh fruit has given more than I.
 
 Though wanting in new words I have full skill to express my sense in clear and various terms.
 

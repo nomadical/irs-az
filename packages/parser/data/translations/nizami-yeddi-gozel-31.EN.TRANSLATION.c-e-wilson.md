@@ -216,13 +216,13 @@ She filled (her) jug with water pure and sweet, to carry it unnoticed to the ten
 
 She followed up the sound on hearing it, and saw a youth who lay in dust and blood;
 
-Who threw his arms and fret about in pain, with humble supplication God invoked.
+Who threw his arms and feet about in pain, with humble supplication God invoked.
 
 The charmer thought no more of charming arts; she went up to the wounded man (at once).
 
 She said, Alas for you 1 Who can you be, so abject in the dust, and stained with blood!
 
-Who bas been so unjust to one so young 1 Who bas betrayed, conspired against you so?
+Who has been so unjust to one so young 1 Who has betrayed, conspired against you so?
 
 Good said, O envoy (of) celestial (mien), whether an angel, whether angel-bom,
 
@@ -272,7 +272,7 @@ The Kurd, who came at night-time from the plain, to take some food with which to
 
 Saw something of a kind not usual, (and at the sight) his bile was further stirred.
 
-He saw a man unconscious lying down, like one who, wounded, bas resigned his life.
+He saw a man unconscious lying down, like one who, wounded, has resigned his life.
 
 He said, From what place is this feeble man? How weak and wounded thus comes he to be!
 
@@ -566,7 +566,7 @@ And she of fairy face slept on three days, her father unacquainted with her stat
 
 On the third day when she upraised her head, she ate such food as she found suitable.
 
-The king who on his couch heard the good news, with fret unshod into the haram sped.
+The king who on his couch heard the good news, with feet unshod into the haram sped.
 
 His daughter in her senses he beheld within the haram (seated) on her couch.
 
@@ -588,9 +588,9 @@ Towards such a head as would become a crown his compact he should (also) carry o
 
 Since as regards the sword his faith was kept, it should not slacken as regards the crown.
 
-By the sharp sword a hundred heads have fallen, when not one by the crown bas been upraised.
+By the sharp sword a hundred heads have fallen, when not one by the crown has been upraised.
 
-That one by whom my cure bas been achieved, through whom this fastened look bas found a key, —
+That one by whom my cure has been achieved, through whom this fastened look has found a key, —
 
 His business should not be neglected now, none in the world should be my mate but him.
 
@@ -600,7 +600,7 @@ The monarch also felt the will arise to carry out the compact (he had made).
 
 By the king’s leave the noble-minded Good they sought around, and found him on the road.
 
-They counted him a pearl which bas been found, and brought him (then) at once before the king.
+They counted him a pearl which has been found, and brought him (then) at once before the king.
 
 The king said, You, so noble in the world, — why from your fortune do you hide your face?
 
@@ -678,9 +678,9 @@ And what was worse, in such a (desert) place you took the water off and gave him
 
 I am that thirsty man whose gems were taken; (yet) is my fortune good, your fortune bad.
 
-You (wished to) kill me, but God let me live: happy is he who bas support from God!
+You (wished to) kill me, but God let me live: happy is he who has support from God!
 
-Since God’s support good fortune gave to me, see, it bas given me kingly crown and throne!
+Since God’s support good fortune gave to me, see, it has given me kingly crown and throne!
 
 Woe to the life of a base man like you! You sought to take life, yours you shall not save.
 
@@ -700,11 +700,11 @@ When Bad had gained deliverance from the sword, he went away and ran through joy
 
 The Kurd, bloodthirsty, followed, and beldnd with the sword struck him and cut off his head.
 
-He said. Though Good bas good and kindly thought, to you who’re Bad may happen naught but bad.
+He said. Though Good has good and kindly thought, to you who’re Bad may happen naught but bad.
 
 On searching him he found those two (fine) gems, placed (for security) inside his belt.
 
-He (then) returned, and brought the gems to Grood; he said (to him), Gem bas returned to Gem.
+He (then) returned, and brought the gems to Good; he said (to him), Gem has returned to Gem.
 
 Good kissed (them), and returned (them) to the Kurd: a Jewel with a jewel gratified.
 

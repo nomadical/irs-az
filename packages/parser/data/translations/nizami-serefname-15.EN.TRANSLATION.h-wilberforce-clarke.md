@@ -147,7 +147,7 @@ For fighting the men of Zang, waist-belt made tight.
 Tckes (thirty thousand tents) the oasis of Marv and the banks of the
 Murghab river.
 
-The Turkomans are of the Sunnf sect of the faith of Islam; live in a
+The Turkomans are of the Sunni sect of the faith of Islam; live in a
 Republican manner, tribal feeling being the leading sentiment; have
 
 When the men of Zang obtained intelligence that the army (of Sikandar) had come,

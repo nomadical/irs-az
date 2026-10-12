@@ -120,7 +120,7 @@ In it, a fountain of (many) pearls, (in purity) like a sea of water.
 On that golden throne he sate with joyousness,
 In his hand an orange (a ball) of camphor and ambergris.
 
-Faghfiir, the world-seeker, at his right hand
+Faghfur, the world-seeker, at his right hand
 Stood erect, loin-girt, in service.
 
 The king, favour-displaying, called him in front;
@@ -157,7 +157,7 @@ The silk (-string) players of melody in the Sughd language
 Brought forth the sound of music to the sphere:
 
 The singers of the path (of melody) in the Pahlavi tongue
-Grave, Avith much melody, freshness to song:
+Grave, With much melody, freshness to song:
 
 Verily, the foot-beaters (dancers), Kashmir-born
 Through (the violence of) dancing, — whirling like the demon-wind:
@@ -169,7 +169,7 @@ The army of Bum and that of Chin together waist-girt (to view the spectacle),
 The standard of Rum and of Chin upreared.
 
 The Khakan of Chin opened the treasure-door (by much giving to Sikandar's army);
-He emptied the earth of Kariin's (Korah's) treasure.
+He emptied the earth of Karun's (Korah's) treasure.
 
 First came to use (was given, the treasure) of jewels;
 With war-helmets and steel-armour, jewel-adorned:
@@ -252,7 +252,7 @@ In assaulting, the grinder of the liver of the (mighty yet terrificd) Simurgh,
 Making every rhinoceros its prey:
 
 Angry and blood-shedding and bold of eye, —
-Grod created it for injustice and rage:
+God created it for injustice and rage:
 
 The Tughan-Shah of birds (of prey), in name Tughril,
 Altogether like Tughril-Shah in sovereignty.
@@ -404,7 +404,7 @@ The sign of the day of the place of assembly (the Resurrection Day) appeared.
 Through the army, whose amplitude was to farsangs,
 The plain was straitened for hunting.
 
-From the desert of Chin to the river Sihiir (of the city) Jand (in Farghana),
+From the desert of Chin to the river Sihun (of the city) Jand (in Farghana),
 Land after land was beneath the silk (of the standard).
 
 When to the musterer came the army, —

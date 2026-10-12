@@ -133,7 +133,7 @@ When the drum-striker became angry with the drum,
 He brought forth a lament from water and dust.
 
 When the mirror of Chin (the sun) appeared,
-Sikaadar led his army towards Chin.
+Sikandar led his army towards Chin.
 
 Sate on Arab steeds of quick intelligence, they (the warriors);
 All in khaftans of rich silk (rough, like the sheep's fleece) steel-clad.
@@ -226,7 +226,7 @@ He caused rapine to reach Dara;
 Took the crown from the kings of Hind (Kaid and Fur).
 
 When he became free from the ravaging of the people of Fur (of Kannauj),
-He bound his loins in haste against the sons of Faghfiir.
+He bound his loins in haste against the sons of Faghfur.
 
 If that deep river (Sikandar) should come from its place, —
 In that case, the mountain would have no standing.
@@ -473,12 +473,12 @@ Saying: — " From the bold-hearted Sikandar, this letter
 " What a river of blood went to the desert of Zang:
 
 " How I quenched the arrogance of Dara;
-" What I did in respect to the ignoble Fiir!
+" What I did in respect to the ignoble Fur!
 
 ' By the power of fortune, other kings —
 ' How I brought down headlong from crown and throne.
 
-' If Firidiin should now come to me, —
+' If Firidun should now come to me, —
 ' To me he would even so become captive.
 
 ' In every land and clime which I assaulted, —

@@ -30,5 +30,5 @@ Cast not loose thy knotted tresses, for they work my tormentry.
 Destiny long since hath vowed me to the love of darlings fair;
 Every moon-bright one doth make me thrall of down and mole to be.
 
-O Fuziili, never shall I quit the path of Love, because
+O Fuzuli, never shall I quit the path of Love, because
 Through his virtue gain I entrance mid the noble company.

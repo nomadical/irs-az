@@ -123,7 +123,7 @@ Twice he became world- keeper of the world (by spreading justice and religion),
 The first time, — the city and territory; the second time, — the mountain and plain.
 
 Of that time, — that was when the prosperous soil (the city and territory)
-He saw all together and came to Riirn.
+He saw all together and came to Rum.
 
 G-od has called — 'ilm-i-shari'yat, philosophy (hikmat).
 

@@ -69,7 +69,7 @@ Do that (peace-seeking) indeed that he did; (aught else) avoid.
 "When he became successful in the country of the regions round about,
 Time also turned to his desire.
 
-Ethiopia to Khurasan; from Chin to Ghiir —
+Ethiopia to Khurasan; from Chin to Ghur —
 Turned without struggle to his order.
 
 Messengers hastened to every territory;
@@ -79,7 +79,7 @@ Although the world-possesser had the lion's heart,
 (And) held the whole world beneath (the sway of) his sword,
 
 In that land and clime (of Iran) no faith was his;
-For the safety-place of the Rumi is Riim.
+For the safety-place of the Rumi is Rum.
 
 One night, when the sky had a suitable fortune,
 — From which fortune a computation (of the future) came truly —
@@ -114,7 +114,7 @@ My heart desires only world- wandering.
 " If thou also go back to Greece, —
 " It will be approved by the understanding and judgment.
 
-" Thou mayst indeed keep the country (of Riim) far from calamity;
+" Thou mayst indeed keep the country (of Rum) far from calamity;
 " For, as to light, the moon is the sun's deputy.
 
 " Roshanak also, who is our lady,
@@ -279,7 +279,7 @@ Iskandarus, by Sikandar's order.
 Aristotle, who was the minister of the court,
 Was the viceroy in the Greek-land.
 
-In gladdening and feeding, the king-born one (Iskandanis),
+In gladdening and feeding, the king-born one (Iskandarus),
 He like his own life kept tending, —
 
 With caresses and with kindnesses — his pictured (lovely) face;

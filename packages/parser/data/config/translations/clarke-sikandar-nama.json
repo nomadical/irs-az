@@ -16,6 +16,40 @@
     "english": "cup-?\\s*bearer|minstrel|singer",
     "original": "ساقی|مغنی"
   },
+  "replacements": {
+    "Ghiir": "Ghur",
+    "Runrish": "Rumish",
+    "Rtimish": "Rumish",
+    "Eiim": "Rum",
+    "Besitiin": "Besitun",
+    "Besitdn": "Besitun",
+    "Flatiin": "Flatun",
+    "Grhuznin": "Ghuznin",
+    "Grhiiznin": "Ghuznin",
+    "Grhuzuin": "Ghuznin",
+    "Kaunauj": "Kannauj",
+    "Kinnauj": "Kannauj",
+    "Fmimurz": "Firamurz",
+    "Ardabfl": "Ardabil",
+    "Gusktasp": "Gushtasp",
+    "Ayodhva": "Ayodhya",
+    "Yaugamela": "Gaugamela",
+    "Saggitarius": "Sagittarius",
+    "Milcolm": "Malcolm",
+    "XXXlll": "XXXIII",
+    "XXXIll": "XXXIII",
+    "XXi": "XXI",
+    "Grtila": "Gula",
+    "Hiiy": "Huy",
+    "Htirs": "Hurs",
+    "Iskandanis": "Iskandarus",
+    "Sihiir": "Sihun",
+    "Isii": "Isu",
+    "Giipal": "Gupal",
+    "Griipal": "Gupal",
+    "Hariim": "Harum",
+    "Humi": "Rumi"
+  },
   "corrections": [
     {
       "pattern": "^.*\\[\\s*[CO0]A[NH]?[TI]O\\b.*$\\n?",
@@ -146,6 +180,27 @@
     {
       "from": "lapis luzuli",
       "to": "lapis lazuli"
+    },
+    {
+      "from": "(given by Naid)",
+      "to": "(given by Kaid)"
+    },
+    {
+      "from": "Sharaf-Numa,e",
+      "to": "Sharaf-Nama,e"
+    },
+    {
+      "from": "Nizanii",
+      "to": "Nizami"
+    },
+    {
+      "from": "Dxiri]j every cup",
+      "to": "Drink every cup"
+    },
+    {
+      "pattern": "^.*M'MHIIi.*$\\n?",
+      "flags": "gm",
+      "to": ""
     }
   ],
   "sections": [

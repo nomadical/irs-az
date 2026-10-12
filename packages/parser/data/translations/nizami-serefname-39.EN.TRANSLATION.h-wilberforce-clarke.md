@@ -182,7 +182,7 @@ The monarch went forth from that marching-place (near Sarir),
 By the sea-shore, shore after shore.
 
 The army took forth his (lofty) standard from the moon;
-It brought forth the shaft like a mountain Besitdn.
+It brought forth the shaft like a mountain Besitun.
 
 In prey-overthrowing he travelled the road;
 When both the prey was good (fat) and also the hunting-scene (fresh and green).
@@ -237,7 +237,7 @@ Became pledged (increased) to the anklet (round form) of one week,
 He (Sikandar) raised his head out of the compass of that ring,
 Which they call to-day Khalkhal-i-zar (a city between Kazvin and Gilan):
 
-Entered Grilan (the land of infidels) in the manner of a cloud,
+Entered Gilan (the land of infidels) in the manner of a cloud,
 (Fearless) in the way that the lion enters the forest!
 
 Every fire-temple which there came to his hand, —
@@ -306,7 +306,7 @@ Should there (in Nishapur) set up another standard.
 Of that standard the king's purpose was this,
 That standard should be hostile to standard.
 
-When he (Sikandar) knew that this city, Dara-adorning (Nishapiir),
+When he (Sikandar) knew that this city, Dara-adorning (Nishapur),
 Would not come, by effort, to Sikandar' s grasp,
 
 He made it a place of fighting until the blast of the trumpet (of the Judgment Day),
@@ -316,7 +316,7 @@ Those hatred-bearing became low in the dust;
 Still that hatred (of Sikandar) exists in that soil.
 
 When he cast the army of the partridge (Sikandar-loving) against the pheasant (Dara-loving),
-He went from the country of Nishapiir towards Marv:
+He went from the country of Nishapur towards Marv:
 
 Extinguished the fire of the fire-priests house (the fire-temple);
 Scattered the moth (the fire- worshipper) in the fire:
@@ -336,13 +336,13 @@ Placed in every corner without hand-toil.
 The sun- worshipper struck his golden shoe (so rich was he) against the steed;
 The name of that edifice (the fire-temple of Balkh) became " Azr-Grushasp " (the fire-leaper).
 
-Azr Gushasp, at Balkh, was a fire-temple founded by Gusktasp
+Azr Gushasp, at Balkh, was a fire-temple founded by Gushtasp
 (b.c. 519).
 
 When the Khusrau obtained power over that treasure-receptacle (the fire-temple full of treasures),
 He found the fire-worshippers intoxicated with the cup of wine of the fire-worshippers:
 
-Made the paradise of the idol-house void of Htirs (lovely women);
+Made the paradise of the idol-house void of Hurs (lovely women);
 Placed the worshipper far from hell (the place of fire).
 
 Emptied that ancient treasury;
@@ -357,7 +357,7 @@ Rubbed the ear of (chastised) the people of Khurasan:
 no Despatched a mounted troop to every country;
 For youthful fortune was his ally.
 
-Khurasan, and Kirman, and Grhuzuin, and Ghur, —
+Khurasan, and Kirman, and Ghuznin, and Ghur, —
 Each, he traversed with the hoof of the (war-) steed.
 
 In every city to which he came near, with joy

@@ -170,7 +170,7 @@ The world, wind; and the orange (the lamp) fears the (strong) wind.
 Of the kings of (past) time in this deep pit (the world that has devoured the dead),
 To whom was there a rare companion (of excellence) like me (to keep their memory living)?
 
-AVho has beheld (singing) over a coloured rose (Nasratu-d-din)
+Who has beheld (singing) over a coloured rose (Nasratu-d-din)
 A nightingale (a poet) of more lofty voice than me?
 
 On every kind of knowledge, a book prepared;
@@ -277,7 +277,7 @@ I gave back a great pearl (of lustrous verse) to the jewel-recogniser (the poet)
 A thousand praises on the speech-cherisher (Nizami),
 Who fashions a jewel out of every grain!
 
-These my tears (from desire of Grod), and (this my) cheek (lean from austerity), — the wet and the dry,
+These my tears (from desire of God), and (this my) cheek (lean from austerity), — the wet and the dry,
 Have plastered my walls (body) with the mud-plaster (of austerity).
 
 Here (this world), the body with barley-meal prepared;
@@ -392,7 +392,7 @@ Of which no help was his — verily (that only) he uttered.
 The rest for friends (us future poets) he placed (as) remnants;
 For alone it is not fit to eat sweetmeats.
 
-Mzami, who drew jewels (of speech) on the thread (of verse),
+Nizami, who drew jewels (of speech) on the thread (of verse),
 Drew his pen on (rejected) the pen-seen tales (of Firdausi).
 
 With an unpierced pearl (unuttered subtlety), which he found in the treasure (of genius),

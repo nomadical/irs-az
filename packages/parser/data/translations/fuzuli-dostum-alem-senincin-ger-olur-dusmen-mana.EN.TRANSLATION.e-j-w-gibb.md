@@ -30,5 +30,5 @@ What should I with bowers? Thine the bowers, mine the fire, perdie!
 Yonder Moon hath bared her glance's glaive; be not unheeding, heart;
 For decreed this day are bitter wail to me and death to thee.
 
-O Fuziili, though that life should pass, from love's way pass not I;
+O Fuzuli, though that life should pass, from love's way pass not I;
 By the path where lovers wander make my grave, I pray of ye.

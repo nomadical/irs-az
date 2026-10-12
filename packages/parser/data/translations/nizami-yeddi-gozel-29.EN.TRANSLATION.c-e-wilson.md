@@ -30,7 +30,7 @@ When night had raised its gilded globe on high, and dimmed the lustre of the sol
 
 She, honeyed apple, sweet and rosy-hued, was asked by him to tell a cheerful tale.
 
-The charming one resisted not his will; she cast pearls from cornelian at his fret:
+The charming one resisted not his will; she cast pearls from cornelian at his feet:
 
 You, to whose Gate the skj as threshold serves; orb of the sun and of the moon your tent;
 
@@ -62,7 +62,7 @@ The freshness of her face more fresh than Spring; than picture lovelier her love
 
 The drowsy jonquil languorous for her; the grace of eglantine her (humble) slave.
 
-All men the dust beneath her servants’ fret; the rose prepared to serve her slaves as slave.
+All men the dust beneath her servants’ feet; the rose prepared to serve her slaves as slave.
 
 Besides her beauty and her smiling grace, she had the ornament of learning (too).
 
@@ -170,7 +170,7 @@ Must boldly set his mind upon the road, and four conditions (strictly) must obse
 
 The first condition of this wedlock (then) is (that he have) fair fame and beauty (too).
 
-The second, that by knowledge he bas gained, he loosen on this road the talismans.
+The second, that by knowledge he has gained, he loosen on this road the talismans.
 
 The third condition is that having loosed from their coimections aH the talismans,
 
@@ -186,7 +186,7 @@ That honoured man shall be my husband (then), for that which I have promised mus
 
 And whosoe’er in these conditions fails, false to the terms, his blood be on his head!
 
-Who holds this admonition in esteem, — he bas the alchemy of happiness.
+Who holds this admonition in esteem, — he has the alchemy of happiness.
 
 But he who cannot penetrate my words, — though he be great, he shortly shall be small. fiWhen she had done preparing (thus) her page, she gave it to a fitting messenger.
 
@@ -548,9 +548,9 @@ I who have wisdom and approve the wise, in wisdom am inferior to him.
 
 Her father, when he heard these pleasant words, said to the O you of angel kind,
 
-The converse wMch IVe witnessed (at this time), — its face behind a veil bas been concealed.
+The converse wMch IVe witnessed (at this time), — its face behind a veil has been concealed.
 
-All that in secret converse bas occurred, you must successively narrate to me.
+All that in secret converse has occurred, you must successively narrate to me.
 
 She, nurtured in a thousand hopes, (then) raised the cryptic curtain of the mystery.
 
@@ -620,7 +620,7 @@ Since (then) in red his fortune had been cast, the name was giv’n to him of Ki
 
 Bed’s an adornment which delights (the eyes); the value of red gems is (due to) this.
 
-Gold, which the name, red sulphur, bas received, bas its best title in the title, “ red
+Gold, which the name, red sulphur, has received, has its best title in the title, “ red
 
 The vital spirit is diffused in blood, and this is with the grace of life bright red.
 

@@ -36,6 +36,6 @@ Well I know I ne'er shall win to union with thee, still do!
 
 Cheer at times my cheerless spirit with a hope as fond as vain.
 
-I have washed the name of Mejniin off the face of earth with tears;
+I have washed the name of Mejnun off the face of earth with tears;
 
-O Fuziili, surely I likewise a name on earth shall gain.
+O Fuzuli, surely I likewise a name on earth shall gain.

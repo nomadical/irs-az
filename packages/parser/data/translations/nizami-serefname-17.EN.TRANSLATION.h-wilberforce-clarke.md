@@ -177,7 +177,7 @@ Ambergris in chests; musk in ass-loa*i>:
 One (house) full of gold and silver unsmelted (virgin);
 Another house full of camphor unrefined (raw):
 
-.Mo XXi.j S1KAXDAE FOUNDS ISKAMDBIIA. 227
+.Mo XXI.j S1KAXDAE FOUNDS ISKAMDBIIA. 227
 
 Of aloe-knots loads bound in bales.
 1 >f which every load was one hundred '; man " in weight:
@@ -198,7 +198,7 @@ Of severed ears (of the men of Zang), camel-loads;
 Of heads full of straw, ass-loads:
 
 Of war-elephants, one hundred terrible elephants,
-Raging, in battle time, like the river Xile (in flood).
+Raging, in battle time, like the river Nile (in flood).
 
 Pure valuables of this sort,
 He sent with a messenger without equal.

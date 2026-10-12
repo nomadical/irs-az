@@ -90,4 +90,4 @@ Dispersion came upon them, as the (dispersion of the) cloud (from the sword of t
 They exercised a little patience (delay) for reputation sake;
 Aroused an idea for artifice.
 
-" Dfgar yaragi " is not one compound word meaning digar bar.
+" Digar yaragi " is not one compound word meaning digar bar.

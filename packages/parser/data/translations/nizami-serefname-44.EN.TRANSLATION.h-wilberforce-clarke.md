@@ -24,7 +24,7 @@ A day, — most choice of time,
 The Khakan of Chin was the king's guest;
 Two suns, fellow-sitting with each another.
 
-Of Eiim, and of Iran, and of Chin, and of Zang, —
+Of Rum, and of Iran, and of Chin, and of Zang, —
 They drew close the two ranks.
 
 With wine, the assembly and the face adorned;
@@ -128,7 +128,7 @@ They cast up the veil in the middle.
 The Riimi was firm as to painting;
 The Chini made (decorated the wall of) the house by polishing.
 
-Every picture of which that side (the wall-surface of the Humi) became the accepter,
+Every picture of which that side (the wall-surface of the Rumi) became the accepter,
 This side (the wall-surface of the Chini) became the accepter by polishing.
 
 In that contest of skill, on that the decision passed
@@ -209,7 +209,7 @@ Should, verily, make claim to inferiority. —
 Towards the men of Chin the king displayed that of honour,
 As the April-rain does to the shell (by filling it with pearls).
 
-Of clothing of Baghdad and Riim,
+Of clothing of Baghdad and Rum,
 Which was precious in that land and clime,
 
 He displayed to the king of Chin such resources (of wealth)

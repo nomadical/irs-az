@@ -22,17 +22,17 @@ The king the sabre’s keenness gave his tongue: he said, O brave commander, lea
 
 The army is required for peace and war; without it man and beast would be alike.
 
-Which of you is it that in any fight bas shown such manliness as man should show?
+Which of you is it that in any fight has shown such manliness as man should show?
 
 I who have chosen you from (all) the world — in what engagement have I seen you (fight)?
 
 Has such work been achieved by any one as is achieved by brave and cunning men?
 
-In times of injury upon what foe bas come affliction from your sabres’ point?
+In times of injury upon what foe has come affliction from your sabres’ point?
 
-Whom have I seen that bas advanced, or bound a foe, or subjugated any land!
+Whom have I seen that has advanced, or bound a foe, or subjugated any land!
 
-One boasts he bas the nature of Iraj, another claims Arash’s excellence.
+One boasts he has the nature of Iraj, another claims Arash’s excellence.
 
 This man’s (forsooth) a Giv, that a Eustam; this one and that from ‘‘ lion ” take a name.
 
@@ -62,7 +62,7 @@ Fools when in drink are unaware (of things); the sensible are not so in (their) 
 
 The man who is not low in intellect may drink of wine, but he would not be drunk.
 
-Whenever I incline my thoughts to wine, I bring the Qaisar’s crown beneath my fret.
+Whenever I incline my thoughts to wine, I bring the Qaisar’s crown beneath my feet.
 
 When upon wine my mind becomes keen-set, I put the wine-jar on my foeman’s head.
 
@@ -86,7 +86,7 @@ When (thus) the king had spoken out his thoughts, the nobles’ faces brightened
 
 They laid (their) heads before him on the ground, (and) humbly gave him answer in this wise:
 
-That which the king bas to his servants said may serve as an adornment to the wise.
+That which the king has to his servants said may serve as an adornment to the wise.
 
 We’ve made it all for body and for soul an amulet, a ring too for our ears.
 
@@ -96,9 +96,9 @@ The princes who have reigned have striven much to make themselves as equals to t
 
 With you (there) none became kings, they all fell upon (their) heads, but none came to the head.
 
-That which we slaves have witnessed from the king no one from white or black bas witnessed (e’er).
+That which we slaves have witnessed from the king no one from white or black has witnessed (e’er).
 
-He bas bound demons, and burnt dragons too, killed elephants, transfixed rhinoceri.
+He has bound demons, and burnt dragons too, killed elephants, transfixed rhinoceri.
 
 Pass Hons by, what game indeed are they? (such and) all usual game are marks for shafts.
 
@@ -118,11 +118,11 @@ Before us lies the story of past kings — their enmity and conquests (in the wo
 
 If each of them acquired some fame it was through a whole army in a length of time.
 
-In such a fight, against so many men, no one could do what (King Bahram) bas done.
+In such a fight, against so many men, no one could do what (King Bahram) has done.
 
 Whene’er they make out an account of kings, they as a thousand count a King Bahram.
 
-Each one of them bas his own special stamp, (but) Bahram is the whole world in himself.
+Each one of them has his own special stamp, (but) Bahram is the whole world in himself.
 
 When he brings down his mace on any head, he splits the helmet on the head in two,
 
@@ -142,7 +142,7 @@ He is more full of learning than all men; nay, both more learned and more powerf
 
 He in the world alone is versed in things; he needs not anyone’s experience.
 
-As long as earth bas place beneath the sky, over the sky may his command have power!
+As long as earth has place beneath the sky, over the sky may his command have power!
 
 May equity be centred in his court 1 The rose, prosperity, be on his crown!
 

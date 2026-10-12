@@ -32,7 +32,7 @@ When o’er the world the king became upraised — his exaltation higher than th
 
 He spoke upon the justice he designed; he strewed fresh pearls from balas rubies fresh.
 
-He (thus) spoke, God bas given me the crown — in me may (then) this gift of God he blest!
+He (thus) spoke, God has given me the crown — in me may (then) this gift of God he blest!
 
 I offer praise and tlianisgiving to God — He who confesses God — to him be praise!
 
@@ -132,7 +132,7 @@ He had full knowledge of the unstable realm, (so) on the kingdom of enjoyment le
 
 One day a week in business he engaged, to love devoting the remaining six.
 
-Who is there who bas not a trace of love 1 Whoever bas no love — he bas no life.
+Who is there who has not a trace of love 1 Whoever has no love — he has no life.
 
 His essence from the state of love was formed, and lovers (too) became his special friends.
 
@@ -206,15 +206,15 @@ For I’d no knowledge of his life, and when he’d died of what use (then) was 
 
 When humble supplication thus he made, a hidden monitor said in his heart:
 
-By reason of your well-intentioned thought from your dominions God bas taken death.
+By reason of your well-intentioned thought from your dominions God has taken death.
 
 Since during four years’ resignation you approve not even one should die from want,
 
-An order, four years valid, bas been writ that from your country death should keep away.
+An order, four years valid, has been writ that from your country death should keep away.
 
 Of (all) the great and small of his domains no person, I have heard, for four years died.
 
-Happy the king who by his generous gifts bas kept death from his subjects far away!
+Happy the king who by his generous gifts has kept death from his subjects far away!
 
 Whoever in the world was bom survived — what better than receipts without expense!
 

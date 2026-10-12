@@ -15,7 +15,7 @@ status: DRAFT
 Come, cup-bearer! that fire, repentance-consuming (wine of senselessness),
 Kindle in the hearth of my brain.
 
-In assembly-illuminating (on beholding Grod's majesty) my heart is happy,
+In assembly-illuminating (on beholding God's majesty) my heart is happy,
 Like the candle, when the fire (of wine) is in the head.
 
 From his justice is the goodness of the wise man (being contented);
@@ -129,7 +129,7 @@ Saying: — " When Kay Khusrau made the resolution of (going to) the cave (in Mo
 " Would seize the world; but also would not remain in place;
 " Would also, in the end, one day fall from his feet (in death)!
 
-" Grod forbid — that this man of Rumish descent (Sikandar)
+" God forbid — that this man of Rumish descent (Sikandar)
 " Should fall into that form! Let it never be!
 
 " Best, — if the king (Dara) write on ice (efface) his (Sikandar's) name,
@@ -169,7 +169,7 @@ Saying: — " When Kay Khusrau made the resolution of (going to) the cave (in Mo
 " Consider it not small (contemptible) if thou practice cautiousness.
 
 " Think of that little gnat, sting-possessing,
-" That said to the mighty Nimriid: — Hold thy head in front (lowered in respect, for I shall slay thee)!
+" That said to the mighty Nimrud: — Hold thy head in front (lowered in respect, for I shall slay thee)!
 
 " World (-sovereignty) is that one's who in strife
 " Put the mark of the man on (esteemed as a brave man) any (mean) man.

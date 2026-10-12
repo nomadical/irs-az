@@ -153,7 +153,7 @@ How may not the world take ease like that!
 Every deed of kings world-seeking
 Acquires grandeur by the judgment of the ministers.
 
-Malik-Shah, and Mahmiid, and Naushiravan (all just monarchs)
+Malik-Shah, and Mahmud, and Naushiravan (all just monarchs)
 — Who took the ball (of superiority) from all Khusraus —
 
 Were accepters of the counsel of ministers

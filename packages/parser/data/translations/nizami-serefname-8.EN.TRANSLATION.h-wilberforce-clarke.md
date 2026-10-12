@@ -19,7 +19,7 @@ Perhaps, by reason of that rapture, I may express a song;
 (And) give an invitation (to myself) to the tavern-haunters.
 
 The tales that Nizami found in the Shah-Nama, he wrote not in the
-Sharaf-Niima,e Khusravan, or Sikandar-Nama.
+Sharaf-Nama,e Khusravan, or Sikandar-Nama.
 
 Last night, Khizr was my instructor,
 — With a secret, which came acceptably to my ear, —
@@ -135,7 +135,7 @@ I cast a lot, in respect to the names of renowned ones (past kings).
 Every mirror which from (by means of) the heart I burnished,
 In it, to me, Sikandar's form shined.
 
-Grlance not lightly at that monarch,
+Glance not lightly at that monarch,
 Who was both sword-striker and crown-possessor.
 
 A multitude call him Throne-Possessor,
@@ -183,7 +183,7 @@ By it — I may keep long his name:
 May make of this throne (the Sikandar-Nama) its sitting-place,
 On which (throne) it may perpetually be place-occupier:
 
-Nizanif was sixty years old when he completed this work.
+Nizami was sixty years old when he completed this work.
 Here begins the praise of Nasratu-d-din, the king, the patron.
 
 May prove by a word (of lustrous verse) his name (worthy of honour),

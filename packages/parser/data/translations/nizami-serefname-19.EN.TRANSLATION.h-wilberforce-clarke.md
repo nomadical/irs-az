@@ -39,7 +39,7 @@ For God Himself gives hopefulness.
 Gather not the frown (through distress) on thy eye-brow;
 Behold thy face in the mirror of victory (be hopeful of God's grace).
 
-The representor (the historian) of the painting (relating) of the Riimish brocade (the tale of Sikandar),
+The representor (the historian) of the painting (relating) of the Rumish brocade (the tale of Sikandar),
 Makes the picture of the silken cloth (the relating of the mirror-making) the wax-seal (luminous and evident).
 
 Saying: — When Sikandar became the key of the world,

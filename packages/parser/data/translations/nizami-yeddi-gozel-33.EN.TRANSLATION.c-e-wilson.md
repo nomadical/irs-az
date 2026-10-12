@@ -100,13 +100,13 @@ That heavenly palace entering, his heart expanded like the (spacious) heavenly g
 
 He praised and blessed the king in lengthy speech, and after that, respectful homage pald.
 
-He said. Once more from China, picture-land, a rush of troops bas occupied the earth.
+He said. Once more from China, picture-land, a rush of troops has occupied the earth.
 
-The khaqan with the king bas broken faith, and from good faith departed once again.
+The khaqan with the king has broken faith, and from good faith departed once again.
 
 The Chinese have no faith, conventions spurn; poison at heart, and honey outwardly.
 
-An army (vast) with swords uplifted high bas reached in countless troops the Oxus stream.
+An army (vast) with swords uplifted high has reached in countless troops the Oxus stream.
 
 Over a wide expanse the torrents rush, (in size) each dragon in them like a sea.
 
@@ -222,7 +222,7 @@ He sought at once from all the chiefs in turn their several reasons for his ruin
 
 Through fear of the vazir whose fires rose high, no one would tell by day what passed at night.
 
-Each one gave some false reason, speaking thus: This needy man bas gone, and that one fled.
+Each one gave some false reason, speaking thus: This needy man has gone, and that one fled.
 
 The ground gives no returns, no grain remains, so in the treasury no treasure’s left.
 

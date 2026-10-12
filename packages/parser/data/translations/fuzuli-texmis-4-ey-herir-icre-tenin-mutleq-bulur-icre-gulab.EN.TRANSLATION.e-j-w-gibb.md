@@ -58,6 +58,6 @@ Like to thee is ne'er a beauty thus bedecked so fair and fine.
 
 Shafts thy glances, bows of poplar green those painted brows o' thine;
 
-Still unto thy glance and eyebrow doth Fuziili e'er incline: —
+Still unto thy glance and eyebrow doth Fuzuli e'er incline: —
 
 Passing strange the bird should fly not bow and arrow, filled with fear!

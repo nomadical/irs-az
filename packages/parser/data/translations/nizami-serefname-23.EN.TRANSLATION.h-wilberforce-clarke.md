@@ -132,7 +132,7 @@ Thou art in the breach (of destruction); exercise not boldness.
 Bring me not to that (point of rage), — that I should move from (my) place;
 The gnat's wing has no standing (power) with the elephant's foot.
 
-Be happy in the country (of Rum), Grod-given;
+Be happy in the country (of Rum), God-given;
 Make not the scratching (of avarice) with (us) lions of iron claw.
 
 A crow heard (from the birds) about the prond gait of the partridge;

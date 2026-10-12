@@ -120,7 +120,7 @@ Although each was in face a Moon, that one (erst) mentioned by the dealer was a 
 
 The eyes approved her as more beautiful than, by the speaker, she had been described.
 
-The king said to the dealer. Tell me (now) what kind of disposition bas this girl!
+The king said to the dealer. Tell me (now) what kind of disposition has this girl!
 
 If in my mind I feel a wish for her, whatever price you ask, I’U add to it.
 
@@ -168,7 +168,7 @@ Save with regard to intercourse withheld, no service (due) did she withhold (fro
 
 The household-ordering, the seraglio trust — each (duty) she accomplished like a friend.
 
-Though as the cypress he exalted her, she like the shadow fell beneath (his) fret.
+Though as the cypress he exalted her, she like the shadow fell beneath (his) feet.
 
 (Then) the old dame engaged in (her) deceit, and in attempts to make a straight house bent.
 
@@ -184,7 +184,7 @@ Although that raiding Turk's insidiousness he felt, yet stfll he practised self-
 
 Until ojne night it happened in this wise, a fire was kindled in those lovers twain.
 
-The monarch’s fret (lay) in the charmer’s lap — the gold bought slave (was dressed) in painted silks.
+The monarch’s feet (lay) in the charmer’s lap — the gold bought slave (was dressed) in painted silks.
 
 Aqua munita hnjns arx; lUiiis halistse ignis fervidns.
 
@@ -202,11 +202,11 @@ And then, to stimulate her heart and soul, in eloquent narration thus he spoke:
 
 In sextile aspect Venus, on a time, Bilqis was seated with (King) Solomon.
 
-They had in all the world one only child, who had disjointed, (helpless) hands and fret.
+They had in all the world one only child, who had disjointed, (helpless) hands and feet.
 
 Prophet of God, — (thus) spoke (to him) Bilqis, — both I and you are healthy, head to foot.
 
-"Why is our child so ailing, (tell me then), with hands and fret so far from healthy state?
+"Why is our child so ailing, (tell me then), with hands and feet so far from healthy state?
 
 A cure for (this) his ailment must be found, and when you find it it must be applied.
 
@@ -260,7 +260,7 @@ When she of fairy face by speaking truth had given hands to one of fairy birth,
 
 She said, O lord of demons and of fays, like goodness comely, and like wisdom good,
 
-Disclose a secret in the child’s behaM, that he gain fret from you, as hands from me.
+Disclose a secret in the child’s behaM, that he gain feet from you, as hands from me.
 
 I’]l ask a question if it pain you not: to-wit, you have much treasure, many a store —
 
@@ -272,13 +272,13 @@ The godly prophet said (in his reply), I have (indeed) what no one (ever) had:
 
 With affluence so copious and complete, — whoever comes to me to pay me court,
 
-I give a glance in secret towards his hand to see what gift the wayfarer bas brought.
+I give a glance in secret towards his hand to see what gift the wayfarer has brought.
 
-After the child had heard this he was cured: he moved his fret and rose up from the ground.
+After the child had heard this he was cured: he moved his feet and rose up from the ground.
 
-Father, said he, my fret have power to walk: your wise resolve bas let me grace the world.
+Father, said he, my feet have power to walk: your wise resolve has let me grace the world.
 
-As in God’s sanctum you have spoken truth; the trouble’s left my hands, the pain my fret.
+As in God’s sanctum you have spoken truth; the trouble’s left my hands, the pain my feet.
 
 ’Tis best we also strictly keep to truth, and at the quarry shoot the arrow straight.
 
@@ -290,7 +290,7 @@ Granted that I continue (thus) in pain, and (only) from a distance glance at you
 
 The graceful cjrpresSj near the limpid spring, could see no better answer than the truth.
 
-She said. There is in our unworthy race a property which by us bas been proved.
+She said. There is in our unworthy race a property which by us has been proved.
 
 Whoever of (our) women trusts her heart to (any) man dies when a child is bom.
 
@@ -302,7 +302,7 @@ To me my life’s too dear to be consigned to that in which much danger is invol
 
 (So) I, who love no lover and love life, have (now) disclosed the mystery to you.
 
-(Now) since the cover from my tray bas fallen, leave me alone or sell me, as you will.
+(Now) since the cover from my tray has fallen, leave me alone or sell me, as you will.
 
 But since I’ve not concealed my mind (from you), but let you know the state of my affairs,
 
@@ -322,7 +322,7 @@ In their own business they were all engrossed; at first they seemed good, but we
 
 When they had used their hearts to ease, they all gave up the toil of service due from them.
 
-Bach bas a step adapted to his length: not fit for every stomach bread and beans.
+Bach has a step adapted to his length: not fit for every stomach bread and beans.
 
 A stomach must be stone-like that its mill by a handful of corn may not be vexed.
 
@@ -332,7 +332,7 @@ Trust not in any woman, she’s a straw; the wind whirb off a straw in any place
 
 A woman who sees gold upon the scales, will bow her head for one grain to an ass.
 
-The pomegranate which is replete with seeds, bas ripened both in rubies and in pearls.
+The pomegranate which is replete with seeds, has ripened both in rubies and in pearls.
 
 Grape-like, a woman’s innocent as child: when raw she’s verdant, full-grown, black of face.
 
@@ -372,7 +372,7 @@ As sorceress, she saw the king alone, (then) went, prepared the necessary spell;
 
 She said. If you desire the unbroken colt soon to your saddle to be broken in.
 
-Then saddle twice or thrice before that colt a colt which bas been tamed, and gently stroke.
+Then saddle twice or thrice before that colt a colt which has been tamed, and gently stroke.
 
 By bridling thus the tame colt then contrive under control to bring the unbroken one.
 
@@ -422,7 +422,7 @@ I swear by God, and by your life (I swear) that if you will unlock this (mystery
 
 I will throw off the lock which guards the pearls, and henceforth acquiesce in the king’s wish.
 
-Who (then) bas been your guide to such a road? Who bas suggested to you such a game!
+Who (then) has been your guide to such a road? Who has suggested to you such a game!
 
 Inform me, for I know it not a whit, that I fly not, for I am swift of wing.
 
@@ -440,7 +440,7 @@ Through you a fire was (kindled) in my heart; (then) the old woman in the midst 
 
 When you became with me as candle straight, the Smoke of her who raised it was dispelled;
 
-For since my sun bas entered Aries, why should I call to mind the old dame’s cold?
+For since my sun has entered Aries, why should I call to mind the old dame’s cold?
 
 Many such soothing words he spoke, and she, delightful fair one, heard them with delight.
 

@@ -134,7 +134,7 @@ I said, Disclose (the matter), seek no pleas; inform me of the pitch-pot and the
 
 He said, you must excuse, for ’his a wish (about a thing) which cannot be revealed.
 
-Ho one bas knowledge of this blackness, know, save only him who bas this black (attire).
+Ho one has knowledge of this blackness, know, save only him who has this black (attire).
 
 Secret cajoleries I used with him, — I an Traqian, he of Kliurasan.
 
@@ -212,7 +212,7 @@ When he had done his duty as my host, he offered me immeasurable gifts;
 
 My gifts, together joined, before me put, and then sat down with deprecating words.
 
-He said, So many gifts of gems and wealth no jeweller bas (surely ever) weighed.
+He said, So many gifts of gems and wealth no jeweller has (surely ever) weighed.
 
 I who was satisfied with trivial gains, — wherefore the giving of all this to me?
 
@@ -324,7 +324,7 @@ Wien after this a short time lad elapsed, — upon tie top of tiat long, lofty t
 
 A bird came up and perched as might a mount, (suci) tiat from it my ieart some trouble felt.
 
-Tie branches of a tree its wings and plumes, its fret were like tie bases of a throne.
+Tie branches of a tree its wings and plumes, its feet were like tie bases of a throne.
 
 And from tie size it lad from head to foot, tie tower was, one might say, reduced to naught.
 
@@ -340,9 +340,9 @@ I said, If I take hold of tie bird’s foot, ’twill clutch me in its talons as
 
 And if I wait, tie place is full of risk, calamity’s below me and above.
 
-A faithless man bas tirougi (his) baseness done an act so heartless of deceit to me.
+A faithless man has tirougi (his) baseness done an act so heartless of deceit to me.
 
-What object lad he in tormenting me, tiat in this manner he bas crushed my hands?
+What object lad he in tormenting me, tiat in this manner he has crushed my hands?
 
 My property, perchance, led him astray, for that he’s brought destruction on (a friend).
 
@@ -354,7 +354,7 @@ That bird’s heart too by restlessness disturbed, — it flapped its pinions an
 
 Trusting in God, I lifted up my hands, (and) seized the foot of that strong-pinioned (bird).
 
-It brought its fret together, spread its wings, and to the heights, Hke air, it carried earth.
+It brought its feet together, spread its wings, and to the heights, Hke air, it carried earth.
 
 From early dawn to mid-day travelled I, a traveller-disquieter (the hied).
 
@@ -462,7 +462,7 @@ That queen august in fortune (then) approached, and like a bride sat down upon t
 
 The world entirely tranquil, left and right, — when she sat down a resurrection rose.
 
-When she had sat a moment she unveiled her face and from her fret she drew the shoes.
+When she had sat a moment she unveiled her face and from her feet she drew the shoes.
 
 (Then) from her palace-dome a queen came forth, with Ethiop troops behind, and Greek before.
 
@@ -474,7 +474,7 @@ A moment like a rose with head inclined she rested, casting fire into the world.
 
 A short time having passed she raised her head, and to a confidant she had close by
 
-She said. It seems to me some one is here, an earth-bom one who bas no right to come.
+She said. It seems to me some one is here, an earth-bom one who has no right to come.
 
 Else, and go round the circuit (of this place), (and) bring before me whomsoe’er you meet.
 
@@ -516,7 +516,7 @@ She answered, By my life and head I swear that for a time you shall come to my s
 
 You are my guest, O estimable man, and honour must be (always) shown to guests.
 
-Since I could see no course but servitude, I stood as (humble) slave upon my fret.
+Since I could see no course but servitude, I stood as (humble) slave upon my feet.
 
 (Then) an attendant gently took my hand, (and) seating me upon the throne retired.
 
@@ -538,7 +538,7 @@ The minstrel came, the cupbearer went off, (and) gaiety was left without a plea.
 
 A pearl was bored by every imbored Pearl, verses were sung by every lovely one.
 
-The dance a square oped, and a circle closed; wings came to fret of those who would abjure.
+The dance a square oped, and a circle closed; wings came to feet of those who would abjure.
 
 Standing upright as tapers in the dance, they fashioned tapers on the open space.
 
@@ -550,9 +550,9 @@ I, moved by love, wine holding me excused, behaved as those who’re drunken wit
 
 And that sweet-lipped one in (her) complaisance to dalliance of mine made some return.
 
-Seeing her (thus) inclined to love for me, I fell down like her ringlets at her fret.
+Seeing her (thus) inclined to love for me, I fell down like her ringlets at her feet.
 
-I planted kisses on my loved one’s fret; the more she said. Refrain 1 the more I kissed.
+I planted kisses on my loved one’s feet; the more she said. Refrain 1 the more I kissed.
 
 The bird of hope flew high upon a branch, the field of conversation widened out.
 
@@ -718,17 +718,17 @@ Your pitch-black ringlets are a chain, and I, e’en as a madman, by your chain 
 
 I pray you put a chain upon (your) door, that I, like one in chains, be not distressed.
 
-The night bas ended and the morn bas dawned, but our affair bas reached no (proper) end.
+The night has ended and the morn has dawned, but our affair has reached no (proper) end.
 
 If you would HU, I grudge you not my life: behold, here (is my) head, (and) here the sword!
 
-To what end this resistance so perverse? The rose smiles not until the cloud bas wept.
+To what end this resistance so perverse? The rose smiles not until the cloud has wept.
 
 A rill of water, you; I water seek; earth, you, I, scented water for your hands.
 
 To one who thirsts and dies upon your road give water, for there’s water in your well.
 
-But i£ you give not water, — live for aye! My lustre be the dust beneath your fret!
+But i£ you give not water, — live for aye! My lustre be the dust beneath your feet!
 
 Do not with thirst a humble atom bum; with one drop gratify a thirsty one.
 
@@ -744,7 +744,7 @@ She answered me, Be on this night content; say, Let the black steed’s shoe be 
 
 This fancy if you put off for a night, you’ll gain light from an everlasting lamp.
 
-Sell not a whole stream for a single drop; for this bas only stings, but honey, that.
+Sell not a whole stream for a single drop; for this has only stings, but honey, that.
 
 Close on yourself the door of one desire, (and) ever (after) smile with joyousness.
 
@@ -776,7 +776,7 @@ With one of those fair beauties she arranged that she should come and quench my 
 
 A friend in truth such as the heart desires: the heart desires all things symmetrical.
 
-Joyful is he who bas a friend he loves 1 If there be (one) may she at least be such!
+Joyful is he who has a friend he loves 1 If there be (one) may she at least be such!
 
 I went that night, the custom (now confirmed); that night the longing of my heart increased.
 
@@ -872,7 +872,7 @@ Drink you the wine still, the habab ” will come; look at the Moon still, for t
 
 I said, O Sun, by whom my garden lives, fountain of light, and source of (all) my joy.
 
-The dawn, your face, bas risen hke the rose — how should I die not, near you, like a lamp!
+The dawn, your face, has risen hke the rose — how should I die not, near you, like a lamp!
 
 You show sweet water to a thirsty one, (and) then say. Close your lips, (and) drink (it) not.
 
@@ -890,13 +890,13 @@ How long the biting of (my) lips to last? the tasting of the water of (my) mouth
 
 Devise some means, — I’m one by grief o’ertaken, — by which to-night I gain my heart’s desire.
 
-Because my soul bas reached my lips through grief, give me warm kisses, give me not cold words.
+Because my soul has reached my lips through grief, give me warm kisses, give me not cold words.
 
 If fortune make your love my helpful friend, (then) fortune’s help will make me fortunate.
 
 You say (to me), Grieve not, I am your friend; pursue your business, I’m engaged in it.
 
-To whom bas happened harder case than this? Deliver me, for I have suffered this.
+To whom has happened harder case than this? Deliver me, for I have suffered this.
 
 Though you have haunches like a (young) gazelle’s, how long into a hare’s sleep will you lull?
 
@@ -944,7 +944,7 @@ I said, O you through whom my case is hard, you who have taken from me all repos
 
 A hundred thousand men (ere this) have died in eager longing to discover hoards.
 
-(Then) I whose foot bas struck upon a hoard, — though pain befall, — how should I hold my hand!
+(Then) I whose foot has struck upon a hoard, — though pain befall, — how should I hold my hand!
 
 As long as I have still a single breath I cannot let your ringlets leave my hands.
 
@@ -954,7 +954,7 @@ Either light up my candle on this throne, or fix me on a gibbet like a throne,
 
 With heart and soul and intellect and sight, how can I do without you patiently!
 
-Honey your lips, your cheeks the rose, then think the honey bas its bee, the rose its thorn.
+Honey your lips, your cheeks the rose, then think the honey has its bee, the rose its thorn.
 
 Where is he who’d not eat rose-honey sweets? May he who would not eat them never eat!
 
@@ -968,7 +968,7 @@ My burning keeps me bright with Kfe as lamps: the living bums, but branded is th
 
 Should the sun not revolve in burning state, ’twould be in woeful state through dearth of light.
 
-My brain bas been asleep; what doubt of this! — the sleeping and the dead are reckoned one.
+My brain has been asleep; what doubt of this! — the sleeping and the dead are reckoned one.
 
 This not the wish I seek (to gain) from you; a dream I call it for myseh (alone).
 

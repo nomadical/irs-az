@@ -70,7 +70,7 @@ Brought in prosperousness night to day:
 Around him the philosophers of the age
 Gave the share of equity and liberality to the world.
 
-Aristo with the bowl; Flatiin with the cup;
+Aristo with the bowl; Flatun with the cup;
 Pourers of pure wine, like pure blood.
 
 The musician — to the sound of music, the singer,

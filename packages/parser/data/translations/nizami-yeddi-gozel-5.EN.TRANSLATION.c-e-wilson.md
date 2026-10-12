@@ -86,7 +86,7 @@ All that the efforts of Ms sword draw in he gives, (as some obtain), by crack of
 
 Like Jupiter upon the lofty sky with Ms steed’s hoofs he digs out Saturn’s grave.
 
-A Hon on a dragon’s seldom seen, and a sun wMch bas drawn a scimitar,
+A Hon on a dragon’s seldom seen, and a sun wMch has drawn a scimitar,
 
 But see the king who in the fight and chase riding a Hon burns the dragon fell.
 
@@ -98,7 +98,7 @@ He wins the game of roughness from the sword; roughness like that of bears does 
 
 A Hon-taker, not in drunkenness; Hons he takes by having dragons’ might.
 
-The fore and hind legs of the tearing wolf by loop of lasso he bas pMoried.
+The fore and hind legs of the tearing wolf by loop of lasso he has pMoried.
 
 When fore and Mud legs from the wolf he tears the Hon’s palsied in forelegs and hind.
 
@@ -118,13 +118,13 @@ He at the feast and in the fight is famed: by cup and sword be gives life and be
 
 By reason of bis sheen the dusky earth is full of lustre by bis sovereign sway.
 
-His inner character as artist’s reed bas musk in bosom, rubies in its skirt.
+His inner character as artist’s reed has musk in bosom, rubies in its skirt.
 
 The realm in every part forms necklaces and perfume from his rubies and bis musk.
 
 Such wearer of the kingly cap’s attire, suffices for a cap from heaven to earth.
 
-The bow of such a bolder of the earth bas the Nine-handled Bow as smallest bolt.
+The bow of such a bolder of the earth has the Nine-handled Bow as smallest bolt.
 
 Such greatness is involved in bis designs that the Great Bear’s four stars are (as) bis throne.
 
@@ -132,11 +132,11 @@ His enemies are like uprooted trees to crucifixes fastened at bis door.
 
 Our faces, from the sim of bis renown, bright as the moon; bis foemen’s faces black.
 
-What wonder that a gold-shod sun bas given rock to the mount and rubies to the mine?
+What wonder that a gold-shod sun has given rock to the mount and rubies to the mine?
 
 Subdued by him the jewels of the mine; the mine of jewels (too) bis (bumble) slave.
 
-His onyx food to mount and sea bas given — this, named pearl-strewer, ruby-strewer, that.
+His onyx food to mount and sea has given — this, named pearl-strewer, ruby-strewer, that.
 
 He guards the law in both Abodes: the law of those of God’s Law be administers.
 
@@ -152,7 +152,7 @@ Through the bright splendour of two fair-faced dawns like the celestial sun may 
 
 Of lofty throne two princes, seeking, one, the world, and one, the realm of piety.
 
-Faridun’s learning, intellect, bas one, the other takes the way of Kai-Khusrau.
+Faridun’s learning, intellect, has one, the other takes the way of Kai-Khusrau.
 
 Adorning crown and throne the power of one, Nusratu ’d-Din Malik Muhammad Shah.
 
@@ -164,11 +164,11 @@ When at these blessed names you look (’his seen that) in one circle they both 
 
 When out of one two things arise, then how between them can one make a difference!
 
-The one e’er bas the key of victory; the other’s famed for conquest of the sky.
+The one e’er has the key of victory; the other’s famed for conquest of the sky.
 
 Conquest’s (engaged) in cherishing the one; the other one is strengthened by the sky,
 
-The tripod throne of conquest one bas pitched; the other bas as fortune’s steed the sky.
+The tripod throne of conquest one has pitched; the other has as fortune’s steed the sky.
 
 Beneath the azure throne by these two (sons) may the eyes of the king be (ever) bright!
 
@@ -186,27 +186,27 @@ His name be Kiiizr of immortality I Be her equivalence the Stream of Life!
 
 The shadow of the king, the fount of light, be from that Eose and Eose-garden not far!
 
-Asylum of the world ” bas always been his quality; his sway endure for aye!
+Asylum of the world ” has always been his quality; his sway endure for aye!
 
-O you, whose crown bas Fortune as its slave, and by whose crown and throne the world’s alive, —
+O you, whose crown has Fortune as its slave, and by whose crown and throne the world’s alive, —
 
 To guard you, night is a black sentinel, having the drum, the moon, attached to him.
 
 Like a free-lance, with sword-belt fastened on, the dawn beside your stirrup gently breathes.
 
-Of Dilam’s crown the wearer, slave to you, from plants beside your gate bas musky scent.
+Of Dilam’s crown the wearer, slave to you, from plants beside your gate has musky scent.
 
 The Grecian, day, would Ethiop be like night, if from the office of “ sarhang ” dismissed.
 
-In every cloth which the sky spreads it bas from (the king’s) government two loaves as pay.
+In every cloth which the sky spreads it has from (the king’s) government two loaves as pay.
 
-He whom you pay the least bas for his food the planets as a mouthful on his plate.
+He whom you pay the least has for his food the planets as a mouthful on his plate.
 
 The signet-ring of heavenly furtherance upon you puts the seal of sovereignty.
 
 The (lofty) sky, of which the sun’s a work, is as the smallest belt around your waist.
 
-The moon, which of the heavenly sphere bas made a golden throne, bas made it like your throne.
+The moon, which of the heavenly sphere has made a golden throne, has made it like your throne.
 
 The water of the spring, which is (so) pure, is, like tears, turbid when compared with you.
 
@@ -220,15 +220,15 @@ They give much pain before they lay a cloth; they take a life before they give a
 
 You summon late (’his true), but cherish quick the man on whom (your) shadow you may cast.
 
-The worth of men of talent he may know who many works of talent bas perused.
+The worth of men of talent he may know who many works of talent has perused.
 
 (But) he who knows not talent from defect, — how should the talented have gain from him?
 
-From your existence sovereignty bas rank; on all sides there are writings in your praise.
+From your existence sovereignty has rank; on all sides there are writings in your praise.
 
 Your fortune lives for ever in the work of scout to generosity’s domains.
 
-The splendour which you’ve given to State and Faith — not such from April bas the garden gained.
+The splendour which you’ve given to State and Faith — not such from April has the garden gained.
 
 The world entire is body, Persia, heart, — the writer shames not at this parallel;
 
@@ -244,7 +244,7 @@ An iron mirror if Sikandar made, and if by Khizr the Stream of Life was found,
 
 Your breast a mirror is of intellect; the Stream of Life is (found) within your heart.
 
-Every domain which bas a king like you — may God brom every evil keep it safe!
+Every domain which has a king like you — may God brom every evil keep it safe!
 
 From the good fortune which you have you’re called the fortune-favoured of the Seven Climes.
 
@@ -266,7 +266,7 @@ Parviz a Barbad had, a minstrel famed, who’d play not hundred but a myriad air
 
 (But) you, who have a better crown than they, have a Nizami, great in eloquence.
 
-O you, through whom Nizami bas a name, though whom his name’s in orderly estate, —
+O you, through whom Nizami has a name, though whom his name’s in orderly estate, —
 
 Though other rulers, through a vain desire, make boast of giving of their treasured store.
 
@@ -328,7 +328,7 @@ I, who require the water from that hand, have to (all) other waters closed my mo
 
 If you, as “ Zuhra ”, hear my newest song, as the new moon you’ll make me pointed out.
 
-But if you think the picture’s very small — the wind bas borne off many such a flower.
+But if you think the picture’s very small — the wind has borne off many such a flower.
 
 (Long) life be yours, for justice and the Faith are yours; God give you that, for you have these.
 

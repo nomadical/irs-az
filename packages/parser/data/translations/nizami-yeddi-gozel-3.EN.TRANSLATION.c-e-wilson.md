@@ -16,13 +16,13 @@ When the world could not hold his crown his throne was placed upon the ‘Arsh b
 
 To raise him from a lowly stage on high came Gabriel to him with (swift) Buraq.
 
-He said, Place on the air your earthy fret, in order that the heavens noiay be your earth.
+He said, Place on the air your earthy feet, in order that the heavens noiay be your earth.
 
 Be for the night of the most sacred house, you, to-night guardian of the purest, best.
 
 Since I have brought you choicest guardianship. I’ve brought Buraq to you to be your steed.
 
-Mount this Buraq which bas the lightning’s speed, to-night it is to serve your guardianship.
+Mount this Buraq which has the lightning’s speed, to-night it is to serve your guardianship.
 
 Bring your couch o’er the sphere, you are the moon; let it pass o’er the stars, you are the king.
 
@@ -74,9 +74,9 @@ He turned not from obedience to those words, so that he gained proximity to God.
 
 Buraq he mounted Hke a lightning flash: beneath him Arab steed, in hand a wMp.
 
-Into the stirrups when he put Ms fret, Buraq, parader o’er the heights, sprang up.
+Into the stirrups when he put Ms feet, Buraq, parader o’er the heights, sprang up.
 
-The wings of peacocks from its fret arose; above its head a (radiant) throne-like moon.
+The wings of peacocks from its feet arose; above its head a (radiant) throne-like moon.
 
 It flew so (quick) that from that heated flight the vultures four behind it shed their plumes.
 
@@ -158,7 +158,7 @@ Until the eyes inveil “ direction’s ” face, the heart’s perturbed by anx
 
 Nought of the Prophet there save breath was left: there was no person left there, all was God.
 
-When from the eyes “ direction ’’ is concealed, “ that which bas no direction ” ’s clearly seen.
+When from the eyes “ direction ’’ is concealed, “ that which has no direction ” ’s clearly seen.
 
 How can “ direction ” compass sight of Him? How can it hold in His encompassing?
 

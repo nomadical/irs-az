@@ -171,7 +171,7 @@ Of the fish and that water, jewel-scattering,
 The Arabic history (the Kuran) gave another account,
 
 Namely: — The water of life was of another place (outside of the Zulmat):
-The fire- worshipper (the Persian) and the Riimish historian missed the path (of true narrative).
+The fire- worshipper (the Persian) and the Rumish historian missed the path (of true narrative).
 
 — If there be a (luminous) water (internal purity, the real water of life) in this dark dust (the dusty body),
 Of wandering in error from its fountain (the apparent water of life) — what fear? —

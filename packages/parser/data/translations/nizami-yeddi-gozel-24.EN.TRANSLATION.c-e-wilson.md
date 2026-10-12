@@ -16,7 +16,7 @@ The king indulged in pleasure and delights, for be was wearied with the march an
 
 He ordered each one’s business, such as ’twas; then hgaged in managing bis own.
 
-To bis heart’s wish he settled it at ease, wine in hisnd, his foes beneath his fret. '
+To bis heart’s wish he settled it at ease, wine in hisnd, his foes beneath his feet. '
 
 The story of that master he recalled who formerly had left him that account.
 

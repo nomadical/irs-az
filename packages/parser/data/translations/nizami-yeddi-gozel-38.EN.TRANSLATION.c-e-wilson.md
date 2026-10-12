@@ -22,7 +22,7 @@ Since in reflection and the test (of gold) the coin of this fine Grecian treasur
 
 I have attached to it a royal name, that the inscription may exalt my hand.
 
-Some stories, these, no hand bas writ before, ’neath silken petals virgin rose-bud’s face.
+Some stories, these, no hand has writ before, ’neath silken petals virgin rose-bud’s face.
 
 A hemistich of gold and one of pearl, void of pretension and of meaning full,
 
@@ -44,7 +44,7 @@ I, wrriter with a reed of sugar-cane, strew from the palm-tree of this writing, 
 
 A king of Grecian raiment, Chinese crown, to whom Greece land-tax, China tribute pays;
 
-The fortune of the Law, in root and branch, bas gained the beauty of accord through him.
+The fortune of the Law, in root and branch, has gained the beauty of accord through him.
 
 The sky’s on foot to bow before the king; before his grandeur aU creation's prone.
 
@@ -58,9 +58,9 @@ The Egyptian gold he gives to him who asks outnumbers (aU the grains of) Meccan 
 
 His sabre treats the hardness of the rock as fierce impetuous fire (treats) poplar chips.
 
-His arrow with (its) hair-dividing point bas from the (musk-deer’s) navel shot the gland.
+His arrow with (its) hair-dividing point has from the (musk-deer’s) navel shot the gland.
 
-His coat of mail bas lances snatched from dawn; his lance from mail-clad moon bears off the ring.
+His coat of mail has lances snatched from dawn; his lance from mail-clad moon bears off the ring.
 
 The world entire is through his armour armed; the seven skies are by his lasso noosed.
 
@@ -88,11 +88,11 @@ It’s outside will the superficial please; within it is the kernel for the deep
 
 (The work) presents a locked up case of pearls, the key to which is (ATapped) in metaphor.
 
-The pearl glides (freely) on a string to which the loosening of knots bas served as key.
+The pearl glides (freely) on a string to which the loosening of knots has served as key.
 
 All that is in its verse of good or had, — all is allusion, hints, and subtle thought;
 
-Each single separate storey bas become a house of treasures through (my) magic art.
+Each single separate storey has become a house of treasures through (my) magic art.
 
 That one whose body was in stature short, — added to its stature by my verse.
 
@@ -102,7 +102,7 @@ I set forth this choice work in happy style, — how sweet the marrow in so choi
 
 With every art I have adorned (the work), that to its beauty you may give a glance.
 
-The reed, my pen, bas from the field of art conveyed to Mercury fresh ears of corn. yirgo bas taken to herself these ears, though ‘‘ Storyteller story-teller hates.
+The reed, my pen, has from the field of art conveyed to Mercury fresh ears of corn. yirgo has taken to herself these ears, though ‘‘ Storyteller story-teller hates.
 
 Since from the fort of my contented state I’ve offered to the king a store of pearls, —
 
@@ -110,9 +110,9 @@ Kegarding pay (for these) in current gold, the Brazen Fort my debtor (still) rem
 
 (Such) debt is not from want of will to give; a fort from want of silver may be brass.
 
-The sword bas scattered from that Eocky Mount rubies and diamonds o’er a hundred leagues:
+The sword has scattered from that Eocky Mount rubies and diamonds o’er a hundred leagues:
 
-The rubies, as is fit, for hands of friends, the diamonds for the fret of enemies.
+The rubies, as is fit, for hands of friends, the diamonds for the feet of enemies.
 
 A fort! nay, ’his the Ka'ba of Islam; the shrine of spiritual travellers.
 
@@ -134,7 +134,7 @@ Have tied a missive to a pigeon too, which if it to the long convey I’m saved.
 
 You, at whose gate the sky’s an ear-ringed slave, ofience-condoner of Cathayan dress,
 
-Since your exalted state bas favoured me, behold the sorcery that I’ve displayed.
+Since your exalted state has favoured me, behold the sorcery that I’ve displayed.
 
 Five hundred ninety-three of years conjoined, this missive I, as one of fame, composed;
 

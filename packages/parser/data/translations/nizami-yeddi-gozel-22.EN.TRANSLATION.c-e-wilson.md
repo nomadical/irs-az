@@ -12,7 +12,7 @@ sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
 status: DRAFT
 ---
-When the renown of Bahram (Gur) as king had risen from the Eish up to the moon,
+When the renown of Bahram (Gur) as king had risen from the Fish up to the moon,
 
 The hearts of the distinguished gained new strength; the fame of (all) the famous lived again.
 
@@ -48,7 +48,7 @@ Eevolving like a mill around Mmself, Trhatever lie acquired lie threw away.
 
 This story was divulged throughout the world; axes were sharpened with a view to cut.
 
-All said, Bahram is drunk, and bas exchanged religion for the world, and sword for cup.
+All said, Bahram is drunk, and has exchanged religion for the world, and sword for cup.
 
 With boon companions he is lost in wine; (all) he enjoys (is) wine, his gain’s the wind.
 
@@ -152,7 +152,7 @@ The frame of whomsoe’er his arrow hit — the soul at once departed from that 
 
 When dawn drew forth the falchion of the sun, and on the sky a bowl of blood appeared,
 
-Prom all the blood shed by the hero-king a stream of blood flowed, bore down beads as balls.
+From all the blood shed by the hero-king a stream of blood flowed, bore down beads as balls.
 
 And through the numbers slaughtered by the sword the gall-bladder was stirred to vomit bile.
 
@@ -210,7 +210,7 @@ The Arab poets to the rebeck’s tones recited verses like pellucid pearls.
 
 The king, a judge of skill, a connoisseur in poetry, gave them unmeasured wealth.
 
-Prom that great spoil and treasure he endowed the temples with a thousand camel (loads).
+From that great spoil and treasure he endowed the temples with a thousand camel (loads).
 
 In skirtfuls gold, and pearls in hatfuls too, he to the priesthood of the temples gave.
 

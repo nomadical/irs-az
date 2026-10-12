@@ -33,11 +33,11 @@ Head-lowered the kings sate around him;
 The attendants (cup-bearers and musicians) with wine, and music, and wine-cup;
 The equipage of the assembly completely arranged:
 
-Pleasant wine and Niishaba like sugar,
+Pleasant wine and Nushaba like sugar,
 Around her, brides closely crowded.
 
 With all his virility, Sikandar, (son) of Faylikus,
-Grlanced not at these many brides.
+Glanced not at these many brides.
 
 One reason, that he was indeed continent:
 The other — one cannot hunt (women) in the sacred enclosure (of the ka'ba).
@@ -268,7 +268,7 @@ A camel-litter and camel with housings of gold;
 Of camel-litter bearers (camel-leaders) a crowd golden-belted.
 
 Such beautiful ornaments, jewel-scattering, —
-To Niishaba the jewel-bearers gave.
+To Nushaba the jewel-bearers gave.
 
 Nushaba put on the king's dress of honour (given by) the king,
 As the gleaming moon, — the dress of honour (of luminosity) of the sun.
@@ -286,4 +286,4 @@ They kissed the ground in thanks to the king;
 Took the way (to their house) with heart-joy fulness:
 
 Came jewel-possessing from that mine (Sikandar's court);
-Returned like Kardn's treasure to their place.
+Returned like Karun's treasure to their place.

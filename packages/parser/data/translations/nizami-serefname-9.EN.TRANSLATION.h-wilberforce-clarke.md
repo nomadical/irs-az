@@ -96,7 +96,7 @@ In every circle (enceinte of the fortress of infidelity) against which he made a
 He loosed (subdued) the heart (citadel) of its compass-line (the enceinte of the fortress).
 
 At that dwelling, to which he urged his steed,
-The earth cast up the treasure of Kariin (on account of his liberality).
+The earth cast up the treasure of Karun (on account of his liberality).
 
 On that fort, where he raised his standard,
 He suspended the commandant's head from the fort.
@@ -254,7 +254,7 @@ Increases (replenishes as a servant) the oil of thy lamp (of life).
 All day the sun with the collar of gold
 Binds his loins (as a servant) at the foot of thy throne.
 
-s The Bntruster of Royalty to thee (Grod)
+s The Entruster of Royalty to thee (God)
 Entrusted to thee whatever of the world thou desirest.
 
 He gave thee country for that reason that thou niightest exercise sovereignty (world-guarding),

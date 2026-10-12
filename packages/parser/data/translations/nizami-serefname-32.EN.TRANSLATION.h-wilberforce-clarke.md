@@ -225,7 +225,7 @@ Saying: — " When the world-king subdued the world,
 " The brave ones of Arman, his well-wishers,
 " Loin-girt as to his order and path (of fire-worshipping),
 
-" Dxiri]j every cup of wine to his memory;
+" Drink every cup of wine to his memory;
 " Take to him the tribute of the country.
 
 " If the king be unable to attack him,
@@ -328,7 +328,7 @@ Two weeks, less or more, in the mountain and plain,
 (Towards Burda') he travelled the road (engaged) in game-overthrowing.
 
 When he made the place (the mountain and the plain) void of bird and of fish,
-He showed desire (to go) towards Niishaba (the Queen of Burda'):
+He showed desire (to go) towards Nushaba (the Queen of Burda'):
 
 Was mindful of reverence to that lady;
 For she was possessed of much territory and much wealth.

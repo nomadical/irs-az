@@ -36,6 +36,6 @@ O thou bird, my heart, I rede thee, keep thee from Love's snare away,
 
 Ere the stone of slight have broken these thy plumes and pinions fair.
 
-Like thy shadow, hath Fuziili lain for long before thy fret,
+Like thy shadow, hath Fuzuli lain for long before thy feet,
 
 In the hope that thou may'st one day tread him prone before thee there.

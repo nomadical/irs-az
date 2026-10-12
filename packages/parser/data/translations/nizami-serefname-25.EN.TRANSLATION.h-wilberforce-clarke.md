@@ -18,7 +18,7 @@ Measure out (the wine), the measuring of the wind, — how long?
 Make me intoxicated with the wine of the special cup (of Divine love);
 I may perhaps obtain release from this tavern (of corporeal affections).
 
-[The Battle of (Yaugamela— 20 miles S.W. of) Arbela (Arbil), fought 1st October, b.c. 331.]
+[The Battle of (Gaugamela— 20 miles S.W. of) Arbela (Arbil), fought 1st October, b.c. 331.]
 
 The prond moving (revolving) of the azure sphere;
 Verily, the revolving of the moon and the sun around (the world).
@@ -193,7 +193,7 @@ He kept hurling the enemy's head at his (the enemy's) feet.
 So long as he made it not void of life he passed not by a body;
 So long as he cast it not down (to the earth) he struck not at a head.
 
-In that assaulting, from much Rtimish blood,
+In that assaulting, from much Rumish blood,
 He spread a thousand (scarlet) Rumish satins (bloody bodies).
 
 And on that side, Sikandar with the sharp sword,

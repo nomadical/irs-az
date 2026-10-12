@@ -106,7 +106,7 @@ The giving hand, to “ dirams ” a distress, is usher of the court of noble tr
 
 The bxdlder (then) who found such kindness (shown) and hopefully heard promises of (wealth).
 
-Said, If before this business I had known of (all) that which the king bas promised me.
+Said, If before this business I had known of (all) that which the king has promised me.
 
 The adornments of this dome of Chinese work I had made somewhat better in these bounds;
 
@@ -118,7 +118,7 @@ Hu'man replied, Should you receive more pay, could you hereafter build a better 
 
 He answered. At your wish when I designed, I’d make such that this by it would be naught.
 
-’Twould have a hundred hues, this bas (but) three; ’twould be of rubies, this is (but) of stone.
+’Twould have a hundred hues, this has (but) three; ’twould be of rubies, this is (but) of stone.
 
 TMs shows itself possessor of one dome, but that would, like the sky, have seven domes.
 

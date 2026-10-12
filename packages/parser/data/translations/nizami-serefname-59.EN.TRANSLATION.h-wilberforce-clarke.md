@@ -48,7 +48,7 @@ From the door (of the court), — far the clamour of strangers.
 Speech passed on every subject in secret (hidden and abstruse);
 No one uttered a tale void of a mystery.
 
-One related a tale of Khurasan and Ghiir,
+One related a tale of Khurasan and Ghur,
 Saying: — " Thence one can obtain gold and power (of body)."
 
 Another mentioned a tale of Sipahan,
@@ -156,7 +156,7 @@ The Muslims usually confound Khizr with Phineas, Elias, and
 St. George, saying that his soul passed by metempsychosis through all
 
 three.
-Some say that he was one, Balya ibn Malkan, in the time of Firfdun
+Some say that he was one, Balya ibn Malkan, in the time of Firidun
 
 (b.c. 800); that he preceded Zu-'l-Karnain (Asa,ab ibnu-'r-Rayesh); and
 

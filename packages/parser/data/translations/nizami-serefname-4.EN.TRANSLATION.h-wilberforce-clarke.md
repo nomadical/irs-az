@@ -18,7 +18,7 @@ The night, through the splendour (of the stars) laid claim to (being) the day:
 The canopy (the seventh heaven) of seven kings (the seven planets) — the throne;
 The jewel (of the stars) arrayed in (its own) silk of Chin (the azure sky):
 
-Of those green wearing (angels and Hiiris) of the garden of Paradise, the chief (Rizvan, the porter)
+Of those green wearing (angels and Huris) of the garden of Paradise, the chief (Rizvan, the porter)
 Adorned with verdure the sowing and the sown-field:
 
 (On such a night) Muhammad — who was the Sultan of this cradle (the earth),
@@ -95,7 +95,7 @@ Gave the cradle of sleep (of carelessness) to the moon.
 Broke after that the pen on (entrusted writing to) Mercury (the Secretary of the Sky);
 — For the one, who can neither read nor write, takes not up the pen —
 
-Gave the smiling (open) countenance of disposition to Yenus;
+Gave the smiling (open) countenance of disposition to Venus;
 Gave, thankfully, a round cake (orb) to the Sun:
 
 Gave the fire of his own wrath to Mars;
@@ -181,7 +181,7 @@ Prayer (came) from Muhammad; and acceptance (of prayer) from God.
 A voice that proceeded without the agency (of the tongue) he heard,
 The countenance of God, fit to be beheld, — he beheld.
 
-Of the Presence possessed of majesty (Grod) — he beheld so much that
+Of the Presence possessed of majesty (God) — he beheld so much that
 Neither was side on that side, nor (external) form on this side.
 
 His body, all eager like the narcissus become, —
@@ -190,10 +190,10 @@ A single thorn (prohibitor) around him wandered not.
 In that narcissus-form, which that garden (Muhammad) had,
 Perhaps his eyes possessed the collyrium of Mazagh!
 
-He passed by the tray of intimate friendship (with Grod);
+He passed by the tray of intimate friendship (with God);
 He both enjoyed; and, also, made the gift (of Islam) to us special ones (true Muslims).
 
-His heart took the splendour of Grod's grace;
+His heart took the splendour of God's grace;
 Behold the great orphan (Muhammad) — what sovereignty he seized!
 
 Towards the earth, he came face-illumined;
@@ -249,5 +249,5 @@ Notwithstanding this (my) weakness (in the faith of Islam) — the great prey of
 
 prayer.
 
-Nizami, who became city-bound (captive) in Granja-city,
+Nizami, who became city-bound (captive) in Ganja-city,
 Let him not be portionless of thy blessing! %

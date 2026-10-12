@@ -129,6 +129,43 @@ function candidates(word: string): string[] {
   return out;
 }
 
+/**
+ * Misreadings typical of names in transliteration-heavy books: the accented "ú" read as "ii"
+ * ("Riim" for Rúm), "í" as "f" ("Firdausf"), a capital G as "Gr" ("Grod"), V as Y, N as X …
+ * A name has no dictionary to check, so the book itself decides: see fixName.
+ */
+const NAME_CONFUSIONS: [RegExp, string][] = [
+  [/ii/g, 'u'], [/f(?=[a-z]*$)/g, 'i'], [/^Gr/, 'G'], [/^Y(?=e|i)/, 'V'], [/^X(?=[aeiou])/, 'N'],
+  [/^Av/, 'W'], [/^AV/, 'W'], [/^Pr(?=om)/, 'Fr'], [/rn/g, 'm'], [/in(?=[aeiou])/g, 'm'], [/cl/g, 'd'],
+  [/aa/g, 'an'], [/^Kk/, 'Kh'], [/cb/g, 'ch'], [/iu/g, 'in'], [/^Mz/, 'Niz'], [/^(JST|IST|TsT)/, 'N'],
+  [/^Rt/, 'Ru'], [/d(?=n$)/, 'u'], [/^Oh/, 'Ch'], [/^Oa/, 'Ca'], [/^Bx/, 'Ex'], [/^Bn/, 'En'],
+  [/^Fh/, 'Fir'], [/^Fm/, 'Fir'],
+];
+
+function nameCandidates(word: string): string[] {
+  const once = NAME_CONFUSIONS.map(([re, to]) => word.replace(re, to)).filter((c) => c !== word);
+  // Two misreadings in one name: "TsTiishaba" → Nushaba
+  const twice = once.flatMap((c) => NAME_CONFUSIONS.map(([re, to]) => c.replace(re, to)));
+  return [...new Set([...once, ...twice])].filter((c) => c !== word);
+}
+
+/**
+ * A name the book spells another way more often: "Niishaba" (17×) is Nushaba (30×). The form
+ * found must occur at least as often as the misreading, or be an English word ("Grod" → God).
+ */
+function fixName(word: string, vocab: Vocabulary): string | null {
+  if (!/^[A-Z]/.test(word)) return null;
+  const seen = vocab.count(word);
+  let best: string | null = null;
+  for (const c of nameCandidates(word)) {
+    const n = vocab.count(c);
+    if (vocab.isWord(c) || (n >= 2 && n >= seen)) {
+      if (!best || vocab.count(c) > vocab.count(best)) best = c;
+    }
+  }
+  return best;
+}
+
 export interface OcrStats {
   fixed: number;
   unknown: number;
@@ -151,6 +188,11 @@ function fixWord(word: string, vocab: Vocabulary, stats: OcrStats): string {
       stats.fixed++;
       return /^[A-Z]/.test(word) ? c[0].toUpperCase() + c.slice(1) : c;
     }
+  }
+  const name = fixName(word, vocab);
+  if (name) {
+    stats.fixed++;
+    return name;
   }
   if (vocab.isTrusted(word)) return word; // a name or term the book uses throughout
   stats.unknown++;

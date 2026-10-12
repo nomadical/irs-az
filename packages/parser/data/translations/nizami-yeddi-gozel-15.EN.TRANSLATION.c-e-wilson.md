@@ -18,7 +18,7 @@ Like to the rose breathe out from your own mouth; enough that your own mouth per
 
 E’en at the first my covenant was made — with whom? — with Him whose covenants are true
 
-That what a certain other bard had said — I still drink wine, but he bas gone to sleep —
+That what a certain other bard had said — I still drink wine, but he has gone to sleep —
 
 I would not make (such) thought of his my own: ill-doing Fd not make my attribute.
 
@@ -26,13 +26,13 @@ So far as may be, like the vernal breeze, my claim shall not be patching up old 
 
 StiH, to the treasury when one the road — the target one, although the arrows two —
 
-Though in the art of boring pearls (72S) IVe bound myself not to repeat what bas been said,
+Though in the art of boring pearls (72S) IVe bound myself not to repeat what has been said,
 
 When repetition I can not avoid, I can produce fine silk from woollen stuff.
 
 Two workers by the alchemy of speech have turned old metal into something new:
 
-That one bas made from copper silver pure, and from the silver this one makes pure gold.
+That one has made from copper silver pure, and from the silver this one makes pure gold.
 
 Since you’ve seen copper to fine silver turned, be not surprised if silver turns to gold.
 

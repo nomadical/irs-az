@@ -90,9 +90,9 @@ When with the shaft he’d fastened hoof to head, the quarry stumbled and fell h
 
 The monarch said (then) to the Chinese girl, I’ve gained success; what think (you of the feat)?
 
-She said, The king bas often practised this; how can a thing be hard when practised oft?
+She said, The king has often practised this; how can a thing be hard when practised oft?
 
-Whatever thing a man bas studied (long), though it be hard (at first), it can be done.
+Whatever thing a man has studied (long), though it be hard (at first), it can be done.
 
 That the king’s arrow pierced the ass’s hoof is (but from) habit, not excess of strength.
 
@@ -126,7 +126,7 @@ I am the monarch’s special intimate, the one most chosen out of (all) his slav
 
 So much so that at wine or at the chase no other’s been his iatunate and friend.
 
-If through an act of boldness which I did, a (wicked) ‘‘ div ” bas played a trick on me;
+If through an act of boldness which I did, a (wicked) ‘‘ div ” has played a trick on me;
 
 And the king, wrathful, orders punishment, do not in Inlling me be over quick.
 
@@ -202,7 +202,7 @@ When to these parts the king comes to the chase, hold to his stirrup as does vic
 
 Pour out your heart and study how to please, (and) for a time hold in your hand his reins.
 
-King Bahram bas a gentle temperament; he bas a noble and indulgent mind.
+King Bahram has a gentle temperament; he has a noble and indulgent mind.
 
 When he perceives your humble, earnest prayer, he'll bow his head to your becoming raised.
 

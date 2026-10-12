@@ -60,7 +60,7 @@ The bones in the limbs of the ox (earth- supporting) became shattered.
 The King of Rum renewed the custom of great kings;
 Made the world full of clamour with the drum:
 
-Arranged the army according to the regulations of Riim,
+Arranged the army according to the regulations of Rum,
 Like the decoration of a picture on a wax-seal.
 
 There was one of the army of Rum, very courteous (respected);
@@ -69,7 +69,7 @@ An orator (bold of tongue) acquainted with every language.
 Bold and speech-uttering, and knowledge- worshipping;
 Dexterous with arrow and sword.
 
-An orator, — his name, Tiitiya-Nosh;
+An orator, — his name, Tutiya-Nosh;
 His (fascinating) breath (speech) drew parrots to the snare. —
 
 By sweet words man-fascinating,
@@ -132,7 +132,7 @@ His delicate form became bathed in blood.
 When that basin became full of blood — what did the man of Zang do?
 He drank it (the blood) like (simple) water, but drank not (simple) water!
 
-Those persons who were with him (Tiitiya-Nosh) on the road
+Those persons who were with him (Tutiya-Nosh) on the road
 Went before Sikandar, water in the eye (weeping).
 
 The King of Zang js likened to a snake on account of his contortions,
@@ -151,7 +151,7 @@ The colour went wholly from (the face of) the men of Rum
 When they saw (heard of) blood-devouring of that kind.
 
 By that deed, the black men of Zang — white of teeth (full of laughter);
-The lip of the men of Riim, — hopeless of laughter.
+The lip of the men of Rum, — hopeless of laughter.
 
 That night best that is teeth-concealed (starless);
 For that moment it expires when it laughs (is star-lit).
@@ -280,7 +280,7 @@ Saying: — " O king! may wisdom be thy guide!
 " They will at once bring forth the dust (of destruction) from the world.
 
 " Yes; if they had possessed fear of us,
-" The (coining of the) mediator (Tiitiya-Nosh) would have placed obligation upon them (and they would have considered his coming gain).
+" The (coining of the) mediator (Tutiya-Nosh) would have placed obligation upon them (and they would have considered his coming gain).
 
 " Of what use is the coming of a mediator, when they are very senseless?
 " And, — if thou desirest truth — are mediator-slayers!
@@ -413,7 +413,7 @@ The sound of the drum began to throb.
 The clamour of the trumpet of shrill sound,
 (Was) like the trumpet (tumult-exciting) of (the angel) Irafil on the Resurrection Day.
 
-On account of the clamour-bringing forth of the ox-tail (the Runrish trumpet),
+On account of the clamour-bringing forth of the ox-tail (the Rumish trumpet),
 The power of Taurus (alarmed) became lost from the sky.
 
 Drums of wolfish hide, by reason of tumult,
@@ -459,7 +459,7 @@ Within the centre of the army Sikandar, (son) of Faylikiis,
 Drew up a wing, like a bride (in splendour).
 
 The chief of the army of the men of Zang, of pitch colour,
-Brought forward a wing of an army like the mountain Besitiin (hard).
+Brought forward a wing of an army like the mountain Besitun (hard).
 
 The ranks of terrible elephants, in one place a crowd;
 Like the circumference of a declivity (and like) the loins (flanks) of a mountain.
@@ -594,7 +594,7 @@ A Yaman sword, with poison- water boiling,
 Suspended, sword-belt-like, from his shoulder-side:
 
 (And) a noose, curved like the eye-brow of the people of Tughmach,
-In curvature like the bow-corner (bow-horn) of the men of Ohach:
+In curvature like the bow-corner (bow-horn) of the men of Chach:
 
 He cast a (padded) cloth over the back of his bay horse;
 (And) that warrior of elephant-strength came to the saddle:
@@ -623,7 +623,7 @@ He shouted at him, saying: — " O old crow (black of body, great of age)!
 " Rust falls on the mirror-like sword, —
 " I am that mirror (lustrous sword); for from me (by continuous warfare) rust has fallen.
 
-'' Riimish white lead takes away eye-pain (and eye-redness);
+'' Rumish white lead takes away eye-pain (and eye-redness);
 "' My sword takes through fear redness (ruddiness) from the yellow (black) face.
 
 " "Why boastest thou, saying, — I am the demon, man-devouring?
@@ -686,7 +686,7 @@ He opened his tongue with a handful of boasting,
 Saying: — " The black cloud has come from the mountain (army) of Zang;
 " It rains not, save dragons and crocodiles (sword-blows):
 
-" I am Siya Giila of hero-arm (powerful);
+" I am Siya Gula of hero-arm (powerful);
 " Am equal in the balance to the ponderous mountain:
 
 " Pluck up the elephant's neck from the body;
@@ -698,7 +698,7 @@ Saying: — " The black cloud has come from the mountain (army) of Zang;
 When that world-seeker (Sikandar) saw that that foolish speaker
 Made his own navel (person) musk-smelling (odoriferous) with (his own dried) blood.
 
-He raised the sword-point against his (Siya Grtila's) neck;
+He raised the sword-point against his (Siya Gula's) neck;
 And cast down his head from that foolish talking.
 
 A. powerful black, more terrible than that one,
@@ -1042,7 +1042,7 @@ They were not effective against the lord of the throne (Sikandar).
 The king of lion-boldness against that one of elephant-strength (Palangar)
 Raged like the lion over the hunting of the wild ass:
 
-Called first to mind the Shelter-giver (Grod);
+Called first to mind the Shelter-giver (God);
 Resolved on thorough success:
 
 Made assaulting for battle with the Zangi.
@@ -1093,7 +1093,7 @@ The house (of the brain) void of the chattel of wisdom.
 By the encouraging of the brave chiefs (of Rum)
 The (weak) wild ass (the Riimi) became bold in contest with the (powerful) lion (the Zangi).
 
-From (their) uttering: — " Hiiy! " and again: — " Han! "
+From (their) uttering: — " Huy! " and again: — " Han! "
 Tumult brought forth its head (appeared) from the midst (of the men).
 
 When the conflict of the two armies passed beyond limit,
@@ -1167,8 +1167,8 @@ He filled many ox-hides.
 Of camphor, silver-like (white), the plain (was) wearied;
 Of silver, camphor-like (white and pure), a hundred mountain-fragments.
 
-Yerily, those huge elephants, treasure-drawing;
-Yerily, those Arab-steeds, peacock-like (in beauty and decoration).
+Verily, those huge elephants, treasure-drawing;
+Verily, those Arab-steeds, peacock-like (in beauty and decoration).
 
 Many captives of Greece and Barbary
 Surpassed (in beauty) the moon and Jupiter.

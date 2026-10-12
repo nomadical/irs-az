@@ -25,7 +25,7 @@ Saying, — Of all the crown-possessors of Rum,
 There was one, of that land and clime, favoured by fortune.
 
 A renowned king,— his name Faylikus (Philip of Macedon),
-Rum and Riiss accepters of his command.
+Rum and Russ accepters of his command.
 
 His abode was in the Greek-land;
 His place (dominion) more particularly in Makedonia.
@@ -174,7 +174,7 @@ An incliner from theory to practice.
 Mercury hastened to the Gemini;
 The Moon and Venus in the mansion of the Bull consorted:
 
-Jupiter adorned Saggitarius;
+Jupiter adorned Sagittarius;
 Saturn (was) as a sporter in Libra:
 
 Mars (the soldier of the sky) made the sixth mansion (Capricorn) his dwelling;

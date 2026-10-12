@@ -12,7 +12,7 @@ sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
 status: DRAFT
 ---
-O Thou from whom the universe exists, before whom naught that being bas bas been!
+O Thou from whom the universe exists, before whom naught that being has has been!
 
 Beginning of all things when things began, and at the end the End of ever 3 rthing!
 
@@ -36,7 +36,7 @@ First of the First Thou if we reckon back; Last of the Last, too, at the end of 
 
 By Thee the being of aU (things) is formed; to Thee is the return of aU, to Thee.
 
-To Thy sublimity thought bas no path, decadence’ dust can never touch Thy door.
+To Thy sublimity thought has no path, decadence’ dust can never touch Thy door.
 
 Thou wast not bom, (all) others have been horn; Thou, Thou art God, (all) others are (but) air.
 
@@ -46,13 +46,13 @@ But he whose head’s unfit to bow in prayer, his door is fastened up by lock on
 
 Thou makest dawn illuimner of night, bird to the day, and food to bird Thou giv’st.
 
-Unto the sun and moon Thou bast consigned two (lofty) tents (in colour) white and black.
+Unto the sun and moon Thou hast consigned two (lofty) tents (in colour) white and black.
 
 Both day and night are travellers on Thy path, they wear the ring of bondage at Thy court.
 
 They do nor good nor ill till Thou command; no act perform on their authority.
 
-Thou bast enkindled in the brain (the light of) intellect, more shining than a lamp.
+Thou hast enkindled in the brain (the light of) intellect, more shining than a lamp.
 
 But yet with aU its keenness ’his (confined) to its own place, ’his senseless as to Thee.
 
@@ -60,9 +60,9 @@ The intellect breaks down upon Thy path; life passes off in efforts to approach.
 
 The soul’s a substance, and ’his in our frame, (but yet) no person knows where is its place;
 
-Thou art no substance, and Thou bast no place; how can distraught conjecture reach to Thee?
+Thou art no substance, and Thou hast no place; how can distraught conjecture reach to Thee?
 
-Thou art a Guide, there is no guide to Thee; in every place art Thou, but bast no place.
+Thou art a Guide, there is no guide to Thee; in every place art Thou, but hast no place.
 
 We who are of the seven heavens a part, with Thee are outside, outside of the seven.
 
@@ -120,7 +120,7 @@ E’en if through Thee this aim I gain not, still with no self-interest I’ll a
 
 If I discourse of secrets to the world I meet with scorn, but honour, if to Thee.
 
-Since at Thy door Nizami bas arrived, drive him to no one’s door away from Thee.
+Since at Thy door Nizami has arrived, drive him to no one’s door away from Thee.
 
 In lordship give his mind exaltitude by giving him the diadem, content;
 

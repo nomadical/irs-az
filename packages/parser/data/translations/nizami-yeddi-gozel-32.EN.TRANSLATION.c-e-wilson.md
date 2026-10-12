@@ -160,7 +160,7 @@ They judged it well to be at peace with him, because they found him of congenial
 
 They were rejoiced to have him as a friend, and set to work to free him (from bis bonds).
 
-They loosened from bis bands and fret the bonds, and planted kisses on his bands and fret.
+They loosened from bis bands and feet the bonds, and planted kisses on his bands and feet.
 
 Many apologies they made to him, and in attention to bis business joined.
 
@@ -252,7 +252,7 @@ The milky stream wMch Shirins’s palace had, in that delightful, pleasant basin
 
 The master saw; no self-control remained; but what avail? he had no friend or help.
 
-He was as thirsty man to reason lost who water sees he bas no power to reach;
+He was as thirsty man to reason lost who water sees he has no power to reach;
 
 Or epileptic who the new moon sees, and now jumps up and now sits down again.
 
@@ -446,7 +446,7 @@ Saccharum cum saccharo indurate miscere voluit, et salice rubra tulipas sanguine
 
 It is not well you offer me false tones; I will not cease to play true tones for you.
 
-O you whose every throw bas been unfair, as one who throws with fairness make a throw.
+O you whose every throw has been unfair, as one who throws with fairness make a throw.
 
 A moth is left (here) anxious for the light; a thirsty one far from the fount of life.
 
@@ -528,7 +528,7 @@ Covered with shame at their severe reproofs, receiving blows from this one, slap
 
 He said. Beware (now)! Take your hands from her! Do not distress (my) friend who is distressed.
 
-Since from a (radiant) Moon no sin bas come, (so) must you sing a better air to her.
+Since from a (radiant) Moon no sin has come, (so) must you sing a better air to her.
 
 If in such want of faith be any sin, hands should be laid on those ashamed (of it).
 
@@ -548,7 +548,7 @@ He whom the demon brings not to his aims is good in grain, naught that is good d
 
 A beauty with so fairy-hke a face, — no person can refrain from loving her:
 
-(No man), especially, who bas some youth, the feelings of a man, some love in him.
+(No man), especially, who has some youth, the feelings of a man, some love in him.
 
 But sthl when chastity protects the road, one cannot (think of) going to meet sin.
 
@@ -556,7 +556,7 @@ No one can eat fruit from the fruitful tree on wMch a single evil eye may look:
 
 The eyes of hundred kinds of beasts of prey (were) on us, hence our business turned out ill.
 
-What’s gone bas gone, of that I will not speak; thus will I spoil not that wMch (stiH) I have.
+What’s gone has gone, of that I will not speak; thus will I spoil not that wMch (stiH) I have.
 
 I now repent of (aU) both Md and clear, and from the Buler of the world accept
 

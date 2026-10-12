@@ -24,7 +24,7 @@ The officer was by his stirrup then; when from the king he heard such-like adche
 
 He kissed the ound, and showed (him) reverence; he said, O king, who cherish (all your) slaves.
 
-Your slave bas an estate which is your gift; its chann is from the vase whence flows your wine.
+Your slave has an estate which is your gift; its chann is from the vase whence flows your wine.
 
 (So) if the monarch should approve the place, and will exalt his lowly, humble slave,
 
@@ -156,7 +156,7 @@ The beauty, silver-formed, bowed low to him, with invocation true to what was du
 
 She said, The king owes much (for having said). The ox is practice, the wild ass is not.
 
-I who (can) ca: to the roof an ox — for “ practice ” only credit bas been given.
+I who (can) ca: to the roof an ox — for “ practice ” only credit has been given.
 
 Why when you hit a little onager, should no one use the expression “ practice ” too?
 

@@ -16,7 +16,7 @@ The next day, when this soldier of sultan-pomp (the sun)
 Struck up his mountain-like hump (arose) from the sea of Chin (his place of rising),
 
 Both armies inclined to blood;
-They upreared the standard like (the mountain) Besitiin,
+They upreared the standard like (the mountain) Besitun,
 
 The cloud (the troop of warriors) from the sea (the two armies) began to thunder;
 The lion (the warrior) put forth bis head from every forest (body of troops).
@@ -43,7 +43,7 @@ Came, — a mace raised to the shoulder, —
 From seeing whom the sense of the brain departed.
 
 This one (Firanja) displayed his mace in rage;
-That one (the Rurni) placed a mace on his shoulder.
+That one (the Rumi) placed a mace on his shoulder.
 
 Their maces became together a (narrow) door of two leaves,
 In that door, their striving became great.
@@ -102,7 +102,7 @@ That he brought forth the dust (of destruction) from that ravening Hon.
 When the enemy (Shirvah) in that foot-stumble fell, —
 His brain with the hoof of the noble steed, he ground.
 
-Of many (Riimish) heroes of those neck-extenders,
+Of many (Rumish) heroes of those neck-extenders,
 The mark he struck on ice (effaced) from cold love.
 
 When Davali saw such a great champion (Jaram),

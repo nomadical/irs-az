@@ -335,7 +335,7 @@ For he regarded the enemy's (Sikandar' s) argument strong.
 In that quarrel the world-possessor, Dara,
 Sought assistance from the men of Iran;
 
-From China, and Khwarazm, and Grhuznin, and Ghiir,
+From China, and Khwarazm, and Ghuznin, and Ghur,
 The ground became of iron from the hoof of the war-steed.
 
 He (Dara) collected an army like the mountain of Kaf,
@@ -350,7 +350,7 @@ Nine hundred thousand came into (his) reckoning.
 no When the world-seeker (Dara) beheld that by his (countless) army
 His country kept raising the wave of the sea.
 
-He urged an army like fire (the desolator) towards Riim;
+He urged an army like fire (the desolator) towards Rum;
 Wherever he went he called the owl for that (prosperous) land (now desolate),
 
 He entered (the land of) Arraan like the raging sea;

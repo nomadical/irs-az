@@ -15,7 +15,7 @@ status: DRAFT
 Come, cup-bearer! of the wine (of senselessness), sweet and fresh,
 Mix one draught, love-cherishing.
 
-Grive that draught, heart-ravishing, to the thirsty one;
+Give that draught, heart-ravishing, to the thirsty one;
 For the thirsty one has no patience as to the draught.
 
 O world-tried old man (Nizami)! bring wild rue (of devotion, calamity-repelling);
@@ -84,7 +84,7 @@ Used to run -with wantonness from every direction:
 Like the fire-worshipper, red wine uplifted;
 In memory of the fire-worshippers, neck-exalted.
 
-Tabriz (called by Arabs — Azarbfjan, and by Persians — A'zarabad), and
+Tabriz (called by Arabs — Azarbijan, and by Persians — A'zarabad), and
 
 From the (book) Barzin of the villager (the fire-worshipper) and the sorcery of the Zand,
 A smoke (of the sigh of love for the brides) brought forth to the lofty sky.
@@ -228,7 +228,7 @@ All — the calamity of the eye and the torment of the heart;
 The foot (of the heart) of every rose descended in the clay (of love).
 
 Among them a girl, a sorceress of the lineage of Sam (son of Nub);
-The father named her — " Azar-Humayiin."
+The father named her — " Azar-Humayun."
 
 When that heart-ravisher uttered sorceries,
 She used to take sense from the heart; patience from souls.

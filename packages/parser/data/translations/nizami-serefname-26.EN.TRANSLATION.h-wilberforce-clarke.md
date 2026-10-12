@@ -128,7 +128,7 @@ That silver (the constellation, scattered) like grain became the cake (collected
 The two armies, mountain-like, came into motion,
 From which motion the world became distressed.
 
-The king (Dara) of the lineage of Firidiin (and) the stock of Bahman,
+The king (Dara) of the lineage of Firidun (and) the stock of Bahman,
 When he arose in the early morning,
 
 Of the army, in the order of battle, all the weapons,
@@ -173,7 +173,7 @@ The (sound of the) Resurrection Day reached the ear of the sky.
 The kettle-drum roared like the angry lion;
 The bold dragon (of the standard) began to dance (to flutter in the breeze).
 
-From the screaming of the tube of the (Riimish) trumpet,
+From the screaming of the tube of the (Rumish) trumpet,
 Fever-trembling fell upon the hand and the foot.
 
 From the clamour of the brazen bowl (the great drum), from the back of the elephant,
@@ -332,7 +332,7 @@ Verily, the gnat displayed force against the elephant.
 The snake (having devoured him) reposed by Bahman's arm (in his castle);
 Isfandiyar fell (by Rustam's arrow) from (the fort of) Ruyindizh.
 
-The spring of Firidiin and the rose-bed of Jamshid
+The spring of Firidun and the rose-bed of Jamshid
 Became, by the autumn wind, the prey of grief:
 
 The recorded lineage (the Ikbal Nama) of the empire of Kaykubad
@@ -356,7 +356,7 @@ The luminous day (Sikandar) established the dark night (Dara). —
 That sleeping (powerless) body (Dara's), eye-closed,
 To it he (Sikandar) said: — " From this blood and dust arise! "
 
-Dizh Ruyi'n was a fortress (said to be near Ardabfl) in Turan, beyond
+Dizh Ruyi'n was a fortress (said to be near Ardabil) in Turan, beyond
 the Oxus, the capital of Arjasp, Afrasiyab's grandson.
 
 " Release me (move me not); for release (from death) remains not in me;
@@ -387,7 +387,7 @@ the Oxus, the capital of Arjasp, Afrasiyab's grandson.
 " At such a monarch, in such abjectness!
 
 " Free me from pain in this imprisoned state,
-" Mention me for the pardon of Grod.
+" Mention me for the pardon of God.
 
 " I am earth's crown, summit-sitting,
 " Cause me not to tremble, that the earth may not tremble.
@@ -544,7 +544,7 @@ Thou bring not injury when thou art ruler.
 " Turn not thy resplendent heart from Roshanak;
 " For possessed of splendour the sun is best."
 
-Sikandar accepted from him Avhatever he said;
+Sikandar accepted from him Whatever he said;
 The accepter (Sikandar) arose; the speaker (Dara) slept (in death).
 
 To the sphere ascended blackness and blindness,

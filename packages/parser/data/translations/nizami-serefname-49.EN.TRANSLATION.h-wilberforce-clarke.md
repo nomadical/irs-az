@@ -79,7 +79,7 @@ Ranks arrayed for slaying without mercy,
 In rear of the elephant (were) the warriors, thunder-shouting.
 
 The king of elephant-body, possessed of a thousand hopes (born of his courage and of the bravery of his troops),
-Bound his loins on the back of a white elephant (given by Xaid).
+Bound his loins on the back of a white elephant (given by Kaid).
 
 On the other side the Russians, red of face,
 Illuminators, like the place of adoration (the fire) of the Magi.
@@ -87,7 +87,7 @@ Illuminators, like the place of adoration (the fire) of the Magi.
 The right (wing), arrayed with the men of Khazran;
 From the left, the shout of the men of Purtas excited.
 
-In rear, the men of Alan; on the wing the tribe of Isii,
+In rear, the men of Alan; on the wing the tribe of Isu,
 The casting of the (enemy's) head (slaying) rendered lawful (obligatory) to themselves.
 
 Otherwise: —

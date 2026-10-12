@@ -80,7 +80,7 @@ Although that formula made fierce attack, his joy (at once) increased a hundredf
 
 Since it ensured a long and happy life, and gave him hope of gaining his desire. —
 
-For the conciliation of a man all that which makes him hopeful bas effect. —
+For the conciliation of a man all that which makes him hopeful has effect. —
 
 When the prince left the room he locked it up, and gave the key to its custodian.
 

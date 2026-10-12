@@ -81,7 +81,7 @@ With this dragon (sword), I will seize the moon (Dara).
 From the history of Jamshid the king, readest thou not,
 How that (mean) dragon (the sword of the men of Zuhhak) swallowed the (great) moon (Jamshid)?
 
-To that man of dragon-form (Zuhhak), — Fhidun,
+To that man of dragon-form (Zuhhak), — Firidun,
 What he also did by his dragon-power.
 
 By the holder of the sky and the earth (God),
@@ -142,7 +142,7 @@ With a deadly snake like me, display not deceit;
 Display contest, display not sorcery.
 
 Out of my kingdom, — my fief, thou givest;
-(As if) out of Yaman, — the assignment of Oanopus thou should give.
+(As if) out of Yaman, — the assignment of Canopus thou should give.
 
 It is not proper to give to the buffalo cheese-water,
 In which it may find a drop of its own blood.

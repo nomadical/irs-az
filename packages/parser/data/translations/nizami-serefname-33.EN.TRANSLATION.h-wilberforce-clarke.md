@@ -70,7 +70,7 @@ Better than that, would be the decoration of the sleeve.
 Yes; if leisure were the king's,
 He would give a new adornment to that place.
 
-In the beginning of occupation, its name was Hariim;
+In the beginning of occupation, its name was Harum;
 Now, the teacher calls it Burda'.
 
 In that prosperous soil (now desolate) the place of the great,
@@ -175,7 +175,7 @@ But none (of them) sees her face.
 " Beneath the azure sphere, they have not
 " A companion (a man) save the wine-cup and the sound of music.
 
-" A. woman (Niishaba), pure (kind) to kindred, mandate-issuer,
+" A. woman (Nushaba), pure (kind) to kindred, mandate-issuer,
 " Keeps passion fettered against them.
 
 " Has (her own) idol (pictured)-houses (in the fashion) of palace and villa,
@@ -415,7 +415,7 @@ Saying: — " The world-king, the ruler of good fame (Sikandar),
 " Now meet me (at court) with true judgment.
 
 " Beholding thee with wisdom and judgment, — to me
-" Is more auspicious than the magnificence of the (bird) Huina.
+" Is more auspicious than the magnificence of the (bird) Huma.
 
 " Act so that to-morrow, at assembly-time,
 " Thou mayst move proudly towards the monarch's assembly."
@@ -468,7 +468,7 @@ The world-possessor said: — " O lady of throne!
 " At his court, — more than that are the (wise) men,
 " That for him it should be necessary to make foot-toil (in coming)."
 
-Again the wise TsTiishaba
+Again the wise Nushaba
 Took off the lock from her own sweet lip,
 
 Saying: — " Be not deceiving beyond this;
@@ -552,7 +552,7 @@ He refrained altogether from an answer:
 Feared, and the colour of his face beca'me like straw;
 Took his shelter in the keeper (God) of himself.
 
-When Niishaba perceived that that fierce lion
+When Nushaba perceived that that fierce lion
 Trembled, she came from beneath (the assumption of) severity.
 
 To him she spoke, saying: — " O prosperous king!
@@ -759,7 +759,7 @@ Of every cooked lamb, some kinds:
 The pan-cake, a thin cake, round in form,
 From the circuit of the royal pavilion to the circuit of the street (so many were the cakes):
 
-Yerily, the pellet, sugar-mixed,
+Verily, the pellet, sugar-mixed,
 Sprinkled like sesame-seed, on those round cakes:
 
 Victuals, delicious, ambergris in nature,
@@ -810,7 +810,7 @@ To Nushaba the king spoke, saying: — " O simple heart!
 " Bring a kind of food which one can eat,
 " To which one can extend the hand with pleasure."
 
-Niishaba laughed in the king's face,
+Nushaba laughed in the king's face,
 Saying: — " When to the throat no path is the stone's,
 
 " For the stone (wealth) unfit for food, why
@@ -834,14 +834,14 @@ Saying: — " When to the throat no path is the stone's,
 From the reproaching of that pleasant-speaking woman,
 The king performed hand- washing at the uneaten food-tray.
 
-To Niishaba he said: — " O potentate of ladies!
+To Nushaba he said: — " O potentate of ladies!
 " Better than lion-men with sense and power,
 
 " Thou utteredest the pleasing speech that — the jewel-worshipper (the lover of the world)
 " Acquires naught save stone from the jewel;
 
 " But then this point would have been true
-" That the speaker (Niishaba) should not first have sought the jewel (Sikandar).
+" That the speaker (Nushaba) should not first have sought the jewel (Sikandar).
 
 " If a jewel be mine on the cap (the crown),
 " A monarch's crown should not be void of gems.
@@ -1017,7 +1017,7 @@ Saying: — " To night it is unnecessary (for you) to go to the city.
 " This is the command — that, to-morrow, early in the morning,
 " We will make a banquet from the fish (beneath the earth) to the moon (in the sky).
 
-" According to the custom of Firidiin and the usage of Kay Khusrau (Cyrus),
+" According to the custom of Firidun and the usage of Kay Khusrau (Cyrus),
 " We will take justice (the desire) of our heart from music and wine.
 
 " Perhaps when fire (ruddy wine) leaps (runs over) from the cup,

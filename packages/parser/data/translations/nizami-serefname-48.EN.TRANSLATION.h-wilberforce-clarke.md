@@ -18,7 +18,7 @@ Give me, if solicitude for a husband be hers.
 I will perform hand-washing with pure (wine of senselessness) from the impure (apparent wine);
 To the virgin like this, it is proper to draw the hand (washed as regards all other virgins)!
 
-l Again the nightingale (Mzami) has entered the garden (of sweet speech);
+l Again the nightingale (Nizami) has entered the garden (of sweet speech);
 The Pari (Nizami) has come before the luminous lamp (of sweet speech).
 
 My (poetic) fancy makes the Pari-form (presents the beauteous form);
@@ -33,13 +33,13 @@ Who bring the luminous gold (lustrous speech) from the dark mine (the dusty body
 The representer of the detail of this history
 Represented to the lord of the marches in this fashion,
 
-Saying: — When the world - king, the sage of Riim (Balinas)
+Saying: — When the world - king, the sage of Rum (Balinas)
 Ordered that he should make wax (an image out) of the (black) stone,
 
 By its own beauteousness, that desired image
 Became adorned like a turquoise picture.
 
-The delineator (Baliuas) made it of such beauty
+The delineator (Balinas) made it of such beauty
 That he fastened the silk (of shame and envy) upon the painting (of beauty) of the Turkans (the lovely women of Khifchak).
 
 When the form-displayer (Balinas) set up the form (of the tilism),
@@ -249,7 +249,7 @@ Nayal, the hero of the land of Kha varan:
 Davali of Abkhaz, and Hindi of Ray;
 Kubad the Vali of Usturakh, of the kindred of Kay:
 
-Suhayl of Khurasan, and Kiim of 'Irak,
+Suhayl of Khurasan, and Kum of 'Irak,
 Barisal of Arman, — in this league (of waging war):
 
 From Greece, and Europe, and Egypt, and Syria, — (numbers),

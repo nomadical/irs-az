@@ -105,7 +105,7 @@ Not to such a degree that we make the body of the food of the fire (of avarice).
 The breath, which is the capital of life,
 To give with bitterness (to respire bitter breath, to acquire great riches) — is not happiness.
 
-Express this breath in such a way that thou mayst give it justice (in remembering Grod),
+Express this breath in such a way that thou mayst give it justice (in remembering God),
 For the wind takes it if thou give it to the wind (of bitterness in acquiring more wealth than necessary).
 
 Sacrifice the diram (expend but little); prepare for heart-happiness;
@@ -175,7 +175,7 @@ Saying: — " To-night, through gladsomeness, there is freshness for the world;
 " The light strikes up the wave from the luminous world.
 
 " When the morning breeze comes to embroidery (grass-producing),
-" The earth produces Riimish, and the atmosphere Shustari.
+" The earth produces Rumish, and the atmosphere Shustari.
 
 " When the red rose establishes a pavilion (blossoms) in the garden,
 " It illumines a hundred lamps with every rose-bud (of its own).
@@ -189,7 +189,7 @@ Saying: — " To-night, through gladsomeness, there is freshness for the world;
 " If the king be more lofty than Jamshid,
 " My face is more adorned than Khurshed (Jamshid's mistress).
 
-" If the king be Firidiin of golden shoe,
+" If the king be Firidun of golden shoe,
 " For his victory, I am the standard of Kavah.
 
 " If the king be a Kay Kubad of lofty diadem,

@@ -18,11 +18,11 @@ Again, by great exertion, like the wise, to patience he constrained bimseK forth
 
 Such heat (of anger) led him not to haste; he first reflected, then gave answer thus:
 
-How that the letter bas been read I’ve heard that which the writers in the letter wrote.
+How that the letter has been read I’ve heard that which the writers in the letter wrote.
 
 Although the writer was not dexterous, the counsel is not void of standard worth.
 
-That which bas been expressed by noble sense I (must) applaud, ’his worthy of applause. —
+That which has been expressed by noble sense I (must) applaud, ’his worthy of applause. —
 
 I, to whom earth and silver are the same, would not stoop down to (take) the Seven Climes.
 
@@ -38,13 +38,13 @@ My father is not I, I am not he; if he was stone, I am (not stone, but) gem.
 
 The lustrous dawn arises from the night; the clear and lucent ruby’s bom of stone.
 
-’Tis Ol to testify against my sice, for God bas now delivered you from him.
+’Tis Ol to testify against my sice, for God has now delivered you from him.
 
 If he did ill, since he is well asleep — one must not (ever) speak ill of the dead.
 
 Let reason guide — the evils that ensue on evil speech proceed from hearing it.
 
-(For) everyone whose nature is corrupt says something worse than that which he bas heard.
+(For) everyone whose nature is corrupt says something worse than that which he has heard.
 
 (So) think no more about my father’s sin, and dwell no longer on my want of care.
 
@@ -56,9 +56,9 @@ The fortunate whom luck befriends — their sleep is not beyond the proper time 
 
 ’Tis better that (their) eyes strive not with sleep — they (well) may sleep, but let them rise in time.
 
-Although my sleep bas been a heavy sleep, fortune bas not been absent from my side.
+Although my sleep has been a heavy sleep, fortune has not been absent from my side.
 
-Fortune bas, in its kindness, wakened me; I’m (now) awakened from my heavy sleep.
+Fortune has, in its kindness, wakened me; I’m (now) awakened from my heavy sleep.
 
 Henceforth (my) face is turned to good (alone); (my) heart is void (now) of aU neghgence.
 
@@ -92,7 +92,7 @@ The king thus spoke; opinions were compared; the oldest priest then stood up fro
 
 He said, You in your lordliness are wise and giver, too, of wisdom (to us aU).
 
-AH you have said in your well-ordered sense reason bas graven on the ring, the heart.
+AH you have said in your well-ordered sense reason has graven on the ring, the heart.
 
 The highest place befits you, for of all you’re chief, the shepherd, guardian of the flock.
 
@@ -106,7 +106,7 @@ Fresh fruit are you from (King) Siyamak (too); a living record, you, of Babak’
 
 Allied to throne and crown your lineage goes back to (King) Kayumars, king by king.
 
-Dominion bas no option as to you, (for) save you there’s no monarch in the world.
+Dominion has no option as to you, (for) save you there’s no monarch in the world.
 
 The priests all, whether they be young or old, agree in this (as) with a single tongue.
 
@@ -120,7 +120,7 @@ We must now have some strong and valid plea to save us from the infring ement of
 
 So that in this affair we be not shamed; the compact be not broken, we not grieved.
 
-Eing Bahram when he heard this (last) reply, gave to them such an answer as was meet.
+King Bahram when he heard this (last) reply, gave to them such an answer as was meet.
 
 He said, Your plea is not admissible; ’his best the man of wisdom keep good faith.
 
@@ -134,23 +134,23 @@ A king, a son of kings to Jamshid back am I, and I inherit all control.
 
 The crown and throne are symbols, not control — what matters whether symbols be or not?
 
-Whoe’er bas worn the crown, sat on the throne — his crown’s the heavens, and his throne’s the earth.
+Whoe’er has worn the crown, sat on the throne — his crown’s the heavens, and his throne’s the earth.
 
 Afridun’s crown and Jamshid’s (lofty) throne have, neither, lasted till the present time.
 
-Whoe’er bas had (intrinsic) rank bas risen, and for himself bas made a crown and throne.
+Whoe’er has had (intrinsic) rank has risen, and for himself has made a crown and throne.
 
 I w'ho (though) crownless, throneless, know the way, possess a sword. I’ll take them by the sword.
 
-Although a traitor bas usurped my place; a spider o’er a cave bas spun (a web),
+Although a traitor has usurped my place; a spider o’er a cave has spun (a web),
 
-A dragon (now) bas reached the cavern’s mouth, and entrance from the spider will demand.
+A dragon (now) has reached the cavern’s mouth, and entrance from the spider will demand.
 
 How should an ant belong to Gabriel’s kind, or gnat resist the foot of elephant?
 
 The wild ass boldly lets its bray be heard only until the lion’s trumpet blares.
 
-A contest with an ant would to the worm, which bas no force, appear a dragon’s act.
+A contest with an ant would to the worm, which has no force, appear a dragon’s act.
 
 The ass, which is submissive with adults, with children is unruly and perverse,
 
@@ -178,7 +178,7 @@ I am the king, and others are (my) slaves; those other ones are empty, I am full
 
 A king (who is a king) should muster troops; what dust can from a single horseman rise?
 
-The wine the Magian elder bas put down be only to the Magian elder given.
+The wine the Magian elder has put down be only to the Magian elder given.
 
 (From) what I’m saying, you (may) know full well, I seek to act with rectitude and truth;
 
@@ -220,7 +220,7 @@ That mounted hero is a lion bold and fierce; he hunts the dragon with a shaft.
 
 When the fierce lion stretches out his claws, to stand against him none will. have the power.
 
-He forcibly will seize the throne and crown; he’U drag the leaders at his horse’s fret.
+He forcibly will seize the throne and crown; he’U drag the leaders at his horse’s feet.
 
 ’Tis best that we arouse him not to warmth; (’his best) we light not an extinguished jfire.
 

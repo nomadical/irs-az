@@ -197,7 +197,7 @@ From it another tent-rope reached to the west.
 the two tribes, Ya,juj (Gog) and Ma,juj (Magog), the offspring of Yafar,
 the son of Nub (on him be peace!), might not intrude. Sale's Kuran,
 
-Nama,e bahri); and the Shah-Nama, by Firdausf.
+Nama,e bahri); and the Shah-Nama, by Firdausi.
 
 Within this workshop (of the world) as regards (measuring) this length and breadth (of the world);
 To whom other (than he) was such power?

@@ -127,7 +127,7 @@ And than that (Makhzan), evoked (a work) more lustrous and pleasing;
 I saturated (my soul) with (the tale of) Shi'rin (the lady) and Khusrau Parviz (the king).
 
 And out thence, I pitched the screen (completed the tale);
-Knocked at the door of the love of Laila and Majniin.
+Knocked at the door of the love of Laila and Majnun.
 
 "When I completed that tale,
 I urged the steed (of eloquence) towards " the Haft Paikar."
@@ -147,7 +147,7 @@ Tracked out the fountain of life (the water of immortality):
 Wandered, so that by the path of good-fortune,
 He might, by the fountain of life, become living:
 
-Sought the road to the fountain of life (Nizaini's lustrous verse),
+Sought the road to the fountain of life (Nizami's lustrous verse),
 — Found now that fountain, which then he (vainly) sought.
 
 Emperor Maurice.

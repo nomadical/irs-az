@@ -60,7 +60,7 @@ They made an onslaught like the strong and stout, with daggers in their claws, s
 
 To seize the head of him the crown adorned, reduce the taker of the world to straits.
 
-When King (Bahram) resolved to punish them, he threw the heads of both beneath his fret.
+When King (Bahram) resolved to punish them, he threw the heads of both beneath his feet.
 
 He tore their claws and broke their teeth, and saved from ’twixt the Hons both his head and crown.
 

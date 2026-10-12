@@ -34,7 +34,7 @@ Dishonesty will lead to iU-repute; an evil end will wait on evil deeds.
 
 The tyrant who brings trouble in that way, thus to the tomb the just will bring him down.
 
-Beware of saying justice bas no aid; the heavens and earth are in this work engaged.
+Beware of saying justice has no aid; the heavens and earth are in this work engaged.
 
 Whoe’er the nails of malice seeks (to strew), puts chains and fetters on his arms and legs.
 

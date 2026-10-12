@@ -27,7 +27,7 @@ Conversation with myself is enough for me:
 If a purchaser (a seeker of verse) come from the far road,
 That he may become fellow-sitter with the mine of jewels (Nizami);
 
-May behold the treasure (the verse) of Mzami;
+May behold the treasure (the verse) of Nizami;
 May make joyousness in the feast of speech,
 
 Say: — " The master of the house (Nizami) is not at home;
@@ -46,7 +46,7 @@ Open the house-door and sprinkle water;
 In a great waste, pitch a great tent (for hospitality) like the moon (light-giving).
 
 Permit — that the searchers come,
-(And) look at the king of speakers (JSTizami).
+(And) look at the king of speakers (Nizami).
 
 For to-morrow, when I bring my face within the veil (of the shroud),
 I shall hasten from (my native city) Ganja (this world) to (the forest country of) Gilan (the next world).
@@ -63,7 +63,7 @@ Where was the steed (of speech)? where have I urged?
 The representer of adorned treasure (the tale of the Khakan)
 Gave of this wealth (history) a jewel (of speech) like this,
 
-Saying: — When the heir (the Khakan of Chin) of the country of Afrasiyab (Tiiran)
+Saying: — When the heir (the Khakan of Chin) of the country of Afrasiyab (Turan)
 Raised his head like the sun from Chin,
 
 He learned that, to that land and clime (of Chin), there came
@@ -136,7 +136,7 @@ Saying: — " May praise be to thee from the Omnipotent!
 " Creation (the world) gave to thy hand the key.
 
 " Thou hast made thy dwelling from sea (in the west) to sea (in the east);
-" Over Iran and Tiiran, power is thine.
+" Over Iran and Turan, power is thine.
 
 " When thou becamest disengaged from (conquering) the compass of the west,
 " Thou castedst the standard (of victory) on the line of the east.
@@ -207,7 +207,7 @@ Make not ruined the bark of the people of Chin;
 For thy bark (of life) will also fall (founder) in the water.
 
 Be not strong of heart (fearless of retribution) though thy hand be strong,
-' For Grod's decree is higher than sovereignty.
+' For God's decree is higher than sovereignty.
 
 It is not the part of a wise man that, through impetuous judgment,
 He should make contest with the Lord of power.
@@ -338,7 +338,7 @@ Saying: — " Of advice no help is mine:
 " At this business it is improper to be astonished.
 
 " This (world-seizing), what thoughtest thou — that it is mere playing at work?
-" Yerily, this is the quintessence of working at work.
+" Verily, this is the quintessence of working at work.
 
 " Of this sort (world-seizing), is divine work;
 " Hostility (with Sikandar) is striving with God (who aids Sikandar).
@@ -436,7 +436,7 @@ In that circle remained silent (motionless) like the point (the centre).
 From the monarch the signal came to the effect,
 That: — " Deliver the message if thou hast it well (in mind)."
 
-The moon (the Kkakan), face-concealed behind the cloud (of disguise),
+The moon (the Khakan), face-concealed behind the cloud (of disguise),
 Began with the jewel (of speech) of a tongue (lustrous) like the sword,
 
 Saying: — " From the coming and the going of the king of Iran and of Rum
@@ -602,7 +602,7 @@ The shelter-seeker said: — " O world-shelter!
 " I may make the king prosperous as to his design.
 
 " If that desire be not gained by my hand,
-" Yerily, the arrow falls far from my aim.
+" Verily, the arrow falls far from my aim.
 
 " I kiss the ground in petitioning;
 " The king may perhaps become far from hostility.
@@ -712,7 +712,7 @@ Until the heavens cease from motion.
 The king ordered that the guards of the entrance
 Should make this fettered one (the Khakan) free
 
-Prom the fetter of gold; should establish his rank higher;
+From the fetter of gold; should establish his rank higher;
 Should place the crown of jewels on his head.
 
 When the Khakan' s business with the Kaysar (Sikandar) became with ceremony arranged,

@@ -60,7 +60,7 @@ When round the garden he had walked awhile, through love of it he wished to take
 
 He said, (Come) (now), your garden sell to me, that I may make you prosperous in life.
 
-I said. This garden which is (as) my soul, — how should I sell it, for it bas my love?
+I said. This garden which is (as) my soul, — how should I sell it, for it has my love?
 
 Branded is every person from some fire: — I, hapless, have, except this garden, naught.
 
@@ -80,7 +80,7 @@ So that, as fine to him for that ofience, he took away the garden from poor me.
 
 And (then), that in the court where wrongs are heard I might not bring this wrong before the king.
 
-With pain and suffering he imprisoned me: two years your humble (slave) bas suffered this.
+With pain and suffering he imprisoned me: two years your humble (slave) has suffered this.
 
 The king gave him a garden, fields as well: he gave a house and garden hke Baghdad.
 
@@ -112,7 +112,7 @@ A few days, good or evil, (passed away, whilst) he heaped wile on wile, I still 
 
 He made a pretext of some (fancied) crime, and by the pretext kept, himself, the price.
 
-(So) for my string of pearls which he had taken, he bound my hands and fret (in jail) with bonds.
+(So) for my string of pearls which he had taken, he bound my hands and feet (in jail) with bonds.
 
 He getting hold of (lustrous) pearls from me; I at his hands in torture left to stones.
 
@@ -230,7 +230,7 @@ He shouted out at me, Be silent, you 1 Scrape from your arrow-heads the rust, yo
 
 Whilst the king, dull and sour, keeps idle so, ’twixt hiTn and none does any trouble rise.
 
-No enemy bas come close to his gate, that troops and combating should be required.
+No enemy has come close to his gate, that troops and combating should be required.
 
 Do not take up the trade of idleness; make bricks and build, for you have health for it.
 
@@ -238,7 +238,7 @@ Provisions fading, trouble not too much, go sell (your) horse and saddle and (yo
 
 I said, A fierce and cruel nature shun; behold my wretchedness, have fear of God.
 
-Do not inflict by loss and poverty hardship on one who hardship bas endured.
+Do not inflict by loss and poverty hardship on one who hardship has endured.
 
 (Whilst) you stretched out your legs all night at ease, I to the sword stretched out my hand (to fight).
 
@@ -256,7 +256,7 @@ With food-dispensing now you’d saddle me,; and now you’d threaten with the m
 
 The king I seated on the throne myself; aU people on my mandates bow their heads.
 
-The heads of kings are underneath my fret; they all have life (too) by my will (alone).
+The heads of kings are underneath my feet; they all have life (too) by my will (alone).
 
 (And) if they did not take me as a friend, the vultures (surely) would devour their brains.
 
@@ -264,7 +264,7 @@ Striking me with his inkstand thus he spoke, he took my horse, accoutrements and
 
 Then after that gave me to murderers: (to be with such) he sent me to his jail.
 
-For now about six years, nay, rather more, my heart bas been distressed, my soul in pain.
+For now about six years, nay, rather more, my heart has been distressed, my soul in pain.
 
 The king with kindness gave him robe and arms. — Long live the king who kindly treats his slaves!
 
@@ -272,7 +272,7 @@ When by (his) kindness he had made him smile, he gave hi-m land of double the re
 
 When the seventh person came before (the king), he beautified his lips with praise, and said,
 
-I’m an ascetic who bas spurned the world, a pious traveller on the road of God.
+I’m an ascetic who has spurned the world, a pious traveller on the road of God.
 
 Poor, but with care for naught, and, candle-like, before the people burning self away.
 
@@ -292,7 +292,7 @@ I am suspicious of you, thus he spoke, and if I objurgate you it is meet.
 
 I said, My lord, tell me what you surmise, in order that I live as you dispose.
 
-He said, Your imprecations much I fear: that you may to your Grod pray for my death;
+He said, Your imprecations much I fear: that you may to your God pray for my death;
 
 That you through evil-nature and ill-will may call down imprecations on my head.
 
@@ -304,7 +304,7 @@ I’ll bind your hands and so prevent your prayers — not only hands, but hands
 
 By scruples unrestrained, he had me bound; he had no feeling for this soul distressed.
 
-He kept me in this anguish seven years; a lock upon my tongue, my fret in chains.
+He kept me in this anguish seven years; a lock upon my tongue, my feet in chains.
 
 He bound my hands down to prevent my prayers; (but) I have bound his hands from using power.
 

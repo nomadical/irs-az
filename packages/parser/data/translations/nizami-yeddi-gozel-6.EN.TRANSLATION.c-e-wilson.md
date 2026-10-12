@@ -14,7 +14,7 @@ status: DRAFT
 ---
 That which is new and also old is speech, and on this speech some speech is (to be used).
 
-In aU creation the creatress “ Be ” no child bas brought forth loveher than speech.
+In aU creation the creatress “ Be ” no child has brought forth loveher than speech.
 
 Beware! say not the eloquent are dead; they’ve sunk their heads beneath the stream of words;
 
@@ -22,9 +22,9 @@ Speak but the name of anyone you will; like fish he raises from the stream his h
 
 Speech, faultless like the spirit, is the guard of the (rich) treasure-house of the unknown.
 
-It knows the story wMck bas not been heard; it reads the hook which bas not (yet) been writ.
+It knows the story wMck has not been heard; it reads the hook which has not (yet) been writ.
 
-Of everything which God bas made exist — consider what remains of it save speech.
+Of everything which God has made exist — consider what remains of it save speech.
 
 The lasting monument of man is speech; those other (things) are aU (but empty) air.
 
@@ -36,7 +36,7 @@ Whoever knows his being as it is, exalted by existence is for aye.
 
 He who knows not the fashion of his make must pass, (but) he is permanent who does-.
 
-See what it is that bas this knowledge (then), (for) that which bas it is the permanent.
+See what it is that has this knowledge (then), (for) that which has it is the permanent.
 
 WHien you know well yourself you will not die, though (seemingly) at first you pass away.
 
@@ -54,13 +54,13 @@ The man of riches should be provident — so should he be, since riches may decr
 
 The man of substance is exposed to risk — the guard is wanted, thieves are on the road.
 
-The China merchant, who bas loaded musk, stores in a guarded place his musk and gum.
+The China merchant, who has loaded musk, stores in a guarded place his musk and gum.
 
 The hoopoo’s wings beneath the eagle’s wings excel in swiftness (those of other) birds.
 
 The famous from mishap are not secure, the business of the ignorant is safe.
 
-The sharp, sagacious bird in search of food finds both its fret entangled in the net.
+The sharp, sagacious bird in search of food finds both its feet entangled in the net.
 
 Where’er there’s one as gluttonous as earth, he from the earth eats (but) a stomachful.
 
@@ -76,7 +76,7 @@ All have a helper hidden (from their view): it is a friend, and one who is attac
 
 (And) that from which help comes is intellect — if intellect you have you have all (else).
 
-He who to inteUeot can not be just, bas a fiend’s nature with a human form.
+He who to inteUeot can not be just, has a fiend’s nature with a human form.
 
 The wise are angels though entitled men, and wisdom is indeed a wondrous thing.
 
@@ -106,7 +106,7 @@ Weigh not much gold before the destitute, that like a snake they writhe not near
 
 Though the wind be a breeze of New Year’s day, ’his best you light no lamp before the breeze.
 
-Man for the sake of eating bas not life, for intellect and reason is it given.
+Man for the sake of eating has not life, for intellect and reason is it given.
 
 (Even) a dog is nobler than the man who keeps his eyes fixed like an ass on food.
 
@@ -114,13 +114,13 @@ Strive earnestly to be of use to aU, that you by service may adorn the world.
 
 ’Tis best to have good nature like the rose, that one may be sweet-scented in the world.
 
-Perchance you’ve heard what once a wise man said: Who goes to sleep good-humoured bas good dreams.
+Perchance you’ve heard what once a wise man said: Who goes to sleep good-humoured has good dreams.
 
 If good one’s nature at the time of birth, so is one’s nature at the time of death.
 
 But he who is with evil nature born, (e’en) with (a nature of) ill aspect dies.
 
-Practise not harshness, the harsh earth bas killed like you a hundred for a loaf of bread.
+Practise not harshness, the harsh earth has killed like you a hundred for a loaf of bread.
 
 (See) what a work it is to till the ground! Abject (enough) the worker of the ground!
 
@@ -202,7 +202,7 @@ To cure the pain of him whose stomach’s leer some “ tutmaj strips excel rose
 
 Better extract your teeth than over-eat, that as a pearl of price you be esteemed.
 
-(See how) the comb which bas a thousand teeth bas thence a hand in every person’s beard.
+(See how) the comb which has a thousand teeth has thence a hand in every person’s beard.
 
 Before the antidote the world may give, a thousand draughts of poison must he drunk:.
 
@@ -272,7 +272,7 @@ Woe to the goldsmith when the reckoning comes whose gold is not worth silver whe
 
 This fraud that’s practised by the world seems hard, that fortune comes from luck and not from worth.
 
-That keen (assayer) who is sMUed in coin bas, as a rule, not half a grain (of gold).
+That keen (assayer) who is sMUed in coin has, as a rule, not half a grain (of gold).
 
 Whilst he who cotton cannot tell from flax, and thinks “ asman ” and risman ” are the same —
 
@@ -302,7 +302,7 @@ That you may know that (in) whate’er you know you are in error quite, or you m
 
 Throw spade away, a torrent’s dug the road: how many are the diggings of the sky!
 
-The sky’s spade of the earth bas made a pit; the earth regards not such a spade (as yours).
+The sky’s spade of the earth has made a pit; the earth regards not such a spade (as yours).
 
 Consider when you first came (to the world) what you possessed of that which now you have —
 
@@ -334,4 +334,4 @@ The students of the college of God’s work, when they have learnt the lesson of
 
 Made theory the guard of practice too, and solved the secret of existing things —
 
-Each to a sleeping-place bas swept the path, and when the time of sleep bas come bas slept.
+Each to a sleeping-place has swept the path, and when the time of sleep has come has slept.

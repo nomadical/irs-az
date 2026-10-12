@@ -108,7 +108,7 @@ So in their heat and hurry on they went, slower the one behind, the leader swift
 
 Though from fatigue the former lagged behind, the leader, calling to the laggard, ran.
 
-(Stfll) in their flight the two (men) slackened not, until the (morning) bird began to crow.
+(Still) in their flight the two (men) slackened not, until the (morning) bird began to crow.
 
 The partner vanished (then) from Mahan’s sight; Mahan was (almost) crazy left astray.
 
@@ -174,7 +174,7 @@ He was a demon whom you call a man, his name (is) Ha’il of the wilderness.
 
 He who appeared a partner in your wealth, — his aim was the destruction of your life.
 
-Many a one like you bas he misled, and each of them bas died in a ravine.
+Many a one like you has he misled, and each of them has died in a ravine.
 
 I and this woman are your friends and mates; we both will be your guardians on this night.
 
@@ -244,7 +244,7 @@ Urge on the rapid courser on my road, and (fail not) in your heart (to) call on 
 
 Worn out, afflicted by the vales and caves, he mounted, (as enjoined), the swift-paced steed.
 
-Prom a low moimtain-tract there came to view a level waste, — of what kind? — like one’s palm.
+From a low moimtain-tract there came to view a level waste, — of what kind? — like one’s palm.
 
 He rode his steed so (swiftly) in his wake that (soon) the wind, (outstripped), was left behind.
 
@@ -290,7 +290,7 @@ A sore disaster under him he saw: upon a dragon found himself astride.
 
 A four-legged dragon with two wings (it was), and, stranger still, it had (too) seven heads.
 
-(A four-legged beast with four wings who bas seen? I err, a seven-headed dragon, sure).
+(A four-legged beast with four wings who has seen? I err, a seven-headed dragon, sure).
 
 The sky which is around us as a belt, — why strange? A seven-headed dragon ’his.
 
@@ -416,7 +416,7 @@ When such a paradise Mahan had found, he turned his heart from last night's hell
 
 PomegraBates, jujubes, apples, fruit on fruit, — like sappan red, like pure white sugar too.
 
-Prom the delight such honeyed draughts conferred, the smacking of his Hps came to (his) ears.
+From the delight such honeyed draughts conferred, the smacking of his Hps came to (his) ears.
 
 He ate the fruits in honeyed sweetness rich; he ate of those provisions choice as gold.
 
@@ -442,7 +442,7 @@ Put up with strangers who have suffered pain, that heaven may call you cherisher
 
 He threw the stick down from (his) hand at once; he put him at (his) ease, and sat down near.
 
-He said. Pray tell me your adventures (now): what you have seen, what bas occurred to you.
+He said. Pray tell me your adventures (now): what you have seen, what has occurred to you.
 
 What wrongs from foolish people you’ve endured, what evil, wicked men have done to you.
 
@@ -476,7 +476,7 @@ Against me came a thousand, demon-faced, in each were countless demons and wild 
 
 One dragged me, this one threw me, that one struck; demons, wild beasts, and both as bad could be.
 
-Darkness bas in the light an antidote: in blackness (also) whiteness may be seen;
+Darkness has in the light an antidote: in blackness (also) whiteness may be seen;
 
 But I saw black on black so much that I grew frightened of the pupils of my eyes.
 
@@ -490,7 +490,7 @@ Until (at last) God saved me from my woes, and changed my darkness to the Stream
 
 I found a garden sweeter than Iram; a gard’ner still more charming than the same.
 
-My terror of last night bas left me now; to-night nly wish tends towards security.
+My terror of last night has left me now; to-night nly wish tends towards security.
 
 The old man said, O you who’ve care escaped, and paradise’s sanctuary reached,
 
@@ -528,9 +528,9 @@ If your heart then had kept its normal state, your mind would not have harboured
 
 (But) since you’ve saved your life from that “ ghuls’ ” haunt, drink of the clear and pure; — no more of dregs!
 
-Think that your mother bore you but last night; that God just now bas given you to me.
+Think that your mother bore you but last night; that God just now has given you to me.
 
-This precious garden, emerald in hue, which by my heart’s blood bas been brought to hand.
+This precious garden, emerald in hue, which by my heart’s blood has been brought to hand.
 
 Is my possession incontestably; no flower but makes avowal (of the fact).
 
@@ -598,7 +598,7 @@ By no one’s courtesy be you beguiled, to anyone’ sJention give no beed.
 
 If I should come, for some assurance ask, and then ad&' me to your safe retreat.
 
-Since in all earnestness between us two a close and lively friendship bas been fixed,
+Since in all earnestness between us two a close and lively friendship has been fixed,
 
 The garden is your own, the house your house, my resting place is resting place of yours,
 
@@ -614,7 +614,7 @@ Then draw up this long leather from the ground, in order that no person may play
 
 To-night be girded ready for the snake; and in the morning with the treasure play.
 
-Although my “ halva ” bas arrived at night, its saffron in the day-time must be seen.
+Although my “ halva ” has arrived at night, its saffron in the day-time must be seen.
 
 Though like a choke-pear is the pear of night, the smiling pomegranate is in dawn’s hands.
 
@@ -622,7 +622,7 @@ The old man spoke, then to the palace went, to put a place in order for (his) gu
 
 Mahan ascended (then) the lofty tree, drew up the leathern (ladder) from the ground.
 
-He (then) sat down upon the high-placed couch; beneath his fret all heights (seemed) low (to him).
+He (then) sat down upon the high-placed couch; beneath his feet all heights (seemed) low (to him).
 
 He opened out the wallet and consumed a portion of the yellow cakes and white.
 
@@ -656,7 +656,7 @@ They raised their voices, like the birds, in song, luring the birds down by it f
 
 Their voices in their all-beguiling power took peace of heart from Mahan and the moon.
 
-Their playing made the fret incline to dance; their verses chanted made the hands beat time.
+Their playing made the feet incline to dance; their verses chanted made the hands beat time.
 
 A wind arose and played some roguish tricks, it opened fragrant groves of oranges.
 
@@ -688,7 +688,7 @@ The queen of beauties in her pleasing way, said. Soon my odd to even will be cha
 
 From sandal, scent as aloes (sweet) I smell; (now) go you to the sandal=aloes-wood.
 
-A share of perfume it bas given my brain, — but is content of mind, or perfume, good?
+A share of perfume it has given my brain, — but is content of mind, or perfume, good?
 
 It seems (to me) that one of friendly mind is on the tree, and harbours some desire.
 
@@ -696,7 +696,7 @@ It seems (to me) that one of friendly mind is on the tree, and harbours some des
 
 If he come not, (then) say the tray’s prepared, (but that) love for the guest is (far) too great
 
-To let (the queen) put hand upon the tray save at the moment when the guest bas come.
+To let (the queen) put hand upon the tray save at the moment when the guest has come.
 
 (Say), rise, enjoy companionship with her; the tray is set expectant keep her not.
 
@@ -758,13 +758,13 @@ Her lips apart like jaws of crocodile; — she closely held Mahan in her embrace
 
 Upon Ms head and face, no matter how, she showered kisses, and thus spoke (to him):
 
-O you whose head bas come into my hands; O you whose lips are bitten by my teeth.
+O you whose head has come into my hands; O you whose lips are bitten by my teeth.
 
 You put your hands on me, your teeth as well, to kiss my lips, and (Mss) my chin as well.
 
 (Now) look at hands and teeth, — nay, sword and lance! hke this are hands and teeth, (and) not like that.
 
-WTiat was all this desire of yours at first? and why bas your desire so weakened now!
+WTiat was all this desire of yours at first? and why has your desire so weakened now!
 
 The same lips are these lips, for kisses ask; the face the same, shut eyes not to the Moon. —
 
@@ -874,7 +874,7 @@ He said, In truth, who are you, worthy sir? Essential worth, sure, in your essen
 
 He said, I’m Khizr, O worshipper of God, (and) I have come to help you (in your pain).
 
-It is your good intention which bas come, in order to convey you home again.
+It is your good intention which has come, in order to convey you home again.
 
 (So) give to me your hand without delay, (then) close your eyes, and open them again.
 
@@ -896,7 +896,7 @@ He strove to (act) in unison with all, blue (garments) he prepared and put them 
 
 Blue came to be inseparate from him; sky-like he took the colour of the world.
 
-Than blue the lofty sky bas found no silk more beautiful in hue (to serve as dress).
+Than blue the lofty sky has found no silk more beautiful in hue (to serve as dress).
 
 Whoever takes the colour of the sky, — the sun becomes as loaf upon his tray.
 

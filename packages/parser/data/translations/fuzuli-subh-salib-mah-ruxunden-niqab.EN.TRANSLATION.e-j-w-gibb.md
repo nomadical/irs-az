@@ -30,11 +30,11 @@ Thou, the night apart from whom's my Reckoning-Day.
 Hell he ne'er shall sight who burns for thy disdain,
 None to torment doomed may win to Heaven a way.
 
-Earth's duresse hath cast me from my fret adown;
+Earth's duresse hath cast me from my feet adown;
 Give me wine, cup-bearer, that doth dule allay.
 
 Oh! have ruth upon those fallen for thy love;
 Hast no meed a guerdon-gaining deed to' assay?
 
 Should the loved one ask, 'How fareth it with thee,
-'Sick Fuziili?' what wouldst thou in answer say?
+'Sick Fuzuli?' what wouldst thou in answer say?

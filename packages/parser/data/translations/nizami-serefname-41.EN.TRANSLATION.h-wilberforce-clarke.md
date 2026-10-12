@@ -245,7 +245,7 @@ Saying: — " In Hindustan my work was such,
 " I disengaged myself from malice-seeking towards Kaid;
 " When he became friendly I became concordant with the friend (Kaid).
 
-" I desire to go to Kannauj towards Fur (Fiiran, Porus);
+" I desire to go to Kannauj towards Fur (Furan, Porus);
 " Be God my friend in this long journey!
 
 " There, I will see what happens to me;

@@ -77,7 +77,7 @@ His thought within this screen (of imaginings) travelled,
 Davali, who was chief of Abkhaz,
 Was, by the king's power, neck-exalter.
 
-Grirt with the leather strap, at the king's order
+Girt with the leather strap, at the king's order
 He travelled much around the world.
 
 He came to the king of good reflection;
@@ -147,7 +147,7 @@ a mi
 " To whom humanity is not, save the form (void of honour).
 
 " If the jewel-load be on an ass,
-" Why lookest thou at the jewel? Yerily, he is the ass.
+" Why lookest thou at the jewel? Verily, he is the ass.
 
 " Since those opponents (the Russians) have found a way to the treasure,
 " They may cause injury to reach many lands.
@@ -159,9 +159,9 @@ a mi
 " They may display greed of Khurasan and of Rum."
 
 The monarch raged at his (Davali's) speech;
-At the tyranny against his house and his spouse (Niishaba).
+At the tyranny against his house and his spouse (Nushaba).
 
-He was vexed also for Niishaba;
+He was vexed also for Nushaba;
 For dear to the king was that country.
 
 The head, dark and angry, lowered, —
@@ -206,8 +206,8 @@ To the redress-desirer (Davali), he said: — " Thine is the order;
 " Will bring back everything taken away in rapine;
 " Will bring the seizer (the enemy) beneath the foot:
 
-" Will not leave Niishaba within bonds;
-" Will bring forth the sugar (Niishaba) from the reed (the robbers) when the time comes.
+" Will not leave Nushaba within bonds;
+" Will bring forth the sugar (Nushaba) from the reed (the robbers) when the time comes.
 
 " If that silver (plunder) became place-occupier in the stone (of the mountain-mine),
 " We would bring it forth (easily) like the hair (unbroken) from the dough.

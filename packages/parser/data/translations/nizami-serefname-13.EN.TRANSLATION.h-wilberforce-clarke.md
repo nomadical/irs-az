@@ -110,7 +110,7 @@ When Sikandar was eight years of age, Lysimachus (an Acarnanian)
 " Makest the throne auspicious beneath thy crown,
 " (And) they send thee tribute from the seven climes (of the world);
 
-" Bxercisest sovereignty over the horizons (of the world);
+" Exercisest sovereignty over the horizons (of the world);
 " Displayest world within world (mighty) royal sway, —
 
 " (Then) thou wilt bring to mind this (my) teaching and instructing;
@@ -145,7 +145,7 @@ Saying: — " When royalty makes work straight for me,
 In the end, when fortune assisted,
 The king displayed firmness as to that compact.
 
-When the teacher (Lukiimajish) knew that that wise child
+When the teacher (Lukumajish) knew that that wise child
 Would take away the ball (of superiority) from the arrogant ones (potentates),
 
 He drew a diagram of that arithmetical character (the Abjad),

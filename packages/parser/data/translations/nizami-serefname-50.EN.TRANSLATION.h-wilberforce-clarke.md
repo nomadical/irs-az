@@ -97,7 +97,7 @@ When the Russians obtained such superiority over the Rumi,
 He regarded (even) the elephant low (weak) as regards his mace.
 
 He kept circling, the Indian steel (mace) in his grasp,
-Slew some of the Riimish and Chini army.
+Slew some of the Rumish and Chini army.
 
 Assumed height of stature like the length (the shaft) of the spear;
 Began spear-playing in that battle-field.
@@ -145,19 +145,19 @@ When they (the Russians) saw that that dragon of battle
 Made the back-bone ("salb ") of warriors a cross (" salibi "),
 
 The rein (of attack) front and rear became bound;
-ISTo one of Russian Purtas moved from his place.
+No one of Russian Purtas moved from his place.
 
 When the army became distressed with patience-exercising,
 Like a mountain-fragment went forth a Russian,
 
-Of the relations of Kintal, by name Giipal,
+Of the relations of Kintal, by name Gupal,
 Against whom, the champion (Zarivand), like Piltan (Rustam), moved proudly.
 
 The two swordsmen strove together;
 Raised the sword in every direction.
 
 In the end the endeavour of Zarivand, the hero,
-Took the striver's (Griipal's) life in an assault.
+Took the striver's (Gupal's) life in an assault.
 
 Thus, until of the Russians, sphere-inclining (arrogant),
 He brought down seventy bodies from their footing.

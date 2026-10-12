@@ -210,16 +210,16 @@ Forgot as regards him the passed malice:
 The other fettered ones (the chiefs of Russia) from the tyranny of bonds
 He adorned with dresses of honour and rendered estimable:
 
-He ordered that they (the Russians attending on Kintal) should bring Niishaba;
+He ordered that they (the Russians attending on Kintal) should bring Nushaba;
 Alone he drank not such pure wine.
 
 At the king's order, a Russian (a noble) hastened
-He caused the moon (Niishaba) to reach the sun (Sikandar);
+He caused the moon (Nushaba) to reach the sun (Sikandar);
 
 Verily, the dolls (the lovely women, her attendants) tyranny- experienced (through captivity);
 (And) verily, the approved decoration (of garment) and the gold (of adornment as before).
 
-He adorned Niishaba like the spring,
+He adorned Nushaba like the spring,
 With bejewelled clothing:
 
 Gave to her much treasure from the plunder of Russia;
@@ -241,7 +241,7 @@ For the edifices in that place of ruin (through the attacks of the Russians),
 He gave them much treasure besides road-requisites.
 
 When he made this arrangement with suitableness,
-He favoured, one by one, the chiefs of the army (of Davali and of Niishaba).
+He favoured, one by one, the chiefs of the army (of Davali and of Nushaba).
 
 The king of Russia also, with collar and crown,
 He released, and imposed tribute upon him.

@@ -61,7 +61,7 @@ From the victory (giving) of the sphere of azure colour,
 In Sipahan, much delay was not his.
 
 He went to Istakhr, he placed the crown on his head,
-In the place of Kayiimars he became Kay Kubad!
+In the place of Kayumars he became Kay Kubad!
 
 By him, — the country of Persia became adorned;
 By him, — the back of the warriors became strong.
@@ -323,7 +323,7 @@ To every lord of the marches (of Turan) and to every chief:
 loo Inclined their hearts (to him) by his magic (gracious words);
 Gave them peace from his own assault:
 
-Made the world (of Iran and Tiiran) obedient to his own command;
+Made the world (of Iran and Turan) obedient to his own command;
 Took little rest in that (work of) subduing:
 
 Made prosperous the whole wretched world;

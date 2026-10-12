@@ -22,7 +22,7 @@ In this side-place (the world) I behold two butterflies (day and night);
 Of face, one is fair; the other, dark.
 
 Of none, become they the moth (of desire) of the (little) candle (of joyousness);
-For they read only the order of vexation to us (men of the knowledge of Grod).
+For they read only the order of vexation to us (men of the knowledge of God).
 
 Give splendour to this house (the body) with the lamp (of the love of God),
 Which may make roast meat of these two butterflies (Time).
@@ -52,7 +52,7 @@ Behind his back, an army like the river (Jihun):
 The reckoning (of the stages) of the plain on (at) his finger,
 
 He travelled the plain of Khwarazm;
-Came from the Jihiin; passed to Babylon.
+Came from the Jihun; passed to Babylon.
 
 For the reason that he might make the world void of the Russians,
 No repose was his on water (by the river-side, to quaff wine), or on the dust (to hunt).
@@ -199,7 +199,7 @@ To the delineator the king spoke, saying: — " This form,
 " (Yet) they look at this stone and obtain understanding (of propriety)! "
 
 The sage of vigilant fortune gave information,
-Saying: — " Of Khifcbak the heart is hard like stone.
+Saying: — " Of Khifchak the heart is hard like stone.
 
 " Although they are in body (white like) silver, they are of stony (black) heart;
 " For this reason, they are inclined to stony hearts (tilisms).
