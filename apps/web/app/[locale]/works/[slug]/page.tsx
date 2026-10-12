@@ -228,10 +228,7 @@ export default async function WorkPage({ params }: Props) {
       )}
       <WorkNavKeys prevHref={navHref(nav.prev)} nextHref={navHref(nav.next)} randomHref={`/${locale}/random`} />
       <p className="work-random">
-        <Link href={`/${locale}/random`} prefetch={false} aria-keyshortcuts="r">
-          ↻ {t('random_poem')}
-          <kbd className="work-random-key" aria-hidden="true">R</kbd>
-        </Link>
+        <Link href={`/${locale}/random`} prefetch={false} aria-keyshortcuts="r">↻ {t('random_poem')}</Link>
       </p>
 
       {more.length > 0 && (
