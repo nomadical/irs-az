@@ -92,7 +92,7 @@ When through Bahram the crown and throne became in good estate and power and hon
 
 He fastened on the belt of seven gems, and sat upon the throne of seven steps.
 
-Dressed in a Chini like a falcon’s breast, a E-umi as adornment over it;
+Dressed in a Chini like a falcon’s breast, a Rumi as adornment over it;
 
 He by his beauty took ‘the crown from Rum; from China tribute by his comeliness.
 

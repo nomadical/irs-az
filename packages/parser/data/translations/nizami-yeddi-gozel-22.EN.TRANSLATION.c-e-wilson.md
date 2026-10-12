@@ -16,7 +16,7 @@ The hearts of the distinguished gained new strength; the fame of (all) the famou
 
 ]Malignants perished in obscurity, the heads of all beneath black water plunged.
 
-There was a good old man, Narsi byname — (the same name had the brother of Bahram) —
+There was a good old man, Narsi by name — (the same name had the brother of Bahram) —
 
 His judgment strong, his reason perfect too, he knew of things before (they had occurred).
 
@@ -160,7 +160,7 @@ The shaft was in the fight a darting snake — when darts the snake ’tis bad (
 
 King Bahram fighting in the battle ranks, his arrow-points-as hairs, were splitting hairs.
 
-If with his sword be struck a horseman’s head, down to the waist he clove him like a gourd.
+If with his sword he struck a horseman’s head, down to the waist he clove him like a gourd.
 
 And if with stroke oblique be terrified, be cleft the man asunder at the waist.
 

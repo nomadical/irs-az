@@ -607,6 +607,18 @@
     {
       "from": "instead of verdure,\" flowers",
       "to": "instead of verdure, flowers"
+    },
+    {
+      "from": "If with his sword be struck",
+      "to": "If with his sword he struck"
+    },
+    {
+      "from": "a E-umi as adornment",
+      "to": "a Rumi as adornment"
+    },
+    {
+      "from": "Narsi byname",
+      "to": "Narsi by name"
     }
   ],
   "sections": [
