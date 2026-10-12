@@ -205,7 +205,7 @@
     "prev": "Previous",
     "next": "Next",
     "nav_label": "Collection navigation",
-    "keys_hint": "Use ← → keys to move",
+    "keys_hint": "Use ← → keys to move, R for a random poem",
     "numbered": "{form} No. {n}",
     "section": "Part",
     "appearance": "Appearance",
