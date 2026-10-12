@@ -45,6 +45,12 @@ export class WorksController {
   }
 
   @Public()
+  @Get('catalog')
+  catalog() {
+    return this.works.catalog();
+  }
+
+  @Public()
   @Get('daily')
   poemOfTheDay() {
     return this.works.poemOfTheDay();

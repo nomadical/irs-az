@@ -1453,6 +1453,59 @@ blockquote {
 .works-strip > .section-label { padding: 0 0 0.75rem; }
 .works-strip-title { display: block; }
 
+/* ── Catalogue: a tile per section with its count ─────────── */
+.catalog {
+  padding:    1rem 0 1.5rem;
+  border-top: 4px double var(--pomeg);
+}
+.catalog-grid {
+  list-style:            none;
+  display:               grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+.catalog-grid li + li { border-left: 0.5px solid var(--rule); }
+.catalog-grid li:nth-child(4n + 1) { border-left: none; }
+.catalog-grid li:nth-child(n + 5) { border-top: 0.5px solid var(--rule); }
+.catalog-tile {
+  display:        flex;
+  flex-direction: column;
+  align-items:    center;
+  gap:            0.15rem;
+  padding:        1rem 0.75rem 1.1rem;
+  text-align:     center;
+  transition:     background 0.12s;
+}
+.catalog-tile:hover { background: var(--surf); }
+.catalog-kind {
+  font-family:    var(--font-ui);
+  font-size:      0.68rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color:          var(--muted);
+}
+.catalog-count {
+  font-family:    var(--font-serif);
+  font-size:      2.6rem;
+  font-weight:    600;
+  line-height:    1.05;
+  letter-spacing: -0.02em;
+  color:          var(--pomeg);
+  font-variant-numeric: lining-nums tabular-nums;
+}
+.catalog-unit {
+  font-family: var(--font-body);
+  font-style:  italic;
+  font-size:   0.9rem;
+  color:       var(--ink);
+}
+@media (max-width: 768px) {
+  .catalog-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .catalog-grid li:nth-child(4n + 1) { border-left: 0.5px solid var(--rule); }
+  .catalog-grid li:nth-child(2n + 1) { border-left: none; }
+  .catalog-grid li:nth-child(n + 3) { border-top: 0.5px solid var(--rule); }
+  .catalog-count { font-size: 2.1rem; }
+}
+
 /* ── Poem of the day ────────────────────────────────────── */
 .daily-poem {
   padding:    1rem 0 1.25rem;

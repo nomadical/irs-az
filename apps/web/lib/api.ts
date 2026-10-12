@@ -74,6 +74,7 @@ export const api = {
     fetcher(`/works${params ? `?${params}` : ''}`),
   getWork: (slug: string) => fetcher(`/works/${slug}`),
   getRandomWork: () => fetcher<{ slug: string }>('/works/random', { cache: 'no-store' }),
+  getCatalog: () => fetcher<Catalog>('/works/catalog', { next: { revalidate: 600 } }),
   getPoemOfTheDay: () => fetcher<PoemOfTheDay>('/works/daily', { cache: 'no-store' }),
   resolveWork: (slug: string) => fetcher<{ slug: string }>(`/works/resolve/${slug}`),
   getMoreByAuthor: (slug: string, locale: string) =>
@@ -110,6 +111,14 @@ export const api = {
   register: (data: { email: string; username: string; password: string; name?: string }) =>
     fetcher('/auth/register', { method: 'POST', body: JSON.stringify(data) }),
 };
+
+/** Published counts behind the homepage catalog */
+export interface Catalog {
+  works: number;
+  forms: Partial<Record<string, number>>;
+  genres: Partial<Record<string, number>>;
+  authors: Partial<Record<string, number>>;
+}
 
 export type TagKind = 'THEME' | 'MOOD' | 'AUDIENCE' | 'ERA';
 

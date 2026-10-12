@@ -70,6 +70,26 @@
     "essay": "Эссе",
     "philosophy": "Философия"
   },
+  "catalog": {
+    "title": "Каталог",
+    "label": "Каталог разделов",
+    "works": "Произведения",
+    "works_unit": "{count, plural, one {произведение} few {произведения} many {произведений} other {произведения}}",
+    "ghazals": "Газели",
+    "ghazals_unit": "{count, plural, one {газель} few {газели} many {газелей} other {газели}}",
+    "masnavis": "Маснави",
+    "masnavis_unit": "{count, plural, one {глава} few {главы} many {глав} other {главы}}",
+    "rubais": "Рубаи",
+    "rubais_unit": "рубаи",
+    "qasidas": "Касыды",
+    "qasidas_unit": "{count, plural, one {касыда} few {касыды} many {касыд} other {касыды}}",
+    "drama": "Драма",
+    "drama_unit": "{count, plural, one {текст} few {текста} many {текстов} other {текста}}",
+    "poets": "Поэты",
+    "poets_unit": "{count, plural, one {поэт} few {поэта} many {поэтов} other {поэта}}",
+    "themes": "Темы",
+    "themes_unit": "{count, plural, one {тема} few {темы} many {тем} other {темы}}"
+  },
   "share": {
     "label": "Поделиться",
     "native": "Поделиться…",

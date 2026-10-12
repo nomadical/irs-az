@@ -70,6 +70,26 @@
     "essay": "Esse",
     "philosophy": "Fəlsəfə"
   },
+  "catalog": {
+    "title": "Kataloq",
+    "label": "Bölmələr üzrə kataloq",
+    "works": "Əsərlər",
+    "works_unit": "əsər",
+    "ghazals": "Qəzəllər",
+    "ghazals_unit": "qəzəl",
+    "masnavis": "Məsnəvilər",
+    "masnavis_unit": "fəsil",
+    "rubais": "Rübailər",
+    "rubais_unit": "rübai",
+    "qasidas": "Qəsidələr",
+    "qasidas_unit": "qəsidə",
+    "drama": "Dram",
+    "drama_unit": "mətn",
+    "poets": "Şairlər",
+    "poets_unit": "şair",
+    "themes": "Mövzular",
+    "themes_unit": "mövzu"
+  },
   "share": {
     "label": "Paylaş",
     "native": "Paylaş…",

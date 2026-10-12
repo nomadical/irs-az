@@ -70,6 +70,26 @@
     "essay": "Essay",
     "philosophy": "Philosophy"
   },
+  "catalog": {
+    "title": "Catalogue",
+    "label": "Catalogue by section",
+    "works": "Works",
+    "works_unit": "{count, plural, one {work} other {works}}",
+    "ghazals": "Ghazals",
+    "ghazals_unit": "{count, plural, one {ghazal} other {ghazals}}",
+    "masnavis": "Masnavis",
+    "masnavis_unit": "{count, plural, one {chapter} other {chapters}}",
+    "rubais": "Rubais",
+    "rubais_unit": "{count, plural, one {rubai} other {rubais}}",
+    "qasidas": "Qasidas",
+    "qasidas_unit": "{count, plural, one {qasida} other {qasidas}}",
+    "drama": "Drama",
+    "drama_unit": "{count, plural, one {text} other {texts}}",
+    "poets": "Poets",
+    "poets_unit": "{count, plural, one {poet} other {poets}}",
+    "themes": "Themes",
+    "themes_unit": "{count, plural, one {theme} other {themes}}"
+  },
   "share": {
     "label": "Share",
     "native": "Share…",

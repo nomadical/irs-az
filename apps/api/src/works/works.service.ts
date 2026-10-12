@@ -316,6 +316,29 @@ export class WorksService {
     return works.map(withIncipit);
   }
 
+  /** Published counts for the homepage catalog: works by form and genre, authors by type */
+  async catalog() {
+    const pub = { status: 'PUBLISHED' as const };
+    const [works, forms, genres, authors] = await Promise.all([
+      this.prisma.work.count({ where: pub }),
+      this.prisma.work.groupBy({ by: ['form'], where: pub, _count: { _all: true } }),
+      this.prisma.work.groupBy({ by: ['genre'], where: pub, _count: { _all: true } }),
+      // Only authors with published works: empty duplicate records don't count
+      this.prisma.author.findMany({
+        where: { ...pub, works: { some: pub } },
+        select: { type: true },
+      }),
+    ]);
+    const tally = <K extends string>(rows: { key: K | null; n: number }[]) =>
+      Object.fromEntries(rows.filter((r) => r.key).map((r) => [r.key, r.n])) as Record<K, number>;
+    return {
+      works,
+      forms: tally(forms.map((r) => ({ key: r.form, n: r._count._all }))),
+      genres: tally(genres.map((r) => ({ key: r.genre, n: r._count._all }))),
+      authors: authors.reduce<Record<string, number>>((acc, a) => ({ ...acc, [a.type]: (acc[a.type] ?? 0) + 1 }), {}),
+    };
+  }
+
   /** Poem of the day: the same for everyone until midnight in Baku */
   async poemOfTheDay() {
     const date = bakuDate();

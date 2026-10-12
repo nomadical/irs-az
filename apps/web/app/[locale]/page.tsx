@@ -6,6 +6,7 @@ import { getTranslations } from 'next-intl/server';
 import { api, type PoemOfTheDay } from '../../lib/api';
 import { localized } from '@/lib/locale';
 import { TagPills } from '@/components/works/TagPills';
+import { CatalogTiles } from '@/components/home/CatalogTiles';
 import { authorsPath, worksPath } from '@/lib/facets';
 
 export const dynamic = 'force-dynamic';
@@ -116,12 +117,13 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
   const t = await getTranslations('home');
 
   // Fetch data from API in parallel
-  const [featured, daily, authorsRes, worksRes, tags] = await Promise.all([
+  const [featured, daily, authorsRes, worksRes, tags, catalog] = await Promise.all([
     api.getFeaturedAuthor().catch(() => null) as Promise<FeaturedAuthor | null>,
     api.getPoemOfTheDay().catch(() => null) as Promise<PoemOfTheDay | null>,
     api.getAuthors(new URLSearchParams({ limit: '4', sort: 'recent' })) as Promise<{ data: AuthorListItem[] }>,
     api.getWorks(new URLSearchParams({ limit: '6', sort: 'recent' })) as Promise<{ data: WorkListItem[] }>,
     api.getTags().catch(() => []),
+    api.getCatalog().catch(() => null),
   ]);
   const themes = tags.filter((tag) => tag.kind === 'THEME' && tag.works > 0).slice(0, 8);
 
@@ -262,6 +264,14 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             <Link href={`/${locale}/random`} prefetch={false} className="more">↻ {t('random_poem')}</Link>
           </div>
         </section>
+      )}
+
+      {catalog && (
+        <CatalogTiles
+          catalog={catalog}
+          themes={tags.filter((tag) => tag.kind === 'THEME' && tag.works > 0).length}
+          locale={locale}
+        />
       )}
 
       {/* ── Bottom: Recent works strip ─────────────────────── */}
