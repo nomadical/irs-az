@@ -46,7 +46,7 @@ The blood within its neck had drawn a hide like marvel of Peru upon its frame.
 
 Haunches in close companionship with tail; a neck displaying boldness with its hoofs,
 
-Bahram dashed forward when he saw the gur ”: after the ‘"'giir” went (swiftly) Bahram Gur.
+Bahram dashed forward when he saw the “gur”: after the “gur” went (swiftly) Bahram Gur.
 
 The onager, young, swift of foot, in truth; the hunter swift as lion in pursuit.
 
@@ -54,7 +54,7 @@ From day’s beginning till the (sun’s) decline the wild ass ran, the lion at 
 
 The king turned not his courser from the “ gur ” — how from the “ gur ” can reins (indeed) be turned?
 
-The “ gur ” before, the “ gurkhan ” on its tracks: the gur ” and Bahram Gur, and naught besides.
+The “gur” before, the “gurkhan” on its tracks: the “gur” and Bahram Gur, and naught besides.
 
 Unto, it reached a cave far from the plain, by which the foot of man had never passed.
 
@@ -122,7 +122,7 @@ When he got in with toil and pain, he found a treasure, and grew, as a treasure,
 
 Many large, splendid jars had (there) been placed, which fairy-like their faces veiled from man.
 
-When it had brought the gurkhan ” to the jars, leaving no trace, the gur ” (then) left the vault.
+When it had brought the “gurkhan” to the jars, leaving no trace, the “gur” (then) left the vault.
 
 Since to the treasure-lock he’d found a key, and cut the dragon from the treasure-house,
 

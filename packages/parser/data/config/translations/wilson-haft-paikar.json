@@ -453,6 +453,26 @@
     {
       "pattern": "\\*\\* the Praised ’’",
       "to": "“the Praised”"
+    },
+    {
+      "from": "Unto, from these two one be reached",
+      "to": "Until from these two one be reached"
+    },
+    {
+      "from": "found of gaming every wish",
+      "to": "found of gaining every wish"
+    },
+    {
+      "from": "when he saw the gur ”: after the ‘\"'giir” went",
+      "to": "when he saw the “gur”: after the “gur” went"
+    },
+    {
+      "from": "The “ gur ” before, the “ gurkhan ” on its tracks: the gur ” and",
+      "to": "The “gur” before, the “gurkhan” on its tracks: the “gur” and"
+    },
+    {
+      "from": "brought the gurkhan ” to the jars, leaving no trace, the gur ” (then)",
+      "to": "brought the “gurkhan” to the jars, leaving no trace, the “gur” (then)"
     }
   ],
   "sections": [

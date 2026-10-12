@@ -86,7 +86,7 @@ The reason with the soul’s a single gift; the soul with reason’s that which 
 
 The product of the two is only one, in which, there is no doubt, you have these two.
 
-Unto, from these two one be reached say not to any one that he is any one.
+Until from these two one be reached say not to any one that he is any one.
 
 When you have found that one (then) lose the two; place your foot on the head of the two worlds.
 
@@ -100,7 +100,7 @@ When to these two you’re lost no fables tell; and seek no medium when you’ve
 
 So long as we may have this capital, whate’er’s outside of this is (vain) desire.
 
-Whilst youth and healthful state (to us) remain, the means are found of gaming every wish.
+Whilst youth and healthful state (to us) remain, the means are found of gaining every wish.
 
 When the straight cypress falls off in decay, where (then) can any remedy be gained?
 
