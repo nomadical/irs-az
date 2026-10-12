@@ -80,13 +80,28 @@ export function highlight(text: string, terms: Terms, starts: number[] = []): st
 }
 
 /**
- * A short one-line excerpt around the first match. Returns null when the text has no match,
- * so the caller can try another field.
+ * A short one-line excerpt around the best match: where the most different query words fall
+ * together, the earliest such place on a tie, so a phrase deep in a long translation beats a
+ * lone "the" near its top. Returns null when the text has no match, so the caller can try
+ * another field.
  */
 export function snippet(text: string, terms: Terms, starts: number[] = []): string | null {
+  return excerpt(text, terms, starts)?.html ?? null;
+}
+
+/** The snippet with its score, the number of different query words it shows, to compare fields */
+export function excerpt(text: string, terms: Terms, starts: number[] = []): { html: string; score: number } | null {
   const list = words(text, terms, starts);
-  const first = list.findIndex((w) => w.match);
-  if (first === -1) return null;
+  const matched = list.flatMap((w, i) => (w.match ? [i] : []));
+  if (!matched.length) return null;
+  const reach = SNIPPET_WORDS - Math.floor(SNIPPET_WORDS / 3);
+  const key = (i: number) => normalize(text.slice(list[i].start, list[i].end));
+  let first = matched[0];
+  let best = 0;
+  for (const i of matched) {
+    const found = new Set(matched.filter((j) => j >= i && j < i + reach).map(key)).size;
+    if (found > best) [first, best] = [i, found];
+  }
 
   const startIdx = Math.max(0, first - Math.floor(SNIPPET_WORDS / 3));
   const endIdx = Math.min(list.length, startIdx + SNIPPET_WORDS) - 1;
@@ -94,7 +109,7 @@ export function snippet(text: string, terms: Terms, starts: number[] = []): stri
   const to = endIdx === list.length - 1 ? text.length : list[endIdx].end;
 
   const html = render(text, list, from, to, flatHtml).trim();
-  return `${from > 0 ? '…' : ''}${html}${to < text.trimEnd().length ? '…' : ''}`;
+  return { html: `${from > 0 ? '…' : ''}${html}${to < text.trimEnd().length ? '…' : ''}`, score: best };
 }
 
 /** The opening words, for hits that matched only on title or author. */

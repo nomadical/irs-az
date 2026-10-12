@@ -4,7 +4,7 @@ import { MeiliSearch } from 'meilisearch';
 import { PrismaService } from '../prisma/prisma.service';
 import { SearchQueryDto } from './dto/search-query.dto';
 import { foldAz } from '../common/utils/slug';
-import { highlight, matchStarts, opening, queryTerms, snippet } from './highlight';
+import { excerpt, highlight, matchStarts, opening, queryTerms } from './highlight';
 
 const fold = (text: string | null | undefined) => (text ? foldAz(text) : text);
 
@@ -96,8 +96,9 @@ export class SearchService implements OnModuleInit {
       return;
     }
 
+    // Translations go in whole, so a line deep inside a long one is found
     const translation = (language: string) =>
-      work.translations.find((t) => t.language === language && t.isDefault)?.body?.substring(0, 2000);
+      work.translations.find((t) => t.language === language && t.isDefault)?.body;
 
     await this.client.index('works').addDocuments([
       {
@@ -162,11 +163,16 @@ export class SearchService implements OnModuleInit {
             _formatted: {
               titleAz: highlight(title, terms, titleStarts),
               authorNameAz: highlight(author, terms, authorStarts),
+              // The text that shows most of the query, the original first on a tie
               body:
-                (body && snippet(body, terms, bodyStarts)) ??
-                (bodyRu && snippet(bodyRu, terms, matchStarts(bodyRu, mp.bodyRu))) ??
-                (bodyEn && snippet(bodyEn, terms, matchStarts(bodyEn, mp.bodyEn))) ??
-                (body ? opening(body) : null),
+                [
+                  body && excerpt(body, terms, bodyStarts),
+                  bodyRu && excerpt(bodyRu, terms, matchStarts(bodyRu, mp.bodyRu)),
+                  bodyEn && excerpt(bodyEn, terms, matchStarts(bodyEn, mp.bodyEn)),
+                ].reduce<{ html: string; score: number } | null>(
+                  (best, e) => (e && (!best || e.score > best.score) ? e : best),
+                  null,
+                )?.html ?? (body ? opening(body) : null),
             },
           };
         },
