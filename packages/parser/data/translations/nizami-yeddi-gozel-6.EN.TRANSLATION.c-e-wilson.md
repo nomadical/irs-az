@@ -12,7 +12,7 @@ status: DRAFT
 ---
 That which is new and also old is speech, and on this speech some speech is (to be used).
 
-In all creation the creatress “ Be ” no child has brought forth loveher than speech.
+In all creation the creatress “ Be ” no child has brought forth lovelier than speech.
 
 Beware! say not the eloquent are dead; they’ve sunk their heads beneath the stream of words;
 
@@ -74,7 +74,7 @@ All have a helper hidden (from their view): it is a friend, and one who is attac
 
 (And) that from which help comes is intellect — if intellect you have you have all (else).
 
-He who to inteUeot can not be just, has a fiend’s nature with a human form.
+He who to intellect can not be just, has a fiend’s nature with a human form.
 
 The wise are angels though entitled men, and wisdom is indeed a wondrous thing.
 
@@ -168,7 +168,7 @@ All pictures which have breast-plates made of gold have tunics made of lapis laz
 
 Each balance which devotes itself to gold suffers from stoning at a thousand doors.
 
-ALSSume that you’ve collected with some pain of lawful or unlawful gain some “ dangs ”;
+Assume that you’ve collected with some pain of lawful or unlawful gain some “ dangs ”;
 
 (That then) one reckless comes (and) bears them oH — the waster living, the collector dead.
 
@@ -190,11 +190,11 @@ How long would you, as porter, bear the world, (and) hide your load of gold with
 
 Though what you gather might three porters load, you’ll bear away but the four porters’ house.
 
-The earth and air which are your foes are these: the unfriendly earth, the air without “ ahf ”.
+The earth and air which are your foes are these: the unfriendly earth, the air without “alif”.
 
 The branch which to the date-palm pays no toU ’tis best to make a rolling-pin for paste.
 
-To cure the pain of him whose stomach’s leer some “ tutmaj strips excel rose-petals far.
+To cure the pain of him whose stomach’s leer some “tutmaj”-strips excel rose-petals far.
 
 Better extract your teeth than over-eat, that as a pearl of price you be esteemed.
 
@@ -214,7 +214,7 @@ Affairs when not to any person’s wish — frustration’s better than obtainin
 
 Every desire which late in life (you’ve) gained felicitates (you) on a life prolonged.
 
-’Tis best the long-hved gain their wishes late; life’s business in perfection’s perfected.
+’Tis best the long-lived gain their wishes late; life’s business in perfection’s perfected.
 
 The ruby which takes long to come lasts long; the anemone soon comes, and quickly goes.
 
@@ -232,7 +232,7 @@ If you’re an aspirant such as you’re thought, pursue the road will bring you
 
 Be no disciple aspirationless; do not be weak of faith in trust in God.
 
-I, solver of a hundred knotty points, am viQage-chief, but in the village not.
+I, solver of a hundred knotty points, am village-chief, but in the village not.
 
 If from the road a guest should chance to come, who will there be to set a tray for him?
 
@@ -240,13 +240,13 @@ Intelligence discerns what I now say, and what I aim at in this hint thrown out.
 
 At destitution I am little vexed; of him who’s destitute is my complaint.
 
-This Ethiopia hkes not Turkish wares; hence it will have not palatable curds.
+This Ethiopia likes not Turkish wares; hence it will have not palatable curds.
 
 Whilst in this furnace which one’s nature ripes as grape unripe I still was somewhat raw,
 
 Fortune made use of me as grape unripe, made of me verjuice-tutty for the sight.
 
-Since I have reached the state of the ripe grape, I’ve sujBEered often from the stings of wasps.
+Since I have reached the state of the ripe grape, I’ve suffered often from the stings of wasps.
 
 The wine which is a spiritual draught for earth — is not the grape worth more than this?
 
@@ -268,11 +268,11 @@ Woe to the goldsmith when the reckoning comes whose gold is not worth silver whe
 
 This fraud that’s practised by the world seems hard, that fortune comes from luck and not from worth.
 
-That keen (assayer) who is sMUed in coin has, as a rule, not half a grain (of gold).
+That keen (assayer) who is skilled in coin has, as a rule, not half a grain (of gold).
 
-Whilst he who cotton cannot tell from flax, and thinks “ asman ” and risman ” are the same —
+Whilst he who cotton cannot tell from flax, and thinks “asman” and “risman” are the same —
 
-His store-iioTise with fine linen is replete, boxfuls of gold, and many maunds of silk.
+His store-house with fine linen is replete, boxfuls of gold, and many maunds of silk.
 
 Since such the work of jewels and of coin, why should one fear if they refrain from work!
 
@@ -318,7 +318,7 @@ I who have like the rose cast arms away, have also from the thorn of envy fled,
 
 That when my envy wears the darvish-robe, talc may be scattered on my body’s fire.
 
-Thus can one (only) till the time of death complete the* journey through this place of risk.
+Thus can one (only) till the time of death complete the journey through this place of risk.
 
 When I’ve departed from this ancient inn, say to the sky (then), Do whate’er you wish.
 

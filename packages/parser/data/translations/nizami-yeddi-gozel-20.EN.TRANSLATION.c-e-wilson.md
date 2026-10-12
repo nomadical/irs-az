@@ -24,7 +24,7 @@ The king stood as a lion on the spot, the chestnut ’neath him prancing (restiv
 
 With his well-tempered sword and arrows’ steel he hurled upon the ground now fire, now game.
 
-A haunch of onager, pure wine to hand, — a fire is wanted to (prepare) “ kabahs ” (87S).
+A haunch of onager, pure wine to hand, — a fire is wanted to (prepare) “ kababs ” (87S).
 
 With such intent, one might suppose, his lance, which shed the blood of onagers, struck fire.
 

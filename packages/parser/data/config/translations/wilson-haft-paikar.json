@@ -197,7 +197,19 @@
     "spumed": "spurned",
     "AH": "All",
     "Numan": "Nu'man",
-    "hke": "like"
+    "hke": "like",
+    "loveher": "lovelier",
+    "inteUeot": "intellect",
+    "ALSSume": "Assume",
+    "hved": "lived",
+    "viQage": "village",
+    "hkes": "likes",
+    "sujBEered": "suffered",
+    "sMUed": "skilled",
+    "iioTise": "house",
+    "tunel": "tuneful",
+    "Amiil": "Amul",
+    "kabahs": "kababs"
   },
   "corrections": [
     {
@@ -511,6 +523,22 @@
     {
       "pattern": "\\(ah\\)",
       "to": "(all)"
+    },
+    {
+      "from": "the* journey",
+      "to": "the journey"
+    },
+    {
+      "from": "“ asman ” and risman ”",
+      "to": "“asman” and “risman”"
+    },
+    {
+      "from": "some “ tutmaj strips",
+      "to": "some “tutmaj”-strips"
+    },
+    {
+      "from": "the air without “ ahf ”",
+      "to": "the air without “alif”"
     }
   ],
   "sections": [

@@ -86,7 +86,7 @@ Its hellishness and heavenliness well known: hell by (its) heat, and heaven by (
 
 The hell of those who to the temple go; the heaven of those who take the road to heaven.
 
-Zardusht’s Avesta tunel round the fire; the Magians pledged their robes to it like moths.
+Zardusht’s Avesta tuneful round the fire; the Magians pledged their robes to it like moths.
 
 It opened pores of water which had frozen. Alas 1 why should it have the name of fire!
 
@@ -242,7 +242,7 @@ He thought how the act of Nu'man towards Simnar throughout all countries had bec
 
 (And how) the killing of that wondrous man was disapproved by all who could discern.
 
-The town of Amiil he to Shida gave, that Shida might through Bahram be content.
+The town of Amul he to Shida gave, that Shida might through Bahram be content.
 
 He said. If (King) Nu'man (once) did a wrong by treatment so severe of one, a friend.
 
