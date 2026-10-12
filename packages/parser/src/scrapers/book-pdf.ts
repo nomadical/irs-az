@@ -66,7 +66,8 @@ export interface BookWork {
   warnings: string[];
 }
 
-export async function fetchPdfPages(url: string): Promise<string[]> {
+/** The PDF, downloaded once into data/raw */
+export async function pdfDocument(url: string) {
   if (!fs.existsSync(RAW_DIR)) fs.mkdirSync(RAW_DIR, { recursive: true });
   const cached = path.join(RAW_DIR, `${crypto.createHash('md5').update(url).digest('hex')}.pdf`);
   if (!fs.existsSync(cached)) {
@@ -82,8 +83,11 @@ export async function fetchPdfPages(url: string): Promise<string[]> {
       execFileSync('curl', ['-sSfL', '--max-time', '300', '-o', cached, url]);
     }
   }
-  const pdf = await getDocumentProxy(new Uint8Array(fs.readFileSync(cached)));
-  const { text } = await extractText(pdf, { mergePages: false });
+  return getDocumentProxy(new Uint8Array(fs.readFileSync(cached)));
+}
+
+export async function fetchPdfPages(url: string): Promise<string[]> {
+  const { text } = await extractText(await pdfDocument(url), { mergePages: false });
   return text;
 }
 

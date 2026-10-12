@@ -1,0 +1,123 @@
+{
+  "id": "axundzade-komedii-1853",
+  "layout": "play",
+  "url": "https://dspace.nplg.gov.ge/bitstream/1234/153429/1/Komedii_1853.pdf",
+  "title": "Комедии Мирзы Фет-Али Ахундова",
+  "translator": "Мирза Фатали Ахундов",
+  "year": 1853,
+  "translatorNote": "Авторский перевод: Комедии Мирзы Фет-Али Ахундова. Тифлис, 1853 (скан — Национальная парламентская библиотека Грузии). «Медведь, победитель разбойника» — в сценической переделке графа В. А. Соллогуба. Орфография осовременена; текст распознан с печатного издания и ещё не вычитан.",
+  "lastPage": 216,
+  "parts": [
+    {
+      "workSlug": "axundzade-hekayeti-molla-ibrahim-xelil-kimyager",
+      "page": 4,
+      "at": "лица",
+      "cast": true
+    },
+    {
+      "workSlug": "axundzade-hekayeti-molla-ibrahim-xelil-kimyager-evvelinci-meclis",
+      "page": 5,
+      "at": "ДѢЙСТВІЕ ПЕРВОЕ"
+    },
+    {
+      "workSlug": "axundzade-hekayeti-molla-ibrahim-xelil-kimyager-ikinci-meclis",
+      "page": 12,
+      "at": "ДѢЙСТВІЕ ВТОРОЕ"
+    },
+    {
+      "workSlug": "axundzade-hekayeti-molla-ibrahim-xelil-kimyager-ucuncu-meclis",
+      "page": 16,
+      "at": "(Сцена происходить тамь"
+    },
+    {
+      "workSlug": "axundzade-hekayeti-molla-ibrahim-xelil-kimyager-dorduncu-meclis",
+      "page": 20,
+      "at": "ДѢЙСТВІЕ ЧЕТВЕРТОЕ"
+    },
+    {
+      "workSlug": "axundzade-hekayeti-musyo-jordan-hekimi-nebatat-ve-dervis-mesteli-sah",
+      "page": 26,
+      "at": "лица",
+      "cast": true
+    },
+    {
+      "workSlug": "axundzade-hekayeti-musyo-jordan-hekimi-nebatat-ve-dervis-mesteli-sah-2",
+      "page": 27,
+      "at": "ЛѢЙСТВІЕ ПЕРВОЕ"
+    },
+    {
+      "workSlug": "axundzade-hekayeti-musyo-jordan-hekimi-nebatat-ve-dervis-mesteli-sah-3",
+      "page": 35,
+      "at": "ДѢЙСТВІЕ ВТОРОЕ"
+    },
+    {
+      "workSlug": "axundzade-hekayeti-musyo-jordan-hekimi-nebatat-ve-dervis-mesteli-sah-4",
+      "page": 43,
+      "at": "(Сцена происходить тамь же"
+    },
+    {
+      "workSlug": "axundzade-hekayeti-musyo-jordan-hekimi-nebatat-ve-dervis-mesteli-sah-5",
+      "page": 48,
+      "at": "ДѢЙСТВІЕ ЧЕТВЕРТОЕ"
+    },
+    {
+      "workSlug": "axundzade-hekayeti-xirsi-quldurbasan",
+      "page": 66,
+      "at": "лица",
+      "cast": true
+    },
+    {
+      "workSlug": "axundzade-hekayeti-xirsi-quldurbasan-evvelimci-meclis",
+      "page": 67,
+      "at": "ДѢЙ5ТВІЕ ПЕРВОЕ"
+    },
+    {
+      "workSlug": "axundzade-hekayeti-xirsi-quldurbasan-ikimci-meclis",
+      "page": 89,
+      "at": "ДѢЙСТВІЕ ВТОРОЕ"
+    },
+    {
+      "workSlug": "axundzade-hekayeti-xirsi-quldurbasan-ucumcu-meclis",
+      "page": 102,
+      "at": "ДѢЙСТВІЕ ТРЕТІЕ"
+    },
+    {
+      "workSlug": "axundzade-serguzesti-veziri-xani-lenkeran",
+      "page": 120,
+      "at": "лица",
+      "cast": true
+    },
+    {
+      "workSlug": "axundzade-serguzesti-merdi-xesis",
+      "page": 158,
+      "at": "лона",
+      "cast": true
+    },
+    {
+      "workSlug": "axundzade-serguzesti-merdi-xesis-evvelinci-meclis",
+      "page": 159,
+      "at": "ПЕРВОЕ"
+    },
+    {
+      "workSlug": "axundzade-serguzesti-merdi-xesis-ikinci-meclis",
+      "page": 172,
+      "at": "ДѢЙСТВІЕ ВТОРОЕ"
+    },
+    {
+      "workSlug": "axundzade-serguzesti-merdi-xesis-ucuncu-meclis",
+      "page": 189,
+      "at": "ДѢНСТВІЕ ТРЕТІЕ"
+    },
+    {
+      "workSlug": "axundzade-serguzesti-merdi-xesis-dorduncu-meclis",
+      "page": 196,
+      "at": "ГАДЖИ-КАРА."
+    },
+    {
+      "workSlug": "axundzade-serguzesti-merdi-xesis-besinci-meclis",
+      "page": 204,
+      "at": "ДѢЙМТВІЕ ПЯТОЕ"
+    }
+  ],
+  "corrections": []
+}
