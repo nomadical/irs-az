@@ -518,7 +518,10 @@
       "ru": "Ахундов, Мирза Фатали"
     },
     "wikisource": {
-      "az": "Mirzə Fətəli Axundzadə"
+      "az": "Mirzə Fətəli Axundzadə",
+      "az_cut": {
+        "Sərgüzəşti mərdi-xəsis/Üçüncü məclis": "DÖRDÜMCÜ MƏCLİS"
+      }
     },
     "collections": []
   },

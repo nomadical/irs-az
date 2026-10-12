@@ -495,7 +495,13 @@ export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePla
       plan.skipped.push({ title: page.title, reason: 'skip-list' });
       return true;
     }
-    const body = pageText(page.wikitext);
+    let body = pageText(page.wikitext);
+    const cut = cfg.wikisource?.az_cut?.[page.title];
+    if (cut) {
+      const at = body.indexOf(cut);
+      if (at < 0) console.warn(`  ${page.title}: "${cut}" not found, not cut`);
+      else body = body.slice(0, at).trimEnd();
+    }
     if (body.length < MIN_TEXT) return false;
 
     // Chapter pages often repeat the book's name as their header ("Afət."); the
