@@ -1526,6 +1526,8 @@ blockquote {
 @media (max-width: 768px) {
   h1 { font-size: 2rem; }
 
+  /* Three header rows would eat a quarter of a phone screen; let it scroll away */
+  .site-header { position: static; }
   .header-inner { flex-wrap: wrap; gap: 0.5rem; }
   /* Section strip: the nav becomes a scrollable second row */
   .site-nav {
