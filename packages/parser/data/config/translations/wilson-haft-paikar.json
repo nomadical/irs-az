@@ -190,7 +190,8 @@
     "incasteUed": "incastelled",
     "efEect": "effect",
     "feiendlv": "friendly",
-    "gmlty": "guilty"
+    "gmlty": "guilty",
+    "spUt": "split"
   },
   "corrections": [
     {
@@ -440,6 +441,18 @@
     {
       "from": "comi)ared",
       "to": "compared"
+    },
+    {
+      "from": "Kong of the holy Law",
+      "to": "King of the holy Law"
+    },
+    {
+      "from": "the aim was be;",
+      "to": "the aim was he;"
+    },
+    {
+      "pattern": "\\*\\* the Praised ’’",
+      "to": "“the Praised”"
     }
   ],
   "sections": [

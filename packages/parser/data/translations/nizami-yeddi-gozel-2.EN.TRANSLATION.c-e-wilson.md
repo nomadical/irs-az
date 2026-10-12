@@ -24,9 +24,9 @@ King of the prophets he by sword and crown — his sword the Law, his crown was 
 
 Untaught, but cause of the first causes, he; light of the earth, the shadow of God’s Throne.
 
-Kong of the holy Law, establisher of the (high) throne of lordship o’er the earth.
+King of the holy Law, establisher of the (high) throne of lordship o’er the earth.
 
-All beings were a means, the aim was be; ** the Praised ’’ his name, his envoyship is praised.
+All beings were a means, the aim was he; “the Praised” his name, his envoyship is praised.
 
 Of the first rose which Adam pressed was he the purest part, but residue the rest;
 
@@ -70,7 +70,7 @@ This body from that soul possesses life: all are (but) throne, and that is Solom
 
 His miracles fresh dates to the dry spines; to foes his fresh dates spines — a wondrous thing!
 
-His nails spUt for his fingers in two halves the apple of the (full) moon in his fist.
+His nails split for his fingers in two halves the apple of the (full) moon in his fist.
 
 Though cutting to the apple danger bring, it splits in two the nails of enemies.
 
