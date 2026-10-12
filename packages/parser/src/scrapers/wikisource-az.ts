@@ -194,6 +194,8 @@ interface ListLink {
   depth: number;
 }
 
+// A {{dəqiqləşdirmə}} page lists same-named works by several authors ({{aydınlaşdırma}} is only a hatnote)
+const DISAMBIGUATION = /\{\{\s*dəqiqləşdirmə\s*[}|]/i;
 const LIST_LINE = /^([*#]+)\s*\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/;
 // Namespaces that never hold a work text
 const FOREIGN_NS = /^(Kateqoriya|Category|Müəllif|İndeks|Səhifə|Fayl|Şəkil|File|Image|Portal|Vikipediya|w|wikipedia|commons|Şablon):/i;
@@ -324,6 +326,9 @@ function nameTokens(name: string): Set<string> {
       .replace(/ǝ/g, 'ə')
       .toLocaleLowerCase('az')
       .replace(/\[\[|\]\]/g, '')
+      // Italics and notes: "''Qasım bəy Zakir''", "Qasım bəy Zakir(10cu sinif dərsliyindən)"
+      .replace(/'{2,}/g, '')
+      .replace(/\([^()]*\)/g, ' ')
       .split(/[\s,]+/)
       .filter((t) => t.length > 2),
   );
@@ -575,8 +580,27 @@ export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePla
     return parts;
   };
 
+  /**
+   * A disambiguation page ("Gərəkdir": Zakir's, Ələsgər's, see also …) stands for the
+   * author's own version only — the link whose disambiguator names the author
+   */
+  const ownVersion = async (page: Page): Promise<Page | null> => {
+    if (!DISAMBIGUATION.test(page.wikitext)) return page;
+    const own = listLinks(page.wikitext, page.title).find((l) => {
+      const m = l.target.match(/\(([^()]*)\)\s*$/);
+      return m && [...nameTokens(m[1])].some((t) => authorTokens.has(t));
+    });
+    if (!own) {
+      plan.skipped.push({ title: page.title, reason: 'missing', detail: 'disambiguation without own version' });
+      return null;
+    }
+    return (await fetchPages([own.target])).get(own.target) ?? null;
+  };
+
   for (const entry of entries) {
-    const page = pages.get(entry.title) ?? null;
+    const listed = pages.get(entry.title) ?? null;
+    const page = listed && (await ownVersion(listed));
+    if (listed && !page) continue;
     if (page && seenPages.has(page.pageid)) continue;
     const params = vet(page, entry.title);
     if (!page || !params) continue;
