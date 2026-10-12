@@ -14,6 +14,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { extractText, getDocumentProxy } from 'unpdf';
 import type { PoemForm } from '../types';
+import { fixHomoglyphs, shortSlug } from './wikisource-az';
 
 const RAW_DIR = path.resolve(__dirname, '../../data/raw');
 
@@ -39,6 +40,15 @@ export interface BookSection {
   quatrains?: string;
   /** Old slugs of works this section replaces, by the n of the work that now holds them */
   previousSlugs?: Record<string, string[]>;
+  /**
+   * Regex on the line that parts untitled poems ("* * *"): each starts a work named by its first
+   * line, slugged from it like a Wikisource poem (`${authorSlug}-${first line}`)
+   */
+  separator?: string;
+  /** Titles for separated poems whose first line won't do (Arabic script), by n */
+  titles?: Record<string, string>;
+  /** Verses numbered every few lines in the margin ("15 Rüxü …"): the numbers are dropped */
+  verseNumbers?: boolean;
 }
 
 export interface BookConfig {
@@ -51,6 +61,13 @@ export interface BookConfig {
   headingFixes?: Record<string, string>;
   /** Words kept capitalised in titles (stems: "leyli" also covers "Leyliyə") */
   names?: string[];
+  /**
+   * Pages printed as images, with no text layer, typed from the scan: page number → its lines.
+   * "[…]" stands for lines the edition prints in Arabic script as pictures
+   */
+  pageTexts?: Record<string, string>;
+  /** The font has no İ: a capital I before a lowercase letter is read as İ ("Irişdi" → "İrişdi") */
+  dotlessCapitalI?: boolean;
   sections: BookSection[];
 }
 
@@ -102,11 +119,20 @@ const isJoiner = (line: string) => line === 'və' || line === 'va' || line === '
 const isHeading = (line: string) =>
   isJoiner(line) || (/\p{Lu}{2}/u.test(line) && !/\p{Ll}/u.test(line.replace(/\d+$/, '')));
 
-/** Footnote markers glued to a word or quote ("biniş1." → "biniş."), and "ä" misread for "ə" in verse */
+/**
+ * Footnote markers glued to a word or quote ("biniş1." → "biniş.", "qürəşi*,"), "ä" misread for
+ * "ə" in verse, and Cyrillic look-alikes in Latin words ("оldu")
+ */
 const clean = (line: string) =>
-  line
-    .replace(/(\p{L}['’]?|["»”])\d{1,2}(?=[\s.,!?;:"»)]|$)/gu, '$1')
-    .replace(/ä/g, 'ə');
+  fixHomoglyphs(
+    line
+      .replace(/(\p{L}['’]?|["»”])\d{1,2}(?=[\s.,!?;:"»)]|$)/gu, '$1')
+      .replace(/(\p{L})\*+/gu, '$1')
+      .replace(/ä/g, 'ə'),
+  );
+
+/** Lines the edition prints as pictures (Arabic script), left out where they stood */
+const GAP = '[…]';
 
 /** Wrapped prose runs to the margin; verse lines stop well short of it */
 const PROSE_WIDTH = 65;
@@ -180,22 +206,29 @@ function joinHeading(lines: string[]): string {
   return parts.join(' ').replace(/\s+/g, ' ').trim();
 }
 
+/** Stands in a separated section's token list for the line that parts two poems */
+const SEPARATOR = '\u0000separator';
+
 interface Token {
   kind: 'heading' | 'sub' | 'line';
   text: string;
   page: number;
 }
 
-function tokens(pages: string[], [from, to]: [number, number]): Token[] {
+function tokens(pages: string[], book: BookConfig, section: BookSection): Token[] {
   const out: Token[] = [];
+  const [from, to] = section.pages;
   for (let page = from; page <= to; page++) {
-    const lines = (pages[page - 1] ?? '').split('\n').map((l) => l.trim());
+    const lines = (book.pageTexts?.[page] ?? pages[page - 1] ?? '').split('\n').map((l) => l.trim());
     if (/^\d+$/.test(lines[0] ?? '')) lines.shift();
-    for (const raw of lines) {
+    for (let raw of lines) {
       if (!raw) continue;
-      // Footnotes close the page: "1 Tərcüməsi: …" and the prose lines after it
-      if (/^\d{1,2}\s+\S/.test(raw)) break;
-      const text = clean(raw);
+      if (section.verseNumbers) raw = raw.replace(/^\d{1,3}\s+(?=\p{Lu})/u, '');
+      // Footnotes close the page: "1 Tərcüməsi: …", "* Qüreyşi" (a variant reading), and the
+      // prose lines after it
+      if (/^\d{1,2}\s+\S/.test(raw) || /^\*\s*\p{L}/u.test(raw)) break;
+      let text = clean(raw);
+      if (book.dotlessCapitalI) text = text.replace(/(?<!\p{L})I(?=[a-zəüöğçş])/gu, 'İ');
       // Roman numerals number the opening rubais; the stanza break already shows them apart
       if (/^[IVX]+$/.test(text)) continue;
       out.push({ kind: isHeading(text) ? 'heading' : 'line', text, page });
@@ -214,7 +247,12 @@ export function parseSection(pages: string[], book: BookConfig, section: BookSec
 
   // Consecutive heading lines are one heading
   const items: Token[] = [];
-  for (const t of tokens(pages, section.pages)) {
+  const separatorRe = section.separator ? new RegExp(section.separator) : null;
+  for (const t of tokens(pages, book, section)) {
+    if (separatorRe?.test(t.text)) {
+      items.push({ ...t, kind: 'heading', text: SEPARATOR });
+      continue;
+    }
     if (subRe?.test(t.text)) {
       items.push({ ...t, kind: 'sub' });
       continue;
@@ -239,13 +277,25 @@ export function parseSection(pages: string[], book: BookConfig, section: BookSec
       block = { lines: [] };
       return;
     }
-    if (block.lines.length % size) {
-      work.warnings.push(`"${block.heading ?? work.titleAz}": ${block.lines.length} lines, not in ${size}s`);
-    }
-    const stanzas: string[] = [];
-    for (let i = 0; i < block.lines.length; i += size) stanzas.push(block.lines.slice(i, i + size).join('\n'));
     if (block.heading) parts.push(`### ${block.sub ? block.heading : titleCase(joinHeading(block.heading.split('\n')), names)}`);
-    if (stanzas.length) parts.push(stanzas.join('\n\n'));
+    // Stanzas run afresh after each gap, which stands as a paragraph of its own
+    let run: string[] = [];
+    const flushRun = () => {
+      if (run.length % size) {
+        work!.warnings.push(`"${block.heading ?? work!.titleAz}": ${run.length} lines from "${run[0].slice(0, 30)}", not in ${size}s`);
+      }
+      const stanzas: string[] = [];
+      for (let i = 0; i < run.length; i += size) stanzas.push(run.slice(i, i + size).join('\n'));
+      if (stanzas.length) parts.push(stanzas.join('\n\n'));
+      run = [];
+    };
+    for (const line of block.lines) {
+      if (line === GAP) {
+        flushRun();
+        parts.push(GAP);
+      } else run.push(line);
+    }
+    flushRun();
     block = { lines: [] };
   };
   const flushWork = () => {
@@ -270,7 +320,34 @@ export function parseSection(pages: string[], book: BookConfig, section: BookSec
     };
   }
 
+  let untitled = false;
   for (const item of items) {
+    if (item.kind === 'heading' && item.text === SEPARATOR) {
+      flushWork();
+      untitled = true;
+      continue;
+    }
+    // In a separated section a heading in capitals names a poem of its own
+    const titled = separatorRe && item.kind === 'heading';
+    if ((item.kind === 'line' && untitled) || titled) {
+      if (titled) flushWork();
+      untitled = false;
+      const n = works.length + 1;
+      const titleAz =
+        section.titles?.[String(n)] ??
+        (titled ? titleCase(joinHeading(fix(item.text).split('\n')), names) : item.text.replace(/[,.;:]+$/, ''));
+      work = {
+        n,
+        slug: shortSlug(`${book.authorSlug}-${titleAz}`),
+        sourceId: `${book.id}-${section.slugBase}-${n}`,
+        titleAz,
+        body: '',
+        page: item.page,
+        previousSlugs: section.previousSlugs?.[String(n)],
+        warnings: [],
+      };
+      if (titled) continue;
+    }
     if (item.kind === 'line') {
       block.lines.push(item.text);
       continue;

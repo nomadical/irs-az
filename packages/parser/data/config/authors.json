@@ -9,6 +9,13 @@
     "period": "XVI əsr",
     "writingLangs": ["AZ_ARABIC", "FA", "AR"],
     "skipSources": [
+      "wikisource-az-1959",
+      "wikisource-az-1960",
+      "wikisource-az-1961",
+      "wikisource-az-1962",
+      "wikisource-az-1963",
+      "wikisource-az-1964",
+      "wikisource-az-1965",
       "wikisource-az-23990",
       "wikisource-az-23198",
       "wikisource-az-23204",

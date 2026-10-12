@@ -352,7 +352,7 @@ function cleanTitle(title: string, authorTokens: Set<string>): string {
 }
 
 /** Readable slug capped at ~70 chars on a word boundary */
-function shortSlug(text: string): string {
+export function shortSlug(text: string): string {
   const s = slugify(text);
   if (s.length <= 70) return s;
   return s.slice(0, 70).replace(/-[^-]*$/, '');

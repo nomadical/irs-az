@@ -1,19 +1,18 @@
 ---
 slug: fuzuli-men-kimem-bir-feqiri-biseru-pa
-sourceId: wikisource-az-1961
-titleAz: Mən kiməm? - bir fəqiri-bisərü pa
+sourceId: anl-fm-e4-fuzuli-qeside-36
+titleAz: Mən kiməm? – Bir fəqiri-bisərü pa
 authorSlug: fuzuli
 collectionSlug: fuzuli-qesideler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
 form: QASIDA
-order: 2
-sourceNote: >-
-  https://az.wikisource.org/wiki/M%C9%99n%20kim%C9%99m%20%3F%20-%20bir%20f%C9%99qiri-bis%C9%99r%C3%BC%20pa
+order: 36
+sourceNote: 'https://anl.az/el/f/fm_e4.pdf#page=125'
 status: DRAFT
 ---
-Mən kiməm ? - bir fəqiri-bisərü pa,
+Mən kiməm? – Bir fəqiri-bisərü pa,
 Kəmtərin bəndəvü kəminə gəda.
 
 Sayiri-kargahi-səbrü sükun,
@@ -22,8 +21,8 @@ Saliki-şahrahi-fəqrü fəna.
 Nə mizacimdə irtikabi-qürur,
 Nə fəalimdə ehtimali-riya.
 
-Künci-üzlətdə fəqrü faqə ilə,
-Olmuşam eylə məhv kim, məsəla:
+Künci-üzlətdə fəqrü faqə ilə
+Olmuşam öylə məhv kim, məsəla:
 
 Mərkəzi-xaki etsə zirü zəbər,
 Bulamaz gərdimi nəsimi-səba.
@@ -35,85 +34,87 @@ Qılmazam karü bari-aləmə meyl,
 Çəkməzəm əzlü nəsb üçün qovğa.
 
 Mənə vermiş cahan qamu fəqrin,
-Nola ursam cahanə istiğna.
+Nola ursam cahana istiğna.
 
 Aləmi-üzlətin yeganəsiyəm,
-Qafdən-qafə yox mənə həmta.
+Qafdən-Qafə yox mənə həmta.
 
-Surətim fəqrü siyrətim münim,
-Heyrətim murü himmətim ənqa.
+Surətim fəqrü siyrətim mün’im,
+Hey’ətim murü himmətim ənqa.
 
-Rifəti-qədrim iltifat etməz
+Rif’əti-qədrim iltifat etməz,
 Gər Süleyman qılırsa ərz əta.
 
 Faniyi-mütləqəm, qəbul etmən
 Minnəti-Xizr ilə zülali-bəqa.
 
 Deməzəm vəhşiyəm, təbiət ilə
-Talibi-zövqi-söhbətəm, əmma.
+Talibi-zövqi-söhbətəm, əmma
 
-Bir diyar içrəyəm ki, xəlqindən,
+Bir diyar içrəyəm ki, xəlqindən
 Eyləməz hiç kim mənə pərva.
 
 Kimsə yox dərdim eyləyim izhar,
 Eyləyim ondan iltimasi-dəva.
 
-Ləlvəş daş içindədir vətənim,
-Gül kimi, xarı qılmışam məva.
+Lə’lvəş daş içindədir vətənim,
+Gül kimi, xarı qılmışam mə’va.
 
 Dün bu hal ilə məhvi-heyrət ikən,
-Gəldi bir qasidü gətirdi mana -
+Gəldi bir qasidü gətirdi mana
 
-Bir əcəb nameyi-fərəhtəsir
+Bir əcəb nameyi-fərəhtə’sir,
 Məhz hüsni-ibarətü imla.
 
 Zahiri dilpəzirü feyzrəsan,
 Batini feyzbəxşü ruhəfza.
 
 Nəqşi-xəttində əltəfi-surət,
-Tərzi-ləfzində əşrəfi-məna.
+Tərzi-ləfzində əşrəfi-mə’na.
 
 Cilvəgahi-nəzərdə hər ləfzi,
 Bir pəripeykərü mələksima.
 
-İşvəvü şivəvü kirişmə ilə,
+İşvəvü şivəvü kirişmə ilə
 Dil edər seydü əql edər yəğma.
 
 Fəhm qıldıqda hüsni-məzmunun,
 Qıldım onda sürurlər peyda.
 
 Bəndəyi lütf birlə yad etmiş
-Hazrəti-seyyidi-xücəstəliqa.
+Həzrəti-seyyidi-xücəstəliqa.
 
 Ol fələkqədr kim, ona vermiş
-Hikməti-həq kəmali-sidqü səfa.
+Hikməti-Həq kəmali-sidqü səfa.
 
 Zati-paki cəmii-aləmdən
 Şərəfi-rütbə ilə müstəsna.
 
-Feyzi-elmi-ifadəyi-bəşəri,
+Feyzi-elmi ifadeyi-bəşəri,
 Ona ərvahi-qüdsdən ilqa.
 
 Əslidir nuri-paki-müstəfəvi,
 Hökmüdür rövnəqi-səriri-qəza.
 
 Elmidir baisi-rəfahəti-xəlq,
-Felidir mucibi-rizayi-xuda.
+Fe’lidir mövcibi-rizayi-Xuda.
 
-Az olur bir arada cəm olmaq,
+Az olur bir arada cəm olmaq
 Hökmü elmü səyadətü təqva.
 
-Mir seyyid Məhəmmədi qazi,
+Mir Seyyid Məhəmmədi qazi,
 Mənbəi-elmü helmü cudü səxa.
 
-Ey qəzahökm kim, müyyəsərdir,
+[…]
+
+Ey qəzahökm kim, müyəssərdir
 Zatinə iqtidari-izzü əla.
 
-Güli-gülzari-itrəti-nəbəvi
+Güli-gülzari-itrəti-nəbəvi,
 Çəmənarayi-milləti-Zəhra.
 
 Nuri-çeşmi-təmamiyi-sadat,
-Müqtədayi-cəmin-əhli-zəka.
+Müqtədayi-cəmii-əhli-zəka.
 
 Mənə təqsir hökmün etmişsən,
 Demək olmaz bu hökmə hökmi-xəta.
@@ -122,25 +123,25 @@ Leyk bir bəndeyi-həqirəm mən,
 Əməlim əhli-xeyrə xeyr-dua.
 
 Sahibi-üsrətəm, mənə nə düşər
-Kim, olam həmnişini-əhli-qina?
+Kim, olam həmnişini-əhli-ğina?
 
 Məhzi-cəhləm, mənə nə nisbətdir
 Ki, qılam meyl söhbəti-füzəla?
 
 Gərçi əflakə rəğbət eylər xak,
-Yetməz əlayə rütbeyi-ədna.
+Yetməz ə’layə rütbeyi-ədna.
 
 Lütf səndən mənə münasib ikən,
 Məndən olmaq mütaləbət nə rəva?
 
-Ey Füzuli, bu növ, dəvadə,
+Ey Füzuli, bu növ, də’vadə,
 Məsləhətdir dutam təriqi-riza.
 
 Hal müşküldür onda kim, bir ola,
-Sahibi-hökmü sahibi-dəva!
+Sahibi-hökmü sahibi-də’va.
 
 Var ümidim ki, ta müəssirlə,
-Sabitü sayir ola ərzü səma.
+Sabitü sayir ola ərzü səma,
 
 Ola hökmi-qəza ilə baqi
-Qaziyi-qaziyi-xücəstə liqa.
+Qaziyi-ğaziyi-xücəstəliqa.
