@@ -45,6 +45,8 @@ export interface SplitConfig {
    * Each dropped passage leaves a "[…]" between the verse on either side.
    */
   prose?: { left: number; right: number };
+  /** Opening lines of the translator's three-line rhymes, kept together among the couplets */
+  triplets?: string[];
   /** Every page checked against the scan: the works go out published */
   proofread?: boolean;
 }
@@ -128,6 +130,7 @@ export async function poemPageLines(cfg: SplitConfig, opts: { sections?: boolean
 
 export async function planSplit(cfg: SplitConfig): Promise<{ translations: SplitTranslation[]; unusedCorrections: string[] }> {
   const used = new Set<number>();
+  const usedTriplets = new Set<string>();
   let text = (await poemLines(cfg)).join('\n');
   (cfg.corrections ?? []).forEach((c, i) => {
     const next = 'from' in c ? text.split(c.from).join(c.to) : text.replace(new RegExp(c.pattern, c.flags ?? 'g'), c.to);
@@ -149,12 +152,18 @@ export async function planSplit(cfg: SplitConfig): Promise<{ translations: Split
     while (chunk[chunk.length - 1] === GAP) chunk.pop();
     const warnings: string[] = [];
     const couplets: string[] = [];
-    // Paired like the original's couplets, afresh after each gap; rhymes are too irregular in
-    // spelling to check
+    // Paired like the original's couplets, afresh after each gap, bar the triplets the config
+    // names; rhymes are too irregular in spelling to check
     let run: string[] = [];
     const flush = () => {
-      if (run.length % 2) warnings.push(`${run.length} lines from "${run[0].slice(0, 30)}", odd`);
-      for (let k = 0; k < run.length; k += 2) couplets.push(run.slice(k, k + 2).join('\n'));
+      for (let k = 0; k < run.length; ) {
+        const triplet = cfg.triplets?.find((t) => run[k].startsWith(t));
+        if (triplet) usedTriplets.add(triplet);
+        const size = triplet ? 3 : 2;
+        if (k + size > run.length) warnings.push(`${run.length} lines from "${run[0].slice(0, 30)}", one left over`);
+        couplets.push(run.slice(k, k + size).join('\n'));
+        k += size;
+      }
       run = [];
     };
     for (const line of chunk) {
@@ -174,6 +183,7 @@ export async function planSplit(cfg: SplitConfig): Promise<{ translations: Split
   });
   const unusedCorrections = (cfg.corrections ?? [])
     .filter((_, i) => !used.has(i))
-    .map((c) => ('from' in c ? c.from : `/${c.pattern}/`));
+    .map((c) => ('from' in c ? c.from : `/${c.pattern}/`))
+    .concat((cfg.triplets ?? []).filter((t) => !usedTriplets.has(t)).map((t) => `triplet: ${t}`));
   return { translations, unusedCorrections };
 }

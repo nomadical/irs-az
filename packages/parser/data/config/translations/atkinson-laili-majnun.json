@@ -12,6 +12,10 @@
   "first": "Saki,1 thou know",
   "last": "At last with bliss seraphic glows",
   "runningHeads": "(LOVES\\s+O[FEP]\\b|^LA[IT]LI\\s+AND\\s+MAJN\\S*(\\s+\\S{1,4})?$)",
+  "triplets": [
+    "Whose balmy lips like rubies glow;",
+    "Him and the only wish that shed"
+  ],
   "starts": {
     "10": "Saki, thou know",
     "12": "Mark, where instruction",

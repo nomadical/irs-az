@@ -195,17 +195,16 @@ With charms eclipsing royal birth;
 
 Whose balmy lips like rubies glow;
 Sugar and milk their sweetness show;
-
 Her words like softest music flow:
+
 Adorned in all the pride of spring,
-
 Her robes around rich odours fling;
+
 Sparkling with gold and gems, she seems
-
 The bright perfection of a lover's dreams;
+
 Then why, with such a prize at home,
-
 For charms inferior amid strangers roam?
-Bid all unduteous thoughts depart,
 
+Bid all unduteous thoughts depart,
 And wisely banish Lailí from thy heart.'
