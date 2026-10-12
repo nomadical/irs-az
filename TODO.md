@@ -25,8 +25,9 @@ Public domain only (died 1955 or earlier, life + 70). Sources are unverified unt
 - [ ] Mikayıl Müşfiq — XX, AZ — wikisource
 
 Housekeeping:
-- [ ] Delete the empty duplicate authors `nizami-gencevi` and `nesimi` from the DB
+- [x] Delete the empty duplicate authors `nizami-gencevi` and `nesimi` from the DB
 - [ ] Confirm Azerbaijan's copyright term; Vurğun (d. 1956) is only PD from 2027 under life + 70
+- [ ] 1 January 2027: publish Səməd Vurğun's translation of Nizami's *Leyli və Məcnun* (46 drafts): drop `hold` from `data/config/translations/vurgun-leyli-ve-mecnun.json`, re-run `scrape-translations --book vurgun-leyli-ve-mecnun`, import with `--translator "Səməd Vurğun" --publish`
 
 Not yet (in copyright): Abdulla Şaiq (free 2030), Əliağa Vahid (free 2036), Şəhriyar and later.
 

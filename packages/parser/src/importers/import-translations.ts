@@ -35,9 +35,10 @@ export async function importTranslations(opts: {
   dryRun?: boolean;
   authorSlug?: string;
   publish?: boolean;
+  translator?: string;
 }) {
   const db = getDb();
-  const files = loadTranslationFiles();
+  const files = loadTranslationFiles().filter((f) => !opts.translator || f.frontmatter.translator === opts.translator);
 
   // If filtering by author, we need to resolve which work slugs belong to that author
   let allowedWorkSlugs: Set<string> | null = null;
@@ -91,10 +92,10 @@ export async function importTranslations(opts: {
       where: { workId: work.id, language: fm.language, type: fm.type, translator: fm.translator ?? null },
     });
     if (existing) {
-      await db.translation.update({ where: { id: existing.id }, data: { ...data, ...statusUpdate(opts) } });
+      await db.translation.update({ where: { id: existing.id }, data: { ...data, ...statusUpdate(opts, fm.hold) } });
     } else {
       await db.translation.create({
-        data: { ...data, workId: work.id, language: fm.language, type: fm.type, status: newStatus(opts, fm.status) },
+        data: { ...data, workId: work.id, language: fm.language, type: fm.type, status: newStatus(opts, fm.status, fm.hold) },
       });
     }
 

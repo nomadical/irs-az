@@ -144,7 +144,7 @@ function proseAndVerse(lines: string[], size: number): string[] {
   return out;
 }
 
-function titleCase(heading: string, names: string[]): string {
+export function titleCase(heading: string, names: string[]): string {
   const words = azLower(heading).split(' ');
   // Names inside compounds too: "qəzəli-leyli" → "qəzəli-Leyli"
   const out = words.map((w) =>

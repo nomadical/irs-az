@@ -129,6 +129,8 @@ export interface TranslationFrontmatter {
   year?: number;
   sourceNote?: string;
   isDefault?: boolean;
+  /** Why the translation must stay a draft (still in copyright); the importer never publishes it */
+  hold?: string;
   status: PublishStatus;
 }
 

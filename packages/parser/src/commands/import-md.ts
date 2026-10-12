@@ -15,7 +15,8 @@ export const importMdCommand = new Command('import-md')
   .option('--dry-run', 'Show what would be imported without writing to DB')
   .option('--force', 'Overwrite existing records even if unchanged')
   .option('--publish', 'Override status to PUBLISHED for all imported records')
-  .action(async (opts: { type: ImportType; author?: string; dryRun?: boolean; force?: boolean; publish?: boolean }) => {
+  .option('--translator <name>', "Only import translations by this translator (as in the files' frontmatter)")
+  .action(async (opts: { type: ImportType; author?: string; dryRun?: boolean; force?: boolean; publish?: boolean; translator?: string }) => {
     const commonOpts = {
       dryRun: opts.dryRun,
       force: opts.force,
@@ -42,7 +43,7 @@ export const importMdCommand = new Command('import-md')
             await importWorks(commonOpts);
             break;
           case 'translations':
-            await importTranslations(commonOpts);
+            await importTranslations({ ...commonOpts, translator: opts.translator });
             break;
           case 'artworks':
             await importArtworks(commonOpts);

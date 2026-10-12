@@ -3,6 +3,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { loadBookConfig, planBookTranslation } from '../translations/book';
 import { loadAnthologyConfig, planAnthology } from '../translations/anthology';
+import { loadWikisourceConfig, planWikisourceTranslation } from '../translations/wikisource';
 import { writeTranslationMd } from '../writers/md-writer';
 import { slugify } from '../utils/slug';
 
@@ -49,6 +50,37 @@ async function scrapeAnthology(id: string, dryRun: boolean) {
   console.log(`  Wrote ${plan.items.length} translations`);
 }
 
+/** A translation published on az.wikisource chapter by chapter, aligned to our works by hand */
+async function scrapeWikisource(id: string, dryRun: boolean) {
+  const cfg = loadWikisourceConfig(id);
+  console.log(`\n=== ${cfg.title} (${cfg.translator}) ===`);
+  const plan = await planWikisourceTranslation(cfg);
+  for (const t of plan) {
+    console.log(`  ${t.workSlug}: ${t.couplets} couplets  ← ${t.chapters.join(' + ')}`);
+    for (const w of t.warnings) console.warn(`     ! ${w}`);
+  }
+  if (dryRun) return;
+
+  for (const t of plan) {
+    writeTranslationMd(
+      {
+        workSlug: t.workSlug,
+        language: 'AZ_LATIN',
+        type: 'TRANSLATION',
+        scriptDirection: 'LTR',
+        translator: cfg.translator,
+        translatorNote: cfg.translatorNote,
+        sourceNote: t.sourceUrl,
+        isDefault: true,
+        ...(cfg.hold && { hold: cfg.hold }),
+        status: 'DRAFT',
+      },
+      t.body,
+    );
+  }
+  console.log(`  Wrote ${plan.length} translations`);
+}
+
 export const scrapeTranslationsCommand = new Command('scrape-translations')
   .description('Align a public-domain book translation to our works and write .md files')
   .requiredOption('--book <id>', 'Book config in data/config/translations, e.g. wilson-haft-paikar')
@@ -56,6 +88,7 @@ export const scrapeTranslationsCommand = new Command('scrape-translations')
   .action(async (opts: { book: string; dryRun?: boolean }) => {
     const layout = JSON.parse(fs.readFileSync(path.join(CONFIG_DIR, `${opts.book}.json`), 'utf-8')).layout;
     if (layout === 'anthology') return scrapeAnthology(opts.book, !!opts.dryRun);
+    if (layout === 'wikisource') return scrapeWikisource(opts.book, !!opts.dryRun);
 
     const cfg = loadBookConfig(opts.book);
     console.log(`\n=== ${cfg.title} (${cfg.translator}, ${cfg.year}) ===`);

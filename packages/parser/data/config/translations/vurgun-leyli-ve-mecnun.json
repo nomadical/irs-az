@@ -1,0 +1,99 @@
+{
+  "id": "vurgun-leyli-ve-mecnun",
+  "layout": "wikisource",
+  "title": "Nizami Gəncəvi, «Leyli və Məcnun», tərcümə edən Səməd Vurğun",
+  "translator": "Səməd Vurğun",
+  "translatorNote": "Səməd Vurğunun tərcüməsi Ganjoor-un izlədiyi nəşrdən daha geniş nüsxəyə əsaslanır; Ganjoor-da olmayan fəsillər (məsələn, «Zeydlə Zeynəbin sevgisi haqqında») özlərindən əvvəlki bölməyə əlavə olunub. «…» Vikimənbədə düşüb qalmış misranın yerini göstərir.",
+  "hold": "Səməd Vurğun died in 1956; his translation is protected in Azerbaijan until the end of 2026 (life + 70). Publish from 1 January 2027",
+  "index": "Leyli və Məcnun (Nizami Gəncəvi)",
+  "workSlugBase": "nizami-leyli-ve-mecnun",
+  "names": [
+    "leyli",
+    "məcnun",
+    "nofəl",
+    "ibn-səlam",
+    "zeyd",
+    "zeynəb",
+    "səlim",
+    "məhəmməd",
+    "allah"
+  ],
+  "corrections": [
+    {
+      "from": "Nofəl bu xoş olan umu-küsüdən Odlarda mum kimi yumşaldı,\nbilsən. Qalxıb hazırlaşdı yol səfərinə,",
+      "to": "Nofəl bu xoş olan umu-küsüdən\nOdlarda mum kimi yumşaldı, bilsən.\nQalxıb hazırlaşdı yol səfərinə,"
+    },
+    {
+      "from": "Səbrim tükənmişdir,\nşaşqınam bu dəm,",
+      "to": "Səbrim tükənmişdir, şaşqınam bu dəm,"
+    },
+    {
+      "from": "Sonra öz sözünün ziddinə olmaq Bil ki,\nböyüklükdən uzaqdır,\nməncə, Dostluğun vəfası budurmu, səncə?",
+      "to": "Sonra öz sözünün ziddinə olmaq\nBil ki, böyüklükdən uzaqdır, məncə,\nDostluğun vəfası budurmu, səncə?"
+    },
+    {
+      "from": "Bir elçi çağırdı, sözüm var,\ndeyə, Nofəl ismarladı:\n\"Öz ordumla mən\nOd kimi keçərəm üzərinizdən.",
+      "to": "Bir elçi çağırdı, sözüm var, deyə,\nNofəl ismarladı: \"Öz ordumla mən\nOd kimi keçərəm üzərinizdən."
+    },
+    {
+      "from": "Sonra da atardı damın üstündən,\n",
+      "to": "Sonra da atardı damın üstündən,\n…\n"
+    },
+    {
+      "from": "Böyükdür, nəcibdir o çox şanlıdır.\n",
+      "to": "Böyükdür, nəcibdir o çox şanlıdır.\n…\n"
+    },
+    {
+      "from": "Ona söz yazardı min həyəcanla.\nSalam göndərərdi sərvə yasəmən.",
+      "to": "Ona söz yazardı min həyəcanla.\n…\nSalam göndərərdi sərvə yasəmən."
+    }
+  ],
+  "starts": {
+    "1": "Ön söz",
+    "2": "Sonuncu Peyğəmbərin tərifi",
+    "3": "Hikmət və moizə haqqında",
+    "4": "Kitabın yazılmasının səbəbi",
+    "5": "Axsitanın tərifi",
+    "6": "Padşaha xitab",
+    "7": "Şahzadənin tərifi və oğlumun ona tapşırılması",
+    "8": "Məni inkar edənlərdən şikayət",
+    "9": "Oğlum Məhəmmədə nəsihət",
+    "10": "Ölən qohumlarımdan xatirələr",
+    "11": "Dastanın başlanğıcı",
+    "12": "Leyli və Məcnunun sevişməsi",
+    "13": "Leyli və Məcnunun sevişməsi @ MƏCNUNUN EŞQİ HAQQINDA",
+    "14": "Leyli və Məcnunun sevişməsi @ MƏCNUNUN ATASININ LEYLİYƏ ELÇİ GETMƏSİ",
+    "15": "Leyli və Məcnunun sevişməsi @ LEYLİNİN EŞQİ İLƏ MƏCNUNUN AĞLAYIB",
+    "16": "Atasının Məcnunu Kəbəyə aparması",
+    "17": "Atasının Məcnuna nəsihəti",
+    "18": "Atasının Məcnuna nəsihəti @ Kəklik qarışqanı dimdikləyərək",
+    "19": "Leylinin əhvalı haqqında",
+    "20": "İbn-Səlamın Leylini istəməsi",
+    "21": "Nofəlin Məcnunla tanış olması",
+    "22": "Leylinin qəbiləsi ilə Nofəlin müharibə etməsi",
+    "23": "Məcnunun Nofələ açıqlaması (Sülhün qoqusunu duyunca Məcnun)",
+    "24": "Nofəlin ikinci müharibəsi",
+    "25": "Məcnunun ahuları azad etməsi",
+    "26": "Məcnunun qarğa ilə söhbəti",
+    "27": "Qarının Məcnunu Leylinin qapısına aparması",
+    "28": "İbn-Səlamın dastanı",
+    "29": "Leylinin ərə getməsindən Məcnunun xəbər tutması",
+    "30": "Atasının Məcnunun görüşünə getməsi",
+    "31": "Atasının Məcnunla vidalaşması",
+    "32": "Atasının ölümündən Məcnunun xəbər tutması",
+    "33": "Məcnun vəhşilər arasında",
+    "34": "Məcnunun ulduzlara şikayəti",
+    "35": "Leylinin məktubunun Məcnuna yetişməsi",
+    "36": "Məcnunun məktubunu Leylinin oxuması",
+    "37": "Məcnunun dayısı Səlim Amirinin Məcnunu görməyə gəlməsi",
+    "38": "Hekayə (Bir gün adlı-sanlı şahlardan biri) @ Ana öz oğluna boylandı",
+    "39": "Anasının ölümündən Məcnunun xəbər tutması",
+    "40": "Leylinin Məcnuna sifarişi",
+    "41": "Məcnunun qəzəl oxumağı",
+    "42": "Bağdadlı Səlamın Məcnunun görüşünə getməsi",
+    "43": "İbn Səlamın ölümü",
+    "44": "Payızın yetişməsi və Leylinin ölməsi",
+    "45": "Leylinin qəbri üzərində Məcnunun ölməsi",
+    "46": "Kitabın sonu"
+  }
+}
