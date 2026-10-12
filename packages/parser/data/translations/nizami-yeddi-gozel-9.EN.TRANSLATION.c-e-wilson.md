@@ -10,9 +10,9 @@ sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
 status: DRAFT
 ---
-Then Mun went together with his sice, girding his loins to seek for such (a place).
+Then Munzir went together with his sire, girding his loins to seek for such (a place).
 
-He sought a spacious place, a lofty fort, exempt from heat, and free &om noxiousness.
+He sought a spacious place, a lofty fort, exempt from heat, and free from noxiousness.
 
 Such castle in those regions was not found; and those which were did not (quite) suit their aim.
 
@@ -38,7 +38,7 @@ With judgment and discernment joined to this the stars he’d studied, taken alt
 
 His glance had spun a web across the sky from out the astro-labian spider’s mouth.
 
-Like Roman Phny he had judgment keen, formed tables, and solved talismans as well.
+Like Roman Pliny he had judgment keen, formed tables, and solved talismans as well.
 
 Acquainted with the veiled ones of the sky, the moon’s night raids, the sun’s hostility.
 
@@ -46,9 +46,9 @@ The ordering of this business might be found in him, he (only) such a robe could
 
 With clay so (grand) a dome would he construct that it would snatch lamps from the stars away.
 
-When Nu'maji’s heart in that desire and quest grew ardent from the fire of (famed) Simnar,
+When Nu'man’s heart in that desire and quest grew ardent from the fire of (famed) Simnar,
 
-He sent, and from that coimtiy summoned him: enticed him e"en by Grecian wiles from Greece.
+He sent, and from that country summoned him: enticed him e’en by Grecian wiles from Greece.
 
 When Simnar came to Nu‘man, Nu'man’s wish for the affair increased from one to seven.
 
@@ -88,9 +88,9 @@ When clouds inveiled the sun it (then) became in subtile beauty like a silver cl
 
 (Wrapped) in the veil of concord with the air, it showed by turns the Greek’s and Ethiop’s look.
 
-WThen Simnar to an end had brought the work; more beautiful had made it than was asked.
+When Simnar to an end had brought the work; more beautiful had made it than was asked.
 
-Its splendour rose above the lofty sky; the sun from his Kiavamaq splendour stole.
+Its splendour rose above the lofty sky; the sun from his Khavarnaq splendour stole.
 
 Nu'man gave him good tidings of reward so great that for its half he had not hoped:
 
@@ -102,7 +102,7 @@ If you withhold the firewood from the fire, the meat remains* uncooked upon the 
 
 The giving hand, to “ dirams ” a distress, is usher of the court of noble traits. —
 
-The bxdlder (then) who found such kindness (shown) and hopefully heard promises of (wealth).
+The builder (then) who found such kindness (shown) and hopefully heard promises of (wealth).
 
 Said, If before this business I had known of (all) that which the king has promised me.
 
@@ -134,9 +134,9 @@ Said Nu'man, If he’s left with gold and power, he’ll (no doubt) elsewhere bu
 
 (Thus thinking), he gave orders to his slaves to throw him from the roof with no delay.
 
-So that they tore that cypress from the root; they blinded Mm, and threw him from the fort. —
+So that they tore that cypress from the root; they blinded him, and threw him from the fort. —
 
-The worker see — how earth, which blood devours, parted Mm from the object of his work!
+The worker see — how earth, which blood devours, parted him from the object of his work!
 
 He raised a castle in some years aloft, and fortune threw him from it in a trice.
 
@@ -150,4 +150,4 @@ If he had been aware of his own tomb, three ells he’d not exceeded by a span.
 
 By that exalted building Nu'man’s name through highness flung (its) lasso round the moon.
 
-The people called Mm sorcerer supreme; the earth entitled him “Khavarnaq’s Lord”.
+The people called him sorcerer supreme; the earth entitled him “Khavarnaq’s Lord”.

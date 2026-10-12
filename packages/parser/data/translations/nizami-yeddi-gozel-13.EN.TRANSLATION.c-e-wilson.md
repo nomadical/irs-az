@@ -28,13 +28,13 @@ They on the walls of that apartment showed all that the finest workmanship could
 
 In it were finely painted seven forms, each one connected with a certain Clime:
 
-Piirak, of India’s Baja daughter, first, in face more lovely than the moon when full.
+Furak, of India’s Raja daughter, first, in face more lovely than the moon when full.
 
 (Then) Yaghma-Naz, the Khaqan’s daughter fair, disturber of Taraz and China’s belles.
 
 The king of Khyarazm’s daughter Naz-Pari, graceful as mountain-partridge in her gait.
 
-The king of Saqlab’s daughter Hasrin-Nush, a Turk of Greek dress decked by Chinese art.
+The king of Saqlab’s daughter Nasrin-Nush, a Turk of Greek dress decked by Chinese art.
 
 The king of Maghrib’s daughter Azar-Gun, a sun like to the daily waxing moon.
 

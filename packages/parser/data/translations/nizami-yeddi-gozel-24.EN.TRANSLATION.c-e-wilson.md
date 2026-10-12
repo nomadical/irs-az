@@ -30,7 +30,7 @@ He asked for her with more than thousand gifts, and e'en through (shining) virtu
 
 Sending a courier to the khaqan then — partly in amity, in part with threats —
 
-He asked Mm for his daughter with the crown and treasure, tribute for seven years besides.
+He asked him for his daughter with the crown and treasure, tribute for seven years besides.
 
 The khaqan give his daughter, tribute too, a load of “ dinars and a store of gems.
 

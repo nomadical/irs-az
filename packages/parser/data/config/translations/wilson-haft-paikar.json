@@ -229,7 +229,16 @@
     "whohy": "wholly",
     "cohar": "collar",
     "feh": "fell",
-    "Malud": "Mahmud"
+    "Malud": "Mahmud",
+    "Mm": "him",
+    "Phny": "Pliny",
+    "coimtiy": "country",
+    "WThen": "When",
+    "Kiavamaq": "Khavarnaq",
+    "bxdlder": "builder",
+    "Piirak": "Furak",
+    "Baja": "Raja",
+    "Hasrin": "Nasrin"
   },
   "corrections": [
     {
@@ -619,6 +628,22 @@
     {
       "from": "Narsi byname",
       "to": "Narsi by name"
+    },
+    {
+      "from": "Then Mun went together with his sice",
+      "to": "Then Munzir went together with his sire"
+    },
+    {
+      "from": "free &om noxiousness",
+      "to": "free from noxiousness"
+    },
+    {
+      "from": "Nu'maji’s heart",
+      "to": "Nu'man’s heart"
+    },
+    {
+      "from": "e\"en by Grecian wiles",
+      "to": "e’en by Grecian wiles"
     }
   ],
   "sections": [

@@ -232,7 +232,7 @@ Together in the water moon and fish; confused with one another moon and fish.
 
 When the moon into water “dirams” pours, where there is any fish it darts (below);
 
-(But) those Moons in their heart-entrancing grace made the fish rise for (Mm), the master, (there).
+(But) those Moons in their heart-entrancing grace made the fish rise for (him), the master, (there).
 
 With hands joined in a ring they danced awhile, mocking the jasmine (in their loveliness).
 
