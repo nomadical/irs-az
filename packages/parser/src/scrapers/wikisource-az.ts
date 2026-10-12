@@ -591,9 +591,10 @@ export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePla
   const ownVersion = async (page: Page): Promise<Page | null> => {
     if (!DISAMBIGUATION.test(page.wikitext)) return page;
     const links = listLinks(page.wikitext, page.title);
+    // The whole name must match: "(Aşıq Alı)" shares "Aşıq" with Aşıq Ələsgər but is someone else
     const own = links.find((l) => {
       const m = l.target.match(/\(([^()]*)\)\s*$/);
-      return m && [...nameTokens(m[1])].some((t) => authorTokens.has(t));
+      return m && isAuthor(m[1]);
     });
     if (own) return (await fetchPages([own.target])).get(own.target) ?? null;
     // Disambiguated by kind, not author ("Siçan və pişik (şeir)" / "(nağıl)"): the one credited to the author
