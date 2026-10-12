@@ -24,8 +24,8 @@ The king, the country- seizer, the world-shatterer,
 The king, Nasratu-'d-Din, — by reason of whose justice
 Everyone drinks wine to his memory:
 
-(In loftiness), he is a sky, on which the (auspicious, natal) star bas shone;
-(In extent of territory), an ocean from which the crown bas obtained the jewel:
+(In loftiness), he is a sky, on which the (auspicious, natal) star has shone;
+(In extent of territory), an ocean from which the crown has obtained the jewel:
 
 Like the third river (rain), the washer of the bed of dust (the earth),
 He washed the world pure of — (the confessor) " the third of three."
@@ -48,8 +48,8 @@ He made full of skill, and void of grief (by casting out strife-exciters).
 He is, — at the banquet, a sun enkindled;
 In battle, a dragon, world-consumed.
 
-By that illumined heart, like (pure, translucent) water, that he bas,
-By it, — the (resplendent) sun bas become luminous of eye.
+By that illumined heart, like (pure, translucent) water, that he has,
+By it, — the (resplendent) sun has become luminous of eye.
 
 When his sword gathers resolve for blood,
 It brings forth water and fire (a fountain of blood) from stone.
@@ -87,7 +87,7 @@ Raises the summit of thy throne to the sun.
 In the world, thou art the kin g of vigilant fortune;
 Fortune considered thee worthy of the throne.
 
-In the world, none bas that power
+In the world, none has that power
 That he may send a present worthy of the king. from this clay pitcher ( Nizami' s dusty body),
 
 In that deep sea (Nasratu-'d-Din, of great majesty), — how may it be visible?
@@ -161,4 +161,4 @@ BRIGHAM YOUNG UNIVERSITY
 All
 Date Due
 
--r ■M'MHIIi IM
+-r M'MHIIi IM

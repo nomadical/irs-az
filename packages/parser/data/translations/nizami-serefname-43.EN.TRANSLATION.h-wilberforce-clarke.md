@@ -39,7 +39,7 @@ For enmity to travellers is strange.
 Shut not our door in anyone's face;
 For the shutting of the door is improper.
 
-Since speech bas called us the river (of eloquence),
+Since speech has called us the river (of eloquence),
 It is proper to open our door (continuously) like the river.
 
 Open the house-door and sprinkle water;
@@ -132,12 +132,10 @@ By whom the sky and earth became conspicuous,
 He urged speech in excuse to the monarch,
 Saying: — " May praise be to thee from the Omnipotent!
 
-" Ja-gir " significs— j a- girauda, place-seizer, &c. 39 *
-
 " From every king who appears to the world,
 " Creation (the world) gave to thy hand the key.
 
-" Thou bast made thy dwelling from sea (in the west) to sea (in the east);
+" Thou hast made thy dwelling from sea (in the west) to sea (in the east);
 " Over Iran and Tiiran, power is thine.
 
 " When thou becamest disengaged from (conquering) the compass of the west,
@@ -174,13 +172,13 @@ When God increased grace to me (by thy coming),
 How is it improper to perform thanks to God?
 
 As long as I live I will make the resolution of thanks to God,
-For better than this the wise man bas nothing.
+For better than this the wise man has nothing.
 
 From some lords of mystery (understanding the secret of thy conquests) I have heard
 That, wherever thou bringest the army,
 
 Thou sendest some persons of the people of Rum
-To the merchants of that land and clime (that thou bast resolved to take),
+To the merchants of that land and clime (that thou hast resolved to take),
 
 For that reason that they may purchase whatever food they may find;
 The food which appears — hot or cold (all kinds),
@@ -203,16 +201,16 @@ It is impossible to make Chin void of food,
 [canto L.
 
 c Yet concord, — better than conflict and contest;
-1 For this (conflict) brings the stain of sorrow; that (concord), water and colour.
+For this (conflict) brings the stain of sorrow; that (concord), water and colour.
 
-1 Make not ruined the bark of the people of Chin;
-1 For thy bark (of life) will also fall (founder) in the water.
+Make not ruined the bark of the people of Chin;
+For thy bark (of life) will also fall (founder) in the water.
 
-1 Be not strong of heart (fearless of retribution) though thy hand be strong,
+Be not strong of heart (fearless of retribution) though thy hand be strong,
 ' For Grod's decree is higher than sovereignty.
 
-1 It is not the part of a wise man that, through impetuous judgment,
-1 He should make contest with the Lord of power.
+It is not the part of a wise man that, through impetuous judgment,
+He should make contest with the Lord of power.
 
 ' (Perfect) like wisdom, thou art of the world the one come to work (matured),
 ' By thy order, — every work, good or bad.
@@ -237,7 +235,7 @@ Otherwise: —
 " Thee, God created for the sake of justice;
 " Tyranny appears not from the just king.
 
-" Assist not oppressors (thy army that bas overrun the world);
+" Assist not oppressors (thy army that has overrun the world);
 " For they will one day ask thee of this administration.
 
 " When one of good judgment makes his judgment bad,
@@ -294,8 +292,6 @@ He became more patient as to hunting the wild ass (the Khakan).
 From the assault of the king, the army-holder of Chin
 Was not safe, — from morning till evening-time.
 
-" Khar pushta " significs — pushta,e kalan; falak-i-nuhum. The couplet may be: —
-
 On a day of days, when the sun
 Was exceedingly resplendent over dust and water,
 
@@ -311,11 +307,11 @@ He (the Khakan) used to make his own work at his (the minister's) order.
 In that matter (of grief at Sikandar's coming) he sought an opinion from that one work-understanding,
 Who possessed correct judgment in affairs,
 
-Saying: — " Of this matter how bast thou the design?
+Saying: — " Of this matter how hast thou the design?
 " How may I give a turn to the torment (of grief) of the sphere?
 
 " What pawn of love or of hate shall I array,
-" For this frown (of grief) that bas come upon the eyebrow (the country) of Chin?
+" For this frown (of grief) that has come upon the eyebrow (the country) of Chin?
 
 " If I prepare for war, — the enemy is strong;
 " On his head is the crown of Kay Khusrau.
@@ -359,7 +355,7 @@ The second line may be: — Will bring injury to those inclining to power (God-g
 ' It is possible — neither to overthrow good fortune,
 ' Nor to exercise enmity with the prosperous (whom the sky assists).
 
-1 O one of good fortune! wrestle not with the prosperous one,
+O one of good fortune! wrestle not with the prosperous one,
 ' For it is hard to overthrow the prosperous.
 
 ' When the prosperous one binds his girdle (for war with thee), — bring thy shoes (and go in his service);
@@ -369,13 +365,13 @@ The second line may be: — Will bring injury to those inclining to power (God-g
 ' For here the stranger remains not long.
 
 ' Strike not at first the stone on the glass-ware (abandon not peace);
-1 For when it breaks, — tardily it becomes sound.
+For when it breaks, — tardily it becomes sound.
 
 ' A (picture of the) rose that thou paintest on the house-pillar, —
-1 The picture of the rose falls away (by lapse of time); but the mark remains in its place.
+The picture of the rose falls away (by lapse of time); but the mark remains in its place.
 
 ' Of wounds, soundness is by (the granulation of) the blood;
-1 But the wound-place brings not forth a hair.
+But the wound-place brings not forth a hair.
 
 ' In that, strive that that black dragon
 ' May in peace obtain the path to this soil.
@@ -383,7 +379,7 @@ The second line may be: — Will bring injury to those inclining to power (God-g
 ' The curse (of God) reached Chin on that day,
 ' When this dragon arrived at the door of Chin.
 
-1 Think not that from the azure vault
+Think not that from the azure vault
 ' A garment comes without blueness (mourning) to man.
 
 " The music of the world is discordant (to the temperament);
@@ -438,7 +434,7 @@ Remained astonied at the compass of that circle (the nobles in two ranks standin
 In that circle remained silent (motionless) like the point (the centre).
 
 From the monarch the signal came to the effect,
-That: — " Deliver the message if thou bast it well (in mind)."
+That: — " Deliver the message if thou hast it well (in mind)."
 
 The moon (the Kkakan), face-concealed behind the cloud (of disguise),
 Began with the jewel (of speech) of a tongue (lustrous) like the sword,
@@ -471,7 +467,7 @@ He ordered; — a foot-tether of gold,
 They placed on the foot of the lofty cypress (the Khakan).
 
 Verily, his wrist, with a golden cincture,
-They drew within the chain of gold (that was about his fret),
+They drew within the chain of gold (that was about his feet),
 
 The palace void of the people then made
 The confidential attendants, (who) also hastened to the door.
@@ -560,7 +556,7 @@ Saying: — " O one worthy of a hundred thousand praises!
 " Moreover, I committed not first that treachery (of invasion),
 " That captivity should truly come upon me.
 
-" Against me thou bast brought assault;
+" Against me thou hast brought assault;
 " For me to exercise hate with thee is infidelity.
 
 " I took up enmity from the path (abandoned enmity);
@@ -587,7 +583,7 @@ I came by the leave of the king's justice.
 By that smooth speech of sweet tongue,
 He unloosed the knot (of vexation) from the heart of the lord of the marches.
 
-To him he said: — " Thou bast well come; be happy!
+To him he said: — " Thou hast well come; be happy!
 " Be free from the bond of captivity.
 
 " As to what was thy reckoning (idea) in this coming,
@@ -752,13 +748,13 @@ The world became matched with the crown of ruby (the rising sun).
 A watchman in the morning entered by the door,
 Saying: — " Why is the king altogether careless?
 
-" Behold! from afar the Khakan of Chin bas arrived,
+" Behold! from afar the Khakan of Chin has arrived,
 " In such a way that the earth trembles beneath him:
 
 " The army world within world arrayed;
 " With clarion and drum, noise excited:
 
-" From the many fret of elephants which distressed the road,
+" From the many feet of elephants which distressed the road,
 " Dust ascended to the surface of the sun and the moon.
 
 " An army which, if he seek much,
@@ -769,9 +765,6 @@ Saying: — " Why is the king altogether careless?
 
 " The king seated on a terrible elephant;
 " From us to him, are not more than two miles."
-
-" Sabuh " significs — the morning draught; ghiyuk, the evening
-draught.
 
 When the king (Sikandar) obtained intelligence of this deceit (on the Khakan's part),
 He descended from the royal throne:

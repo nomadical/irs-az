@@ -22,13 +22,13 @@ Everything, high (the upper world) and low (the lower world), is created;
 Thou art the Creator of whatever exists:
 
 Thou art the teacher of the highest wisdom (the knowledge of God);
-With wisdom, Thou bast urged the pen over the tablet of dust (man's body).
+With wisdom, Thou hast urged the pen over the tablet of dust (man's body).
 
-When argument as to Thy G-odhead (the Causer of Causes) became complete (by the world's creation),
+When argument as to Thy Godhead (the Causer of Causes) became complete (by the world's creation),
 Wisdom (by that argument) gave evidence regarding Thee.
 
-Thou bast made the vision of wisdom luminous (to recog-nise Thee);
-Thou bast lighted up the lamp of guidance (to the road of Salvation).
+Thou hast made the vision of wisdom luminous (to recognise Thee);
+Thou hast lighted up the lamp of guidance (to the road of Salvation).
 
 Thou art He, who up-lifted the sky;
 Who made the earth its thoroughfare.
@@ -70,7 +70,7 @@ to wit: — warmness, coldness, dryness, and wetness, of which the results
 
 are — blackness, yellowness, bloodiness, and mucilaginousness.
 
-That calculation which passes boyond this is straying from the true path:
+That calculation which passes beyond this is straying from the true path:
 Of thy mystery, (our) thought is without knowledge.
 
 Of whatever Thou didst create, or picture Thou didst paint —
@@ -99,9 +99,6 @@ The jewel-threader, in the constitution of the body.
 
 Thou didst loftily up-lift the citadel of the sky;
 Thou didst make thought captive within it.
-
-"Akhshfj " significs — 'anasar-i-arba', the four opposites, or the four
-elements — water, fire, dust, and air.
 
 Thou establishedst this arch of azure hue (the sky) in such a way
 That for thought is no ascent beyond it.
@@ -147,7 +144,7 @@ Sometimes, Thon makest an acquaintance of a stranger (the infidel):
 Sometimes, from a seed (of man) Thou givest one of good Fortune;
 Sometimes, from a fruit-stone Thou givest a (date) tree:
 
-Sometimes, with (notwithstanding) such a jewel, house-sprung ('Ah),
+Sometimes, with (notwithstanding) such a jewel, house-sprung ('All),
 Thou stonest (to death, in Hell) one like AM Talab.
 
 From fear of Thee, to whom boldness to such an extent that
@@ -188,9 +185,6 @@ Make me not ashamed in that administration of justice (the Day of Resurrection).
 
 O Ruler, work-performing! keep me (in the world) in such a path (of happiness),
 That of these dependent (on the vanishing riches of the world) I may be independent.
-
-" Gird " here significs — gird kardan va buland shudan.
-" Tasbih " significs — Subhan-allah guftan, uttering (the words) O Eoly Creator!
 
 A worshipper, who, by way of adoration (in sincerity of heart),
 Performs adoration towards one like Thyself, —
@@ -264,11 +258,11 @@ I strive, in hope of a crown (of pardon and of rank in Heaven).
 The head, which I withhold not from this door, —
 Best, if Thou give to that head the crown, not the sword (of anger).
 
-By reason of that order, which, in eternity without beginning, Thou bast passed,
-The pen turns not from what Thou bast caused to pass (decreed).
+By reason of that order, which, in eternity without beginning, Thou hast passed,
+The pen turns not from what Thou hast caused to pass (decreed).
 
 But, in conformity with desire, I, order-bearing,
-Make my own heart joyful, with these words: — ■
+Make my own heart joyful, with these words: —
 
 Thou saidst: — " That whoever, in sorrow and affliction,
 " Offers prayer, — I will make him one whose prayer is answered."
@@ -308,8 +302,6 @@ If Thou shatter me, or if Thou place me in the rack,
 By the dispersion (of my elemental parts) I may fall out of myself (collapse);
 (But), I will not fall out of devotion to Thee.
 
-" Mumiya " significs — hafizu-1-ajsad; 'araku-1-jabal.
-
 The key (of the knowledge of God) became lost to the inquirer (the worldly sage), for the reason,
 That he regarded Thee, with his own power (of thought).
 
@@ -319,7 +311,7 @@ Rends in pieces the foolish pages (of philosophy, and disregards them).
 Save by Thy (grace), it is not possible to find Thee;
 It is necessary to turn the rein from every door (of infidelity).
 
-Thus far, (my) vision is (by Thy grace) the Stage-Recog-niser;
+Thus far, (my) vision is (by Thy grace) the Stage-Recogniser;
 When Thou advancest beyond this, terror (at the Majesty of God) comes to the heart.
 
 I have entrusted to Thee, my own capital (of endeavour);

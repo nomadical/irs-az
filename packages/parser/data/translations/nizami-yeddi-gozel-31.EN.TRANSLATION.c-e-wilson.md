@@ -90,11 +90,11 @@ So much so that his heart became aU dry, his eyes incapable of opening.
 
 ’Twixt prayers of morn and even he remained thirsty, without endurance, power to bear.
 
-He had with him two rubles fiery-hued; water they had, their water in the stones.
+He had with him two rubies fiery-hued; water they had, their water in the stones.
 
-From those two hidden rubles water flowed, — but water of the eyes, not of the mouth.
+From those two hidden rubies water flowed, — but water of the eyes, not of the mouth.
 
-Those rubles of pure water he took out, and laid before that water-prisoning rock.
+Those rubies of pure water he took out, and laid before that water-prisoning rock.
 
 He said, With thirst I perish, help me, (pray), and with a drop of water quench my fire.
 
@@ -134,7 +134,7 @@ When I become deprived of eyes, what gain that founts, though hundred, be in fro
 
 How for the Fount of Life could one exchange one’s (precious) eyes 1 The water sell for gold.
 
-The rubles take, and everything I have: I’ll also sign a deed for what I have.
+The rubies take, and everything I have: I’ll also sign a deed for what I have.
 
 By the God of the world I’ll take an oath, that with such settlement I’U rest content.
 
@@ -270,7 +270,7 @@ The anguished man ate, with a bitter sigh, a morsel,* and in pain laid down his 
 
 The Kurd, who came at night-time from the plain, to take some food with which to break his fast,
 
-Saw something of a kind not usual, (and at the sight) his bile was further shirred.
+Saw something of a kind not usual, (and at the sight) his bile was further stirred.
 
 He saw a man unconscious lying down, like one who, wounded, bas resigned his life.
 
@@ -414,13 +414,13 @@ Not as your hospitality demands can fitting thanks to you be given by me,
 
 Unless God by His grace afford the means to acquit myseM of what is due to you.
 
-Altbougb by parting I am seeking grief, for leave to quit your service I must ask.
+Although by parting I am seeking grief, for leave to quit your service I must ask.
 
 Long time I’ve been away from my own land, my business and such work as I may do.
 
 I’ve now resolved to-morrow at the dawn to set out on the way to (my) abode.
 
-Tbougb I in body separate from you, in mind I shall be near your tliiesbold’s dust.
+Though I in body separate from you, in mind I shall be near your tliiesbold’s dust.
 
 My hope in one like you, a fount of Hgbt, is that you will not drive me from your heart.
 
@@ -428,7 +428,7 @@ That you will (too) encourage my design, and make as lawful aU I have received.
 
 The speaker having finished (thus his) words, the household of the Kurd was fired (by grief).
 
-Loud weeping from among the Kurds arose, tumultuous crics arose on left and right.
+Loud weeping from among the Kurds arose, tumultuous cries arose on left and right.
 
 The Kurd was weeping and his daughter more; (their) brains (were) dry, (their) eyes (were) all bedewed.
 

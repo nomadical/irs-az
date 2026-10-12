@@ -42,7 +42,7 @@ A flock of sheep (too) seething in the sun, from hoofs to ears like to a stew of
 
 A dog suspended from a branch he saw, with fore and hind legs bound tight like a stone.
 
-He swiftly urged (his) horse towards the tent; he saw an old man like a sun-shirred dawn.
+He swiftly urged (his) horse towards the tent; he saw an old man like a sun-stirred dawn.
 
 The old man when he saw (his) guest sprang up, and girded up (his) loins to wait on him.
 

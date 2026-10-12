@@ -24,7 +24,7 @@ Bring a message (of its coming) from the red rose (the ruddy wine).
 Make my countenance like (ruddy) wine with that (ruddy) wine (of senselessness);
 Make my colour ruddy with the red rose (the ruddy wine).
 
-For (making) the (great) feast of Firidun and the (great) Nan-roz of Jamshid,
+For (making) the (great) feast of Firidun and the (great) Nau-roz of Jamshid,
 When joy abolished the name of sorrow from the world.
 
 The world-possessor (Sikandar) sate on his own throne;
@@ -287,5 +287,3 @@ Took the way (to their house) with heart-joy fulness:
 
 Came jewel-possessing from that mine (Sikandar's court);
 Returned like Kardn's treasure to their place.
-
-" Poshidan " here significs — poshanidan.

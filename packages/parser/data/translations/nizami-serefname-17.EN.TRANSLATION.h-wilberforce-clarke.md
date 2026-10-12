@@ -24,7 +24,7 @@ Beneath whose shade (of justice) one can take one's chattels (and repose)!
 Sometimes, by fruit (bounty) it gives adornment to the table;
 Sometimes, by shade (protection) it gives ease to the soul.
 
-Such a spring-time bas come to fruit (appeared), —
+Such a spring-time has come to fruit (appeared), —
 May the work of such (a tree) not fall from (be void of) splendour!
 
 When the young fruit-tree, fruit-possessing, became fruitful;
@@ -39,7 +39,7 @@ The violet mingled (its own) ambergris with musk (exhaled perfume).
 For ambergris-purchasing (of the violet) the sleepy narcissus
 Stuck forth its head (appeared) as fresh camphor (appears) from the dust.
 
-(In such a spring-time) I loosed the fastening from the lock (of sadness) of the treasury~(of my heart).
+(In such a spring-time) I loosed the fastening from the lock (of sadness) of the treasury (of my heart).
 (For proceeding) to the desert, I raised high the standard (of my heart's treasure).
 
 The invisible form of that angelic messenger, green-clad,
@@ -68,9 +68,6 @@ Sprinkled water and went their way in the morning,
 
 Dust uplifted went from his path.
 — For dustless, the road of the sage (is) best. —
-
-" Surosh " significs — any angel, particularly one bringing glad
-tidings.
 
 When the road became dustless of road-dust (through rain),
 The king, world-shelterer, came to the saddle.
@@ -153,8 +150,6 @@ Decorated (in welcome to him) every city of Greece;
 Appointed musicians; scattered wealth,
 — That such sport (as Time displayed to Sikandar) came into form (appeared).
 
-- - THE SIKjlSPAE XA1IA,E BARA. [OAHTO XXI.
-
 ** The king of victorious fortune, opponent-shattering, me to the throne with victorious lot.
 From the victoriousness of his prosperous fortune,
 
@@ -162,7 +157,7 @@ He excited joy anew in the world. uy valuable presents from the plunder of Zang
 He sent, without estimating or weighing, to every quarter.
 
 Of that treasure which Time sent him.
-He >ent a portion to every treasurv.
+He sent a portion to every treasury.
 
 When the time reached (came) to D&r&'s selected portion,
 The camel-loads of gold reached to Bukhara city.
@@ -171,7 +166,7 @@ o He (Sikandar) chose a man possessed of wisdom and judgment,
 Who should perform the regulations of that service (of embassage to Dara):
 
 Selected from the booty many valuables,
-Like to which no one sees rariti
+Like to which no one sees rarities.
 
 Valuables that are rare,
 Of steeds and jewels, of brocade and perfume:
@@ -191,8 +186,9 @@ Many swords begemmed:
 Royal carpets embroidered with forms of the cameleopard, the panther, and the wild ass:
 
 Damsels active; slaves expert; —
-At the time of attendance, body sound: ilv. thrones with ivory crowned:
+At the time of attendance, body sound:
 
+Verily, thrones with ivory crowned;
 Beset with jewels; with collar and crown:
 
 Captives (of Zang), chains on hand and foot,

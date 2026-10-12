@@ -34,7 +34,7 @@ That one who makes the water of life his own place,
 If before himself he bring a veil (of darkness), — 'his proper:
 
 The sitter, — at the reservoir of the (deep) water-pool (of life)?
-Yes; for he bas no help as to the veil (of concealment from men's eyes).
+Yes; for he has no help as to the veil (of concealment from men's eyes).
 
 When Sikandar made the resolution of (going to) the Zulmat,
 He inclined to the abandoning of important affairs (world-seizing):
@@ -65,7 +65,7 @@ To him he spoke, saying: — " Of this road, before and behind,
 " Wherever the water of life reveals (its) splendour,
 " — For the gleaming jewel utters not a lie —
 
-" Drink; when thou bast drunk with auspiciousness,
+" Drink; when thou hast drunk with auspiciousness,
 " Point out to me so that thou mayst enjoy profit (wealth and dignity) from me."
 
 At his order Khizr, moving with greenness,
@@ -169,8 +169,6 @@ That it showed the path to the fountain of life.
 
 Of the fish and that water, jewel-scattering,
 The Arabic history (the Kuran) gave another account,
-
-804 THE S1KAXDAII NAMA,I BAR A. [CANTO LX1X.
 
 Namely: — The water of life was of another place (outside of the Zulmat):
 The fire- worshipper (the Persian) and the Riimish historian missed the path (of true narrative).

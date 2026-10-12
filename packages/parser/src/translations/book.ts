@@ -37,6 +37,12 @@ export interface BookConfig {
   runningHeads: string[];
   /** cantos layout: where canto I begins when the book prints no "CANTO I." line */
   firstCanto?: string;
+  /**
+   * Proofreading corrections, checked against the scan, applied to each finished section in
+   * order: exact text ({from, to}) or a pattern ({pattern, flags?, to}). Unmatched ones are
+   * reported, so a correction that no longer applies doesn't linger unnoticed.
+   */
+  corrections?: ({ from: string; to: string } | { pattern: string; flags?: string; to: string })[];
   /** Couplets matching this are stray footnote fragments ("signifies", "See couplet 12") */
   dropPattern?: string;
   /**
@@ -70,6 +76,8 @@ export interface PlannedTranslation {
 
 export interface BookPlan {
   translations: PlannedTranslation[];
+  /** Corrections that matched nothing in any section */
+  unusedCorrections: string[];
   missingHeadings: string[];
   ocr: OcrStats;
   sourceUrl: string;
@@ -224,7 +232,7 @@ export async function planBookTranslation(cfg: BookConfig): Promise<BookPlan> {
     cfg.layout === 'cantos'
       ? cantoSections(await fetchText(cfg.archiveId, '_djvu.xml'), cfg)
       : headingSections(text, cfg);
-  if (missing.length) return { translations: [], missingHeadings: missing, ocr, sourceUrl };
+  if (missing.length) return { translations: [], missingHeadings: missing, ocr, sourceUrl, unusedCorrections: [] };
 
   const works = collectionWorks(cfg);
   const groups = new Map<number, string[]>();
@@ -280,20 +288,32 @@ export async function planBookTranslation(cfg: BookConfig): Promise<BookPlan> {
     });
   });
 
+  const used = new Set<number>();
+  const correct = (body: string) =>
+    (cfg.corrections ?? []).reduce((text, c, i) => {
+      const next = 'from' in c ? text.split(c.from).join(c.to) : text.replace(new RegExp(c.pattern, c.flags ?? 'g'), c.to);
+      if (next !== text) used.add(i);
+      return next;
+    }, body);
+
   const translations: PlannedTranslation[] = [];
   for (const [order, couplets] of [...groups].sort((a, b) => a[0] - b[0])) {
     const work = works.get(order);
     if (!work) throw new Error(`${cfg.collectionSlug} has no work with order ${order}`);
+    const body = correct(couplets.join('\n\n')).replace(/\n{3,}/g, '\n\n').trim();
     translations.push({
       workSlug: work.slug,
       order,
       workTitle: work.title,
-      body: couplets.join('\n\n'),
-      couplets: couplets.length,
+      body,
+      couplets: body.split(/\n\s*\n/).length,
       originalCouplets: work.couplets,
       opening: couplets[0] ?? '',
     });
   }
 
-  return { translations, missingHeadings: [], ocr, sourceUrl };
+  const unusedCorrections = (cfg.corrections ?? [])
+    .filter((_, i) => !used.has(i))
+    .map((c) => ('from' in c ? c.from : `/${c.pattern}/`));
+  return { translations, missingHeadings: [], ocr, sourceUrl, unusedCorrections };
 }

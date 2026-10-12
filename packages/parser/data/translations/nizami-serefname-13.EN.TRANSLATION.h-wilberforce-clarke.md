@@ -13,12 +13,12 @@ isDefault: true
 status: DRAFT
 ---
 Come, cup-bearer! that wine mixed with odorous herbs (the sight of God's majesty)
-Give to me, for Paradise bas come much to my memory.
+Give to me, for Paradise has come much to my memory.
 
 Perhaps, by that wino I may become one whose bark is well (over-) freighted,
 And if I become drowned (in God's splendour), I shall be a dweller in Paradise.
 
-O happy indeed the time that a person bas,
+O happy indeed the time that a person has,
 Whose market of avarice is not brisk!
 
 To the extent of sufficiency, opulence (of mind) is his;
@@ -39,9 +39,6 @@ May be — profit to thee, loss to none.
 The narrator (Nizami) of the folded record, folded (and written) by the villager (the historian),
 Made mention of the past ones (Faylikus and Sikandar) thus,
 
-The terminal alif significs — in kusha, excess; and in rosgara, praise.
-" Basand " significs — kifayat.
-
 Saying: — When the King of Greece, King Faylikiis,
 Adorned the country of the world like a bride,
 
@@ -51,7 +48,7 @@ For the precious jewel is auspicious.
 When (from the horoscope) he found his son wise,
 He became happy that he had found the worthy son.
 
-— The father bas nothing more worthy,
+— The father has nothing more worthy,
 More deserving (precious) than the deserving son. —
 
 He placed him for learning;
@@ -73,13 +70,10 @@ He adorned that pure jewel,
 As the stars that adorn the heavens.
 
 He gave him information of whatever was hidden (mysterious),
-— One bas seldom reared such a son. —
+— One has seldom reared such a son. —
 
 Every year the prince of quick understanding
 Used to admit to his ear science only (far from sport and play).
-
-This couplet is uttered by Nizami.
-"Lukumajish" significs — Nakumajish; Lakumaj.
 
 When he hastened to a subtle matter,
 He would discover (display) subtle words.
@@ -128,7 +122,7 @@ When Sikandar was eight years of age, Lysimachus (an Acarnanian)
 " Wilt become, by his ministership, experienced in affairs;
 " — For the wise minister is better than property (the Amir's) and treasure (the official's).
 
-?.5 " Thine ally is fortune; his, skill: The skilful one is necessary for the master of fortune.
+" Thine ally is fortune; his, skill: The skilful one is necessary for the master of fortune.
 
 " "Wherever skill found its full value,
 " It brought forth renown for the lord of wealth.
@@ -156,8 +150,6 @@ Would take away the ball (of superiority) from the arrogant ones (potentates),
 
 He drew a diagram of that arithmetical character (the Abjad),
 In which the conquered and the conqueror appeared.
-
-" Pazfraftg&ri " significs — paziraftan.
 
 And gave it to him, saying: — " At the time of action (battle) this letter (the reckoning of the conquered and the conqueror)
 " Calculate in the name of thyself and of thy enemy.
@@ -196,7 +188,7 @@ He sought not distance (separation) from his (Aristotle's) judgment;
 He sought leave from him for everything.
 
 When from over mountain and plain, the compass of the sphere
-Wandered some time on this circle (of revolution of the sky)>
+Wandered some time on this circle (of revolution of the sky)
 
 King Faylikiis took his chattels from the world (died);
 He entrusted the world to the new monarch (Sikandar).
@@ -206,8 +198,6 @@ Bring within thy grasp escape from its enchantment.
 
 It (the world) is a tree of six sides (of great bole) and of four roots (of firm foundation);
 Some persons (in the bond of its lust) bound to four pegs (at its root).
-
-" Ban " significs — sahib as rnihr-ban or sahib-mihr giranda „ baj-ban „ baj- giranda
 
 One by one our leaves from this tree
 Fall beneath it when the wind (of vicissitude) is strong.

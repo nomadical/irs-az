@@ -48,7 +48,7 @@ For the work-creator (God), the doing our work.
 In this enigma (presaging happiness), in which justice is the aid-giver,
 If thou gain not the bad omen, — it is well.
 
-0 (luminous, spiritual) heart! the screen (of purity) is scanty. Be thou my friend;
+(luminous, spiritual) heart! the screen (of purity) is scanty. Be thou my friend;
 Be thou my chamberlain from the screen-renders (bad deeds).
 
 Of my lustrous verse, the representor (my pen),
@@ -163,7 +163,7 @@ The world-possessor — when he saw that treasure revealed
 In ass-loads — became the examiner of the treasure.
 
 All the desert supported satin cloths;
-The earth became hidden beneath the rubles.
+The earth became hidden beneath the rubies.
 
 He went face-illumined towards the ka'ba, —
 The manner of the ceremonies learned.
@@ -238,7 +238,7 @@ Entered Arman like an angry river;
 — Of the wind, the foot became slow on account of the dust he raised. —
 
 Washed that country of the stain (of infidelity);
-— (The climate of) Arman was agreeable to the king. — ■
+— (The climate of) Arman was agreeable to the king. —
 
 Cast from it the order and custom of the evil ones, —
 The fire-priests, fire- worshipping;

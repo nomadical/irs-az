@@ -96,7 +96,7 @@ In the centre, the Russian (general), the malice-seeker,
 Breast-washed of love for Sikandar.
 
 On both sides, — the army, rank-arrayed;
-Earth (dust)-uplifted like the sky:•
+Earth (dust)-uplifted like the sky:
 
 The great brazen bells came into agitation;
 (And) expressed clamour like the sick Hindu:
@@ -125,8 +125,6 @@ From the iron maces, the low earth became the mountain:
 The second line may mean — that the plateau of the battle-field was as
 lofty as the sky.
 
-696 THE SlKA'DAtl NAMA,E BAKA. [ CANTO [.Till.
-
 The spear-point opened a fountain of blood from the stone (the warrior's body);
 In it, a hundred forests of the arrow of the white poplar sprung:
 
@@ -150,9 +148,6 @@ From the body of the mountain-seam, vapour expanded,
 
 With (in the opinion of) the meanest Russian was not worth —
 There a straw — the bravery (of the men of Rum).
-
-The tone of a drum of wolfish hide is high.
-" Namazi kardan-i-ru,e " significs — pah kardan-i-ru,e.
 
 Verily, the men of Rum, standard exalted,
 Cast fire into (set fire to) water with the sharp sword of Indian steel.

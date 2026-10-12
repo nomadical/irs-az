@@ -188,7 +188,7 @@ Horses of Arab race in Persia bred, swimmers of streams, and coursers of the hil
 
 Both Indian sabres and Davidian mail: his lavishness sailed over Ararat;
 
-More pearls and rubles than could pearl-sellers or ruby-experts estimate or think.
+More pearls and rubies than could pearl-sellers or ruby-experts estimate or think.
 
 From bis own head a jewelled crown (be gave), with dress worth more than Shushtar’s revenue.
 

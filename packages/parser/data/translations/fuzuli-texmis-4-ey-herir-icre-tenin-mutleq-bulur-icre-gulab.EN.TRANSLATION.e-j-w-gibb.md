@@ -22,9 +22,9 @@ Naked did'st thou rise and cast the veil and coif from thee, my dear,
 
 Ne'er a doubt whene'er it saw thee, earth were ravished far and near.
 
-Lo, the heart hath limned thy golden bower and told thy rubles' ray;
+Lo, the heart hath limned thy golden bower and told thy rubies' ray;
 
-And the rubles in thine ear have barkened heedful to its say.
+And the rubies in thine ear have barkened heedful to its say.
 
 While the comb thy hair companions, love-sick I am far away;
 
@@ -34,7 +34,7 @@ Many a tangle knots my heart-strings, envying its goodly cheer.
 
 Roseate face, and shift of rosy hue, and trousers cramoisie:
 
-Thou bast donned thy flaming garments, and bast made us fire to dree.
+Thou hast donned thy flaming garments, and hast made us fire to dree.
 
 Paynim maiden, ne'er was born of seed of Adam one like thee;
 

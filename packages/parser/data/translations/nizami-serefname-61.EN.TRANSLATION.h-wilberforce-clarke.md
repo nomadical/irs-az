@@ -56,7 +56,7 @@ Easy of body that one who is the stouter of heart.
 When the army beheld its own road-brought stones,
 They placed in front the stone road- brought,
 
-All the stones were red rubles,
+All the stones were red rubies,
 The light from which was food for the eye.
 
 Of one, — with few jewels the heart, in sorrow;
@@ -231,7 +231,7 @@ Saying: — " In this expedition (to the city) wiser (more determined to disobey
 When over this event some time passed,
 (And) the sun shone on mountain and plain,
 
-7o Again the turn reached another friend;
+Again the turn reached another friend;
 He also in a moment became invisible.
 
 The few men who were left
@@ -280,7 +280,7 @@ He uttered a proverb: — " Everyone who was born died;
 " From death's grasp, none saved his life.
 
 " When they (the asses) have no power with (against) the wild ass catchers,
-" The asses (men) come on their own fret to the grave."
+" The asses (men) come on their own feet to the grave."
 
 To suffer the arrow (decreed by fate), — sometimes the bold eagle
 Comes on its own wing (of its own free will) from sublimity (the sky) to profundity (the earth).

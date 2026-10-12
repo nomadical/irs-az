@@ -558,7 +558,7 @@ Mahan replied, How can such words be used? The bramble worthy of the cypress-tre
 
 (But) since you (deign to) accept me as your son, in this authority I am (your) slave.
 
-May you be joyous, for you’ve given me joy, O you tbrougb whom my house is flourishing.
+May you be joyous, for you’ve given me joy, O you through whom my house is flourishing.
 
 He kissed (the old man’s) hand, rejoiced by him, and upon that he gave his hand to him.
 
@@ -674,7 +674,7 @@ And stdl those idols in their sport and play showed all deluding and beguiling a
 
 When they had spent some time in merriment, they placed a tray, on feasting set their minds;
 
-A tray inset with rubles and with pearls, the rubles joined together with the pearls.
+A tray inset with rubies and with pearls, the rubies joined together with the pearls.
 
 Foods which had neither fire nor water seen, perfumed with musk, rose-water, aloes-wood.
 
@@ -792,7 +792,7 @@ Until the (first) light of the dawn appeared, the cock crowed, and the demon fie
 
 The veil of darkness lifted from the world, and (all) those visions were (at once) dispelled.
 
-Those potsherd natures, which as rubles showed, all went, and no one in the place remained.
+Those potsherd natures, which as rubies showed, all went, and no one in the place remained.
 
 Mahan, (left) lying at the palace-gate, remained until the sun began to shine.
 

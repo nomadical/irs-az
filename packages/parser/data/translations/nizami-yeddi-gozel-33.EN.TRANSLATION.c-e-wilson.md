@@ -40,9 +40,9 @@ The lotus from the torture of the fire found in the fortress, water, a retreat.
 
 The fresh buds of the blossoms of the trees made pearls widespread as tulips’ petals are.
 
-The cypress which by shade gave canopics, combed the locks of the hox-tree (with its leaves).
+The cypress which by shade gave canopies, combed the locks of the hox-tree (with its leaves).
 
-For the corona of narcissi drunk, the lilles put gold ingots on their pahns.
+For the corona of narcissi drunk, the lilies put gold ingots on their pahns.
 
 Through the north breeze the pastils of the Spring were scattering stars without the Judgment Day.
 

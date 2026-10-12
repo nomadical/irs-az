@@ -18,7 +18,7 @@ Bring me; raise not a crj.
 A lamp, from which the eyes are luminous, —
 From it, is the oil for the lamp of my (luminous) body.
 
-0 (gold of) speech! say — what is thy alchemy (composition)?
+(gold of) speech! say — what is thy alchemy (composition)?
 Of thy proof, who is the alchemist?
 
 Istakhr may be spelled — f&*>\,f&~>\,;«&*-!, i£»*\.
@@ -121,7 +121,7 @@ Saying: — " Thanks be to a Creator,
 " I take neither tax nor tribute from the country.
 
 " If I gather treasure from the world,
-11 I prepare the share for whoever there is:
+I prepare the share for whoever there is:
 
 " Give the key of fortune (livelihood) to everyone;
 " Make conspicuous the basis of everyone's work:
@@ -132,10 +132,10 @@ Saying: — " Thanks be to a Creator,
 " Turn my head from those enjoying without toil, —
 " Save those tongueless and helpless.
 
-" When one powerful (expert in trade) bas knowledge of affairs,
+" When one powerful (expert in trade) has knowledge of affairs,
 " I desire not that he should be unoccupied with work.
 
-" When I behold one who bas endured trouble,
+" When I behold one who has endured trouble,
 " So that his income (from trade) is less than his expenditure,
 
 " I give him hopefulness in regard to that expenditure,
@@ -260,8 +260,8 @@ The inquirer said: — " Since of one diram
 " Best — if the king give the world to me;
 " (If) he cause my head to reach (in exaltation) from this assembly to the stars."
 
-8° Again the king spoke, saying: — " O malevolent one!
-" Thou bast not put the question in accordance with my own worth.
+Again the king spoke, saying: — " O malevolent one!
+" Thou hast not put the question in accordance with my own worth.
 
 " Within limit it is proper to scatter (utter) words,
 " It is unnecessary to listen to foolish speech.
@@ -288,9 +288,9 @@ The monarch said: — " I am chief of this multitude;
 " So that the eyes (of men) may be happy by (viewing) him."
 
 Again that ingenious one said: — " O monarch!
-" What business bas the wise man with (personal) decoration?
+" What business has the wise man with (personal) decoration?
 
-"In thy heart is the divine adornment (wisdom);■
+"In thy heart is the divine adornment (wisdom);
 " With jewels, wherefore coverest thou the body that is of clay?"
 
 The king replied, saying: — " The adornment of a Khusrau

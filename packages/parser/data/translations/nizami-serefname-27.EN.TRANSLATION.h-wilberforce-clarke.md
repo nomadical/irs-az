@@ -40,7 +40,7 @@ Point me out where thy (hidden) market is,
 So that always I may come thy purchaser.
 
 It so appears that of every country,
-Thou bast no door save the monarch's (Nasratu-d-din's) door.
+Thou hast no door save the monarch's (Nasratu-d-din's) door.
 
 In every place where thou art, I am loin-girt (in attendance);
 I am constantly engaged in service with thee.
@@ -75,12 +75,7 @@ Not to such a degree that they could reckon them:
 Jewels, — not to such a degree that them, the secretary
 Could bring to his fingers (in calculating), or to his mind (in recollecting).
 
-"Sang bast" significs — much; or, like the jewel of the mine. See
-If ba stand for dar, the first line will be: — They consigned to the king's treasury.
-
-" Sakht " (properly, sukht) comes from sukhtan.
-
-Crystal trays; platters (full) of rubles,
+Crystal trays; platters (full) of rubies,
 Wore out the shoes of those drawing the rarities:
 
 Verily, Arab steeds, with saddles of gold;
@@ -93,7 +88,7 @@ Of war- weapons and spoil, was no reckoning,
 For it (the war-spoil), no thanks were the accepter's (Sikandar's):
 
 Other things that are rare,
-And of which the special (royal) magazine bas a share.
+And of which the special (royal) magazine has a share.
 
 Such a treasure of silver and of pure gold,
 They made royal with the seal of the world-possessor (Sikandar).
@@ -206,8 +201,6 @@ He came forth from the obligation of his own promise.
 He ordered so that they rendered them contemptible;
 Placed them rope-bound on the gallows.
 
-" Pa,fn gab " significs — inuntaha.e pa; kjjak-i-pa.
-
 A proclamation went forth about the army,
 To this effect: — " This is the retribution of the bloodshedder of the king!
 
@@ -241,7 +234,7 @@ Summoned him, and washed the rust (of neglect) from the mirror (of his mind):
 Inquired, saying: — " O old man, year-tried,
 " Thy head casting a shadow on the back of thy foot (back-bent)!
 
-" Many years, thou bast lived in the world;
+" Many years, thou hast lived in the world;
 " Thou art not ignorant of the work of the world.
 
 " When thou sawest that Dara became the tyrant,
@@ -251,7 +244,7 @@ Inquired, saying: — " O old man, year-tried,
 " Why keptest thou advice secret from him?
 
 " When youthf ulness brings one to anger,
-" The old man who is silent bas guilt."
+" The old man who is silent has guilt."
 
 The hearer of the (words of) anger of the King of Rum
 Enkindled the wax (of soft speech) with an oily tongue:
@@ -261,8 +254,6 @@ The tendons of his bones became (wrinkled) like tree-bark.
 
 He bound the arms of speech and placed (at hand) the quiver;
 The bow (the bent back) drew forth the arrow of the archer Arash (faultless speech) from the quiver (of the mouth),
-
-" Baughan-zaban " significs — charb-zaban.
 
 Uttered first praises on the world-possessor,
 Saying: — " May the world-possessor be mated with his desire!
@@ -458,9 +449,6 @@ Saying: — " Although the region of the world is for thee prosperous,
 " Rustam and Zal and the Simurgh and Sam — where?
 " Firidiin and his skill, Jamshid and his cup, — where?
 
-Sikandar recollected that he was concerned in Dara's death.
-" Khi'm-khwah " significs — mudda'iyan, claimants (for blood).
-
 " The earth devoured; and after devouring them long time ha,s not passed;
 " Yet of devouring them its belly is not sated.
 
@@ -470,7 +458,7 @@ us " They passed away (died); and we also shall pass away;
 " Strike not five drums (boast not) within these four arches (the world of four elements);
 " For these nine heavens (of the sky) are not without six doors.
 
-" Since thou bast the world, — be world-possessor!
+" Since thou hast the world, — be world-possessor!
 " When enemies sleep, — be thou vigilant!
 
 " Bring forth thy head from the world of fearfulness;
@@ -494,7 +482,7 @@ us " They passed away (died); and we also shall pass away;
 ' A neck that is bloodless is distressed,
 ' If its blood increases (to bloodiness) there is strangulation (apoplexy).
 
-1 Every property which conics into this world —
+Every property which conies into this world —
 ' Know, — the fierce black snake (is) sleeping over it.
 
 ' The vault of this adorned arch (of the sky)
@@ -506,11 +494,11 @@ us " They passed away (died); and we also shall pass away;
 ' Make free the heart from the foolish entanglement (of amassing wealth);
 ' Thou art not the tyrant; do justice! do justice!
 
-1 If thou abandon the tyranny of Dara (in amassing wealth), — well;
+If thou abandon the tyranny of Dara (in amassing wealth), — well;
 ' If he were the holder (of world-treasures), thou art the Sikandar (the Grod- worshipper).
 
 ' Behold what he experienced from the world's harvest!
-1 Do not thou the same, so that thou experience not the same.
+Do not thou the same, so that thou experience not the same.
 
 ' Behold what thou didst (in justice) so that thou obtainedst the world,
 ' Do that indeed (justice) by which thou obtainedst fortune! "
@@ -527,16 +515,14 @@ Abandoned the scale (of their opinion) to his weight (of opinion).
 !65 The flatterers (men of Iran) all, at the door of the court,
 Began their praises at the monarch's banquet,
 
-Saying:—" If a lamp (Dara) of this court (of Iran) bas settled (in extinction),
-" The sun (Sikandar), the illuminator, bas come to our hand.
+Saying:—" If a lamp (Dara) of this court (of Iran) has settled (in extinction),
+" The sun (Sikandar), the illuminator, has come to our hand.
 
-" If a night bas departed, — a day bas arrived;
-" A rose bas departed, a rose-bed kindler (the gardener) bas arrived.
+" If a night has departed, — a day has arrived;
+" A rose has departed, a rose-bed kindler (the gardener) has arrived.
 
 " A grain of gold turned its face from the seeker (became lost);
 " He looked down, sought the gold, and found the treasure."
-
-IQ4, "Nihadan" significs — guzashtan.
 
 From ocean-heartedness, the king, the ocean of grandeur,
 Displayed much favour in that assembly.
@@ -571,7 +557,7 @@ Saying: — " So long as his age was, — of noble or of ignoble (nature),
 ' He brings ruin upon the great;
 ' He makes the mean powerful.
 
-8 That one, who is the mean-cherisher, became not the Khusrau;
+That one, who is the mean-cherisher, became not the Khusrau;
 ' Mean-spiritedness is one thing; sovereign-powerfulness is another.
 
 ' There remained, — neither compassion in this country;

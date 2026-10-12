@@ -24,7 +24,7 @@ That inner room of the Seven Poirtraibs too, the envy rather of the Seven Climes
 
 The love those girls of buri form displayed sowed in Ms heart the seed of love (for them).
 
-His furnace, those seven alchemics at hand, no longer with the seven fusings worked.
+His furnace, those seven alchemies at hand, no longer with the seven fusings worked.
 
 The first girl (there) was of Kayanian race; her father had departed from the world.
 

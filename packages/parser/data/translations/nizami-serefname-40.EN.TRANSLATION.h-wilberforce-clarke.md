@@ -104,13 +104,13 @@ Again, by the counsel of the sages,
 He did not what comes from the foolish (he displayed no haste).
 
 A messenger, expeditious, swift of foot,
-He sent, and gave to him a message for the Hindii: v->
+He sent, and gave to him a message for the Hindii: v-
 
 " If thou be for war, lead forth thy army;
 " For, behold I have arrived like the black cloud.
 
 " But, if thou be girt of waist in service;
-" Know so much — that thou bast escaped from my sword.
+" Know so much — that thou hast escaped from my sword.
 
 " The Narcissus (Kaid) comes from sleep (carelessness) at that time,
 " When on it, — the cloud, the rainer (Sikandar) sheds water (the sword).
@@ -186,7 +186,7 @@ Saying: — " Since in the world he is wisest,
 " Be both the foot of his throne on the moon!
 " Be also the path of peace towards him!
 
-" Save love to him, no work of mine bas been;
+" Save love to him, no work of mine has been;
 " What is the cause that he comes in battle against me?
 
 " If he desire treasure, — I will sacrifice it;

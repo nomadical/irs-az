@@ -16,7 +16,7 @@ Come, cup-bearer! of the wine (of senselessness), sweet and fresh,
 Mix one draught, love-cherishing.
 
 Grive that draught, heart-ravishing, to the thirsty one;
-For the thirsty one bas no patience as to the draught.
+For the thirsty one has no patience as to the draught.
 
 O world-tried old man (Nizami)! bring wild rue (of devotion, calamity-repelling);
 Oast it on the fire in the Amir's (Nizami' s) bed-chamber.
@@ -72,7 +72,7 @@ He used to dig out the foundations; used to take away the treasure.
 Another custom was this — that the fire-worshipper
 Sate every year with new brides,
 
-At the Nan-roz of Jamshid and the festival of Saddah,
+At the Nau-roz of Jamshid and the festival of Saddah,
 — When the regulations of the fire -temple were renewed —
 
 Brides, husband-unseen (virgin), from every side,
@@ -102,7 +102,7 @@ Like the straight cypress, a handful of roses in the hand,
 — Beautiful was the straight cypress, rose in the hand! —
 
 In the beginning of the year, when from the vault swift-moving,
-It used to be the Nan-roz-i-kuchak as regards the world's reckoning.
+It used to be the Nau-roz-i-kuchak as regards the world's reckoning.
 
 One day only from street and building was, — theirs
 The wide plain for the desire (recreation) of their own heart.
@@ -135,7 +135,7 @@ In the Iran land, by such great support,
 No fire at all of the fire- worshipper remained.
 
 Again for those Magians, treasure- weighing,
-None amassed treasure in the fire-temple (now destroyed) •
+None amassed treasure in the fire-temple (now destroyed)
 
 All the lovely ones, face like the pomegranate -flower (ruddy and beauteous),
 Abandoned love for the rose-bed of fire (the fire-temple).
@@ -153,7 +153,7 @@ When the country passed into the property of that treasure-giver (Sikandar),
 He urged his steed into the plain of amplitude (of ease).
 
 Became in joyousness victory's partner;
-In that way as the pleasant speaker (Firdausi) bas said.
+In that way as the pleasant speaker (Firdausi) has said.
 
 And if it be necessary for thee that in a new way
 Thou shouldst hear from me the wonderful tale in another way,
@@ -164,16 +164,14 @@ For it makes the new brocade (of verse of the second tale) tattered-clad (void o
 In that way, as from many watchful brains,
 I have heard sweet discourse on this matter:
 
-Have also had many historics;
+Have also had many histories;
 Have left no word (of them) unread:
 
-Have gathered together that collected treasure (of historics of Sikandar),
+Have gathered together that collected treasure (of histories of Sikandar),
 The scattered parts of leaves:
 
 From that alchemy of hidden words
 I have raised a wonderful treasure-casket (a wondrous tale).
-
-" Eamz " significs — riwayat-i-gharib.
 
 Verily, the speaker in the language of Fars, the wise old man (Firdausi),
 Thus spoke, and his words became heart-pleasing,
@@ -253,9 +251,7 @@ Went flying to Sikandar,
 Saying: — " In the fire-temple is a dragon,
 " Like the bomb, fire-setting to men.
 
-The first gul may be written gil, signifying — clay (the body). The foot (of the heart) of every body...
-
-11 That one who passes by that dragon,
+That one who passes by that dragon,
 " She immediately either slays (with fiery breath) or devours."
 
 The king — of the secret of that hidden craft (by which a woman becomes a dragon)
@@ -303,7 +299,7 @@ Destroyed her sorcery-making (the assuming of the dragon-form).
 When the girl saw that that sage (Balinas) was such a one,
 She unloosed the fastening from the art of sorcery of that transformation (into a dragon);
 
-Fell at his fret and besought protection;
+Fell at his feet and besought protection;
 Sought, in peace, access to the world-king.
 
 "When Balinas beheld the countenance of that moon,
@@ -358,7 +354,7 @@ He made the Pari-faced one the lady of his house,
 The Pari rendered many of this sort (of the house of Balinas) distraught.
 
 He learned from her all sorceries;
-On that account, his name became: — ■" Balinas, the magician."
+On that account, his name became: — " Balinas, the magician."
 
 — Whether a magician, or one star-understanding,
 Thou shouldst not shut out from thyself the fear of death. —

@@ -42,7 +42,7 @@ For comprehending it (the circumstance of creation), power is not Reason's.
 Wisdom is the pupil of His instruction;
 The heart is of (the number of) those bearing the mark of submission to Him.
 
-Full of His wisdom and command bas become — the world,
+Full of His wisdom and command has become — the world,
 Conspicuous as to command, hidden as to wisdom.
 
 In this void plain (of the earth) for their souls —
@@ -69,7 +69,7 @@ The man, truth-knowing, utters not praise.
 In sensibleness, or in senselessness, — be not
 Forgetfulness of His command to any.
 
-2o If the Lord give me aid, —
+If the Lord give me aid, —
 If He also give me sovereignty, — it is not wonderful.
 
 I am able — to display arrogance;
@@ -147,15 +147,13 @@ Out of my kingdom, — my fief, thou givest;
 It is not proper to give to the buffalo cheese-water,
 In which it may find a drop of its own blood.
 
-" Muhra-bazi " significs— hila-garf va fareb, a game in which they
-
 Beyond this, express not the boast of arrogance;
 For, in essence, thou art dust (man); thou art not of fire (demon).
 
 Repose; let go violence from thy hand;
 For the diamond sustains injury from time.
 
-That cup of wine (the requisites of feasting) which thou bast in thy grasp,
+That cup of wine (the requisites of feasting) which thou hast in thy grasp,
 Keep; and strive not with the hard stone (glass-shattering).
 
 A world so full of the white naphtha (of calamity) —
@@ -169,9 +167,6 @@ For fatness (softness) springs not from the lion's (Sikandar's) loins.
 
 This one (Dara, or his ancestors) gave a garden (the small territory of Greece) to an indigent one (Sikandar);
 That (the indigent) one gave not back (even) a cluster of grapes (tribute) from his (Dara's) garden.
-
-" Arziz " significs — arzi'r; rasas, tin or lead.
-" Rasas-i-abyaz " significs — white tin.
 
 Why is it necessary to bang to a bough,
 From which one cannot scatter fruit?
@@ -192,7 +187,7 @@ When Sulaiman associates with the demon,
 He loses the ring (of sovereignty) from his finger.
 
 Fear the ill-doing of Time;
-For it bas ruined the work of many like thee.
+For it has ruined the work of many like thee.
 
 That reckoning (of assaulting Sikandar) that with thyself thou castedst up
 Is not so, — thou wrongly playedst the game.
@@ -242,7 +237,7 @@ If thou display peace-making, I will fasten my girdle (in attendance).
 Rely not — on thy masnad and throne;
 Because for every throne (-possessor), is a bier.
 
-Regard not the nioiiii tain's mass, stone-established (firm);
+Regard not the mountain's mass, stone-established (firm);
 Saj not: — -" How may disaster reach the mountain? "
 
 When at battle-time the earth quakes,

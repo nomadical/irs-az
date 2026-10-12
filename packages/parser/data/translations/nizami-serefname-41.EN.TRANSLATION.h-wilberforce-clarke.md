@@ -39,7 +39,7 @@ Then he (Sikandar) urged speech, saying: — " O warrior!
 " Would moisten with blood all its soil;
 " Would put dust upon the source of all its water.
 
-" Since thou beldest thy face towards amity, •
+" Since thou heldest thy face towards amity,
 "I turned not the rein from rectitude.
 
 " By thy sweet words, life-cherishing,
@@ -96,9 +96,6 @@ Other valuable articles, heart-pleasing, —
 Of treasure, and gold, and jewels, and of the ruby, and the pearl, —
 Of elephants many a back full of (laden with) treasure,
 
-Note that the word kaid significs — the raja Kaid, and deceit; kaid
-significs — bonds.
-
 Of steel of Hindustan many loads;
 Of aloe (-wood) and of amber in ass-loads:
 
@@ -131,8 +128,6 @@ That the treasury of Rum passed from his recollection.
 
 He applied the proof to those four things;
 So it was as he (Kaid) said; than that, also more.
-
-" Pari-dukhtar " significs: — (a) A girl, Pan-like.
 
 When he looked into the water of the cup, world -gleaming,
 He beheld the people (of the assembly) satiated with one draught (cupful) of it.
@@ -247,8 +242,6 @@ Of the conquest of the land of musky blackness (Hindustan),
 Saying: — " In Hindustan my work was such,
 " As is the object of the heart of friends.
 
-Observe — jahan khusrau significs — the world-king; khusrau-i-jahan,
-
 " I disengaged myself from malice-seeking towards Kaid;
 " When he became friendly I became concordant with the friend (Kaid).
 
@@ -275,8 +268,6 @@ A letter like this on every matter (contained in the letter to the Viceroy of Pe
 
 Also the affair (of journeying) of the precious bride (Kaid's daughter),
 He arranged so that she went to the Greek-land:
-
-" Ear bar arastan " significs — sar-i-anjam dadan-i-saman-i-safr.
 
 Gave her the escort of his own trusty ones (" the companions "),
 Verily, made injunction (regarding her safety) beyond limit:

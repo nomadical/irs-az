@@ -33,9 +33,6 @@ From the face of the world ( Sikandar' s guests) dust (vexation) risen (and depa
 In that joyousness, — with delight and wine,
 The wave (of speech) of the jewel-seller (the sage) reached the lip (of utterance).
 
-* " Munazira " significs — disputing to ascertain the truth.
-"Mujadila" significs — disputing to maintain one's opinion, right or
-
 wrong.
 
 Speech of the work of those work-knowing (traders), — passed,
@@ -150,7 +147,7 @@ A gleaming reservoir of pure crystal,
 Like the reservoir of water, they established on that road.
 
 The depictings of the writer's (painter's) reed
-Shirred up the wave on that water-pool,
+Stirred up the wave on that water-pool,
 
 Like a piece of water that the wind makes restless,
 Fold on fold (wave on wave) it (the wave) goes to the marge.

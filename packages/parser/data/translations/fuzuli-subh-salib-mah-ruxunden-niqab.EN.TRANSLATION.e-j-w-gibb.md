@@ -34,7 +34,7 @@ Earth's duresse hath cast me from my fret adown;
 Give me wine, cup-bearer, that doth dule allay.
 
 Oh! have ruth upon those fallen for thy love;
-Hash no meed a guerdon-gaining deed to' assay?
+Hast no meed a guerdon-gaining deed to' assay?
 
 Should the loved one ask, 'How fareth it with thee,
 'Sick Fuziili?' what wouldst thou in answer say?

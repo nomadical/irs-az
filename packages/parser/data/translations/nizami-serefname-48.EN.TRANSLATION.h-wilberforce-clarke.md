@@ -18,8 +18,8 @@ Give me, if solicitude for a husband be hers.
 I will perform hand-washing with pure (wine of senselessness) from the impure (apparent wine);
 To the virgin like this, it is proper to draw the hand (washed as regards all other virgins)!
 
-l Again the nightingale (Mzami) bas entered the garden (of sweet speech);
-The Pari (Nizami) bas come before the luminous lamp (of sweet speech).
+l Again the nightingale (Mzami) has entered the garden (of sweet speech);
+The Pari (Nizami) has come before the luminous lamp (of sweet speech).
 
 My (poetic) fancy makes the Pari-form (presents the beauteous form);
 Makes me (from melting thought) like the Pari-form (the unexampled form).
@@ -85,7 +85,7 @@ To the Russian (Kintal), the news went that: — " The holder of Rum
 " This is for the world a calamity of the tyrant!
 
 " Moving with him not an army (but) a mountain;
-" Beneath which earth bas become powerless: Of elephants, — two hundred elephants, steel-clad, That bring earth's blood into tumult.
+" Beneath which earth has become powerless: Of elephants, — two hundred elephants, steel-clad, That bring earth's blood into tumult.
 
 " (His camp), — a plain full of elephants and those of elephant-body (warriors),
 " All army-harassing and army-shattering."
@@ -172,21 +172,21 @@ He pointed out with the finger, saying: — " Behold, from afar
 " The ruby and the pearl instead of the spear and the mail-armour:
 
 ' The saddles golden — all with ruby-work;
-1 Horse-cloths bejewelled:
+Horse-cloths bejewelled:
 
-1 The begemmed cap uplifted;
+The begemmed cap uplifted;
 ' The garment (like that of women) continued down to the palm (the sole) of the foot:
 
 ' The carpet all of brocade and the silk of Sha'r;
 ' Neither the spear in the hand, nor the arrow in the quiver:
 
-1 All musky of mole (bepatched) and anklet- wearing,
+All musky of mole (bepatched) and anklet- wearing,
 ' The tip of the tress twisted above the ear:
 
 ' Head to foot, in royal jewels;
 ' Neither the foot the runner, nor the hand endowed with power:
 
-' With those languid fret of strained power,
+' With those languid feet of strained power,
 ' What army can Sikandar defeat?
 
 ' If on them fall the head (the point) of a needle,
@@ -211,7 +211,7 @@ They placed their heads (in submission) saying: — " As long as we live,
 " Will leave neither the perfume nor the colour of this flower-garden (Sikandar's army, rich and powerful):
 
 " Will make an assault against the enemy of power (thy enemy);
-11 Will make the hard stone blood with the spear-point:
+Will make the hard stone blood with the spear-point:
 
 " When we draw the hand from the rein towards the dagger,
 " We will draw the enemy's (Sikandar's) head within the snare (of the noose):
@@ -267,7 +267,7 @@ Thus he spake, saying: — "This army (of Russia), war-seeking,
 " (Only) in thieving, and treachery, and highway robbery,
 " Display they manliness and man-overpoweringness:
 
-11 They have not experienced double-handed anyone's sword,
+They have not experienced double-handed anyone's sword,
 " The battle-axe and the spear — all in front and rear:
 
 " Have fit, — neither weapons nor clothing;
@@ -301,7 +301,7 @@ Thus he spake, saying: — "This army (of Russia), war-seeking,
 " With the men of Russia their rage even greater than with the men of Rum:
 
 " By the sharp darts of the Turkans of this halting-place (Sikandar's camp)
-" One can scatter the blisters (of flight) on the fret of the Russians.
+" One can scatter the blisters (of flight) on the feet of the Russians.
 
 " Often, the poison which brings distress to the body, —
 " By another poison it is proper to obstruct.
@@ -334,7 +334,7 @@ lt I have heard that from the wolf, the fox-seizer,
 " Every matter is not connected with the sword."
 
 The chiefs of the army drew forward their heads (in obeisance),
-Saying: — " We pour our blood at thy fret.
+Saying: — " We pour our blood at thy feet.
 
 " Before this, we were not sluggish of endeavour;
 " Than that (former time), we will now display tumult more furious.

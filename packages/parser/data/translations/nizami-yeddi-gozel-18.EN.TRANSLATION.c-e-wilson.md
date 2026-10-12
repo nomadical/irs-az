@@ -34,7 +34,7 @@ To say, Who’U seize from us tMs golden crown 1 Who’!! dare a hon or a dragon
 
 They knew not of that man of iron heart, who captured lions, dragons hunted too.
 
-Tlirougli terror no one ventured to approach in range of those two lions vast (and strong).
+Through terror no one ventured to approach in range of those two lions vast (and strong).
 
 ’Twas settled that Bahram of lion heart should take the field and meet the lions first.
 

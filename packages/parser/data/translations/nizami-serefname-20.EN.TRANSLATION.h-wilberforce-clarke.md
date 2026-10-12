@@ -94,7 +94,7 @@ Brought him first blessing from Dara,
 Sought back the ancient tribute (at present) ungiven,
 
 Saying: — " Of the bejewelled throne and crown, how is it that
-" Thou bast withheld the tribute from our court?
+" Thou hast withheld the tribute from our court?
 
 " What weakness sawest thou in our affairs (of sovereignty)
 " That thou tookest thy head from the line of our compass (order)?
@@ -155,11 +155,11 @@ He made mention of the tribute, grown old (long sent).
 The bold monarch (Sikandar) shouted at him,
 Saying: — " One cannot take plunder (prey) from the savage male lion.
 
-" Time bas established customs of another kind;
-" That bird (Faylikiis) that laid the golden egg bas departed (to the next world).
+" Time has established customs of another kind;
+" That bird (Faylikiis) that laid the golden egg has departed (to the next world).
 
 " The heavens have rolled up that old carpet;
-" Another carpet (of tribute refusing) bas become fresh for the kingdom.
+" Another carpet (of tribute refusing) has become fresh for the kingdom.
 
 " The jewel springs not every year from the stone;
 " The world makes sometimes peace, sometimes war.
@@ -173,7 +173,7 @@ Saying: — " One cannot take plunder (prey) from the savage male lion.
 " When (content) with that cup (the small country of Rum) which I took up,!
 " Left to thee the rein (of sovereignty) of the world (of Iran).
 
-" For the reason that thou bast a great treasure (the tribute of Iran) like that,
+" For the reason that thou hast a great treasure (the tribute of Iran) like that,
 " Leave me in a narrow corner (of the country) like this.
 
 " Bring me not to that — that I should, resolve (on war);
@@ -263,9 +263,6 @@ The beginning of speech he began with smoothness (well-prepared flattery),
 Saying: — " Order-givers (kings) are the lords of life;
 " Sent ones are the slaves of command.
 
-" Kafiz " is a nieasure=12 sa' = 84 lbs. or, it may be, 64 lbs.
-"Ta'biya" significs — arranging and making ready the army in its
-
 " The monarch of illumined judgment, — what orders he me,
 " That I may perform the order of the order-giver (Dara)?"
 
@@ -302,7 +299,7 @@ He uttered a proverb: — " Whatever flies before (the chaugan),
 " Verily, the man form-recognizing (the geometrician) the ball,
 " Places in his imagination as the form of the earth.
 
-" Since the king bas given to us the ball of the earth,
+" Since the king has given to us the ball of the earth,
 " I will by this ball take the ball (of superiority) from him."
 
 When in this way he (Sikandar) made that explanation (of the chaugan and ball),
@@ -352,8 +349,6 @@ Nine hundred thousand came into (his) reckoning.
 
 no When the world-seeker (Dara) beheld that by his (countless) army
 His country kept raising the wave of the sea.
-
-" Eikabi " significs — horsemanship.
 
 He urged an army like fire (the desolator) towards Riim;
 Wherever he went he called the owl for that (prosperous) land (now desolate),

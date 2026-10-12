@@ -36,8 +36,6 @@ For the steed rein-impatient suffers blows.
 When the Arab steed displays impatience of the rein,
 He makes the ass (patient of rein, easy of stride) of the Egyptians a (precious) slave.
 
-" Taz n significs — taj; tajik.
-
 The world (Time) saw (cherished ) many people in the world;
 It ran from all; remained with none.
 
@@ -127,7 +125,7 @@ The first time, — the city and territory; the second time, — the mountain an
 Of that time, — that was when the prosperous soil (the city and territory)
 He saw all together and came to Riirn.
 
-G-od bas called — 'ilm-i-shari'yat, philosophy (hikmat).
+G-od has called — 'ilm-i-shari'yat, philosophy (hikmat).
 
 Of this time, — that was when roadless (the mountain and plain)
 He moved the standard like the sun and the moon.

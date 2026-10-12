@@ -72,8 +72,6 @@ Circled, like the heavens about the world.
 The first combat which he planned, —
 He rained the arrow on that malignant heart.
 
-" Sipar kardan " significs — to trample upon
-
 When fear of the arrow came not to the malignant one,
 The striker became angry with his own arrow.
 
@@ -155,7 +153,7 @@ Feared lest the army should fall on destruction (be dispirited).
 In that wrathfulness he spoke to the sage,
 Saying: — " Fortune wishes to conceal her face from me.
 
-" Adverse fortune bas discovered me also;
+" Adverse fortune has discovered me also;
 " Otherwise why should I have sought this difficult business?
 
 " When celestial calamity descends
@@ -346,7 +344,7 @@ Saying:— " When that fettered one became joyous with wine!
 no Iu respect to that searching (question), the great ones of the empire Fell into consideration about that matter (of the demon - man's departure). One said: — " He is a desert one. O wonder! " When they cut his bonds he took the desert." Another said: — " When wine worked upon him " He bound his load towards his own house." The king — to whatever passed, open or hidden (reply), Listened, but said nothing. He remained in that reflection, saying: — " This screen of blue colour (the sky), " What night-play brings it forth from the screen? "
 lis When the king's heart became acquainted with this matter, He became wish-seeker from his own cup-bearer. Again, he held delay to be approved; For he had in his eye the plunder of the enemy. When some time passed that intoxicated elephant came, The waist-place (the girdle) of a beautiful maiden in his hand. He placed her with reverence before the Khusrau; Gave the ground-kiss according to usage of adoration. When in this way he produced a prey from the road, He again went forth from the king's assembly.
 
-120 The king was amazed when he witnessed this matter (the return both of the demon-man and of the damsel); He looked at the jewel in the snake's head (the damsel), not at the snake (the demon). From shame of the king that delicate doll, Like the doll, drew the sleeve (as a veil) over her head,
+The king was amazed when he witnessed this matter (the return both of the demon-man and of the damsel); He looked at the jewel in the snake's head (the damsel), not at the snake (the demon). From shame of the king that delicate doll, Like the doll, drew the sleeve (as a veil) over her head,
 
 When in the tent the king beheld that moon,
 The tent he made void of men:
@@ -435,7 +433,7 @@ lis " When thou art in the assembly, thou art the world-Khusrau;
 " Made the favourite of his (ear-) unpierced ones (the ladies).
 
 " He sent me to the king's court, and spoke,
-" Saying: — This casket (the damsel) bas in secret pearls (of skill).
+" Saying: — This casket (the damsel) has in secret pearls (of skill).
 
 " Perhaps the king considered that speech unsuitable;
 " Through anger he looked not at me:
@@ -533,14 +531,14 @@ Uttered (sparkling) words like the (jewelled) ring in her ear,
 Saying: — " O fresh rose-leaf, dust unseen!
 " With the love of God (who gave thee release) a (lovely) form in the veil (of chastity).
 
-" By (God's) love for thee my resolve bas become stronger;
+" By (God's) love for thee my resolve has become stronger;
 " For thou art the ornament of the assembly and the ornament of the contest.
 
 " In the contest-place I beheld thee soul-spoiling;
 " Saw thee strong of arm and skilful of rein:
 
 " In the music-place also I consider thee beautiful;
-" In these two qualities thou bast not a rival.
+" In these two qualities thou hast not a rival.
 
 " I am thy companion; arise; play the stringed instrument;
 " Cause my heart to become fresh by the sound of melodv."
@@ -584,10 +582,10 @@ Persian alphabet.
 " In the hope that after the pursuit of prey (kisses), the king
 " Would bring joy from the hunting-place (the lip and the mouth) to the (unblossomed) rose;
 
-20a " That the pale spring (the fair Sikandar) would pluck a red rose (my ruddy complexion):
+" That the pale spring (the fair Sikandar) would pluck a red rose (my ruddy complexion):
 " Would behold sometimes the tulip (laughter and the rosy lip); sometimes the musk- willow (the black mole and the tress).
 
-'• Perhaps the king bas no leisure for the garden (my roseate person),
+'• Perhaps the king has no leisure for the garden (my roseate person),
 " That he turns not his glance towards the resplendent lamp (my luminous state),
 
 " Otherwise a spring, with this joyousness, —

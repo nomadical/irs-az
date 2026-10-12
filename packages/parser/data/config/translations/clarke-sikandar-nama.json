@@ -11,11 +11,143 @@
     "THE SIKANDAR NAMA,E BARA"
   ],
   "firstCanto": "^INVOCATION\\.?$",
-  "dropPattern": "\\bsignif(y|ies)\\b|\\bcouplets?\\s+\\d|\\bfootnote\\b|\\bmay be rendered\\b|\\bIn some copies\\b|\\bmay be read\\b",
+  "dropPattern": "\\bsignif(y|ies|ics|ying)\\b|\\bcouplets?\\s+\\d|\\bfootnote\\b|\\bmay be rendered\\b|\\bIn some copies\\b|\\bmay be read\\b|\\bbe read for\\b|\\bthe couplet will\\b|\\bis said to be\\b|\\bSee Sale\\b|\\(properly, sukht\\)|\\beach equal to\\b|\\bHence they call\\b|\\bbelongs to the class\\b|\\bis produced by the mixing\\b|\\+[±A]",
   "movedInterlude": {
     "english": "cup-?\\s*bearer|minstrel|singer",
     "original": "ساقی|مغنی"
   },
+  "corrections": [
+    {
+      "pattern": "^.*\\[\\s*[CO0]A[NH]?[TI]O\\b.*$\\n?",
+      "flags": "gm",
+      "to": ""
+    },
+    {
+      "pattern": "(?<=[a-z])-1-(?=[a-z])",
+      "to": "-l-"
+    },
+    {
+      "pattern": "\\s*■\\s*",
+      "to": " "
+    },
+    {
+      "pattern": "\\{(?=[a-z])",
+      "to": "("
+    },
+    {
+      "pattern": "~\\(",
+      "to": " ("
+    },
+    {
+      "pattern": "^(?:S5|2°5) ",
+      "flags": "gm",
+      "to": ""
+    },
+    {
+      "from": "Forge tf ulness",
+      "to": "Forgetfulness"
+    },
+    {
+      "from": "G-odhead",
+      "to": "Godhead"
+    },
+    {
+      "from": "Stage-Recog-niser",
+      "to": "Stage-Recogniser"
+    },
+    {
+      "from": "infor- f mation",
+      "to": "information"
+    },
+    {
+      "from": "bef riender",
+      "to": "befriender"
+    },
+    {
+      "from": "mo untain-mine",
+      "to": "mountain-mine"
+    },
+    {
+      "from": "khaf tan-piercing",
+      "to": "khaftan-piercing"
+    },
+    {
+      "from": "wrong-head edness",
+      "to": "wrong-headedness"
+    },
+    {
+      "from": "wolf-ishuess",
+      "to": "wolfishness"
+    },
+    {
+      "from": "man-slayin*g",
+      "to": "man-slaying"
+    },
+    {
+      "from": "handf id of boasting",
+      "to": "handful of boasting"
+    },
+    {
+      "from": ">ent a portion to every treasurv.",
+      "to": "sent a portion to every treasury."
+    },
+    {
+      "from": "no one sees rariti",
+      "to": "no one sees rarities."
+    },
+    {
+      "from": "body sound: ilv. thrones with ivory crowned:\n\nBeset",
+      "to": "body sound:\n\nVerily, thrones with ivory crowned;\nBeset"
+    },
+    {
+      "from": "headioftily",
+      "to": "head loftily"
+    },
+    {
+      "from": "(roun-cillors)",
+      "to": "(councillors)"
+    },
+    {
+      "from": "display est",
+      "to": "displayest"
+    },
+    {
+      "from": "nioiiii tain's",
+      "to": "mountain's"
+    },
+    {
+      "from": "(i rpg |r(j that,",
+      "to": "\" The third that,"
+    },
+    {
+      "from": "lfio The next day",
+      "to": "The next day"
+    },
+    {
+      "from": "(completed tb,6 tale)",
+      "to": "(completed the tale)"
+    },
+    {
+      "from": "his bodv",
+      "to": "his body"
+    },
+    {
+      "from": "boyond",
+      "to": "beyond"
+    },
+    {
+      "from": "wrhat",
+      "to": "what"
+    },
+    {
+      "from": "senselesness",
+      "to": "senselessness"
+    },
+    {
+      "from": "lapis luzuli",
+      "to": "lapis lazuli"
+    }
+  ],
   "sections": [
     {
       "canto": 1,

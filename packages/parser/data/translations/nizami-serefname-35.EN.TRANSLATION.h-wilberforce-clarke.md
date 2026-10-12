@@ -128,7 +128,7 @@ Saying: — " Our resolution is the king's resolution.
 " From his order, our judgment turns not.
 
 "If he cast us from the mountain to the dust (of the plain), —
-1 ' We will fall; and have no fear in the heart.
+' We will fall; and have no fear in the heart.
 
 " On the king's part, — to take up the road of (travelling) the world;
 " On our part, — not to abandon the king's service."
@@ -173,7 +173,7 @@ Might establish a fortress in every place of danger (the ambuscade of robbers);
 Might perform a work for the sake of the end (the Judgment Day):
 
 He became thoughtf ul of the distance of that road;
-For the long road bas toil and danger.
+For the long road has toil and danger.
 
 It is not fit that his labour should be lost;
 (That) his treasure should become the enemy's means of support.
@@ -244,7 +244,7 @@ On account of much open treasure which they obtained (during the march),
 Towards the hidden treasure they hastened not.
 
 When in the house (the land) of Rum they made a place,
-They withdrew their fret from the work of the world:
+They withdrew their feet from the work of the world:
 
 Upreared a monastery made of stone;
 Made it the devotion-place for all.
@@ -268,4 +268,4 @@ They (the God- worshippers of Rum) come and shatter that treasure-holder;
 And from that treasure pluck up the (reward of) their own foot-toil.
 
 Perhaps (verily), fortune gave me (the reward of) foot-toil (in service to God),
-That my foot bas in this way descended to the treasure.
+That my foot has in this way descended to the treasure.

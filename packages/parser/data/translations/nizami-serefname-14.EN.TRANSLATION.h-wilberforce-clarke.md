@@ -46,7 +46,7 @@ From the pure Omnipotent I desire to that degree,
 That at the last I may not wander from the path.
 
 The representer (Nizami) of the picture (the Sikandar-Nama), representation-receiving (written),
-— For, as regards redelineation, the picture bas no help —
+— For, as regards redelineation, the picture has no help —
 
 Delineates the picture in this way, that when the King of Rum (Sikandar)
 Expressed the picture (of dominion) like wax on the country of the world,
@@ -66,7 +66,7 @@ Pressed his foot on (remained firm to) that ancient treaty (of sending tribute).
 Of the order-bearers (attendants) of King Faylikus,
 None in that administration (of sovereignty) were refractory with him.
 
-For than his father, he was a greater bef riender of the friend;
+For than his father, he was a greater befriender of the friend;
 For enemy-slaying, — his sword, sharper.
 
 Of such sort he became that in force his arm
@@ -120,7 +120,7 @@ Planted not his foot beyond the line of justice:
 Surrendered the tribute to the merchants;
 Sought not the tax from the citizen-residents:
 
-S5 Took away the fear (of tyranny) from the villager's place of administration;
+Took away the fear (of tyranny) from the villager's place of administration;
 Took off (surrendered) the dirham (of taxation) in respect to those without property:
 
 Kept building cities, and scattering gold;
@@ -132,7 +132,7 @@ The perfume of his garden (of sovereignty) reached to Egypt and Ethiopia.
 Like the flashing lightning, his two hands out-stretched;
 One became the sword-striker; the other, the crown-bestower.
 
-Best indeed that balance that bas two extremes (scalepans);
+Best indeed that balance that has two extremes (scalepans);
 One the place of the weight (the iron sword); the other, the place of the gold (reward).
 
 In every matter which is necessary for fortune

@@ -18,8 +18,6 @@ Give, so that in the morning-time I may take a precious morning draught.
 A morning draught (of senselessness), that from the stream of Kausar I drink,
 Is lawful, (even) if till the day of assembling I drink.
 
-2i "Fahl" significs — a male of perfect body.
-
 "Kausar" is the name of a nectar-flowing river in Paradise; it here
 means — joy on beholding God's majesty.
 
@@ -63,7 +61,7 @@ In the painting of this picture (the Sikandar-Nama) of Chinese silk (smooth pape
 The pen (the reed) was bound against Mani.
 
 When I was preparing this work (the Sikandar-Nama),
-Speech was straight-moving (fluent) but the road (of infor- f mation) ambient.
+Speech was straight-moving (fluent) but the road (of information) ambient.
 
 The traces (deeds) of that monarch, world- wandering,
 I saw not written in one book.
@@ -74,13 +72,13 @@ Were scattered in every work.
 I took up materials from every book;
 I bound on them the ornaments of verse.
 
-More than (besides) new historics, —
-— Jewish, Christian, and Pahlavi (historics) —
+More than (besides) new histories, —
+— Jewish, Christian, and Pahlavi (histories) —
 
 I chose from every book its charm (excellence);
 Took out from every husk (book) its brain (pith):
 
-Gathered treasure (the Sikandar-Nama) — speech within speech (boundless); <
+Gathered treasure (the Sikandar-Nama) — speech within speech (boundless);
 And prepared from that total (of varied tongues) the sum
 
 Whosoever is acquainted with every language (in which the tale of Sikandar is related),
@@ -146,7 +144,7 @@ They wrote the date (era) of Sikandar. '
 When he became the teacher of wisdom, in regard to the true religion (of Islam ),
 He became, like (auspicious) fortune, joyous to the world:
 
-Shirred up much proof (by miracle) as to the pure religion (of Islam);
+Stirred up much proof (by miracle) as to the pure religion (of Islam);
 Erected many buildings on the surface of the dust (of the earth):
 
 In every revolution round the compass of time (the seven climes),
@@ -201,7 +199,7 @@ the son of Nub (on him be peace!), might not intrude. Sale's Kuran,
 
 Nama,e bahri); and the Shah-Nama, by Firdausf.
 
-Within this workshop (of the world) as regards (measuring) #> this length and breadth (of the world);
+Within this workshop (of the world) as regards (measuring) this length and breadth (of the world);
 To whom other (than he) was such power?
 
 When he began the design of world- wandering
@@ -253,10 +251,10 @@ He exercised every design (of city-founding) on mountain and plain,
 When death came, he became remediless as to death.
 
 Of the history (time) of that Khusrau (Sikandar), crown-possessing,
-This is useful (true) which bas come into use (in this my abstract).
+This is useful (true) which has come into use (in this my abstract).
 
 Except this (written), whatever the pen brings into scratching (writes),
-More or less bas light weight (is untrustworthy).
+More or less has light weight (is untrustworthy).
 
 Since verse-making was road-taking (pleasing),
 The mistaking of the path (of truth) was unavoidable.
@@ -286,7 +284,7 @@ That falsehood that is like to truth,
 Better than the truth, that (in man's sight) is apart from truth.
 
 O Nizami! be light (free from worldly affections); friends have departed (died);
-Thou bast remained, and grief; the grief-soothers have departed.
+Thou hast remained, and grief; the grief-soothers have departed.
 
 Sikandar, the monarch of seven climes, remained not (died);
 None may remain (in the world), since Sikandar remained not.

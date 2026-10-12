@@ -103,7 +103,7 @@ Saying: — " The woman face-concealed in secret (veiled), — best.
 " Has neither respect for herself nor shame for her husband.
 
 " If the woman herself be of stone or of iron (impregnable chastity),
-" Since she bas the name woman, — verily, she is woman."
+" Since she has the name woman, — verily, she is woman."
 
 When those desert-keepers of distraught path
 Heard, — each one, the king's words,
@@ -117,10 +117,10 @@ With reverence they said: — " We are slaves;
 'But to bind the face (with a veil) is not part of our covenant;
 ' Because this habit is not the custom of Khifchak.
 
-1 If thy custom be the binding up of the face, —
+If thy custom be the binding up of the face, —
 ' In our usage it is the stitching up of the eye.
 
-1 Since the not looking at the face of the strange woman (is) best,
+Since the not looking at the face of the strange woman (is) best,
 ' The crime is not on the face (of the woman), but on the eye (of the man).
 
 ' Moreover, if on our part it (the non-veiling) be displeasing to the king, —

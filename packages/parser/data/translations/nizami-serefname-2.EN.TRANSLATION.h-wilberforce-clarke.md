@@ -78,7 +78,7 @@ Thought reflects not more than this: —
 O my well-wisher (God)! keep me in that way,
 That my path may be towards rectitude, (so that)
 
-1 may choose a road that at the end of work (time of departing),
+I may choose a road that at the end of work (time of departing),
 Thou mayst be pleased and I (may be) safe (from sin).
 
 Within creation, not a remedy is mine save this —
@@ -117,7 +117,7 @@ When the Writings (of deeds) go flying towards the man (or woman),
 " Since Thou adornedst my market (of external and internal excellences), without my being existent,
 — " By that custom and regulation, which Thou desiredst,
 
-" Take not the painting of embellishment, from my splen-dour;
+" Take not the painting of embellishment, from my splendour;
 " Give me a portion, from the treasure of forgiveness.
 
 " What wishest Thou from me, with so weak (dusty) an existence?

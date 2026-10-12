@@ -31,7 +31,7 @@ The jewel-seeker who digs the precious mine (of verse)
 Digs out his precious life (severely toils) in the fancy of hope.
 
 Who, with a torrent of blood (strenuous effort), brings a ruby to his grasp,
-Makes contest with the heart of the hard stone (the mo untain-mine).
+Makes contest with the heart of the hard stone (the mountain-mine).
 
 O man, idle listener! What thinkest thou? —
 That it is easy to fill the ear with pearls (of eloquence)?
@@ -70,10 +70,10 @@ Saying: — " A handful of men, tyranny-experienced, justice-seeking,
 " Saying: — Land and clime have become narrow for (void of ease to) the Egyptians:
 
 " The black men of Zang have arrived to such a degree,
-" That the thoroughfare in the (Egyptian) desert bas become strait:
+" That the thoroughfare in the (Egyptian) desert has become strait:
 
 " They have rolled up the environs of the world (Egypt) in such a way
-" That blackness (from their numbers) bas come on that mountain and plain:
+" That blackness (from their numbers) has come on that mountain and plain:
 
 " Desert-ones, like black pitch,
 " More in number than the (blades of) grass in the desert.
@@ -81,13 +81,11 @@ Saying: — " A handful of men, tyranny-experienced, justice-seeking,
 " Like one with little beard, all old and childish;
 " Though they are ugly, they go in joyousness.
 
-About the cities of Egypt, of which the air is agreeable, were gardens and villas. Hence they call Egypt — sawad-i-jahan; just as they
-
 " Among them, — not a face that displays shame;
 " Among them, — not love nor reverence towards any.
 
 " All — man-devouring and man-injuring;
-" Egypt, m this matter, bas no foot (of resistance).
+" Egypt, m this matter, has no foot (of resistance).
 
 " If the monarch come with assistance, — (well);
 " But, if not, that country (Egypt) will pass away in rapine.
@@ -199,9 +197,6 @@ The world laid aside the jewel of light.
 
 The officer of the advanced guard (of the army), enemy-recognising, went forth;
 The watchman bound his loins on the guard-place (about Sikandar's tent).
-
-A ghul is said to be a monster (male and female), half flesh, half
-spirit, tangible yet ever changing form, endowed with speech and reason
 
 The stars began shining (in the pure air);
 The men rested from moving.

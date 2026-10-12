@@ -15,9 +15,6 @@ status: DRAFT
 Come, cup-bearer! that water (ruddy) like the arghavan tree,
 From which the worn-out old man becomes young,
 
-The temperament (tabf'at) is produced by the mixing (imtizaj) of
-four humours (kiiilt); hence, they call the temperament tabf'at, and
-
 Give me, that by it. I may practise youthfulness (do as a young man);
 (And) may make the yellow rose (the face yellow with age) ruddy in colour.
 
@@ -238,7 +235,7 @@ The Khakan feared and expressed an opinion of fear;
 — For of such an enemy is room for fear. —
 
 To every lord of the marches, he wrote a line with blood (humbly asking aid),
-Saying: — " (The enemy) bas kneaded dust with blood in our land."
+Saying: — " (The enemy) has kneaded dust with blood in our land."
 
 From the King of Khatay to the King of Khutan
 He sent, and arrayed the assembly (of vazirs and the troops of Khatay and Khutan).
@@ -293,7 +290,7 @@ For firishta, read suroshe, called hatif-i-ghaib.
 ' When he seizes the sword he is like lightning (the consumer);
 ' When he takes wine in the palm (of the hand) he becomes treasure-giver.
 
-1 When he brings the ready money of speech into proof,
+When he brings the ready money of speech into proof,
 ' He brings all the brain (essence) of philosophy into use:
 
 ' He hears (regards) no speech which is not true;
@@ -302,13 +299,13 @@ For firishta, read suroshe, called hatif-i-ghaib.
 * In every place the splendour-exciter of work,
 ' Save in the bed-chamber and save in the hunting-field (which are left undecorated).
 
-' In hunting he bas no delay;
+' In hunting he has no delay;
 ' He becomes patient (he deliberates) when the time of battle arrives.
 
 ' By his knowledge and justice, — the world secure:
 ' He, king after king, generation after generation.
 
-1 In the plain (of battle) he is the chief of monarchs;
+In the plain (of battle) he is the chief of monarchs;
 ' -(Even) in intoxication he is better than the sages.
 
 ' When a strange fancy comes to him he laughs;
@@ -341,13 +338,13 @@ For firishta, read suroshe, called hatif-i-ghaib.
 " Kings who had the diadem-mark
 " Possessed the world through army-leaders.
 
-14 Save him, there is no sword-striker in his army;
+Save him, there is no sword-striker in his army;
 " O excellent army-arrayer and army-shatterer!
 
 " Not of every blood-devourer (tyrant) — thinks he;
 " But of the weak and helpless:
 
-44 Casts widely the carpet of his court (gives access to all; repels not the petitioner);
+Casts widely the carpet of his court (gives access to all; repels not the petitioner);
 " Laughs within limit when he finds joy.
 
 When the pilrthe castle) comes against the asp (the knight), the latter
@@ -377,7 +374,7 @@ To the world-king they took up the tale,
 Saying: — " The soldiers of Chin have raised the standard (of war)."
 
 The monarch expressed a proverb, saying: — " The raw game
-" That comes on its own fret to the snare, — best.
+" That comes on its own feet to the snare, — best.
 
 " If he display opposition with me, —
 " He displays not manliness but simpleness:
@@ -402,8 +399,6 @@ One half of hope and the other of fear.
 
 The secretary, the penman, took up the pen;
 He first entered upon words of praise.
-
-" Sapida daman " belongs to the class — sahar-gahan; subh-gahan;
 
 He made mention of the world Creator,
 Without recollection of whom let not the people be!
@@ -510,7 +505,7 @@ Saying: — " From the bold-hearted Sikandar, this letter
 " Instead of sending food and treasure,
 " Why becamest thou f ury-essayer with lions?
 
-" O soldier of Chin! What bast thou in thy brain,
+" O soldier of Chin! What hast thou in thy brain,
 " That thou openest the lamp (thyself) to the cold boisterous wind (Sikandar's army)?
 
 " For what is — thy alighting at (my) roadside;
@@ -583,14 +578,14 @@ HANTO XLVIII.] SIKANDAR'S LETTER TO THE KHAKAN. 605
 ' Even so the dogs that gnaw the bone
 ' (Easily) devour bread with teeth like the sword.
 
-1 Since thou art malice- bearing, I will display revenge-taking;
+Since thou art malice- bearing, I will display revenge-taking;
 ' Be friendly; — I will display friendliness.
 
 ' In every place where ray power presses its foot (is firm),
 ' Victory is mine and superiority.
 
-1 If to thee, — the jewel (peace) be needful; or if the crocodile (war),
-1 From my sea both may come to thy grasp.
+If to thee, — the jewel (peace) be needful; or if the crocodile (war),
+From my sea both may come to thy grasp.
 
 ' Perhaps thou beheldest not my uplifted sword, —
 ' On it, a crocodile and a (jewel-) lustre diffused?

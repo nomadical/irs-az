@@ -60,7 +60,7 @@ That forth from Rum had come the dragon (Sikandar);
 Head-uplifted for conflict with Dara;
 Prepared — every weapon of contest.
 
-By these glad tidings it was the feast of Nan-roz for the world (of Iran);
+By these glad tidings it was the feast of Nau-roz for the world (of Iran);
 For Dara's injustice was world-consuming.
 
 By him, the land and the army altogether
@@ -127,7 +127,7 @@ Saying: — " When Kay Khusrau made the resolution of (going to) the cave (in Mo
 " Would exercise sitting on the throne of the Kayan kings.
 
 " Would seize the world; but also would not remain in place;
-" Would also, in the end, one day fall from his fret (in death)!
+" Would also, in the end, one day fall from his feet (in death)!
 
 " Grod forbid — that this man of Rumish descent (Sikandar)
 " Should fall into that form! Let it never be!
@@ -177,8 +177,6 @@ Saying: — " When Kay Khusrau made the resolution of (going to) the cave (in Mo
 " The hungered one — when he devours roast meat with the lion,
 " Uses haste for the fattest morsels.
 
-" Ham-'iyar " significs — ham-wazn. Otherwise: —
-
 " If (although) the wife's son be the stranger (a former husband),
 " "When he becomes in dress like (his step-father) he becomes his garment-plucker.
 
@@ -212,8 +210,8 @@ Unloosed latent anger from its knot:
 Looked at him, as the dragon at the deer,
 With such anger that weight (in terror) would fall (depart) from a stone,
 
-Saying: — " In me, what soft iron (languor) bast thou seen,
-" That thou bast approved of his (Sikandar's) steel (vigour)?
+Saying: — " In me, what soft iron (languor) hast thou seen,
+" That thou hast approved of his (Sikandar's) steel (vigour)?
 
 " Showest thou me the courage of the man of Rum (Sikandar)?
 " Shoppest thou the way of the smith's furnace (Dara's wrath) with wax (Sikandar)?
@@ -309,7 +307,7 @@ Saying: — " In me, what soft iron (languor) bast thou seen,
 " The illumined day will not become dark for him.
 
 " But, if he bring the bark (of his body) to my sea (of troops),
-" He will behold a head (his own) fallen at my fret.
+" He will behold a head (his own) fallen at my feet.
 
 "I will give him an answer, in bitterness, like the salt sea;
 " I will take him from the dust (and) give him to the water (to drown).
@@ -348,7 +346,7 @@ Saying: — " In me, what soft iron (languor) bast thou seen,
 " Best, — that he take in his hand the staff (of submissiveness) rather than the spear (of fierceness).
 
 " Of old age, the mark is the stumbling foot (sin);
-" Forge tf ulness of the work (of the kingly assembly) comes to the brain.
+" Forgetfulness of the work (of the kingly assembly) comes to the brain.
 
 no " Of old men two things are possessed of suitableness;
 " One, being in the tomb; the other, in prayer.
@@ -392,14 +390,14 @@ no " Of old men two things are possessed of suitableness;
 " A person who, in speaking, is hard-striving (violent),
 " (His speech) comes not to the hearer's ear.
 
-" Best, — that with lord of the crown and the throne,- — ■ speech %
+" Best, — that with lord of the crown and the throne,- — speech %
 "Weighed (soft) they should utter; hard, they should not utter."
 
 When in this way the king (Dara) displayed much severity,
 That old man (Firaburz) became penitent, and became apology-desiring.
 
 Many are the dangers in the service of kings;
-For no one bas relationship to the king.
+For no one has relationship to the king.
 
 In favour, they give treasuries;
 In anger, they split the chests (of men).
@@ -412,8 +410,6 @@ Verily, — connection with them is fire.
 
 Advice is agreeable to the king,
 If he make the path (of its coming, the heart) void of pride.
-
-" Ba zabiin-i-digar " significs — (it is proper to express it) by a phrase
 
 Counselling with the lord of force (the king in wrath)
 Is like seed scattered on the unfruitful soil. —
@@ -430,8 +426,8 @@ Saying: — " Verily, thou art the possessor (the king) of Time!
 " Who is Sikandar that he should gather an army;
 " Should take the cup (of sovereignty) from the possessor of empire?
 
-" For thee the sky bas stitched this cap (of sovereignty);
-" The star (of fortune) bas kindled thy lamp (of life).
+" For thee the sky has stitched this cap (of sovereignty);
+" The star (of fortune) has kindled thy lamp (of life).
 
 " A clod of earth which fights with the mountain,
 " From it, one can, with a single stone, bring forth the dust (of destruction).
@@ -468,7 +464,7 @@ and the plane-tree Dara's age (forty-eight years).
 " If, in haste, thou hadst not enkindled the lamp,
 " Thou wouldst have scorched neither thyself nor the moth.
 
-" The leaven bas come, and the fire (is) within the oven;
+" The leaven has come, and the fire (is) within the oven;
 " From the bread to the mouth the path is not long.
 
 " Patience brings the key of difficulties;

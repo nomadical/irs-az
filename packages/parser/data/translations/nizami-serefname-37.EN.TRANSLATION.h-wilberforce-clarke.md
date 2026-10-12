@@ -15,7 +15,7 @@ status: DRAFT
 Come, cup-bearer! make my heart fresh with the wine (of senselessness);
 In this respect, exercise patience (carelessness) within limit (only to a small degree).
 
-(Because) my heart bas found the lamp oil-less (dark from carelessness);
+(Because) my heart has found the lamp oil-less (dark from carelessness);
 Give splendour to my lamp (the heart) with wine.
 
 When the white day from the night of crow colour
@@ -44,8 +44,6 @@ Came down from his throne to his steed:
 
 Struck the summit of his crown on the roof of the sphere;
 Exalted the standard; illumined his face:
-
-" Takht-ravan " significs — a horse-litter. " Takjjt-ravanda " significs — a steed.
 
 Made the earth wearied (ground into dust and softened) with the prancing of the steed;
 Cast tumult into the summit of the ponderous mountain:
@@ -126,7 +124,7 @@ Saying: — " O last of kings, neck-exalting!
 " From thy head, — be not far the crown's shadow!
 
 " To the king of the horizons, what was the purpose,
-" That he bas made fresh (by visiting) the painting of this old arch (the fortress)?
+" That he has made fresh (by visiting) the painting of this old arch (the fortress)?
 
 " That he urged the foot of the steed towards this land;
 " (And) caused our land and soil (in honour) to reach the celestial sphere? "
@@ -155,7 +153,7 @@ The token of Kay Khusrau and of this throne!
 " And will hear from that kingless cup
 " A blessing — that I may go higher than this cup (of the sky).
 
-" The mirror of my soul bas become rust-eaten (careless);
+" The mirror of my soul has become rust-eaten (careless);
 " I will, by (the counsel of) that cup, wipe dust from the mirror (of my heart):
 
 " Will by that look (example-seizing) make my heart fearful;
@@ -225,7 +223,7 @@ Head-lowered and crown uplifted (in respect),
 He came to the pillow (head) of that throne-place.
 
 A voice from the door of the fortress came into agitation,
-Saying: — " The sleeping (dead) Kay Khusrau bas come to sense (life)! "
+Saying: — " The sleeping (dead) Kay Khusrau has come to sense (life)! "
 
 The order of the order-passer (Sariri) was thus,
 That that crown-possessor (Sikandar) should sit on the throne.
@@ -286,7 +284,7 @@ Saying: — " To the memory of Kay Khusrau drink this wine!
 " Drink! Be the auspicious star thy friend!
 " Be thy hand ever capable of (taking) this cup (full of wine)! "
 
-When the king beheld that cup he arose on his fret (in reverence);
+When the king beheld that cup he arose on his feet (in reverence);
 Drank that one cup and desired not more:
 
 On that cup a cord of jewels from his own arm,
@@ -347,7 +345,7 @@ To set up such a throne, — what profit?
 Since our place is the plank of the grave (takhta), not the throne (takht).
 
 Not the throne of gold is this which is our place;
-Nay, it is a clog of iron about our fret (inasmuch as we regret to leave it at death).
+Nay, it is a clog of iron about our feet (inasmuch as we regret to leave it at death).
 
 no Since one cannot perpetually sit on the throne,
 It is proper before this (the coming of death) to shatter the throne.

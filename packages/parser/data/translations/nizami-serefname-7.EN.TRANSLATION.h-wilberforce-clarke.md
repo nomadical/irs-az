@@ -27,14 +27,11 @@ Give pure wine (of senselessness) to the pure Lover (of God).
 The wine which came like limpid water,
 Has become lawful in every sect (of Islam).
 
-0 (my) heart! so long as thou acquirest not greatness,
+(my) heart! so long as thou acquirest not greatness,
 It is not fit to sit in the place of great ones (people-counselling).
 
 Is greatness necessary to thee? In this power of (magic speech),
 Bring forth thy soul, in memory of (past) great ones.
-
-" Dash-ras " significs — isti'dad-i-sukhanwarf; tawangarf; jami'at;
-saman.
 
 So long as they (men of the time) ask not for speech, keep the lip closed;
 If thou mayst not break the jewel; keep quiet the mattock (tongue).
@@ -58,15 +55,12 @@ O non-hearing man (ignorant of my purpose)! What say I?
 Thy ear (is) intent on the tale of sleeping and of eating.
 
 What knowest thou what knowledge I myself express?
-1 will strike the drum (of call) at my own door.
+I will strike the drum (of call) at my own door.
 
 I have much goods of great value;
 I bring them not forth, so long as no one desires them.
 
-" Gawhar shikastan " here significs — na pursida sukhan guftan.
-4, "Lafta" significs — gufta.
-
-The pearl-purchaser (the seeker of my pure speech), oysterlike, stitched up his eye: •
+The pearl-purchaser (the seeker of my pure speech), oysterlike, stitched up his eye:
 In this dulness (of market), it is not proper to sell pearls.
 
 With such valuable jewels (of verse), — mine,
@@ -135,11 +129,8 @@ Lest that from (my laughing like) the lightning, sparks should fall on me.
 Like the (perfume of the) rose, I express a cordial invitation to every thorn (injurer);
 Like the reed, I express a great cry of joy to every wounder (slanderer).
 
-" Fusos " significs — be rah kardan; bigar; kar giriftan be muzd;
-daregh; istihza; sakhn'yat.
-
 Verily, this scorched (grief-stricken) heart is fire,
-Which from thorn devouring (calamity suffering) became enkindled. ■*
+Which from thorn devouring (calamity suffering) became enkindled. *
 
 Like the river, I became the defect-washer of the enemy;
 Not like the mirror, the defect-seeker of the friend.
@@ -176,10 +167,10 @@ But, with arrogant-ones, I display arrogance.
 From being without a tool (of excellence), I remain not in the corner (of retirement);
 The world, wind; and the orange (the lamp) fears the (strong) wind.
 
-Of the kings of (past) time in this deep pit (the world that bas devoured the dead),
+Of the kings of (past) time in this deep pit (the world that has devoured the dead),
 To whom was there a rare companion (of excellence) like me (to keep their memory living)?
 
-AVho bas beheld (singing) over a coloured rose (Nasratu-d-din)
+AVho has beheld (singing) over a coloured rose (Nasratu-d-din)
 A nightingale (a poet) of more lofty voice than me?
 
 On every kind of knowledge, a book prepared;
@@ -247,7 +238,7 @@ Neither of the men of the Karavan, nor of the goods of the Karavan (the World).
 With a hundred toils of the heart, I express a breath (of verse);
 So that by it I may not sleep (lost to fame), I strike the bell (of verse).
 
-7o I know no one who, with soul and body (inwardly and outwardly)
+I know no one who, with soul and body (inwardly and outwardly)
 Loves me more than his own body.
 
 I turned away my face from the love of persons;
@@ -326,7 +317,7 @@ Neither becomes the fig (the poet) the name of every fruit (sweet verse),
 Nor is every widow like Zubaida.
 
 Two Hindus (poets) came forth from Hindustan;
-One may be the thief (of the verse of others), the ■other the watchman (of his own verse).
+One may be the thief (of the verse of others), the other the watchman (of his own verse).
 
 From the water of this shining silver (of my polished verse), —!
 Separated the stains of the dust (of unworthiness).
@@ -378,10 +369,10 @@ Other books (of Sikandar) first (prepared) which thou mayst search,
 Are not correct, according to the crowd of (professors of) the religion of Islam.
 
 A (true) book like this is not falsehood-raising,
-"Written with so many sharp pens (trustworthy historics).
+"Written with so many sharp pens (trustworthy histories).
 
 With the power of the point of such (sharp) pens,
-This (the Sikandar-Nama) bas honour above other books.
+This (the Sikandar-Nama) has honour above other books.
 
 On account of that royal wine (tale of Sikandar), which is in its cup,
 Its name is — " Sharaf-Nama,e Khusravan! "
@@ -394,8 +385,6 @@ Fit to be uttered (of Sikandar), — much that he left unuttered.
 
 And if whatever they (the moderns) had said of the ancients,
 He (Firdausi) had uttered, the tale (of the Sharaf-Nama) would have been long.
-
-" Tazwir-khez " significs — anything produced by falsehood.
 
 Whatever was not pleasing to him, he uttered not;
 Of which no help was his — verily (that only) he uttered.

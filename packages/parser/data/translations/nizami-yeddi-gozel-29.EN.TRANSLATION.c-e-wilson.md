@@ -38,7 +38,7 @@ Higher than every pearl that one can bore, better than every word that one can s
 
 'No one so bold as to approach you near; — blind be the man who is too blind to see!
 
-She, having ended this, her prayerful speech, gave purest rubles to the ruby mine.
+She, having ended this, her prayerful speech, gave purest rubies to the ruby mine.
 
 Stoby.
 
@@ -314,7 +314,7 @@ Subservient to him every fellow-sage; opened by hinn all doors just claim might 
 
 WTien of that learned man the noble youth heard news from men experienced and wise.
 
-To that Simurgh of sun-like majesty he sped like bird which files from mount to mount.
+To that Simurgh of sun-like majesty he sped like bird which flies from mount to mount.
 
 He found him like a garden in full bloom. "Where? In a cave most desolate and drear.
 
@@ -348,7 +348,7 @@ He dressed in red, for blood’s involved, said he; this plaint is from the sky�
 
 Since he was soon to enter seas of blood, he made his garments, as his eyes, blood-stained.
 
-AH care for his own safety he resigned.--(Then) crics of disapproval rose from all.
+AH care for his own safety he resigned.--(Then) cries of disapproval rose from all.
 
 He said, I take not for myself this pain; nay, rather, I avenge unnumbered heads.
 
@@ -402,7 +402,7 @@ He folded it and gave it to a slave; — blessings and praise gained life, and t
 
 Then aU the heads upon the city-gate indignantly he took down from their cords.
 
-The people of the town applauded him, and with the slain men’s bodics buried them.
+The people of the town applauded him, and with the slain men’s bodies buried them.
 
 Followed by thousand blessings he went home, (while) minstrels raised their voices high in song.
 

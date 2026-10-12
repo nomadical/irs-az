@@ -96,8 +96,6 @@ He beheld the spring (the glory) of Iram in the banquet-place;
 Recognized each article to the extent of its value;
 Knew what (garment) it was proper to make with every kind of article:
 
-If tegh-dar (signifying — having a long line) be read in place of ab-
-
 Beheld, far from reflection, a great mass heaped up
 Of the (skin of the) heads of the ermine and the boneless heads of the sable,
 
@@ -143,7 +141,7 @@ To the sage he spoke, saying: — " In royalty,
 u If this jewel (of Kintal's governing) had not been this people's
 " None would have bound his loins (in obedience) to a person's (a chief's) order.
 
-" None (of the chiefs of Russia) bas kingly qualities;
+" None (of the chiefs of Russia) has kingly qualities;
 " With this one quality only (of governing on Kintal's part), they (the chiefs) are king (through the awe inspired by him)."
 
 When the king became possessed of plunder through his superiority (in battle),
@@ -170,7 +168,7 @@ The desert one of broken bonds (who had broken Sikandar's bonds).
 The desert one, mountain- wandering, entered;
 He performed, like other persons, obeisance to the king.
 
-At the head and fret of that animal, — the king
+At the head and feet of that animal, — the king
 Gazed much for warning's sake (for he possessed not man's qualities) and shook his head (in sorrow).
 
 Of the decoration of jewel, and gold, and silver, —
@@ -203,7 +201,7 @@ The rose (of his cheek), with water of rose-colour (wine), brought forth sweat.
 He called the king of the Russians to him;
 Established a place more worthy of him:
 
-Cast the iron (fetter) from his fret and hands;
+Cast the iron (fetter) from his feet and hands;
 Prepared a dress of honour of gold- woven stuff:
 
 Placed in his ear the ring as a mark of servitude;

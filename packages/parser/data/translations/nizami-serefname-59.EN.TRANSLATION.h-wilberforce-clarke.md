@@ -114,7 +114,7 @@ He inquired of him, saying: — " Where is that Dark Land?"
 The declarer declared, saying: — " From the right hand (beneath the North Pole).
 
 " From us to that land, the road is short;
-" Of this road (from Chin to the confines of Russia), which thou bast travelled, it is one out of ten."
+" Of this road (from Chin to the confines of Russia), which thou hast travelled, it is one out of ten."
 
 When the king perceived that that fountain, pleasant-tasting,
 It is possible to find (luminous) like the morning in the Zulmat,
@@ -285,10 +285,10 @@ Perplexity came into the thought (of all),
 The youth opened that closed lid (of the chest),
 And began speech with him on this subject (the difficulty of returning),
 
-Saying: — " Of this advancing the king bas become regretful;
-" Through hardship-enduring he bas become unsteady to his purpose (of drinking the water of life):
+Saying: — " Of this advancing the king has become regretful;
+" Through hardship-enduring he has become unsteady to his purpose (of drinking the water of life):
 
-"On account of the darkness his heart bas come to fear;
+"On account of the darkness his heart has come to fear;
 " For he knows not the design of his own road (of returning):
 
 " Guideless he can go within (the Dark Land),

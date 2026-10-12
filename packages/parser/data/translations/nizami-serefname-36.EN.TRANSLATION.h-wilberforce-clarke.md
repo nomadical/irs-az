@@ -147,13 +147,10 @@ The king, work-knowing, established a new assembly;
 Summoned the chiefs, and expanded his eye-brows (all frown gone, his face beaming with encouragement).
 
 " What words say ye," he said, " in respect to this mountain-fortress,
-" Which through thought (as regards its conquest) bas brought trouble upon us? "
+" Which through thought (as regards its conquest) has brought trouble upon us? "
 
 Those country-conquerors, neck-exalting,
 Sate, and offered prayer for the king,
-
-" Khar " significs — kalan, large.
-" Grhaijab " significs — in Arabic, a large stone; in Persian, manjanik,
 
 falakhan, a catapult. 33 *
 
@@ -214,7 +211,7 @@ For approaching to welcome him, head brought forth from sleep.
 The world-experienced one (the travelled recluse) hastened to the world-possessor;
 Recognized him by the splendour of world-possessing (displayed in his visage):
 
-Said to him:• — ■" Thou art a person of excellent form;
+Said to him:• — " Thou art a person of excellent form;
 " Mine, the idea such that thou art Sikandar! "
 
 The king with kindness gave him his hand;
@@ -235,8 +232,8 @@ The recluse uttered benedictions, saying: — " Be heart-joyful!
 t" If I well recognized the king, — (it is well);
 " Everyone at night recognizes the moon.
 
-Not alone bast thou in the hand a mirror world-displaying;
-" In my heart also, is a mirror of purity, Which for a hundred years (my) austerity bas polished; At last it can display a form.
+Not alone hast thou in the hand a mirror world-displaying;
+" In my heart also, is a mirror of purity, Which for a hundred years (my) austerity has polished; At last it can display a form.
 
 " Again, what the lord of sense inquires,
 " Saying: — How is the devotee in this narrow place?
@@ -311,7 +308,7 @@ On that (fortress), the stone lump (of calamity) of the engine (of prayer) struc
 That the mountain (the fortress) became drowned in the water of the river.
 
 To the king, he said: — " Arise, go to thy place;
-" For that mountain bas come from its base."
+" For that mountain has come from its base."
 
 When the monarch came towards his own assembly,
 The members of the assembly ran to him (in the ceremonial of welcome).
@@ -347,7 +344,7 @@ Declared saying: — " To-night, by the king's power,
 no " Forty days it is, that men of action " Strove with the sword against this fortress, — " With so many sword-points, diamond-like, " (And) pierced not a single stone of this hard stone. " With a single sigh, which a foodless one heaved, " An angle (a salient of a bastion) poured down from its face. " In respect to this, what appears to you? " — Let not the land be without good men! — The chiefs of the army, with apology For such disputing, became penitent.
 
 lis At the king's assembly they gave the ground-kiss, Saying: — •" Let not the throne and crown be void of thee! " May thy arm be powerful in the country! " May the silver of the balance be lasting! " Such means thou knowest how to understand; " For for thee God made His own shadow. " Since we also became acquainted with this screen (the (effect of prayer), " We have come to the road (of prayer) though (before this) we went from the road." The king sent so that they hastened to the fortress; And emptied the fort of those robbers.
-120 The next day, when the king took that fortress, To the fortress they opened the path to the monarch.
+The next day, when the king took that fortress, To the fortress they opened the path to the monarch.
 
 All the people of that fortress became subject,
 Though before this they were enemies.

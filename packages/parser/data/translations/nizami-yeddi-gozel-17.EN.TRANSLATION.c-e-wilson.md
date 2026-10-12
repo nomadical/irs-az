@@ -200,7 +200,7 @@ The royal crown be put down from (his) head, and placed between the sturdy lions
 
 The one who from the lions takes the crown, — that day let (all) the people call him king. —
 
-(So) after many pleasant conrteons words spoken in kindness and in confidence,
+(So) after many pleasant courteous words spoken in kindness and in confidence,
 
 The letter, sealed, and supplemented, too, by ample exposition and detail
 

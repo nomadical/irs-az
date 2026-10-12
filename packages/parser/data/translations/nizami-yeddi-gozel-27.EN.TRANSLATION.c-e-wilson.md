@@ -190,7 +190,7 @@ Aqua munita hnjns arx; lUiiis halistse ignis fervidns.
 
 The king when heated by a flaming fire, said to that rose, of rose-water the fount,
 
-0 (tasteful) date of mine, matured and ripe, eyes of my soul and soul (too) of my eyes.
+(tasteful) date of mine, matured and ripe, eyes of my soul and soul (too) of my eyes.
 
 The cypress to your form, as grass; to you, a jug-bearer the basin of the moon, —
 
@@ -332,7 +332,7 @@ Trust not in any woman, she’s a straw; the wind whirb off a straw in any place
 
 A woman who sees gold upon the scales, will bow her head for one grain to an ass.
 
-The pomegranate which is replete with seeds, bas ripened both in rubles and in pearls.
+The pomegranate which is replete with seeds, bas ripened both in rubies and in pearls.
 
 Grape-like, a woman’s innocent as child: when raw she’s verdant, full-grown, black of face.
 

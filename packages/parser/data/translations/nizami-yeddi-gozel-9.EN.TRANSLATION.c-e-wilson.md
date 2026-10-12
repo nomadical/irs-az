@@ -118,7 +118,7 @@ Hu'man replied, Should you receive more pay, could you hereafter build a better 
 
 He answered. At your wish when I designed, I’d make such that this by it would be naught.
 
-’Twould have a hundred hues, this bas (but) three; ’twould be of rubles, this is (but) of stone.
+’Twould have a hundred hues, this bas (but) three; ’twould be of rubies, this is (but) of stone.
 
 TMs shows itself possessor of one dome, but that would, like the sky, have seven domes.
 

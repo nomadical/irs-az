@@ -159,13 +159,13 @@ Since by his crown the country became lofty,
 By that crown may his head be victorious!
 
 Bravo! the Khizr and the Sikandar of created beings;
-For thou bast both territory and also the water of life!
+For thou hast both territory and also the water of life!
 
 Thou art like Sikandar, the king, a territory-conquerer;
 Thou art like Khizr, a guide to those fallen from the path (of religion);
 
-Thou bast all things that are needful;
-One thing thou bast not — and that is, thy equal!
+Thou hast all things that are needful;
+One thing thou hast not — and that is, thy equal!
 
 When thou castest thy reckoning (desire) towards the hunting of lions,
 With a single arrow (Mercury), thou overthrowest two forms (Gemini).
@@ -285,9 +285,9 @@ And if he bring not forth (acquire not) the hidden treasure (of mysteries),
 He becomes joyous, in the end, with the golden key (of knowledge).
 
 Thou knowest — this jewel (the Sikandar-Nama) half -pierced (unfinished),
-What (keys of) treasures (of subtleties) it bas in concealment.
+What (keys of) treasures (of subtleties) it has in concealment.
 
-My jewel-piercing (versifying) bas joy from (praise of) thee,
+My jewel-piercing (versifying) has joy from (praise of) thee,
 My praise-uttering is worthy of thee.
 
 Wisdom — that makes the sky, earth —

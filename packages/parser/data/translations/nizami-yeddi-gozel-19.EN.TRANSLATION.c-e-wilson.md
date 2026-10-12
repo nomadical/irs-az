@@ -14,7 +14,7 @@ status: DRAFT
 ---
 When with this happy-omened horoscope the king endowed with virtues took the throne.
 
-Through all the rubles and the pearls poured out the ship, the throne, was filled up like the sea.
+Through all the rubies and the pearls poured out the ship, the throne, was filled up like the sea.
 
 Treasure on treasure those who treasure had beyond all bounds and reckoning scattered it.
 
@@ -30,7 +30,7 @@ And so each one according to his power in pubhc or in private offered praise.
 
 When o’er the world the king became upraised — his exaltation higher than the sky’s —
 
-He spoke upon the justice he designed; he strewed fresh pearls from balas rubles fresh.
+He spoke upon the justice he designed; he strewed fresh pearls from balas rubies fresh.
 
 He (thus) spoke, God bas given me the crown — in me may (then) this gift of God he blest!
 
@@ -60,7 +60,7 @@ Of no man have I any fear or awe, except of that man who confesses God.
 
 On no one do I make myself depend; (in all) do I depend on God alone.
 
-1 care for no one’s service saving such as is the service (too) of Him, (the Lord).
+I care for no one’s service saving such as is the service (too) of Him, (the Lord).
 
 Whilst in its place the azure sky remains, may those who sleep beneath the ground be blest!
 
@@ -178,7 +178,7 @@ That in his time no one from want of food should die — How fine such generosit
 
 Whatever grain there was (then) in his stores, whoe’er (had need) drew from his granaries.
 
-His camels ever and again (were used) to bring from foreign lands (supplics of) grain.
+His camels ever and again (were used) to bring from foreign lands (supplies of) grain.
 
 Efforts he used, his treasures he consumed, and formed plans to (preserve) the life of all.
 

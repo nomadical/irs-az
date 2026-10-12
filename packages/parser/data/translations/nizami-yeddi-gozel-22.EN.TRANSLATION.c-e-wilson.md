@@ -52,7 +52,7 @@ All said, Bahram is drunk, and bas exchanged religion for the world, and sword f
 
 With boon companions he is lost in wine; (all) he enjoys (is) wine, his gain’s the wind.
 
-The mind of each was shirred with the desire that the realm’s business should be ruled by him.
+The mind of each was stirred with the desire that the realm’s business should be ruled by him.
 
 The khan of khans from China (then) set out to take the monarch of the world’s abode.
 
@@ -154,7 +154,7 @@ When dawn drew forth the falchion of the sun, and on the sky a bowl of blood app
 
 Prom all the blood shed by the hero-king a stream of blood flowed, bore down beads as balls.
 
-And through the numbers slaughtered by the sword the gall-bladder was shirred to vomit bile.
+And through the numbers slaughtered by the sword the gall-bladder was stirred to vomit bile.
 
 The lance (there) wagered with the sword its bead that dragons it would reap like ears of corn.
 

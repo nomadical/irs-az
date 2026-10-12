@@ -66,6 +66,7 @@ export const scrapeTranslationsCommand = new Command('scrape-translations')
       process.exit(1);
     }
 
+    for (const c of plan.unusedCorrections) console.warn(`  Correction matched nothing: ${c.slice(0, 70)}`);
     const pct = (n: number) => ((100 * n) / Math.max(1, plan.ocr.words)).toFixed(1);
     console.log(`  OCR: ${plan.ocr.words} words, ${plan.ocr.fixed} fixed (${pct(plan.ocr.fixed)}%), ` +
       `${plan.ocr.unknown} still unknown (${pct(plan.ocr.unknown)}%)`);

@@ -72,9 +72,6 @@ Many a garment of the belly-skin, heart-cherishing,
 He sent at once to the women-folk of the king (Dara);
 He exchanged the black colour (of mourning) for the ruddiness (of happiness):
 
--"■ Mushkuya " (mushk-kuya) significs — khana,e mushk; haram-khana;
-khana.
-
 . " Mush " means — coming together.
 
 The kings of Persia had seven treasuries; those of Khusrau Parviz are
@@ -148,7 +145,7 @@ He continued to sport (in gallantry) like a man with the apple.
 The first word that fell, —
 He gave, on the king's part, to the veiled ones, salutation,
 
-402 THE S1KANDAK KAMA,! BAKA. j" CANTO XXXlll.
+THE S1KANDAK KAMA,! BAKA. j" CANTO XXXlll.
 
 Saying: — " The splendour (of joy) be from the king (Sikandar) to the king's (Dara's) women-folk!
 " Duality (alienation) be far from your midst!
@@ -169,7 +166,7 @@ Saying: — " The splendour (of joy) be from the king (Sikandar) to the king's (
 " He (Sikandar) advances the foot for the work of alliance.
 
 " The desire of the world-king is of this sort,
-" — From the honourable house (of Dara) of such honour-able fame, —
+" — From the honourable house (of Dara) of such honourable fame, —
 
 " That his (fair) face (by joy) may become resplendent;
 " That Roshanak may become the inestimable pearl of his crown:
@@ -178,13 +175,13 @@ Saying: — " The splendour (of joy) be from the king (Sikandar) to the king's (
 " May make his house the rose-garden by that red rose.
 
 " Thus, he accepted the treaty (of marriage) from Dara,
-" For moon (Roshanak of moon-face)-taking, — behold he bas sent the litter!
+" For moon (Roshanak of moon-face)-taking, — behold he has sent the litter!
 
 " The world-possessor, who here (in Sipahan) let go his rein (rested),
 " Prepared for the desire of this matter (alliance with Roshanak):
 
 " Closed the tongue of persons with this speech (of alliance);
-" Came, in this search, on his own fret.
+" Came, in this search, on his own feet.
 
 " Bring ye forth the Pari-faced one to the litter;
 " Exercise ye effort for the arrangement of this matter (of travelling)! "
@@ -194,8 +191,6 @@ Saying: — " In the king's shadow remain perpetually!
 
 " The person (lady) of the house is even one house-born (pure):
 " The one wind-come (dissolute) also goes to the wind.
-
-404 THE SlKA.NDA.ti JSTAAIA,E BARA. [CANTO XXXIII.
 
 " In golden water it is proper to inscribe this saying: —
 — " The camel-driver reaped what the ass-owner sowed. —
@@ -288,7 +283,7 @@ When (the bride of) night displayed splendour with (her) black silk (of darkness
 She adorned her cheek and ringlet with the musk (of darkness) and the moon.
 
 Thou wouldst have said: — " Perhaps the (half) moon of the sphere is the shell;
-" (And) in it, the perfumer of Kirkh (the sky) bas rubbed ambergris (lumiere cendrer)."
+" (And) in it, the perfumer of Kirkh (the sky) has rubbed ambergris (lumiere cendrer)."
 
 For the sake of the monarch, that moon of musky noose (Roshanak)
 Made almond of her eye, sugar of her mouth.
@@ -344,7 +339,7 @@ Saying: — " The unparalleled Sikandrian ruby (Sikandar),
 Otherwise: — They should bring to the garden-cherisher (Sikandar) in the garden (his own dwelling).
 
 " If in thy ear be the gold ring,
-11 When it is without him it is (only) the door ring.
+When it is without him it is (only) the door ring.
 
 " Do him courtesy, for he is our lord;
 " Dara-like, his heart is intent on favour to us."
@@ -365,7 +360,7 @@ The gentle mother gently took her hand;
 She consigned the precious pearl-shell (Roshanak) to the sea (Sikandar),
 
 Saying: — " Of the seed of (Kayan) kings, neck-exalting,
-" This one straight cypress (only) bas remained a token.
+" This one straight cypress (only) has remained a token.
 
 no "I say not — a jewel, most precious,
 " I entrust to a husband most renowned;
@@ -403,7 +398,7 @@ The waist slim; and the bosom high.
 One cherished like the liver with pure blood;
 One brought forth like vision from the eye (of her parents).
 
-414 THE iSlKAJSDAB NAMA,E BAEA. [CAJNTO XXXIll.
+THE iSlKAJSDAB NAMA,E BAEA. [CAJNTO XXXIll.
 
 In every tumult (of saucy speech, love-stirring) that she used to excite with her lip,
 She used to strew the salt (of passion) upon those heartbroken:
@@ -493,8 +488,6 @@ He adorned with a royal dress of honour.
 
 A lofty sun that becomes light-giving, —
 By giving light, becomes not empty like the lightning.
-
-" Tarn " significs— ser-abi, moisture; or jaldi, quickness.
 
 The world-possessor should be the bestower, not the miser.
 This is the nature of world-possessing, — and this only.

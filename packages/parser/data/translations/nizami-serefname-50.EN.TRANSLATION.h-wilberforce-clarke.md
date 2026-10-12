@@ -13,7 +13,7 @@ isDefault: true
 status: DRAFT
 ---
 The next day, when this cup-bearer (the sun), morning-rising,
-Scattered rubles of ruddy wine (its effulgent rays) on the dust,
+Scattered rubies of ruddy wine (its effulgent rays) on the dust,
 
 The two armies, like a sea of fire raging,
 Opened (strung) again the bow from the ambuscades.
@@ -49,7 +49,7 @@ Came forth from the line of the centre-place,
 Shouting and more raging than the river Nile.
 
 To the warrior of Ilak, of Satan-face, he spake,
-Saying: — " The sun (Sikandar's chosen warrior) bas come forth from concealment.
+Saying: — " The sun (Sikandar's chosen warrior) has come forth from concealment.
 
 " Like cup-bearers, I am — cup in hand;
 " Not of wine, — of the blood of the warriors of Ilak! "
@@ -79,7 +79,7 @@ From the former (mid-day) prayer till the other (afternoon) prayer,
 Another contest-maker went not to the battle-field.
 
 Again the blood in the liver expressed the agitation (of wrath),
-God's detailed decree reproved God's general decree (saying: — Why bast thou not accomplished the appointed order?).
+God's detailed decree reproved God's general decree (saying: — Why hast thou not accomplished the appointed order?).
 
 From the Russian (array), came a horseman like the elephant,
 With a face (ruddy) like the red-coloured (hakam) tree; eyes (black) like the (black) _Nile.
@@ -160,7 +160,7 @@ In the end the endeavour of Zarivand, the hero,
 Took the striver's (Griipal's) life in an assault.
 
 Thus, until of the Russians, sphere-inclining (arrogant),
-He brought down seventy bodics from their footing.
+He brought down seventy bodies from their footing.
 
 At that savage lion, Kintal was confounded;
 For he saw the foot (the standing) of the array languid on account of that work.
@@ -185,9 +185,6 @@ Much they circled around (each other);
 
 Not superior became one to the other;
 The contest passed from morning to night.
-
-" Parrah " significs — border, as — parrah-i-kok; parrah-i-bini; parrak-
-i-asiya; parrak-i-dolab.
 
 At length, the king of Russia (Kintal) struck a sword-blow
 At that person adorned like the bride:

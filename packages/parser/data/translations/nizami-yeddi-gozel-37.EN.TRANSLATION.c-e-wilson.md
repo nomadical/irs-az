@@ -12,7 +12,7 @@ sourceNote: 'https://archive.org/details/in.ernet.dli.2015.179166'
 isDefault: true
 status: DRAFT
 ---
-He who joins rubles to this string of pearls, who’s filled with gems the ears of (all) the world,
+He who joins rubies to this string of pearls, who’s filled with gems the ears of (all) the world,
 
 Says, When the Seven Domes, by wine and cup, had given forth their echoes to Bahram,
 

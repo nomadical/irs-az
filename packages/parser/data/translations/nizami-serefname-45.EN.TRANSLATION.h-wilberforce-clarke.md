@@ -195,7 +195,7 @@ For fowl and heron overthrowing, swift of attack:
 Forty elephants, with litters and housings,
 Tall, and strong of brain, and hard of bone:
 
-6o Troop on troop, — slaves, army-shattering;
+Troop on troop, — slaves, army-shattering;
 Lovely damsels, who would bring love into the dead.
 
 When he (the Khakan) drew before the guest (Sikander) such a present;
@@ -215,8 +215,6 @@ In impetuosity like fire; in softness like water:
 
 In the morning, more quickly rising than the birds;
 In the river, more swift than the fishes.
-
-" Khiug " significs — a white horse. " Sabz-khing " significs — a white horse inclining to green (?).
 
 In swift moving, his form the demon- wind;
 In turning, his title the demon-born:
@@ -322,7 +320,7 @@ Saying: — " This bird and this steed and this damsel
 « a damsel also with this countenance is not despicable;
 " For no one is her equal in beauty.
 
-" Within her, the assister (God) bas introduced three (matchless) qualities;
+" Within her, the assister (God) has introduced three (matchless) qualities;
 " In respect to which, the fourth is not to be acquired:
 
 " One — beauty of countenance and grace;

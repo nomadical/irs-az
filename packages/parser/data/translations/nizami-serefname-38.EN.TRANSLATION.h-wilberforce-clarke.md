@@ -136,7 +136,7 @@ The guard of the fortress endured great grief (from there being no road),
 So that he might take the king towards that cave.
 
 When the king went near to. that narrow cave,
-The fret of the wind-footed steeds came against the stone (of obstruction, and fell).
+The feet of the wind-footed steeds came against the stone (of obstruction, and fell).
 
 Because (the custom of) travelling was taken up from that road,
 Choked with the thorn and with the bramble.

@@ -72,7 +72,7 @@ He said, O narrow-eyed Tartarian (girl), your eyes are never open to my game.
 
 A wild ass comes, say how shall I attack? From head to tail at what (part) shall I aim?
 
-The sweet-lipped (girl), by natural habit shirred, — (she was a woman, so would idly speak), —
+The sweet-lipped (girl), by natural habit stirred, — (she was a woman, so would idly speak), —
 
 Said, You must do a deed to honour you: pin to its hoof the ear of this wild ass.
 
@@ -140,7 +140,7 @@ You will escape enquiry, and I, death; a cypress free will fall not to the groun
 
 A day may come when, though I’m naught, I may in something serve you stiH for what you’ve done.
 
-She spoke these words, and took her necklace oS, and offered him seven rubles (as a gift):
+She spoke these words, and took her necklace oS, and offered him seven rubies (as a gift):
 
 Bach one of them the tribute of a Clime; the revenue of ‘Umman half its worth.
 
@@ -210,7 +210,7 @@ On such a star-throned belvedere as this we'll give hi-m sometimes wine and some
 
 If such a business should be well arranged, the state of both of us will be upraised.
 
-The officer left (all) the rubles there, for God had given him a thousand such.
+The officer left (all) the rubies there, for God had given him a thousand such.
 
 He went and with some hidden treasures bought all things required to entertain (his guest).
 

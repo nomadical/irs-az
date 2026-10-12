@@ -111,7 +111,7 @@ Saying: — " This man-slayer, — what a calamity (of Time or of heaven) he is!
 An intelligent one, who knew that land (the natal place of the demon),
 Raised with majesty the standard of reply (stood up),
 
-Saying: — "Since the king, justice-administrator, bas given the order,
+Saying: — "Since the king, justice-administrator, has given the order,
 " I will show to him the state of that animal.
 
 " Near to the Darkness (where is the water of life) is a mountain,
@@ -135,16 +135,16 @@ Saying: — "Since the king, justice-administrator, bas given the order,
 " In every contest (with the sword, the arrow, the spear, the mace) which occurs, they are perfect and true;
 " Save thus (standing firm), they have not prepared a belief.
 
-" Of these, none bas seen one (quite) dead;
+" Of these, none has seen one (quite) dead;
 " But (half) living; and that half living seldom,
 
-" Bach one bas a few sheep,
+" Bach one has a few sheep,
 " From which sheep they prepare their own goods.
 
 " Their market is in new cheese and (animals bearing) wool;
 " Save these, are no goods in their estimation.
 
-" No one bas a treasury;
+" No one has a treasury;
 " They recognize only the black sable (which they cherish).
 
 " The sable, which is exceedingly black,
@@ -180,8 +180,6 @@ Saying: — "Since the king, justice-administrator, bas given the order,
 " When the ligature becomes strongly bound on him,
 " Him, they drag with fifty men from the tree.
 
-Observe the agent in the singular; the verb in the plural. " Pinu " significs — j ugh rat.
-
 ' When that bound one becomes acquainted with the matter,
 ' He shouts a shouting, thunder-like.
 
@@ -189,7 +187,7 @@ Observe the agent in the singular; the verb in the plural. " Pinu " significs �
 ' He slays each one with one back-hander.
 
 ' If he be secure in that bondage,
-1 They convey him with caution to Russia:
+They convey him with caution to Russia:
 
 " About him, they put a strong chain ligature;
 And through him, gather water and bread:

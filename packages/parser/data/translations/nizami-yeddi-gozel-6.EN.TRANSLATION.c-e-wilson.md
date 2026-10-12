@@ -70,7 +70,7 @@ From it whate’er you take out grain by grain, even do you successively restore
 
 When like the candle you must have a crown, more tears than laughter you must have (from it).
 
-The hills and sea, which rubles have and pearls, have little laughter, but abundant tears.
+The hills and sea, which rubies have and pearls, have little laughter, but abundant tears.
 
 All have a helper hidden (from their view): it is a friend, and one who is attached:
 

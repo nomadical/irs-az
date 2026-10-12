@@ -68,7 +68,7 @@ The scorpion since it is by nature bad — to let it live’s a fault, to kill i
 
 Seek knowledge, for through knowledge you effect that doors to you be opened and not closed.
 
-He who shames not at learning can draw forth pearls from the water, rubles from the rock.
+He who shames not at learning can draw forth pearls from the water, rubies from the rock.
 
 Whilst he to whom no knowledge is assigned — that person (you will find) ashamed to learn.
 

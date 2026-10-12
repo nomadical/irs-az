@@ -52,7 +52,7 @@ Not a (musk-) deer, — yet a navel, full of musk;
 Teeth, deer-like, pearl-studded.
 
 Of more pleasant rein (action) than that which comes into the imagination;
-And of more swift motion than that which the arrow bas from the bow.
+And of more swift motion than that which the arrow has from the bow.
 
 The imagination (of the Sage) loftily moving, the swiftest hastener,
 Remained seventy paces behind him (Burak).
@@ -137,7 +137,7 @@ In that excursion, from his arrow (Burak) full of power,
 The sky remained behind many bow -shots.
 
 In far observatories (the lofty heavens), his (luminous) body wove
-Upon the spirits, bodics (garments) of light.
+Upon the spirits, bodies (garments) of light.
 
 In that road (of excursion) void of the path of wandering,
 Both his load (of self) and his steed (Burak) left.
@@ -175,7 +175,7 @@ Boldly, he travelled that path (by God's throne) without nadir, or zenith;
 They (the ministers of Fate and Destiny) uplifted the veil of (God's) majesty;
 They made the closet (God's throne) void of strangers (angels and spirits).
 
-In that place, in which thought bas seen no place,
+In that place, in which thought has seen no place,
 Prayer (came) from Muhammad; and acceptance (of prayer) from God.
 
 A voice that proceeded without the agency (of the tongue) he heard,
@@ -220,11 +220,11 @@ Best, — if I offer the jewel of my soul for him,
 The jewel (of praise) -purchasers are four; and the jewels (of praise) four;
 To the seller (me, the Praiser), what business with exaggeration?
 
-Although, I am firm of foot, in love for 'Ah,
+Although, I am firm of foot, in love for 'All,
 I am not also void of love for 'Umar.
 
 In this way, in this (my) eye of luminous brain,
-Abu Bakr ('Umar) is the (flaming) candle; and 'Usman ('Ah), the (shining) lamp.
+Abu Bakr ('Umar) is the (flaming) candle; and 'Usman ('All), the (shining) lamp.
 
 With these four Sultans of Darvesh name,
 Four takbirs (the end) of the empire (of the khilafat of Islam) became completed.
@@ -247,12 +247,7 @@ The decree struck — " O my Follower! O my Follower!"
 Of the meanest of the followers of thy dust (path), —!
 Notwithstanding this (my) weakness (in the faith of Islam) — the great prey of thy saddle-strap.
 
-" Takbir," magnifying God by saying, " Allah akbar " (God is
-greatest) here significs — Khatima, kar, the end; namaz-i-janaza, funeral
-
 prayer.
 
 Nizami, who became city-bound (captive) in Granja-city,
 Let him not be portionless of thy blessing! %
-
-" Shahr-band " significs — one who, by the magistrate's order, is for-

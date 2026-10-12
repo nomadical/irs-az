@@ -94,7 +94,7 @@ Through fortune’s ace the wearer of the crown one day ascended suddenly (Ms) t
 
 His body bead to foot was (clothed in) black: (bis) tunic, bead-dxess, and (bis) gown (were Hack).
 
-Keen-witted all the time be ruled the world, be dressed in black tbougb suffering no loss.
+Keen-witted all the time be ruled the world, be dressed in black though suffering no loss.
 
 In blackness bke the Stream of Life be lived; (but) none the reason of this blackness asked.
 
@@ -116,7 +116,7 @@ Who on the earth bas such an arm that be may graze (the face of) heaven with an 
 
 Into a hidden story to enquire (is not for us); you know (it) and can tell.
 
-My master finding me (fit) confidant, bored rubles (red) and spbt the musk-pod open.
+My master finding me (fit) confidant, bored rubies (red) and spbt the musk-pod open.
 
 He said, When in this sovereignty of mine I formed a habit of receiving guests,
 
@@ -348,7 +348,7 @@ My property, perchance, led him astray, for that he’s brought destruction on (
 
 To clutch the bird’s foot will be best for me, and thus may I escape this place of risk.
 
-When came the time of cock-crow, (and) the birds and every wild thing which existed shirred,
+When came the time of cock-crow, (and) the birds and every wild thing which existed stirred,
 
 That bird’s heart too by restlessness disturbed, — it flapped its pinions and bestirred itself.
 
@@ -396,7 +396,7 @@ The fish amidst the rivulets were like to silver dirams ” in quicksilver place
 
 Aroimd the garden, hills of emerald hue, the wood on them of cypress, poplar, pine.
 
-The stones were all red rubles to the view, and from their hue the poplar pale turned red.
+The stones were all red rubies to the view, and from their hue the poplar pale turned red.
 
 Sandal and aloes stood on every side, the breeze rubbed sandal and burned aloes-wood.
 
@@ -434,7 +434,7 @@ A world of brightest pictures that possessed the damtiness of wine of fragrant s
 
 Like a fresh spimg was every picture (there), (and) all had henna in their hands (as flowers).
 
-(Their) ruby lips like tulips in the garth; their rubles bloodwite (too) of EFuzistan.
+(Their) ruby lips like tulips in the garth; their rubies bloodwite (too) of EFuzistan.
 
 Their heads and arms were covered with gold chains; their necks and ears adorned with lustrous pearls.
 
@@ -582,7 +582,7 @@ Admitting to a store of kisses sweet, giving me thousand when I asked for one, �
 
 I grew warm as the drunken man becomes — the loved one, found, I, lost to self-control.
 
-My heart’s blood heated was to ferment shirred, (and) when its beating reached (that) beauty’s ears.
+My heart’s blood heated was to ferment stirred, (and) when its beating reached (that) beauty’s ears.
 
 She said. To-night with kisses be content, no more scrape off the colour of the sky.
 
@@ -626,7 +626,7 @@ When we had gone into that wondrous house, we were like bass and treble in accor
 
 Spread on a high-placed rug I saw a bed (made) of the finest rarest painted silks;
 
-The brightly burning candles on the rug burnt ambergris and fashioned rubles red.
+The brightly burning candles on the rug burnt ambergris and fashioned rubies red.
 
 I laid my head upon the pillow (then); and clasped that beauty tightly to my breast.
 

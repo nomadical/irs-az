@@ -19,7 +19,7 @@ That wine which is the consoler of the one grief -stricken (through love to God)
 No fire (heat) experienced save the sun (the effulgence of God's glory).
 
 I behold the world full of the desire of the desirer;
-One (bas his desire) towards the sea, the other towards the pearl.
+One (has his desire) towards the sea, the other towards the pearl.
 
 At this time I seen none
 Whose desire is towards the teacher (Nizami).
@@ -53,7 +53,7 @@ Rested; and the object came to his grasp,
 He became an accepter of ease and sleep,
 Passed the pure wine over his hand (circulated the wine in the assembly):
 
-Sate and drank wine on the feast of Nan-roz.
+Sate and drank wine on the feast of Nau-roz.
 Listened to the song of the singers.
 
 Until the time of sleep, far from the king would not be
@@ -62,7 +62,7 @@ The musician, nor the cup-bearer, nor music and wine.
 He kept no account — save of his own pleasure;
 And better than that, none possessed life.
 
-232 THE S1KANDAE NAMA,E BAUA. | CANTO XXII.
+THE S1KANDAE NAMA,E BAUA. CANTO XXII.
 
 The world-possessor, sphere-illuminating, seated,
 Brought in prosperousness night to day:
@@ -74,7 +74,7 @@ Aristo with the bowl; Flatiin with the cup;
 Pourers of pure wine, like pure blood.
 
 The musician — to the sound of music, the singer,
-Of a song (of victory) of new modulation, on the king's Nan-roz (festival),
+Of a song (of victory) of new modulation, on the king's Nau-roz (festival),
 
 Saying: — " O fortune-shelter! be young (prosperous) in fortune:
 " Be every year possessed of diadem and throne!
@@ -85,7 +85,7 @@ Saying: — " O fortune-shelter! be young (prosperous) in fortune:
 " Give the joy of the red-coloured wine;
 " Prepare pleasure and give justice to youth (enjoy it).
 
-" When thou bast youth, and fortune is (present),
+" When thou hast youth, and fortune is (present),
 b is proper to sit joyous, with song and with wine.
 
 " Since thou completedst the sword's work (war),
@@ -118,7 +118,7 @@ The lust of territory-seizing was his.
 He made the girdle of the men of Iran weak;
 He tightened his belt for Iran-seizing.
 
-— That tree which brings forth its headioftily
+— That tree which brings forth its head loftily
 Brings injury to other trees. —
 
 One happy day the king went a-hunting;
@@ -229,11 +229,6 @@ Of the prosperousness of peace (with Dara) and of his own war.
 " If he possess the crown, — the sword is mine;
 " When the sword is mine, — the crown comes to my power,
 
-" Pusht-i-kawi " significs — takwiyat.
-
-"Gazid" significs — kharaj; baj; gazi't; jaziya.
-By Dara's religion usury (riba) was lawful; by Sikandar's, unlawful.
-
 "If he bring an army for contest with me,
 " The Protector (God) is my protector.
 
@@ -260,9 +255,6 @@ Renewed their prayers for the monarch.
 
 Saying; — " While the revolving sphere and stars exist,
 " — And from these two is the mixture of the jewel (of the four elements): —
-
-This couplet bas many Sufiistic meanings.
-"Rasad-gab " significs — mahal-i-baj; Lxij-gab.
 
 " May the jewel (the four elements of existence of) the king be the lamp of the world!
 " May the king's countenance be more resplendent than the moon!
@@ -310,7 +302,7 @@ was then twenty-two years (b.c. 334).
 " Thou doest good; he does evil.
 
 " On account of which evil, — of all cities and armies,
-" Of the good men, — he bas none well-wishing.
+" Of the good men, — he has none well-wishing.
 
 " Thou wilt see that one day, verily, his tyranny
 " Will bring great dulness into his market (of sovereignty).
@@ -324,7 +316,7 @@ was then twenty-two years (b.c. 334).
 " Bind thy loins (for battle) and behold the vigilance of (thy) fortune;
 " Display crown-possessing; sit on the summit of (Dara's) throne.
 
-11 It is not proper that this fancy should bind thee (from battle with Dara);
+It is not proper that this fancy should bind thee (from battle with Dara);
 " For empire lies in country; and victory, in wealth. —
 
 << Lordship-exercising over man is by manliness;
@@ -348,7 +340,7 @@ was then twenty-two years (b.c. 334).
 " To that one whose dough (nature) is crude (ungenerous)
 " Everyone gives baked bread (at the time of famine) by loan (not as a gift).
 
-' Thou bast manliness; liberality is thine;
+' Thou hast manliness; liberality is thine;
 " The treasure of the evil one is with dragons (profitless).
 
 " If lie comes (in majesty) as thunder, thou art (with the sword of anger) the lightning;
@@ -361,7 +353,7 @@ no " Thou art that lion-seizer that in battle-time
 " Who were like the demon, malignant and bad (outwardly and inwardly),
 
 " When they displayed arrogance against thy sword,
-" Save the head (in submission) — what cast they at thy fret? -
+" Save the head (in submission) — what cast they at thy feet? -
 
 " Since, like the mountain, thou movedst not through those torrents (of Zang warriors),
 " Thou wilt not be distressed by these drops (Dara's army).
@@ -387,7 +379,7 @@ sound, awe-inspiring.
 "With so many victorious signs, How may not disaster reach the enemy P
 
 " By that lot which one can calculate from the star
-" Thou bast pre-excellence in this contest.
+" Thou hast pre-excellence in this contest.
 
 " Verily, in the figures of the arithmetical diagram (of the conqueror and conquered),
 " Thou appearest more powerful when thou arrivest against him.
@@ -401,7 +393,7 @@ sound, awe-inspiring.
 " Since by lot that showing was victorious,
 " By this lot also the (last) state can be victorious (as to Dara)."
 
-With (the omen of) victory of his own path-showers (roun-cillors), the king
+With (the omen of) victory of his own path-showers (councillors), the king
 Performed a calculation as to world-seizing.
 
 Wherever he took the sword (for war) or the wine-cup (for peace),

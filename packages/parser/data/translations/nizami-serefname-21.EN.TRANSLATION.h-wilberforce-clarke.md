@@ -18,9 +18,6 @@ Pour out, lightning like (quickly) to thy heart's desire.
 (If) I drink it (and die through rapture) it is heart (life)- giving;
 (If) it indeed devour (overpower) me, — the dust (of the grave) becomes my food (I die).
 
-" Bum khwandan " significs — kharab sakhtan.
-The owl, a filthy bird, delights in desolate ruined places.
-
 How good a property is information (regarding the preserving of the means of livelihood).
 God forbid that the world should be void of this coin.
 
@@ -43,16 +40,16 @@ The narrator (Nizami) of the royal explanation (of this history )
 Gave information to the inquirer, in this way,
 
 Saying: — When Dara led his ally to (the land of) Arman,
-Thou wouldst have said, — the day of resurrection bas appeared!
+Thou wouldst have said, — the day of resurrection has appeared!
 
 Of his action (of fury) no knowledge was Sikandar's
 That he would bring the resurrection (a host) in battle against him.
 
 Refugees, tribe on tribe, arrived,
-Saying: — " The storm bas brought the torrent (Dara's army) to the sea (our cities of Arman):
+Saying: — " The storm has brought the torrent (Dara's army) to the sea (our cities of Arman):
 
-" Dara's assault bas come from the path (of our cities);
-" The laud bas become black with the steel-clad ones."
+" Dara's assault has come from the path (of our cities);
+" The laud has become black with the steel-clad ones."
 
 An inquirer (a man of knowledge of Sikandar's army) said: " The enemy (Dara) intoxicated
 " Is, night and day, careless wherever he is.
@@ -65,8 +62,6 @@ Saying: — " The sun seizes not the world stealthily.
 
 " At the time of rein-twisting (assaulting) — for a king
 " It is not proper to conquer by stealth."
-
-"Zinhan'yan" significs — those seeking protection and making corn-
 
 Another spy began,
 Saying: — " Dara prepared not such an army
@@ -104,9 +99,6 @@ Warriors, extraordinary horsemen, were mustered.
 The agent to the verb (compute) is the word " officers " in the second
 line.
 
-Compare — pil-i-daman; mar-i-daman; bahr-i-daman.
-" Mufrad-sawar " significs: —
-
 When the business (mustering) of the army became completed,
 He prepared an assembly (muster) — without wine-cup or music.
 
@@ -119,8 +111,8 @@ Urged speech, and was perturbed as to his (Dara's) action.
 Thus he spoke, saying: — " That renowned monarch (Dara),
 " Has bound his loins for seeking contest:
 
-" Of peace or of war, — wrhat plan shall I make with him,
-" For this matter bas reached near to strife?
+" Of peace or of war, — what plan shall I make with him,
+" For this matter has reached near to strife?
 
 " If, forth from the scabbard, — I bring not the sword,
 " They will not bring forth my name for manliness.
@@ -182,7 +174,7 @@ They renewed their prayers for the lord of the marches, (Sikandar),
 " The peasant turns away his head (revolts) from his injustice.
 
 " For thee, — why is it necessary to fear that one,
-" Who bas many enemies (the injured peasants) even of his own house (country);
+" Who has many enemies (the injured peasants) even of his own house (country);
 
 " Draw the pen upon (efface) the tyrant-rule;
 " Satisfy the complaint of the people (against Dara).
@@ -267,7 +259,7 @@ This one is the blood-tray; that one, the dust-tray.
 On these two blood (stained) trays, — written,
 With the blood of Siyawush, much of the tale (of tyranny of the sky and earth).
 
-The earth devoured; and (from now) up to the time of devouring them much time bas not passed,
+The earth devoured; and (from now) up to the time of devouring them much time has not passed,
 Yet its belly is not sated of devouring them (guiltless).
 
 If the earth bring forth its stock in trade (the blood of guiltless ones devoured),

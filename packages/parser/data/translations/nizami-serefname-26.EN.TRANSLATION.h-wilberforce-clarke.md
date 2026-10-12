@@ -13,13 +13,10 @@ isDefault: true
 status: DRAFT
 ---
 Come, cup-bearer! put me (with wine) far from myself (make me senseless on beholding God's Majesty),
-Make the world (Nizami's life) full of light, with the red wine (of senselesness).
+Make the world (Nizami's life) full of light, with the red wine (of senselessness).
 
 The wine that leads my path to the stage (of being without sorrow):
 All (worldly things) take away the heart (sense); it takes away heart- sorrow.
-
-" Pa,e bar dashtan " significs — suragh gmftan.
-This and the following couplets describe night. But (from couplets
 
 Although the world is a pleasant place of ease,
 The hastener's shoe is in the lire (of perplexity).
@@ -33,7 +30,7 @@ By the other garden-door (of death), move proudly out.
 If thou be wise, associate not with a rose,
 Of whose remaining behind (in the world) is no help.
 
-That (present) moment which thou bast, prepare for gladness;
+That (present) moment which thou hast, prepare for gladness;
 For that coming is nothing, and that past is nothing.
 
 We have not come (into the world) for the pursuit of heart-happiness,
@@ -69,7 +66,7 @@ Saying: — " Would that to-night had been long.
 " Perhaps its length would have made delay;
 " The battle-day would have appeared with great delay."
 
-They call night — zillu-1-arz, earth-shade.
+They call night — zillu-l-arz, earth-shade.
 
 The thought of the strivers (Dara and Sikandar) was such
 That they would scatter (extinguish) anger, the rager.
@@ -119,8 +116,6 @@ Saying: — " To-morrow, in this circle of difficult (dangerous) ground,
 " The Day of Judgment, which is hidden from our judgment,
 " Will be a day,— that day is our to-morrow!" (Then fear not)
 
-'' Miindan " significs — guzashtan.
-
 In dreadful imaginings like these,
 The two armies, with fear and perturbation, slumbered.
 
@@ -140,7 +135,7 @@ Of the army, in the order of battle, all the weapons,
 Of quiver (and) the poplar-arrow, — arrayed:
 
 Set on foot a hundred mountains of steel (steel-clad warriors);
-Made, at his fret, a place for the treasure.
+Made, at his feet, a place for the treasure.
 
 When, on the right wing, the work (the battle array) became fit,
 The left wing became, at the same time, like a brazen fortification.
@@ -154,7 +149,7 @@ The standard of the Kayan kings erect above his head.
 Sikandar, who held the sword, world-consuming,
 Kept such a sword for the sake of this day:
 
-Shirred up strife like the cloud, the rainer,
+Stirred up strife like the cloud, the rainer,
 Its hail of the arrow, its rain of the sword:
 
 Drew the wing of the army to the sphere;
@@ -199,7 +194,7 @@ Blood (from fear) would, instead of water, have issued from the cloud.
 The throbbing of the drum of brazen bowl
 Gave fear, as to life, to the hearer.
 
-The bell-strikers, according to Zang- melodics,
+The bell-strikers, according to Zang- melodies,
 Brought forth blood from the heart of the hard stone.
 
 Two streams of blood (from the two armies) came into motion;
@@ -266,7 +261,7 @@ That spark, that Dara's sword cast,
 Cast swooning (from heat) into the heart of the hard stone.
 
 When army commingled with army,
-They shirred up the (tumult of the) resurrection from the world.
+They stirred up the (tumult of the) resurrection from the world.
 
 Confusion fell upon the army (of Dara and of Sikandar);
 The seeking out (desire) for the protection of the king (Dara) fell (sank and departed).
@@ -304,11 +299,11 @@ Saying: — " We kindled the fire of destruction of the enemy;
 " Come, — so that thou mayst see and believe;
 " Mayst moisten, with his blood, the hoof of thy steed.
 
-" Since, whatever we resolved bas issued from us (is accomplished),
+" Since, whatever we resolved has issued from us (is accomplished),
 " Do thou also, whatever thou didst say,- — perform.
 
-" Give to us that treasure that thou bast agreed to;
-" Exercise faith (loyalty) as to that matter which thou thyself bast said."
+" Give to us that treasure that thou hast agreed to;
+" Exercise faith (loyalty) as to that matter which thou thyself hast said."
 
 Sikandar — when he knew that those (two), road-lost,
 Were audacious in regard to the blood of the king of kings (Dara), —
@@ -320,7 +315,7 @@ Hopefulness (of life) dies out in a man,
 When the head of one equal (in years or rank) comes to the dust (of the grave).
 
 He sought the spot, saying: — " The Kay, territory-ruler,
-" Where bas he his sleeping-place of blood and sweat? "
+" Where has he his sleeping-place of blood and sweat? "
 
 On the road, — the two, injustice-practising,
 (Were) the king's road- guide to their own crime.
@@ -377,10 +372,10 @@ the Oxus, the capital of Arjasp, Afrasiyab's grandson.
 " Keep thy loins from my loins (withdraw).
 
 " Release the head of chiefs from thy hand;
-" Shatter (shake) not; — for the world indeed bas shattered me.
+" Shatter (shake) not; — for the world indeed has shattered me.
 
 " What hand (power) art thou, that thou exercisest violence to me;
-" That thou display est aggressiveness towards the Kayan crown?
+" That thou displayest aggressiveness towards the Kayan crown?
 
 " Keep off thy hand; for this is Dara!
 " Like the conspicuous day, this (aggressiveness) is not hidden.
@@ -460,17 +455,17 @@ Sikandar lamented saying: — O crown-possessor!
 ' Why weep I not blood over that crown and throne (the sovereignty of Dara),
 ' Which casts the chattels of the possessor out at the door?
 
-1 Be not that rose-garden (the world), — whose chief
+Be not that rose-garden (the world), — whose chief
 ' Is in this broken state by its thorn (of injury).
 
-' Clamour from a world, saying: — Dara bas departed!
+' Clamour from a world, saying: — Dara has departed!
 ' Not secretly, but like the open day, — he passed away.
 
 ' Since I have not the power of remedy (of restoring life),
 ' I lament in memory of the young cypress (Dara).
 
-' (O Dara!) what plan bast thou? what is thy desire?
-' Of whom bast thou hope? of whom is fear?
+' (O Dara!) what plan hast thou? what is thy desire?
+' Of whom hast thou hope? of whom is fear?
 
 " Whatever thou wishest, say — that I may execute the order;
 " May make a promise with thee for remedying."
@@ -517,7 +512,7 @@ Nor than Isfandiyar, the world-seizing hero,
 Who saved not his life from the eye-wound of time.
 
 Since from the first, the being slain occurred in our family,
-On me, — the slayer bas established the lineage.
+On me, — the slayer has established the lineage.
 
 Mayst thou be fresh of head in sovereignty!
 Since I have made void (in death) the pillow-place of verdure.
@@ -537,7 +532,7 @@ Thou bring not injury when thou art ruler.
 " That thou make void thy own heart of the seed of malice,
 " And render not the earth void of our (Kayan) seed.
 
-(i rpg |r(j that, — in regard to my women-folk,
+" The third that, — in regard to my women-folk,
 " Thou violate not the inviolable in my bed-chamber.
 
 " Roshanak, indeed, who is my daughter,
@@ -567,7 +562,7 @@ Wept in the night-time, till the morning.
 At him, he gazed; over himself, bewailed;
 Because it was necessary for him to drink the same poison (of death).
 
-lfio The next day, when the morning, the piebald horseman
+The next day, when the morning, the piebald horseman
 Appeared over this meadow (of the sky),
 
 Sikandar ordered — that they should bring the means (of burial);
@@ -625,7 +620,7 @@ If he be the king of the country; or if the country, (peasantry) of the king,
 All (the king and his peasantry) is the path of sorrow; or the sorrow of the path.
 
 In respect to this ancient revolving dust (the earth), — who knows
-What number (of men) from (the beginning of) the grave it bas in every cave (grave).
+What number (of men) from (the beginning of) the grave it has in every cave (grave).
 
 The dust is an old purse of concealed fold,
 That never brings forth the sound of treasure (buried men).
@@ -634,10 +629,10 @@ The gold from the new (leathern) purse brings forth the clink (of gold);
 The new pitcher with moisture (water) comes into crepitation.
 
 This tomb (the earth) of non-rapacious and rapacious animals, — who knows
-What chronicles of good and bad (on tomb-stones) it bas?
+What chronicles of good and bad (on tomb-stones) it has?
 
-What sorcery it bas prepared for those endowed with wisdom?
-The heads of how many arrogant ones it bas cast down?
+What sorcery it has prepared for those endowed with wisdom?
+The heads of how many arrogant ones it has cast down?
 
 The sky is not always thy bosom-fellow;
 Its painting of two colours (joy and grief) is on thy back.
@@ -668,9 +663,6 @@ Meditates on the treachery of man.
 
 Perhaps the jewel of humanity became shattered,
 That humanity died in man.
-
-If thou consider deeply the form of +±y* " mardum "(man),
-Thou wilt say that the word +Ay " murdam " (I died) is
 
 In the eye, the cap of the pupil of the eye
 Became also black (in mourning) for the dying of generosity (in man).

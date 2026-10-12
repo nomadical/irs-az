@@ -90,15 +90,10 @@ In our fire-place, whether iron or wax, what matter?
 If thou bring armour and helmet in ass-loads,
 Where are thy means of (resisting) a single willow-leaf arrow of mine.
 
-When Nirarud threw Abraham into the fire he recited the Usta
-(Avasta abasta). See Sale's " Kuran," chapter xxi.
-
-" Mandan " here significs — guzashtan.
-
 Perhaps the arrows of my warriors of Yaghma,
-Thou bast not experienced that thou art fierce for strife with me.
+Thou hast not experienced that thou art fierce for strife with me.
 
-Where is thy head (thou bast it not), which thou mayst present to Dara?
+Where is thy head (thou hast it not), which thou mayst present to Dara?
 If thou display humility before Dara, — well.
 
 O ruler of the men of Rum! for thee it is necessary
@@ -115,8 +110,6 @@ Be not safe on account of my carelessness (in not seizing thee before).
 
 Beware! Look not (with contempt) at the sleeping hare (Dara);
 For just so much as it sleeps it runs at the time of action.
-
-2s " Sar-bakhsh " significs — hissa,e kalan.
 
 Behold how the lion of the sphere (the sun) seized the world,
 As it seized the hare (the constellation of Cancer) together with the moon of the sphere.
@@ -136,8 +129,8 @@ It is proper, once, to sell silk and cotton (to suffer hardship).
 Make not a breach in our ancient Kayan family;
 Thou art in the breach (of destruction); exercise not boldness.
 
-4° Bring me not to that (point of rage), — that I should move from (my) place;
-The gnat's wing bas no standing (power) with the elephant's foot.
+Bring me not to that (point of rage), — that I should move from (my) place;
+The gnat's wing has no standing (power) with the elephant's foot.
 
 Be happy in the country (of Rum), Grod-given;
 Make not the scratching (of avarice) with (us) lions of iron claw.
@@ -146,7 +139,7 @@ A crow heard (from the birds) about the prond gait of the partridge;
 He forgot his own (manner of) walking (and learned not the gait).
 
 Prepare the assembly (of council of thy chiefs); for the stars (of thy fortune) have descended (to adversity);
-The angel (of death) bas opened the door (of calamity) of the sky (over thy head).
+The angel (of death) has opened the door (of calamity) of the sky (over thy head).
 
 I know not — the crown of Kay Khusrau,
 From whose head it will take freshness (of renown).
@@ -167,7 +160,7 @@ Youthful pride brings thee to that (indeed)
 That thy neck will be scratched with my sword.
 
 My opposition made low not only thee;
-Many the warriors that it bas shattered.
+Many the warriors that it has shattered.
 
 Of the monarchs of Persia — me befits
 The throne of Kay Ka,us, and the crown of Jamshid.
@@ -187,7 +180,7 @@ He entrusted his written pedigree to (King) Bahman:
 And if (when) Bahman passed from sovereignty (died),
 World-sovereignty fell to me, —
 
-Save me, — who, at the time of battle, bas
+Save me, — who, at the time of battle, has
 The heart (courage) of Bahman, and the strength of Isfandiyar?
 
 The arm of Bahman comes to me,
@@ -197,7 +190,7 @@ I am one of distinguished race; others, inferior (without lineage);
 Who can bring disaster to the descent of the Kayan kings?
 
 Thou art mistaken in the estimate of thyself;
-For thou bast not measured (essayed) the arm of Bahman (that I possess).
+For thou hast not measured (essayed) the arm of Bahman (that I possess).
 
 I am the lord of territory by (right of) my own lineage;
 Be not rebellious towards thy own lord.
@@ -226,7 +219,7 @@ This, verily, I say to the; this, verily, I repeat.
 When the reader of the letter of the monarch (Dara)
 Finished the letter, picture-like (with varied phrases and dread significations),
 
-7o Sikandar ordered that he (the secretary) should use despatch;
+Sikandar ordered that he (the secretary) should use despatch;
 Should write an answer suitable to that written.
 
 The secretary, the pen-striker, took up the pen;

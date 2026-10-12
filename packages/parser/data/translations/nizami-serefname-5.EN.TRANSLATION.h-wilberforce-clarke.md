@@ -33,8 +33,6 @@ For keeping the path (of thought), heart kindled,
 Morning prayers are especially agreeable to God — so says the glorious
 Koran.
 
-" Jaras " significs — zangalah-i-buzurg, a large globular bell, which
-
 On this account, — How is it proper for me to make a game-receptacle (work of lustrous verse)?
 To cast a prey (the subject of verse) into that receptacle?
 
@@ -67,9 +65,6 @@ Since by their own wax, they stitched up (prevented) the sleep (of men).
 
 In those contemplative paths (of verse),
 The pure (whole) brain in my head became perturbed.
-
-" Gard-gard " significs — revolving, revolving = much revolving.
-So they say: khatir-i-dostan bagh-bagh shiguft.
 
 From the agitation (sleep) of the brain, came mine a dream;
 In that dream, I beheld a beautiful garden (the lustrous
@@ -105,10 +100,10 @@ May bring forth a lamp (a book) from a spark (the tale of a past King);
 May produce a tree from a grain (the tale of Sikandar).
 
 So that whoever casts down (obtains) the fruit (of pleasure) from this tree (of verse),
-May say to the Planter (Nizami): "O fortunate One! ■'
+May say to the Planter (Nizami): "O fortunate One! '
 
 On the condition that — a mere handful of mean ones (unskilful poets, my contemporaries)
-Steal not the household furniture (verses) of their neigh-hours.
+Steal not the household furniture (verses) of their neighbours.
 
 I have assumed — I am chief of those of quick understanding (poets);
 (That) I am the great king of those jewel-selling (poets);
@@ -119,8 +114,8 @@ All, house-deckers (helpers); and I, the house-holder (the master).
 In these four sides (the market of retribution, the world) how may I plant my goods (of poetry)?
 For I am not safe from the robbers of the road (plagiarists).
 
-In these four sides (the market of the World), who bas a shop (of verse),
-That bas not a breach from many directions?
+In these four sides (the market of the World), who has a shop (of verse),
+That has not a breach from many directions?
 
 Like the river, why fear I the robber of a drop (the sun),
 When more than that, the cloud (of Divine Bounty) gives me reward?

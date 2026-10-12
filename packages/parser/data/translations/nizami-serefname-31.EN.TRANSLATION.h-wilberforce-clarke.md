@@ -13,7 +13,7 @@ isDefault: true
 status: DRAFT
 ---
 Come, cup-bearer! that wine of amber (red) colour (the wine of senselessness),
-Give me; for my foot bas come against a stone.
+Give me; for my foot has come against a stone.
 
 I may, perhaps, devise a remedy in respect to this stone-raining (of Time);
 May like (the brittle) amber fly from the (hard) stone (the vicissitudes of Time).
@@ -87,7 +87,7 @@ One night, when the sky had a suitable fortune,
 He (Sikandar) sent, and summoned his own minister (Aristotle);
 He uttered to him words buried (in his own heart),
 
-Saying: — " Since the country of Iran bas come to my grasp,
+Saying: — " Since the country of Iran has come to my grasp,
 " I desire not to be foot-bound in one place.
 
 Like the sky, I am inclined to wandering;
@@ -141,7 +141,7 @@ Saying: — " May the world-king be order-issuer!
 " The calculation which (his) lofty judgment made (is from foresight);
 " No one with foresight experiences injury.
 
-" For the happy work which the king bas ordered,
+" For the happy work which the king has ordered,
 " I bind my loins and turn not my head from the path.
 
 " But it is necessary that the king in his own administration
@@ -156,7 +156,7 @@ Saying: — " May the world-king be order-issuer!
 " It is not possible to hold the world with one body;
 " To guard the whole world by one's self.
 
-" The world bas many divisions of country;
+" The world has many divisions of country;
 " And of them, everyone takes a share.
 
 " When thou makest the division-enjoyers (the governors) obedient to thyself,
@@ -207,7 +207,7 @@ Saying: — " May the world-king be order-issuer!
 " When they each one separately exercise sovereignty,
 " They will with one another exercise revengefulness.
 
-11 Through the business of their own country, each one
+Through the business of their own country, each one
 " Will not have sufficient leisure (to turn) against us.
 
 " When the enemy brings forth his hand to plunder,

@@ -33,7 +33,7 @@ Made not his lodging in this cave (of the earth) with the ghiil (the toil of the
 To suffer toil in the world's business, — what advantage?
 Since it is impossible by endeavour to increase one's daily food.
 
-Not worth care is the world; incline to joy (contented with what thou bast);
+Not worth care is the world; incline to joy (contented with what thou hast);
 Not for care,— have they made this mansion.
 
 For the sake of joyousness and gladsomeness — is the world;
@@ -45,7 +45,7 @@ But draw up our chattels from this bottomless pit (and remain void of attachment
 Let us place with (for the sake of) joy joy-bringing wine (the goods of delight and ease);
 And give with joy that established for joyousness (to the needy).
 
-Since yesterday bas departed and to-morrow will appear,
+Since yesterday has departed and to-morrow will appear,
 It is necessary to purchase with joy this one night (the present moment).
 
 Thus best, — that we enjoy the spectacle to-night;
@@ -75,18 +75,16 @@ As other forerunners took.
 If thou fear the highwayman or the tribute-demander (the Sultan),
 Who plunders whatever he sees on the road, —
 
-Give first to the darvesh whatever thou bast;
+Give first to the darvesh whatever thou hast;
 For no one seeks the store-place of the (poor) darvesh.
 
 Seest thou not that the tribute-takers of one-tenth
 Bring the tribute to the vestibule of the darvesh?
 
-" Dah yak sitan " significs — baj va khiraj giranda.
-
 How sensible was that man, dinar-estimating,
 Who made the desolate spot the abode of his treasure.
 
-Since the world bas the date of one day's space,
+Since the world has the date of one day's space,
 Why keepest thou concealed the treasure of a hundred years?
 
 Come, so that we may sit and display joyousness;
@@ -230,7 +228,7 @@ Saying: — " To-night, through gladsomeness, there is freshness for the world;
 "If on his steed be a (golden) collar,
 " Behold me, in whose full throat are ten collars!
 
-" If he have caskets full of rubles,
+" If he have caskets full of rubies,
 " Mine is a casket (the mouth) full of ruby (the lips) and pearl (the teeth).
 
 " If his ruby be now of the mine,
@@ -248,7 +246,7 @@ to purchase my beauty.
 "If through pre-excellence he became sovereign of the world,
 " By soul-cherishing I am sovereign of the lovely ones!
 
-1 When I cast up my veil from my face
+When I cast up my veil from my face
 ' I purchase the world for a single hair of mine.
 
 " When I draw a perfumed tress across the moon (my face)
@@ -365,23 +363,14 @@ no " Am a liver-piece (a cherished one) of the men of Chin by my mole;
 " When my pomegranate-breast became upreared,
 u The heart of the pomegranate of the garden became shed (in envy).
 
-" Of my pomegranate (breast), which is the orange (of delight) of the 'Nan-roz,'
+" Of my pomegranate (breast), which is the orange (of delight) of the 'Nau-roz,'
 " To whom — share and power? To whom, — is such daily food?
 
 " The auspicious tree am I, who am the friend of my own fruit;
 " I am the rose, fruit-producing, although I am in the skin (in bud).
 
-114, " Nar-rekhtan " may possibly have the same meaning as — nar
-afshandan, which significs — excessive weeping and shedding bloody
-
-tears.
-"Dil rekhtan " significs— losing the heart (in love).
-
-U5 The orange of the Nan-roz, kings and nobles pass round for good
+U5 The orange of the Nau-roz, kings and nobles pass round for good
 luck,
-
-llg " Bar dost " significs — dost daranda,e bar-i-khud, (meta.) a woman's
-bosom.
 
 " I and red water (wine) and the king's fresh head (are enough);
 " Say to the world: — Wash (down) thyself with black water (the salt sea).
@@ -455,7 +444,7 @@ The being dusty (humble) is best, so that thou mayst remain long.
 " A liver-devourer! nay, a sugar-lump (one of sweet gait)!
 
 uo " How many hearts that have become blood through my devouring the blood (of their livers)!
-" How much blood that bas remained on my neck.
+" How much blood that has remained on my neck.
 
 " (In sale) I became opposed to (was put in competition
 
@@ -541,6 +530,3 @@ Enjoyed much happiness and joyousness:
 
 Gave thus some nights his heart to happiness,
 And took not forth his chattels from that stage.
-
-" Khar " significs — dash-andazi.
-" Khun " significs — mada,e ab-i-mam.

@@ -20,7 +20,7 @@ The door of kindness to Nizami open, place him within the shelter of Your door.
 
 Since in reflection and the test (of gold) the coin of this fine Grecian treasure shines,
 
-1 have attached to it a royal name, that the inscription may exalt my hand.
+I have attached to it a royal name, that the inscription may exalt my hand.
 
 Some stories, these, no hand bas writ before, ’neath silken petals virgin rose-bud’s face.
 
@@ -76,7 +76,7 @@ O’er all men like the sky conspicuous, excelling aU men as the angels do; —
 
 ’Tis fitting I address this book to you, for through you one may reach to high renown.
 
-Since rubles have been set into its crown, to you through fear of pillage ’his addressed.
+Since rubies have been set into its crown, to you through fear of pillage ’his addressed.
 
 If hearing it (you find) it please your heart, ’twUl be exalted (even) as your throne.
 
@@ -110,9 +110,9 @@ Kegarding pay (for these) in current gold, the Brazen Fort my debtor (still) rem
 
 (Such) debt is not from want of will to give; a fort from want of silver may be brass.
 
-The sword bas scattered from that Eocky Mount rubles and diamonds o’er a hundred leagues:
+The sword bas scattered from that Eocky Mount rubies and diamonds o’er a hundred leagues:
 
-The rubles, as is fit, for hands of friends, the diamonds for the fret of enemies.
+The rubies, as is fit, for hands of friends, the diamonds for the fret of enemies.
 
 A fort! nay, ’his the Ka'ba of Islam; the shrine of spiritual travellers.
 

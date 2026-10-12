@@ -15,13 +15,13 @@ status: DRAFT
 Come, cup-bearer! from the jar of the old villager,
 Pour wine (a portion of senselessness) into the goblet, like honey and milk:
 
-9° Not that wine which is unlawful to religion, —
+Not that wine which is unlawful to religion, —
 (But), the wine by which the true religion became complete.
 
 Come gardener! display joyousness!
-The rose bas come; open the door of the garden.
+The rose has come; open the door of the garden.
 
-Nizami bas come from the city wall to the garden!
+Nizami has come from the city wall to the garden!
 Adorn the garden with painted silk.
 
 To the lip of the rose-bud (the child) to which the smell of milk comes,
@@ -31,7 +31,7 @@ Draw out widely (increase) the stature of the straight cypress;
 Give news to the turtle-dove (the lover of the cypress) that the bough is green.
 
 To the nightingale take secretly a piece of glad tidings,
-That the cradle of the rose (the branch) bas come back to the wine-tavern.
+That the cradle of the rose (the branch) has come back to the wine-tavern.
 
 Wash down the dust from the forehead (surface) of the* verdure;
 For lapis-lazuli becomes luminous by washing.
@@ -64,7 +64,7 @@ l* To the bird (nightingale) tongue-bound (on account of autumn) give voice,
 Saying: — Renew the flight (of song) of the past year.
 
 Make the wail of the harp the speaker;
-Bring forth this (my) sorrowful heart to dancing. #
+Bring forth this (my) sorrowful heart to dancing.
 
 The meanings are —
 (a) From the love of persons like myself (matured poets), with freshness,
@@ -100,13 +100,13 @@ For rose-plucking (hidden inspiration taking) came into the garden (of the lofty
 Resplendent of face, like the luminous lamp.
 
 Drawing the (long) ringlet-tip (lustrous verse) into the fold of her skirt (the completed chain of decorated speech),
-Scattering roses (subtleties), from her face; sugar (plea-santries), from her laughter.
+Scattering roses (subtleties), from her face; sugar (pleasantries), from her laughter.
 
 A face— ruddy like the rose; and on the rose sweat (freshness or bashfulness) expressed;
 She gave me a cup (of verse) full of milk (sweetness) and wine (joyousness),
 
 Saying: — In memory of the World King (God), drink!
-Save this, whatever thou bast (in mind) forget.
+Save this, whatever thou hast (in mind) forget.
 
 I habitually sate with the world-experienced ones (the historians);
 Of the approved ones (past kings), stories I uttered.
@@ -117,7 +117,7 @@ That I sifted from the fountain of blood of the brain,
 My tongue is not yet wearied of uttering;
 When the arm (power of verse) is, — no fear of the sword (of the critic) is.
 
-1 prepared many old treasures (tales of former kings);
+I prepared many old treasures (tales of former kings);
 Cast into them new subtleties of verse:
 
 Summoned resolve first towards " the Makhzanu-1-Asrar."
@@ -126,7 +126,7 @@ In which work (of subtlety), I displayed no idleness at all.
 And than that (Makhzan), evoked (a work) more lustrous and pleasing;
 I saturated (my soul) with (the tale of) Shi'rin (the lady) and Khusrau Parviz (the king).
 
-And out thence, I pitched the screen (completed tb,6 tale);
+And out thence, I pitched the screen (completed the tale);
 Knocked at the door of the love of Laila and Majniin.
 
 "When I completed that tale,
@@ -149,9 +149,6 @@ He might, by the fountain of life, become living:
 
 Sought the road to the fountain of life (Nizaini's lustrous verse),
 — Found now that fountain, which then he (vainly) sought.
-
-If bar angekhtan be read for tar angekhtan, the couplet will read: — From it (the Makhzan) I arose, complacent (of temper) and sweet (of tongue); I engaged in (the tale of) Shi'rin (the lady), and Khusrau Parviz (the king).
-Khusrau Parviz (a.d. 591) married Irene (Shir in), the daughter of
 
 Emperor Maurice.
 

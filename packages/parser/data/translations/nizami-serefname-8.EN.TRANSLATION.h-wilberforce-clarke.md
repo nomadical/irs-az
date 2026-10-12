@@ -57,7 +57,7 @@ Saying: — " O victual (wage)-devourer of my design (of instruction)!
 " When the power of virgin-attempting (unused poetical image) is thine,
 " Stain not thy hand with every widow (used poetical image).
 
-" Grieve not for the prey (the tale of Sikandar), which thou bast not (yet) made; »
+" Grieve not for the prey (the tale of Sikandar), which thou hast not (yet) made; »
 " For whatever (is) uneaten is a food- store.
 
 " With difficulty the jewel comes (is produced in) to the stone,
@@ -154,22 +154,22 @@ I will plant a fruitful tree (a book full of profit).
 Will speak of the work of territory-conquering:
 
 Will then of his wisdom arrange my words,
-Will make fresh old historics (of his philosophy).
+Will make fresh old histories (of his philosophy).
 
 Will then strike the door, in respect to his prophecying;
-For God bas also called him prophet.
+For God has also called him prophet.
 
-Three pearls (three historics) 1 prepared; each obe pearl (book) the mine of treasure;
+Three pearls (three histories) 1 prepared; each obe pearl (book) the mine of treasure;
 Toil endured, separately, for each one pearl.
 
-With those three rivers (historics, or books); with these three pearls (three kinds of lustrous verse);
+With those three rivers (histories, or books); with these three pearls (three kinds of lustrous verse);
 I make the world's skirt full of treasure;
 
 I raise in the world a new decoration (a book),
 Which demands a present from every country.
 
 Pity comes mine that this illuminated scroll (of lustrous verse)
-Should be the captive of the dust, in the waste-book (of ancient historics).
+Should be the captive of the dust, in the waste-book (of ancient histories).
 
 Where is the door of the wealthy one (Nasratu-d-din) that of this handiwork (the Sharaf-Nama)
 The picture, I may affix to his wall?
@@ -201,7 +201,7 @@ A crown, worthy of my head, may arrive.
 From the luminous sun (Nasratu-d-din) one can seek light;
 But of shade! shade (the nobles) is far from this work (of light-giving).
 
-6o To the kites (the nobles), what business with the pigeon (the Sharaf-Nama)?
+To the kites (the nobles), what business with the pigeon (the Sharaf-Nama)?
 For the king's falcon (Nasratu-d-din), this prey is required.
 
 Nizami, whose work is versifying in Dari,

@@ -29,7 +29,7 @@ Otherwise: — O heart! how long with this sport-exciting (of Time),
 Pure wine not drunk (carnal pleasures unenjoyed) — thou displajest the intoxication (of lust);
 And if thou drinkest wine (en jo jest carnal pleasures), — thou doest the act of the idol- worshipper.
 
-Since, without saffron (delicious viands), thou bast become affected with laughter (contemning the victuals given thee by God),
+Since, without saffron (delicious viands), thou hast become affected with laughter (contemning the victuals given thee by God),
 Eat (seek) not saffron that thou be not destroyed (on account of ingratitude to God, deprived of victuals).
 
 Like kings, contract not the habit for pleasant tasting victuals;
@@ -102,7 +102,7 @@ Saying: — " For the threshold-kiss of this court,
 " Who bring forth the dust (of destruction even) from the water of the river.
 
 " Has become bold by his success;
-" Verily, he alone bas become the ruler:
+" Verily, he alone has become the ruler:
 
 " — Gold and silver in the end depart from that slave
 " Who becomes equal to his own master. —
@@ -118,7 +118,7 @@ The herdsmen who practise deer-tending (in place of sheep-herding),
 " Hair bound up (ready) for the chieftainship of calamity,
 " He turns his face towards the place of thy crown (thy head).
 
-" Our, a calamity like this, who bas become ardent in malice,
+" Our, a calamity like this, who has become ardent in malice,
 " Consider not a small matter, — if thou consider the small.
 
 " From small things, — many a calamity becomes great,
@@ -305,8 +305,6 @@ Should there (in Nishapur) set up another standard.
 
 Of that standard the king's purpose was this,
 That standard should be hostile to standard.
-
-" Hira" significs — the scattering of gold.
 
 When he (Sikandar) knew that this city, Dara-adorning (Nishapiir),
 Would not come, by effort, to Sikandar' s grasp,

@@ -69,8 +69,8 @@ And from those two (worlds) gathered decoration.
 When that resplendent coat became his place (Muhammad's covering),
 It was less than his stature by a span.
 
-On his stature, which God bas adorned,
-Verily He bas desired the Divine adornment.
+On his stature, which God has adorned,
+Verily He has desired the Divine adornment.
 
 In the beginning of the work (of Creation), he was the key of liberality (of God);
 By him, the locks of many citadels (of infidelity) opened.

@@ -45,8 +45,6 @@ Of the history of the villager (the historian, the fire-worshipper) spoke thus,
 Saying: — When the King of China (the sun) placed his saddle on the dapple grey steed (dawn),
 The sky placed the hoof of darkness (the sun) into the fire.
 
-" Do ru,e " significs — nifak.
-
 The sky caused the die (of the sun) to leap from ambush (of the horizon);
 The stars cast their dice (of night) from the hand, saying — We have lost!
 
@@ -182,8 +180,6 @@ The sun stuck forth its head from the shoulder of the mountain (of Kaf).
 The drum at the monarch's door roared;
 The world, like the clamour of bells, became restless.
 
-(b) " A'bang " significs — the dog star called " shab-hash," that appears at the end of night. "Kob-i-dud" significs — the sky.
-
 The drum-striker, with the throbbing of the raw hide (on the drum),
 Cast the nose-strap into the throat of night.
 
@@ -193,13 +189,11 @@ The raw hide of the brazen drum began to clap its hands.
 The balance (spear) of those steel- weighing (the warriors) by inclining downwards,
 Urged a torrent (of blood) from one scale-pan to another (both armies).
 
-The spear-point of the javelin, khaf tan-piercing,
+The spear-point of the javelin, khaftan-piercing,
 Passed through the fleshy part of the back (surface) of the navel.
 
 From the short sword and the spear and the arrow of willow-leaf form
 Armour and helmet became rent.
-
-" Labi'sha " significs — labasa, labasha, labashan, lawisha. It consists
 
 From fear of the assault, (and) from the flash of the sword,
 The water in the heart of the stern thunder-cloud (the two armies) became blood.
@@ -220,7 +214,7 @@ Saying: — " The men of Rum feared the previous repast (the relish of blood-dri
 Saying: — " What did the man of Zang with Tutiya-Nosh?
 
 " He (the man of Zang) cast the blood of the hero into the goblet;
-" He, from wrong-head edness, drank that raw (pure) blood."
+" He, from wrong-headedness, drank that raw (pure) blood."
 
 When the men of Zang displayed such great dexterity,
 Cowardly rein-urging (to the rear) came not from the men of Rum (they stood their ground).
@@ -234,8 +228,8 @@ It reflects not, save as to flight.
 He (Sikandar) summoned before him the wise minister (Aristo);
 He gave him information of his own concealed secret,
 
-Saying: — " This valiant army bas become faint-hearted;
-" Of the sword-wound unsuffered it bas become sated.
+Saying: — " This valiant army has become faint-hearted;
+" Of the sword-wound unsuffered it has become sated.
 
 " With an army, one can urge this contest;
 " Alone, what may issue from a single horse-soldier (myself)?
@@ -246,7 +240,7 @@ Saying: — " This valiant army bas become faint-hearted;
 " Each one displays the form of fear;
 " No work comes from timid ones.
 
-" Since this army, battle-seeking, bas become fainthearted,
+" Since this army, battle-seeking, has become fainthearted,
 " Bring water, and wash the hands of valour.
 
 " All the men of Zang display boldness;
@@ -316,7 +310,7 @@ Saying: — " O king! may wisdom be thy guide!
 " Will rend, and with great avidity eat it:
 
 " Will order that they bring also his (the Zangi's) brain,
-" Saying: — No one bas eaten anything better than this.
+" Saying: — No one has eaten anything better than this.
 
 " If at first I had known, in the least,
 " That such food would keep me healthy,
@@ -333,7 +327,7 @@ Saying: — " O king! may wisdom be thy guide!
 " If we accomplish this remedial measure,
 " We may bring defeat upon those bold ones,
 
-" From wolves (the men of Zang) we can escape by wolf-ishuess (the rending of flesh half raw);
+" From wolves (the men of Zang) we can escape by wolfishness (the rending of flesh half raw);
 " For only (the action of) ignorance (wolfishness) can bring defeat upon (flight to) ignorance."
 
 The king ordered — that the warriors of Rum
@@ -396,7 +390,7 @@ Those black men went to the King of Zang;
 They unfolded the news of that sorrowful day.
 
 Saying: — " This one, dragon in disposition, man in fashion,
-" Is a crocodile that bas brought loss upon us.
+" Is a crocodile that has brought loss upon us.
 
 " He devours the men of Zang raw,
 " As men of Zang eat the almond-kernel.
@@ -480,7 +474,7 @@ When he (the man of Zang) used to shout at the headstrong elephant,
 If he (the Zangi), had shouted at fire, he would have consumed (destroyed) the fire.
 
 By reason of the many elephants which came forth for contest,
-The earth, from the elephants' fret, became of blue colour (black).
+The earth, from the elephants' feet, became of blue colour (black).
 
 He (Sikandar) sent the footman (the pawn at chess) for the elephant (bishop) manoeuvre (chess-move).
 In every corner (of his army) a hundred elephants secured (for battle, unable to run away).
@@ -506,14 +500,14 @@ With jars of foul fluid over it poured:
 A great shoulder and chest like the steel shield (expanded and hardened);
 Ask not in truth the tale of the robustness of that one.
 
-Thou bast seen a standard, (the black) tassel at its head?
+Thou hast seen a standard, (the black) tassel at its head?
 He (Zaracha) differed not from its form a hair.
 
 If there (at the standard's head) there were a small inverted cup,
 In his head were two eyes like the cup (full) of blood.
 
 In the Zang language he praised himself much,
-Saying: — ■" Than the (consuming) fire beneath the smoke, I am more consuming (beneath my blackness)!
+Saying: — " Than the (consuming) fire beneath the smoke, I am more consuming (beneath my blackness)!
 
 " I am Zaracha, the elephant, steel-devouring (greatly intoxicated with lust),
 " Who, on elephants' backs, drag my (ponderous) pil-pa (mace).
@@ -542,7 +536,7 @@ i?o " Like the diamond (the steel sword) and iron (the mail armour) — my veins
 " I rend with the sword the loins of heroes;
 " Devour pitilessly the kidnies of brave ones:
 
-" Am of dragon-form for man-slayin*g;
+" Am of dragon-form for man-slaying;
 " Am not man-slayer, but man-devourer!
 
 " Shame of none in the world — is mine;
@@ -564,7 +558,7 @@ He displayed bravery for fire-quenching (Zang-slaying);
 Like a moth whose blood comes into agitation (at the sight of a candle).
 
 The man of Zang, war- tried, came against him;
-He (the Zangi) snatched his head with one blow from his bodv.
+He (the Zangi) snatched his head with one blow from his body.
 
 Another man of Rum went like the fierce wind:
 While he winked his eye he laid down his head (in death).
@@ -615,12 +609,10 @@ Swifter than that, — the Khusrau, stout of body,
 Attacked with fierceness that Ahriman (Zaracha).
 
 He shouted at him, saying: — " O old crow (black of body, great of age)!
-" A young eagle bas come, rest-taking.
+" A young eagle has come, rest-taking.
 
 " If thou turn not the rein from the path,
 " I will make the world black to thee like thy face.
-
-" Marghul " significs — mu,e pechida.
 
 " For the reason that thou art black of face (confounded), — from the sharp sword,
 " Thou shalt flee in this battle-field.
@@ -629,7 +621,7 @@ He shouted at him, saying: — " O old crow (black of body, great of age)!
 " Until I make thee more interlocked (in death's throes) than thy hair-lock.
 
 " Rust falls on the mirror-like sword, —
-" I am that mirror (lustrous sword); for from me (by continuous warfare) rust bas fallen.
+" I am that mirror (lustrous sword); for from me (by continuous warfare) rust has fallen.
 
 '' Riimish white lead takes away eye-pain (and eye-redness);
 "' My sword takes through fear redness (ruddiness) from the yellow (black) face.
@@ -689,9 +681,9 @@ That the head of the man of Zang fell from the lofty date-tree,
 Like the Zang-man who fell from the date-tree.
 
 Another man of Zang went to battle;
-He opened his tongue with a handf id of boasting,
+He opened his tongue with a handful of boasting,
 
-Saying: — " The black cloud bas come from the mountain (army) of Zang;
+Saying: — " The black cloud has come from the mountain (army) of Zang;
 " It rains not, save dragons and crocodiles (sword-blows):
 
 " I am Siya Giila of hero-arm (powerful);
@@ -727,8 +719,6 @@ He turned in the time of evening to the place of rest.
 When (at the time of setting) the form of the sun of the hue of pomegranate flowers (ruddy)
 Took blueness (darkness) from the jar of pure indigo (night),
 
-£00 TUE SJKANDAK NAMA,£i BABA. [CANTO XIX.
-
 The care-keeper (the sky) of the standard (Draco) of snake form (night)
 Plastered gold (the stars) on its painted silk of bine colour (dark night).
 
@@ -763,7 +753,7 @@ When the king's drummer beat the drum of battle,
 The Zangi bell-holder shook the bell (of battle).
 
 The black cloud (the army iron-clad) began to roar;
-The heat (flash) of the sword went from the fish {beneath the earth) to the moon.
+The heat (flash) of the sword went from the fish (beneath the earth) to the moon.
 
 The shout burst from both armies in such a way
 That from terror of it the demon's brain became distracted.
@@ -790,7 +780,7 @@ From much striking of the mace and the sword on the earth
 Dust came forth from every corner to the cloud.
 
 From the steel point of the flying arrow,
-Blood (the jewel-essence) clothed in the heart of the hard stone (the jewel-mine).
+Blood (the jewel-essence) clotted in the heart of the hard stone (the jewel-mine).
 
 The bow of arched eye-brow (bow-notch) with eye-lash arrow,
 Brought forth milk (blood) from the breast (bosses) of the cuirass.
@@ -813,7 +803,7 @@ The earth, stained (or distracted) with the blood of those cleft asunder (with t
 The air bound by the sighs of those wounded.
 
 The king drew up his army for conflict;
-Like a mountain that is of lapis luzuli (beautiful in appearance).
+Like a mountain that is of lapis lazuli (beautiful in appearance).
 
 That same swordsman of Zang (the chief, Palangar), strenuous in exertion,
 Raised a cry like the Russian bell:
@@ -835,9 +825,6 @@ For conflict comes not from delicate ones.
 
 To his heart, he said: — " That best — that I should display lionishness;
 " That towards these fearful ones (of Zang) I should discover boldness.
-
-" Kafida " significs — shigaita; tarkida.
-The first line should properly be: — Lip gaping (like the crow)...
 
 " When the army becomes sluggish as to their assaulting,
 " It is necessary to wage this contest by myself (alone)."
@@ -890,7 +877,7 @@ The blood in the monarch's heart raged.
 When the ill-wisher brings into action (reveals) his malice,
 He brings the striver's (his enemy's) blood into agitation (and seeks his own destruction).
 
-Sikandar said to him: — ■" Boast not so much;
+Sikandar said to him: — " Boast not so much;
 " Utter not foolish boasting before men:
 
 " Express not so much boast of manliness;
@@ -903,7 +890,7 @@ Sikandar said to him: — ■" Boast not so much;
 " In conflict with it, — why is it necessary to press the foot (to contend)?
 
 " Stretch forth thy hand to the lion's flank (grapple) at that time,
-" When thou bast great power in lion-overthrowing.
+" When thou hast great power in lion-overthrowing.
 
 " Thou fightest for the plunder (destruction) of thyself,
 " For thou art «the sparrow; yet thou actest as the hawk.
@@ -917,7 +904,7 @@ Sikandar said to him: — ■" Boast not so much;
 The man of Zang (Palangar) was enraged at the king's speech;
 He entered into contest (twisting) like black smoke.
 
-2°5 He delivered a sword -blow at the king's helmet,
+He delivered a sword -blow at the king's helmet,
 — From the lightning (the sword), when reaches injury the cloud (the black helmet)?
 
 At that one of hideous visage the king (Sikandar) was enraged;
@@ -933,9 +920,9 @@ In this way, until night came overhead,
 The blows of neither were effective.
 
 When the man of Zang (Palangar) became distressed by the king's blows,
-He said to him: — " The sun bas gone towards the mountain (is setting):
+He said to him: — " The sun has gone towards the mountain (is setting):
 
-" Night bas come; it is proper to abandon blood (shedding) at night;
+" Night has come; it is proper to abandon blood (shedding) at night;
 " By the promise of coming to-morrow, it is fit to make the engagement (of combat).
 
 " When the night of dark action (darkness-spreading) becomes chattel- burner (departs),
@@ -954,7 +941,7 @@ With the respite of the night they came excuse-seeking;
 From the battle-field they came to the sleeping-place.
 
 Come, cup-bearer! of the wine (of senselessness) of last night from the jar,
-That bas remained left of Ka,us and Kay,
+That has remained left of Ka,us and Kay,
 
 Give; so that (my) temperament may be (joyous) like the black race (of Zang);
 From drinking the cup the head becomes joyous.
@@ -1073,7 +1060,7 @@ Palangar died; the army was helpless.
 The king ordered that on horse-back
 The army should at once move (against the men of Zang).
 
-The army on both sides shirred up motion;
+The army on both sides stirred up motion;
 They mixed night (men of Zang) and day (men of Rum).
 
 From fear of the whirring noise which came from (the flight of) arrows,
@@ -1174,7 +1161,7 @@ He saw the plain full of treasure, like the ocean.
 Besides the bejewelled cup and golden maces, —
 Jewels (of Yaman) in ass-loads; aloes (fit for burning) in heaps.
 
-Also of gold of the mine, and of rubles and pearls,
+Also of gold of the mine, and of rubies and pearls,
 He filled many ox-hides.
 
 Of camphor, silver-like (white), the plain (was) wearied;
@@ -1198,7 +1185,7 @@ Rested; and became free from pain and toil:
 Glanced at those slain for the sake of warning;
 Laughed outwardly; wept inwardly,
 
-Saying: — " In this conflict, so many creatures (of God) — ■
+Saying: — " In this conflict, so many creatures (of God) —
 " Why is it necessary to slay with sword and arrow?
 
 " If I place the crime on them, — it is unlawful (for they obeyed their leader);

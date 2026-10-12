@@ -174,7 +174,7 @@ Bashr answered. This too is from God’s decree; nothing is ordered save by God�
 
 He said. Let science take in hand the reins. How long old women’s stories will you tell?
 
-The wind, no doubt, arises from the air, to movement shirred by vapour from the earth.
+The wind, no doubt, arises from the air, to movement stirred by vapour from the earth.
 
 He saw a lofty mount, and said, This mount — why is it more majestic than the rest!
 
@@ -206,7 +206,7 @@ For sundry days together they remained; in naught abated he that idle talk.
 
 Their road a burning waste with water none, their brains (too) all on fire with sleeplessness.
 
-They rushed along with crics and clamour loud, until, from it excited, they arrived
+They rushed along with cries and clamour loud, until, from it excited, they arrived
 
 Before a tree with branches towering high, wide-spreading, verdant, beautiful and tall.
 
@@ -494,7 +494,7 @@ O fairy-bom.
 
 And what you see is no love of to-day’s; long time it is that
 
-1 have felt this pain.
+I have felt this pain.
 
 For in a certain narrow street one day the wind blew from your hand your veil aside.
 

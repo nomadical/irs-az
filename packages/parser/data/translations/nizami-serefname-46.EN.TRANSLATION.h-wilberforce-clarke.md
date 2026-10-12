@@ -96,7 +96,7 @@ Saying: — " O king! a complaint (I have) against the tyranny of the Russians,
 " Hastened by large boats by way of the sea;
 
 ' Made not a sally within limit;
-1 Renewed the ancient feud in that abode (Abkhaz):
+Renewed the ancient feud in that abode (Abkhaz):
 
 ' Took in rapine that land and soil (Abkhaz).
 ' — May the road be closed to that inauspicious foot (of the Russian)! —
@@ -105,7 +105,7 @@ Saying: — " O king! a complaint (I have) against the tyranny of the Russians,
 ' Ravaged much and took much.
 
 ' In Abkhaz, a morsel of food stored remained not:
-1 Verily, in the treasury, a thing wrapped up (gold or silver) remained not.
+Verily, in the treasury, a thing wrapped up (gold or silver) remained not.
 
 ' He emptied the goods from our treasuries;
 ' Snatched the pearl from the jewel-casket and the brocade from the throne. *
@@ -205,8 +205,6 @@ To the redress-desirer (Davali), he said: — " Thine is the order;
 
 " Will bring back everything taken away in rapine;
 " Will bring the seizer (the enemy) beneath the foot:
-
-" Mandan " here significs— guzashtan.
 
 " Will not leave Niishaba within bonds;
 " Will bring forth the sugar (Niishaba) from the reed (the robbers) when the time comes.

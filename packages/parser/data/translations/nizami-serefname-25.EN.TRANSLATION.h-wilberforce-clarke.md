@@ -32,8 +32,6 @@ The end of the thread (of the sky's revolution, i.e. tomorrow) is not evident to
 Neither gives one the chamberlain admittance within this screen;
 Nor uplifts he this screen from earth's surface.
 
-"Gard bar gashtan" significs — gard a gard-i-'alim gardidan.
-
 Neither can one turn the head from this thread (of the sky's revolution);
 Nor can one find the end of the thread.
 
@@ -52,8 +50,8 @@ And the bride of Paradise (morning) gave the pearl (the star) for the dinar (the
 The (two) armies arrived at the place of the battle-field;
 Formed two circles, like the mountain Kaf:
 
-Strewed crows' fret in the path of contest;
-The chiefs shirred up shouting.
+Strewed crows' feet in the path of contest;
+The chiefs stirred up shouting.
 
 Advanced guard against advanced guard in every direction in haste;
 Neither ease in the heart, nor sleep in the eye.
@@ -67,7 +65,7 @@ They sate down face to face on the battle-field,
 Perhaps a (treaty of) peace may intervene;
 When it will be unnecessary for them to draw forth the swords.
 
-When from the youthfulness (of Sikandar) and the wilful-ness (of Dara) there was: —
+When from the youthfulness (of Sikandar) and the wilfulness (of Dara) there was: —
 Indeed, on that side that pertaining to water; on this side that pertaining to fire.
 
 Strife came forth from delay,
@@ -97,7 +95,7 @@ The movement (of masses of armed men) came forth from conflict's path;
 Tumultuous action came upon (affected) the manly men (the warriors).
 
 Thou wouldst have said: — " The earth is rent asunder;
-" (The angel) Sarafil bas blown (the trumpet of) the Day of Judgment."
+" (The angel) Sarafil has blown (the trumpet of) the Day of Judgment."
 
 The dust of the earth closed the path (of motion) against the air;
 The rein of safety departed from the hand.
@@ -117,7 +115,7 @@ The noose-rings became neck-seizers.
 From the heat of the breath (of warriors half slain), a cloud was established in the air;
 From the fire of the flash of the sword, the world (of warriors) burned.
 
-From much sword-lowering (in striking) on blood and dust (the bodics of slain men),
+From much sword-lowering (in striking) on blood and dust (the bodies of slain men),
 The brain (the middle space) of the air became full of pure souls.
 
 The army-possessor of Iran, also, early in the morning
@@ -127,7 +125,7 @@ Drew up first the ranks of the right wing;
 Made with, the sword the mouth of the dragon open.
 
 Arrayed skilfully the ranks of the left wing;
-— Thou wouldst have said: — " A mountain of steel bas sprung up! " —
+— Thou wouldst have said: — " A mountain of steel has sprung up! " —
 
 Established the (lofty) van-guard in the front, in such a way
 That the face of the sun and moon became obscured.
@@ -190,16 +188,16 @@ For enemy-biting and enemy-overthrowing,
 Displayed the chest and the arm of Bahman.
 
 Wherever he kept raising his arm,
-He kept hurling the enemy's head at his (the enemy's) fret.
+He kept hurling the enemy's head at his (the enemy's) feet.
 
 So long as he made it not void of life he passed not by a body;
 So long as he cast it not down (to the earth) he struck not at a head.
 
 In that assaulting, from much Rtimish blood,
-He spread a thousand (scarlet) Rumish satins (bloody bodics).
+He spread a thousand (scarlet) Rumish satins (bloody bodies).
 
 And on that side, Sikandar with the sharp sword,
-— The (commotion of) resurrection shirred up in the world:
+— The (commotion of) resurrection stirred up in the world:
 
 fi0 Both hands brought forth with effort;
 In each hand the sword (sharp) like the diamond, —
@@ -208,7 +206,7 @@ Caused the sword to pass (cleave) in such a way,
 That on account of it regret of life came not to the enemy.
 
 When his dagger (sword) used to come on the elephant's head,
-He used to scatter (the brain of) his head beneath his fret.
+He used to scatter (the brain of) his head beneath his feet.
 
 When he used to pour anger on the river-water (the enemy's army),
 He used to excite the fire (of destruction) from the river-water,
@@ -217,7 +215,7 @@ Like a lion that expresses fire with his breath (mouth);
 (And) confuses (by fear) the breath of mares.
 
 To Dara they represented, saying: — That fierce lion (Sikandar),
-— Many a fierce lion, — that he bas laid low from his steed —
+— Many a fierce lion, — that he has laid low from his steed —
 
 With him, best, — that the king should put on one side (the desire of) battle;
 For from that warrior, the elephant takes the side (retreats):
@@ -298,9 +296,7 @@ The warrior of Rum became distressed with contending with them (the men of Iran)
 Death desired to make them (the men of Rum) captive.
 
 Again with fortitude they remained firm;
-Departed not, like the mountain of iron, from their ground. ' ■ < — »~»
-
-go " P-ah giriftan " significs — tang kardan.
+Departed not, like the mountain of iron, from their ground. ' < — »~»
 
 Held the standard for the sake of honour;
 Abandoned not their booty to the enemy (the men of Iran).
@@ -354,12 +350,6 @@ Saying: — " We are the only special attendants of Dara-;
 
 " To-morrow we desire to assault him;
 " To make the land (of Iran) void of his oppression.
-
-"Ikhlas" significs — dostf zahir va mujazi, apparent and feigned
-friendship.
-
-" Khilas " significs — dostf batini, inward (heart) friendship.
-no " Only to-night, keep with effort thy ground; " For to-morrow the enemy (Dani) will come from his footing. " When to-morrow he raises his standard in the ranks of battle, " He will suffer the sword-blow, side-cleaving. " But on the condition that, without hand-toil (difficulty), " Thou makest open to us the lock of the treasure; " Makest each of us rich; " Makest the work of both of us like gold, with gold." Sikandar made covenant as to that desired; Gave his hand to the covenanters of the wealth.
 
 lis Not his, was the belief that those two of unjust faith Would commit this crime against their own lord. But everyone brings to his hand (employs) that pearl. (design), By which he may bring defeat to his own enemy, In that path in which injustice appeared justice, The old story came to his memory: — " That, doubtless, the hare of every country, " The dog of that country can seize." When these traitors, lord-slaying, Learned from the lord of knowledge (Sikandar)
 

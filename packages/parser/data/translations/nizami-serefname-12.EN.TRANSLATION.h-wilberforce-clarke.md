@@ -54,8 +54,6 @@ That the enmity of the malicious one (Dara) went far from him.
 The King of Rum became pleased (at giving) that tribute;
 He preserved the wax (his own body) from the fire, the burner (Dara).
 
-" Nan-a,in " significs — arasta, pirasta; nan padi'd amada.
-
 When Sikandar's victory came into action (occurred),
 Time's revolution became of another kind.
 
@@ -80,8 +78,6 @@ She suffered grief for the child and resigned her life (to God),
 (Saying: — ) " I know not who will cherish thee;
 " What wild beast will devour thee."
 
-" Gruzashtan " significs — guzaridan.
-
 — Of this, news none hers, — how the Omnipotent
 Would cherish him (Sikandar) in His bosom:
 
@@ -98,7 +94,7 @@ From the enjoyment of the plain, King Faylikiis
 Advanced, game-overthrowing, towards that woman.
 
 He beheld a woman dead in that pathway:
-At her fret a child, head uplifted.
+At her feet a child, head uplifted.
 
 From want of (the mother's) milk, the child sucked its own finger,
 (And) bit its own thumb (in grief) for its mother.
@@ -115,7 +111,7 @@ He made him, after himself, his own heir-apparent.
 The villager, the fire- worshipper (historian), in another way
 Makes his descent go back to Dara.
 
-When I took thought of (these) historics,
+When I took thought of (these) histories,
 Also of the history of the man, God-knowing (Firdausi),
 
 In those two accounts, was no credence;
@@ -177,9 +173,6 @@ An incliner from theory to practice.
 
 Mercury hastened to the Gemini;
 The Moon and Venus in the mansion of the Bull consorted:
-
-In the front (anterior) side of the dial the border is divided into
-sixty " gharfs," each equal to twenty-four minutes, and subdivided into
 
 Jupiter adorned Saggitarius;
 Saturn (was) as a sporter in Libra:

@@ -18,19 +18,14 @@ And give me of that draught of senseless ones.
 By that bitter draught, make me senseless;
 Perhaps, I may forget myself.
 
-"Mandan" significs — guzashtan.
-
 O Nizami! thou art a great Master of Fame;
 Old thou art become, yet art thou fresh (with spiritual power) as before.
 
 Like lions, expand with power thy claw;
 Like the fox, stain not thyself with colour (of deceit).
 
-For poetry's sake, the sign of the vocative is, in the original, omitted.
-"Sar-panja" significs — panja.e dash.
-
 I have heard that, in Russia, the coloured (decorated) fox
-Is self -adorning, in the manner of a bride. •
+Is self -adorning, in the manner of a bride.
 
 "When the day is raining, or the wind whirling,
 He brings not forth his hair (fur-coat) from the lair ("earth").
@@ -51,15 +46,10 @@ Why is it necessary to adorn such a carpet (outward person),
 The rising from which (to go to the grave) is unavoidable?
 
 Every animal, that is not self-adorning,
-For his injury, avarice bas no desire.
+For his injury, avarice has no desire.
 
 Come out of this screen of seven colours (of outward self-decoration) and be content (with God)!
 For, the mirror beneath the blight is black (Ethiopian-like).
-
-" 'Arus " significs — a man, or a woman, married not longer than three
-days and nights.
-
-"Naward" significs — surakh-i-pechidar, a winding hole.
 
 Thou art neither red sulphur, nor white ruby,
 That the Seeker should be hopeless of (finding) thee.
@@ -81,8 +71,6 @@ Say to the world: " Remain not, since youth remained not! "
 
 Youth is the beauty of a man;
 When beauty departs, how may joyf ulness remain?
-
-" G-u-gird " significs — kibrit.
 
 "What treasure (of excellence and skill) is that which is not a portion for me?
 Alas! youth. Not mine is youth.
@@ -132,8 +120,6 @@ Moves not from his place, with a hundred blows of the chaugan (resolutions of th
 The key of joy (wine of youthfulness) in the wine-tavern (of the body) became lost;
 The stain of remorse (for youthful deeds) appeared.
 
-"Kadiwar" significs — kadawar; had-awar; had-khana; f-ihib-i-
-
 From the mountain (the head) came up the cloud, camphor-raining (white hair);
 The nature of the earth (the body) became camphor-devouring (virility- wan ting).
 
@@ -148,9 +134,6 @@ For the time of farewell to the marching-place (this world) became near.
 
 The corner (of retirement), — better than the Karavan-sara,e (the public edifice) at such a time,
 When Time widely displays hand-stretching (for plunder of life).
-
-" Kaf ur khwar " significs — very cold.
-Sometimes, the temperament desires exercise; but, through feebleness, the body moves not. Sometimes, the head, from complete exhaustion, desires sleep; but, from aridity of brain, sleep comes not.
 
 Of the moth, the spectacle (sight) is as long as
 The candle, night-illuminating, is laughing (burning).
@@ -224,8 +207,8 @@ I will come in the soul, if thou come in the body.
 Think me not free from (thy) society;
 I behold thee, though thou behold me not.
 
-Make not the lip (of prayer) silent, regarding the few-sleeping ones {holy dead men);
-(Nay), forget not (at all) the sleeping-ones {all dead men).
+Make not the lip (of prayer) silent, regarding the few-sleeping ones (holy dead men);
+(Nay), forget not (at all) the sleeping-ones (all dead men).
 
 "When here (at my tomb) thou arrivest, first cast wine (of senselessness) into the cup (of thy body);
 (Then) move proudly to the sleeping-place (the tomb) of Nizami!

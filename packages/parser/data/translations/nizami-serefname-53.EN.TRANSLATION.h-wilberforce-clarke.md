@@ -90,7 +90,4 @@ Dispersion came upon them, as the (dispersion of the) cloud (from the sword of t
 They exercised a little patience (delay) for reputation sake;
 Aroused an idea for artifice.
 
-" Shast " significs — the fixing the notch of the arrow (sufar) on the
-bow-string.
-
 " Dfgar yaragi " is not one compound word meaning digar bar.

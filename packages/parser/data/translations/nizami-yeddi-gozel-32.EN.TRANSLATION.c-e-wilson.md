@@ -258,7 +258,7 @@ Or epileptic who the new moon sees, and now jumps up and now sits down again.
 
 He looked towards every C 3 rpress statured (belle); a Resurrection, ne*er a stature saw.
 
-His veins, full-blooded, through their ferment drew from his whole Being crics and clamour loud.
+His veins, full-blooded, through their ferment drew from his whole Being cries and clamour loud.
 
 Standing (there) like a thief concealed (from sight); — that which you Imow in such state as you know, —
 
@@ -328,7 +328,7 @@ A Mss you’ll give, said he? Sixty, she said. He said. Come, is it time? She sa
 
 Said he, Shall you be gained? She answered, Soon. He said, Was this in view? She said, It was.
 
-The master’s heart with strong emotion shirred, he lost (aU) bashfulness and diffidence.
+The master’s heart with strong emotion stirred, he lost (aU) bashfulness and diffidence.
 
 He seized the lovely charmer’s harp-like locks, embraced her tightly, strained as his heart-strings.
 
@@ -382,7 +382,7 @@ The master, like a slave who butter steals, bad naught but shame to follow on th
 
 He crept behind a narrow river’s bank, ’neath cypress, willow, hox, and poplar-tree.
 
-Confounded at his injudicious plans, — the yellow wall-flow’r from his lilles sprang.
+Confounded at his injudicious plans, — the yellow wall-flow’r from his lilies sprang.
 
 They sought to know that which he had in mind; and he told all to those two confidants.
 
@@ -436,7 +436,7 @@ He wished to the extent of (his) desire by union with her happiness to gain,
 
 To take her to his arms as love dictates: — sweet in the arms of cypress the red rose!
 
-TFeii tlirougli her (swelling) bosom and her cMn, an apple eat, pomegranate from ber breast.
+TFeii through her (swelling) bosom and her cMn, an apple eat, pomegranate from ber breast.
 
 Ad locum ubi thesaurus asservatur manus protendere Yoluit, ut thesauri portam aperiret;
 

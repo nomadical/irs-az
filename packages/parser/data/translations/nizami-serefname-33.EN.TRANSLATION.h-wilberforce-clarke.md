@@ -18,9 +18,6 @@ Is, like running (pure) water, fit for the thirsty one, —
 In this grief (of desire of gold) in which from thirst I have burned,
 Give me; for I have learned drinking the wine (of senselessness).
 
-" Naushaba," commonly, Niishaba, properly, significs — the water of
-life.
-
 Firdausi, in his Shah-Nama, calls her — Kaydafa.
 
 Burda'! O happy country (in) whose confines, —
@@ -55,11 +52,11 @@ Beholds no form save joyousness.
 
 Xenophon found the word pairidaeza (a piece of ground enclosed by a
 
-Now, the throne of that court bas become shattered;
-The wind bas carried its damask silk and brocade:
+Now, the throne of that court has become shattered;
+The wind has carried its damask silk and brocade:
 
 Those fresh roses have poured (fallen) down from (their) grandeur;
-And from that pomegranate and narcissus, the dust (of desolation) bas come forth:
+And from that pomegranate and narcissus, the dust (of desolation) has come forth:
 
 Save dry fuel and the watery torrent,
 No other thing thou seest in that forest.
@@ -77,7 +74,7 @@ In the beginning of occupation, its name was Hariim;
 Now, the teacher calls it Burda'.
 
 In that prosperous soil (now desolate) the place of the great,
-Time bas much secret (buried) treasure.
+Time has much secret (buried) treasure.
 
 With this gladness, — where is a rose-garden?
 With this fulness, — where is a treasure-holder?
@@ -205,12 +202,10 @@ But none (of them) sees her face.
 " Each one left off the worship of the Omnipotent;
 " They have no occupation save sleeping and eating.
 
-" Sanain " significs — an idol; meta., a lovely woman. " Lu'batan " significs — dolls; meta., lovely women.
-
 ' A woman, work-understanding, possessed of all mines and treasures;
 ' She inflicts, for devotion-sake, toil on her own body.
 
-1 Through the asceticism which her nature possesses,
+Through the asceticism which her nature possesses,
 ' She sleeps not in that paradise-like abode.
 
 ' Has another house of marble- stone;
@@ -273,9 +268,6 @@ A valuable present she sent every day.
 From the great excellencies which that woman showed,
 Every one, tongue within tongue (incessantly) praised her.
 
-" Benin " significs — siwa,e.
-The second line may be: — With these delights they passed some days.
-
 In respect to beholding that heart-ravishing one, of the king
 The need (desire) time to time became greater:
 
@@ -303,7 +295,7 @@ Hastened to their own lady,
 Represented, saying: — " From the court of the king of Rum,
 " From whom this land and clime gained prosperity,
 
-" A messenger possessed of judgment and sense bas arrived;
+" A messenger possessed of judgment and sense has arrived;
 " A message- bringer, silent, like the angel (before delivering his message):
 
 " From head to foot, a form possessed of wisdom;
@@ -358,7 +350,7 @@ Saying: — " This man, affairs-understanding, of deliberate judgment,
 " Why performs he not the usage of service?
 
 "It is necessary to make investigation regarding him,
-" Since he bas no fear of us."
+" Since he has no fear of us."
 
 From head to foot she glanced at the monarch;
 Struck the proof of the pure gold (Sikandar) on the touchstone (of her glance).
@@ -545,7 +537,7 @@ She gave to him, saying: — "Take this picture in thy hand.
 " If it be thy form, — strive not so much:
 " Hide not the sky with thy own eye-brow.
 
-"If it be not, — abandon (anxiety), for thou bast escaped from sorrow;
+"If it be not, — abandon (anxiety), for thou hast escaped from sorrow;
 " Take an answer, also a magnificent present (to Sikandar)."
 
 Sikandar agreed to her command;
@@ -602,10 +594,7 @@ To him she spoke, saying: — " O prosperous king!
 " In this contest, — like the fox and the wolf,
 " Will issue — thou of little worth, I of great value.
 
-" Charb hastan " significs — ghalib amadan.
-" Ka,im-andaz " significs — an unequalled chess-player; one who
-
-" Thus it bas come from the old chiefs,
+" Thus it has come from the old chiefs,
 " Namely — Wrestle not with one non-understanding.
 
 " For if he leap up, he may display superiority over thee;
@@ -970,9 +959,6 @@ At her, those lion-men amazed.
 
 The Khusrau ordered that — of pure gold
 A chair like the sun they should bring.
-
-" Kaniar dar kainar " significs — height above height; conjoined; belt
-on belt (fully accoutred).
 
 Upon it, he caused the world-bride to sit, —
 The other brides above her head.

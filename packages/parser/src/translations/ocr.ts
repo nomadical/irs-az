@@ -10,14 +10,41 @@ import * as fs from 'fs';
 
 const DICT_PATH = '/usr/share/dict/words';
 
+// Irregular forms the system word list (base forms only) leaves out
+const IRREGULAR = `became began has hath doth does hast art wast wert women men children feet teeth was were did done
+gone went saw seen took taken gave given came ran sang sung rose risen fell fallen flew flown drew drawn grew grown knew
+known threw thrown wrote written spoke spoken spake broke broken chose chosen stole stolen wore worn tore torn bore borne
+swore sworn slew slain smote smitten strove striven drove driven rode ridden hid hidden bit bitten ate eaten lay lain led
+fled fed sped bled met sat shot lit sought bought brought caught taught thought fought wrought held beheld told sold stood
+understood overthrew overcame sprang sprung swam drank drunk sank sunk rang wept slept kept swept crept dealt felt knelt
+meant leapt spent sent bent lent built girt burnt spilt thee thou thy thine ye whosoever whatsoever wherefore`.split(/\s+/);
+
 let dictionary: Set<string> | null = null;
 function dict(): Set<string> {
   if (!dictionary) {
     dictionary = fs.existsSync(DICT_PATH)
       ? new Set(fs.readFileSync(DICT_PATH, 'utf-8').split('\n').map((w) => w.trim().toLowerCase()))
       : new Set();
+    for (const w of IRREGULAR) dictionary.add(w);
   }
   return dictionary;
+}
+
+/**
+ * Victorian British spellings the (American) system word list lacks:
+ * "colour" → color, "centre" → center, "travelling" → traveling, "skilful" → skillful
+ */
+function britishToAmerican(w: string): string[] {
+  const out: string[] = [];
+  if (/our/.test(w)) out.push(w.replace(/our(?=s?$|ed|ing|ful|less|able|er|ite)/, 'or'));
+  if (/re(s|d)?$/.test(w)) out.push(w.replace(/re(s|d)?$/, 'er$1'));
+  if (/ll(ed|ing|er|ers)$/.test(w)) out.push(w.replace(/ll(ed|ing|er|ers)$/, 'l$1'));
+  if (/lful/.test(w)) out.push(w.replace(/lful/, 'llful'));
+  if (/is(e|ed|es|ing|ation)$/.test(w)) out.push(w.replace(/is(e|ed|es|ing|ation)$/, 'iz$1'));
+  if (/ise$|ising$|ised$/.test(w)) out.push(w.replace(/is(e|ing|ed)$/, 'ic$1'));
+  if (/ewell/.test(w)) out.push(w.replace(/ewell/, 'ewel'));
+  if (/^despatch/.test(w)) out.push(w.replace(/^despatch/, 'dispatch'));
+  return out;
 }
 
 export class Vocabulary {
@@ -27,7 +54,10 @@ export class Vocabulary {
    * Capitalised words that recur in the book (names, Persian terms) count as known.
    * Lowercase ones don't: recurring OCR damage ("tbe", "aU") would be trusted too.
    */
+  private counts = new Map<string, number>();
+
   constructor(text: string, minCount = 4) {
+    for (const w of text.toLowerCase().match(/[a-z]+/g) ?? []) this.counts.set(w, (this.counts.get(w) ?? 0) + 1);
     const counts = new Map<string, number>();
     for (const w of text.match(/\b[A-Z][a-z]+/g) ?? []) counts.set(w.toLowerCase(), (counts.get(w.toLowerCase()) ?? 0) + 1);
     this.trusted = new Set([...counts].filter(([, n]) => n >= minCount).map(([w]) => w));
@@ -41,10 +71,29 @@ export class Vocabulary {
     return this.trusted.has(word.toLowerCase());
   }
 
+  /**
+   * Leaves a word alone: the word list, its inflections, Victorian forms ("becamest",
+   * "fulness") and British spellings. Loose on purpose — it only decides what not to touch.
+   */
   inDictionary(word: string): boolean {
     const w = word.toLowerCase();
+    if (this.isWord(w) || britishToAmerican(w).some((v) => this.isWord(v))) return true;
+    if (/(\w)\1(ed|ing)$/.test(w) && dict().has(w.replace(/(\w)\1(ed|ing)$/, '$1'))) return true; // "occurred"
+    // Not "-ful" or "-ness": "bandful" would pass as "band" + "-ful"
+    for (const suffix of ['edst']) {
+      if (w.endsWith(suffix) && w.length - suffix.length >= 3 && this.isWord(w.slice(0, -suffix.length))) return true;
+    }
+    return false;
+  }
+
+  /**
+   * A real word, strictly: what a correction must turn into. The loose rules above would let
+   * "handful" become "bandful" ("band" + "-ful").
+   */
+  isWord(word: string): boolean {
+    const w = word.toLowerCase();
     if (dict().has(w)) return true;
-    // Inflections the word list leaves out
+    if (/ies$/.test(w) && dict().has(w.slice(0, -3) + 'y')) return true; // "armies" → army
     for (const suffix of ['s', 'es', 'ed', 'd', 'ing', 'ly', 'est', 'er', 'eth', 'st']) {
       if (w.endsWith(suffix) && w.length - suffix.length >= 3) {
         const stem = w.slice(0, -suffix.length);
@@ -52,6 +101,11 @@ export class Vocabulary {
       }
     }
     return false;
+  }
+
+  /** How often a word occurs in the book, any case */
+  count(word: string): number {
+    return this.counts.get(word.toLowerCase()) ?? 0;
   }
 }
 
@@ -69,6 +123,8 @@ function candidates(word: string): string[] {
     for (let i = word.indexOf(seen); i >= 0; i = word.indexOf(seen, i + 1)) {
       out.push(word.slice(0, i) + meant + word.slice(i + seen.length));
     }
+    // The same misreading twice in one word: "wbicb" → "which"
+    if (word.split(seen).length > 2) out.push(word.split(seen).join(meant));
   }
   return out;
 }
@@ -85,10 +141,13 @@ function fixWord(word: string, vocab: Vocabulary, stats: OcrStats): string {
   if (word === 'AU') return 'All'; // "AU beings" — U for ll, capitalised
   // Acronyms and roman numerals are not OCR damage
   if (word.length < 3 || (word === word.toUpperCase() && /[A-Z]/.test(word)) || vocab.inDictionary(word)) return word;
-  // A dictionary fix beats a recurring word: "Tbe" recurs at sentence starts but is "The"
+  // A dictionary fix beats a recurring word: "Tbe" recurs at sentence starts but is "The".
+  // But a recurring name ("Greece") is only "fixed" into a word the book uses more often
+  const trusted = vocab.isTrusted(word);
   for (const c of candidates(word)) {
     if (/[A-Z]/.test(c.slice(1)) && c !== c.toUpperCase()) continue;
-    if (vocab.inDictionary(c)) {
+    if (trusted && vocab.count(c) <= vocab.count(word)) continue;
+    if (vocab.isWord(c)) {
       stats.fixed++;
       return /^[A-Z]/.test(word) ? c[0].toUpperCase() + c.slice(1) : c;
     }
@@ -111,6 +170,12 @@ export function cleanParagraph(text: string, vocab: Vocabulary, stats: OcrStats)
     .replace(/(^|[\s(—,"'‘“])0(?=\s+[A-Za-z])/g, '$1O') // "0 Thou" → "O Thou"
     .replace(/\s+[I1](?=\s*(?:[—–]|$))/g, ' !') // a lone I or 1 before a dash or at the end is "!"
     .replace(/\s+([!?;:,.])/g, '$1') // "thing !" → "thing!"
+    // Margin couplet numbers and marks the layout left at a line start: "9° Not that …", "?.5 …"
+    .replace(/^(?:\d{1,3}[°o]?|[?¿]\.?\d{1,3}|\d{1,2}[a-z])\s+(?=["“'‘(A-Z])/, '')
+    .replace(/^1\s+(?=[a-z])/, 'I ') // "1 prepared many old treasures" — a capital I read as 1
+    // Stray scanner marks: "joyful, with these words: — ■", "speech within speech; <", "as regards #> this"
+    .replace(/\s*[■□▪•<>#~^|]+\s*$/, '')
+    .replace(/\s+[#<>■|]+>?\s+/g, ' ')
     .replace(/\s{2,}/g, ' ')
     .trim();
 

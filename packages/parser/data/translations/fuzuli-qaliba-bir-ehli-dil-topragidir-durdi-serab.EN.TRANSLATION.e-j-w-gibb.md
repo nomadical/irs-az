@@ -30,5 +30,5 @@ Dost thou, like to me, turned Mejnun, wander o'er the desert bare.
 Yonder Goddess reared her eyebrow, shrine-ward turn not I my face; l
 Let me be, O zealot, vex not me, so thou do God revere.
 
-All thy life-coin thou bast squandered one fair Idol's love to win;
+All thy life-coin thou hast squandered one fair Idol's love to win;
 O Fuziili, woe is to thee, if this compt be called for e'er.

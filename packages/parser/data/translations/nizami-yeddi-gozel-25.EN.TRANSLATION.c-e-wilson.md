@@ -128,7 +128,7 @@ Safety and health (for us); distress for foes; abundance of advantages (for us).
 
 Health, safety, and subsistence — these three (things) are the essentials, other (things) but vain.
 
-When clothed the body and the stomach full, say. Be not pearls or rubles in the world!
+When clothed the body and the stomach full, say. Be not pearls or rubies in the world!
 
 (Then) we who have (with us) a king like you, in having you have everylihing (we can).
 

@@ -64,7 +64,7 @@ His name’s embellished by Sublunity ”, if o’er the sky he rise ’his only
 
 Though low the sky without sublimity, in this last there is height without the sky.
 
-The lightning of his sword burns up the veils upon the bodics of his foes inveded.
+The lightning of his sword burns up the veils upon the bodies of his foes inveded.
 
 His arrow’s point in places where it speeds pierces a heart at times, at times a hair.
 
@@ -106,7 +106,7 @@ His bolts, through wolves’ fore legs and leopards’ hind, restrict the plain 
 
 His iiTmtiiLg-groiind, through blood wMcb sea-like fumes, the wolf’s skin now puts on, and now the pard’s.
 
-The boar at wbicb be sharply drives bis sword flies (quickly) from the wound that be inflicts.
+The boar at which be sharply drives bis sword flies (quickly) from the wound that be inflicts.
 
 Exerting strength upon the leathern string, to stag be makes the leathern bide a grave.
 
@@ -118,9 +118,9 @@ He at the feast and in the fight is famed: by cup and sword be gives life and be
 
 By reason of bis sheen the dusky earth is full of lustre by bis sovereign sway.
 
-His inner character as artist’s reed bas musk in bosom, rubles in its skirt.
+His inner character as artist’s reed bas musk in bosom, rubies in its skirt.
 
-The realm in every part forms necklaces and perfume from his rubles and bis musk.
+The realm in every part forms necklaces and perfume from his rubies and bis musk.
 
 Such wearer of the kingly cap’s attire, suffices for a cap from heaven to earth.
 
@@ -132,7 +132,7 @@ His enemies are like uprooted trees to crucifixes fastened at bis door.
 
 Our faces, from the sim of bis renown, bright as the moon; bis foemen’s faces black.
 
-What wonder that a gold-shod sun bas given rock to the mount and rubles to the mine?
+What wonder that a gold-shod sun bas given rock to the mount and rubies to the mine?
 
 Subdued by him the jewels of the mine; the mine of jewels (too) bis (bumble) slave.
 

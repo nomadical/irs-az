@@ -144,7 +144,7 @@ Davali bound his loins like the male lion;
 Struck a sword-blow on the leather (sword-belt) of his waist.
 
 Without any trouble the sword became the penetrator;
-That mountain (Jaram), steel (-armour) weighing (on his bodv) became two halves.
+That mountain (Jaram), steel (-armour) weighing (on his body) became two halves.
 
 He had a brother like the raging elephant;
 The brother bound his loins for malice.
