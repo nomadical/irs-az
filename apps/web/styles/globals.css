@@ -1043,6 +1043,16 @@ blockquote {
 }
 .work-random a { color: var(--pomeg); }
 .work-random a:hover { text-decoration: underline; }
+.work-random-key {
+  margin-left:   0.4rem;
+  padding:       0 0.3rem;
+  border:        1px solid var(--control);
+  border-radius: 2px;
+  font-family:   var(--font-ui);
+  font-size:     0.7rem;
+  color:         var(--muted);
+}
+@media (hover: none) { .work-random-key { display: none; } }
 
 /* More by this author: four other works with their opening lines */
 .more-works {

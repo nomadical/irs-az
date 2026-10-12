@@ -6,11 +6,19 @@ import { useRouter } from 'next/navigation';
 const FOCUS_FLAG = 'irs-focus-title';
 
 /**
- * ← / → move through the collection, but only while focus rests on the page
- * itself, so arrow keys inside controls keep their own meaning. After moving,
- * focus lands on the new title so screen readers announce the poem.
+ * ← / → move through the collection and R opens a random poem, but only while
+ * focus rests on the page itself, so keys inside controls keep their own meaning.
+ * After moving, focus lands on the new title so screen readers announce the poem.
  */
-export function WorkNavKeys({ prevHref, nextHref }: { prevHref: string | null; nextHref: string | null }) {
+export function WorkNavKeys({
+  prevHref,
+  nextHref,
+  randomHref,
+}: {
+  prevHref: string | null;
+  nextHref: string | null;
+  randomHref: string;
+}) {
   const router = useRouter();
 
   useEffect(() => {
@@ -34,6 +42,13 @@ export function WorkNavKeys({ prevHref, nextHref }: { prevHref: string | null; n
       const active = document.activeElement;
       const onPage = !active || active === document.body || active.matches('main, #work-title, #text');
       if (!onPage) return;
+      // By physical key, so R works on Cyrillic layouts too
+      if (e.code === 'KeyR') {
+        flag();
+        // A route handler that redirects, so a full navigation rather than router.push
+        window.location.assign(randomHref);
+        return;
+      }
       const href = e.key === 'ArrowLeft' ? prevHref : e.key === 'ArrowRight' ? nextHref : null;
       if (!href) return;
       flag();
@@ -41,7 +56,7 @@ export function WorkNavKeys({ prevHref, nextHref }: { prevHref: string | null; n
     }
 
     function onClick(e: MouseEvent) {
-      if ((e.target as HTMLElement).closest('.work-nav a')) flag();
+      if ((e.target as HTMLElement).closest('.work-nav a, .work-random a')) flag();
     }
 
     window.addEventListener('keydown', onKey);
@@ -50,7 +65,7 @@ export function WorkNavKeys({ prevHref, nextHref }: { prevHref: string | null; n
       window.removeEventListener('keydown', onKey);
       document.removeEventListener('click', onClick);
     };
-  }, [prevHref, nextHref, router]);
+  }, [prevHref, nextHref, randomHref, router]);
 
   return null;
 }
