@@ -1,0 +1,266 @@
+{
+  "id": "atkinson-laili-majnun",
+  "layout": "split",
+  "archiveId": "lovesoflailmaj00nizauoft",
+  "title": "The Loves of Laili and Majnun",
+  "translator": "James Atkinson",
+  "year": 1836,
+  "translatorNote": "The Loves of Laili and Majnun (1836; ed. J. A. Atkinson, 1894). An abridged verse paraphrase: it leaves out much of the original, so this section may render only part of it.",
+  "workSlugBase": "nizami-leyli-ve-mecnun",
+  "noteHeight": 33,
+  "first": "Saki,1 thou know",
+  "last": "At last with bliss seraphic glows",
+  "runningHeads": "(LOVES\\s+O[FEP]\\b|^LA[IT]LI\\s+AND\\s+MAJN\\S*(\\s+\\S{1,4})?$)",
+  "starts": {
+    "10": "Saki, thou know",
+    "12": "Mark, where instruction",
+    "13": "As morning broke, the sun",
+    "14": "His friends, to whom his griefs",
+    "15": "When Majnún saw his hopes decay",
+    "16": "Worn out at length, he sank",
+    "17": "Restored to home again",
+    "18": "—A partridge seized an ant",
+    "19": "Lailí in beauty, softness",
+    "20": "That day on which she pensive strayed",
+    "21": "Majnún, 'midst wild and solitude",
+    "22": "Majnún had scarce his wish expressed",
+    "24": "But Noufal's gallant friends",
+    "25": "The minstrel strikes his soft guitar",
+    "28": "Behold, what clouds of dust",
+    "29": "The Arab poets who rehearse",
+    "30": "Meantime, the father mourned",
+    "31": "Syd Omri, with unutterable grief",
+    "32": "A pilgrim-step approached",
+    "33": "Who 's this that wanders",
+    "35": "Sweet slumber had diffused",
+    "36": "Yes, Majnún wept and shook",
+    "37": "Majnún's distracted state",
+    "38": "O'er Majnún's spirit",
+    "39": "Selim again the maniac's haunts",
+    "40": "Lailí meanwhile had read and seen",
+    "41": "So saying, seated in that palmy grove",
+    "42": "Through many a town and bower",
+    "43": "How beautifully blue",
+    "44": "In summer all is bright and gay",
+    "45": "The life of Majnún had received its blight"
+  },
+  "corrections": [
+    {
+      "from": "with peculiar splendour and magnificence: he was, however,\n",
+      "to": ""
+    },
+    {
+      "from": "1 Laili, in Arabic, signifies night: the name, however, has\n",
+      "to": ""
+    },
+    {
+      "from": "questioned, and adds, in a note, ' The allegorical interpretation\n",
+      "to": ""
+    },
+    {
+      "from": "were not agreed whether they should understand, by Laura,\n",
+      "to": ""
+    },
+    {
+      "from": "Cry out, Olivia! '\n",
+      "to": ""
+    },
+    {
+      "from": "i < Diw— demon, giant, devil, ghost, hobgoblin. The diws,\n",
+      "to": ""
+    },
+    {
+      "from": "beings. The ghoul is an imaginary sylvan demon, of different\n",
+      "to": ""
+    },
+    {
+      "from": "Literally, Every day, ear in ear.\n",
+      "to": ""
+    },
+    {
+      "from": "Otway: —\n",
+      "to": ""
+    },
+    {
+      "from": "Destructive, damnable, deceitful woman! '\n",
+      "to": ""
+    },
+    {
+      "from": "understood, it may be enough to say the letter Jim, of the Per-\n",
+      "to": ""
+    },
+    {
+      "from": "1 The original runs, Salt is thrown upon my heart, expressive f- —\n",
+      "to": ""
+    },
+    {
+      "from": "animated both, by transmigration.\n",
+      "to": ""
+    },
+    {
+      "from": "Puts on his pretty looks, repeats his words,\n",
+      "to": ""
+    },
+    {
+      "from": "Arabic and Persian languages, which express love, implying\n",
+      "to": ""
+    },
+    {
+      "from": "also melancholy, madness, and death.' Majnun, for instance,\n",
+      "to": ""
+    },
+    {
+      "from": "signifies furious, frantic, mad.\n",
+      "to": ""
+    },
+    {
+      "from": "And where am 1 1 —",
+      "to": "And where am I? —"
+    },
+    {
+      "from": "\n1 playing with",
+      "to": "\nI playing with"
+    },
+    {
+      "from": "said:\n1 Speak'st",
+      "to": "said:\n' Speak'st"
+    },
+    {
+      "from": "Kaf s 2 ice-summit",
+      "to": "Kaf's ice-summit"
+    },
+    {
+      "from": "'Midst combat tierce",
+      "to": "'Midst combat fierce"
+    },
+    {
+      "from": "Brine, bring the luscious",
+      "to": "Bring, bring the luscious"
+    },
+    {
+      "from": "\nlie asked, with tears",
+      "to": "\nHe asked, with tears"
+    },
+    {
+      "from": "in his lu3t for gold",
+      "to": "in his lust for gold"
+    },
+    {
+      "from": "my father still — 0 still he kind",
+      "to": "my father still — O still be kind"
+    },
+    {
+      "from": "course delayed. in\n",
+      "to": "course delayed.\n"
+    },
+    {
+      "from": "returned. xvm\n",
+      "to": "returned.\n"
+    },
+    {
+      "from": "tramp of steed* is heard",
+      "to": "tramp of steeds is heard"
+    },
+    {
+      "from": "blooming flower*:",
+      "to": "blooming flowers:"
+    },
+    {
+      "from": "in my breast;?",
+      "to": "in my breast?"
+    },
+    {
+      "from": "relics were descried;;",
+      "to": "relics were descried;"
+    },
+    {
+      "from": "Kais J assiduous",
+      "to": "Kais assiduous"
+    },
+    {
+      "from": "Jemshid's x glory",
+      "to": "Jemshid's glory"
+    },
+    {
+      "from": "A veil l o'er",
+      "to": "A veil o'er"
+    },
+    {
+      "from": "That mole x which",
+      "to": "That mole which"
+    },
+    {
+      "from": "farsang x he",
+      "to": "farsang he"
+    },
+    {
+      "from": "his ponderous gerz x",
+      "to": "his ponderous gerz"
+    },
+    {
+      "from": "some Diw l or Ghoul",
+      "to": "some Diw or Ghoul"
+    },
+    {
+      "from": "melancholy black l arrayed",
+      "to": "melancholy black arrayed"
+    },
+    {
+      "from": "He saw her fresh l as",
+      "to": "He saw her fresh as"
+    },
+    {
+      "from": "trance of death; l",
+      "to": "trance of death;"
+    },
+    {
+      "from": "pines * away",
+      "to": "pines away"
+    },
+    {
+      "from": "Forat's * bright",
+      "to": "Forat's bright"
+    },
+    {
+      "from": "fell Zilcum.' l",
+      "to": "fell Zilcum.'"
+    },
+    {
+      "pattern": " [12](?= [a-z])",
+      "flags": "g",
+      "to": ""
+    },
+    {
+      "pattern": " 1(?=\\s*($|['\"’—]|\\s[A-Z]))",
+      "flags": "gm",
+      "to": "?"
+    },
+    {
+      "pattern": "(^|['\"‘] ?)0(?=[ ,!])",
+      "flags": "gm",
+      "to": "$1O"
+    },
+    {
+      "from": "Lailrs",
+      "to": "Lailí's"
+    },
+    {
+      "from": "\nLadi to her",
+      "to": "\nLailí to her"
+    },
+    {
+      "from": "La ill's",
+      "to": "Lailí's"
+    },
+    {
+      "pattern": "\\bLail[if](?![a-z])",
+      "flags": "g",
+      "to": "Lailí"
+    },
+    {
+      "pattern": "\\bMaj ?(?:n[uú]n|niin|mín|min|nrin|in'in|ruin|m'm)(?![a-z])",
+      "flags": "g",
+      "to": "Majnún"
+    }
+  ]
+}

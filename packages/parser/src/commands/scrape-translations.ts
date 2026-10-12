@@ -4,6 +4,7 @@ import * as path from 'path';
 import { loadBookConfig, planBookTranslation } from '../translations/book';
 import { loadAnthologyConfig, planAnthology } from '../translations/anthology';
 import { loadWikisourceConfig, planWikisourceTranslation } from '../translations/wikisource';
+import { loadSplitConfig, planSplit } from '../translations/split';
 import { writeTranslationMd } from '../writers/md-writer';
 import { slugify } from '../utils/slug';
 
@@ -81,6 +82,39 @@ async function scrapeWikisource(id: string, dryRun: boolean) {
   console.log(`  Wrote ${plan.length} translations`);
 }
 
+/** A paraphrase printed as one poem, cut into our works at the lines the config names */
+async function scrapeSplit(id: string, dryRun: boolean) {
+  const cfg = loadSplitConfig(id);
+  console.log(`\n=== ${cfg.title} (${cfg.translator}, ${cfg.year}) ===`);
+  const plan = await planSplit(cfg);
+  for (const c of plan.unusedCorrections) console.warn(`  Correction matched nothing: ${c.slice(0, 70)}`);
+  for (const t of plan.translations) {
+    console.log(`  ${t.workSlug}: ${t.couplets} couplets  ${t.opening.slice(0, 90)}`);
+    for (const w of t.warnings) console.warn(`     ! ${w}`);
+  }
+  if (dryRun) return;
+
+  for (const t of plan.translations) {
+    writeTranslationMd(
+      {
+        workSlug: t.workSlug,
+        language: 'EN',
+        type: 'TRANSLATION',
+        scriptDirection: 'LTR',
+        translator: cfg.translator,
+        translatorNote: cfg.translatorNote,
+        year: cfg.year,
+        sourceNote: `https://archive.org/details/${cfg.archiveId}`,
+        isDefault: true,
+        // Drafts until proofread against the scan
+        status: 'DRAFT',
+      },
+      t.body,
+    );
+  }
+  console.log(`  Wrote ${plan.translations.length} translations`);
+}
+
 export const scrapeTranslationsCommand = new Command('scrape-translations')
   .description('Align a public-domain book translation to our works and write .md files')
   .requiredOption('--book <id>', 'Book config in data/config/translations, e.g. wilson-haft-paikar')
@@ -89,6 +123,7 @@ export const scrapeTranslationsCommand = new Command('scrape-translations')
     const layout = JSON.parse(fs.readFileSync(path.join(CONFIG_DIR, `${opts.book}.json`), 'utf-8')).layout;
     if (layout === 'anthology') return scrapeAnthology(opts.book, !!opts.dryRun);
     if (layout === 'wikisource') return scrapeWikisource(opts.book, !!opts.dryRun);
+    if (layout === 'split') return scrapeSplit(opts.book, !!opts.dryRun);
 
     const cfg = loadBookConfig(opts.book);
     console.log(`\n=== ${cfg.title} (${cfg.translator}, ${cfg.year}) ===`);

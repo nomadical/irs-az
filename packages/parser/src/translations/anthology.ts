@@ -45,7 +45,7 @@ export interface AnthologyItem {
   sourceUrl: string;
 }
 
-interface Line {
+export interface Line {
   page: number;
   x: number;
   right: number;
@@ -63,7 +63,8 @@ function median(xs: number[]): number {
   return s[Math.floor(s.length / 2)];
 }
 
-function bookLines(xml: string): Line[] {
+/** Every OCR'd line with its page, left and right edges, top, and median letter height */
+export function bookLines(xml: string): Line[] {
   const lines: Line[] = [];
   xml.split('<OBJECT ').slice(1).forEach((page, p) => {
     for (const m of page.matchAll(/<LINE>([\s\S]*?)<\/LINE>/g)) {
