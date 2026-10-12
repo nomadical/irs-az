@@ -76,6 +76,8 @@ export const api = {
   getRandomWork: () => fetcher<{ slug: string }>('/works/random', { cache: 'no-store' }),
   getPoemOfTheDay: () => fetcher<PoemOfTheDay>('/works/daily', { cache: 'no-store' }),
   resolveWork: (slug: string) => fetcher<{ slug: string }>(`/works/resolve/${slug}`),
+  getMoreByAuthor: (slug: string, locale: string) =>
+    fetcher<MoreWork[]>(`/works/${slug}/more?locale=${locale}`),
   getWorkNav: (slug: string) =>
     fetcher<{ prev: NavItem | null; next: NavItem | null }>(`/works/${slug}/nav`),
 
@@ -104,6 +106,17 @@ export const api = {
   register: (data: { email: string; username: string; password: string; name?: string }) =>
     fetcher('/auth/register', { method: 'POST', body: JSON.stringify(data) }),
 };
+
+export interface MoreWork {
+  slug: string;
+  titleAz: string;
+  titleRu: string | null;
+  titleEn: string | null;
+  genre: string;
+  form: string | null;
+  year: number | null;
+  incipit: { lines: string[]; lang: string };
+}
 
 interface NavItem {
   slug: string;

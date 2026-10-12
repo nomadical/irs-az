@@ -1,11 +1,12 @@
 import type { Metadata } from 'next';
-import { api, getWorkOrRedirect } from '@/lib/api';
+import { api, getWorkOrRedirect, type MoreWork } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import { excerpt, pageMetadata, SITE_URL } from '@/lib/seo';
 import Link from 'next/link';
 import { ReadingView } from '@/components/reading/ReadingView';
 import { WorkNavKeys } from '@/components/reading/WorkNavKeys';
 import { JsonLd } from '@/components/seo/JsonLd';
+import { WorkCard } from '@/components/works/WorkCard';
 import { getTranslations } from 'next-intl/server';
 import {
   displayTitle,
@@ -73,10 +74,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function WorkPage({ params }: Props) {
   const { locale, slug } = await params;
 
-  const [work, nav] = await Promise.all([
+  const [work, nav, more] = await Promise.all([
     getWorkOrRedirect(slug, locale) as Promise<any>,
     // Old slugs redirect above, so nav only matters when the work exists
     api.getWorkNav(slug).catch(() => ({ prev: null, next: null })),
+    api.getMoreByAuthor(slug, locale).catch(() => [] as MoreWork[]),
   ]);
 
   const { t, options, titleFor } = await titleHelpers(locale);
@@ -216,6 +218,36 @@ export default async function WorkPage({ params }: Props) {
         </nav>
       )}
       <WorkNavKeys prevHref={navHref(nav.prev)} nextHref={navHref(nav.next)} />
+
+      {more.length > 0 && (
+        <section className="more-works" aria-labelledby="more-works-title">
+          <h2 id="more-works-title" className="more-works-title">
+            <Link href={`/${locale}/authors/${work.author.slug}`}>{t('more_by_author')}</Link>
+          </h2>
+          <div className="card-grid more-works-grid">
+            {more.map((item) => {
+              const itemForm = item.form && item.form !== 'OTHER' ? options(`form.${item.form}` as any) : null;
+              return (
+                <WorkCard
+                  key={item.slug}
+                  href={navHref(item)!}
+                  title={titleFor(localized(item, 'title', locale), item.form).text}
+                  incipit={item.incipit}
+                  meta={
+                    (itemForm || item.year) && (
+                      <>
+                        {itemForm && <span>{itemForm}</span>}
+                        {itemForm && item.year && <span className="dot" aria-hidden="true" />}
+                        {item.year && <span>{item.year}</span>}
+                      </>
+                    )
+                  }
+                />
+              );
+            })}
+          </div>
+        </section>
+      )}
     </div>
   );
 }

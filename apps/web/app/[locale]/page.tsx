@@ -149,10 +149,10 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
           {featured ? (
             <div className="featured-box">
               <div className="featured-box-inner">
-                <h1 style={{ fontSize: '3.25rem', letterSpacing: '-0.04em', fontFamily: 'Georgia, serif' }}>
+                <h1 className="featured-name">
                   {localeName(featured, locale)}
                 </h1>
-                <div className="meta-strip" style={{ justifyContent: 'center', marginTop: '0.3rem' }}>
+                <div className="meta-strip featured-meta">
                   {featured.bornYear && featured.diedYear && (
                     <span>{featured.bornYear} — {featured.diedYear}</span>
                   )}
@@ -167,44 +167,22 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                 </div>
 
                 {bioSnippet && (
-                  <p style={{
-                    fontStyle: 'italic',
-                    color: 'var(--warm-brown)',
-                    fontSize: '1rem',
-                    lineHeight: 1.9,
-                    textAlign: 'left',
-                  }}>
-                    <span style={{
-                      fontFamily: 'Georgia, serif',
-                      fontSize: '2.5rem',
-                      lineHeight: 0,
-                      verticalAlign: '-0.3em',
-                      marginRight: '0.15rem',
-                      color: 'var(--pomeg)',
-                      fontStyle: 'normal',
-                    }}>{'\u201C'}</span>
+                  <p className="featured-bio">
+                    <span className="featured-quote" aria-hidden="true">{'\u201C'}</span>
                     {bioSnippet}
                   </p>
                 )}
 
                 <Link
                   href={`/${locale}/authors/${featured.slug}`}
-                  className="more"
-                  style={{
-                    display: 'inline-block',
-                    marginTop: '0.6rem',
-                    fontFamily: 'var(--font-ui)',
-                    fontSize: '0.78rem',
-                    color: 'var(--pomeg)',
-                    letterSpacing: '0.03em',
-                  }}
+                  className="more featured-more"
                 >
                   {t('read_more')} →
                 </Link>
               </div>
             </div>
           ) : (
-            <p style={{ color: 'var(--muted)', fontStyle: 'italic' }}>{t('coming_soon')}</p>
+            <p className="empty-note">{t('coming_soon')}</p>
           )}
         </div>
 
@@ -225,14 +203,14 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             ))}
           </div>
 
-          <div className="ornament ornament--diamonds" style={{ margin: '0.5rem 0 1rem' }} />
+          <div className="ornament ornament--diamonds home-sidebar-orn" aria-hidden="true" />
 
           {/* Century filter */}
           <div className="home-sidebar-section">
             <p className="section-label">{t('centuries_label')}</p>
-            <div style={{ display: 'flex', gap: '0.25rem', flexWrap: 'wrap' }}>
+            <div className="chip-row">
               {CENTURIES.map(({ label, y }) => (
-                <Link key={label} href={`/${locale}/authors?century=${y}`} className="pill" style={{ minWidth: '2.5rem', textAlign: 'center' }}>
+                <Link key={label} href={`/${locale}/authors?century=${y}`} className="pill pill--century">
                   {label}
                 </Link>
               ))}
@@ -240,9 +218,9 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
           </div>
 
           {/* Genre filter */}
-          <div className="home-sidebar-section" style={{ marginTop: '0.75rem' }}>
+          <div className="home-sidebar-section">
             <p className="section-label">{t('genres_label')}</p>
-            <div style={{ display: 'flex', gap: '0.25rem', flexWrap: 'wrap' }}>
+            <div className="chip-row">
               {GENRES.map((g) => (
                 <Link key={g.key} href={`/${locale}/works?form=${g.key}`} className="pill">
                   {locale === 'ru' ? g.ru : locale === 'en' ? g.en : g.az}
@@ -277,7 +255,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
       {/* ── Bottom: Recent works strip ─────────────────────── */}
       {recentWorks.length > 0 && (
         <div className="works-strip">
-          <p className="section-label" style={{ padding: '0 0 0.75rem' }}>
+          <p className="section-label">
             {t('recent_works_label')}
           </p>
           <div className="works-strip-grid">
@@ -287,7 +265,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                   {genreLabel(w.genre, w.form ?? undefined, locale)}
                   {w.year ? ` · ${w.year}` : ''}
                 </div>
-                <Link href={`/${locale}/works/${w.slug}`} className="works-strip-title" style={{ display: 'block' }}>
+                <Link href={`/${locale}/works/${w.slug}`} className="works-strip-title">
                   {localeTitle(w, locale)}
                 </Link>
                 <div className="works-strip-author">

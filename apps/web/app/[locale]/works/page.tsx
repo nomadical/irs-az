@@ -4,6 +4,7 @@ import { api } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
+import { WorkCard, type Incipit } from '@/components/works/WorkCard';
 
 export const dynamic = 'force-dynamic';
 
@@ -24,6 +25,7 @@ interface WorkItem {
   originalLang: string;
   author: { slug: string; nameAz: string; nameRu: string | null };
   collection: { slug: string; titleAz: string } | null;
+  incipit?: Incipit;
 }
 
 interface WorksResponse {
@@ -75,6 +77,7 @@ export default async function WorksPage({ params, searchParams }: Props) {
   if (sp.authorSlug) query.set('authorSlug', sp.authorSlug);
   if (sp.page) query.set('page', sp.page);
   query.set('limit', '30');
+  query.set('incipit', ['az', 'ru', 'en'].includes(locale) ? locale : 'az');
 
   const result = (await api.getWorks(query)) as WorksResponse;
 
@@ -83,17 +86,14 @@ export default async function WorksPage({ params, searchParams }: Props) {
 
   return (
     <div className="container page-content">
-      <header className="page-header" style={{ textAlign: 'left', paddingTop: 0 }}>
-        <p className="section-label">
-          {t('title')}
-        </p>
+      <header className="page-header page-header--start">
         <h1>{t('title')}</h1>
       </header>
 
       {/* Filters */}
-      <div style={{ display: 'flex', gap: '1.5rem', flexWrap: 'wrap' }}>
+      <div className="filter-bar">
         {/* Genre filter */}
-        <div style={{ display: 'flex', gap: '0.25rem', flexWrap: 'wrap' }}>
+        <div className="chip-row">
           {GENRE_FILTERS.map((g) => (
             <Link
               key={g.value}
@@ -110,7 +110,7 @@ export default async function WorksPage({ params, searchParams }: Props) {
         </div>
 
         {/* Form filter (poem sub-genres) */}
-        <div style={{ display: 'flex', gap: '0.25rem', flexWrap: 'wrap' }}>
+        <div className="chip-row">
           {FORM_FILTERS.map((f) => (
             <Link
               key={f.value}
@@ -127,52 +127,52 @@ export default async function WorksPage({ params, searchParams }: Props) {
         </div>
       </div>
 
-      <hr className="rule" style={{ margin: '1rem 0' }} />
+      <hr className="rule rule--tight" />
 
       {/* Works list */}
-      <div className="card-grid card-grid--3">
+      <div className="card-grid card-grid--3 work-card-grid">
         {result.data.map((work) => {
           const title = localized(work, 'title', locale);
           const authorName = localized(work.author, 'name', locale);
 
+          const form = FORM_FILTERS.find((f) => f.value === work.form && f.value !== 'OTHER');
           return (
-            <Link
+            <WorkCard
               key={work.id}
               href={`/${locale}/works/${work.slug}`}
-              className="card-item"
-            >
-              <span style={{ fontFamily: 'var(--font-serif)', fontSize: '1.05rem', fontWeight: 600 }}>
-                {title}
-              </span>
-              <div className="meta-strip" style={{ marginTop: '0.3rem' }}>
-                <span>{authorName}</span>
-                {work.year && (
-                  <>
-                    <span className="dot" />
-                    <span>{work.yearApprox && '~'}{work.year}</span>
-                  </>
-                )}
-                {work.form && (
-                  <>
-                    <span className="dot" />
-                    <span style={{ textTransform: 'lowercase' }}>{work.form}</span>
-                  </>
-                )}
-              </div>
-            </Link>
+              title={title ?? work.titleAz}
+              incipit={work.incipit}
+              meta={
+                <>
+                  <span>{authorName}</span>
+                  {form && (
+                    <>
+                      <span className="dot" aria-hidden="true" />
+                      <span>{label(form, locale)}</span>
+                    </>
+                  )}
+                  {work.year && (
+                    <>
+                      <span className="dot" aria-hidden="true" />
+                      <span>{work.yearApprox && '~'}{work.year}</span>
+                    </>
+                  )}
+                </>
+              }
+            />
           );
         })}
       </div>
 
       {result.data.length === 0 && (
-        <p style={{ color: 'var(--muted)', textAlign: 'center', marginTop: '2rem', fontStyle: 'italic' }}>
+        <p className="empty-note empty-note--center">
           {locale === 'ru' ? 'Ничего не найдено' : locale === 'en' ? 'No results found' : 'Heç nə tapılmadı'}
         </p>
       )}
 
       {/* Pagination */}
       {result.meta.totalPages > 1 && (
-        <div style={{ display: 'flex', justifyContent: 'center', gap: '0.35rem', marginTop: '2rem' }}>
+        <nav className="pagination" aria-label={locale === 'ru' ? 'Страницы' : locale === 'en' ? 'Pages' : 'Səhifələr'}>
           {Array.from(
             { length: Math.min(result.meta.totalPages, 10) },
             (_, i) => {
@@ -194,12 +194,13 @@ export default async function WorksPage({ params, searchParams }: Props) {
                 key={page}
                 href={`/${locale}/works?${qp}`}
                 className={`pill ${page === result.meta.page ? 'active' : ''}`}
+                aria-current={page === result.meta.page ? 'page' : undefined}
               >
                 {page}
               </Link>
             );
           })}
-        </div>
+        </nav>
       )}
     </div>
   );

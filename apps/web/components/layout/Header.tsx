@@ -1,9 +1,11 @@
 'use client';
 
 import Link from 'next/link';
+import { Suspense } from 'react';
 import { useTranslations } from 'next-intl';
-import { useParams, usePathname } from 'next/navigation';
+import { useParams, usePathname, useSearchParams } from 'next/navigation';
 import { ThemeToggle } from '@/components/ui/ThemeToggle';
+import { SkinToggle } from '@/components/ui/SkinToggle';
 import { LanguageSwitcher } from '@/components/ui/LanguageSwitcher';
 
 const datelineSubtitle: Record<string, string> = {
@@ -21,12 +23,48 @@ function formatDate(locale: string): string {
   });
 }
 
+interface NavLink {
+  href: string;
+  label: string;
+}
+
+/** Section links; `type` is the author type in the URL, unknown while the query loads */
+function NavLinks({ links, pathname, type }: { links: NavLink[]; pathname: string; type: string | null | undefined }) {
+  const t = useTranslations('nav');
+  const isActive = (href: string) => {
+    const [path, query] = href.split('?');
+    // Poets, writers and philosophers share one index; only the matching type is current
+    if (query) return pathname === path && type === new URLSearchParams(query).get('type');
+    return pathname.startsWith(path);
+  };
+
+  return (
+    <nav className="site-nav" aria-label={t('menu_label')}>
+      {links.map((link) => (
+        <Link
+          key={link.href}
+          href={link.href}
+          prefetch={link.href.endsWith('/random') ? false : undefined}
+          aria-current={isActive(link.href) ? 'page' : undefined}
+        >
+          {link.label}
+        </Link>
+      ))}
+    </nav>
+  );
+}
+
+function NavLinksWithQuery(props: { links: NavLink[]; pathname: string }) {
+  const searchParams = useSearchParams();
+  return <NavLinks {...props} type={searchParams.get('type')} />;
+}
+
 export function Header() {
   const t = useTranslations('nav');
   const { locale } = useParams<{ locale: string }>();
   const pathname = usePathname();
 
-  const navLinks = [
+  const navLinks: NavLink[] = [
     { href: `/${locale}/authors?type=POET`, label: t('poets') },
     { href: `/${locale}/authors?type=WRITER`, label: t('writers') },
     { href: `/${locale}/authors?type=PHILOSOPHER`, label: t('philosophers') },
@@ -36,11 +74,6 @@ export function Header() {
     { href: `/${locale}/contribute`, label: t('contribute') },
   ];
 
-  const isActive = (href: string) => {
-    if (href === `/${locale}`) return pathname === href;
-    return pathname.startsWith(href.split('?')[0]);
-  };
-
   return (
     <header className="site-header">
       <div className="header-inner">
@@ -48,26 +81,18 @@ export function Header() {
           IRS<span className="logo-orn" aria-hidden="true">◆</span><em>AZ</em>
         </Link>
 
-        <nav className="site-nav" aria-label={t('menu_label')}>
-          {navLinks.map((link) => (
-            <Link
-              key={link.href}
-              href={link.href}
-              prefetch={link.href.endsWith('/random') ? false : undefined}
-              aria-current={isActive(link.href) ? 'page' : undefined}
-            >
-              {link.label}
-            </Link>
-          ))}
-        </nav>
+        <Suspense fallback={<NavLinks links={navLinks} pathname={pathname} type={undefined} />}>
+          <NavLinksWithQuery links={navLinks} pathname={pathname} />
+        </Suspense>
 
         <div className="header-tools">
           <LanguageSwitcher />
+          <SkinToggle />
           <ThemeToggle />
         </div>
       </div>
       <div className="dateline">
-        <div style={{ borderTop: '0.5px solid var(--rule)', paddingTop: '0.05rem' }}>
+        <div className="dateline-inner">
           {formatDate(locale)} &nbsp;·&nbsp; Bakı &nbsp;·&nbsp; {datelineSubtitle[locale] ?? datelineSubtitle.az}
         </div>
       </div>

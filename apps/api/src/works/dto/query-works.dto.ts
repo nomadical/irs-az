@@ -1,4 +1,4 @@
-import { IsOptional, IsEnum, IsInt, IsString, Min, Max } from 'class-validator';
+import { IsOptional, IsEnum, IsIn, IsInt, IsString, Min, Max } from 'class-validator';
 import { ApiPropertyOptional } from '@nestjs/swagger';
 import { Genre, Language, PoemForm } from '@prisma/client';
 
@@ -54,6 +54,11 @@ export class QueryWorksDto {
   @ApiPropertyOptional({ description: 'Sort order: year (default) or recent' })
   @IsOptional()
   sort?: 'year' | 'recent';
+
+  @ApiPropertyOptional({ description: 'Add each work\'s opening lines, preferring a translation into this UI language', enum: ['az', 'ru', 'en'] })
+  @IsOptional()
+  @IsIn(['az', 'ru', 'en'])
+  incipit?: 'az' | 'ru' | 'en';
 
   @ApiPropertyOptional({ description: 'Include all statuses (for admin)' })
   @IsOptional()

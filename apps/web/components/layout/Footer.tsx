@@ -13,7 +13,7 @@ export function Footer() {
     <footer className="footer">
       <div className="container">
         <div className="ornament ornament--small" />
-        <p className="footer-text" style={{ marginTop: '1rem' }}>
+        <p className="footer-text">
           {t('name')} — {t('description')}
         </p>
         <nav className="footer-links" aria-label={t('name')}>

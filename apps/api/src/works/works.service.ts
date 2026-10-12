@@ -1,5 +1,5 @@
 import { Injectable, NotFoundException } from '@nestjs/common';
-import { Prisma } from '@prisma/client';
+import { Language, Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { CreateWorkDto } from './dto/create-work.dto';
 import { QueryWorksDto } from './dto/query-works.dto';
@@ -44,6 +44,33 @@ function excerpt(body: string, max = 4) {
     .slice(0, max);
 }
 
+const UI_LANGUAGE: Record<string, Language> = { az: 'AZ_LATIN', ru: 'RU', en: 'EN' };
+
+/** Fields needed to pick a work's opening lines in a reader's language */
+const INCIPIT_SOURCE = (language: Language) =>
+  ({
+    body: true,
+    originalLang: true,
+    translations: {
+      where: { language, status: 'PUBLISHED' as const },
+      orderBy: [{ isDefault: 'desc' as const }, { createdAt: 'asc' as const }],
+      take: 1,
+      select: { body: true, language: true },
+    },
+  }) satisfies Prisma.WorkSelect;
+
+/** First two lines in the reader's language when a translation exists, else in the original */
+function withIncipit<T extends { body: string; originalLang: Language; translations: { body: string; language: Language }[] }>(
+  work: T,
+) {
+  const { body, translations, ...rest } = work;
+  const tr = translations[0];
+  return {
+    ...rest,
+    incipit: { lines: excerpt(tr?.body ?? body, 2), lang: tr?.language ?? work.originalLang },
+  };
+}
+
 @Injectable()
 export class WorksService {
   constructor(private prisma: PrismaService) {}
@@ -70,6 +97,7 @@ export class WorksService {
       }),
     };
 
+    const incipitLanguage = query.incipit ? UI_LANGUAGE[query.incipit] : undefined;
     const [data, total] = await this.prisma.$transaction([
       this.prisma.work.findMany({
         where,
@@ -77,6 +105,7 @@ export class WorksService {
         take,
         orderBy: query.sort === 'recent' ? { createdAt: 'desc' } : { year: 'asc' },
         select: {
+          ...(incipitLanguage && INCIPIT_SOURCE(incipitLanguage)),
           id: true,
           slug: true,
           titleAz: true,
@@ -98,7 +127,8 @@ export class WorksService {
       this.prisma.work.count({ where }),
     ]);
 
-    return paginatedResult(data, total, page, limit);
+    const rows: object[] = incipitLanguage ? data.map((w) => withIncipit(w as typeof w & Parameters<typeof withIncipit>[0])) : data;
+    return paginatedResult(rows, total, page, limit);
   }
 
   async findById(id: string) {
@@ -214,6 +244,38 @@ export class WorksService {
       skip: Math.floor(Math.random() * count),
       select: { slug: true },
     });
+  }
+
+  /**
+   * A handful of other works by the same author, with their opening lines.
+   * The pick is stable per work (so the page caches well) but differs between works.
+   */
+  async moreByAuthor(slug: string, locale = 'az', take = 4) {
+    const work = await this.prisma.work.findFirst({
+      where: { slug, status: 'PUBLISHED' },
+      select: { id: true, authorId: true },
+    });
+    if (!work) throw new NotFoundException('Work not found');
+
+    const where: Prisma.WorkWhereInput = { authorId: work.authorId, status: 'PUBLISHED', id: { not: work.id } };
+    const count = await this.prisma.work.count({ where });
+    const works = await this.prisma.work.findMany({
+      where,
+      orderBy: { id: 'asc' },
+      skip: count > take ? hash(slug) % (count - take + 1) : 0,
+      take,
+      select: {
+        slug: true,
+        titleAz: true,
+        titleRu: true,
+        titleEn: true,
+        genre: true,
+        form: true,
+        year: true,
+        ...INCIPIT_SOURCE(UI_LANGUAGE[locale] ?? 'AZ_LATIN'),
+      },
+    });
+    return works.map(withIncipit);
   }
 
   /** Poem of the day: the same for everyone until midnight in Baku */

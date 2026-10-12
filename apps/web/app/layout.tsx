@@ -1,4 +1,5 @@
 import '@/styles/globals.css';
+import '@/styles/skin-clean.css';
 import { Metadata } from "next";
 import { ReactNode } from "react";
 import { getLocale } from 'next-intl/server';
@@ -34,7 +35,7 @@ export default async function RootLayout({
       <body suppressHydrationWarning>
         <script
           dangerouslySetInnerHTML={{
-            __html: `(function(){try{var t=localStorage.getItem('theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');document.documentElement.setAttribute('data-theme',t)}catch(e){}})()`,
+            __html: `(function(){try{var t=localStorage.getItem('theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');var d=document.documentElement;d.setAttribute('data-theme',t);var s=localStorage.getItem('skin');if(s==='clean')d.setAttribute('data-skin',s)}catch(e){}})()`,
           }}
         />
         {children}

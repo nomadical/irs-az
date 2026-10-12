@@ -62,6 +62,12 @@ export class WorksController {
   }
 
   @Public()
+  @Get(':slug/more')
+  moreByAuthor(@Param('slug') slug: string, @Query('locale') locale?: string) {
+    return this.works.moreByAuthor(slug, locale);
+  }
+
+  @Public()
   @Get(':slug/nav')
   getNav(@Param('slug') slug: string) {
     return this.works.getNav(slug);
