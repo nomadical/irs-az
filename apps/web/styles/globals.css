@@ -1336,19 +1336,64 @@ blockquote {
 [data-theme='dark'] .badge--rejected { background: #450A0A; color: #FCA5A5; }
 [data-theme='dark'] .badge--info     { background: #1E3A5F; color: #93C5FD; }
 
-/* ── Footer ──────────────────────────────────────────────────── */
+/* ── Footer: the imprint line ───────────────────────────────── */
+/* The masthead again at the left, the paper's motto, the links set like the nav */
 .footer {
-  padding:       2rem 1.5rem 1.5rem;
-  border-top:    4px double var(--pomeg);
-  text-align:    center;
-  margin-top:    2rem;
+  padding:    1.1rem 1.5rem;
+  border-top: 4px double var(--pomeg);
+  margin-top: 2rem;
 }
-.footer .ornament + .footer-text { margin-top: 1rem; }
+.footer-inner {
+  display:               grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items:           baseline;
+  gap:                   0.5rem 2rem;
+}
+.footer-mark {
+  font-family:    var(--font-serif);
+  font-size:      1.4rem;
+  font-weight:    700;
+  line-height:    1;
+  letter-spacing: -0.03em;
+  color:          var(--pomeg);
+}
+.footer-mark em { font-style: normal; font-size: 0.95rem; color: var(--ink); }
+.footer-mark .logo-orn { font-size: 0.6rem; margin: 0 1px; opacity: 0.8; }
 .footer-text {
-  font-family:   var(--font-ui);
-  font-size:     0.75rem;
-  color:         var(--muted);
-  letter-spacing: 0.04em;
+  margin:      0;
+  font-family: var(--font-body);
+  font-style:  italic;
+  font-size:   0.9rem;
+  line-height: 1.5;
+  color:       var(--muted);
+  text-wrap:   balance;
+}
+.footer-links {
+  display:        flex;
+  align-items:    baseline;
+  font-family:    var(--font-ui);
+  font-size:      0.75rem;
+  font-weight:    500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  white-space:    nowrap;
+}
+.footer-links a { color: var(--muted); transition: color 0.15s; }
+.footer-links a:hover,
+.footer-links a:focus-visible { color: var(--pomeg); }
+.footer-links a + a::before {
+  content:        '◆';
+  content:        '◆' / '';
+  display:        inline-block;
+  margin:         0 0.9rem;
+  font-size:      0.45rem;
+  vertical-align: 0.2em;
+  color:          var(--pomeg);
+}
+/* Narrow screens: the three stack and centre */
+@media (max-width: 900px) {
+  .footer-inner { grid-template-columns: 1fr; justify-items: center; text-align: center; gap: 0.4rem; }
+  .footer-links { white-space: normal; flex-wrap: wrap; justify-content: center; }
 }
 
 /* ── Homepage newspaper layout ──────────────────────────────── */
@@ -1571,22 +1616,10 @@ blockquote {
 .home-grid > .catalog,
 .home-grid > .works-strip { grid-column: 1 / -1; }
 
-/* Wide screens: the footer folds into one line */
+/* Wide screens: the homepage runs straight into the footer */
 @media (min-width: 1100px) {
   .home { padding-bottom: 0; }
-  .footer { margin-top: 0; padding: 0.9rem 1.5rem; }
-  .footer .container {
-    display:         flex;
-    justify-content: center;
-    align-items:     baseline;
-    flex-wrap:       wrap;
-    gap:             0.4rem 1.25rem;
-  }
-  .footer .ornament { display: none; }
-  .footer .ornament + .footer-text { margin-top: 0; }
-  .footer-text, .footer-links { margin: 0; line-height: 1.5; }
-  .footer-links { align-items: baseline; }
-  .footer-links::before { content: '◆'; content: '◆' / ''; font-size: 0.5rem; color: var(--pomeg); }
+  body:has(.home) .footer { margin-top: 0; }
 }
 
 /* Tall screens keep the original layout, a little tighter, so it ends above the fold */
@@ -1721,7 +1754,7 @@ blockquote {
   .home-sidebar-orn { display: none; }
   .home-sidebar .pill { padding-top: 0.1rem; padding-bottom: 0.1rem; }
   .home-sidebar-section + .home-sidebar-section { margin-top: 0.25rem; }
-  .footer { padding: 0.6rem 1.5rem; }
+  body:has(.home) .footer { padding: 0.6rem 1.5rem; }
 }
 
 /* Very short screens (1366×768 laptops, ~650px tall): two lines of bio, three recent poets */
@@ -1741,7 +1774,7 @@ blockquote {
   .works-strip-type { display: none; }
   .home-sidebar .recent-item:nth-of-type(n + 4) { display: none; }
   .home-sidebar { padding-bottom: 0.5rem; }
-  .footer { padding: 0.5rem 1.5rem; }
+  body:has(.home) .footer { padding: 0.5rem 1.5rem; }
 }
 
 /* ── Author page header grid ───────────────────────────────── */
@@ -2028,16 +2061,6 @@ blockquote {
   margin:      0 0 1.5rem;
 }
 .work-suggest a { color: var(--pomeg); }
-.footer-links {
-  display:         flex;
-  justify-content: center;
-  flex-wrap:       wrap;
-  gap:             0.4rem 1.25rem;
-  font-family:     var(--font-ui);
-  font-size:       0.7rem;
-  margin-top:      0.5rem;
-}
-.footer-links a { color: var(--pomeg); }
 
 /* ── Text pages (About, Contact) — copy from content/pages/*.md ─ */
 .page-prose {

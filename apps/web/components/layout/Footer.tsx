@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { useTranslations } from 'next-intl';
 
+/** The imprint line: the masthead again, what the site is, and where to write */
 export function Footer() {
   const t = useTranslations('site');
   const nav = useTranslations('nav');
@@ -11,11 +12,11 @@ export function Footer() {
 
   return (
     <footer className="footer">
-      <div className="container">
-        <div className="ornament ornament--small" />
-        <p className="footer-text">
-          {t('name')} — {t('description')}
-        </p>
+      <div className="container footer-inner">
+        <Link href={`/${locale}`} className="footer-mark">
+          IRS<span className="logo-orn" aria-hidden="true">◆</span><em>AZ</em>
+        </Link>
+        <p className="footer-text">{t('description')}</p>
         <nav className="footer-links" aria-label={t('name')}>
           <Link href={`/${locale}/about`}>{nav('about')}</Link>
           <Link href={`/${locale}/contribute`}>{nav('contribute')}</Link>
