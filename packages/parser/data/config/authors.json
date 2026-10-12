@@ -1353,5 +1353,23 @@
       "az": "Aşıq Abbas Tufarqanlı"
     },
     "collections": []
+  },
+  {
+    "slug": "xeste-qasim",
+    "nameAz": "Xəstə Qasım",
+    "nameRu": "Хесте Касум",
+    "nameEn": "Khasta Qasim",
+    "type": "POET",
+    "period": "XVIII əsr",
+    "writingLangs": ["AZ_ARABIC"],
+    "wikipedia": {
+      "az": "Xəstə Qasım",
+      "ru": "Хесте Касум",
+      "en": "Khasta Qasim"
+    },
+    "wikisource": {
+      "az": "Xəstə Qasım"
+    },
+    "collections": []
   }
 ]
