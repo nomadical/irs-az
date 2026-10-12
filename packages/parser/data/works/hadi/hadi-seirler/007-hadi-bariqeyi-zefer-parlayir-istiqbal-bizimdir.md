@@ -79,7 +79,7 @@ Odur Təbriz elində parlayır şəmşiri-hürriyyət.
 Yazıq, çox püflədin sən, püflədikcə oldu pərtövza,
 Dirəxti-zəhməti-sə’yin səmərbəxş olmadı heyfa,
 Bu sə'yi-bisəmərdan bir səmər qaldı sənə, “şaha":
-O da bir nifrəti-millətdi qaldı "kaffətən tərта",
+O da bir nifrəti-millətdi qaldı "kaffətən tərra",
 Budur məhsulu ərzi-fitrətin, əkl et, sitəmkara!
 Hücumavər bu gün rubəhlərə bir şiri-hürriyyət,
 Odur Təbriz elində parlayır şəmşiri-hürriyyət.

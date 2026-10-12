@@ -229,7 +229,7 @@ Könül pərisinin qanadlandır.
 Açsaq qapı-qapı xəzinəmizi —
 Onun dövlətidir, onun varıdır.
 
-Siz су, ürək ile alver edənlər,
+Siz, ey ürək ilə alver edənlər,
 Tarix tüpürəcək sifətinizə!
 Ey bütün ömründə rəqəm güdənlər,
 Elin haqqı-sayı haramdır sizə!
