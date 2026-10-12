@@ -1337,7 +1337,7 @@ blockquote {
 [data-theme='dark'] .badge--info     { background: #1E3A5F; color: #93C5FD; }
 
 /* ── Footer: the imprint line ───────────────────────────────── */
-/* The masthead again at the left, the paper's motto, the links set like the nav */
+/* The paper's motto, then the links set like the nav; the masthead above is enough */
 .footer {
   padding:    1.1rem 1.5rem;
   border-top: 4px double var(--pomeg);
@@ -1345,20 +1345,12 @@ blockquote {
 }
 .footer-inner {
   display:               grid;
-  grid-template-columns: auto minmax(0, 1fr) auto;
+  grid-template-columns: minmax(0, 1fr) auto;
   align-items:           baseline;
   gap:                   0.5rem 2rem;
 }
-.footer-mark {
-  font-family:    var(--font-serif);
-  font-size:      1.4rem;
-  font-weight:    700;
-  line-height:    1;
-  letter-spacing: -0.03em;
-  color:          var(--pomeg);
-}
-.footer-mark em { font-style: normal; font-size: 0.95rem; color: var(--ink); }
-.footer-mark .logo-orn { font-size: 0.6rem; margin: 0 1px; opacity: 0.8; }
+/* Only Clean repeats its wordmark here; the Gazette's masthead stands alone */
+.footer-mark { display: none; }
 .footer-text {
   margin:      0;
   font-family: var(--font-body);
