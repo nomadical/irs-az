@@ -24,7 +24,7 @@ export interface SplitConfig {
   translatorNote?: string;
   workSlugBase: string;
   /** The translation's language (EN unless stated) */
-  language?: 'EN' | 'RU';
+  language?: 'EN' | 'RU' | 'AZ_LATIN';
   /** Letter height (scan pixels) below which a line is a footnote */
   noteHeight: number;
   /** The poem's first and last lines, as printed */
@@ -47,8 +47,42 @@ export interface SplitConfig {
   prose?: { left: number; right: number };
   /** Opening lines of the translator's three-line rhymes, kept together among the couplets */
   triplets?: string[];
+  /**
+   * Read the plain OCR text (`_djvu.txt`) instead of word positions, for items whose `_djvu.xml` isn't
+   * DjVu's own: no geometry, so no prose or footnote detection; pages are counted by the page numbers
+   * printed on lines of their own
+   */
+  plainText?: boolean;
+  /** Known OCR habits of the scan to undo before corrections: "az" for Azerbaijani Latin text (see azOcr) */
+  ocr?: 'az';
   /** Every page checked against the scan: the works go out published */
   proofread?: boolean;
+}
+
+/** Cyrillic letters the OCR reads for Latin ones in Azerbaijani text, where real Cyrillic never occurs */
+const AZ_CYRILLIC: Record<string, string> = {
+  а: 'a', в: 'v', г: 'r', е: 'e', з: 'z', и: 'u', к: 'k', м: 'm', н: 'h', о: 'o', п: 'n', р: 'p', с: 'c', т: 'm',
+  у: 'y', х: 'x', ь: 'b', ш: 'ş', ч: 'ç', ә: 'ə', һ: 'h', і: 'i', ј: 'j', ү: 'ü', ө: 'ö', ғ: 'ğ',
+  А: 'A', В: 'B', Е: 'E', З: 'Z', К: 'K', М: 'M', Н: 'H', О: 'O', Р: 'P', С: 'C', Т: 'T', У: 'Y', Х: 'X', Ә: 'Ə',
+  Һ: 'H', І: 'I', Ј: 'J', Ү: 'Ü', Ө: 'Ö', Ғ: 'Ğ',
+};
+const azLower = (c: string) => (c === 'I' ? 'ı' : c === 'İ' ? 'i' : c.toLowerCase());
+/** Letters that are words on their own in Azerbaijani ("O", the interjection "A", "Ə") */
+const AZ_ONE_LETTER = 'OAƏEİIU';
+
+/**
+ * Azerbaijani OCR slips: Cyrillic look-alikes ("каш" → "kaş"), capitals inside a lowercase word
+ * ("sÜKunət" → "sükunət", "edərəK" → "edərək"), and a capital split off its word ("Y aranmış")
+ */
+export function azOcr(text: string): string {
+  return text
+    .replace(/[Ѐ-ӿ]/g, (c) => AZ_CYRILLIC[c] ?? c)
+    .replace(new RegExp(`(^|[^\\p{L}])([A-ZÇƏĞÖŞÜ]) (?=[a-zçəğıöşü]{2,})`, 'gu'), (m, pre, cap) =>
+      AZ_ONE_LETTER.includes(cap) ? m : pre + cap,
+    )
+    .replace(/\p{L}+/gu, (word) =>
+      /\p{Ll}/u.test(word) ? word[0] + [...word.slice(1)].map((c) => (/\p{Lu}/u.test(c) ? azLower(c) : c)).join('') : word,
+    );
 }
 
 /** Where an editor's prose summary stood between verse passages */
@@ -66,6 +100,26 @@ export function loadSplitConfig(id: string): SplitConfig {
   return JSON.parse(fs.readFileSync(path.join(CONFIG_DIR, `${id}.json`), 'utf-8'));
 }
 
+/** Lines of a plain OCR text, on the page whose number closes them (a page number is its own line) */
+function plainLines(text: string): Line[] {
+  const raw = text.split('\n');
+  const out: Line[] = [];
+  let page = 0;
+  // A line belongs to the page whose number comes next
+  const numbers = raw.map((l) => (/^\s*\d{1,3}\s*$/.test(l) ? Number(l) : null));
+  let next = numbers.length;
+  const pageOf: number[] = [];
+  for (let i = raw.length - 1; i >= 0; i--) {
+    if (numbers[i] !== null) next = numbers[i]!;
+    pageOf[i] = next;
+  }
+  raw.forEach((t, i) => {
+    page = pageOf[i];
+    out.push({ text: t, page, x: 0, right: 0, height: 0 } as Line);
+  });
+  return out;
+}
+
 /** The poem's verse lines in order, footnotes and page furniture gone, wrapped lines rejoined */
 export async function poemLines(cfg: SplitConfig, opts: { sections?: boolean } = {}): Promise<string[]> {
   return (await poemPageLines(cfg, opts)).map((l) => l.text);
@@ -74,9 +128,12 @@ export async function poemLines(cfg: SplitConfig, opts: { sections?: boolean } =
 /** The poem's lines with the scan page each comes from (0-based), for proofreading */
 export async function poemPageLines(cfg: SplitConfig, opts: { sections?: boolean } = {}): Promise<{ page: number; text: string }[]> {
   const meta = await cachedGetJson<{ result: { name: string }[] }>(`https://archive.org/metadata/${cfg.archiveId}/files`);
-  const xmlName = meta.result.find((f) => f.name.endsWith('_djvu.xml'))?.name;
-  if (!xmlName) throw new Error(`No OCR word positions in ${cfg.archiveId}`);
-  const lines = bookLines(await cachedGet(`https://archive.org/download/${cfg.archiveId}/${encodeURIComponent(xmlName)}`));
+  const file = (suffix: string) => {
+    const name = meta.result.find((f) => f.name.endsWith(suffix))?.name;
+    if (!name) throw new Error(`No ${suffix} in ${cfg.archiveId}`);
+    return cachedGet(`https://archive.org/download/${cfg.archiveId}/${encodeURIComponent(name)}`);
+  };
+  const lines: Line[] = cfg.plainText ? plainLines(await file('_djvu.txt')) : bookLines(await file('_djvu.xml'));
 
   const norm = (s: string) => s.replace(/\s+/g, ' ').trim();
   const start = lines.findIndex((l) => norm(l.text).startsWith(cfg.first));
@@ -117,7 +174,7 @@ export async function poemPageLines(cfg: SplitConfig, opts: { sections?: boolean
     // A word or two in lowercase: set right of the margin, the end of the verse line above;
     // left of it, the last words of a footnote
     const margin = margins.get(l.page) ?? l.x;
-    if (/^[a-zа-яё]/.test(text) && text.split(' ').length <= 3) {
+    if (!cfg.plainText && /^[a-zа-яё]/.test(text) && text.split(' ').length <= 3) {
       if (out.length && l.x > margin + 60) out[out.length - 1].text += ` ${text}`;
       continue;
     }
@@ -125,7 +182,13 @@ export async function poemPageLines(cfg: SplitConfig, opts: { sections?: boolean
     afterBreak = false;
   }
   // Superscript footnote markers read as digits or stray letters after a word: "Saki,1", "veil l o'er"
-  return out.map((l) => ({ page: l.page, text: l.text.replace(/([A-Za-z,;:.!?'’])\d\b/g, '$1').replace(/\s+([,;:.!?])/g, '$1').trim() }));
+  return out.map((l) => {
+    let text = l.text.replace(/([A-Za-z,;:.!?'’])\d\b/g, '$1');
+    // Endnote numbers set loose in the line ("qıfıla sarı 151 ,"): verse has no numerals in figures
+    if (cfg.plainText) text = text.replace(/(\p{L}[,.;:!?»"”]?)\s*\d{1,3}(?=\s|[,.;:!?»"”]|$)/gu, '$1');
+    text = text.replace(/\s+([,;:.!?])/g, '$1').trim();
+    return { page: l.page, text: cfg.ocr === 'az' ? azOcr(text) : text };
+  });
 }
 
 export async function planSplit(cfg: SplitConfig): Promise<{ translations: SplitTranslation[]; unusedCorrections: string[] }> {
