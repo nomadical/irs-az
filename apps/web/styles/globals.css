@@ -767,9 +767,8 @@ blockquote {
   height:          0;
   margin-bottom:   0;
   position:        relative;
-  top:             -2.95rem;
+  top:             -1.8rem;   /* centres "Aa" on the ornament's diamonds */
 }
-.reading-toolbar--solo + .reading-column { margin-top: 0.5rem; }
 @media (min-width: 60rem) {
   .reading-toolbar--solo:has(+ .is-poem:is(:lang(fa), :lang(ar), :lang(az-Arab))) { max-width: 48rem; }
 }
@@ -785,6 +784,15 @@ blockquote {
 .lang-tabs--versions .lang-tab { font-style: italic; }
 .reading-toolbar + .reading-column,
 .reading-toolbar + .parallel { margin-top: 2rem; }
+/* On a phone the ornament fills the line, so a lone "Aa" takes a short row under it */
+@media (max-width: 40rem) {
+  .reading-toolbar--solo {
+    height:        auto;
+    top:           0;
+    margin-bottom: 0;
+  }
+  .reading-toolbar--solo + .reading-column { margin-top: 0.75rem; }
+}
 
 .reading-select {
   display:     inline-flex;

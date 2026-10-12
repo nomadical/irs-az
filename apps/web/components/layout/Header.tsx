@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { useRef } from 'react';
+import { useEffect, useRef } from 'react';
 import { useTranslations } from 'next-intl';
 import { useParams, usePathname } from 'next/navigation';
 import { authorsPath } from '@/lib/facets';
@@ -34,9 +34,19 @@ function NavLinks({ links, pathname }: { links: NavLink[]; pathname: string }) {
   const t = useTranslations('nav');
   // A section is current on its own page and below it (/authors/sairler/esr-12 is still Poets)
   const isActive = (href: string) => pathname === href || pathname.startsWith(`${href}/`);
+  const navRef = useRef<HTMLElement>(null);
+
+  // On a phone the nav is a strip that scrolls sideways: bring the current section into
+  // view so it is never cut at the edge. scrollLeft only, so the page itself stays put.
+  useEffect(() => {
+    const nav = navRef.current;
+    const current = nav?.querySelector<HTMLElement>('a[aria-current="page"]');
+    if (!nav || !current || nav.scrollWidth <= nav.clientWidth) return;
+    nav.scrollLeft = current.offsetLeft - nav.offsetLeft - (nav.clientWidth - current.offsetWidth) / 2;
+  }, [pathname]);
 
   return (
-    <nav className="site-nav" aria-label={t('menu_label')}>
+    <nav className="site-nav" aria-label={t('menu_label')} ref={navRef}>
       {links.map((link) => (
         <Link
           key={link.href}

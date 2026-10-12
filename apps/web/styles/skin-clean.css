@@ -100,6 +100,8 @@
 
 /* Ornaments and double rules belong to the gazette */
 [data-skin='clean'] .ornament { color: transparent; }
+/* The reading page's ornament is only a gap here: drop it, so the text sits under its title */
+[data-skin='clean'] .work-header + .ornament { display: none; }
 [data-skin='clean'] .home-sidebar-orn { display: none; }
 [data-skin='clean'] .rule { border-top-width: 1px; }
 [data-skin='clean'] .rule--double { border-top: 1px solid var(--rule); }
@@ -704,8 +706,9 @@
 [data-skin='clean'] .reading-toolbar--solo {
   height:        auto;
   top:           0;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0;
 }
+[data-skin='clean'] .reading-toolbar--solo + .reading-column { margin-top: 0.75rem; }
 
 /* ── Share ──────────────────────────────────────────────────── */
 [data-skin='clean'] .share-label { letter-spacing: 0.04em; font-weight: 700; }

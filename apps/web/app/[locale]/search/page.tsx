@@ -53,7 +53,7 @@ function Search() {
 
   return (
     <div className="container page-content">
-      <header className="page-header" style={{ paddingBottom: '1rem' }}>
+      <header className="page-header" style={{ padding: '1.75rem 0 1rem' }}>
         <h1>{t('nav.search')}</h1>
       </header>
 
