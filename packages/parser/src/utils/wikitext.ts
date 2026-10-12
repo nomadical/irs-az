@@ -13,10 +13,11 @@ export function wikitextToMarkdown(wikitext: string): string {
   // Remove categories [[Kateqoriya:...]] / [[Категория:...]] / [[Category:...]]
   text = text.replace(/\[\[(Kateqoriya|Категория|Category|Təsnifat):[^\]]+\]\]?/gi, '');
 
-  // Remove templates {{...}} — simple non-nested
-  text = text.replace(/\{\{[^{}]*\}\}/g, '');
-  // Second pass for one level of nesting
-  text = text.replace(/\{\{[^{}]*\}\}/g, '');
+  // Remove templates {{...}}, innermost first, however deep they nest (infoboxes do)
+  for (let prev = ''; prev !== text; ) {
+    prev = text;
+    text = text.replace(/\{\{[^{}]*\}\}/g, '');
+  }
 
   // Handle <poem> tags — preserve content with line breaks
   text = text.replace(/<poem>([\s\S]*?)<\/poem>/gi, (_, content: string) => {
@@ -29,6 +30,11 @@ export function wikitextToMarkdown(wikitext: string): string {
 
   // Remove remaining HTML tags (but keep content)
   text = text.replace(/<\/?[a-z][^>]*>/gi, '');
+
+  // Lists before bold: a line opening in bold ("**Name** — …") would read as a nested list
+  text = text.replace(/^\*\*\*/gm, '      -');
+  text = text.replace(/^\*\*/gm, '    -');
+  text = text.replace(/^\*/gm, '-');
 
   // Convert bold: '''text''' → **text**
   text = text.replace(/'''([^']+)'''/g, '**$1**');
@@ -54,10 +60,11 @@ export function wikitextToMarkdown(wikitext: string): string {
   text = text.replace(/^={3}\s*(.+?)\s*={3}/gm, '### $1');
   text = text.replace(/^={2}\s*(.+?)\s*={2}/gm, '## $1');
 
-  // Convert lists
-  text = text.replace(/^\*\*\*/gm, '      -');
-  text = text.replace(/^\*\*/gm, '    -');
-  text = text.replace(/^\*/gm, '-');
+  // What deleted templates leave behind: "(tam adı: X; )", "(; полное имя", "X; , Шеки", "()"
+  text = text.replace(/[;,]\s*\)/g, ')');
+  text = text.replace(/\(\s*[;,]\s*/g, '(');
+  text = text.replace(/[;,][ \t]*(?=[;,])/g, '');
+  text = text.replace(/\s*\(\s*\)/g, '');
 
   text = stripApparatus(text);
 
@@ -141,8 +148,8 @@ export function extractLeadParagraphs(wikitext: string, count = 2): string {
   // Strip infobox templates at the start
   text = text.replace(/^\s*\{\{(?:Infobox|Məlumat qutusu|Карточка)[\s\S]*?\}\}\s*/i, '');
 
-  // Strip images
-  text = text.replace(/\[\[(?:Şəkil|Файл|File|Image):[^\]]+\]\]/gi, '');
+  // Strip images, links in their captions included
+  text = text.replace(/\[\[(?:Şəkil|Fayl|Файл|File|Image):(?:[^[\]]|\[\[[^\]]*\]\])*\]\]/gi, '');
 
   // Convert to markdown
   text = wikitextToMarkdown(text);
