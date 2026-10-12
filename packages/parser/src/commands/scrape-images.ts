@@ -3,6 +3,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import type { AuthorConfig } from '../types';
 import { planMetArtworks } from '../scrapers/met';
+import { planWaltersArtworks } from '../scrapers/walters';
 import { writeArtworkMd } from '../writers/md-writer';
 
 const DATA_DIR = path.resolve(__dirname, '../../data');
@@ -12,7 +13,7 @@ function loadAuthors(): AuthorConfig[] {
   return JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf-8'));
 }
 
-type Source = 'met';
+type Source = 'met' | 'walters';
 
 async function scrapeMet(cfg: AuthorConfig, dryRun: boolean) {
   if (!cfg.met) {
@@ -53,15 +54,47 @@ async function scrapeMet(cfg: AuthorConfig, dryRun: boolean) {
   console.log(`  Wrote ${artworks.length} artworks`);
 }
 
+async function scrapeWalters(cfg: AuthorConfig, dryRun: boolean) {
+  if (!cfg.walters) {
+    console.warn(`  No walters config for ${cfg.slug}`);
+    return;
+  }
+  const { artworks, skipped } = await planWaltersArtworks(cfg);
+  const byCollection = new Map<string, number>();
+  for (const a of artworks) byCollection.set(a.collectionSlug ?? '(author only)', (byCollection.get(a.collectionSlug ?? '(author only)') ?? 0) + 1);
+  console.log(`  ${artworks.length} miniatures from ${cfg.walters.manuscripts.length} manuscripts (${skipped} skipped: other poets' works or no page image)`);
+  for (const [coll, n] of byCollection) console.log(`    ${coll}: ${n}`);
+  console.log(`  Licence: ${[...new Set(artworks.map((a) => a.license))].join(', ')}`);
+  if (dryRun) {
+    for (const a of artworks.slice(0, 8)) console.log(`    ${a.sourceId}  ${a.objectDate ?? ''}  ${a.title.slice(0, 80)}`);
+    return;
+  }
+
+  const dir = path.join(DATA_DIR, 'artworks', cfg.slug);
+  if (fs.existsSync(dir)) {
+    for (const f of fs.readdirSync(dir)) if (f.startsWith('walters-')) fs.unlinkSync(path.join(dir, f));
+  }
+  artworks.forEach((a, i) =>
+    writeArtworkMd({
+      ...a,
+      authorSlug: cfg.slug,
+      museum: 'The Walters Art Museum',
+      order: i + 1,
+      status: 'DRAFT',
+    }),
+  );
+  console.log(`  Wrote ${artworks.length} artworks`);
+}
+
 export const scrapeImagesCommand = new Command('scrape-images')
   .description('Collect public-domain artworks for authors from museum open-access APIs')
-  .requiredOption('--source <source>', 'Source to scrape: met')
+  .requiredOption('--source <source>', 'Source to scrape: met, walters')
   .option('--author <slug>', 'Only scrape artworks for a specific author')
   .option('--dry-run', 'Print what would be written without writing files')
   .action(async (opts: { source: Source; author?: string; dryRun?: boolean }) => {
-    const authors = loadAuthors().filter((a) => (opts.author ? a.slug === opts.author : a.met));
+    const authors = loadAuthors().filter((a) => (opts.author ? a.slug === opts.author : a[opts.source]));
     if (authors.length === 0) {
-      console.error(`No authors matched${opts.author ? ` slug "${opts.author}"` : ' with a met config'}`);
+      console.error(`No authors matched${opts.author ? ` slug "${opts.author}"` : ` with a ${opts.source} config`}`);
       process.exit(1);
     }
 
@@ -70,6 +103,9 @@ export const scrapeImagesCommand = new Command('scrape-images')
       switch (opts.source) {
         case 'met':
           await scrapeMet(cfg, !!opts.dryRun);
+          break;
+        case 'walters':
+          await scrapeWalters(cfg, !!opts.dryRun);
           break;
         default:
           console.error(`Unknown source: ${opts.source}`);

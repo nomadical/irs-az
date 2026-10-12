@@ -220,6 +220,10 @@ export interface AuthorConfig {
     queries: string[]; // searches that gather candidates; the credit decides what is kept
     collections?: { match: string; collection: string }[]; // title regex → collection slug
   };
+  walters?: {
+    manuscripts: string[]; // Digital Walters ids, e.g. "W610"
+    poems: { match: string; collection: string }[]; // poem name (diacritics off) → collection slug; "" = author only
+  };
   ganjoor?: {
     poetUrl?: string; // e.g. "https://ganjoor.net/fuzuli"
     poetId?: number; // Ganjoor poet ID for API calls

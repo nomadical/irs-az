@@ -66,7 +66,7 @@ export default async function CollectionPage({ params }: Props) {
         {locale === 'ru' ? 'произв.' : locale === 'en' ? 'works' : 'əsər'}
       </p>
 
-      <ArtworkGallery artworks={collection.artworks ?? []} locale={locale} />
+      <ArtworkGallery artworks={collection.artworks ?? []} locale={locale} initial={6} />
 
       <div className="ornament" />
 

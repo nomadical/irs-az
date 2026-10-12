@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import matter from 'gray-matter';
-import { getDb, newStatus, statusUpdate } from './db';
+import { getDb } from './db';
 import { renderMarkdown } from '../utils/markdown';
 import type { AuthorFrontmatter } from '../types';
 
@@ -73,7 +73,7 @@ export async function importAuthors(opts: {
         writingLangs: fm.writingLangs ?? [],
         bioAz: bioAz || null,
         bioRu: fm.bioRu ?? null,
-        status: newStatus(opts, fm.status),
+        status: opts.publish ? 'PUBLISHED' : (fm.status ?? 'DRAFT'),
       },
       update: {
         nameAz: fm.nameAz,
@@ -91,7 +91,7 @@ export async function importAuthors(opts: {
         writingLangs: fm.writingLangs ?? [],
         bioAz: bioAz || null,
         bioRu: fm.bioRu ?? null,
-        ...statusUpdate(opts),
+        status: opts.publish ? 'PUBLISHED' : (fm.status ?? 'DRAFT'),
       },
     });
 

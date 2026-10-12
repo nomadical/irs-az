@@ -43,6 +43,9 @@ const nextConfig: NextConfig = {
         protocol: 'https',
         hostname: '*.r2.cloudflarestorage.com',
       },
+      // Museum images in the artwork galleries, resized here instead of loaded at full size
+      { protocol: 'https', hostname: 'images.metmuseum.org', pathname: '/CRDImages/**' },
+      { protocol: 'https', hostname: 'thedigitalwalters.org', pathname: '/Data/WaltersManuscripts/**' },
     ],
   },
 };

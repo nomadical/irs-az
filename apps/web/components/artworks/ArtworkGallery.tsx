@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useRef, useState } from 'react';
+import Image from 'next/image';
 import Link from 'next/link';
 import { useTranslations } from 'next-intl';
 import { localized } from '@/lib/locale';
@@ -27,6 +28,12 @@ interface Props {
   showCollection?: boolean;
   /** Show this many until the reader asks for all */
   initial?: number;
+}
+
+/** "CC BY-NC-SA 3.0" → its deed on creativecommons.org; null for CC0 and anything else */
+function licenceUrl(licence: string): string | null {
+  const m = licence.match(/^CC (BY(?:-(?:NC|SA|ND))*) (\d\.\d)$/);
+  return m ? `https://creativecommons.org/licenses/${m[1].toLowerCase()}/${m[2]}/` : null;
 }
 
 /** Strip the catalogue's quotes: "Laila and Majnun at School", Folio … → Laila and Majnun at School, Folio … */
@@ -85,7 +92,10 @@ export function ArtworkGallery({ artworks, locale, showCollection = false, initi
                 onClick={() => setCurrent(i)}
                 aria-label={t('open', { title: plainTitle(a.title) })}
               >
-                <img src={a.imageSmallUrl ?? a.imageUrl} alt="" loading="lazy" decoding="async" />
+                <span className="gallery-thumb-frame">
+                  {/* Resized by Next.js: museum originals run to a megabyte or more */}
+                  <Image src={a.imageSmallUrl ?? a.imageUrl} alt="" fill sizes="(min-width: 40rem) 12rem, 45vw" />
+                </span>
               </button>
               <figcaption className="gallery-caption">
                 <span className="gallery-title" lang="en">
@@ -127,7 +137,13 @@ export function ArtworkGallery({ artworks, locale, showCollection = false, initi
         {active && (
           <div className="lightbox-body">
             <div className="lightbox-image">
-              <img src={active.imageSmallUrl ?? active.imageUrl} alt="" />
+              <Image
+                src={active.imageSmallUrl ?? active.imageUrl}
+                alt=""
+                width={1200}
+                height={1500}
+                sizes="(min-width: 60rem) 48rem, 100vw"
+              />
             </div>
 
             <div className="lightbox-info">
@@ -169,7 +185,16 @@ export function ArtworkGallery({ artworks, locale, showCollection = false, initi
                 </a>
               </p>
               <p className="lightbox-license">
-                {active.license === 'CC0' ? t('public_domain') : active.license}
+                {active.license === 'CC0' ? (
+                  t('public_domain')
+                ) : licenceUrl(active.license) ? (
+                  // Attribution licences ask for the licence to be indicated: link its deed
+                  <a href={licenceUrl(active.license)!} target="_blank" rel="noopener license">
+                    {active.license} ↗
+                  </a>
+                ) : (
+                  active.license
+                )}
               </p>
             </div>
           </div>

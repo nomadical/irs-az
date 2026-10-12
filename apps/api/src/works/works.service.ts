@@ -1,7 +1,6 @@
 import { Injectable, NotFoundException } from '@nestjs/common';
 import { Language, Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
-import { SearchService } from '../search/search.service';
 import { CreateWorkDto } from './dto/create-work.dto';
 import { QueryWorksDto } from './dto/query-works.dto';
 import { safeWorkBase, slugify, uniqueSlug } from '../common/utils/slug';
@@ -74,10 +73,7 @@ function withIncipit<T extends { body: string; originalLang: Language; translati
 
 @Injectable()
 export class WorksService {
-  constructor(
-    private prisma: PrismaService,
-    private search: SearchService,
-  ) {}
+  constructor(private prisma: PrismaService) {}
 
   private daily: { date: string; work: unknown } | null = null;
 
@@ -468,11 +464,9 @@ export class WorksService {
   async create(dto: CreateWorkDto) {
     const slug = await this.newSlug([dto.titleAz, dto.titleRu, dto.titleEn], dto.authorId);
     const bodyHtml = renderMarkdown(dto.body);
-    const work = await this.prisma.work.create({
+    return this.prisma.work.create({
       data: { ...dto, slug, bodyHtml },
     });
-    await this.reindex(work.id);
-    return work;
   }
 
   async update(id: string, dto: Partial<CreateWorkDto>) {
@@ -480,16 +474,7 @@ export class WorksService {
     if (dto.body) {
       data.bodyHtml = renderMarkdown(dto.body);
     }
-    const work = await this.prisma.work.update({ where: { id }, data });
-    await this.reindex(id);
-    return work;
-  }
-
-  /** Search is secondary: an unreachable Meilisearch must not fail a save that already happened. */
-  private async reindex(workId: string) {
-    await this.search.indexWork(workId).catch((err) => {
-      console.warn(`Search reindex failed for work ${workId}: ${err.message}`);
-    });
+    return this.prisma.work.update({ where: { id }, data });
   }
 
   async reorder(id: string, order: number) {

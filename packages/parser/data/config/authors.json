@@ -244,6 +244,39 @@
           "collection": "nizami-xerednama"
         }
       ]
+    },
+    "walters": {
+      "manuscripts": ["W604", "W605", "W607", "W608", "W609", "W610", "W611", "W612", "W657"],
+      "poems": [
+        {
+          "match": "makhzan",
+          "collection": "nizami-mexzenul-esrar"
+        },
+        {
+          "match": "^khusraw va shirin",
+          "collection": "nizami-xosrov-va-sirin"
+        },
+        {
+          "match": "^layla va majnun",
+          "collection": "nizami-leyli-va-macnun"
+        },
+        {
+          "match": "haft paykar",
+          "collection": "nizami-heft-peyker"
+        },
+        {
+          "match": "sharafnamah",
+          "collection": "nizami-serefname"
+        },
+        {
+          "match": "iqbalnamah|khi?r?a?dnamah",
+          "collection": "nizami-xerednama"
+        },
+        {
+          "match": "^iskandarnamah",
+          "collection": ""
+        }
+      ]
     }
   },
   {

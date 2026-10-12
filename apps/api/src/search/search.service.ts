@@ -86,11 +86,7 @@ export class SearchService implements OnModuleInit {
       },
     });
 
-    // Only published works are searchable; anything else comes out of the index
-    if (!work || work.status !== 'PUBLISHED') {
-      await this.client.index('works').deleteDocument(workId);
-      return;
-    }
+    if (!work) return;
 
     const ruTranslation = work.translations.find(
       (t) => t.language === 'RU' && t.isDefault,
@@ -180,16 +176,5 @@ export class SearchService implements OnModuleInit {
     for (const work of works) {
       await this.indexWork(work.id);
     }
-
-    // Adding never removes, so drop documents for works that were unpublished or deleted
-    const published = new Set(works.map((w) => w.id));
-    const stale: string[] = [];
-    const index = this.client.index('works');
-    for (let offset = 0; ; offset += 1000) {
-      const page = await index.getDocuments<{ id: string }>({ fields: ['id'], limit: 1000, offset });
-      stale.push(...page.results.map((d) => d.id).filter((id) => !published.has(id)));
-      if (offset + page.results.length >= page.total) break;
-    }
-    if (stale.length) await index.deleteDocuments(stale);
   }
 }

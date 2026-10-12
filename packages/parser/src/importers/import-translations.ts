@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import matter from 'gray-matter';
-import { findWork, getDb, newStatus, statusUpdate } from './db';
+import { findWork, getDb } from './db';
 import { renderMarkdown } from '../utils/markdown';
 import type { TranslationFrontmatter } from '../types';
 
@@ -84,6 +84,7 @@ export async function importTranslations(opts: {
       year: fm.year ?? null,
       sourceNote: fm.sourceNote ?? null,
       isDefault: fm.isDefault ?? false,
+      status: opts.publish ? ('PUBLISHED' as const) : (fm.status ?? 'DRAFT'),
     };
 
     // A work can have several translations per language; the translator tells them apart
@@ -91,10 +92,10 @@ export async function importTranslations(opts: {
       where: { workId: work.id, language: fm.language, type: fm.type, translator: fm.translator ?? null },
     });
     if (existing) {
-      await db.translation.update({ where: { id: existing.id }, data: { ...data, ...statusUpdate(opts) } });
+      await db.translation.update({ where: { id: existing.id }, data });
     } else {
       await db.translation.create({
-        data: { ...data, workId: work.id, language: fm.language, type: fm.type, status: newStatus(opts, fm.status) },
+        data: { ...data, workId: work.id, language: fm.language, type: fm.type },
       });
     }
 
