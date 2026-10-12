@@ -66,11 +66,20 @@ export function writeWorkMd(data: WorkFrontmatter, body: string) {
   writeMd(filePath, { ...data }, body);
 }
 
+const CYRILLIC: Record<string, string> = {
+  а: 'a', б: 'b', в: 'v', г: 'g', д: 'd', е: 'e', ё: 'yo', ж: 'zh', з: 'z', и: 'i', й: 'y', к: 'k', л: 'l',
+  м: 'm', н: 'n', о: 'o', п: 'p', р: 'r', с: 's', т: 't', у: 'u', ф: 'f', х: 'kh', ц: 'ts', ч: 'ch', ш: 'sh',
+  щ: 'shch', ъ: '', ы: 'y', ь: '', э: 'e', ю: 'yu', я: 'ya',
+};
+/** Russian names in Latin letters, for file names ("Мирза Фатали Ахундов" → "mirza-fatali-akhundov") */
+const transliterate = (text: string) =>
+  [...text].map((c) => { const t = CYRILLIC[c.toLowerCase()]; return t === undefined ? c : t; }).join('');
+
 /** Write translation .md file */
 export function writeTranslationMd(data: TranslationFrontmatter, body: string) {
   const dir = path.join(DATA_DIR, 'translations');
   // Translator in the name, so a work can have several translations into one language
-  const translator = data.translator ? `.${slugify(data.translator)}` : '';
+  const translator = data.translator ? `.${slugify(transliterate(data.translator))}` : '';
   const filePath = path.join(dir, `${data.workSlug}.${data.language}.${data.type}${translator}.md`);
   writeMd(filePath, { ...data }, body);
 }
