@@ -210,7 +210,8 @@ function locateHeadings(paras: string[], cfg: BookConfig): { index: number[]; mi
 
 function applyReplacements(text: string, replacements?: Record<string, string>): string {
   if (!replacements) return text;
-  return text.replace(/[A-Za-z]+/g, (w) => replacements[w] ?? w);
+  // Own keys only: a plain object also "has" constructor, toString …
+  return text.replace(/[A-Za-z]+/g, (w) => (Object.hasOwn(replacements, w) ? replacements[w] : w));
 }
 
 /** Headings layout: each config section's raw couplets (one paragraph each), or the missing headings */

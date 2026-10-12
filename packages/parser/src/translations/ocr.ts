@@ -197,7 +197,7 @@ function fixWord(word: string, vocab: Vocabulary, stats: OcrStats, sentenceStart
     return sameLetter || sentenceStart || /^[A-Z]/.test(c) ? c[0].toUpperCase() + c.slice(1) : c;
   };
   if (word === 'AU') return 'All'; // "AU beings" — U for ll, capitalised
-  if (SHORT[word]) {
+  if (Object.hasOwn(SHORT, word)) {
     stats.fixed++;
     return recase(SHORT[word]);
   }

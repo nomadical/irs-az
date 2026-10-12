@@ -244,7 +244,7 @@ His eyeballs, put in place, she bound (with care), and with humanity she took hi
 
 She used great effort (then) to raise him up, and guiding, led him straight along the way.
 
-XJntn the place wherein lay her abode, the sightless man went on the way with her.
+Until the place wherein lay her abode, the sightless man went on the way with her.
 
 A servant, one of those about the house, — into his hand she gave the (patient’s) hand.
 

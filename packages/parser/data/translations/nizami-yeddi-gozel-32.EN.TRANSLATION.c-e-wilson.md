@@ -16,7 +16,7 @@ The king adorned with ornaments of white, went forth in pride and joy to the Whi
 
 Venus upon the Sign of the Fifth Clime played the five turns in honour of the king.
 
-Untn the Greeks attacked the Ethiop van, the king indulged in pleasure without stint.
+Until the Greeks attacked the Ethiop van, the king indulged in pleasure without stint.
 
 When night with sky-prepared collyrium gave brightness to the eyes of moon and stars.
 
@@ -602,4 +602,4 @@ She, jasmine-bosomed, ending thus her words, the monarch gave her place upon his
 
 Thus many a night in comfort and in joy he went and tarried in the Domes (in turn).
 
-The sky, function Object() { [native code] } of the (lofty) domes, opened the doors of the Seven Domes to him.
+The sky, constructor of the (lofty) domes, opened the doors of the Seven Domes to him.
