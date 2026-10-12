@@ -728,6 +728,17 @@ blockquote {
   color:        var(--bg);
 }
 @media (pointer: coarse) { .unfold-btn { min-height: 2.75rem; } }
+/* Pills and "more" links are small to the eye; on touch screens an invisible margin
+   around each makes it about 44px tall to the finger without changing the layout */
+@media (pointer: coarse) {
+  .pill, .more { position: relative; }
+  .pill::after, .more::after {
+    content:  '';
+    position: absolute;
+    inset:    -0.45rem -0.15rem;
+  }
+  .more::after { inset: -0.65rem -0.25rem; }
+}
 
 /* Provenance: where the text comes from and who translated it */
 .provenance {
@@ -1893,7 +1904,9 @@ blockquote {
   .work-nav { grid-template-columns: 1fr; }
 
   .home-grid {
-    grid-template-columns: 1fr;
+    /* minmax(0, …): a plain 1fr won't shrink below its widest line, which pushed
+       the page 29px past a 320px screen */
+    grid-template-columns: minmax(0, 1fr);
   }
   .home-featured {
     border-right: none;
@@ -1904,6 +1917,8 @@ blockquote {
     padding: 1.25rem 0;
   }
   .works-strip-grid { grid-template-columns: 1fr; }
+  /* Stacked, the columns drop the side padding they had between them */
+  .works-strip-col { padding: 0; }
   .works-strip-col + .works-strip-col {
     border-left: none;
     border-top: 0.5px solid var(--rule);
@@ -1927,6 +1942,8 @@ blockquote {
 }
 
 @media (max-width: 480px) {
+  /* The poet of the week's name scales with the screen, so "Məhəmməd" fits its frame at 320px */
+  .featured-name { font-size: clamp(2rem, 12vw, 3.5rem); line-height: 1.1; }
   .card-grid--3 { grid-template-columns: minmax(0, 1fr); }
   .work-list    { grid-template-columns: 1fr; }
 }
