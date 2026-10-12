@@ -43,6 +43,12 @@ export function wikitextToMarkdown(wikitext: string): string {
   text = text.replace(/\[https?:\/\/[^\s\]]+ ([^\]]+)\]/g, '$1');
   text = text.replace(/\[https?:\/\/[^\]]+\]/g, '');
 
+  // Numbered lists, before headings turn into "##": "# item" would read as a Markdown
+  // heading. Blank lines around the list keep the paragraphs on either side out of it
+  text = text.replace(/^##\s*/gm, '   1. ');
+  text = text.replace(/^#\s*/gm, '1. ');
+  text = text.replace(/((?:^ *1\. .*\n?)+)/gm, (list) => `\n${list.replace(/\n?$/, '\n')}\n`);
+
   // Convert headings: == Title == → ## Title
   text = text.replace(/^={4}\s*(.+?)\s*={4}/gm, '#### $1');
   text = text.replace(/^={3}\s*(.+?)\s*={3}/gm, '### $1');
