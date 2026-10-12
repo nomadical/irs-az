@@ -20,9 +20,9 @@ Public domain only (died 1955 or earlier, life + 70). Sources are unverified unt
 - [ ] Nəcəf bəy Vəzirov — XIX–XX, AZ plays — wikisource
 - [ ] Cəlil Məmmədquluzadə — XX, AZ prose — wikisource
 - [ ] Əbdürrəhim bəy Haqverdiyev — XX, AZ prose + plays — wikisource
-- [ ] Məhəmməd Hadi — XX, AZ — wikisource
-- [ ] Abbas Səhhət — XX, AZ — wikisource
-- [ ] Mikayıl Müşfiq — XX, AZ — wikisource
+- [x] Məhəmməd Hadi — XX, AZ — wikisource
+- [x] Abbas Səhhət — XX, AZ — wikisource
+- [x] Mikayıl Müşfiq — XX, AZ — wikisource
 
 Housekeeping:
 - [x] Delete the empty duplicate authors `nizami-gencevi` and `nesimi` from the DB

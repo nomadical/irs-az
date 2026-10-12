@@ -1032,5 +1032,69 @@
       "az": "Aşıq Ələsgər"
     },
     "collections": []
+  },
+  {
+    "slug": "hadi",
+    "nameAz": "Məhəmməd Hadi",
+    "nameRu": "Мухаммед Хади",
+    "nameEn": "Mahammad Hadi",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Məhəmməd Hadi",
+      "ru": "Мухаммед Хади"
+    },
+    "wikisource": {
+      "az": "Məhəmməd Hadi",
+      "az_extra": {
+        "Amali-tərəqqi": "hadi-seirler"
+      }
+    },
+    "collections": []
+  },
+  {
+    "slug": "sehhet",
+    "nameAz": "Abbas Səhhət",
+    "nameRu": "Аббас Сиххат",
+    "nameEn": "Abbas Sahhat",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "skipSources": [
+      "wikisource-az-24325"
+    ],
+    "wikipedia": {
+      "az": "Abbas Səhhət",
+      "ru": "Аббас Сиххат"
+    },
+    "wikisource": {
+      "az": "Abbas Səhhət"
+    },
+    "collections": []
+  },
+  {
+    "slug": "musfiq",
+    "nameAz": "Mikayıl Müşfiq",
+    "nameRu": "Микаил Мушфиг",
+    "nameEn": "Mikayil Mushfig",
+    "type": "POET",
+    "period": "XX əsr",
+    "writingLangs": [
+      "AZ_LATIN",
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Mikayıl Müşfiq",
+      "ru": "Мушфиг, Микаил"
+    },
+    "wikisource": {
+      "az": "Mikayıl Müşfiq"
+    },
+    "collections": []
   }
 ]
