@@ -1,0 +1,381 @@
+{
+  "id": "clarke-sikandar-nama",
+  "archiveId": "sikandarnmaebara00nimg",
+  "title": "The Sikandar Nama, e Bara, or Book of Alexander the Great",
+  "translator": "H. Wilberforce Clarke",
+  "year": 1881,
+  "authorSlug": "nizami",
+  "collectionSlug": "nizami-serefname",
+  "layout": "cantos",
+  "runningHeads": [
+    "THE SIKANDAR NAMA,E BARA"
+  ],
+  "firstCanto": "^INVOCATION\\.?$",
+  "dropPattern": "\\bsignif(y|ies)\\b|\\bcouplets?\\s+\\d|\\bfootnote\\b|\\bmay be rendered\\b|\\bIn some copies\\b|\\bmay be read\\b",
+  "movedInterlude": {
+    "english": "cup-?\\s*bearer|minstrel|singer",
+    "original": "ساقی|مغنی"
+  },
+  "sections": [
+    {
+      "canto": 1,
+      "heading": "Invocation",
+      "ganjoor": 1
+    },
+    {
+      "canto": 2,
+      "heading": "On Prayer to God Most High.",
+      "ganjoor": 2
+    },
+    {
+      "canto": 3,
+      "heading": "On Praise of the Lord of Prophets (Muhammad) — Blessing and Salutation be on him!",
+      "ganjoor": 3
+    },
+    {
+      "canto": 4,
+      "heading": "The Night of the Ascent op Muhammad, the Chosen One (Peace be on him).",
+      "ganjoor": 4
+    },
+    {
+      "canto": 5,
+      "heading": "On the Composing of the Book.",
+      "ganjoor": 5
+    },
+    {
+      "canto": 6,
+      "heading": "A Story by way of Apologue.",
+      "ganjoor": 5
+    },
+    {
+      "canto": 7,
+      "heading": "On the Versifying of the Book.",
+      "ganjoor": 6
+    },
+    {
+      "canto": 8,
+      "heading": "On the Pre-excellence of this Book over other Books.",
+      "ganjoor": 7
+    },
+    {
+      "canto": 9,
+      "heading": "A Tale, by way or Apologue.",
+      "ganjoor": 7
+    },
+    {
+      "canto": 10,
+      "heading": "The Instructions given by the Prophet Khizr (on Him be Peace!) to the Poet Nizami, regarding the Writing op the \" Sharaf-Nama,e Khusravan,\" or \" Sikandar-Nama.\"",
+      "ganjoor": 8
+    },
+    {
+      "canto": 11,
+      "heading": "In Praise of King Nasratu-d-din.",
+      "ganjoor": 9
+    },
+    {
+      "canto": 12,
+      "heading": "An Address to King Nasratu-d-din.",
+      "ganjoor": 9
+    },
+    {
+      "canto": 13,
+      "heading": "On the Circumstances of this Poem.",
+      "ganjoor": 10
+    },
+    {
+      "canto": 14,
+      "heading": "On displaying desire for the Joyousness of this Tale; and on inclfning towards the garden and the Parterre.",
+      "ganjoor": 11
+    },
+    {
+      "canto": 15,
+      "heading": "The Beginning of the Book, and the Relating op the Truth op Sikandar's Birth.",
+      "ganjoor": 12
+    },
+    {
+      "canto": 16,
+      "heading": "The Instructing of Sikandar by the Sage Lukumajish, the Father of Aristatalis (Aristotle).",
+      "ganjoor": 13
+    },
+    {
+      "canto": 17,
+      "heading": "Sikandar's Sitting in Royalty on the Throne of his Father Faylikus, in Rum.",
+      "ganjoor": 14
+    },
+    {
+      "canto": 18,
+      "heading": "The Egyptians making an Accusation op Tyranny against the People op Zang before Sikandar.",
+      "ganjoor": 15
+    },
+    {
+      "canto": 19,
+      "heading": "Sikandar's sending a Message to the King ojp Zang, and obtaining an answer ee0m him.",
+      "ganjoor": 16
+    },
+    {
+      "canto": 20,
+      "heading": "Sikandar's obtaining a Victory over the Army op the Men op Zang.",
+      "ganjoor": 16
+    },
+    {
+      "canto": 21,
+      "heading": "Sikandar's returning from Battle with the Men of Zang, and his laying the Foundations of the City of Iskandriya.",
+      "ganjoor": 17
+    },
+    {
+      "canto": 22,
+      "heading": "Sikandar's meditating upon the Punishing of Dara, and Casting a Lot as to Victory.",
+      "ganjoor": 18
+    },
+    {
+      "canto": 23,
+      "heading": "Sikandar's Mirror-making.",
+      "ganjoor": 19
+    },
+    {
+      "canto": 24,
+      "heading": "Dara's demanding Tribute, and Sikandar's Reply.",
+      "ganjoor": 20
+    },
+    {
+      "canto": 25,
+      "heading": "Sikandar's setting his Army in Array for War wtth Dara.",
+      "ganjoor": 21
+    },
+    {
+      "canto": 26,
+      "heading": "Dara's expressing an Opinion to his Courtiers on Stkandar's Action.",
+      "ganjoor": 22
+    },
+    {
+      "canto": 27,
+      "heading": "Dara's Letter to Sikandar, threatening and rebuking.",
+      "ganjoor": 23
+    },
+    {
+      "canto": 28,
+      "heading": "Sikandar's Written Reply to Dara.",
+      "ganjoor": 24
+    },
+    {
+      "canto": 29,
+      "heading": "DARA's FIGHTING WITH SlKANDAR AT MOSUL.",
+      "ganjoor": 25
+    },
+    {
+      "canto": 30,
+      "heading": "Dara's being slain by the hand of two of his own Officers, and Sikandar's being Victorious.",
+      "ganjoor": 26
+    },
+    {
+      "canto": 31,
+      "heading": "Sikandar's covenanting with the Chiefs or Iran, and PUNISHING THE TWO OFFICERS.",
+      "ganjoor": 27
+    },
+    {
+      "canto": 32,
+      "heading": "Sikandar's marching into the Country op 'Ajam (Persia), and laying waste the flre-temples.",
+      "ganjoor": 28
+    },
+    {
+      "canto": 33,
+      "heading": "Sikandar's arriving in the Region of Isfahan, and MARRYING RoSHANAK,* DaRa's DaUGEITER.",
+      "ganjoor": 29
+    },
+    {
+      "canto": 34,
+      "heading": "Strand ar's sitting on the Throne of the Katan Kings, in the Capital op Istakhr (Persepolis).",
+      "ganjoor": 30
+    },
+    {
+      "canto": 35,
+      "heading": "Sikandar's sending Aristotle with Roshanak to Greece.",
+      "ganjoor": 31
+    },
+    {
+      "canto": 36,
+      "heading": "Sikander's journeying in Pilgrimage to the House of the ka'ba, and acquiring possession of the land of Arabia.",
+      "ganjoor": 32
+    },
+    {
+      "canto": 37,
+      "heading": "Sikandar's journeying to the Country of Burda'.",
+      "ganjoor": 33
+    },
+    {
+      "canto": 38,
+      "heading": "Sikandar's GOING IN THE GrfJISE OF A Legate to Qcjeen NlJSHABA.",
+      "ganjoor": 33
+    },
+    {
+      "canto": 39,
+      "heading": "The Feast (tn honour) of Nushaba.",
+      "ganjoor": 34
+    },
+    {
+      "canto": 40,
+      "heading": "Sikandar's journeying to the Gate op G-ates (Darband, on the Caspian); concealing the Teeasuees in the Ground; and peeparing Enchantments over them.",
+      "ganjoor": 35
+    },
+    {
+      "canto": 41,
+      "heading": "sikandar's taking the fortress op dlzh, belonging to Robbers, through the Prayer of a Devotee dwell- ing in a Cave.",
+      "ganjoor": 36
+    },
+    {
+      "canto": 42,
+      "heading": "Sikandar's journeying to the Fortress op Sarir, in Pilgrimage to the Tomb op Kay Khusrau; and his looking into the cut, world-displaying.",
+      "ganjoor": 37
+    },
+    {
+      "canto": 43,
+      "heading": "NlZAMI SPEAKS, BY WAY OF ADMONITION, TO NaSRATU-D-DiN.",
+      "ganjoor": 38
+    },
+    {
+      "canto": 44,
+      "heading": "slkandar's journeying to the country of r.ay, thence to Khurasan, and destroying the Fire-temples.",
+      "ganjoor": 39
+    },
+    {
+      "canto": 45,
+      "heading": "Sikandar's marching to Hindustan.",
+      "ganjoor": 40
+    },
+    {
+      "canto": 46,
+      "heading": "Sikandar's Letter to Kaid,* the Hindu, Rajah of Kannauj.",
+      "ganjoor": 41
+    },
+    {
+      "canto": 47,
+      "heading": "Sikandar' s Journeying from the Country of Hind to Chin.",
+      "ganjoor": 42
+    },
+    {
+      "canto": 48,
+      "heading": "Sikandar's Letter to the Khakan of Chen.",
+      "ganjoor": 42
+    },
+    {
+      "canto": 49,
+      "heading": "The Reflecting op the Khakan of Chin upon Sikandar's Letter.",
+      "ganjoor": 43
+    },
+    {
+      "canto": 50,
+      "heading": "The Letter of the Khakan of ChIn to Sikandar.",
+      "ganjoor": 43
+    },
+    {
+      "canto": 51,
+      "heading": "The Coming of the Khakan of Chen, in Person, tn Embassage to Sikandar.",
+      "ganjoor": 43
+    },
+    {
+      "canto": 52,
+      "heading": "The Coming of the Khakan op ChIn before Sikandar, and slkandar's suspicion against him.",
+      "ganjoor": 43
+    },
+    {
+      "canto": 53,
+      "heading": "The Disputation* op the Men op Rum and of Chin, in the Presence op Sikandar and of the Khakan op Chin, on the Art of Delineating.",
+      "ganjoor": 44
+    },
+    {
+      "canto": 54,
+      "heading": "The Khakan's Entertaining Sikandar as a Gtjest.",
+      "ganjoor": 45
+    },
+    {
+      "canto": 55,
+      "heading": "Sikandae's obtaining Intelligence of the Assault of the Russians; of the Pillage of Bueda'; and of the Caebfing away Captive of Queen Nushaba.",
+      "ganjoor": 46
+    },
+    {
+      "canto": 56,
+      "heading": "Sikandar's Entering the Plain of Khifchak.",
+      "ganjoor": 47
+    },
+    {
+      "canto": 57,
+      "heading": "Sikandar's Leading the Army, by way of Khifchak, for War with Russia.",
+      "ganjoor": 48
+    },
+    {
+      "canto": 58,
+      "heading": "Sikandar's Fighting with the Russians.",
+      "ganjoor": 49
+    },
+    {
+      "canto": 59,
+      "heading": "The Battle of the Second Day.",
+      "ganjoor": 50
+    },
+    {
+      "canto": 60,
+      "heading": "The Battle op the Third Day.",
+      "ganjoor": 51
+    },
+    {
+      "canto": 61,
+      "heading": "The Battle of the Fourth Day.",
+      "ganjoor": 52
+    },
+    {
+      "canto": 62,
+      "heading": "The Battle of the Fifth Day.",
+      "ganjoor": 53
+    },
+    {
+      "canto": 63,
+      "heading": "The Battle of the Sixth Day.",
+      "ganjoor": 54
+    },
+    {
+      "canto": 64,
+      "heading": "The Battle of the SeveiNth Day.",
+      "ganjoor": 55
+    },
+    {
+      "canto": 65,
+      "heading": "Sikandar's Gaining a Victory over the Army op Russia.",
+      "ganjoor": 56
+    },
+    {
+      "canto": 66,
+      "heading": "Sikandar's Liberating JNushaba, Queen of Burda', from the Hand of the Russians.",
+      "ganjoor": 57
+    },
+    {
+      "canto": 67,
+      "heading": "Sikandar's Toying with the Damsel given by the Khakan of Chin.",
+      "ganjoor": 58
+    },
+    {
+      "canto": 68,
+      "heading": "Sikandar's becoming desirous of the Water of Life, on hearing of its qualities.",
+      "ganjoor": 59
+    },
+    {
+      "canto": 69,
+      "heading": "Sikandar's going into the Zulmat in Search of the Water op Life.",
+      "ganjoor": 60
+    },
+    {
+      "canto": 70,
+      "heading": "Sikandar's coming forth from the Darkness (thk Dark Land).",
+      "ganjoor": 61
+    },
+    {
+      "canto": 71,
+      "heading": "Sikandar's Returning from Subduing the Climes of the World, and Coming to Rum.",
+      "ganjoor": 62
+    },
+    {
+      "canto": 72,
+      "heading": "The Concldsion of the Book in Praise of the Praised One, the King Nasratu-'d-Din.",
+      "ganjoor": 63
+    }
+  ]
+}

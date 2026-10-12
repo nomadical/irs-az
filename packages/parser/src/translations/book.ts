@@ -11,6 +11,7 @@ import * as path from 'path';
 import matter from 'gray-matter';
 import { cachedGet, cachedGetJson } from '../utils/http';
 import { Vocabulary, cleanParagraph, similarity, type OcrStats } from './ocr';
+import { parseCantos } from './cantos';
 
 const DATA_DIR = path.resolve(__dirname, '../../data');
 // Real headings score 0.85+; the loose threshold is a fallback for badly garbled ones,
@@ -27,14 +28,33 @@ export interface BookConfig {
   year: number;
   authorSlug: string;
   collectionSlug: string;
+  /**
+   * "headings" (default): sections found by their headings, one couplet per paragraph (Wilson).
+   * "cantos": numbered cantos with two-line couplets and page footnotes (Clarke).
+   */
+  layout?: 'headings' | 'cantos';
   /** Page headers as printed ("THE HAFT PAIKAR"); OCR variants are matched loosely */
   runningHeads: string[];
+  /** cantos layout: where canto I begins when the book prints no "CANTO I." line */
+  firstCanto?: string;
+  /** Couplets matching this are stray footnote fragments ("signifies", "See couplet 12") */
+  dropPattern?: string;
+  /**
+   * An interlude the book prints at the end of a section but the original opens the next one
+   * with — Clarke closes a canto with "Come, cup-bearer! …" where Ganjoor's next section
+   * starts «بیا ساقی». english: how the book's address begins; original: how the work's does.
+   */
+  movedInterlude?: { english: string; original: string };
   endMarker?: string;
   /** Whole-word OCR misreadings that are real words ("Bahrain" for Bahram) */
   replacements?: Record<string, string>;
   /** heading: shown in the translation; match: the body's wording when it differs from the contents */
-  /** splitAt: for a section over several works, the opening words of each later work's first couplet */
-  sections: { heading: string; match?: string; ganjoor: number | number[]; splitAt?: string[] }[];
+  /**
+   * heading: the book's section title (headings layout: also how it is found); canto: the canto
+   * number (cantos layout). splitAt: for a section over several works, the opening words of
+   * each later work's first couplet.
+   */
+  sections: { heading: string; canto?: number; match?: string; ganjoor: number | number[]; splitAt?: string[] }[];
 }
 
 export interface PlannedTranslation {
@@ -59,10 +79,11 @@ export function loadBookConfig(id: string): BookConfig {
   return JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'config/translations', `${id}.json`), 'utf-8'));
 }
 
-async function fetchText(archiveId: string): Promise<string> {
+/** An Internet Archive item's OCR file: `_djvu.txt` (plain text) or `_djvu.xml` (word positions) */
+async function fetchText(archiveId: string, suffix = '_djvu.txt'): Promise<string> {
   const meta = await cachedGetJson<{ result: { name: string }[] }>(`https://archive.org/metadata/${archiveId}/files`);
-  const file = meta.result.find((f) => f.name.endsWith('_djvu.txt'));
-  if (!file) throw new Error(`No OCR text in ${archiveId}`);
+  const file = meta.result.find((f) => f.name.endsWith(suffix));
+  if (!file) throw new Error(`No ${suffix} in ${archiveId}`);
   return cachedGet(`https://archive.org/download/${archiveId}/${encodeURIComponent(file.name)}`);
 }
 
@@ -71,6 +92,8 @@ interface WorkFile {
   order: number;
   title: string;
   couplets: number;
+  /** First couplet of the original */
+  opening: string;
 }
 
 /** Our works in the collection, by order, with their couplet counts */
@@ -85,6 +108,7 @@ function collectionWorks(cfg: BookConfig): Map<number, WorkFile> {
       order: data.order,
       title: data.titleFa ?? data.titleAz,
       couplets: content.split(/\n\s*\n/).filter((p) => p.trim()).length,
+      opening: content.trim().split(/\n\s*\n/)[0] ?? '',
     });
   }
   return works;
@@ -159,31 +183,79 @@ function applyReplacements(text: string, replacements?: Record<string, string>):
   return text.replace(/[A-Za-z]+/g, (w) => replacements[w] ?? w);
 }
 
-export async function planBookTranslation(cfg: BookConfig): Promise<BookPlan> {
-  const text = await fetchText(cfg.archiveId);
-  const vocab = new Vocabulary(text);
-  const ocr: OcrStats = { fixed: 0, unknown: 0, words: 0 };
-
+/** Headings layout: each config section's raw couplets (one paragraph each), or the missing headings */
+function headingSections(text: string, cfg: BookConfig): { sections: string[][]; missing: string[] } {
   let paras = paragraphs(text, cfg);
   const { index, missing } = locateHeadings(paras, cfg);
-  if (missing.length) {
-    return { translations: [], missingHeadings: missing, ocr, sourceUrl: `https://archive.org/details/${cfg.archiveId}` };
-  }
+  if (missing.length) return { sections: [], missing };
 
   // The last section runs to the end marker (index, advertisements)
   const end = cfg.endMarker
     ? paras.findIndex((p, i) => i > index[index.length - 1] && new RegExp(cfg.endMarker!).test(p))
     : -1;
   paras = paras.slice(0, end > 0 ? end : paras.length);
+  return {
+    sections: cfg.sections.map((_, k) => paras.slice(index[k] + 1, k + 1 < index.length ? index[k + 1] : paras.length)),
+    missing: [],
+  };
+}
+
+// Separates the two lines of a canto couplet; a plain newline is only an OCR line wrap
+const LINE_BREAK = '\u2028';
+
+/** Cantos layout: each config section's raw couplets, two lines each joined by LINE_BREAK */
+function cantoSections(layoutXml: string, cfg: BookConfig): { sections: string[][]; missing: string[] } {
+  const { cantos } = parseCantos(layoutXml, cfg.runningHeads, cfg.firstCanto ? new RegExp(cfg.firstCanto) : undefined);
+  const byNumber = new Map(cantos.map((c) => [c.number, c]));
+  const missing = cfg.sections.filter((s) => !byNumber.has(s.canto!)).map((s) => `Canto ${s.canto}: ${s.heading}`);
+  return {
+    sections: cfg.sections.map((s) => (byNumber.get(s.canto!)?.couplets ?? []).map((c) => c.join(LINE_BREAK))),
+    missing,
+  };
+}
+
+export async function planBookTranslation(cfg: BookConfig): Promise<BookPlan> {
+  const text = await fetchText(cfg.archiveId);
+  const vocab = new Vocabulary(text);
+  const ocr: OcrStats = { fixed: 0, unknown: 0, words: 0 };
+  const sourceUrl = `https://archive.org/details/${cfg.archiveId}`;
+
+  const { sections, missing } =
+    cfg.layout === 'cantos'
+      ? cantoSections(await fetchText(cfg.archiveId, '_djvu.xml'), cfg)
+      : headingSections(text, cfg);
+  if (missing.length) return { translations: [], missingHeadings: missing, ocr, sourceUrl };
 
   const works = collectionWorks(cfg);
   const groups = new Map<number, string[]>();
+  // A two-line couplet keeps its line break; each line is cleaned on its own
+  const clean = (couplet: string) =>
+    couplet
+      .split(LINE_BREAK)
+      .map((line) => applyReplacements(cleanParagraph(line, vocab, ocr), cfg.replacements))
+      .filter(Boolean)
+      .join('\n');
+
+  const drop = cfg.dropPattern ? new RegExp(cfg.dropPattern, 'i') : null;
+  const cleaned = sections.map((sec) => sec.map(clean).filter((p) => p.length > 0 && !drop?.test(p)));
+
+  // Move a section-closing interlude to the start of the next section, where the original has it
+  if (cfg.movedInterlude) {
+    const english = new RegExp(cfg.movedInterlude.english, 'i');
+    const original = new RegExp(cfg.movedInterlude.original);
+    const first = (g: number | number[]) => (Array.isArray(g) ? g[0] : g);
+    const last = (g: number | number[]) => (Array.isArray(g) ? g[g.length - 1] : g);
+    for (let k = 0; k + 1 < cfg.sections.length; k++) {
+      const next = first(cfg.sections[k + 1].ganjoor);
+      if (next === last(cfg.sections[k].ganjoor) || !original.test(works.get(next)?.opening ?? '')) continue;
+      const tail = cleaned[k].length - 6;
+      const at = cleaned[k].findIndex((c, i) => i >= tail && english.test(c.split('\n')[0]));
+      if (at > 0) cleaned[k + 1].unshift(...cleaned[k].splice(at));
+    }
+  }
 
   cfg.sections.forEach((s, k) => {
-    const body = paras.slice(index[k] + 1, k + 1 < index.length ? index[k + 1] : paras.length);
-    const couplets = body
-      .map((p) => applyReplacements(cleanParagraph(p, vocab, ocr), cfg.replacements))
-      .filter((p) => p.length > 0);
+    const couplets = cleaned[k];
     const targets = Array.isArray(s.ganjoor) ? s.ganjoor : [s.ganjoor];
 
     // One book section over several works: cut where each later work's first couplet begins
@@ -223,5 +295,5 @@ export async function planBookTranslation(cfg: BookConfig): Promise<BookPlan> {
     });
   }
 
-  return { translations, missingHeadings: [], ocr, sourceUrl: `https://archive.org/details/${cfg.archiveId}` };
+  return { translations, missingHeadings: [], ocr, sourceUrl };
 }
