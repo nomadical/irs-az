@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: E. J. W. Gibb
-translatorNote: >-
-  A History of Ottoman Poetry, vol. III (1904), mukhammes no. 200. OCR text from
-  a scanned copy; may contain scanning errors.
+translatorNote: 'A History of Ottoman Poetry, vol. III (1904), mukhammes no. 200.'
 year: 1904
 sourceNote: 'https://archive.org/details/historyofottoman03gibbuoft'
 isDefault: true
@@ -24,7 +22,7 @@ Ne'er a doubt whene'er it saw thee, earth were ravished far and near.
 
 Lo, the heart hath limned thy golden bower and told thy rubies' ray;
 
-And the rubies in thine ear have barkened heedful to its say.
+And the rubies in thine ear have harkened heedful to its say.
 
 While the comb thy hair companions, love-sick I am far away;
 
@@ -46,13 +44,13 @@ Ruffled I of yonder musky hair thy fillet red doth crown;
 
 'Neath the golden anklets that thy silvery legs adorn I'm prone.
 
-Think not I am like thy fillet void of thy sun-love, O Moon
+Think not I am like thy fillet void of thy sun-love, O Moon;
 
 Nay, my semblance is the golden chain about thy cheek that 's thrown.
 
 Pangs a thousand from thy glances' shafts my woeful breast doth bear.
 
-Tulip-red thy hands with henna, ' and with surma black thine eyne;
+Tulip-red thy hands with henna, and with surma black thine eyne;
 
 Like to thee is ne'er a beauty thus bedecked so fair and fine.
 

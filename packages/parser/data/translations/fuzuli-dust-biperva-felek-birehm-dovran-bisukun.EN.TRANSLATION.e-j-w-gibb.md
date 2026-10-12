@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: E. J. W. Gibb
-translatorNote: >-
-  A History of Ottoman Poetry, vol. III (1904), ghazel no. 194. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'A History of Ottoman Poetry, vol. III (1904), ghazel no. 194.'
 year: 1904
 sourceNote: 'https://archive.org/details/historyofottoman03gibbuoft'
 isDefault: true
@@ -21,7 +19,7 @@ Lofty the degree of ruin, lowly is the rank of right.
 Little power hath understanding, louder aye grows slander's voice,
 Scant the ruth of fickle Fortune, daily worsens Love's despite.
 
-I'm a stranger in this country, guile-beset is union'.s path;
+I'm a stranger in this country, guile-beset is union's path;
 I'm a wight of simple spirit, earth with faerie shows is dight.
 
 Every slender figure's motions form a stream of sorrow's flood,

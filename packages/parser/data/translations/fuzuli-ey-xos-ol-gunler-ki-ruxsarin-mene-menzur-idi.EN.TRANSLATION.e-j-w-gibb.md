@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: E. J. W. Gibb
-translatorNote: >-
-  A History of Ottoman Poetry, vol. III (1904), ghazel no. 199. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'A History of Ottoman Poetry, vol. III (1904), ghazel no. 199.'
 year: 1904
 sourceNote: 'https://archive.org/details/historyofottoman03gibbuoft'
 isDefault: true
@@ -32,7 +30,7 @@ Then was I a man, right welcome was I at her gracious court;
 
 Mine abode was Heav'n; my drink, Kevser; my fere, a houri bright.
 
-Fate was hidden to accomplish whatsoever thing I sought,
+Fate was bidden to accomplish whatsoever thing I sought,
 
 Time was bounden strait to order everything I wished aright.
 

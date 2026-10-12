@@ -16,6 +16,7 @@
     }
   ],
   "verseHeight": 37,
+  "proofread": true,
   "items": [
     {
       "volume": 1,
@@ -82,6 +83,132 @@
       "number": 200,
       "workSlug": "fuzuli-texmis-4-ey-herir-icre-tenin-mutleq-bulur-icre-gulab",
       "label": "Mukhammes"
+    }
+  ],
+  "corrections": [
+    {
+      "from": "my foe should be.\n",
+      "to": "my foe should be,\n"
+    },
+    {
+      "from": "union'.s",
+      "to": "union's"
+    },
+    {
+      "from": "my face; l\nLet",
+      "to": "my face;\nLet"
+    },
+    {
+      "from": "'How dost fare?\n",
+      "to": "'How dost fare?'\n"
+    },
+    {
+      "from": "mah'st",
+      "to": "mak'st"
+    },
+    {
+      "from": "v Naught of love",
+      "to": "Naught of love"
+    },
+    {
+      "from": "yearning] fond",
+      "to": "yearning fond"
+    },
+    {
+      "from": "Fate was hidden",
+      "to": "Fate was bidden"
+    },
+    {
+      "from": "still do!",
+      "to": "still do I"
+    },
+    {
+      "from": "barkened",
+      "to": "harkened"
+    },
+    {
+      "from": "O Moon\n\nNay",
+      "to": "O Moon;\n\nNay"
+    },
+    {
+      "from": "henna, ' and",
+      "to": "henna, and"
+    },
+    {
+      "from": "Aid from God!' O",
+      "to": "'Aid from God!' O"
+    },
+    {
+      "from": "jaciqth's",
+      "to": "jacinth's"
+    },
+    {
+      "from": "the Lord ' ascended",
+      "to": "the Lord 'ascended"
+    },
+    {
+      "from": "Gabriel ' hath",
+      "to": "Gabriel hath"
+    },
+    {
+      "from": "is here!'\"",
+      "to": "is here!'"
+    },
+    {
+      "from": "aught fitaent his fere?'",
+      "to": "aught anent his fere?"
+    },
+    {
+      "from": "WTiosoe'er",
+      "to": "Whosoe'er"
+    },
+    {
+      "from": "schoolman,' of thy schoohnanship",
+      "to": "schoolman, of thy schoolmanship"
+    },
+    {
+      "from": "O' Nesimi",
+      "to": "O Nesimi"
+    },
+    {
+      "from": "bulbuls clear,\n",
+      "to": "bulbuls clear.\n"
+    },
+    {
+      "from": "inebriate*",
+      "to": "inebriate"
+    },
+    {
+      "from": "narcisse plied!\"",
+      "to": "narcisse plied!"
+    },
+    {
+      "from": "Hair and Flashes",
+      "to": "Hair and Lashes"
+    },
+    {
+      "from": "Book of God;'- to him",
+      "to": "Book of God; to him"
+    },
+    {
+      "from": "Book ' with him is knowledge of the Book ' ' 's applied",
+      "to": "Book 'with him is knowledge of the Book' 's applied"
+    },
+    {
+      "from": "knoweth best'\" beside",
+      "to": "knoweth best' beside"
+    },
+    {
+      "from": "all Needs \" must",
+      "to": "all Needs must"
+    },
+    {
+      "from": "dra\\vn",
+      "to": "drawn"
+    },
+    {
+      "from": "Nesi'mi",
+      "to": "Nesimi"
     }
   ]
 }

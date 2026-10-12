@@ -4,15 +4,13 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: E. J. W. Gibb
-translatorNote: >-
-  A History of Ottoman Poetry, vol. III (1904), ghazel no. 192. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'A History of Ottoman Poetry, vol. III (1904), ghazel no. 192.'
 year: 1904
 sourceNote: 'https://archive.org/details/historyofottoman03gibbuoft'
 isDefault: true
 status: DRAFT
 ---
-O my loved one, though the world because of thee my foe should be.
+O my loved one, though the world because of thee my foe should be,
 'Twere no sorrow, for thyself alone were friend enow for me.
 
 Scorning every comrade's rede, I cast me blindly midst of love;

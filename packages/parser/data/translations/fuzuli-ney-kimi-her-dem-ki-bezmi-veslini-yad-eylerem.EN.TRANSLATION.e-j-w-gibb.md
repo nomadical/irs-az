@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: E. J. W. Gibb
-translatorNote: >-
-  A History of Ottoman Poetry, vol. III (1904), ghazel no. 193. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'A History of Ottoman Poetry, vol. III (1904), ghazel no. 193.'
 year: 1904
 sourceNote: 'https://archive.org/details/historyofottoman03gibbuoft'
 isDefault: true
@@ -32,7 +30,7 @@ Grieve not I whate'er injustice rivals may to me display;
 
 'Gainst my dear's despite, I teach my heart injustice to sustain.
 
-Well I know I ne'er shall win to union with thee, still do!
+Well I know I ne'er shall win to union with thee, still do I
 
 Cheer at times my cheerless spirit with a hope as fond as vain.
 

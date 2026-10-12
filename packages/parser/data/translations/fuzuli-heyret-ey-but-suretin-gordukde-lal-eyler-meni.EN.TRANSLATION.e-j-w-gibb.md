@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: E. J. W. Gibb
-translatorNote: >-
-  A History of Ottoman Poetry, vol. III (1904), ghazel no. 198. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'A History of Ottoman Poetry, vol. III (1904), ghazel no. 198.'
 year: 1904
 sourceNote: 'https://archive.org/details/historyofottoman03gibbuoft'
 isDefault: true
@@ -15,11 +13,11 @@ status: DRAFT
 Goddess, when I sight thy figure wonder makes me dumb to be;
 He who sees my plight and fashion for a figure holdeth me.
 
-v Naught of love to me thou showest, naught of ruth, till now at length
+Naught of love to me thou showest, naught of ruth, till now at length
 Passion for thy locks doth tread me like the shadow on the lea.
 
 Weak my star, my fortune adverse, yet withal thy gracious mien
-Ever fills my soul with yearning] fond for union with thee.
+Ever fills my soul with yearning fond for union with thee.
 
 Thou a princess; I, a beggar, may not woo thee: what can I?
 Yearning dazeth me with fancies vain I ne'er can hope to see.

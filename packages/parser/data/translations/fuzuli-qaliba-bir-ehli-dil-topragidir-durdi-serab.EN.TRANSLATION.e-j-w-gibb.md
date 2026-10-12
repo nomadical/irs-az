@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: E. J. W. Gibb
-translatorNote: >-
-  A History of Ottoman Poetry, vol. III (1904), ghazel no. 195. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'A History of Ottoman Poetry, vol. III (1904), ghazel no. 195.'
 year: 1904
 sourceNote: 'https://archive.org/details/historyofottoman03gibbuoft'
 isDefault: true
@@ -27,7 +25,7 @@ Rear its head, to stint thy water round that tree, mirage, forbear.
 Never having won to union with the Leyla fair, O sun,
 Dost thou, like to me, turned Mejnun, wander o'er the desert bare.
 
-Yonder Goddess reared her eyebrow, shrine-ward turn not I my face; l
+Yonder Goddess reared her eyebrow, shrine-ward turn not I my face;
 Let me be, O zealot, vex not me, so thou do God revere.
 
 All thy life-coin thou hast squandered one fair Idol's love to win;

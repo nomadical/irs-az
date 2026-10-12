@@ -26,6 +26,10 @@ export interface AnthologyConfig {
   /** Letter height (scan pixels) below which a line is the poems' small type; prose is larger */
   verseHeight: number;
   items: { volume: number; number: number; workSlug: string; label: string }[];
+  /** Proofreading corrections checked against the scan, as in BookConfig: exact text or a pattern */
+  corrections?: ({ from: string; to: string } | { pattern: string; flags?: string; to: string })[];
+  /** Proofread against the scan: the translations no longer carry the OCR caveat */
+  proofread?: boolean;
 }
 
 export interface AnthologyItem {
@@ -188,8 +192,17 @@ export function loadAnthologyConfig(id: string): AnthologyConfig {
   return JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'config/translations', `${id}.json`), 'utf-8'));
 }
 
-export async function planAnthology(cfg: AnthologyConfig): Promise<{ items: AnthologyItem[]; missing: string[]; ocr: OcrStats }> {
+export async function planAnthology(
+  cfg: AnthologyConfig,
+): Promise<{ items: AnthologyItem[]; missing: string[]; ocr: OcrStats; unusedCorrections: string[] }> {
   const ocr: OcrStats = { fixed: 0, unknown: 0, words: 0 };
+  const used = new Set<number>();
+  const correct = (body: string) =>
+    (cfg.corrections ?? []).reduce((text, c, i) => {
+      const next = 'from' in c ? text.split(c.from).join(c.to) : text.replace(new RegExp(c.pattern, c.flags ?? 'g'), c.to);
+      if (next !== text) used.add(i);
+      return next;
+    }, body);
   const items: AnthologyItem[] = [];
   const missing: string[] = [];
 
@@ -224,7 +237,7 @@ export async function planAnthology(cfg: AnthologyConfig): Promise<{ items: Anth
         volume: item.volume,
         year: vol.year,
         label: item.label,
-        body: blocks.map((b) => b.join('\n')).join('\n\n'),
+        body: correct(blocks.map((b) => b.join('\n')).join('\n\n')),
         stanzas: blocks.length,
         originalStanzas: work.couplets,
         opening: blocks[0]?.join(' / ') ?? '',
@@ -232,5 +245,8 @@ export async function planAnthology(cfg: AnthologyConfig): Promise<{ items: Anth
       });
     }
   }
-  return { items, missing, ocr };
+  const unusedCorrections = (cfg.corrections ?? [])
+    .filter((_, i) => !used.has(i))
+    .map((c) => ('from' in c ? c.from : `/${c.pattern}/`));
+  return { items, missing, ocr, unusedCorrections };
 }

@@ -4,9 +4,7 @@ language: EN
 type: TRANSLATION
 scriptDirection: LTR
 translator: E. J. W. Gibb
-translatorNote: >-
-  A History of Ottoman Poetry, vol. III (1904), ghazel no. 197. OCR text from a
-  scanned copy; may contain scanning errors.
+translatorNote: 'A History of Ottoman Poetry, vol. III (1904), ghazel no. 197.'
 year: 1904
 sourceNote: 'https://archive.org/details/historyofottoman03gibbuoft'
 isDefault: true
@@ -14,7 +12,7 @@ status: DRAFT
 ---
 Lo thy mole hath thrown my fortune all a-tangle like thy hair;
 
-Ne'er a day, O free from dolour, wilt thou ask me, 'How dost fare?
+Ne'er a day, O free from dolour, wilt thou ask me, 'How dost fare?'
 
 Heart, yon cypress-figure's shade is past away from o'er thy head;
 
@@ -26,7 +24,7 @@ Were it not, O dearest one, that Love had drawn thine image there.
 
 Though thou dost not draw the glaive of wrath to work my death forthright,
 
-Yet forsooth some day 'twill slay me, this despite thou mah'st me bear.
+Yet forsooth some day 'twill slay me, this despite thou mak'st me bear.
 
 Yearning for that mole so musky and that ruddy cheek o' thine
 

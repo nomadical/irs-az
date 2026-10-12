@@ -19,6 +19,7 @@ async function scrapeAnthology(id: string, dryRun: boolean) {
   const pct = (n: number) => ((100 * n) / Math.max(1, plan.ocr.words)).toFixed(1);
   console.log(`  OCR: ${plan.ocr.words} words, ${plan.ocr.fixed} fixed (${pct(plan.ocr.fixed)}%), ` +
     `${plan.ocr.unknown} still unknown (${pct(plan.ocr.unknown)}%)`);
+  for (const c of plan.unusedCorrections) console.warn(`  Correction matched nothing: ${c.slice(0, 70)}`);
   for (const t of plan.items) {
     // A translation should have as many stanzas as the original; a mismatch means a page break
     // or footnote was misread, or the translator left stanzas out
@@ -36,7 +37,7 @@ async function scrapeAnthology(id: string, dryRun: boolean) {
         type: 'TRANSLATION',
         scriptDirection: 'LTR',
         translator: cfg.translator,
-        translatorNote: `${cfg.title}, vol. ${['I', 'II', 'III', 'IV', 'V', 'VI'][t.volume - 1]} (${t.year}), ${t.label.toLowerCase()} no. ${t.number}. OCR text from a scanned copy; may contain scanning errors.`,
+        translatorNote: `${cfg.title}, vol. ${['I', 'II', 'III', 'IV', 'V', 'VI'][t.volume - 1]} (${t.year}), ${t.label.toLowerCase()} no. ${t.number}.${cfg.proofread ? '' : ' OCR text from a scanned copy; may contain scanning errors.'}`,
         year: t.year,
         sourceNote: t.sourceUrl,
         isDefault: true,
