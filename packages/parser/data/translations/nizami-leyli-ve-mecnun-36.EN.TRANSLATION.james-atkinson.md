@@ -11,7 +11,7 @@ translatorNote: >-
 year: 1836
 sourceNote: 'https://archive.org/details/lovesoflailmaj00nizauoft'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Yes, Majnún wept and shook; and now
 What answer could he frame, and how?

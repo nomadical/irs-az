@@ -11,7 +11,7 @@ translatorNote: >-
 year: 1836
 sourceNote: 'https://archive.org/details/lovesoflailmaj00nizauoft'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Lailí meanwhile had read and seen
 What Majnún's thoughts had ever been;

@@ -11,7 +11,7 @@ translatorNote: >-
 year: 1836
 sourceNote: 'https://archive.org/details/lovesoflailmaj00nizauoft'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 A pilgrim-step approached the wild retreat,
 Where Majnún lingered in his rocky seat,

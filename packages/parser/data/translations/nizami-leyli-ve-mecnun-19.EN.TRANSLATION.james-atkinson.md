@@ -11,7 +11,7 @@ translatorNote: >-
 year: 1836
 sourceNote: 'https://archive.org/details/lovesoflailmaj00nizauoft'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Lailí in beauty, softness, grace,
 Surpassed the loveliest of her race;

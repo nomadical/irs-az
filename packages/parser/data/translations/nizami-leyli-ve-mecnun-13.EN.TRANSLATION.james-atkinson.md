@@ -11,7 +11,7 @@ translatorNote: >-
 year: 1836
 sourceNote: 'https://archive.org/details/lovesoflailmaj00nizauoft'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 As morning broke, the sun, with golden light,
 Eclipsed the twinkling stars of silvery white;

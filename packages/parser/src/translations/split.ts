@@ -45,6 +45,8 @@ export interface SplitConfig {
    * Each dropped passage leaves a "[…]" between the verse on either side.
    */
   prose?: { left: number; right: number };
+  /** Every page checked against the scan: the works go out published */
+  proofread?: boolean;
 }
 
 /** Where an editor's prose summary stood between verse passages */

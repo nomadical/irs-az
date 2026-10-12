@@ -108,7 +108,7 @@ async function scrapeSplit(id: string, dryRun: boolean) {
         sourceNote: `https://archive.org/details/${cfg.archiveId}`,
         isDefault: true,
         // Drafts until proofread against the scan
-        status: 'DRAFT',
+        status: cfg.proofread ? 'PUBLISHED' : 'DRAFT',
       },
       t.body,
     );
