@@ -39,6 +39,8 @@ export class SearchService implements OnModuleInit {
           'authorNameRu',
           'body',
           'bodyPlain',
+          'bodyAz',
+          'bodyAzPlain',
           'bodyRu',
           'bodyEn',
         ],
@@ -66,10 +68,12 @@ export class SearchService implements OnModuleInit {
           // For snippets and match positions (Meilisearch reports positions only for
           // returned attributes); stripped from search responses
           'body',
+          'bodyAz',
           'bodyRu',
           'bodyEn',
           'titleAzPlain',
           'bodyPlain',
+          'bodyAzPlain',
           'authorNamePlain',
         ],
       });
@@ -115,6 +119,9 @@ export class SearchService implements OnModuleInit {
         titleFa: work.titleFa,
         body: work.body,
         bodyPlain: fold(work.body),
+        // Latin-script Azerbaijani, such as a transliteration of a Turkic poem in Arabic script
+        bodyAz: translation('AZ_LATIN'),
+        bodyAzPlain: fold(translation('AZ_LATIN')),
         bodyRu: translation('RU'),
         bodyEn: translation('EN'),
         titleEn: work.titleEn,
@@ -155,10 +162,24 @@ export class SearchService implements OnModuleInit {
       const terms = queryTerms(dto.q ?? '');
       const hits = result.hits.map(
         // The *Plain fields and full bodies are only fetched to build highlights
-        ({ body, bodyRu, bodyEn, titleAzPlain, bodyPlain, authorNamePlain, _matchesPosition: mp = {}, ...hit }) => {
+        ({
+          body,
+          bodyAz,
+          bodyRu,
+          bodyEn,
+          titleAzPlain,
+          bodyPlain,
+          bodyAzPlain,
+          authorNamePlain,
+          _matchesPosition: mp = {},
+          ...hit
+        }) => {
           const title: string = hit.titleAz ?? '';
           const titleStarts = [...matchStarts(title, mp.titleAz), ...matchStarts(title, mp.titleAzPlain, true)];
           const bodyStarts = body ? [...matchStarts(body, mp.body), ...matchStarts(body, mp.bodyPlain, true)] : [];
+          const bodyAzStarts = bodyAz
+            ? [...matchStarts(bodyAz, mp.bodyAz), ...matchStarts(bodyAz, mp.bodyAzPlain, true)]
+            : [];
           const author: string = hit.authorNameAz ?? '';
           const authorStarts = [
             ...matchStarts(author, mp.authorNameAz),
@@ -173,6 +194,7 @@ export class SearchService implements OnModuleInit {
               body:
                 [
                   body && excerpt(body, terms, bodyStarts),
+                  bodyAz && excerpt(bodyAz, terms, bodyAzStarts),
                   bodyRu && excerpt(bodyRu, terms, matchStarts(bodyRu, mp.bodyRu)),
                   bodyEn && excerpt(bodyEn, terms, matchStarts(bodyEn, mp.bodyEn)),
                 ].reduce<{ html: string; score: number } | null>(
