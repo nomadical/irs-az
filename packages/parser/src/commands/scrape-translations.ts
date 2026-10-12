@@ -137,8 +137,8 @@ async function scrapePlay(id: string, dryRun: boolean) {
         year: cfg.year,
         sourceNote: cfg.url,
         isDefault: true,
-        // Drafts until proofread against the scan
-        status: 'DRAFT',
+        // Drafts until transcribed from the scan
+        status: t.proofread ? 'PUBLISHED' : 'DRAFT',
       },
       t.body,
     );

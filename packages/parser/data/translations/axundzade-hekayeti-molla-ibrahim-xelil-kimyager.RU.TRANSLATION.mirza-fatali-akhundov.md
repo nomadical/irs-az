@@ -13,7 +13,7 @@ translatorNote: >-
 year: 1853
 sourceNote: 'https://dspace.nplg.gov.ge/bitstream/1234/153429/1/Komedii_1853.pdf'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Действующия лица:
 МОЛЛА-ИБРАГИМ-ХАЛИЛ, обладатель философского камня.
