@@ -84,11 +84,11 @@ Through seeking much the king became distressed, (and) no desire (of his) was gr
 
 Nor through ill fate could he to marriage haste, nor could he find such slave-girl as he wished.
 
-Of all who were impure be washed his bands; be sought one who was beautiful and pure.
+Of all who were impure he washed his hands; he sought one who was beautiful and pure.
 
 Until one day a man who dealt in slaves brought information to a royal slave
 
-That from the picture-house of China’s realm a merchant bad with thousand huris come.
+That from the picture-house of China’s realm a merchant had with thousand huris come.
 
 Virgin dave-girls of countries different: some of Kkallukb, some also of Cathay.
 

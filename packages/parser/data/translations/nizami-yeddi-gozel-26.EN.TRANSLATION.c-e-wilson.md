@@ -86,27 +86,27 @@ When after this a long time passed, and none, as of the *Anqa, could give news o
 
 Through fortune’s ace the wearer of the crown one day ascended suddenly (his) throne.
 
-His body bead to foot was (clothed in) black: (his) tunic, head-dress, and (his) gown (were Hack).
+His body head to foot was (clothed in) black: (his) tunic, head-dress, and (his) gown (were black).
 
-Keen-witted all the time be ruled the world, be dressed in black though suffering no loss.
+Keen-witted all the time he ruled the world, he dressed in black though suffering no loss.
 
-In blackness like the Stream of Life be lived; (but) none the reason of this blackness asked.
+In blackness like the Stream of Life he lived; (but) none the reason of this blackness asked.
 
 One night I was, in kindness and in love, waiting upon that “ qibla ” (of the world).
 
-Besting his foot upon my lap in love, he was complaining of the stars of heaven.
+Resting his foot upon my lap in love, he was complaining of the stars of heaven.
 
-Said be. See what a raid the sky bas made; what games it’s practised on a king like me!
+Said he. See what a raid the sky has made; what games it’s practised on a king like me!
 
-From Iram’s region it bas cut me off, and brought me ’neath the blackness of the pen.
+From Iram’s region it has cut me off, and brought me ’neath the blackness of the pen.
 
-No one bas asked me where that region is, nor why this blackness on my silver bes.
+No one has asked me where that region is, nor why this blackness on my silver bes.
 
 I thought upon an answer to the king; I gently rubbed my face upon his foot.
 
 I said (to him), O aid to the distressed, best one of all the rulers of the earth,
 
-Who on the earth bas such an arm that be may graze (the face of) heaven with an axe?
+Who on the earth has such an arm that he may graze (the face of) heaven with an axe?
 
 Into a hidden story to enquire (is not for us); you know (it) and can tell.
 
@@ -300,11 +300,11 @@ It did its business with me, and went off; I raised much outcry, ’twas of no a
 
 When I looked high and low upon the world, I saw myself bestowed upon the heavens.
 
-Tie (lofty) sky had o’er me cast a spell; I found mysell suspended like tie sky.
+Tie (lofty) sky had o’er me cast a spell; I found myself suspended like the sky.
 
 Through anguish such as nearly caused my death, my eyes from terror could not do their work.
 
-Upwards my heart could not with boldness look, (and) who would have tie courage to look down!
+Upwards my heart could not with boldness look, (and) who would have the courage to look down!
 
 With terror overcome I closed my eyes, to utter helplessness resigned myself;
 
@@ -312,25 +312,25 @@ Regretful, and repenting my emprise, (and) yearning for my relatives and house.
 
 Tiere was no profit in that penitence, save piety, and invocation’s aid.
 
-When after this a short time had elapsed, — upon tie top of that long, lofty tower
+When after this a short time had elapsed, — upon the top of that long, lofty tower
 
 A bird came up and perched as might a mount, (such) that from it my heart some trouble felt.
 
-Tie branches of a tree its wings and plumes, its feet were like tie bases of a throne.
+Tie branches of a tree its wings and plumes, its feet were like the bases of a throne.
 
-And from tie size it had from head to foot, tie tower was, one might say, reduced to naught.
+And from the size it had from head to foot, the tower was, one might say, reduced to naught.
 
-As long as any column was its beak, a Bistun with a cavern in tie midst.
+As long as any column was its beak, a Bistun with a cavern in the midst.
 
 (Tie bird) would every moment scratch itself, and plume and clean itself unceasingly.
 
-Each feather which it scratched out from tie root scattered (abroad) a shell replete with pearls.
+Each feather which it scratched out from the root scattered (abroad) a shell replete with pearls.
 
 It went to sleep above my head, whilst I despaired as drowning man at water does.
 
-I said, If I take hold of tie bird’s foot, ’twill clutch me in its talons as a prey.
+I said, If I take hold of the bird’s foot, ’twill clutch me in its talons as a prey.
 
-And if I wait, tie place is full of risk, calamity’s below me and above.
+And if I wait, the place is full of risk, calamity’s below me and above.
 
 A faithless man has through (his) baseness done an act so heartless of deceit to me.
 
@@ -642,13 +642,13 @@ And all those brides and beauties of Saray bad gone away, and no one there remai
 
 I, in that verdure, like a yellow rose, remained in meadows by a rivulet.
 
-I laid my bead, (still) heavy with the wine, on dry rose-petals and fresh blooming flowers.
+I laid my head, (still) heavy with the wine, on dry rose-petals and fresh blooming flowers.
 
 I slept from dawn until the evening time, fortune awake, I happily asleep.
 
 When night, musk-deer, its musk-pod opened out, and the sphere, bringing galla, scattered pearls,
 
-I raised (my) bead up from (my) sleeping place, (and) like the verdure sat beside the stream.
+I raised (my) head up from (my) sleeping place, (and) like the verdure sat beside the stream.
 
 As on the night before came cloud and breeze, one scattering pearls, the other offering scent.
 

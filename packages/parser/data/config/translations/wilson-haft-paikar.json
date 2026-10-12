@@ -180,7 +180,10 @@
     "wMcb": "which",
     "bumble": "humble",
     "idm": "him",
-    "bim": "him"
+    "bim": "him",
+    "mysell": "myself",
+    "bas": "has",
+    "Besting": "Resting"
   },
   "corrections": [
     {
@@ -350,6 +353,62 @@
     {
       "pattern": "’his\\b",
       "to": "’tis"
+    },
+    {
+      "pattern": "\\btie (?=(?:sky|courage|top|bases|size|tower|midst|root|bird’s|place)\\b)",
+      "to": "the "
+    },
+    {
+      "from": "His body bead to foot",
+      "to": "His body head to foot"
+    },
+    {
+      "from": "(were Hack)",
+      "to": "(were black)"
+    },
+    {
+      "from": "time be ruled the world, be dressed",
+      "to": "time he ruled the world, he dressed"
+    },
+    {
+      "from": "Stream of Life be lived",
+      "to": "Stream of Life he lived"
+    },
+    {
+      "from": "Said be. See what",
+      "to": "Said he. See what"
+    },
+    {
+      "from": "arm that be may graze",
+      "to": "arm that he may graze"
+    },
+    {
+      "from": "I laid my bead",
+      "to": "I laid my head"
+    },
+    {
+      "from": "raised (my) bead",
+      "to": "raised (my) head"
+    },
+    {
+      "from": "be washed his bands; be sought",
+      "to": "he washed his hands; he sought"
+    },
+    {
+      "from": "his bands and feet",
+      "to": "his hands and feet"
+    },
+    {
+      "from": "dragons in their bands",
+      "to": "dragons in their hands"
+    },
+    {
+      "from": "sword in band.",
+      "to": "sword in hand."
+    },
+    {
+      "from": "a merchant bad with",
+      "to": "a merchant had with"
     }
   ],
   "sections": [

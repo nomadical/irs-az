@@ -176,7 +176,7 @@ By no one’s show of friendship be seduced; consider only as your friend the sw
 
 (So) do your best by (fitting) chastisement not to impair the splendour of your rule.
 
-The king, with trust in us, is given to wine: I have the pen, and you the sword in band.
+The king, with trust in us, is given to wine: I have the pen, and you the sword in hand.
 
 Chastise the rich by (seizing on their) wealth; and circumvent the poor by killing (them).
 

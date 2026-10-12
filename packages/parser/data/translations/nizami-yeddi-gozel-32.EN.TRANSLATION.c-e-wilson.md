@@ -156,7 +156,7 @@ They judged it well to be at peace with him, because they found him of congenial
 
 They were rejoiced to have him as a friend, and set to work to free him (from his bonds).
 
-They loosened from his bands and feet the bonds, and planted kisses on his bands and feet.
+They loosened from his hands and feet the bonds, and planted kisses on his hands and feet.
 
 Many apologies they made to him, and in attention to his business joined.
 

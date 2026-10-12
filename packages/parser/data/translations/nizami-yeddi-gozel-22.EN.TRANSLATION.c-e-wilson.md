@@ -180,7 +180,7 @@ In triumph to his troops he called (aloud), Behold (our) fortune, see (our happy
 
 That we may strike a head off strive again, that we may tear the centre from its place.
 
-Supporting one another (then) they charged, lions beneath them, dragons in their bands.
+Supporting one another (then) they charged, lions beneath them, dragons in their hands.
 
 The right retired, the left wing fled away, the centre poured into the vanguard’s rear.
 
