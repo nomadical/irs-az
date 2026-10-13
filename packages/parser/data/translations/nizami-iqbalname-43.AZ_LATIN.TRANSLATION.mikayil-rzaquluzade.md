@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Müğənni, ruh verən sazını bir al,
 Bizə ürək açan xoş bir hava çal!

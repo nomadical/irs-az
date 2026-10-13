@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Günlərin bir günü, bir səhər erkən
 Xosrov çıxdı çölə, könlü xeyli şən.

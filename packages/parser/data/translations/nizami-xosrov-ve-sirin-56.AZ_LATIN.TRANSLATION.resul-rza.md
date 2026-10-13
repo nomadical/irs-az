@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Şah dinlədi bir-bir hər danışanı,
 Əmr etdi: "Gətirin o dağ çapanı!"

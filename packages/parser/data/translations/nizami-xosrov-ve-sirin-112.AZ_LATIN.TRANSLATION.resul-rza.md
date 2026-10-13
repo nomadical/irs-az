@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Ayın işığını gecə örtərək,
 Div kimi azmışdı yolundan fələk.

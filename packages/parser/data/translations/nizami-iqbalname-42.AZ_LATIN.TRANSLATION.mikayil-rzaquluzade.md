@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Müğənni, yorubdur bəm səslər məni,
 Zil üstə qaldır sən indi naləni!

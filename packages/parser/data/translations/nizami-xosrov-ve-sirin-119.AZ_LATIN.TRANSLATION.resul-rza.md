@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Nizami, nə qədər səndə can durur,
 Daim aşağı düş, istəyim budur!

@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Saqi, gəl, qədəhi doldur mey ilə,
 Al ələ nəğməylə, çalğı, ney ilə!

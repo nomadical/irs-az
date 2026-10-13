@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Gəl məni azad et, saqi, “yox” demə!
 Qədəhdən göz yaşı tök ətəyimə.

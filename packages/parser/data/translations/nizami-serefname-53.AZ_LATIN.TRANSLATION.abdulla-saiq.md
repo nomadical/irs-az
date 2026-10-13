@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Firuzə rəngli tağ ertəsi günü
 Dağ-daşdan ucaltdı yaqut güzgünü.

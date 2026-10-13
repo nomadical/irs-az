@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Qızıl bayrağını açanda aləm,
 Dağılmış qoşuntək qaçıb getdi qəm.

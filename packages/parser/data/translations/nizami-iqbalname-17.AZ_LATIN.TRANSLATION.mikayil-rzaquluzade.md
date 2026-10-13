@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Müğənni, o könül açan saz ilə
 Mənim də könlümü bir aç, saz elə!

@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Bəndəyə əl tutan sənsən, ilahi,
 Yoxdur səndən başqa onun pənahı.

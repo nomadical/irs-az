@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Şah bir gün Şapura dedi: "Söylə, mən
 Nə qədər ayrılım öz sevgilimdən?

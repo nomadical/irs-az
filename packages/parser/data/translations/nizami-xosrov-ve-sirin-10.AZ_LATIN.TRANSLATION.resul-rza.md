@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Tez ol, ey səhərin gözəl nəsimi!
 Çatdı mehribanlıq, nəvaziş dəmi.

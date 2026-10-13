@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Yenə Xosrov dedi: "Bu ulduz cirmi
 Nəyə minmiş, söylə, bir kəs bilirmi?

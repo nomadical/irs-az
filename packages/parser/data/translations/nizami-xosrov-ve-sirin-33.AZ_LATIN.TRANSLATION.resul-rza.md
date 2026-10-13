@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Şirini götürüb qayıtdı Şapur,
 Ancaq gördü Xosrov o yerdə yoxdur.

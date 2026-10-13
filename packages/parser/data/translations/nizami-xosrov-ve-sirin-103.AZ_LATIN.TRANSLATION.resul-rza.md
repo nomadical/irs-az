@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Xosrov dedi: "Söylə, bu canlar ki, var,
 Öz yuvalarından necə uçarlar?"
