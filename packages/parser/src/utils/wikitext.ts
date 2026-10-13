@@ -36,11 +36,11 @@ export function wikitextToMarkdown(wikitext: string): string {
   text = text.replace(/^\*\*/gm, '    -');
   text = text.replace(/^\*/gm, '-');
 
-  // Convert bold: '''text''' → **text**
-  text = text.replace(/'''([^']+)'''/g, '**$1**');
+  // Convert bold: '''text''' → **text**; Markdown takes no spaces inside the markers ("''' Hökümət qapısında '''")
+  text = text.replace(/'''[ \t]*([^']+?)[ \t]*'''/g, '**$1**');
 
   // Convert italic: ''text'' → *text*
-  text = text.replace(/''([^']+)''/g, '*$1*');
+  text = text.replace(/''[ \t]*([^']+?)[ \t]*''/g, '*$1*');
 
   // Convert internal links: [[Page|display]] → display, [[Page]] → Page
   text = text.replace(/\[\[(?:[^|\]]*\|)?([^\]]+)\]\]/g, '$1');

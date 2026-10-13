@@ -33,7 +33,7 @@ Next batch (az.wikisource author pages; counts are linked pages that exist, unch
 - [x] Xəstə Qasım — XVIII, AZ — wikisource, 81 poems (one page is Molla Qasım's, the dastan page is red)
 - [x] Firidun bəy Köçərli — XX, AZ criticism — wikisource, 35 articles and 61 chapters of Azərbaycan ədəbiyyatı (vol. II is only partly on wikisource)
 - [x] Fatma xanım Kəminə — XIX, AZ — wikisource, 18 ghazals and a qoşma
-- [ ] Üzeyir Hacıbəyov — XX, AZ librettos + satire — wikisource, ~18
+- [x] Üzeyir Hacıbəyov — XX, AZ librettos + satire — wikisource, 2 comedies, 5 libretti (Rüstəm və Söhrab: act I only), 10 articles and sketches, Milli marş
 - [ ] Mir Möhsün Nəvvab — XIX, AZ + FA — wikisource, ~16
 - [ ] Qövsi Təbrizi — XVII, AZ — wikisource, ~15
 - [ ] Nəriman Nərimanov, Əli bəy Hüseynzadə, Heyran xanım, Mirzə Ələsgər Növrəs, Kişvəri — wikisource, 5–12 each

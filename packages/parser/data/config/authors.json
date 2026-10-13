@@ -1412,5 +1412,26 @@
       "az": "Fatma xanım Kəminə"
     },
     "collections": []
+  },
+  {
+    "slug": "hacibeyov",
+    "nameAz": "Üzeyir Hacıbəyov",
+    "nameRu": "Узеир Гаджибеков",
+    "nameEn": "Uzeyir Hajibeyov",
+    "type": "PLAYWRIGHT",
+    "period": "XX əsr",
+    "writingLangs": ["AZ_ARABIC"],
+    "wikipedia": {
+      "az": "Üzeyir Hacıbəyov",
+      "ru": "Гаджибеков, Узеир Абдул-Гусейн оглы",
+      "en": "Uzeyir Hajibeyov"
+    },
+    "wikisource": {
+      "az": "Üzeyir Hacıbəyov",
+      "az_titles": {
+        "Rüstəm və Söhrab (opera)/Birinci məclis": "Birinci məclis"
+      }
+    },
+    "collections": []
   }
 ]

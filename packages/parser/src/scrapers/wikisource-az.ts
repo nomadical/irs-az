@@ -293,11 +293,11 @@ function pageText(wikitext: string): string {
 
 function genreOf(label: string): Genre | undefined {
   const l = label.toLocaleLowerCase('az');
-  if (/dram|pyes|komediya|faciə|tamaşa/.test(l)) return 'PLAY';
+  if (/dram|pyes|komediya|faciə|tamaşa|opera|libretto/.test(l)) return 'PLAY';
   if (/məqalə|publisist|felyeton/.test(l)) return 'ESSAY';
   if (/mənzum/.test(l)) return 'POEM'; // "Mənzum hekayətlər" are tales in verse
   // A dastan is a folk tale told in prose, the songs set into it
-  if (/hekayə|povest|roman|^dastan|(^|\s)nəsr/.test(l)) return 'PROSE';
+  if (/hekayə|povest|roman|^dastan|miniatür|(^|\s)nəsr/.test(l)) return 'PROSE';
   if (/fərman|hökm|məktub/.test(l)) return 'LETTER';
   if (/xatirə/.test(l)) return 'MEMOIR';
   return undefined;
