@@ -641,6 +641,11 @@ export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePla
     if (split && typeof split === 'object' && (split.separator || split.starts)) continue;
     const params = vet(page, entry.title);
     if (!page || !params) continue;
+    // A listed index takes everything under it along ("Təzkireyi-Nəvvab": a 2018 translation)
+    if (skipSources.has(`wikisource-az-${page.pageid}`)) {
+      plan.skipped.push({ title: page.title, reason: 'skip-list' });
+      continue;
+    }
 
     const parts = await continuation(page);
     const hasChildren =

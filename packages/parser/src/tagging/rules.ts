@@ -159,6 +159,7 @@ const AUTHOR_ERA: Record<string, string> = {
   tufarqanli: 'sefevi-dovru',
   kocerli: 'maarifcilik',
   kemine: 'maarifcilik',
+  nevvab: 'maarifcilik',
   axundzade: 'maarifcilik',
   sabir: 'maarifcilik',
   'seyid-ezim': 'maarifcilik',

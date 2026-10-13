@@ -1433,5 +1433,24 @@
       }
     },
     "collections": []
+  },
+  {
+    "slug": "nevvab",
+    "nameAz": "Mir Möhsün Nəvvab",
+    "nameRu": "Мир Мохсун Навваб",
+    "nameEn": "Mir Mohsun Navvab",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": ["AZ_ARABIC", "FA"],
+    "skipSources": ["wikisource-az-30018"],
+    "wikipedia": {
+      "az": "Mir Möhsün Nəvvab",
+      "ru": "Навваб, Мир Мохсун",
+      "en": "Mir Mohsun Navvab"
+    },
+    "wikisource": {
+      "az": "Mir Möhsün Nəvvab"
+    },
+    "collections": []
   }
 ]
