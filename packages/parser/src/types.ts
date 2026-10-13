@@ -249,6 +249,8 @@ export interface AuthorConfig {
     manuscripts: string[]; // Digital Walters ids, e.g. "W610"
     poems: { match: string; collection: string }[]; // poem name (diacritics off) → collection slug; "" = author only
   };
+  /** The 2004–2005 Latin-script state reprints the National Library serves; see scrapers/latin-reprint */
+  reprint?: { volumes: import('./scrapers/latin-reprint').ReprintVolume[] };
   ganjoor?: {
     poetUrl?: string; // e.g. "https://ganjoor.net/fuzuli"
     poetId?: number; // Ganjoor poet ID for API calls

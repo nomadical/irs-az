@@ -1672,5 +1672,114 @@
       }
     },
     "collections": []
+  },
+  {
+    "slug": "saiq",
+    "nameAz": "Abdulla Şaiq",
+    "nameRu": "Абдулла Шаиг",
+    "nameEn": "Abdulla Shaig",
+    "type": "WRITER",
+    "period": "XX əsr",
+    "writingLangs": [
+      "AZ_LATIN"
+    ],
+    "wikipedia": {
+      "az": "Abdulla Şaiq",
+      "ru": "Абдулла Шаик",
+      "en": "Abdulla Shaig"
+    },
+    "reprint": {
+      "volumes": [
+        {
+          "bibid": 8372,
+          "sections": {
+            "HEKAYƏLƏR": {
+              "collection": "saiq-hekayeler",
+              "titleAz": "Hekayələr",
+              "genre": "PROSE",
+              "layout": "prose"
+            },
+            "POVEST": {
+              "collection": "saiq-povestler",
+              "titleAz": "Povestlər",
+              "genre": "PROSE",
+              "layout": "prose"
+            },
+            "ROMANLAR": {
+              "collection": "saiq-romanlar",
+              "titleAz": "Romanlar",
+              "genre": "PROSE",
+              "layout": "prose"
+            }
+          }
+        },
+        {
+          "bibid": 8374,
+          "sections": {
+            "ŞEİRLƏR": {
+              "collection": "saiq-seirler",
+              "titleAz": "Şeirlər",
+              "genre": "POEM",
+              "layout": "verse"
+            },
+            "QƏZƏLLƏR": {
+              "collection": "saiq-qezeller",
+              "titleAz": "Qəzəllər",
+              "genre": "POEM",
+              "layout": "verse",
+              "form": "GHAZAL"
+            },
+            "POEMALAR": {
+              "collection": "saiq-poemalar",
+              "titleAz": "Poemalar",
+              "genre": "POEM",
+              "layout": "verse"
+            },
+            "PYESLƏR": {
+              "collection": "saiq-pyesler",
+              "titleAz": "Pyeslər",
+              "genre": "PLAY",
+              "layout": "play"
+            }
+          }
+        },
+        {
+          "bibid": 8379,
+          "sections": {
+            "ŞEİRLƏR": {
+              "collection": "saiq-usaq-seirleri",
+              "titleAz": "Uşaqlar üçün şeirlər",
+              "genre": "POEM",
+              "layout": "verse"
+            },
+            "MƏNZUM HEKAYƏLƏR VƏ POEMALAR": {
+              "collection": "saiq-menzum-hekayeler",
+              "titleAz": "Mənzum hekayələr və poemalar",
+              "genre": "POEM",
+              "layout": "verse"
+            },
+            "HEKAYƏLƏR": {
+              "collection": "saiq-usaq-hekayeleri",
+              "titleAz": "Uşaqlar üçün hekayələr",
+              "genre": "PROSE",
+              "layout": "prose"
+            },
+            "TƏMSİLLƏR": {
+              "collection": "saiq-temsiller",
+              "titleAz": "Təmsillər",
+              "genre": "PROSE",
+              "layout": "prose"
+            },
+            "PYESLƏR": {
+              "collection": "saiq-pyesler",
+              "titleAz": "Pyeslər",
+              "genre": "PLAY",
+              "layout": "play"
+            }
+          }
+        }
+      ]
+    },
+    "collections": []
   }
 ]

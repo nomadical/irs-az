@@ -46,7 +46,8 @@ Housekeeping:
 Now eligible under the Soviet-era and Iranian Azerbaijani exceptions:
 - [x] Şəhriyar — ganjoor: Heydərbabaya salam (both parts; Sarvatian's interleaved Persian translation dropped), 30 Azerbaijani poems, 162 Persian ghazals
 - [x] Əliağa Vahid — his 13 Xaqani translations on wikisource are AZ translations of Xaqani's ghazals (13, 31, 47, 70, 107, 121, 195, 204, 238, 239, 241, 332, 341), matched by hand; he has only one poem of his own there
-- [ ] Abdulla Şaiq — no author page on wikisource and one poem of his own there ("Gəlsin"); needs another source, e.g. the National Library's PDFs
+- [x] Abdulla Şaiq — 357 works from the National Library's PDFs of the 2005 Avrasiya Press reprint (3 vols): stories, Xasay, the novels, poems, ghazals, poemas, plays in acts, children's verse, tales and fables (`scrape-reprint`)
+- [ ] Other authors in the 2004–2005 Latin-script state reprints on web2.anl.az: `scrape-reprint` reads their font and layout
 - And later Soviet-era authors
 
 ## Later

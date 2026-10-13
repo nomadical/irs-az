@@ -200,6 +200,8 @@ export function tagsFor(work: WorkFacts): TagResult {
   }
   if (isPoem && work.collectionTitle && ASHUG_FORMS.test(work.collectionTitle)) tags.add('asiq-poeziyasi');
   if (MODERN_AUTHORS.has(work.authorSlug) && CHILDREN_TITLE.test(work.titleAz)) tags.add('usaqlar-ucun');
+  // A book's children's section ("Uşaqlar üçün şeirlər")
+  if (work.collectionTitle && /uşaqlar üçün/i.test(work.collectionTitle)) tags.add('usaqlar-ucun');
   if (/mərsiyə/i.test(work.titleAz)) tags.add('mersiye');
 
   const era = (work.year && eraByYear(work.year)) || AUTHOR_ERA[work.authorSlug];
