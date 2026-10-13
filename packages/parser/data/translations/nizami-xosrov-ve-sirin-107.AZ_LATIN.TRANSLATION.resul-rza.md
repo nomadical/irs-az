@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -15,20 +15,20 @@ status: DRAFT
 Dördüncü söylədi: sorsanız əgər,
 Bu, gəlin evində bir şəxsə bənzər.
 
-Qucağına alıb aytəx gözəli,
-O bir gözəl qızdır, ancaq Kİ, dəli.
+Qucağına alıb aytək gözəli,
+O bir gözəl qızdır, ancaq ki, dəli.
 
 Gözəlliyi qoymur ondan ayrıla,
-Dəlilik qoymur Kİ, qız gəlsin yola.
+Dəlilik qoymur ki, qız gəlsin yola.
 
-Qızın dəliliyi şiddət edirxən,
-Ceyran Kimi Kişi qaçır o şirdən.
+Qızın dəliliyi şiddət edirkən,
+Ceyran kimi kişi qaçır o şirdən.
 
 Möbidlər danışıb söhbət etdilər,
 Görməmiş, bilməmiş qeybət etdilər.
 
 Öləndə dedilər: təəssüf olsun,
-Şahmatdan Kənarmış bizim bu oyun.
+Şahmatdan kənarmış bizim bu oyun.
 
 Bir əfsanə deyir ölümdən hər kəs,
 Ölməyən ölümün sirrini bilməz.

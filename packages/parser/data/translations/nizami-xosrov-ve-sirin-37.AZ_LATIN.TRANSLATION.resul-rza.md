@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -15,7 +15,7 @@ status: DRAFT
 Asimantək, yaşıl geymiş o qoca
 Cavan budaqları işə salınca.
 
-Cavanı, qocanı - tamam nə Kİ, var,
+Cavanı, qocanı - tamam nə ki, var,
 Gülzarın seyrinə yenə çıxarar.
 
 Kavus təxtini gül çıxarar yerdən,
@@ -40,21 +40,21 @@ Bənövşə xumardı, gül məstdi tamam.
 Bütün aşiqlərə çatmışdı xəbər.
 
 Şimal yeli çölə səs salıb yenə,
-Vurdu fılqulağı Öküzgözünə.
+Vurdu filqulağı öküzgözünə.
 
 Yer paltar geymişdi xoruzgülündən,
-Çiçəkiərə olmuş Mörvənguş məskən.
+Çiçəklərə olmuş Mörvənguş məskən.
 
-Çəməndə sərvlər nə qədər yüxsək,
-Lalələr eşqdən yırtmışdı koynək,
+Çəməndə sərvlər nə qədər yüksək,
+Lalələr eşqdən yırtmışdı köynək,
 
 Bənövşə çiyninə hörük salmışdı,
 Nəsrin sırğasını yellər almışdı.
 
 Əl üzdə durmuşdu reyhanlar qoşa,
-Çiçəkiər sancmışdı darağı başa.
+Çiçəklər sancmışdı darağı başa.
 
-ikicanlı yerdən çıxan bitkilər
+İkicanlı yerdən çıxan bitkilər
 Açmışdı çəməndə, düzdə təzətər.
 
 Yaşıllığa düşür göydən incilər,
@@ -63,7 +63,7 @@ Zümrüd üzərinə yığırdı gövhər.
 Süddən doymuş ceyran bu xoş gündüzdə
 Çıxıb anasıyla gəzirdi düzdə.
 
-Qırqovul açmışdı qanad reyhana.
+Qırqovul açmışdı qanad reyhana,
 Əlvan qanad vermiş reyhan da ona.
 
 Hər şaxda bir təzə bahar çiçəyi,
@@ -72,13 +72,13 @@ Hər şaxda bir təzə bahar çiçəyi,
 Cəh-cəh vuran bülbül, oxuyan turac
 Aşiqlər səbrini edirdi tarac.
 
-Məhəbbətlə dolub çağlancən bahar
-Sevgisiz yaşayan Könüldən ağlar.
+Məhəbbətlə dolub çağlarkən bahar
+Sevgisiz yaşayan könüldən ağlar.
 
-Xosrov, Şirin hər gün qayğıdan azad.
-Gəzirdilər böylə Könülləri şad.
+Xosrov, Şirin hər gün qayğıdan azad,
+Gəzirdilər böylə könülləri şad.
 
-Gah bir çəmənimdə mey içirdilər,
+Gah bir çəmənlikdə mey içirdilər,
 Gah da bir dağlıqda gül seçirdilər.
 
 Əldə badə, gəzib reyhanlıqları,
@@ -88,25 +88,25 @@ Bağladılar çayın yanında atı,
 Ucaldı rud səsi, qalxdı bayatı.
 
 Şəkər gülüşləri dadlı Şirinin
-Şahrud qamışmı eylədi şirin.
+Şahrud qamışını eylədi şirin.
 
 Neysandan feyz aldı sanki sədəflər,
 Şirinin üzündən nurlandı o yer.
 
 Müşki saçlarından ucuzdu ənbər,
-Qurban Kəsmiş şirin ləbinə şəxər.
+Qurban kəsmiş şirin ləbinə şəkər.
 
 Balıyla şəkərə güldü o qədər,
 Xuzistana çatdı fəğani-şəkər.
 
 Müfərrəhlə olmuş nəsimi dəmsaz,
-Ətrindən müşkiər edirdi pərvaz.
+Ətrindən müşklər edirdi pərvaz.
 
-Şah Kimi boy atmış sərvi yuxarı,
+Şah kimi boy atmış sərvi yuxarı,
 Heçdir ona cənnət ağaclıqları.
 
 Nərgiz gözlərini gül görən zaman
 Cırdı üz-gözünü utandığından.
 
 Cəlalda gülləri ötən yasəmən
-Bir Kəniz olmuşdu Şirinə qəlbən.
+Bir kəniz olmuşdu Şirinə qəlbən.

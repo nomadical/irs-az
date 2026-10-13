@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -33,7 +33,7 @@ Döyüşə çağırdı versin imtahan,
 Toppuzu başından vurunca birdən
 Rusda nə baş qaldı, nə qol, nə bədən.
 
-Başqası kükrədi, onu da yardı.
+Başqası kükrədi, onu da yardı,
 Qarşıya çıxandan beyin qopardı.
 
 Qılıncda, qədəhdə, şöhrətli, şanlı,
@@ -51,8 +51,8 @@ Toppuzlar oynadı göydə yan-yana,
 Alanlı döyüşə girdiyi zaman,
 Bildi ki, acizdir talesiz düşman.
 
-Toppuzu başından elə endirdi.
-Baş, beyin dağıldı, qamma girdi.
+Toppuzu başından elə endirdi,
+Baş, beyin dağıldı, qarnına girdi.
 
 Düşmənin başını salınca yerə,
 Qürurla boynunu çəkdi göylərə.
@@ -69,14 +69,14 @@ Hər əldə bir qılınc - nəhəngdən nişan,
 Alanlı üstünə at səyirdərək
 Parlayan qılıncdan oynatdı şimşək:
 
-Fərincə görüncə adlı igidi.
+Fərincə görüncə adlı igidi,
 Qalxanı qanadtək çiyninə tikdi.
 
 Şərvə bir qılıncla saldı nəfəsdən,
 Çırpındı, can quşu uçdu qəfəsdən.
 
 Eysudan bir məğrur susadı qana,
-Atmı od kimi çapdı meydana.
+Atını od kimi çapdı meydana.
 
 Mərdliklə çalışdı, göstərdi hünər,
 Şərvəyə aslanlıq və fayda verər?
@@ -109,64 +109,61 @@ Dəvalı görüncə elə bir gərdən,
 Gərdən yox, meydanda gərdənlər yeyən.
 
 İlantək qıvrıldı, istədi yaraq
-«**3332 &££€*>»>
-
 Düşməni yıxmağa hazır olaraq.
+
 Başına dəbilqə qoyaraq o şir,
-
 Özü Çin poladı, üzü xas dəmir,
+
 Zəhərli qılıncı boynuna saldı,
-
 Saç kimi hörülmüş kəməndi aldı
-Atmı sardı bir dəmir örtüyə,
 
+Atını sardı bir dəmir örtüyə,
 Dağ kimi atıldı tez üzəngiyə.
+
 Düşmənin üstünə çapdı gülərək,
-
 Məktəbdən evinə dönən çocuqtək.
+
 Cərəm görən kimi o pəhləvanı,
-
 Qorxdu bu döyüşdən, titrədi canı.
+
 Çətindi o yerdən geri qayıtmaq,
-
 Çarəsiz ölümə boyun qoyaraq,
+
 Dəvalı səmtinə çapdı sürətlə
-
 Aslanla döyüşdə başladı hiylə.
+
 Dəvalı düşmənin qıvrılmasından,
-
 Özünə örkəntək sarıldı yaman.
+
 Ortada çox sözlər keçdi, müxtəsər,
-
 Xeyirçün bir söz də söyləmədilər.
+
 Dəvalı coşunca kinin selindən
-
 Qılıncı endirdi düşmən belindən.
+
 Şığıdı, zəhmətsiz ortadan keçdi,
-
 O ağır qayanı ikiyə biçdi.
-Bir sərxoş fil kimi qardaşı vardı.
 
-Qanmı almaqçm meydana vardı.
+Bir sərxoş fil kimi qardaşı vardı,
+Qanını almaqçın meydana vardı.
+
 Aldı Dəvalıdan sağalmaz yara,
-
 Çəkildi qardaşı yatan çadıra.
+
 Güldü bəxt o polad arxalı dağa,
-
 Çox ordu qıranı sərdi torpağa,
+
 Codrə adlı bir rus oxudu meydan.
-
 Südəmər ceyrandı ona hər aslan,
+
 Qocaman gövdəli, güclü, döyüşkən,
-
 Meydanda təklikdə bir ordu yenən.
-Boynundan asmış çox igid qanmı,
 
+Boynundan asmış çox igid qanını,
 Çox boyun çəkənin almış canını,
-Qurşaqda düyünü çox möhkəm vurdu,
 
+Qurşaqda düyünü çox möhkəm vurdu,
 At sürüb Daəvalı önündə durdu.
-««ac-gşja
 
 Qılınclar oynadı kin ilə dolu,
 Bağlandı ayağın qaçacaq yolu.
@@ -192,7 +189,7 @@ Sağaldan bir dərman qoysun yaraya.
 Çox şəfqət göstərsin köməyə gedən,
 Dəvalı sağalsın o xəstəlikdən.
 
-Geçə öz başına örtük çəkəndə
+Gecə öz başına örtük çəkəndə
 Ay başından düşdü müşkin kəməndə.
 
 Hər iki tərəfdə durdu qarovul,

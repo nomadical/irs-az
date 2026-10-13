@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -19,7 +19,7 @@ Keyxosrov ayinli olum o camdan,
 Onunla gözümdə parlasın cahan.
 
 Çəkinək sitəmdən, gəl zülmü ataq,
-Ədi ilə mümkündür bundan qurtulmaq.
+Ədl ilə mümkündür bundan qurtulmaq.
 
 Dünyaya bağlama könül, yağıdır,
 Həm quldur, həm qorxunc div yatağıdır.
@@ -54,7 +54,7 @@ Uzaqdı dünyanın həvəslərindən.
 Saf, duru şərabla şahlıq camını
 Doldurur, boşaldır, alır kamını.
 
-Hikmət sahibləri gəlmiş yanma,
+Hikmət sahibləri gəlmiş yanına,
 Ağıl da, tədbir də köməkdi ona.
 
 Yüz nəğmə başladı çox sədalı çəng,
@@ -84,125 +84,122 @@ Göydə bədirlənmiş bir Aya bənzər.
 Daradan bir elçi gəldi bu zaman,
 Ürəkli, daşqınlı, dilli, qəhrəman.
 
-«*$©££& 111 C
 Şahpərəstlər kimi göstərdi hörmət,
+Onu və Daranı öydü, nəhayət.
 
-Onu və Daram öydü, nəhayət.
 Adlı qəhrəmana etdi çox səna,
-
 Daranın əmrini yetirdi ona,
+
 Öncə öz şahından salam yetirdi,
-
 Köhnəlmiş xəracı dilə gətirdi:
+
 “Neçin şah əsirgər gövhəri, tacı,
-
 Çoxdandır verməyir bizim xəracı?
+
 Məndə bir acizlik görmüşmü? Nədən
-
 Başını qaçırmış pərgar xəttindən?
+
 Köhnə adətləri atsa boynundan,
-
 Sərkəşlik edərsə, çəkəcək “ziyan”.
+
 İskəndər alovlu şimşəktək çaxdı,
-
 Qəlbinin atəşi dilini yaxdı.
-Əyildi qaşınm kaman guşəsi,
 
+Əyildi qaşının kaman guşəsi,
 Qorxudan elçinin söndü nəfəsi.
+
 Elə ki, eşitdi bu kinli sözü,
-
 Dimağı odlandı, parladı gözü.
+
 Acığı dilinə edincə əsər,
-
 Söylədi qasidə yaramaz sözlər.
-Şahın gözlərindən qəzəb yağırdı.
 
+Şahın gözlərindən qəzəb yağırdı,
 Qasidə dediyi sözlər ağırdı.
+
 Düşüncəsi, ağlı sağlam olan kəs
-
 Lüzumsuz sözləri söyləməz əbəs.
+
 Qızışanda dili səbr etsə bir az
-
 Tutduğu işindən peşiman olmaz.
+
 Min-min sərrast sözə tapsa da zəfər,
-
 Susmaq söyləməkdən çox fayda verər.
+
 Nə gözəl söyləmiş qoca bir ərən:
-
 “Dil ətdən yaranmış, qılınc dəmirdən”.
-Sözünün mülkünə olmaz hökmıiran
 
+Sözünün mülkünə olmaz hökmüran
 Dilinə gələni söyləyən insan.
+
 Kəyana mənsub ən qoca bir nəfər
-
 Həmin hadisəni belə nəğl edər:
+
 Qiymətli qılıncdan, gövhərdən, tacdan
-
 Daranın xəracı getdiyi zaman,
+
 Dəyərli gövhərlər içində, hətta,
-
 Varmış bir təbii, qızıl yumurta.
+
 O incə naxışlı şahanə büsat,
-
 Verərdi görənə təzə bir nişat.
+
 Dilini o qasid edincə polad,
+Köhnəlmiş xəracı eləyincə yad,
 
-Köhnəlmiş xəracı eləyincə yad.
 Bağırdı: “Möhkəmdir başımdakı tac,
-
 Qızmış bir aslandan alınmaz xərac.
+
 Başqa bir ayinə girmişdir cahan,
-
 Qalmamış o qızıl yumurta doğan.
-O köhnə büsatı bu dövran sildi.
 
+O köhnə büsatı bu dövran sildi,
 Keçmiş ayinlərə qələm çəkildi.
+
 Hər zaman cəvahir çıxarmı daşdan?
-
 Dünya gah sülh istər, gah vuruş, gah qan.
+
 Bu qədər qürurla çəkmə boş nəfəs,
-
 Qılıncla cavab ver, danışma əbəs.
+
 Yetməzmi qılıncım qan dama-dama
-
 Taxtını çəkməmiş mənim altıma?
+
 Mənim də var ikən qılıncım, taxtım,
-
 Lakin bu dünyanı sənə buraxdım.
+
 O qədər səndə var cəlal, təmtəraq,
-
 Mənə də belə bir guşəni burax.
+
 O yerə yetirmə “gücüm var” deyə,
-
 Səninlə çarpışım pəncə-pəncəyə.
+
 Ataraq hörməti, rəsmi, həyanı
-
 Kinimlə coşdurum qəlbimdə qanı.
+
 Şah eşitmədimi edərkən savaş
-
 Qopardım zəncidən mən nə qədər baş?
+
 Bir at çapmağımla getdim mən hara,
-
 Atdım dikbaşları toz-torpaqlara.
+
 Bir şah ki şahlara verir taxt və tac
-
 Miskinlər kimi heç verirmi xərac?
+
 Məndən Misri istə, istəmə gövhər,
-
 Misir qızılıtək sözə ver zivər.
+
 Bax, sərvət, dövlətim qalxmış nə yerə,
-
 Tələb et məndən öz rütbəmə görə.
-Qaldırma fitnəni, coşdurma kini,
 
+Qaldırma fitnəni, coşdurma kini,
 Gəl, viran eləmə İran mülkünü!
-nz
 
 Çatmışdır əlinə böyük məmləkət,
 Şükr elə, yetməzmi bu qədər dövlət?
 
 Zamanın meylini gəl dolandırma,
-Bu fi kr ə qələm çək, su bulandırma.
+Bu fikrə qələm çək, su bulandırma.
 
 İstəmə verilməz şeyi, padişah!
 Rəftar et, necə ki, edir iki şah”.
@@ -253,64 +250,61 @@ Bilərək, üz qoydu Yunana sarı.
 Atəşdə mum kimi şölə saçaraq,
 
 Ədəblə qeysərə baş əydi öncə.
-«“Xrgäşj
-
 Pərəstiş və ayin başa gəlincə
+
 Söz düyümlərini sürətlə üzdü,
-
 Söylənən sözlərdən bir inci düzdü:
+
 “Canlara hakimdir fərman verənlər,
-
 Buyruq qullarıdır göndərilənlər.
+
 Şövkətli padişah versə hər əmr,
-
 İtaət eyləmək bir vəzifədir”.
+
 İskəndər bildi ki, bu üzr istəyən
-
 Ağır bir fərmanla gəlmiş yerindən.
+
 Acıqlı gülərək dedi: “Ərz qıl!”
-
 Qasidin dilindən açıldı qıfıl.
+
 Qasidin Daradan gətirdiyi mal,
-
 İskəndər önündə qoyuldu dərhal.
+
 Elə ki, mətahı ortaya saçdı,
-
 Daranın əmrindən qasid söz açdı.
+
 Başladı çövkandan, topdan əvvəlcə:
-
 “Uşaqsan, sənə top olsun əyləncə,
+
 İstəyin mənimlə çarpışmaq olsa,
-
 Qəlbinə boş yerə sıxıntı dolsa, -
+
 Küncüdü saraya səpərək durdu, -
-
 Qarşına çıxarram bundan çox ordu”.
+
 Dünyanı sarsıdan böyük İskəndər,
-
 Gördü bu fallarda şanlı bir zəfər.
+
 Bir məsəl çəkdi ki, qaçdığı zaman,
-
 Hər şeyi qarşıma çəkər bu çövkan.
+
 Onunçun göndərmiş Dara çövkanı,
-
 Özümə çəkim bu köhnə dünyanı,
+
 Yuvarlaq bu topu hər heyətşünas
-
 Yerin kürəsiylə eyləmiş qiyas.
+
 Şəhriyar onunçun göndərmiş bunu,
-
 Çövkanla qazanım onun topunu.
+
 Daranın fikrini bilincə salar
-
 Kinini güncüddə etdi aşikar.
+
 Güncüdu dağıtdı evə, eşiyə,
-
 Quşları səslədi, dənləsin deyə.
-Darıya daraşdı saray quşları,
 
+Darıya daraşdı saray quşları,
 Qalmadı bu yerdə bir dənə darı.
-115 »
 
 Bu cavabda elə qəti məna var,
 Küncüdün yağını sıxıb çıxarar.
@@ -327,7 +321,7 @@ Mənim də ordumun qədəri, bax, bu!”
 Qasid İskəndərdən eşidib bunu,
 Yüklədi ulağa ağır yükünü.
 
-Daraya Yunandan gətirdi cavab.
+Daraya Yunandan gətirdi cavab,
 Bu ağır cavaba kim gətirər tab?
 
 Daranın cavabdan qızardı gözü,

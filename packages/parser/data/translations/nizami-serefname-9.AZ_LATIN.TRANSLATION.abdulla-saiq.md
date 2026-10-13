@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -24,7 +24,7 @@ Ey xuraman bulud, mişkin ətir saç.
 Gurla, ey ildırım, şahın təblitək,
 Dan dodağı kimi gül, gül, ey şimşək.
 
-Sən də saf qətrəni yağdır, ey bulud.
+Sən də saf qətrəni yağdır, ey bulud,
 Ey sədəf, qətrəni qucağında tut.
 
 Ey inci, üzə çıx söz dənizindən,
@@ -51,7 +51,7 @@ Düşmən son düşünən, ürəyində kin,
 Qılınc sahibidir, tac verən şahdır,
 Üç növbət vurandır, beşə pənahdır.
 
-Atmı Rüstəmlər üstünə sürər,
+Atını Rüstəmlər üstünə sürər,
 Həm taxtı bəzəyər, həm də tac verər.
 
 Adətdir, dünyanın ulu şahları,
@@ -127,7 +127,7 @@ Hər yeni nemətdən dağıdır xalqa,
 Neməti çay kimi axıdır xalqa.
 
 Yaxşılıq ardınca getsə hər zaman,
-Yaxşınm adını unutmaz cahan.
+Yaxşının adını unutmaz cahan.
 
 Demirəm dənizdir uca şövkətin,
 Bir mədən qədər var ağır qiymətin.
@@ -144,7 +144,7 @@ Hər ev süfrəsindən bir nemət almış.
 Adı Keyxosrovla olmuş bərabər,
 Nəsəbi ucadır Keyqubad qədər.
 
-Atmı hansı bir səhraya çapmış,
+Atını hansı bir səhraya çapmış,
 Hər qanqal ətəyi əşrəfi tapmış.
 
 Yer, xəzinəsnindən bir çuval tikmiş,
@@ -162,16 +162,16 @@ Həm mülkün, həm həyat suyun var, əhsən.
 Fəth etdin İskəndər kimi dünyanı,
 Xızrtək doğrultdun yoldan azanı.
 
-Hər şeyin ucadir uca admtək,
+Hər şeyin ucadır uca adıntək,
 Yalnız bir şeyin yox - tayın yox demək.
 
 Aslanlar ovuna çıxdığın zaman
 Bir oxla edərsən iki ov nişan.
 
-Fillərlə döyüşdə atmca kəmənd,
-Qənnucun şahını edərsən fılbənd.
+Fillərlə döyüşdə atınca kəmənd,
+Qənnucun şahını edərsən filbənd.
 
-Şir gur ovlayanda sən olsan orda.
+Şir gur ovlayanda sən olsan orda,
 Nə ki şir, ovlarsan Bəhram Guru da.
 
 Kim əyməz başını, əmr etsən: “Əyil!”
@@ -228,7 +228,7 @@ Unudan deyilsən, gözəl vəfan var.
 Bəzəyindir sənin bu altı cəhət,
 Səndən ayrılmasın bu altı xislət.
 
-İki tərlan gərək ölkə qurmaqda.
+İki tərlan gərək ölkə qurmaqda,
 Xəzinə yığmaqda, şikar vurmaqda.
 
 İki ilan gərək sənə, onlardan,
@@ -270,7 +270,7 @@ Başımı ucaltsın uca göylərə.
 Bu “Şərəfnamə”də dünya sirrindən
 Çox xəznə açarı gizlətmişəm mən.
 
-Flər kimin əlində olsa bu açar,
+Hər kimin əlində olsa bu açar,
 Bir çox xəzinələr, tilsimlər açar.
 
 O gizli xəznəni aça bilməsə,

@@ -6,50 +6,50 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
-Xosrov görəndə Kİ, dalda qaldı su,
+Xosrov görəndə ki, dalda qaldı su,
 Ağlar gözlərinin qaçdı yuxusu.
 
 Nə qədər o yerdən uzaq olurdu,
-Qəlbinə məyusluq. Kədər dolurdu.
+Qəlbinə məyusluq, kədər dolurdu.
 
 Təsəlli verirdi özünə bəzən,
 Deyirdi: "Qalxmayıb günəş üfüqdən,
 
-Bəikə burdan getsəm düz gündoğana,
+Bəlkə burdan getsəm düz gündoğana,
 Çataram günəşə, yetərəm ona."
 
 O güldodaq gəlib çatcaq o yerə,
 Nəsim xəbər verdi sərhədçilərə.
 
 Məmurlar qabağa yüyürüşdülər,
-Yoluna döşəndi xalı, фək, zər.
+Yoluna döşəndi xalı, ipək, zər.
 
 Orda gördü rəna, şux pərilər var,
 Onu görmək üçün çox can atırlar.
 
-Gözəlləri görmək ona xoş gəldi.
+Gözəlləri görmək ona xoş gəldi,
 Bir neçə gün qalıb orda dincəldi.
 
 Ordan birbaş gedib çıxdı Muğana,
-Muğandan da Keçdi düz Baxərzana.
+Muğandan da keçdi düz Baxərzana.
 
 Məhin Banu bundan tutunca xəbər
 Əmr etdi pişvaza tədbir görsünlər,
 
-Azuqə topladı, qoşun düzəltdi.
-Şahı pişvaz üçün hərəıcət etdi.
+Azuqə topladı, qoşun düzəltdi,
+Şahı pişvaz üçün hərəkət etdi.
 
 Ədəb gözləyərək, şaha yaraşan
 Hədiyyə göndərdi ona saraydan.
 
 O qədərdi qulam, ipək və gövhər,
-Yazmaqdan Katiblər yorğun düşdülər.
+Yazmaqdan katiblər yorğun düşdülər.
 
 Banu özü gəldi şah dərgahına,
 Şah da çox ehtiram göstərdi ona.
@@ -61,7 +61,7 @@ Qalan, əl-əl üstə hüzurda durdu.
 Həmişə xürrəm ol, qəlbin olsun şən.
 
 Əziyyət versə də sənə bu qonaq,
-istəməz heç başın ağrısın ancaq."
+İstəməz heç başın ağrısın ancaq."
 
 Banu görüb belə mehribanlığı,
 Böyük fəxr bildi bu mehmanlığı.
@@ -75,10 +75,10 @@ Xosrov sarayına arxalanaraq
 Xosrova hörmətlə bir həftə tamam
 Töhfələr göndərdi hey səhər, axşam.
 
-Bir həftədən sonra, gözəl bir gündə.
-Bir gün Kİ, görməmiş günəş, ömründə,
+Bir həftədən sonra, gözəl bir gündə,
+Bir gün ki, görməmiş günəş, ömründə,
 
-Şah sultanlar Kimi taxta əyləşdi.
+Şah sultanlar kimi taxta əyləşdi.
 Tale ona quldu, sevinc bir əşdi.
 
 Yenicə tərləmiş qara bığları,
@@ -87,17 +87,17 @@ Gözəllər qəlbini etmişdi yarı.
 Yəğma qulamları olmuşdu munis,
 Gözəl sərvistana dönmüşdü məclis.
 
-Sözlər qaynaşırdı, qızğmdı nəfəs,
+Sözlər qaynaşırdı, qızğındı nəfəs,
 "Sənin qulamınam" deyirdi hər kəs.
 
 Əngəl törətmirdi işrətə dövran,
-Dostlar dilbiləndi. Könül anlayan.
+Dostlar dilbiləndi, könül anlayan.
 
 Banu öpüb yeri qalxdı ayağa,
 Xosrovla başladı o danışmağa.
 
 Dedi: "Gəl, bizimlə Bərdəyə gedək.
-Qışı qalaq orda, gəzəıc, Kef edək.
+Qışı qalaq orda, gəzək, kef edək.
 
 Bizim bu Bərdənin yeri arandır,
 Suyu çox, otu çox, bir gülüstandır."
@@ -108,7 +108,7 @@ Ardınca durmayıb gələrəm əlbət."
 Sübh açıldı, Xosrov qalxdı ayağa,
 Oradan yollandı birbaş Ağ bağa.
 
-Hər yan abadlıqdı, hər yan günəşdi.
+Hər yan abadlıqdı, hər yan günəşdi,
 Şahın taxtü tacı burda yerləşdi.
 
 Çadırlar quruldu hər tərəfdə tez,
@@ -117,5 +117,5 @@ Burda bir yer tutdu özünə hər kəs.
 Banu əzizlədi o cahangiri,
 Qulluğa söz yoxdu, rahatdı yeri.
 
-Şahın günü Kefdə-damaqda Keçdi,
+Şahın günü kefdə-damaqda keçdi,
 Şirinin qəmiylə acı mey içdi.

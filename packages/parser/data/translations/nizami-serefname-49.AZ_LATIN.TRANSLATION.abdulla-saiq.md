@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -18,7 +18,7 @@ Ey saqi, durma, gəl, sevindir məni!
 Ver mənə, bəzəyim uca eyvanı,
 İşlədim ərinmiş o saf boyanı.
 
-Ey smaqlı dehqan, dünya görmüş pir,
+Ey sınaqlı dehqan, dünya görmüş pir,
 Ürəyə yatımlı sözləri gətir!
 
 Şah Çindən Rus üstə gələndən sonra
@@ -97,7 +97,7 @@ Rusların təblindən doğru həyəcan,
 Xəstə bir hindlitək qopardı fəğan.
 
 Göyləri sarsıdan təbil və boru
-Yerlərin qamma salırdı bum.
+Yerlərin qarnına salırdı buru.
 
 Zorba türk borusu etdikcə şiddət
 Türklərin qoluna gəlirdi qüvvət.
@@ -139,105 +139,103 @@ Rus döyüşməsindən dəhşət çökürdü,
 Aslanlar altında atlar ürkürdü.
 
 Əflatun, Fəlatus xalqıtək nadan
-O yerdə əskikdi bir aciz msdan.
+O yerdə əskikdi bir aciz rusdan.
 
 Rumlular fələyə ucaltdı bayraq,
 Qılıncdan suya bir atəş olaraq.
 
-325 <3-55^00«
 Havanın boğazı sanki tıxandı,
-
 Dünyanın nəfəsi artıq dayandı.
+
 Nə yerdə yer tapır yeriyən ayaq,
-
 Nə uçan havada tapırdı bucaq.
+
 Ruslardan bir nəfər açdı meydanı,
-
 Bir tülkü papaqlı Burtas aslanı
+
 Küləyə minmişdi yeriyən dağtək,
-
 Dağ külək belində durarmış demək!
-Döyüşmək istədi, suladı meydan.
 
+Döyüşmək istədi, suladı meydan,
 Özünü öyərək, oxudu dastan:
+
 “Xam dəri geyinən hər bir Burtası,
-
 Mənin varlığımla qızar arxası.
+
 Pələnglər yırtaram dağlar qaşında.
-
 Nəhənglər yeyərəm sular başında.
+
 Aslantək alışdım sağrı yırtmağa,
-
 Tülkütək baxmaram yağlı quyruğa.
+
 Pəncədə kəskinəm, qüvvətdə mətin,
-
 Maral böyrü yırtmaq deyildir çətin.
+
 İçdiyim, tökdüyüm daima al qan,
-
 Geyimim xam dəri olmuş hər zaman.
+
 Nizəm daldan dəysə çıxar göbəkdən,
-
 Sınamaq istəsən, bu meydan, bu sən!
+
 Bir ordu kükrəsə Çin ilə Rumdan,
-
 Atəşin alovu ucalar mumdan.
+
 Mənə qandan başqa töhfə gətirən,
-
 Yox olsun elə bir yolçu, döyüşkən.
+
 Kim mənə qaş çatsa qürur edərək,
-
 Zivər yox, al kəfən geyinsin gərək!”
+
 Onun qarşısına şah ordusundan
-
 Çıxdı bir nizəli igid pəhləvan.
+
 Meydanda kin ilə açdılar pəncə,
-
 Çarpışma uzandı hey döyüşdükcə.
-Acıqlı Burtasm son qılıncından
 
+Acıqlı Burtasın son qılıncından
 Torpağa sərildi rumlu pəhləvan.
+
 İkinci rumlu da ölüm, kin gördü,
+Burtasın bəxtini çox mətin gördü.
 
-Burtasm bəxtini çox mətin gördü.
 Hindi adlı igid şahzadə vardı,
+Hindli qılıncıyla çox baş vurardı.
 
-Hindli qılmcıyla çox baş vurardı.
-Qızmış aslan kimi qopardı fəryad.
-
+Qızmış aslan kimi qopardı fəryad,
 Cumdu qurd üstünə əlində polad.
+
 Qol kimi sınandı, oldu çox həmlə
-
 Kimsənin taleyi gülmədi hələ.
+
 Acığa dolunca şahzadə Hindi,
-
 Qılıncı düşmənin çiynindən endi.
+
 Başını biçdi o kəsici almas,
+Atın dırnağında çırpındı Burtas.
 
-Atm dırnağında çırpındı Burtas.
 Ruslardan başqa bir qılınc oynadan
-
 Boynunu ucaltdı əlində qalxan.
+
 Öyünə-öyünə girdi meydana,
+Susamışdı sanki düşmən qanına.
 
-Susamışdı sanki düşmən qanma.
 Hindi qılıncını endirdi ona,
-
 Ehtiyac qalmadı rus qalxanına.
+
 Çıxdı bir başqa rus qılınc vurmağa,
-
 Göz-gözə gəlincə düşdü torpağa.
+
 Çox igid öldürdü, oldu gün yarı,
-
 Tazitək qovurdu o, ceyranları.
+
 Rusların nəfəsi tıxandı ondan,
-
 Olmadı daha bir qarşıya çıxan.
+
 Vücudu al qana batmışdı daha,
-
 Yüyəni çevirdi tez ordugaha.
+
 Görüncə İskəndər göstərdi hörmət,
-
 Verdi ən dəyərli, yararlı xələt.
-Hər iki tərəfdən enərək ordu
 
+Hər iki tərəfdən enərək ordu
 Keçidli yollarda keşikçi durdu.

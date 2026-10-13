@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -15,29 +15,29 @@ status: DRAFT
 Şapur adlı ona yaxın bir adam
 Məğribdən Lahura gəzmişdi tamam.
 
-Nəqşində Maninin şöhrəti vardı.
-Rəsmində Iqlidis qüdrəti vardı.
+Nəqşində Maninin şöhrəti vardı,
+Rəsmində İqlidis qüdrəti vardı.
 
-Zirək, şəkiı çəkən, qələmi iti,
-Xəyalən çəkərdi min bir surəti,
+Zirək, şəkil çəkən, qələmi iti,
+Xəyalən çəkərdi min bir surəti.
 
-incə, zərif işdə xeyli pərgardı,
+İncə, zərif işdə xeyli pərgardı,
 Suların üstündə naxış salardı.
 
-Pərvizin önündə opərək yeri,
+Pərvizin önündə öpərək yeri,
 Söylədi dostuna bu xoş sözləri:
 
 - Əgər şah əmr etsə, danışaram mən
-Yüzdə birinicə bildikiərimdən.
+Yüzdə birinicə bildiklərimdən.
 
-Xosrov dedi: - Tez ol, de, ay cavan mərd.
+Xosrov dedi: - Tez ol, de, ay cavan mərd,
 Məclisi soyutma, qızışsın söhbət.
 
-Söz söyləyən Şapur dilini açdı.
+Söz söyləyən Şapur dilini açdı,
 Rəngarəng sözləri min ətir saçdı:
 
 - Aləm qulun olsun, dursa nə qədər!
-Xoş Keçsin ömründə aylar və illər!
+Xoş keçsin ömründə aylar və illər!
 
 Səni istəməyən heç şad olmasın!
 "Xarab ol" deyənlər abad olmasın!
@@ -49,9 +49,9 @@ Altı tağ cahanda mən çox gəzmişəm.
 Çox şeylər görmüşəm, çox şey sezmişəm.
 
 Dərbənd dənizinin bir sahmanında
-Bir gözəl öikə var dağlar yanında.
+Bir gözəl ölkə var dağlar yanında.
 
-Şahzadə qadındır orda hoknşran,
+Şahzadə qadındır orda hökmüran,
 Yayılmış qoşunu İsfahanacan.
 
 Arrandan başlamış Ərmənə qədər
@@ -60,37 +60,37 @@ Onun fərmanına boyun əyirlər.
 Ölkələr göndərir ona xəracı,
 Hər şeyi var, yoxdur bir taxtı, tacı,
 
-Min bir dik qalası göy dağlardadır.
+Min bir dik qalası göy dağlardadır,
 Kim bilir xəznəsi nə miqdardadır?!
 
 Tutub mal-qarası bütün dünyanı,
 Quşdan və balıqdan artıqdır sanı.
 
 Əri yoxdur, məsud dolanır özü,
-Xoş Keçir gecəsi, həm də gündüzü.
+Xoş keçir gecəsi, həm də gündüzü.
 
 Şəmira adlanır o göyçək qadın,
 Böyükdür mənası bu gözəl adın.
 
-Cürətdə Kişidən heç geri durmur,
+Cürətdə kişidən heç geri durmur,
 Böyük olduğundan Məhin Banudur.
 
-Gün Keçib gələndə yeni bir fəsil
+Gün keçib gələndə yeni bir fəsil
 O qurur özünə təzə bir mənzil.
 
 Gül fəsli yamyaşıl Muğan - yatağı,
 Yay zamanı yeri Ərmən torpağı.
 
-Əkindən Əkinə, çiçəkdən gülə
+Əkindən əkinə, çiçəkdən gülə
 Gəzir, seyrə çıxır hey gülə-gülə.
 
-Yay ötüb Keçəndə, payız gələndə
-Abxazda ovları salır Kəməndə.
+Yay ötüb keçəndə, payız gələndə
+Abxazda ovları salır kəməndə.
 
 Bərdənin havası çox mötədildir,
 Hər il qış zamanı o bura gəlir.
 
-Hər fəsil bir yerdə mənzil salaraq.
+Hər fəsil bir yerdə mənzil salaraq,
 Dörd fəsli çatdırır başa bu sayaq.
 
 Keçirməz dünyada vaxtını əbəs,
@@ -100,7 +100,7 @@ Bu zindana bənzər dünyada ancaq
 Qardaşı qızıdır gözünə çıraq.
 
 Sanki bir pəridir, pəri yox, bir Ay!
-Qəhrəman bir qızdır, başda Kəlağay.
+Qəhrəman bir qızdır, başda kəlağay.
 
 Dirilik suyudur gözü - qapqara,
 Gecəni qərq edir Aytək nurlara.
@@ -115,7 +115,7 @@ Dişləri incidən daha parlaqdır,
 Dişindən nur alan sədəf də ağdır.
 
 Cilalı əqiqtək dodaqları var,
-Burulmuş Kəmənddir cüt qara saçlar.
+Burulmuş kəmənddir cüt qara saçlar.
 
 Saçının qıvrımı hər an can alır,
 Burub birçəyini gül üzə salır.
@@ -126,17 +126,17 @@ Gözəl saçlarının ilıq nəfəsi
 Gözləri özünün əfsunçusudur,
 Odur bədnəzəri belə susdurur.
 
-Sehriylə yaxılsın deyə hər ürəx
-Ləbində yüz duz var, şirin, şəxərtək.
+Sehriylə yaxılsın deyə hər ürək
+Ləbində yüz duz var, şirin, şəkərtək.
 
 Bu duzlu ləblərin gülüşü şirin,
 Duzu, həm şirnisi var bu ləblərin.
 
-Gümüş bir qılıncdır bumu, sanasan
+Gümüş bir qılıncdır burnu, sanasan
 Bölmüş bir almanı düz ortasından.
 
-Yüz фək örtünü yırtmış ay üzü,
-Ayda olan 1əkə yoxudur, düzü.
+Yüz ipək örtünü yırtmış ay üzü,
+Ayda olan ləkə yoxudur, düzü.
 
 Şəmi ətrafında çox pərvanə var,
 Odunda yanmaqdan heç qorxmaz onlar.
@@ -144,17 +144,17 @@ Odunda yanmaqdan heç qorxmaz onlar.
 Üzündən, saçından səbalar öpər,
 Qaquma, qunduza bənzər o tellər.
 
-Hər bir qəmzəsinə bir nazdır vəkii,
-Buxaq bir narmcdır, çənə alma, bil.
+Hər bir qəmzəsinə bir nazdır vəkil,
+Buxaq bir narıncdır, çənə alma, bil.
 
 Ulduzlar da olmaz hüsnünün tayı,
-Ötmüş gözəllkdə günəşi, ayı.
+Ötmüş gözəllikdə günəşi, ayı.
 
 Bir cüt məməsi var, payızın narı,
 Gülün ləçəyidir al yanaqları.
 
-Qarşısında bumb boynunu ceyran
-Tokər göz yaşını olaraq heyran.
+Qarşısında burub boynunu ceyran
+Tökər göz yaşını olaraq heyran.
 
 Ahu gözlərində elə çeşmə var,
 Dovşantək uyuyur aslan olanlar.
@@ -162,20 +162,20 @@ Dovşantək uyuyur aslan olanlar.
 Can çeşməsi olan ceyran gözləri
 Aldadır şir yıxan min qoçaq əri.
 
-Ləblərindən cavab almaz öpüşə.
+Ləblərindən cavab almaz öpüşə,
 Qorxur ləlin açsa dürrlər düşə.
 
 O məst gözlərinə həsrət qalanlar,
-irəm bazarında reyhan satanlar,
+İrəm bazarında reyhan satanlar,
 
-Tixan doldurmuşlar qucağa yenə,
+Tikan doldurmuşlar qucağa yenə,
 Toxuna bilməmiş bir kəs gülünə.
 
 Onu yuxusunda görsə də yüz kəs,
 Lakin o, günəştək gecə görünməz.
 
 O bayram bəzəyi hilal qaşını
-Görmədi, vermədən Kimsə başını.
+Görmədi, vermədən kimsə başını.
 
 Məcnun heyran qalmış xoş xəyalına,
 Leyli təslim olmuş gül camalına.
@@ -187,21 +187,21 @@ Söhbəti min qəlbə həyəcan salar,
 Şirin dodağında min bir öpüş var.
 
 Qəmzəli, nazlıdır qıvrım saçları,
-Dodağı yaqutdur, dişi mirvari,
+Dodağı yaqutdur, dişi mirvarı,
 
-Saf Könlünə məftun olmuşdur hünər,
+Saf könlünə məftun olmuşdur hünər,
 Torpağına qultək düşmüşdür ənbər.
 
-Üzü nəsrin Kimi, qoxusu nəsrin,
+Üzü nəsrin kimi, qoxusu nəsrin,
 Dodağı şirindir, adı da Şirin.
 
 Gözəl söz deyənlər ona can deyir,
 O Məhin Banunun canişinidir.
 
-Öikədə tanınmış nadir gözəllər
-Fərman gözləyirlər yanında ycksər.
+Ölkədə tanınmış nadir gözəllər
+Fərman gözləyirlər yanında yeksər.
 
-Aytək Kübar qızlar - düz yetmiş nəfər
+Aytək kübar qızlar - düz yetmiş nəfər
 Ona gecə-gündüz xidmət edirlər.
 
 Hüsndə hər biri can tavanıdır,
@@ -211,7 +211,7 @@ Hamısı çalğıçı, əllərində cam,
 Aytək mənzil-mənzil edirlər xuram.
 
 O, ay xirmənləri gah geyir mişki,
-Gah gül xirmənində içərlər İçki.
+Gah gül xirmənində içərlər içki.
 
 Onlara toxunmaz deyə bədnəzər
 Üzlərinə əsla niqab örtməzlər.
@@ -219,14 +219,14 @@ Onlara toxunmaz deyə bədnəzər
 Əfsanəyə bənzər o çöl, o çəmən,
 Bəzənib nar döşlü şux sənəmlərdən.
 
-Qamətləri samd sərvdir qıvraq,
+Qamətləri sanki sərvdir qıvraq,
 Yeriş-duruşları qırqovul sayaq.
 
 Qönçə ağızları dolu qənd, şəkər.
 Cana bəxş edirlər ətirli ənbər.
 
-Gözəllikdə Keçən olmaz onları,
-Kefdə Keçirirlər qışı, baharı.
+Gözəllikdə keçən olmaz onları,
+Kefdə keçirirlər qışı, baharı.
 
 Fil dişini, aslan çəngini onlar
 Gücə qalsa birdən dartıb qoparar.
@@ -234,8 +234,8 @@ Gücə qalsa birdən dartıb qoparar.
 Bir hücum çəksələr alışar aləm,
 Məğribdən Məşriqə qarışar aləm.
 
-Göylərə Kirpkdən ox atsa əgər,
-Göydə ulduzları bir yerə tkər.
+Göylərə kirpikdən ox atsa əgər,
+Göydə ulduzları bir yerə tikər.
 
 Behişt huriləri tapsa da şöhrət,
 Onlar huridirlər, bu yersə cənnət.
@@ -244,10 +244,10 @@ O yerin sahibi Məhin Banudur,
 Dövlətin, sərvətin sahibi odur.
 
 Bir at bağlanıbdır sərtövləyə tək,
-Onun tozuna da çatmaz heç küıək.
+Onun tozuna da çatmaz heç külək.
 
 Xəyaldan tez gedər qalxsa dördnala,
-Qorxmur sona Kimi tufandan əsla.
+Qorxmur sona kimi tufandan əsla.
 
 Yerindən sıçrasa günəşə sarı,
 Yeddi qatlı göydən qalxar yuxarı,
@@ -259,15 +259,15 @@ Səhərtək oyaqdır, xəyal yerişli,
 Gecətək huşyardır, zaman gərdişli.
 
 Rəngi şəvə rəngi, Şəbdizdir adı,
-Şirin ishaq Kimi sevir o atı.
+Şirin İshaq kimi sevir o atı.
 
 Ayaqlarında var qızıl zənciri,
 O qızıl zəncirin olmuş əsiri.
 
 Nə Şirindən şirin insan mən gördüm.
-Nə Şəbdizdən qara bir Köhlən gördüm.
+Nə Şəbdizdən qara bir köhlən gördüm.
 
-Elə Kİ, söz bitib Şapur dayandı.
+Elə ki, söz bitib Şapur dayandı,
 Rahatlıq uyudu, sevgi oyandı.
 
 Şirinə məhəbbət, dil bağladılar,
@@ -282,10 +282,10 @@ Qəlbi sevda ilə, həycanla doldu.
 Bütün günü onu düşünürdü hey,
 Yoxdu xəyalında ondan başqa şey.
 
-Xosrov bir neçə gün Keçirdi belə,
+Xosrov bir neçə gün keçirdi belə,
 Şadlandı ancaq bu boş əfsanəylə.
 
-Elə Kİ, iş-işdən Keçdi, o zaman
+Elə ki, iş-işdən keçdi, o zaman
 Atdı səbr etməyin daşını oğlan.
 
 Çağırıb Şapuru xəlvətə özü,
@@ -295,19 +295,19 @@ Dedi: - Ey cavan mərd, vəfalı yoldaş!
 Mənim dadıma yet, ol mənə sirdaş!
 
 Gözəl özül qoydun, sözüm yox buna,
-Ustad Kişisənsə işi vur sona.
+Ustad kişisənsə işi vur sona.
 
 Şəkər adı çəkmə, sözü qısa et!
 Şəkər söylədinsə Xuzistana get!
 
-Bütpərəstlər Kimi yol tapaq gərək,
+Bütpərəstlər kimi yol tapaq gərək,
 O bütü tədbirlə ələ gətirək.
 
 Gör, qəlbində varmı insafdan əsər,
-Bəikə insanlardan o kənar gəzər?
+Bəlkə insanlardan o kənar gəzər?
 
-Naxış götürənsə mum Kimi əgər,
+Naxış götürənsə mum kimi əgər,
 Möhrümü vur ona, göstər bir hünər.
 
-Dəmir ürəkiisə xəbər yetir də
+Dəmir ürəklisə xəbər yetir də
 Ki, soyuq dəmiri döyməyim bir də.

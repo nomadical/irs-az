@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -43,7 +43,7 @@ Bir elə nur var ki, pak, təmiz, parlaq.
 Şan-şan görünmədə tutqun çöhrəsi.
 
 Pərdəyə nəqş olan pəncərələrdən
-işıqlar süzülür cahana hərdən.
+İşıqlar süzülür cahana hərdən.
 
 Bizim gördüyümüz Gün, Ay, ulduzlar
 Həmin işıqdandır bütün hər nə var.

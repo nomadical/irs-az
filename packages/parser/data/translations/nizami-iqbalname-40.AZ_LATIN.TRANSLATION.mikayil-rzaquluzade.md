@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -43,7 +43,7 @@ Ceyran göbəyindən müşk saçılar,
 Kabablı, noğullu süfrə açılar.
 
 Şahlar kef məclisi qurub bu zaman
-içərlər İskəndər içən şərabdan.
+İçərlər İskəndər içən şərabdan.
 
 Gör, qəlbdə nə vardı, dilim nə dedi,
 Bu çərxi-fələyin oyunu nədi?
@@ -60,7 +60,7 @@ Gərək təqdim etsin İskəndərusa.
 Örtdü qara qanad Rumu sərasər,
 Bürüdü ölkəni sanki zəncilər.
 
-Çatanda hamım batırdı qəmə,
+Çatanda hamını batırdı qəmə,
 Şahın anasına yazdığı namə.
 
 Oxuyub məktubu ana ağladı,

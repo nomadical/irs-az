@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -18,7 +18,7 @@ Dur, şərbət hazırla aşiqsayağı!
 Füsunlu şərbəti susuza ver sən,
 Susuzlar dönərmi meydən, şərbətdən?
 
-Şahanə məclisdə, ey smaqlı pir,
+Şahanə məclisdə, ey sınaqlı pir,
 Odda yandırmağa üzərlik gətir!
 
 Bəd nəzərlər baxır, işlə məşğulam,
@@ -27,7 +27,7 @@ Yaman gözlərdən də yaman qorxuram.
 Könlüm üzərliktək yanarsa əgər,
 Üstümə düşərmi, söylə, bəd nəzər?
 
-Yölkəsən qorxusu həddən ziyada,
+Yolkəsən qorxusu həddən ziyada,
 Xoşbəxtdir bilməyən bunu dünyada.
 
 Bu necə həyatdır, hər yanı qorxu,
@@ -73,7 +73,7 @@ Muğlarda belə bir azar da vardı,
 Hər ilin başında bir qız alardı,
 
 Novruz ilə Səddə bayramlarında
-Ayinlər yenidən olurdu bəıpa.
+Ayinlər yenidən olurdu bərpa.
 
 Ər üzü görməmiş gəlinlər, qızlar
 Evindən sevinclə dişarı çıxar.
@@ -84,7 +84,7 @@ Hər yandan gəlirdi çoşğun ürəkli.
 Önündə al şərab hər üzü lalə
 Muğlarla üz-üzə vurar piyalə.
 
-Atəşdən, möbidin əfsunlarmdan,
+Atəşdən, möbidin əfsunlarından,
 Tüstüdən don geyər uca asiman.
 
 İşləri keyf, işrət, şux dilbər idi,
@@ -99,7 +99,7 @@ Ayaq yerə döyər, şappıldadar əl.
 Əlində sərv kimi güldən bir dəstə,
 Sərvi də bənzərdi çiçəkpərəstə.
 
-Hər il qızlar bu gün axır hər yandan.
+Hər il qızlar bu gün axır hər yandan,
 Verirlər bu geniş işrətə meydan.
 
 Hər kəs ayrı-ayrı məclis qururdu,
@@ -145,7 +145,7 @@ Sığınsın hamısı ulu Tanrıya,
 Çevirsin arxa bu Günəşə, Aya.
 
 Elə ki İranı ovcunda gördü,
-O geniş meydanda atmı sürdü.
+O geniş meydanda atını sürdü.
 
 Zəfərlə qol-boyun oldu tacidar,
 Nə gözəl söyləmiş incə sənətkar:
@@ -183,7 +183,7 @@ Durmadan hünərlə söndürsün ordu.
 Zəndin əfsunları atılsın suya,
 Alınsın yaxud bir dəftərxanaya.
 
-İbrahim dinini doğru yol bildi.
+İbrahim dinini doğru yol bildi,
 Atəş tüstüsünü dillərdən sildi.
 
 Aqillər məsləhət gördülər ona:
@@ -249,7 +249,7 @@ Fişəngtək ağzından atəş savırır.
 Hər igid keçirsə onun yanından,
 Öldürür, ya udur, verməyir aman”.
 
-Bu gizlin sirridən şah fi kr ə daldı,
+Bu gizlin sirridən şah fikrə daldı,
 Vəzirdən belə bir məsləhət aldı:
 
 - Bu gizli əsrarı Bəlinas bilir,
@@ -273,64 +273,61 @@ Gördü bir əjdaha baş çəkmiş göyə.
 Əjdaha görüncə gəlir Bəlinas,
 Bildi ki, şüşəni qıracaq almas.
 
-««zc-rjja
 Min oyun çıxardı o sahir cadu,
-
 Yüz insan aldadan hiylələr qurdu.
+
 Onların təsiri olmadı, yenə
-
 Çarəsiz qayıtdı köhnə sehrinə.
+
 Cadunun əfsunu etməsə əsər,
-
 Əfsunçu yenə öz sehrinə dönər.
+
 Bəlinas hünərlər göstərdi o gün,
-
 Cadunun sehrini bağladı bütün.
+
 İnsana taleyi güldüyü zaman
-
 Cadugər də yaxa qurtarmaz ondan.
+
 Atdı əjdahanın üstünə “əsdab”
-
 Su önündə atəş gətirərmi tab?
+
 Bağladı qolunu bir hiylə ilə,
-
 Başa çıxdı qızın qurduğu hiylə.
+
 Qız gördü Bəlinas hünərlər saçdı,
-
 Cadu hiyləsindən düyümü açdı.
+
 Torpağa düşərək qopardı fəğan,
-
 Padşahın ədlindən dilədi aman.
+
 Bəlinas görüncə o ay üzünü,
-
 Bir sevda xülyası tutdu gözünü.
+
 Gözəl cadugərə o verdi aman,
-
 Xilas etdi onu ovsunçulardan.
+
 Əmr elədi, dərhal od yandırdılar,
-
 Atəşkədə yandı - oldu tarü mar.
+
 O pəri üzlünü götürdü şaha,
-
 Dedi: “Bax, bu aydır qara əjdaha.
+
 Ağıllı qadınlar biliklər qurmuş,
-
 Çarxın qulağını əfsunla burmuş.
+
 Quyunu çıxarır yerin təkindən,
-
 Ayı yerə salar öz fələyindən.
+
 Zühəlin üzündən qaranı atar,
-
 Hər qara telindən çəkər bir hasar.
+
 Sevimli gözəldir, yox ona bədəl,
-
 Pəri də doğmamış belə bir gözəl.
+
 Müşk ilə saçının ucunu burmuş,
-
 Günəşin boynunu kəməndə vurmuş.
-Sənin taleyinlə kəsdim yolunu,
 
-«*ЧC'£zc£» 175
+Sənin taleyinlə kəsdim yolunu,
 Ayırdım şöhrətdən, hörmətdən onu.
 
 Qız qaldı çarəsiz, dilədi aman,

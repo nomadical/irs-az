@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -21,7 +21,7 @@ Dərdi sonsuz oldu, həsrəti dərin.
 Badam gözlərindən gül suyu axdı,
 Badam çiçəyinə gülab buraxdı.
 
-Başı Kəsilmiş bir qoyuntək yerdə
+Başı kəsilmiş bir qoyuntək yerdə
 Əl-ayaq çalırdı dözməyib dərdə.
 
 Canında taqətin alovu söndü,
@@ -30,7 +30,7 @@ Canında taqətin alovu söndü,
 Yuyub ətəyini göz yaşı ilə,
 Sevgi xırmanını vermişdi yelə.
 
-Gah sərxoşlar Kimi gedirdi yolu,
+Gah sərxoşlar kimi gedirdi yolu,
 Gah heyran qalırdı gözləri dolu.
 
 Gözündən aramsız inci süzürdü,
@@ -45,31 +45,31 @@ Söyüdtək əsirdi o sərvqamət
 Qəmlənib bir zaman yıxıldı yerə,
 Saçları bürüdü yeri ənbərə.
 
-O nəsrin dımaqlı tez əl apardı,
-Nəsrinlə lalədən yaıpaq qopardı,
+O nəsrin dırnaqlı tez əl apardı,
+Nəsrinlə lalədən yarpaq qopardı,
 
-Gah badamdan qəndə su çiləyirdi.
+Gah badamdan qəndə su çiləyirdi,
 Gah fındığı innabla dişləyirdi...
 
-Top Kimi qaçırdı hər yana bəzən,
+Top kimi qaçırdı hər yana bəzən,
 Bəzən də çövkantək donurdu birdən.
 
-Nur sütunu Kimi bir ağac bitdi.
-Suda Kafiır Kimi əridi getdi.
+Nur sütunu kimi bir ağac bitdi,
+Suda kafur kimi əridi getdi.
 
 Yuxusuz gözünə səpirdi duzu,
 Nərgizdən laləyə axıdırdı su.
 
-Parlaq mehtab Kimi bir təzə bahar,
-Dağılmış civətəıc qırıldı zinhar!
+Parlaq mehtab kimi bir təzə bahar,
+Dağılmış civətək qırıldı zinhar!
 
 Könül yollarında qəm şəbxun etdi,
-Qəlb ordugahına şikəstliıc yetdi.
+Qəlb ordugahına şikəstlik yetdi.
 
 Pusqudan çıxaraq atlandı möhnət,
 Hədsiz itki verdi döyüşdə taqət.
 
-Ciyərdəki dövlət, qəlbdəxi sərvət
+Ciyərdəki dövlət, qəlbdəki sərvət
 Xəzinə-xəzinə edildi qarət.
 
 Xidmətə başını əydiyi zaman
@@ -106,12 +106,12 @@ Bəzən həvəs ona edirdi təlqin
 Ki, durmadan şahın dalınca getsin.
 
 Bir xeyli incitdi onu bu möhnət,
-işinin yolunu tapdı, nəhayət.
+İşinin yolunu tapdı, nəhayət.
 
 Zarıya-zarıya qalxdı ayağa,
-Xar olub düşmüşdü çünıci torpağa.
+Xar olub düşmüşdü çünki torpağa.
 
-Banunun yanma eylədi güzər.
+Banunun yanına eylədi güzər.
 Xosrovdan Banuya yetirdi xəbər.
 
 Banunun qəlbində oynadı riqqət,
@@ -120,10 +120,10 @@ Verdi Şirinə çox öyüd-nəsihət.
 Dedi: "Bir neçə gün səbr elə, çalış!
 Heç kəs həmişəlik darda qalmamış.
 
-Gül Kimi tez açıb görünmə aşkar,
-iti axan sular tez Körpü yıxar.
+Gül kimi tez açıb görünmə aşkar,
+İti axan sular tez körpü yıxar.
 
-Top Kimi yıxılıb qalxsan yaxşıdır,
+Top kimi yıxılıb qalxsan yaxşıdır,
 Hər yıxılan bir gün qalxacaq axır.
 
 Toxum çürüməsə bitməz heç zaman,
@@ -132,7 +132,7 @@ Bir iş bağlanmasa, açılmaz, inan!
 Arzu gec doğrulsa xoşdur, ey nigar!
 Tez-tez içən adam tez sərxoş olar.
 
-Şimşəkiər çıxardan bulud, görürsən,
+Şimşəklər çıxardan bulud, görürsən,
 Bərk ağlayıb, sonra açılır birdən.
 
 Tələsik yol getmək bir fayda verməz,
@@ -141,14 +141,14 @@ Yorular tələsik yol getsə hər kəs.
 Altmış batman yükü götürən eşşək
 Altmış beş batmandan çəkinməz, bişəkk.
 
-Bugümcü sərtliyə dözəsən gərək,
-Kim bilir Kİ, sabah nə göstərəcək!
+Bugünkü sərtliyə dözəsən gərək,
+Kim bilir ki, sabah nə göstərəcək!
 
-Xosrovun yolunda çəkmisən əzab.
+Xosrovun yolunda çəkmisən əzab,
 Bir çox çətinliyə gətirmisən tab.
 
 Ziyanın yox, fayda almasan da sən,
-Dadmayıb Kİ, hələ sənin Yəxnindən.
+Dadmayıb ki, hələ sənin Yəxnindən.
 
 Su daim aşağı axıb tökülər,
 Çox çəkməz səadət üzünə gülər.
@@ -160,10 +160,10 @@ Banu bu sözlərlə onu ovutdu,
 Şirin də səbr edib qəmi unutdu.
 
 Hünərli Şapur da girdi araya,
-Təsəlli verdilər birikdə aya.
+Təsəlli verdilər birlikdə aya.
 
 Çox söz danışdılar, öyüd verdilər,
 Xosrovun adıyla sevindirdilər.
 
-Səbr etdi bir qədər o Kədərli qız,
+Səbr etdi bir qədər o kədərli qız,
 Əhvalı pərişan, qəlbi qərarsız.

@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -24,7 +24,7 @@ Qovğa eləmədi taxtü-tac üstə.
 Şahların içində heç onun qədər
 Yoxdu şah olmağa layiq bir nəfər.
 
-Beş günlük dünyaya tamalı salmadı,
+Beş günlük dünyaya tamah salmadı,
 O uca mənsəbə mayil olmadı.
 
 Güldən ayrı düşmüş şeyda bülbültək
@@ -55,13 +55,13 @@ Yoxdur bu kələfin ucunu görən.
 Belə gənc yaşında gedə dünyadan.
 
 Tərk edib sarayı, keçə təxtindən,
-Darısqal daxmam eyləyə məskən.
+Darısqal daxmanı eyləyə məskən.
 
 Bu dünya əhlini tərk edib daha
 Mən üz tutacağam yalnız allaha.
 
 Sütunu sarsılmış titrək körpünün
-Üstündə bərk durmaq olannı mümkün?
+Üstündə bərk durmaq olarmı mümkün?
 
 Atamdan artıq ki, olmayacağam,
 Ölüb-getmədimi elə bir adam?
@@ -84,8 +84,8 @@ Sadə adamları azad görüncə,
 Çoxunu aldatmış gümüş həvəsi,
 Axırda yırtılıb zərdən kisəsi!
 
-Dolmuş bir qədəhi doldursan yenə,
-içəndə dağılar o, üz-gözünə.
+Dolmuş bir qədəhi doldursan yenə.
+İçəndə dağılar o, üz-gözünə.
 
 Bir yer ki, deyildir əbədi məskən,
 Gərək "Get!" deməmiş özün gedəsən.
@@ -111,7 +111,7 @@ Edərəm allaha dağda ibadət.
 Köçməyin növbəsi yetişən zaman
 Div girsən pərinin qoy qapısından!
 
-Axirət xovfündan qorxum var məgər?
+Axirət xovfundan qorxum var məgər?
 Asan ömr eləyən çətin can verər.
 
 Atamtək məni də məzara atın,
@@ -123,10 +123,10 @@ Daha cəsarətlə gözlərsən onu.
 Ölüm əzabını dərk eləməsən
 Çox çətin açarsan o qapını sən..."
 
-Gedib bir kahada o tutdu məqam.
+Gedib bir kahada o tutdu məqam,
 Dünya işlərini unutdu tamam.
 
-Yalnız eyləyirdi haqqa ibadət.
+Yalnız eyləyirdi haqqa ibadət,
 Ölümə yaxındı bu yol, bu adət.
 
 Bundan ibrət götür sən də, ey cavan,
@@ -135,5 +135,5 @@ Məbada çıxasan ata yolundan!
 Çünki bu dünyada hiyləgər fələk
 Çox işlər görür ki, çətindir demək,
 
-öuyuya nahaqdan çox Yusif salmış,
+Quyuya nahaqdan çox Yusif salmış,
 Çox mənəm deyəndən intiqam almış!

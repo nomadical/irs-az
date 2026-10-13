@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -28,7 +28,7 @@ Bir çox qalaları varmış ki, düşmən
 Alıbmış onları bir-bir əlindən.
 
 Yağı dadanmışdı onun yurduna,
-Şikəstlik vennişdi bu dünya ona.
+Şikəstlik vermişdi bu dünya ona.
 
 Düşmənin zülmündən təngə gələrək
 Gedib İskəndərdən istədi kömək.
@@ -60,7 +60,7 @@ Qız üzün açanda, o, göz yumardı.
 Zərif əllərilə su tökəndə qız
 O, tökülən suya baxardı yalnız.
 
-Qadın ustadını öz ağ kafürtək
+Qadın ustadını öz ağ kafurtək
 Gözəl bədəninə meylsiz görcək,
 
 O da kişilərə olan həvəsdən
@@ -81,8 +81,8 @@ Bir-bir təlim edib öyrətdi ona.
 Hər elmin önündə qız səcdə qıldı,
 Sinə lövhəsinə nələr yazıldı?!
 
-istədi vətənə qayıdıb ordan
-Əz baba yurdunda olsun hökmüran.
+İstədi vətənə qayıdıb ordan
+Öz baba yurdunda olsun hökmüran.
 
 Yox idi qüdrəti, varı, dövləti,
 Dirildə yenidən o səltənəti.
@@ -94,7 +94,7 @@ Qızıl iksirini ona öyrətdi,
 Qadını elmiylə iksirçi etdi.
 
 Mariyə ucaldı o kimiyadan,
-iksir alimitək qazandı ad-san.
+İksir alimitək qazandı ad-san.
 
 Ərəstu öz bilik xəzinəsindən
 Ona sirr öyrədib etdi işbilən.
@@ -153,7 +153,7 @@ Nə qədər paylansa çatar hamıya.
 Nə olar, bizlər də bir parça çörək
 Qazanıb, heç kəsdən minnət çəkməyək?!...
 
-işbilən, saf qəlbli, kəmallı gözəl
+İşbilən, saf qəlbli, kəmallı gözəl
 Onların sözünə eylədi əməl.
 
 Ölkədə bir guşə şux laləzardı,
@@ -226,7 +226,7 @@ O, xeyli dolanıb çəkdi əziyyət,
 Özünə bir peşə tapdı nəhayət.
 
 Hamıya məlumdur, əhli-Xorasan
-Bağdadda fənd ilə yaşayar asan 9S.
+Bağdadda fənd ilə yaşayar asan.
 
 Min misri qızılı vardı onun, saf,
 Rumda da tapmazdı bunları sərraf.
@@ -235,7 +235,7 @@ Qızılı yeyəylə ovub sürtərək,
 Sarı palçıq qatıb, etdi xəmirtək.
 
 Bundan neçə möhrə qayırdı qoçaq,
-indi gəl qurduğu oyuna bir bax!
+İndi gəl qurduğu oyuna bir bax!
 
 Gəlib bir əttarın yanında sayıb,
 Bir-bir möhürləyib, əmanət qoyub
@@ -255,13 +255,13 @@ Dedi: "Təbərrikdir, bilməsin heç kəs!"
 Əttarın yanından dönüb geriyə,
 Başladı əfsunla kimyagərliyə.
 
-Darülxilafətə" yaydı bir xəbər
+Darülxilafətə yaydı bir xəbər
 Ki, gəlib bir nəfər usta kimyagər,
 
 Deyir ki: "Kimyada baş ustayam mən,
-Yoxdur mənim kimi bu sirri bilən,
+Yoxdur mənim kimi bu sirri bilən.
 
-istəsəm iksirlə edərəm, yəqin,
+İstəsəm iksirlə edərəm, yəqin,
 Biri - on, onu - yüz, yüzü də ki - min.
 
 Yüz dinar pul verin siz əvvəlcədən,
@@ -307,13 +307,13 @@ Gil yanıb töküldü, saf qızıl qaldı.
 Dibinə yaquttək saf qızıl çökdü.
 
 Xəlifə tez xəbər tutdu bu işdən:
-Təzə qızıl verir o kölmə mədən.
+Təzə qızıl verir o köhnə mədən.
 
 Gördü ki, qızılı o mahir ustad
 Sehrlə, əfsunla artırır on qat.
 
 Gövhər xəzinəsi qazansın deyə,
-Hədsiz hönnət etdi həmin kişiyə.
+Hədsiz hörmət etdi həmin kişiyə.
 
 Aldanıb hərifin bu oyununa,
 On min misri qızıl göndərdi ona.
@@ -333,14 +333,14 @@ Qurdu hindu kimi yenə bir kələk.
 Tədbirlə iş görüb xəlvət, gizlicə
 İçdi qafillərlə bir neçə gecə.
 
-Hamısı məst olub düşdü torpağa,-
+Hamısı məst olub düşdü torpağa.-
 Zirək xorasanlı qalxdı ayağa,
 
 Bir neçə qul tapdı o,dayanmadan,
 Atları yükləyib çıxdı aradan.
 
 Gizlin bir yol ilə ordan birtəhər
-Əkildi, gönnədi onu bir nəfər.
+Əkildi, görmədi onu bir nəfər.
 
 Xəlifə bu işdən xəbər tutanda,
 Onun qaçdığını bilcək, bir anda
@@ -376,19 +376,19 @@ Onun dünya qədər xəzinəsi var.
 Sədəfdən çıxarar zərif incilər.
 
 O qədər qızıl var, dövlət var onda,
-Qanınım dövləti heçdir yanında.
+Qarunun dövləti heçdir yanında.
 
-Şalı onun başını kəsməsə əgər,
+Şah onun başını kəsməsə əgər,
 Çox çəkməz, dünyanı o əldə edər.
 
 Düşmənə qoşundur verən əziyyət,
-Qoşun da qızılla düzələr, əlbət.*
+Qoşun da qızılla düzələr, əlbət.
 
 Şah yandı qəzəbdən odlu günəştək,
 Düşündü: Mən onu məhv edəm gərək.
 
 Onu yox etməkçin bu pak torpaqdan,
-Tədbir görülməli vennədən aman."
+Tədbir görülməli vermədən aman."
 
 Artdı, alovlandı şahın qəzəbi,
 Müdrik vəziri də bildi mətləbi.
@@ -430,7 +430,7 @@ Padşahın könlündən tozu siləntək,
 Vəzir Mariyəyə xəbər verərək,
 
 Dedi ki, padşahdan üzr istəməkçin
-Tez onun yanma qasid göndərsin.
+Tez onun yanına qasid göndərsin.
 
 İşbilən Mariyə alıb xəbəri,
 Açdı qızıl dolu xəzinələri.

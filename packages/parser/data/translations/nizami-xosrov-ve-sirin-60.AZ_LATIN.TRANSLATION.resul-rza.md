@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -18,10 +18,10 @@ Hər zaman Şirindən tutardı xəbər.
 Xəbər gətirənlər artıqdı mindən,
 Bir şey öyrənirdi o hər birindən.
 
-O ay əl vursaydı əgər bumuna
-Bu xəbər tezində yetərdi ona.
+O ay əl vursaydı əgər burnuna
+Bu xəbər tezliklə yetərdi ona.
 
-Fərhadın yanma gələndə Şirin,
+Fərhadın yanına gələndə Şirin,
 O polad qələni görəndə Şirin,
 
 Tez bunu Xosrova etdilər əyan
@@ -30,44 +30,44 @@ Ki: Fərhad Şirini görüncə, haman
 Qolunun qüvvəsi birə yüz artdı.
 Hər vuranda dağdan bir dağ qopartdı.
 
-Şirini görəndən qəlbi şad olub.
+Şirini görəndən qəlbi şad olub,
 Daşların sərtliyi qoluna dolub.
 
 Zərbələr vuranda görmüşük onu,
 Sütunsuz edəcək o, Bisütunu.
 
 Eşqdən artmışdır qüvvəti qat-qat,
-Aləmi qoymuşdur Külüngünə mat.
+Aləmi qoymuşdur külüngünə mat.
 
-Ağıllı olarsa bir tüikü, inan,
+Ağıllı olarsa bir tülkü, inan,
 Məhv edər, canavar olsa da düşman.
 
-Aıpa tərəzidə çox olsa əgər,
+Arpa tərəzidə çox olsa əgər,
 Tərəzi qızıldan tez üz döndərər.
 
 Bir ay da bu gücdə qalarsa əgər,
-Dağı İKİ bölüb geniş yol çəkər.
+Dağı iki bölüb geniş yol çəkər.
 
 Bu xəbərdən Xosrov ah çəkdi dərin,
-Qorxdu Kİ, çıxacaq əlindən Şirin.
+Qorxdu ki, çıxacaq əlindən Şirin.
 
 Müdrik qocalardan sordu məsləhət:
 "Bu işdə mən necə edim hərəkət?"
 
-Ağıllı qocalar dedilər Kİ: "Sən
+Ağıllı qocalar dedilər ki: "Sən
 Əgər istəyirsən üstün gələsən,
 
 Bir qasid göndər, qoy Fərhada desin:
 Nə durmusan, öldü qəflətən Şirin!
 
-Bəikə belə xəbər ona yetincən
+Bəlkə belə xəbər ona yetirkən
 Fərhadın əlləri soyudu işdən."
 
 Gəzib bir yaramaz adam tapdılar,
 Üzü qırış-qırış, özü də idbar.
 
-Üzü qəssab Kimi "qan, qan" deyirdi.
-Ağzı Nəffat Kimi "yan, yan" deyirdi.
+Üzü qəssab kimi "qan, qan" deyirdi,
+Ağzı Nəffat kimi "yan, yan" deyirdi.
 
 Yaramaz sözlərdən çox öyrətdilər,
 Qılıncla qorxudub, zər vəd etdilər.
@@ -75,11 +75,11 @@ Qılıncla qorxudub, zər vəd etdilər.
 Bisütuna tərəf yola saldılar,
 Bələdçisi oldu bir xəbis, idbar.
 
-Fərhadın yanma getdi o namərd.
+Fərhadın yanına getdi o namərd,
 Qəlbində var imiş sanki ağır dərd.
 
 Söylədi: "Ey nadan, nə işdəsən sən?
-Ömrü Keçirdirsən qəflətdə nədən?"
+Ömrü keçirdirsən qəflətdə nədən?"
 
 Fərhad cavab verdi: "O sevgilimçin
 Bu əziyyət mənə şirindir, şirin.
@@ -87,7 +87,7 @@ Bu əziyyət mənə şirindir, şirin.
 Nə sevgilim! Dili şirin-şəkərdir,
 O canlara dəyən nazlı dilbərdir!"
 
-Acı dilli Kişi gördü Kİ, Şirin
+Acı dilli kişi gördü ki, Şirin
 Dilindən düşməyir o məğrur şirin.
 
 Həsrətlə ah çəkib, söylədi: "Ey dad!..
@@ -100,19 +100,19 @@ Aya qədər saçdı torpağı ənbər,
 Göz yaşı səpdilər yola gələnlər.
 
 Qəmi dərdə saldı bütün qəlbləri,
-Toıpağa tapşırıb döndülər geri."
+Torpağa tapşırıb döndülər geri."
 
 Hər sözə bir xəncər bağlayırdı o,
 Ah çəkib yalandan ağlayırdı o.
 
-Qasid "Hayıf o xal, o saç!" deyəncən,
+Qasid "Hayıf o xal, o saç!" deyərkən,
 Əfsus, lal olmadı dili bu sözdən.
 
 Belə alçaqlığa vicdan uyarmı?
 Ağ yalan danışıb, cana qıyarmı?
 
 Fərhad bu sözləri eşidən zaman
-Sanxi dağ yıxıldı bir dağ başından.
+Sanki dağ yıxıldı bir dağ başından.
 
 Soyuq bir ah qopdu ciyərlərindən,
 Deşdi ciyərini bir ox deyəsən.
@@ -127,13 +127,13 @@ Gülab çəkən deyib gülə çox gözəl:
 Özün verdiyini geri alma, gəl!"
 
 Uca boylu sərvim torpaqdadır, mən
-Toıpaq sovurmayım başıma nədən?!
+Torpaq sovurmayım başıma nədən?!
 
-Gül yaıpağı düşmüş öz budağından.
-Bu bağ olmasınını Könlümə zindan?
+Gül yarpağı düşmüş öz budağından,
+Bu bağ olmasınmı könlümə zindan?
 
-Bulud Kimi necə etməyim xüruş?
-O bahar Kəkiiyi çəməndən uçmuş!
+Bulud kimi necə etməyim xüruş?
+O bahar kəkliyi çəməndən uçmuş!
 
 Olmasın gündüzüm gecə nə sayaq?
 Sönmüş bu dünyaya nur saçan çıraq!
@@ -151,7 +151,7 @@ Zəmanə insana belə tor qurur,
 Qəm verir, can alır, adəti budur,
 
 Olmayanda işə bir başqa tədbir
-Bəla hər tərəfdən qapını Kəsir.
+Bəla hər tərəfdən qapını kəsir.
 
 Hər gül budağına əlini vursan,
 Başına daş yağar gül budağından.
@@ -160,18 +160,18 @@ Başına daş yağar gül budağından.
 Şəkəri ağzında dönər zəhərə.
 
 Tale sənə elə zərbələr vurur,
-Dünyadan Köçməyə olursan məcbur.
+Dünyadan köçməyə olursan məcbur.
 
 Ömrün atı belə üzü dönükdür,
 Hər cavan bu ata, bil, minəcəkdir.
 
-Yalnız bu dünyadan Köçən insanlar
-Bu zalım aləmdən yaxa qurtarar,
+Yalnız bu dünyadan köçən insanlar
+Bu zalım aləmdən yaxa qurtarar.
 
-isa Kimi girər elə bir deyrə,
+İsa kimi girər elə bir deyrə,
 Görünməz, düzülsə çıraq hər yerə.
 
-Dünya div Kimidir, divdən də ancaq
+Dünya div kimidir, divdən də ancaq
 Xoş dillə, xoş üzlə olar qurtarmaq.
 
 Cəhənnəm olmasın sənə xislətin,
@@ -186,13 +186,13 @@ Bir oyan, bu qədər əl-ələ çatma.
 Qara torpaq sənə olanda qəmxar
 Yatarsan, fələk də səni unudar.
 
-Əlli il ömr üçün toıpaq möhrəylə
+Əlli il ömr üçün torpaq möhrəylə
 Hoqqabazlıq etmək neçindir, söylə?
 
-Əlli min il belə yaşasan artıq.
+Əlli min il belə yaşasan artıq,
 Daimi deyildir, güvənmə, yazıq!
 
-Bərk olmayacaqsan, sən Kİ, bu daşdan.
+Bərk olmayacaqsan, sən ki, bu daşdan.
 Bir quma döndərir onu da zaman.
 
 Bu yer bir süfrədir, üstündə qanlar,
@@ -202,7 +202,7 @@ Bu çöl torpağında çox qan axmışdır,
 Sanma bir Səyavuş yerdən qalxmışdır.
 
 Bir zərrə gətirsə əgər girdibad,
-O bir Firidundur, ya da Key qubad.
+O bir Firidundur, ya da Keyqubad.
 
 Bu yer üzərində bir qarış hanı
 Tökülməsin orda insanın qanı?
@@ -223,7 +223,7 @@ Bilənlər bu sirri saxlamış fəqət.
 Gündən-günə artsın zülmün qədəri,
 
 Onda sirlərini bu zəmanənin
-Başqa zəmanəyə deməkdən çəxin!
+Başqa zəmanəyə deməkdən çəkin!
 
 Gecə-gündüz ala bir ata bənzər,
 Cilovunu vermə ona, müxtəsər!
@@ -231,65 +231,65 @@ Cilovunu vermə ona, müxtəsər!
 Yüz bir hiylən ola, yüz fənnin ola,
 O, harınlığından ayrılmaz əsla.
 
-Çox dünya qazanın qaynatdı fələx,
+Çox dünya qazanın qaynatdı fələk,
 Yenə də bişmədi xörəyi gerçək.
 
 Bu qumarxanaya bir elə diqqət,
-Çox varlını qoymuş varma həsrət.
+Çox varlını qoymuş varına həsrət.
 
 On dördlük ay olsa yerin gəlini,
 Qocadır, ver yelə getsin əlini.
 
-O yel Kİ, deyirlər qoparar tufan,
+O yel ki, deyirlər qoparar tufan,
 Yerin talağını verər o zaman.
 
-Əssə də o kшək, əsməsə də, gəl,
-Belə bir Küləkdə yandıma məşəl.
+Əssə də o külək, əsməsə də, gəl,
+Belə bir küləkdə yandırma məşəl.
 
-Bir ovuc torpaqda, ey ovcu torpaq.
-Əlində məşələ dönsə on bamaq.
+Bir ovuc torpaqda, ey ovcu torpaq,
+Əlində məşələ dönsə on barmaq,
 
-Bir görən olmamış bu Kinli dünya
-Kəsilmiş bamağa bir toıpaq qoya.
+Bir görən olmamış bu kinli dünya
+Kəsilmiş barmağa bir torpaq qoya.
 
-Sən bu toıpaqdansan, odur Kİ, belə
-Doludur vücudun smıq-sökükiə.
+Sən bu torpaqdansan, odur ki, belə
+Doludur vücudun sınıq-söküklə.
 
 Çox asan olardı damdan yıxılmaq,
-Düşəndə qol-qıçm sınmasa ancaq.
+Düşəndə qol-qıçın sınmasa ancaq,
 
 Görmürsən, yuxuda bədənsiz bir kəs
 Çox hündürdən düşər, yenə inciməz.
 
 Bu doqquz turuncdan gördüyümüzü
-Turunclar Kükürddən göməmiş, düzü.
+Turunclar kükürddən görməmiş, düzü.
 
 Turuncdan qaçmasan Yusiftək əgər,
-Züleyxa narmctək səni tez Kəsər.
+Züleyxa narınctək səni tez kəsər.
 
 Səhər sərxoş olub bir daş at, nə var,
-Narmcdan, turuncdan dünyanı qurtar!
+Narıncdan, turuncdan dünyanı qurtar!
 
 Doqquzbaş ilandan olmaqçün xilas
 Bu doqquz qapılı evə qıfıl as!
 
-Təkcə bu nəfəsdir bizlərə komək,
+Təkcə bu nəfəsdir bizlərə kömək,
 Onu eləməyək xəzan yelitək.
 
 Ömrümüzün günü sayılır bir-bir,
-Eşqsiz Keçən gün ölüm deməkdir.
+Eşqsiz keçən gün ölüm deməkdir.
 
 Eşqin yollarında əvvəl Fərhad ol.
 Sonra ölümünçün sevinib şad ol!
 
 Kəsərdi mühəndis Fərhad hər zaman
-Polad Külüngə sap nar ağacından.
+Polad külüngə sap nar ağacından.
 
-Çünki mohkəm olur yaş nar budağı.
+Çünki möhkəm olur yaş nar budağı.
 Fərhad ondan tutub çapardı dağı.
 
 Döyünən qəlbini sözlər qanatdı,
-Dağların başına Külüngü atdı.
+Dağların başına külüngü atdı.
 
 Külüngün dəstəsi sancıldı yerə,
 Nəm torpaq can verir göyərtilərə.
@@ -298,4 +298,4 @@ Deyirlər o dəstə bir ağac oldu,
 Bütün budaqları narlarla doldu.
 
 Nizami görməmiş olsa da onu,
-Söyləyir Kitabdan oxuduğunu.
+Söyləyir kitabdan oxuduğunu.

@@ -6,35 +6,35 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
-İbrət gözüylə bax sən bu əsərə.
+İbrət gözüylə bax sən bu əsərə,
 Özünü uydurma əfsanələrə.
 
-Oxu bu dastanı qəlbində Kədər,
+Oxu bu dastanı qəlbində kədər,
 O gözəl Şirinçün ağla bir qədər.
 
 Çünki tez tərk etdi o bu aləmi,
-Cavanlıqda soldu qızılgül Kimi.
+Cavanlıqda soldu qızılgül kimi.
 
-Qıpçaq bütüm təıci ox Kimi süzdü,
-Afaq sevgilimin sanıd özüydü.
+Qıpçaq bütüm təki ox kimi süzdü,
+Afaq sevgilimin sanki özüydü.
 
-O, Dərbənd şahının bir töhfəsiydi.
+O, Dərbənd şahının bir töhfəsiydi,
 Saf, ağıllı, gözəl gül qönçəsiydi.
 
 Dəmir bir zirehdi əynində paltar,
-Əynində donu var koynəkx1ən də dar.
+Əynində donu var köynəkdən də dar.
 
 Əğyara qəzəbli, mənə mehriban,
 Könül yoldaşımdı o nazlı canan.
 
-Türkiərtək olmuşdu bir köçə möhtac,
-Türkiərtək elədi yurdumu tarac.
+Türklərtək olmuşdu bir köçə möhtac,
+Türklərtək elədi yurdumu tarac.
 
-O türküm getdisə bir gün çadırdan.
-Saxla tünczadəmi sən, ey yaradan!
+O türküm getdisə bir gün çadırdan,
+Saxla türkzadəmi sən, ey yaradan!

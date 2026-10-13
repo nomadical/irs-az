@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -24,7 +24,7 @@ O verər zəlilə, acizə hünər.
 Zahirdən, batindən aşikar, nihan,
 Əqlə yol göstərən odur hər zaman.
 
-O, bu imarətin səqfıni tikmiş,
+O, bu imarətin səqfini tikmiş,
 O, bu karxananın nəqşini çəkmiş.
 
 Qəlbə də xoş gəlir ondakı qüdrət,
@@ -52,10 +52,10 @@ Desək ki, göydədir o pərvərdigar,
 Ona təzim edən yer tənha qalar.
 
 Yox, əgər yerdədir, söyləsək, allah,
-Şənini alçaltmaq olmazını günah?!
+Şənini alçaltmaq olmazmı günah?!
 
 Məbudun zatından danışan zaman
-Axtanna nə göydə, nə yerdə məkan.
+Axtarma nə göydə, nə yerdə məkan.
 
 Əgər qüdrətindən deyib-danışsaq,
 Hökmünə tabedir bu göy, bu torpaq.

@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -15,140 +15,140 @@ status: DRAFT
 Səadət bir gülü bəslərsə əgər,
 Bəslədiyi gülə həvəskar istər.
 
-Əvvəlcə tkərək tale bir papaq.
-Şah başma qoyar vaxtında ancaq.
+Əvvəlcə tikərək tale bir papaq,
+Şah başına qoyar vaxtında ancaq.
 
-Üzgüçü dənizdən dürrü çıxardar.
-Taxar öz tacma sonra hökmdar.
+Üzgüçü dənizdən dürrü çıxardar,
+Taxar öz tacına sonra hökmdar.
 
-Şirin Kİ, olmuşdu təzə şanlı bal,
+Şirin ki, olmuşdu təzə şanlı bal,
 Xosrovu səslədi: "Bu badəni al!
 
-Iç, sənə nuş olsun, qəm çəxmə bir an,
+İç, sənə nuş olsun, qəm çəkmə bir an,
 Şirindən qeyrisi çıxsın yadından!"
 
 Bir tərəfdən özü Xosrova gizlin
-Xəbər göndərdi Kİ: "Bəsdir, içməsin."
+Xəbər göndərdi ki: "Bəsdir, içməsin."
 
-Dedi: "Bu gecəlhc camı tənc elə,
-işrət məclisini quraq mənimlə.
+Dedi: "Bu gecəlik camı tərk elə,
+İşrət məclisini quraq mənimlə.
 
 Içkini sevirsən, Şirindən əl çək,
-Iki sərxoşluğa dözməz bir ürək.
+İki sərxoşluğa dözməz bir ürək.
 
-Hər Kəsin başını qızdırsa şərab.
-Anlamaz duzludur, ya şitdir Kabab.
+Hər kəsin başını qızdırsa şərab,
+Anlamaz duzludur, ya şitdir kabab.
 
-Əgər əli çatsa öz ətəyinə.
-Deyər Kİ: məst idim, bilmədim yenə.
+Əgər əli çatsa öz ətəyinə,
+Deyər ki: məst idim, bilmədim yenə.
 
-Bir sərxoş eləsə yüz bim qarət,
+Bir sərxoş eləsə yüz bikri qarət,
 Ayılıb unudar belədir adət.
 
-Çox sərxoş qıfılı özü açar şad.
+Çox sərxoş qıfılı özü açar şad,
 Ayılıb oğrudan eyləyər fəryad."
 
 Şirinin sözündən o şahi-əcəm
 Xoşlandı və dedi: "Ey gözəl sənəm!
 
-Ancaq Keyf günündə qəm çəxmək olmaz."
+Ancaq keyf günündə qəm çəkmək olmaz."
 Çalğılar çalındı, qalxdı xoş avaz.
 
-Nikisa oxuyur, Barbəd çalırdı.
+Nikisa oxuyur, Barbəd çalırdı,
 Zöhrə bu səslərdən ləzzət alırdı.
 
 Bəzən rud deyirdi: "Saqi, mey gətir,
-Eşq olsun bu Keyfə, sən bir cam yetir."
+Eşq olsun bu keyfə, sən bir cam yetir."
 
 Şərab söyləyirdi Barbədə bəzən:
-"Çal, xoş olsun ilin Keçən ilindən."
+"Çal, xoş olsun ilin keçən ilindən."
 
-Şirinin adma cam doldurur hey
-Şah ara vermədən içir peydəıpey.
+Şirinin adına cam doldurur hey
+Şah ara vermədən içir peydərpey.
 
-Dalbadal piyalə doldurub içdi.
-Bu təhər gecədən bir xeyli Keçdi.
+Dalbadal piyalə doldurub içdi,
+Bu təhər gecədən bir xeyli keçdi.
 
-Bir zaman gəldi Kİ, məclis bitərək,
-Bəy gəlin yanma gedəydi gərək.
+Bir zaman gəldi ki, məclis bitərək,
+Bəy gəlin yanına gedəydi gərək.
 
-Şah sərxoş olaraq qaldı yerində.
+Şah sərxoş olaraq qaldı yerində,
 Apardılar onu çiyinlərində.
 
 Şirin xəbər tutdu: şah sərxoş olmuş,
 Nə qolunda güc var, nə başında huş.
 
-Zarafat eylədi Xosrovla dildar.
+Zarafat eylədi Xosrovla dildar,
 Sərxoşla edərlər, bax, belə rəftar.
 
-Şirinində qaçdı gizləndi Şirin,
-Göndərdi yanma belə "nazənin":
+Şirinliklə qaçdı gizləndi Şirin,
+Göndərdi yanına belə "nazənin":
 
-Anası yaşında bir qarı vardı.
+Anası yaşında bir qarı vardı,
 Qoca analardan bir yadigardı.
 
-Nə deyim, bir qurddu, əynində Küncü,
-Qurd da demək olmaz, bir qoca tühcü.
+Nə deyim, bir qurddu, əynində kürkü,
+Qurd da demək olmaz, bir qoca tülkü.
 
-Əmcəkiəri sanki susuz bir motal,
+Əmcəkləri sanki susuz bir motal,
 Dizində taqət yox, bədənində hal.
 
 Əyrilikdə beli böyük bir kaman,
-Dərisi gön Kimi, eybəcər insan.
+Dərisi gön kimi, eybəcər insan.
 
 Üzü hind qozutək lap qırış-qırış,
 Bir zəhər tuluğu, qalıb qartımış.
 
 Ağzı bir tabaqdı, dodaqları vəl,
-Ordu kohnə qəbir, bir Kösövdü əl.
+Ordu köhnə qəbir, bir kösövdü əl.
 
-Qaşının tükiəri ağzına enmiş,
+Qaşının tükləri ağzına enmiş,
 Dodağı aralı, görünmürdü diş.
 
-Bumu sifətində çadır qurardı,
+Burnu sifətində çadır qurardı,
 Ağzında diş deyil, zırnıxlar vardı.
 
-Kirpikiər tökülüb, bərəlmişdi göz,
-Canlı bir ifritə Kimiydi, bir söz.
+Kirpiklər tökülüb, bərəlmişdi göz,
+Canlı bir ifritə kimiydi, bir söz.
 
 Şirin bəzək-düzək vuraraq ona,
-Gəlintək göndərdi şahın yanma,
+Gəlintək göndərdi şahın yanına.
 
-istədi sınasın şahı o canan:
-Fərq elə biləmi ayı buluddan?
+İstədi sınasın şahı o canan:
+Fərq elə bilərmi ayı buluddan?
 
 Pərdənin yanında qarı göründü,
 Ilantək qıvrıldı, sonra süründü.
 
-O qədər arıqdı, samci cansızdı.
+O qədər arıqdı, sanki cansızdı,
 Ağzında dişi yox, üzü qansızdı.
 
-Sərxoş şahın halı çox yaman idi.
+Sərxoş şahın halı çox yaman idi,
 Gözündə asiman risiman idi.
 
-Yenə də baxanda fərq edirdi Kİ,
-Bu sayaq yeriməz bahar Kəkiiyi.
+Yenə də baxanda fərq edirdi ki,
+Bu sayaq yeriməz bahar kəkliyi.
 
-Kaman qaşlarına Kirişi saldı.
-Güman edirdi Kİ, kök ceyran çaldı.
+Kaman qaşlarına kirişi saldı,
+Güman edirdi ki, kök ceyran çaldı.
 
 Onu yıxdı, gördü samana dəyməz,
 Çəkdiyi zəhmətlər getmişdir əbəs.
 
 Dövlət quşu deyil, qarğa vurmuşdur.
-Ay yerində əfi yuva qumuşdur.
+Ay yerində əfi yuva qurmuşdur.
 
-Düşündü: bu ilanpərəstlhc nədir?
-Yuxumu, xəyalmı, bu məstik nədir?
+Düşündü: bu ilanpərəstlik nədir?
+Yuxumu, xəyalmı, bu məstlik nədir?
 
-Bu əyribel qarı Şirin olmadı.
+Bu əyribel qarı Şirin olmadı,
 Nə şirin, öldürdü məni turş dadı.
 
 Ancaq üstün gəldi meyin xumarı,
 Zənn etdi Şirindir yöndəmsiz qarı.
 
 Sərxoşluq zamanı ülfət edirkən
-Qarı bir cam Kimi düşdü əlindən.
+Qarı bir cam kimi düşdü əlindən.
 
 Qırıldı onların arzu şüşəsi,
 Pozuldu bir anda şahın nəş əsi.
@@ -156,17 +156,17 @@ Pozuldu bir anda şahın nəş əsi.
 Güclə haray saldı o qoca arvad:
 "Şirincan, öldürdü, gəl, dadıma çat!"
 
-Qarmın səsini eşitdi Şirin,
+Qarının səsini eşitdi Şirin,
 Qət etdi hay versin, dada yetişsin.
 
 Çıxdı ortalığa yeddi pərdədən,
 Baxırsan üz nə üz, bədən nə bədən!.
 
 Şəkər deyimmi, yox, nəçidir şəkər,
-Qarşısında nabat olmuşdur nokər.
+Qarşısında nabat olmuşdur nökər.
 
-Sərvin balı olsa sərv deyərdim.
-Ay фək geysəydi ay söyləyərdim.
+Sərvin balı olsa sərv deyərdim,
+Ay ipək geysəydi ay söyləyərdim.
 
 Bir aydı, aydan və günəşdən gözəl,
 Bir güldü, bahara qoymazdı məhəl.
@@ -174,16 +174,16 @@ Bir güldü, bahara qoymazdı məhəl.
 Bir bütdü, sitayiş halaldı ona,
 Nəqd behişt deyərdin cənnət qoynuna.
 
-Dünyaya nur saçan sevimli dilbənd.
+Dünyaya nur saçan sevimli dilbənd,
 Xırmanlarda gülü, xalvarlarla qənd.
 
 Bir ətirli güldü, bir təzə bahar,
 Layiqdi oxşasın onu xoşbaxtlar.
 
 Xəcalət çəkirdi ondan müştəri,
-Yerişinə heyran dağ Kəkiikiəri.
+Yerişinə heyran dağ kəklikləri.
 
-Bədnəzər göz yummuş onun xalma,
+Bədnəzər göz yummuş onun xalına,
 Gözlər vurulmuşdu gül camalına.
 
 Çəkiləndə onun qara xalları,
@@ -193,24 +193,24 @@ Eşqdən yaranmış ləl dodaq, dürr diş,
 Nə dişi ləb görmüş, nə ləbi bir diş,
 
 Nəfəsi canpərvər, ətirli nəsim.
-Ağzı mövhum nöqtə, ya da Kİ, bir "mim."
+Ağzı mövhum nöqtə, ya da ki, bir "mim."
 
 Qulağı, gərdəni inci saçırdı,
 Onlar incilərə bazar açırdı.
 
-Daş tutmuş ovcunda "mim" Kimi dodaq.
+Daş tutmuş ovcunda "mim" kimi dodaq,
 Ta bir kəs vurmasın hərfinə barmaq.
 
-Ətri tərəzidə ağırdı candan.
+Ətri tərəzidə ağırdı candan,
 Saçları olmuşdu tərəzi tutan.
 
-Aya da atmışdı qara bir Kəmənd,
+Aya da atmışdı qara bir kəmənd,
 Çırağa tüstüylə vurmuşdu bir bənd.
 
-Nazı Türküstanm qəlbini çalmış.
+Nazı Türküstanın qəlbini çalmış.
 Öpüşü Xuzistan xəracı almış.
 
-Təzə gül Kimiydi o qəşəng üzü,
+Təzə gül kimiydi o qəşəng üzü,
 Baxıb tər tökürdü gülabın özü.
 
 Bədəni qaqumtək yumşaq, zərif, ağ,
@@ -219,32 +219,32 @@ Qaqum quyruğutək on zərif barmaq.
 Bədəni yoğrulmuş süddən, şəkərdən,
 Süddən də ağ idi təbaşir bədən.
 
-Əndamı az qala axıb gedirdi.
+Əndamı az qala axıb gedirdi,
 Qara oynaq saçı pərvaz edirdi.
 
-Qulağına çatmış qaşının tağı.
+Qulağına çatmış qaşının tağı,
 Dairə vurmuşdu gümüş buxağı.
 
-Ürəkiər ovlayan min nazı vardı,
-O xumar gözləri Karvan vurardı.
+Ürəklər ovlayan min nazı vardı,
+O xumar gözləri karvan vurardı.
 
 Badətək silərdi ürəkdən qəmi,
 Fərəhləndirirdi bütün aləmi.
 
-Bir güldü deyim o, ya Kİ, bir şəxər?
+Bir güldü deyim o, ya ki, bir şəkər?
 Yox, yox, onun özü özünə bənzər.
 
-Şah Könül ovlayan ayı görüncən,
-Cin vurmuş ay gördü sanxi qəfildən.
+Şah könül ovlayan ayı görürkən,
+Cin vurmuş ay gördü sanki qəfildən.
 
-Dəli, ayı görüb özündən çıxdı.
+Dəli, ayı görüb özündən çıxdı,
 Onu bu iztirab yatağa yıxdı.
 
 Səhər adətincə oyanan zaman
-Tixansız çiçəyi gördü nagəhan.
+Tikansız çiçəyi gördü nagəhan.
 
 Gözələ vuruldu onun ürəyi,
-isti təndir görüb yapdı çörəyi.
+İsti təndir görüb yapdı çörəyi.
 
 Getdi acı meyin acı buxarı,
 Şirinin öpüşü qırdı xumarı.
@@ -256,7 +256,7 @@ Dolanmış boynuna cüt qara saçlar,
 Qoyub almasına bir cüt gümüş nar.
 
 Bənövşə laləylə olub həmavaz,
-Şəxər söyləyirdi: dayanmaq olmaz.
+Şəkər söyləyirdi: dayanmaq olmaz.
 
 Bulud ay önündən çəkilən zaman
 Şahın səbri bitib, yox oldu haman.
@@ -270,14 +270,14 @@ Nabat, qənd sındırdı orda çoxluca.
 Əvvəl gül topladı, büründü gülə,
 O gül üzdən öpdü hey gülə-gülə.
 
-Sonra da eşq üçün tökərəx tədbir,
+Sonra da eşq üçün tökərək tədbir,
 Təzə meyvələrə əl atdı bir-bir.
 
 Gah alma, səmənlə oynayırdı şah.
 Nər ilə, nərgizlə oynayırdı gah.
 
 Əlindən çıxırdı bəzən o qartal,
-Döşünə qonurdu kəkhym dərhal.
+Döşünə qonurdu kəkliyin dərhal.
 
 Bəzən çırpınaraq qalxırdı, yenə
 Göyərçin qonurdu tərlan döşünə.
@@ -294,13 +294,13 @@ Dirilik suyutək möhür vurublar.
 Nə duyub məzlumun ayaq səsini,
 Nə görüb zalımın qan pəncəsini.
 
-O qönçə peykaыa tez birləşirdi,
-Peykaşşn ucu ləli deşirdi.
+O qönçə peykanla tez birləşirdi,
+Peykanının ucu ləli deşirdi.
 
 Sanki şah Xızr idi, zülmət də gecə,
 Buraxdı balığı suya gizlicə.
 
-Şadlıqdan həvəslə çəpix çalırdı,
+Şadlıqdan həvəslə çəpik çalırdı,
 Katibtək altmışa biri salırdı.
 
 Demirəm hədəfə bir ox atırdı,
@@ -312,7 +312,7 @@ Can cana çatmışdı orda, müxtəsər.
 Gümüş rəngli cama gül suyu damdı,
 Şəkəri əridən məğzi-badamdı.
 
-Sədəfi mərcana bir beşix qurdu,
+Sədəfi mərcana bir beşik qurdu,
 Odla su əhd edib bir yerdə durdu.
 
 Odla su birləşdi, tez qarışaraq,
@@ -321,11 +321,11 @@ Al rənglə civəylə bəzəndi yataq.
 Yatmadılar bütün gecə-gündüzü,
 Deşdilər yaqutu inciylə, düzü.
 
-Bənövşə qol üstə, nəsrin qucaqda.
+Bənövşə qol üstə, nəsrin qucaqda,
 Bir gün də qaldılar huşsuz yataqda
 
-Tovuz Kimi yatdı İKİ novcavan,
-Tovuzlar çox gözəl olur yatacan.
+Tovuz kimi yatdı iki novcavan,
+Tovuzlar çox gözəl olur yatırkan.
 
 Qalxdıqda o şirin yuxudan daha,
 Çox şükür etdilər böyük allaha.
@@ -336,14 +336,14 @@ Sonra yuyundular, oldular təmiz,
 Bir ay pozulmadı toyun ahəngi,
 Öz yerində qaldı bəzəyi, rəngi.
 
-Hümeyla, Səməntürıc, bir də Humayun
-Etdi əllərini xmayla gülgün.
+Hümeyla, Səməntürk, bir də Humayun
+Etdi əllərini xınayla gülgün.
 
 Bir yerə yığaraq bir gün onları,
 Xosrov geyindirdi gəlin paltarı.
 
-Onlara yaraşan bəzəx də verdi.
-Gövhər, qızıl, qaş-daş, ipəx də verdi.
+Onlara yaraşan bəzək də verdi,
+Gövhər, qızıl, qaş-daş, ipək də verdi.
 
 Şapura verdi şah Humayunu tez,
 Bir xurma yemişdi, bil, verdi əvəz.
@@ -352,12 +352,12 @@ Etdi Səməntürkü Barbədə gəlin,
 Nikisaya dedi: Hümeyla sənin.
 
 Məhin Banunun da yerini bütün
-Şapura bəxş etdi, hakmhk sürsün.
+Şapura bəxş etdi, hakimlik sürsün.
 
-Şapurun əlinə Keçəndə dövlət,
-Thcdirdi o yerdə çoxlu imarət.
+Şapurun əlinə keçəndə dövlət,
+Tikdirdi o yerdə çoxlu imarət.
 
-Dezqana Kİ, durur bu gün də belə.
+Dezqana ki, durur bu gün də belə,
 Deyirlər tikilib Şapur əliylə.
 
 Ondan sonra Xosrov bəxtiyar oldu,
@@ -366,43 +366,43 @@ Hər zaman taleyi ona yar oldu.
 Səadət, səltənət, həm də cavanlıq, -
 Daha bundan yaxşı nə lazım artıq!
 
-Gecə-gündüz İçki, çal-çağır, söhbət,
+Gecə-gündüz içki, çal-çağır, söhbət,
 Dünyanı yeyirdi, çəkmirdi xiffət.
 
-Dünyada ye, yaşa, sev bu aləmi.
+Dünyada ye, yaşa, sev bu aləmi,
 Nəyinə lazımdır dünyanın qəmi!
 
 Dünya bəxş edirdi, dünya yeyirdi,
-"Əvəzdir pis günə bu Keyf ' deyirdi.
+"Əvəzdir pis günə bu keyf" deyirdi.
 
-Bir müddət Keçmədi, açıldı gözü,
-Bu Keyfcil həyatdan utandı özü.
+Bir müddət keçmədi, açıldı gözü,
+Bu keyfcil həyatdan utandı özü.
 
 Gözətçi olanda üzünə saqqal,
-Cavanlıq gözündən Шk çəkdi dərhal.
+Cavanlıq gözündən tük çəkdi dərhal.
 
-Varlıqla yoxluğun arası Шkcшr,
-O da bir ağ tüıcdür, qəmi böyündür.
+Varlıqla yoxluğun arası tükdür,
+O da bir ağ tükdür, qəmi böyükdür.
 
-Qara tükiərinə dən düşən zaman,
-Verər düşgiinlüktiən xəbər bu nişan.
+Qara tüklərinə dən düşən zaman,
+Verər düşgünlükdən xəbər bu nişan.
 
-Yasəmən yatmca yuxuda rahət,
+Yasəmən yatınca yuxuda rahət,
 Verər öz zülfünə bənövşə zinət.
 
 Səhərin gül üzü gülənə qədər
-Qaranlıq gecələr hönmünü sürər.
+Qaranlıq gecələr hökmünü sürər.
 
-Ceyran tutan tazı əldən düşüncən
+Ceyran tutan tazı əldən düşürkən
 Ona ayıb tutar hər yoldan ötən.
 
 Nə qədər yağmayıb bağçalara qar,
 Bağın, bağçanın da min səfası var.
 
-Kafur səpən zaman qar bitnilərə
-Ölüm çönər san Kİ bütün hər yerə.
+Kafur səpən zaman qar bitkilərə
+Ölüm çökər sanki bütün hər yerə.
 
-Oxsuz qalsa türıcün əlində kaman.
+Oxsuz qalsa türkün əlində kaman,
 Onu dəf qayırar axır dəf çalan.
 
 Buğda ağ un olsa, bircə il qara,
@@ -411,55 +411,55 @@ Sonra acılaşar, çoxlu qurd salar.
 Paltar yuyulmaqdan ağarsa əgər,
 Ona qayçı ağzı yəqin tez dəyər.
 
-Qazanın Köpüyü əgər tökülsə,
-Mətbəx başdan-başa bulanar kшə.
+Qazanın köpüyü əgər tökülsə,
+Mətbəx başdan-başa bulanar külə.
 
 Mətbəxli qaraya söylə: ay aman!..
 Çox düşünmə, vardır öndə dəyirman.
 
 Mətbəxdə adını qoysalar ənbər,
-Dəyirmana getsən Kafura dönər.
+Dəyirmana getsən kafura dönər.
 
 Dəyirman tozuna bulaşmış insan
-Siikinsə, o tozdan qalxmaz bir nişan.
+Silkinsə, o tozdan qalxmaz bir nişan.
 
-Bu dünyanın tozu qonsa üstünə.
+Bu dünyanın tozu qonsa üstünə,
 Yüz dənizlə yusan, yuyulmaz yenə.
 
-Söylə, gəncik nədir? Başın sevdası!
+Söylə, gənclik nədir? Başın sevdası!
 O sevdadan gəlir hər baş bəlası.
 
 Hakim olan zaman şəhrə qocalıq,
 Cavanlıq sevdası qalarmı artıq?
 
 "Neyləyim, soruşdu qocadan cavan. -
-Məndən qaçmasın yar, mən qocalıncan?"
+Məndən qaçmasın yar, mən qocalırkan?"
 
 Qoca cavab verdi: "Gələndə o gün
 Uzaq qaçacaqsan yardan sən özün."
 
-Bir başa Kİ, civə tökə fələkiər,
-O, gümüş bütlərdən civətək hürıcər.
+Bir başa ki, civə tökə fələklər,
+O, gümüş bütlərdən civətək hürkər.
 
-Qara Шk ürəıcdən hər dərdi silər,
-Qaralar gözündə olmaz qəm, Kədər.
+Qara tük ürəkdən hər dərdi silər,
+Qaralar gözündə olmaz qəm, kədər.
 
-Daim zəncilərdən uzaq qaçar qəm.
+Daim zəncilərdən uzaq qaçar qəm,
 Heç bir zənci bilməz nə şeydir ələm.
 
-Hindistan yolunda fərraş olaraq.
+Hindistan yolunda fərraş olaraq,
 Qaralıq dərmandır gözlərə ancaq.
 
-Ey baş, qafil olma, sovuşdu zaman.
+Ey baş, qafil olma, sovuşdu zaman,
 Səhərin ləşkəri girdi qapıdan.
 
-Sənin gicgahında ağ bir Kəfən var,
+Sənin gicgahında ağ bir kəfən var,
 Qəflət pambığını qulaqdan çıxar.
 
 Bənövşə saqqalı yasəmən oldu,
-Mən Kimi qocaldı Xosrov, yoruldu.
+Mən kimi qocaldı Xosrov, yoruldu.
 
-Xosrov dönməsə də öz ilqarından.
+Xosrov dönməsə də öz ilqarından,
 Qorxudurdu onu vəfasız dövran.
 
 Nərd atan görərdin bəzən Pərvizi,
@@ -480,5 +480,5 @@ Xarabəyə dönüb gedər bir zaman.
 Ay bədr olan zaman bürünər nura,
 Uğrayar zavala get-gedə sonra.
 
-Meyvə ka olduqda böyüyər, artar,
+Meyvə kal olduqda böyüyər, artar,
 Yetişən zamanda yerə düşər bar.

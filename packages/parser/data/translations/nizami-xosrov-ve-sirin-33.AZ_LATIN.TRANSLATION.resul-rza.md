@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -16,22 +16,22 @@ status: DRAFT
 Ancaq gördü Xosrov o yerdə yoxdur.
 
 Şirini Gülgündən düşürtdü yenə
-Banunun o gözəl güllükiərinə.
+Banunun o gözəl güllüklərinə.
 
 Bağa bir sərv saldı, behiştə bir hur,
 Göyə günəş verdi, nəzərlərə nur.
 
-Qohum-əqrəbalar, Kənizlər, qullar
+Qohum-əqrəbalar, kənizlər, qullar
 Çəkirdi Şirinə çoxdan intizar.
 
 Şirini görəndə öpdülər yeri,
-Toıpaqtək ayağa düşdü hər biri.
+Torpaqtək ayağa düşdü hər biri.
 
 Çox şükür etdilər, nəzir verdilər,
 Atəşgaha xeyli pay göndərdilər.
 
 Banunun halını əgər sorasan,
-Evə sığmayırdı, xoşbaxtlığmdan.
+Evə sığmayırdı, xoşbaxtlığından.
 
 Qocaydı, bir anda lap cavan oldu.
 Yenidən dirilmiş bir insan oldu.
@@ -40,28 +40,28 @@ Yenidən dirilmiş bir insan oldu.
 Dünya yeni rəngdə göründü ona.
 
 Şirinə göstərdi bir nazü niyaz -
-Onları yüz beytlə vəsf ehnək olmaz.
+Onları yüz beytlə vəsf etmək olmaz.
 
-"Dövlət xəznəsindən, şahlıq mühcündən
+"Dövlət xəznəsindən, şahlıq mülkündən
 Götür, payla, - dedi, - özün bilirsən."
 
 Utanmasın deyə, artıq sormadı,
 Keçmiş əhvalatı üzə vurmadı.
 
-Bilirdi Kİ, bu iş əbəs deyildir,
-Məftun olduğuna mohkəş dəlildir.
+Bilirdi ki, bu iş əbəs deyildir,
+Məftun olduğuna möhkəm dəlildir.
 
 Xosrovdan duymuşdu bəzi şeyləri,
 Gümüş bədənlidən vardı xəbəri.
 
-Coşmuş mey Küpünü örtmək istədi,
+Coşmuş mey küpünü örtmək istədi,
 "Günəşi palçıqla suvayım", dedi.
 
 Oxşayıb deyirdi ona: "Qulaq as,
 Dərman qəbul elə toxtayıb bir az."
 
 Nəvaziş göstərib öz pərisinə,
-O kohnə əhdini tutmuşdu yenə.
+O köhnə əhdini tutmuşdu yenə.
 
 Bəxş etdi Şirinə yetmiş gözəli
 Ki, sürsün ömrünü meyli, məzəli.
@@ -69,8 +69,8 @@ Ki, sürsün ömrünü meyli, məzəli.
 Oyun sevən fələk yenə təzədən
 O şux gözəllərçün yaratdı gülşən.
 
-Şirin o qızları gördü gülərəx,
-Ulduzlara vurdu aydan bir bəzəx.
+Şirin o qızları gördü gülərək,
+Ulduzlara vurdu aydan bir bəzək.
 
 Yenə başladılar işrətə, eyşə,
 Köhnə əyləncəni etdilər peşə...

@@ -2,13 +2,12 @@
   "id": "rzaquluzade-iqbalname",
   "layout": "split",
   "archiveId": "Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad",
-  "plainText": true,
   "language": "AZ_LATIN",
   "ocr": "az",
   "title": "Nizami Gəncəvi, «İskəndərnamə: İqbalnamə», tərcümə edən Mikayıl Rzaquluzadə",
   "translator": "Mikayıl Rzaquluzadə",
   "year": 1941,
-  "translatorNote": "Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə. Mətn skandan tanınıb, hələ yoxlanmayıb.",
+  "translatorNote": "Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə. Mətn skandan tanınıb və skanla tutuşdurulub.",
   "workSlugBase": "nizami-iqbalname",
   "noteHeight": 0,
   "dropCaps": true,
@@ -54,18 +53,2231 @@
     "36": "Müğənni, ürəyim düşübdür dara,",
     "37": "Müğənni, şövqlə ucalt səsini,",
     "38": "Müğənni, bir quşsan - vaxtı düz bilən,",
-    "39": "Müğənni, mdunu bir dindir barı,",
+    "39": "Müğənni, rudunu bir dindir barı,",
     "40": "Müğənni, bu gecə çəngini saz et,",
     "41": "Müğənni, qəlb açan o sazın ilə",
     "42": "Müğənni, yorubdur bəm səslər məni,",
-    "43": "Müğənni, şh verən sazını bir al,",
+    "43": "Müğənni, ruh verən sazını bir al,",
     "44": "Müğənni bir şirin nəğmə söylə sən,",
     "45": "Müğənni, bu köhnə pərdədə yekə",
     "46": "Müğənni, çal, sənə heyran olum mən,",
     "47": "Müğənni, çal rudu, gəl, dadıma çat,",
-    "48": "Müğənni, çal görək bir \"Ramişi-can \"",
+    "48": "Müğənni, çal görək bir \"Ramişi-can\",",
     "49": "Müğənni, o \"Ramiş\" havasını çal,",
     "50": "Gövhərlər olanda mədəndə aşkar"
   },
-  "corrections": []
+  "corrections": [
+    {
+      "from": "Çalış, ustadının çıxma sözündən,",
+      "to": "Çalış, ustadının çıxma sözündən."
+    },
+    {
+      "from": "incimə dövlətin etdiyi nazdan,",
+      "to": "İncimə dövlətin etdiyi nazdan,"
+    },
+    {
+      "from": "Zülm etmə, ədi ilə saxla ölkəni!",
+      "to": "Zülm etmə, ədl ilə saxla ölkəni!"
+    },
+    {
+      "from": "Onda heç axtanna, heç umma səhhət.",
+      "to": "Onda heç axtarma, heç umma səhhət."
+    },
+    {
+      "from": "Bunu da bildinnə özgələrinə.",
+      "to": "Bunu da bildirmə özgələrinə."
+    },
+    {
+      "from": "Bunlar xeyir vennəz: biri doldurar",
+      "to": "Bunlar xeyir verməz: biri doldurar"
+    },
+    {
+      "from": "Məşuqə adlanan bir əjdəlıadır,",
+      "to": "Məşuqə adlanan bir əjdəhadır,"
+    },
+    {
+      "from": "Bu dünya kam vennir. ancaq can alır.",
+      "to": "Bu dünya kam vermir. ancaq can alır."
+    },
+    {
+      "from": "Bşş doğru, dürüst bilməyən insan",
+      "to": "Bunu doğru, dürüst bilməyən insan"
+    },
+    {
+      "from": "insan əl çəkəydi boş xəyallardan,",
+      "to": "İnsan əl çəkəydi boş xəyallardan,"
+    },
+    {
+      "from": "Kabablıq ət üçün nədir bu zəhmət? 184",
+      "to": "Kabablıq ət üçün nədir bu zəhmət?"
+    },
+    {
+      "from": "Zəri yerdə şaxlar, həsədi canda.",
+      "to": "Zəri yerdə saxlar, həsədi canda."
+    },
+    {
+      "from": "işini düzəldər bu sayaq asan,",
+      "to": "İşini düzəldər bu sayaq asan,"
+    },
+    {
+      "from": "İşin düyün düşsə, aça bilməsən.",
+      "to": "İşin düyün düşsə, aça bilməsən,"
+    },
+    {
+      "from": "Vursun üzüyündən muma möhr o da",
+      "to": "Vursun üzüyündən muma möhr o da,"
+    },
+    {
+      "from": "Girmə əqlin, huşun əmr vennədən.",
+      "to": "Girmə əqlin, huşun əmr vermədən."
+    },
+    {
+      "from": "işvəli bir dilbər seç özünə sən.",
+      "to": "İşvəli bir dilbər seç özünə sən."
+    },
+    {
+      "from": "Orda hər yetənə sən vennə fürsət.",
+      "to": "Orda hər yetənə sən vermə fürsət."
+    },
+    {
+      "from": "Yediyin olmasın acı, dəniztək 1S.",
+      "to": "Yediyin olmasın acı, dəniztək."
+    },
+    {
+      "from": "Qapına müşktək ətir səpilər 18S.",
+      "to": "Qapına müşktək ətir səpilər."
+    },
+    {
+      "from": "Öküztək, eşşəktək baxar hərəsi,",
+      "to": "Öküztək, eşşəktək baxar hərəsi."
+    },
+    {
+      "from": "insan sağlam olar az-az yeməkdən,",
+      "to": "İnsan sağlam olar az-az yeməkdən,"
+    },
+    {
+      "from": "Onun dadma yox, faydasına bax!",
+      "to": "Onun dadına yox, faydasına bax!"
+    },
+    {
+      "from": "Özgənin əliylə qazdınna mədən.",
+      "to": "Özgənin əliylə qazdırma mədən,"
+    },
+    {
+      "from": "Ümidlə, vədəylə bəslənər zirə,",
+      "to": "Ümidlə, vədəylə bəslənər zirə."
+    },
+    {
+      "from": "öuraqlıq olanda, bilmirsən bunu,",
+      "to": "Quraqlıq olanda, bilmirsən bunu,"
+    },
+    {
+      "from": "Zirəyə verərlər zirə suyunu? 190",
+      "to": "Zirəyə verərlər zirə suyunu?"
+    },
+    {
+      "from": "Daim qılncmdan nahaq qan axar.",
+      "to": "Daim qılncından nahaq qan axar."
+    },
+    {
+      "from": "iti düşüncənin cilovunu çək,",
+      "to": "İti düşüncənin cilovunu çək,"
+    },
+    {
+      "from": "Etmə tabəənlə çox yumşaq rəftar.",
+      "to": "Etmə tabəənlə çox yumşaq rəftar,"
+    },
+    {
+      "from": "Ömrünü ah-vayla vennə sən bada,",
+      "to": "Ömrünü ah-vayla vermə sən bada,"
+    },
+    {
+      "from": "Acizlər alı-vayla yaşar dünyada.",
+      "to": "Acizlər ah-vayla yaşar dünyada."
+    },
+    {
+      "from": "incimə, adətdir qılıncda kəsmək.",
+      "to": "İncimə, adətdir qılıncda kəsmək."
+    },
+    {
+      "from": "öəlbimdən atəşə üzərrik atdım.",
+      "to": "Qəlbimdən atəşə üzərrik atdım."
+    },
+    {
+      "from": "Mən \"Xosrovnamə\"ni yazmaqçün rəvan",
+      "to": "Mən \"Xosrovnamə\"ni yazmaqçün rəvan,"
+    },
+    {
+      "from": "Çaldırdım möhrü söz xəzinəsindən,",
+      "to": "Qaldırdım möhrü söz xəzinəsindən,"
+    },
+    {
+      "from": "Bu parlaq güzgüyə dikdim gözümü.",
+      "to": "Bu parlaq güzgüyə dikdim gözümü,"
+    },
+    {
+      "from": "Əz qızıl gülümü solğun gördüm mən",
+      "to": "Əz qızıl gülümü solğun gördüm mən."
+    },
+    {
+      "from": "İskəndəriyyəyə gəlib çatantək.",
+      "to": "İskəndəriyyəyə gəlib çatantək,"
+    },
+    {
+      "from": "Gedib düz Şərirdə qurdu taxtını.",
+      "to": "Gedib düz Sərirdə qurdu taxtını."
+    },
+    {
+      "from": "Şalı mindi vüqarla öz köhləninə,",
+      "to": "Şah mindi vüqarla öz köhləninə."
+    },
+    {
+      "from": "ilk əvvəl yolunu Məğribə saldı.",
+      "to": "İlk əvvəl yolunu Məğribə saldı."
+    },
+    {
+      "from": "Çatdı məzlumların dadma o an.",
+      "to": "Çatdı məzlumların dadına o an."
+    },
+    {
+      "from": "Qüdsün qapısında çannıxa çəkdi.",
+      "to": "Qüdsün qapısında çarmıxa çəkdi."
+    },
+    {
+      "from": "Zalimin zülmünü şalı məhv elədi,",
+      "to": "Zalimin zülmünü şah məhv elədi,"
+    },
+    {
+      "from": "Əql ilə, ədi ilə iş gördüyündən,",
+      "to": "Əql ilə, ədl ilə iş gördüyündən,"
+    },
+    {
+      "from": "Hamım düz dinə elədi dəvət,",
+      "to": "Hamını düz dinə elədi dəvət,"
+    },
+    {
+      "from": "Keçirdi bir yerdən o başqa yerə,\n",
+      "to": "Keçirdi bir yerdən o başqa yerə,\nİnsan yaşamayan cəzirələrə.\n"
+    },
+    {
+      "from": "Dəhşətlə döyürdü ətrafı dalğa.",
+      "to": "Dəhşətlə döyürdü ətrafı dalğa,"
+    },
+    {
+      "from": "Odu heç gözündən İraq qoymurdu.",
+      "to": "Odu heç gözündən iraq qoymurdu."
+    },
+    {
+      "from": "Kim bilir, günəş, Ay bu cilvəgalıdan",
+      "to": "Kim bilir, günəş, Ay bu cilvəgahdan"
+    },
+    {
+      "from": "Məsləhət gönnədi o yolbilənlər,",
+      "to": "Məsləhət görmədi o yolbilənlər,"
+    },
+    {
+      "from": "işıqlı bir sahil vardır o yanda.",
+      "to": "İşıqlı bir sahil vardır o yanda."
+    },
+    {
+      "from": "Şahın adamları dinləyib bıınu,\n",
+      "to": "Şahın adamları dinləyib bunu,\nİcra elədilər buyurduğunu.\n"
+    },
+    {
+      "from": "Aradan keçincə bir xeyli müddət.",
+      "to": "Aradan keçincə bir xeyli müddət,"
+    },
+    {
+      "from": "Binalar xaricdən vennirdi ziyan,",
+      "to": "Binalar xaricdən vermirdi ziyan,"
+    },
+    {
+      "from": "Hasarı içindən gönnək istərkən,",
+      "to": "Hasarı içindən görmək istərkən,"
+    },
+    {
+      "from": "Hasara dınnaşdı kəmənd ataraq.",
+      "to": "Hasara dırmaşdı kəmənd ataraq."
+    },
+    {
+      "from": "Bir adam göndənniş, təcrübə etmiş,",
+      "to": "Bir adam göndərmiş, təcrübə etmiş,"
+    },
+    {
+      "from": "Dəıyadan səhraya elədi səfər.",
+      "to": "Dəryadan səhraya elədi səfər."
+    },
+    {
+      "from": "Qum qumluqları keçib ötürdü,",
+      "to": "Quru qumluqları keçib ötürdü,"
+    },
+    {
+      "from": "Minatək yamyaşıl daşlan vardı,",
+      "to": "Minatək yamyaşıl daşları vardı,"
+    },
+    {
+      "from": "Bıı daşlar kəsmişdi çıxacaq yolu,",
+      "to": "Bu daşlar kəsmişdi çıxacaq yolu,"
+    },
+    {
+      "from": "iti daşlar ilə doluydu hər yan,",
+      "to": "İti daşlar ilə doluydu hər yan,"
+    },
+    {
+      "from": "Diinyagörmüş olsun, yazmaq bacarsın,",
+      "to": "Dünyagörmüş olsun, yazmaq bacarsın,"
+    },
+    {
+      "from": "Balası zəncirtək şaxlar aslanı.",
+      "to": "Balası zəncirtək saxlar aslanı."
+    },
+    {
+      "from": "işdir, heyrətindən dili tutulsa,",
+      "to": "İşdir, heyrətindən dili tutulsa,"
+    },
+    {
+      "from": "Havası tərtəmiz, ətir qoxulu.",
+      "to": "Havası tərtəmiz, ətir qoxulu,"
+    },
+    {
+      "from": "Daha düşümnürdü heç bir şey əsla!",
+      "to": "Daha düşünmürdü heç bir şey əsla!"
+    },
+    {
+      "from": "Şah rüxsət vennədən, bir qədəm onlar",
+      "to": "Şah rüxsət vermədən, bir qədəm onlar"
+    },
+    {
+      "from": "Bu yolda heç nəyə meyl etməyərək.",
+      "to": "Bu yolda heç nəyə meyl etməyərək,"
+    },
+    {
+      "from": "Uca bir saraya malikdi gülşən.",
+      "to": "Uca bir saraya malikdi gülşən,"
+    },
+    {
+      "from": "Öz qəbri üstündə sütun tikdirər.",
+      "to": "Öz qəbri üstündə sütun tikdirər,"
+    },
+    {
+      "from": "Bədəni axtanna, toz etdi ruzgar,",
+      "to": "Bədəni axtarma, toz etdi ruzgar,"
+    },
+    {
+      "from": "Odu günəş verir, suyu buludlar,",
+      "to": "Odu günəş verir, suyu buludlar."
+    },
+    {
+      "from": "işıqlı gündüzlər göyün günəşi",
+      "to": "İşıqlı gündüzlər göyün günəşi"
+    },
+    {
+      "from": "O bizə nifrətlə vennişdi cavab:",
+      "to": "O bizə nifrətlə vermişdi cavab:"
+    },
+    {
+      "from": "\"Su bizə zəhərdir, su içməz heç kəs.",
+      "to": "\"Su bizə zəhərdir, su içməz heç kəs,"
+    },
+    {
+      "from": "Ilantək heç kəsə yovuşmarıq biz,",
+      "to": "İlantək heç kəsə yovuşmarıq biz,"
+    },
+    {
+      "from": "Söyləyin, kim görüb başqa zihəyat? 20S",
+      "to": "Söyləyin, kim görüb başqa zihəyat?"
+    },
+    {
+      "from": "Vanm bu çöllərdə başqa məxluqat?\"",
+      "to": "Varmı bu çöllərdə başqa məxluqat?\""
+    },
+    {
+      "from": "Burda yaratmışım başqa bir insan?\"",
+      "to": "Burda yaratmışmı başqa bir insan?\""
+    },
+    {
+      "from": "Gördülər İskəndər çox şəfqətlidir,\n",
+      "to": "Gördülər İskəndər çox şəfqətlidir,\nİnsaflı, qayğıkeş, mərhəmətlidir,\n"
+    },
+    {
+      "from": "Dəıya kənarında bulaqlar vardı,",
+      "to": "Dərya kənarında bulaqlar vardı,"
+    },
+    {
+      "from": "Yolun əzabına tapdılar dənnan,",
+      "to": "Yolun əzabına tapdılar dərman,"
+    },
+    {
+      "from": "Şalı gəlib o kəndə çatdığı zaman.",
+      "to": "Şah gəlib o kəndə çatdığı zaman."
+    },
+    {
+      "from": "Kiincüd yağı töküb həmin küplərə,",
+      "to": "Küncüd yağı töküb həmin küplərə,"
+    },
+    {
+      "from": "Guya bu kəllədə gizlin sirr vannış,",
+      "to": "Guya bu kəllədə gizlin sirr varmış,"
+    },
+    {
+      "from": "Deyənniş sabahkı müqəddəratdan:",
+      "to": "Deyərmiş sabahkı müqəddəratdan:"
+    },
+    {
+      "from": "Fərəhlə eləyib ordan hərəkət.",
+      "to": "Fərəhlə eləyib ordan hərəkət,"
+    },
+    {
+      "from": "Hökmüdar atına vennədi aman,",
+      "to": "Hökmüdar atına vermədi aman,"
+    },
+    {
+      "from": "Ədəblə, hönnətlə baş əydi ona.",
+      "to": "Ədəblə, hörmətlə baş əydi ona."
+    },
+    {
+      "from": "ilanlar onunçün dolub bu yola",
+      "to": "İlanlar onunçün dolub bu yola"
+    },
+    {
+      "from": "indi, sən qarşımda zühur edəndə,",
+      "to": "İndi, sən qarşımda zühur edəndə,"
+    },
+    {
+      "from": "Xeyli uzaqlaşıb həmin ölkədən.",
+      "to": "Xeyli uzaqlaşıb həmin ölkədən,"
+    },
+    {
+      "from": "Hər kəs vennəlidir malına zəkat,",
+      "to": "Hər kəs verməlidir malına zəkat,"
+    },
+    {
+      "from": "Ondan öpüş ola, səndən qəzəllər.",
+      "to": "Ondan öpüş ola, səndən qəzəllər,"
+    },
+    {
+      "from": "Yadına Hindistan düşüb deyəsən!.. 212",
+      "to": "Yadına Hindistan düşüb deyəsən!.."
+    },
+    {
+      "from": "Rıım ilə iranın böyük sərdarı",
+      "to": "Rum ilə İranın böyük sərdarı"
+    },
+    {
+      "from": "Yaqut sandığından saçsın saf gövhər",
+      "to": "Yaqut sandığından saçsın saf gövhər."
+    },
+    {
+      "from": "Rəvamı gözləri gün ala bizdən? 215",
+      "to": "Rəvamı gözləri gün ala bizdən?"
+    },
+    {
+      "from": "Şalı da dilsiz bütü azad eylədi.",
+      "to": "Şah da dilsiz bütü azad eylədi."
+    },
+    {
+      "from": "Xeyli uzun çəkdi xoş söhbətləri.",
+      "to": "Xeyli uzun çəkdi xoş söhbətləri,"
+    },
+    {
+      "from": "iki mil uzağa çəkilsin ordu.",
+      "to": "İki mil uzağa çəkilsin ordu."
+    },
+    {
+      "from": "Onun qüdrətinə olmazını heyran?",
+      "to": "Onun qüdrətinə olmazmı heyran?"
+    },
+    {
+      "from": "Şalı minib gəmiyə gedəndə ordan",
+      "to": "Şah minib gəmiyə gedəndə ordan"
+    },
+    {
+      "from": "Kim görüb ki, dəniz gəmiyə minə! 219",
+      "to": "Kim görüb ki, dəniz gəmiyə minə!"
+    },
+    {
+      "from": "O isa nəfəsli ustadlardan da",
+      "to": "O İsa nəfəsli ustadlardan da"
+    },
+    {
+      "from": "Daha mümkün olmaz geriyə dönmək!..",
+      "to": "Daha mümkün olmaz geriyə dönmək!..\""
+    },
+    {
+      "from": "Çıxardı saililə sərnişinləri.",
+      "to": "Çıxardı sahilə sərnişinləri."
+    },
+    {
+      "from": "Ölüm ayağıdır indisə bura.",
+      "to": "Ölüm ayağıdır indisə bura,"
+    },
+    {
+      "from": "Şalı əgər qalarsa burda bir qədər,",
+      "to": "Şah əgər qalarsa burda bir qədər,"
+    },
+    {
+      "from": "istədi fikrini öyrənsin onun.",
+      "to": "İstədi fikrini öyrənsin onun."
+    },
+    {
+      "from": "Hünərli alim də dumadan bir dəm",
+      "to": "Hünərli alim də durmadan bir dəm"
+    },
+    {
+      "from": "indi burulğana gəmini salsan,",
+      "to": "İndi burulğana gəmini salsan,"
+    },
+    {
+      "from": "Çətindir iki rəy söylənən zaman,",
+      "to": "Çətindir iki rəy söylənən zaman."
+    },
+    {
+      "from": "iki çay bir yerə tökülsə əgər,",
+      "to": "İki çay bir yerə tökülsə əgər,"
+    },
+    {
+      "from": "Ip üstə oynadı şalı bir hindlitək.",
+      "to": "İp üstə oynadı şah bir hindlitək."
+    },
+    {
+      "from": "Özgənin gözünə dənnan eyləyən",
+      "to": "Özgənin gözünə dərman eyləyən"
+    },
+    {
+      "from": "Özünə istənni dənnan özgədən?",
+      "to": "Özünə istərmi dərman özgədən?"
+    },
+    {
+      "from": "öara su üstüylə gəmiylə keçdi,",
+      "to": "Qara su üstüylə gəmiylə keçdi,"
+    },
+    {
+      "from": "Şahların şahma tanrı yar oldu,",
+      "to": "Şahların şahına tanrı yar oldu,"
+    },
+    {
+      "from": "Sanki kaftırdandı bütün evləri.",
+      "to": "Sanki kafurdandı bütün evləri."
+    },
+    {
+      "from": "insanın qəlbinə vahimə salar.",
+      "to": "İnsanın qəlbinə vahimə salar."
+    },
+    {
+      "from": "Şalı dedi alimə: \"Bu səslər nədən",
+      "to": "Şah dedi alimə: \"Bu səslər nədən"
+    },
+    {
+      "from": "Dəıya təndir kimi zəbanə çəkər,",
+      "to": "Dərya təndir kimi zəbanə çəkər,"
+    },
+    {
+      "from": "Şəhərin başçısı bıınu görəntək",
+      "to": "Şəhərin başçısı bunu görəntək"
+    },
+    {
+      "from": "Şalı da bu əməldən çox razı qaldı.",
+      "to": "Şah da bu əməldən çox razı qaldı."
+    },
+    {
+      "from": "Şalı öz yoldaşları ilə bərabər",
+      "to": "Şah öz yoldaşları ilə bərabər"
+    },
+    {
+      "from": "Dənizin səsini batırdı bıı səs,",
+      "to": "Dənizin səsini batırdı bu səs,"
+    },
+    {
+      "from": "Şalı yenə qaldırdı səfər bayrağı.",
+      "to": "Şah yenə qaldırdı səfər bayrağı."
+    },
+    {
+      "from": "İstidən aslanlar oldular kabab \" 7.",
+      "to": "İstidən aslanlar oldular kabab."
+    },
+    {
+      "from": "Gah öküz sağrısı, gah gur dırnağı ^ 8.",
+      "to": "Gah öküz sağrısı, gah gur dırnağı."
+    },
+    {
+      "from": "istədi Xırxıza çəksin qoşunu.",
+      "to": "İstədi Xırxıza çəksin qoşunu."
+    },
+    {
+      "from": "Şah vida eylədi Çin xaqanma,",
+      "to": "Şah vida eylədi Çin xaqanına,"
+    },
+    {
+      "from": "Ancaq ki neyləsin, güc gəldi tamalı,",
+      "to": "Ancaq ki neyləsin, güc gəldi tamah,"
+    },
+    {
+      "from": "içində su ilə civə qaynardı.",
+      "to": "İçində su ilə civə qaynardı."
+    },
+    {
+      "from": "Şalı bunu biləndə, tez verdi fərman:",
+      "to": "Şah bunu biləndə, tez verdi fərman:"
+    },
+    {
+      "from": "insana bənzərlər, divdirlər əslən!",
+      "to": "İnsana bənzərlər, divdirlər əslən!"
+    },
+    {
+      "from": "istidən, soyuqdan qorxuları yox;",
+      "to": "İstidən, soyuqdan qorxuları yox;"
+    },
+    {
+      "from": "Onlar qaynaşarlar xırda qıırdlartək.",
+      "to": "Onlar qaynaşarlar xırda qurdlartək."
+    },
+    {
+      "from": "Bizləri qınnaqçın edərlər qovğa,",
+      "to": "Bizləri qırmaqçın edərlər qovğa,"
+    },
+    {
+      "from": "Əlini vunnadı orda heç nəyə.",
+      "to": "Əlini vurmadı orda heç nəyə."
+    },
+    {
+      "from": "Şöhrətli adma hünər yar olsun!",
+      "to": "Şöhrətli adına hünər yar olsun!"
+    },
+    {
+      "from": "Yalan gətinnərik biz dilimizə,",
+      "to": "Yalan gətirmərik biz dilimizə,"
+    },
+    {
+      "from": "Düşmənlik edənni pərəstiş edən?",
+      "to": "Düşmənlik edərmi pərəstiş edən?"
+    },
+    {
+      "from": "Flaqqa tapşırarıq sonra əkini.",
+      "to": "Haqqa tapşırarıq sonra əkini."
+    },
+    {
+      "from": "Kim nə cür dolanır, danışmarıq biz.",
+      "to": "Kim nə cür dolanır, danışmarıq biz,"
+    },
+    {
+      "from": "insan bunlardırsa, bəs nəyik bizlər?",
+      "to": "İnsan bunlardırsa, bəs nəyik bizlər?"
+    },
+    {
+      "from": "ibadət eylərdim orda allaha.",
+      "to": "İbadət eylərdim orda allaha."
+    },
+    {
+      "from": "A xara geyindi sanki çöl-çəmən!",
+      "to": "Al xara geyindi sanki çöl-çəmən!"
+    },
+    {
+      "from": "Sannaşar almaya, nara sərxoştək.",
+      "to": "Sarmaşar almaya, nara sərxoştək."
+    },
+    {
+      "from": "Soyar qabığını badamın bütün,",
+      "to": "Soyar qabığını badamın bütün."
+    },
+    {
+      "from": "istəyər, innab da gəlib həvəsə,",
+      "to": "İstəyər, innab da gəlib həvəsə,"
+    },
+    {
+      "from": "innabdan, fındıqdan verərlər şabaş.",
+      "to": "İnnabdan, fındıqdan verərlər şabaş."
+    },
+    {
+      "from": "Qarapapaq üzüm sərxoş tuğundan",
+      "to": "Qarapapaq üzüm sərxoşluğundan"
+    },
+    {
+      "from": "Dolar bannağına saçını nihan.",
+      "to": "Dolar barmağına saçını nihan."
+    },
+    {
+      "from": "Qabaqlar sazlarlar şadlıqçün rndıı,",
+      "to": "Qabaqlar sazlarlar şadlıqçün rudu,"
+    },
+    {
+      "from": "Daşmar şərabçın dolu səbətlər,",
+      "to": "Daşınar şərabçın dolu səbətlər,"
+    },
+    {
+      "from": "Dardan çıxamışdı geniş bir yola.",
+      "to": "Dardan çıxarmışdı geniş bir yola."
+    },
+    {
+      "from": "Yerin o başından Kinnana yetdi,",
+      "to": "Yerin o başından Kirmana yetdi,"
+    },
+    {
+      "from": "Oldu hökmüdarm yanına rəvan.",
+      "to": "Oldu hökmüdarın yanına rəvan."
+    },
+    {
+      "from": "Nəbzin vunnasına elədi diqqət,",
+      "to": "Nəbzin vurmasına elədi diqqət,"
+    },
+    {
+      "from": "Ölüm yatağına baş qoyub inlər... 232",
+      "to": "Ölüm yatağına baş qoyub inlər..."
+    },
+    {
+      "from": "O, bu imarətin səqfıni tikmiş,",
+      "to": "O, bu imarətin səqfini tikmiş,"
+    },
+    {
+      "from": "Şənini alçaltmaq olmazını günah?!",
+      "to": "Şənini alçaltmaq olmazmı günah?!"
+    },
+    {
+      "from": "Axtanna nə göydə, nə yerdə məkan.",
+      "to": "Axtarma nə göydə, nə yerdə məkan."
+    },
+    {
+      "from": "inanma ki. cənnət burdan şən olsun,",
+      "to": "İnanma ki. cənnət burdan şən olsun,"
+    },
+    {
+      "from": "Səni ümid ilə hey axtannaqda",
+      "to": "Səni ümid ilə hey axtarmaqda"
+    },
+    {
+      "from": "Bir meyvə dənnəkçin sənin bağından,",
+      "to": "Bir meyvə dərməkçin sənin bağından,"
+    },
+    {
+      "from": "Sən ki, dostlııq ilə çıxdın qarşıma,",
+      "to": "Sən ki, dostluq ilə çıxdın qarşıma,"
+    },
+    {
+      "from": "incə mətləblərə o, güzgü olsun.",
+      "to": "İncə mətləblərə o, güzgü olsun."
+    },
+    {
+      "from": "Mən öz xoşum ilə gəlim önünə,\n",
+      "to": "Mən öz xoşum ilə gəlim önünə,\nİtaət eyləyim peyğəmbərinə\n"
+    },
+    {
+      "from": "Kimdi kainatın sirrini açan? 8",
+      "to": "Kimdi kainatın sirrini açan?"
+    },
+    {
+      "from": "Məhəmməd əbədi qaldı dünyada,",
+      "to": "Məhəmməd əbədi qaldı dünyada."
+    },
+    {
+      "from": "isanın beşiyi göyə qovuşdu,",
+      "to": "İsanın beşiyi göyə qovuşdu,"
+    },
+    {
+      "from": "Bir gövhər hüsnünü itirsə əgər.",
+      "to": "Bir gövhər hüsnünü itirsə əgər,"
+    },
+    {
+      "from": "incitək incə söz alardı hər an.",
+      "to": "İncitək incə söz alardı hər an."
+    },
+    {
+      "from": "Gah seçib götürür, gah da atırdım... 20",
+      "to": "Gah seçib götürür, gah da atırdım..."
+    },
+    {
+      "from": "iplər çıxarıram hər an rəngbərəng.",
+      "to": "İplər çıxarıram hər an rəngbərəng."
+    },
+    {
+      "from": "Gizləyir bu dünya o zatı məndən,",
+      "to": "Gizləyir bu dünya o zatı məndən."
+    },
+    {
+      "from": "işlərim düyünlü, nəsibim dərd-qəm,",
+      "to": "İşlərim düyünlü, nəsibim dərd-qəm,"
+    },
+    {
+      "from": "Mən sözə başladım xoş bir saətdə.",
+      "to": "Mən sözə başladım xoş bir saatdə."
+    },
+    {
+      "from": "Qızıl çadırını günəş ucaltdı,",
+      "to": "Qızıl çadırını günəş ucaltdı."
+    },
+    {
+      "from": "ipləri dağların başına atdı.",
+      "to": "İpləri dağların başına atdı."
+    },
+    {
+      "from": "ilham buludlarım çəkdi nərələr,",
+      "to": "İlham buludlarım çəkdi nərələr,"
+    },
+    {
+      "from": "Gövhərşünaslara yağdırdı gövhər,",
+      "to": "Gövhərşünaslara yağdırdı gövhər."
+    },
+    {
+      "from": "iki şey cəsarət istər insandan:",
+      "to": "İki şey cəsarət istər insandan:"
+    },
+    {
+      "from": "Qəlbi nurlu şahın şərəfmə mən",
+      "to": "Qəlbi nurlu şahın şərəfinə mən"
+    },
+    {
+      "from": "Onun şərəfmə badələr dolsun.",
+      "to": "Onun şərəfinə badələr dolsun."
+    },
+    {
+      "from": "Babil quyusundan çıxır nə təhər? 36",
+      "to": "Babil quyusundan çıxır nə təhər?"
+    },
+    {
+      "from": "Oxuyub Haıııtu tamam bənd etdi? 37",
+      "to": "Oxuyub Harutu tamam bənd etdi?"
+    },
+    {
+      "from": "Dəıyaya dürr saçsın qətrə buradan,",
+      "to": "Dəryaya dürr saçsın qətrə buradan,"
+    },
+    {
+      "from": "Qoy xunna daşısın Bəsrə buradan.",
+      "to": "Qoy xurma daşısın Bəsrə buradan."
+    },
+    {
+      "from": "Rııımın qalasını necə fəth edər?",
+      "to": "Rumun qalasını necə fəth edər?"
+    },
+    {
+      "from": "Allah məni ona bəndə xəlq etmiş,",
+      "to": "Allah məni ona bəndə xəlq etmiş."
+    },
+    {
+      "from": "itaətdən başqa bilmərəm bir iş.",
+      "to": "İtaətdən başqa bilmərəm bir iş."
+    },
+    {
+      "from": "Dünyagönnüş adam, - yaxşı ya yaman,-",
+      "to": "Dünyagörmüş adam, - yaxşı ya yaman,-"
+    },
+    {
+      "from": "ipək yetinnəkdə iki cür qurd var,",
+      "to": "İpək yetirməkdə iki cür qurd var,"
+    },
+    {
+      "from": "Ya səni yandırar, ya da çiy şaxlar,",
+      "to": "Ya səni yandırar, ya da çiy saxlar,"
+    },
+    {
+      "from": "içindən görərsən yüz cür rəng çıxar.",
+      "to": "İçindən görərsən yüz cür rəng çıxar."
+    },
+    {
+      "from": "işləri büsbütün oyundur, rəngdir!",
+      "to": "İşləri büsbütün oyundur, rəngdir!"
+    },
+    {
+      "from": "Nədir dörd yol üstə məskən düzəltmək? 52",
+      "to": "Nədir dörd yol üstə məskən düzəltmək?"
+    },
+    {
+      "from": "ikicə qapısı var onun ancaq:",
+      "to": "İkicə qapısı var onun ancaq:"
+    },
+    {
+      "from": "Belə qol-qanadla olaımı uçmaq?",
+      "to": "Belə qol-qanadla olarmı uçmaq?"
+    },
+    {
+      "from": "Kim olsun bəs ona sonra şəhriyar? 57",
+      "to": "Kim olsun bəs ona sonra şəhriyar?"
+    },
+    {
+      "from": "Bütün bəxti dömnüş şahların, əlbət,",
+      "to": "Bütün bəxti dönmüş şahların, əlbət,"
+    },
+    {
+      "from": "Ölçü-biçi bilsən hər bir işdə sən.",
+      "to": "Ölçü-biçi bilsən hər bir işdə sən,"
+    },
+    {
+      "from": "Şiniyə Pərvizi öldürdü belə.",
+      "to": "Şiruyə Pərvizi öldürdü belə."
+    },
+    {
+      "from": "Almış fənnanını Mahmudilərdən,",
+      "to": "Almış fərmanını Mahmudilərdən,"
+    },
+    {
+      "from": "Ya Ayı ovlayar, ya afıtabı.",
+      "to": "Ya Ayı ovlayar, ya afitabı."
+    },
+    {
+      "from": "Hanı bu dövranda elə bir insan.",
+      "to": "Hanı bu dövranda elə bir insan,"
+    },
+    {
+      "from": "Div zülmətdən törər, mələksə nurdan 6S.",
+      "to": "Div zülmətdən törər, mələksə nurdan."
+    },
+    {
+      "from": "Fələk zəncirinin həlqələri tək",
+      "to": "Fələk zəncirinin həlqələritək"
+    },
+    {
+      "from": "Edirsən bizimçin hər şeyi əyan,",
+      "to": "Edirsən bizimçin hər şeyi əyan."
+    },
+    {
+      "from": "işıq cinsindəndir hərçənd ki, çıraq,",
+      "to": "İşıq cinsindəndir hərçənd ki, çıraq,"
+    },
+    {
+      "from": "işıqsız çıraq da görünməz ancaq.",
+      "to": "İşıqsız çıraq da görünməz ancaq."
+    },
+    {
+      "from": "Fitrətin gözəldir sənin əzəldən,",
+      "to": "Fitrətin gözəldir sənin əzəldən."
+    },
+    {
+      "from": "indi bu dünyada sənsən tacidar,",
+      "to": "İndi bu dünyada sənsən tacidar,"
+    },
+    {
+      "from": "Yeddi fıruzəli bu qəsrdə sən",
+      "to": "Yeddi firuzəli bu qəsrdə sən"
+    },
+    {
+      "from": "\"Şahnamə\"nin qədri-qiyməti nədir! 75",
+      "to": "\"Şahnamə\"nin qədri-qiyməti nədir!"
+    },
+    {
+      "from": "Müvəffəq olasan sən oxumaqda,",
+      "to": "Müvəffəq olasan sən oxumaqda."
+    },
+    {
+      "from": "Sən mey iç, gətinnə heç bir bəhanə,",
+      "to": "Sən mey iç, gətirmə heç bir bəhanə,"
+    },
+    {
+      "from": "Ağzım möhürlüdür üz vunna mənə.",
+      "to": "Ağzım möhürlüdür üz vurma mənə."
+    },
+    {
+      "from": "istər Rum elində, istər Yunanda,",
+      "to": "İstər Rum elində, istər Yunanda,"
+    },
+    {
+      "from": "Diinyaşünaslıqdan verirdi xəbər.",
+      "to": "Dünyaşünaslıqdan verirdi xəbər."
+    },
+    {
+      "from": "O biri - ruhani sirlərə açar.",
+      "to": "O biri - ruhani sirlərə açar,"
+    },
+    {
+      "from": "Bircə \"Intiyaxis\" qalıb yadigar 7S.",
+      "to": "Bircə \"Intiyaxis\" qalıb yadigar."
+    },
+    {
+      "from": "Əmr etdi, verildi belə bir fənnan:",
+      "to": "Əmr etdi, verildi belə bir fərman:"
+    },
+    {
+      "from": "Başlardı tanrıya o yalvannağa.",
+      "to": "Başlardı tanrıya o yalvarmağa."
+    },
+    {
+      "from": "Keçmiş günlər üçün şükr eləyərək.",
+      "to": "Keçmiş günlər üçün şükr eləyərək,"
+    },
+    {
+      "from": "Naiimid qayıtmaz haqq dərgahından.",
+      "to": "Naümid qayıtmaz haqq dərgahından."
+    },
+    {
+      "from": "Qoymazdı... O, zülmə vennəzdi imkan,",
+      "to": "Qoymazdı... O, zülmə verməzdi imkan,"
+    },
+    {
+      "from": "Çinə, Hindistana basardı ayaq? 79",
+      "to": "Çinə, Hindistana basardı ayaq?"
+    },
+    {
+      "from": "Əfsunda Haıutu vurub keçənlər,",
+      "to": "Əfsunda Harutu vurub keçənlər,"
+    },
+    {
+      "from": "Dııa elərdilər onlar gecələr.",
+      "to": "Dua elərdilər onlar gecələr."
+    },
+    {
+      "from": "Qızıl iş gönnəsə, iş olsa mahal,",
+      "to": "Qızıl iş görməsə, iş olsa mahal,"
+    },
+    {
+      "from": "Şalı içki məclisi düzəltdi bir gün,",
+      "to": "Şah içki məclisi düzəltdi bir gün,"
+    },
+    {
+      "from": "Heyran qalmış idi xanəndəyə şalı.",
+      "to": "Heyran qalmış idi xanəndəyə şah."
+    },
+    {
+      "from": "Soldurdu, toz-torpaq vennədi aman.",
+      "to": "Soldurdu, toz-torpaq vermədi aman."
+    },
+    {
+      "from": "içdən belə çirkin, üzdən qəşəngmiş,",
+      "to": "İçdən belə çirkin, üzdən qəşəngmiş,"
+    },
+    {
+      "from": "Dişini ağardıb bizə gülərlər...\" 82.",
+      "to": "Dişini ağardıb bizə gülərlər...\"."
+    },
+    {
+      "from": "\"İki qərn sahibi\" qoymuş nammı,",
+      "to": "\"İki qərn sahibi\" qoymuş namını,"
+    },
+    {
+      "from": "Deyirlər ki, qoşa hörüyü vannış,",
+      "to": "Deyirlər ki, qoşa hörüyü varmış,"
+    },
+    {
+      "from": "Gündən iki qəmi alıbmış guya.",
+      "to": "Gündən iki qərni alıbmış guya."
+    },
+    {
+      "from": "\"Üluf' ad qoyduğu məşhur əsərdə",
+      "to": "\"Üluf\" ad qoyduğu məşhur əsərdə"
+    },
+    {
+      "from": "Qulaqları vannış həddindən uzun.",
+      "to": "Qulaqları varmış həddindən uzun."
+    },
+    {
+      "from": "Dürdən taca bənzər qınları vannış.",
+      "to": "Dürdən taca bənzər qınları varmış."
+    },
+    {
+      "from": "İki qulağına o qın taxannış.",
+      "to": "İki qulağına o qın taxarmış."
+    },
+    {
+      "from": "Bir qıılaqbunnası gələrəm sənə,",
+      "to": "Bir qulaqburması gələrəm sənə,"
+    },
+    {
+      "from": "\"İskəndərin uzun qulaqları var!\n",
+      "to": "\"İskəndərin uzun qulaqları var!..\"\n"
+    },
+    {
+      "from": "Boynunu vurdurramyalan söyləsən!..\"",
+      "to": "Boynunu vurdurram yalan söyləsən!..\""
+    },
+    {
+      "from": "\"Doğrudur, şalı mənə vennişdi fərman,",
+      "to": "\"Doğrudur, şah mənə vermişdi fərman,"
+    },
+    {
+      "from": "Şalı gördü ki, dəllək doğru söz dedi.",
+      "to": "Şah gördü ki, dəllək doğru söz dedi."
+    },
+    {
+      "from": "Hamının sirrini açar bıı cahan!",
+      "to": "Hamının sirrini açar bu cahan!"
+    },
+    {
+      "from": "O qızı qızdırma yandınnadaydı.",
+      "to": "O qızı qızdırma yandırmadaydı."
+    },
+    {
+      "from": "Qəlbində qalmışdı arzusu, kamı.",
+      "to": "Qəlbində qalmışdı arzusu, kamı,"
+    },
+    {
+      "from": "Ancaq o gözələ olmadı dənnan.",
+      "to": "Ancaq o gözələ olmadı dərman."
+    },
+    {
+      "from": "Ona venniş idi şah öz könlümü,",
+      "to": "Ona vermiş idi şah öz könlümü,"
+    },
+    {
+      "from": "Qüssə gətinnişdi o şahı cana,",
+      "to": "Qüssə gətirmişdi o şahı cana,"
+    },
+    {
+      "from": "Tez adam göndərdi onun yanma.",
+      "to": "Tez adam göndərdi onun yanına."
+    },
+    {
+      "from": "Şah onu yanma dəvət elədi,",
+      "to": "Şah onu yanına dəvət elədi,"
+    },
+    {
+      "from": "Çobanın sözünü şalı çox bəyəndi,",
+      "to": "Çobanın sözünü şah çox bəyəndi,"
+    },
+    {
+      "from": "Tərk etdi dumadan o qorxunc yeri,",
+      "to": "Tərk etdi durmadan o qorxunc yeri,"
+    },
+    {
+      "from": "Başqa şey verməyə vennədi rüxsət.",
+      "to": "Başqa şey verməyə vermədi rüxsət."
+    },
+    {
+      "from": "Dərdbilən bir təbib elədi dəvət.",
+      "to": "Dərdbilən bir təbib elədi dəvət,"
+    },
+    {
+      "from": "Qurtardı gözəli verdiyi dənnan,",
+      "to": "Qurtardı gözəli verdiyi dərman,"
+    },
+    {
+      "from": "Şalı burda çobanla söhbət edərkən:",
+      "to": "Şah burda çobanla söhbət edərkən:"
+    },
+    {
+      "from": "Bircə asqınnaqla sağalmışdı yar...",
+      "to": "Bircə asqırmaqla sağalmışdı yar..."
+    },
+    {
+      "from": "Itinniş olmasa əqlini sərraf,",
+      "to": "İtirmiş olmasa əqlini sərraf,"
+    },
+    {
+      "from": "Təlim vennək üçün bir ev düzəltdi.",
+      "to": "Təlim vermək üçün bir ev düzəltdi."
+    },
+    {
+      "from": "Bir kəniz vennişdi şaha ənnəğan.",
+      "to": "Bir kəniz vermişdi şaha ərməğan."
+    },
+    {
+      "from": "Çeşməsiz, çiçəksiz bağ şad olarını?",
+      "to": "Çeşməsiz, çiçəksiz bağ şad olarmı?"
+    },
+    {
+      "from": "Şahlıqm şah sərvi-İskəndəri də",
+      "to": "Şahlıqın şah sərvi-İskəndəri də"
+    },
+    {
+      "from": "illərlə dünyanı uçub seyr edən",
+      "to": "İllərlə dünyanı uçub seyr edən"
+    },
+    {
+      "from": "insana min əzab verər zəmanə.",
+      "to": "İnsana min əzab verər zəmanə."
+    },
+    {
+      "from": "Çürümüş bir meyvə ağacda dunnaz,",
+      "to": "Çürümüş bir meyvə ağacda durmaz,"
+    },
+    {
+      "from": "Tapa bilməmişdir ölümə dənnan.",
+      "to": "Tapa bilməmişdir ölümə dərman."
+    },
+    {
+      "from": "Göstənniş olaydı ömrünü uzun.",
+      "to": "Göstərmiş olaydı ömrünü uzun."
+    },
+    {
+      "from": "Dağda, daşda mənə pərəstar oldu,",
+      "to": "Dağda, daşda mənə pərəstar oldu."
+    },
+    {
+      "from": "indi düşmən oldu o haqq-sayda,",
+      "to": "İndi düşmən oldu o haqq-sayda,"
+    },
+    {
+      "from": "öovsun canımdakı bu qızdırmanı.",
+      "to": "Qovsun canımdakı bu qızdırmanı."
+    },
+    {
+      "from": "Mən o qatil Fıırun boynunu vurdum,",
+      "to": "Mən o qatil Furun boynunu vurdum,"
+    },
+    {
+      "from": "Sağlam bədənimlə etdi xoş rəftar,",
+      "to": "Sağlam bədənimlə etdi xoş rəftar."
+    },
+    {
+      "from": "indisə bu pərqu yataqda bitab",
+      "to": "İndisə bu pərqu yataqda bitab"
+    },
+    {
+      "from": "Dünyanı gönnədən torpağa girən",
+      "to": "Dünyanı görmədən torpağa girən"
+    },
+    {
+      "from": "Dünyanı başabaş gəzmişəm özüm.",
+      "to": "Dünyanı başabaş gəzmişəm özüm,"
+    },
+    {
+      "from": "Hardadır Ərəstu - tapa bir dənnan,",
+      "to": "Hardadır Ərəstu - tapa bir dərman,"
+    },
+    {
+      "from": "Mənim bu dərdimə eləyə dənnan.",
+      "to": "Mənim bu dərdimə eləyə dərman."
+    },
+    {
+      "from": "Hiinnüzə göndərin dumadan xəbər.",
+      "to": "Hürmüzə göndərin durmadan xəbər."
+    },
+    {
+      "from": "içindən çıxdığım torpağın yenə",
+      "to": "İçindən çıxdığım torpağın yenə"
+    },
+    {
+      "from": "Mən də öldiinnüşəm çox zülm edəni!",
+      "to": "Mən də öldürmüşəm çox zülm edəni!"
+    },
+    {
+      "from": "Başa kül sovunnaq əvəzində siz",
+      "to": "Başa kül sovurmaq əvəzində siz"
+    },
+    {
+      "from": "Müğənni, mdunu bir dindir barı,",
+      "to": "Müğənni, rudunu bir dindir barı,"
+    },
+    {
+      "from": "Çünki şah həzmində ədəbliyəm mən!",
+      "to": "Çünki şah bəzmində ədəbliyəm mən!"
+    },
+    {
+      "from": "Canımda can vardı, sağlamdı bədən,",
+      "to": "Canımda can vardı, sağlamdı bədən."
+    },
+    {
+      "from": "indi ki, zəiflik üz verdi cana,",
+      "to": "İndi ki, zəiflik üz verdi cana,"
+    },
+    {
+      "from": "işləri düyünə salan ulduzlar",
+      "to": "İşləri düyünə salan ulduzlar"
+    },
+    {
+      "from": "Sanki ərimişdi şalı səhərədək",
+      "to": "Sanki ərimişdi şah səhərədək"
+    },
+    {
+      "from": "iyirmi yeddinci gecəki aytək 24i.",
+      "to": "İyirmi yeddinci gecəki aytək."
+    },
+    {
+      "from": "Sıxma ürəyini, qopanna fəryad!\"",
+      "to": "Sıxma ürəyini, qoparma fəryad!\""
+    },
+    {
+      "from": "insanın gözünə işıq bəxş edən",
+      "to": "İnsanın gözünə işıq bəxş edən"
+    },
+    {
+      "from": "Tanrının adma o yazdı əhsən:",
+      "to": "Tanrının adına o yazdı əhsən:"
+    },
+    {
+      "from": "Dünyadan gənc getmiş bir övladma,",
+      "to": "Dünyadan gənc getmiş bir övladına,"
+    },
+    {
+      "from": "Gözlənməz təamm xoş düşməsinə,",
+      "to": "Gözlənməz təamın xoş düşməsinə,"
+    },
+    {
+      "from": "Naiimid qocanın zəlalətinə,",
+      "to": "Naümid qocanın zəlalətinə,"
+    },
+    {
+      "from": "insanı içindən yeyən dərdlərə,",
+      "to": "İnsanı içindən yeyən dərdlərə,"
+    },
+    {
+      "from": "Dadma heç kimsə çatmayanlara,",
+      "to": "Dadına heç kimsə çatmayanlara,"
+    },
+    {
+      "from": "insanı son yola salan qapıya,",
+      "to": "İnsanı son yola salan qapıya,"
+    },
+    {
+      "from": "ikiqat uzun da olsaydı ömrüm,",
+      "to": "İkiqat uzun da olsaydı ömrüm,"
+    },
+    {
+      "from": "Behiştə getməkdən qorxannı insan,",
+      "to": "Behiştə getməkdən qorxarmı insan,"
+    },
+    {
+      "from": "Niyə at sünnəsin oraya insan?",
+      "to": "Niyə at sürməsin oraya insan?"
+    },
+    {
+      "from": "Bizi azad etdi zindandan fələk.",
+      "to": "Bizi azad etdi zindandan fələk,"
+    },
+    {
+      "from": "Hamı azad olsun görüm bizimtək!",
+      "to": "Hamı azad olsun görüm bizimtək!..\""
+    },
+    {
+      "from": "Canını tapşınnaq vaxtı yetişdi.",
+      "to": "Canını tapşırmaq vaxtı yetişdi."
+    },
+    {
+      "from": "Daxmam bağlayıb döndü adamlar.",
+      "to": "Daxmanı bağlayıb döndü adamlar."
+    },
+    {
+      "from": "Ondakı qızılı rəngə aldamna,",
+      "to": "Ondakı qızılı rəngə aldanma,"
+    },
+    {
+      "from": "Bir yanı sudursa, oddur bir yam.",
+      "to": "Bir yanı sudursa, oddur bir yanı."
+    },
+    {
+      "from": "Dünyanın sirrini boşdur axtarmaq.",
+      "to": "Dünyanın sirrini boşdur axtarmaq,"
+    },
+    {
+      "from": "Bizi yer üzündən süpünnəzdilər...",
+      "to": "Bizi yer üzündən süpürməzdilər..."
+    },
+    {
+      "from": "içib o badəni, əbədi yatıb.",
+      "to": "İçib o badəni, əbədi yatıb."
+    },
+    {
+      "from": "içərlər İskəndər içən şərabdan.",
+      "to": "İçərlər İskəndər içən şərabdan."
+    },
+    {
+      "from": "Çatanda hamım batırdı qəmə,",
+      "to": "Çatanda hamını batırdı qəmə,"
+    },
+    {
+      "from": "Beş günlük dünyaya tamalı salmadı,",
+      "to": "Beş günlük dünyaya tamah salmadı,"
+    },
+    {
+      "from": "Darısqal daxmam eyləyə məskən.",
+      "to": "Darısqal daxmanı eyləyə məskən."
+    },
+    {
+      "from": "Üstündə bərk durmaq olannı mümkün?",
+      "to": "Üstündə bərk durmaq olarmı mümkün?"
+    },
+    {
+      "from": "Dolmuş bir qədəhi doldursan yenə,",
+      "to": "Dolmuş bir qədəhi doldursan yenə."
+    },
+    {
+      "from": "içəndə dağılar o, üz-gözünə.",
+      "to": "İçəndə dağılar o, üz-gözünə."
+    },
+    {
+      "from": "Axirət xovfündan qorxum var məgər?",
+      "to": "Axirət xovfundan qorxum var məgər?"
+    },
+    {
+      "from": "Gedib bir kahada o tutdu məqam.",
+      "to": "Gedib bir kahada o tutdu məqam,"
+    },
+    {
+      "from": "Yalnız eyləyirdi haqqa ibadət.",
+      "to": "Yalnız eyləyirdi haqqa ibadət,"
+    },
+    {
+      "from": "öuyuya nahaqdan çox Yusif salmış,",
+      "to": "Quyuya nahaqdan çox Yusif salmış,"
+    },
+    {
+      "from": "öurtara ürəyim bu ahü zardan.",
+      "to": "Qurtara ürəyim bu ahü zardan."
+    },
+    {
+      "from": "öaralar geyindi, matəm saxladı,",
+      "to": "Qaralar geyindi, matəm saxladı,"
+    },
+    {
+      "from": "Sanırdım, bilirəm mən bu sirləri,",
+      "to": "Sanırdım, bilirəm mən bu sirləri."
+    },
+    {
+      "from": "indi acizliklə burdan köçərkən",
+      "to": "İndi acizliklə burdan köçərkən"
+    },
+    {
+      "from": "Boş şeydir o kölmə rəsədnamələr.",
+      "to": "Boş şeydir o köhnə rəsədnamələr."
+    },
+    {
+      "from": "Bu canı pak allah vennişdi mənə.",
+      "to": "Bu canı pak allah vermişdi mənə."
+    },
+    {
+      "from": "Müğənni, şh verən sazını bir al,",
+      "to": "Müğənni, ruh verən sazını bir al,"
+    },
+    {
+      "from": "Dünyada düzlükdən olannı nişan,",
+      "to": "Dünyada düzlükdən olarmı nişan,"
+    },
+    {
+      "from": "Belə kəc bir yerdə qalarını insan?",
+      "to": "Belə kəc bir yerdə qalarmı insan?"
+    },
+    {
+      "from": "Ona zülm etməyə vennişdi qərar.",
+      "to": "Ona zülm etməyə vermişdi qərar."
+    },
+    {
+      "from": "Hiizünlü, qəmli bir hava çal mənə!",
+      "to": "Hüzünlü, qəmli bir hava çal mənə!"
+    },
+    {
+      "from": "istəsəm hər evə girib-çıxaram.",
+      "to": "İstəsəm hər evə girib-çıxaram."
+    },
+    {
+      "from": "istəsəm tovuztək uçaram bəzən.",
+      "to": "İstəsəm tovuztək uçaram bəzən."
+    },
+    {
+      "from": "istəsəm uçaram hər yerə nihan.",
+      "to": "İstəsəm uçaram hər yerə nihan."
+    },
+    {
+      "from": "Öpərəm mən onu getsəm hər yana,",
+      "to": "Öpərəm mən onu getsəm hər yana."
+    },
+    {
+      "from": "istəsəm göyləri ayaqlaram mən,",
+      "to": "İstəsəm göyləri ayaqlaram mən,"
+    },
+    {
+      "from": "Yağ satanın qabı yağlı görünər.",
+      "to": "Yağ satanın qabı yağlı görünər,"
+    },
+    {
+      "from": "Xəzinə yükünü çəkərsə hər kəs.",
+      "to": "Xəzinə yükünü çəkərsə hər kəs,"
+    },
+    {
+      "from": "Ömründə dərd-qəmdən dincələ bilməz!",
+      "to": "Ömründə dərd-qəmdən dincələ bilməz!\""
+    },
+    {
+      "from": "Onun da ömrünə çəkildi qələm... 254",
+      "to": "Onun da ömrünə çəkildi qələm..."
+    },
+    {
+      "from": "Harda istəsəniz orda yer verin.",
+      "to": "Harda istəsəniz orda yer verin,"
+    },
+    {
+      "from": "Müğənni, çal görək bir \"Ramişi-can \" 255",
+      "to": "Müğənni, çal görək bir \"Ramişi-can\","
+    },
+    {
+      "from": "Məlik izəddinə bu çərxi-dövran",
+      "to": "Məlik İzəddinə bu çərxi-dövran"
+    },
+    {
+      "from": "Kəsra-Key həzmində o tutub qərar,",
+      "to": "Kəsra-Key bəzmində o tutub qərar,"
+    },
+    {
+      "from": "Alimlər gətinniş hər bir diyardan,",
+      "to": "Alimlər gətirmiş hər bir diyardan,"
+    },
+    {
+      "from": "Hamı yarımhıışyar, şah yarımayıq,",
+      "to": "Hamı yarımhuşyar, şah yarımayıq,"
+    },
+    {
+      "from": "istəsə şah üçün bu kitab yəqin",
+      "to": "İstəsə şah üçün bu kitab yəqin"
+    },
+    {
+      "from": "Keyxosrov həzminin varisi sənsən,",
+      "to": "Keyxosrov bəzminin varisi sənsən,"
+    },
+    {
+      "from": "Dəryamdan iki dürr olııbdur əyan,",
+      "to": "Dəryamdan iki dürr olubdur əyan,"
+    },
+    {
+      "from": "isanın nurilə parlar o biri.",
+      "to": "İsanın nurilə parlar o biri."
+    },
+    {
+      "from": "Müqbil, iqbal adlı iki hindli qul",
+      "to": "Müqbil, İqbal adlı iki hindli qul"
+    },
+    {
+      "from": "Məsəldir, yaqutu şaxlar xəzinə.",
+      "to": "Məsəldir, yaqutu saxlar xəzinə."
+    },
+    {
+      "from": "Məni düşündürmür azla çox fikri.",
+      "to": "Məni düşündürmür azla çox fikri,"
+    },
+    {
+      "from": "Vəhşi heyvan kimi nərə qopannaq,",
+      "to": "Vəhşi heyvan kimi nərə qoparmaq,"
+    },
+    {
+      "from": "Dəıya sevdasıdır, keç öz dürründən,",
+      "to": "Dərya sevdasıdır, keç öz dürründən,"
+    },
+    {
+      "from": "Dəryayla alverin dərya nəfı var,",
+      "to": "Dəryayla alverin dərya nəfi var,"
+    },
+    {
+      "from": "Dəıyanı dəryayla satın alarlar.",
+      "to": "Dəryanı dəryayla satın alarlar."
+    },
+    {
+      "from": "Bunları deməkdən qəsdim, yaxşı bil.",
+      "to": "Bunları deməkdən qəsdim, yaxşı bil,"
+    },
+    {
+      "from": "Əsla yoxsullııqdan şikayət deyil!",
+      "to": "Əsla yoxsulluqdan şikayət deyil!"
+    },
+    {
+      "from": "insanın bədəni olmasa möhkəm,",
+      "to": "İnsanın bədəni olmasa möhkəm,"
+    },
+    {
+      "from": "Bir dolça quyudan su çıxannasa,",
+      "to": "Bir dolça quyudan su çıxarmasa,"
+    },
+    {
+      "from": "Bizim dərdimizi nahaq çəkirsən,",
+      "to": "Bizim dərdimizi nahaq çəkirsən."
+    },
+    {
+      "from": "indi ki, gedirsən bu karvan ilə,",
+      "to": "İndi ki, gedirsən bu karvan ilə,"
+    },
+    {
+      "from": "Elmsiz yaşaya bilənni insan?\"",
+      "to": "Elmsiz yaşaya bilərmi insan?\""
+    },
+    {
+      "from": "Baş əyib ustadın bu fənnanına,",
+      "to": "Baş əyib ustadın bu fərmanına,"
+    },
+    {
+      "from": "Ərəstu tapmışdı bir yeni dərman.",
+      "to": "Ərəstu tapmışdı bir yeni dərman,"
+    },
+    {
+      "from": "insan bu su ilə canlanar ancaq.",
+      "to": "İnsan bu su ilə canlanar ancaq."
+    },
+    {
+      "from": "Əl çək hər kənizə könül vennəkdən,",
+      "to": "Əl çək hər kənizə könül verməkdən,"
+    },
+    {
+      "from": "Bunlarla ömrünü bada vennə sən.",
+      "to": "Bunlarla ömrünü bada vermə sən."
+    },
+    {
+      "from": "Vennişdi ondan da gözəl bir mələk.",
+      "to": "Vermişdi ondan da gözəl bir mələk."
+    },
+    {
+      "from": "Rum-rus dastanını necə yazım mən? 97",
+      "to": "Rum-rus dastanını necə yazım mən?"
+    },
+    {
+      "from": "Şikəstlik vennişdi bu dünya ona.",
+      "to": "Şikəstlik vermişdi bu dünya ona."
+    },
+    {
+      "from": "Qadın ustadını öz ağ kafürtək",
+      "to": "Qadın ustadını öz ağ kafurtək"
+    },
+    {
+      "from": "istədi vətənə qayıdıb ordan",
+      "to": "İstədi vətənə qayıdıb ordan"
+    },
+    {
+      "from": "iksir alimitək qazandı ad-san.",
+      "to": "İksir alimitək qazandı ad-san."
+    },
+    {
+      "from": "işbilən, saf qəlbli, kəmallı gözəl",
+      "to": "İşbilən, saf qəlbli, kəmallı gözəl"
+    },
+    {
+      "from": "Bağdadda fənd ilə yaşayar asan 9S.",
+      "to": "Bağdadda fənd ilə yaşayar asan."
+    },
+    {
+      "from": "indi gəl qurduğu oyuna bir bax!",
+      "to": "İndi gəl qurduğu oyuna bir bax!"
+    },
+    {
+      "from": "Darülxilafətə\" yaydı bir xəbər",
+      "to": "Darülxilafətə yaydı bir xəbər"
+    },
+    {
+      "from": "Yoxdur mənim kimi bu sirri bilən,",
+      "to": "Yoxdur mənim kimi bu sirri bilən."
+    },
+    {
+      "from": "istəsəm iksirlə edərəm, yəqin,",
+      "to": "İstəsəm iksirlə edərəm, yəqin,"
+    },
+    {
+      "from": "Təzə qızıl verir o kölmə mədən.",
+      "to": "Təzə qızıl verir o köhnə mədən."
+    },
+    {
+      "from": "Hədsiz hönnət etdi həmin kişiyə.",
+      "to": "Hədsiz hörmət etdi həmin kişiyə."
+    },
+    {
+      "from": "Hamısı məst olub düşdü torpağa,-",
+      "to": "Hamısı məst olub düşdü torpağa.-"
+    },
+    {
+      "from": "Əkildi, gönnədi onu bir nəfər.",
+      "to": "Əkildi, görmədi onu bir nəfər."
+    },
+    {
+      "from": "Qanınım dövləti heçdir yanında.",
+      "to": "Qarunun dövləti heçdir yanında."
+    },
+    {
+      "from": "Şalı onun başını kəsməsə əgər,",
+      "to": "Şah onun başını kəsməsə əgər,"
+    },
+    {
+      "from": "Tədbir görülməli vennədən aman.\"",
+      "to": "Tədbir görülməli vermədən aman.\""
+    },
+    {
+      "from": "Tez onun yanma qasid göndərsin.",
+      "to": "Tez onun yanına qasid göndərsin."
+    },
+    {
+      "from": "Belə deyirlər ki. Ruma bir zaman",
+      "to": "Belə deyirlər ki, Ruma bir zaman"
+    },
+    {
+      "from": "Quru çörəyə də, suya da möhtac,",
+      "to": "Quru çörəyə də, suya da möhtac."
+    },
+    {
+      "from": "indi alıb-satır ləl ilə gövhər,",
+      "to": "İndi alıb-satır ləl ilə gövhər,"
+    },
+    {
+      "from": "Xəlvəti padşahın yanma getsin,",
+      "to": "Xəlvəti padşahın yanına getsin,"
+    },
+    {
+      "from": "Təxtinin yanma eylədi dəvət.",
+      "to": "Təxtinin yanına eylədi dəvət."
+    },
+    {
+      "from": "Bir günlük azuqə yox imiş səndə,",
+      "to": "Bir günlük azuqə yox imiş səndə."
+    },
+    {
+      "from": "indisə, deyirlər, çox sərvətin var,",
+      "to": "İndisə, deyirlər, çox sərvətin var,"
+    },
+    {
+      "from": "Zülmünü gönnəyib kimsə dünyada,",
+      "to": "Zülmünü görməyib kimsə dünyada,"
+    },
+    {
+      "from": "Məndən bir az isti quyrnaq istədi.",
+      "to": "Məndən bir az isti quymaq istədi."
+    },
+    {
+      "from": "\"içən, çalansanmı?\" deyə soruşdu.",
+      "to": "\"İçən, çalansanmı?\" deyə soruşdu."
+    },
+    {
+      "from": "Gizli bir xəzinə keçibdir ələ.",
+      "to": "Gizli bir xəzinə keçibdir ələ,"
+    },
+    {
+      "from": "Yaman qüwətliydi, bənzərdi şirə.",
+      "to": "Yaman qüvvətliydi, bənzərdi şirə."
+    },
+    {
+      "from": "Yoldaşı yatmışdı. Getdi yanma,",
+      "to": "Yoldaşı yatmışdı. Getdi yanına,"
+    },
+    {
+      "from": "O kəsib başım, qalxdı ayağa,",
+      "to": "O kəsib başını, qalxdı ayağa,"
+    },
+    {
+      "from": "Dıırdıı bədənini şaqqalamağa.",
+      "to": "Durdu bədənini şaqqalamağa."
+    },
+    {
+      "from": "Cumdum xəzinəyə sarı dumadan.",
+      "to": "Cumdum xəzinəyə sarı durmadan."
+    },
+    {
+      "from": "Rıımlıı filosoflar sözləşib hərdən,",
+      "to": "Rumlu filosoflar sözləşib hərdən,"
+    },
+    {
+      "from": "Hiirmüz adlı alim haqq danışmaqda",
+      "to": "Hürmüz adlı alim haqq danışmaqda"
+    },
+    {
+      "from": "\"Hiirmüz nə söyləsə, razı olmayaq,",
+      "to": "\"Hürmüz nə söyləsə, razı olmayaq,"
+    },
+    {
+      "from": "inkarla haqq sözü danmaqmı olar?",
+      "to": "İnkarla haqq sözü danmaqmı olar?"
+    },
+    {
+      "from": "Hiirmüz çıxardıqca mədəndən gövhər,",
+      "to": "Hürmüz çıxardıqca mədəndən gövhər,"
+    },
+    {
+      "from": "Hiirmüz söz bəhrindən gövhər saçanda,",
+      "to": "Hürmüz söz bəhrindən gövhər saçanda,"
+    },
+    {
+      "from": "Hiinnüzdən soruşdu, o etdi bəyan:",
+      "to": "Hürmüzdən soruşdu, o etdi bəyan:"
+    },
+    {
+      "from": "\"Yetmişlər başladı tufan salmağa.",
+      "to": "\"Yetmişlər başladı tufan salmağa,"
+    },
+    {
+      "from": "Idraksız, şüursuz nadandır, nadan!",
+      "to": "İdraksız, şüursuz nadandır, nadan!"
+    },
+    {
+      "from": "Naiimid olanda o qara qarğa",
+      "to": "Naümid olanda o qara qarğa"
+    },
+    {
+      "from": "Kimi riyaziyyat bəhsinə girmiş.",
+      "to": "Kimi riyaziyyat bəhsinə girmiş,"
+    },
+    {
+      "from": "Kimi həndəsəyə fikrini venniş,",
+      "to": "Kimi həndəsəyə fikrini vermiş,"
+    },
+    {
+      "from": "Qum bağırsaqdan bağladı pərdə,",
+      "to": "Quru bağırsaqdan bağladı pərdə,"
+    },
+    {
+      "from": "içi boş qabağa çəkərək dəri,",
+      "to": "İçi boş qabağa çəkərək dəri,"
+    },
+    {
+      "from": "Qum ud səslənib oldu xoşahəng.",
+      "to": "Quru ud səslənib oldu xoşahəng."
+    },
+    {
+      "from": "Başladı vennəyə ahəngdar avaz.",
+      "to": "Başladı verməyə ahəngdar avaz."
+    },
+    {
+      "from": "Mizrabı gah yavaş vumrdu, gah bərk.",
+      "to": "Mizrabı gah yavaş vururdu, gah bərk."
+    },
+    {
+      "from": "insan səslərindən heyvana qədər -",
+      "to": "İnsan səslərindən heyvana qədər -"
+    },
+    {
+      "from": "Yığılıb hamısı sazın səsinə.",
+      "to": "Yığılıb hamısı sazın səsinə,"
+    },
+    {
+      "from": "Heç belə sərgüzəşt varını eşidən?",
+      "to": "Heç belə sərgüzəşt varmı eşidən?"
+    },
+    {
+      "from": "Ki, yaqut paylayır o yaqut kam.",
+      "to": "Ki, yaqut paylayır o yaqut kanı."
+    },
+    {
+      "from": "Şalı bildi kimdəymiş əsil istedad,",
+      "to": "Şah bildi kimdəymiş əsil istedad,"
+    },
+    {
+      "from": "Eleykəlin böyründə bir oyuq vardı,",
+      "to": "Heykəlin böyründə bir oyuq vardı,"
+    },
+    {
+      "from": "Sonra bannağına sevinclə taxdı.",
+      "to": "Sonra barmağına sevinclə taxdı."
+    },
+    {
+      "from": "işıq saçan muncuq parıldayanda,",
+      "to": "İşıq saçan muncuq parıldayanda,"
+    },
+    {
+      "from": "Sürü sahibinin yanma getdi.",
+      "to": "Sürü sahibinin yanına getdi."
+    },
+    {
+      "from": "Onu gönnəyirdi artıq heç kimsə.",
+      "to": "Onu görməyirdi artıq heç kimsə."
+    },
+    {
+      "from": "iman gətir, səni xoşbəxt eylərəm.",
+      "to": "İman gətir, səni xoşbəxt eylərəm."
+    },
+    {
+      "from": "istəsəm heç gönnəz məni bir adam,",
+      "to": "İstəsəm heç görməz məni bir adam,"
+    },
+    {
+      "from": "Saray ağasına şah verdi fənnan:",
+      "to": "Saray ağasına şah verdi fərman:"
+    },
+    {
+      "from": "Tərkibdə, ixlatda o böyük ustad!\" 115.",
+      "to": "Tərkibdə, ixlatda o böyük ustad!\"."
+    },
+    {
+      "from": "Xidmətçi fənnana əməl eylədi,",
+      "to": "Xidmətçi fərmana əməl eylədi,"
+    },
+    {
+      "from": "\"Dəyiş paltarım, bəzəkli geyin,",
+      "to": "\"Dəyiş paltarını, bəzəkli geyin,"
+    },
+    {
+      "from": "Tapmayır yanma bir kimsə yol, iz.",
+      "to": "Tapmayır yanına bir kimsə yol, iz."
+    },
+    {
+      "from": "Çağırdı yanma bir gün İskəndər,",
+      "to": "Çağırdı yanına bir gün İskəndər,"
+    },
+    {
+      "from": "Göndərib alimin tək hüzuruna.",
+      "to": "Göndərib alimin tək hüzuruna,"
+    },
+    {
+      "from": "Ya söylə, başqa bir mərammmı var?\"",
+      "to": "Ya söylə, başqa bir məramınmı var?\""
+    },
+    {
+      "from": "Hara oynamağa gedib Cəbrail? 117",
+      "to": "Hara oynamağa gedib Cəbrail?"
+    },
+    {
+      "from": "Məni şalı yanında pis göstərənlər",
+      "to": "Məni şah yanında pis göstərənlər"
+    },
+    {
+      "from": "Bir qul heç qorxannı dünya əhlindən?",
+      "to": "Bir qul heç qorxarmı dünya əhlindən?"
+    },
+    {
+      "from": "Düzdür, sərt olsa da Sokratın sözü.",
+      "to": "Düzdür, sərt olsa da Sokratın sözü,"
+    },
+    {
+      "from": "Diriykən boş yerə ginnə torpağa!\"",
+      "to": "Diriykən boş yerə girmə torpağa!\""
+    },
+    {
+      "from": "Dedi ki: \"Qulağa tökülməz simab! 121",
+      "to": "Dedi ki: \"Qulağa tökülməz simab!"
+    },
+    {
+      "from": "istədi bir qədər öyüd-nəsihət.",
+      "to": "İstədi bir qədər öyüd-nəsihət."
+    },
+    {
+      "from": "Heç qonaq çağınna sonra sultanı.",
+      "to": "Heç qonaq çağırma sonra sultanı."
+    },
+    {
+      "from": "O gəlsə yanına qonaq qalmağa.",
+      "to": "O gəlsə yanına qonaq qalmağa,"
+    },
+    {
+      "from": "indi sən bir düşün nə dərgahdasan",
+      "to": "İndi sən bir düşün nə dərgahdasan"
+    },
+    {
+      "from": "Gör necə, hansı bir seyrəngalıdasan? 128",
+      "to": "Gör necə, hansı bir seyrəngahdasan?"
+    },
+    {
+      "from": "itlə, gözətçiylə, de, nə işin var?",
+      "to": "İtlə, gözətçiylə, de, nə işin var?"
+    },
+    {
+      "from": "Getmişdi, seyr edib sirr öyrəmnəyə.",
+      "to": "Getmişdi, seyr edib sirr öyrənməyə."
+    },
+    {
+      "from": "indi qayıtmışdır, gətirdiyi sirr",
+      "to": "İndi qayıtmışdır, gətirdiyi sirr"
+    },
+    {
+      "from": "Həmin dünyagönnüş filosof dedi:",
+      "to": "Həmin dünyagörmüş filosof dedi:"
+    },
+    {
+      "from": "Şahın fənnanıyla xidmətçilər də",
+      "to": "Şahın fərmanıyla xidmətçilər də"
+    },
+    {
+      "from": "Şah dedi: \"Bəhanə axtanna nahaq,",
+      "to": "Şah dedi: \"Bəhanə axtarma nahaq,"
+    },
+    {
+      "from": "Ona yer axtannaq doğru sayılmaz,",
+      "to": "Ona yer axtarmaq doğru sayılmaz,"
+    },
+    {
+      "from": "O şey ki, sığınayır insan ağlına,",
+      "to": "O şey ki, sığmayır insan ağlına,"
+    },
+    {
+      "from": "Bura yetişdinmi, daha dur, dayan! 137",
+      "to": "Bura yetişdinmi, daha dur, dayan!"
+    },
+    {
+      "from": "Bundan çıxma kənar, həddini tam,",
+      "to": "Bundan çıxma kənar, həddini tanı,"
+    },
+    {
+      "from": "Bir də başqa dünya axtannaq nədən?",
+      "to": "Bir də başqa dünya axtarmaq nədən?"
+    },
+    {
+      "from": "Çalışıb nə əksən bu dünyada sən.",
+      "to": "Çalışıb nə əksən bu dünyada sən,"
+    },
+    {
+      "from": "Gövhəri almazla deşərək dedi: 143",
+      "to": "Gövhəri almazla deşərək dedi:"
+    },
+    {
+      "from": "De görək bir, nədir ondakı qüvvət.",
+      "to": "De görək bir, nədir ondakı qüvvət,"
+    },
+    {
+      "from": "Dəydiyi şeylərə yetinnəz ziyan.",
+      "to": "Dəydiyi şeylərə yetirməz ziyan."
+    },
+    {
+      "from": "Yolundan gözündən daim İraqda.",
+      "to": "Yolundan gözündən daim iraqda."
+    },
+    {
+      "from": "Öz hind qılıncını çəkərək dedi: 144",
+      "to": "Öz hind qılıncını çəkərək dedi:"
+    },
+    {
+      "from": "Xoşluğu, bədiiyi gələrmi dilə?\"",
+      "to": "Xoşluğu, bədliyi gələrmi dilə?\""
+    },
+    {
+      "from": "ilahi kəlamla dedi İskəndər:",
+      "to": "İlahi kəlamla dedi İskəndər:"
+    },
+    {
+      "from": "Nöqtətək mərkəzdə şalı tutdu qərar.",
+      "to": "Nöqtətək mərkəzdə şah tutdu qərar."
+    },
+    {
+      "from": "Necə çiçəklənmiş yerin baharı? 148",
+      "to": "Necə çiçəklənmiş yerin baharı?"
+    },
+    {
+      "from": "Necə səsləmnişdir ilk mahnı teldən?\"",
+      "to": "Necə səslənmişdir ilk mahnı teldən?\""
+    },
+    {
+      "from": "\"ilk sözə Ərəstu başlasın gərək!\"",
+      "to": "\"İlk sözə Ərəstu başlasın gərək!\""
+    },
+    {
+      "from": "ilk xilqət haqqında fikrimi deyim:",
+      "to": "İlk xilqət haqqında fikrimi deyim:"
+    },
+    {
+      "from": "Dönür, hərlənirdi əsla dumadan.",
+      "to": "Dönür, hərlənirdi əsla durmadan."
+    },
+    {
+      "from": "Əvvəlki meyimə bağlı qalaraq.",
+      "to": "Əvvəlki meylinə bağlı qalaraq."
+    },
+    {
+      "from": "Şahlar şahı özü verdi ki, fənnan:",
+      "to": "Şahlar şahı özü verdi ki, fərman:"
+    },
+    {
+      "from": "ilkin tilsim kimi yaranmış torpaq.",
+      "to": "İlkin tilsim kimi yaranmış torpaq."
+    },
+    {
+      "from": "Bircə vücud vannış, o da yaradan.",
+      "to": "Bircə vücud varmış, o da yaradan."
+    },
+    {
+      "from": "ildırımından da günəş, ay, ülkər.",
+      "to": "İldırımından da günəş, ay, ülkər."
+    },
+    {
+      "from": "Dünya boş qalmasın ədalətindən.",
+      "to": "Dünya boş qalmasın ədalətindən,"
+    },
+    {
+      "from": "Hələ bıı dünyalar yaranmamışdan",
+      "to": "Hələ bu dünyalar yaranmamışdan"
+    },
+    {
+      "from": "ikiyə bölündü sonra bu su da,",
+      "to": "İkiyə bölündü sonra bu su da,"
+    },
+    {
+      "from": "işıqlar süzülür cahana hərdən.",
+      "to": "Işıqlar süzülür cahana hərdən."
+    },
+    {
+      "from": "işığa gəlmişdi nur aşiqləri,",
+      "to": "Işığa gəlmişdi nur aşiqləri,"
+    },
+    {
+      "from": "Tədqiqə çatarını heç qüdrətimiz?",
+      "to": "Tədqiqə çatarmı heç qüdrətimiz?"
+    },
+    {
+      "from": "ilk xilqət nəqşini qurtarıb, qəsdən",
+      "to": "İlk xilqət nəqşini qurtarıb, qəsdən"
+    },
+    {
+      "from": "Danışma, əqildən o yolu sonna.",
+      "to": "Danışma, əqildən o yolu sorma."
+    },
+    {
+      "from": "Qeyb yolu əqidən hədsiz uzaqdır,",
+      "to": "Qeyb yolu əqldən hədsiz uzaqdır,"
+    },
+    {
+      "from": "Neçin lal dillərə isnad edirsən? 156",
+      "to": "Neçin lal dillərə isnad edirsən?"
+    },
+    {
+      "from": "Torpaqdan yaxşıdır ancaq sağ insan 15S.",
+      "to": "Torpaqdan yaxşıdır ancaq sağ insan."
+    },
+    {
+      "from": "Ətirli müşk verər bahar olanda,",
+      "to": "Ətirli müşk verər bahar olanda."
+    },
+    {
+      "from": "insan bədənini udanda ancaq,",
+      "to": "İnsan bədənini udanda ancaq,"
+    },
+    {
+      "from": "Axtardı, bilsin ki, kimdir yaradan,",
+      "to": "Axtardı, bilsin ki, kimdir yaradan."
+    },
+    {
+      "from": "istədi çalışıb sirləri örtən",
+      "to": "İstədi çalışıb sirləri örtən"
+    },
+    {
+      "from": "indi də belədir allahdan fənnan:",
+      "to": "İndi də belədir allahdan fərman:"
+    },
+    {
+      "from": "Təzələ kökündən köhnə binam,",
+      "to": "Təzələ kökündən köhnə binanı,"
+    },
+    {
+      "from": "Dünyalar şahma ol itaətkar!",
+      "to": "Dünyalar şahına ol itaətkar!"
+    },
+    {
+      "from": "Zəncirlə, məhv elə, heç vennə aman!\"",
+      "to": "Zəncirlə, məhv elə, heç vermə aman!\""
+    },
+    {
+      "from": "Bu qədər zillətə edərlənni tab?",
+      "to": "Bu qədər zillətə edərlərmi tab?"
+    },
+    {
+      "from": "Nə əlac eləyim, varını bir çara?",
+      "to": "Nə əlac eləyim, varmı bir çara?"
+    },
+    {
+      "from": "Sarsıtmaq miimkünmü heç vüqarını?",
+      "to": "Sarsıtmaq mümkünmü heç vüqarını?"
+    },
+    {
+      "from": "yox etmək olarını iqtidarını?\"",
+      "to": "yox etmək olarmı iqtidarını?\""
+    },
+    {
+      "from": "Dəıyatək cənubda bir tayfa yaşar,",
+      "to": "Dəryatək cənubda bir tayfa yaşar,"
+    },
+    {
+      "from": "Hansı bir niyyətlə minsən atma,",
+      "to": "Hansı bir niyyətlə minsən atına,"
+    },
+    {
+      "from": "işıq bəxş edərsən sən də o şəxsə.",
+      "to": "Işıq bəxş edərsən sən də o şəxsə."
+    },
+    {
+      "from": "Mənalı kəlamlar yığdı dumadan.",
+      "to": "Mənalı kəlamlar yığdı durmadan."
+    },
+    {
+      "from": "O xəbər verirdi yaxşı-yamandan,\n",
+      "to": "O xəbər verirdi yaxşı-yamandan.\nİkinci naməni bildiklərindən\n"
+    },
+    {
+      "from": "Müti qələmini alaraq ələ.",
+      "to": "Müti qələmini alaraq ələ,"
+    },
+    {
+      "from": "Mədəndən gövhərlər çıxannaq üçün",
+      "to": "Mədəndən gövhərlər çıxarmaq üçün"
+    },
+    {
+      "from": "Ərəstu yazmışdı rəhbəmamədə:",
+      "to": "Ərəstu yazmışdı rəhbərnamədə:"
+    },
+    {
+      "from": "Allahın xovfünu yaddan çıxanna.",
+      "to": "Allahın xovfunu yaddan çıxarma."
+    },
+    {
+      "from": "\"Gərək yaman gözdən qorunsun gözəl!",
+      "to": "\"Gərək yaman gözdən qorunsun gözəl!\""
+    },
+    {
+      "from": "Şiddətli küləkdən gönnəz bir ziyan.",
+      "to": "Şiddətli küləkdən görməz bir ziyan."
+    },
+    {
+      "from": "insana yad edər dostu, aşnanı.",
+      "to": "İnsana yad edər dostu, aşnanı."
+    },
+    {
+      "from": "Qz təmiz kimyanı küllərə qatma.",
+      "to": "Öz təmiz kimyanı küllərə qatma."
+    },
+    {
+      "from": "Pıılsuz adamlarla etmə məsləhət.",
+      "to": "Pulsuz adamlarla etmə məsləhət."
+    },
+    {
+      "from": "iki saf güzgünü qoysan üz-üzə,",
+      "to": "İki saf güzgünü qoysan üz-üzə,"
+    },
+    {
+      "from": "insana ram olsa aslanlar əgər,",
+      "to": "İnsana ram olsa aslanlar əgər,"
+    },
+    {
+      "from": "iki xam bədxahın birsə qərarı,",
+      "to": "İki xam bədxahın birsə qərarı,"
+    },
+    {
+      "from": "Güclünün yanma güclünü göndər,",
+      "to": "Güclünün yanına güclünü göndər,"
+    },
+    {
+      "from": "O dedi: \"istəsən düzünü bilmək,",
+      "to": "O dedi: \"İstəsən düzünü bilmək,"
+    },
+    {
+      "from": "Şaxlar öz nəfsini yad loxmalardan.",
+      "to": "Saxlar öz nəfsini yad loxmalardan."
+    },
+    {
+      "from": "Qamı doyan kimi tənbəl olacaq.",
+      "to": "Qarnı doyan kimi tənbəl olacaq."
+    },
+    {
+      "from": "Orduda itinnə etibarını.",
+      "to": "Orduda itirmə etibarını."
+    },
+    {
+      "from": "Xoşbəxtlik istəsən, xoşbəxti tam,",
+      "to": "Xoşbəxtlik istəsən, xoşbəxti tanı,"
+    },
+    {
+      "from": "Çalış ki, əslini itinnə ancaq.",
+      "to": "Çalış ki, əslini itirmə ancaq."
+    },
+    {
+      "from": "Əz baba yurdunda",
+      "to": "Öz baba yurdunda"
+    },
+    {
+      "pattern": "(?<!\\p{L})qılncından(?!\\p{L})",
+      "flags": "gu",
+      "to": "qılıncından"
+    },
+    {
+      "pattern": "sür ət",
+      "flags": "g",
+      "to": "sürət"
+    },
+    {
+      "pattern": "(\\S)\\*+$",
+      "flags": "gm",
+      "to": "$1"
+    },
+    {
+      "pattern": "(?<!\\p{L})Imad(?!\\p{L})",
+      "flags": "gu",
+      "to": "İmad"
+    },
+    {
+      "pattern": "(?<!\\p{L})Intiyaxis(?!\\p{L})",
+      "flags": "gu",
+      "to": "İntiyaxis"
+    },
+    {
+      "pattern": "(?<!\\p{L})Işıqlar(?!\\p{L})",
+      "flags": "gu",
+      "to": "İşıqlar"
+    },
+    {
+      "pattern": "(?<!\\p{L})Işığa(?!\\p{L})",
+      "flags": "gu",
+      "to": "İşığa"
+    },
+    {
+      "pattern": "(?<!\\p{L})Işıq(?!\\p{L})",
+      "flags": "gu",
+      "to": "İşıq"
+    }
+  ]
 }

@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -16,12 +16,12 @@ Yuxudan duraraq bir səhər erkən,
 Üzümü günəştək alışdırdım mən.
 
 Sözümün təxtini göyə ucaltdım,
-öəlbimdən atəşə üzərrik atdım.
+Qəlbimdən atəşə üzərrik atdım.
 
-Mən "Xosrovnamə"ni yazmaqçün rəvan,
+Mən "Xosrovnamə"ni yazmaqçün rəvan,,
 Bu qoca sərvimi elədim cavan.
 
-Çaldırdım möhrü söz xəzinəsindən,
+Qaldırdım möhrü söz xəzinəsindən,
 Orda deşilməmiş dürr qoymadım mən.
 
 Qələmim o qədər saçdı ki, gövhər,
@@ -33,7 +33,7 @@ Qılınc kimi parlaq bir güzgü verdi.
 Dedi: "Bu güzgüdə bir bax üzünə,
 Çox da məftun olma özün özünə."
 
-Bu parlaq güzgüyə dikdim gözümü.
+Bu parlaq güzgüyə dikdim gözümü,
 Gördüm surətimi, gördüm özümü:
 
 Baxanda güzgüdə - o yaşıl bağda
@@ -43,7 +43,7 @@ Yuxudan məhrumdu o nərgiz gözlər,
 Sərvimdə görmədim gənclikdən əsər.
 
 Bənövşə üstünü basmış yasəmən,
-Əz qızıl gülümü solğun gördüm mən
+Əz qızıl gülümü solğun gördüm mən.
 
 Sikkəni bu qədər sürtülmüş görcək,
 Süstləşdim, heyrətdən çırpındı ürək.
@@ -142,13 +142,13 @@ Belə tədarüklə qurub növrağı,
 Qaldırdı balıqdan Aya bayrağı.
 
 O, Məqduniyyədən yola düşərək
-İskəndəriyyəyə gəlib çatantək.
+İskəndəriyyəyə gəlib çatantək,
 
 Orda o möhtəşəm təxti ucaldı,
 Neçə gün şadlıqla orada qaldı.
 
 Fateh Keyxosrovtək görüb baxtını,
-Gedib düz Şərirdə qurdu taxtını.
+Gedib düz Sərirdə qurdu taxtını.
 
 Əmr edib o uca bir mil düzəltdi.
 Başına bir parlaq güzgü bənd etdi.
@@ -166,9 +166,9 @@ Düşmənlər çal-çapa gəlsələr, işdir,
 Saray adamları görərdi tədbir.
 
 Olub paytaxtından arxayın, yenə
-Şalı mindi vüqarla öz köhləninə,
+Şah mindi vüqarla öz köhləninə.
 
-ilk əvvəl yolunu Məğribə saldı.
+İlk əvvəl yolunu Məğribə saldı.
 Misrə gəlib, orda iki gün qaldı.
 
 Sonra çıxıb ordan, qəlbində dilək,
@@ -208,7 +208,7 @@ Divlər qənimisən, dadə yetiş sən!"
 O göz yaşlarına rəhm eləyərək,
 
 Əsla incimədi fəryadlarından.
-Çatdı məzlumların dadma o an.
+Çatdı məzlumların dadına o an.
 
 Dinləyib onların ah-fəryadını,
 Beytülmüqəddəsə sürdü atını.
@@ -229,7 +229,7 @@ Bilmirdi ki, şahın bəxti açıqdı.
 Yolkəsən ağzının kəsdi yolunu.
 
 Onu zalim görüb, qanını tökdü,
-Qüdsün qapısında çannıxa çəkdi.
+Qüdsün qapısında çarmıxa çəkdi.
 
 Carçılar bir neçə müddət çəkib car,
 Elədiyi zülmü bir-bir saydılar,
@@ -243,7 +243,7 @@ Pak evi napakdan azad eylədi,
 O dinclik məkanı asudə oldu,
 Nakəsin torpağı göyə sovruldu.
 
-Zalimin zülmünü şalı məhv elədi,
+Zalimin zülmünü şah məhv elədi,
 Müti olanlara verdi məbədi.
 
 Beytülmüqəddəsi nizama saldı,
@@ -253,12 +253,12 @@ Sonra da Məğribə tərəf yol aldı.
 Sonra Əndülüsə oldu o rəvan.
 
 Həm dəvət edərkən, həm hökm edərkən
-Əql ilə, ədi ilə iş gördüyündən,
+Əql ilə, ədl ilə iş gördüyündən,
 
 Müdrik bir hökmdar görərək onu,
 Hamı qəbul etdi doğru yolunu.
 
-Hamım düz dinə elədi dəvət,
+Hamını düz dinə elədi dəvət,
 Tikdirdi hər yerdə bir yeni məbəd,
 
 Yenidən qoşunla yola çıxaraq
@@ -280,7 +280,7 @@ Sürətlə gedirdi Məğribə sarı
 Yanında qoşunu və yoldaşları.
 
 Keçirdi bir yerdən o başqa yerə,
-insan yaşamayan cəzirələrə.
+İnsan yaşamayan cəzirələrə.
 
 Çıxdı qarşısına minlərcə insan,
 Cürbəcür canlılar, cürbəcür heyvan,
@@ -309,14 +309,14 @@ Nəhayət, ordan da ötüb keçdilər.
 Yunanlar Okyanos deyərdi ona,
 Qəribə gəlirdi dəniz insana.
 
-Dəhşətlə döyürdü ətrafı dalğa.
+Dəhşətlə döyürdü ətrafı dalğa,
 Yol yoxdu keçməyə burdan uzağa.
 
 Günəş batan zaman bütün dünyada,
 Yenə görünürdü həmin dəryada.
 
 Atəşpərəst kimi güdürdü odu,
-Odu heç gözündən İraq qoymurdu.
+Odu heç gözündən iraq qoymurdu.
 
 Fələk də heç gecə-gündüz bilmədən
 Ona nur saçırdı odlu çeşmədən.
@@ -369,7 +369,7 @@ Olmayıb bir doğru cavab söyləyən.
 Günəşin seyrini, hərə birtəhər,
 Mərkəzdə, ya yerin altında bilər.
 
-Kim bilir, günəş, Ay bu cilvəgalıdan
+Kim bilir, günəş, Ay bu cilvəgahdan
 Keçib sonra harda sürürlər dövran?.."
 
 İskəndər kənarda bir az dincəldi,
@@ -387,7 +387,7 @@ Soruşdu şah sirri bələdçilərdən:
 Salaq biz gəmini suya nə sayaq?
 Yüklə o sahilə mümkünmü çıxmaq?"
 
-Məsləhət gönnədi o yolbilənlər,
+Məsləhət görmədi o yolbilənlər,
 Dedilər: "Yaramaz bu yerdən səfər.
 
 Olsa yüz bələdçi, yenə də heç kəs
@@ -406,7 +406,7 @@ Vahimə içində quruyub ölər...
 Kim olar bu qorxunc yollara rəhbər?
 
 Hələ bundan betər: burdan baxanda
-işıqlı bir sahil vardır o yanda.
+İşıqlı bir sahil vardır o yanda.
 
 Rəngbərəng daşlarla doludur hər yan:
 Qapqara, sapsarı, gömgöy, al-əlvan!
@@ -444,8 +444,8 @@ Bez ilə bürüyüb bərk sarısınlar,
 Daşlarla yükləyib o dəvələri,
 Daşlıqda qalmayıb dönsünlər geri.
 
-Şahın adamları dinləyib bıınu,
-icra elədilər buyurduğunu.
+Şahın adamları dinləyib bunu,
+İcra elədilər buyurduğunu.
 
 Ölüm qorxusundan şah ilə ordu
 Yel kimi tərk etdi o qorxunc yurdu.
@@ -475,22 +475,22 @@ Hasar içəridən çılpaq divardı,
 Çünki bu pərdədə gizli sirr vardı.
 
 Alimlər bu cürə edir rəvayət:
-Aradan keçincə bir xeyli müddət.
+Aradan keçincə bir xeyli müddət,
 
 Çürüyüb sarğılar töküldü yerə,
 Yeddi rəng gövhərlər çıxdı zahirə.
 
-Binalar xaricdən vennirdi ziyan,
+Binalar xaricdən vermirdi ziyan,
 Çünki suvaq vardı sarı palçıqdan.
 
 Geyimi soyundu daxildən hasar,
 Ölürdü oraya ayaq basanlar.
 
 Ora yetişəndə hər yoldan ötən,
-Hasarı içindən gönnək istərkən,
+Hasarı içindən görmək istərkən,
 
 Bir qapı axtardı, tapmadı ancaq,
-Hasara dınnaşdı kəmənd ataraq.
+Hasara dırmaşdı kəmənd ataraq.
 
 O hasar daşları bir adam görcək,
 Alırdı canını ahənrübatək.
@@ -501,11 +501,11 @@ Gör dağtək qalansa nələr törədər?
 Deyirlər: qürurlu şahlardan biri
 Əfsanə sayaraq belə sözləri,
 
-Bir adam göndənniş, təcrübə etmiş,
+Bir adam göndərmiş, təcrübə etmiş,
 Eşitdiyi sözlər sübuta yetmiş.
 
 Binanı qurtarıb, sonra İskəndər
-Dəıyadan səhraya elədi səfər.
+Dəryadan səhraya elədi səfər.
 
 Altı ay yol getdi sonsuz çöllərdən,
 Qoşun təngə gəldi axır səfərdən.
@@ -525,19 +525,19 @@ Aşırdı sel kimi o, dağı-daşı.
 Dağları, çölləri keçərək getdi,
 Nəhayət, dağ-dərə axıra yetdi.
 
-Qum qumluqları keçib ötürdü,
+Quru qumluqları keçib ötürdü,
 Axırda yamyaşıl bir təpə gördü.
 
 Təpənin ətrafı uca dağlardı,
-Minatək yamyaşıl daşlan vardı,
+Minatək yamyaşıl daşları vardı,
 
-Bıı daşlar kəsmişdi çıxacaq yolu,
+Bu daşlar kəsmişdi çıxacaq yolu,
 Yol gedən azardı orda sağ-solu.
 
 Minalı dağlardan büllur sütuntək
 Şəlalə axırdı yolu kəsərək,
 
-iti daşlar ilə doluydu hər yan,
+İti daşlar ilə doluydu hər yan,
 Yol tapa bilməzdi təpəyə insan.
 
 Bənzərdi tikanlı təpə kirpiyə.
@@ -579,7 +579,7 @@ Yığdı alimləri İskəndər bir də.
 Düşünüb verdilər belə bir qərar:
 "Hünərli, vicdanlı bir şəxs tapsınlar.
 
-Diinyagörmüş olsun, yazmaq bacarsın,
+Dünyagörmüş olsun, yazmaq bacarsın,
 Gedəndə qələmlə kağız aparsın.
 
 Götürsün yanınca əziz oğlunu,
@@ -589,12 +589,12 @@ O dağı çıxdıqda oğlu da hər an
 Gərək təqib etsin onu arxadan.
 
 O çıxsın, ətəkdə qoysun oğlanı,
-Balası zəncirtək şaxlar aslanı.
+Balası zəncirtək saxlar aslanı.
 
 Qayıda bilməsə o kişi əgər,
 Ordan övladına eləsin xəbər,
 
-işdir, heyrətindən dili tutulsa,
+İşdir, heyrətindən dili tutulsa,
 Danışa bilməsə, qəfil lal olsa,
 
 Yazar, gördüyünü verər oğluna,
@@ -639,7 +639,7 @@ Gəlir hər tərəfdən quşların səsi,
 Havası tərtəmiz, qəşəngdir hər yan,
 Belə yurd arzular allahdan insan.
 
-Havası tərtəmiz, ətir qoxulu.
+Havası tərtəmiz, ətir qoxulu,
 Gözəl torpaqları çeşməli, sulu,
 
 Çeşmələr, bulaqlar verib əl-ələ,
@@ -670,7 +670,7 @@ Qorxdu ki, hamısı tərk edər onu.
 Əmr etdi, qoşunu çəkdilər sağa.
 
 Durub dincəlmədən düzəldi yola,
-Daha düşümnürdü heç bir şey əsla!
+Daha düşünmürdü heç bir şey əsla!
 
 Qum kimi sərf edib bollu xəzinə,
 Səhradan əzabla qayıtdı yenə.
@@ -684,7 +684,7 @@ Doluydu vəhşiylə yolun sağ-solu.
 Ancaq şaha sarı onlar cumanda
 Qaranlıq basırdı yolu bir anda.
 
-Şah rüxsət vennədən, bir qədəm onlar
+Şah rüxsət vermədən, bir qədəm onlar
 Çıxa bilməzdilər zülmətdən kənar.
 
 Birisi çıxsaydı əgər fərmandan,
@@ -699,7 +699,7 @@ Verirdi hərəyə layiqli cavab.
 O, tozlu yollarla səfər edirdi,
 Zamanı arxada qoyub gedirdi.
 
-Bu yolda heç nəyə meyl etməyərək.
+Bu yolda heç nəyə meyl etməyərək,
 Qəlblərdən tozları silirdi yeltək.
 
 Dostların könlünü o şad edirdi,
@@ -753,7 +753,7 @@ Xalis gümüşdəndi içindəki buz.
 Orda saf əqiqdən balıqlar vardı,
 Seyrinə dalanlar heyran qalardı.
 
-Uca bir saraya malikdi gülşən.
+Uca bir saraya malikdi gülşən,
 Bir daşı qızıldan, biri gümüşdən.
 
 Şah ayaq basanda həmin saraya
@@ -805,7 +805,7 @@ Bədəni qarışqa yemi olacaq,
 Başı da at nalı altında torpaq.
 
 Doğrudur, çalışıb hərə birtəhər
-Öz qəbri üstündə sütun tikdirər.
+Öz qəbri üstündə sütun tikdirər,
 
 Ancaq belə gəlib hər şeyin sonu,
 Yel göyə sovurar onun tozunu.
@@ -816,7 +816,7 @@ Hansı at nalına tapdaq olacaq?
 Bu məzar içindən dağıtma tozu,
 Torpaqda yaxşıdır torpaq, doğrusu.
 
-Bədəni axtanna, toz etdi ruzgar,
+Bədəni axtarma, toz etdi ruzgar,
 Təkcə bu günbəzdir ondan yadigar.
 
 Gəl, toxunma bizə, baxıb ibrət al.
@@ -886,9 +886,9 @@ Yeyərik nə etsək bu çöldə şikar,
 Tüklərdən, dəridən geyərik paltar.
 
 Burada nə atəş, nə də ki, su var,
-Odu günəş verir, suyu buludlar,
+Odu günəş verir, suyu buludlar.
 
-işıqlı gündüzlər göyün günəşi
+İşıqlı gündüzlər göyün günəşi
 Bizə əvəz edər odu, atəşi.
 
 Şeh düşüb havanı nəm edən zaman
@@ -913,12 +913,12 @@ Onlardan birisi düşmüşdü ələ,
 Soruşub birtəhər gətirdik dilə:
 
 "Necə edirsiniz susuzluğa tab?"
-O bizə nifrətlə vennişdi cavab:
+O bizə nifrətlə vermişdi cavab:
 
-"Su bizə zəhərdir, su içməz heç kəs.
+"Su bizə zəhərdir, su içməz heç kəs,
 Bizə suyu hava eləyər əvəz.
 
-Ilantək heç kəsə yovuşmarıq biz,
+İlantək heç kəsə yovuşmarıq biz,
 Kərtənkələlərdir yediklərimiz.
 
 Sizdən ki, bir fayda yoxdur bizlərə,
@@ -930,8 +930,8 @@ Onlardan gizlincə almışdıq xəbər:
 "Bu sonsuz səhranı, susuz çölləri
 Gəzib görübsünüz siz çoxdan bəri;
 
-Söyləyin, kim görüb başqa zihəyat? 20S
-Vanm bu çöllərdə başqa məxluqat?"
+Söyləyin, kim görüb başqa zihəyat?
+Varmı bu çöllərdə başqa məxluqat?"
 
 Onlar cavab verib: "Bu çölü, dağı
 Axtarıb gəzmişik yaxın-uzağı.
@@ -943,7 +943,7 @@ Bizə rast gəlmişdir başqa çöllülər,
 Onlardan soruşub tutmuşuq xəbər:
 
 "Görəsən bizlərdən başqa, yaradan
-Burda yaratmışım başqa bir insan?"
+Burda yaratmışmı başqa bir insan?"
 
 Onlar deyiblər ki: "Çox uzaqlarda,
 Günəş ziyasına həsrət diyarda
@@ -982,7 +982,7 @@ Düzgün nişanlarla bilməkçin yəqin
 Yolunu soruşdu məchul yerlərin
 
 Gördülər İskəndər çox şəfqətlidir,
-insaflı, qayğıkeş, mərhəmətlidir,
+İnsaflı, qayğıkeş, mərhəmətlidir,
 
 Eyləyir onlara ürəkdən kömək.
 Dedilər: biz də bir xidmət göstərək.
@@ -996,7 +996,7 @@ Oradan atını çapdı dördnala.
 Qurtardı axır ki, çöllər, səhralar,
 Dübarə sahilə çatdı hökmdar.
 
-Dəıya kənarında bulaqlar vardı,
+Dərya kənarında bulaqlar vardı,
 Büllurtək suları şırşır axardı,
 
 Bulaqlar başında bir aya qədər
@@ -1017,5 +1017,5 @@ Cənubdan bir nəsim əsdi bu yerə,
 Çeşməli, kölgəli bir yer gördülər,
 Bir həftə qalmağa qərar verdilər.
 
-Yolun əzabına tapdılar dənnan,
+Yolun əzabına tapdılar dərman,
 Çıxdı yavaş-yavaş ağrılar candan.

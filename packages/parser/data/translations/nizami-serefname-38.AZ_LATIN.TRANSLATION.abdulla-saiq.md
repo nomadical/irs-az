@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -19,7 +19,7 @@ Dur, ağzına qədər mey doldur ona,
 Hörmətlə ver əsrin Keyxosrovuna.
 
 Ey uca şövkətli adil padişah,
-Müştəri şimalı, asiman pənah!
+Müştəri simalı, asiman pənah!
 
 Keyxosrov qurduğu məclislər hanı?
 Taxtında oturan İskəndər hanı?
@@ -30,7 +30,7 @@ Onlar öz bürcünü ataraq getdi,
 Dünyada İskəndər tək etsən rəftar,
 Sənindir hər buyruq, sənsən tacidar.
 
-Bu dünya adma vurmuşsa sikkə,
+Bu dünya adına vurmuşsa sikkə,
 Səninlə şənlənmiş olsa da ölkə,
 
 Könül vermə könül aldadanlara,
@@ -91,7 +91,7 @@ Bəlinas həkimi dəvət elədi,
 Oturdu o cama yaxın, söylədi:
 
 “Camdakı ayinə sən də qıl diqqət,
-Ondakı əsrarı ara, tap əlbət! ”
+Ondakı əsrarı ara, tap əlbət!”
 
 Bəlinas o cama edincə nəzər,
 Qolayca oxundu bütün rəqəmlər.
@@ -171,64 +171,61 @@ Köhül dəhlizinə çatdılar artıq.
 Köhül xəzinəsi gəlincə ələ
 İskəndər qəlbinə düşdü vəlvələ.
 
-««x
 Gördü daş köksündə köhnə bir yarıq,
-
 Ensiz bir yolu var, dar və qaranlıq.
-Köhül sahibindən tapmaqçm nişan
 
-Köhülə zəhmətlə girdi hökmıiran.
+Köhül sahibindən tapmaqçın nişan
+Köhülə zəhmətlə girdi hökmüran.
+
 Bir qədər keçmədi, od qalxdı birdən,
-
 Alışıb yanırdı içəri girən.
+
 Soruşdu: “Bəlinas, nədir bu odlar?
-
 Darısqal köhüldə hardandır buxar?”
+
 Bəlinas diqqətlə baxdı bir zaman,
-
 Bilsin ki, neçin od fışqırır daşdan.
+
 Gördü bir parlayan dərin quyu var,
-
 İçində qaynaşır əlvan işıqlar.
+
 Kimsə o işıqdan tutmamış xəbər,
-
 Arayan tapmamış ondan bir əsər.
+
 İşığa nə qədər aradı yol, iz,
-
 Bir işıq tapmadı, qaldı səmərsiz.
+
 O igid belinə bağladı kəndir,
-
 Bilsin ki, quyuda bu atəş nədir?
+
 Parlayan günəşdən tapdı bir nişan,
-
 Anladı od necə çıxır quyudan.
+
 Toplu bir alovdu, deyil dağınıq,
-
 Gördü ki, kükürddür bu yanan işıq.
+
 İşarət verincə çıxdı quyudan,
-
 Dualar edərək dedi: “Hökmüran,
+
 Tələsmək lazımdır, göstərin tədbir,
-
 Su deyil, quyudan çıxan atəşdir.
+
 Kükürd mədənidir bu, alovlanır,
-
 Kükürddən dörd yanı alışıb yanır.
+
 Bu sirri bilirmiş köhüldə yatan,
-
 Özünü kükürdlə məhv etmiş, inan”.
+
 Padşaha, köhülə etdi çox dua,
-
 Çıxarkən üzərlik səpdi alova.
+
 Köhüldən çıxınca axtardı yolu,
-
 Tapmadı, qəlb oldu kədərlə dolu.
+
 Eşitdim, dənizdən bulud qalxaraq
-
 Şiddətli qar səpdi, doldu hər bucaq,
-Dünyanı sarsıtdı qarlı bir tufan,
 
-««xs-gjjdt
+Dünyanı sarsıtdı qarlı bir tufan,
 Dərələr, təpələr doldu o qardan.
 
 O qarda sərgərdan qaldı İskəndər,
@@ -240,13 +237,13 @@ Köməkçin axdılar ora hər yandan.
 Təpiklə, kürəklə yolu açdılar,
 Çox zəhmət çəkdilər, hiylə saçdılar,
 
-Şah yolu tapmaqçm ətrafa baxdı.
+Şah yolu tapmaqçın ətrafa baxdı.
 Köhülün küncündən zirvəyə qalxdı.
 
 Yaşıl donlu tovuz humay quşundan
 Ağ parlaq sümüyü qapdığı zaman
 
-Şəriri taxtına səadət verən,
+Səriri taxtına səadət verən,
 Sərir qalasından enincə, şən-şən,
 
 Döndü öz çadırı qurulan yerə,
@@ -267,10 +264,10 @@ Yenidən baş vurdu səhər göylərə,
 Bu saxsı torpağa lacivərd, fələk
 Sarı reyhanlarla vurunca bəzək,
 
-Əmr etdi, şahanə məclis bəzəndi.
+Əmr etdi, şahanə məclis bəzəndi,
 Noğulla, şərabla süfrə şənləndi.
 
-Şəririn şahını dəvət elədi,
+Səririn şahını dəvət elədi,
 Hörmətlə oturtdu, şəfqət elədi.
 
 Onunla qədəhi aldılar ələ,
@@ -285,43 +282,41 @@ Taxtı fil sümüyü, tacı qızıldan.
 İpəkdən don verdi, üstü zər, gövhər,
 Sanki bir pərvindir, cavahir çəkər.
 
-» 249
 İçinə yarımca portağal sığan
-
 Portağal biçimli firuzə fincan.
+
 Yarısı tutulmuş qızıla, lələ,
-
 Nar kimi dolmuş nar danələrilə.
+
 Zümrüddən nərd verdi - üstü əl-əlvan,
-
 Bəzəyi qırmızı, sarı yaqutdan.
+
 Büllurdan bir xonça, günəş kimi şən,
-
 Sanki göy budaqda açmış yasəmən.
+
 Yorğa at, başında qızıldan yüyən,
-
 Yüyənin bəzəyi əlvan gövhərdən.
+
 Ağır yük altında tərləmiş yüz lök,
-
 Tükləri tərtəmiz, həm sağlam, həm kök.
+
 Yük vurmuş o bağlı şeylərdən hələ,
-
 Cavahir batmanla, qızıl xərmənlə.
+
 Rütbəyə münasib verdi hər kəsə
-
 Hər çeşid qəba və zərli əlbəsə.
+
 Verildi o qədər xələt və sərvət,
-
 Sərirli taxtını parlatdı zinət.
+
 Öpdü şah əlini o dönə-dönə,
-
 Sevinclər içində döndü evinə.
+
 İskəndər oradan köç təbli çaldı,
-
 Bayraqlar işıqlı göyə ucaldı.
+
 Səhraya endi o dağlıq yerlərdən,
-
 Dəniz sahilində eylədi məskən.
-O çöldə bir həftə ov etdi, artıq,
 
+O çöldə bir həftə ov etdi, artıq,
 Köçmək məqsədilə gördü hazırlıq.

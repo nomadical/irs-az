@@ -6,14 +6,14 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
 status: DRAFT
 ---
 Müğənni, bu köhnə pərdədə yekə
-Hiizünlü, qəmli bir hava çal mənə!
+Hüzünlü, qəmli bir hava çal mənə!
 
 Qəlbim də səs versin o nalələrə,
 Şəbnəmtək göz yaşım çilənsin yerə!
@@ -31,18 +31,18 @@ Yeddi heykəlinə bu fələyin mən
 Əsla baş əymərəm səmimi qəlbdən!
 
 Mən göydən də uca bir hökmüdaram,
-istəsəm hər evə girib-çıxaram.
+İstəsəm hər evə girib-çıxaram.
 
 Budaqda gül olub açaram bəzən,
-istəsəm tovuztək uçaram bəzən.
+İstəsəm tovuztək uçaram bəzən.
 
 Pəritək kimsəyə olmadan əyan,
-istəsəm uçaram hər yerə nihan.
+İstəsəm uçaram hər yerə nihan.
 
 Mənim uçuşlarım sığmaz zamana,
-Öpərəm mən onu getsəm hər yana,
+Öpərəm mən onu getsəm hər yana.
 
-istəsəm göyləri ayaqlaram mən,
+İstəsəm göyləri ayaqlaram mən,
 Daşın içini də eylərəm məskən.
 
 Səhralar, dənizlər qarşımı almaz,

@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -48,7 +48,7 @@ Mərdlikdə şahların Qədərxanıdır.
 Şövkətdə, zəkada Mahmud kimidir,
 Polad yumşaltmaqda Davud kimidir.
 
-Almış fənnanını Mahmudilərdən,
+Almış fərmanını Mahmudilərdən,
 Həsəbi, nəsəbi Davudilərdən.
 
 Meyvəli bahardır, sinəsində gül.
@@ -67,9 +67,9 @@ Tərlanı ov üçün qalxarsa, yəqin
 Tərlanı dad çəkər göydə fələyin.
 
 Fəzada uçarsa əgər üqabı,
-Ya Ayı ovlayar, ya afıtabı.
+Ya Ayı ovlayar, ya afitabı.
 
-Hanı bu dövranda elə bir insan.
+Hanı bu dövranda elə bir insan,
 Oğurlaya bilsin bir sifət ondan?
 
 Ayın şüasını ip bilən naşı
@@ -82,7 +82,7 @@ Ayı göydə fətir eyləyib güman
 Çoxları quyuya düşüblər, inan.
 
 Mələyə bənzəyər divlər kənardan,
-Div zülmətdən törər, mələksə nurdan 6S.
+Div zülmətdən törər, mələksə nurdan.
 
 Allahtanıyandır bizim hökmdar,
 Mehr, vəfa ilə dolu qəlbi var.
@@ -114,7 +114,7 @@ Sanki alt-üst oldu torpaq, asiman..
 Surun gur səsindən balıq qorxaraq
 Atıldı öküzdən bir xeyli uzaq.
 
-Fələk zəncirinin həlqələri tək
+Fələk zəncirinin həlqələritək
 Yerin də bəndləri ayrıldı tək-tək.
 
 Azdı yollarını gur axan sular.

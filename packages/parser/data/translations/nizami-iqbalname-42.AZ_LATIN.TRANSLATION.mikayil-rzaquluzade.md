@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -16,7 +16,7 @@ Müğənni, yorubdur bəm səslər məni,
 Zil üstə qaldır sən indi naləni!
 
 Bəlkə o zil səsin ucalan zaman
-öurtara ürəyim bu ahü zardan.
+Qurtara ürəyim bu ahü zardan.
 
 Açdı ayağından İskəndər bəndi,
 Göylər qalasına atdı kəməndi.
@@ -27,7 +27,7 @@ Onun sarayının filosofları
 Ərəstu görəndə batıb afitab,
 Bağladı üzünə buluddan niqab,
 
-öaralar geyindi, matəm saxladı,
+Qaralar geyindi, matəm saxladı,
 Səfər boxçasını o da bağladı.
 
 Onun uca sərvi soldu, saraldı,
@@ -49,9 +49,9 @@ Səfərə tələsən xəstə Ərəstu:
 "Allah yaxşı bilir, - söylədi - bunu.
 
 Şərh edib bir xeyli zamandan bəri,
-Sanırdım, bilirəm mən bu sirləri,
+Sanırdım, bilirəm mən bu sirləri.
 
-indi acizliklə burdan köçərkən
+İndi acizliklə burdan köçərkən
 Gördüm ki, heç bir şey bilmirmişəm mən.
 
 Dünya filosofu adlandıraraq,
@@ -64,7 +64,7 @@ Göyün, ulduzların sirri haqqında
 Çox şeylər kəşf edib göstərdim onda.
 
 İndi, doğrusunu söyləsəm əgər,
-Boş şeydir o kölmə rəsədnamələr.
+Boş şeydir o köhnə rəsədnamələr.
 
 And olsun allaha, mən də bilmərrə
 Bilmirəm doludur, boşdur bu süfrə!"
@@ -84,7 +84,7 @@ Nəfəsi tutulub çıxanda canı,
 Gülərək dedi ki: "Siz olun agah,
 Köçürəm, qarşımda açılır sabah.
 
-Bu canı pak allah vennişdi mənə.
+Bu canı pak allah vermişdi mənə.
 Pak olan allaha qaytardım yenə..."
 
 Bunu deyib susdu bir ah çəkərək,

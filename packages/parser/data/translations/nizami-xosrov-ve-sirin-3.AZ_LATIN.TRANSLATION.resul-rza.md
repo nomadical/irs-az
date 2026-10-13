@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -15,17 +15,17 @@ status: DRAFT
 Göyün səyyahları, bilirsən neçin
 Daim dolanırlar başına yerin?
 
-Bu mehrabda Kimə səcdə edirlər?
+Bu mehrabda kimə səcdə edirlər?
 Nə üçün bu qədər gəlib-gedirlər?
 
 Onların bu işdən nədir istəyi?
-Bu mənzil Kəsməkdən nədir diləyi?
+Bu mənzil kəsməkdən nədir diləyi?
 
 Neçin yer sabitdir, ulduzlar səyyar?
 Kim ona "get" dedi, buna "tut qərar"?
 
 Ulduzlar don geyib rəngə boyanmış.
-Sanxi ibadətə hazır dayanmış.
+Sanki ibadətə hazır dayanmış.
 
 Heyrət məni yüz yol edirdi vadar,
 Belə bütxanədə bağlayım zünnar.
@@ -36,13 +36,13 @@ Qeybdən səs gəldi: - Nizami, dayan!
 O bütlərə məftun olma, düşün bir,
 Onlar özlərinə pərəstiş etmir.
 
-Hamısı pərgartəx olub sərgərdan,
-Gəzirlər, onları Kimdir yaradan?
+Hamısı pərgartək olub sərgərdan,
+Gəzirlər, onları kimdir yaradan?
 
 Qüdrətli əlinlə, qalxıb yerindən,
 Bağla bütxanənin qapısını sən.
 
-Bütü İbrahimtək oxşa, əzizlə.
+Bütü İbrahimtək oxşa, əzizlə,
 Ancaq bütxanəni ondan təmizlə,
 
 Bütə nəzər salsan surətpərəstsən,
@@ -51,8 +51,8 @@ Xilas olmaq üçün bütü tapda sən.
 Balıqdan Ayadək nə varsa əyan
 Allah xəznəsinə tilsimdir, inan.
 
-Zəhmətlə sındırıb bağlı tilsimi.
-Altında taparsan xəznə gün Kimi.
+Zəhmətlə sındırıb bağlı tilsimi,
+Altında taparsan xəznə gün kimi.
 
 Görünən varlığı milə çək özün,
 Zənginləşsin ağlın, açılsın gözün.
@@ -76,13 +76,13 @@ Hər bir hərəkəti törədən vardır,
 Ağıllı insana bu aşikardır.
 
 Qarı cəhrəsinə bax, qiyas apar,
-Fəıək çərxini də bir hərlədən var.
+Fələk çərxini də bir hərlədən var.
 
 Başlanğıc hərəkət olmasa əgər
 Hərəkət edərmi bir cəhrə məgər?
 
 Hərəkət verərsə ona bir insan,
-O da həhənəcək yəqin bir zaman.
+O da hərlənəcək yəqin bir zaman.
 
 Kainat özü də belə dövr edir,
 Gövhər tanıyana aydındır bu sirr.
@@ -94,31 +94,31 @@ Bil, nə qələm yeni bir mətləb yazar,
 Nə də dırnaq tikər yeni bir paltar.
 
 Sən ondan diləsən, şəvə nur salar,
-Onsuz yəqin bil Kİ, Ay nursuz qalar.
+Onsuz yəqin bil ki, Ay nursuz qalar.
 
 O hər bir nəqşəyə vermiş bir camal,
 Ulduzlar onlardan götürmüşdür fal.
 
-Biri on arpanı eləyib mehrab.
-Biri İKİ daşa deyir üstürlab.
+Biri on arpanı eləyib mehrab,
+Biri iki daşa deyir üstürlab.
 
 Bu iti hərlənən çərx də, müxtəsər,
-Arpa və daş Kimi nəticələnər.
+Arpa və daş kimi nəticələnər.
 
-Sən demə rüıcndən yaranmış insan,
-Ulduzdan yaranmış çün Kİ bu ərkan,
+Sən demə rükndən yaranmış insan,
+Ulduzdan yaranmış çünki bu ərkan,
 
-"Hər şeydən üstündür səbəb" deyirxən
-O böyük qüdrəti sən xiçildirsən.
+"Hər şeydən üstündür səbəb" deyirkən
+O böyük qüdrəti sən kiçildirsən.
 
-Varlığın əvvəiki əgər səbəbsə.
+Varlığın əvvəlki əgər səbəbsə,
 Bəs səbəb pünhandır neçin hər kəsə?
 
-Əgər od, su, toıpaq, bu əsən kшək
-Bir yerə toplaşsa uyğun gələrəx,
+Əgər od, su, torpaq, bu əsən külək
+Bir yerə toplaşsa uyğun gələrək,
 
 O böyük tanrıdan olmasa fərman,
-Məlumdur Kİ, gəlməz vücuda bir can.
+Məlumdur ki, gəlməz vücuda bir can.
 
 Sitayiş edərsə özünə bir kəs,
 Ona yaradanın qulu deyilməz.
@@ -133,4 +133,4 @@ Elə bir abidi sevir yaradan -
 Keçə allah üçün öz varlığından.
 
 Nizami, özünü unudanda sən,
-Vüsal badəsini başa çəxərsən.
+Vüsal badəsini başa çəkərsən.

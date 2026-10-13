@@ -6,20 +6,20 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
 Əzəldən dövr edən bu dünya belə
-Xosrov Kimi bir şah görməmiş hələ.
+Xosrov kimi bir şah görməmiş hələ.
 
 Hüzuruna qəbul başlayan zaman
 Önündə durardı bir cərgə insan.
 
 Varlılar durardı birinci səfdə,
-Yoxsullar İkinci, arxa tərəfdə.
+Yoxsullar ikinci, arxa tərəfdə.
 
 Üçüncü sırada əlil, naxoşlar,
 Bir ayağı gorda qarı, ixtiyar.
@@ -27,10 +27,10 @@ Bir ayağı gorda qarı, ixtiyar.
 Dördüncü sırada ancaq dustaqlar,
 Açıq deyil qollar, bağlı ayaqlar.
 
-Beşinci sırada qatil, günahxar,-
+Beşinci sırada qatil, günahkar,-
 Bir əhval soruşub danışmazdılar.
 
-Ümidsiz olmasın bu cür təqsirxar,
+Ümidsiz olmasın bu cür təqsirkar,
 Qarşıda əfv əmri asdırardılar.
 
 Gözətçi deyirdi hamıya birdən:
@@ -40,25 +40,25 @@ Yoxsulu görürdü varlı olanlar,
 Çox şükür edirdi bu hala onlar.
 
 Yoxsulun gözünə xəstə dəyəndə
-Şüxr edib deyirdi: "Mərəz yox məndə."
+Şükr edib deyirdi: "Mərəz yox məndə."
 
-Dustaq görən xəstə olardı çox şad.
-Deyirdi: "Şüxr olsun, gəzirəm azad."
+Dustaq görən xəstə olardı çox şad,
+Deyirdi: "Şükr olsun, gəzirəm azad."
 
 Qatilə dəyəndə dustağın gözü,
 Xoşbəxt görünürdü özünə özü.
 
-Qatil görəndə xi, ümid yolu var,
-Şüxr edib deyirdi: "Canım qurtarar."
+Qatil görəndə ki, ümid yolu var,
+Şükr edib deyirdi: "Canım qurtarar."
 
 Xosrovun ürəyi olduqca şaddı,
-Ölxəsi Misrtəx şəndi, abaddı.
+Ölkəsi Misrtək şəndi, abaddı.
 
 Bir gün əmr etdi, o, düzəlsin işrət,
 Bu işdə taleylə etdi rəqabət.
 
 Dörd bir dövrəsində o uca taxtın
-Şahlar səcdədəydi hey yığm-yığm.
+Şahlar səcdədəydi hey yığın-yığın.
 
 Göyün ulduzları dəstəbədəstə
 Düzülmüşdü Kəyan taxtının üstə.
@@ -75,38 +75,38 @@ Xəbər verirdilər gecə-gündüzü.
 Hər nücum elmindən xəbərdar olan
 O taxtdan bilirdi nədir asiman.
 
-Xosrovun taxtına hər Kim baxanda
+Xosrovun taxtına hər kim baxanda
 Min Keyxosrov camı görərdi onda.
 
 O taxt taxt deyildi, bir asimandı,
 O şah şah deyildi, sahibqərandı.
 
-Deyərdin: bu fildir, - taxtda oturub.
+Deyərdin: bu fildir, - taxtda oturub,
 Deyərdin: bu şirdir, - ovlaqda durub.
 
 Onun hökmündəydi yerlər və göylər,
-Süfrəsi ulduzdan toıpağa qədər.
+Süfrəsi ulduzdan torpağa qədər.
 
-Məclisində zinət behiştdən yüxsək,
+Məclisində zinət behiştdən yüksək,
 Onun boynu bağlı quluydu fələk.
 
-Böyükiük istəsən, səxavətli ol!
-Bağlama Kisəni, xərc elə bol-bol.
+Böyüklük istəsən, səxavətli ol!
+Bağlama kisəni, xərc elə bol-bol.
 
-Varlı çətinində pul versə əgər,
-işin axırında fəlaxət görər.
+Varlı çətinliklə pul versə əgər,
+İşin axırında fəlakət görər.
 
-Dünyanın işini şadlıqla Keçir,
+Dünyanın işini şadlıqla keçir,
 Xəracını alıb xərc elə bir-bir.
 
 Necə alırsansa, elə də ver sən,
 Alarsan verməzsən, özün bilərsən.
 
-Təkbaşma Kimsə dünyanı udmaz,
+Təkbaşına kimsə dünyanı udmaz,
 Təkcə bir insanın şahlığı tutmaz.
 
 Ağıllılar bilir: tək yesə hər kəs,
-Təkikdə də ölər, dost-aşna görməz.
+Təklikdə də ölər, dost-aşna görməz.
 
 Çay suyu olsa da, sən içmə yalqız,
 Dəniztək olarsan acı, qılıqsız.
@@ -129,14 +129,14 @@ Günəştək səpirdi dövləti, malı.
 Xəzinə verəndə üzü gülərdi,
 Önündə zər - torpaq, torpağı zərdi.
 
-Gündə İKİ dəfə süfrə açardı,
+Gündə iki dəfə süfrə açardı,
 Nə xətrin istəsə, süfrədə vardı.
 
-Bir mil məsafədə süfrə sərərdi.
+Bir mil məsafədə süfrə sərərdi,
 Kim milçək istəsə, bir fil verərdi.
 
 Süfrədə halvalar dururdu çin-çin,
-Qonaq bilməzdi Kİ, hansından yesin.
+Qonaq bilməzdi ki, hansından yesin.
 
 Mal, qoyun, quş, balıq, xeyir-bərəkət,
 Sayını bilmirəm, sən təsəvvür et.
@@ -150,25 +150,25 @@ Tuturdu Hindistan xəracı qədər.
 Xüsusi xörəyi məclisə gəlsə,
 Xuzistanda olan düşər həvəsə.
 
-Tər Kabab yeyərdi duranda səhər,
+Tər kabab yeyərdi duranda səhər,
 Ona bir qiymətli dürr sürtərdilər.
 
 O dürrü alandan hindli tacirdən
 Düz yüz batman qızıl vermişdi birdən
 
-Deyirlər rütubət xəstəlikiəri
+Deyirlər rütubət xəstəlikləri
 O dürrlə sağalar, dönməzmiş geri.
 
-Bağdad reyhanhək ətirli, göyçək,
+Bağdad reyhanıtək ətirli, göyçək,
 Yenicə doğulmuş göygözlü, qəşəng
 
-Dayçanı ayırıb öz anasından.
+Dayçanı ayırıb öz anasından,
 Qoyunun südüylə bəslərmiş çoban.
 
-Gümüşdən bir təndir düzəldəmişlər,
-Xərci bir ökənin xəracı qədər.
+Gümüşdən bir təndir düzəldərmişlər,
+Xərci bir ölkənin xəracı qədər.
 
-Beş-on batman müşkü, udu yığaraq.
+Beş-on batman müşkü, udu yığaraq,
 Orda odlarmışlar hey qalaq-qalaq.
 
 Kababı bu qayda bişirərmişlər,
@@ -180,8 +180,8 @@ Hər gün salınarmış onunçün yerə.
 Qənd, püstə yeyəntək, xörəkdən ancaq
 Bir azca yeyərmiş, çox tez doyaraq.
 
-Baxıb sarayına böyük höıcmdar
-Görsəydi bir Kəsin ehtiyacı var,
+Baxıb sarayına böyük hökmdar
+Görsəydi bir kəsin ehtiyacı var,
 
 Təndiri, süfrəni verərmiş ona,
 Qoymazmış qəlbinə qəm-qüssə qona.
@@ -193,13 +193,13 @@ Elə çörək verir nur təndirindən!
 Sübhün təndirindən sarı bir səhər,
 
 Təndiri, süfrəni qurarmış yenə,
-Yenə başlayarmış kohnə dəbinə.
+Yenə başlayarmış köhnə dəbinə.
 
 Belə qəribəymiş onun peşəsi,
-Heç əskik olmazmış Keyfı, nəşəsi.
+Heç əskik olmazmış keyfi, nəşəsi.
 
-Elə Kİ, vaxt gəldi, şahlıq da getdi,
-Əzəmət, dəbdəbə onu tənc etdi.
+Elə ki, vaxt gəldi, şahlıq da getdi,
+Əzəmət, dəbdəbə onu tərk etdi.
 
 Hörmət istəyirsən xoşbəxtlə dolan,
 Xoşbəxt olur gəzsə onlarla insan.
@@ -213,11 +213,11 @@ Onlardan müşk yox, bollu toz çıxar.
 Qəbri nurla dolsun, rəhmətlik atam
 Nəsihət verərdi bu sayaq müdam:
 
-"Bədbəxt adamlardan kənara çəkiı,
+"Bədbəxt adamlardan kənara çəkil,
 Xoşbəxtlər yanında sən elə mənzil,
 
-istəsən Kİ, gecən nura boyansın,
+İstəsən ki, gecən nura boyansın,
 Evində qoy işıq - məşəllər yansın.
 
 Böyük mirvarilər qiymətlidir, bax,
-Çünki böyükiərlə olurlar ancaq."
+Çünki böyüklərlə olurlar ancaq."

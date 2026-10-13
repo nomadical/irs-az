@@ -6,25 +6,25 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
 Dünyanın işini yaxşı düşün sən!
-Nə Əksən, onu da, bil, biçəcəksən.
+Nə əksən, onu da, bil, biçəcəksən.
 
 Yaxşı iş də görsən, pis iş də, inan.
 Unutmaz onları bu qoca dövran.
 
-Guya Fərhad üçün şah qəmgin olub.
+Guya Fərhad üçün şah qəmgin olub,
 Şirinə yazanda bir acı məktub
 
 Məryəm şahlığı da sona yetişdi,
 Allah təqdiriylə olan bir işdi.
 
-Deyirlər Kİ, Şirin bir acı dərman
+Deyirlər ki, Şirin bir acı dərman
 Verib, eyləmişdi Məryəmi candan.
 
 Bu zəhər sözünə etmə etibar,
@@ -37,69 +37,69 @@ Ayı möhrə edən şəbədəbazlar
 Hümmətin gücüylə oyun çıxardar.
 
 Məryəmtək o Məryəm oruc tutaraq,
-Şahın şəkərindən düşdü çox İraq.
+Şahın şəkərindən düşdü çox iraq.
 
 Necə çəng-Məryəmdən qurtarar zahı
 Məryəmdən qurtardı dünyalar şahı.
 
-Məryəmin vücudu Köçdü aləmdən,
+Məryəmin vücudu köçdü aləmdən,
 Məryəm ağacıtək şah çıxdı qəmdən.
 
-Adma eləyib hörmət, ehtiram,
+Adına eləyib hörmət, ehtiram,
 Bir ay yas saxladı onunçün tamam.
 
-Hörmət üçün bir ay çıxmadı təxtə,
+Hörmət üçün bir ay çıxmadı taxtə,
 Qara paltar geydi o qara bəxtə.
 
 Şirinə çatanda bu təzə xəbər
-Həm sevinc gətirdi, həm də qəm. Kədər,
+Həm sevinc gətirdi, həm də qəm, kədər,
 
 Bir yandan şad olub dedi: "Ölümü
-Qurtardı həsəddən bu pak Könlümü."
+Qurtardı həsəddən bu pak könlümü."
 
 Bir yandan qəmlənib, o çəkirdi ah
 Ki: "Mənimçün də var belə gün, eyvah!"
 
 Xosrov xatirinə qəsrində bir ay
-işrət düzəltmədi o işıqlı ay.
+İşrət düzəltmədi o işıqlı ay.
 
-Bir ay sonra çıxdı yaradan thcan,
-Azad oldu dünya qəm-qubarmdan.
+Bir ay sonra çıxdı yaradan tikan,
+Azad oldu dünya qəm-qubarından.
 
 Yenidən arzusu qalxdı ayağa
 Şahın məktubuna cavab yazmağa.
 
 Ürəyində olan sözləri tamam
-Toıpağa tum Kimi səpdi bu axşam.
+Torpağa tum kimi səpdi bu axşam.
 
-Katib qələmini əlinə aldı.
+Katib qələmini əlinə aldı,
 Kağızda sözləri qaydaya saldı.
 
-Şirin Kəlmələri hey düzə-düzə
+Şirin kəlmələri hey düzə-düzə
 Allahın adıyla başladı sözə:
 
-"Üzr istəyənlərin suçundan Keçən
+"Üzr istəyənlərin suçundan keçən
 Xaliqin adıyla başlayıram mən.
 
-Ehtiyacı yoxkən bir an da bizə.
+Ehtiyacı yoxkən bir an da bizə,
 Odur səhman verən hər işimizə.
 
-Cisim deyil, odur cismi yaradan.
+Cisim deyil, odur cismi yaradan,
 Münəccimlər qalmış bu işə heyran.
 
-Yerdən göyə Kimi, günəşdən aya
+Yerdən göyə kimi, günəşdən aya
 Bitməz səxavəti, heç gəlməz saya.
 
 Bir muzd istəmədən ruzi bəxş edər,
 Yaqut olur daşlar, istəsə əgər.
 
 Uçan quşdan tutmuş qarışqayatan
-Kimsə əbədi qəm çəmıəyib, inan.
+Kimsə əbədi qəm çəkməyib, inan.
 
-Keçər hər günahdan verərıcən nemət,
+Keçər hər günahdan verərkən nemət,
 Əlindən yapışar heyran qalan vəqt.
 
-Ona şükr etməyə olarıcən asi,
+Ona şükr etməyə olarkən asi,
 "Ayıl!" deyə, verər qulaqburması,
 
 Bütün yaranmışlar, bir diqqət eylə,
@@ -108,14 +108,14 @@ Təğyir tapır ancaq onun hökmüylə.
 Rahatlıq, əziyyət - budur qismətin,
 Bəzən yoxsul edər, bəzən də zəngin.
 
-Bu dünyanın vardır İkicə rəngi:
+Bu dünyanın vardır ikicə rəngi:
 Bəzən rumlu olur, bəzən də zəngi.
 
 Bəzən zülm evini o bərbad edər,
-Bunun Kədəriylə onu şad edər.
+Bunun kədəriylə onu şad edər.
 
 Lahurlutək söylə tusluya sən də:
-"itin bayramıdır eşşəx öləndə."
+"İtin bayramıdır eşşək öləndə."
 
 Hər rast gələn qismət şadlıq olmaz, bil,
 Hər yerə döşənən bir xalı deyil.
@@ -124,7 +124,7 @@ Belə ruzi verir o pərvərdigar,
 Bu ruzi gah dərman, gah da dərd olar.
 
 Hər işə qanedir ağıllı insan,
-Payı ya gül olsun, ya da Kİ, tiıcan.
+Payı ya gül olsun, ya da ki, tikan.
 
 Zamanın Cəmşidi - dünya günəşi
 Örtüb çadırıyla Bənatünnəşi.
@@ -135,68 +135,68 @@ Həm özü başçıdır, həm də tacı var.
 Dərgahında onun guşədir cənnət,
 Dövlət bağçasında bir otdur dövlət.
 
-Onundur balıqdan ayadəx cahan,
+Onundur balıqdan ayadək cahan,
 Hər bir şey, bil, ona əyandır, əyan.
 
-Bilir, gecə-gündüz ki rəngdədir,
+Bilir, gecə-gündüz iki rəngdədir,
 Gah şərbət paylayır, gah zəhər verir.
 
-Qara, ağ sifətli bu kohnə cahan
+Qara, ağ sifətli bu köhnə cahan
 Gah matəmli olur, gah toylu, inan.
 
 Şahın gəlinini aldısa torpaq,
 Gəlinləri çoxdur, nədən qorxacaq?!
 
-Fəıək onu aldı, ona əyandır:
+Fələk onu aldı, ona əyandır:
 Belə dostluqlardan şah tez doyandır.
 
 Yoxsa ondan yaxşı şahın həmdəmi,
-Tez doyan bir Könlün bundan nə qəmi?
+Tez doyan bir könlün bundan nə qəmi?
 
 Başqa gülüstana edər tamaşa,
 Ondan yaxşısıyla yatar baş-başa.
 
 Hayıf, hayıf, o büt qalmadı, getdi.
-Yerdə qalanlar öz Keyfıni etdi.
+Yerdə qalanlar öz keyfini etdi.
 
-Ey qəlbi nazik şah, incimə bundan.
-Xoşdur xəznə olsa toıpaqda nihan.
+Ey qəlbi nazik şah, incimə bundan,
+Xoşdur xəznə olsa torpaqda nihan.
 
-Çətindir qəm фəkmək, qəm eyləmə sən,
+Çətindir qəm çəkmək, qəm eyləmə sən,
 Əlhəzər eyləyir torpaq da qəmdən.
 
 Qəmdən inciyərlər tez nazəninlər,
-Nazik təbiətçün yaramaz Kədər.
+Nazik təbiətçün yaramaz kədər.
 
-Yaxşısı budur Kİ, Məryəmi unut,
-isaya dönsən də, qayıtmaz vücud.
+Yaxşısı budur ki, Məryəmi unut,
+İsaya dönsən də, qayıtmaz vücud.
 
 Nazəninin yeri olsa da taxta
 Vida demək olmaz o taca, taxta.
 
-Bəsdir, qan ağlama, keyгmə başla,
+Bəsdir, qan ağlama, keyfinə başla,
 Qəmə tutularsan, bu qəmi boşla.
 
 O, qurbanın oldu, sən olma qurban,
 Bürünmə qəmlərə, olma pərişan.
 
 Kəs daha naləni, əziyyət yetər,
-Məlumdur: ölülər səbr ehnək sevər,
+Məlumdur: ölülər səbr etmək sevər,
 
-insanın vücudu puç olsa artıq.
+İnsanın vücudu puç olsa artıq,
 Nə yoxsulluq yarar, nə hökmüdarlıq.
 
 Quruyan çeşməyçün yanma bir belə,
 Nə olar Dəclədən getsə bir gilə!
 
 Cəmşid camını al, qəm vaxtı deyil,
-Olmasın Bağdadda bir kohnə zənbil.
+Olmasın Bağdadda bir köhnə zənbil.
 
 Onsuz oyaq qəlbin yatsın qoy bir az,
-Gözdən uzaq olan Könüldə qalmaz.
+Gözdən uzaq olan könüldə qalmaz.
 
-Bir sərv yox oldusa dünya bağından.
-Əbədi yaşa Kİ, dünyaya cansan.
+Bir sərv yox oldusa dünya bağından,
+Əbədi yaşa ki, dünyaya cansan.
 
 Qəm yemə, gül, sevin, sağsan nə qədər,
 Başından bir tükü salmasın yellər.
@@ -207,26 +207,26 @@ Var olar hər bir şey, çünki varsan sən.
 Qiymətli dürrsən, dürr tək gərək,
 Ləlsən, yaxşıdır ləl ola tək.
 
-Günəş Kimi tək ol, axtarma bir əş,
-Cəmşidin dinində təx olur günəş.
+Günəş kimi tək ol, axtarma bir əş,
+Cəmşidin dinində tək olur günəş.
 
 Əgər cüt yaşarsa quşlar hər zaman,
 Sən simürğ quşusan, yalqız qal hər an.
 
 O gövhər getdisə, qəmlənmə dərin,
-Sən Kİ bir mədənsən, çoxdur gövhərin.
+Sən ki bir mədənsən, çoxdur gövhərin.
 
 Tayı tapılmayan bir baş yaxşıdır,
-Nadir gövhər Kimi bir daş yaxşıdır.
+Nadir gövhər kimi bir daş yaxşıdır.
 
-Bir ceyran yox oldu, səbr et, qəm yemə.
+Bir ceyran yox oldu, səbr et, qəm yemə,
 Çöldə ceyran çoxdur, tapılmaz demə.
 
 Xirməndən yox oldu şahın bir dəni,
 Ona qurban olsun göyün xirməni.
 
-Əgər gül yox oldu, tixanda nə var?
+Əgər gül yox oldu, tikanda nə var?
 Güllər açar yenə, gələr xoş bahar.
 
 Bir büt əskik oldu, Kəsra sağ olsun,
-Məryəmçün qəm yemə, isa sağ olsun."
+Məryəmçün qəm yemə, İsa sağ olsun."

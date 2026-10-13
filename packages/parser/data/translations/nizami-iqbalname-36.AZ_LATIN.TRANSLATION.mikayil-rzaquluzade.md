@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -19,7 +19,7 @@ Könlüm cuşə gəlib qəmdən, qüssədən,
 Sazının telilə ram et onu sən!
 
 Günəş öz evinə edəndə şitab
-İstidən aslanlar oldular kabab " 7.
+İstidən aslanlar oldular kabab.
 
 Gücü, hərarəti artdı anbaan,
 Çirki, rütubəti sildi havadan.
@@ -43,15 +43,15 @@ Tüstülənən bir teşt vardı əlində,
 Gəzib od saçırdı o, Zəngdə, Çində.
 
 Yırtırdı aslantək iti caynağı
-Gah öküz sağrısı, gah gur dırnağı ^ 8.
+Gah öküz sağrısı, gah gur dırnağı.
 
 Yayın ən şiddətli, isti çağında,
 Daş muma dönəndə gün qabağında
 
 İskəndər gözündən qovub yuxunu,
-istədi Xırxıza çəksin qoşunu.
+İstədi Xırxıza çəksin qoşunu.
 
-Şah vida eylədi Çin xaqanma,
+Şah vida eylədi Çin xaqanına,
 Xəzinə, var-dövlət bəxş etdi ona.
 
 Yola rəvan oldu, Çini tərk etdi,
@@ -78,7 +78,7 @@ Ağır yük götürüb əldən düşərlər."
 Şahınsa çox idi saf qızılları,
 Odur ki, baxmadı gümüşə sarı.
 
-Ancaq ki neyləsin, güc gəldi tamalı,
+Ancaq ki neyləsin, güc gəldi tamah,
 Bir neçə dəvəni yüklətdi padşah.
 
 Yel kimi keçsə də yolu çaparaq,
@@ -97,7 +97,7 @@ O yer tutulmuşdu belə bir dərdə,
 Çökmüşdü torpağa qara bir pərdə.
 
 Harda ki, içməli bir çeşmə vardı,
-içində su ilə civə qaynardı.
+İçində su ilə civə qaynardı.
 
 Su civə üstündə tutmuşdu qərar,
 Ordan cürətlə su içirdi onlar.
@@ -111,7 +111,7 @@ Heç kimsə əyilib içməzdi ondan.
 Bilməyib içsəydi bir adam əgər,
 Onu öldürərdi sudakı zəhər.
 
-Şalı bunu biləndə, tez verdi fərman:
+Şah bunu biləndə, tez verdi fərman:
 Hamı ayıq olsun su içən zaman!
 
 Hər kim axar sudan istəsə içmək
@@ -160,7 +160,7 @@ Bu dağdan o yana vardır bir diyar,
 Sonsuz bir səhradır, sərt qayalıqlar.
 
 Oranı yəcuclar etmişlər məskən,
-insana bənzərlər, divdirlər əslən!
+İnsana bənzərlər, divdirlər əslən!
 
 Şirtək almazcaynaq, sərt, dəmirürək.
 Hamısı xaindir yırtıcı qurdtək.
@@ -169,7 +169,7 @@ Təpədən dırnağa tükləri biz-biz,
 Yoxdur üzlərində burundan bir iz,
 
 Boyları bir qarış, yeməkləri çox.
-istidən, soyuqdan qorxuları yox;
+İstidən, soyuqdan qorxuları yox;
 
 Dişdən, dırnaqdan da - yırtıcı heyvan.
 Qana hərisdirlər onlar hər zaman.
@@ -196,7 +196,7 @@ Bir xırman başqa ot versən də əgər,
 Yeyərlər, yenə də doymaq bilməzlər.
 
 Ayla Gün səmada üz-üzə gəlcək
-Onlar qaynaşarlar xırda qıırdlartək.
+Onlar qaynaşarlar xırda qurdlartək.
 
 Nə düşsə, qorxusuz tutub yeyərlər
 Bu sayaq, Ay yarı olana qədər.
@@ -234,7 +234,7 @@ Yeyərlər nə qədər azuqəmiz var.
 Bu itsifətlərdən qorxduğu qədər
 Canavardan qorxmaz bizim sürülər.
 
-Bizləri qınnaqçın edərlər qovğa,
+Bizləri qırmaqçın edərlər qovğa,
 Didərgin salarlar yurddan uzağa.
 
 Biz uca dağlara qaçıb qorxudan
@@ -286,7 +286,7 @@ Başqa bir atlı da qoyun tutanda
 Onu bərk qızdırma tutdu bir anda.
 
 İskəndər: "Bax, bunlar ibrətdir", deyə,
-Əlini vunnadı orda heç nəyə.
+Əlini vurmadı orda heç nəyə.
 
 Qoşuna əmr edib şah dedi: "Heç kəs
 Özgənin bağına toxuna bilməz!"
@@ -343,7 +343,7 @@ Dedilər: "Başına tac qoyan allah
 Ömrünü payidar eləsin, ey şah!
 
 İşində haqq sənə havadar olsun,
-Şöhrətli adma hünər yar olsun!
+Şöhrətli adına hünər yar olsun!
 
 Bizim güzəranı sordu hökmüran,
 Buyurub dinləsin, biz edək bəyan:
@@ -360,7 +360,7 @@ Düzlükdən başqa yol tanımırıq biz.
 Əyrilik yoluna çəkmişik hasar,
 Düzlüklə olmuşuq əzabdan kənar.
 
-Yalan gətinnərik biz dilimizə,
+Yalan gətirmərik biz dilimizə,
 Əyri yuxular da görünməz bizə.
 
 Faydasız etmərik heç sorğu-sual.
@@ -370,7 +370,7 @@ Allahdan nə gəlsə, edərik şükür,
 Çünki narazılıq naşükürlükdür.
 
 Biz razı qalarıq nə gəlsə həqdən,
-Düşmənlik edənni pərəstiş edən?
+Düşmənlik edərmi pərəstiş edən?
 
 Acizin dərdinə edərik çara,
 Xilas eyləyərik düşərsə dara.
@@ -406,7 +406,7 @@ Kim dərsə bir sünbül bizim əkindən,
 Qəfil bir ox dəyər düz ürəyindən.
 
 Biz əkin zamanı səpərək dəni,
-Flaqqa tapşırarıq sonra əkini.
+Haqqa tapşırarıq sonra əkini.
 
 Altı ay olarıq əkindən uzaq,
 Bir də biçin vaxtı gələrik ancaq.
@@ -465,7 +465,7 @@ Bilirik bu, dərdə bir çarə olmaz.
 Üzə deyilməyən bir sözü heç kəs.
 Bizlərdə qaydadır, daldada deməz.
 
-Kim nə cür dolanır, danışmarıq biz.
+Kim nə cür dolanır, danışmarıq biz,
 Kimsənin işinə qarışmarıq biz.
 
 Naşükür deyilik qismətimizə,
@@ -502,7 +502,7 @@ Bunlar şövkət vermiş aləmə, yəqin
 Sütunu bunlardır bütün aləmin.
 
 Düz yaşayış yolu budursa əgər,
-insan bunlardırsa, bəs nəyik bizlər?
+İnsan bunlardırsa, bəs nəyik bizlər?
 
 Bizi haqq göndərib çölə, dənizə,
 Qəsdi göstərməkmiş bunları bizə.
@@ -514,7 +514,7 @@ Bunları əvvəldən görsəydim əgər,
 Dünyanı bu qədər gəzməzdim hədər.
 
 Tapardım özümə dağda bir kaha,
-ibadət eylərdim orda allaha.
+İbadət eylərdim orda allaha.
 
 Bunlartək asudə ömr edərdim mən,
 Dinim də olardı həmin bu dindən!.."
@@ -529,7 +529,7 @@ Qayıtdı geriyə ordan fərəhlə,
 Qoşunu dəniztək yönəltdi çölə.
 
 Bayraqlar qaldırdı rum ipəyindən,
-A xara geyindi sanki çöl-çəmən!
+Al xara geyindi sanki çöl-çəmən!
 
 Tutdu qarışqatək qoşun hər yanı -
 Dərəni, təpəni, düzü, ormanı...

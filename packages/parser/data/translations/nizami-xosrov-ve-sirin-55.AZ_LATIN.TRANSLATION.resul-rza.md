@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -16,7 +16,7 @@ Sarayın əhlindən, mərhəm bir nəfər
 Şaha əhvalatı tez verdi xəbər.
 
 "Şirinin eşqindən, - söylədi, - heyhat,
-El ağzına düşüb sənəücar Fərhad.
+El ağzına düşüb sənətkar Fərhad.
 
 Başına vurmuşdur sevda, məhəbbət,
 Səhraya salmışdır onu nəhayət.
@@ -24,7 +24,7 @@ Səhraya salmışdır onu nəhayət.
 Düşüb sevdasına o gözəl bütün,
 Ayaqyalın gəzir çölləri bütün.
 
-Şirinin eşqindən Könlü dolu qəm,
+Şirinin eşqindən könlü dolu qəm,
 Bu işdən xəbərdar olmuşdur aləm.
 
 Qocadan, cavandan çəkinmir bir an,
@@ -36,25 +36,25 @@ Onu görməyi də səadət sanır.
 O gümüş qamətə elə vurğundur,
 Şirinçün özünü tamam unudur.
 
-Hər həftə qəsrinə aparır salam.
+Hər həftə qəsrinə aparır salam,
 Ondan razı qalır alınca peyam."
 
-Xosrov eşidəndə bu hekayəh
+Xosrov eşidəndə bu hekayəti
 Yenidən oyandı öz məhəbbəti.
 
 Pəhləvan üz-üzə cüt gələ - xoşdur,
 Cüt bülbül oxuya bir gülə - xoşdur.
 
-Bir şeyə olanda İKİ müştəri
+Bir şeyə olanda iki müştəri
 Əlbəttə, o şeyin artar dəyəri.
 
 Bu işdən, doğrusu, çox sevindi şah
 Ki, bir yazıq oldu onunla həmrah.
 
 Bir yandan da qeyrət təsir edirdi,
-Çünxi o qeyrətli-öndə gedirdi.
+Çünki o qeyrətli-öndə gedirdi.
 
-Bilmirdi Kİ, necə versin sorağı,
+Bilmirdi ki, necə versin sorağı,
 Batmışdı palçığa sanki ayağı.
 
 Bədən xəstə olsa, belədir sonu,
@@ -76,21 +76,21 @@ Oturub bir neçə yaxın adamla,
 Bu zərlə nə sayaq nərd oynayım mən?
 
 Belə getsə, işim xarab olacaq,
-Qanmı tökümmü? Suçsuzdur ancaq.
+Qanını tökümmü? Suçsuzdur ancaq.
 
 Şahlıq elədiyim xeyli müddətdə
-istədim əngəlsiz olum işrətdə,
+İstədim əngəlsiz olum işrətdə.
 
-indi verdi o ay bayramdan xəbər,
+İndi verdi o ay bayramdan xəbər,
 Bir dəlini etdi mənə bərabər."
 
 Ağıllılar belə verdilər cavab:
-"Ey şah, gəl eyləmə Keyfıni xarab.
+"Ey şah, gəl eyləmə keyfini xarab.
 
 Taclı başlar səni qibləgah seçir,
 Şahlar torpağına hər an and içir.
 
-Sənin ömrün Kimi uzundur aləm,
+Sənin ömrün kimi uzundur aləm,
 Bəxtin var, gücün var, səninçün nə qəm?!
 
 Bu dəli haqqında belədir tədbir:
@@ -106,7 +106,7 @@ Yar nədir, dindən də azar yolunu,
 Ayırar Şirindən bu şirin onu.
 
 Çox gözlər qızıldan kor olar həmən,
-Qılınclar qızılla düşər Kəsərdən.
+Qılınclar qızılla düşər kəsərdən.
 
 Əgər belə tədbir olsa xeyirsiz,
 Onu daş çapmağa göndərərsiniz.

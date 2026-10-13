@@ -6,55 +6,55 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
 Sehrlər doğuran dərin düşüncə
-Gözəl gəlinimə bəzəx verincə.
+Gözəl gəlinimə bəzək verincə.
 
-Mənə təbrik gəldi hər aqil Kəsdən,
+Mənə təbrik gəldi hər aqil kəsdən,
 "Əqlin yolu birdir " xatırladım mən.
 
 Başladım bəxtimdən giley-güzara,
 Dedim bu gün hara, cavanlıq hara.
 
-Çoxlu ox atdığım zamanlar Keçdi.
+Çoxlu ox atdığım zamanlar keçdi.
 Heç biri hədəfə düz dəyməmişdi.
 
-Lakin bilirdim Kİ, gələr bir zaman
+Lakin bilirdim ki, gələr bir zaman
 Alıcısız qalmaz heç gövhərsatan.
 
-Belə beşikdə Kİ, olmuş zəmigar,
+Belə beşikdə ki, olmuş zərnigar,
 Pərdəsi dalında ay yox, günəş var.
 
 O qədər sevdilər, alqışlayaraq
 Göyə yüksəltdilər başını, bir bax!
 
-Vəd etdilər mənə çoxlu müik-mal,
-inanmaq mənimçün olmuşdu mahal.
+Vəd etdilər mənə çoxlu mülk-mal,
+İnanmaq mənimçün olmuşdu mahal.
 
-Çindən Kəsilməmiş gələn parçalar,
+Çindən kəsilməmiş gələn parçalar,
 Müşk iyindən başqa görməmiş qubar.
 
 Şaha layiq atlar qızıl cilovlu,
-Kəyani bəzəkiə boynu dopdolu.
+Kəyani bəzəklə boynu dopdolu.
 
 Xəznə alacaqdım hüzurda hədsiz,
-On nəfərdən çox qul, beşdən çox Kəniz.
+On nəfərdən çox qul, beşdən çox kəniz.
 
-Gör işim gül Kimi necə tez soldu,
+Gör işim gül kimi necə tez soldu,
 Necə atım çolaq, yüküm xar oldu.
 
 Əsərimi alan doydu ömürdən,
 Getdi zəmisini biçməmiş birdən.
 
 "Əfsus, əfsus" deyib bu zülmə, durdum,
-Özümə şam Kimi bir yara vurdum.
+Özümə şam kimi bir yara vurdum.
 
-Qəflətən bir qasid məktub gətirdi.
+Qəflətən bir qasid məktub gətirdi,
 Mənə salam verdi, salam yetirdi.
 
 Dedi: "Tez bir aylıq yola ol hazır,
@@ -63,17 +63,17 @@ Otuz ağaclıqda şah qurub çadır.
 Səni bir neçə gün görmək istəyir,
 Fürsəti fövt etmə, göstər bir tədbir."
 
-Bir Kağız göstərib dedi: "Al, şahdan
+Bir kağız göstərib dedi: "Al, şahdan
 Sənin dəvətinə yazılıb fərman."
 
-Məktubu başıma tərəf apardım.
+Məktubu başıma tərəf apardım,
 Üç yerindən öpüb, möhrü qopardım.
 
 Xilas oldu onu oxuyan zaman
 Açarım dəmirdən, dəmirim daşdan.
 
 Şahın qulluğuna getməkçün durdum.
-Atm yəhərinə qalxıb oturdum.
+Atın yəhərinə qalxıb oturdum.
 
 Sürdüm çölə tərəf tələsik atı,
 Dağlar, çöllər aşdım, açıb qanadı.
@@ -81,8 +81,8 @@ Dağlar, çöllər aşdım, açıb qanadı.
 Yürüşdə qoymuşdum maralı geri,
 Çatmazdı quşlardan mənə heç biri.
 
-Təbim də açmışdı yollarda qanad.
-Məndən oynaq idi altımdaki at.
+Təbim də açmışdı yollarda qanad,
+Məndən oynaq idi altımdakı at.
 
 Gedirdim qələmtək səcdə edərək,
 Başımla süpürüb yeri pərgartək.
@@ -93,13 +93,13 @@ Görürdüm gəlincə hər mənzilə mən
 Hər çeşmə başında içib təzə su,
 Təzə dua etdim şaha doğrusu.
 
-Hər dağdan, hər çaydan Keçib gedincən
+Hər dağdan, hər çaydan keçib gedirkən
 Bir peyğam alırdım şahın lütfündən.
 
 Getdiyim hər qədəm ürək açırdı,
 Keçdiyim torpaqlar ənbər saçırdı.
 
-Yolun əziyyəti sona çatıncən,
+Yolun əziyyəti sona çatırkən,
 Şahın büsatına çatıb, oldum şən.
 
 Qapıçı girərək, dedi: "Cahangir,
@@ -114,14 +114,14 @@ Xoş tale zahidi hüzura gətir."
 Dərgahdan çıxaraq tez bir xoşxəbər
 Dəryadan qəvvasa yetirdi gövhər.
 
-Məni apardılar şahın yanma,
-Ütarid yetişdi ay səhmanma.
+Məni apardılar şahın yanına,
+Ütarid yetişdi ay səhmanına.
 
 Günəştək parlayıb şah öz vaxtında,
 Oturdu Keyqubad Cəmşid taxtında.
 
-Fəıək hüzuruna olmuşdu təşnə,
-Qəməsi sancılmış aym döşünə.
+Fələk hüzuruna olmuşdu təşnə,
+Qəməsi sancılmış ayın döşünə.
 
 Tacının zinəti tutub cahanı.
 Qara qıra salıb o, Qeyrəvanı.
@@ -129,7 +129,7 @@ Qara qıra salıb o, Qeyrəvanı.
 Səmərqənddən tutmuş Seqseynə qədər
 Qulları durmuşdu belində kəmər.
 
-Qapısı açıqdır Karvana hər an,
+Qapısı açıqdır karvana hər an,
 Yük yükə söykənmiş hər yana baxsan.
 
 Səxalı əlindən almış hər nəfər
@@ -142,7 +142,7 @@ Göy qılınc dalğası dənizə bənzər,
 Qoynunda həm nəhəng, həm dürr gizlədər.
 
 Qızıl şah taxtının sayəsində, bil,
-Çox şahlar qoymuşdur başına əkш.
+Çox şahlar qoymuşdur başına əklil.
 
 Məclisində vardı behişt aləmi,
 Şərab göllərindən dolmuşdu gəmi.
@@ -151,7 +151,7 @@ Məclisində vardı behişt aləmi,
 Zöhrə mənzilinə yetirmiş səsi.
 
 Çalğıçı mizrabı telə vurardı,
-1pək Köynəkiilər koynək cırardı.
+İpək köynəklilər köynək cırardı.
 
 Müğənni düzəldib saz pərdəsini,
 Hər dəfə qaldırır bir nəğməsini.
@@ -165,20 +165,20 @@ Dillərdə Nizami yazan qəzəllər.
 Bir şirin avazla hey oxuyurlar,
 Çəngi yarasına məlhəm qoyurlar.
 
-Saqilər əlində mey camı dolub.
+Saqilər əlində mey camı dolub,
 Şahənşah mey içib, düşmən məst olub.
 
 Şaha söyləyəndə: "Gəlib Nizami,"
 Daha da şən oldu bu eyş əyyamı.
 
-Yalançı zahidtəx məni tutmadı.
+Yalançı zahidtək məni tutmadı,
 Haqqımda hörməti heç unutmadı.
 
-Müdara etməıcçün mənimlə o gün,
+Müdara etməkçün mənimlə o gün,
 Əmr etdi ortadan mey götürülsün.
 
-Saqiləri etdi xidmətdən azad.
-Çalanlar çəkildi, Kəsildi büsat.
+Saqiləri etdi xidmətdən azad,
+Çalanlar çəkildi, kəsildi büsat.
 
 Dedi: "Atıb meyi, çalğını təmiz,
 Məşğul olaq bu gün Nizamiylə biz.
@@ -193,25 +193,25 @@ Sonra Hacib gəlib dedi: "Yubanma!
 Ey bilik anası, tez gəl, dayanma!"
 
 Girirkən özümdə duydum bir rəşə,
-Zərrə gedən khş böyük günəşə.
+Zərrə gedən kimi böyük günəşə.
 
 Başımı, boynumu yerə əyərək,
 Dedim nisar edim bunları gərək.
 
-Öpüm ayağından, dedim, yer Kimi,
-Şah qalxdı yerindən fələkiər Kimi,
+Öpüm ayağından, dedim, yer kimi,
+Şah qalxdı yerindən fələklər kimi,
 
 Qucaqladı məni xoş təmənnayla
-Süleyman oynadı mən qarmcayla.
+Süleyman oynadı mən qarıncayla.
 
-Coşdum o vüqarı mən görən Kimi,
-Qucaqladım mən də İKİ aləmi.
+Coşdum o vüqarı mən görən kimi,
+Qucaqladım mən də iki aləmi.
 
-Heykə Kimi durdum hüzurunda mən,
+Heykəl kimi durdum hüzurunda mən,
 "Otur" buyurunca, oturdum həmən.
 
 Elə bil açdılar sınıq dilimi,
-Oldum şirinzəban bir tuti Kimi.
+Oldum şirinzəban bir tuti kimi.
 
 Danışdım verincə taleyim fürsət,
 Elə sözlər dedim, bəyəndi dövlət.
@@ -219,7 +219,7 @@ Elə sözlər dedim, bəyəndi dövlət.
 Etdim şaha layiq çoxlu nəsihət,
 Qapıları açan hər cür vəsiyyət.
 
-Sözlər Kİ, Rizvana çox xoş gələrdi,
+Sözlər ki, Rizvana çox xoş gələrdi,
 Cəhənnəm Maliki ona gülərdi.
 
 Bir çox zəfəranlı paludalardan
@@ -231,19 +231,19 @@ Açdım gülüşlərlə üzünü qəşəng.
 Mənim hər sözümə şah dedi: "Sağ ol,"
 Cəhalət yataraq, oyandı ağıl.
 
-Nəğməm saqilərin huşunu aldı.
+Nəğməm saqilərin huşunu aldı,
 Xanəndənin sözü ağzında qaldı.
 
 Bir ravi gələrək sonra dil açdı,
 Məclisə ağzından cavahir saçdı.
 
-Mən qalxdım ayağa, qoymadı ancaq.
+Mən qalxdım ayağa, qoymadı ancaq,
 And verib oturtdu, hörmətə bir bax!
 
 O gündən bu günə belə hörmətlə
 Hər yerdə oturdum bir şərafətlə.
 
-Xosrov hekayərş dinləyən zaman
+Xosrov hekayəmi dinləyən zaman
 Ağzına bal tökdü bu şirin dastan.
 
 Çatanda dastanın şirin yerinə
@@ -252,7 +252,7 @@ Mətləb gəlib çatdı "Xosrov - Şirinə."
 Əlini çiynimə qoyub hökmdar,
 Təhsiniylə məni etdi minnətdar.
 
-Bəyənib sözümün hər bir yerini.
+Bəyənib sözümün hər bir yerini,
 Çox tərif elədi "Xosrov - Şirini."
 
 Dedi: "Məharətlə qurdun bir bina.
@@ -265,40 +265,40 @@ Nə bir gül bu qədər verir xoş ətir,
 Nə bir bülbül bundan xoş nəğmə bilir.
 
 Oxuyanda beyt-beyt və bircə-bircə
-Sanxi zeytun yağı sürtdün iflicə."
+Sanki zeytun yağı sürtdün iflicə."
 
 Dedi: "Bir ipəyə bürünüb əsər
 Ki, nə od, nə də buz eyləyər əsər.
 
-Bir halva bişirdin yeməli, hahək,
+Bir halva bişirdin yeməli, baltək,
 Hər kəs bir pay yesə, "sağ ol" deyəcək.
 
-Nə süd əsirgədin, nə də Kİ şəxər,
-Odur Kİ, paludən xoşdur bu qədər.
+Nə süd əsirgədin, nə də ki şəkər,
+Odur ki, paludən xoşdur bu qədər.
 
 Kəcavəsi şirin, duvağı şirin,
 Gəlinini gördük, gözəldir Şirin.
 
-Sən Kİ onu etdin bizimçün halal,
+Sən ki onu etdin bizimçün halal,
 Necə qiymətlənər o saçlar, o xal!
 
-Öz qardaşım Kimi, ana südütək
-Sənə maaş Kəsəm bu gündən gərək.
+Öz qardaşım kimi, ana südütək
+Sənə maaş kəsəm bu gündən gərək.
 
-Qardaşım cahana olmuş hokmran,
+Qardaşım cahana olmuş hökmran,
 Onunçün deyilmiş: Cahan pəhləvan.
 
 Uzun zəhmətinin barı əsərə
 Necə əvəz verdi, söylə bir kərə?
 
-Eşitdim lütf edib fərman göndərib.
-Öz müikündən sənə İki Kənd verib.
+Eşitdim lütf edib fərman göndərib,
+Öz mülkündən sənə iki kənd verib.
 
-Onları aldınmı, o Kəndlər hanı?
+Onları aldınmı, o kəndlər hanı?
 Söylə, verdilərmi sənə fərmanı?"
 
 Gördüm cuşa gəlib səxa dəryası.
-istər bəzirgana çatsın ətası.
+İstər bəzirgana çatsın ətası.
 
 Abad etmək istər viran torpağı
 Azad etmək istər yazıq dustağı.
@@ -312,7 +312,7 @@ Oxuyandan sonra şaha dualar,
 "Bu daş-qaşlı tacın yaqutunu mən
 Müzd üçün düzmədim, doğrusu, bilsən!
 
-Bir saray hördüm Kİ, hündür, pürvüqar,
+Bir saray hördüm ki, hündür, pürvüqar,
 Heç onun tayını görməyib ruzgar.
 
 O saraya vurdum bir xeyli zinət,
@@ -321,49 +321,49 @@ Kim oxusa mənə göndərsin rəhmət.
 Bu şirin hekayə, gözəl əfsanə
 Şahı tərif üçün olmuş bəhanə.
 
-Şaha şüxr etməkçün dil açanda mən
-Nə layiq söz açam şirin şəxərdən.
+Şaha şükr etməkçün dil açanda mən
+Nə layiq söz açam şirin şəkərdən.
 
 "Bənna" hədisinə bənzər hekayəm,
 Çörəksizdi, turşu istərdi hər dəm.
 
-Kəıpic əvəzinə verəndə çörəx
-Turşudan əl çəkxıi saxitləşərək.
+Kərpic əvəzinə verəndə çörək
+Turşudan əl çəkdi sakitləşərək.
 
 Öz mal-dövlətindən Cahan pəhləvan
 Mənə çox vermişdi buyurduğundan.
 
-Elə Kİ, ömrünün gəmisi batdı,
+Elə ki, ömrünün gəmisi batdı,
 Məni yox, aləmi möhnətə atdı.
 
-Durarxən yerində səntəx şəhriyar,
-Öikələr bəzəyən bu şahzadələr,
+Durarkən yerində səntək şəhriyar,
+Ölkələr bəzəyən bu şahzadələr,
 
 Bazarım yenə də qızışar əlbət,
 Bəxşişlə əsərə çoxalar rəğbət.
 
-Iki şahdan bir Kənd verilsə əgər,
-Daha çox Kənd verər bu şahzadələr.
+İki şahdan bir kənd verilsə əgər,
+Daha çox kənd verər bu şahzadələr.
 
 Xəznə bəxş edən şah eşitdi sözü,
 Səhərtək gülərək açıldı üzü.
 
-Səmimi hissimi mənim duyaraq.
-Şah qəbul eylədi təkiifımi, bax!
+Səmimi hissimi mənim duyaraq,
+Şah qəbul eylədi təklifimi, bax!
 
-Mənim "həmdü sənam" xoşuna getdi.
-Həmdünyan Kəndini mənə bəxş etdi.
+Mənim "həmdü sənam" xoşuna getdi,
+Həmdünyan kəndini mənə bəxş etdi.
 
 Verdi öz əlimə yazılı fərman,
 Qızıl şahın möhrü üstündə əyan:
 
-"Biz bəxş eyləmişik bu Kəndi ona,
-Çatsın Nizaminin öz övladma.
+"Biz bəxş eyləmişik bu kəndi ona,
+Çatsın Nizaminin öz övladına.
 
 Əvəzsiz verilmiş ona bu dövlət,
-Qiyamətə Kimi onundur, əlbət,
+Qiyamətə kimi onundur, əlbət.
 
-inanmasa buna bir Kimsə mötucəm,
+İnanmasa buna bir kimsə möhkəm,
 Onun düşməniyəm, allah da həkəm.
 
 Ona ziyan vursa əgər bir xəsis,
@@ -372,41 +372,41 @@ Vəhşət olacaqdır qisməti şəksiz.
 Zəmanə durduqca özü, övladı
 Lənətə rast gəlsin, qalxsın fəryadı."
 
-Düzəldkdə işi fəqirin o gün
+Düzəldikdə işi fəqirin o gün
 Qapısını açdı xəznənin bütün.
 
 Bəzəndi qamətim şah xələtiylə,
 Qəlbim də allahın mərhəmətiylə.
 
-Bəxşişindən mənə verərəx fərman
+Bəxşişindən mənə verərək fərman
 Mürəxxəs eylədi öz hüzurundan.
 
-Şah yanma getdim Məsud baxtıyla,
+Şah yanına getdim Məsud baxtıyla,
 Yanından qayıtdım Mahmud taxtıyla.
 
-Getdim, Kəbəyə mən həccaq Kimi san,
-Gəldim, sanxi Əhməd döndü meracdan.
+Getdim, Kəbəyə mən həccaq kimi san,
+Gəldim, sanki Əhməd döndü meracdan.
 
-Eşitdim Kİ, paxıl, gizlin cibxəsən,
+Eşitdim ki, paxıl, gizlin cibkəsən,
 Sən onların işin yaxşı bilirsən.
 
-Surət Yusif Kimi, batin canavar,
+Surət Yusif kimi, batin canavar,
 Paxlavada verər zəhəri onlar.
 
 "Onlar heç bilərmi qədir, ey dünya?!
 Edirsən onlara bir fərman rəva,"
 
-Bir gəlin Kİ, ona qul ola göylər
-Bir xaraba Kəndə layiqdir məgər?
+Bir gəlin ki, ona qul ola göylər
+Bir xaraba kəndə layiqdir məgər?
 
-Kənd demə, andırır dar bir Kürəni,
+Kənd demə, andırır dar bir kürəni,
 Yarımca ağacdır uzunu, eni.
 
 Gəlirindən artıq onun xərci var,
 Əkər yarılığa onu abxazlar.
 
-Sahibsiz, Kədərli bir xərabədir,
-Müsəlman bişirir, Kafirlər yeyir."
+Sahibsiz, kədərli bir xərabədir,
+Müsəlman bişirir, kafirlər yeyir."
 
 Paxılıma dedim: "Bunu bil, yəqin,
 Küfranı nə lazım nemət yeyənin?
@@ -415,49 +415,49 @@ Oğru, lağım atan, de görüm, niyə
 Mehtabtək düşürsən bu viranəyə?
 
 Sən bir həmdimə bax, "Həmdünyan" deyil,
-Bir həmdim yaxşıdır beş-on Kənddən, bil.
+Bir həmdim yaxşıdır beş-on kənddən, bil.
 
-Iş və əkm varsa o Kənddə əgər,
+İş və əkin varsa o kənddə əgər,
 Mənim hər sözümdən behişt göyərər.
 
-Dənli sünbülü var, o Kəndin, nə qəm.
+Dənli sünbülü var, o kəndin, nə qəm,
 Mən də salxım-salxım dürr gətirmişəm.
 
-Gur meşəsi vardır, söyləsən bu dəm.
+Gur meşəsi vardır, söyləsən bu dəm,
 Var qəmari uddan mənim yüz meşəm.
 
 Onun buludundan axırsa Fərat,
 Mənim dodağımda var abi-həyat.
 
-Görünürsə indi xərabə, bərbad.
+Görünürsə indi xərabə, bərbad,
 Şahın dövlətindən olacaq abad.
 
-Qiymətli xəzinə öikədir, inan!
+Qiymətli xəzinə ölkədir, inan!
 Mən ucuz deyiləm qara torpaqdan.
 
 Lakin bu qiymətə qaneyəm yenə,
-Şükriim var allahın mərhəmətinə.
+Şükrüm var allahın mərhəmətinə.
 
-Müık üçün etmirəm təşəkkürü mən,
+Mülk üçün etmirəm təşəkkürü mən,
 Ancaq ruhlanıram halal gəlirdən.
 
 Bir xalvar sədəfdən yaxşıdır bir dürr,
-Tufandan bir azca saf su üstündür,
+Tufandan bir azca saf su üstündür.
 
-istəyirdi on Kənd bağışlasın şah,
+İstəyirdi on kənd bağışlasın şah,
 Xidmətim layiqdi bunlara, billah!
 
 Şah gördükdə vardır məndə qənaət,
-istəyimə görə verdi vilayət.
+Istəyimə görə verdi vilayət.
 
-Dilimdə min dua, Könlümdə hümmət,
+Dilimdə min dua, könlümdə hümmət,
 Hər gecə qazancım saysız var-dövlət.
 
-Hər gecə mərdanə qılınc çəkəi'ək,
+Hər gecə mərdanə qılınc çəkərək,
 Dilimdə allaha dua edərək,
 
-Cəngavər Kişitək şücaətlə mən
-Vururam Kafərin boynunu həmən.
+Cəngavər kişitək şücaətlə mən
+Vururam kafərin boynunu həmən.
 
-Mənim Kİ, mən şadam, bəxş edən razı,
-Boşla fıizulluğu, kəs bu avazı!"
+Mənim ki, mən şadam, bəxş edən razı,
+Boşla füzulluğu, kəs bu avazı!"

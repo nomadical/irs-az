@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -36,7 +36,7 @@ Etdi bu hikmətlə dünyanı abad.
 Nəhayət verincə ibadətinə,
 Şərab məclisini bəzədi yenə.
 
-Mey ilə, çalğıyla gah olurdu şad.
+Mey ilə, çalğıyla gah olurdu şad,
 Vəfalı dostları gah edirdi yad.
 
 Gülabdan saf olan gül rəngli şərab
@@ -79,120 +79,117 @@ Yaşamaq istəsən dünya uzunu,
 Get, keçir əlinə həyat suyunu!”
 
 Bu sözdən utandı məclis, qaldı mat,
-372 {?£&&&*
-
 Qaranlıq bir yerdə olurmu həyat?
+
 Şah dedi: “Yoxsa var başqa bir hikmət?
-
 Həyat çeşməsində olan bu zülmət.
+
 Yazılmış hərflər qarasıdır bu,
-
 Mənəvi həyata can verir suyu.
+
 Kim görmüş yoxsa bu həyat suyunu,
-
 Zülmətdə ölümdən qurtarsın onu!”
+
 O qoca dedi: “Ey uca tacidar!
-
 Bu sudan uzaqdır dediyin əsrar.
+
 Var Şimal qütbündə qaranlıq bucaq,
-
 Ağ, gümüş çeşməsi hər sudan parlaq.
+
 Bu qaranlıq yerə deyirlər zülmat,
-
 O zülmət içində var abi-həyat”.
+
 O suyu kim içsə olur qəlbi şən,
-
 Qurtulur ölümdən və xəstəlikdən.
+
 Sözümdə azacıq olsa şübhəniz,
+Soruşun sınaqlı qocalardan siz!”
 
-Soruşun smaqlı qocalardan siz!”
 İskəndər bu sözə heyrət etdikcə,
-
 Aramaq marağı artdı getdikcə.
+
 Sordu ki: “Bu zülmət harda?” Göstərən
-
 Göstərdi padşaha: “Bax, bu sağ əldən
+
 Qaranlıq ölkəyə qısa yol gedir,
-
 Gəldiyin bu yolun onda biridir”.
+
 Eşidincə bunu şah dedi: “Ancaq
-
 Zülmətdə mümkündür işığı tapmaq”.
+
 Zülmata çevirdi şah öz yolunu,
-
 Gedərkən nəzərə aldı ordunu.
+
 Sürətlə bir neçə mənzil at sürdü,
-
 Əsgərin bir çoxu xəstədir, gördü.
+
 Ardınca axırdı bir dünya ordu,
-
 Xaslar da yanında alay vururdu.
+
 Ordu bazarını görən bir insan
-
 Seçməzdi məhşərin bazarlarından.
+
 O yerdə quş südü arayan belə,
-
 Ordu bazarında gətirdi ələ.
+
 Hər quraq bir yerə çatdı İskəndər,
-
 Yağışdan yaşıla büründü çöllər.
-Xızır iz salmışdı sa nk i bu yola,
 
+Xızır iz salmışdı sanki bu yola,
 Yainki gedirdi şahla qol-qola.
+
 Ordu çoxluğundan şah getdi fikrə,
-
 Belə yol getməkdə sığındı səbrə.
+
 O çöldə vardı bir böyük mağara,
-
 Padşahın ordusu çatınca ora,
+
 Ordunun yanında nə qədər yük var,
-
 Mağara yanında yerə qoydular.
+
 O geniş çöllərdə saldılar məskən,
-
 Şənlikdən viranə çöllər oldu şən.
+
 Çölbəyi o yerə ad verdi: Bünğar,
-
 Get-gedə o şəhər adlandı Bulğar.
+
 Bu gün o ölkədə rəyasət sürən,
-
 Yerləşib qalandır şah səfərindən.
+
 İskəndər görüncə o saysız ordu
-
 Yol və iz bilməyir, bir tədbir qurdu.
+
 Ordudan ayrıldı bir neçə əyyar,
-
 İstidən, soyuqdan, çıxmış oxçular,
+
 Ürəkli, sümüyü bərk, dəliqanlı,
-
 Səbirli, qüvvətli, gənc, polad canlı.
+
 Əmr etdi qocaya və xəstələrə:
-
 Əsgərlə çıxmasın ağır səfərə!
+
 Qocalar, xəstələr bu qorxunc yerdə,
-
 Dolaşıq yollarda düşməsin dərdə.
+
 O yola - qocasız etdilər səfər,
-
 Qocalar oturdu, yol aldı gənclər.
+
 Bir nəfər o yerin ayıqlarından
-
 Hüzura istədi ulu hökmüran.
+
 Yox idi ordunun sayı, miqdarı,
-
 Hər mənzil başında qoydu onları.
+
 Şor, şirin hər azıq çarpsa nəzərə,
-
 Yüklətdi qüvvətli, gənc dəvələrə.
+
 Qoşunla at çapdı qaranlıq suya,
-
 Bir naib tikdi o, qalan orduya.
+
 Onlara nəsihət elədi bir az:
-
 “Bu yerdə qəflətlə göz yummaq olmaz!”
-Atmı Şimala doğru çaparaq,
 
-ı
+Atını Şimala doğru çaparaq,
 Günəş gərdişindən şah düşdü uzaq.
 
 Fələyin qütbündən doğunca işıq,
@@ -207,8 +204,8 @@ Yalnız bir xəyaldı gözlə görünən.
 Sürdülər kölgəlik deyilən yerə,
 Sançdılar bayrağı kölgəliklərə.
 
-Flavadan işığı yer qapmış artıq,
-Flər yerə hakimdi dərin qaranlıq.
+Havadan işığı yer qapmış artıq,
+Hər yerə hakimdi dərin qaranlıq.
 
 Bu yandan ətrafı qaranlıq tutmuş,
 O yandan yol-izi bir dəniz udmuş.
@@ -217,12 +214,12 @@ Ağlıyla bu yolu tutaraq rəhbər,
 Xətti-üstüvayə qarşı getdilər.
 
 Get-gedə pərgardan olduqca uzaq,
-Günəşdən, işıqdan düşdülər İraq.
+Günəşdən, işıqdan düşdülər iraq.
 
 Gedərkən bir yerə çatdılar o gün,
 Gözlərdən aydınlıq itdi büsbütün.
 
-Flər yandan yolları bürüdü zülmət,
+Hər yandan yolları bürüdü zülmət,
 Bu dünya qaralsa verərmi ləzzət?
 
 İskəndər şaşırdı, aradı tədbir:
@@ -246,67 +243,64 @@ Zəncinin yerinə keçdi kəşmirli.
 Getdikcə yol oldu tükdən də incə,
 Zülmətdən qurulmuş qaranlıq gecə.
 
-Flər kişi qayıtdı öz mənzilinə,
+Hər kişi qayıtdı öz mənzilinə,
 Bu işə bir tədbir düşündü yenə.
 
-«■«äe-g^gı
 Bir igid gənc vardı, ağılca ulu,
-
 Saf, işıq ürəyi şəfqətlə dolu.
+
 Atası qocaydı, doxsan yaşı var,
-
 Bədən ağrısından sızlayıb ağlar.
+
 O gün ki, padişah vermişdi əmr:
-
 “Çıxmasın bu yola xəstə ilə pir!”
+
 Gənc oğlu vurğundu xəstə ataya,
-
 Necə ki, bir xəstə göynər almaya,
+
 Qocanı özüylə aldı bərabər,
-
 Necə ki, başqalar yaqutu gizlər,
+
 Azıq sandığında gizlətdi onu,
-
 Onunla dolaşdı zülmət yolunu.
+
 Taleyin qoşundan küsdüyü gecə
-
 O gənci aldı bir dərin düşüncə.
+
 Gecəykən sandığı açdı o cavan,
-
 Etdi atasına o sirri bəyan:
+
 “Padişah səfərdən oldu peşiman,
-
 Çətinlik çəkməkdən qırılmış peyman.
+
 Qəlbinə bir qorxu salmış qaranlıq,
-
 Bir tədbir düşünə bilməyir artıq.
+
 Bələdçi olmadan gedir irəli,
-
 Bilməyir nə sayaq dönəcək geri”.
+
 Oğluna baxaraq dedi ixtiyar:
-
 “Bu qara pərdədə gizli bir sirr var.
+
 Padişah getməyə başlarkən ora,
-
 Zülmətdən dönməyə vardır bir çara:
+
 Padşaha gərəkdir ilk dəfə doğan,
-
 Vücudu sapsağlam boğaz bir madyan.
+
 Anadan olunca o körpə daylaq,
-
 Başını bir yerdə kəssinlər, ancaq
+
 Örtməyib qoysunlar yerdə cəmdəyi,
-
 Anası görüncə, yansın ürəyi,
+
 İçində qopsun bir həyəcan, hiddət,
-
 Durmasın padişah, etsin hərəkət.
+
 O yoldan geriyə döndüyü zaman
-
 Ordunun önündə gedəcək madyan.
-Çaparaq sevimli daylağa sarı,
 
-««gç&Sİ
+Çaparaq sevimli daylağa sarı,
 O yoldan beləcə çıxar dişarı.
 
 O yolda bələdçi olmadan belə,

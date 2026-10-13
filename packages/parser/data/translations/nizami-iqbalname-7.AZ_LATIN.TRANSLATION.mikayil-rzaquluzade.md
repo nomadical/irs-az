@@ -6,17 +6,17 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
 status: DRAFT
 ---
 Nə gözəl günəşsən, ta uzaqlardan
-Edirsən bizimçin hər şeyi əyan,
+Edirsən bizimçin hər şeyi əyan.
 
-işıq cinsindəndir hərçənd ki, çıraq,
-işıqsız çıraq da görünməz ancaq.
+İşıq cinsindəndir hərçənd ki, çıraq,
+İşıqsız çıraq da görünməz ancaq.
 
 Əsil tacidarlıq, düşün, yaxşı bil,
 Yüzlərcə tac yığıb saxlamaq deyil.
@@ -37,22 +37,22 @@ Kəyanlar köçüblər indi dünyadan,
 Yerləri boş deyil, sənsən hökmüran.
 
 Ölkədə bu xalqa rəhbər oldun sən,
-Fitrətin gözəldir sənin əzəldən,
+Fitrətin gözəldir sənin əzəldən.
 
-indi bu dünyada sənsən tacidar,
+İndi bu dünyada sənsən tacidar,
 Əlinlə tac qoyar başına şahlar.
 
 Çatmaz ədalətdə sənə Pişdad,
 Keyxosrov, Keykavus, nə də Keyqubad!
 
-Yeddi fıruzəli bu qəsrdə sən
+Yeddi firuzəli bu qəsrdə sən
 Haqqa, ədalətə vüsət vermisən.
 
 Bir qədəh mey verir sənə Nizami,
 Gərək nuş edəsən Keykavus kimi.
 
 Bu tusi qədəhlə Mahmuda bildir
-"Şahnamə"nin qədri-qiyməti nədir! 75
+"Şahnamə"nin qədri-qiyməti nədir!
 
 İki xəzinənin varisi, hökmən,
 Səxavətdə sənsən, söz deməkdə mən.
@@ -64,7 +64,7 @@ Mən elə söz dedim - deməmiş heç kəs,
 Bir iş gör - olmasın ona heç əvəz.
 
 Mənə əqlim çatıb bu işdə dada,
-Müvəffəq olasan sən oxumaqda,
+Müvəffəq olasan sən oxumaqda.
 
 yar etsək bu iki gözəl niyyəti,
 Birə on artacaq sözün qiyməti!
@@ -75,8 +75,8 @@ Sənin eyvanını qəndiltək bəzər.
 Məclis qur, bu meylə doldur kasanı,
 Şöləsi, nəşəsi durultsun qanı.
 
-Sən mey iç, gətinnə heç bir bəhanə,
-Ağzım möhürlüdür üz vunna mənə.
+Sən mey iç, gətirmə heç bir bəhanə,
+Ağzım möhürlüdür üz vurma mənə.
 
 Damağın çağ olsun, bəxtin də cavan,
 Cahanda olasan Cahan pəhləvan.

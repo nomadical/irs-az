@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -117,10 +117,10 @@ Tərpənsəm, yerindən oynar dağ, qaya.
 Alçaqda yatarmı ovçu bir şahin,
 Altına coşğun sel, ya ki, su keçsin?
 
-Bir tükün kinlə baş qaldırsa orda.
+Bir tükün kinlə baş qaldırsa orda,
 Yüz başı bir tükdən asaram burda.
 
-Dağ-daşm qıhnctək olsa da kəskin,
+Dağ-daşın qılınctək olsa da kəskin,
 Qılıncım köhülə çevirər, çəkin.
 
 Qızılçün gəlmədim Hind ölkəsinə,
@@ -132,7 +132,7 @@ Xarəzmin günəşi daha parlaqdır.
 Əldə Hind qılıncı gəldim “Hind” deyə,
 Sərxoş fil ətindən kabab yeməyə.
 
-Yemə Hind xəracı məni anmadan.
+Yemə Hind xəracı məni anmadan,
 Ürəyim hindli bir poladdır, inan!
 
 Başını sevirsən, gəl mənə ver bac,
@@ -148,7 +148,7 @@ O kəskin sözləri Keyd eşidincə,
 Qorunmaq fikrilə çəkindi öncə.
 
 O gecə görmüşdü qarışıq yuxu,
-Üozmaqdan canına düşmüşdü qorxu.
+Yozmaqdan canına düşmüşdü qorxu.
 
 Bilirdi: İskəndər olmuş cahangir,
 Fələkdir hər işdə onunla əlbir.
@@ -190,7 +190,7 @@ O mənə naz etsə, yalvararam mən,
 Narazı qalmasın öz bəndəsindən.
 
 Mənimlə döyüşü o lazım görsə,
-Atmı kin ilə üstümə sürsə,
+Atını kin ilə üstümə sürsə,
 
 Axaram o coşğun Nil ayağına,
 Ataram canımı fil ayağına.
@@ -264,7 +264,7 @@ Heç kəsdə tapılmaz belə bir dəsgah”.
 Bu istək coşdurdu onun qəlbini,
 Göz görmək istədi eşitdiyini.
 
-Töhfəni tez ələ almaq fıkriylə,
+Töhfəni tez ələ almaq fikriylə,
 Bir an da olsa səbr etmədi belə.
 
 Şirindil hindliylə uca hökmüran
@@ -273,7 +273,7 @@ Söylənən şərtlərlə bağladı peyman.
 Bəlinas və başqa kəslərlə yenə
 Göndərdi örtülü, ağır xəzinə.
 
-Göndərdi alması mum edən məktub.
+Göndərdi alması mum edən məktub,
 Bütün Hindistanı ram edən məktub.
 
 Yazıldı Keydə bu bir hökmürandan,
@@ -295,7 +295,7 @@ Bəlinas at çapdı bir an durmadan,
 Hind qərargahına çatdığı zaman
 
 Keydin saf qəlbini şən, parlaq gördü,
-Hindli hiyləsindan çox uzaq gördü.
+Hindli hiyləsindən çox uzaq gördü.
 
 Baş əydi, çünki o, bir tacidardır,
 Hörmətli taxtı, həm qurşağı vardır.

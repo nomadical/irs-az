@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -18,7 +18,7 @@ Bülbüllər bağlarda sakit dayanmaz.
 Qızışsın ürəyim sənin nəğmənlə,
 Mənim də lal könlüm qoy gəlsin dilə!
 
-Həmin dünyagönnüş filosof dedi:
+Həmin dünyagörmüş filosof dedi:
 "Bu hikmət şaha çox təsir elədi.
 
 Şadlığı mənasız görüb dünyada.
@@ -48,7 +48,7 @@ Atəşin önünə təzimlə gəldi.
 O parlaq günəşi təxt üstə görcək
 Ona səcdə etdi atəşpərəsttək:
 
-Şahın fənnanıyla xidmətçilər də
+Şahın fərmanıyla xidmətçilər də
 Onu oturtdular layiqli yerdə.
 
 Məclisdə yerdən ta göylərə qədər
@@ -105,7 +105,7 @@ Heç kəs qarışmasın söhbətimizə.
 Mən bir-bir soruşum, sən də ver cavab,
 Ancaq ki, xoşluqla etgilən xitab".
 
-Şah dedi: "Bəhanə axtanna nahaq,
+Şah dedi: "Bəhanə axtarma nahaq,
 Aç sirri, sual ver, biz qulaq asaq!"
 
 Hindli təzim ilə yeri öpərək,
@@ -138,7 +138,7 @@ Bu söz həm qısadır, həm də çox uzun.
 Özündən üzünü çevirən zaman
 Allahın yolunu tapmış olarsan!
 
-Ona yer axtannaq doğru sayılmaz,
+Ona yer axtarmaq doğru sayılmaz,
 Yeri yaradanın öz yeri olmaz.
 
 Heç kəs aça bilməz onun sirrini,
@@ -153,14 +153,14 @@ Xəyaldan doğan şey divlərdir ancaq.
 Bir şeyin əslinə çatarsa xəyal,
 Onun yaranması deyildir mahal.
 
-O şey ki, sığınayır insan ağlına,
+O şey ki, sığmayır insan ağlına,
 Dünyanı yaradan deyirik ona.
 
 Bu yolu qəflətlə getmək yaramaz,
 Bulud örtər Ayı, göz yumsan bir az.
 
 Haqqı tanımaqçın bəsdir bir nişan.
-Bura yetişdinmi, daha dur, dayan! 137
+Bura yetişdinmi, daha dur, dayan!
 
 Haqqı tanımaqçın bunlar deyil az,
 Allahı tanıyan bu həddi aşmaz.
@@ -189,7 +189,7 @@ Yoxsa səriştəni lap itirərsən.
 Bizə yeddi hüdud çəkmişdir fələk,
 Onlardan kənara çıxmayaq gərək.
 
-Bundan çıxma kənar, həddini tam,
+Bundan çıxma kənar, həddini tanı,
 Qılınc, teşt gözləyir kənar çıxanı.
 
 Bu uca barigah - uca bir hasar,
@@ -217,7 +217,7 @@ Hindli yenə sordu o hökmdardan:
 "Nə üçün ikiyə bölünmüş cahan?
 
 Bu cürə bəzəkli bir dünya varkən,
-Bir də başqa dünya axtannaq nədən?
+Bir də başqa dünya axtarmaq nədən?
 
 Yaşamaq olursa burada mümkün,
 Başqa bir dünyaya köçmək nə üçün?
@@ -231,7 +231,7 @@ Başqa bir dünyaya köçmək nə üçün?
 Düzdür, iki dünya yaratmış xuda.
 Xəzinə ordadır, açarı burda.
 
-Çalışıb nə əksən bu dünyada sən.
+Çalışıb nə əksən bu dünyada sən,
 Onun məhsulunu orda biçərsən.
 
 Burda bütün şeylər dəyişir hər an.
@@ -319,7 +319,7 @@ O sirr ki, başqası görər röyada
 Onlar ayıq ikən görər dünyada."
 
 Hindli yenə şahdan sual elədi,
-Gövhəri almazla deşərək dedi: 143
+Gövhəri almazla deşərək dedi:
 
 "Pis gözdən sən uzaq olasan, ey şah,
 Gəl elə bir məni pis gözdən agah.
@@ -342,7 +342,7 @@ Görmədik bir sözü, əməli dəqiq.
 Bircə o bəd nəzər oxunu atan
 Dümdüz nişanəyə vurur hər zaman.
 
-De görək bir, nədir ondakı qüvvət.
+De görək bir, nədir ondakı qüvvət,
 Neçin üzərriklə dəf olur afət?
 
 Nə bilim, birinə rast gəlsəm əgər,
@@ -361,7 +361,7 @@ Dəydiyi nöqtəyə göz salar bir iz,
 Hava da o yerə bir yol tapar tez.
 
 Əgər sağlam olsa hava bu zaman,
-Dəydiyi şeylərə yetinnəz ziyan.
+Dəydiyi şeylərə yetirməz ziyan.
 
 Yox, əgər olarsa havada zəhər,
 Dəydiyi hər şeyi yəqin məhv edər.
@@ -379,7 +379,7 @@ Bədnəzər, önündə gözəl şey görcək,
 Ona nəzər salıb cəza verəcək.
 
 Gözəl şey olmalı ondan uzaqda,
-Yolundan gözündən daim İraqda.
+Yolundan gözündən daim iraqda.
 
 Gözünə görünsə bir gözəl surət,
 Əz çirkin işinə başlar o əlbət.
@@ -406,16 +406,16 @@ Qara pərdə kimi tutur havanı,
 Qaytarır, rəf edir gələn bəlanı."
 
 Rumipərəst hindli doymaq bilmədi.
-Öz hind qılıncını çəkərək dedi: 144
+Öz hind qılıncını çəkərək dedi:
 
 "Yaxşını, yamanı, deyin, nə təhər
 Verir qabaqcadan münəccim xəbər?
 
 Bir əməl ki, üzə çıxmayıb hələ,
-Xoşluğu, bədiiyi gələrmi dilə?"
+Xoşluğu, bədliyi gələrmi dilə?"
 
 Diqqətlə yetirib hindliyə nəzər
-ilahi kəlamla dedi İskəndər:
+İlahi kəlamla dedi İskəndər:
 
 "Dünyada nə varsa - yaman və yaxşı.
 Göylərin tağına çəkilib naxşı.

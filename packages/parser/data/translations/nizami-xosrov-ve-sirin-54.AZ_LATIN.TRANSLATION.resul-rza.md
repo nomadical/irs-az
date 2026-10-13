@@ -6,35 +6,35 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
-Fərhad Kİ, Şirinə hrək bağladı.
+Fərhad ki, Şirinə ürək bağladı.
 Könlünü məhəbbət odu dağladı.
 
-Çox çətin Keçirdi onun ruzgarı.
+Çox çətin keçirdi onun ruzgarı.
 Qalmamışdı əldə heç ixtiyarı.
 
 Nə taqəti vardı hicran dəminə,
 Nə dözə bilirdi eşqin qəminə.
 
 Qəlbinin telləri hey sızlayırdı.
-Sanki ürəyində ney sızlayırdı,
+Sanki ürəyində ney sızlayırdı.
 
-işində rövnəq yox, bitmişdi sözü,
+İşində rövnəq yox, bitmişdi sözü,
 Taqətsiz - bədəni yuxusuz - gözü..
 
 Divtək insanlardan qaçaq gəzirdi.
-Xəstə adam Kimi naçaq gəzirdi.
+Xəstə adam kimi naçaq gəzirdi.
 
 Üz tutdu çöllərə, qaçdı dağlara,
 Gəlmişdi əlindən dağlar da zara.
 
-Bir gül budağıtək boynu qırıqdı.
-Köynəyi gül Kimi cırıq-cırıqdı.
+Bir gül budağıtək boynu qırıqdı,
+Köynəyi gül kimi cırıq-cırıqdı.
 
 Nalədən dönmüşdü şeyda bülbülə,
 Qəlbindəki düyün bir qönçə gülə.
@@ -42,10 +42,10 @@ Qəlbindəki düyün bir qönçə gülə.
 Nə vardı qəminə dünyada qəmxar,
 Nə dərdinə vardı yaxın havadar.
 
-Tikan yığmaq üçün o udqatdı,
-Ayaqdan thcantək mıxlar çıxartdı.
+Tikan yığmaq üçün o ikiqatdı,
+Ayaqdan tikantək mıxlar çıxartdı.
 
-Onu qorxutmurdu nə tkan, nə daş.
+Onu qorxutmurdu nə tikan, nə daş.
 Nə də qılıncından qaçırırdı baş.
 
 Ağlını əlindən almışdı hicran,
@@ -61,42 +61,42 @@ Bütün aramını sevgi almışdı,
 Bütün varlığını oda salmışdı.
 
 Nə su, nə dayənin adını bilən
-Susuz korpə Kimi edirdi şivən.
+Susuz körpə kimi edirdi şivən.
 
-Qəlbinin odunda beyni yanırdı.
-Bir gur çıraq Kimi alovlanırdı.
+Qəlbinin odunda beyni yanırdı,
+Bir gur çıraq kimi alovlanırdı.
 
 Yüz yerdən almışdı qəlbi yaranı,
 Ölümün ardınca gəzirdi canı.
 
 Bəlaya, möhnətə olmuşdu nişan,
-Saysız işgəncədən Könlü pərişan.
+Saysız işgəncədən könlü pərişan.
 
-İlan daşdan qorxar, qurd dəyənəkxiən,
-O qəmdən qorxurdu huşa gəlincən.
+İlan daşdan qorxar, qurd dəyənəkdən,
+O qəmdən qorxurdu huşa gəlirkən.
 
 Div dəmirdən qorxar, cadu südabdan,
 Fərhada qorxuncdu həm dost, həm düşman.
 
 Gözləri yaşlıydı, ürəyi nalan,
-Ciyəri yanmışdı Kədər odundan.
+Ciyəri yanmışdı kədər odundan.
 
-Hər gecə sübhədək qalırdı oyaq.
+Hər gecə sübhədək qalırdı oyaq,
 Dilində min nalə, ürəyində dağ.
 
-Ürək getmiş əldən, Könül qərarsız,
+Ürək getmiş əldən, könül qərarsız,
 Qəlbinin ardınca gedirdi yalnız.
 
 Şirinin eşqindən elə ağladı,
 Səsi ağac-ağac axdı, çağladı.
 
-Qəm ona munisdi, o da qəmlə şad.
-Bir xərabədəki xəznətəx abad.
+Qəm ona munisdi, o da qəmlə şad,
+Bir xərabədəki xəznətək abad.
 
 Əlacsız dərdinin dərmanı yoxdu,
 Bu qəmlər içində həyanı yoxdu.
 
-Belə xəstəlixdə yalnız qalaraq.
+Belə xəstəlikdə yalnız qalaraq,
 Tanışdan, yoldaşdan düşmüşdü uzaq.
 
 Elə bürümüşdü eşq onu, heyhat,
@@ -105,19 +105,19 @@ Unutmuşdu tamam özünü Fərhad.
 Nə verə bilirdi qəmindən xəbər,
 Nə də sifarişçün vardı bir nəfər.
 
-Şirin Kandarından toz gəlsə, bişəkk,
+Şirin kandarından toz gəlsə, bişəkk,
 Gözünə çəkərdi onu sürmətək.
 
-Şirinin yolunda görsə bir hkan,
-Opərək bağrına basardı haman.
+Şirinin yolunda görsə bir tikan,
+Öpərək bağrına basardı haman.
 
 Hər dəfə dilinə gələndə o ad,
-Toıpağı yüz dəfə öpərdi Fərhad.
+Torpağı yüz dəfə öpərdi Fərhad.
 
 Gendən baxan zaman qəsri-Şirinə
 Canını didərdi paltar yerinə.
 
-Vəhşi atlar Kimi çöldə qaçaraq.
+Vəhşi atlar kimi çöldə qaçaraq,
 Vəhşilərlə munis olmuşdu ancaq.
 
 Dünyanın toruna düşən heyvanlar
@@ -135,10 +135,10 @@ Gah da sığallardı şirin başını.
 Gündüz ceyranlara mehriban yoldaş,
 Gecə marallarla bir yaxın sirdaş.
 
-Çərxtək gecə-gündüz hey fırlanardı.
+Çərxtək gecə-gündüz hey fırlanardı,
 Ac-susuz qalaraq qəmdən yanardı.
 
-Baş alıb o yola çıxdığı zaman.
+Baş alıb o yola çıxdığı zaman,
 Bir ay yol gedirdi bir an durmadan.
 
 Qabağına əgər çıxsa yüz divar,
@@ -150,8 +150,8 @@ Yenə yumulmazdı göz qapaqları.
 Yolda qabağına çıxsaydı quyu,
 Yıxılar, görməzdi qarşıda suyu.
 
-Hansı Kef ayırsa yarm qəmindən.
-Qəlbindən o Kefi atardı həmən.
+Hansı kef ayırsa yarın qəmindən,
+Qəlbindən o kefi atardı həmən.
 
 Ürəyinə dolmuş o sonsuz qəmi
 Dörd gözlə gəzərdi olsun həmdəmi.
@@ -163,10 +163,10 @@ Yatmaq istəyəndə yatmazdı yenə
 Ki, bağlanar qapı dostun üzünə.
 
 Könlündə qalmamış özündən nişan,
-Çünki salmış orda başqası şəkan.
+Çünki salmış orda başqası məkan.
 
-Özgənin nəqşini tuturdu müdam.
-Odur Kİ, öz nəqşi dönmüşdü tamam.
+Özgənin nəqşini tuturdu müdam,
+Odur ki, öz nəqşi dönmüşdü tamam.
 
 Özlüyündən çıxıb zavallı, bədbəxt
 Səhər-axşam qaçar, olmazdı rahət.
@@ -181,7 +181,7 @@ O şirin xəyala bağlıydı hər an,
 Ayıra bilmirdi özünü ondan.
 
 Nur görsə, od görsə o pərişanhal
-Y a hicran bilərdi, ya bir xoş vüsal.
+Ya hicran bilərdi, ya bir xoş vüsal.
 
 Kimsə məhəbbətdən pislik gözləməz,
 Görsə də özünə götürməz heç kəs.
@@ -189,16 +189,16 @@ Görsə də özünə götürməz heç kəs.
 Nə çıxsa qarşıya ona inanar,
 "Olaram, - deyirdi, - bir gün bəxtiyar."
 
-Yaxşı, ya pis olsa hər bir hadisə.
+Yaxşı, ya pis olsa hər bir hadisə,
 Ona ümid bağlar, gələr həvəsə.
 
-Hər vaxt Kİ, o nura gələrdi qonaq
+Hər vaxt ki, o nura gələrdi qonaq
 Qənaət edərdi gendən baxaraq.
 
 Yenə üz tutardı çöllərə sarı,
 Ağlardı təzədən anaraq yarı.
 
-Hürkək ceyran Kimi gələrdi axşam,
+Hürkək ceyran kimi gələrdi axşam,
 Bir az süd içərdi, olardı aram.
 
 Bir yeməyi yoxdu o süddən qeyri,

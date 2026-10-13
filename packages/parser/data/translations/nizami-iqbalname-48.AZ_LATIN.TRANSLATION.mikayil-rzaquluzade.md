@@ -6,13 +6,13 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
 status: DRAFT
 ---
-Müğənni, çal görək bir "Ramişi-can " 255
+Müğənni, çal görək bir "Ramişi-can",
 Açılsın ürəyim o xoş havadan!
 
 Xosrov məclisində Barbət çalantək

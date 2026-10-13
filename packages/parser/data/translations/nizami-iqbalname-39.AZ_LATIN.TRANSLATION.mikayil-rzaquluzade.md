@@ -6,13 +6,13 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
 status: DRAFT
 ---
-Müğənni, mdunu bir dindir barı,
+Müğənni, rudunu bir dindir barı,
 Yada sal nəğmənlə o yatmışları!
 
 Mənim dərdimə qal, sazımı sazla,
@@ -61,7 +61,7 @@ Nə deyə bilərəm: iç bu badəni!
 Çünki bihuş edər içəndə səni;
 
 Nə də almaq olar qədəhi səndən,
-Çünki şah həzmində ədəbliyəm mən!
+Çünki şah bəzmində ədəbliyəm mən!
 
 Əfsuslar olsun ki, bu nurlu çıraq,-
 Qurtarıbdır yağı, - xamuş olacaq.
@@ -85,9 +85,9 @@ Ki, Şərqdən Qərbədək gəzdim hər yanı,
 Keçirdim əlimə bütün dünyanı.
 
 O zaman cahana bir şah idim mən,
-Canımda can vardı, sağlamdı bədən,
+Canımda can vardı, sağlamdı bədən.
 
-indi ki, zəiflik üz verdi cana,
+İndi ki, zəiflik üz verdi cana,
 Gərək səfər edəm başqa cahana.
 
 Məğrurluq meylinə uyma ki, heyhat,
@@ -108,7 +108,7 @@ Qatı bir qaranlıq çökdü yollara.
 Daş qəlbli bir gecə, dəhşətli zülmət,
 Zülmətdə kim görmüş şəfqət, mərhəmət?
 
-işləri düyünə salan ulduzlar
+İşləri düyünə salan ulduzlar
 Sanki dodağına vurmuşdu mismar.
 
 Bu oğru fələk də, oğrular tutan
@@ -117,8 +117,8 @@ Ay da qır küpünə düşmüşdü çoxdan.
 Qapqara tüstüyə bürünmüş dünya,
 Tüklə cəhənnəmdən asılmış guya.
 
-Sanki ərimişdi şalı səhərədək
-iyirmi yeddinci gecəki aytək 24i.
+Sanki ərimişdi şah səhərədək
+İyirmi yeddinci gecəki aytək.
 
 Anası yadına düşdü, İskəndər
 Sarsıldı, ürəkdən oldu mükəddər.
@@ -133,7 +133,7 @@ Ana dili kimi şirin dil ilə
 Ona and verərək başlasın belə:
 
 "Anacan, sən məni eyləyəndə yad
-Sıxma ürəyini, qopanna fəryad!"
+Sıxma ürəyini, qoparma fəryad!"
 
 Hər kim oxusaydı bu yazılanı
 Qapqara görərdi bütün dünyanı.
@@ -147,8 +147,8 @@ Kağız dönüb oldu müşkin bir ipək.
 Yazanda o zərif mənalı sözü
 Katibin heyrətdən qaraldı gözü
 
-insanın gözünə işıq bəxş edən
-Tanrının adma o yazdı əhsən:
+İnsanın gözünə işıq bəxş edən
+Tanrının adına o yazdı əhsən:
 
 "Bir olan allaha hamı möhtacdır,
 Hamının dərdinə tək o əlacdır!"
@@ -183,7 +183,7 @@ Sənə səbir versin o pərvərdigar!
 Səni and verirəm əmdiyim südə,
 O şirin laylaya, o ilk öyüdə,
 
-Dünyadan gənc getmiş bir övladma,
+Dünyadan gənc getmiş bir övladına,
 Ağlayan ananın o fəryadına,
 
 Dinə əməl edən pak insanlara,
@@ -226,7 +226,7 @@ Yoxsulları sevən comərd sultana.
 Sultantək gözü tox, yoxsul insana,
 
 Sübhün gül-çiçəklə gülüşməsinə,
-Gözlənməz təamm xoş düşməsinə,
+Gözlənməz təamın xoş düşməsinə,
 
 Bidarın munisi səhər çağına,
 Ağlar qəriblərin pak torpağına,
@@ -235,7 +235,7 @@ Yazıq məhbusların dərdi-dilinə,
 Müqəddəs mehrabın nur qəndilinə,
 
 Təşnə bir tifilin süd həsrətinə,
-Naiimid qocanın zəlalətinə,
+Naümid qocanın zəlalətinə,
 
 Xəstə qəriblərin intizarına,
 Döyülmüş yetimin göz yaşlarına,
@@ -255,14 +255,14 @@ Gizli ibadətin qüdsiyyətinə,
 Şüura yol açan sözə, dastana,
 Bəşər karvanını çəkən sarvana,
 
-insanı içindən yeyən dərdlərə,
+İnsanı içindən yeyən dərdlərə,
 Qəddini pünhanı əyən dərdlərə,
 
 Dözümsüz adamda səbrə, qüdrətə,
 Gözəlin üzündə həya, ismətə,
 
 Ümidsiz çəkilən son fəqanlara,
-Dadma heç kimsə çatmayanlara,
+Dadına heç kimsə çatmayanlara,
 
 Dinpərvər adamda olan inama,
 Peyğəmbərə gələn vəhyə, ilhama,
@@ -270,7 +270,7 @@ Peyğəmbərə gələn vəhyə, ilhama,
 Bütün insanların o son yoluna,
 Hamıya əl tutub kömək olana,
 
-insanı son yola salan qapıya,
+İnsanı son yola salan qapıya,
 Bizi ağuşuna alan qapıya,
 
 Üzünü axtaran baxışlarıma,
@@ -318,20 +318,20 @@ Sən də unut qəmi, heç batma yasa!
 - Oğlum ölüb, - deyə çəkmə heç məlal.
 Gəl, öz işlərinin qeydinəcə qal.
 
-ikiqat uzun da olsaydı ömrüm,
+İkiqat uzun da olsaydı ömrüm,
 Axır yenə bir gün vardı bu ölüm.
 
 Ən uzun ömür də kifayət deyil,
 Nə fərqi, yaşadın otuz, ya yüz il?
 
-Behiştə getməkdən qorxannı insan,
+Behiştə getməkdən qorxarmı insan,
 Minlərlə açar var, yol da çırağban.
 
 Əbədi bir təxtə yiyələnərkən
 Nə üçün razılıq eləməyim mən?
 
 Yerində toz yoxdur, göyündə duman,
-Niyə at sünnəsin oraya insan?
+Niyə at sürməsin oraya insan?
 
 Əlimdə qalmadı bu saxta saray,
 Siz də səbr eləyin, salmayın haray!
@@ -339,8 +339,8 @@ Siz də səbr eləyin, salmayın haray!
 Şəbdizim sıçradı çaydan o taya,
 Məndən salam olsun dosta, aşnaya.
 
-Bizi azad etdi zindandan fələk.
-Hamı azad olsun görüm bizimtək!
+Bizi azad etdi zindandan fələk,
+Hamı azad olsun görüm bizimtək!.."
 
 Məktubu yazdırıb o, yola saldı,
 Özü də cənnətə sarı yol aldı.
@@ -376,7 +376,7 @@ Bir anda sustaldı bədəni, canı.
 Səhərtək ağ üzü soldu, saraldı.
 
 Candan bizar olub, canından keçdi.
-Canını tapşınnaq vaxtı yetişdi.
+Canını tapşırmaq vaxtı yetişdi.
 
 Quş elə tez uçdu öz yuvasına
 Sürətdə baxış da çatmadı ona.
@@ -460,7 +460,7 @@ Dünyada olmamış əzəldən bəri
 Əsla mehribanlıq, dostluq əsəri!
 
 Aldı öz qoynuna o şahı məzar,
-Daxmam bağlayıb döndü adamlar.
+Daxmanı bağlayıb döndü adamlar.
 
 Bu dünya çoxuna məqam bəxş edər,
 Saxlamaz o yerdə axıra qədər.
@@ -486,7 +486,7 @@ Onun sütunundan qan seli axır.
 Bu sütunun odu Günəşdir, Aydır,
 Gəl, o qəndilləri daş atıb sındır.
 
-Ondakı qızılı rəngə aldamna,
+Ondakı qızılı rəngə aldanma,
 Oddan qızarmışdır, sən qızıl sanma!
 
 Bizimlə uyuşmaz əsla göy saray,
@@ -505,19 +505,19 @@ Tufan başlayarsa almağa qisas
 Balıqtək üzənlər əsla qərq olmaz.
 
 İpək karxanası bil bu dünyanı,
-Bir yanı sudursa, oddur bir yam.
+Bir yanı sudursa, oddur bir yanı.
 
 Orada hərlənən çox tağalaq var,
 Biri boşalanda o biri dolar.
 
-Dünyanın sirrini boşdur axtarmaq.
+Dünyanın sirrini boşdur axtarmaq,
 Üstü tüstü-duman, altı toz-torpaq.
 
 Bu tozdan, tüstüdən görünür hər an
 Çarpışır, vuruşur yerlə asiman!
 
 Sazişə gəlsəydi göylə yer əgər,
-Bizi yer üzündən süpünnəzdilər...
+Bizi yer üzündən süpürməzdilər...
 
 Nizami, gəl qurtar axır sözünü,
 Qorxutma özgəni, nə də özünü.
@@ -529,7 +529,7 @@ Eşit sözlərini huşu-guş ilə,
 Acı badəsini alıb nuş elə!
 
 İskəndər bu camdan murada çatıb,
-içib o badəni, əbədi yatıb.
+İçib o badəni, əbədi yatıb.
 
 Sultan sağlığına kim içsə şərab,
 Nuş olsun, içənlər olsun feyziyab!

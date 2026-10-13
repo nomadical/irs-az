@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -69,7 +69,7 @@ Bişirib, padşahı ona cəlb edər,
 Biri də cilvəli şux məşuqəsi
 Ki, ona bağlanar könlü, həvəsi.
 
-Bunlar xeyir vennəz: biri doldurar
+Bunlar xeyir verməz: biri doldurar
 Qarnını, o biri şirəni sorar.
 
 Nə çox əylənən ol, nə də çox yeyən
@@ -78,8 +78,8 @@ Bunlardan süstləşər, keyiyər bədən!
 Qırmızı və sarı gördüyün cahan
 Bir rəngin büsatdır - adam aldadan.
 
-Məşuqə adlanan bir əjdəlıadır,
-Bu dünya kam vennir. ancaq can alır.
+Məşuqə adlanan bir əjdəhadır,
+Bu dünya kam vermir. ancaq can alır.
 
 Dünya yurdumuzdur, candan əzizdir,
 Bizim həm yerlimiz, həm yerimizdir.
@@ -118,7 +118,7 @@ Bu qədər nə üçün yataq dünyada?
 Yuxu da ölümə bənzər mənada.
 
 Bir də duracaqmı həmin yuxudan?
-Bşş doğru, dürüst bilməyən insan
+Bunu doğru, dürüst bilməyən insan
 
 Yuxudan ölümtək etməli həzər,
 Çünki bir-birinə bunlar çox bənzər!
@@ -132,7 +132,7 @@ Gözlər yumulmaya kaş bircə an da!
 Hər bir gizli sirri o, baxıb görə.
 Yaxşıya, yamana düz qiymət verə,
 
-insan əl çəkəydi boş xəyallardan,
+İnsan əl çəkəydi boş xəyallardan,
 Yersiz qovğalardan, qalmaqallardan.
 
 Niyə bircə qarın çörəkçin yalnız
@@ -154,7 +154,7 @@ Dinclik - asudələr ölkəsindədir,
 Bundan başqa nə var - bir əfsanədir.
 
 Yeddi qat yanar od içrə, nəhayət,
-Kabablıq ət üçün nədir bu zəhmət? 184
+Kabablıq ət üçün nədir bu zəhmət?
 
 Neçindir bu zillət, əziyyət bütün?
 Hamısı yeməklə geyinmək üçün.
@@ -169,7 +169,7 @@ Kimsə ruzusunu atlayıb keçməz,
 Əndazəylə yeyər ruzunu hər kəs.
 
 Fəqət var dünyada elə insan da
-Zəri yerdə şaxlar, həsədi canda.
+Zəri yerdə saxlar, həsədi canda.
 
 Qızılı torpaqda basdırsan əgər,
 Taleyin başına sənin kül ələr.
@@ -219,7 +219,7 @@ Yedirdib, içirdib ələ gətirər.
 Sirr alıb, ənamlar verər o kəsə,
 Toxum göyərərmi su verilməsə?
 
-işini düzəldər bu sayaq asan,
+İşini düzəldər bu sayaq asan,
 Gərək çətinlikdən bezməsin insan.
 
 Sülh əgər bir başla olsa bərqərar,
@@ -231,7 +231,7 @@ Yolda qoluzorlu rast gəlsə əgər,
 Mümkün deyildirsə qələbə çalmaq,
 Nahaqdır qoşunu çətinə salmaq.
 
-İşin düyün düşsə, aça bilməsən.
+İşin düyün düşsə, aça bilməsən,
 Səbr elə, özünü nahaq yorma sən.
 
 Hər çətin düyünün bir əlacı var,

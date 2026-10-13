@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -18,19 +18,19 @@ Torpağı öpərək belə söylədi:
 "Ey şah, ömr edəsən durduqca dövran,
 Bütün dövranların şahı olasan!
 
-Dünya boş qalmasın ədalətindən.
+Dünya boş qalmasın ədalətindən,
 Çünki zülmü, qəhri qəhr eləyənsən.
 
 Haqsevən padşaha cavab olaraq,
 Ərz edim fikrimi mən də bu sayaq:
 
-Hələ bıı dünyalar yaranmamışdan
+Hələ bu dünyalar yaranmamışdan
 Bir cövhər yaratdı böyük yaradan.
 
 Tanrının feyziylə yetirdiyi bu.
 Cövhər bir müddətdən dönüb oldu su.
 
-ikiyə bölündü sonra bu su da,
+İkiyə bölündü sonra bu su da,
 Yarı üzdə qaldı, yarısı altda,
 
 Bunlar andırırdı müşkü, kafuru,

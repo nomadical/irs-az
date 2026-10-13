@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -21,7 +21,7 @@ Kömək ol, bazarım olmasın kasad!
 Təblini çaldıqca təbilçi yeyin
 Qızışdı havası soyuq gecənin.
 
-Naiimid olanda o qara qarğa
+Naümid olanda o qara qarğa
 Ağ xoruz başladı xoş dil açmağa.
 
 Çıxdı Rum taxtına İskəndər erkən,
@@ -36,8 +36,8 @@ Danışır, deyişir, bəhs edirdilər.
 Biri danışırdı təbiiyyatdan,
 O biri dəm vurur ilahiyyatdan,
 
-Kimi riyaziyyat bəhsinə girmiş.
-Kimi həndəsəyə fikrini venniş,
+Kimi riyaziyyat bəhsinə girmiş,
+Kimi həndəsəyə fikrini vermiş,
 
 Birisi namusdan, ədəb-ərkandan,
 Biri də hiylədən açmışdı dastan.
@@ -91,22 +91,22 @@ Eşidib burada o, nalə, fəryad,
 Etdi bu ahənglə bir nəğmə icad.
 
 Rudda bu ahəngi münasib yerdə
-Qum bağırsaqdan bağladı pərdə,
+Quru bağırsaqdan bağladı pərdə,
 
-içi boş qabağa çəkərək dəri,
+İçi boş qabağa çəkərək dəri,
 Düzəltdi, bağladı o, pərdələri.
 
 Ceyran dərisinə çəkdi qara rəng,
-Qum ud səslənib oldu xoşahəng.
+Quru ud səslənib oldu xoşahəng.
 
 Bir xeyli cəhd edib fikrinə uyğun,
 Düzəltdi, nəhayət, o bir ərğənun.
 
 Telləri yaxşıca köklənmiş bu saz
-Başladı vennəyə ahəngdar avaz.
+Başladı verməyə ahəngdar avaz.
 
 Zil və bəm nəğmələr hasil edərək,
-Mizrabı gah yavaş vumrdu, gah bərk.
+Mizrabı gah yavaş vururdu, gah bərk.
 
 Səslər çıxarırdı, bərkdən, yavaşdan,
 Sanki nərə çəkir öküz, ya aslan.
@@ -114,7 +114,7 @@ Sanki nərə çəkir öküz, ya aslan.
 Səslərdə o qədər məlahət vardı
 Ki, heyvan eşitcək donub qalardı,
 
-insan səslərindən heyvana qədər -
+İnsan səslərindən heyvana qədər -
 Sazdan çıxardırdı hər cürə səslər.
 
 Belə ki, çaldığı o havalardan
@@ -150,7 +150,7 @@ Başladı çalmağa sazını yenə.
 Çöldəki, dağdakı bütün heyvanlar -
 Yüyürdü yanına onun hər nə var.
 
-Yığılıb hamısı sazın səsinə.
+Yığılıb hamısı sazın səsinə,
 Düzüldülər onun dörd dövrəsinə.
 
 Hamısı bir anda huşdan gedərək
@@ -166,10 +166,10 @@ O yatmış heyvanlar, çəkmədi bir an,
 Ayıldı hamısı şirin yuxudan,
 
 Yayıldı hamısı çöllərə həmən...
-Heç belə sərgüzəşt varını eşidən?
+Heç belə sərgüzəşt varmı eşidən?
 
 Bu xəbər bürüdü bütün cahanı
-Ki, yaqut paylayır o yaqut kam.
+Ki, yaqut paylayır o yaqut kanı.
 
 Əflatun yaradıb bir elə pərdə
 Ki, onu bir bilən yoxdur heç yerdə.
@@ -279,7 +279,7 @@ O da gizlin-sirri buna öyrətdi.
 Ustadın hünərin eləyib iqrar,
 Ehtiram göstərdi ona o ki var.
 
-Şalı bildi kimdəymiş əsil istedad,
+Şah bildi kimdəymiş əsil istedad,
 Rumda Əflatundur elmə baş ustad.
 
 O da rütbəsini artırdı onun,

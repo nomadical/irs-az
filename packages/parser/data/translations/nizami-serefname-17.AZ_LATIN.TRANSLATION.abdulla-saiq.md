@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -30,19 +30,19 @@ Daim qalsın cavan, tapmasın zaval.
 Bar verən belə bir ağacı gerçək
 Rəvamı baltanın ağzına vermək?
 
-Qış getdi, yenə də ilk bahar gəldi.
+Qış getdi, yenə də ilk bahar gəldi,
 Çaylar sahilindən otlar yüksəldi.
 
 Yenidən yamyaşıl geydi hər budaq,
 Bənövşə hər müşkə ənbər qataraq,
 
-Nərgiz də yığmaqçm haman ətirdən
+Nərgiz də yığmaqçın haman ətirdən
 Kafurtək başını qaldırdı yerdən.
 
 Xəzinə qapısın açaraq mən də
 Bir bayraq ucaltdım yaşıl çəməndə.
 
-Yaşıllıq hatifı o gizli dilbər,
+Yaşıllıq hatifi o gizli dilbər,
 Şairlər ona şeir ilhamı deyər,
 
 Sehirli səs ilə bağırdı: “Oyan!
@@ -66,10 +66,10 @@ Vuruşma yerində bir həftə qaldı,
 Külək fərraş kimi, yağış səqqatək
 Yolları süpürüb suvardı qəşəng.
 
-Yollardan silindi bütün toz-torpaq.
+Yollardan silindi bütün toz-torpaq,
 Yol tozsuz olanda bəzənir ancaq.
 
-Toz-torpaq yollarda yatmca yenə,
+Toz-torpaq yollarda yatınca yenə,
 İskəndər atıldı yəhər üstünə.
 
 “Yol verin!” deyərək coşdu təbillər,
@@ -102,7 +102,7 @@ Yüklənmiş dəvələr çəkirdi zəhmət.
 Qədərsiz cavahir yüklənmiş filə,
 Yüz yerdən körpülər salınmış Nilə.
 
-Güldü hökmüranm üzü, göz-qaşı,
+Güldü hökmüranın üzü, göz-qaşı,
 Fərəhdən göylərə ucaldı başı.
 
 Xalqa hörmət etdi girərkən Misrə,
@@ -123,7 +123,7 @@ Abadlıq yolunda çəkdi bir əmək,
 Dəniz sahilində böyük İskəndər
 Təzə bahar kimi qurdu bir şəhər.
 
-Bir cənnət kimiydi - işıqlı, abad.
+Bir cənnət kimiydi – işıqlı, abad,
 Hər yerdə bazarı, bağçası gülşad.
 
 Şəhəri İskəndər tikibdir deyə
@@ -142,7 +142,7 @@ Hər zaman o muma etdikdə rəğbət,
 Hər nə istəsəydi edərdi əlbət.
 
 Yunanlar “afərin” dedilər ona,
-Cavahir saçdılar gövhər saçma.
+Cavahir saçdılar gövhər saçına.
 
 Padşahda görüncə böyüklük, mənlik,
 Şəhərlər bəzəndi, quruldu şənlik.
@@ -154,73 +154,70 @@ Düşməni yenən şah güvəndi baxta,
 Şahanə baxtıyla oturdu taxta.
 
 Bəxtiyar dövlətin uca baxtından
-Ən gözəl şənliklər qurdu hökmıiran.
+Ən gözəl şənliklər qurdu hökmüran.
 
 Zəncidən aldığı sərvətdən, maldan
 Çəkisiz hədiyyə alırdı hər yan.
 
-Dövran Rum şahma verincə dövlət,
+Dövran Rum şahına verincə dövlət,
 Hər şaha göndərdi o maldan qismət.
 
 Elə ki, Daraya yetişdi növbət,
-««äog&P &££<£*»»>
+Dəvə karvanına yükləndi sərvət.
 
-Dəvə karvanma yükləndi sərvət.
 Yoldakı yüklərin çoxu qızıldı,
-
 Buxaraya qədər karvan düzüldü.
-Mərdliklə iş gördü, tədbirlər etdi.
 
+Mərdliklə iş gördü, tədbirlər etdi,
 Köhnə ənənələr yoluyla getdi.
+
 Dəyərli mallardan saçdı bir qədər,
-
 Dünyada görməmiş onu bir nəfər.
+
 Hər cür gözəl şeylər, cəvahiratlar,
-
 Növbənöv ətirlər, ipəklər, atlar...
+
 Saf qızıldan başqa, xalis mötəbər,
-
 Bir xalvar müşk ilə bir sandıq ənbər.
+
 Bir xırman ərinmiş saf gümüş lay-lay,
+Bir otaq saf kafur, düzülmüş tay-tay,
 
-Bir otaq saf katlır, düzülmüş tay-tay,
 Ud yüklü dəvələr ucaldı dağdan,
-
 Hər yükün təxminən vəzni yüz batman.
-Bir çox gözəl qılınc, cəvahimigar,
 
+Bir çox gözəl qılınc, cəvahirnigar,
 Zürafə dərisi kimi xalılar,
+
 Xidmətə yarayan vücudu sağlam
-
 Gülçöhrə kənizlər, həm igid qulam.
+
 Fil sümüklərindən naxışlı taxtlar,
-
 Gövhərlə işlənmiş qədərsiz tac var.
+
 Uca fil gövdəli bir alay əsir,
-
 Qolunda, boynunda düyümlü zəncir.
+
 Bir çox dəvə yükü, kəsik qulaqlar,
-
 Saman təpilmiş baş bir neçə xalvar.
+
 Yüzlərcə döyüşən, dağ heykəlli fil,
-
 Çarpışma zamanı ən coşğun bir Nil.
+
 Bu əntiq şeylərlə uca İskəndər
-
 Bir elçi göndərdi mətin, mötəbər.
+
 Daraya gətirdi qasid naməni,
-
 Çəkdi hüzuruna o xəzinəni.
-Dara bu bəxşişdən olmadı dilşad.
 
+Dara bu bəxşişdən olmadı dilşad,
 Qorxdu, həsəd etdi qəlbini bərbad.
+
 Bu qədər xəzinə, bu qədər sərvət
-
 Heyrət doğururdu, etmirdi rahət.
-Bir cavab göndərdi yersiz olaraq,
 
+Bir cavab göndərdi yersiz olaraq,
 İçində kin odu alovlanaraq,
-100 &££>€*>»*
 
 Cavabı götürüb elçilər getdi,
 İskəndəri bundan xəbərdar etdi.
@@ -231,14 +228,14 @@ Qəlbinə yükləndi gizlin bir kədər.
 Çaldığı zəfərdən alaraq təmkin,
 Daraya yenə də bəsləmədi kin.
 
-Rumlarm Zənciyə çaldığı zəfər, -
+Rumların Zənciyə çaldığı zəfər, –
 Dünyaya yayıldı bu şanlı xəbər.
 
-Qasidlər gəlirdi hər padişahdan.
+Qasidlər gəlirdi hər padişahdan,
 Təbrik edirdi bu zəfəri cahan.
 
 Tənənin qapısı bağlandı, artıq,
-Rumlarm qəlbini sardı bir şadlıq.
+Rumların qəlbini sardı bir şadlıq.
 
 Acizlərə dövran olsa mehriban.
 Qarınca oxuyar ilana meydan.

@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -16,10 +16,10 @@ Təsəlli verirdi Şirinə Banu,
 Oxşayırdı şirin sözlərlə onu.
 
 Qurtaran zamanda vəfası ömrün
-Yanma çağırdı Şirini bir gün.
+Yanına çağırdı Şirini bir gün.
 
-Xəznə açarını ona verərəx
-Dedi: "Bu tezlixdə anan öıəcək."
+Xəznə açarını ona verərək
+Dedi: "Bu tezlikdə anan öləcək."
 
 Banunun vücudu süstləşdi artıq,
 Tərk eylədi onu əski sağlamlıq.
@@ -34,34 +34,34 @@ Batdı qaranlıqda günəşi birdən,
 Köçdü qara yerə şahlıq evindən.
 
 Daşdan düzəlmiş bir şüşə tapılmaz
-Ki, daşda sınmasın Keçincə bir az.
+Ki, daşda sınmasın keçincə bir az.
 
 Aman bu fələkdən, min oyun qurur,
 Gah şüşə qayırır, gah da sındırır.
 
-Belədir nəsibi yaranmışlarm,
-Xəzan olur sonu hər Иk baharın.
+Belədir nəsibi yaranmışların,
+Xəzan olur sonu hər ilk baharın.
 
 Bal qayırdı arı əvvəlcə, ancaq
 Sonra özü yedi bala qonaraq.
 
 Güvənmə bədənə, torpaqdır sonu,
-Əcəl bir yel Kimi qoparar onu.
+Əcəl bir yel kimi qoparar onu.
 
-Başdan papaq qapan Küləkdən, əlbət,
+Başdan papaq qapan küləkdən, əlbət,
 Ot nəvaziş görər, sərvlər zillət.
 
-Yaşama özülü küıək binada,
-Yaramaz belə puç əsas dünyada,
+Yaşama özülü külək binada,
+Yaramaz belə puç əsas dünyada.
 
-insanı boğan bu tora inanma,
-içi çürük qozdur, ona aldanma.
+İnsanı boğan bu tora inanma,
+İçi çürük qozdur, ona aldanma.
 
-Dovşantək, tüikütək aldanma yenə
-Dovşan yuxusuna, tüikü məknnə.
+Dovşantək, tülkütək aldanma yenə
+Dovşan yuxusuna, tülkü məkrinə.
 
 Çox-çox şir ovlayan, canavar vuran
-Tükü hiyləsinə olmuşdur qurban.
+Tülkü hiyləsinə olmuşdur qurban.
 
 Təcrübəylə tapdım bu həqiqəti
 Ki, əl geyişidir dünya işrəti.
@@ -69,7 +69,7 @@ Ki, əl geyişidir dünya işrəti.
 Qaşınanda əvvəl ruha xoş gəlir,
 Sonra əllərindən alov yüksəlir.
 
-Dünyanın camı da belədir Kİ, var,
+Dünyanın camı da belədir ki, var,
 Əvvəl sərxoş edir, sonra da xumar.
 
 Boşla qəmi, qəmə dəyməz bu dünya,
@@ -82,16 +82,16 @@ Yüz xəzinə olsun, ya bir dirhəmin.
 Bir qarınlıq paydır dünyada yemin.
 
 Sağ olduqca canın bu dünyada, bil,
-Vücud çətinlkdən yorulan deyil,
+Vücud çətinlikdən yorulan deyil.
 
-iştahla olduqca yemək-içnıəyin,
+İştahla olduqca yemək-içməyin,
 Dodağında gülüş olacaq şirin,
 
-insan məyusluğa düşdüyü zaman
+İnsan məyusluğa düşdüyü zaman
 Xeyli uzaq düşər xilas yolundan.
 
 Dünya nədir, düşün, acı-zəhrimar,
-Az yeməkiə ondan qurtarmaq olar...
+Az yeməklə ondan qurtarmaq olar...
 
 Qarınqulu olma gücsüz bir qurdtək,
 Yeməkdə belini qarışqatək çək.
@@ -102,11 +102,11 @@ Səlamətlik ələ çox çətin düşər.
 Az yeməkdən heç kəs qızdırmaz, ancaq
 Çox yeməkdən gündə yüzü ölür, bax.
 
-Haramdır ələfı tarac eyləmək,
+Haramdır ələfi tarac eyləmək,
 Bədəni dərmana möhtac eyləmək.
 
 Çörək gülşəkərtək yeyilsə əgər,
-Vücuda nə gərək daha gülşəxər?
+Vücuda nə gərək daha gülşəkər?
 
 Yeyilməyən hər şey gültək xoş olar,
 Yediyin qənd olsa, yenə qoxuyar.
@@ -117,7 +117,7 @@ Dünyanı sevmirsən, axtarma barı,
 Kimin bu dünyada mənzili yoxdur,
 Ürəyi qəmsizdir, gözləri toxdur.
 
-Bu çöldə yaşayan Kim olsa, acdır,
+Bu çöldə yaşayan kim olsa, acdır,
 Bir parça çörəyə, suya möhtacdır.
 
 Palçıqdan yaranmış, diltəng olma, gəl!
@@ -126,14 +126,14 @@ Palçıqdan yaranmış, diltəng olma, gəl!
 Bu qədər hiyləyə fələyin ancaq
 Ala bir atı var - qoca və çolaq.
 
-Daima dövr edən atların fələx
-Qarasına minər ağdan düşərəx.
+Daima dövr edən atların fələk
+Qarasına minər ağdan düşərək.
 
 Atanı batırdı bu qəm selləri,
 Oğul da atadır, qalarmı diri?
 
-Hindunun qanmı tökən bir nəfər
-intiqam almazsa qan gedər hədər.
+Hindunun qanını tökən bir nəfər
+İntiqam almazsa qan gedər hədər.
 
 Necə oğulsan ki, hörmət edirsən
 Atanı öldürən bir hinduya sən?
@@ -141,8 +141,8 @@ Atanı öldürən bir hinduya sən?
 Oxla bu fələyi, qoy çıxsın canı,
 Nə qədər qırmışdır ata-babanı!
 
-Kirişsiz qalmasa oxuyla fələx,
-Heç bir Kəsin ovu kokəknəyəcək.
+Kirişsiz qalmasa oxuyla fələk,
+Heç bir kəsin ovu kökəlməyəcək.
 
 Yolunda aslanlar yatan marala
 Bir qılınc görünür otlar az qala.
@@ -150,20 +150,20 @@ Bir qılınc görünür otlar az qala.
 Necə sənin qəlbin xatircəm olar:
 Arxanda yel əsir, öndə quyu var.
 
-Bu saxit dənizə bel bağlama, dur!
+Bu sakit dənizə bel bağlama, dur!
 Adətinə görə o insan udur.
 
-Hansı bahar var Kİ, xəzan olmasın,
+Hansı bahar var ki, xəzan olmasın,
 Ağacı quruyub, gülü solmasın?
 
 Aqillər dünyadan qaçsa yaxşıdır,
 Çünki əvvəl şirin, sonra acıdır.
 
 Kimin dərdli olsa həyatda canı,
-Gülər çıraq khş ölüm zamanı.
+Gülər çıraq kimi ölüm zamanı.
 
-Kim dünya başını Kəsərsə əgər,
-O, gültək Kəsənin əlindən öpər.
+Kim dünya başını kəsərsə əgər,
+O, gültək kəsənin əlindən öpər.
 
 Əgər vaiz olsa deyər ki: "Sən at,
 Mən götürüm onu",- elədir həyat.
@@ -174,14 +174,14 @@ Sovxa paltarını geyinsin özü.
 Çox dünya dərdinə qalanlar vardır.
 Belə adamlardan dünya bezardır.
 
-Ruzi qəmi çəkrnə bu dünyada sən,
+Ruzi qəmi çəkmə bu dünyada sən,
 Ruzini yetirər ruzi yetirən.
 
 Din qəmi çək, dünya bir qəmə dəyməz.
 Bir gecəlik gəlin matəmə dəyməz.
 
 Dünyada əbədi şey yoxdur, inan,
-Dəyməz bir aıpaya bu böyük cahan.
+Dəyməz bir arpaya bu böyük cahan.
 
 Ədəm töhfəsidir torpaqda hər iz,
 Pak gövhərin olar mayəsi təmiz.
@@ -189,11 +189,11 @@ Pak gövhərin olar mayəsi təmiz.
 Bu sözü çox yaxşı deyib ərənlər:
 Yaxşı-pis ölümdən sonra bilinər.
 
-Orda çox arvadı görərsən Kişi,
-Çox Kişini xəcil eyləyər işi.
+Orda çox arvadı görərsən kişi,
+Çox kişini xəcil eyləyər işi.
 
-Xudavənda, gəmim girdaba düşsə.
+Xudavənda, gəmim girdaba düşsə,
 Ayağıma əgər bir daş ilişsə,
 
 Əfv et Nizamini, bağışla onu.
-Kərəminlə Keçsin ömrünün sonu.
+Kərəminlə keçsin ömrünün sonu.

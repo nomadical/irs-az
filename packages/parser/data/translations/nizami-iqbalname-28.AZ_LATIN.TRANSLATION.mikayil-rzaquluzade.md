@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -27,7 +27,7 @@ Hər nəqşə çəkdisə qadir yaradan,
 Yalnız ilk nəqşəni gizli nəqş etdi,
 Əqlin gözündən də onu gizlətdi,
 
-ilk xilqət nəqşini qurtarıb, qəsdən
+İlk xilqət nəqşini qurtarıb, qəsdən
 Açdı o pərdəni əqlin gözündən.
 
 Sonra nə xəzinə oldusa aşkar,
@@ -40,12 +40,12 @@ Onda pərdə vardı əqlin gözümdə,
 Nə zaman istəsə, ora yol tapar.
 
 Əqlə bağlı olan o yoldan amma
-Danışma, əqildən o yolu sonna.
+Danışma, əqildən o yolu sorma.
 
 Əql ancaq elə bir-yerə yol tapar
 Ki, bilsin nə qədər məsafəsi var.
 
-Qeyb yolu əqidən hədsiz uzaqdır,
+Qeyb yolu əqldən hədsiz uzaqdır,
 Əql ora nə sayaq yol tapacaqdır?
 
 Əqilli adamdır dünyada o kəs -
@@ -67,7 +67,7 @@ Mülayim bir səslə söhbət eylədi,
 Beynimə sözlərlə nur saçıb dedi:
 
 "Bu gizli sözləri, fikirləri sən
-Neçin lal dillərə isnad edirsən? 156
+Neçin lal dillərə isnad edirsən?
 
 Sən neçün bu sərvi becərib belə,
 O filosoflara verirsən, söylə?
@@ -82,7 +82,7 @@ Dövrün kişiləri nakişidirlər,
 Elmə yox, nücuma həvəs edirlər.
 
 Mərhəmət umarlar qara torpaqdan,
-Torpaqdan yaxşıdır ancaq sağ insan 15S.
+Torpaqdan yaxşıdır ancaq sağ insan.
 
 Hoqqabaz torpaqda sehirbazlıq var,
 Həm möhrə oğurlar, həm də oynadar.
@@ -94,9 +94,9 @@ Zərnixi, görərsən, udar sapsarı,
 Göy-yaşıl rəngində çıxar dişarı.
 
 Qupquru ud yeyər torpaq xəzanda,
-Ətirli müşk verər bahar olanda,
+Ətirli müşk verər bahar olanda.
 
-insan bədənini udanda ancaq,
+İnsan bədənini udanda ancaq,
 Bilmirəm nə sayaq o qaytaracaq?
 
 Torpaqda çürüyən bədənlərimiz

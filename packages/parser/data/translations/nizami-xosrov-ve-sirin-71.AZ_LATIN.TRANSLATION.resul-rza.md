@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -16,10 +16,10 @@ Tovuza bənzəyən o afəti-can
 Şəkər tüngün açdı ləl sandığından.
 
 Əqiq dodaqların qönçətək açdı,
-İpəkdən bəzəkii sözləri saçdı:
+İpəkdən bəzəkli sözləri saçdı:
 
 Durduqca bu dünya, bu şanlı dövran,
-Bu gecə, bu gündüz, bu yer, asiman.
+Bu gecə, bu gündüz, bu yer, asiman,
 
 Olsun əllərində zəmanə əsir,
 Ey dünya hakimi, böyük cahangir.
@@ -36,29 +36,29 @@ Zalımlıq yolundan əl çəkməmisən.
 O şahlıq qürurun indi də durur,
 Eşqindən uzaqdır, əfsus, bu qürur.
 
-Eşqə Könül verən ahü zar elər,
-Naləsiz aşiqi eşq Jnkar elər.
+Eşqə könül verən ahü zar elər,
+Naləsiz aşiqi eşq inkar elər.
 
 Eşq təkəbbürlə düşməndir hər an,
-Eşqlə oynamaq yamandır, yaman,
+Eşqlə oynamaq yamandır, yaman.
 
-istidə xoş olur sərin bir küıək,
-Aşiqin Könlündə dərd olsun gərək.
+İstidə xoş olur sərin bir külək,
+Aşiqin könlündə dərd olsun gərək.
 
 Mən güllər üstündə uçan bir quşam,
-Yaym istisini heç duymamışam,
+Yayın istisini heç duymamışam,
 
 Səğlab banusiydim - bir gözəl çiçək,
 Qalmışam şüşədə indi gülabtək.
 
 Səbzətək qar, südlə dodaq yudum mən,
-Gül Kimi göyərdim sərin çeşmədən.
+Gül kimi göyərdim sərin çeşmədən.
 
 Özümü gil qəbrə - daş qəsrə saldım,
 Səninçin səbr edib, bu qədər qaldım,
 
-istidən qızıltək əridim hər an,
-Buz Kimi dondum hər şaxta, soyuqdan.
+İstidən qızıltək əridim hər an,
+Buz kimi dondum hər şaxta, soyuqdan.
 
 Nə işi pozmağa iqtidarım var,
 Nə tapa bilirəm özümə qəmxar.
@@ -67,31 +67,31 @@ Nə tapa bilirəm özümə qəmxar.
 Hər yerdə tək səni vəfadar bildim.
 
 Sən isə yadına məni salmadın,
-Halımı, Keyfımi xəbər almadın.
+Halımı, keyfimi xəbər almadın.
 
-Qorxum yox, tənc etsəm bu gün dünyanı,
+Qorxum yox, tərk etsəm bu gün dünyanı,
 Çünki qılıncına tapşırdım canı.
 
 Yerə əyiləndə tərəzi gözü,
 Yer daşdan tez bilər hesabı özü.
 
 Bir yerdə durardım, olsaydı tədbir,
-Bütün çəkdikiərim öz əməlimdir.
+Bütün çəkdiklərim öz əməlimdir.
 
 Əlimdən bir ayrı iş gəlməsə də,
-Bu yaralı qəlbim dincəlməsə də.
+Bu yaralı qəlbim dincəlməsə də,
 
 Fəryad eyləyərəm bu zəmanədən
 Oxumu hədəfə düz vurunca mən.
 
-Neçin mənim Kimi bir sərvi-azad
+Neçin mənim kimi bir sərvi-azad
 Qalsın eşq bəndində ürəyi naşad?
 
 Gözəlliyim hələ solub getməyib,
-Başımdaxı şuxluq hələ bitməyib.
+Başımdakı şuxluq hələ bitməyib.
 
 Hindularım hələ atəşpərəstdir,
-Sərxoş Шrk1ər Kimi gözlərim məstdir.
+Sərxoş türklər kimi gözlərim məstdir.
 
 Hələ qönçə gülüm açılmış deyil,
 Hələ bu saf dürrüm deşilməmiş, bil!
@@ -99,8 +99,8 @@ Hələ bu saf dürrüm deşilməmiş, bil!
 Dodağımda hələ abi-həyat var,
 Suyum hələ gənclik arxından axar.
 
-Tərazda mən Kimi gözəl tapılmaz,
-Kiçik Kənizimdir qürur ilə naz.
+Tərazda mən kimi gözəl tapılmaz,
+Kiçik kənizimdir qürur ilə naz.
 
 Nəfəsimdən alır reyhanlar ətri,
 Şəkər divanədir dadımdan ötrü.
@@ -117,14 +117,14 @@ Bağdadın narıncı başını əyər.
 Alma yanağımı şaha versəm mən,
 İsfahan alması çıxmaz səbətdən.
 
-Əgər dürr çıxarsam dişlən, dodaqdan.
+Əgər dürr çıxarsam dişlən, dodaqdan,
 Bir ürək alaram, bəxş edib yüz can.
 
 Mənimlə pələnglər sərəfraz olar,
 Öyrənmiş yerişi məndən ahular.
 
 Maral gözlərimə çox həsrət çəkər,
-Tokər Kirpiyindən tiryək yox, zəhər.
+Tökər kirpiyindən tiryək yox, zəhər.
 
 Nə vaxt ceyran mənə bir nəzər salar,
 Boynumun xərcini boynuna alar.
@@ -133,40 +133,40 @@ Rumu fəth edərəm bu nazımla mən,
 Uzaqdan məst olur ətrimdən Xütən.
 
 Baharı barmaqla verərlər nişan,
-Yüz bahar utanar bir bamağımdan.
+Yüz bahar utanar bir barmağımdan.
 
 Məhtablı gecələr lətafətilə
-Yaramaz əlimə su töxsün belə.
+Yaramaz əlimə su töksün belə.
 
-Yaqut dodaqlarım şərab içirxən
-Qədəh rüşvət alar şəxər ləbimdən.
+Yaqut dodaqlarım şərab içirkən
+Qədəh rüşvət alar şəkər ləbimdən.
 
-Qəmzəylə naz alan türxəmsə belə.
+Qəmzəylə naz alan türkəmsə belə,
 Könül də çalıram öpüşlərimlə.
 
 Hüsnümdən nur alır işıqsız gözlər,
 Bununçün olmazlar daha bədnəzər.
 
 Heç bir gözəli mən salmıram saya,
-Mən gözəllə çıxmaz ximsə davaya.
+Mən gözəllə çıxmaz kimsə davaya.
 
-Salsam ay üzünə müşx zənciri,
+Salsam ay üzünə müşk zənciri,
 Əsir eyləyərəm yüzlərlə şiri.
 
-Töxsə ləl dodağım birdən şəxəri,
+Töksə ləl dodağım birdən şəkəri,
 Məğlub eyləyərəm çox igidləri.
 
-Şəxər dişlərimə "bacımsan!" deyir,
+Şəkər dişlərimə "bacımsan!" deyir,
 Vəfa peymanımın həmyerlisidir.
 
-Bir dünya nazım var, yüz dünya həyam.
+Bir dünya nazım var, yüz dünya həyam,
 Hirsə bir, rəhmə yüz qapı açmışam.
 
-Ləl dodağım daim şəxər töxəndir,
+Ləl dodağım daim şəkər tökəndir,
 Saçlarımın ucu yerlərlə təndir.
 
-Xoş məzəylə cama şərab doldursam.
-Qat-qat şəxər alar əlimdən badam.
+Xoş məzəylə cama şərab doldursam,
+Qat-qat şəkər alar əlimdən badam.
 
 Almam indi əgər olub gümüş nar,
 Yüz aşiq öldürər, arif aldadar.
@@ -175,12 +175,12 @@ Yüz aşiq öldürər, arif aldadar.
 Ərqəvana qiymət verən tapılmaz.
 
 Elə qürurludur bu sərxoş nərgiz,
-Hər adam qanma əl vurmaz hərgiz.
+Hər adam qanına əl vurmaz hərgiz.
 
 Başımda var hələ çox-çox fitnələr,
 Çox canlar etmişəm mən burda hədər.
 
-Get, qanlı əlimi açmayım sənə.
+Get, qanlı əlimi açmayım sənə,
 Boynumda çox qan var, bəs elər mənə.
 
 Get, yaralanmamış, düz get, amandır,

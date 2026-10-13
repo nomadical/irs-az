@@ -6,23 +6,23 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
-ikinci möbidə gələndə növbət,
+İkinci möbidə gələndə növbət,
 Dedi: o aləmi bir qəsrə bənzət,
 
 O qəsrin üstündən düşdüyün zaman
 Kənarından tutur adam qorxudan.
 
-Asılsa qolları əziyyət çəxir,
+Asılsa qolları əziyyət çəkir,
 Yerə yıxılmağı daha betərdir.
 
-Qolu yorulsa da, zillət çəkərəx
-Tutub Küngürədən yapışar bənc-bənc.
+Qolu yorulsa da, zillət çəkərək
+Tutub küngürədən yapışar bərk-bərk.
 
 Qüvvədən düşərək qolları bütün,
-Həm o, həm Küngürə yıxılar bir gün.
+Həm o, həm küngürə yıxılar bir gün.

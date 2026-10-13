@@ -6,22 +6,22 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
-Aym işığını gecə örtərək,
-Div Kimi azmışdı yolundan fələk.
+Ayın işığını gecə örtərək,
+Div kimi azmışdı yolundan fələk.
 
 Qaranlıq mey içmiş sərxoş zəncitək
-Dünyanın ağzını tikmişdi bənc-bənc.
+Dünyanın ağzını tikmişdi bərk-bərk.
 
-Minəlli zəmanə düşmüşdü zordan.
+Minəlli zəmanə düşmüşdü zordan,
 Seçilmirdi mingöz fələk də gordan.
 
-Iki ayağında qızıldan zəncir
+İki ayağında qızıldan zəncir
 Yatmışdı Şirinlə o böyük əsir.
 
 Zəncir saçlı o büt hər gün yüz kərə
@@ -33,22 +33,22 @@ Zindanı edirdi bir pərqu yataq.
 Eşqdən hekayə deyərdi nigar,
 Hekayə səsinə rahat yatılar.
 
-Şirin sözləriylə səpərdi şəxər,
-Qoymayırdı şahı çəksin qəm, Kədər.
+Şirin sözləriylə səpərdi şəkər,
+Qoymayırdı şahı çəksin qəm, kədər.
 
 Xosrov yatdı artıq, danışmaz oldu,
 Şirinin gözləri yuxuyla doldu.
 
-Hər ki sevgili yuxuya getdi,
-Fəıək yatmamışdı, gör nələr etdi!..
+Hər iki sevgili yuxuya getdi,
+Fələk yatmamışdı, gör nələr etdi!..
 
 Pəncərədən girdi bir div sifətli,
-Məhəbbət düşməni, çirırin xislətli.
+Məhəbbət düşməni, çirkin xislətli.
 
 Qəzəbdən qəssabtək bulaşmış qana,
-Nəffattək od səpdi Kini hər yana.
+Nəffattək od səpdi kini hər yana.
 
-Oğru Kimi evi gəzdi, dolaşdı.
+Oğru kimi evi gəzdi, dolaşdı,
 Şahın yatağını tapıb, yanaşdı.
 
 Şahın ciyərinə xəncəri vurdu,
@@ -60,109 +60,107 @@ Qanlı şimşək çaxdı sanki buluddan.
 Aydan ayıraraq günəşi, dərhal
 Uçdu pəncərədən o vəhşi qartal.
 
-Oyandı padişah həycan içində.
+Oyandı padişah həycan içində,
 Gözlərini açdı al qan içində.
 
-Axırdı sel Kimi yatağında qan.
-incidirdi onu susuzluq yaman.
+Axırdı sel kimi yatağında qan.
+İncidirdi onu susuzluq yaman.
 
 Öz-özünə dedi: Çağırım, Şirin
 Mənə bircə qurtum sərin su versin."
 
-Laxin Könlü dedi: "Rəva deyil bu,
+Lakin könlü dedi: "Rəva deyil bu,
 Gecələr doyunca yatmayıb yuxu.
 
 Başıma gələni görərsə əgər,
 Bir daha yatmayıb göz yaşı tökər.
 
-Yaxşısı budur Kİ, qalsın diləyim.
+Yaxşısı budur ki, qalsın diləyim.
 Mən ölum, qoy yatsın yorğun mələyim."
 
 Şirini yuxudan oyatmadı o,
 Belə ölüb getdi vəfalı Xosrov.
 
-k it İt
 Günəştək açılmış bir gül, görürsən,
-
 Edir təravətlə dünyanı rövşən.
+
 Əlində od qılınc bir bulud gələr,
-
 Onun vəhməsindən solar bitkilər.
+
 Elə dolu yağar qara buluddan
-
 Ki, gül budağından qalmaz bir nişan.
+
 Yatmış bağban birdən oyanıb qalxar,
-
 Görər nə gül qalıb bağda, nə gülzar.
-Kim deyir Kİ, bağban yanıb ağlamaz,
 
+Kim deyir ki, bağban yanıb ağlamaz,
 Gülün həsrətiylə ürək dağlamaz!.
+
 Şahın yarasından elə axdı qan
-
 Şirini oyatdı şirin yuxudan.
+
 Gecələr eşqinə o, yanan Şirin,
-
 Nay və ney səsinə oyanan Şirin!
+
 Bir gör fələk necə oyun çıxartdı,
-
 Şahın al qanıyla onu oyatdı.
+
 Şirin yuxusundan hərasan qalxdı,
+Yaralı quş kimi pərişan qalxdı.
 
-Yaralı quş Kimi pərişan qalxdı.
 Yataqdan örtüyü götürən zaman
+Qan dəryası görüb, çəkdi əl-aman.
 
-Qan dəryası görüb, çəxdi əl-aman.
 Gecənin qoynunda günəş axtardı,
-
 Əfsus, qarşısında bir zülmət vardı.
-Bir taxt gördü, şahı tacsız dayanmış.
 
-Bir çıraq gördü Kİ, yağı talanmış.
+Bir taxt gördü, şahı tacsız dayanmış,
+Bir çıraq gördü ki, yağı talanmış.
+
 Düşmənlər etmişdi xəznəyə şəbxun,
+Ölmüşdü sərkərdə, sınmışdı qoşun.
 
-Ölmüşdü sərxərdə, sınmışdı qoşun.
 Ağladı, o gecə bir matəm qurdu,
-
 Sonra da yorulub ayağa durdu.
-Gülabı, ənbəri müşxə qataraq,
 
+Gülabı, ənbəri müşkə qataraq,
 Sürtdü o bədənə ürəyində dağ.
-Gülabla, Kafurla yudu tərtəmiz,
 
-Elədi ağappaq, qansız, Iəkəsiz.
+Gülabla, kafurla yudu tərtəmiz,
+Elədi ağappaq, qansız, ləkəsiz.
+
 Bir məclis düzəltdi, deyərdi hər kəs:
-
 Heç kəs belə məclis düzəldə bilməz."
+
 Kafurla, gülabla şahı yuyantək
-
 Özünü də yudu tərtəmiz, qəşəng.
-Bəzəndi özü də gəlinlər Kimi,
 
-Məftun eyləyirdi, baxsa, hər Kimi...
+Bəzəndi özü də gəlinlər kimi,
+Məftun eyləyirdi, baxsa, hər kimi...
+
 Şiruyə sevirdi çoxdan Şirini,
-
 Kimsəyə açmırdı ancaq sirrini.
+
 Şirinə gizlincə göndərdi xəbər
+Ki: "Bir həftə dözsə, hər dərdi keçər.
 
-Ki: "Bir həftə dözsə, hər dərdi Keçər.
-Iki həftəlik ay sonra gül Kimi
-
+İki həftəlik ay sonra gül kimi
 Açılar bağımda, oxşar qəlbimi.
+
 Eləyərəm onu dövlətli, mallı,
-
 Xosrovdan da artıq cahü cəlallı.
+
 Zər, ipək səpərəm ayaqlarına,
-
 Bütün xəzinəmi verərəm ona."
+
 Şirin bu sözləri birdən eşitcək,
+Tündləşdi sirkətək, coşdu şirətək.
 
-Tündləşdi sincətək, coşdu şirətəx.
 Al dilə tutaraq etdi onu ram,
+İnandı Şirinə ölməli adam.
 
-inandı Şirinə ölməli adam.
 Sonra da Xosrovun bütün varını,
+Təzə-köhnəsini, paltarlarını
 
-Təzə-Köhnəsini, paltarlarını
 Yoxsula, möhtaca payladı Şirin.
-
 Ondan razı qaldı hər yoxsul, miskin...

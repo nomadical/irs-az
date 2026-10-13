@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -57,16 +57,16 @@ Odur ki, onların nəsli kəsildi."
 Şahın əmri ilə yenə bir səhər
 Toplaşıb məclisə gəldi alimlər.
 
-Saray ağasına şah verdi fənnan:
+Saray ağasına şah verdi fərman:
 "Heç kəsi yanıma bu gün qoymazsan!
 
 Bir də ki, xəbər ver qoy gəlsin Sokrat,
-Tərkibdə, ixlatda o böyük ustad!" 115.
+Tərkibdə, ixlatda o böyük ustad!".
 
-Xidmətçi fənnana əməl eylədi,
+Xidmətçi fərmana əməl eylədi,
 Sokratı taparaq ona söylədi:
 
-"Dəyiş paltarım, bəzəkli geyin,
+"Dəyiş paltarını, bəzəkli geyin,
 Şahın hüzuruna gəl gedək, yeyin!"
 
 Dünyagörmüş alim buna uymadı,
@@ -124,10 +124,10 @@ O hər cür yeməyə edir qənaət,
 Bir az qovut eylər ona kifayət.
 
 İbadət eləyir tənha, kimsəsiz,
-Tapmayır yanma bir kimsə yol, iz.
+Tapmayır yanına bir kimsə yol, iz.
 
 Əql ilə dost olub Nizami təkin,
-Ondan dərs alıbdır Nizami yəqin...*
+Ondan dərs alıbdır Nizami yəqin...
 
 Şaha təsir etdi verilən xəbər,
 Sokratı daha çox sevdi İskəndər.
@@ -151,9 +151,9 @@ Alimin gözəltək naz etməsinə
 Naz çəkən hökmüdar dözürdü yenə.
 
 Özünə ən məhrəm olan bir nəfər
-Çağırdı yanma bir gün İskəndər,
+Çağırdı yanına bir gün İskəndər,
 
-Göndərib alimin tək hüzuruna.
+Göndərib alimin tək hüzuruna,
 Dedi ki, gizlicə söyləsin ona:
 
 "Səni dəfələrlə mən dəvət etdim,
@@ -166,7 +166,7 @@ Mənim dərgahımdan nədir bu həzər?
 Buyur gəl, ya da ki, bir səbəb göstər.
 
 Üzrünü isbat et ya açıq-aşkar,
-Ya söylə, başqa bir mərammmı var?"
+Ya söylə, başqa bir məramınmı var?"
 
 Qasid bu fərmana əməl eylədi,
 Şahın sözlərini Sokrata dedi.
@@ -181,7 +181,7 @@ Düşüncəm getməyi görmür məsləhət,
 Çünki şahda yoxdur mənə məhəbbət.
 
 Getməmək üçün də vardır çox dəlil,
-Hara oynamağa gedib Cəbrail? 117
+Hara oynamağa gedib Cəbrail?
 
 Saraya getməyə edərdim rəğbət,
 Görsəydim dəvətdə bir səmimiyyət.
@@ -240,11 +240,11 @@ Ora dürr dalınca, söylə, kim gedər"
 Qapında: "Uzaq ol!" deyənlər varkən,
 Orada nə cürə şəfəq saçım mən?
 
-Məni şalı yanında pis göstərənlər
+Məni şah yanında pis göstərənlər
 Mənə yox, özünə yamanlıq eylər.
 
 Tək olan tanrıya pənah gətirən
-Bir qul heç qorxannı dünya əhlindən?
+Bir qul heç qorxarmı dünya əhlindən?
 
 Mən bu qulluğumla ağayam sənə,
 Gəlsəm hüzuruna, qul ollam yenə!
@@ -261,7 +261,7 @@ O, dürr süfrəsindən örtüyü açdı,
 Gövhər bəxş etməkdən bezmədi mədən,
 Şah isə yoruldu gövhər seçməkdən.
 
-Düzdür, sərt olsa da Sokratın sözü.
+Düzdür, sərt olsa da Sokratın sözü,
 Bəyəndi onları İskəndər özü.
 
 Bildi, onu ancaq xəlvətdə görər,
@@ -337,10 +337,10 @@ Utanıb, başını aşağı saldı.
 Mənim pak fikrimə aydın sübutdur.
 
 Sən paksan, paklardan düşmə uzağa,
-Diriykən boş yerə ginnə torpağa!"
+Diriykən boş yerə girmə torpağa!"
 
 Sokrat verdi ona gümüştək cavab:
-Dedi ki: "Qulağa tökülməz simab! 121
+Dedi ki: "Qulağa tökülməz simab!
 
 Səndə ki pak olmaq idiası var,
 Bəs niyə heyvantək edirsən rəftar?
@@ -364,7 +364,7 @@ Bu qızğın danışıq təsir edərək
 Şahın ürəyini yumşaltdı mumtək.
 
 Sonra o, alimə eləyib minnət,
-istədi bir qədər öyüd-nəsihət.
+İstədi bir qədər öyüd-nəsihət.
 
 Pərhizkar qocanın hiddəti getdi,
 Şirin bir dil ilə o söhbət etdi.
@@ -421,12 +421,12 @@ Günəşin nuruna yedəkçi ol sən,
 Səni tərk etsə də, düşmə ümiddən.
 
 Süpürüb təmizlə qapı-bacanı,
-Heç qonaq çağınna sonra sultanı.
+Heç qonaq çağırma sonra sultanı.
 
 Ova gedən zaman sataşar gözü
 Qapına-bacana, tez gələr özü.
 
-O gəlsə yanına qonaq qalmağa.
+O gəlsə yanına qonaq qalmağa,
 Bizdən salam söylə sən o qonağa.
 
 Bu qapıya gəldin, məğrur olma sən,
@@ -450,22 +450,22 @@ Dönmüşdür taxtaya təxt qorxusundan.
 Sənin dərgahına gələn bir nəfər
 Yolunu azarsa, bol sillə yeyər,
 
-indi sən bir düşün nə dərgahdasan
-Gör necə, hansı bir seyrəngalıdasan? 128
+İndi sən bir düşün nə dərgahdasan
+Gör necə, hansı bir seyrəngahdasan?
 
 Bu qapı önündə olmalısan qul,
 Yolun bura düşsə, gəl, ədəbli ol!
 
 Özünü sayırsan əgər hökmüdar,
-itlə, gözətçiylə, de, nə işin var?
+İtlə, gözətçiylə, de, nə işin var?
 
 Düzdür, tünd danışdım səninlə, amma
 Budur xasiyyətim, məni qınama!
 
 Bu yanar ürəyim o zaman göyə
-Getmişdi, seyr edib sirr öyrəmnəyə.
+Getmişdi, seyr edib sirr öyrənməyə.
 
-indi qayıtmışdır, gətirdiyi sirr
+İndi qayıtmışdır, gətirdiyi sirr
 Bunlardır, söylədim mən sənə bir-bir.."
 
 Qoca bu saf, təmiz sözləri dedi,

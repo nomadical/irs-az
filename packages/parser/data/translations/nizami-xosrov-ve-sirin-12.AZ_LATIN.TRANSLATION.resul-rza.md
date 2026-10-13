@@ -6,19 +6,19 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
-Eşqdən başqa söz Könlümə yaddır,
+Eşqdən başqa söz könlümə yaddır,
 Ömrümün quşuna sevgi qanaddır.
 
 Eşqdir mehrabı uca göylərin,
 Eşqsiz, ey dünya, nədir dəyərin?!
 
-Eşqin qulu ol Kİ, doğru yol budur,
+Eşqin qulu ol ki, doğru yol budur,
 Ariflər yanında, bil, eşq uludur.
 
 Bu dünya eşqdir, qalan fırıldaq,
@@ -27,7 +27,7 @@ Eşqdən başqa şey boş bir oyuncaq.
 Eşqsiz olsaydı xilqətin canı
 Dirilik sarmazdı böyük cahanı.
 
-Eşqsiz bir adam bir neydir - qırıq.
+Eşqsiz bir adam bir neydir - qırıq,
 Yüz canı olsa da, ölüdür artıq.
 
 Eşqsiz bu dünya soyuq məzardır,
@@ -39,10 +39,10 @@ Onsuz nə gül gülər, nə bulud ağlar.
 Oda səcdə edən atəşpərəstlər
 Günəş üçün oda sitayiş eylər.
 
-Sevgi hiylə bilməz, düzəltməz duzaq.
+Sevgi hiylə bilməz, düzəltməz duzaq,
 Səni sevdasından buraxmaz uzaq.
 
-Kopək Kimi yemək, içmək nədir, nə?
+Köpək kimi yemək, içmək nədir, nə?
 Bir pişik olsa da, can ver eşqinə!
 
 Pişiyin eşqiylə yaşamaq, inan,
@@ -58,16 +58,16 @@ Kəhrəbanın eşqə düşməsə canı,
 Elə cəzb etməzdi quru samanı.
 
 Dünyada gövhər var, daş var nə qədər -
-Onlar nə bir saman, nə dəmir çəxər.
+Onlar nə bir saman, nə dəmir çəkər.
 
 Bu saysız-hesabsız maddələr yenə,
 Bax, gör, meyl edirlər mərkəzlərinə.
 
-Od bir kiçik dəlik tapmasa, hokmən
+Od bir kiçik dəlik tapmasa, hökmən
 Yarıb çıxar çölə yerin təkindən.
 
-Baxma Kİ, bu ürək can sultanıdır,
-Eşqə Könül ver Kİ, canlar canıdır.
+Baxma ki, bu ürək can sultanıdır,
+Eşqə könül ver ki, canlar canıdır.
 
 Göyə doğru əgər çox qalxarsa su
 Yenə torpaq olar ən son arzusu.
@@ -78,10 +78,10 @@ Filosoflar bunu eşq adlandırır.
 Sözü bəzən qiblə, bəzən də Latdır,
 Xəznəsi gah Kəbə, gah xərabatdır.
 
-İdraki dinləsək, söyləyir o da:
+İdrakı dinləsək, söyləyir o da:
 - Hər şey eşq üstündə durur dünyada.
 
-Göylər yaransaydı eşqdən azad.
+Göylər yaransaydı eşqdən azad,
 Düşün, olardımı yer üzü abad?
 
 Eşqsiz təndə can görmədiyimdən

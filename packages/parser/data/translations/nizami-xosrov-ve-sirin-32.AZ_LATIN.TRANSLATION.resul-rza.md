@@ -6,26 +6,26 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
-Elə Kİ, allahın əmriylə bir gün
+Elə ki, allahın əmriylə bir gün
 Hürmüzün şahlığı puç oldu bütün,
 
 O cavan şah gəlib uğurlu vaxtda
 Öz məmləkətində oturdu taxtda.
 
 Ürəyi Şirinə bağlı olsa da,
-Öikəni tərk etmək olardı xəta.
+Ölkəni tərk etmək olardı xəta.
 
-Bir yandan öikəyə şahlıq edirdi.
+Bir yandan ölkəyə şahlıq edirdi,
 Bir yandan ürəyi yarçün gedirdi.
 
-Dünyanı tixdirdi, abad eylədi,
-Fitnədən Öikəni azad eylədi.
+Dünyanı tikdirdi, abad eylədi,
+Fitnədən ölkəni azad eylədi.
 
 O qədər zəlilə oldu pasiban
 Çıxdı Nuşirəvan xalqın yadından.
@@ -33,7 +33,7 @@ O qədər zəlilə oldu pasiban
 Məmləkət işini qurtardı, sonra
 Başladı yenə də qonaqlıqlara.
 
-Günləri həmişə ovda Keçirdi,
+Günləri həmişə ovda keçirdi,
 Ovlayır, quşlayır, şərab içirdi.
 
 Görüncə qəlbini sevgi titrədir,

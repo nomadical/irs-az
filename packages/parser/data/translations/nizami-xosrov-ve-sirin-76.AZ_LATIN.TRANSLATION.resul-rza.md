@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -21,35 +21,35 @@ Babilə neyləyər, min əfsun olsun?
 Yalvararaq dedi: "Ey can cövhərim!
 Gözümün çırağı, dürrüm, gövhərim!
 
-Sən ey cavan bəxtim, müqəddəratım.
+Sən ey cavan bəxtim, müqəddəratım,
 Döyünən ürəyim, ruhum, həyatım,
 
 Fələktək nə qədər zülm edəcəksən?
 Yağmasan da barı gurulda bir sən.
 
-işvənlə aşiqi bir az şad elə.
+İşvənlə aşiqi bir az şad elə,
 Bu ölmüş qulunu gəl azad elə.
 
 Qəzəbdən görmürsən öz eybini sən,
 Mənim nöqsanımı bir-bir deyirsən.
 
-Korlar Korluğunu görməyən Kimi,
+Korlar korluğunu görməyən kimi,
 Ortaya tökürsən mənim eybimi.
 
 Ləlindən kənara böylə daş atma,
 Yıxmısan, bir daha vurub qanatma.
 
-Məni Hə1ak edir çəkdiyim bu qəm,
+Məni həlak edir çəkdiyim bu qəm,
 Allah rəhm eləsin, ağır xəstəyəm.
 
-Gecə civə qarlar tökülür bol-bol.
+Gecə civə qarlar tökülür bol-bol,
 Buz mehribanlıqdan əl çək, bir od ol!
 
-Gəl, elə etmə Kİ, qızışım qardan.
-Qar Kİ, suya döndü pis olar, inan!
+Gəl, elə etmə ki, qızışım qardan,
+Qar ki, suya döndü pis olar, inan!
 
 Qoy bir bu gecəlik qapıdan girim,
-Sənin Kandarına eyləyim təzim.
+Sənin kandarına eyləyim təzim.
 
 Oturum qarşında mən diz çökərək,
 Heç kəsə baxmayıb, səni görüm tək.
@@ -66,29 +66,29 @@ Odur yaxın dostun, odur halalın.
 Paxıllıq eyləsə hüsnünə hər kəs,
 Onun yoldaşlığı torpağa dəyməz.
 
-Qanla boğazımı islatma, mə1ək,
+Qanla boğazımı islatma, mələk,
 Saxlama qapıda məni halqatək.
 
-Mənim belə əzab çəxdiyimi bil,
-Bura Kİ, cənnətdir, cəhənnəm deyil.
+Mənim belə əzab çəkdiyimi bil,
+Bura ki, cənnətdir, cəhənnəm deyil.
 
-Cənnətsən, yetişmiş yaxşı barm var,
-Hələ görünməyib Kimsəyə onlar.
+Cənnətsən, yetişmiş yaxşı barın var,
+Hələ görünməyib kimsəyə onlar.
 
 O behişt qəsrinin qapısını aç,
-Qoyma Kİ, məhv ola meyvəli ağac.
+Qoyma ki, məhv ola meyvəli ağac.
 
-Qapını aç mənə, boşla bu khu.
+Qapını aç mənə, boşla bu kini,
 Yenidən başla öz xidmətlərini.
 
-Qapını açmaq da miimkün olmasa,
+Qapını açmaq da mümkün olmasa,
 Bu qəribə burda bir gün olmasa,
 
-Günəş camalından bu öıpəyi aç!
-Günəş olmamışdır öıpəyə möhtac.
+Günəş camalından bu örpəyi aç!
+Günəş olmamışdır örpəyə möhtac.
 
 Bihuşam, huşumu alan da sənsən.
-Иk sevgim səndədir, gəl, qaçma məndən.
+İlk sevgim səndədir, gəl, qaçma məndən.
 
 Versən sən verərsən şəfanı, ey yar,
 Yaqut dodaqların, ənbər saçın var.
@@ -97,10 +97,10 @@ O bal dodağını gizlədib, pəri!
 Dilini eyləmə arı neştəri
 
 Belə yumşaqlıqla sərtlik nə gərək?
-Qaquma yaraşmaz olsun Kirpitək
+Qaquma yaraşmaz olsun kirpitək
 
-Bir iş gör Kİ, səndən Könlüm xoş olsun,
-Səni görən mək nəşəylə dolsun.
+Bir iş gör ki, səndən könlüm xoş olsun,
+Səni görən ürək nəşəylə dolsun.
 
 Toza bulaşmışsa qədəmim əgər,
 Könlümü açmaqçün üzünü göstər
@@ -109,25 +109,25 @@ Qəlbin düzəlməsə mənimlə, canan,
 Üzrü çətin olar bu işin, inan!
 
 Xosrovun başına tökmə daşları,
-Fərhad Kimi çəkmə daşlığa sarı.
+Fərhad kimi çəkmə daşlığa sarı.
 
-Hər Kim asimana atarsa daşı,
+Hər kim asimana atarsa daşı,
 Zərər çəkəcəkdir yəqin öz başı.
 
 Başı yaralasan tənə axar qan,
 Yüksəlməz gücünə çox məğrur olan.
 
-Mehribanlıq elə dilnəvaz Kimi,
-Mənimlə oynama oyunbaz Kimi
+Mehribanlıq elə dilnəvaz kimi,
+Mənimlə oynama oyunbaz kimi
 
 Zənn etmə, hər aşiq məst olmaq bilir.
 Hər yıxılan adam sərxoş deyildir.
 
-Gah sülh başlayırsan, gah da Kİ, cəng sən,
-Allah bağışlasın, nə İkirəngsən!
+Gah sülh başlayırsan, gah da ki, cəng sən,
+Allah bağışlasın, nə ikirəngsən!
 
-Y a qara ol, ya ağ, nədir bu qılıq?
-ilan balıq deyil hər ilanbalıq.
+Ya qara ol, ya ağ, nədir bu qılıq?
+İlan balıq deyil hər ilanbalıq.
 
 De, mənə qarşı bu nə ədavətdir?
 Yoxsa gözəllərdə bu bir adətdir?
@@ -136,37 +136,37 @@ Məni incidirsən "coşma" deyərək,
 Özün coşdurursan məni dəniztək.
 
 Mən sənə deyirəm; gəl yaxınlaşaq,
-Ip eşən uşaqtək gedirsən uzaq.
+İp eşən uşaqtək gedirsən uzaq.
 
 Qəlbimə yaralar vurmaqdan əl çək,
-Bu polad, daş deyil, ürəkdir, üi'ək!
+Bu polad, daş deyil, ürəkdir, ürək!
 
-Məni eyləmisən düşmənlərə kam.
+Məni eyləmisən düşmənlərə kam,
 Dosta yaxşı deyil dost olsa bədnam.
 
-Doğru sözüm Kimi bir vədə ver gəl,
+Doğru sözüm kimi bir vədə ver gəl,
 Bu doğru işimə törətmə əngəl.
 
-Sən razı olma Kİ, sevinsin düşman.
+Sən razı olma ki, sevinsin düşman,
 Xəlvətdə yandırsan, üzdə xoş dolan.
 
 Davaya meyl etmə, bəsdir bu qədər,
 Şirniyə duz qatsan acı dad verər.
 
-Yağlı ol, şirinlik çünıd səndə var,
+Yağlı ol, şirinlik çünki səndə var,
 Yağ ilə şirinlik yaxşı uyuşar.
 
-Buludla ay Kimi gəzirdim səni.
-Susuz bulud Kimi tapdım sinəni.
+Buludla ay kimi gəzirdim səni,
+Susuz bulud kimi tapdım sinəni.
 
-Aləmə nur saçan bir şən çıraqdın.
+Aləmə nur saçan bir şən çıraqdın,
 Ələ götürəndə əlimi yaxdın.
 
 Uzaqdan baxanda bir qızıl güldün,
 Yaxında od oldun, qəlbə töküldün,
 
-Çox da acıqlanma, bənc savaş olar,
-Toıpaq bərxiyəndə axır daş olar.
+Çox da acıqlanma, bərk savaş olar,
+Torpaq bərkiyəndə axır daş olar.
 
 Zənn etmə hər qılınc dəysə, yaralar,
 Əldəki on barmaq deyil barabar.
@@ -175,4 +175,4 @@ Burdan qayıdaram, istəsəm, əlbət,
 Səndən yaxşısıyla edərəm ülfət.
 
 Keçmişin borcunu verirəm ancaq,
-O kohnə söhbətə etmişəm maraq."
+O köhnə söhbətə etmişəm maraq."

@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -30,10 +30,10 @@ Hökmü dəyişməzdir, buyruğu üstün.
 Könlü qəmli olan bir günahkarı
 Behiştə göndərsə, var ixtiyarı.
 
-Səbəb səbəb deyil allahlığma,
+Səbəb səbəb deyil allahlığına,
 Almaq da, vermək də yaraşır ona.
 
-Fil taclmı edər milçək əsiri,
+Fil taclını edər milçək əsiri,
 Qarıncaya verər bir peyğəmbəri.
 
 Simürğü alçaldar: "Yerə en!" deyə,
@@ -61,7 +61,7 @@ Məxluqsan, nəhayət, bir gün ölərsən,
 Yaxa qurtarmazsan ölüm əlindən.
 
 Şahlıq qurtarsaydı ölümdən, inan,
-Çoxu dəm vurardı allahlığmdan.
+Çoxu dəm vurardı allahlığından.
 
 Kim bilir bir ovuc məhbus torpağın
 Başında nələr var hey yığın-yığın...
@@ -69,7 +69,7 @@ Başında nələr var hey yığın-yığın...
 Lovğalanma, xudbin kor dolanır, bil,
 Rəbbi gör, xudbinlik bir hünər deyil.
 
-Sən Kimisi çoxdur hesabda, anla,
+Sən kimisi çoxdur hesabda, anla,
 Heçə bərabərsən bu iddianla.
 
 Yaradılışda sən toz bil bu yeri,
@@ -78,25 +78,25 @@ Düşərgədir onun düz dörddə biri.
 O dörddə birdən də İraq bəhərdir,
 Burda da Mədain kiçik şəhərdir.
 
-O şəhərdə vardır hər cürə adam.
+O şəhərdə vardır hər cürə adam,
 Sən o yatmışlardan birisən, ey xam!
 
 Yaranmışlara bax düşüncənlə bir,
 Gör qədrin nədədir, hüdudun nədir?
 
-Allah böyükiüyü qarşısında, bax,
+Allah böyüklüyü qarşısında, bax,
 Bütün yaranmışlar bir heçdir ancaq.
 
-Bu dünya Kİ, belə puç olacaqdır,
-Allahlıq istəməx ona nahaqdır.
+Bu dünya ki, belə puç olacaqdır,
+Allahlıq istəmək ona nahaqdır.
 
 Bil dünyanın vardır bir yaradanı -
-Nə yerə möhtacdır, nə var məkaş.
+Nə yerə möhtacdır, nə var məkanı.
 
-Onun buyruğuyla yüxsəldi bəşər,
+Onun buyruğuyla yüksəldi bəşər,
 Məni də bəşərə etdi peyğəmbər.
 
-Boşla, nə gərəkdir atəşə səcdə.
+Boşla, nə gərəkdir atəşə səcdə,
 Cəhənnəmi tərk et, bir bax behiştə!
 
 Seyr et tovuzlartək bu gözəl bağı,
@@ -105,7 +105,7 @@ Tərk et pərvanətək bu odlu dağı.
 Atəşpərəst olma, orda tüstü var,
 Oda arxalanan Nəmrud sayılar.
 
-Bu yaxşı deyil Kİ, odda qalmısan,
+Bu yaxşı deyil ki, odda qalmısan,
 Oddan qurtarmaqçün sən ol müsəlman."
 
 Məktub qurtaranda, məktubu yazan
@@ -118,31 +118,31 @@ Qasid yetirəndə şaha fərmanı,
 Hirsindən qaynadı Xosrovun qanı.
 
 Yazılmış hər sözdən şah qovrulurdu.
-Əfyun çəkmiş Kimi xumar olurdu.
+Əfyun çəkmiş kimi xumar olurdu.
 
 Nizətək qalxmışdı hirsdən saçları.
 Atəş yağdırırdı hər bir damarı.
 
 Çıxanda nəbinin adı qarşıya
-Sanxi quduz tutmuş rast gəldi suya.
+Sanki quduz tutmuş rast gəldi suya.
 
 Gözləri sataşdı bu qorxunc sözə:
 "Yetsin Məhəmməddən Xosrov Pərvizə."
 
-Şahlıq qüruruyla yolundan azdı.
-Dedi: "Cürət edib Kim bunu yazdı?
+Şahlıq qüruruyla yolundan azdı,
+Dedi: "Cürət edib kim bunu yazdı?
 
 Kimin hünəri var bu qüdrətimlə
 Adımın üstündən ad yazsın belə."
 
-Üzü atəşgahdı samci Közərmiş,
+Üzü atəşgahdı sanki közərmiş,
 Hirsdən pis düşündü, gördü çox pis iş.
 
 O boyun sındıran məktubu cırdı,
 O, məktubu deyil, öz möhrün qırdı.
 
 Qasid bu acığı gördüyü zaman
-Tələsdi Kİ, getsin onun yanından.
+Tələsdi ki, getsin onun yanından.
 
 Görcək tüstüləyir o atəş hədər,
 Agahlar şamına yetirdi xəbər.
@@ -150,19 +150,19 @@ Agahlar şamına yetirdi xəbər.
 O şam bu xəbərdən qeyzə gələrək
 Bəd dua uçurtdu pərvanələrtək.
 
-O duadan sındı Kəsranm tağı,
+O duadan sındı Kəsranın tağı,
 Xosrovun başından düşdü papağı.
 
 Mustafa dininin möcüzəsindən
 Məhv oldu Pərvizin şahlığı birdən.
 
 Taxtını altından götürdü fələk,
-Oğlu qılınc çəxdi ona düşməntək.
+Oğlu qılınc çəkdi ona düşməntək.
 
 Bir gurultu tutdu dərəni, dağı,
 Xosrov eyvanının dağıldı tağı.
 
-Dəclədə dəmirdən bir Körpü vardı.
+Dəclədə dəmirdən bir körpü vardı,
 Coşqun sellər gəlib onu apardı.
 
 Qaynar səmum yeli hər yeri aldı,
@@ -171,7 +171,7 @@ Axırda nə Gülgün, nə Şəbdiz qaldı.
 Ziqar davasında sındı qoşunu,
 Göyərçinlər çaldı ovçu quşunu.
 
-Bir ağaclı Kişi girdi içəri,
+Bir ağaclı kişi girdi içəri,
 Ağacı sındırıb qayıtdı geri.
 
 Xosrova söylədi: "Polad əlimlə
@@ -181,12 +181,12 @@ Böyük Məhəmmədin möcüzəsindən
 Belə ibrətləri çox oldu görən.
 
 Bir çox daşqəlblilər bunları görüb,
-imana gəlmədi ibrət götürüb.
+İmana gəlmədi ibrət götürüb.
 
 Din şamı tüstüsüz olsa da, zinhar,
 Şamın kor gözlərə nə faydası var?
 
-Cəmşid, Firiduna bir qələm çəxən
+Cəmşid, Firiduna bir qələm çəkən
 Böyük peyğəmbərə əhsən, yüz əhsən!
 
 Əhsən o qüdrətə, qorxub tacından
@@ -195,7 +195,7 @@ Bir qul olur ona hər taclı insan.
 O yeddi tayfada gözəl, uludur,
 Aydan balığadək onun quludur.
 
-Əhsən belə aya, yatmcən yerdə
+Əhsən belə aya, yatırkən yerdə
 Nuru şəfəq saçır uca göylərdə.
 
 Sirlərə məhrəmdir, ona min əhsən!
@@ -205,4 +205,4 @@ Sirlərə məhrəmdir, ona min əhsən!
 Onun torpağından gözlər nurlanır.
 
 Səhər beş növbəti sancdı o yerə,
-Axşamsa dörd balmc qoydu göylərə.
+Axşamsa dörd balınc qoydu göylərə.

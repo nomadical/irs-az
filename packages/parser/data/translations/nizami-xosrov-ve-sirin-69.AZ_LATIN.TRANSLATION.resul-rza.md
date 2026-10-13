@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -21,8 +21,8 @@ Qılıncın eləsin fələyi dustaq!
 Buyruğundan çıxan yaramaz başlar
 Zülmün zəncirindən olmasın kənar.
 
-Tən etmə Kİ, taxtı qurmuşam yüxsək,
-Yüksəxdə otursun Kənizin gərək.
+Tən etmə ki, taxtı qurmuşam yüksək,
+Yüksəkdə otursun kənizin gərək.
 
 Eşqinə bayrağam hörmət, həvəsdə,
 Yaxşıdır ucalsa bayraq baş üstə.
@@ -31,15 +31,15 @@ Mən sənin tozunam, çıxdım bu yerə,
 Qalxsın gərək sənin tozun göylərə.
 
 Şahlıq yazılmışdır sənin baxtına,
-Odur Kİ, çıxmısan şahlıq taxtına.
+Odur ki, çıxmısan şahlıq taxtına.
 
 Mən sənin eşqindən edirəm fəğan,
-Damda hindu Kimi oldum pasiban.
+Damda hindu kimi oldum pasiban.
 
-Bir cahangirin Kİ, saysız qulu var,
-Damında Keşikçi hindusu olar.
+Bir cahangirin ki, saysız qulu var,
+Damında keşikçi hindusu olar.
 
-Qara gözlü Шrkəm bu dam üstə mən,
+Qara gözlü türkəm bu dam üstə mən,
 Ağ hindu adını almışam səndən.
 
 Ay üstündə belə salsam qərargah,
@@ -49,12 +49,12 @@ Nəciblər vəfalı qalıb sözünə,
 Bağlamaz qapını qonaq üzünə.
 
 Sən qonaq deyilsən, ovçu şahinsən,
-Dağ Kəkiiyi Keçir indi Könlündən.
+Dağ kəkliyi keçir indi könlündən.
 
 Əgər bir qonaqsan, bu yer, bu hörmət,
-Sənə Kəniz Kimi edirəm xidmət.
+Sənə kəniz kimi edirəm xidmət.
 
-Y a qəbul etsələr, ya rədd etsələr,
+Ya qəbul etsələr, ya rədd etsələr,
 Gərək dinməyəsən qonaqsan əgər.
 
 Haqlıyam, qapını bağlamışam mən,
@@ -69,29 +69,29 @@ Onlar gəlib işi edəydi aydın.
 Xosrovun qəsrinə alaydın məni.
 Aparıb evinə salaydın məni.
 
-Adam göndərəydin, Kəsdirib Kəbin,
+Adam göndərəydin, kəsdirib kəbin,
 Bunlara layiqdir Şəkərtək Şirin.
 
-istədin qurasan mənə bir kəıək,
-Yeyəsən məni bir şirin məzətəıc.
+İstədin qurasan mənə bir kələk,
+Yeyəsən məni bir şirin məzətək.
 
-istədin məst edib salasan tora,
-Gül Kimi iyləyib atasan sonra.
+İstədin məst edib salasan tora,
+Gül kimi iyləyib atasan sonra.
 
 Saraylarda pərdə yırtmaq əbəsdir,
 Sənə İsfahanda etdiyin bəsdir.
 
-Sən gedib Şəkərlə Keyf məclisi sür,
+Sən gedib Şəkərlə keyf məclisi sür,
 Şirinlə yox, Şirin ondan güclüdür.
 
-Şəxər bəsdir sənə şabaş üçün, al,
+Şəkər bəsdir sənə şabaş üçün, al,
 Şirinsə bir baldır, özü də xam bal.
 
-Ixiydi qanadı gözəl tavusun,
+İkiydi qanadı gözəl tavusun,
 Qırdılar birini, qoy belə olsun!
 
-Bir ürəxdə olmaz İKİ sevgili,
-Iki ürəkiinin düz olmaz dili.
+Bir ürəkdə olmaz iki sevgili,
+İki ürəklinin düz olmaz dili.
 
 Ütarid cüt bürclü olsa, yeri var,
 Sən günəşsən, sənə bir bürc yaraşar.
@@ -102,8 +102,8 @@ Ağzı yara olur şirin yeyənin.
 Məndən və eşqimdən sən biniyazsan,
 Mənimlə oynayan bir eşqbazsan.
 
-Bir topa qane ol, dayan ər Kimi,
-On topla oynama hindulər Kimi.
+Bir topa qane ol, dayan ər kimi,
+On topla oynama hindulər kimi.
 
 On toplu fikrini verər on yana,
 Bir toplu tez salar işi sahmana.
@@ -117,13 +117,13 @@ Bir gözəl üzlünü itirdin əgər,
 Marallarla dolmuş o hərəmxana,
 Mən yazıq ceyranı gətirmə cana.
 
-Şahın sarayından düşüncə uzaq.
+Şahın sarayından düşüncə uzaq,
 Məbəd quyusunda olunca dustaq,
 
 Öz qəmli evimə dönərəm həmən,
 Gövhər ismətimi qoruyaram mən.
 
-Gilabıda belə təmizlik Kİ, var,
+Gilabıda belə təmizlik ki, var,
 Bir torpaq olsa da, başa yaxılar.
 
 Quşlar, balıqlar da gecə dincəlir,
@@ -141,53 +141,53 @@ Sənin yerin cənnət, mən isə dustaq.
 Yaraya alışdım tikanlıqda mən,
 Qoy nə məlhəm olsun, nə də bir gülşən.
 
-Iki günlük ömür tez Keçər gedər,
-Y a xoş olsun, ya da bütün qəm. Kədər.
+İki günlük ömür tez keçər gedər,
+Ya xoş olsun, ya da bütün qəm, kədər.
 
-Hamı Keçməlidir bu yoldan, ancaq
-Çətindir saraydan Köçüb ayrılmaq.
+Hamı keçməlidir bu yoldan, ancaq
+Çətindir saraydan köçüb ayrılmaq.
 
 Həmayil bağladı fələyə Şirin,
 Ram eyləməz onu sənin sözlərin.
 
-Aslanı maralla olmaz ovlamaq.
+Aslanı maralla olmaz ovlamaq,
 Şirinəm, deyiləm südəmər uşaq.
 
-Elə uşaqlardan deyiləm Kİ, mən
+Elə uşaqlardan deyiləm ki, mən
 Xurmayla varımı alasan əldən.
 
 Nə edim xirmənin çoxdur itabı,
-Bir arpamın çəxər bir il hesabı.
+Bir arpamın çəkər bir il hesabı.
 
-Zöhrətək ərğənun çalanda müdam.
+Zöhrətək ərğənun çalanda müdam,
 Əvvəl incidərəm, sonra oxşaram.
 
-Od Kimi olsam da axırda bir nur,
+Od kimi olsam da axırda bir nur,
 Əvvəl tüstüm çıxar, adətim budur.
 
 Buludlar od saçar, sonra verər su,
 Gözəllərin də bir adətidir bu.
 
 And olsun xurmaya tikan verənə,
-Tncansız bir xurma vermərəm sənə.
+Tikansız bir xurma vermərəm sənə.
 
 Tumsuz xurmaların nidası olmaz,
-Gecəsiz bir aym ziyası olmaz.
+Gecəsiz bir ayın ziyası olmaz.
 
-Çox şərab taparsan, böyükdür aləm.
+Çox şərab taparsan, böyükdür aləm,
 Ancaq acı olar, mənsə şirinəm.
 
-Bu dünyada sənə çox olar həmdəm.
+Bu dünyada sənə çox olar həmdəm,
 Ancaq sümük olar, mənsə iliyəm.
 
 Sən mənim eşqimdə nə gördün, ancaq
-Böyükiük, mal, cəlal, şahlıq, təmtəraq.
+Böyüklük, mal, cəlal, şahlıq, təmtəraq.
 
 Hansı bir vaxt məni yad eyləmisən?
 Hansı bir gün məni şad eyləmisən?
 
 Mənimçün yaxanı cırdığın varmı?
-Mənimçün Könlünü qırdığın varmı?
+Mənimçün könlünü qırdığın varmı?
 
 Hansı bir qasidin məktub gətirdi?
 Hansı gecə mənə peyğam yetirdi?

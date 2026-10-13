@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -16,7 +16,7 @@ Birinci Firəngiz dedi: "Bir zaman
 Bir xəzinə vardı torpaqda pünhan.
 
 Firidun tutanda bu işdən xəbər.
-Qızıl xəzinəni apardı yeıcsər."
+Qızıl xəzinəni apardı yeksər."
 
 Simintən Süheyla dedi: "Bir zaman
 Bir sərvin altında gəzib oynayan
@@ -24,20 +24,20 @@ Bir sərvin altında gəzib oynayan
 Qırqovulu görüb şahin cumaraq
 Çaldı onu yerdən bir anda qoçaq."
 
-Şəxər Əcəbnuş da belə dil açdı:
+Şəkər Əcəbnuş da belə dil açdı:
 Bir gün bağda ənbər iyli gül açdı.
 
-Behişt quşu bir gün güllüyə vardı.
+Behişt quşu bir gün güllüyə vardı,
 Dimdiyilə gülü aldı, apardı."
 
-Fələxnaz dedi bir gözəl əfsanə:
+Fələknaz dedi bir gözəl əfsanə:
 "Bir gözlə baxırdıq biz bu cahana.
 
 Bir göz də bizimlə bağladı ülfət,
 İki göz bir gözdən yaxşıdır əlbət."
 
 Humeyla dedi: "Bir parlaq su vardı.
-Yaşıl çəmənlik'də saıdt axardı.
+Yaşıl çəmənlikdə sakit axardı.
 
 Yoldan bir susamış cavan şir gəldi,
 Sudan içdi, sonra orda dincəldi."
@@ -45,19 +45,19 @@ Sudan içdi, sonra orda dincəldi."
 Hümayun səsləndi: "Bir mədəndə ləl
 Gizlənirdi, ona gəlməsin xələl.
 
-Şaha bəxt yar oldu, edərəx qarət
-Tacma eylədi o ləli zinət."
+Şaha bəxt yar oldu, edərək qarət
+Tacına eylədi o ləli zinət."
 
-Səməntürıc dedi ki: "Gecə nur səpən
+Səməntürk dedi ki: "Gecə nur səpən
 Mirvari ayrıldı bir gün sədəfdən.
 
 Başqa bir yaqutla tez birləşdirib,
-Fəıək etdi onu bir şaha nəsib."
+Fələk etdi onu bir şaha nəsib."
 
 Belə söhbət açdı gözəl Pərizad:
 Bir ovlaqda bir ay nur saçırdı şad.
 
-Göydən günəş endi Keçmədən bir an.
+Göydən günəş endi keçmədən bir an.
 Kəməndinə saldı ayı ovlaqdan."
 
 Xütənxatun dedi: "Bilin, həzərat,
@@ -66,19 +66,19 @@ Yalqızdı bir zərbəf geyinmiş şümşad.
 Azad bir sərv ilə qovuşdu birdən,
 Şümşadla sərv olar bir yerdə çox şən."
 
-Gövhərmüik söylədi: "Bir neçə zaman
+Gövhərmülk söylədi: "Bir neçə zaman
 Zöhrə də uzaqdı dostdan, aşnadan.
 
 Xoşbəxtlik iqbalın əlini açdı,
 Müştəri Zöhrəyə gəlib yanaşdı."
 
-Elə Kİ, Şapura yetişdi növbət,
+Elə ki, Şapura yetişdi növbət,
 Məhəbbətdən açdı bir yeni söhbət.
 
 Dedi: "Camda baldı bu şirin sona,
 Şahənşah yağ oldu, qarışdı ona.
 
-Rəngi ustalıqla mən qatdığımdan.
+Rəngi ustalıqla mən qatdığımdan,
 Halvalarına da oldum zəfəran."
 
 Nəcabətlərindən söz açdı sonra,
@@ -88,7 +88,7 @@ Nəcabətlərindən söz açdı sonra,
 Biri-birinizdən ayrılmayın siz!"
 
 Şirinin ağzından çıxanda sözlər
-Havaya doldu müşk, çöllərə şəxər.
+Havaya doldu müşk, çöllərə şəkər.
 
 Utanaraq dedi: "Siz bilirsiniz,
 Ürək eşqsizdi, sevgili əşsiz.
@@ -106,39 +106,39 @@ Xosrovun əlindən mən alsam da cam,
 Ona böyük şahlar olmuşdur qulam."
 
 Xosrov söz başlayıb dedi: "Bir kərə
-Qara şir çıxmışdı çəmənliıdərə.
+Qara şir çıxmışdı çəmənliklərə.
 
-Şir Keçdiyi yolda maral duraraq.
+Şir keçdiyi yolda maral duraraq,
 Kəmənd atıb etdi o şiri dustaq.
 
 O maral Şirindir, mən də həmən şir,
 Salmışdır saçından boynuma zəncir.
 
 Əlimdən tutmasa bu Şirin şəkər,
-Söndürər şam Kimi məni Küləklər.
+Söndürər şam kimi məni küləklər.
 
 Yırtıcı şirlərlə vuruşsam, yəqin,
 Yıxaram, yanımda olarsa Şirin."
 
-Orda dostluq vardı baxsan hər gözə.
+Orda dostluq vardı baxsan hər gözə,
 Əl vururdu hamı deyilən sözə.
 
 Dost qəlbi torpaqdır, ona əl vursan,
 Əlin paka çıxar o saat, inan.
 
-Şirinin ürəyi cuşa gələrəx,
-Coşdu, artdı şaha Könlündə istək.
+Şirinin ürəyi cuşa gələrək,
+Coşdu, artdı şaha könlündə istək.
 
-Qədəhə mey tökdü, dodaq 1əhək al,
+Qədəhə mey tökdü, dodaq ləltək al,
 Şaha təqdim edib dedi: "Buyur, al!"
 
 Bu deşilməmiş ləl ləl açırdı,
 Xosrovun üzündə güllər açırdı.
 
-Gah deyirdi: "Ey cam, tələs Kİ, bircə
-Gözəl boxçasmı bağlayır gecə."
+Gah deyirdi: "Ey cam, tələs ki, bircə
+Gözəl boxçasını bağlayır gecə."
 
-Gah deyirdi: "Ağla, piyalə, sən də.
+Gah deyirdi: "Ağla, piyalə, sən də,
 Şirinin ləbindən getməsin xəndə."
 
 Gah deyirdi: "Dayan, açılma, səhər!
@@ -148,7 +148,7 @@ Məclisin bəzəyi qızlarla fələk
 Üzük oynayırdı ta səhərədək,
 
 Üzüyü istədi xoruz banında.
-Sübh açıldı, üzük qalmışdı onda.
+Sübh açıldı, üzük qalmışdı onda,
 
 Öz şadlıq payını alınca hərə,
 Durub üz tutdular çöldən şəhərə.
@@ -162,16 +162,16 @@ Məxluqə şüşətək dünya gəldi dar.
 Qədəhlərdən tez-tez mey yox olurdu,
 Şüşələr boşalır, başlar dolurdu.
 
-Bu şüşə ürəkii qızları görcək,
+Bu şüşə ürəkli qızları görcək,
 Şüşəbazlıq işi öyrətdi fələk.
 
 Mey içib nəşəni təzələdilər,
-Gecə də bu Keyfdən oldu təzətər.
+Gecə də bu keyfdən oldu təzətər.
 
 Dünənki yaqutdan deşib bir qədər.
 Dünənki dastandan yenə dedilər.
 
-Xosrovun Könlündən yarı Keçirdi,
+Xosrovun könlündən yarı keçirdi,
 Şirinin eşqilə şərab içirdi.
 
 Şərab bir tovuzdur, həm də ilansız,
@@ -180,34 +180,34 @@ Xosrovun Könlündən yarı Keçirdi,
 Xosrov bir əlində şərab dəstisi,
 O biri əlində bir gül dəstəsi.
 
-Gah gülü iyləyir, gah mey içirdi.
-Yar Könlü almağa yollar seçirdi.
+Gah gülü iyləyir, gah mey içirdi,
+Yar könlü almağa yollar seçirdi.
 
-Etdkcə acı mey canına təsir,
+Etdikcə acı mey canına təsir,
 Yenidən olurdu Şirinə əsir.
 
 Dodaqlar öpüşlə bağlandığından
 Sözü işarəylə edirdi bəyan.
 
-Nazla, işvələrlə alırdı cavab.
+Nazla, işvələrlə alırdı cavab,
 Cavabsız qalmırdı etdiyi xitab.
 
 Söz danışmadılar, gözləri ancaq
 İşarə edirdi hey qırpılaraq.
 
 Gecə yatmadılar sabaha qədər...
-Belə Keçdi, getdi gözəl gecələr.
+Belə keçdi, getdi gözəl gecələr.
 
 İstidən Xosrovun üzü tərlədi,
-Sübhədək içməkdi onun məqsədi.
+Sübhədək içməkdi onun məqsədi,
 
-Bəikə içə-içə Şirin məst ola,
-O şəxər bu sayaq gələ bir yola.
+Bəlkə içə-içə Şirin məst ola,
+O şəkər bu sayaq gələ bir yola.
 
 Düşmürdü əlinə arada fürsət,
 Rast gələ hədəfə oxu nəhayət.
 
-Yanında Kİ vardı o nazlı dilbər,
+Yanında ki vardı o nazlı dilbər,
 Sevinirdi qəlbi sabaha qədər.
 
 Gecə şəbdizini o gülgün günəş,
@@ -217,7 +217,7 @@ Ay və günəş ova hazırlaşdılar,
 Şəbdizə, Gülgünə oldular süvar.
 
 Muğandan Şahruda sürdülər atı.
-Dünyanı doldurdu şənik büsatı.
+Dünyanı doldurdu şənlik büsatı.
 
 Bəzən ovlaqları oldu Kürbasar,
 Çox quş ovladılar, balıq tutdular.
@@ -228,43 +228,43 @@ Ceyrandan, maraldan öldürürdülər.
 Günlər bölünmüşdü çöl-səyahətdə,
 Keçirdi vaxtları ovda, işrətdə,
 
-Ələ nəqş açarxən gecə gəlini,
-Bəzərxən ulduzla incə telini,
+Ələ nəqş açarkən gecə gəlini,
+Bəzərkən ulduzla incə telini,
 
-Şahın da gəlini vəcdə gələrəx,
-Hüsnüylə məclisə vurdu min bəzəx.
+Şahın da gəlini vəcdə gələrək,
+Hüsnüylə məclisə vurdu min bəzək.
 
 Başqa gəlinlər də bir-bir qalxdılar,
-Məclis dolu gəlin, şah qalmış beıcar.
+Məclis dolu gəlin, şah qalmış bekar.
 
-Badam azdı, laxin saysızdı şəxər,
+Badam azdı, lakin saysızdı şəkər,
 Göyərçin hədsizdi, şahin bir nəfər.
 
-Şahın sağlığına şərab içərəx,
-Deyib-gülürdülər sevinsin ürəx.
+Şahın sağlığına şərab içərək,
+Deyib-gülürdülər sevinsin ürək.
 
 Keçmədi mütrübsüz, neysiz bir gecə,
 Olmadı badəsiz, meysiz bir gecə.
 
-Içki, yar, çiçəkiik, cavanlıq dəmi!
+İçki, yar, çiçəklik, cavanlıq dəmi!
 Belə gözəl həyat dağıdar qəmi.
 
-Gülləri qoxlayıb güllüxdən kcçiuək,
-Yarm öz əlindən mey alıb içmək,
+Gülləri qoxlayıb güllükdən keçmək,
+Yarın öz əlindən mey alıb içmək,
 
 Qollarını yarın boynuna salmaq,
-Narvən Kimi para sarmaşıb qalmaq.
+Narvən kimi para sarmaşıb qalmaq,
 
 Bir əllə tutaraq yar ətəyindən,
 Bir əllə can nəbzi yoxlamaq hərdən.
 
-Bəzən qəmzələrdə şəfa axtarmaq.
-Öpüşlə nərd atıb, vəfa axtarmaq.
+Bəzən qəmzələrdə şəfa axtarmaq,
+Öpüşlə nərd atıb, vəfa axtarmaq,
 
 Bəzən qucaqlamaq təzə baharı,
 Bənövşədən taxmaq gül sırğaları.
 
-Bəzən qəm əlindən yaşrkən ürəx.
+Bəzən qəm əlindən yanırkən ürək.
 Dilbər qulağına sirri söyləmək -
 
 Dünya budur, bu da dünyada yoxdur,

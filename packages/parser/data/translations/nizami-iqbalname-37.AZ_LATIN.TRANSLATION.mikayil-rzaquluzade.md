@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -34,7 +34,7 @@ Göz vurub qızarmış alma edər naz,
 Çəkər gərdənin turunc işvəbaz.
 
 Tənəklər şərabdan nəşələnərək
-Sannaşar almaya, nara sərxoştək.
+Sarmaşar almaya, nara sərxoştək.
 
 Bürüyüb bağları var ağacları,
 Cüt məmələr kimi görünür barı.
@@ -43,21 +43,21 @@ Cüt məmələr kimi görünür barı.
 Asılar ağacın budaqlarından.
 
 Badam sevən torpaq yağ almaq üçün
-Soyar qabığını badamın bütün,
+Soyar qabığını badamın bütün.
 
-istəyər, innab da gəlib həvəsə,
+İstəyər, innab da gəlib həvəsə,
 O dilsiz-ağızsız fındıqdan busə.
 
 Ağaclar şənliklə qaldıraraq baş
-innabdan, fındıqdan verərlər şabaş.
+İnnabdan, fındıqdan verərlər şabaş.
 
-Qarapapaq üzüm sərxoş tuğundan
-Dolar bannağına saçını nihan.
+Qarapapaq üzüm sərxoşluğundan
+Dolar barmağına saçını nihan.
 
-Qabaqlar sazlarlar şadlıqçün rndıı,
+Qabaqlar sazlarlar şadlıqçün rudu,
 Heyva boğazından tutar armudu.
 
-Daşmar şərabçın dolu səbətlər,
+Daşınar şərabçın dolu səbətlər,
 Səbət daşıyanın üzü-gözü tər.
 
 Salxımlar sıxılar bağda başabaş,
@@ -73,7 +73,7 @@ Qatıb bir-birinə gecə-gündüzü,
 Üzürdü dənizi, keçirdi düzü,
 
 O, bir çox ölkəni xoşluqla, zorla
-Dardan çıxamışdı geniş bir yola.
+Dardan çıxarmışdı geniş bir yola.
 
 Ömrün piyaləsi artıq dolmuşdu,
 Onun özünə də yol dar olmuşdu.
@@ -111,7 +111,7 @@ Ordan Ruma sarı qayıtdı geri.
 Dərədən, təpədən, dənizdən, dağdan
 Keçərək, yol getdi daha durmadan.
 
-Yerin o başından Kinnana yetdi,
+Yerin o başından Kirmana yetdi,
 Ordan Kirmanşaha yol aldı getdi.
 
 Sonra da Babilə gəlib, İskəndər
@@ -148,7 +148,7 @@ Vəzir əl atsa da hər bir tədbirə,
 Bir ümid işığı görə bilmədi.
 
 Yığıb alimləri Rumdan, Yunandan
-Oldu hökmüdarm yanına rəvan.
+Oldu hökmüdarın yanına rəvan.
 
 Birbaşa o, şahın yanına gəldi,
 Bu görüş heç də xoş görüş deyildi.
@@ -159,7 +159,7 @@ Gördü: şah taqətsiz uzanıb yerdə.
 Diz çökdü, üzündə qüssə, duman, çən,
 Yoxladı nəbzini öpüb əlindən.
 
-Nəbzin vunnasına elədi diqqət,
+Nəbzin vurmasına elədi diqqət,
 Tapdı xəstəlikdən neçə əlamət.
 
 Buyurdu: nə qədər vardısa imkan
@@ -193,4 +193,4 @@ Müşk ətirli olan əlvan gül-çiçək
 Solub səpələndi yerə xəzəltək.
 
 Ayı yəhərləyən həmin İskəndər
-Ölüm yatağına baş qoyub inlər... 232
+Ölüm yatağına baş qoyub inlər...

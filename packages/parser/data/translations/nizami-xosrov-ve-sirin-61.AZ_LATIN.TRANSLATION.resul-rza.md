@@ -6,34 +6,34 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
 Hekayəçi yazır: o bədbəxt adam
-Şirinin eşqindən öldükdə nakam.
+Şirinin eşqindən öldükdə nakam,
 
 Şirinin ürəyi qəmlərlə doldu
 Ki, bağdan bir nazlı quşu yox oldu.
 
 Bahar buludutək çatıldı qaşı,
-O azad sərv üçün toxdü göz yaşı.
+O azad sərv üçün tökdü göz yaşı.
 
 Hörmətlə basdırdı əziz Fərhadı,
 Əli boş qayıtdı, sındı qanadı.
 
-Qəbrində thcdi bir ali məqbərə,
+Qəbrində tikdi bir ali məqbərə,
 Ziyarətə gəlsin ellər bu yerə.
 
 Xosrova hər yandan yetişdi xəbər:
-"Yoldaki tixandan qalmayıb əsər."
+"Yoldakı tikandan qalmayıb əsər."
 
 Şah öz etdiyindən çox peşman oldu,
 Əməlinin dərdi qəlbinə doldu.
 
-Qəlbi rahatsızdı, əhvalı xarab.
+Qəlbi rahatsızdı, əhvalı xarab,
 Necə verəcəkdir bu zülmə cavab?
 
 Yamanlıq eyləsə özgəyə hər kəs,
@@ -43,31 +43,31 @@ Gecə-gündüz onu incidirdi qəm,
 Cəzasını çəkdi, belədir aləm.
 
 Kağıza incitək sözləri düzən
-Xüsusi Katibi çağırdı birdən,
+Xüsusi katibi çağırdı birdən,
 
 Dedi: "Gül-şəkəri qat bir-birinə,
 Bir şirin məktub yaz dilbər Şirinə."
 
 Tanrı tərifilə sözü başladı,
-Şirin Kəlmələrlə çox naxışladı:
+Şirin kəlmələrlə çox naxışladı:
 
-"Gözə işıq verir tanrının adı.
+"Gözə işıq verir tanrının adı,
 Ondan nur almışdır xilqət bünyadı.
 
-insanı və cini eyləmiş aşıcar,
+İnsanı və cini eyləmiş aşkar,
 Ondandır yerlərdə, göylərdə asar.
 
 Fələyi döndərir yerin başına,
-Edir fələkiərlə yeri aşina."
+Edir fələklərlə yeri aşina."
 
-Bu tərifdən sonra mətləbə Keçdi,
+Bu tərifdən sonra mətləbə keçdi,
 Şirinçün ən şirin sözləri seçdi:
 
-"O şəxər gülüşlü, şəkər məzəli
+"O şəkər gülüşlü, şəkər məzəli
 Şirin - bu ellərin nadir gözəli,
 
 Eşitdim, bir qəbrin üstündə ağlar,
-Matəmə bürümüş Könlünü bir yar.
+Matəmə bürümüş könlünü bir yar.
 
 Qara saçlarını salmış üzünə,
 Civə yaşlar dolmuş nərgiz gözünə.
@@ -81,10 +81,10 @@ Xurma dodaqları yaralı, qançır.
 Dişləriylə didir dodaqlarını,
 Lalə dırnağıyla yanaqlarını.
 
-Aym üzərindən örtüyü atmış,
+Ayın üzərindən örtüyü atmış,
 Qara zülfü töküb matəmə batmış.
 
-Dünyanı yandırır fəryad səsiylə.
+Dünyanı yandırır fəryad səsiylə,
 Dostunu yad edir öz nəğməsiylə.
 
 Sevginin şərtləri böylə gərəkdir,
@@ -102,35 +102,35 @@ Biz necə insanıq ibrət almasaq?
 Onun dərdləriylə nə işimiz var,
 Min bir dərd almışıq səndən, ey nigar!
 
-Bu ölümdən çox bərk qəmlənmisən sən.
+Bu ölümdən çox bərk qəmlənmisən sən,
 Ölüb, ondan yenə əl götürmürsən.
 
 Öldürüb birini dərddən, nə gərək,
 Sonra qüssəsindən inləsin ürək?
 
-Qanmı içməsən, qəmini də çək.
+Qanını içməsən, qəmini də çək.
 Xar etdin, indi də özün ver ürək.
 
 Torpağında onun əyləşsən yüz il,
 Bir də gözün onu görəsi deyil.
 
-Göz yaşından fayda heç olmayacaq.
-Neçindir Kababsız tüstü qaldırmaq?
+Göz yaşından fayda heç olmayacaq,
+Neçindir kababsız tüstü qaldırmaq?
 
-Əlac yoxdur əsla qəza-qədərə.
-Nə ehtiyac vardır, qəmə, Kədərə?
+Əlac yoxdur əsla qəza-qədərə,
+Nə ehtiyac vardır, qəmə, kədərə?
 
-Ölümdür həyatın sonu, Kim bilməz.
+Ölümdür həyatın sonu, kim bilməz,
 Dünyada əbədi yaşamaz heç kəs.
 
 Sən bir günəş idin, ulduzdu o qız,
 Günəş doğan zaman görünməz ulduz.
 
 Sən bir sübh idin, o, yanar bir çıraq,
-Sübh oldu, çırağı Kim yandıracaq?
+Sübh oldu, çırağı kim yandıracaq?
 
 Sən bir şamsan, o, bir sərxoş pərvanə,
-Pərvanə gərəxdir odlara yana.
+Pərvanə gərəkdir odlara yana.
 
 Sən bağsan, o, səndə qurumuş tər ot,
 Yaxşı olar bağda qurusa hər ot.
@@ -144,37 +144,35 @@ Göy Nəsri-tayiri sənə vurulmuş.
 Kuzəndən bir qətrə su axıb əgər,
 Astanana tərəf gəlir dəclələr.
 
-Gözəiiik var hcən, qoy olmasın xal,
+Gözəllik var ikən, qoy olmasın xal,
 Bədirlənmiş ay var, qoy sınsın hilal.
 
 Fərhad öldü getdi, sağ olsun Şirin,
 Sarı gül soldusa, var olsun nəsrin."
 
 Katib məktubunu yazıb bitircək
-Şaha təqdim etdi yeri opərək.
+Şaha təqdim etdi yeri öpərək.
 
-Xosrov o məktubu qasidə verdi.
+Xosrov o məktubu qasidə verdi,
 Qasid də Şirinə onu yetirdi.
 
-Şahın məktubunu Şirin görüncən,
+Şahın məktubunu Şirin görürkən,
 Üzü aya döndü sevindiyindən.
 
 Üç yerindən öpüb açdı məktubu,
 Diqqətlə oxudu, görsün nədir bu.
 
 Müşk ilə süslənmiş ciyərlər gördü,
-Zəhərlə qarışıq şəxərlər gördü.
+Zəhərlə qarışıq şəkərlər gördü.
 
 İpəkdən qıvrılmış sanki yüz ilan,
 Xurmaydı içində yüz acı tikan.
 
-Üzü ipəkdəndi bu Kilimlərin,
+Üzü ipəkdəndi bu kilimlərin,
 Zəhərli şərbətdi, şəkərdən şirin.
 
-Nə şərbət içməyə səbri var idi.
+Nə şərbət içməyə səbri var idi,
 Nə coşub qızmağın yeri var idi.
 
 Çox incitdi onu tənəli sözlər,
 Baxtı oyaq idi, uddu birtəhər.
-
-məryəmin ölümü münasibəti ilə

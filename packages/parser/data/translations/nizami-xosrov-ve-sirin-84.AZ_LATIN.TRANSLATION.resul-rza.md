@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -15,26 +15,26 @@ status: DRAFT
 Barbəd beylə gözəl hava çaldısa
 Ondan yaxşısını çaldı Nikisa.
 
-Novruz gülü Kimi açıldı əvvəl,
+Novruz gülü kimi açıldı əvvəl,
 Novruz pərdəsində oxudu qəzəl:
 
 "Səni görən gözüm nə bəxtiyardır,
 Astanan mənimçün bir laləzardır.
 
-Xəyalın Könlümə olub pasiban,
+Xəyalın könlümə olub pasiban,
 Dərdimin gözünə tozundur dərman.
 
-Səndən əsir alır mənim dimağım.
+Səndən əsir alır mənim dimağım,
 Səndən işıq alır səhər çırağım.
 
-Sən mənim gözümsən, gözümə çıraq.
+Sən mənim gözümsən, gözümə çıraq,
 Bu çıraq və şama sənsən gözəl bağ.
 
-içdiyin nə meydir, dönmüsən yaza,
+İçdiyin nə meydir, dönmüsən yaza,
 Sənə düşür bu mey, iç, başla naza!
 
-Hüsnün bir gənclhcdir, görərsə hər kəs.
-Bu təzə gənclkdən can əsirgəməz.
+Hüsnün bir gənclikdir, görərsə hər kəs.
+Bu təzə gənclikdən can əsirgəməz.
 
 Bir güzgü götürsən əlinə əgər,
 Öz eşqindən qəlbin yanıb ah çəkər.
@@ -60,43 +60,43 @@ Bir miskini atdın, qoydun bu hala,
 Məndə bir zəhər var, səndə əlacı,
 Sənin günün xoşdur, mənimki acı.
 
-Güman edirdim Kİ, pis günə düşsəm.
-Olarsan Köməyim, mən çəkmərəm qəm.
+Güman edirdim ki, pis günə düşsəm,
+Olarsan köməyim, mən çəkmərəm qəm.
 
-indi sərxoş olub belə düşüncən,
-Qıçımı bağladın, tutdun əlinidən.
+İndi sərxoş olub belə düşürkən,
+Qıçımı bağladın, tutdun əlimdən.
 
-Kim yarm qəlbini xəncərlə dələr?
-Sevgili öldürmək mərdlixdir məgər?
+Kim yarın qəlbini xəncərlə dələr?
+Sevgili öldürmək mərdlikdir məgər?
 
-Hər saat sinəmə tixan vurursan,
+Hər saat sinəmə tikan vurursan,
 Vurma, oxşa barı vurduğun zaman.
 
-Bir dilsiz dərdini gətir dilinə.
+Bir dilsiz dərdini gətir dilinə,
 Bax bir göz ucuyla bu sevgilinə.
 
-Qapma gəlmişəm, ehtiyacım var,
-Dar gündə insanın üzü bənc olar.
+Qapına gəlmişəm, ehtiyacım var,
+Dar gündə insanın üzü bərk olar.
 
 Yoxsa nə həddim var, polad hasardan
 Küləkdə çıxardam çırağı asan.
 
-Bir zaman yüxsəkdən səcdə edərdim,
-indi Kənizinəm, qəlbimdə dərdim.
+Bir zaman yüksəkdən səcdə edərdim,
+İndi kənizinəm, qəlbimdə dərdim.
 
 Gəl tökmə qanımı, bir tək bütpərəst,
-inan Kİ, Kəbəyə nöqsan gətirməz,
+İnan ki, Kəbəyə nöqsan gətirməz.
 
-indi Kİ, üzündən ayırdın məni,
+İndi ki, üzündən ayırdın məni,
 Uzaqdan seyr edim barı qoy səni.
 
 Fikrinlə yaşayır gəncliyim, bilsən,
 Sayaram günləri bu ümidlə mən.
 
-Ah, bir gün qoynuma girəsən bitab.
+Ah, bir gün qoynuma girəsən bitab,
 Çəngin naləsilə verəsən şərab.
 
-Saçını gecə mən tutub opərək,
+Saçını gecə mən tutub öpərək,
 Öləydim qarşında səhər şamıtək!
 
 Ləbin şərabından məst olsam əgər,
@@ -106,7 +106,7 @@ Kənizin olmaqdır mənim niyyətim,
 Hicranına daha yoxdur taqətim.
 
 Verdim sənə bəxtin ixtiyarını,
-Y a öldür, ya dirilt bu dildarını.
+Ya öldür, ya dirilt bu dildarını.
 
 Sənin qabağında mən ölsəm, inan,
 Xoşdur ayrı qalıb tək yaşamaqdan."

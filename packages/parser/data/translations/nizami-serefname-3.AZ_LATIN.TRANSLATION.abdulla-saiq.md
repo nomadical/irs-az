@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -15,10 +15,10 @@ status: DRAFT
 Seçilmiş elçidir ulu Tanrıdan,
 Möhkəm hökmləri xalqa çatdıran,
 
-Qiymətli tacıdır azadələrin.
+Qiymətli tacıdır azadələrin,
 Ən dəyərlisidir bütün bəşərin.
 
-Əzəldən əbədə bütün yaranmış.
+Əzəldən əbədə bütün yaranmış,
 Məhəmməd adından almışdır naxış.
 
 Əqlin qanadına tək odur çıraq,
@@ -30,7 +30,7 @@ Zamindir qaraya, ağa bu rəhbər,
 Kölgəli ağaclar din saçan bağda
 Budağı göydədir, kökü torpaqda.
 
-Ziyarətgahıdır peyğəmbərlərin.
+Ziyarətgahıdır peyğəmbərlərin,
 Nemət verənidir bütün bəşərin.
 
 Bu yanar çırağa vermədən işıq,

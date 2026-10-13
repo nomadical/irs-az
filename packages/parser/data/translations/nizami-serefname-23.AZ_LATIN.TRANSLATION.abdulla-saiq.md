@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -16,7 +16,7 @@ status: DRAFT
 Ən adil, ən böyük Tanrı adından.
 
 Elə bir Tanrı ki, əl tutar, bəslər,
-Tək ona sığmar çarəsiz kəslər.
+Tək ona sığınar çarəsiz kəslər.
 
 İşıqlı ulduzu göydə parladır,
 Bu qara torpaqdan insan yaradır.
@@ -67,7 +67,7 @@ Nəhənglə döyüşə yoxsa kim çıxar?
 Gəl burax bu ilan təbiətini!
 
 Üstünə qılıncla kükrəsəm, yəqin,
-Y a ölüm, ya qaçmaq olar qismətin.
+Ya ölüm, ya qaçmaq olar qismətin.
 
 And olsun atəşə, “Avest”ə, “Zənd”ə,
 And olsun Günəşə, göy çəmbərində,
@@ -79,64 +79,61 @@ Rumdan və Yunandan qoymaram əsər,
 Başına yağdırram atəş, müxtəsər.
 
 Rumlular sərasər geysə də dəmir,
-««Scgäfi İŞL£&SK *> »
-
 Atəşgədəmizdə mum, dəmir birdir.
+
 Nə çıxar rumludan, rum əsgərindən,
-
 Atların nalında məhv olar ölkən.
+
 Əgər Rum üstünə çəksəm ordular,
-
 Tozundan Günəşin gözü kor olar.
+
 Ey Rumun ağası, budur məsləhət:
-
 Daraya edəsən zəncitək xidmət.
+
 Xalvarla çıxarsan geyimlə qalpaq,
-
 Bir oxa dayanmaz, inadı burax.
+
 Qarətçi ordumun oxundan məgər,
-
 Yemədin, üstümə çəkirsən ləşgər?
+
 Varmıdır Daraya verəcək başın?
-
 Mənimlə keçin, bu fikrindən daşın.
+
 Yayı qır, oxundan çıxar yeləyi,
-
 Zirehi qatla, gey zərif ipəyi.
+
 Yoxsa qulağını buran zaman mən,
-
 Bilirsən ki, heçsən, heçdən də heçsən!
+
 Qorx ürək çeynəyən oxumdan mənim!
-
 Sevinmə bu dovşan yuxumdan mənim!
+
 Hər yatan dovşana xor baxma, zinhar!
-
 Tərpənsə, yerindən ox kimi uçar.
+
 Bacarram səninlə edim xoş rəftar,
-
 Həddini aşanı döyməmək olar.
+
 Lakin bir məsəl var: “Şah olsa zəlil,
-
 Quyudur məskəni, Yer üzü deyil”.
+
 Vergi ver, kini sil, qoy işə qədəm,
-
 Köhnə ayinlərə, gəl, çəkmə qələm.
+
 Hər il nə gərəkdir yeni kürk tikmək,
-
 Noxtayla bir yerdə satılır eşşək.
+
 Köhnə xanədana rəxnə vurma gəl,
-
 Bununla açarsan başına əngəl!
+
 Məcbur etmə məni qalxım yerimdən,
-
 Mən böyük bir filəm, sən bir çibinsən!
+
 Sevin ki, haq sənə vermiş dövlət, var,
-
 Aslan pəncəsindən alınmaz şikar!
-Bir qarğa kəkliktək səkdi bir zaman,
 
+Bir qarğa kəkliktək səkdi bir zaman,
 Öz yerişi belə çıxdı yadından.
-««scrg^Şj
 
 Məclis qur, ulduzlar nur verdi yerə,
 Firiştə qapını açmış göylərə.
@@ -153,7 +150,7 @@ Mənə yox, özünə yetişər ziyan.
 Baş mənəm, başqalar mənə əl-ayaq,
 Nə gərək başını boş yerə qırmaq?
 
-Öz şillən toxunar öz yanağına,
+Öz sillən toxunar öz yanağına,
 Baltanı vurarsan öz ayağına.
 
 Gənclik qüruruyla şaşmaq əbəsdir,
@@ -181,7 +178,7 @@ Bəhmən də şahlığı atdığı zaman
 Dünyaya mən oldum böyük hökmüran.
 
 Məndədir Bəhmənin aslan ürəyi,
-Fləm İsfəndiyarın polad biləyi.
+Həm İsfəndiyarın polad biləyi.
 
 Onlardan yadigar bu gün mənəm, mən!
 Zorda İsfəndiyar, ürəkdə Bəhmən!
@@ -228,7 +225,7 @@ Fələklər əlini öpdü hörmətlə.
 Dəyərli məktubun başı qapandı,
 Naməni alaraq qasid yollandı.
 
-Daranın katibi məktubu açdı.
+Daranın katibi məktubu açdı,
 Hər rəngin nüktədən yüz gövhər saçdı.
 
 Oxuyub gördü ki, gövhərdir hər söz,

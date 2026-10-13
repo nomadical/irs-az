@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -34,13 +34,13 @@ Ondan yaxşı adam Yunanda yoxdu.
 Təlimə diqqətlə qulaq asardı.
 
 Ərəstu da ona atalıq etdi,
-Təlim vennək üçün bir ev düzəltdi.
+Təlim vermək üçün bir ev düzəltdi.
 
 İskəndər divanı tapşırdı ona,
 Əmindi məzluma yar olduğuna.
 
 Ruslarla vuruşdan qayıdan xaqan
-Bir kəniz vennişdi şaha ənnəğan.
+Bir kəniz vermişdi şaha ərməğan.
 
 Alimin qəlbini oxşasın deyə,
 Şah ona bu qızı etdi hədiyyə.
@@ -79,7 +79,7 @@ Ustad bir gün sordu Arşimidesdən:
 "Nə olub, bizləri unutmusan sən"
 
 Nə işdir, de, səni dərsindən qoyan?
-Elmsiz yaşaya bilənni insan?"
+Elmsiz yaşaya bilərmi insan?"
 
 Arşimides dedi: "Bir təşnə əgər
 Bir bulaq taparsa, söylə, neyləyər?
@@ -102,10 +102,10 @@ O gülü bir mənim yanıma göndər...
 Bir görüm neyləyib sənə o gözəl
 Ki, dərsə, biliyə qoymursan məhəl?"
 
-Baş əyib ustadın bu fənnanına,
+Baş əyib ustadın bu fərmanına,
 O bütü göndərdi pirin yanına.
 
-Ərəstu tapmışdı bir yeni dərman.
+Ərəstu tapmışdı bir yeni dərman,
 Xıltı ayırırdı onunla qandan.
 
 O xılt ki, bədənə faydası vardı,
@@ -154,13 +154,13 @@ Qandan xılt çıxarsa, bax, belə olar.
 Xıltlı qan sevməyin nə mənası var?
 
 Gəl, tökmə üzünün suyunu nahaq,
-insan bu su ilə canlanar ancaq.
+İnsan bu su ilə canlanar ancaq.
 
 Üzdən bir damcı su getməzsə, inan.
 Üzünün suyuyla şad yaşar insan.
 
-Əl çək hər kənizə könül vennəkdən,
-Bunlarla ömrünü bada vennə sən.
+Əl çək hər kənizə könül verməkdən,
+Bunlarla ömrünü bada vermə sən.
 
 Sənə bircə dilbər edər kifayət,
 Tək qalar çox arvad alan, nəhayət.
@@ -211,7 +211,7 @@ Necə ki, pərilər içər badəni,
 Torpaq da uddu o pərizadəni.
 
 Mənimlə xoş rəftar edərkən fələk
-Vennişdi ondan da gözəl bir mələk.
+Vermişdi ondan da gözəl bir mələk.
 
 O da sevimliydi, əziz canandı,
 Ağıllı qadındı, iş bacarandı.
@@ -247,7 +247,7 @@ Bu toyu çatdırıb mən nəhayətə.
 Təzə bir gəlin də verdim cənnətə.
 
 Neçə gözəl dərdi sinəmdə ikən,
-Rum-rus dastanını necə yazım mən? 97
+Rum-rus dastanını necə yazım mən?
 
 O qəmli çağları niyə yad edim?
 Bu xoş dastanımla könlü şad edim.

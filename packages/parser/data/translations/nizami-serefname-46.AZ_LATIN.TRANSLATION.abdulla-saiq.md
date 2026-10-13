@@ -6,16 +6,16 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
 status: DRAFT
 ---
-Saqi, dur bu gecə mənə ver şərab.
+Saqi, dur bu gecə mənə ver şərab,
 Bu başağrısına vacibdir gülab.
 
-Bir mey ver, suyu da eləsin huşyar.
+Bir mey ver, suyu da eləsin huşyar,
 Verməsin başlara ağırlıq, xumar.
 
 Xoş gəlir dünyanı ölçən ərlərə
@@ -28,7 +28,7 @@ Hər yeni geyimə bir nəzər salsın,
 Gördüyü şeylərdən bir sınaq alsın.
 
 Azacıq düşünsən, bir nüktə vardır,
-Hər kəs öz şəhrinda bir şəhriyardır.
+Hər kəs öz şəhrində bir şəhriyardır.
 
 Öz şəhrində olsan ən alçaq insan
 Yaxşıdır qürbətdə sultan olmaqdan.
@@ -40,7 +40,7 @@ Hökmündə olsa da saysız vilayət,
 Öz doğma yurduna çəkərdi həsrət.
 
 O gecə qət etdi, səhər qalxaraq
-Atma küləkdən taxsın bir ayaq.
+Atına küləkdən taxsın bir ayaq.
 
 Qəlbində söndürsün vətən odunu,
 Xorasan havası şənlətsin onu.
@@ -72,7 +72,7 @@ Ucalmış, padşaha yaxın olalı.
 İskəndər hökmünə bağlarkən kəmər,
 Dünyaları ölçər, ölkələr gəzər,
 
-Padşahım yanma gəlincə, birdən
+Padşahım yanına gəlincə, birdən
 Təbiltək inləyib qopardı şivən:
 
 “Padşahın, rusların zülmü çox dərin,
@@ -81,7 +81,7 @@ Abxaz gərdəyindən qaçırır gəlin.
 O gözəl ölkədən gəlmiş bir tanış,
 Deyir: o var-yoxdan çöp də qalmamış.
 
-Alan, Ərk rusları edərək axm,
+Alan, Ərk rusları edərək axın,
 Yağmurtək ölkəyə etmişdir basqın.
 
 Dərbəndə, ətrafa fitnələr saçmış,
@@ -96,7 +96,7 @@ Bir də yol tapmasın o şum ayaqlar.
 Deyirlər, qədərdən çox ölən varmış,
 Həm qırıb dağıtmış, həm də aparmış.
 
-Heç bir şey qalmamış dolu anbarda.
+Heç bir şey qalmamış dolu anbarda,
 Xəzinə boşalmış, yoxdur dinar da.
 
 Xəzinə geyimdən boşalmış, gerçək,
@@ -144,14 +144,14 @@ Yenə də eşşəkdir, parıldar tükü.
 Madam ki, yol tapmış bunlar xəznəyə,
 Ziyanlıq verəcək bir çox ölkəyə.
 
-Zülümlə açaçaq yeni qol-qanad.
+Zülümlə açaçaq yeni qol-qanad,
 Karvanlar soyacaq, sönəcək həyat.
 
 Ölkəyə dərindən ziyan vuracaq,
 Ruma, Xorasana əl uzadacaq”.
 
 Acıqlandı padşah bunu dinlərkən,
-Onun övladma olan sitəmdən.
+Onun övladına olan sitəmdən.
 
 Nüşabə üçün də qəmləndi hədsiz,
 Çünki o ölkəni tuturdu əziz.
@@ -168,8 +168,8 @@ Bu işi büsbütün gəl tapşır mana.
 Görərsən nə sahman verrəm işlərə,
 Kəməndim nə qədər baş tökər yerə.
 
-Alaram ağıb, huşu başlardan.
-Aslanlar qanma sallam həyəcan.
+Alaram ağılı, huşu başlardan,
+Aslanlar qanına sallam həyəcan.
 
 Aslanla oynamaq deyildir asan,
 İtləri salaram kinli qürurdan.
@@ -189,16 +189,16 @@ Nə də ot ki, dərman olsun bir dərdə.
 Ruslardan bu öcü almayıb getsəm,
 Feyləqusun oğlu deyiləm, itəm.
 
-Burtasm qurdunu tora salmasam,
-Burtas tülküsündan daha alçağam.
+Burtasın qurdunu tora salmasam,
+Burtas tülküsündən daha alçağam.
 
 Dövranın gərdişi verərsə imkan,
-Alaram öcümü kinli düşmandan.
+Alaram öcümü kinli düşməndən.
 
 Qaytarar nə ki şey aparmış bizdən,
 Düşər ayağıma o qarət edən.
 
-Nüşabə qurtarar zəncir altından.
+Nüşabə qurtarar zəncir altından,
 Mən şəkər alaram qamışdan, inan!
 
 O gümüş, daşlarda gizlənsə belə,
@@ -207,7 +207,7 @@ Xamırdan tük kimi çəkərəm çölə.
 Tədbirlə açılar bu çətin işlər,
 Ağacda zamanla açar çiçəklər.
 
-Flər işdə tədbirdən əl götürməmək,
+Hər işdə tədbirdən əl götürməmək,
 Zamandan-zamana dolanır fələk.
 
 Bu yola varımdır ərzaq, hazırlıq.

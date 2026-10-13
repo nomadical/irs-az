@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -57,7 +57,7 @@ Nüşabə eşqinə qaldırdı qədəh.
 Gül ilə, mey ilə verdi əl-ələ,
 Neçə gün keçirdi sərkərdələrlə.
 
-İş görmək fıkriylə bir gün oturdu,
+İş görmək fikriylə bir gün oturdu,
 Bahardan bəzəkli bir məclis qurdu.
 
 Çəkdi o məclisə elə bir hasar,
@@ -79,7 +79,7 @@ Sizin rəyinizlə istərəm ancaq
 Dünyanı mən qarış-qarış dolaşmaq.
 
 Ruma dönmək idi fikrim, nə etmək,
-Atm cilovunu çevirdi fələk.
+Atın cilovunu çevirdi fələk.
 
 Əzm etdim ki, Ruma çevirməyim üz,
 Ölkələr dolaşım gecə və gündüz.
@@ -96,65 +96,62 @@ Atm cilovunu çevirdi fələk.
 Alım bu şənlikdən faydalı bəhrə,
 Çünki təsir edir dəmir dəmirə.
 
-226 e*»»
 Birinci yürüşdə istəyim ancaq
-
 O qoca Əlbürzə kəsmə yol açmaq.
+
 Dağları, çölləri aşıb keçərək,
-
 Sonra da dənizə səyahət etmək.
+
 Xəzər dənizinə durum baxım mən,
-
 Damlalar çiləyim suya qədəhdən.
+
 Ordumla sahilə çıxınca artıq
-
 Bir həftə ovlayım quş ilə balıq.
+
 Sonra da baxaram əzmim nəyədir,
-
 Zəmanə o zaman bir yol göstərir.
+
 Bu işlər olurmu fikrinizlə saz?
-
 Dövlət doğrulardan boyun qaçırmaz”.
+
 Başçılar yer öpdü: “Sizindir əmr,
-
 Bizim fikrimizdir şah tökən tədbir.
+
 Baş qoyarıq, hara qoysanız ayaq,
-
 Əmriniz hər başa bir tacdır parlaq.
+
 Suda, ya atəşdə yer varsa, yenə
-
 Fikrimiz baş əyər hər bir əmrinə.
-Atsanız yerə ən uca dağlardan.
 
+Atsanız yerə ən uca dağlardan,
 Qorxusuz düşərik yerə hər zaman.
+
 Şahdan bir yol seçmək, bizdənsə ancaq,
-
 Padşahın əmrinə boyun qatlamaq”.
+
 Bu sözdən ürəyi olunca rahət,
-
 İskəndər onlara etdi çox hörmət.
+
 Yola çıxmaq üçün gördü hazırlıq,
-
 Açdı xəznələrin ağzını artıq,
+
 Ordunu gövhərlə elə doyurdu,
-
 Onları cəvahir daşımaq yordu.
+
 Öz kəskin ağlıyla qabağı görən
-
 Qorxaraq çəkindi yaman gözlərdən.
+
 Xəzinə yükləndi, yol aldı, ancaq
-
 Yollarda çətindi onu daşımaq.
+
 Dağlara qaldırmaq çətin olurdu,
-
 Xəzinə çəkirdi göylərə ordu.
+
 Belə bir fikirə gəldi İskəndər,
-
 O köhnə top üçün düzəltsin çənbər.
-227 {?£&&&*.
 
-Üerləri öyrənsin, o mənzil-mənzil,
-Qum nə qədərdir, dəniz neçə mil.
+Yerləri öyrənsin, o mənzil-mənzil,
+Quru nə qədərdir, dəniz neçə mil.
 
 Bilsin yer üzündə uca, alçağı,
 Enə və uzuna ölçsün torpağı.
@@ -183,7 +180,7 @@ Birinci, çalışmaz varı olanlar,
 İkinci, qarşıya çıxsa ac, bəlli,
 Qılıncı endirər o, iki əlli.
 
-Smaqlı kəslərdən böyük İskəndər
+Sınaqlı kəslərdən böyük İskəndər
 Özüylə almışdı yüz on üç nəfər.
 
 Hamısı şahanə məclisin qəlbi,
@@ -202,7 +199,7 @@ Bəlinas söylədi hey düşünərək:
 “Xəzinə torpağa gömülsün gərək!
 
 Ordu da padşahı təqlid eləsin,
-Bir xarabalıqda mah gizləsin.
+Bir xarabalıqda malı gizləsin.
 
 Bilinsin xəzinə gizlənən məkan,
 Hər kəs öz varına qoysun bir nişan.
@@ -216,11 +213,11 @@ Etsin öz malını almağa həvəs”.
 Bu fikri İskəndər irəli sürdü,
 Ordunun xeyrini bu işdə gördü.
 
-Toıpağa gömdü öz xəzinəsini.
+Torpağa gömdü öz xəzinəsini,
 Nişanla bərkitdi dörd dövrəsini.
 
 Əmr etdi, basdırsın sərvəti olan,
-Qəlbindən sil İnsin qorxu və duman.
+Qəlbindən sil insin qorxu və duman.
 
 Dağlarda, daşlarda hamı yer-yerdən
 Daş-qaşı gömərək döndülər şən-şən.
@@ -266,5 +263,3 @@ Alar hər xəznədən ayaq kirəsi.
 
 Mənə bəxtim ayaq kirəsi vermiş,
 Ayağım xəzinə içinə girmiş.
-
-«*$cr£>Jqt

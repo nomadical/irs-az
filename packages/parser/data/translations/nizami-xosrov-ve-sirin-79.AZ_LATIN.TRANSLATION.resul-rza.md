@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -21,31 +21,31 @@ Daş qəlbə daş vurub, oldu rahatsız.
 Kirpiyindən axır dayanmadan yaş,
 Döyürdü özünü o yavaş-yavaş.
 
-Yanıqlı-ahmdan hava susadı.
+Yanıqlı-ahından hava susadı,
 Axdı göz yaşları, yeri suladı.
 
 Kirpiyi durmadan axıdırdı qan,
 Hər nalə etdikcə olurdu nalan.
 
-Yarımcan quş Kimi səndələyirdi.
+Yarımcan quş kimi səndələyirdi,
 Nərgizdən səmənə dürr ələyirdi.
 
 Əli gəlmir tutsun qəm ayağını,
-Qüssə əritməsin ürəx yağını.
+Qüssə əritməsin ürək yağını.
 
-Taqətsiz ürəyi şurə gələrxən
+Taqətsiz ürəyi şurə gələrkən
 Utandı tutduğu qaba işlərdən.
 
-Gülgünə atlandı, yüyəni çəkxıi,
-Göz yaşı gül rəngli, at da Külrəngdi.
+Gülgünə atlandı, yüyəni çəkdi,
+Göz yaşı gül rəngli, at da külrəngdi.
 
 Atı tər içində gedəndə yenə,
-Sanxi su oturmuş odun üstünə.
+Sanki su oturmuş odun üstünə.
 
-Yol incə qaşının pərgarı Kimi,
-Gecə qapqaraydı saçları Kimi.
+Yol incə qaşının pərgarı kimi,
+Gecə qapqaraydı saçları kimi.
 
-Atı dar yollarda sürüb gedirdi.
+Atı dar yollarda sürüb gedirdi,
 Qəlbi qaranlıqda dua edirdi.
 
 At verib gücünü iti ayağa,
@@ -57,20 +57,20 @@ Oğlan paltarında səfər edirdi,
 Gülgünü baş aldı geniş çöllərə,
 Şirin gəlib çatdı axır bir yerə,
 
-Gördü yuxudadır kcşikçi, qulam,
+Gördü yuxudadır keşikçi, qulam,
 Açıb həmayili sərhənglər tamam.
 
 Yuxladıb hamını mehtab əfyunu,
 Bir pozan yox idi sərxoş yuxunu.
 
 Dayanıb baxmaqdan yoruldu Şirin,
-Bilmədi neyləsin, ah çəkxıi dərin.
+Bilmədi neyləsin, ah çəkdi dərin.
 
 Şahın dərgahından baxanda Şapur
-Görmüşdü bir atlı atmı çapır,
+Görmüşdü bir atlı atını çapır,
 
 Şapurun əfsunlu sözləri bu dəm
-Yuxuya vermişdi Xosrovu mohkəm.
+Yuxuya vermişdi Xosrovu möhkəm.
 
 Oyatmayıb əsla o yatmışları,
 Şapur çıxıb getdi Şirinə sarı.
@@ -82,10 +82,10 @@ Pəri deyilsənsə, de, nə gəzirsən?
 Qarıncaya dönər burda ilanlar."
 
 O dilbər Şapuru tanıdı görcək,
-Sıçradı Gülgündən yerə ceyrantəx.
+Sıçradı Gülgündən yerə ceyrantək.
 
 Təəccübdə qaldı Şapur bu işdən,
-Yaxmlaşdı görsün Kimdir bu gələn.
+Yaxınlaşdı görsün kimdir bu gələn.
 
 Sataşanda gözü o şux dilbərə,
 Papaq göyə atdı, baş əydi yerə.
@@ -96,13 +96,13 @@ Ayaq tozun bizə oldu tutiya?"
 O gözəl Şapura niyaz eylədi
 Bir qadın diliylə tərif söylədi.
 
-Yapışıb əlindən çəktıi bir yana,
-Öz heıcayətini danışdı ona.
+Yapışıb əlindən çəkdi bir yana,
+Öz hekayətini danışdı ona.
 
-Dedi şuxluğundan, naşılığmdan
+Dedi şuxluğundan, naşılığından
 Necə utanmışdır, olmuşdur peşman.
 
-Necə xoruz Kimi vaxtsız banlayıb.
+Necə xoruz kimi vaxtsız banlayıb,
 Necə öz səhvini indi anlayıb.
 
 Sonra dedi: "Xosrov ayrıldı, getdi,
@@ -111,7 +111,7 @@ Bu gediş qəlbimi qəmxanə etdi.
 Naçar qalıb yaman odlara düşdüm,
 Ağıl mənzilindən avara düşdüm.
 
-Igidlik göstərdim acizliyimdən,
+İgidlik göstərdim acizliyimdən,
 Çətin vaxtda ceyran şir olur bəzən.
 
 Məni salmayıbmış gözündən allah,
@@ -120,28 +120,28 @@ Rast gəlmədi yolda mənə heç bədxah.
 Öz arzumla gəldim belə bixətər,
 Doğruluqla gələn yolu düz gələr.
 
-Sən Kİ məhrəm oldun əvvəldən mənə,
-Gəıəcək günümü tapşırdım sənə.
+Sən ki məhrəm oldun əvvəldən mənə,
+Gələcək günümü tapşırdım sənə.
 
-Iki arzum vardır, ona qulaq as,
+İki arzum vardır, ona qulaq as,
 Yerinə yetirsən, heç dərdim olmaz.
 
-Birisi budur Kİ, şah eyş edəndə,
-"Nuş olsun" səsləri axıb gedəndə.
+Birisi budur ki, şah eyş edəndə,
+"Nuş olsun" səsləri axıb gedəndə,
 
 Məni bir guşədə gizlində saxla,
-Sirrimi açmayıb gözlə maraqla,
+Sirrimi açmayıb gözlə maraqla.
 
-istəyirəm, şahı Keyf edən görüm,
+İstəyirəm, şahı keyf edən görüm,
 Canları oxşayan, üzü şən görüm.
 
-ikinci arzum da budur: şahənşah
-Kəbin Kəsib, məni eyləsin nigah.
+İkinci arzum da budur: şahənşah
+Kəbin kəsib, məni eyləsin nigah.
 
 Əgər görəcəksən işi, yubanma,
 Gecə qaranlıqkən başla, dayanma!
 
-Yox, qəbul etməsən, səni tənc edim.
+Yox, qəbul etməsən, səni tərk edim,
 Baş alıb tələsik qəsrimə gedim."
 
 Onun məqsədini biləndə Şapur
@@ -150,7 +150,7 @@ And içdi, razıyam, doğru söz budur.
 Gülgünü Şəbdiztək tövləyə saldı,
 Şirini Pərviztək eyvana aldı.
 
-Şahın İKİ yerdə sarayı vardı,
+Şahın iki yerdə sarayı vardı,
 Bəzəkdən ulduztək yanıb parlardı.
 
 Biri göz önündə eyşü işrətçün,
@@ -162,23 +162,23 @@ Yataqçün düzəlmiş çadıra sarı.
 Əlindən yapışıb saldı içəri,
 Gərdəyi bağlayıb, qayıtdı geri.
 
-Qəlbi şad üz tutdu şahın yanma,
+Qəlbi şad üz tutdu şahın yanına,
 Müntəzir dayandı şah fərmanına.
 
 Gah gəzir gülşənin dörd bir yanını,
 Gah da yandırırdı sönən şamını.
 
 Şirin yuxusundan şah birdən qalxdı,
-Göydəki ay Kimi alnı parlaqdı.
+Göydəki ay kimi alnı parlaqdı.
 
-Dedi: "Sağ ol, Şapur, mən yuxlayıncən
-Sən taleyin khş oyaq qalmısan.
+Dedi: "Sağ ol, Şapur, mən yuxlayırkən
+Sən taleyin kimi oyaq qalmısan.
 
 Sənin iqbalınla yuxu görmüşəm,
-Könlümdə qalmayıb nə Kədər, nə qəm.
+Könlümdə qalmayıb nə kədər, nə qəm.
 
 Yuxuda nə gördüm: səfalı bir bağ,
-Hardansa əlimə Keçdi bir çıraq.
+Hardansa əlimə keçdi bir çıraq.
 
 Bu mehtab, bu şamla tökərək tədbir,
 Gəl, mənim yuxumu sən eylə təbir."
@@ -189,22 +189,22 @@ Dedi: "Artıq olsun gözlərində nur.
 Bu qaranlıq gecə bir ulduz olar,
 O baldodaq gələr, yuxun düz olar.
 
-Bunun sağlığına gəl şərab İçək,
+Bunun sağlığına gəl şərab içək,
 Yerlərə ləldən bir paltar biçək.
 
 Gəl, sabah düzəldək bir yeni məclis,
 Köhnə şərab olsun, bir təzə nərgis.
 
 Şərqdə göstərəndə günəş üzünü,
-Dənizdən qaldırıb Kafur tozunu.
+Dənizdən qaldırıb kafur tozunu.
 
 Kafur iyli meyi töküb camlara,
 Bu qəm dəryasından çıxaq kənara."
 
 Lalətək qızardı şah sevincindən,
-Nərgiz Kimi yumdu gözünü birdən.
+Nərgiz kimi yumdu gözünü birdən.
 
-Günəşin beşiyi düşəncən yola,
+Günəşin beşiyi düşərkən yola,
 Cəmşid bəzəyini geyindi dünya.
 
 Şərqdən bir məşşatə çıxıb gələrək,
@@ -219,32 +219,32 @@ Gecəki yuxudan oldu bəxtiyar.
 Tez adam çağırdı, buyruq verdi şah:
 Qurulsun dağlarda böyük barigah.
 
-Barigahm başı dəydi göylərə,
+Barigahın başı dəydi göylərə,
 Bədnəzər xar olub, gömüldü yerə.
 
 Altmışa bərabər eni-uzunu,
-Camaat qul Kimi sarmışdı onu.
+Camaat qul kimi sarmışdı onu.
 
 Şahanə həmayil taxan hər sərhəng
-Bəzədi dərgahı qızıl hcykəhək.
+Bəzədi dərgahı qızıl heykəltək.
 
-Bayraq qotazıtəx əyib papağı
-Deyləmilər xəsdi tez solu, sağı.
+Bayraq qotazıtək əyib papağı
+Deyləmilər kəsdi tez solu, sağı.
 
 Dəhlizdə durmuşdu qapqara qullar,
 İsfahana bağlı sanki Zəngibar.
 
 Həbəş qulamları, Çin gözəlləri
-Olmuşdu gecəylə aytəx hər biri.
+Olmuşdu gecəylə aytək hər biri.
 
-Çadırın altı dar qılınc ağzından.
-Səba yol tapmazdı Keçsin oradan.
+Çadırın altı dar qılınc ağzından,
+Səba yol tapmazdı keçsin oradan.
 
 Uzanmış çadırın ipləri bir mil,
 Qapının ağzında durmuşdu çox fil.
 
 Girdə çadırlar da örtmüşdü düzü,
-Qamaşırdı aym, günəşin gözü.
+Qamaşırdı ayın, günəşin gözü.
 
 Çadırdan birində oturmuşdu şah,
 O birində Şirin çəkmədəydi ah.
@@ -252,14 +252,14 @@ O birində Şirin çəkmədəydi ah.
 Yerə şaha layiq saldılar zərbəf,
 Min zinət alırdı ondan hər tərəf,
 
-Torpağından qaş-daş saçırdı kшək,
+Torpağından qaş-daş saçırdı külək,
 Yel gətirən xəznə bu imiş, demək.
 
 Carçı toplamışdı bütün həmdəmi,
 Ora buraxmırdı bir naməhrəmi.
 
 Şahın hərəmində yoxdu özgə kəs,
-Bir hərəm qulları - lal Kimi dinməz.
+Bir hərəm qulları - lal kimi dinməz.
 
 Müdrik nədimlərdən bir neçə nəfər
 Kürsünün üstündə əyləşmişdilər.
@@ -267,7 +267,7 @@ Kürsünün üstündə əyləşmişdilər.
 Hər yana - aşağı, həm də yuxarı
 Qoyuldu yaqutdan noğul qabları.
 
-Hər Kəsin əlində işlənən zərdir,
+Hər kəsin əlində işlənən zərdir,
 Qaş-daşlı bir turunc tacdır, ənbərdir.
 
 Yumşaq qızıl - barmaq aralarından
@@ -276,40 +276,40 @@ Yumşaq qızıl - barmaq aralarından
 Saqi əlində cam, cam içində mey,
 Nəğmələr səslənir, səslənirdi hey...
 
-Dünyanı bürüyüb asiman Kimi,
+Dünyanı bürüyüb asiman kimi,
 Barbəd gətirmişdi fəğanə simi.
 
 Nəğməylə dostlara səfa verirdi,
-Xəstə ürəkiərə şəfa verirdi.
+Xəstə ürəklərə şəfa verirdi.
 
 Qalxıb ucaldıqca udunun səsi
 Hər teli çalırdı Davud nəğməsi.
 
-Zəngulə xoş səslə axıb gedirdi.
-Nəfəsi Isatək can bəxş edirdi.
+Zəngulə xoş səslə axıb gedirdi,
+Nəfəsi İsatək can bəxş edirdi.
 
-Manqala dönmüşdü əlindəxi ud.
-Könüllər yanırdı onda, sanxi ud.
+Manqala dönmüşdü əlindəki ud,
+Könüllər yanırdı onda, sanki ud.
 
-O, şəxər tökürdü çalan əliylə,
-Yatırdı bərx gecəquşular belə.
+O, şəkər tökürdü çalan əliylə,
+Yatırdı bərk gecəquşular belə.
 
 Burduqca bərbətin aşıqlarını,
 Bərbət ucaldırdı ahu zarını.
 
-Mizrab vuran zaman ipəx tellərə
+Mizrab vuran zaman ipək tellərə
 Büründü nəğməyə bütün dağ-dərə.
 
 Nikisa adlı bir çalğıçı vardı,
 Qoçaq, munis nədim, çox pürvüqardı.
 
 Gündə bir havanı yaradan fələk
-Onu yaratmışdı öz səsilə təx.
+Onu yaratmışdı öz səsilə tək.
 
 Ruddan mövzun səslər çıxaran ustad
 Nəğmədə durğunu etmişdi icad.
 
-Elə şirin-şirin hava çalırdı.
+Elə şirin-şirin hava çalırdı,
 Quşlar belə yerdə qanad salırdı.
 
 O qədər gəlirdi nəğmə xoşuna,
@@ -322,33 +322,33 @@ O məclisdə işrət başlayan zaman
 Çaldılar çəng ilə bərbəti haman.
 
 Barbədlə çəng səsi axıb, müxtəsər,
-Tük ilə rəng Kimi birləşmişdilər.
+Tük ilə rəng kimi birləşmişdilər.
 
-Hər Kim qulaq versə, Könlü xoşalır,
+Hər kim qulaq versə, könlü xoşalır,
 Biri ürək verir, biri huş alır.
 
 Çaldılar, hər qəlbə min nalə doldu,
 Qulamlar hüzurda ədəbsiz oldu.
 
 Şah əmr etdi birdən, bütün qulamlar
-Kəkiiktək getdilər, oldular kənar.
+Kəkliktək getdilər, oldular kənar.
 
-Çalğıçılar, Şapur, bir də şah qaldı.
+Çalğıçılar, Şapur, bir də şah qaldı,
 Hamı çıxdı getdi, məclis boşaldı.
 
 Barbəd üçtellini çalırdı çox xoş,
-Ayıqxən hər xəsi edirdi sərxoş.
+Ayıqkən hər kəsi edirdi sərxoş.
 
 Nikisa çəngiylə tufan edirdi,
 Ərğənun telini dilləndirirdi.
 
-Xosrov da onlara edərəx rəğbət
+Xosrov da onlara edərək rəğbət
 Deyirdi: sizindir bu qəlb, bu dövlət.
 
-Fırlanan çadırdan gün çəkilət'Kən
-Gözəl pəri Kimi ay doğdu birdən.
+Fırlanan çadırdan gün çəkilərkən
+Gözəl pəri kimi ay doğdu birdən.
 
-Şirin olan yerin ətrafında təx
+Şirin olan yerin ətrafında tək
 Dolanırdı Şapur bir pərvanətəx.
 
 Pərdənin ucunu qaldırıb canan,
@@ -358,9 +358,9 @@ Bu dərgahda gəlsin çənglə otursun.
 Halımla ahəngdar bir mizrab vursun.
 
 Halıma sazını uyğun eyləsin,
-Hər nə Kim, mən desəm, onu söyləsin!"
+Hər nə kim, mən desəm, onu söyləsin!"
 
-Şapur Nikisanı edərəx hali,
+Şapur Nikisanı edərək hali,
 Oturtdu məclisdən bir az aralı.
 
 "Bu məhrəm çadıra, - dedi - baxma sən,
@@ -372,19 +372,17 @@ Hər nə əmr etsələr, onu çalarsan."
 Bir tərəfdə Barbəd, sərxoş bir bülbül,
 Nikisa əldə çəng, olmuşdu bir gül.
 
-Ənbər iyli şamlar yanırdı parlaq.
+Ənbər iyli şamlar yanırdı parlaq,
 Oddan bir cənnətdi, tüstüdən bir bağ.
 
 Şah qəlbində vardı dərin bir maraq:
 Görəsən çalğıçı nələr çalacaq?
 
-Sazın фək teli xoş avaz almış,
+Sazın ipək teli xoş avaz almış,
 Çəngin qulağına halqalar salmış.
 
 Zil pərdədən qalxan nəğmələr gözəl,
 Çəngin ətəyində nazlanır qəzəl.
 
-O çadır gözəli açdı Könlünü
+O çadır gözəli açdı könlünü
 Çalğıçıya dedi: "Qorxma, çal bunu!"
-
-şirinin dilindən nikisanin

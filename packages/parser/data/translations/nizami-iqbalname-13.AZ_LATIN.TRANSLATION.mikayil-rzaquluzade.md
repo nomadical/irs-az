@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -18,7 +18,7 @@ Bülbülün səsini batil eyləsin.
 Nəvalar nəvası olsun bu nəva,
 Dərdlərin dəvası olsun bu nəva.
 
-Belə deyirlər ki. Ruma bir zaman
+Belə deyirlər ki, Ruma bir zaman
 Bir yoxsul gəlibmiş başqa diyardan.
 
 Az vaxtda qazanmış o çoxlu dövlət,
@@ -43,9 +43,9 @@ Ki, padşah on katib ayırsa əgər,
 Onun dövlətini saya bilməzlər.
 
 O bir çörəkçiydi əvvəl, yoxsul, ac,
-Quru çörəyə də, suya da möhtac,
+Quru çörəyə də, suya da möhtac.
 
-indi alıb-satır ləl ilə gövhər,
+İndi alıb-satır ləl ilə gövhər,
 Ağıl bu barədə heç susa bilər?
 
 Peşə yox, alver yox, əkin də əkməz,
@@ -57,7 +57,7 @@ Yığılıb gördülər belə məsləhət:
 Əmr etdi padşah ki, o kişi bir gün
 Üstündən şübhəni götürmək üçün
 
-Xəlvəti padşahın yanma getsin,
+Xəlvəti padşahın yanına getsin,
 Bu sirri xoşluqla ona nəql etsin.
 
 Varlanmış çörəkçi gedib bargaha,
@@ -67,7 +67,7 @@ Diz çökdü, bir daha təzim eylədi,
 Torpağa düşərək səna söylədi.
 
 Şah onu görəndə bəxtəvər, xoşbəxt,
-Təxtinin yanma eylədi dəvət.
+Təxtinin yanına eylədi dəvət.
 
 Gahdan hədələdi, gah xoş danışdı,
 Sonra xəzinədən söz-söhbət açdı.
@@ -76,9 +76,9 @@ Dedi ki: "Sən xoşbəxt adamsan, yəqin.
 Fələk də xoş baxmış üzünə sənin.
 
 Eşitdim buraya köçüb gələndə
-Bir günlük azuqə yox imiş səndə,
+Bir günlük azuqə yox imiş səndə.
 
-indisə, deyirlər, çox sərvətin var,
+İndisə, deyirlər, çox sərvətin var,
 Acizdir çəkməyə onu karvanlar.
 
 Dövlət qazanmaqçın çəkərlər zəhmət,
@@ -96,7 +96,7 @@ Bildi ki, düzlüyə qalıbdır pənah.
 Təzim eləyərək şaha yenidən,
 Söylədi: "Ey padşah, eşitmişəm mən,
 
-Zülmünü gönnəyib kimsə dünyada,
+Zülmünü görməyib kimsə dünyada,
 Yaxşılıq yaraşır səndəki ada.
 
 Xoş rəftar edibsən sən rəiyyətlə,
@@ -139,7 +139,7 @@ Müşkün ətrindən də safdı o mələk,
 Yeyirdik onunla biz yavan çörək.
 
 Yetişdi arvadın doğum möhləti,
-Məndən bir az isti quyrnaq istədi.
+Məndən bir az isti quymaq istədi.
 
 Evdə yemək üçün - ürək qanından
 Başqa heç şey yoxdu, ey şahım, inan!
@@ -213,7 +213,7 @@ Acığı soyudu, yumşaldı mumtək.
 Odur ki, əl çəkdi bəhs eləməkdən,
 Çünki yağlı dilə aldanar düşmən.
 
-"içən, çalansanmı?" deyə soruşdu.
+"İçən, çalansanmı?" deyə soruşdu.
 "Bəli!" Cavab verdim, gətirdi rudu,
 
 Mən də həmin rudu alaraq ələ,
@@ -240,7 +240,7 @@ Varlanmaq qəsdim var mənim bu gecə.
 Var mənim özümtək bir yoldaşım da,
 Mənsiz şərab içməz əsla dünyada.
 
-Gizli bir xəzinə keçibdir ələ.
+Gizli bir xəzinə keçibdir ələ,
 Üstündə əjdaha yatmayıb hələ.
 
 Yalnız ikimizik ona əjdaha,
@@ -283,12 +283,12 @@ Qapqara bir adam girdi o anda,
 Həmin bağlama da onun dalında.
 
 Yükü çətinliklə endirdi yerə,
-Yaman qüwətliydi, bənzərdi şirə.
+Yaman qüvvətliydi, bənzərdi şirə.
 
 Hələ bağlı yükü töküb açmadan
 Bir qədər yedi o, hazır şorbadan.
 
-Yoldaşı yatmışdı. Getdi yanma,
+Yoldaşı yatmışdı. Getdi yanına,
 Onun dediyini bu etdi ona:
 
 Polad qılıncını ona əndərdi,
@@ -297,8 +297,8 @@ Bir anda leşini torpağa sərdi.
 Qorxudan canıma düşdü vəlvələ,
 Özümü birtəhər tez aldım ələ.
 
-O kəsib başım, qalxdı ayağa,
-Dıırdıı bədənini şaqqalamağa.
+O kəsib başını, qalxdı ayağa,
+Durdu bədənini şaqqalamağa.
 
 Bir şaqqa götürüb çıxdı o yerdən,
 Bu zaman huşumu itirmişdim mən.
@@ -313,7 +313,7 @@ Bildim ki, o uzaq bir yerə gedir,
 Gecə də qaranlıq, tutqun gecədir.
 
 Qartaltək yerimdən şığıdım o an.
-Cumdum xəzinəyə sarı dumadan.
+Cumdum xəzinəyə sarı durmadan.
 
 Zənci o meyidi alıb gedəndə
 Aldım xəzinəni çiynimə mən də.

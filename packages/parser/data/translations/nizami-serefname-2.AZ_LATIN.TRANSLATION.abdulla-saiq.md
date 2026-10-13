@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -24,13 +24,13 @@ Onu hər küləkdən özün et iraq.
 Əkməyə sən verdin sağlam bir qüvvət,
 Mənə əkdiyimdən ayır bir qismət.
 
-Təpələr ucadir, sellər çağlayan,
+Təpələr ucadır, sellər çağlayan,
 Çevirmə yüyəni bəxtin yolundan.
 
 Məni bu sellərdən sən elə qurtar,
 Körpünü qırmasın bu daşqın çaylar.
 
-Gəlmişəm qapma, üzümdür qara,
+Gəlmişəm qapına, üzümdür qara,
 Bağışla, ey Tanrı, yaxma odlara.
 
 Üzümü ağ elə sən, ey Yaradan,
@@ -93,7 +93,7 @@ Yüzlərcə eşq olsun dördünə belə.
 Qanlını qurtaran xətt sənəd kimi,
 Qolumda qalar bir bazubənd kimi.
 
-Başlarkən qılmctək kəsən məhkəmən,
+Başlarkən qılınctək kəsən məhkəmən,
 Məhşərlə qiyamət qarşı gəlirkən
 
 Hər kəsin boynunda nameyi-əmal,
@@ -103,45 +103,43 @@ Göstərrəm, insafla hökmü verənsən,
 Bununla hökm ver, çün hakim sənsən.
 
 Ümidim sənədir, ey ulu Tanrı,
-21 (X£Ş>
-
 Qapından ümidsiz qaytarma, barı.
+
 Atımı həddimdən uzaq salmışam,
-
 Yolunda mən yarı yolda qalmışam.
+
 Taxtımı qapında düşür, Yaradan,
-
 Məni azdırma öz doğru yolundan.
+
 Səndən yol göstərmək, məndən aramaq,
-
 Mən cana gəlmişəm, sən can ver, ancaq
+
 Sevdiyin ayinlə, ey Pərvərdigar,
-
 Sən mənsiz bəzədin mənə bir bazar.
-Bu zinət naxşmı salma rövnəqdən,
 
+Bu zinət naxşını salma rövnəqdən,
 Mənə öz xəznəndən bir pay ayır sən.
+
 Bu zəif varlıqdan nədir istəyin?
-
 Elə bil əvvəldən yoxmuş bu miskin.
+
 Sən əziz tutmusan, yandırma məni,
-
 Nəzərin məndəykən qovma bəndəni.
+
 Sən verdin mənə bu uca rütbəni,
-
 Sən də bu zindandan gəl qurtar məni.
+
 İndi ki, vermişsən böyüklük, ad-san,
-
 Kömək ol mənə, ey adil Yaradan!
+
 Hər kimin başına qoydunsa külah,
-
 Salma toz-torpağa, əziz tut, Allah.
-Qapmm sirdaşı olan bir qəlbi
 
+Qapının sirdaşı olan bir qəlbi
 Qoyma hər qapıda dilənsin, Rəbbi.
+
 Sən mənim işimi alma nəzərə,
-
 İşimə əncam çək ədlinə görə.
-Nizami bu uca dərgahda, ancaq,
 
+Nizami bu uca dərgahda, ancaq,
 Ulu Mustafanı şəfi tutacaq.

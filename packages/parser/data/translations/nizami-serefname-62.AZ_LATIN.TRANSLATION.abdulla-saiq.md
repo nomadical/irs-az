@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -18,7 +18,7 @@ Qədəhsiz şənlənmək mümkün deyildir.
 Ver, bir qurtum içim, gətir kuzəni,
 Əcəl pəncəsindən, gəl, qurtar məni.
 
-Bir kiıpik vurunca bu acı dövran,
+Bir kirpik vurunca bu acı dövran,
 Hər yerdə törədir yüz yaxşı-yaman.
 
 Birinin başını bağlayır yerə,
@@ -102,91 +102,89 @@ Başını dik tutub, asıb-kəsərdi.
 Boynunu əymədi kimsə kimsəyə,
 Hər biri başını ucaltdı göyə.
 
-İskəndər adma qədəh qaldırır,
+İskəndər adına qədəh qaldırır,
 İçərkən hər biri tək onu anır.
 
 Şah Yunan taxtına oturdu yenə,
-««o-rxo
-
 Bəxtin açarını aldı əlinə.
+
 Dünyaya elmlər, biliklər saçdı,
-
 Tanrı hikmətindən qapılar açdı.
+
 Getdi haqq əmriylə peyğəmbərliyə,
-
 Hörmətlə baş əydi “fərmandır” deyə.
+
 Yenidan başladı şah hazırlığa,
-
 Dünyanı dolaşdı başdan-ayağa.
+
 İki dəfə səfər etdi İskəndər,
-
 Birində çöl gəzdi, birində şəhər.
+
 Birində dolaşdı abad yerləri,
-
 Yenə Ruma döndü Rumun sərvəri.
+
 Birində yolsuz hər çölü, hər dağı
-
 Keçdi Ay, Günəştək onun bayrağı.
+
 Birinci məclisi bitirdim artıq,
-
 İkinci məclisə vurdum yaraşıq.
+
 Bu “Şərəfnamə”nin məclisində mən
-
 Saçmışam ən incə, bakir sözlərdən.
+
 Ona bağladığım incə incilər,
-
 Hər dastan başında saçdığım gövhər,
+
 Bir yerdə bir telə düzülsə bunlar,
-
 O tel ən parlayan inciylə dolar.
+
 Hər dastan başında mənalı sözlər,
-
 Hikmətə dair bir başlıca dəftər.
+
 Tarixə ən tanış o saqiləri,
-
 Aldım iş başına hər bir rəhbəri.
+
 Oturan göz oldu bu biliklərə,
-
 Xəznədə keşikçi oldu gövhərə.
+
 Belə incə nəqşi kim qura bilər?
-
 Bu gözəl rəngləri kim vura bilər?
+
 Sazına bağladım elə incə tel,
-
 Olmuş hər nəğməsi Zöhrədən gözəl.
+
 Hər yerdə bir yanlış gördüm, silərək
-
 Toxudum ona ən doğru bir bəzək.
+
 Doğruluq yolunu tutmayan sözlər
-
 Aya ucalsa da qiymətdən düşər.
+
 Hər yerdə o qoca, o sənət əri
-
 Yanlış söyləmişdi doğru sözləri,
+
 Yanlışa yenidən vurdum bir bəzək
-
 O qoca şairdən üzr istəyərək.
-Çatınca sona bu binanın nisfı,
 
-Verildi mənə bu dünyanın nisfı.
-O biri nisfıni, zaman olsa yar,
+Çatınca sona bu binanın nisfi,
+Verildi mənə bu dünyanın nisfi.
 
+O biri nisfini, zaman olsa yar,
 Təbimlə bəzərəm elə bil gülzar.
+
 Oxucu yuxudan qalxar bu səsə,
-
 Balığı dənizdə gətirər rəqsə.
+
 Zəmanə azacıq verərsə aman,
-
 Şüurum söz verir mənə, var güman.
+
 Bu Rumi qılıqlı, naxışlı bağda
-
 Al güllər göyərdim sarı torpaqda.
+
 Ən parlaq firuzə və incilərdən
-
 Xəzinə doldurum, şaşırsın görən.
+
 Hər bağdan bir çiçək alaraq bəhrə,
-
 Hər güldən bir gülab axıdım nəhrə.
-Padşahın taleyi edərsə kömək,
 
+Padşahın taleyi edərsə kömək,
 Sözlərim düzülər incə incitək.

@@ -68,7 +68,7 @@ export function bookLines(xml: string): Line[] {
   const lines: Line[] = [];
   xml.split('<OBJECT ').slice(1).forEach((page, p) => {
     for (const m of page.matchAll(/<LINE>([\s\S]*?)<\/LINE>/g)) {
-      const words = [...m[1].matchAll(/<WORD coords="(\d+),(\d+),(\d+),(\d+)"[^>]*>([^<]*)<\/WORD>/g)].map((w) => ({
+      const words = [...m[1].matchAll(/<WORD coords="(\d+),(\d+),(\d+),(\d+)(?:,\d+)?"[^>]*>([^<]*)<\/WORD>/g)].map((w) => ({
         x: +w[1],
         bottom: +w[2],
         right: +w[3],

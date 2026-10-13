@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -18,17 +18,17 @@ Daim aşağı düş, istəyim budur!
 Dənizdə bəslənən inciyə bir bax,
 Düşdüyüçün çıxar başlara ancaq.
 
-Dən Kimi düş yerə, başın ucalsın,
-Sünbül Kimi olma-yel yerə salsın.
+Dən kimi düş yerə, başın ucalsın,
+Sünbül kimi olma-yel yerə salsın.
 
-Bədxislət fələkiə elə müdara.
+Bədxislət fələklə elə müdara,
 Hümmətlə get, ömür azdır aşkara.
 
 Zəhərlisə hava, tozlara qatlaş,
 Dərmanın yoxdursa, dərd ilə uzlaş.
 
 Ruzgarın təbibi əfsun satandır,
-Odur əynindəki yüz rəng Kətandır.
+Odur əynindəki yüz rəng kətandır.
 
 Gah bir neştər vurar "dərmandır" deyə,
 Səfra üçün turşu düzər süfrəyə.
@@ -42,13 +42,13 @@ Bu dərman kar etməz azarlılara.
 Uşaqtək barmaq əm bu beşikdə sən
 Süd, bal hazırlayıb öz bədənindən.
 
-Şad olmağı öyrən əncirdən ancaq.
+Şad olmağı öyrən əncirdən ancaq,
 Həm uşaq, həm əmcək, həm də süddür, bax!
 
 Dünya bir şahmatdır, unutma bunu,
-Ikicə top ilə udar oyunu.
+İkicə top ilə udar oyunu.
 
-Qorxulu oyunda, heyf olsun sənə.
+Qorxulu oyunda, heyf olsun sənə,
 Üzünü qoyarsan torpaq üzünə.
 
 Bu çadır içində bağlı qalmısan,
@@ -58,85 +58,85 @@ Ayağını bu dar çəkmədən çıxar,
 Dar başmaq geyinən tez çolaq olar,
 
 Yola düş, çatarsan bir gün mənzilə,
-Zənn et Kİ, bu Kəndi görmədin belə.
+Zənn et ki, bu kəndi görmədin belə.
 
 Əgər bir eyşi var, yüz də dərdi var,
-Bir gülü dərəndə yüz tkan qopar.
+Bir gülü dərəndə yüz tikan qopar.
 
-Turş və acı Keçdi gənclik günləri,
+Turş və acı keçdi gənclik günləri,
 Səfra, sevda dolu ömrün səhəri.
 
 Yaşayış vaxtında xəstə haldayıq,
 Çünki vəhşi qurdla bir çuvaldayıq.
 
-Yüz nisgil dağıyla bir gün ölüncən
+Yüz nisgil dağıyla bir gün ölürkən
 Canavardan qurda töhfə gedərsən.
 
-Keçib getdiyimiz vilayətə bax.
+Keçib getdiyimiz vilayətə bax,
 Vilayət deyil bu, zindandır ancaq,
 
-istidən od Kimi qızışan zaman
+İstidən od kimi qızışan zaman
 Qəlb təsəlli alır qar soyuğundan.
 
-Bircə Шk qar yağdı, qaçaraq yenə
+Bircə tük qar yağdı, qaçaraq yenə
 Bürünürük qalın heyvan tükünə.
 
-Belə bir ayaqla qaçarlarını heç?
+Belə bir ayaqla qaçarlarmı heç?
 Belə bir qanadla uçarlarmı heç?
 
-Zalımlıq ediruc bu halda yenə,
-Əhsən biztək zəif zalım sihdnə!
+Zalımlıq edirik bu halda yenə,
+Əhsən biztək zəif zalım silkinə!
 
 Qarışqaya belə zülm edən nəfər
 Zülmünə ilandan bir əvəz görər.
 
-Yol Keçirdim, gördüm balaca bir quş
+Yol keçirdim, gördüm balaca bir quş
 Qarışqa ovuyçun pusquya durmuş.
 
-Ovunu boğazdan Keçirməmişkən
+Ovunu boğazdan keçirməmişkən
 Ayrı quş ovladı özünü birdən.
 
-Bəla görəcəksən pisik etdinsə,
+Bəla görəcəksən pislik etdinsə,
 Əvəz verəcəkdir dünya hər kəsə.
 
 Ədalət aynası - böyük asiman
 Səndən gördüyünü əks edər hər an.
 
-Bəlli bir şeydir ki, pisik edənlər
+Bəlli bir şeydir ki, pislik edənlər
 Öz işindən özü çəkəcək zərər.
 
 Eşitməmişsənmi bu məşhur sözü:
-"Hər Kim quyu qazsa, düşəcək özü."
+"Hər kim quyu qazsa, düşəcək özü."
 
 Sanma bu yer, bu göy boş bir saraydır,
 Onların mötəbər sahibi vardır.
 
 Dənizdə, ya dağda görmədən xələl,
-Y a bir dürr gizlənmiş, ya qiymətli ləl.
+Ya bir dürr gizlənmiş, ya qiymətli ləl.
 
 İbrət gözlərimiz olarsa tələf,
-Nə Ы1ək bu güldür, ya da bir ələf?
+Nə bilək bu güldür, ya da bir ələf?
 
-Ağıl tutiyası olan Kimsələr
-Isatək hər Kökdə bir dərman görər.
+Ağıl tutiyası olan kimsələr
+İsatək hər kökdə bir dərman görər.
 
 Tutaq, sən vücudun bir əttarısan.
 Axır yanacaqsan bir ud da olsan.
 
 Səndə Calinusun elmi də olsa,
-Oшrkən dönərsən bir Calinusa.
+Ölürkən dönərsən bir Calinusa.
 
-Madam Kİ, mütləqa ölümdür son yol,
-istər Əflatun ol, istərsə Kürd ol.
+Madam ki, mütləqa ölümdür son yol,
+İstər Əflatun ol, istərsə kürd ol.
 
 Bu xoş nəsihəti yada salaq gəl,
-Bir dəfə öıək biz ölməzdən əvvəl,
+Bir dəfə ölək biz ölməzdən əvvəl.
 
-ibrətlə göz yuman o tutiyə bax,
+İbrətlə göz yuman o tutiyə bax,
 Qəfəsdən "ölərək" qurtardı ancaq.
 
 And içib Yusiftək, dost olsan da, bil,
-Sərt tükiü qurd səndən əl çəkən deyil.
+Sərt tüklü qurd səndən əl çəkən deyil.
 
 Ləbbadəni elə öküzə bağlar,
 Bir gözün güləndə, o biri ağlar.
@@ -150,7 +150,7 @@ Xəlbirlə torpağı ələyəcəksən?
 Bu doqquz mətbəxdə dörd ünsür axır,
 Həmişəlik belə qalmayacaqdır.
 
-Bir vaxt olacaq Kİ, yetəcək son gün,
+Bir vaxt olacaq ki, yetəcək son gün,
 Gizlinlər zahirə çıxacaq bütün.
 
 Görməzsən tozunu bu zəmanənin,
@@ -159,44 +159,44 @@ Yalnız öz tozunu görərsən yəqin.
 Götür öz ruzunu bu dünyadan sən,
 Orda ələf yoxdur, sədəf görərsən.
 
-Bu qara sədəfə diqqət verincən
+Bu qara sədəfə diqqət verirkən
 Çox məna dürrünə rast gələcəksən.
 
 Burda ürək açan min pərdə vardır,
 Nəvası tərtəzə, xoş mahnılardır.
 
 Köhnələr söz dedi, nöqsansız, təmiz,
-Mirvari deşdilər nadir, Iəkəsiz.
+Mirvari deşdilər nadir, ləkəsiz.
 
-Zəmanə Keçdikcə toz qonar yəqin
+Zəmanə keçdikcə toz qonar yəqin
 Saraldar üzünü hər mirvarinin.
 
 Köhnə söz - bəzənmiş qoca qarıdır,
 Yeni söz təravət, qüvvət barıdır.
 
-Demirəm Kİ, kohnə zərin dəyəri
-Yeni zərinxindən qalır çox geri.
+Demirəm ki, köhnə zərin dəyəri
+Yeni zərinkindən qalır çox geri.
 
-Deyirəm Kİ, dövran dəyişəndə bəs
+Deyirəm ki, dövran dəyişəndə bəs
 Dəqyanus pulu bir arpaya dəyməz.
 
-Beş yüz yetmiş altı Keçdi hicrətdən,
+Beş yüz yetmiş altı keçdi hicrətdən,
 Belə xal görmədim gözəllərdə mən.
 
 Bildim hər məkanda məni sevən var,
-Hər kəs qucağında bir gəlin şaxlar.
+Hər kəs qucağında bir gəlin saxlar.
 
 Öz can tilsimimi mən də doğradım,
 Ondan hər beytimə nişan bağladım.
 
-Dedim: "Məni görmək istəsə hər Kim,
+Dedim: "Məni görmək istəsə hər kim,
 Beytimdə görünər ona surətim.
 
 Mən məhv olub getsəm, örnəyimdir bu,
-Yusif Kimi itsəm. Köynəyimdir bu.
+Yusif kimi itsəm, köynəyimdir bu.
 
 Örtsə də gözəlin torpaq üzünü
-Ürəkiərdən silməz onun sözünü.
+Ürəklərdən silməz onun sözünü.
 
 Bütün örtülmüşlər bizə zahirdir,
 Xızr adını çəkdin, Xızr hazırdır.
@@ -210,7 +210,7 @@ Sənə hər beytində bir sirr danışan?
 Yüz il sonra sorsan bəs o hardadır?
 Hər beyti səslənər: "Burda, burdadır!"
 
-İpəkqurdu Kimi sənətimlə mən
+İpəkqurdu kimi sənətimlə mən
 Aləmi bəzərəm can şirəsindən.
 
 Ağzımdan bişməmiş bir söz çıxarsam,
@@ -219,7 +219,7 @@ Ağzımdan bişməmiş bir söz çıxarsam,
 Bir xəznə tapmasam, gecə yatmaram,
 Açıqdır xəznəmin qapısı tamam.
 
-Münbit torpaq Kimi bəsləyib hər an
+Münbit torpaq kimi bəsləyib hər an
 Bir xəznə verərəm bircə arpadan.
 
 Əvvəl bir dən yesəm, biçin zamanı
@@ -232,16 +232,16 @@ Etsə Nizamiyə paxıllıq hər kəs,
 Nəmsiz bir göz görsün, ahsız bir nəfəs,
 
 Gecə gəl, gör necə qazıram mədən,
-Mədən yox, bəikə də can qazıram mən.
+Mədən yox, bəlkə də can qazıram mən.
 
-Ağzımdan dürr Kimi çıxan hər sözçün
+Ağzımdan dürr kimi çıxan hər sözçün
 Dürrünü verərəm şirin ömrümün.
 
 Ələ gətirməkçün bir şəbçırağı,
 Yaxıb yandıraram beyni, dodağı.
 
-Şah xəznədarma mən göndərəntəx
-Əvəz, aıpa versin üzr istəyərək.
+Şah xəznədarına mən göndərəntək
+Əvəz, arpa versin üzr istəyərək.
 
 Tanrım, pusquda çox iradçılar var,
 Hasar çək, sözümü görməsin onlar.
@@ -249,58 +249,58 @@ Hasar çək, sözümü görməsin onlar.
 Söz yaxşı da olar, yaman da, bir bax,
 Kim yaxşı istəməz, mümkünmü ancaq?
 
-Hər kəs söz müikündən pay almış bilər,
+Hər kəs söz mülkündən pay almış bilər,
 Qəribə səpkili olmuş bu sözlər.
 
 Qəribi incitmə, bir şirsən əgər,
-itlər qəriblərə düşmən Kəsilər.
+İtlər qəriblərə düşmən kəsilər.
 
-Sudan və palçıqdan yaranan Kəslər
+Sudan və palçıqdan yaranan kəslər
 Qorxuda bilərmi günəşi məgər?
 
-Qılmcıyla gəldi çox məni danan.
-Şamını söndürdü məni vurancan.
+Qılıncıyla gəldi çox məni danan,
+Şamını söndürdü məni vurarkən.
 
-Dilləri bir qarış çox imcarçılar
+Dilləri bir qarış çox inkarçılar
 Aciz qalıb verdi susmağa qərar.
 
-Kim Isatək ədəb dizi çökdürüb,
+Kim İsatək ədəb dizi çökdürüb,
 Əvəzində qazanc bir eşşək görüb.
 
 Bir şam yandırsa da hər ulduz məndən.
 Günəşliyi yoxdur məndən öyrənən.
 
-Hər zərrə yolumun üstünə gəldi.
+Hər zərrə yolumun üstünə gəldi,
 Nurumdan pay alıb yüz qat yüksəldi.
 
-Çox daş öz ağzını Kasama vurdu,
+Çox daş öz ağzını kasama vurdu,
 Almasıma dəycək bir dürr olurdu.
 
-Dağlar Kimi məndən suları alan
+Dağlar kimi məndən suları alan
 Üzümə səpərsə, içərəm, inan.
 
 Buludtək bəhrimdən bəzənir əğyar,
 Məndən oğurlayıb, mənə satırlar.
 
-Məndə səbrə bax Kİ, qulumu görcək,
-Ona Kölə Kimi çəkirəm yedək.
+Məndə səbrə bax ki, qulumu görcək,
+Ona kölə kimi çəkirəm yedək.
 
-Naşının sazını Kökiərəm bəzən,
+Naşının sazını köklərəm bəzən,
 "Tərlansan" deyirəm bir sərçəyə mən.
 
-Qəşəng göz görürəm qarğada ancaq.
+Qəşəng göz görürəm qarğada ancaq,
 Pis şeyə də sözüm əhsən olacaq.
 
 Bir qulağım mənim eşidir pis söz,
 O biri deyir ki, itaət et, döz.
 
-Varlıq çırağımı güclü Küləkdən
+Varlıq çırağımı güclü küləkdən
 Belə ustalıqla qoruyuram mən.
 
-Hansı bir ökədə yansa bir çıraq.
+Hansı bir ölkədə yansa bir çıraq,
 Hər bir qanacaqlı tökər ona yağ.
 
-Burda ənbər iyli nur saçsa bir şam.
+Burda ənbər iyli nur saçsa bir şam,
 Kafur üfürərlər ona, bil, müdam.
 
 Şəkər əvəzinə dadılır zəhər,
@@ -315,37 +315,37 @@ Ona daş atandır mənə tən edən.
 Xalqın ağzı olmuş dilimdən şirin,
 Mənim ağzım olmuş bir zəhər təkin.
 
-Dəyirman işlədən bir Öküzəm mən,
+Dəyirman işlədən bir öküzəm mən,
 Axtardığım dəndir, üyütdüyüm dən.
 
-Mən bir şimşəyəm Kİ, gülüb buludda.
-Su içində İkən məhv olar odda
+Mən bir şimşəyəm ki, gülüb buludda,
+Su içində ikən məhv olar odda
 
-ilandan dad etmə, ey xəznə ütək!
-ilansız olarmı xəznə, de görəx?
+Ilandan dad etmə, ey xəznə ürək!
+İlansız olarmı xəznə, de görək?
 
 Tovuzlar behiştdən çıxanda kənar,
-Qapıçı olarlar orda ilanlar,
+Qapıçı olarlar orda ilanlar.
 
-ilanla tovuzun bir ağası var.
-Odur hər İkisi xallı olurlar.
+Ilanla tovuzun bir ağası var.
+Odur hər ikisi xallı olurlar.
 
-Atası bir hindli, anası Шrkkən,
-Iki irqdən doğmuş hcdişə bax sən.
+Atası bir hindli, anası türkkən,
+İki irqdən doğmuş ikdişə bax sən.
 
-Bir misdir örtülmüş Kimiya ilə.
-Yox, yox, bir xəznədir, əudaha ilə.
+Bir misdir örtülmüş kimiya ilə,
+Yox, yox, bir xəznədir, əjdaha ilə.
 
 Bir gövhər atmışam dənizə, uzaq.
 Qoymuşam xaç üstə bir yanar çıraq.
 
-Sən o dürrü qaldır, dəryanı tənc et,
+Sən o dürrü qaldır, dəryanı tərk et,
 Xaçı yalqız burax, çırağı al, get!
 
-Çox da odpərəstlk bunda əyandır,
+Çox da odpərəstlik bunda əyandır,
 Bu sözlər mütləqa yoğrulmuş qandır.
 
-Baxir gəlinə bax, üzdə duvağı,
+Bakir gəlinə bax, üzdə duvağı,
 Tövhidlə bağlanmış başı, ayağı.
 
 Nə səhvim vardırsa, əfv et, ilahi,

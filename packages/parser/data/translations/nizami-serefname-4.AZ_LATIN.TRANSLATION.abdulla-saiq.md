@@ -6,20 +6,20 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
 status: DRAFT
 ---
-Göy gecə məclisi qızışdırmışdı.
+Göy gecə məclisi qızışdırmışdı,
 İşıqdan gecənin gözü qamaşdı.
 
 O yeddi fələyə o yeddi ülkər,
 Çin ipəklərinə düzmüş dürr, gövhər.
 
 Cənnət keşikçisi huri, pərilər
-Flər köşkə vurmuşdu yaraşıq, zivər.
+Hər köşkə vurmuşdu yaraşıq, zivər.
 
 Bu taxtın soltanı olan Məhəmməd,
 Keçən elçilərdən odur vəliəhd.
@@ -57,7 +57,7 @@ Yürüşü oxdan da kəskin və qıvraq.
 Ən kəskin, ən mətin xəyal şəhpəri,
 Ondan yetmiş addım qalırdı geri.
 
-Aləmlər aşmaqda bir fıriştəsən,
+Aləmlər aşmaqda bir firiştəsən,
 Aləmlər çəkirsən öz arxanda sən.
 
 Gecə otlağından, sərxoş olaraq
@@ -94,153 +94,151 @@ Yuxu beşiyini buraxdı Aya.
 Əlinə qələmi alarmı ümmi?
 
 Cismani şəhvəti Nahidə verdi,
-«ecys' g-NQ
-
 Şükr üçün kökəni Xurşidə verdi.
+
 Mərrixə buraxdı qəzəb və acıq,
-
 Acıq burda getməz irəli artıq.
+
 Müştəri ulduza kibri buraxdı,
-
 Üzüyə ən parlaq yeni qaş taxdı.
+
 Ünsürü Keyvana tərəf ataraq
-
 Özüylə pak gövhər götürdü, ancaq.
+
 Hər mənzil başında bəxşiş verərək
-
 Qaldı varlığından yalnız bir ürək.
+
 Nəbilər hörmətlə baş əydi ona,
-
 Əl çəkdi yəhərin saf quncuğuna.
+
 At sürdü yollardan, dağlardan keçdi,
-
 Bir sıra təpəni bir anda biçdi.
+
 Yanında qasiddi Xızr ilə Musa,
+Atının önündə gedirdi İsa.
 
-Atmın önündə gedirdi İsa.
 Bir nəfəs alınca, kirpik vurunca,
-
 Yaxud bir göz açıb dərhal yumunca
+
 Göyün günbədini aşdı arada,
-
 Yerləri, göyləri qoydu arxada.
+
 Elə bir sürətlə parlatdı yüyən,
-
 Ətrafdan olmadı tozunu görən.
+
 Onun bu yürüşdə atdığı oxdan
-
 Fələk neçə ox da geriydi çoxdan.
+
 O uzaq göylərdə nurani adı
-
 Ruhani kəslərə nur bağışladı.
+
 Cığırsız bir yola, artıq yol saldı,
-
 Həm atı yoruldu, həm yükü qaldı.
+
 O yolda qol-qanad tökdü Cəbrail,
-
 Qorxudan durmayıb qaçdı İsrafil.
+
 Rəfrəfdən keçərək bir neçə fərsəng,
-
 Gördü o pərdədə müxtəlif ahəng.
-Sidrədən ərşin pak səqfınə qədər,
 
+Sidrədən ərşin pak səqfinə qədər,
 İsmətdən bir kilim döşədi dilbər.
-Ərş divangahmı sürətlə keçdi,
 
+Ərş divangahını sürətlə keçdi,
 Dərcin də yolunu bir anda biçdi.
+
 Çatdı son nöqtəyə cəhət diyarı,
-
 Bitdi o nöqtədə dövran pərgarı.
-Üer oğlu göylərdə hey at oynatdı,
 
+Yer oğlu göylərdə hey at oynatdı,
 Yerləri, göyləri arxaya atdı.
+
 Mücərrəd dolanmaq çatdı bir yerə,
-
 Cismani varlığı itdi bilmərrə.
+
 Yoxluq yollarında edərkən cövlan
-
 Büsbütün ayrıldı öz varlığından.
+
 Ruhani dairə gərdişlərində,
-
 Başıyla ayağı düşdü bir bəndə.
+
 Çatdı altı, üstü olmayan yerə,
-
 Çünki altı, üstü bilməz dairə.
+
 Siyasət pərdəsi atıldı birdən,
-
 Hücrə təmizləndi biganələrdən.
+
 O yerdə ki, idrak tapmayır məkan,
-
 Salam Məhəmməddən, qəbul Tanrıdan.
+
 Ağızdan çıxmayan səsi eşitdi,
-
 Görünməz simanı ziyarət etdi.
+
 Elə pak göründü o sahibcəlal,
-
 Nə cəhət nəzərə çarpdı, nə xəyal.
+
 Vücudu nərgiztək bir gözə döndü,
-
 Bir kirpik qırpmadan Tanrıya çöndü.
+
 Yoxsa bu bağdakı sırf nərgiz olan
-
 Gözünə bir sürmə çəkmiş “mazağ”dan.
+
 Keçdi bir dost kimi süfrə səmtinə,
-
 Yedi, pay ayırdı öz ümmətinə.
+
 Ürəyi Allahın nuruyla doldu,
-
 Bir yetim, bax, necə padişah oldu.
+
 Dünyaya qayıtdı çöhrəsi parlaq,
-
 Hər elmə, hikmətə vaqif olaraq.
+
 O yolu tez getdi, tez döndü yenə,
-
 Bu sürət heç kəsin sığmaz fikrinə.
+
 Şimşəktək şığıdı elə sürətlə,
-
 Dönərkən yatağı istiydi hələ.
+
 O gecə adi bir gecə deyildi,
-
 O bir gecəydimi, yaxud bir ildi?
+
 Bəs bizim ruhumuz məgər bir anda
-
 Dolaşa bilmirmi bu asimanda?
+
 Ruhumuzdan zərif olan bu insan,
-
 Bir anda aləmi seyr etdi, inan.
+
 Gözəldir, səpərək can gövhərini,
-
 Tərifə başlasam dörd yavərini.
+
 Dörd gövhər satan var, dörd gövhər alan,
-
 Artıq-əskiyinə qarışmaz satan.
+
 Əlinin eşqində sabitqədəməm,
-
 Ömər sevgisindən uzaq deyiləm.
+
 Hər iki nur ilə nurlanır dimaq:
-
 Əbubəkr bir şamdır, Osman bir çıraq.
+
 Bu dərviş sifətli dörd böyük soltan,
-
 Dünyaya olmuş dörd təkbir oxuyan.
+
 Nəbilər önündə gedənə alqış,
-
 Üzrləri qəbul edənə alqış.
+
 Sənsən yaranışda birinci xilqət,
-
 Dövranın sonunda sonuncu ayət.
+
 Hər iki aləmə mübarək Sənsən,
-
 Sənə bir tay varsa, o da tək Sənsən.
+
 Sənsən xəzinələr qıflına açar,
-
 Yaxşını, yamana edən aşikar.
+
 Ən gözəl günündə “ümmətim” deyə,
-
 Şəfaət edirsən suçlu bəndəyə.
-Bir ovuc torpağam mən dərgahında.
 
+Bir ovuc torpağam mən dərgahında,
 Artıq bir şikaram şikargahında.
-Nizami tutmuşdur Gəncədə məkan,
 
+Nizami tutmuşdur Gəncədə məkan,
 O, məhrum olmasın salamlarından.

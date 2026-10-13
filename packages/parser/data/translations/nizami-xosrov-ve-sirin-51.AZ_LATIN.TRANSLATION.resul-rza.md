@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -18,23 +18,23 @@ Hilali örtüyə büründü yerlər.
 Xosrov hərəmxana yolunu tutdu,
 Şirin həsrətiylə çox qanlar uddu.
 
-Məryəmin yanma gəldi məst İkən,
-Ona isa khş dil açdı birdən:
+Məryəmin yanına gəldi məst ikən,
+Ona İsa kimi dil açdı birdən:
 
-Xosrov söhbət açdı. Şirindən dedi.
+Xosrov söhbət açdı, Şirindən dedi,
 Məryəm bu sözlərdən acı qəm yedi.
 
-"Yaxşıdır Şirindən olancən uzaq,
+"Yaxşıdır Şirindən olarkən uzaq,
 Yaramı acı duz göynətmir ancaq.
 
 Ağzı acı olmuş almayaraq kam,
 Mənim səbəbimə olur o, bədnam.
 
-Sən də mənim Kimi göstərib qılıq.
+Sən də mənim kimi göstərib qılıq,
 Göstərəydin ona bir mehribanlıq,
 
-icazə ver, o da olsun bir Kəniz,
-Qalmasın qəsrdə yalqız, Kimsəsiz.
+İcazə ver, o da olsun bir kəniz,
+Qalmasın qəsrdə yalqız, kimsəsiz.
 
 Mən onun üzünə baxarsam əgər,
 Yandırsın gözümü odlar, atəşlər."
@@ -43,9 +43,9 @@ Məryəm cavab verdi ona: "Cahangir!
 Cəlalın, şöhrətin göylərdə gəzir.
 
 Dünya çırağını bəxş etmiş sənə,
-Fəıək baş əymişdir sənin səcdənə.
+Fələk baş əymişdir sənin səcdənə.
 
-Mən Kimi tər halva qarşında yarkən,
+Mən kimi tər halva qarşında varkən,
 Nədən soyuq düyü qızdıracaqsan?
 
 Tər halva olsa da Şirinin adı,
@@ -54,28 +54,28 @@ Mən elərəm acı o şirin dadı.
 Tikansız xurmanın başqa dadı var,
 Tüstüsüz bir halva çox şirin olar.
 
-Tay tutursan məni o cadugərlə.
+Tay tutursan məni o cadugərlə,
 Babil sahirini aldadar belə.
 
-Mindən çox əfsanə Ыhrkən əzbər,
+Mindən çox əfsanə bilirkən əzbər,
 Tək bircə əfsunla bizi məhv edər,
 
-istəyir aldada, ayrı düşək biz,
+İstəyir aldada, ayrı düşək biz,
 O sənə qovuşa, mən qalam sənsiz.
 
 O əfsuna uyan zənn etmə məni,
 Mən çoxdan bilirəm o əfsanəni.
 
-Arvad var tərs salar yüzü əlliylə.
+Arvad var tərs salar yüzü əlliylə,
 Ancaq Ütaridə qurar min hiylə.
 
-Arvad bir güldana Əkilmiş güldür,
+Arvad bir güldana əkilmiş güldür,
 Bayırı gözəldir, içisə "gül"dür.
 
-Bir öikə tapmazsan görə, həqiqət,
+Bir ölkə tapmazsan görə, həqiqət,
 Qadında, qılıncda, atda sədaqət.
 
-Vəfa Kişilhcdir, arvadda olmaz,
+Vəfa kişilikdir, arvadda olmaz,
 Arvad adlananda vəfa tapılmaz.
 
 Kişilər çox tədbir tökdülər, fəqət,
@@ -84,22 +84,22 @@ Bir arvad etmədi düzgün hərəkət.
 Sol böyürdən olmuş qadın, deyirlər
 Soldan sağı ummaq olarmı məgər?
 
-Gəl o allahsıza hrək vermə sən,
-Xilas olmaz canm bir gün bəladən.
+Gəl o allahsıza ürək vermə sən,
+Xilas olmaz canın bir gün bəladən.
 
-Qeyrətini çəksən çəkəcəksən dərd.
+Qeyrətini çəksən çəkəcəksən dərd,
 Qeyrətin çəkməsən olarsan namərd.
 
-Tək dolan, Keyf elə, sür dövranını,
+Tək dolan, keyf elə, sür dövranını,
 Azad ol süsəntək, bəslə canını."
 
 And içdi o taxta, taci-Qeysərə:
 "Əgər gəlsə Şirin bir gün bu yerə,
 
-Boynuma salaram qara Kəndiri,
+Boynuma salaram qara kəndiri,
 Zülümdən özümü asaram diri.
 
-Yaxşıdır Kİ, Şirin orda oturmuş,
+Yaxşıdır ki, Şirin orda oturmuş,
 Yaxşıdır, abadlıq görməsə bayquş."
 
 Məryəmin sözündən şah bildi: heç vəqt

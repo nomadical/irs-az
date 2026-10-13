@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -21,20 +21,20 @@ Qaranlıq gecəyə şəfəqlər saçsın!
 Gözəl söz nəqqaşı məharət ilə
 İskəndər adını nəqş etmiş belə:
 
-"İki qərn sahibi" qoymuş nammı,
+"İki qərn sahibi" qoymuş namını,
 Çünki Şərqdən, Qərbdən almış kamını.
 
-Deyirlər ki, qoşa hörüyü vannış,
+Deyirlər ki, qoşa hörüyü varmış,
 Onu kürəyinə daim atarmış.
 
 Deyirlər, görübmüş bir belə röya,
-Gündən iki qəmi alıbmış guya.
+Gündən iki qərni alıbmış guya.
 
 Başqa rəvayətdə deyirlər yenə:
 İskəndər yaşamış iki qərinə.
 
 Dünya filosofu Əbu Məşər də
-"Üluf' ad qoyduğu məşhur əsərdə
+"Üluf" ad qoyduğu məşhur əsərdə
 
 Yazır ki: "İskəndər öldüyü zaman.
 Bu böyük itkidən çox qəmgin olan
@@ -76,10 +76,10 @@ Odur ki, şübhəyə düşmüş ərəblər,
 "Zülqərneyn" ləqəbi almış İskəndər".
 
 Başqa bir bilici deyir ki, onun
-Qulaqları vannış həddindən uzun.
+Qulaqları varmış həddindən uzun.
 
-Dürdən taca bənzər qınları vannış.
-İki qulağına o qın taxannış.
+Dürdən taca bənzər qınları varmış.
+İki qulağına o qın taxarmış.
 
 Onları xəzinə kimi güdərək,
 Möhkəm gizlədərmiş bir xəzinətək.
@@ -99,7 +99,7 @@ Xəlvətdə saçını qırxıb qurtarcaq,
 Bilsəm, qulaqların sirrini əgər
 Eşidib dünyada səndən bir nəfər,
 
-Bir qıılaqbunnası gələrəm sənə,
+Bir qulaqburması gələrəm sənə,
 Daha sirr açmazsan bir özgəsinə".
 
 Bunu qulağında o sırğa etdi,
@@ -145,7 +145,7 @@ Uzaqda bir çoban göründü nagah,
 Çölləri üstünə qalxmış zənn etdi.
 
 Çünki neyin səsi deyirdi aşkar:
-"İskəndərin uzun qulaqları var!
+"İskəndərin uzun qulaqları var!.."
 
 O, neyin səsindən od tutub yandı,
 Muma döndərərdi hirsi poladı.
@@ -178,7 +178,7 @@ De görüm, nə cürə eləyib hünər
 Bu sirri özgəyə veribsən xəbər?
 
 Səni bağışlaram düzünü desən,
-Boynunu vurdurramyalan söyləsən!.."
+Boynunu vurdurram yalan söyləsən!.."
 
 Şahın sözlərini eşidib dəllək,
 Gördü ki, düzünü söyləsin gərək.
@@ -186,7 +186,7 @@ Gördü ki, düzünü söyləsin gərək.
 Əvvəl yeri öpüb səcdə eylədi,
 Sonra padişaha belə söylədi:
 
-"Doğrudur, şalı mənə vennişdi fərman,
+"Doğrudur, şah mənə vermişdi fərman,
 Saxlayım hamıdan bu sirri pünhan.
 
 Ancaq davam edə bilmədiyimdən.
@@ -195,7 +195,7 @@ Təkcə bir quyuya açdım sirri mən.
 Başqa heç kimsəyə demədim, ey şah,
 Yalansa, qənimim olsun qoy allah!.."
 
-Şalı gördü ki, dəllək doğru söz dedi.
+Şah gördü ki, dəllək doğru söz dedi.
 O düzlük istədi, bu da düz dedi.
 
 Qullardan birinə buyurdu bu an,
@@ -205,7 +205,7 @@ Təzə tütəyə də dəyəndə nəfəs,
 Şahın qulağına gəldi həmin səs.
 
 Bildi ki, heç sirri saxlamaz nihan,
-Hamının sirrini açar bıı cahan!
+Hamının sirrini açar bu cahan!
 
 Allahı xeyr ilə eyləyərək yad
 Dəlləyi qılıncdan elədi azad.

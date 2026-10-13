@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -22,10 +22,10 @@ Haqqın köməyilə şad keçsin ömrün.
 Olmasın səninçin açılmaz düyün.
 
 Padşahın əmrinə əməl eləyim,
-ilk xilqət haqqında fikrimi deyim:
+İlk xilqət haqqında fikrimi deyim:
 
 Əvvəl vardı ancaq tək bir hərəkət,
-Onu iki yerə ayırdı sür ət.
+Onu iki yerə ayırdı sürət.
 
 Bu iki hərəkət gəlib bir yerə.
 Yeni bir hərəkət doğurdu hərə.
@@ -43,7 +43,7 @@ Cövhər keşməkeşdən doğub parladı,
 "Hərəkət eləyən cism" oldu adı.
 
 Həmin cism qərar tutmayıb bir an
-Dönür, hərlənirdi əsla dumadan.
+Dönür, hərlənirdi əsla durmadan.
 
 Bu cismin parlayan saf parçaları
 Həmişə qaçırdı mərkəzə sarı
@@ -57,7 +57,7 @@ Ondan parlaq göylər gəldi əmələ.
 Göydə meyl edərək öz mərkəzinə
 Onun ətrafında hərləndi yenə.
 
-Əvvəlki meyimə bağlı qalaraq.
+Əvvəlki meylinə bağlı qalaraq.
 O, daim hərəkət etdi bu sayaq.
 
 İlk pərgar hərlənib dövr edən zaman

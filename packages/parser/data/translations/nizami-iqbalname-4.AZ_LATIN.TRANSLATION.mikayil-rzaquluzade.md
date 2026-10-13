@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -33,7 +33,7 @@ Köhnə tarixləri təzələr belə.
 Hər dövrün olar bir usta bağbanı,
 Bəsləyib böyüdər körpə fidanı.
 
-Bir gövhər hüsnünü itirsə əgər.
+Bir gövhər hüsnünü itirsə əgər,
 Daşdan baş qaldırar başqa bir gövhər.
 
 Gəlinimdə olan şuxluq, təravət
@@ -58,7 +58,7 @@ Söz, sənət eşqilə çırpınan ürək
 Alır sirdaş kimi ilhamdan kömək.
 
 Düşüncəm beynimin qızıl qanından
-incitək incə söz alardı hər an.
+İncitək incə söz alardı hər an.
 
 Çünki gizlində bir ilhamçım vardı,
 Mənimlə örtülü söz danışardı.
@@ -100,7 +100,7 @@ Bir belə gecədə oturmuşam tək,
 Kağızda yazılar qara gecətək.
 
 Dürr üçün qəvvastək suya batırdım,
-Gah seçib götürür, gah da atırdım... 20
+Gah seçib götürür, gah da atırdım...
 
 Gecədən bir qədər keçmiş olardı,
 Hələ qaranlıqda, sübhə çox vardı,
@@ -112,12 +112,12 @@ Daxmada gecənin hörüklərindən
 Yeddi rəng ipəklər toxuyuram mən.
 
 Bu lacivərd küpdən mən də İsatək
-iplər çıxarıram hər an rəngbərəng.
+İplər çıxarıram hər an rəngbərəng.
 
 Əvvəldən bəsləyib tərbiyə verən
 Bir nəcib insandır məni yetirən:
 
-Mötəbər bir şəxsdir o Xoylu Imad;
+Mötəbər bir şəxsdir o Xoylu İmad;
 Qalxmaq istəyənə o edər imdad.
 
 Səxası dünyanı salmış heyrətə,
@@ -130,9 +130,9 @@ Onda Müştərini görərək hər an,
 Vurar üzüyünə Ütarid nişan.
 
 Əfsus ki, bəxtimin sərkəşliyindən,
-Gizləyir bu dünya o zatı məndən,
+Gizləyir bu dünya o zatı məndən.
 
-işlərim düyünlü, nəsibim dərd-qəm,
+İşlərim düyünlü, nəsibim dərd-qəm,
 Nə yaxın bir dost var, nə də bir həmdəm.
 
 Məgər neçə uşaq tutar bir mama?
@@ -154,7 +154,7 @@ Atdığım kəməndlə, şahın bəxtindən.
 Bu torla növbənöv balıq tutmuşam.
 
 Xoş görüb bəxtini şahın rəsəddə,
-Mən sözə başladım xoş bir saətdə.
+Mən sözə başladım xoş bir saatdə.
 
 Vuruşur önümdə Çin ilə Həbəş,
 Şaha edəcəyəm onları peşkəş.
@@ -165,8 +165,8 @@ Tutmasaydı şahın bəxti əlimdən.
 Çatdı mədəninə gövhər axtaran,
 Könül azad oldu qəmdən, qubardan.
 
-Qızıl çadırını günəş ucaltdı,
-ipləri dağların başına atdı.
+Qızıl çadırını günəş ucaltdı.
+İpləri dağların başına atdı.
 
 Gecəki əzabı unutmaq üçün
 Bir məclis bəzədim mən də həmin gün.
@@ -183,10 +183,10 @@ Sözümdü, fikrimdi, qəlbimdi mənim
 Qızışıb coşduqca beynim şərabdan.
 Gəldi səxavətə söz də bu zaman,
 
-ilham buludlarım çəkdi nərələr,
-Gövhərşünaslara yağdırdı gövhər,
+İlham buludlarım çəkdi nərələr,
+Gövhərşünaslara yağdırdı gövhər.
 
-iki şey cəsarət istər insandan:
+İki şey cəsarət istər insandan:
 Biri od, biri də yırtıcı aslan.
 
 Sanki həmcins imiş odla aslan da,
@@ -225,11 +225,11 @@ Yaxşı mal alınar satıcısından.
 Padişah əmr etdi: bəzənsin bir bağ,
 Sərvlər çəmənə gətirsin növraq.
 
-Qəlbi nurlu şahın şərəfmə mən
+Qəlbi nurlu şahın şərəfinə mən
 Güc alıb idrakın şəfəqlərindən,
 
 Bir sərv bəzədim ki, məclis şad olsun,
-Onun şərəfmə badələr dolsun.
+Onun şərəfinə badələr dolsun.
 
 Şer yox, mənasız nəzm yazanlar
 Çətinlik çəkməzlər, onlara nə var?
@@ -250,16 +250,16 @@ Sözə bax, baş alıb hara ucalır,
 Mən nələr deyirəm, o nələr çalır?
 
 Bilmirəm bu qədər füsunkar sözlər
-Babil quyusundan çıxır nə təhər? 36
+Babil quyusundan çıxır nə təhər?
 
 Zöhrəyə o "Zənd"i kimlər öyrətdi,
-Oxuyub Haıııtu tamam bənd etdi? 37
+Oxuyub Harutu tamam bənd etdi?
 
 Sehirli nəğməmdən Zərdüşt xar oldu.
 Söndü çox "Zənd"lərin alovu, odu.
 
-Dəıyaya dürr saçsın qətrə buradan,
-Qoy xunna daşısın Bəsrə buradan.
+Dəryaya dürr saçsın qətrə buradan,
+Qoy xurma daşısın Bəsrə buradan.
 
 Bu altıkünc tağda bir buludam mən,
 Səpərəm hər yana su ciyərimdən.
@@ -286,7 +286,7 @@ Silib bu aynanı parlatdım par-par,
 Yerdən toz-torpağı külək aparar.
 
 O Çin üzlü nigar, bilmirsən məgər
-Rııımın qalasını necə fəth edər?
+Rumun qalasını necə fəth edər?
 
 Xəzinə kəşf etmək istəsə biri.
 Gərək unutmasın çətinlikləri!
@@ -324,10 +324,10 @@ Tökərlər bu oda səndəl, gül və ud.
 Təbimlə şaha ud yandıraram mən,
 Daha başqa bir iş gəlməz əlimdən.
 
-Allah məni ona bəndə xəlq etmiş,
-itaətdən başqa bilmərəm bir iş.
+Allah məni ona bəndə xəlq etmiş.
+İtaətdən başqa bilmərəm bir iş.
 
-Dünyagönnüş adam, - yaxşı ya yaman,-
+Dünyagörmüş adam, - yaxşı ya yaman,-
 Şikayət eyləməz öz ruzgarından.
 
 Bu dünya heç kəslə deyil həmavaz,
@@ -336,7 +336,7 @@ Sazəndələr kimi bir hava çalmaz
 O, sazda görərsə ipək bir teli,
 Qırıb atmaq üçün uzanar əli.
 
-ipək yetinnəkdə iki cür qurd var,
+İpək yetirməkdə iki cür qurd var,
 Ziddir odla sutək həmişə onlar.
 
 Biri baramanı toxuyur bir-bir,
@@ -355,7 +355,7 @@ Hələ can almamış əcəl, turactək:
 "Dad, məni tutdular!" - çığırıb dad çək.
 
 Tamahkar dünyadan nə ummaq olar.
-Ya səni yandırar, ya da çiy şaxlar,
+Ya səni yandırar, ya da çiy saxlar,
 
 Qaynayıb coşarsan, yanarsan dərddən,
 Qaynayıb coşmasan, çiy qalarsan sən.
@@ -373,7 +373,7 @@ Torpaq da, çeşmə də olan bir yerdə
 Lazımdır, əlbət ki, teşt də, xəlbir də.
 
 Bu göy rəngli küpün çox hiyləsi var,
-içindən görərsən yüz cür rəng çıxar.
+İçindən görərsən yüz cür rəng çıxar.
 
 Küpə bir cadugər minər, deyərlər,
 Bu küpə minmişdir yüz min cadugər.
@@ -388,7 +388,7 @@ Ona alt-üst demək daha doğrudur.
 Heç kəslə həmahəng olmayıb fələk.
 
 Atdığı hər addım fənddir, kələkdir,
-işləri büsbütün oyundur, rəngdir!
+İşləri büsbütün oyundur, rəngdir!
 
 Birini göylərə ucaldır bəzən,
 Bəzən də qul edir onu görürsən.
@@ -396,14 +396,14 @@ Bəzən də qul edir onu görürsən.
 Tülkütək geydirər qırmızı papaq,
 Sonra qara itə yedirdər ancaq.
 
-Nədir dörd yol üstə məskən düzəltmək? 52
+Nədir dörd yol üstə məskən düzəltmək?
 Nədir qarın güdmək dördayaqlıtək?
 
 Dörd balış qeydindən qurtaranda biz,
 Asudə yatarıq səssiz-səmirsiz.
 
 Yolüstü mənzildir bu köhnə torpaq,
-ikicə qapısı var onun ancaq:
+İkicə qapısı var onun ancaq:
 
 Giriş qapısından girərsə hər kəs.
 Çıxış qapısından çıxmaya bilməz.
@@ -444,7 +444,7 @@ Yatağa baş qoyub yatacağam mən.
 Xəyal dünyasına edib tamaşa
 Ömrü yuxu kimi vururam başa.
 
-Belə qol-qanadla olaımı uçmaq?
+Belə qol-qanadla olarmı uçmaq?
 Hara çatdıracaq belə əl-ayaq?
 
 Belə dörd müxalif yol a ayrıcından

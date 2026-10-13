@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -33,7 +33,7 @@ Dilində yazılmış bir çox əsəri.
 Bir də fars dilində şahanə dəftər
 Olmuşdu dilində su kimi əzbər,
 
-istər Rum elində, istər Yunanda,
+İstər Rum elində, istər Yunanda,
 Dünya dillərində nə var cahanda.
 
 Buyurdu tərcümə edilsin bütün
@@ -43,9 +43,9 @@ Dürr yığdı elm üçün bir-bir hər yandan.
 Bunlardan yaratdı böyük bir ümman.
 
 Onun yaratdığı birinci əsər
-Diinyaşünaslıqdan verirdi xəbər.
+Dünyaşünaslıqdan verirdi xəbər.
 
-O biri - ruhani sirlərə açar.
+O biri - ruhani sirlərə açar,
 Onunla yunanlar əbədi yaşar.
 
 Bir də "İskəndərin qeydləri"dir,
@@ -55,7 +55,7 @@ Kin, qəzəb, mərhəmət nədir - bilərlər,
 Fələyin sirrindən tutarlar xəbər.
 
 O gövhər kanını yox edib ruzgar,
-Bircə "Intiyaxis" qalıb yadigar 7S.
+Bircə "İntiyaxis" qalıb yadigar.
 
 Neçə əql övladı nur yaya yaya,
 O şahın rəyilə gəldi dünyaya.
@@ -63,7 +63,7 @@ O şahın rəyilə gəldi dünyaya.
 O böyük, ağıllı, ayıq hökmüdar
 Öz şahlıq taxtında tutarkən qərar,
 
-Əmr etdi, verildi belə bir fənnan:
+Əmr etdi, verildi belə bir fərman:
 "Alimdir gözümdə ən əziz insan!
 
 Elmlə, hünərlə! - Başqa cür heç kəs
@@ -100,9 +100,9 @@ Tacını götürüb, bir xeyli müddət
 Elərdi ürəkdən haqqa ibadət.
 
 Üzünü sürtərək təmiz torpağa
-Başlardı tanrıya o yalvannağa.
+Başlardı tanrıya o yalvarmağa.
 
-Keçmiş günlər üçün şükr eləyərək.
+Keçmiş günlər üçün şükr eləyərək,
 Gələcək işlərə dilərdi kömək.
 
 Bütün qazandığı qalibiyyəti
@@ -115,7 +115,7 @@ Könüldən gəlməyən dua, yaxşı bil,
 Mənasız bir işdir, ibadət deyil.
 
 Sidq ilə ibadət eləsə insan
-Naiimid qayıtmaz haqq dərgahından.
+Naümid qayıtmaz haqq dərgahından.
 
 İskəndər belə bir düz yolla getdi,
 Odur ki, cahanı tamam fəth etdi.
@@ -123,7 +123,7 @@ Odur ki, cahanı tamam fəth etdi.
 Qafil şahlar kimi keyfə dalaraq,
 Yaxşını, yamanı gözündən iraq
 
-Qoymazdı... O, zülmə vennəzdi imkan,
+Qoymazdı... O, zülmə verməzdi imkan,
 Saxlardı dünyada daim bir mizan.
 
 Qocalar, cavanlar, uşaqlar üçün
@@ -136,7 +136,7 @@ Tədbir soruşardı iş bilənlərdən.
 Odur ki, olmuşdu özü işbilən.
 
 Yoxsa rum papaqlı bir türk nə sayaq
-Çinə, Hindistana basardı ayaq? 79
+Çinə, Hindistana basardı ayaq?
 
 Deyirlər, getsəydi o bir yer üstə,
 Yanında hazırdı bu altı dəstə:
@@ -144,7 +144,7 @@ Yanında hazırdı bu altı dəstə:
 Minlərcə ən möhkəm, mərd qılıncvuran
 Durardı əmrində onun hər zaman,
 
-Əfsunda Haıutu vurub keçənlər,
+Əfsunda Harutu vurub keçənlər,
 Neçə əfsun quran, neçə cadugər,
 
 Elə nitqlər ki, dilləri atəş,
@@ -154,7 +154,7 @@ Alim, uzaqgörən hikmətşünaslar,
 Saysız, hesabsızdı qiymətşünaslar,
 
 Qoca zahidlər də vardı bir qədər,
-Dııa elərdilər onlar gecələr.
+Dua elərdilər onlar gecələr.
 
 Peyğəmbərlərə də gətirib pənah.
 Almışdı orduya onlardan da şah.
@@ -183,7 +183,7 @@ Vuruşda işləri bərkə düşərkən,
 Qızılı salardı işə ən əvvəl,
 Qızıltək eylərdi işi təmiz həll.
 
-Qızıl iş gönnəsə, iş olsa mahal,
+Qızıl iş görməsə, iş olsa mahal,
 Qılınca atardı əlini dərhal
 
 Qılınc etməsəydi bu işə çara,
@@ -213,7 +213,7 @@ Gördüyü şeylərdən alardı ibrət.
 Kefdən, əyləncədən ovçuluğadək
 Heç şeyə baxmazdı bir oyuncaqtək..
 
-Şalı içki məclisi düzəltdi bir gün,
+Şah içki məclisi düzəltdi bir gün,
 Şadlığa qərq etdi dünyanı bütün.
 
 Müğənnilər gəldi, çalanlar gəldi,
@@ -226,7 +226,7 @@ Libası yeddi rəng zərif ipəkdən.
 Ərişi, arğacı güldən, çiçəkdən,
 
 O qəşəng paltara edib tamaşa,
-Heyran qalmış idi xanəndəyə şalı.
+Heyran qalmış idi xanəndəyə şah.
 
 Paltar günəş kimi par-par yanırdı,
 Ancaq ki, xam bezdən astarı vardı.
@@ -234,7 +234,7 @@ Ancaq ki, xam bezdən astarı vardı.
 O paltar sahibi bir xeyli müddət
 Ömr etdi, hər yanda qazandı şöhrət.
 
-Soldurdu, toz-torpaq vennədi aman.
+Soldurdu, toz-torpaq vermədi aman.
 O zərif paltarı köhnəltdi zaman.
 
 Tikişlər sökülüb, bəndlər boşaldı,
@@ -277,10 +277,10 @@ Bizim iç-üzümüz açılsa əgər,
 Dünyanı üfunət basar, bürüyər!
 
 Madam ki, o rumi ipək bir rəngmiş.
-içdən belə çirkin, üzdən qəşəngmiş,
+İçdən belə çirkin, üzdən qəşəngmiş,
 
 Gümüş məcməidə gərək biz nahaq
 Bir qara ud kimi coşub daşmayaq.
 
 Ud, söyüd külüylə yoxsa gözəllər
-Dişini ağardıb bizə gülərlər..." 82.
+Dişini ağardıb bizə gülərlər...".

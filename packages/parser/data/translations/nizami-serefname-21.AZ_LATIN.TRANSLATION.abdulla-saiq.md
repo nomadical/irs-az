@@ -6,13 +6,13 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
 status: DRAFT
 ---
-Ver, saqi, ruh verən parlaq şərabdan.
+Ver, saqi, ruh verən parlaq şərabdan,
 Ondan işıqlansın qəlbim hər zaman.
 
 Mən onu içərsəm verər səadət,
@@ -31,7 +31,7 @@ Bir şey ki işini edəcək asan
 Yükündən götürüb atma heç zaman.
 
 Əskiklik versə də, atma kürkünü,
-Səni qar, soyuqdan şaxlar qış günü.
+Səni qar, soyuqdan saxlar qış günü.
 
 Gədikdə bir eşşək öldü soyuqdan,
 Çulsuz çıxmış idi o tənbəl heyvan.
@@ -58,7 +58,7 @@ Durduğu yerlərdə qafil olmuşdur.
 Bir anda çıxarar onu mülkündən”.
 
 İskəndər gülərək söylədi cavab:
-“Gizlində qalmağı sevməz afıtab.
+“Gizlində qalmağı sevməz afitab.
 
 Yararmı döyüşdə böyük İskəndər
 Adi quldur kimi qazana zəfər?”
@@ -111,7 +111,7 @@ Bizimlə döyüşə vermişdir qərar.
 Hərb üçün, sülh üçün fikriniz nədir?
 Düşmən çox yaxındır, göstərin tədbir.
 
-Çıxmasa bu kəskin qılınc qınından.
+Çıxmasa bu kəskin qılınc qınından,
 Bizə kişi deməz bir nəfər insan.
 
 Tac-taxt alarsam qoca Daradan,
@@ -160,7 +160,7 @@ O, qoca söyüddür, sən gənc sənubər,
 Söyüdlə sənubər olmaz bərabər.
 
 Yenidən abad et bu köhnə bağı.
-Toıpaqdan təmizlə köhnə alağı.
+Torpaqdan təmizlə köhnə alağı.
 
 Bu təzə dövlətin al qumaşından
 Gəlintək bəzənsin o köhnə cahan.
@@ -178,7 +178,7 @@ Düşməndən məmləkət doymuşdur cana,
 Atıl üzərinə mərdi-mərdana.
 
 İsti təndir artıq çörək istər, dur,
-Atmın başına odlu yüyən vur.
+Atının başına odlu yüyən vur.
 
 Baş qoyarıq hara sən ayaq qoysan,
 Bizdə yox əmrindən boyun qaçıran.
@@ -189,13 +189,13 @@ Sənin istəyini kim poza bilər?
 Sözləri bununla bitirdi: “Ancaq
 Sən bu qan tökməyə qoyma ilk ayaq.
 
-Kəyanm taxtına göstər sən hörmət,
+Kəyanın taxtına göstər sən hörmət,
 Öncə qan tökməyə gəl etmə cürət”.
 
 Hamının fikrini şah öyrənərək,
 Bildi sərkərdələr edəcək kömək.
 
-Doğrular sözünü tutaraq getdi.
+Doğrular sözünü tutaraq getdi,
 Ordu yetirməyə o gün əmr etdi.
 
 Dövr edən günlərdən seçərək bir gün,
@@ -220,15 +220,15 @@ O uğurlu bayraq düzələn zaman
 Nazlardı dostunu bu qoca dövran.
 
 Bayrağı “Dirəfşi-Gavə”dən yüksək
-Çəkdi mahlıcma göy rəngli ipək.
+Çəkdi mahlıcına göy rəngli ipək.
 
-Tam əlli arşmdı uca sütunu.
+Tam əlli arşındı uca sütunu.
 Zinət öz qoynunda bəsləmiş onu.
 
 İpəyin üstündə müdhiş əjdaha,
 Baxanlar qorxudan baxmaz bir daha.
 
-Qıvırcıq qara bir qotaz başında.
+Qıvırcıq qara bir qotaz başında,
 Sanki bir buluddur dağın qaşında.
 
 Bir qara qartaldı, qanadı nurdan,

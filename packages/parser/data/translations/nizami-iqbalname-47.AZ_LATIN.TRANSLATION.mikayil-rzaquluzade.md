@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -46,7 +46,7 @@ Gülərək söylədi onlara ustad:
 "Burdan gedənləri etməyin heç yad.
 
 Mənimçün nə fərqi burdakı yerin?
-Harda istəsəniz orda yer verin.
+Harda istəsəniz orda yer verin,
 
 Ona da bir yuxu tufanı çatdı,
 Bəxtinin yelkəni sularda batdı.

@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -16,10 +16,10 @@ Xosrov dedi: "Söylə, bu canlar ki, var,
 Öz yuvalarından necə uçarlar?"
 
 Dedi: "O yolları görmədim, ey şah!
-Eşitdikiərimdən indi ol agah:
+Eşitdiklərimdən indi ol agah:
 
 Dörd möbid var imiş, deyir, bir kərə,
 Dördünün də canı bağlı bir yerə.
 
-Çox düşünürlər Kİ, insanın canı
-Nə sayaq tənc edir birdən insanı?
+Çox düşünürlər ki, insanın canı
+Nə sayaq tərk edir birdən insanı?

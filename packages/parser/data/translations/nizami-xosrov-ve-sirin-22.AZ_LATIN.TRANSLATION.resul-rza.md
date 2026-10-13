@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -16,79 +16,79 @@ Gecənin qoynundan çıxınca səhər
 Qızıldan tac qoydu başına göylər.
 
 Firuzə taxt üstə süfrə sərildi,
-Içki içənlərə şərab verildi.
+İçki içənlərə şərab verildi.
 
-O yerdən Pərisuz Kilsəsinədək
+O yerdən Pərisuz kilsəsinədək
 O pəriüzlülər getdi yüyürək
 
-O cənnəhək yerdə gəzib bir zaman
+O cənnəttək yerdə gəzib bir zaman
 Lacivərd göyləri qoydular heyran.
 
-Bir saf Könül Kimi tərtəmiz ova,
+Bir saf könül kimi tərtəmiz ova,
 Uşaq sevgisitək mötədil hava.
 
-Toıpaq cənnət Kimi, gözəl qoxulu,
+Torpaq cənnət kimi, gözəl qoxulu,
 Hər yanı dürlərlə, güllərlə dolu.
 
 Lalədən bütxana olmuşdu daşlar,
 Çəmənin zülfünü sərin meh darar.
 
-Bülbül nəvasma, qumru səsinə
-Qırmızı çiçəıdər açmışdı sinə.
+Bülbül nəvasına, qumru səsinə
+Qırmızı çiçəklər açmışdı sinə.
 
 Bu gözəl çəməndə cəh-cəh vuraraq,
 Quşlar uçurdular hey budaq-budaq.
 
-Hər Küncdə İKİ quş verib baş-başa
+Hər küncdə iki quş verib baş-başa
 Gülə "Nuş!" deyərək edir tamaşa.
 
 O naxış çəkən də gəldi gülşənə,
-Xosrovun şəkiini yaratdı yenə.
+Xosrovun şəklini yaratdı yenə.
 
 O pəri, bu yeri görüb xoşladı,
-Pəri üzlülərlə Kefə başladı.
+Pəri üzlülərlə kefə başladı.
 
-Yenə şəkii gördü, həsrətlə baxdı,
-O surət Könlünü yandırdı, yaxdı.
+Yenə şəkli gördü, həsrətlə baxdı,
+O surət könlünü yandırdı, yaxdı.
 
-Bu hiylədən onu bir heyrət aldı.
-Oyunu unutdu, çox Akrə daldı.
+Bu hiylədən onu bir heyrət aldı,
+Oyunu unutdu, çox fikrə daldı.
 
-Qoşdu arzusuna, Kefi unutdu,
+Qoşdu arzusuna, kefi unutdu,
 Götürdü surəti əlində tutdu.
 
 Baxıb bu aynada gördü özünü,
 Görüb bihal oldu, yumdu gözünü.
 
-Miıçək tutan vecsiz hörümçək toru
+Milçək tutan vecsiz hörümçək toru
 Ovladı hümanı, o şux məğruru.
 
 Divlər etdiyindən mənzil bu yeri
 Bir divanə oldu burda o pəri.
 
 Bir yerdə olarsa tədbir və hiylə
-insan deyil, divi ovlarlar belə.
+İnsan deyil, divi ovlarlar belə.
 
 Bir çox söz söylədi adətdən kənar,
 Yenidən bir daha deyilməz onlar.
 
-O gülyanaqlılar toıpağa düşən
-Yüz yarpaqlı gülü qəmli görəncən
+O gülyanaqlılar torpağa düşən
+Yüz yarpaqlı gülü qəmli görərkən
 
-Bildilər Kİ, səbəb pəri deyilmiş,
+Bildilər ki, səbəb pəri deyilmiş,
 Başqa bir naxışla bəzənib bu iş.
 
-Pərt oldular şəkii cırdıqlarından.
-Vəsfə başladılar o şəkii haman.
+Pərt oldular şəkli cırdıqlarından.
+Vəsfə başladılar o şəkli haman.
 
 Dedilər: "Baş qoyub, göstərib hünər,
-Şəkii sahibindən bilərhc xəbər."
+Şəkil sahibindən bilərik xəbər."
 
 Şirin gördü onlar doğru söz deyir,
 Xidmətə hazırdır hamısı bir-bir.
 
-"Komək edin", dedi bir ah çəkəi'ək,
-Yoldaşdan yoldaşa yetişər komək.
+"Kömək edin", dedi bir ah çəkərək,
+Yoldaşdan yoldaşa yetişər kömək.
 
 Heç bir işdə olma yarsız, yoldaşsız,
 Dünyada yoldaşsız allahdır yalnız.
@@ -99,8 +99,8 @@ Yaman gündə çatar dada yoldaşlar.
 O bütlərə baxıb Şirin səsləndi:
 "Bu şəkildən ötrü səbrim tükəndi.
 
-Gizlətməyək bunu Kimsədən gərəx,
-Onun sağlığına gəlin mey İçək".
+Gizlətməyək bunu kimsədən gərək,
+Onun sağlığına gəlin mey içək".
 
 Kefə başladılar qızlar yenidən,
 Gülgün şərablarla bəzəndi çəmən.
@@ -112,21 +112,19 @@ Yüksəldi saqinin "Nuş olsun!" səsi.
 Acı və şirindən məst oldu dünya.
 
 Dəyəndə Şirinin meyə dodağı
-Şəkiin qabağında öpdü torpağı.
+Şəklin qabağında öpdü torpağı.
 
 Sərxoşluq salanda məşuqu dara
-Səbri Kəsilərək axtardı çara.
+Səbri kəsilərək axtardı çara.
 
-Qızlardan birini göndərdi Kİ: "Sən
-Yoldan ötüb Keçən hər Kimi görsən,
+Qızlardan birini göndərdi ki: "Sən
+Yoldan ötüb keçən hər kimi görsən,
 
 Göz qoy, soruş, öyrən haradır səfər.
-Şəkiı barəsində ondan tut xəbər".
+Şəkil barəsində ondan tut xəbər".
 
 Qızlar gizlin, açıq hey soruşdular,
-O surətin sirri olmadı aşxar.
+O surətin sirri olmadı aşkar.
 
 Şirin iztirabdan heç dincəlmədi,
 Şəkildən bir doğru xəbər gəlmədi.
-
-göstərməsi

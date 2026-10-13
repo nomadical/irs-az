@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -19,13 +19,13 @@ Hasari adlanan incə pərdədən
 Belə bakirələr çıxdı pərdədən:
 
 "Qəlbim torpaq oldu, ey sərv, sənə,
-Sərvtək üstümə Kölgə sərsənə!
+Sərvtək üstümə kölgə sərsənə!
 
 Sən bu qara saçdan neçin qaçırsan?
 Məntək boynu bağlı tapmazsan, inan!
 
-Lovğalandımsa mən bir əmir Kimi,
-Boynu bağlı gəldim bir əsir khş.
+Lovğalandımsa mən bir əmir kimi,
+Boynu bağlı gəldim bir əsir kimi.
 
 Məni öz evinə qoymadın, demə,
 Asiman sığarmı bu viranəmə?
@@ -33,52 +33,52 @@ Asiman sığarmı bu viranəmə?
 Qarınca yuvası filə yararmı?
 Milçəkdə simürğün qüvvəti varmı?
 
-Quyuya sığarmı geniş Kainat?
+Quyuya sığarmı geniş kainat?
 Behişti qavrarmı kiçik ət, nəbat?
 
 Qapıçıya layiq olmasa bir baş,
 Verilərmi ondan şahlara şabaş?
 
-Baxma, dünən səni cana gətirdim,
-indi bu canımı sənə yetirdim.
+Baxma, dünən səni cana gətirdim.
+İndi bu canımı sənə yetirdim.
 
 Xahiş eyləməyə yox məndə taqət,
-Kərəmindən umar Könlüm şəfaət.
+Kərəmindən umar könlüm şəfaət.
 
 Günahım böyükdür, lakin mən yenə
-Üzr üçün taparsam əgər bəhanə.
+Üzr üçün taparsam əgər bəhanə,
 
 Öpərəm torpağı qəlbim dolu ah,
 Əfv edərsən məni, əlbəttə, ey şah!
 
-Üzümü sürtərəm torpaqlara mən.
+Üzümü sürtərəm torpaqlara mən,
 Ta abır çıxınca üzümə yerdən.
 
 Gəlib yalvararam sənə o qədər
-iqbalın əfvinə fərman göndərər
+İqbalın əfvinə fərman göndərər
 
 Şah talenaməsi belə göstərir:
-Peykiərin taleyi ay əlindədir.
+Peyklərin taleyi ay əlindədir,
 
 Mənsə ay taleli peyk olduğumdan,
 Peyktək yoldayam, budur, hər zaman.
 
-Sənə söyləməkçün sevimli dildar.
+Sənə söyləməkçün sevimli dildar,
 Bu qaynar qəlbimdə gizli sözüm var.
 
 Sifariş gətirmiş bir qasidəm mən:
 Gətirdim borcunu gizli xəznəmdən.
 
 Ağzım xırdalıqdan naz etdi, ey yar!
-Gəlmiş hüzuruna indi günahıcar.
+Gəlmiş hüzuruna indi günahkar.
 
-Dilimdən alovlu bir dil yüxsəldi.
-Budur, ki ləlim onunla gəldi.
+Dilimdən alovlu bir dil yüksəldi,
+Budur, iki ləlim onunla gəldi.
 
-Gözlərim Шrk Kimi dar oldu əgər,
-indi hindu Kimi üzrə gəlmişlər.
+Gözlərim türk kimi dar oldu əgər,
+İndi hindu kimi üzrə gəlmişlər.
 
-Yay, Kiriş gördünsə bu qaşlarımdan.
+Yay, kiriş gördünsə bu qaşlarımdan,
 Ox vur, səndə də var eylə bir kaman.
 
 Boyun qaçırmışdı saçım əmrindən,
@@ -91,40 +91,40 @@ Səni görən saçım oldu pərişan,
 Vurmuşam zəncirə, bax, özün, inan.
 
 Başımı məşəltək qapından saldım.
-Şam Kimi canımı məşələ aldım.
+Şam kimi canımı məşələ aldım.
 
-Xəttin qan töıcməyi etsə ixtiyar,
-Xətdən nöqtə Kimi çıxmaram kənar.
+Xəttin qan tökməyi etsə ixtiyar,
+Xətdən nöqtə kimi çıxmaram kənar.
 
 Etina etməsə xəyalın mənə,
-Göz yaşı tökərəm ətəkiərinə.
+Göz yaşı tökərəm ətəklərinə.
 
 Qanımı o əqiq ləblər içsələr,
-Mirvari dişlərim onları Kəsər.
+Mirvari dişlərim onları kəsər.
 
 Barı dərilməmiş bir bağam, zəngin,
 Qapısı bəllidir, açarı gizlin.
 
-Əgər Kİ, narıma göstərib həvəs,
-Əl vurmaq istəsə səndən qeyri kəs.
+Əgər ki, narıma göstərib həvəs,
+Əl vurmaq istəsə səndən qeyri kəs,
 
 Məst edib işvəmin üzüm suyuyla,
 Ümidsiz, əliboş salaram yola.
 
-Sənin şəxər dolu dodaqlarından
+Sənin şəkər dolu dodaqlarından
 Qeyri, badamıma olmaz toxunan.
 
-Fmdıqtək daş altda qalsam da bitab.
+Fındıqtək daş altda qalsam da bitab,
 Səndən başqasına çatmaz bu innab.
 
 Səndən başqa biri püstəmçün yana,
-Püstə ağzı Kimi gülərəm ona.
+Püstə ağzı kimi gülərəm ona.
 
-Görsəm turuncuma mail hər Kimi,
-Tixan üstə qalar turunclar Kimi.
+Görsəm turuncuma mail hər kimi,
+Tikan üstə qalar turunclar kimi.
 
 Dərmək istəyəndə mənim xurmamı,
-Ancaq tixan görər əlimdən hamı.
+Ancaq tikan görər əlimdən hamı.
 
 Kim mənim almama meylini salsa,
 Uşaqtək tovlaram mum almalarla.

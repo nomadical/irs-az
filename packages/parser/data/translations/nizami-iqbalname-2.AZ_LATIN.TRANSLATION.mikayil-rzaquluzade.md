@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -33,7 +33,7 @@ Asiman var ikən kim baxar yerə.
 Varkən bu dünyada hər cürə büsat,
 Behiştdə nə üçün axtaraq həyat?
 
-inanma ki. cənnət burdan şən olsun,
+İnanma ki. cənnət burdan şən olsun,
 Deyirsən yaxşıdır, sən deyən olsun.
 
 Bizə də behiştdə bir yer ayır sən,
@@ -42,10 +42,10 @@ Sil pis naxışları düşüncəmizdən.
 Biz öz çarəmizi bilmirik əsla.
 Hansı yol yaxşıdır apar o yola.
 
-Səni ümid ilə hey axtannaqda
+Səni ümid ilə hey axtarmaqda
 Kimisi qarada, kimisi ağda.
 
-Bir meyvə dənnəkçin sənin bağından,
+Bir meyvə dərməkçin sənin bağından,
 Hərə bir qapıda eyləyir fəğan.
 
 Məndə cəsarət yox sənə söz deyim,
@@ -57,7 +57,7 @@ Görürəm o deyil, sənsən lütf edən.
 Sənin mövcudata yox ehtiyacın,
 Onların hamısı sənin möhtacın.
 
-Sən ki, dostlııq ilə çıxdın qarşıma,
+Sən ki, dostluq ilə çıxdın qarşıma,
 Biganəlik külü tökmə başıma.
 
 Feyzindən işıq ver gözlərimə sən,
@@ -82,7 +82,7 @@ Saldın ilk sözümü sən dildən-dilə,
 Bu son addımı da yetir mənzilə.
 
 Ziya saç, qoy qəlbim işıqla dolsun,
-incə mətləblərə o, güzgü olsun.
+İncə mətləblərə o, güzgü olsun.
 
 Bu çətin yollarda budur məqsədim:
 Sənin bəyəndiyin bir yolla gedim.
@@ -91,4 +91,4 @@ Elə kömək et ki, işlərimə sən.
 Özün şad olasan dediklərimdən.
 
 Mən öz xoşum ilə gəlim önünə,
-itaət eyləyim peyğəmbərinə
+İtaət eyləyim peyğəmbərinə

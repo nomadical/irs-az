@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -24,13 +24,13 @@ Qaldı şahımıza ağıl yadigar.
 Şaha kömək olsun həmişə xoş bəxt,
 Onunla bəzənsin daim tacü təxt!
 
-Məlik izəddinə bu çərxi-dövran
+Məlik İzəddinə bu çərxi-dövran
 Qüdrət kəməndini bəxş etmiş çoxdan.
 
 Odur yeddi ulduz sirrini açan,
 Odur səkkizinci qərana sultan.
 
-Kəsra-Key həzmində o tutub qərar,
+Kəsra-Key bəzmində o tutub qərar,
 Olub Firiduntək xoşbəxt hökmüdar!
 
 Dodağı dünyanın həyat şərbəti,
@@ -60,13 +60,13 @@ Vəziri nizamtək ləyaqətlidir.
 O, hökmran şahdır indi dövrana,
 Vəzir də ikinci Nizamdır ona.
 
-Alimlər gətinniş hər bir diyardan,
+Alimlər gətirmiş hər bir diyardan,
 Yaratmış onlara hər cürə imkan.
 
 Şərabı içərlər şən, güllər kimi,
 Məstkən ayıqdırlar bülbüllər kimi.
 
-Hamı yarımhıışyar, şah yarımayıq,
+Hamı yarımhuşyar, şah yarımayıq,
 Hamı dildən iti, şah əliaçıq!
 
 Kimdə var bu məclis padişahlardan?
@@ -84,13 +84,13 @@ Gah da hücum çəksin Həbəşistana.
 Heç yerə getmədən aqil hökmüdar,
 Görər öz gözüylə dünyada nə var.
 
-istəsə şah üçün bu kitab yəqin
+İstəsə şah üçün bu kitab yəqin
 Açar qapısını yeddi ölkənin.
 
 Onunla məclisi şahın şad olar.
 Onda bu dünyanın təsvirləri var.
 
-Keyxosrov həzminin varisi sənsən,
+Keyxosrov bəzminin varisi sənsən,
 Təxtü tac dayağı zoruna əhsən!
 
 Cahanı göstərən bu cama baxsan,
@@ -123,20 +123,20 @@ Ki, gəlib behişti edəm ziyarət.
 Müqəddəs behiştə can getsin gərək,
 Cəsədi oraya niyə göndərək?
 
-Dəryamdan iki dürr olııbdur əyan,
+Dəryamdan iki dürr olubdur əyan,
 Onlardır üzümü mənim ağardan:
 
 Biri Məryəm kimi ismətli pəri,
-isanın nurilə parlar o biri.
+İsanın nurilə parlar o biri.
 
 Birinin çöhrəsi Aytək münəvvər,
 Birinin ürəyi güntək nur çilər.
 
-Müqbil, iqbal adlı iki hindli qul
+Müqbil, İqbal adlı iki hindli qul
 Göndərdim hüzura, olaydı məqbul.
 
 Gəldi hər ikisi şah xidmətinə,
-Məsəldir, yaqutu şaxlar xəzinə.
+Məsəldir, yaqutu saxlar xəzinə.
 
 Qızını mehrlə köçürər ana,
 Qardaş duvaq salar onun başına.

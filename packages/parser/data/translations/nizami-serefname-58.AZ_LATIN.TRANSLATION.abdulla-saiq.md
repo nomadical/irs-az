@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -19,13 +19,13 @@ Bu qara torpaqdan süzülən gövhər,
 Şənlətsin qəlbimi, qalmasın kədər!
 
 Gündüzdən daha şux, parlaq bir gecə!
-Günəşdən aydmdı, işıq və incə!
+Günəşdən aydındı, işıq və incə!
 
 Bu yaşıl günbədin şənliklərindən
 Şən, zümrüd körpələr doğurur çəmən.
 
 Əsrarlı ulduzlar dönmüş çırağa,
-Ağ gümüşdən rəqəm yazmış toıpağa.
+Ağ gümüşdən rəqəm yazmış torpağa.
 
 Bu qorxunc hərfləri bilən, oxuyan,
 Tutarmı bu sonsuz köhüldə məkan?
@@ -60,7 +60,7 @@ Yalnız şənlik gərək, nuş edərkən mey,
 Özünü zillətdə tutmaq və gərək!
 İl boyu qəm, kədər udmaq və gərək?
 
-Girmə bu dünyanın kəc qapısından.
+Girmə bu dünyanın kəc qapısından,
 Heçlikdən bir fayda görərmi insan?
 
 Fil ayaq altına bizi almadan
@@ -82,7 +82,7 @@ Görmürsən, bac verən bu dövlətlilər
 Yoxsul dəhlizindən qaparaq verər.
 
 Eşq olsun ən doğru düşünən mərdə,
-Varma yer verdi xərabələrdə!
+Varına yer verdi xərabələrdə!
 
 Bir günlük tarixi vardır bu çərxin,
 Yüz illik xəznəni gizlətmək neçin?
@@ -106,63 +106,60 @@ Kin, tamah bədənə atəş nalıdır.
 Kədərə tapşırmaq əbəsdir, əbəs!
 
 Şənliklə səslənsin çıxan nəfəslər!
-363 Qtcs ’Oi»»»
-
 Şən nəfəs almasan, sərmayən gedər.
+
 Varı ver, könlünü şənləndir ancaq,
-
 Ucuzdur bir heçə bir könül almaq.
+
 Sərvətçin kar olma, dönmə sərt daşa!
-
 Sərvətin olmasın, ancaq sən yaşa!
+
 Bərk tutma dünyanı, etsən bir nəzər,
-
 Bərk tutmaq ölümə çətinlik verər.
+
 Bu dünya malına uyma çox, zinhar,
-
 Hər sadə keçinən asudə yaşar.
+
 Sevimli bir saat, uğurlu gecə,
-
 Onda şən keçirmək olur könülcə.
+
 İskəndər dövrünün yaqutlarından
-
 Belə nəql eləyir tarixi yazan:
+
 Tacidar o gecə qəlbində fərəh,
-
 Gül dodaq eşqinə doldurdu qədəh.
+
 O camı qaldırdı gül dodağına,
-
 Cam da bir qul kimi baş əydi ona.
+
 Oturmuş bir cavan sərv ağacıtək,
-
 Gah lalə tökür, gah ərğəvan çiçək.
+
 Müşkün gül üstünə yazılmış bir xətt,
-
 Gülə gül suyuyla çərx vermiş zinət.
+
 Həm düşmən fəthindən könül çox şəndi,
-
 Həm də dostlarıyla evi gülşəndi.
+
 Çağırtdı gül üzlü o dilaramı,
+O mələk simalı nazik əndamı.
 
-O mələk şimalı nazik əndamı.
 Bir saz, bir oxuyub çalandı həmdəm,
-
 Çadırda qalmadı daha naməhrəm.
+
 Min bir istək ilə istənmiş dilək,
-
 Başına, üzünə vurmuş yüz bəzək.
+
 Al nar danəsindən dodağı dilbər,
-
 Dili al nabatdan daha şirin, tər.
+
 Gözləri gül, ağzı o qədər dardı,
-
 Biri saz, o biri könül çalardı.
+
 Araqçın altından o müşkün tellər
-
 Kəmənddir, asılmış ətəyə qədər.
-Məclisə yaraşıq verən, oxuyan,
 
-««zc »=>л
+Məclisə yaraşıq verən, oxuyan,
 Şahın əlindədir çalan hər zaman.
 
 İskəndər əmriylə aldı sazını,
@@ -208,7 +205,7 @@ Məndən taxt tələb et fil sümüyündən.
 Könlümsə o dünya tutanı tutdu.
 
 Şahın dünya tutan uca kəməndi
-Ay, Günəş boynuna salırsa bəndi.
+Ay, Günəş boynuna salırsa bəndi,
 
 Zülfümdən bir kəmənd eşərəm ona,
 Qorxmadan ataram şahın boynuna,
@@ -291,7 +288,7 @@ Sazımın səsiylə gətirrəm rəqsə.
 Bu gümüş əndamla gümüş saçaraq
 Xəzinə qıflını açmaram ancaq.
 
-Baxçamm qapısı deyil aşikar,
+Baxçamın qapısı deyil aşikar,
 Ancaq bağban bilir hardadır açar.
 
 Tər-təzə yetişmiş xurmalarım var,
@@ -327,7 +324,7 @@ Qulaqda halqalı bir quldur gövhər!
 Ağzım ki, çəkişdi Müştəri ilə,
 Üzüyü qazanan keçirdi ələ.
 
-Mənimlə bir cmaq çəksə gül, çiçək.
+Mənimlə bir cınaq çəksə gül, çiçək.
 “Apardım” sözünü unutsun gərək.
 
 Gözümdən Babilə bir əfsun çatdı,
@@ -348,14 +345,14 @@ Onlara quyudur, bax, bu zənəxdan.
 Aşiqə bir tellə verərəm tuğ-tac,
 Ətrimlə Xəllüxdən alaram xərac.
 
-Möhrümü vuraram Çin xaqanma,
+Möhrümü vuraram Çin xaqanına,
 Beş növbət salaram Rumu talana.
 
 Bu müşkün xalımla çinli bağrıyam,
 Falca Rum qəlbinin şən çırağıyam.
 
 Yuxulu çağımda verərəm məzə,
-Qanmı tökərəm edərkən qəmzə.
+Qanını tökərəm edərkən qəmzə.
 
 Dodağım rəng verir hər gülgün lələ,
 Üzümün xəyalı oynar günəşlə.
@@ -366,7 +363,7 @@ Cənnətin bir sənəmxanəsi sanır.
 Mənim nar döşlərim görünən zaman
 Narların ürəyi soyudu bağdan.
 
-Döşlərim dikəlmiş təzə narmctək,
+Döşlərim dikəlmiş təzə narınctək,
 Hansı bir bəxtiyar onu dərəcək?
 
 Uğurlu ağacam, iki narım var,
@@ -420,7 +417,7 @@ Gözələ xor baxmaq yetməzmi daha?
 Olma daş ürəkli, sevirəm səni!
 Kölən bil, gözəl bil, qulun bil məni!
 
-Mən fələk olmaqla sənin yarmam,
+Mən fələk olmaqla sənin yarınam,
 Çindənəm, sənin mən, bil, qəmxarınam.
 
 Deyiləm kölgədə yetişən bir gül,
@@ -441,91 +438,89 @@ Başqası yeyəcək onu, dərməsən.
 Mən kimi kim sənin dərdini çəkər?
 Dərdini çəkərək səpərəm şəkər.
 
-369 &££><£*»»>
 Ürəklər qan oldu qan içməyimdən,
-
 Boynumda nə qədər qan qalmış, bilsən?
+
 Çox şəkər dodağa oxudum meydan,
-
 Dodağım şirindir şəkərburadan.
+
 Həm səsim, həm özüm əzəldən gözəl,
-
 O gözəl, bu gözəl, gözəldən gözəl.
+
 Saqisi mən olsam, mey olmaz haram,
-
 Canım işrət saçar bir mütrüb olsam.
+
 Çalğımla hər kəsi sərxoş edərəm,
-
 Sonra hər sərxoşu öldürər qəmzəm.
+
 Uzaqdan edərəm şux dilbərliklər,
-
 Qucaqda edərəm canpərvərliklər.
+
 Qarşımdan gözlərə sevinc salanam,
-
 Qucağa çəkdikcə könül çalanam.
+
 Mən olam, saz ola, bir də köhnə mey,
-
 Aşiqin taqəti qalırmı? Hey, hey!..
+
 Sən kimi şəhriyar olsa mənə yar,
-
 Bu könül şənlikdən başqa nə arar?
+
 Dövrandan kim almış mənim kimi kam?
-
 “Dünyada tapılmaz” olmuş mənə nam!”.
+
 Elə ki, sazına vurdu son mizrab,
+Təsnifi bitirdi dodağı ənnab.
 
-Təsnifı bitirdi dodağı ənnab.
 Şahın məhəbbəti o sözdən coşdu,
-
 Sanki tərlan fərə üstünə qoşdu.
+
 O bahar turacı naz ilə, şən-şən,
-
 Turunctək soyuldu qızıl beşikdən.
+
 Könül getdi əldən, sərapərdə boş,
-
 Sevimli məşuqə sevdadan sərxoş,
+
 Xəlvət bir gecədə elə bir mələk,
-
 Mümkünmüdür ona könül verməmək?!
+
 Gənc, gözəl maralı yıxdı nər aslan,
-
 Qarət məclisində başladı talan.
+
 Sığındı o laçın sona ovuna,
-
 Günəşsə getdi ay qonaqlığına.
+
 Şəkərtək əmirdi hey dodağını,
-
 Sorurdu şəkərli ney dodağını.
+
 Bağrına basdı o gül köküslünü,
-
 Xəzinə ağzından açdı möhrünü.
+
 Bakirə şərabı laləzar gördü,
-
 Qapalı bağçada alma, nar gördü.
+
 Əqiq möhr üstünü basmamışdı pas,
-
 Saf üzük qaşını deşməmiş almas.
+
 Bir qönçə güldür, yox üstündə tikan,
-
 Görməmiş bağbandan başqa bir insan.
+
 O qızğın atəşin artıqlığından
-
 Damardan fışqırmaq istəyirdi qan.
+
 Şəkərli dil ilə söhbət açdılar,
-
 Yağ, bala dönərək qucaqlaşdılar.
+
 Sarıldı iki sərv, iki gülpeykər,
-
 Qatdılar badama, yağa qənd, şəkər,
+
 Əyildi “əlif-lam” kimi cift ayaq,
-
 İki hərf kimi bir cinsdən olaraq.
-Elə ki, almaz o gövhəri dəldi.
 
+Elə ki, almaz o gövhəri dəldi,
 Həm almaz yatdı, həm gövhər dincəldi.
+
 Həyat çeşməsində məsud İskəndər
-
 Şənliklə keçirdi bəxtiyar günlər.
-İşrətlə keçirdi bir neçə gecə.
 
+İşrətlə keçirdi bir neçə gecə.
 Çıxmadı o yerdən, daldı sevincə.

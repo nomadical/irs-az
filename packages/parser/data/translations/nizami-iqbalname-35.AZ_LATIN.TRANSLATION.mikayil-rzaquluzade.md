@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -51,11 +51,11 @@ Qırılıb qarışa ipək tellərə.
 Sən nəğmə qoşasan oynaq rəng ilə,
 O da cavab verə sənə çəng ilə.
 
-Ondan öpüş ola, səndən qəzəllər.
+Ondan öpüş ola, səndən qəzəllər,
 Biri innab kimi, digəri şəkər...
 
 Tutiyə dönübsən, ey şad könül, sən,
-Yadına Hindistan düşüb deyəsən!.. 212
+Yadına Hindistan düşüb deyəsən!..
 
 Dağların döşünü bəzədi reyhan,
 Otlar yamyaşıldır, güllər al-əlvan.
@@ -69,7 +69,7 @@ Qarışdı bənövşə müşkə, ənbərə.
 Ənbər almaq üçün o xumar nərgiz
 Başını qaldırdı yerdən çarəsiz...
 
-Rıım ilə iranın böyük sərdarı
+Rum ilə İranın böyük sərdarı
 Abad bir ölkəyə saldı güzarı.
 
 Hindistan mülkünə yetişdi yenə.
@@ -127,7 +127,7 @@ Bu bütün qəribə bir dastanı var.
 O köhnə dastanı danışaram mən."
 
 Padişah buyurdu: o gözəl dilbər
-Yaqut sandığından saçsın saf gövhər
+Yaqut sandığından saçsın saf gövhər.
 
 Qaraxal gözəlin dodağı qaçdı,
 Sanki büllur çeşmə sərin su saçdı,
@@ -166,7 +166,7 @@ Quşların bəxşişi - o gövhərləri
 Gərək şah da bizdən almasın geri!
 
 Nur alır gözümüz gündən, gündüzdən,
-Rəvamı gözləri gün ala bizdən? 215
+Rəvamı gözləri gün ala bizdən?
 
 Korları şad edən bir şamı əbəs
 Gözü işıqlılar əsla söndürməz.
@@ -175,7 +175,7 @@ Qəlbinə dağ çəkmə dul qadınların,
 Söndürmə şamını sən də onların."
 
 O şirin dilli büt belə söylədi.
-Şalı da dilsiz bütü azad eylədi.
+Şah da dilsiz bütü azad eylədi.
 
 Yazıldı o bütün üstə bu sözlər:
 "Bura öz möhrünü vurmuş İskəndər."
@@ -219,7 +219,7 @@ Rəngini dəyişib, alanda göy rəng.
 Üz-üzə əyləşib iki hökmüdar
 Hər yerdən, hər şeydən söhbət açdılar.
 
-Xeyli uzun çəkdi xoş söhbətləri.
+Xeyli uzun çəkdi xoş söhbətləri,
 Onlar təzələdi köhnə əhdləri.
 
 Padşahın dinini bəyəndi xaqan.
@@ -310,7 +310,7 @@ Sübhün nəfəsini onlar duyanda
 Batırlar qapqara suya bir anda..."
 
 Şah bunu eşidib belə buyurdu,
-iki mil uzağa çəkilsin ordu.
+İki mil uzağa çəkilsin ordu.
 
 Müşktək ətirli bir gecə, göydən
 Ulduzlar gövhərtək nur səpələrkən
@@ -337,7 +337,7 @@ Bu həzin nəvadan ağladı bir az,
 Sonra gülüb dedi: ağlamaq olmaz.
 
 Bir səsdən gülə, həm ağlaya insan,
-Onun qüdrətinə olmazını heyran?
+Onun qüdrətinə olmazmı heyran?
 
 Şah bütün bunları seyr edib, yenə
 Sahildən qayıtdı öz məskəninə.
@@ -360,7 +360,7 @@ Fələk sövq eləyib bu işə, - deyər."
 Gəmiçi dinlədi şahın əmrini,
 Sahildən dənizə saldı gəmini.
 
-Şalı minib gəmiyə gedəndə ordan
+Şah minib gəmiyə gedəndə ordan
 Sahildə müntəzir dayandı xaqan.
 
 Ona tapşırdı ki: "Mən qayıtmamış
@@ -376,12 +376,12 @@ Deyib, göz yaşını axıtdı seltək,
 Yerdə qalanlara vida edərək,
 
 Sürdü gəmisini Çin dənizinə.
-Kim görüb ki, dəniz gəmiyə minə! 219
+Kim görüb ki, dəniz gəmiyə minə!
 
 Yoldaşlarından da bir neçə nəfər
 Götürdü, birlikdə etdilər səfər.
 
-O isa nəfəsli ustadlardan da
+O İsa nəfəsli ustadlardan da
 Bircə Bəlinasdı onun yanında...
 
 Çəkildi sahildən ənginliklərə
@@ -418,7 +418,7 @@ Gəl, inad eləmə, dəniz suları
 Burdan axıb gedir Mühitə sarı.
 
 Əgər bir mənzil də o yana getsək.
-Daha mümkün olmaz geriyə dönmək!..
+Daha mümkün olmaz geriyə dönmək!.."
 
 İskəndər bunları eşidən zaman
 Gördü qorxuludur bu yer, doğrudan.
@@ -469,7 +469,7 @@ O mahir gəmiçi ora yetişcək
 Xətt çəkdi gəmiylə suda pərgartək.
 
 Bir dağ ətəyində saldı lövbəri,
-Çıxardı saililə sərnişinləri.
+Çıxardı sahilə sərnişinləri.
 
 Baxıb burulğana, xəyala daldı,
 Arvad-uşağını yadına saldı.
@@ -495,7 +495,7 @@ Bir yara da çıxa yaranın üstə.
 Qorxuyla keçdiksə o yolu əgər,
 Öndəydi təhlükə, öndəydi xətər.
 
-Ölüm ayağıdır indisə bura.
+Ölüm ayağıdır indisə bura,
 Yağışdan qurtarıb düşdük yağmura.
 
 Bu dağ qılıncından xilas olaq biz,
@@ -519,7 +519,7 @@ Gəmiyə qurtuluş yolu açılsın!"
 Alim söylədi ki: "Bu yolda müdam
 Mən şahın bəxtini rəhbər tutmuşam.
 
-Şalı əgər qalarsa burda bir qədər,
+Şah əgər qalarsa burda bir qədər,
 Mən qaya üstündə tilsim düzəldər,
 
 Sonra da bir günbəz tikərəm ona,
@@ -532,7 +532,7 @@ Gəmi burulğandan çıxar səlamət,
 Əvvəlki qaydayla yol gedər rahət!"
 
 Şaha çox qəribə gəldi bu oyun,
-istədi fikrini öyrənsin onun.
+İstədi fikrini öyrənsin onun.
 
 Alimə buyurdu fikrində nə var,
 Yerinə yetirib eləsin aşkar.
@@ -540,7 +540,7 @@ Yerinə yetirib eləsin aşkar.
 Hər nə lazım isə həmin iş üçün
 Verildi alimə o şeylər bütün.
 
-Hünərli alim də dumadan bir dəm
+Hünərli alim də durmadan bir dəm
 O çətin iş üçün çalışdı möhkəm.
 
 Sarp daşdan bir günbəz tikdi çox yüksək.
@@ -552,7 +552,7 @@ Asdı bir mis təbil onun boynuna.
 Şaha söylədi ki: "Günbəz hazırdır,
 Onun tilsimi də, təbli də vardır!
 
-indi burulğana gəmini salsan,
+İndi burulğana gəmini salsan,
 Salamat çıxacaq o təbli çalsan!"
 
 Mahir gəmiçiyə şah verdi fərman,
@@ -580,9 +580,9 @@ Başqa bir katib də xəritələrdən
 Yoxlayıb, danışır həmin o yerdən:
 
 "Babil tərəfdədir həmin burulğan..."
-Çətindir iki rəy söylənən zaman,
+Çətindir iki rəy söylənən zaman.
 
-iki çay bir yerə tökülsə əgər,
+İki çay bir yerə tökülsə əgər,
 Səsi nəğmə kimi qulağa gələr.
 
 Bunu bir alimdən sual elədim:
@@ -622,7 +622,7 @@ Gecənin hindusu bu göy çadırdan
 Yeddi rud boyunca ip çəkən zaman
 
 O qorxunc sahildə xof etməyərək,
-Ip üstə oynadı şalı bir hindlitək.
+İp üstə oynadı şah bir hindlitək.
 
 Ancaq bilmirdi ki, o təbli çalan
 Adamı nə sayaq götürsün ordan.
@@ -630,8 +630,8 @@ Adamı nə sayaq götürsün ordan.
 Yenə kömək oldu bu işdə allah,
 Heç kəsi qoymadı qalsın orda şah.
 
-Özgənin gözünə dənnan eyləyən
-Özünə istənni dənnan özgədən?
+Özgənin gözünə dərman eyləyən
+Özünə istərmi dərman özgədən?
 
 Kafur həbbi atar çox qızdırmalı,
 Bunsuz yaxşılaşar təbibin halı.
@@ -648,7 +648,7 @@ Dora altdan-üstdən bənd idi yelkən.
 Yelkəni qaydayla açıb yüksəltdi,
 Gəldiyi yollarla qayıdıb getdi,
 
-öara su üstüylə gəmiylə keçdi,
+Qara su üstüylə gəmiylə keçdi,
 Əvvəlki sahilə gəlib yetişdi.
 
 Hamı əqlə gəlməz bir sevinc ilə
@@ -684,7 +684,7 @@ Nəql etdi hər şeyi ona tamamən.
 Bütün əhvalatı xaqan dinlədi,
 Şahın iqbalına mədhlər dedi:
 
-"Şahların şahma tanrı yar oldu,
+"Şahların şahına tanrı yar oldu,
 Bu xanlar xanı da bəxtiyar oldu.
 
 Buraya gəlməkdə sirr varmış yəqin,
@@ -733,7 +733,7 @@ On gün biyabanla çapıb getdilər,
 Göründü əkinli, abad bir şəhər.
 
 Ağ rəngdə gördülər onlar şəhəri,
-Sanki kaftırdandı bütün evləri.
+Sanki kafurdandı bütün evləri.
 
 Şah sordu: "Kimindir, xaqan, bu şəhər?
 Bura xəritədə nə ad vermişlər?"
@@ -754,7 +754,7 @@ Günəş dan yerinə sancanda bayraq
 Başlanır dənizdə taraqqataraq.
 
 O dəhşətli nərə, o gurultular
-insanın qəlbinə vahimə salar.
+İnsanın qəlbinə vahimə salar.
 
 Dəhşətə gəlməsin deyə, bu yerdə
 Körpələr saxlanır zirzəmilərdə.
@@ -780,7 +780,7 @@ Təbil səslərini əksiltməsinlər.
 Bu halda dənizdən qopan qorxunc səs
 Heç kəsə vahimə, dəhşət gətirməz!"
 
-Şalı dedi alimə: "Bu səslər nədən
+Şah dedi alimə: "Bu səslər nədən
 Eşidəni edir başdan, beyindən.
 
 Ondakı fəryadın nədir səbəbi?
@@ -795,7 +795,7 @@ Dalğalar od alır sanki atəşdən.
 Döş-döşə gələndə dağtək dalğalar
 Dənizdə dəhşətli nərələr qopar.
 
-Dəıya təndir kimi zəbanə çəkər,
+Dərya təndir kimi zəbanə çəkər,
 Gurlayıb ətrafa qığılcım tökər!
 
 Başqa bir alim də deyir ki, guya
@@ -831,7 +831,7 @@ Artdı əhalinin qazancı qat-qat.
 Bir az da ayırıb puldan, qızıldan
 Başçıya göndərdi sovqat, ərməğan.
 
-Şəhərin başçısı bıınu görəntək
+Şəhərin başçısı bunu görəntək
 Şahın ənamından vəcdə gələrək,
 
 Göndərdi şövqlə o da hər cürə
@@ -852,13 +852,13 @@ Zəngin biliyini, doğru dinini.
 O da qəbul edib oldu minnətdar,
 Haqqı nişan verdi ona hökmüdar.
 
-Şalı da bu əməldən çox razı qaldı.
+Şah da bu əməldən çox razı qaldı.
 Ona xələt verdi, şad yola saldı...
 
 Qırmızı pərdəni göy yığan zaman
 Düşdü qızıl teşti uca damından.
 
-Şalı öz yoldaşları ilə bərabər
+Şah öz yoldaşları ilə bərabər
 Yatıb dincəldilər səhərə qədər.
 
 Ətirlər saçanda sübhün reyhanı
@@ -888,11 +888,11 @@ Dəydi bir-birinə məhşər günütək.
 Axışdı buraya həm pir, həm cavan,
 Dəccalın təbliydi sanki çalınan.
 
-Dənizin səsini batırdı bıı səs,
+Dənizin səsini batırdı bu səs,
 Buna çox təəccüb elədi hər kəs.
 
 Gün qalxıb olanda günorta çağı,
-Şalı yenə qaldırdı səfər bayrağı.
+Şah yenə qaldırdı səfər bayrağı.
 
 Şaha təzim edən ərlər, qadınlar
 Ona dedilər ki: "Bir arzumuz var:

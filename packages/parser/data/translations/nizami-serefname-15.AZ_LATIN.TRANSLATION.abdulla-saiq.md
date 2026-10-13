@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -15,7 +15,7 @@ status: DRAFT
 Ey saqi, ver könül açan bir şərbət,
 Dərdim var, getdikcə etmədə şiddət.
 
-Olsun bu ürəyim o şərbətlə şad.
+Olsun bu ürəyim o şərbətlə şad,
 Məni dərd-qəmdən eyləsin azad.
 
 Gəldi qurd ağzından sübhün nəfəsi,
@@ -54,70 +54,67 @@ Eyvanda şövkətli bir məclis qurdu.
 Qol-qola tutaraq gözəl qulamlar
 Taxtının yanında tutdular qərar.
 
-Gah Kəyan adma qaldırır qədəh,
+Gah Kəyan adına qaldırır qədəh,
 Gah gövhər saçaraq edirdi fərəh.
 
 Bir nur çeşməsiydi, oturmuşdu şən,
 Aman səsi gəldi uzaq ellərdən.
 
-72 &£&£*>=*>
 Məclisdə padşaha etdilər məlum:
-
 “Amana gəlmişdir bir yığın məzlum.
+
 Kömək istəyirlər Rum sultanından,
-
 Deyirlər: Misrə çox dar oldu cahan.
+
 Zəncilər axınla gəlmiş bu səfər,
-
 Dolaşmaq çətindir, tutmayır çöllər.
+
 Ordularla dolmuş bu böyük cahan,
-
 Çöllərdə hakimdir qorxu, həyəcan.
+
 Hamısı çöllüdür, qətrandan qara,
-
 Çöllərin otu da çatmaz onlara.
+
 Uşaq təbiətli hər yaşlı kosa
-
 Şən həyat keçirir çirkin də olsa.
+
 Nə bir utanacaq üzləri vardır,
-
 Nə də sevgi saçan gözləri vardır.
+
 Bunlar insan yeyər, ilantək sancar,
-
 Misrin buna qarşı nə qüvvəti var?
+
 Köməyə çatmazsa böyük tacidar,
-
 Qarət gedəcək o zəngin diyar.
+
 Misir, Rum, Əffəncə olar tarmar,
-
 Mum kimi əriyər o odlu dağlar.
+
 Bu haqsız axından pərakəndəyik,
-
 Şah, fərman sizindir, bizlər bəndəyik”.
+
 O dinin pənahı, adil hökmüdar,
-
 Bildi ki, Zəncidə hədsiz qoşun var.
+
 O hədsiz ordudan qorxdu hökmüran,
-
 Qorxusuz olurmu ağıllı insan?
+
 İskəndər vəziri tez dəvət etdi,
-
 Onunla ətraflı məsləhət etdi.
+
 Ağıllı, bilikli, hünərli vəzir,
-
 Müzəffər olmağa tökdü bir tədbir:
+
 “Qalx” - dedi, - bəxtini sına, zamandır,
-
 Belə əjdəhanı məhv etmək şandır.
+
 Zəfərlər yaratsa ordunun əli,
-
 Daha möhkəm olur şahlıq təməli.
+
 Misir də, Zənci də olur sənə ram,
-
 Mərdlikdə alarsan yenilməz bir nam.
-Ölkədən silinsə azğın düşmənlər,
 
-««jcrg^Çı oo=*>
+Ölkədən silinsə azğın düşmənlər,
 Xainlər kor olar, dostların gülər”.
 
 Rəhbərin əmriylə o gənc hökmüran
@@ -135,7 +132,7 @@ Bu işi uğurlu bir fal bildilər.
 Padişah əmr etdi, Nil sahilindən
 Keçərək, çöllərdə tutsunlar məskən.
 
-Yedəkli at ilə axsın meydana.
+Yedəkli at ilə axsın meydana,
 Döyüşdə verməsin aman düşmana.
 
 İgidlər düzüldü yola hər nə var,
@@ -157,7 +154,7 @@ Coşdu toppuz, yağdı mancanaq daşı,
 Əyildi öküzün, balığın başı.
 
 İnsanlar bağırır, kişnəyir atlar,
-Dunyanm gözü kor, qulaqları kar.
+Dünyanın gözü kor, qulaqları kar.
 
 Bu səs-küy elə bir qiyamət açdı,
 Vəhşilər qorxaraq çöllərdən qaçdı.
@@ -181,7 +178,7 @@ Orda ki, yaşayır qulyabanılar,
 Yaşayıb, hər yerə soxulur onlar.
 
 Ləli yer öküzü udduğu zaman
-Pusqudan sıçradı qapqara aslan".
+Pusqudan sıçradı qapqara aslan.
 
 Gecənin zülməti dünyanı sardı,
 Aslanın dişitək ulduz ağardı.
@@ -192,7 +189,7 @@ Gecənin göbəyi yayırdı ətir,
 Düşməni tanıyan növbətçi əsgər
 Yollara çıxaraq keşik çəkdilər.
 
-Ulduzlar yer-yerdən doğmuşdu parlaq.
+Ulduzlar yer-yerdən doğmuşdu parlaq,
 Xalq oldu zəhmətdən, kədərdən uzaq.
 
 Qaranlıq çöküncə Rum və Zəngibar

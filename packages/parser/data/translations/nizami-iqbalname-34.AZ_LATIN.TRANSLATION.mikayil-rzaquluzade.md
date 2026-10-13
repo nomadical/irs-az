@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -63,14 +63,14 @@ Açıldı önündə nurlu bir cahan,
 Hər yanı yamyaşıl gözəl bir kənddi,
 Kənd demə, elə bil əsil cənnətdi.
 
-Şalı gəlib o kəndə çatdığı zaman.
+Şah gəlib o kəndə çatdığı zaman.
 Görmədi pişvaza çıxan bir insan.
 
 Çox idi o kənddə allahlıq edən,
 Hamısı uzaqdı dindən, əqildən.
 
 Palçıq bir küp qoyub evinə hərə,
-Kiincüd yağı töküb həmin küplərə,
+Küncüd yağı töküb həmin küplərə,
 
 Yağla dolu küpə insafsızlıqdan
 Onlar salardılar bir nəfər insan.
@@ -90,10 +90,10 @@ Hərdən sorardılar ondan bu sayaq:
 "Yaxşımı keçəcək bizim gecəmiz?
 Nələr görəcəyik sabahkı gün biz?"
 
-Guya bu kəllədə gizlin sirr vannış,
+Guya bu kəllədə gizlin sirr varmış,
 Ondan danışıqtək bir səs çıxarmış,
 
-Deyənniş sabahkı müqəddəratdan:
+Deyərmiş sabahkı müqəddəratdan:
 Hansı yollar ilə gedəcək cahan.
 
 Baxıb o söyləyən sözə, təbirə,
@@ -117,10 +117,10 @@ Burada onlara eylədi rəhbər.
 Ölkənin işini qaydaya saldı,
 Yenə də gethaget səsi ucaldı.
 
-Fərəhlə eləyib ordan hərəkət.
+Fərəhlə eləyib ordan hərəkət,
 Bir mənzil yol getdi o, sağ-səlamət.
 
-Hökmüdar atına vennədi aman,
+Hökmüdar atına vermədi aman,
 Axıb ulduz kimi keçdi yollardan.
 
 Yollar buruq-buruq, yollar dumanlı,
@@ -154,7 +154,7 @@ Yığdılar yollarda nə qədər daş var,
 Çala-çuxurları hamarladılar.
 
 Gəlib neçə fərraş şahın yanına,
-Ədəblə, hönnətlə baş əydi ona.
+Ədəblə, hörmətlə baş əydi ona.
 
 Bir ovuc daş verib dedilər: "Bir bax,
 Bu daşlar minikdə qoymayıb dırnaq.
@@ -201,7 +201,7 @@ Ancaq ki, balığı onun ilandı.
 Qaynaşır ilanlar min-min hər yanda,
 Kim görüb ilanı gövhər satanda?
 
-ilanlar onunçün dolub bu yola
+İlanlar onunçün dolub bu yola
 Ki, xəznə bir yerdə olur ilanla.
 
 Yolu xəzinənin çətindi yaman,
@@ -255,7 +255,7 @@ Pislər gömgöy idi, yaxşılar sarı.
 Şah ordan aşağı dönüb gələrək
 Endi dağdan axan qüdrətli seltək.
 
-Onlar çox sür ətlə endilər dağdan,
+Onlar çox sürətlə endilər dağdan,
 Yox idi bir nəfər bələdçi-filan.
 
 Atların nalından odlar yağırdı,
@@ -366,7 +366,7 @@ Odur ki, edirəm dinini qəbul.
 Mən səni əvvəldən görüb yuxuda,
 Sayəndə dirildim balıqtək suda,
 
-indi, sən qarşımda zühur edəndə,
+İndi, sən qarşımda zühur edəndə,
 Əmrinə həmişə hazıram mən də.
 
 Dünya yetirməmiş sənintək insan,
@@ -396,7 +396,7 @@ Xoruza əmr edib verdirəndə ban,
 Yola hazırlaşdı yenə İskəndər,
 Tədarük gördülər, başlandı səfər.
 
-Xeyli uzaqlaşıb həmin ölkədən.
+Xeyli uzaqlaşıb həmin ölkədən,
 Başqa bir mənzildə saldılar məskən.
 
 Bu ölkə cənnəttək gözəl bir yerdi,
@@ -450,7 +450,7 @@ Qoydu adını da: İskəndərabad.
 Bir qanun qoydu ki, o kənddə heç kəs
 Muzdurun haqqını verməyə bilməz.
 
-Hər kəs vennəlidir malına zəkat,
+Hər kəs verməlidir malına zəkat,
 Ora xərac üçün gəlməsin barat.
 
 Heç bir tövcü yığan ora gəlməsin...

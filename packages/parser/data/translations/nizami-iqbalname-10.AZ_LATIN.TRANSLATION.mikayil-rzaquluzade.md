@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -28,9 +28,9 @@ Qaşını çatmışdı onun qüssə, qəm.
 Gözündə deyildi əsla cami-Cəm.
 
 Yarının çöhrəsi günəşdi, aydı,
-O qızı qızdırma yandınnadaydı.
+O qızı qızdırma yandırmadaydı.
 
-Qəlbində qalmışdı arzusu, kamı.
+Qəlbində qalmışdı arzusu, kamı,
 Əfsus ki, müşküldü onun əncamı.
 
 Şahın da köksündə sevdalı ürək
@@ -46,15 +46,15 @@ Gəlsinlər, etsinlər çarə birtəhər.
 Sarayda məşvərət - məclis düzəldi.
 
 Min cür çarə etdi hərə bir yandan,
-Ancaq o gözələ olmadı dənnan.
+Ancaq o gözələ olmadı dərman.
 
 Yanırdı almatək qızın yanağı,
 Şahın açılmırdı qaşı, qabağı.
 
-Ona venniş idi şah öz könlümü,
+Ona vermiş idi şah öz könlümü,
 Qəmlə keçirirdi bütün gününü.
 
-Qüssə gətinnişdi o şahı cana,
+Qüssə gətirmişdi o şahı cana,
 Təxtindən enərək çıxdı eyvana,
 
 Eyvanda dayanıb qəmgin, mükəddər,
@@ -72,7 +72,7 @@ Sürü yayıldıqca çəmənə, çölə
 Şah bir az sevindi onu görərkən,
 Çünki nur yağırdı gülər üzündən.
 
-Tez adam göndərdi onun yanma.
+Tez adam göndərdi onun yanına.
 Çağırtdı çobanı öz eyvanına.
 
 Qulamlar baş əyib hökmünə yenə.
@@ -87,7 +87,7 @@ Xoşbəxtdir bu qəsrə daxil olanlar.
 Ədəblə yer öpdü, çünki bir müddət
 Başqa şahlara da etmişdi xidmət.
 
-Şah onu yanma dəvət elədi,
+Şah onu yanına dəvət elədi,
 Onunla söhbətə başlayıb dedi:
 
 "Ay kişi, gəl, mənə dağdan, dərədən
@@ -108,7 +108,7 @@ Nə üçün tutmuşdur könlünü qubar?
 Söylə ki, müsahib o yolla getsin,
 Sözləri dərdinə bir çarə etsin."
 
-Çobanın sözünü şalı çox bəyəndi,
+Çobanın sözünü şah çox bəyəndi,
 Gördü ki, söz bilən və iş biləndi.
 
 Ağıllı danışır dinpərvər kimi,
@@ -186,7 +186,7 @@ Tutub şahzadəni o sərdi yerə.
 Şahzadə sərvtək yerə yıxılcaq,
 Tez onun gözünü bağladı qoçaq.
 
-Tərk etdi dumadan o qorxunc yeri,
+Tərk etdi durmadan o qorxunc yeri,
 Onu gözübağlı qaytardı geri.
 
 Cavanın vardı bir gizlin otağı,
@@ -196,7 +196,7 @@ Yanında qoydu bir keşikçi - məhrəm,
 Sirri şahzadədən saxladı möhkəm.
 
 Çörəyə, suya da edib qənaət,
-Başqa şey verməyə vennədi rüxsət.
+Başqa şey verməyə vermədi rüxsət.
 
 O dustaq şahzadə, sinəsi dağlı,
 Qəlbi, könlü tutqun, gözləri bağlı,
@@ -210,10 +210,10 @@ Dostusa, durmayıb cəhd edir yenə,
 Çalışıb gəlini sağaltdı əvvəl.
 Yüz cürə şərbətlə dəf oldu əcəl.
 
-Dərdbilən bir təbib elədi dəvət.
+Dərdbilən bir təbib elədi dəvət,
 Saxladı yanında onu bir müddət.
 
-Qurtardı gözəli verdiyi dənnan,
+Qurtardı gözəli verdiyi dərman,
 Tərtəmiz sağaldı o, qızdırmadan.
 
 Əvvəlki gözəllik gəldi yerinə,
@@ -252,11 +252,11 @@ Elə bil ayıldı pis bir yuxudan.
 Dincəldi, yox oldu çəkdiyi əzab,
 O yetkin qocadan aldı xam şərab.
 
-Şalı burda çobanla söhbət edərkən:
+Şah burda çobanla söhbət edərkən:
 "Sağaldı!...Sağaldı!.." - Eşitdi birdən.
 
 Padşah da sevindi, oldu bəxtiyar.
-Bircə asqınnaqla sağalmışdı yar...
+Bircə asqırmaqla sağalmışdı yar...
 
 Çobanı görərək belə xeyirxah,
 Onunla şahanə rəftar etdi şah.
@@ -267,7 +267,7 @@ Ondan çox yazılar belə əsərlər.
 Ay daim nur saçar, Müştəri parlar,
 Hünərli şəxsin də hünəri parlar.
 
-Itinniş olmasa əqlini sərraf,
+İtirmiş olmasa əqlini sərraf,
 Tez seçib ayırar, deməz qəlpə saf.
 
 Səninlə biri xoş danışsa əgər.

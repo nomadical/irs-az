@@ -6,38 +6,38 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
-O ay sifətlini Xosrov görərxən
+O ay sifətlini Xosrov görərkən
 Etdi öz qəlbini o sərvə çəmən.
 
-Gördü Kİ, bir huri qəsrə girərəx,
-Behişt qapısını bağlayıb bənc-bənc.
+Gördü ki, bir huri qəsrə girərək,
+Behişt qapısını bağlayıb bərk-bərk.
 
-Xosrovu sarsıtdı o birdən-birə.
-Az qaldı Kürsüdən şah düşsün yerə.
+Xosrovu sarsıtdı o birdən-birə,
+Az qaldı kürsüdən şah düşsün yerə.
 
-Cəld durub toxtaqlıq verdi özünə.
-Əlini opərək oturdu yenə.
+Cəld durub toxtaqlıq verdi özünə,
+Əlini öpərək oturdu yenə.
 
 Üzr üçün Şirinə sonra dil açdı,
-Sorğularla ona şəxərlər saçdı:
+Sorğularla ona şəkərlər saçdı:
 
 Həmişə təzə ol, ey sərvi-azad!
 Başın göy, üzün al, qəlbin olsun şad!
 
 Dünya sübh üzündən gülüş öyrəndi,
-Ğə1ək1ərə düşən sənin Kölgəndi.
+Fələklərə düşən sənin kölgəndi.
 
 Könül təzələndi bu xoş görüşdən,
 Məni utandırdın hörmətinlə sən.
 
 Yolumu bəzədin öz mənzilintək,
-Döşədin torpağa xalı, xəz, фək.
+Döşədin torpağa xalı, xəz, ipək.
 
 O gövhər, aypara sırğalarından
 Şəbdizin nalına ləl salmısan.
@@ -45,23 +45,23 @@ O gövhər, aypara sırğalarından
 Yoluma bu qədər gövhər tökmüsən,
 Üzüm lələ dönüb xəcalətimdən.
 
-Üzünlə Kİ, şadam - bu mənə bəsdir,
+Üzünlə ki, şadam - bu mənə bəsdir,
 Bu gövhər, bu daş-qaş, məncə, əbəsdir.
 
-Südlə bal Kimi sən qarışdın mənə.
+Südlə bal kimi sən qarışdın mənə,
 Sözüm ola bilməz xidmətlərinə.
 
 Qapını üzümə bağladın neçin?
 Mən yanıldım, yoxsa belədir yəqin?
 
-Alçaltmısan məni, gözəl, yer Kimi,
-Ucalmısan özün səmalar Kimi.
+Alçaltmısan məni, gözəl, yer kimi,
+Ucalmısan özün səmalar kimi.
 
-Demirəm Kİ, səndən mən artığam, yox,
+Demirəm ki, səndən mən artığam, yox,
 Belə fikirlərdən uzağam çox-çox.
 
 Qonağınam, qonaq üzünə belə
 Qapını bağlamaq olarmı, söylə?
 
-Qonaqla oturan comərd Kimsələr
+Qonaqla oturan comərd kimsələr
 Qonağa daha çox hörmət göstərər.

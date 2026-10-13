@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -33,11 +33,11 @@ Yolbilən arxayın düzəlməz yola!
 Qozbel olar bütün yay qayıranlar,
 Dərzinin paltarı yamaqlı olar!
 
-Yağ satanın qabı yağlı görünər.
+Yağ satanın qabı yağlı görünər,
 Evində yağ olmaz bir zərrə qədər!
 
-Xəzinə yükünü çəkərsə hər kəs.
-Ömründə dərd-qəmdən dincələ bilməz!
+Xəzinə yükünü çəkərsə hər kəs,
+Ömründə dərd-qəmdən dincələ bilməz!"
 
 Pərgarı nəqşədən üzüldü, bu dəm
-Onun da ömrünə çəkildi qələm... 254
+Onun da ömrünə çəkildi qələm...

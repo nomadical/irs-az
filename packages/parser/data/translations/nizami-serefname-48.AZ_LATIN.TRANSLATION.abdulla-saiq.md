@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -33,7 +33,7 @@ Zülmətdən çıxarır işıqlı gövhər.
 Keçmişi gözəlcə bilib tanıyan
 Tarixdən nəql edir belə bir dastan:
 
-Rum sənətkarma şah verdi fərman,
+Rum sənətkarına şah verdi fərman,
 Tədbirlər tökərək mum alsın daşdan.
 
 O tələb edilən uğurlu heykəl
@@ -43,10 +43,10 @@ Heykələ vurmuşdu elə bir bəzək,
 Türklərin nəqşinə bağladı ipək.
 
 Heykəli dikəltdi mahir sənətkar,
-Önündən şövkətlə keçdi hökmiidar.
+Önündən şövkətlə keçdi hökmüdar.
 
 Keçirkən saçırdı cavahir, dövlət,
-Dincəlmək fıkriylə çəkirdi zəhmət.
+Dincəlmək fikriylə çəkirdi zəhmət.
 
 Həftədə bir neçə mənzil gedirdi,
 Mənzildə həftədən çox dincəlirdi.
@@ -72,7 +72,7 @@ Bu qorxulu xəbər çatdı ruslara:
 O qədər əsgər heç gəlməz xəyalə,
 Dağlar da dayanmaz etsə bir həmlə,
 
-Zor igidləri var qılınc oynadan.
+Zor igidləri var qılınc oynadan,
 İnsanı qıvrılmış ilantək sancan.
 
 Qızmış bir aslandır kəmənd quranlar,
@@ -85,15 +85,15 @@ Bir teldə ox atar yüzlər, minlərcə.
 Bəladır dünyaya o qan qusduran.
 
 Ardınca dağ kimi bir ordu gəlir,
-Üer, göy titrəyərək tozlar yüksəlir.
+Yer, göy titrəyərək tozlar yüksəlir.
 
-İki yüz fili var üstü poladdan.
+İki yüz fili var üstü poladdan,
 Torpağın canına salır həyəcan.
 
 Çölləri tutmayır igidlər, fillər,
 Ordusu ordular yaran bir əjdər.
 
-Eşitdi rusların sərdarı Qmtal
+Eşitdi rusların sərdarı Qıntal
 Ki, dövran doğurmuş başqa bir əhval,
 
 Yeddi rus soyundan tərpətdi ordu,
@@ -114,7 +114,7 @@ Ziyadə göründü doqquz yüz mindən.
 Rusa iki ağac qaldığı zaman,
 Atlardan enərək tutdular məkan.
 
-Rus Qmtal söylədi: “Mərdləri yenən,
+Rus Qıntal söylədi: “Mərdləri yenən,
 Döyüşdə qorxarmı qızdan, gəlindən?
 
 Heç zəhmət görməmiş belə bir əsgər,
@@ -150,10 +150,10 @@ Dənizdə tapmarıq bu qədər gövhər.
 Bu zəngin dövləti keçirsək ələ,
 Bütün ölkələrə düşər vəlvələ.
 
-Padşahlıq edərək dünyanı alaq.
+Padşahlıq edərək dünyanı alaq,
 Əsrlər boyunca tacidar olaq”.
 
-Atmı oynatdı dağın başına,
+Atını oynatdı dağın başına,
 Bir neçə nəfər də qoşuldu ona.
 
 Əliylə uzağı göstərdi: “Baxın,
@@ -289,7 +289,7 @@ Durmayıb iki qurd kin ilə coşdu,
 O qoca tülkünün dalınca qoşdu.
 
 Çox zorba itləri vardı bu yurdun,
-Qanma susardı tülkünün, qurdun.
+Qanına susardı tülkünün, qurdun.
 
 Qorxudan tülkücük qopardı fəğan,
 İtlərin bəndini açdı ağzından.
@@ -300,17 +300,17 @@ Canavar sandılar qoca tülkünü.
 İtlərin səsindən hürkərkən qurdlar,
 Qurtuldu o tülkü, olmadı şikar.
 
-Smaqlı düşmən də hər işdə belə
+Sınaqlı düşmən də hər işdə belə
 Qurtulur düşməndən düşmən əlilə.
 
 Mənim ki, dəbdəbəm ucalır göyə,
 Varmı ehtiyacım başqa köməyə?
 
-Hər bağlı qapmı açardır açan,
+Hər bağlı qapını açardır açan,
 Çarə tapılmazsa, danış qılıncdan”.
 
 Başçılar bağırdı baş endirərək:
-“Yolunda qanımız tökülsün gərək!.
+“Yolunda qanımız tökülsün gərək!
 
 Hər zaman hünərlə işə yaradıq,
 İndi biz olarıq ondan da artıq.

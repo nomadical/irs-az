@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -28,13 +28,13 @@ Kim necə bacarır fikir söyləsin.
 Varını hüzura təqdim eyləsin.
 
 Xilqət səhifəsi açılmamışdan
-Bircə vücud vannış, o da yaradan.
+Bircə vücud varmış, o da yaradan.
 
 Bir bulud yaratmış əzmi, cəlalı,
 Şimşəyi, yağışı olmuş faydalı
 
 Onun yağışından yaranmış göylər,
-ildırımından da günəş, ay, ülkər.
+İldırımından da günəş, ay, ülkər.
 
 Maddələr çökdürüb ondakı buxar,
 Bu yeri yaradıb etmiş bərqərar!"

@@ -6,44 +6,44 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
-Qapayan zamanda qapılan mən
+Qapayan zamanda qapıları mən
 Gözüm ayrılmırdı mavi göylərdən.
 
 Ulduzlar bürcünə gah ucalırdım,
-Mələkiər üzündən örtük alırdım.
+Mələklər üzündən örtük alırdım.
 
-Bir allah bəndəsi dostum var idi.
+Bir allah bəndəsi dostum var idi,
 Xeyli mehribandı, vəfadar idi.
 
-Şir Kimi arxaydı mənə hər zaman,
+Şir kimi arxaydı mənə hər zaman,
 Düşmənə qılıncdı, mənəsə qalxan.
 
-Aləmdə bilikiə qazanmışdı ad.
+Aləmdə biliklə qazanmışdı ad,
 Onunla yaşardı dünyada dilşad.
 
-Bir gecə qəzəbli, pörtmüş, qızıltəx
-Qapımı o gümüş əllə döyərəx
+Bir gecə qəzəbli, pörtmüş, qızıltək
+Qapımı o gümüş əllə döyərək
 
 Gəldi, danlamağa başladı məni,
 Acıqla söylədi: "Çox sağ ol səni,
 
-Mənalar mülıcünün bir sultanısan,
-Sözlər öikəsinin hökmranısan.
+Mənalar mülkünün bir sultanısan,
+Sözlər ölkəsinin hökmranısan.
 
-Qırx ildə Keçirdin əlli çilləni,
-Boş-boş Hekayə1ər çəkməsin səni.
+Qırx ildə keçirdin əlli çilləni,
+Boş-boş hekayələr çəkməsin səni.
 
-Sən Kİ, bu orucu tutursan belə,
-iftarını açma murdar sümükiə.
+Sən ki, bu orucu tutursan belə,
+İftarını açma murdar sümüklə.
 
 Arzu heç vaxt səni salmadı bəndə,
-Dünyayçün düşmədin əsla Kəməndə.
+Dünyayçün düşmədin əsla kəməndə.
 
 Qələminin ucu nizəyə bənzər,
 Əlindədir saysız, zəngin xəznələr.
@@ -57,7 +57,7 @@ Ustadsan, özünü ayağa salma.
 Tohid qapısını çal, yüksəlt səsi,
 Nədir işlətdiyin muğlar nəğməsi?..
 
-Zənd oxuyan səni bilsə də diri.
+Zənd oxuyan səni bilsə də diri,
 Ölü deyər dünya söz bilənləri".
 
 Bu acı sözlərin can yanğısından
@@ -70,67 +70,67 @@ Naxışlar saldığım ipəyi ona
 Göstərib, dedim: "Bax naxışlarına!
 
 Naxışları görcək o gözəl insan
-Daşda naxış Kimi dayandı heyran,
+Daşda naxış kimi dayandı heyran,
 
 Ona dedim: "Dinməz durmusan neçin?
-Dilin hardadır Kİ, desin "Afərin?"
+Dilin hardadır ki, desin "Afərin?"
 
-itaətlə dedi: "Qulun olum mən!
-Adm bircə an da düşməz dilimdən.
+İtaətlə dedi: "Qulun olum mən!
+Adın bircə an da düşməz dilimdən.
 
-Şirin dastanını eşidən Kimi
+Şirin dastanını eşidən kimi
 Şirin olduğundan uddum dilimi.
 
-Belə sehrıcarlıq bacan rkən sən,
+Belə sehrkarlıq bacarırkən sən,
 Bir bütçün Kəbə də bina edərsən.
 
 Onunçün elədim ağzımı şirin
 Ki, ağzımda dilim qənd dadı versin.
 
 Dilimi şəkərtək yedimsə əgər,
-Sənin dilin səpsin qoy xalis şəxər,
+Sənin dilin səpsin qoy xalis şəkər.
 
-indi Kİ, yol açdın, çalış, vur sona,
+İndi ki, yol açdın, çalış, vur sona,
 Özülünü qoydun, bitsin qoy bina.
 
-Yazanda bəxt sənə Köməkçi olsun,
-Cavanlıq həvəsi Könlünə dolsun.
+Yazanda bəxt sənə köməkçi olsun,
+Cavanlıq həvəsi könlünə dolsun.
 
 Bu İraq sikkəsi əlində vardır;
-Ayaqlarmdaki o nə çidardır?
+Ayaqlarındakı o nə çidardır?
 
-Gəncə şəhərindən atmı çıxar!
+Gəncə şəhərindən atını çıxar!
 Sən şir pəncəlisən, səndədir vüqar.
 
-Atmı çölə çək, genişdir meydan.
+Atını çölə çək, genişdir meydan,
 Sən cavan, bəxtinin budağı cavan.
 
 Zəmanədə yoxdur şirin söz deyən,
 Olsa da, onlardan sən qüdrətlisən.
 
-Hüma Kimi işə özün Kölgə sal,
-Bayquşlar əlindən bu öikəni al.
+Hüma kimi işə özün kölgə sal,
+Bayquşlar əlindən bu ölkəni al.
 
-indi bu gördüyün İki-üç nəfər
+İndi bu gördüyün iki-üç nəfər
 Öz çıraqlarına pərvanədirlər.
 
 Öz şəhərlərindən aralansalar,
 Onlarda nə rövnəq, nə də nur qalar.
 
-Sən bir günəş Kimi ta gün doğandan
+Sən bir günəş kimi ta gün doğandan
 Gün batana qədər şəfəq salmısan.
 
 Sən irəli durub desən sözünü,
-Çəkəcək bir Küncə hər kəs özünü.
+Çəkəcək bir küncə hər kəs özünü.
 
-Hünər üfüqləri hasarlanacaq.
+Hünər üfüqləri hasarlanacaq,
 Söz yurdu görəcək nadir bir qoçaq".
 
 Mən hirslə səsləndim: "Ey alicənab!
 Nə mən bir qoyunam, nə də sən qəssab.
 
 Üfləmə, amandır, çırağım sönər,
-isa Kİ, Musaya eləməz əsər.
+İsa ki, Musaya eləməz əsər.
 
 Kükrətmə boş sözlə alovumu sən,
 Özünü yandıran bir çırağam mən.
@@ -142,25 +142,25 @@ Mən bir misəm, üstüm zərlə örtülü,
 Üstünə tər gülab səpilmiş ölü.
 
 Azuqəm bir xəyal, bir də istəkdir,
-Dağarcığımdaki ancaq Küləkdir.
+Dağarcığımdakı ancaq küləkdir.
 
-Fəıək yaradırkən deyib mənə "şir",
+Fələk yaradırkən deyib mənə "şir",
 Lakin bu vücudum bir yun heykəldir,
 
 Deyiləm düşmənlə vuruşan şirdən,
-Yetər Kİ, özümlə döyüşürəm mən.
+Yetər ki, özümlə döyüşürəm mən.
 
-Əvvəl Kefim Kökdü, o günlər bitdi,
+Əvvəl kefim kökdü, o günlər bitdi,
 Gəncliyin qüruru məhv oldu getdi.
 
 Lovğalıq, uşaqlıq söhbəti etmə.
 Bu, qəflət yoludur onunla getmə.
 
-Ömür otuz ildən Keçdimi bir az,
+Ömür otuz ildən keçdimi bir az,
 Qəflətdə yaşayıb dolanmaq olmaz.
 
 Qırx yaşa qədərdir həyat nəş əsi,
-Qırxda bitib gedir Könlün həvəsi.
+Qırxda bitib gedir könlün həvəsi.
 
 Əllidən aşdınmı, canın sağ olmaz,
 Ayaqlarda taqət, gözdə nur qalmaz.
@@ -169,15 +169,15 @@ Altmışa çatınca yerə çökərsən,
 Yetmişdə hər üzvün düşər taqətdən.
 
 Dünyada əziyyət çəkib boy atdın,
-Elə Kİ, səksənə, doxsana çatdın,
+Elə ki, səksənə, doxsana çatdın,
 
 Ordan da yetirdin özünü yüzə,
 Ölüsən, diri də görünsən gözə.
 
 İstər bir gün yaşa, istərsə yüz il,
-Bu nurlu eyvandan Köçəcəıcsən, bil.
+Bu nurlu eyvandan köçəcəksən, bil.
 
-Yaxşısı budur Kİ, Könlünü şad et,
+Yaxşısı budur ki, könlünü şad et,
 O böyük allahı şadlıqla yad et!
 
 Könül sevincindən yanan şam olsun,
@@ -192,8 +192,8 @@ Bu gülüşü üzdən silmək də olmaz.
 Bir şey öyrədərəm, dinləsən əgər,
 Könlün heç ağlamaz, hər zaman gülər.
 
-Xoşbəxtimdən üzün gülən zaman, bir
+Xoşbəxtlikdən üzün gülən zaman, bir
 Yoxsula şey verib, onu sevindir.
 
-Günəş qızıl Kimi yerə tökülür,
+Günəş qızıl kimi yerə tökülür,
 Dünyanı güldürür, özü də gülür".

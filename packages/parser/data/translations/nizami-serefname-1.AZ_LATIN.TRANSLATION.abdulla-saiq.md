@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -18,7 +18,7 @@ Biz kiçik bəndəyik, sən böyük Allah.
 Tək sənə sığmır hər yüksək, alçaq,
 Hər varlıq yoxluqdur, sən varsan ancaq.
 
-Yuxarı, aşağı - hər gözə çaıpan,
+Yuxarı, aşağı - hər gözə çarpan,
 Nə varsa, onları sənsən yaradan.
 
 Sənsən hər biliyi bizə öyrədən,
@@ -100,7 +100,7 @@ Qəhrinlə hər kimin əysən boynunu,
 Kimsənin köməyi dikəltməz onu.
 
 Biz sənə bəndəyik, sənindir fərman,
-Flər kömək səndədir, sənsən əl tutan.
+Hər kömək səndədir, sənsən əl tutan.
 
 Fildə, qarışqada zəiflik, qüvvət
 Sənin əmrindədir, ey ulu qüdrət!
@@ -109,7 +109,7 @@ Sənin qüdrətindən qüvvət alınca
 İlanı məhv edər zəif qarınca.
 
 Yollardan tüstünü qaldırsan əgər,
-Bir çibin Nə mr udun beynini yeyər.
+Bir çibin Nəmrudun beynini yeyər.
 
 İstəsən, əzilsin düşmənin beli,
 Quşlarla qırarsan əshabi-fili.
@@ -126,13 +126,13 @@ Qiymətli cavahir doğan bir evdən
 Kimdə var cəsarət, qorxundan sənin
 Təslimdən başqa bir kəlam söyləsin?
 
-Yanma yol tapmaz məxluqun əli,
+Yanına yol tapmaz məxluqun əli,
 Gizlin bir xəzinə sevməz məşəli.
 
-Əsrarın hər zaman qalmaqçm gizlin,
+Əsrarın hər zaman qalmaqçın gizlin,
 Bağlarsan dilini əsrar bilənin.
 
-Sən məni yaratdın qara torpaqdan.
+Sən məni yaratdın qara torpaqdan,
 Sən verdin işıqlı ürək, təmiz can.
 
 Aludə olsam da məndə yox təqsir,
@@ -165,16 +165,16 @@ Bu möhtac kəslərə olmayım möhtac.
 Hər zaman bəndəlik yoluyla gedən,
 Zatına könüldən pərəstiş edən.
 
-Olsun bu dünyada xəzinənlə şad.
+Olsun bu dünyada xəzinənlə şad,
 Qiyamət günündə əzabdan azad.
 
 İnsanı dünyaya sənsən gətirən,
 Öldürən də sənsən, dirildən də sən.
 
 Əldə nə hesabım, nə kitabım var,
-Üalnız sən bilirsən, nə hesabım var.
+Yalnız sən bilirsən, nə hesabım var.
 
-Yaxşınm, yamanın açarı sənsən,
+Yaxşının, yamanın açarı sənsən,
 Yaxşılıq səndəndir, yamanlıq məndən.
 
 Bağışla, bir suçum varsa, ey Allah,
@@ -186,7 +186,7 @@ Səndəndir, son söz də sənə qayıdar.
 Kəsərli ayəni öyrətmək səndən,
 Şeytanın gözünü tikməksə məndən.
 
-Adm mehribanlıq etsə bir qədər,
+Adın mehribanlıq etsə bir qədər,
 Mənimlə oynaya bilərmi divlər?
 
 Yararmı söz açmaq səninlə məndən,
@@ -204,7 +204,7 @@ Dəyişər qurduğun tərtibim mənim.
 Əsdikcə tozumu dağıdar yellər,
 Pak olan canımı görməz bir nəfər.
 
-Elalımı arayıb, edəndə heyrət,
+Halımı arayıb, edəndə heyrət,
 Varıma yox deyə, edərkən töhmət,
 
 Sən yoxdan əlinə ver elə açar,
@@ -240,7 +240,7 @@ Yazdığın silinməz, qələmin dönməz.
 Hökmündə hazıram canla-başla mən,
 Təsəlli tapıram yalvarışla mən.
 
-Sən dedin: “Dar gündə köməkçi mənəm
+Sən dedin: “Dar gündə köməkçi mənəm!
 Hər dilək istəsən, qəbul edənəm”.
 
 Sənsən acizlərə hər zaman pənah,

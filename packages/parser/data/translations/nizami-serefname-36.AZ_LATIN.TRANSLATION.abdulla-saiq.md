@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -21,7 +21,7 @@ Edirəm küpdəki qana qənaət.
 Kim istər yaxşı ad keçirsin ələ,
 Gərək bu qapıda olsun bir kölə.
 
-Qoysun yaxşılıqda elə təmiz ad.
+Qoysun yaxşılıqda elə təmiz ad,
 Bununla sonunu eləsin abad.
 
 Vücuda geyinsin belə bir köynək,
@@ -52,12 +52,12 @@ Yanına yol tapa bilməzdi yaman.
 Məzluma daha çox salırdı nəzər.
 
 Hər yerdə bir zahid görsəydi, xəlvət
-Çapardı yanma, edərdi hörmət.
+Çapardı yanına, edərdi hörmət.
 
 Hər yerdə çətin bir döyüş başlardı,
 Zahidlərdən kömək, himmət umardı.
 
-İskəndər onunçun üstün gəlirdi.
+İskəndər onunçun üstün gəlirdi,
 Daşı firuzədən seçə bilirdi.
 
 Onunla bərabər çarpışan ordu
@@ -115,69 +115,66 @@ Onlara dostluqla uzansa qolu,
 Yenə də gedərkən kəsərdi yolu.
 
 Çarəsiz qalınca çox kədərləndi,
-231 &££><£*»»>
-
 Ərz etdi ortadan qaldırsın bəndi.
+
 Əmr etdi ki, yüz min silahlı əsgər,
-
 Hasarlı qalaya doğru gəlsinlər.
+
 Yıxsınlar mancanaq, sapan, daş ilə,
-
 Köpürən qan ilə versinlər selə.
+
 Qırx gün o hasarda çalışıb durdu,
+Kərpic də qopara bilmədi ordu.
 
-Kəıpic də qopara bilmədi ordu.
 O yüksək qaladan ox qanad salmış,
-
 Nə kəmənd yetişər ona, nə qayış.
+
 Belə sərt görüncə sapan atanlar.
-
 Gəlintək qaladan çox utandılar.
+
 Nə hasar araba ona yol tapır,
-
 Nə də mancanaqdan qorxusu vardır.
+
 Yorulub qalınca bu çalışmaqdan,
-
 Bu günbəd üstünə boş qoz atmaqdan.
-Smaqlı İskəndər bir məclis qurdu,
 
+Sınaqlı İskəndər bir məclis qurdu,
 Başçılar gəlincə belə buyurdu:
+
 “Bu qala haqqında nədir fikriniz?
-
 Yorulduq düşünüb-daşınmaqdan biz”.
+
 Ölkələr fəth edən dikbaş igidlər,
-
 Ədəblə baş əyib dua etdilər:
+
 “Bəndəyik, əmrinə bağladıq kəmər,
-
 Dincəlmək bilmədik bu günə qədər.
+
 Qırx gündür yuxusuz, yorğun, yeməksiz,
-
 Buludla, günəşlə çarpışırıq biz.
+
 Buludun başına, bilirsən, yol yox,
-
 Nə qılınc vurular, nə nizə, nə ox.
+
 Hər işə div kimi tapdıq bir çara,
-
 Bu divlər evində gəldik zinhara,
+
 Bu uğursuz yoldan gəl dönək geri,
-
 Çeynəyək daşları, dik təpələri”.
+
 İskəndər duydu ki, igid başçılar,
-
 Acizdir bu işdən, olmuşdur naçar.
+
 Sürmədən Günəş mil çəkdi gözünə
-
 Batdı bir al gövhər Nil dənizinə.
-Sahildə səpərək xəzinə, gövhər,
 
+Sahildə səpərək xəzinə, gövhər,
 Bir məclis bəzədi bahara bənzər.
-««w-ajja
 
 Hamı bu məclisə gəldikdən sonra,
 Söylədi döyüşkən uca başlara:
 
-“Yaxında varımdır bir zahid dindar,
+“Yaxında varmıdır bir zahid dindar,
 Dünya işlərindən çəkilən kənar?”
 
 Bir nəfər söylədi: “Uca tacidar,
@@ -196,7 +193,7 @@ Gecə, yol düşmənin günündən qara,
 Fənər tuturdular o şəhriyara.
 
 At sürdü, köhülə gəlincə yaxın,
-Aydınlıq köhülə edincə axm,
+Aydınlıq köhülə edincə axın,
 
 İşığı görüncə zahid uzaqdan,
 Dişarı sıçradı o qaranlıqdan.
@@ -204,13 +201,13 @@ Dişarı sıçradı o qaranlıqdan.
 Gördü bir mələkdir günəştək parlar,
 İqbalı olmuşdur yuxudan bidar.
 
-Qoca tez padşahın yanma keçdi,
+Qoca tez padşahın yanına keçdi,
 Şahlığın nuruyla padşahı seçdi,
 
 Söylədi: “Görürəm, bir gövhərsiniz,
 Zənnimcə, cahangir İskəndərsiniz”.
 
-İskəndər şəfqətlə ona əl verdi.
+İskəndər şəfqətlə ona əl verdi,
 Onunla bərabər köhülə girdi.
 
 Soruşdu: “Bu yerdə dostun kim, ey pir?
@@ -219,7 +216,7 @@ Bu çöldə yeməyin, geyimin nədir?
 Bir də anlat mənə, dar köhüldə sən,
 Nə bildin cahangir İskəndərəm mən?”
 
-Söylədi: “Həmişə qəlbin olsun şad.
+Söylədi: “Həmişə qəlbin olsun şad,
 Hər zülmün bəndindən olasan azad.
 
 Ulduzun bəxtinlə versin əl-ələ,
@@ -258,7 +255,7 @@ Mədəni doldurmaq zəhmətdir, zəhmət.
 Yediyim göy otdur, geydiyim həsir,
 Daşları, bax, bunlar kimiya edir.
 
-Bu illər uzunu tacidarlardan.
+Bu illər uzunu tacidarlardan,
 Səndən başqasını görmədim, inan.
 
 Səbəb nə, göylərdə sönmüşkən çıraq,
@@ -267,7 +264,7 @@ Uğurla köhülə basdınız ayaq?
 Sənə bu köhüldə, ey böyük insan,
 Xidmətçin əskiyəm bir qara quldan”.
 
-İskəndər dedi: “Ey smaqlı qoca,
+İskəndər dedi: “Ey sınaqlı qoca,
 Çarəm yox, gəlmişəm, fikrimdir uca.
 
 Tanrı bir dəmiri böldü ikiyə,
@@ -292,7 +289,7 @@ Gecə də, gündüz də çalırlar karvan,
 Sənə də qəsd edir bu azğın düşman.
 
 İstəyim bu işlək yolu açmaqdır,
-Ədi ilə, biliklə bəzək saçmaqdır.
+Ədl ilə, biliklə bəzək saçmaqdır.
 
 Sən öz himmətinlə göstər bir hünər,
 Tale də bu yolda köməklik edər.
@@ -331,7 +328,7 @@ Söylədi: “Bu gecə qopdu bir bəla,
 İskəndər gücüylə dağıldı qala.
 
 İki bürc hasardan birdən qoparaq,
-Uçuldu padşahın bürcündən İraq.
+Uçuldu padşahın bürcündən iraq.
 
 Tanrının qəhrindən qopdu bir sapan,
 Hasara düşüncə dağıldı hər yan.
@@ -349,7 +346,7 @@ Baxdı başçılara, dedi İskəndər:
 “Duaya bundan xoş kim dəlil istər?
 
 Qırx gündür daş, qılınc yeyir bu hasar,
-Smaqlı igidlər hey çarpışırlar.
+Sınaqlı igidlər hey çarpışırlar.
 
 Bu qədər qılıncın almaz gücüylə,
 Qopmadı o dağdan bir kəsək belə”.
@@ -378,14 +375,14 @@ O yanlış yollardan çəkildik artıq”.
 Yenidən bürüdü qoşun hasarı,
 Yollardan qaldırdı yol vuranları.
 
-Qalanın yerinə ərazi verdi.
+Qalanın yerinə ərazi verdi,
 Onları verdiyi mülkə göndərdi.
 
 Göylərlə öpüşən qalanın bir-bir,
 Uçulmuş yerləri edildi təmir.
 
 Elə ki dağıntı, uçuqlar bitdi,
-Zülmün qalasını ədi evi etdi.
+Zülmün qalasını ədl evi etdi.
 
 O dağda əhali doymuşdu cana,
 Şikayət etdilər o hökmürana:
@@ -393,7 +390,7 @@ O dağda əhali doymuşdu cana,
 “Bu qıpçaq xalqı bir dəhşətdir, dəhşət...
 Əkin əkməyə də bizdə yox cürət,
 
-Axma başlarkən açıq dağlardan,
+Axına başlarkən açıq dağlardan,
 Əkindən, biçindən qoymazlar nişan.
 
 Axından ölkəmiz çox ziyan edir,
@@ -405,16 +402,16 @@ Böyük bir mərhəmət edərdin bizə.
 Bu açıq və uçuq yerləri bir-bir,
 Daş ilə dağ kimi eyləsən təmir,
 
-Onda çöl xalqının axınlarından.
+Onda çöl xalqının axınlarından,
 Rahatlıq içində dincələr xəzran”.
 
 Əmr etdi: “Nə qədər açıq, uçuq var,
-Çəksin bu xəzranm xalqı bir hasar.
+Çəksin bu xəzranın xalqı bir hasar.
 
 Gecə də, gündüz də qara daşlarla,
 Olduqca böyük səd çəkilsin yola”.
 
-İş bilən, sınanmış daş yonanlardan.
+İş bilən, sınanmış daş yonanlardan,
 Dağlarda açığı sədlə bağlayan.
 
 Bilikli ustalar göndərdi ora,
@@ -451,42 +448,40 @@ Açdılar şaha çox maraqlı əsrar:
 Əssə də, o yerə uzanmaz əli.
 
 Minadan bir daşdır, saçar müşk, ənbər,
-««JC-ajja
-
 Həm gözəl, həm şəndir bir cənnət qədər.
+
 Sərir adlanır o mübarək məzar,
-
 Orda Keyxosrovun taxtı, camı var.
+
 Keyxosrov mülkündən köçüb gedərkən,
+Taxtına, tacına bu yerdir məskən.
 
-Taxtına, tacma bu yerdir məskən.
 Məzarı odlu bir köhüldür ancaq,
-
 O yerə olmayıb ayaq da basmaq.
+
 Həm də o məkanda padşahlıq edən
-
 Bir məlikzadə var onun nəslindən,
+
 O şahın yerinə pərəstiş edər,
-
 Taxtını, tacını düşməndən güdər”.
+
 O dünya dolaşan uca hökmüran
-
 Gül kimi açıldı bu xoş dastandan.
+
 Harda macəralı bir qala alsa,
-
 Yenilən qüvvətli, ya aciz olsa,
+
 Girərdi qalaya Keyxosrov sayaq,
-
 Apaçıq, ya da ki, gizli olaraq.
+
 Qalanı dolaşıb dönərdi yenə,
-
 Bəxşişlər verərdi keşikçisinə.
+
 Hər şeyi görməyə marağı vardı,
-
 Hər işin üstündən odtək çapardı.
+
 Elə ki, eşitdi bu keyfiyyəti,
-
 Qalanı görməyə artdı rəğbəti.
-Qoca Keyxosrovun köhnə camından,
 
+Qoca Keyxosrovun köhnə camından,
 Dövlət məclisinə versin yeni can.

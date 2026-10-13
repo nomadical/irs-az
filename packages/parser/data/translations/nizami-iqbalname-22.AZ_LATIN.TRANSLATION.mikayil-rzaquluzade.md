@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -24,7 +24,7 @@ Gözü nur, nuru göz ziynətləndirir.
 Şah gizli sirləri soruşdu bizdən.
 Fikrimi hüzura ərz eləyim mən:
 
-ilkin tilsim kimi yaranmış torpaq.
+İlkin tilsim kimi yaranmış torpaq.
 Qalan tərkiblər də ondandır ancaq.
 
 Hərəkət qüvvəsi ona etdi kar,

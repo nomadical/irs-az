@@ -6,13 +6,13 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
 status: DRAFT
 ---
-Ey saqi, amandır, ver gülgün şərab.
+Ey saqi, amandır, ver gülgün şərab,
 Eylə mən sərxoşu o meylə xərab!
 
 O xərabəlikdə qoparım fəğan,
@@ -36,7 +36,7 @@ Dəyərsiz sözlərdən uzaq ol bir az,
 Ən incə sözlər tap, olasan dilbər,
 Görüncə bəyənsin söz bəyənənlər.
 
-Şübhəsiz, xoşdur hər smaqlı şəxsə;
+Şübhəsiz, xoşdur hər sınaqlı şəxsə;
 Ən çirkin bir üzü görməkdən isə
 
 Əjdəhalar hücum etsinlər ona,
@@ -64,7 +64,7 @@ Hər şey parça-parça olunca belə,
 Bərk yerdən çıxar çox çətinlik ilə.
 
 Cəvahir asudə tapılmaz, bişəkk,
-Hər gümüş butada saflansm gərək.
+Hər gümüş butada saflansın gərək.
 
 Quruda, dənizdə kim çəksə zəhmət,
 Balıqdan dürr alar, öküzdən sərvət.
@@ -87,7 +87,7 @@ Biri div, o biri divqılıq insan.
 Yaşasın qəlb açan sevimli İraq,
 Ondan şeirin səsi ucalmış, ancaq.
 
-Ətirli çiçəklər atmca hicab,
+Ətirli çiçəklər atınca hicab,
 O güldən İraqda çəkilir gülab.
 
 Ey sənət qasidi, məsləhət budur,
@@ -102,7 +102,7 @@ Gövhəri İskəndər alacaq səndən.
 Gövhərə müştəri çıxar cahandar,
 Dünyada tezliklə diləyin parlar.
 
-Qapma qiymətlə gəlsə müştəri,
+Qapına qiymətlə gəlsə müştəri,
 Buraxma, sat ona, qaytarma geri.
 
 Dənizlər soltanı alsa bir gövhər,
@@ -114,7 +114,7 @@ Ondan dürr alaraq cəvahir ver sən.
 Ol doğru miyançı, düzəlsin hər iş,
 Ortada nə kabab yansın, nə də şiş”.
 
-Xızrm sözlərini eşitdikcə mən,
+Xızrın sözlərini eşitdikcə mən,
 Beynimdə bir xəyal doğdu yenidən.
 
 Qəlbimdə yer tutdu, qəbuldur - deyə,
@@ -127,7 +127,7 @@ Yaratmaq fikriylə yeni “Şahnamə”,
 Açdım hər şivədən böyük həngamə.
 
 O heyrət verici əfsanələrdən
-Şahların adma qitə çəkirkən
+Şahların adına qitə çəkirkən
 
 Zehnimdə hər güzgü parlatdımsa mən
 İskəndər xəyalı keçdi önümdən.
@@ -163,7 +163,7 @@ Tanrı da bəyənmiş “peyğəmbər” - deyə.
 Tökərəm dünyaya ağır xəzinə.
 
 Vuraram elə rəng, elə bir zivər,
-Bütun ölkələrdən işığı gələr.
+Bütün ölkələrdən işığı gələr.
 
 Dəftərlər topladım incidən parlaq,
 Hayıfdır üstünə çöksün toz-torpaq.
@@ -171,7 +171,7 @@ Hayıfdır üstünə çöksün toz-torpaq.
 Bir dövlət sarayı göstərin, barı,
 Vurum divarına bu naxışları.
 
-Bu naxışlarında durduqca dövran,
+Bu naxışlarımla durduqca dövran,
 Qurtarın onu bu dünya tozundan.
 
 Şeirimlə yaradım elə bir dastan,
@@ -183,7 +183,7 @@ Adıyla yaşayım dünya durunca.
 Bu taxtdan sazlayım elə oturaq,
 Onunçun olsun bir əbədi otaq.
 
-Adma bağlayım elə naxışlar,
+Adına bağlayım elə naxışlar,
 Dövran dövr etdikcə qalsın bərqərar.
 
 Zehnindən silməsin onu bu fələk,
@@ -207,7 +207,7 @@ Nizami işidir incə söz düzmək,
 Vurar bu naməyə elə naxışlar,
 Bu naxış hər qəlbə işıq bağışlar.
 
-Dostların qəlbinə nur damar ondan.
+Dostların qəlbinə nur damar ondan,
 Düşmənin gözündən qaçsın hər zaman.
 
 Bülbültək ötsə də düşmənin səsi,

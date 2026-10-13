@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -52,7 +52,7 @@ Yeddinci Hürmüzdü, bilir ki, hamı
 Yeddinci göydədir onun məqamı.
 
 Yığışdı dövrəyə bu yeddi pərgar,
-Nöqtətək mərkəzdə şalı tutdu qərar.
+Nöqtətək mərkəzdə şah tutdu qərar.
 
 Gözəl bir məclisdi, fikirlər parlaq,
 Quru təkəbbürdən, badədən uzaq.
@@ -97,10 +97,10 @@ Onda ki, hökm etmiş uca yaradan,
 Əvvəl yer yaranmış, yoxsa asiman?
 
 Qoy açsın bu sirri ağlın açarı:
-Necə çiçəklənmiş yerin baharı? 148
+Necə çiçəklənmiş yerin baharı?
 
 Necə qoyulmuşdur bina əzəldən?
-Necə səsləmnişdir ilk mahnı teldən?"
+Necə səslənmişdir ilk mahnı teldən?"
 
 Padişah beləcə dürrlər saçdı,
 Bağlı xəzinənin ağzını açdı.
@@ -112,4 +112,4 @@ Sarsıtdı onları şahın sualı,
 Dedilər: "Cavabı layiq olmalı."
 
 Bir səslə dedilər qərar verərək:
-"ilk sözə Ərəstu başlasın gərək!"
+"İlk sözə Ərəstu başlasın gərək!"

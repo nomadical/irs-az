@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -94,7 +94,7 @@ Qaranı tutdun da, qalmasın ağlıq,
 Alaca görünmək verər yaraşıq.
 
 Bayrağı göyə vur, cahan sənindir!
-Dövlətə sarıl ki, hər yan sənindir! ”
+Dövlətə sarıl ki, hər yan sənindir!”
 
 Misrin köməyindən, zənci hərbindən,
 Şahın qolu güclü, çöhrəsi də şən.
@@ -112,7 +112,7 @@ Coşurdu gəncliyin qızğın günləri,
 Fəth etmək istərdi bütün kişvəri.
 
 Xoş baxdı İranın igidlərinə,
-Flazırlıq başladı İran fəthinə.
+Hazırlıq başladı İran fəthinə.
 
 Adətdir, ağac boy atdığı zaman
 Başqa ağaclara yetirər ziyan.
@@ -120,7 +120,7 @@ Başqa ağaclara yetirər ziyan.
 Gözəl gün seçərək şikara qoşdu,
 Həm nəşəsi xoşdu, həm də gün xoşdu.
 
-Çöllərdən keçərkən uca hökmiidar
+Çöllərdən keçərkən uca hökmüdar
 Dağlarda, düzlərdə edirdi şikar.
 
 Fələyi andırır möhtəşəm başı,
@@ -138,7 +138,7 @@ O bunun döşünü caynaqla dələr.
 İskəndər at sürdü onlara sarı,
 Nəzərdən keçirtdi iki şikarı.
 
-Bir hesab götürdü bu çarpışmadan.
+Bir hesab götürdü bu çarpışmadan,
 Onlardan gözünü almadı bir an.
 
 Kəkliklər çarpışır elə hiddətlə,
@@ -147,17 +147,17 @@ Qorxmayır padşahı görərkən belə.
 Şah düşüb heyrətə, aradı tədbir:
 “Quşların başında bu sövda nədir?”
 
-Birini fal vurdu uca adma,
+Birini fal vurdu uca adına,
 Bəxtinin falını bağladı ona.
 
 O biri kəkliyə ad qoydu Dara,
-Nəticə almaqçm baxdı onlara.
+Nəticə almaqçın baxdı onlara.
 
 Quşların vuruşu elədi şiddət,
 Kin ilə çarpışdı uzun bir müddət.
 
 İskəndər falını daşıyan kəklik,
-Daram yenərək göstərdi mərdlik.
+Daranı yenərək göstərdi mərdlik.
 
 İskəndər görüncə belə şən halı,
 Zəfərə yozdu bu uğurlu falı.
@@ -175,7 +175,7 @@ Fal olan kəkliyin şən uçmasından
 Qəlbindən silindi qorxu və duman.
 
 Bildi ki, taleyi ona yar olar,
-Daram əzərək bəxtiyar olar.
+Daranı əzərək bəxtiyar olar.
 
 Lakin bəxtəvərlik çox uzun sürməz,
 O da bu dövrandan bir vəfa görməz.
@@ -189,7 +189,7 @@ Sirrindən haman dağ verərdi xəbər.
 O sirli qayadan ucalar bir səs,
 Sanki öz bəxtilə görüşər hər kəs.
 
-Bilici bir kəsə dedi hökmiiran:
+Bilici bir kəsə dedi hökmüran:
 Bir xəbər soruşsan o uca dağdan.
 
 Nə qədər qan axar - soruşsun onu,
@@ -199,7 +199,7 @@ O dağdan soruşdu fal üçün gedən:
 “Nə olur nəticə, bir xəbər ver sən
 
 Dünyanı alacaq böyük İskəndər?
-Daram əzərək çalacaq zəfər?”
+Daranı əzərək çalacaq zəfər?”
 
 Səsləndi əsrarlı qaya aşikar,
 Söylənən sözləri eylədi təkrar.
@@ -217,7 +217,7 @@ Gələcək işindən söz açdı qeysər,
 Sülhmü, ya savaşmı çox fayda verər?
 
 “Dünyalar pənahı olsa pənahım
-Fələyə ucalar qızıl kül ahım.
+Fələyə ucalar qızıl külahım.
 
 Bu sələm yeyənə xəracmı vermək?
 Alçaqlıq deyilmi bu iş, nə demək!
@@ -226,7 +226,7 @@ Daraya nə üçün getsin xəracım?
 Ondan əskikmidir, xəzinəm, tacım?
 
 Onda tac, məndə də kəskin qılınc var,
-Qılıncla almır bütün bu taclar.
+Qılıncla alınır bütün bu taclar.
 
 Üstümə gətirsə qoşun hər yandan,
 Mənə də köməkdir o böyük yəzdan.
@@ -246,7 +246,7 @@ Təxt alım, tac alım zalim düşməndən.
 Daraya əlaltı olmaq nə demək?
 Nə üçün Daraya xərac göndərmək?
 
-İgidlər, söyləyin, fikrini z nədir?
+İgidlər, söyləyin, fikriniz nədir?
 Bu döyüş haqqında göstərin tədbir.
 
 Daramı haqlıdır, söyləyin, artıq?
@@ -259,7 +259,7 @@ Yenidən baş əyib şaha dedilər:
 Onlarla həmahəng olur dörd gövhər,
 
 Vücudun dünyaya olsun bir çıraq,
-Olsun şahm üzü aydan da parlaq.
+Olsun şahın üzü aydan da parlaq.
 
 Səndədir biliyin qüvvəti, səndə,
 Xilqətin bəxtiyar şövkəti səndə.
@@ -286,13 +286,13 @@ Bir maral aslanla çıxdı meydana,
 Üstünə gəlməkdə qan çəkir onu.
 
 Ordu bəsləməkdə artıqsan ondan,
-Zəifdən almır xərac hər zaman.
+Zəifdən alınır xərac hər zaman.
 
 Sənin şəbxununu zəncilər bilir,
 Onun seyrəngahı hərəmxanədir.
 
 O bir kin bəsləyir, sən din bəslərsən,
-Sən bir fıriştəsən, o bir Əhrimən.
+Sən bir firiştəsən, o bir Əhrimən.
 
 Sən qılınc vuransan, o qədəh tutan,
 O taxt üstündədir, sən bir atlısan.
@@ -315,7 +315,7 @@ Adını ucaldar yeddinci göyə.
 Haqsızlıq haqq ilə olursa düşman,
 Haqq tutar yerini, haqsız peşiman.
 
-Hər zaman öz ayıq bəxtmdan yapış,
+Hər zaman öz ayıq bəxtından yapış,
 Vuruşlarda yüksəl, taxtından yapış.
 
 Bağlanma bu fikrə, düşünmə belə,
@@ -330,7 +330,7 @@ Ancaq baş olacaq şəfqətli insan.
 Heyvanlar onunçun sevir aslanı,
 O, qonaq sevəndir şikar zamanı.
 
-Qıfılı zəncirlə saxlanan vardan.
+Qıfılı zəncirlə saxlanan vardan,
 Onu yəqin et ki, xoşlanmaz cahan.
 
 Səadət o zaman yar olar sana,

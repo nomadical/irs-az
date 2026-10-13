@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -75,7 +75,7 @@ Bir düzdə tilsimli bir daş çıxardı-
 Mis ilə qalaydan xilqətin əli
 Sanki yaratmışdı bir at heykəli.
 
-Eleykəlin böyründə bir oyuq vardı,
+Heykəlin böyründə bir oyuq vardı,
 Suların açdığı yerə oxşardı.
 
 Günəş bu oyuqdan nur saçan zaman
@@ -103,7 +103,7 @@ Qaşı Müştəritək par-par yanardı.
 Çıxarıb üzüyü aldı ovcuna.
 
 Üzüyü ovcunda çevirdi, baxdı,
-Sonra bannağına sevinclə taxdı.
+Sonra barmağına sevinclə taxdı.
 
 Ayrı şey tapmadı baxdısa hara,
 Daha ləngiməyib çıxdı bayıra.
@@ -112,10 +112,10 @@ Sürdü sürüsünü, getdi sevincək,
 Səhəri gözlədi səbr eyləyərək.
 
 Səmanın möhtəşəm göy bayrağında
-işıq saçan muncuq parıldayanda,
+İşıq saçan muncuq parıldayanda,
 
 Çoban sürüsünü dağda tərk etdi,
-Sürü sahibinin yanma getdi.
+Sürü sahibinin yanına getdi.
 
 Ora getməyindən bu idi məqsəd:
 Üzüyü göstərib, öyrənsin qiymət.
@@ -151,7 +151,7 @@ Qaş üstə çevrilib durduğu zaman
 Görürdü çobanı ona hər baxan.
 
 Qaş ovcun içində olanda isə
-Onu gönnəyirdi artıq heç kimsə.
+Onu görməyirdi artıq heç kimsə.
 
 Elə yaratmışdı üzük yaradan
 Gözə görünməzdi taxsa hər insan.
@@ -187,9 +187,9 @@ Təlaşla soruşdu: "Aç mətləbini,
 De, kimdir göndərən buraya səni?"
 
 Çoban cavab verdi: "Mən peyğəmbərəm,
-iman gətir, səni xoşbəxt eylərəm.
+İman gətir, səni xoşbəxt eylərəm.
 
-istəsəm heç gönnəz məni bir adam,
+İstəsəm heç görməz məni bir adam,
 Mənim möcüzəm də budur, vəssalam!"
 
 Ona beyət etdi şah qorxusundan,

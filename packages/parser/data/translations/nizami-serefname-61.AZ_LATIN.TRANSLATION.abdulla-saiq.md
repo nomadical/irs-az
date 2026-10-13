@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -84,7 +84,7 @@ Daş ağır gəlirdi yüz parça dağa,
 Deyirlər uzaqdan demiş Xızr: “Ancaq
 Bu daşın vəznidir bir ovuc torpaq”.
 
-Bir gözə bir ovuc toıpaq tökdülər,
+Bir gözə bir ovuc torpaq tökdülər,
 Çəkinin gözləri oldu bərabər.
 
 Bu incə nüktədən buldi tacidar:
@@ -93,7 +93,7 @@ Torpaqdır, onu bu torpaq doyurar.
 Bir gün şah xaslarla taparaq fürsət,
 Bir məclis bəzədi - sanasan cənnət.
 
-Zərkəmər qulamlar taxtın ucunda.
+Zərkəmər qulamlar taxtın ucunda,
 Qızıl bir ağactək gümüş sütunda.
 
 Dünyanın şahları bir səf çəkərək
@@ -105,64 +105,61 @@ Söylənən hər şivə qəlb üçün rahət.
 Hər biri zülmətli çeşməni andı,
 Söz sözu çəkərək, söhbət uzandı.
 
-385 &£&
 Qaranlıq altında su varsa, nədən,
-
 Nə üçün tapmayır arayan, gəzən?
+
 Zülmətdə yox isə belə bir cadu,
-
 Nə üçün dillərdə əzbərlənmiş bu?
+
 Bu yolda deyildi çox incə sözlər,
-
 İşıqlandı başlar, nurlandı gözlər.
+
 Haman məmləkətin qocalarından
-
 Söylədi: “Bu siri bilsin hökmüran.
+
 Cahangir İskəndər dünya dolaşdı,
-
 Göy kimi durmadan ölkələr aşdı.
+
 Ümidlə aradı həyat suyunu
-
 Ki, qorxunc ölümdən qurtarsın onu.
+
 Bir şəhər vardır, bu ölkədə çox şən,
-
 O abad şəhərdə tapılmaz ölən.
+
 O şəhri uca bir dağ salmış bəndə,
-
 Şəhr əhli o dağda düşmüş kəməndə.
+
 O dağdan səs gəlir hey zaman-zaman.
-
 Heyrətə düşür hər eşidən, duyan.
+
 Oradan birini adıyla səslər:
-
 Ey filan, yuxarı səmtə et səfər!
+
 O səsi, fərmanı eşidən adam
-
 Yerində bir an da tutmayır aram.
+
 Sürətlə dağlara dırmanır dərhal,
-
 Gedəndən nə sorsan olur dilsiz, lal.
+
 Dağların ardında yox olur gözdən,
-
 Yoxdur bu hikməti açan, öyrənən.
+
 Məqsədin qurtulmaq isə ölümdən,
-
 Ölümsüz şəhərdə eyləyin məskən!”
+
 Bilici söyləyən sözdən İskəndər
-
 Sarsıldı, üzünü sardı bir kədər.
+
 Bu işçün ürəyi vurdu riqqətlə;
-
 Fikri qət etməkçin uçdu sürətlə.
+
 Əmr etdi, ordudan bir neçə kişi
-
 O şəhrə gedərək, öyrənsin işi.
+
 Qalsınlar söylənən yerdə bir qədər,
-
 Bu işdən versinlər doğru bir xəbər.
-Onlara tapşırdı: “Dağdakı səsə
 
-««zc -gäp
+Onlara tapşırdı: “Dağdakı səsə
 Yerindən qalxmasın sizdən bir kimsə!
 
 Lap adla, nişanla çağırsa necə
@@ -180,7 +177,7 @@ Gizlin bir yol ilə girdilər şəhrə.
 Şəhərin haqqında bildilər xəbər,
 Düz çıxdı qocanın dediyi sözlər.
 
-Şəhərdə birinin adma dağdan
+Şəhərdə birinin adına dağdan
 Apaçıq səs gəlir hey zaman-zaman.
 
 Adını eşidər-eşitməz hər kəs
@@ -211,7 +208,7 @@ Bir yolçu sövdalı olmasın gərək,
 Pərdənin sirrini bəlkə öyrənək”.
 
 Gedənə o sözlər etməyir əsər,
-Bağırır, dartmır, qurtulmaq istər.
+Bağırır, dartınır, qurtulmaq istər.
 
 Bir söz də deməyir yarasın işə,
 Çərx kimi çalışır çıxsın gərdişə.
@@ -274,12 +271,10 @@ Bildi ki, dırmanan o dağa, daşa
 Dünyada ömrünü vurmuşdur başa.
 
 Bir məsəl çəkdi ki: “Ölər hər doğan,
-««w-Skcp
-
 Əcəl pəncəsindən kim qurtarmış can?”
+
 Bir ov ki, bacarmaz ovçular ilə,
-
 Məzara gedər o öz ayağiylə.
-Yediyi bir oxdan hər ovçu tərlan
 
+Yediyi bir oxdan hər ovçu tərlan
 Düşər yer üzünə öz qanadından.

@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -36,8 +36,8 @@ Yuxu necə-gəlir, heç bilməz bunu.
 Su ilə torpaqdan, od ilə yeldən.
 Bu zidd ünsürlərdən əmələ gələn
 
-Dünyada düzlükdən olannı nişan,
-Belə kəc bir yerdə qalarını insan?
+Dünyada düzlükdən olarmı nişan,
+Belə kəc bir yerdə qalarmı insan?
 
 Bünövrəsi əyri qoyulan evin
 Bir gün dörd divarı uçacaq, yəqin!
@@ -70,7 +70,7 @@ Bəxtini göylərdə yoxlayan zaman
 Gördü bəxt ulduzu uzaqdır ondan.
 
 Ulduz ədalətdən çıxmışdı kənar.
-Ona zülm etməyə vennişdi qərar.
+Ona zülm etməyə vermişdi qərar.
 
 Ordakı dostlara eyləyib xitab,
 O da öz ömründən verdi haqq-hesab:

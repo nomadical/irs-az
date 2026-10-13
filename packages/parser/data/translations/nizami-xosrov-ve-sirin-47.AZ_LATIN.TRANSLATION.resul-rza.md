@@ -6,56 +6,56 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
 Şirinin əlinə çatanda şahlıq
-Öikədən hər yana yayıldı işıq.
+Ölkədən hər yana yayıldı işıq.
 
-Ədalətlə etdi rəiyyəti şad.
+Ədalətlə etdi rəiyyəti şad,
 Məhbuslar olundu həbsdən azad.
 
-Şəhər qapısından bir bac almadı.
-Heç bir Əkinçidən xərac almadı.
+Şəhər qapısından bir bac almadı,
+Heç bir əkinçidən xərac almadı.
 
 Zülmdən qurtardı bütün məzlumlar,
 Dünyada zülmdən qalmadı asar.
 
-Dostluğa başladı şəhər, Kəndistan,
+Dostluğa başladı şəhər, kəndistan,
 Ona dua xoşdu dünya malından.
 
-Ədlindən dostlaşdı kəkhk, qaraquş,
+Ədlindən dostlaşdı kəklik, qaraquş,
 Gördülər qurd, qoyun həmsöhbət olmuş.
 
 Nə var - yaxın, uzaq bütün cəmaət
 Dedilər: "Var bunda səxa, ədalət."
 
-Bolluq oldu, hər şey məhsul gətirdi.
+Bolluq oldu, hər şey məhsul gətirdi,
 Bir buğda dənəsi yüz dən yetirdi.
 
-Şahm niyyətləri xoş olsa əgər,
+Şahın niyyətləri xoş olsa əgər,
 Otdan gül yerinə gövhərlər bitər.
 
 Pis niyyət bir ağac quru budaqdır,
 Bolluq xoş niyyətdən yaranacaqdır.
 
-Ökədə qəhətlik, bolluq oluncan
-O şahm ədlindən verəcək nişan.
+Ölkədə qəhətlik, bolluq olurkan
+O şahın ədlindən verəcək nişan.
 
 Zalım, pis niyyətli olsa şah əgər,
-Dünyadan pis adla o Köçüb gedər.
+Dünyadan pis adla o köçüb gedər.
 
 Qalmışdı Xosrovdan Şirin xəbərsiz,
-Bu şahlıq Könlünə yatmırdı hərgiz.
+Bu şahlıq könlünə yatmırdı hərgiz.
 
-Yarkən Keyxosrovtək dövləti, varı,
+Varkən Keyxosrovtək dövləti, varı,
 Başından çıxmırdı eşqin xumarı.
 
-Hər Keçən Karvandan tuturdu xəbər,
-Bəikə də Xosrovdan nişan verələr.
+Hər keçən karvandan tuturdu xəbər,
+Bəlkə də Xosrovdan nişan verələr.
 
 Eşitdi: şah olmuş artıq bəxtiyar,
 Yenə əlindədir bütün ixtiyar.
@@ -63,11 +63,11 @@ Yenə əlindədir bütün ixtiyar.
 Xəznə açdı, verdi gövhərdən şabaş,
 Dostluq yolunda çox saçıldı daş-qaş.
 
-Məryəmdən gəlirdi Könlünə ələm,
+Məryəmdən gəlirdi könlünə ələm,
 Çünki həddən artıq qısqancdı Məryəm.
 
-Bilirdi Kİ, Rumda şah edib yəmin,
-Artıq heç bir eşqə Könül verməsin.
+Bilirdi ki, Rumda şah edib yəmin,
+Artıq heç bir eşqə könül verməsin.
 
 Bu acı xəbəri bilincə Şirin
 Ağzında təlx oldu yediyi şirin.
@@ -93,53 +93,53 @@ Tək olub, yar ilə xəlvət görüşsün.
 Qalmamışdı artıq ruhunda taqət,
 Taqətdən salmışdı onu məhəbbət.
 
-Şahlıq eləməndən soyudu, doydu,
-Bir qulu hələlin yerində qoydu.
+Şahlıq eləməkdən soyudu, doydu,
+Bir qulu hələlik yerində qoydu.
 
 Gülgünün belinə yəhər qoyuldu,
-Şapur, rinabında bir nölgə oldu.
+Şapur, rikabında bir kölgə oldu.
 
 Yoldan çıxan zaman Şirin, şübhəsiz,
-Apardı özüylə bir neçə nəniz.
+Apardı özüylə bir neçə kəniz.
 
 Onlar olmuşdular Şirinə yoldaş,
-Çətinlində nömən, rahətdə sirdaş.
+Çətinlikdə kömək, rahətdə sirdaş.
 
-Çox ipən götürüb, bir xeyli də pul,
+Çox ipək götürüb, bir xeyli də pul,
 Yola düzəldilər sürüləri bol.
 
-Önüz, qoyun, dəvə, at qatar-qatar,
-Dəniz nimi doldu, daşdı səhralar.
+Öküz, qoyun, dəvə, at qatar-qatar,
+Dəniz kimi doldu, daşdı səhralar.
 
-Ordan da tələsin tez qəsrə gəldi.
+Ordan da tələsik tez qəsrə gəldi,
 Ardınca sürülər elə bil seldi.
 
-Yenə tər mirvari sədəfə girdi.
+Yenə tər mirvari sədəfə girdi,
 Gövhər yenə daşa pənah gətirdi.
 
 Hindlilər əlinə düşdü xəzinə,
-Qəm daşma dəydi bu şüşə yenə,
+Qəm daşına dəydi bu şüşə yenə,
 
 Bu parlaq dürrdən o daş odlandı,
-Məbəd ocağıtən alışdı, yandı.
+Məbəd ocağıtək alışdı, yandı.
 
 Şirinin ay üzü sevincli bahar,
-Atəşnədə ondan oldu laləzar.
+Atəşkədə ondan oldu laləzar.
 
-Şirindəni eşqin hərarətindən
+Şirindəki eşqin hərarətindən
 O qəsrin havası qızdı deyəsən.
 
-Şah eşitdi Şirin yaxma gəlmiş,
-Ümidi canlandı: "Düzələcən iş!"
+Şah eşitdi Şirin yaxına gəlmiş,
+Ümidi canlandı: "Düzələcək iş!"
 
 Məryəmin qorxusu gətirirdi qəm,
-Çünni gecə-gündüz güdürdü Məryəm.
+Çünki gecə-gündüz güdürdü Məryəm.
 
 Qəsrə gətirməyə rüsxəti yoxdu,
-Yanma getməyə fürsəti yoxdu.
+Yanına getməyə fürsəti yoxdu.
 
 Uzaqdan alırdı o aydan soraq,
 Ordan əsən yeli güdürdü ancaq.
 
 Yadından çıxmırdı Şirin bircə an,
-Yanıb qıvrılırdı sanni bir ilan.
+Yanıb qıvrılırdı sanki bir ilan.

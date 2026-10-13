@@ -6,14 +6,14 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
 status: DRAFT
 ---
 Allahın mədhini edib ifadə,
-Ərəstu yazmışdı rəhbəmamədə:
+Ərəstu yazmışdı rəhbərnamədə:
 
 "Ey şah, elmə, fənnə sən daim yar ol,
 Nadandan, cahildən daim kənar ol!
@@ -25,7 +25,7 @@ Ancaq alimlərdə axtar, taparsan.
 Şükr elə bununçün pərvərdigara.
 
 Zəfərlər çalanda, yetəndə kama
-Allahın xovfünu yaddan çıxanna.
+Allahın xovfunu yaddan çıxarma.
 
 Allahdan qorxana bəxti yar olar,
 Ondan qorxmayanlar daim xar olar.
@@ -37,10 +37,10 @@ Pis gözə inanma, ondan gəz kənar,
 Heç öz gözünə də etmə etibar.
 
 Demiş müdrik qoca belə bir məsəl:
-"Gərək yaman gözdən qorunsun gözəl!
+"Gərək yaman gözdən qorunsun gözəl!"
 
 Bir ağac çox uca qalxmasa, inan,
-Şiddətli küləkdən gönnəz bir ziyan.
+Şiddətli küləkdən görməz bir ziyan.
 
 Ovlaqda ovçular ox atsa əgər,
 Dikbaş təkələrə daha çox dəyər.
@@ -49,7 +49,7 @@ Hər kəsi ötməkçün çıxanda yola,
 Tələsmə, həsədə yol vermə əsla!
 
 Həsəd dərdə salar daim insanı,
-insana yad edər dostu, aşnanı.
+İnsana yad edər dostu, aşnanı.
 
 Heç kəsi qaldırma kinlə yerindən.
 Qaldırdın, yerə sər arxasını sən!
@@ -91,7 +91,7 @@ Zatı pis olana üz göstərmə sən,
 Qurdu bəsləməkdən ziyan çəkərsən.
 
 Bədgövhər adamla heç addım atma,
-Qz təmiz kimyanı küllərə qatma.
+Öz təmiz kimyanı küllərə qatma.
 
 Bədəsil olarsa əgər bir adam
 Qırmızı gövhəri saraldar tamam.
@@ -100,7 +100,7 @@ Ağıllı adamla dost olsan əgər,
 Elmi, mərifəti sənə də keçər.
 
 Çox pul qazanmağı eləsən niyyət,
-Pıılsuz adamlarla etmə məsləhət.
+Pulsuz adamlarla etmə məsləhət.
 
 Ciddiyyət gözləmək yüngül adamdan -
 Gövhər istəməkdir arpa satandan.
@@ -111,13 +111,13 @@ Ancaq həmcinsiylə gəzər, dolanar.
 Nacins olar isə əgər bir nəfər,
 Ondan görəcəkdir çoxları zərər,
 
-iki saf güzgünü qoysan üz-üzə,
+İki saf güzgünü qoysan üz-üzə,
 Onlarda bir ləkə görünməz gözə.
 
 Qorxma acizlərə zülm edənlərdən.
 Yoxsa qəm-qüssəyə batarsan hökmən.
 
-insana ram olsa aslanlar əgər,
+İnsana ram olsa aslanlar əgər,
 Bunu insafdan yox, qorxudan edər.
 
 Həyasız adama qarşı sərt rəftar
@@ -129,7 +129,7 @@ Yumşaq-yumşaq çağır, tutdun, bərk saxla!
 Başı fitnə dolu olarsa hər kəs,
 Şirinliklə çağır, itiliklə kəs.
 
-iki xam bədxahın birsə qərarı,
+İki xam bədxahın birsə qərarı,
 Fənd ilə, tədbirlə ayır onları!
 
 Qurd ilə pələngi sal bir-birinə.
@@ -138,7 +138,7 @@ Sənin istədiyin yetsin yerinə.
 Şah və ya əkinçi,- gözləmə nəsəb,
 Özünə görə ver hər kəsə mənsəb.
 
-Güclünün yanma güclünü göndər,
+Güclünün yanına güclünü göndər,
 Alimin üzünü alimə döndər.
 
 Göndərdiyin adam işbilən olsa,
@@ -174,7 +174,7 @@ Düyün bənddən pisdir, bənd də düyündən.
 Bir gün atəşpərəst soruşdu oddan:
 "Söylə, mən yaxşıyam, ya sən yaxşısan?"
 
-O dedi: "istəsən düzünü bilmək,
+O dedi: "İstəsən düzünü bilmək,
 Mənə yanmaq gərək, sənə də ölmək!"
 
 Geniş ətəkli ol, çünki meyvələr
@@ -199,7 +199,7 @@ Qəribə görünən meyvəni yemə,
 Özünü dərd-qəmə düçar eləmə!
 
 Olarsa birisi yeməkdə loğman,
-Şaxlar öz nəfsini yad loxmalardan.
+Saxlar öz nəfsini yad loxmalardan.
 
 Heç kəs getmədiyi naməlum yolla,
 Yoldaş çox olsa da, getmə sən əsla!
@@ -223,13 +223,13 @@ Orduya nə versən, rütbəylə payla,
 Yol xərcindən artıq pul vermə əsla.
 
 Qarınqulu adam olsa da qoçaq,
-Qamı doyan kimi tənbəl olacaq.
+Qarnı doyan kimi tənbəl olacaq.
 
 Nə o qədər ver ki, sərxoş olsunlar,
 Nə də elə et ki, lap ac qalsınlar.
 
 Nə çox bərk, nə çox boş et rəftarını,
-Orduda itinnə etibarını.
+Orduda itirmə etibarını.
 
 Gündə iki dəfə qurub ziyafət,
 Bütün başçıları sən eylə dəvət.
@@ -243,14 +243,14 @@ Olmaz duru suda toz, ya üfunət.
 Günəş hər bir şeydən pak olduğundan
 Dağ, dəniz sirrini gizlətmir ondan.
 
-Xoşbəxtlik istəsən, xoşbəxti tam,
+Xoşbəxtlik istəsən, xoşbəxti tanı,
 Xoşbəxt xoşbəxt edər çünki insanı!
 
 Bədbəxt adamlardan ol daim kənar
 Ki, üzüm üzümə baxıb qaralar.
 
 Doğma xislətindir vəfalı olmaq,
-Çalış ki, əslini itinnə ancaq.
+Çalış ki, əslini itirmə ancaq.
 
 Biri adətini dəyişsə əgər,
 Yığdığı dövlət də onu tərk edər.
@@ -271,9 +271,9 @@ Hər bir hadisədən ötrü fələklə
 Bəhs etmə, onunla xoş rəftar elə.
 
 Ruzigar nə versə qəbul eylə sən,
-Çalış, ustadının çıxma sözündən,
+Çalış, ustadının çıxma sözündən.
 
-incimə dövlətin etdiyi nazdan,
+İncimə dövlətin etdiyi nazdan,
 Dövlətin nazında dövlət taparsan.
 
 Vaxtı yetişəndə sənin də, əlbət,
@@ -304,7 +304,7 @@ Padşah ədaləti çıxartsa yaddan
 Ölkəsi tez olar zülm ilə viran.
 
 Allah ədalətçün yaradıb səni,
-Zülm etmə, ədi ilə saxla ölkəni!
+Zülm etmə, ədl ilə saxla ölkəni!
 
 Pis fikrə düşərsə yaxşı bir insan,
 Özünə yamanlıq eləyər, inan!
@@ -313,7 +313,7 @@ Dünya yaranandan belədir qanun,
 Dəyişir istisi, soyuğu onun.
 
 Havada olanda belə ziddiyyət,
-Onda heç axtanna, heç umma səhhət.
+Onda heç axtarma, heç umma səhhət.
 
 Yaxşısı budur ki, ildə hər fəsil
 Öz qaydası ilə keçsin müttəsil.
@@ -340,7 +340,7 @@ Canın möhkəm olsa, döşünə döymə,
 Gülüb, yersiz-yersiz özünü öymə.
 
 Acizlik üz versə, qəm çəkmə yenə,
-Bunu da bildinnə özgələrinə.
+Bunu da bildirmə özgələrinə.
 
 Özünü şad göstər, heç olma qəmgin.
 Gizlin dərdin olsa, zahirdə sevin.

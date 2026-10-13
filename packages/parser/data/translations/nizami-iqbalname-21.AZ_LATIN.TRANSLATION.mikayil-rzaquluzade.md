@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -18,7 +18,7 @@ Bu qoca dünyada yaşasın cavan!
 Bilik təlimində bəxti yar olsun,
 Elm yollarında daim var olsun!
 
-Şahlar şahı özü verdi ki, fənnan:
+Şahlar şahı özü verdi ki, fərman:
 Hər kəs bildiyini eyləsin bəyan.
 
 Mən də ərz eləyim: dünyaya təməl,

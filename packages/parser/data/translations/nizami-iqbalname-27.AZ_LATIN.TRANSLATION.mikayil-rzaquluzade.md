@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -19,7 +19,7 @@ Aləmə günəşdir böyük İskəndər,
 Sinəsi nur dolu bir bağa bənzər.
 
 Dövrəyə alaraq şah İskəndəri,
-işığa gəlmişdi nur aşiqləri,
+İşığa gəlmişdi nur aşiqləri,
 
 Müdrik olar isə, əlbət, hökmüdar,
 Onun ölkəsində müdrik çox olar.
@@ -46,7 +46,7 @@ Düşüncə qavrasa bir şeyi əgər,
 Şübhəsiz, özü də onu düzəldər.
 
 Xilqətin sirrini kəşf etməmiş biz
-Tədqiqə çatarını heç qüdrətimiz?
+Tədqiqə çatarmı heç qüdrətimiz?
 
 Göylərə: yazılı vərəq dediniz,
 Ayrı cür oxudu fəqət hərəniz.

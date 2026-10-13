@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -48,7 +48,7 @@ Nəşəylə qaynadı məclisin canı.
 Əmr etdi; “Qənimət saxlayan ərlər
 Qarətin sayından versinlər xəbər!
 
-Rus, Burtas və başqa xalqdan alman
+Rus, Burtas və başqa xalqdan alınan
 Silsilə dağ kimi xəzinə, saman.
 
 Katiblər hesaba etsinlər diqqət,
@@ -81,7 +81,7 @@ Saya gəlməyirdi zil qara samur.
 Saf qaqum o qədər yüklənmiş, görcək,
 Nə saymaq mümkündür, nə də söyləmək.
 
-Al tülkü dərisi, sincablar parlaq.
+Al tülkü dərisi, sincablar parlaq,
 Hələ nal görməmiş bir ilxı daylaq.
 
 Saf vaşaq dəridən məclis olur şən,
@@ -145,123 +145,121 @@ Hər kim etməmişsə bir hünər izhar,
 Yalnız bu hünərlə rus şahlıq qurar”.
 
 Vurulunca başa qənimət günü,
-359 £*>=*»
+Yerinə yetirdi haqqın şükrünü.
 
-Üerinə yetirdi haqqın şükrünü.
 Tanrının şükrünü edincə tamam,
-
 Məclisi bəzədi, ələ aldı cam.
+
 Xoş nəğmə, dadlı mey edincə əsər,
-
 O bahar buludu yağdırdı gövhər.
+
 Ordunun çalışan böyüklərinə
-
 Xalvarla dağıtdı ipək, xəzinə.
+
 Qızıl paylamaqdan daşdı var, dövlət,
-
 Hamıya yenidən payladı xələt.
+
 Orduda qalmadı kəcavə çəkən,
-
 Məfrəşi olmasın xaradan, zərdən.
+
 İstədi o dili bağlı kişini,
-
 Zənciri açılmış çöllü vəhşini.
-O dağ, daş dolanan çöllü yetişdi.
 
+O dağ, daş dolanan çöllü yetişdi,
 Şahın qarşısında səcdəyə düşdü.
+
 Heyrətlə süzdü şah başdan-ayağa,
-
 Başını oynatdı o mətin dağa.
+
 Verdi çox hədiyyə o canavara,
-
 Dəyərli çox daş-qaş, gümüş, zər, xara.
+
 Rədd etdi ki, belə sərvət, xəzinə,
-
 Ey şahim, nə gərək bu çöl əhlinə?
+
 Bir qoyun başını atdı oduntək,
-
 Göstərdi ki, mənə bu qoyun gərək!
+
 Padişah əmr etdi: Yeməli olan,
-
 Çöllərdə bəslənmiş kök qoyunlardan
+
 Bir sürü verdilər, aldı o kişi,
-
 Padşaha təşəkkür edərək vəhşi
+
 O böyük sürünü önünə saldı,
-
 Sevinclər içində evə yol aldı.
+
 Qəlbaçan quşların oynağı olan
+Bu yeri bəyəndi böyük hökmüran.
 
-Bu yeri bəyəndi böyük hökmıiran.
 Dünyada alırdı çalğı, meylə kam,
-
 Çərx ona baş əyib verirdi salam.
+
 Şərabdan o, sərxoş olduğu zaman
-
 Üzü rəng alırdı gül rəngli sudan.
+
 Rusların şahını çağırtdı bir də,
-
 Oturtdu onu ən layiqli yerdə.
+
 Zənciri açdırdı o uca şövkət,
-
 Verdi saf qızıldan toxunmuş xələt.
+
 Ürəkdən bir bəndə oldu padşaha,
-
 Öz keçmiş kinini unutdu daha.
+
 Zindandan buraxdı bütün əsiri,
-
 Xələtlə ucadtdı, açdı zənciri.
+
 Ruslara əmr etdi: “Gəlsin Nüşabə!”
-
 Onsuz əl vurmadı gülgün şərabə.
+
 Padşahın əmrinə tələsdi ruslar,
-
 Günəşin yanında Ay tutdu qərar.
+
 Gəldilər zülümdan solmuş gözəllər,
-
 Bəyənmiş olduğu bir dəstə dilbər.
+
 Nüşabə bəzəndi şux geyimlərlə,
-
 Döndü ilk baharda açılan gülə.
+
 İskəndər talandan saçdı xəzinə,
-
 Təzədən bir gəlin bəzədi yenə.
+
 Kamınca mey içdi bir neçə gecə,
-
 Bəxtiyarlıq günü sona yetincə,
+
 Verdi Dəvalıya qızın əlini,
-
 Nikahla bağladı ona gəlini.
+
 Bu mübarək ayin yetincə başa
-
 Verdi çox xəzinə, tutdu daş-qaşa.
+
 Şövkətlə göndərdi yenə Bərdəyə,
-
 O gözəl ölkəni ucaltsın deyə.
+
 Ölkəni təmirə sərvət, mal verdi,
-
 Yol xərci bir yana, çox cəlal verdi.
+
 Elə ki, işlərə verdi intizam,
-
 Etdi igidlərə böyük ehtiram.
-Verdi rus şahma yenidən tuğ, tac,
 
+Verdi rus şahına yenidən tuğ, tac,
 Ancaq əmr eylədi: göndərsin xərac.
+
 Öz doğma yurduna dönüncə ruslar,
+Qıntal öz taxtında oldu bəxtiyar.
 
-Qmtal öz taxtında oldu bəxtiyar.
 Bir daha çıxmadı onun əmrindən,
-
 Hər zaman yad etdi şərab içərkən.
+
 O yaşıl çəməndə hər gün tacidar,
-
 Gah şənlik qurur, gah edirdi şikar.
+
 Uca sərv altında çalğı səsiylə,
-
 Qədəh qaldırırdı ney naləsilə.
+
 Könlü şad olduqca çox şənlənirdi,
-
 O coşğun ürəyi fərəhlənirdi.
-Padşahlıq, şən tale, ömür, qönçə gül.
 
+Padşahlıq, şən tale, ömür, qönçə gül,
 Neçin şad olmasın belə bir könül?!

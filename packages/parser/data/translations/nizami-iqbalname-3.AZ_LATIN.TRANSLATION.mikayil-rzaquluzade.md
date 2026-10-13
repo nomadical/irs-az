@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -31,7 +31,7 @@ Parlayıb nur saçdı bu kainatda,
 Bənzərdi Zülmatda abi-həyata.
 
 Uca qalxmasaydı ərşin tağından,
-Kimdi kainatın sirrini açan? 8
+Kimdi kainatın sirrini açan?
 
 Mənəvi bir töhfə o verib bizə,
 Ərşin sovqatını göndərib bizə.
@@ -64,9 +64,9 @@ Davuddan yadigar tək bir zireh var,
 Məhəmməd yüz zireh qoyub yadigar.
 
 Süleymanın taxtı getdisə bada,
-Məhəmməd əbədi qaldı dünyada,
+Məhəmməd əbədi qaldı dünyada.
 
-isanın beşiyi göyə qovuşdu,
+İsanın beşiyi göyə qovuşdu,
 Məhəmmədsə özü göylərə uçdu.
 
 Tur dağı Musaya oldusa eyvan,

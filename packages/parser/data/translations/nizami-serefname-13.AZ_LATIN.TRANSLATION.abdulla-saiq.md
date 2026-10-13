@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -36,7 +36,7 @@ Qapını qırsanız hədsiz odun var.
 Çox yaşa, ömürdən faydalan özün,
 Çalış ölkəyə də ziyan dəyməsin.
 
-Tarixin yığılmış tumarlığmdan.
+Tarixin yığılmış tumarlığından,
 Keçmişi belə nəql edir bir dehqan:
 
 Elə ki, Feyləqus təzə gəlintək,
@@ -45,7 +45,7 @@ Vurdu bu dünyanın mülkünə bəzək,
 Ağıllı övladla ata fəxr edər,
 Çünki mübarəkdir seçilmiş gövhər.
 
-Dünyada ataya varımdır, gerçək,
+Dünyada ataya varmıdır, gerçək,
 Ağıllı oğuldan başqa bir istək,
 
 Oturtdu öyrənsin ədəblə hünər,
@@ -55,19 +55,19 @@ Niqumaş alimdi, biliklə dolu,
 Alimin oğluydu həkim Ərəstu.
 
 Təlim işlərində çəkdi çox əmək,
-Flikmətlər öyrətdi ona sevərək.
+Hikmətlər öyrətdi ona sevərək.
 
 Şahanə tərbiyə, hünər, nəzakət
 Ağıla nur verir, ürəyə qüvvət.
 
-Flər əqlə sığışan hünər, bilikdən,
+Hər əqlə sığışan hünər, bilikdən,
 Bir məna çıxarır mənanı bilən.
 
 Ulduzlar bəzəyən kimi göyləri
 Bəzədi pak olan yeni gövhəri.
 
 Çatdırdı onu hər gizlin biliyə,
-Flansı bir gənc almış belə tərbiyə?
+Hansı bir gənc almış belə tərbiyə?
 
 Şahzadə illərlə çox çalışdı, çox,
 Qulağı elm aldı, başqa heç nə yox.
@@ -90,14 +90,14 @@ Tacidar olacaq bir gün şahzadə.
 Onun təliminə verdi çox diqqət,
 Kişini şad edər qorunsa sərvət.
 
-Bəxtini oxudu parlaq alnından.
+Bəxtini oxudu parlaq alnından,
 Verdi oğluna da ondan bir ünvan.
 
-Tale xidmətində duran zamanda.
+Tale xidmətində duran zamanda,
 Söz qaşı möhrünü vuran zamanda
 
 Oğlunu tapşırdı gənc şahzadəyə,
-And verdi, söz aldı: “Peyman ver, - deyə,
+And verdi, söz aldı: “Peyman ver, - deyə, -
 
 Məktəbdən meydana sən at sürərkən,
 Şahanə başını göydə görərkən,
@@ -151,9 +151,9 @@ Bir şəkil çəkdi o, həndəsi hərfdən,
 Qalibi, məğlubu etdi müəyyən.
 
 Dedi: “Al, bir qəza üz versə sana,
-Hərfi say, həm düşmən, həm öz adma.
+Hərfi say, həm düşmən, həm öz adına.
 
-Adm dairədə qalsa müzəffər,
+Adın dairədə qalsa müzəffər,
 Əmin ol bəxtinə, sənindir zəfər.
 
 Bu sayda üstünlük göstərsə düşman,
@@ -222,7 +222,7 @@ Nalbəndlə palançı eşşəyə bir gün:
 Topal ayağından, yağır dalından
 Nalını, palanı atdı o heyvan.
 
-Eşşək öz borcundan olunca azad.
+Eşşək öz borcundan olunca azad,
 Olduqca dincəldi, qəlbi oldu şad.
 
 Sən də, ey tozlara bulaşmış insan,

@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -43,9 +43,9 @@ Başından lovğalıq tacını atdı,
 Öz başı allahın tacına çatdı.
 
 Bir də yaranışı araşdırmadan,
-Axtardı, bilsin ki, kimdir yaradan,
+Axtardı, bilsin ki, kimdir yaradan.
 
-istədi çalışıb sirləri örtən
+İstədi çalışıb sirləri örtən
 Yeddi qat sürməni silsin tamamən.
 
 Onu olduğutək görmək istədi,
@@ -70,7 +70,7 @@ O səni dünyada şahlıqla birgə
 Ləyaqətli bildi peyğəmbərliyə.
 
 Sən allah əmriylə şah olduğundan,
-indi də belədir allahdan fənnan:
+İndi də belədir allahdan fərman:
 
 Haqqın dərgahına baş əyim, deyə,
 Söylə ki, son qoydum asudəliyə.
@@ -81,11 +81,11 @@ Azğını, vəhşini əhliləşdir sən.
 Xalqı pis yollardan et haqqa dəvət,
 Onlar da allaha etsin itaət.
 
-Təzələ kökündən köhnə binam,
+Təzələ kökündən köhnə binanı,
 Təmizlə qəflətdən bütün dünyanı.
 
 Cahanı divlərin zülmündən qurtar,
-Dünyalar şahma ol itaətkar!
+Dünyalar şahına ol itaətkar!
 
 Bütün yatmışları yuxudan oyat,
 Əqlin üzündəki o niqabı at!
@@ -106,7 +106,7 @@ Nə hörmətin varsa canlıya göstər,
 Cansızçın vaxtını eyləmə hədər,
 
 Canlıdan dəyərsə sənə bir ziyan,
-Zəncirlə, məhv elə, heç vennə aman!"
+Zəncirlə, məhv elə, heç vermə aman!"
 
 İskəndər mələyə xitab eylədi:
 "Ey müdrik ilhamçı, ey mələk, - dedi, -
@@ -129,14 +129,14 @@ Orduda vahimə törədə bilər.
 Bir də ki, qoşunla səfər edərkən
 Dağları, çölləri necə keçim mən?
 
-Bu qədər zillətə edərlənni tab?
+Bu qədər zillətə edərlərmi tab?
 Nə cürə onlara mən verim əzab?
 
 O korlar ardımca gəlməsə əgər,
 Kar olub sözümü eşitməsələr,
 
 Mən yad ölkələrdə o kar-korlara
-Nə əlac eləyim, varını bir çara?
+Nə əlac eləyim, varmı bir çara?
 
 Əgər peyğəmbərlik fikrinə düşsəm,
 Xalqı cəlb etməkçin hanı möcüzəm?
@@ -150,8 +150,8 @@ Sonra da getməyi tələb etsənə.
 Elmi dərya kimi çox insanların,
 Zəkayla, biliklə tox insanların
 
-Sarsıtmaq miimkünmü heç vüqarını?
-yox etmək olarını iqtidarını?"
+Sarsıtmaq mümkünmü heç vüqarını?
+yox etmək olarmı iqtidarını?"
 
 O vəhyi gətirən xeyirxah mələk
 Dedi, İskəndərə xitab edərək:
@@ -165,7 +165,7 @@ Nasikdir adları, yoxdur dinləri.
 Şərqdə bir tayfa var, xislətdə mələk,
 Onlara layiqdir Mənsək ad vermək.
 
-Dəıyatək cənubda bir tayfa yaşar,
+Dəryatək cənubda bir tayfa yaşar,
 Habildən törəyib qalmışdır onlar.
 
 Şimalda bir tayfa salmışdır məskən,
@@ -192,7 +192,7 @@ Açılar qapısı hər xəzinənin.
 Yola çıxanda ol hər şeydən agah,
 Səni hifz edənə apar sən pənah.
 
-Hansı bir niyyətlə minsən atma,
+Hansı bir niyyətlə minsən atına,
 Köməklər köməyi çatsın dadına!
 
 Dünyada özünə, orduna əsla
@@ -208,7 +208,7 @@ Qaranlıq arxanda, nur önündə - sən
 Özün görünməzsən, ancaq görərsən.
 
 Kim sənə xoşluqla itaət etsə,
-işıq bəxş edərsən sən də o şəxsə.
+İşıq bəxş edərsən sən də o şəxsə.
 
 Hər kim lovğalıqla çıxsa qarşına,
 Sən də qaranlıqdan bir pay ver ona.
@@ -253,7 +253,7 @@ Tədbirlər öyrəndi hər bir alimdən,
 Çatar məqsədinə çox tədbir bilən!
 
 Səfərdə həmişə faydalı olan
-Mənalı kəlamlar yığdı dumadan.
+Mənalı kəlamlar yığdı durmadan.
 
 Allah tərəfindən gəlmiş mükəmməl
 O "Sifri-əzəm"dən başqa üç gözəl
@@ -262,9 +262,9 @@ Nəsihətnamə də keçirdi ələ,
 Yazdırdı ipəyə qara müşk ilə.
 
 Ərəstu oldu ilk naməni yazan,
-O xəbər verirdi yaxşı-yamandan,
+O xəbər verirdi yaxşı-yamandan.
 
-ikinci naməni bildiklərindən
+İkinci naməni bildiklərindən
 Əflatun yazmışdı duyub dərindən.
 
 Üçüncü xəzinə Sokratdan idi,
@@ -289,7 +289,7 @@ O bir gün çıxaraq öz ac-təxtinə,
 Firuzə rəngli tac qoyaraq yenə, -
 
 Aqil vəzirinə buyurdu belə:
-Müti qələmini alaraq ələ.
+Müti qələmini alaraq ələ,
 
 Elm ilə zəkaya edib riayət,
 Yazsın bir faydalı, gözəl nəsihət.
@@ -300,7 +300,7 @@ Dost bilsin özünə qurd da qoyunu,
 Fərmanı dinləyib vəzir hörmətlə,
 Təzim edib şaha çıxdı rüxsətlə,
 
-Mədəndən gövhərlər çıxannaq üçün
+Mədəndən gövhərlər çıxarmaq üçün
 Fikrini başına yığaraq bütün,
 
 Diltək itiləyib qələmi, yenə

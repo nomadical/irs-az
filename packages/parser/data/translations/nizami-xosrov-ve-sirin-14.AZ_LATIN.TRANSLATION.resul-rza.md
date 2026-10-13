@@ -6,14 +6,14 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
 Köhnə dastanların qoca ustadı
-Öz hekayəhnə belə başladı:
+Öz hekayətinə belə başladı:
 
 Zaval gələn zaman Kəsra bəxtinə.
 Hürmüz sahib oldu şahlıq təxtinə.
@@ -24,7 +24,7 @@ Dolaşırdı adı hey dildən-dilə.
 Öz ata yolunu tuturdu mətin,
 Əl üstə - səxavət, ayaq üstə - din.
 
-Nəsli ta itməsin qoca dünyadan.
+Nəsli ta itməsin qoca dünyadan,
 Bir övlad istədi böyük xudadan.
 
 Xeyli nəzir verdi, bir xeyli qurban,
@@ -45,76 +45,76 @@ Bu səbəbdən Pərviz dedilər ona.
 Səhərdən gözəldi onun gülüşü,
 Günəşdən qəşəngdi hər görünüşü.
 
-Dayəsi müşıctək ipəkdə şaxlar,
-Incitək olmuşdu yeri pambıqlar.
+Dayəsi müşktək ipəkdə saxlar,
+İncitək olmuşdu yeri pambıqlar.
 
-Dodağında südə həvəs duyaraq.
-Bəslədilər şəxər və südlə ancaq.
+Dodağında südə həvəs duyaraq,
+Bəslədilər şəkər və südlə ancaq.
 
-Şah yanma hər gün gətirərdilər,
+Şah yanına hər gün gətirərdilər,
 Gültək əldən-ələ, ötürərdilər.
 
-Beşiyi tərx edib yeriyən zaman
+Beşiyi tərk edib yeriyən zaman
 Ona öz canında yer verdi cahan.
 
-Elə Kİ, beş yaşa çatdı, nə görsə
+Elə ki, beş yaşa çatdı, nə görsə
 İbrət götürərdi, baxıb hər kəsə.
 
 Bəxti artırdıqca hər il yaşını
-Bilikiə doldurdu o gənc başını.
+Biliklə doldurdu o gənc başını.
 
 Ayaq qoyan zaman yeddinci ilə
 Güllərə müşk saçdı gözəlliyilə.
 
-Elə məşhur oldu gözəllixdə o,
-Misirli Yusifdi sanxi bu Xosrov.
+Elə məşhur oldu gözəllikdə o,
+Misirli Yusifdi sanki bu Xosrov.
 
-Günləri boş, hekar Keçməsin deyə.
+Günləri boş, bekar keçməsin deyə,
 Şah tapşırdı onu bir mürəbbiyə.
 
-Bu söhbətdən Keçdi bir neçə zaman,
+Bu söhbətdən keçdi bir neçə zaman,
 Xosrov hər hünərdə oldu qəhrəman.
 
 Sözünün şöhrəti düşdü cahana.
-Dəniz Kimi səpdi dürrü hər yana.
+Dəniz kimi səpdi dürrü hər yana.
 
-Su Kimi söz deyən hər aqil, huşyar
+Su kimi söz deyən hər aqil, huşyar
 Ona ehtiyatla yanaşırdılar.
 
 Hər an tükü tükdən seçirdi gözü,
-Tük Kimi zərifdi onun hər sözü.
+Tük kimi zərifdi onun hər sözü.
 
-Doqquzda tənc etdi oyun yolunu,
+Doqquzda tərk etdi oyun yolunu,
 Şir üstə sınadı güclü qolunu.
 
 On yaşa girəndə bu nadir cavan
 Otuz yaşlıları qoyurdu heyran.
 
-Şirlər pəncəsinə pəncə verərdi.
+Şirlər pəncəsinə pəncə verərdi,
 Qılıncla sütunu yerə sərərdi.
 
-Oxuyla, o, tüıcdən düyün açardı,
+Oxuyla, o, tükdən düyün açardı,
 Nizəylə zirehdən halqa alardı.
 
-Ox atsa hədəfə sərrast dəyərdi.
-Zöhrə haləsini sikələyərdi.
+Ox atsa hədəfə sərrast dəyərdi,
+Zöhrə haləsini silkələyərdi.
 
-On kaşaş birdən dartan bir insan
-Acizdi Xosrovun bir Kamanından.
+On kamanı birdən dartan bir insan
+Acizdi Xosrovun bir kamanından.
 
-Kəməndlə on düşmən birdən tutardı.
+Kəməndlə on düşmən birdən tutardı,
 Doqquz qarış boyda oxları vardı.
 
 Ağ div olsa belə, onun oxundan
-Söyüd yaıpağıtək əsərdi, inan
+Söyüd yarpağıtək əsərdi, inan
 
 Şimşək nizəsini çalsa daşlara,
 Daşın ürəyində açardı yara.
 
-O gündən Kİ, yaşı on dördü aşdı,
+O gündən ki, yaşı on dördü aşdı,
 Biliyinin quşu qol-qanad açdı.
 
-Könlündə hər şeyə maraq oyandı.
+Könlündə hər şeyə maraq oyandı,
 Dünyada yaxşını, yamanı qandı.
 
 Büzürgümid adlı bir alim vardı,
@@ -127,37 +127,37 @@ Göyün xəznələri açıqdı ona,
 "Sirlər evi" desəm, haqdır, qoynuna.
 
 Şahzadə xəlvətdə ona yanaşdı,
-Hindi qılınc Kimi dilini açdı.
+Hindi qılınc kimi dilini açdı.
 
 Bilik dəryasına əl uzadaraq,
 Cavahir istədi və aldı qoçaq.
 
-Onun təlimindən Könlü nurlandı,
-Ondan bir çox hhcmət öyrənib qandı.
+Onun təlimindən könlü nurlandı,
+Ondan bir çox hikmət öyrənib qandı.
 
-Zühəl pərgarından yer mərxəzinə
+Zühəl pərgarından yer mərkəzinə
 Nə varsa öyrəndi, doymadı yenə.
 
 Az müddətdə dərya bilik qazandı,
 Hər fənni düşündü, hər elmi qandı.
 
-Qafil ürəyinə bilik yol açdı.
+Qafil ürəyinə bilik yol açdı,
 Şahlıq rütbəsinə gəlib yanaşdı.
 
-Hərlənən pərgahm gizli işləri
-Xosrova aşixar olandan bəri
+Hərlənən pərgahın gizli işləri
+Xosrova aşikar olandan bəri
 
-Şahma xidmətdi işi hər zaman,
+Şahına xidmətdi işi hər zaman,
 Heç əskik olmazdı şah qulluğundan.
 
-Şah sevərdi onu cahandan artıq.
+Şah sevərdi onu cahandan artıq,
 Cahan nə, öz şirin canından artıq.
 
 Çox ömr etsin deyə əziz övladı,
 Zalımın qolunu tutub bağladı.
 
 Dedi: "Carçı, çağır! Eşitsin aləm,
-Hər Kim zülm eləsə görəcək sitəm.
+Hər kim zülm eləsə görəcək sitəm.
 
 Əgər bir at gedib girsə tarlaya,
 Biri bağdan meyvə, gül oğurlaya,
@@ -169,7 +169,7 @@ Bir gözəl evinə yadı buraxsa,
 Şah and içdi, dedi, sınmaz bu ilqar.
 
 Ədalətdə onun qüsuru yoxdu,
-Gözlər Kədərsizdi, Könüllər toxdu.
+Gözlər kədərsizdi, könüllər toxdu.
 
 Oldu ədalətlə yer üzü abad,
-insanlar oldular zülmdən azad.
+İnsanlar oldular zülmdən azad.

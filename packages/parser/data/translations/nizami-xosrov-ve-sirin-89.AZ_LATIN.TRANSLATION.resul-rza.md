@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -22,9 +22,9 @@ Bir bəzək düzəltdi Xosrov gəlinçin.
 Günəş xəcalətdən büküldü çin-çin.
 
 Min qaragöz dəvə üstü yun şallı,
-Tükiəri qırmızı, sarı xalxallı,
+Tükləri qırmızı, sarı xalxallı,
 
-Min cavan Köhlən at üstə yaraqlı,
+Min cavan köhlən at üstə yaraqlı,
 Saf qızıl yəhərli, dəmir dırnaqlı,
 
 Min baş qara rəngli ulduzgöz qatır
@@ -42,10 +42,10 @@ Min sandıq, min xəznə - içi cavahir,
 Qızıl, ipək dolu məfrəşi, tayı,
 Yüz nədir, beş yüzdən artıqdır sayı.
 
-On Kəcavə vardı tovuz quşutəx,
-Hərəsində bir qız - Kəkiixdən göyçək.
+On kəcavə vardı tovuz quşutək,
+Hərəsində bir qız - kəklikdən göyçək.
 
-Bir Kəcavə vardı Şirinçün ayrı,
+Bir kəcavə vardı Şirinçün ayrı,
 Qızıldandı onun içi, bayırı.
 
 Taqi-Kəsradan ta Bisütunacan
@@ -54,8 +54,8 @@ Qızıl qotaz atla dolmuşdu hər yan.
 Nizələr pozmuşdu yer ahəngini,
 Bayraqlar dəyişdi göyün rəngini.
 
-Parlaq Kəcavələr, təxti-rəvanlar -
-içində gözəllər, igid cavanlar.
+Parlaq kəcavələr, təxti-rəvanlar -
+İçində gözəllər, igid cavanlar.
 
 Yola şabaş səpən gözəllər yenə
 Zərbəf salmışdılar ay üzlərinə.
@@ -64,9 +64,9 @@ Zərbəf salmışdılar ay üzlərinə.
 Ceyran göz, müşki xal, ay üz, gümüş əl.
 
 Hər bir sərv boylunun başındasa var
-iraqlılar Kimi gözəl çutqular.
+Iraqlılar kimi gözəl çutqular.
 
-Köhlənlər belində qızlar gedirdi.
+Köhlənlər belində qızlar gedirdi,
 Saçlarını sanki qamçı edirdi.
 
 Saçlara düzülmüş qızıl cərgələr.
@@ -76,15 +76,15 @@ Belə bir cəlalla, bu dəbdəbəylə
 Yaman göz dəyməsin bu canlı selə.
 
 Min işvə qataraq hərə nazına
-Getdilər Şirinin pişivazma.
+Getdilər Şirinin pişivazına.
 
 Yol boyu zər səpib, gövhər tökərək
-Nazla gətirildi o şirin mə1ək.
+Nazla gətirildi o şirin mələk.
 
 Gəlib çatan zaman o Mədainə,
 Xəznəyə dönmüşdü torpaqlar yenə.
 
-Bir xoş bahar Kim Şirin Kcçiikən,
+Bir xoş bahar kim Şirin keçirkən,
 Şabaş səpirdi şah yola bir əldən.
 
 Şah pul səpdiyiçün hey yığın-yığın
@@ -93,17 +93,17 @@ Hələ də üstündə pul var balığın.
 Cəmşid dərgahına gələndə məhvəş,
 Həməl bürcündəydi o zaman Günəş.
 
-Xosrov əmr etdi Kİ, möbidlər gəlsin,
-Müdrikiər toplansın, məclis düzəlsin.
+Xosrov əmr etdi ki, möbidlər gəlsin,
+Müdriklər toplansın, məclis düzəlsin.
 
-Şah dedi Şirinin heıcayəsini,
-Hamı heyran qalıb, Kəsdi səsini.
+Şah dedi Şirinin hekayəsini,
+Hamı heyran qalıb, kəsdi səsini.
 
-Şah dedi: "Şirinə olmuşam aşiq.
+Şah dedi: "Şirinə olmuşam aşiq,
 Hər cürə hörmətə layiqdi, layiq.
 
 Mənə mehribandır, özü saf, təmiz,
-Kim yaşayar belə azad, Iəkəsiz.
+Kim yaşayar belə azad, ləkəsiz.
 
 Qoy hərəmim olsun, sarayda qalsın.
 Onunla fəxr edim, başım ucalsın.
@@ -111,19 +111,17 @@ Onunla fəxr edim, başım ucalsın.
 Mey gül ilə xoşdur tuta birgə cam,
 Hər quş öz cütüylə tez olar aram.
 
-Öküz cüt olmasa Kotanda əgər,
-Tək öküziə, deyin yeri Kim sürər?"
+Öküz cüt olmasa kotanda əgər,
+Tək öküzlə, deyin yeri kim sürər?"
 
 Hamısı sevindi, hamı oldu şən.
 Dedilər: "Afərin bu işə, əhsən!"
 
 Əlindən tutaraq Şirininin şah
-Əmr etdi möbidə Kəsilsin şkah.
+Əmr etdi möbidə kəsilsin nikah.
 
 Lazımi hazırlıq görüb gəlinçin,
-Möbid qaydasıyla Kəsildi kəыn.
+Möbid qaydasıyla kəsildi kəbin.
 
 Edincə Şirini şah öz gəlini,
 Hərəmə göndərdi o nazənini.
-
-XOSROV şirinin toyu

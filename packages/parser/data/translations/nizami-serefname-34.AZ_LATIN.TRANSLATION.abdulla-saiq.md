@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -24,64 +24,61 @@ Firidun şənliyi, Cəmin novruzu
 İskəndər şövkətli taxta oturdu,
 Önündə padşahlar boynunu burdu.
 
-««*?£££* 220
 Oxuyub çalanlar, şərab və qədəh
-
 O gözəl məclisə verirdi fərəh.
+
 Nüşabə naz ilə hey qədəh alar,
-
 Ortada gəlinlər qol-qola oynar.
+
 Məclisdə Feyləqus oğlu İskəndər
-
 O pəri qızlara salmadı nəzər.
+
 Birinci, nəfsini oda salmazdı,
-
 İkinci, hərəmdə ov ovlamazdı.
+
 Başçılar məclisdə ağır oturdu,
-
 Padşaha hörmətçin mərd kimi durdu.
+
 Göy soyuq, Günəşin xeyməsi ocaq,
-
 Yer quru, Cəmşidin yastığı yumşaq.
+
 Günəş Dəlv bürcündən çıxdı qırağa,
-
 Girdi Hut bürcünə balıq tutmağa.
+
 Pul-puldur dağların ətəyi, qəlbi
-
 Buzlanmış balığın arxası kimi.
+
 Qurd gözlü qasırğa kəsir nəfəsi,
-
 Kürkçünün zəhmətə artmış həvəsi.
+
 Maralın kök budu buzdan qorxaraq,
-
 Aslan sağrısını etmişdi sığnaq.
+
 Buzlamış ceyranın kabablıq budu
-
 Suların bağrına hey duz vururdu,
+
 Buludlar o qədər sıx kafur saçmış,
-
 Çinarın qolları ağ çiçək açmış.
+
 Bənövşə qönçəsi tumurcuq ikən
-
 Bahar yarpağıtək qar gəlir göydən.
+
 Olmuş gül ağacı yeldən hamilə,
-
 Qarnını doldurmuş çiçəklər ilə.
+
 Ağzını açmadan buzlu nəhrlər,
-
 Otların dodağı sud ətri verər.
+
 Yadlardan gül üzə pərdə çəkəli,
-
 Bülbülün təbilin yırtmış dan yeli.
+
 Bülbültək bardaqlar gəlmiş fərəhə,
-
 Kəkliktək ağzından düşməz qəhqəhə.
+
 İçənlərin üzü meydən alıb rəng,
-
 Qızarmış, tərləmiş gül yarpağıtək.
-İskəndər əmr etdi: “Şənlik eşqinə,
 
-««дaar® 1 221
+İskəndər əmr etdi: “Şənlik eşqinə,
 Məclisdə bir alov parlasın yenə”.
 
 Yenidən yaraşıq, bəzək vuruldu,
@@ -105,7 +102,7 @@ Ya qoca insafsız, rəhmsiz məcus
 Hindistandan gəlmiş bir nəfər cadu
 Xırmana vurar bir arpadan odu.
 
-Muğ aıpa yerinə əkmiş ərğəvan,
+Muğ arpa yerinə əkmiş ərğəvan,
 Bənövşə düşürmüş biçdiyi zaman.
 
 Həbəş müşk aparmış Mazandarana,
@@ -114,10 +111,10 @@ Yerinə saf qızıl vermişdir ona.
 Ev hindli qadından qana bürünmüş,
 Abinus qırmızı söyüdə dönmüş.
 
-Səqlablı atmı çapmışdır Çinə,
+Səqlablı atını çapmışdır Çinə,
 Burtasdan bir samur kükrəmiş yenə.
 
-“Bilap’da çıxarmış gözəl bir səda,
+“Bilal”da çıxarmış gözəl bir səda,
 Həbəşdə yaşarkən səs verir Rumda.
 
 Onun şən səsinə qara zəncilər
@@ -160,7 +157,7 @@ Qış vaxtı yoxsula şən nəğmə söylər,
 Qonşuya qazandan elçilik eylər.
 
 Sazının telləri edər zümzümə,
-Zərdüştün Zəndindən xoşdur bu nəğmə
+Zərdüştün Zəndindən xoşdur bu nəğmə!
 
 Zənd ilə Zərdüştü yaxan atəşi
 Yaxmışdır dünyanın böyük Günəşi.
@@ -180,7 +177,7 @@ Atəşə girərsə qaralar günü.
 Bu bağda coşaraq ötüşər quşlar,
 Hər quşda başqa səs, başqa ahəng var.
 
-Setarla çalmar sanki hər nəğmə,
+Setarla çalınar sanki hər nəğmə,
 Şərqidən yüz kərə gözəl zümzümə.
 
 Ciyər duz yedikcə hey qanı damır,
@@ -195,13 +192,13 @@ Müşküylə bəslənmiş aşlar, yeməklər.
 Hər çeşid mürəbbə, turşu, meyvə var,
 Limon və portağal, narınc ilə nar.
 
-Çalanın Zöhrətək oynayır qəlbi.
+Çalanın Zöhrətək oynayır qəlbi,
 Kuzələr parıldar Müştəri kimi.
 
 O gülgün şərab ki dilbərdən dilbər,
 Dünyadan dünyaca qaldırmış kədər.
 
-Hamının keyfı saz, səsləri yumşaq,
+Hamının keyfi saz, səsləri yumşaq,
 Yalnız saz kəskindir ötsə də şaqraq.
 
 Orda bişmiş idi yoldaşlar tamam,
@@ -220,7 +217,7 @@ Kimdir həyatından belə kam alan?
 Küpləri boşaltdı gündüzə qədər.
 
 Elə ki gündüzün yarısı keçdi,
-Fələk də kürənin nisfıni biçdi.
+Fələk də kürənin nisfini biçdi.
 
 İskəndər əmr etdi xəzinaədara:
 “Xoş gəldin” edilsin bu qonaqlara!
@@ -253,9 +250,9 @@ Nüşabə geyindi şahanə xələt,
 Necə ki, Günəşdən Ay alır zinət.
 
 Yenidən əmr etdi böyük İskəndər:
-“Hədiyyə alsın hər pəriüz dilbər! ”
+“Hədiyyə alsın hər pəriüz dilbər!”
 
-Verildi adma görə hədiyyə,
+Verildi adına görə hədiyyə,
 Burda geysin deyə, aparsın deyə.
 
 O qədər yükləndi hər gözəl pəri,

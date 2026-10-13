@@ -6,14 +6,14 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
 status: DRAFT
 ---
 “Anaram Tanrını, Haqq qüdrətini,
-Toıpaqdan yaradır hər göyərtini,
+Torpaqdan yaradır hər göyərtini,
 
 Bu uca göylərə ülviyyət saçan,
 Ağıllı kimsənin gözünü açan,
@@ -61,7 +61,7 @@ Bəxşişi bol olan bu Pərvərdigar
 Əcəbmi məni də etsə tacidar?
 
 Söylə, ey şəhriyar, ey bəxti uca,
-Anandan çatdmmı bu taxta, taca?
+Anandan çatdınmı bu taxta, taca?
 
 Sənə də şahlığı vermiş Yaradan,
 Hər verən şeylərə baxma ucadan,
@@ -73,170 +73,168 @@ Dünyada sərxoş da, huşyar da olsan,
 Əmrindən boynunu qaçırma bir an.
 
 Pənahım olursa o Pərvərdigar,
-««Scgäfi <pl£&SK *> »
-
 Əcəbmi məni də etsə tacidar?
+
 Böyüklük etməyi bacarram mən də,
-
 Qılınc oynadaram aslan önündə.
+
 Qılıncla təxtü tac ala bilərəm,
-
 Ayı da kəməndə sala bilərəm.
+
 Cəmşid tarixini oxu bir daha,
+O ayı gör necə uddu əjdaha.
 
-O ayı gör necə uddu əjdaha. 137
 Haman əjdahaya sonra Firidun
+Əjdaha gücüylə açdı nə oyun?!
 
-Əjdaha gücüylə açdı nə oyun?! 138
 And olsun yer-göyü quran Tanrıya
-
 Ki, ondan bu yer-göy almışdır maya.
+
 Tanrıdan bir kimsə tutmasa xəbər,
-
 Demək, yox başında şüurdan əsər.
+
 And olsun keçmişin rəhbərlərinə,
-
 Bizim dinimizin Peyğəmbərinə,
+
 And olsun İbrahim qoyan sühüfə,
-
 O dinçin Tanrıya şükür min dəfə.
+
 O İran xalqına əl taparsam mən,
-
 Silərəm Zərdüştün dinini yerdən.
+
 Nə atəş qoyaram, nə atəşgədə,
-
 Odlar da şölədən yanar bu dərdə.
+
 Bu gözəl mərasim, bu ayin, bu yol,
-
 Ulu babalardan qalmış, əmin ol!
+
 Bu müşkün qoxusu duyulmamaqçin,
-
 Onu çör-çöp ilə gizlətmək neçin?
+
 Xurma ağacına kəməndi atan,
-
 Əlbəttə, yeyəcək xurmanı asan.
+
 O gülün bostanda başı yüksəlir
-
 Ki, gözəl rəngi var, həm saçır ətir.
+
 Bilsə ki, mərdliyi, qol qüvvəti var,
-
 O zaman başını maral dik tutar.
+
 Aslanlar içində odur ən vəhşi:
-
 Pəncəsi itidir, kəskindir dişi.
+
 Bir maral budu var, iki ac aslan,
-
 Kababı kim yeyər? Ən güclü olan!
+
 İki fil xortumu çarpışır, demək,
-
 Bunlardan ən güclü üstün gələcək.
+
 Mən meydan əriyəm, sən də bir kişi,
-
 Meydanda seçilir hər mərdin işi.
+
 Bu yoldan o zaman çəkərəm yüyən,
-
 Ya külah qaparam, ya ölərəm mən.
+
 Sandın səndən başqa yoxdur bir nəfər,
-
 Ancaq bir sənsənmiş dünyada sərvər?!
+
 Hər yarpaq altında təlaş edən var,
-
 Hər mənzil başına bir yol gedən var.
+
 Bu müdhiş ilanla şətrənc oynama,
-
 Qarşı çıx, hiyləylə bunca qaynama!
+
 Öz mülkümdən mənə iqta göstərmə,
+Süheylə baratı Yəməndən vermə!
 
-Süheylə baratı Yəməndən vermə! 139
 Qoyuna verilməz dələmə suyu,
-
 Onda öz qanı var, görəcək bunu.
+
 Qürurla bu qədər olma gərdənkəş,
-
 Torpaqdan yarandın, deyilsən atəş.
+
 Gəl burax bu kini, islaha yanaş,
-
 Qalaydan pozulur almaz kimi daş.
+
 Bir qab şərabın var, saxla can-başla,
-
 Sındırarsan onu, çarpışma daşla.
+
 Unutma, neft ilə doludur cahan,
-
 Söyüdü qoru bu odlu tufandan.
+
 Xoş keçdi, ələ al nuş ilə eyşi,
-
 Xəracla cahanda şəxsin nə işi!
+
 Biri yoxsuldan bağ əsirgəməmiş,
-
 O biri verməmiş bağından yemiş.
+
 Get, elə bir ov tap zəifdir məndən,
-
 Yağ çıxmaz sənə bu aslan böyründən.
+
 Heç mümkün deyilsə meyvəni dərmək,
-
 Budaqdan asılmaq nəyinə gərək.
+
 O zaman arzuna yetişərsən sən,
-
 Körpü sala bilsən böyük dənizdən.
+
 Bir düşün, bu qədər qürur nə gərək!
-
 Bəsləyirsən əbəs baş tutmaz dilək.
+
 Bax, gənclik nə yola çəkdi Bəhməni,
-
 Qorx bu əjdahadan ki, dişlər səni!
+
 Yolunu div vurar İsfəndiyartək,
-
 Rüstəmlə döyüşə çıxasan gərək!
+
 Divlərlə oturub-dursa Süleyman,
+Qalmaz barmağında üzüyü, inan!
 
-Qalmaz barmağında üzüyü, inan! 140
 Çalış bu dünyada səhv eyləmə sən,
-
 Çox bizim kimilər yanmış səhvindən.
+
 Özünə verdiyin hesab düz deyil,
-
 Bu yanlış oyunu uduzdun, çəkil!
+
 Nədir bu xam xəyal, bu xam tərpəniş?
-
 Simurğu toruna kim sala bilmiş?
+
 Zəncidən deyilsən daha adamcıl,
-
 Bərbərdən igidmi çıxdın sən, ayıl!
+
 Kin ilə döyüşə başlayınca mən
-
 Nə qədər qan tökdüm zənci, bərbərdən.
+
 Qayıt bu kinindən artıq, yetişər,
-
 İnsanı incitməz azad kişilər.
+
 Öncə sən bağladın kin mənə qarşı,
-
 İlk səndən göründü ilanın başı.
-Ordunu sazladm qan içsin deyə,
 
+Ordunu sazladın qan içsin deyə,
 Üstümə gəlirsən basqın etməyə.
+
 Ölkəmə salırsan min fitnə, min kin,
-
 Atamın mülkünü almaqdır fikrin.
+
 Mənə də gərəkdir yığaraq əsgər
-
 Belimə bağlayım hərb üçün kəmər,
+
 Ordumla bu dərin dənizdən aşmaq,
-
 Qılıncımla bir qan dənizi açmaq.
+
 Sanma mən sərxoşam, sən ayıq, huşyar,
-
 Mənim də başımda ağlım, huşum var.
+
 Taleyin gününü edibsə parlaq,
-
 Mən də xoşbəxtlikdən deyiləm uzaq.
+
 Sənə iş vermişsə köhnə ruzigar,
-
 O işdə mənim də məharətim var.
+
 Səndə tac vardırsa, məndə qılınc var!
-
 Güvənmə taxtına sən, ey tacidar!
-Hər taxtın önündə bir də tabut var,
 
+Hər taxtın önündə bir də tabut var,
 Güvənmə ki, dağlar çəkmiş daş hasar,
 Elə zənn etmə ki, qırılmaz daşlar.
 
@@ -247,7 +245,7 @@ Bu dünya mülkünün gəlincə sonu
 Asanca mənimsər axtaran onu.
 
 Çıxarkən bir sənlik, mənlik ortaya,
-Ah, necə doymasın cana bu dünya?! 141
+Ah, necə doymasın cana bu dünya?!
 
 Bilirəm, bax, budur fikrinin canı:
 Tutmaz bir tərəzi iki batmanı.
@@ -290,5 +288,3 @@ Dəhşətdən, vəhşətdən titrədi dağlar,
 
 Çarpışan şahlardan əsər axtarsan,
 İndi də o yerdə sümük taparsan.
-
-139 &L£&SK>*a

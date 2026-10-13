@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -22,120 +22,117 @@ Soyumuş qanıma hərarət versin,
 Ruzgardan seçilmiş gözəl, şən gündə.
 
 Şaha Çin xaqanı gəlmişdi qonaq,
-««w
-
 İki parlaq günəş bir oturaraq,
+
 Zəncidən, Yunandan, Çindən, İrandan,
-
 Qonaqlar səf çəkmiş hər iki yandan.
-Məclisin üz-gözü mey ilə şəndi.
 
+Məclisin üz-gözü mey ilə şəndi,
 Dünyanın çöhrəsi tozsuz gülşəndi.
+
 İçki şənliyində gövhərdən dalğa,
-
 Söyləyən dodaqdan axır qulağa.
+
 İş bilən kəslərdən açıldı söhbət:
-
 Dünyada bilikcə kim tapmış şöhrət?
+
 Dəyərli şey çıxar hansı torpaqdan?
-
 Sənətcə dünyada kim almış ad-san?
+
 Birisi söylədi: “Cadu və hiylə
-
 Hindlidən baş verir, baxsan diqqətlə”.
+
 O biri söylədi: “Bəxti yatanlar
-
 Hər sayaq cadunu Babildən alar”.
+
 Başqası söylədi: “Verir ən şaqraq
-
 Xanəndə Xorasan, çalğıçı İraq”.
+
 Birisi söylədi: “Yüksəkdir, əlbət,
-
 Ərəbin dilində olan fəsahət”.
+
 Birisi dedi: “Rum nəqqaşı, əlbət,
-
 Dünyada qazanmış böyük bir şöhrət”.
+
 O biri söylədi: “Görmədin, nədir,
-
 Çin naxşı dillərdə bir əfsanədir”.
+
 Deyişmə coşdurdu Rum ilə Çini,
-
 Yenməyə başladı biri-birini.
+
 Hər biri fikrini isbat edərək
-
 Naxış pərgarından göstərdi örnək.
+
 Deyişmə sonunda verildi qərar,
-
 İki qaş tağıtək bir tağ qursunlar!
+
 Bu tağa hər iki qaş arasından
-
 Bir örtü çəkilsin müəyyən zaman.
+
 Rumlu bir guşədə sənətə dursun,
-
 Çinli bir bucaqda naxışlar vursun.
+
 Müəyyən saatlar gəlməmiş başa
-
 Baxmasın heç biri digər naxışa,
+
 Yalnız bu iş sona vardığı zaman
-
 Qalxsın bu asılı pərdə ortadan.
-Görsünlər bu iki incə naxışdan.
 
+Görsünlər bu iki incə naxışdan,
 Hansıdır ən təzə, incəlik saçan!
+
 Ustalar oturdu bir nəqqaş kimi,
-
 İki tağ altında iki qaş kimi.
+
 Axıra yetincə müəyyən zaman
-
 Örtüyü çəkdilər iki naxışdan.
+
 Hər iki “Ərjəng”in birdi peykəri,
-
 Vurduğu naxışı, rəngi, zivəri.
+
 Onlara baxınca heyrətdə qaldı,
-
 Hər iki surətdən bir ibrət aldı.
+
 Nə sayaq çəkmişlər iki peykəri,
-
 Surətcə birindən seçilməz biri?
+
 Oturdu şah iki tağ arasına,
-
 Heyrətlə bir ona baxdı, bir buna.
+
 Seçmədi onları biri-birindən,
-
 Tutmadı bir xəbər gizli sirindən.
+
 Nə qədər diqqətlə eylədi nəzər,
-
 İşin içüzündən tutmadı xəbər.
+
 Arada incə bir fərq vardı, biri
-
 Surəti göstərir, alır o biri.
-Bəlinas baxdıqda işki surətə,
 
+Bəlinas baxdıqda içki surətə,
 Əsrarlı sənətdən düşdü heyrətə.
+
 Çalışdı, ortaya çıxsın həqiqət,
-
 Naxışdan keçirdi ələ bir hikmət,
+
 Əmr etdi, durmadan əsrar öyrənən
-
 Ortaya bir pərdə çəksin yenidən.
+
 Elə ki, ortadan asıldı pərdə,
-
 Biri zövqə daldı, o biri dərdə.
+
 Rumlunun lövhəsi parladı yenə,
-
 Pas düşdü çinlinin saf güzgüsünə.
+
 Naxışsız qalınca çinlinin tağı,
-
 Padşahın gül kimi açdı yanağı,
+
 Pərdəni aradan bir də çəkdilər,
-
 Göründü hər iki tağda bir peykər.
+
 Bildi ki, o parlaq naxışlı tağa
-
 Hər naxış əks edir başdan ayağa.
-Yan-yana işlərkən iki sənətkar,
 
-297 Ofs>©5»~
+Yan-yana işlərkən iki sənətkar,
 Arada pərdədən çəkmişdi hasar.
 
 Rumlu bir lövhəni çəkirmiş gözəl,
@@ -144,13 +141,13 @@ Rumlu bir lövhəni çəkirmiş gözəl,
 Parlarkən çinlinin vurduğu naxış
 Rumlunun şəklindən əksi alırmış.
 
-Yarışm sonunda qərar verdilər:
+Yarışın sonunda qərar verdilər:
 Hər iki sənətkar göstərmiş hünər.
 
 Rumluya çatmaz bu, naxış tökməkdə,
 Çinli də üstündür siqəl çəkməkdə.
 
-Eşitdim, olmaqçm Çinə peyğəmbər,
+Eşitdim, olmaqçın Çinə peyğəmbər,
 Reydən Çinə getdi Mani surətgər.
 
 Elə ki, bu xəbər yayıldı Çinə,
@@ -189,11 +186,11 @@ Baş əyən qələmlə əl işlədərək,
 Cəmdəyə hər yandan daraşmış qurdlar,
 Görüncə susuzun ürəyi çatlar.
 
-Hovuza susuzlar edərkən axm,
+Hovuza susuzlar edərkən axın,
 Ölü it görüncə getməsin yaxın.
 
 Sürətlə yayıldı Çinə bu xəbər,
-“Uzaqlaş” naxşmı vurdu surətgər.
+“Uzaqlaş” naxşını vurdu surətgər.
 
 Gördülər mahirdir, onda sehr var,
 Maniyə, “Ərjəng”ə sığındı onlar.
@@ -219,7 +216,7 @@ Ona hörmət ilə söylədi xaqan:
 Hər yerə üz qoysan bu taleyinlə,
 Ayaq basdığın yer hər kəsə qiblə.
 
-Atmı hər yerə çapsa hökmıiran
+Atını hər yerə çapsa hökmüran
 Borcumuz qulluqdur ona hər zaman”.
 
 Çox heyrət etdi şah bu ayıqlığa,
@@ -231,7 +228,7 @@ Ondakı vəfaya və sayıqlığa,
 Ürəklə xidmətə başladı xaqan,
 Şahın xidmətində durdu hər zaman.
 
-Şah üçün dəyərli bəxşiş gətirdi.
+Şah üçün dəyərli bəxşiş gətirdi,
 Bununla başını Aya yetirdi.
 
 Hörmətlə tutduqca onu hökmüran,
@@ -249,11 +246,11 @@ Neysandan nə şərəf almışsa sədəf,
 Bağdadda və Rumda nəfis görünən,
 Hər çeşid qiymətli o geyimlərdən,
 
-Verdi Çin şahma elə bir dəcgah,
+Verdi Çin şahına elə bir dəcgah,
 Onu görməmişdi heç bir padişah,
 
 Şahanə bəxşişlər doyurdu Çini,
-Çinlinin alnından açddı çini.
+Çinlinin alnından açıldı çini.
 
 Qalmadı o böyük Çində bir nəfər
 Geyməsin xəz, atlaz, zərif geyimlər.

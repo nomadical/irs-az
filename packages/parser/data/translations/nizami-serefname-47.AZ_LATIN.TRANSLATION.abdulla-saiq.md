@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -27,7 +27,7 @@ Dinləməz kimsəni, baxmaz fərmanə.
 Çıraqdan işıq ver, ev işıqlansın,
 Hər iki pərvanə atəşdə yansın.
 
-Bu yaşıl bağçaya verən yaraşıq.
+Bu yaşıl bağçaya verən yaraşıq,
 Çıraqdan parladır belə bir işıq:
 
 Feyləqusun oğlu böyük İskəndər,
@@ -45,16 +45,16 @@ Dan yeri yaqutdan şəfəq saçanda,
 İskəndər yenə də ata minərək
 Yel kimi tərpəndi, oldu bir şimşək.
 
-Ceyhun sahiliylə atmı saldı.
+Ceyhun sahiliylə atını saldı,
 Oradan Xarəzmə doğru yol aldı.
 
 Arxada ordusu dəniztək axır,
-Çöllərin hesabı barmağmdadır.
+Çöllərin hesabı barmağındadır.
 
 Xarəzmin çölünü ölçərək biçdi,
 Ceyhuna gələrək, Amuldan keçdi.
 
-Aləmi qurtarmaq fıkriylə rusdan,
+Aləmi qurtarmaq fikriylə rusdan,
 Suda və quruda durmadı bir an.
 
 Yeməyib, yatmayıb, hey sürürdü at,
@@ -174,7 +174,7 @@ Tilsimi hər qadın gördüyü zaman,
 Bu şərtlə, padişah qalsın mənimlə,
 İstədiyim şeyi gətirsin ələ”.
 
-Gərəkli şeyləri yaxşı-yamandan.
+Gərəkli şeyləri yaxşı-yamandan,
 Güc ilə, qızılla tapdı hökmüran.
 
 Bəlinas güvəndi bəxtiyarlığa,
@@ -183,7 +183,7 @@ Tədbirlə başladı sənətkarlığa.
 Qara daşdan qurdu gözəl nazənin,
 Dikəltdi bir yeni ayinli gəlin.
 
-Ağ mərmər çadrası heykəl daşında.
+Ağ mərmər çadrası heykəl daşında,
 Səmən yarpağıydı bidmişk başında.
 
 Hər qadın keçirkən gördüyü zaman
@@ -237,10 +237,10 @@ Pir deyib, başını səcdəyə qoyar.
 Hər atlı, piyada o yoldan gedir,
 Heykələ pir deyə, pərəstiş edir.
 
-Atmı sürərkən daşa, pir deyə,
+Atını sürərkən daşa, pir deyə,
 Edir oxluğundan bir ox hədiyyə.
 
-Çobanlar sürüylə keçərkən ordan.
+Çobanlar sürüylə keçərkən ordan,
 Verər o heykələ bir qoyun qurban.
 
 Qartallar ucadan edərkən pərvaz,

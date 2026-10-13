@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -36,7 +36,7 @@ Bağın qapısını bağladı bağban.
 Şahlar hovuzuna axan saf sular
 Soyuqdan, ayazdan tamam dondular.
 
-Çeşməsiz, çiçəksiz bağ şad olarını?
+Çeşməsiz, çiçəksiz bağ şad olarmı?
 Hasarsız, barısız abad olarmı?
 
 Hanı saqi, badə, o məclis hanı?
@@ -60,7 +60,7 @@ Bəzəksiz, cəh-cəhsiz qalıb bağ yenə.
 Belə sərt bir xəzan çökəndə bağa
 Başladı o Kəyan sərvi solmağa...
 
-Şahlıqm şah sərvi-İskəndəri də
+Şahlıqın şah sərvi-İskəndəri də
 Axır saldı dövran sağalmaz dərdə.
 
 Çovğuntək soyutdu şahın nəfəsi,
@@ -69,7 +69,7 @@ Axır saldı dövran sağalmaz dərdə.
 Özülü çökərsə bəxtin, dövlətin,
 Səhhətə zəiflik üz verər yəqin!
 
-illərlə dünyanı uçub seyr edən
+İllərlə dünyanı uçub seyr edən
 Quşun qol-qanadı qırıldı birdən.
 
 Uca sərv yıxıldı, şux lalə soldu,
@@ -94,7 +94,7 @@ Tədbirlə gəlmədi o gövhər ələ,
 Necə sədd çəkəsən əsən bir yelə?
 
 Əcəl yetişəndə tapıb bəhanə
-insana min əzab verər zəmanə.
+İnsana min əzab verər zəmanə.
 
 Ruzgardan o qədər inciyər insan
 Özü ölümünü istər allahdan.
@@ -105,11 +105,11 @@ Rəylərdən bir fayda hasil olmadı.
 Çırağın əcəli çatıbsa əgər,
 Ona öz yağı da yetirər zərər.
 
-Çürümüş bir meyvə ağacda dunnaz,
+Çürümüş bir meyvə ağacda durmaz,
 Düşəcək, tərpənsə budaqda bir az.
 
 Ən mahir, ən ustad təbib heç zaman
-Tapa bilməmişdir ölümə dənnan.
+Tapa bilməmişdir ölümə dərman.
 
 Göyün hesabına bələd olanlar
 Saldılar hesaba göydə hər nə var.
@@ -118,7 +118,7 @@ Onun taleyini gördülər nursuz,
 Ondan uzaqdaydı bəxt açan ulduz.
 
 Heç elə bir ulduz yoxdu ki, onun
-Göstənniş olaydı ömrünü uzun.
+Göstərmiş olaydı ömrünü uzun.
 
 Taleyi səmada bəd görən zaman
 Münəccim özü də əsdi qorxudan.
@@ -145,9 +145,9 @@ Köçmək vaxtı gəldi bu düşərgədən,
 Başqa bir ovlağa getməliyəm mən.
 
 Bu fələk mənimlə xoşrəftar oldu,
-Dağda, daşda mənə pərəstar oldu,
+Dağda, daşda mənə pərəstar oldu.
 
-indi düşmən oldu o haqq-sayda,
+İndi düşmən oldu o haqq-sayda,
 Dəyişdi rəftarı Günəş də, Ay da.
 
 Ruzgar gözlərimdə çənə bürünür,
@@ -160,7 +160,7 @@ Hardadır, çatdırın xəzinədara,
 Bəlkə rüşvət verib məni qurtara.
 
 Mənim od qılınclı qoşunum hanı?
-öovsun canımdakı bu qızdırmanı.
+Qovsun canımdakı bu qızdırmanı.
 
 Ən qorxunc divləri tutub ram edən,
 Təxti-tac sahibi İskəndərəm mən!
@@ -192,7 +192,7 @@ Dünyanı mənimtək seyr edə bilməz.
 Hökmüdar Daraya qarşı çıxıb mən
 Başını torpağa sərdim bəxtimdən.
 
-Mən o qatil Fıırun boynunu vurdum,
+Mən o qatil Furun boynunu vurdum,
 Çipalın yerində Çində oturdum,
 
 Qabildən, Habildən alıb intiqam,
@@ -229,9 +229,9 @@ Mən hansı bir yerə etdimsə səfər
 Ədalətlə bilik qazandı ellər.
 
 Sarp daşı əridən isti havalar
-Sağlam bədənimlə etdi xoş rəftar,
+Sağlam bədənimlə etdi xoş rəftar.
 
-indisə bu pərqu yataqda bitab
+İndisə bu pərqu yataqda bitab
 Yatıram, xəstəlik verir min əzab.
 
 Balınca baş qoydum zəifliyimdən,
@@ -243,10 +243,10 @@ Qara qumdan tutmuş qara suyadək.
 "Nə gördün?" deyərək sorsalar əgər,
 Deyərəm: sanki heç etmədim səfər.
 
-Dünyanı gönnədən torpağa girən
+Dünyanı görmədən torpağa girən
 Birgünlük körpəyə bənzəyirəm mən.
 
-Dünyanı başabaş gəzmişəm özüm.
+Dünyanı başabaş gəzmişəm özüm,
 Hələ ki, dünyadan doymayıb gözüm...
 
 Otuz altı deyil, lap otuz min il
@@ -276,14 +276,14 @@ Dərin düşüncəli yüzlərcə həkim?
 Torpağı qızıla çevirin yenə,
 Gəlin, əlac edin şahın dərdinə.
 
-Hardadır Ərəstu - tapa bir dənnan,
+Hardadır Ərəstu - tapa bir dərman,
 Məni biliyilə qurtara dardan?
 
 Hanı əfsun bilən həkim Bəlinas?
 Gəlib İskəndəri eləyə xilas.
 
 Hanı bəs Əflatun, o təmiz insan?
-Mənim bu dərdimə eləyə dənnan.
+Mənim bu dərdimə eləyə dərman.
 
 Hardadır o böyük bilici Valis?
 Desin bu mərəzə nə oldu bais.
@@ -291,7 +291,7 @@ Desin bu mərəzə nə oldu bais.
 Çağırın Sokratı, bəlkə əql ilə
 Bu bağlı qapını o aça bilə.
 
-Hiinnüzə göndərin dumadan xəbər.
+Hürmüzə göndərin durmadan xəbər.
 Bəlkə ürək verə şaha birtəhər.
 
 Gedin, Fərfuryusu edin xəbərdar,
@@ -309,7 +309,7 @@ Heç kəs tək qalmasın məntək dünyada!
 Mənə belə cəza verərkən fələk,
 Nə lazım səs salıb fəryad eləmək?
 
-içindən çıxdığım torpağın yenə
+İçindən çıxdığım torpağın yenə
 Axtarıb baş qoyum pak sinəsinə.
 
 Ölüm girdabına düşməmiş, gərək
@@ -334,12 +334,12 @@ Nifrətə layiqdir bu qozbel dayə.
 Görən də olubdur əlimdən sitəm.
 
 Zalim olmuşamsa, əfv edin məni,
-Mən də öldiinnüşəm çox zülm edəni!
+Mən də öldürmüşəm çox zülm edəni!
 
 Tabutum torpağa olanda təslim,
 Pak ruhum paklara qovuşar mənim.
 
-Başa kül sovunnaq əvəzində siz
+Başa kül sovurmaq əvəzində siz
 Mənimçün allaha dua ediniz!.."
 
 Bunları söyləyib, almadı cavab,

@@ -6,13 +6,13 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
-Xudaya! Gilimiz mayələnincən
+Xudaya! Gilimiz mayələnirkən
 Bir vəsiqə yazdın o gün bizə sən.
 
 Sənin xidmətində buyurdun, duraq,
@@ -25,15 +25,15 @@ Yerə, göyə sığmaz qüdrətinlə sən
 Zəif qullarını məhv edərmisən?!
 
 Bizi cəsarətli etmişdir sənin
-Ümid etdiyimiz bol Kərəmlərin.
+Ümid etdiyimiz bol kərəmlərin.
 
-Yoxsa nə torpağıq, cürət edərəx,
+Yoxsa nə torpağıq, cürət edərək,
 Sənin divarından rəng poza bilək?
 
 Bizə özümüzü unutmaq üçün
-Komək et Kİ, olaq sənin xidmətçin,
+Kömək et ki, olaq sənin xidmətçin.
 
-izzət sarayına layiq görünən
+İzzət sarayına layiq görünən
 Bir xidməti ummaq olarmı bizdən?
 
 Adımız bəndədir, qulunuq, əlbət,
@@ -45,7 +45,7 @@ Kim sənin əmrini rədd edə bilər?
 Bir ovuc torpaqdan sən razı qalsan,
 Sən ziyan görməzsən, qazanar insan.
 
-Aciz qalan zaman səni çağırsaq.
+Aciz qalan zaman səni çağırsaq,
 Mərhəmət gözüylə qullarına bax!
 
 Vəfanla əfv eylə bizi sən özün,
@@ -54,46 +54,46 @@ Kərəm et, qoy sənin üzün görünsün.
 Düşüncəm sən verən bir dürdanədir.
 Könlüm çırağına bir pərvanədir.
 
-Əvvəlcə torpaqdan yaratdın məni.
+Əvvəlcə torpaqdan yaratdın məni,
 Sonra fəzilətlə ucaltdın məni.
 
 Üzümü parlatdın, gözümə nur saç,
-Neməti bəxş etdin, şüxr dilimi aç!
+Neməti bəxş etdin, şükr dilimi aç!
 
 Səbr versən mənə, pis günə dözüm,
 Qoyma xoş günümdə unudum, özün.
 
 Öz hikmətlərini göstər mənə sən,
-Qəflət pərdəsini qaldır önümdən.
+Qəflət pərdəsini qaldır önümdən,
 
 Hər zaman fikrimin sən ol rəhbəri,
 Verdiyini alma sonralar geri,
 
-Günahım həddindən çoxdur, bilirəm.
-Xəcalət çəkməkiə onu silirəm.
+Günahım həddindən çoxdur, bilirəm,
+Xəcalət çəkməklə onu silirəm.
 
-Bu söylədiyimdə nə Kİ səhvim var,
+Bu söylədiyimdə nə ki səhvim var,
 Üstünə qələm çək, ey pərvərdigar!
 
-Yetmiş İKİ iz var yolumda müşkül,
-Yetmiş biri tucan, ancaq biri gül,
+Yetmiş iki iz var yolumda müşkül,
+Yetmiş biri tikan, ancaq biri gül.
 
-inam cilovunu çək doğru yola,
+İnam cilovunu çək doğru yola,
 Qoyma çıxsın yoldan sağa, ya sola.
 
 Hər tanış naxışda gəzdiyim sənsən,
 Hər sözdə, söhbətdə sezdiyim sənsən,
 
-Sənin sərkərdanm olmuşam belə
+Sənin sərkərdanın olmuşam belə
 Ki, əl verrəm hər əhlə, naəhlə,
 
-Xidmətin əzmiylə atıram addım.
+Xidmətin əzmiylə atıram addım,
 Yol azsam, özün bir yol göstər, tanrım!
 
 Kəbəyə gəlməkdir mənim niyyətim,
 Əgər çöldə ölsəm daha nə edim?
 
-Yaxşılıq, yamanlıq, üz versə hər nə.
+Yaxşılıq, yamanlıq, üz versə hər nə,
 Kərəm səninkidir, qalan bəhanə.
 
 Ayağını qırıb, sevdim birini,
@@ -102,11 +102,11 @@ Qanad verib qovdun sən digərini.
 Bilmirəm hansına yaxın insanam,
 Məhrumlardanam, ya məğbullardanam?
 
-Bütpərəst də olsam, dindar da olsam.
+Bütpərəst də olsam, dindar da olsam,
 Mən sənin əfvinə möhtacam müdam.
 
 Öz fəzilətinlə mənə sən tut əl,
-işimə müvafiq cəza vermə gəl!
+İşimə müvafiq cəza vermə gəl!
 
 Mənim əməlimdə hanı o qüdrət
 Sənin fəzlin ilə edə rəqabət?
@@ -115,30 +115,30 @@ Sənin fəzlin ilə edə rəqabət?
 Məni əzizləsən, yerində olar.
 
 Xidmətində məni sevindir, ancaq
-Qoyma başqasından Kəramət umaq.
+Qoyma başqasından kəramət umaq.
 
-İstərəm ya versən, ya da Kİ, alsan.
-Elə olum Kİ, sən razı qalasan.
+İstərəm ya versən, ya da ki, alsan.
+Elə olum ki, sən razı qalasan.
 
 Bu dünya işindən fariq et məni,
 Öldüm, eyləyərsən özün biləni.
 
 Öz gücümə görə yük ver aparım.
-O qədər Kİ, dözsün bu ayaqlarım.
+O qədər ki, dözsün bu ayaqlarım.
 
 Nur ver çırağıma feyzindən, ancaq
 Kandarından başım olmasın uzaq.
 
-Bu sərxoş Könlümü ayılt, huşyar et!
+Bu sərxoş könlümü ayılt, huşyar et!
 Qəflət yuxusundan məni bidar et!
 
-Gələndə son yuxu, bitəndə tabım.
+Gələndə son yuxu, bitəndə tabım,
 Güllərim tökülsə, qalsın gülabım.
 
-Dilimə sən özün bəxş et şəhadət.
+Dilimə sən özün bəxş et şəhadət,
 İşimin sonunda tapım səadət.
 
-Vücudum parlasın qənaət ilə.
+Vücudum parlasın qənaət ilə,
 Məcazım sağalsın itaət ilə.
 
 Bu dərdli başıma lütf et, şəfa ver!

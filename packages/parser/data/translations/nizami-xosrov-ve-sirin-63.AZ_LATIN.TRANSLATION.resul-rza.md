@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -15,23 +15,23 @@ status: DRAFT
 Məktubu açaraq şah oxuyarkən
 O şirin sözlərdən oldu çox heyran,
 
-Dedi: "Bu hərb deyil, cavabdır mənə.
+Dedi: "Bu hərb deyil, cavabdır mənə,
 Kəsək atdığın kəs daş atar sənə.
 
-Mənim məktubuma cavabdır açıq.
+Mənim məktubuma cavabdır açıq,
 Lazım olan sözü eşitdim artıq."
 
 Yenidən Şirindən istədi şəkər,
 Çünki qalmamışdı milçəkdən əsər.
 
-Məryəm öldü, samci parladı gündüz,
+Məryəm öldü, sanki parladı gündüz,
 Xurma tumsuz oldu, şam da tüstüsüz.
 
-Elə Kİ, bəzmdən əl üzdü Məryəm
-"Məryəm bəzmi" Kimi şah oldu xürrəm.
+Elə ki, bəzmdən əl üzdü Məryəm
+"Məryəm bəzmi" kimi şah oldu xürrəm.
 
 Düşmən olmayanda işlər düz gedər,
-Bir içim su içsən Kifayət edər.
+Bir içim su içsən kifayət edər.
 
 Yağlı söz göndərdi Şirinə sovqat,
 Düşündü: yumşalar yağla o polad.
@@ -42,8 +42,8 @@ Xəstələrtək qəbul etdi dərmanı.
 Düşünürdü: Xosrov gözləyər ədəb,
 Onu yaxşılıqla eyləyər tələb.
 
-Şah adam göndərib Kəsdirər Kəbin,
-Gəlin Kimi gedər saraya Şirin.
+Şah adam göndərib kəsdirər kəbin,
+Gəlin kimi gedər saraya Şirin.
 
 Hiddətə gəlirdi bu işdən bir az,
 Acıqlanıb, sonra eyləyirdi naz.
@@ -57,19 +57,19 @@ Göz olmasa, şama olmaz ehtiyac.
 Sənə fayda verər, bu fikri atma,
 Müştəri olmasa, malını satma.
 
-Dükanı bağlama alıcı vancən,
+Dükanı bağlama alıcı varkən,
 Bəxtin mənfəəti bundadır, bil sən.
 
 Təsir eləmirdi Şirinə hiylə,
-Nazı azalmırdı Шk qədər belə.
+Nazı azalmırdı tük qədər belə.
 
 O nazdan, qəmzədən yorularaq şah,
-Bir başqa çarəyə gətirdi pənah,
+Bir başqa çarəyə gətirdi pənah.
 
-istədi yar tapsın özünə bir gün,
+İstədi yar tapsın özünə bir gün,
 Çolaq eşşəyini o yorğa sürsün.
 
-Yenidən qurşansın təzə bir işə.
+Yenidən qurşansın təzə bir işə,
 Bir başqa şey tapsın özünə peşə.
 
 Çox soraq edirdi, gəzirdi müdam.

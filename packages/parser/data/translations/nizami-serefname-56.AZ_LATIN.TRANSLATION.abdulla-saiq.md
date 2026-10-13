@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -21,7 +21,7 @@ Mənə də rəng verir şərabın rəngi.
 Səhərin ordusu ələm çəkincə,
 Gecənin hərfinə qələm çəkincə
 
-Dünyanı parladan Günəş nurundan.
+Dünyanı parladan Günəş nurundan,
 Sövda qucağında ayıldı cahan.
 
 Bağırdı dan quşu kəskin ötərək,
@@ -49,64 +49,61 @@ O geniş çöllərdə böyük tacidar
 Ordudan dağ kimi çəkdi bir hasar.
 
 Bərkitdi hasarın sağ-sol qolunu,
-c «xrçssı
-
 Poladla tozun da kəsdi yolunu.
+
 Qürurla ruslar da o biri yandan
-
 Ordunu sazladı, bəzəndi meydan.
-Rusların canları kinlə gurlayır.
 
+Rusların canları kinlə gurlayır,
 İntiqam odundan beyin qaynayır.
+
 Nizənin, qılıncın şimşəklərindən
-
 Başdan ağıl çıxır, əllərdən yüyən.
+
 Dağların beynini süpürmüş yaylar,
-
 Ordular üstündə oxlar vıyıldar.
+
 Baş, boyun qoparan polad toppuzdan
-
 Beyinlər tökülür qanlı ağızdan.
+
 Fil yıxan mızraqlar dolunca kinə,
-
 Donunu çərx atdı Nilin küpünə.
+
 O çibin qanadlı incə qılınclar
-
 Qartal qanadını qüvvətdən salar.
+
 Çevrilmiş tas kimi iti süngülər
-
 Qotazın üstünə bir tas qan tökər,
+
 Atların dırnağı əqiqdi qandan,
-
 Yəhəraltılar da qandan al-əlvan.
+
 Nizələr qalxana ulduzlar düzər,
-
 Qalxandan qalxana düşər kölgələr.
+
 Dəmir, kərpiç qırmış o qədər insan,
-
 Yer üzü kəsilmiş bir məzarıstan.
+
 Baş üzən, leş, cəmdək yeyən qılınclar
-
 Çölləri qan ilə etmiş laləzar.
+
 Nizələr döşləri tikmiş iynətək,
-
 Oxlardan öyrənmiş qayçı işlətmək.
-Flər qılınc əjdaha kimi başını
 
+Hər qılınc əjdaha kimi başını
 Qınından çıxarıb, çatır qaşını.
+
 Yollarda o qədər tökülmüşdü can,
-
 Məhşər bazarına dönmüşdü meydan.
+
 Ruslar hər tərəfdə göstərir hiddət,
+Rumların başına açır qiyamət.
 
-Rumlarm başına açır qiyamət.
 Soxulmuş rum ilə rus bir-birinə,
+Bənzər ağ, qırmızı donlu gəlinə.
 
-Bənzər ağ, qımızı donlu gəlinə.
 İskəndər meydanda qızmış aslandı.
-
 O əlisilahlı bir pəhləvandı.
-««Wgj® 355
 
 Meydanda bağırır necə bir aslan,
 Zirehli fil necə oxuyur meydan.
@@ -114,11 +111,11 @@ Zirehli fil necə oxuyur meydan.
 Şah haman fil ilə aslana bənzər,
 Filin də, şirin də yolunu kəsər.
 
-Flər qılınc tutana vurunca nərə,
+Hər qılınc tutana vurunca nərə,
 Başını qılıncla salırdı yerə.
 
 Əbbasi çətritək örtərək qara,
-Burtasm tasını vurdu daşlara.
+Burtasın tasını vurdu daşlara.
 
 Üzəngi və qılınc gücüylə hər an,
 Saysız baş qopardı sağdan və soldan.
@@ -135,14 +132,14 @@ Olunca uğurlu iqbal aşikar,
 Dedi: “Dur, taleyin sənədir kömək,
 Bu qanlı meydanda sənindi dilək!”
 
-Nil kimi axdı şah öz sol-sağma,
+Nil kimi axdı şah öz sol-sağına,
 Başları fırlatdı fil ayağına.
 
 Ağzını açaraq odlu əjdaha,
 Ruslara şah basqın etdi bir daha.
 
 Padşaha üz verdi səadət, zəfər,
-Əzdilər Qmtalı, üstün gəldilər.
+Əzdilər Qıntalı, üstün gəldilər.
 
 Bu son şanlı zəfər gəlincə ələ,
 Düşməni oynatdı bir həmlə ilə.
@@ -151,15 +148,15 @@ Qaçmağa başladı basılan yağı,
 Dünya İskəndərə verdi şahlığı.
 
 Filbədən əl atdı uzun kəməndə,
-Qmtalın başını keçirdi bəndə.
+Qıntalın başını keçirdi bəndə.
 
 Ruslardan kin ilə tökdülər çox qan,
 Çox oldu tutulan, ölən, asılan.
 
-Çox can, baş itirən qırmizı ruslar
+Çox can, baş itirən qırmızı ruslar
 Qırmızı rəngini itirdi naçar.
 
-Ruslardan, Burtasm aslanlarından
+Ruslardan, Burtasın aslanlarından
 Əsir düşdü yüz min qılınc oynadan.
 
 Qalanlar yem oldu ac qılınclara,
@@ -171,7 +168,7 @@ Salamat qurtarıb geri qaçdılar.
 O qədər qənimət aldı İskəndər,
 Olmadı sayını bilən bir nəfər.
 
-Flədsiz qızıl, gümüş, xəz, inci, gövhər,
+Hədsiz qızıl, gümüş, xəz, inci, gövhər,
 Tövlələr dolusu canlı dəvələr.
 
 İskəndər düşmənə çalınca zəfər,
@@ -186,5 +183,5 @@ Mən qara torpağam, səndəndir zəfər! ”
 Dedi: “Haqq vermiş bu böyük zəfəri”,
 Yoxsula payladı xəzinələri.
 
-Dünya boşalınca kinli düşmandan,
-Dincəlmək fikrinə düşdü hökmıiran.
+Dünya boşalınca kinli düşməndən,
+Dincəlmək fikrinə düşdü hökmüran.

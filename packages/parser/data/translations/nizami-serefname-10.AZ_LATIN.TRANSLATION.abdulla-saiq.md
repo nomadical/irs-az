@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -79,7 +79,7 @@ Müxtəlif dillərdən yığdım çox sözlər,
 Bunlardan düzüldü yazdığım əsər.
 
 Saydığım dilləri ətraflı bilən,
-Şaxlar öz dilini mənə töhmətdən.
+Saxlar öz dilini mənə töhmətdən.
 
 Hansı bir pərdədə doğru söz gördüm,
 O sözün telini şeirimlə hördüm.
@@ -96,7 +96,7 @@ Bir vərəq yazmaqla bitirərdim mən.
 Dünyanı dolaşan böyük İskəndər,
 Yorulmaq bilmədən edirdi səfər.
 
-Dünyanı dolaşıb dörd yanı gəzdi.
+Dünyanı dolaşıb dörd yanı gəzdi,
 Bilmədiyi mülkü fəth eyləməzdi.
 
 Hansı bir dövlətə verdi nəhayət,
@@ -123,7 +123,7 @@ Qaranlıq içindən çıxardı gövhər.
 Sildi şurişləri köhnə dünyadan,
 Taxt aldı, tac aldı qoca Daradan.
 
-Flindin sövdasını, rus səfrasmı
+Hindin sövdasını, rus səfrasını
 Silərək parlatdı şən dünyasını.
 
 Rəyi bir güzgüdür çinlilər üçün,
@@ -135,7 +135,7 @@ Odur Keyxosrovun taxtına üstün.
 İyirmi yeddiyə çatınca yaşı
 Peyğəmbər olaraq, ucaldı başı.
 
-İskəndər o gün ki perğəmbər oldu,
+İskəndər o gün ki peyğəmbər oldu,
 Onun tarixinə naxış vuruldu.
 
 Dinə yol göstərən bir hikmət oldu,
@@ -231,7 +231,7 @@ Yerləri, yolları bu İskəndərin
 O, rübi-məskunu etdi aşikar,
 Yoxsa bu yerlərə başqa kim çatar?
 
-İskəndər hər yerə atmı çapdı,
+İskəndər hər yerə atını çapdı,
 O yerlər şənləndi, səadət tapdı.
 
 Dağlara, çöllərə tapdı min çarə,
@@ -240,7 +240,7 @@ Dağlara, çöllərə tapdı min çarə,
 Tarixdə nə varsa İskəndər şahdan, -
 Yalnız bunlar oldu işə yarayan.
 
-Artıq mən nə yazsam bu şən dastanda.
+Artıq mən nə yazsam bu şən dastanda,
 Az-çox, artıq-əskik olacaq onda.
 
 Hər tarix şeir ilə alsa yaraşıq,
@@ -276,7 +276,7 @@ Sən qaldın, qəm qaldı, sirdaşlar getdi.
 Yeddi ölkə şahı - getdi İskəndər,
 İskəndər qalmadı, qalmaz bir nəfər.
 
-Bu çayın başında tək içmə şərab.
+Bu çayın başında tək içmə şərab,
 Köhnə dostlarını sən axtarıb tap.
 
 Gəlsələr, nuş olsun, əldə qədəh tut,

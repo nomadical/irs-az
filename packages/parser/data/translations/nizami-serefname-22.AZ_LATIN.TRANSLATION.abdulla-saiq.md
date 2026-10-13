@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Abdulla Şaiq
 translatorNote: >-
   Abdulla Şaiqin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamrfnam-NizamiGncviAbdullaaiq'
 isDefault: true
@@ -18,8 +18,8 @@ Başıma o meylə atəş sal, saqi!
 Xoşdur bu məclisdə parlasın Günəş.
 Şam kimi başımda yansın bu atəş.
 
-Aqillər kam alır yaxşılıqlardan.
-Tanrı köməyinə sığmır hər an.
+Aqillər kam alır yaxşılıqlardan,
+Tanrı köməyinə sığınır hər an.
 
 Ədalət mülkündən kim üz çevirsə,
 Ona aqil deməz ağıllı kimsə.
@@ -30,7 +30,7 @@ Heyif ki, pislərlə oturur, durur.
 Ağılsız kəslərlə oturub-duran,
 Ağıldan, şüurdan deməsin dastan.
 
-Koxanm əlindən olanlar azad
+Koxanın əlindən olanlar azad
 Bu kənddə ev tikib düzəldər abad.
 
 Sən də bu yükünü boynundan atsan
@@ -69,7 +69,7 @@ Daraya hər ölkə bəslərdi nifrət,
 Bu işdən Daraya verdilər xəbər,
 Dənizdən dalğatək keçdi İskəndər.
 
-Smaqlı kəsləri çağırdı Dara,
+Sınaqlı kəsləri çağırdı Dara,
 Ağıllı başlardan istədi çara.
 
 Nə sayaq girişsin düşmənlə hərbə,
@@ -102,7 +102,7 @@ Gözəlcə bilirdi bütün keçmişi.
 Daranın taxtına etdi çox səna:
 Uğurlu məclisin yar olsun sana,
 
-Dünyada hər zaman anılsın adm,
+Dünyada hər zaman anılsın adın,
 Fələk dövr etdikcə gülsün muradın.
 
 Keçmişdə eşitdim ulu babamdan,
@@ -177,11 +177,11 @@ Parçalar, ortaqlı paltarın varsa.
 Oğlunun boyuna gəlsə paltarın,
 Məhəbbət gözləmə, gedəcək varın.
 
-Olduqca boy atsa yeni bir fidan.
+Olduqca boy atsa yeni bir fidan,
 Sərv ondan, şübhəsiz, görəcək ziyan.
 
 Yaramaz böyüklər sözündən qaçmaq,
-Ağıllı sözlərə çevirmə yaıpaq!
+Ağıllı sözlərə çevirmə yarpaq!
 
 Dünyanı təcrübə etdikcə bir-bir.
 Söylənən bu sözlər bilərsən nədir!
@@ -198,7 +198,7 @@ Ancaq söndürmədi o, qızğın kini,
 Qocanın sözündən sarsıldı bir an,
 Torpaqda qıvrıldı sanki bir ilan.
 
-Qaşları çatıldı, heyrətə gəldi.
+Qaşları çatıldı, heyrətə gəldi,
 Qəlbində kin coşdu, gözü bərəldi.
 
 Aslan kimi baxdı qocaya birbaş,
@@ -240,64 +240,61 @@ Miskinlər yanında aciz görünmək?
 Zəhərlər içinə qərq olsam, inan,
 Nəhəng qurbağadan dilənməz aman.
 
-<*ccjc'g££» 125
 Harada görünmüş aciz bir yunan
+Belə bir gəmini çıxarsın sudan?
 
-Belə bir gəmini çıxarsın sudan? 133
 Günəşin taxtını çevirə bilməz,
-
 Cəmşidin yerini o verə bilməz.
+
 İranı yıxmağa ucaltsın bayraq,
-
 Keyxosrov taxtını bacarmaz çalmaq.
+
 Kəyan şövkətini gərəkdir bilsin,
-
 Qədəminə görə irəliləsin.
+
 Nə itdir o qorxaq tülkü, saymadan
-
 Qızmış bir aslana yetirsin ziyan?!
+
 Aslan artığını tülküdür yeyən,
-
 Bulud ağlamasa gülərmi çəmən?
+
 Əliboş adamlar olarmı maldar?
-
 Hansı bir ayaqla qaçar çolaqlar?
+
 Məndədir, bilirsən, həm şövkət, həm şan,
-
 Kim deyər acizəm rumlu uşaqdan?
+
 Sərxoş qulamlara döydürrəm onu,
-
 Çobanlarım qırar onun qolunu.
+
 Bir aslan köpəkdən qorxarsa, bişəkk,
-
 Ona şıllaq atar qoca bir eşşək.
+
 Qartal bir çibini sansa əjdaha
-
 Qalxmasın düşdüyü yerdən bir daha.
+
 Qoca bir tülküdən qorxarsa aslan,
-
 Beynini oxla, dəl, heç vermə aman!
+
 Yaxında gücümü bildirrəm ona,
-
 Ataram başını ayaq altına.
+
 Kimdir bu bac verən rumlu İskəndər,
-
 Uca tacidarla olsun bərabər?
+
 Kəyan taxtı olmuş mənə müyəssər,
-
 Başımda tacım var, belimdə kəmər.
+
 Heç kəsdə hünər yox, eyləsin cürət,
-
 Babamın yurdunu almağa niyyət.
-Kəyanm külahı Kəyana yarar,
 
+Kəyanın külahı Kəyana yarar,
 Bu xəzin içinə sığarmı rumlar?
+
 Bəhmən nəslindənəm, Keyxosrov babam,
-
 Namərdəm arxasız rumludan qorxsam.
-Bir babam Ruyintən İsfəndiyardır,
 
-««30 'Ç&fi
+Bir babam Ruyintən İsfəndiyardır,
 Bu taxt ondan mənə bir yadigardır.
 
 Dönməzsə fikrindən keçmiş yoluna,
@@ -307,7 +304,7 @@ Girsə dənizimə gəmisi əgər,
 Başını ayağım altında görər.
 
 Cavabım acıdır, acı dənizdən
-Ataram toıpaqdan dənizlərə mən.
+Ataram torpaqdan dənizlərə mən.
 
 Elə sel axıdım qanlı buluddan,
 Əli də Günəşə çatmasın bir an.
@@ -324,7 +321,7 @@ Yenə mən salaram kəməndə onu.
 Ey başı çürümüş qoca pəhləvan,
 Daraya belə xor baxışdan utan.
 
-Olmaz söz atmı belə oynatmaq,
+Olmaz söz atını belə oynatmaq,
 Qocaman bir dağı kəməndlə tutmaq.
 
 Səhrada çırağı yaxmaq nə gərək,
@@ -400,7 +397,7 @@ Kini cuşə gəlsə, acıqlansa şah,
 Rəhm etməz, oğlu da olsa o hərgah.
 
 Padşahın tinəti atəşdir, ancaq
-Yanğma yaxşıdır uzaqdan baxmaq.
+Yanğına yaxşıdır uzaqdan baxmaq.
 
 Padşaha o zaman öyüd bar verər,
 Yolunu qürurdan, kindən təmizlər.
@@ -411,13 +408,13 @@ Toxumu şor yerdə səpmiş o nadan.
 Daraya dəyərli nəsihət verən
 Bildi ki, şah qızmış nəsihətindən.
 
-Sözünə başqa bir cərəyan verdi.
+Sözünə başqa bir cərəyan verdi,
 Dadlı bir dil ilə şahı dindirdi:
 
 “Şübhə yox, dünyada bir sənsən Dara,
 Düşmənin nəyi var, səndədir dara!
 
-İskəndər kimdir ki, atmı çapsın,
+İskəndər kimdir ki, atını çapsın,
 Daranın başından külahı qapsın?
 
 Sənə bu külahı tikmiş Yaradan,
@@ -462,7 +459,7 @@ Səbrli kimsələr olmaz peşiman.
 Ziyandır uduzmaq belə şahmatı,
 Çapdırmaq nə gərək “fil” ilə “atı”.
 
-Mizraba barmaqlar hələ yatmadan.
+Mizraba barmaqlar hələ yatmadan,
 Çox çalğı qırılmış ağır yaradan.
 
 Sən şahsan, səndədir şövkət, təmtəraq,
@@ -496,7 +493,7 @@ Katib o qiymətli məktubu yazdı,
 Dara imza atdı, möhrünü basdı.
 
 Daradan şahlara məktub aparan
-Oldu İskəndərin yanma rəvan.
+Oldu İskəndərin yanına rəvan.
 
 Məktubu verincə, açdı sürətlə,
 Katibə oxutdu başqa diqqətlə.

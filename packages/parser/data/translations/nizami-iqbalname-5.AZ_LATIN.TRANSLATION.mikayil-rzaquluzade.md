@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -37,7 +37,7 @@ Xeyli düşündüm ki, bu ölkəni mən
 Bəs kimə tapşırım özüm gedərkən?
 
 Bir şəhər yaratsam, baxtım olsa yar,
-Kim olsun bəs ona sonra şəhriyar? 57
+Kim olsun bəs ona sonra şəhriyar?
 
 Əqlim söylədi ki: - Belə şəxs gərək
 Tanınsın dünyada məruf insantək.
@@ -54,7 +54,7 @@ Olmaya sərsəri, xam adamlartək
 Qarışqa yemiylə fili yemləyə,
 Cəbrayıl rütbəsi verə milçəyə.
 
-Bütün bəxti dömnüş şahların, əlbət,
+Bütün bəxti dönmüş şahların, əlbət,
 Ölçü bilməzlikdən olub bəxti bəd.
 
 Baş ilə ayağı pis fərq etmişlər,
@@ -66,14 +66,14 @@ Böyüyün qiyməti belə azalmış!
 Mənasız səxavət göstərsə hər kəs,
 Yırtıq təbil kimi çıxaracaq səs.
 
-Ölçü-biçi bilsən hər bir işdə sən.
+Ölçü-biçi bilsən hər bir işdə sən,
 Böyük hesabları düz həll edərsən-
 
 Mətahı böləndə sən elə böl ki,
 Aparanın ağır olmasın yükü.
 
 Qoyma qoca şaha gənc üstün gələ,
-Şiniyə Pərvizi öldürdü belə.
+Şiruyə Pərvizi öldürdü belə.
 
 Qocaman ağaca mişar çəkmə sən.
 Zöhhak bunun üçün düşdü təxtindən.

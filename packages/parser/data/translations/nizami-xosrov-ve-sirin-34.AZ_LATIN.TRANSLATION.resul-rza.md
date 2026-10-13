@@ -6,23 +6,23 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
-Zəfərin açarı aydın, aş Kardır,
+Zəfərin açarı aydın, aşkardır,
 Dəmir iradə bir qızıl açardır.
 
 Xoşdur yüz qalpaqdan bir şah papağı,
-Yüz iti qılıncdan fııcrin bıçağı.
+Yüz iti qılıncdan fikrin bıçağı.
 
 On adam öldürər bir qılınc əgər,
-Düşüncə ordunu salar dərbədər,
+Düşüncə ordunu salar dərbədər.
 
-iradəli Bəhram aldı bir xəbər
-Ki, olmuş Xosrova qul çox öhcələr.
+İradəli Bəhram aldı bir xəbər
+Ki, olmuş Xosrova qul çox ölkələr.
 
 Başına dolmuşdu şahlıq həvəsi,
 Bu işdə yar oldu öz iradəsi.
@@ -34,7 +34,7 @@ Bilmirdi Yusifi düşərsə kənar
 Yəqubun gözündən nuru aparar.
 
 Məktublar göndərdi hər yana gizlin,
-Orda gözəl nəqşi göstərdi çindn:
+Orda gözəl nəqşi göstərdi çirkin:
 
 "Bu uşaq şahlığı anlayan deyil,
 Şah olmaz atanı öldürən qatil...
@@ -42,34 +42,34 @@ Orda gözəl nəqşi göstərdi çindn:
 Onunçün bir içim od rəngli çaxır
 Yüz qardaş qanından daha yaxşıdır.
 
-Bir çalğı səsinə verər bir öikə,
-Ona nəğmə xoşdur bir eldən bəhcə.
+Bir çalğı səsinə verər bir ölkə,
+Ona nəğmə xoşdur bir eldən bəlkə.
 
-İşdən soyumuşdur qızışdığından.
+İşdən soyumuşdur qızışdığından,
 Xamdır, bilməz nədir yaxşı və yaman.
 
 Ürəyi sevgidən çarpaz dağlıdır,
-Şirinin saçma Könlü bağlıdır.
+Şirinin saçına könlü bağlıdır.
 
 Bu baş vuran şuxdan üz döndərin siz,
 Başınızı vursa nə edərsiniz?
 
-Yaxşısı budur Kİ, onu həbs edəx,
-Bu odla, bu suyla necə yol gedəx?
+Yaxşısı budur ki, onu həbs edək,
+Bu odla, bu suyla necə yol gedək?
 
-Bəikə bu tənbehdən bir öyüd ala,
-Almaz, atasıtəx ölər bir yola.
+Bəlkə bu tənbehdən bir öyüd ala,
+Almaz, atasıtək ölər bir yola.
 
-Siz qılıncla onun yolunu Kəsin,
+Siz qılıncla onun yolunu kəsin,
 Mən şirtək gəlirəm, siz də tələsin!"
 
-Rəiyyəti şahın üstünə saldı.
+Rəiyyəti şahın üstünə saldı,
 Bu tədbirlə o şir qələbə çaldı.
 
-Şahənşah gördü Kİ, bəxti yatmışdır,
+Şahənşah gördü ki, bəxti yatmışdır,
 Xalq üz döndərmişdir, onu atmışdır.
 
-Qızılla bəxtinə qüvvət verirdi.
+Qızılla bəxtinə qüvvət verirdi,
 Pulla düşməninə güc göstərirdi.
 
 Bir gün düşmən gəlib saraya çatdı.
@@ -78,7 +78,7 @@ Rəiyyət əlini taxta uzatdı.
 Pərviz yalqız qalıb sıçradı birdən
 Şəbdizin belinə təxtin üstündən.
 
-Düşündü Kİ, tacdan baş qiymətlidir,
+Düşündü ki, tacdan baş qiymətlidir,
 Çıxdı aralıqdan, düşmədi əsir.
 
 Kəyan təxti-tacı sahibsiz qaldı,
@@ -93,5 +93,5 @@ Müxtəlif şətrəncdə qanlı zəmanə
 Yüz hiyləylə qaçıb o yan-bu yana,
 Yetirdi özünü Azərbaycana.
 
-Sızlayan Könlündə Şirinin dərdi.
+Sızlayan könlündə Şirinin dərdi.
 Birbaş Muğan deyib atı döndərdi.

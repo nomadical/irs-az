@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -18,7 +18,7 @@ Xoşahəng nəğməndən bizə çalsana!
 Dar pərdə dinləmək istəmirik biz,
 Genişdir, yüksəkdir öz ahəngimiz.
 
-Rıımlıı filosoflar sözləşib hərdən,
+Rumlu filosoflar sözləşib hərdən,
 Yığılıb gələrdi hərə bir yerdən.
 
 Onlar hər elmdən söhbət açardı,
@@ -27,7 +27,7 @@ Hikmətli sözləri şəfəq saçardı.
 Kim yaxşı etsəydi sözünü isbat,
 Başlılar başçısı olardı o zat.
 
-Hiirmüz adlı alim haqq danışmaqda
+Hürmüz adlı alim haqq danışmaqda
 Gedərdi hamıdan daim qabaqda.
 
 Çox möhkəm olardı onun dəlili,
@@ -39,14 +39,14 @@ Oldu yunanlılar onunla düşmən.
 Bir gün yetmiş alim çıxardı qərar,
 Onun hər sözünü etsinlər inkar:
 
-"Hiirmüz nə söyləsə, razı olmayaq,
+"Hürmüz nə söyləsə, razı olmayaq,
 Doğru sözlərinə asmayaq qulaq.
 
 Onu yerli-dibli eyləyək inkar..."
-inkarla haqq sözü danmaqmı olar?
+İnkarla haqq sözü danmaqmı olar?
 
 Hamısı söz qoyub əhd elədilər,
-Hiirmüz çıxardıqca mədəndən gövhər,
+Hürmüz çıxardıqca mədəndən gövhər,
 
 Qiymətdən salsınlar söz dənizini,
 Torpaqla örtsünlər xəzinəsini.
@@ -54,7 +54,7 @@ Torpaqla örtsünlər xəzinəsini.
 Hər doğru sözünə yalan desinlər,
 Onun haqq sözünü eşitməsinlər...
 
-Hiirmüz söz bəhrindən gövhər saçanda,
+Hürmüz söz bəhrindən gövhər saçanda,
 Elmi-ilahidən söhbət açanda,
 
 Hər sözə dəlillər gətirib ustad,
@@ -108,7 +108,7 @@ Ulduztək parladı orda İskəndər.
 O sərv meşəsində gördü ki, ancaq
 Yetmişi quruyub, biri qalıb sağ.
 
-Hiinnüzdən soruşdu, o etdi bəyan:
+Hürmüzdən soruşdu, o etdi bəyan:
 "Hümmətim kəşf etdi, - dedi, - asiman!
 
 İskəndər "afərin" söyləyib ona,
@@ -117,7 +117,7 @@ Ordan tez qayıtdı öz dərgahına.,
 Hər kəsə, xəlvətdə, düşəndə fürsət,
 Ona bu dastandan edərdi söhbət:
 
-"Yetmişlər başladı tufan salmağa.
+"Yetmişlər başladı tufan salmağa,
 Özləri çöp oldu, Hürmüzsə dalğa."
 
 Haqqı eşitməsə hər kəs dünyada
@@ -130,7 +130,7 @@ Dəlili qüvvətli olan bir sözü
 Qanmaq istəməyən bədbəxtdir özü.
 
 Taca layiq dürrü yerlərə vuran
-Idraksız, şüursuz nadandır, nadan!
+İdraksız, şüursuz nadandır, nadan!
 
 Hünərə göz yummaq deyildir hünər.
 Hansı bir ağıllı tülə bez deyər?

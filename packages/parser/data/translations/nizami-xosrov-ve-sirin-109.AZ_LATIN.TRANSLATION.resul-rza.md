@@ -6,53 +6,50 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
 Büzürgümid birdən açıldı gültək,
-Qırx məna açdı qırx nağıl deyərəx:
+Qırx məna açdı qırx nağıl deyərək:
 
 Ehtiyatlı olan uduzmaz, sözsüz,
-Necə Kİ, qorundu aslandan öküz.
+Necə ki, qorundu aslandan öküz.
 
 Boş arzuya uyma, bu çox mahaldır,
 Meymun xarrat olmaz, əbəs xəyaldır.
 
-z
-Tükü nə yedisə yırtıq təbildən.
-
+Tülkü nə yedisə yırtıq təbildən,
 Onu yeyəcəkdir hiylə işlədən.
-Olma zahid Kimi dəcəl, nyakar,
 
-Riyaxarm daim əzabı artar.
+Olma zahid kimi dəcəl, riyakar,
+Riyakarın daim əzabı artar.
+
 Heç bir vaxt meyl etmə ilqar pozmağa,
-
 Bilirsən ilana neylədi qarğa?
+
 Gör balıqudana neylədi xərçəng,
-
 Onları yada sal, hiylədən əl çək.
+
 Sələm yeyən olma, unutma bir an:
-
 Sələm yeyən şirə neylədi dovşan.
+
 Tordan xilas olan qoca balıqtək
+Candan keçən burdan qurtarar bişəkk.
 
-Candan Keçən burdan qurtarar bişəkk.
-Çaqqal, qurd və qarğa birlik cdii'Kən
+Çaqqal, qurd və qarğa birlik edirkən
+Xilas olmuşdular kinli dəvədən.
 
-Xilas olmuşdular Kinli dəvədən.
 Düşmənindən qurtar tədbir tökərək,
+Necə ki, tufandan qurtardı ördək.
 
-Necə Kİ, tufandan qurtardı ördək.
 Apardı çox dillər başı torpağa,
-
 Buna ibrət verir ördək, tısbağa.
-Yaramazdan gen dur, qov kənar olsun,
 
+Yaramazdan gen dur, qov kənar olsun,
 Gördünmü neylədi toyuğa meymun?
-İz
 
 Hiyləylə xalq malı yeyilməz, inan,
 Nə aldı cahildən alim bazirgan?
@@ -63,28 +60,28 @@ Qurbağatək başın bu yolda gedər.
 Dəmir yeyər siçan, inanma, əbəs.
 Qırğı uşaqları apara bilməz.
 
-Çadırı yandıran nəqqaş Kimi sən
+Çadırı yandıran nəqqaş kimi sən
 Hiyləgərlik etmə, əl çək hiylədən.
 
 Ağıllı adamla yaşa səlamət,
 Nadanın dərmanı törədər illət.
 
-Mərəzdən ağılla olarsan azad.
-Necə Kİ, pis ərdən qurtardı arvad
+Mərəzdən ağılla olarsan azad,
+Necə ki, pis ərdən qurtardı arvad
 
-Zəmanə torundan bilikiə qurtar,
-Necə Kİ, qurtardı bəzəkii quşlar.
+Zəmanə torundan biliklə qurtar,
+Necə ki, qurtardı bəzəkli quşlar.
 
-Tor Kəsən siçandan, dinməz qarğadan
+Tor kəsən siçandan, dinməz qarğadan
 Vəfadarlıq öyrən, ey nazlı canan!
 
-Zülm ilə bir aıpa alma insandan.
-Qızıl əvəz verdi aıpaya siçan.
+Zülm ilə bir arpa alma insandan,
+Qızıl əvəz verdi arpaya siçan.
 
 Çox da lovğalanma yay tutan qurdtək,
 Oxa tutar səni qəflətən fələk.
 
-Ağıllılar Kimi tamahı et az,
+Ağıllılar kimi tamahı et az,
 Qarğanın bayquşla dostluğu tutmaz.
 
 Çeşmədən filləri qovmuşdu dovşan,
@@ -93,16 +90,16 @@ Kiçik görünməsin gözünə düşman.
 Tamahı buraxdı, hiyləni atdı,
 Oruc tutan pişik ruziyə çatdı.
 
-Hiyləyə əl atsa hər kəs pişnctək,
-Qoyunu gözünə görünər kopək.
+Hiyləyə əl atsa hər kəs pişiktək,
+Qoyunu gözünə görünər köpək.
 
 Gör oğrudan qorxub neylədi arvad,
 Fitnəkarlıq etmə, vəfaya əl at.
 
 Düşmənlər vuruşsa, qazandın işi,
-Oğru ilə divdən qurtardı Kişi.
+Oğru ilə divdən qurtardı kişi.
 
-Arvadın məknnə göz yumdu xarrat.
+Arvadın məkrinə göz yumdu xarrat.
 Sən gözünü yumma, belədir həyat.
 
 Siçandan ibrət al, tayını tap sən,
@@ -111,26 +108,26 @@ Pisə yoldaş olma gər pis deyilsən.
 Üz döndər dünyadan, xilas ol, canan.
 Böylə qurtarmışdı meymun bağadan.
 
-Eşşək Kimi olma həyatda qafil,
-Qəflətdə məhv etdi onu tükü, bil.
+Eşşək kimi olma həyatda qafil,
+Qəflətdə məhv etdi onu tülkü, bil.
 
 Xurma siçanını öldürən zahid
 Yaman zülm eylədi, ondan həzər et!
 
-Boş nisyə haqqında çox düşünərəx
+Boş nisyə haqqında çox düşünərək
 Nəqd halva itirmə qoca dərviştək.
 
-Düşüncə yoluyla çıx mağaradan.
-Necə Kİ, pişkdən qurtardı siçan.
+Düşüncə yoluyla çıx mağaradan,
+Necə ki, pişikdən qurtardı siçan.
 
 Bu qübbədən uçdu qübbərə quşu,
 Gəl, sən də tərk eylə viran olmuşu.
 
-Düziükıə qurtarar qılıncdan insan,
+Düzlüklə qurtarar qılıncdan insan,
 Qurtardı aslandan zahid çaqqal can.
 
-Hər kəs Kİ, zülm üçün qılıncı aldı.
-Qan tökən şir khş pəncəsiz qaldı.
+Hər kəs ki, zülm üçün qılıncı aldı,
+Qan tökən şir kimi pəncəsiz qaldı.
 
 Sən düşməndən qorxma, yaxşılıq eylə,
 Ovçu qurtarmışdı ilandan böylə.
@@ -143,5 +140,3 @@ Xosrovun qəlbində kök saldı sözlər.
 
 Etdiyi zülmdən peşiman oldu,
 Ədlin sarayına təməl qoyuldu.
-
-hikmət və nəsihət

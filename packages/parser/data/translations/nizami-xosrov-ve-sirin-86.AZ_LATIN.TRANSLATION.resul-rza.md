@@ -6,17 +6,17 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
 status: DRAFT
 ---
-Nikisa oxudu cadugər Kimi,
-Rahəvi üstündə Kökiədi simi:
+Nikisa oxudu cadugər kimi,
+Rahəvi üstündə köklədi simi:
 
-"Gəl yarınla barış, sən ey sitəmxar!
-Dünən xeçdi getdi, bu gün də Keçər.
+"Gəl yarınla barış, sən ey sitəmkar!
+Dünən keçdi getdi, bu gün də keçər.
 
 Düyümü aç getsin, dayanma əbəs,
 Ömür çox tələsir, sən də bax, tələs!
@@ -25,16 +25,16 @@ Düyümü aç getsin, dayanma əbəs,
 Dünyada heç şeyə yoxdur etibar.
 
 Dünya beş günlükdür, zənn etmə çoxdur,
-Ondan bərx yapışma, mənası yoxdur.
+Ondan bərk yapışma, mənası yoxdur.
 
 Çox tava qızmadan qaldı, qaraldı,
 Çox bişən aşlar da itlərə qaldı.
 
-Durma, şərab İçək, bu xoş gecə, gəl!
+Durma, şərab içək, bu xoş gecə, gəl!
 Sabah da içərik, gəlməsə əcəl.
 
 Sabaha çox da sən ümid bağlama,
-işi lap bu gecə düzəlt, saxlama.
+İşi lap bu gecə düzəlt, saxlama.
 
 Dünyanın qəribə oyunları var,
 Dünya görməmisən, nə fayda, ey yar!
@@ -42,70 +42,70 @@ Dünya görməmisən, nə fayda, ey yar!
 Baharın var, bu gün ye meyvəsindən,
 Hər gün novruz olmaz, məgər bilmirsən?
 
-insan iyləməsə bir gülü, bişəkk,
-Xəzan gələr, onu aparar küıək.
+İnsan iyləməsə bir gülü, bişəkk,
+Xəzan gələr, onu aparar külək.
 
 Yaxşı olur güldən gülab alasan,
-Gül solar gecksə o gülabtutan.
+Gül solar geciksə o gülabtutan.
 
-Bir yerdə Kİ, saxsı yerindədir zər,
-Mənim Kimisinə Kim qiymət verər?
+Bir yerdə ki, saxsı yerindədir zər,
+Mənim kimisinə kim qiymət verər?
 
 Bir qətrə su hara, bir ümman hara?
 Günəş olan yerdə ay gəlməz kara.
 
 Bazarın rəvacdır yaxşı işlərlə,
-Qoyma Kasadlıqda dostunu belə.
+Qoyma kasadlıqda dostunu belə.
 
-Kasad mah da al, bəhcə də bir gün
-Karma gəldi o Kasad mal bütün.
+Kasad malı da al, bəlkə də bir gün
+Karına gəldi o kasad mal bütün.
 
-Bütöv mallar almaq xoşdur həmişə.
+Bütöv mallar almaq xoşdur həmişə,
 Bəzən sınıq qab da yarayar işə.
 
-Düzdür Kİ, sikkələr baha gedərlər,
+Düzdür ki, sikkələr baha gedərlər,
 Qızıl tozunu da hesab edərlər.
 
 Eşqin quluyam mən, sən mənə yiyə,
 Daha satma məni eybim var deyə.
 
-Ikicə arzum var ömrümdə ancaq.
+İkicə arzum var ömrümdə ancaq,
 Əvvəl sənin vəslin, sonra yaşamaq.
 
 Bircə sifarişin mənim bəsimdir,
-Birdən o da olmaz, sonra Kim bilir?
+Birdən o da olmaz, sonra kim bilir?
 
-Mən əldən getmişəm eşqinlə müdam.
+Mən əldən getmişəm eşqinlə müdam,
 Xəlvətdə mey içib, sərxoş olmuşam.
 
-Mən sənin Kölgənəm hər yerdə, nəysə,
+Mən sənin kölgənəm hər yerdə, nəysə,
 Səndən ayrılmaram, yüz qılınc dəysə.
 
-Başım Kəsilincə dönmərəm səndən,
+Başım kəsilincə dönmərəm səndən,
 Qanım tökülsə də ayrılmaram mən.
 
 Nə qədər həmdəmim xəyalın olsun?
 Nə qədər həsrətim camalın olsun?
 
 Nə sərtlik etdimsə bu vaxta qədər,
-Səs Kimi pərdədə qalmağın yetər,
+Səs kimi pərdədə qalmağın yetər.
 
-indi qorxum yoxdur qan pərdəsindən,
-Pərdədən çıxaram şimşək Kimi mən.
+İndi qorxum yoxdur qan pərdəsindən,
+Pərdədən çıxaram şimşək kimi mən.
 
 Çırağın yağdanı quruyan zaman
 Olur onun nuru gözlərdən nihan.
 
-Tutiya yerinə tozunu allam.
+Tutiya yerinə tozunu allam,
 Öpərəm, dərdini qəlbimə sallam.
 
 Yatıraram səni, mey içib hər an
 Xoş olar: mən sərxoş, sən də yatasan!
 
-Zülfünü saçımla mohkəm bağlaram.
+Zülfünü saçımla möhkəm bağlaram,
 Eşqindən həm gülər, həm də ağlaram.
 
-Üzüyündən qəlbə vuraram bəzəx,
+Üzüyündən qəlbə vuraram bəzək,
 Xəbər tutmaz ondan nə əl, nə ətək,
 
 Elə qucaqlaram səni, ey nigar,
@@ -121,7 +121,7 @@ Ey tanrı, yol göstər, qalib çıxım mən,
 Mənə yaxşı günü qismət elə sən."
 
 Bu gözəl nəğməni eşidəndə şah
-Paltarını cırdı, çəkcü dərin ah.
+Paltarını cırdı, çəkdi dərin ah.
 
-Söylədi: "Ey Barbəd, komək et, aman!
+Söylədi: "Ey Barbəd, kömək et, aman!
 Qoyma bədənimdən uçub getsin can."

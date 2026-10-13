@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -16,7 +16,7 @@ status: DRAFT
 Rum-zənci oyunu oynayan zaman
 
 İskəndər buyurdu qoca Sokrata
-Vursun üzüyündən muma möhr o da
+Vursun üzüyündən muma möhr o da,
 
 Yazsın bir qiymətli nəsihətnamə,
 Mənası nur saçsın bütün aləmə.
@@ -37,7 +37,7 @@ Allahın mədhini yetirib sona,
 Bağladı sözünü şahın adına:
 
 "Ey şah, bu örtülü quyuya, gəl, sən
-Girmə əqlin, huşun əmr vennədən.
+Girmə əqlin, huşun əmr vermədən.
 
 Sən ki, bol gövhərdən yoğurulubsan.
 Həyat oyuncaqtək gəlməsin asan!
@@ -49,19 +49,19 @@ Döyüşdə, şənlikdə, - hər yerdə olsan,
 Heç zaman ayrılma yaxşı dostlardan.
 
 Əyləncə, eyş-işrət bəzminə düşsən,
-işvəli bir dilbər seç özünə sən.
+İşvəli bir dilbər seç özünə sən.
 
 Məclisdə qüssədən, qəmdən uzaq ol,
 Həmişə kefi kök, damağı çağ ol.
 
 Siyasət məclisi qurulsa fəqət,
-Orda hər yetənə sən vennə fürsət.
+Orda hər yetənə sən vermə fürsət.
 
 Yanında hərzə söz danışmasınlar,
 Səni də hörmətdən salmasın onlar.
 
 Yeməyi heç yemə dəniz kimi tək,
-Yediyin olmasın acı, dəniztək 1S.
+Yediyin olmasın acı, dəniztək.
 
 Bulaq ol, çox olsun gəlib içənin,
 Dursun qulluğunda kuzələr sənin!
@@ -70,7 +70,7 @@ Xörəyi evində gizlətsən, əlbət,
 Ondan yetmiş evi basar üfunət.
 
 Vaxtında evindən çıxarsan əgər,
-Qapına müşktək ətir səpilər 18S.
+Qapına müşktək ətir səpilər.
 
 Nə qədər açmayıb hələ bənövşə,
 Qönçəsi pis qoxu verər həmişə.
@@ -91,9 +91,9 @@ Kimin km, yeməkdə heyvan nəfsi var.
 Heyvan sifətində qəbirdən çıxar.
 
 Qiyamət gələndə, əldə tərəzi,
-Öküztək, eşşəktək baxar hərəsi,
+Öküztək, eşşəktək baxar hərəsi.
 
-insan sağlam olar az-az yeməkdən,
+İnsan sağlam olar az-az yeməkdən,
 Uzun ömr eləməz əsla çoxyeyən.
 
 Həddindən ziyadə yesə bir insan,
@@ -121,7 +121,7 @@ Bu cür yeyib, yığıb paylasan əgər,
 Sənə bu dünyada xoşbəxt deyərlər.
 
 Yeməkdə əsasdır cana nuş olmaq,
-Onun dadma yox, faydasına bax!
+Onun dadına yox, faydasına bax!
 
 Sirkəni yeyəndə süddən et həzər,
 Sirkəylə süd içmək azar törədər.
@@ -132,7 +132,7 @@ Yola tədarük gör, bir səfərə çıx!..
 Bu nə tənbəllikdir? Giriş bir işə,
 Bekarlıq insanı sıxar həmişə!
 
-Özgənin əliylə qazdınna mədən.
+Özgənin əliylə qazdırma mədən,
 Özün bir əl tərpət, əgər dirisən.
 
 Əl-ayaq qulundur, işlətsən, yəqin,
@@ -175,10 +175,10 @@ Bir şeyi tapmasan, çalış, səbr elə,
 Aldat sən özünü bir ümid ilə!
 
 Yeməkdən yaxşıdır ümid min kərə,
-Ümidlə, vədəylə bəslənər zirə,
+Ümidlə, vədəylə bəslənər zirə.
 
-öuraqlıq olanda, bilmirsən bunu,
-Zirəyə verərlər zirə suyunu? 190
+Quraqlıq olanda, bilmirsən bunu,
+Zirəyə verərlər zirə suyunu?
 
 Zirə öz suyuyla yaşayar ancaq,
 Dolan qismətinlə sən də o sayaq.
@@ -196,7 +196,7 @@ Bu qədər baş kəsib atmaqdan usan,
 Bu topla nə qədər oynayacaqsan?
 
 Sənin buludunda çox göz yaşı var,
-Daim qılncmdan nahaq qan axar.
+Daim qılıncından nahaq qan axar.
 
 Qorx ki, boyun vuran qılıncın bir gün
 Vurar öz boynunu nahaq qan üçün.
@@ -225,7 +225,7 @@ Qoy fələk tələssin, sən asta yeri!
 Şahsan, şahin kimi iti uçma sən,
 Şiri-pər kimi ol, vüqarlı tərpən!
 
-iti düşüncənin cilovunu çək,
+İti düşüncənin cilovunu çək,
 Meşə yollarında çoxdur daş-kəsək.
 
 Dərdə əlac etmək istəsən əgər,
@@ -243,7 +243,7 @@ Onları özündən uzaqda saxla,
 Şah əgər xalq ilə etsə ədavət,
 Ağ olar üzünə xalq da, nəhayət!
 
-Etmə tabəənlə çox yumşaq rəftar.
+Etmə tabəənlə çox yumşaq rəftar,
 Məlumdur almazı qalay sındırar.
 
 Heç salma altına özgə kilimi,
@@ -255,8 +255,8 @@ Həm kəfən toxudu, həm də ev qurdu.
 Məhrəm olmayandan gözlə özünü,
 Dinləmə onların əsla sözünü.
 
-Ömrünü ah-vayla vennə sən bada,
-Acizlər alı-vayla yaşar dünyada.
+Ömrünü ah-vayla vermə sən bada,
+Acizlər ah-vayla yaşar dünyada.
 
 Bu cürə sözlərim çoxdur, ancaq mən,
 Demirəm: tapılmaz məndən çox bilən,
@@ -265,7 +265,7 @@ Sən özün göylərdən ilham alansan,
 Bundan çox söyləsəm, gətirər ziyan.
 
 Sözlərim itisə mənim qılınctək,
-incimə, adətdir qılıncda kəsmək.
+İncimə, adətdir qılıncda kəsmək.
 
 Əlində bu iti qılınc ilə şah
 Hara qoşun çəksə, basar inşallah!"

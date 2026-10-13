@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Rəsul Rza
 translatorNote: >-
   Rəsul Rzanın tərcüməsi (1947), «Lider nəşriyyat», Bakı, 2004 nəşrinə görə.
-  Mətn skandan tanınıb, hələ yoxlanmayıb.
+  Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1947
 sourceNote: 'https://archive.org/details/XosrovVirin-NizamiGncvi'
 isDefault: true
@@ -58,7 +58,7 @@ Dedi: "Arxayın ol, bu xəyal xamdır."
 Dedi: "Arxayınlıq mənə haramdır."
 
 Dedi: "Gəl əl götür, səbrə ver qərar."
-Dedi: "Heç can üçün səbr etməx olar?"
+Dedi: "Heç can üçün səbr etmək olar?"
 
 Dedi: "Səbr etməyin faydası çoxdur."
 Dedi: "Qəlb səbr edər, qəlbim ki, yoxdur."
@@ -66,7 +66,7 @@ Dedi: "Qəlb səbr edər, qəlbim ki, yoxdur."
 Dedi: "Hansı qəmdir qorxudan səni?"
 Dedi: "Ancaq hicran qorxudur məni."
 
-Dedi: "istəyirsən dünyada həmdəm?"
+Dedi: "İstəyirsən dünyada həmdəm?"
 Dedi: "Özümü də heç istəmirəm."
 
 Şah cavab tapmadı Fərhada artıq.
@@ -75,19 +75,19 @@ Gördü məsləhətdir bitsin danışıq.
 Həzərata dedi: "Ta bu günəcən
 Belə hazırcavab görməmişəm mən.
 
-Madam Kİ, qızıldan qaçdı, çəkindi,
+Madam ki, qızıldan qaçdı, çəkindi,
 Daşla sınayarıq biz onu indi."
 
-Sonra sözlərini qılmctək çaldı.
-Almaz Külüngünü daşlığa saldı.
+Sonra sözlərini qılınctək çaldı,
+Almaz külüngünü daşlığa saldı.
 
 "Bizim yolumuzda, - dedi, - bir dağ var,
-Çətinlikiə Keçir ordan adamlar.
+Çətinliklə keçir ordan adamlar.
 
 Dağları sən yarıb yol salmalısan,
 Olsun gediş-gəliş bir qədər asan.
 
-Heç Kəsin əlindən gəlməz bu tədbir,
+Heç kəsin əlindən gəlməz bu tədbir,
 Hamı deyir bu iş sənin işindir.
 
 Şirin hümmətinə, Şirin eşqinə
@@ -100,27 +100,27 @@ Dəmir qollu Fərhad dedi: "Hazıram
 Yolundan bu dağı özüm qaldıram.
 
 Bir şərtim var: dağla döyüşə girsəm,
-Şah dediyi işi sona yetirsəm.
+Şah dediyi işi sona yetirsəm,
 
 Şah da onda məni razı edərək,
 O şirin şəkərdən əl çəksin gərək."
 
 Şah hirsləndi, bu söz qızdırdı onu,
-istədi Fərhadın vursun boynunu.
+İstədi Fərhadın vursun boynunu.
 
 Dedi: "Xosrov şərtdən qorxan deyildir,
 Qırılası daşdır, torpaq deyildir.
 
-Toıpaq belə olsa, necə qazacaq?
-Hara daşınacaq bir belə toıpaq?"
+Torpaq belə olsa, necə qazacaq?
+Hara daşınacaq bir belə torpaq?"
 
 Sonra coşub dedi: "Şərtdir şərtimiz,
 Bu şərti sındırsaq, mərd deyilik biz.
 
-Qol açıb bir göstər öz sənətini.
-Biz də seyr eyləyəx məharətini."
+Qol açıb bir göstər öz sənətini,
+Biz də seyr eyləyək məharətini."
 
-Fərhad bu sözlərdən həy canlanaraq.
+Fərhad bu sözlərdən həycanlanaraq,
 Dedi: "Ey adil şah, hardadır o dağ?"
 
 Xosrov nişan verdi ona uzağı,
@@ -132,25 +132,25 @@ Daşın sərtliyini bilir hər adam.
 Şahın vədəsindən ümidlənərək,
 Dağ çapan gedirdi yeldən yüyürək.
 
-Dağ başını yehək bir anda aldı,
-Belini bağlayıb Külüngü çaldı.
+Dağ başını yeltək bir anda aldı,
+Belini bağlayıb külüngü çaldı.
 
 Daşın düz yerindən yonub bir qədər,
 Çəkdi gözəl-gözəl nadir şəkillər.
 
-Şirinin şəkiini yaratdı qəşəng,
-Elə bil Kİ, çəkdi Mani bir Ərbəng.
+Şirinin şəklini yaratdı qəşəng,
+Elə bil ki, çəkdi Mani bir Ərtəng.
 
-İti Külüngünün ucuyla sonra
+İti külüngünün ucuyla sonra
 Xosrovla Şəbdizi çəkdi divara.
 
-Bu şəkiin önündə o dağlar çapan
+Bu şəklin önündə o dağlar çapan
 Eşitmiş olarsan, necə verdi can!
 
-Bilirsən Kİ, Xosrov pozdu ilqarı,
+Bilirsən ki, Xosrov pozdu ilqarı,
 Məhv etdi Fərhadı bir qoca qarı.
 
-Quyruq tələ qurdu, gördünmü qurda.
+Quyruq tələ qurdu, gördünmü qurda,
 Məqsədinə çatdı hiyləgər burda.
 
 Piy quyruqdan gördü elə hiylə, fənn.
@@ -159,5 +159,5 @@ Quyruğun ardınca nə izləyirsən?
 Zəmanə bir qoca dişi qoyundur,
 Uyma quyruğuna, işi oyundur.
 
-Taleyin quyruqsuz bir ulduz kən
+Taleyin quyruqsuz bir ulduz ikən
 Quyruqtək arxaya neçin düşürsən?

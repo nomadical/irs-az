@@ -6,7 +6,7 @@ scriptDirection: LTR
 translator: Mikayıl Rzaquluzadə
 translatorNote: >-
   Mikayıl Rzaquluzadənin tərcüməsi (1941), «Lider nəşriyyat», Bakı, 2004 nəşrinə
-  görə. Mətn skandan tanınıb, hələ yoxlanmayıb.
+  görə. Mətn skandan tanınıb və skanla tutuşdurulub.
 year: 1941
 sourceNote: 'https://archive.org/details/Skndrnamqbalnam-NizamiGncviMikaylRzaquluzad'
 isDefault: true
@@ -27,14 +27,14 @@ Mənə gərək deyil əsla xəzinə!
 İstəyim budur ki, o sahibdövlət
 Versin əməyimə layiq bir qiymət.
 
-Məni düşündürmür azla çox fikri.
+Məni düşündürmür azla çox fikri,
 Çünki qohum deyil Ayla Müştəri.
 
 Gəzirəm elə bir sərraf insanı
 Ki, məğmun etməsin gövhər satanı.
 
 Div kimi dağların köksünü yarmaq.
-Vəhşi heyvan kimi nərə qopannaq,
+Vəhşi heyvan kimi nərə qoparmaq,
 
 Açmaq xəzinəyə axan selləri,
 Dənizə tullamaq dürrü, gövhəri
@@ -63,14 +63,14 @@ Bu cürə qarışıq, pis bazarından.
 Dedim: "Gövhər üçün edərlərmi cəng?
 Nəğmə gözəl olar olsa həmahəng.
 
-Dəıya sevdasıdır, keç öz dürründən,
+Dərya sevdasıdır, keç öz dürründən,
 Gücün nəyə çatır onu söylə sən.
 
 Dənizlə alverə çıxarsa biri,
 Gərək dərya qədər ola gövhəri.
 
-Dəryayla alverin dərya nəfı var,
-Dəıyanı dəryayla satın alarlar.
+Dəryayla alverin dərya nəfi var,
+Dəryanı dəryayla satın alarlar.
 
 Bir səsin dünyanı tutsa şöhrəti,
 Gərək dünya qədər ola vüsəti.
@@ -84,8 +84,8 @@ Hikmətli cavabdır başa düşənə.
 Yaxşı tanıyıram mən hər yetəni,
 Kəmər oğrusuyla tac bəxş edəni...
 
-Bunları deməkdən qəsdim, yaxşı bil.
-Əsla yoxsullııqdan şikayət deyil!
+Bunları deməkdən qəsdim, yaxşı bil,
+Əsla yoxsulluqdan şikayət deyil!
 
 Demirəm pis keçir günüm, həyatım,
 Ancaq yorulmuşdur azacıq atım.
@@ -93,7 +93,7 @@ Ancaq yorulmuşdur azacıq atım.
 Süfrəmdə bir parça çörək tapılar,
 Amma səhhətimdən şikayətim var.
 
-insanın bədəni olmasa möhkəm,
+İnsanın bədəni olmasa möhkəm,
 Yazarkən süstləşər əlində qələm.
 
 Saz olsa qarğanın əgər bədəni,
@@ -135,7 +135,7 @@ Qalanlar da belə gəlib keçəcək.
 Ömrün hesabını düşünsən əgər,
 Quyuya sallamış dolçaya bənzər.
 
-Bir dolça quyudan su çıxannasa,
+Bir dolça quyudan su çıxarmasa,
 Nə xeyri, uzunmuş ipi, ya qısa?
 
 Getdim, bu dastanda qoyub qəlbimi,
@@ -157,9 +157,9 @@ Suda batanlardan bir nəfər gecə
 Yuxuma girərək dedi gizlicə:
 
 "Sən özün bizimlə bir yerdə ikən
-Bizim dərdimizi nahaq çəkirsən,
+Bizim dərdimizi nahaq çəkirsən.
 
-indi ki, gedirsən bu karvan ilə,
+İndi ki, gedirsən bu karvan ilə,
 Sən öz dərdini çək, fikrini elə!"
 
 Bu dünya mənasız göründü mənə,
