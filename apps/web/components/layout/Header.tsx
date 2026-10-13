@@ -2,8 +2,8 @@
 
 import Link from 'next/link';
 import { useEffect, useRef } from 'react';
-import { useTranslations } from 'next-intl';
-import { useParams, usePathname } from 'next/navigation';
+import { useLocale, useTranslations } from 'next-intl';
+import { usePathname } from 'next/navigation';
 import { authorsPath } from '@/lib/facets';
 import { ThemeToggle } from '@/components/ui/ThemeToggle';
 import { SkinToggle } from '@/components/ui/SkinToggle';
@@ -63,7 +63,8 @@ function NavLinks({ links, pathname }: { links: NavLink[]; pathname: string }) {
 
 export function Header() {
   const t = useTranslations('nav');
-  const { locale } = useParams<{ locale: string }>();
+  // From next-intl, not the route: the root 404 page has no [locale] param
+  const locale = useLocale();
   const pathname = usePathname();
   const headerRef = useRef<HTMLElement>(null);
   const hidden = useHideOnScroll(headerRef);

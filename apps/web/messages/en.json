@@ -309,5 +309,10 @@
     "public_domain": "Public domain (CC0)",
     "public_domain_mark": "Public domain",
     "titles_note": "Titles are from the museum's catalogue."
+  },
+  "not_found": {
+    "title": "Page not found",
+    "text": "There is nothing at this address. The page may have moved, or the address may have a typo.",
+    "search_placeholder": "A work, an author, a word..."
   }
 }

@@ -632,6 +632,14 @@
 }
 [data-skin='clean'] .search-btn:hover { background: #A30D25; }
 [data-skin='clean'] .search-btn::before { content: none; }
+[data-skin='clean'] .not-found-code {
+  font-family:    var(--font-ui);
+  font-weight:    700;
+  color:          var(--surf-2);
+  letter-spacing: -0.03em;
+}
+[data-skin='clean'] .not-found-text { font-style: normal; }
+[data-skin='clean'] .not-found-links { font-size: 0.95rem; font-weight: 700; }
 [data-skin='clean'] .search-highlight,
 [data-skin='clean'] .work-row mark { border-radius: 3px; }
 

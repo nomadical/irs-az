@@ -1306,6 +1306,40 @@ blockquote {
 
 .search-highlight,
 .work-row mark { background: var(--hl); color: var(--pomeg); }
+/* Not-found page: the code as a large numeral, then a way back in */
+.not-found { text-align: center; padding-top: 2.5rem; padding-bottom: 2rem; }
+.not-found-code {
+  font-family:    var(--font-serif);
+  font-size:      clamp(4.5rem, 18vw, 7.5rem);
+  font-weight:    600;
+  line-height:    1;
+  color:          var(--pomeg);
+  letter-spacing: 0.02em;
+  margin-bottom:  0.5rem;
+}
+.not-found-text {
+  max-width:   30rem;
+  margin:      0.75rem auto 0;
+  color:       var(--muted);
+  font-style:  italic;
+  text-wrap:   pretty;
+}
+.not-found-search {
+  display:   flex;
+  gap:       0.5rem;
+  max-width: 30rem;
+  margin:    1rem auto 1.5rem;
+}
+.not-found-links {
+  display:         flex;
+  flex-wrap:       wrap;
+  justify-content: center;
+  gap:             0.5rem 1.75rem;
+  font-family:     var(--font-ui);
+  font-size:       0.85rem;
+}
+.not-found-links .more { color: var(--pomeg); }
+
 /* The matched passage under a search result */
 .search-snippet {
   font-size:   0.85rem;

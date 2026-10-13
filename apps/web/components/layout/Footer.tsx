@@ -1,14 +1,13 @@
 'use client';
 
 import Link from 'next/link';
-import { useParams } from 'next/navigation';
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 
 /** The imprint line: the masthead again, what the site is, and where to write */
 export function Footer() {
   const t = useTranslations('site');
   const nav = useTranslations('nav');
-  const { locale } = useParams<{ locale: string }>();
+  const locale = useLocale();
 
   return (
     <footer className="footer">

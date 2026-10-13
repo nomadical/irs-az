@@ -309,5 +309,10 @@
     "public_domain": "İctimai mülkiyyət (CC0)",
     "public_domain_mark": "İctimai mülkiyyət",
     "titles_note": "Adlar muzeyin kataloqundan, ingilis dilindədir."
+  },
+  "not_found": {
+    "title": "Səhifə tapılmadı",
+    "text": "Bu ünvanda səhifə yoxdur. Ola bilsin, köçürülüb, ya da ünvanda hərf səhvi var.",
+    "search_placeholder": "Axtardığınız əsər, müəllif, söz..."
   }
 }

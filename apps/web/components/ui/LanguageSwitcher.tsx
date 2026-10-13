@@ -1,6 +1,7 @@
 'use client';
 
-import { useParams, usePathname, useRouter } from 'next/navigation';
+import { usePathname, useRouter } from 'next/navigation';
+import { useLocale } from 'next-intl';
 import { locales } from '@/lib/i18n';
 
 const labels: Record<string, string> = {
@@ -12,12 +13,13 @@ const labels: Record<string, string> = {
 export function LanguageSwitcher() {
   const router = useRouter();
   const pathname = usePathname();
-  const { locale: currentLocale } = useParams<{ locale: string }>();
+  const currentLocale = useLocale();
 
   const switchLocale = (newLocale: string) => {
     const segments = pathname.split('/');
     segments[1] = newLocale;
-    router.push(segments.join('/'));
+    // Keep the query, so a search (?q=) or a chosen translation (?tr=) survives the switch
+    router.push(segments.join('/') + window.location.search);
   };
 
   return (
