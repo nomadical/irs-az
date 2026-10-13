@@ -103,7 +103,7 @@ Sürüyə olardı bu köpək həyan.
 Verərdi sürünü tək bu it yola.
 
 Oldu yataqdarım neçə il belə,
-Düz oldu, uymadı fitnəyə, fələ.
+Düz oldu, uymadı fitnəyə, felə.
 
 Bir gün mən sürünün yolunu kəsdim,
 Qoyunun sayını bilməkdi qəsdim.

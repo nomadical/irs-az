@@ -139,7 +139,7 @@ Nankor olmaları yaxşıdır, əlbət,
 Gün gələr ki, onlar çəkər xəcalət.
 
 Xəyanət üzündən xəcil olar mərd,
-Yaxşı deyil, ona sən də vermə dərd.
+Yaxşı deyil, ona sən də vermə dərd,
 
 Xəcalət çəkəni etməzlər zəlil,
 Bu zülmkarlıqdır, ədalət deyil.

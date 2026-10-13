@@ -79,7 +79,7 @@ Misi qızıl eləyən kimyagərin əlidir.
 Bədən dediyin nədir? Bir ovuc tökmə palçıq,
 Söz isə könüldədir, odur hər şeydən artıq.
 
-Gül kəsil öz könlünə padşah olasan belə,
+Qul kəsil öz könlünə padşah olasan belə,
 Malik olasan cana, xacə olasan əqlə..
 
 Əgər istəsən könlün olsun tük kimi yumşaq

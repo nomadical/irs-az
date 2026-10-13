@@ -69,7 +69,7 @@ Dostlar ondan daha lətifdi, şəndi,
 Orda gecəyədək gün keçirdilər,
 Meyvə yeyirdilər, mey içirdilər.
 
-Hər yanda qurulub bir şadlıq, busat,
+Hər yanda qurulub bir şadlıq, büsat,
 Yeməklər gəlirdi saatbasaat.
 
 Gecə müşkdən bir ələm çəkəndə,
@@ -409,7 +409,7 @@ Elə bir çalhaçal işə salırlar
 Ki, bütün dünyanı ələ alırlar.
 
 Oynayır Mahanın altında at da,
-Belə vurhavurda, belə busatda.
+Belə vurhavurda, belə büsatda.
 
 Mahan göz dikdi ki, baxıb görsün at
 Nə üçün altında açıb qol-qanad?
@@ -436,7 +436,7 @@ Qüzeydə bəslənən bir çöpdü Mahan,
 Qatıb qabağına sel onu dağdan
 
 Çapırdı, çırparaq o yan, bu yana,
-Əziyyət verirdi azğın insana.
+Əziyyət verirdi əzgin insana.
 
 Qaçıb sərxoş kimi o baş, bu başa
 Vururdu xəstəni torpağa, daşa.
@@ -808,7 +808,7 @@ Yaşaram qəlbimi bağlayıb sizə,
 Əməl eyləyərəm istəyinizə.
 
 Deyilən sözlərə meylin əgər var,
-Əl ver, bu əhd üçün bağlayaq iqrar".
+Əl ver, bu əhd üçün bağlayaq ilqar".
 
 "Bu nə sözdür, - dedi ona tez Mahan,
 Sərvə layiqmidir tay olsun tikan.
@@ -949,7 +949,7 @@ Süfrələr saldılar geniş meydana.
 Şahlıq sevinc ilə üz-üzə gəldi.
 
 Onların başçısı bir gözəl pəri,
-Qızıl tacların parlaq gövhəri
+Qızıl taclarının parlaq gövhəri
 
 Tez gəlib oturdu öz məkanında,
 Gözəllər əyləşdi onun yanında.

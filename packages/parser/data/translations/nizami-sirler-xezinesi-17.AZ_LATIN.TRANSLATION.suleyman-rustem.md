@@ -16,7 +16,7 @@ status: DRAFT
 Bir tərəfə atınca gülək öz niqabını,
 Xacəsə işə saldı eşqinin rübabını.
 
-Göründü gözlərinə şirin gülüşlü canan.
+Göründü gözlərinə şirin gülüşlü canan,
 Öyünərək o, gülə, şəkərə verirdi can.
 
 O ipək paltarlının, ay üzlünün bəlası
@@ -52,7 +52,7 @@ Gündüzün sədəfində çox misilsiz ətri var.
 Qara xalın qəmindən dəyişib bütün əhval,
 Ayın üzü olmuşdu başdan-ayağa xal-xal.
 
-Günəşdən artıq ciyər yandırırdı gözləri,
+Günəşdən artıq cigər yandırırdı gözləri,
 Dodağı aydan da çox parladırdı hər yeri,
 
 Açmışdı öz yükünü xeyli uzaqda ürək

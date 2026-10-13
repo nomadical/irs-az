@@ -1,8 +1,3 @@
-@@ 171
-@@ 172
-@@ 173
-@@ 174
-@@ 175
 @@ 176
 BAŞLANĞIC
 Ey bu kainatın açan gözünü,
@@ -43,7 +38,7 @@ Bu qara pərdəni, ağ pərdəni sən
 Tapşırdın Günəşə, Aya əzəldən.
 Yolunu izləyən: gecə və gündüz
 Sarayında qoşa qulundur, sözsüz.
-İşləməzlər, sənin bilməsə layiq,
+İşləməzlər, sənin bilməsə layıq,
 Nə Günəş, nə də Ay yaxşı, yamanlıq.
 Yandırdın beyində ağıldan çıraq,
 Elə bir çıraq ki, günəşdən parlaq.
@@ -67,7 +62,7 @@ Sənsən dəyişdirən hər vəziyyəti,
 Kimsənin bu işə çatmaz qüdrəti.
 Sənsiz yaxşı yoxdur, olmaz yaman da,
 Sənsiz yaşayarmı bir şey cahanda?
-Lalin atəşini, od rəngli ləli
+Ləlin atəşini, od rəngli ləli
 Alıb daşa verdi qüdrətin əli.
 Bu dünya, dünyanı hərlədən fələk
 Hay çəkər qapında hər zaman qultək.
@@ -101,7 +96,7 @@ Ağlım şey kəsəli mən səhv etmədim,
 Sənin dərgahından kənar getmədim.
 Qapıma yolladın nemətimi sən,
 İstəməmiş verdin qismətimi sən.
-Qocalmışam sənin öz astanənda,
+Qocalmışam sənin öz astananda,
 Yetiş imdadıma qorxunc zamanda.
 Bu sözlər xətadır, bu nədir, aman,
 Sən mənimsən, demək, mənimdir cahan.
@@ -215,7 +210,6 @@ Altı cəhəti üz yeddi kökündən,
 O doqquz fələyi çarmıxa çək sən.
 Səmakdan atını çaparaq, ucal,
 Bakir mələkləri tut, kəməndə sal.
-
 @@ 177
 Göyün ulduzları izləyir səni,
 Yaşıl geyimlilər gözləyir səni.
@@ -561,7 +555,7 @@ Efirdən qopmuş bir atəşdi suyu,
 Onun meydanında şir əsər zağ-zağ,
 Düşməninin atı gedər baş-ayaq.
 Səhər qədəhinə tökən zaman mey
-Buz bağlamış sudan od yağdırar hey.
+Buz bağlamış sudan od yağdırar hey,
 Mizraq itiləsə əgər bir kərə
 Adi gün çevrilər dönər məhşərə.
 Səxa dərgahını nə zaman açar
@@ -617,7 +611,7 @@ Qüdrətli əliylə dörd gövhəri şah
 Düşməni kökündən kəsik ağacdır,
 Çarmıxdan asılır kim ona qacdır.
 Cəlalının günü bizə nur saçır,
-Üzümüz - qızıl ay, düşmən qaradır.
+Üzümüz - qızıl ay, düşmən qaradır,
 Qızıl nallı günəş qalxar, baş verər,
 Mədənə ləl verər, dağa daş verər.
 Xəznəsi gövhərlə, daşla doludur,
@@ -773,7 +767,7 @@ Adına bağladım nəqşini ancaq.
 O kəsə deyərəm daim bəxtiyar,
 Səpdiyi toxumdan görsün elə bar
 Ki, dünya durduqca heç pozulmasın,
-Varaqini açsın adıyla şahın.
+Vərəqini açsın adıyla şahın.
 Eləsini yox ki, əsrlər keçər,
 Silər şöhrətini uca fələklər.
 Yeddi min il keçdi, sərf edib əmək,
@@ -1147,7 +1141,7 @@ Hər alim evini süpürdü, atdı,
 Yuxusu gələndə yıxıldı yatdı.
 Ey oğul, sənədir sözüm, yaxşı bax,
 Çünki mən yatıram, sənsə qal oyaq.
-Adın xoş güldür əbədiyyətin,
+Adın xoş gülüdür əbədiyyətin,
 Məhəmməd isminin möhrüsən mətin.
 Şöhrətin Məhəmməd, taleyin xoşdur,
 Mahmud təbilitək gurla gurhagur.
@@ -1451,7 +1445,7 @@ Gözəl imarəti yetirdi başa,
 Cəlalı, şöhrəti aşdı göyləri,
 Gün ondan nur içdi o gündən bəri.
 Simnar xələt aldı, deyim əslini,
-Gözlədiyi haqqın iki mislini.
+Gözlədiyi haqqın iki misilini.
 Çuvalı mirvari, müşk ilə dolu,
 Tutdu qızıl yüklü dəvələr yolu.
 Saysız zər verildi o sənətkara,
@@ -1504,7 +1498,6 @@ Bilsəydi belədir ömrünün sonu
 Üç qarış elərdi tikərkən onu.
 Taxtın payəsini o qədər yüksəlt
 Yıxıldığın zaman çəkmə əziyyət.
-
 @@ 183
 Bu yüksək binadan Nemanın adı
 Göydəki ay kimi qalxıb parladı.
@@ -1618,7 +1611,7 @@ Gətirdi lövhəni, mili meydana,
 Göyün sirlərini öyrətdi ona,
 Öyrətdi nə qədər gizli, aşikar
 Göylərin, yerlərin rümuzları var.
-Nə varsa birbəbir öyrətdi. Bəhram
+Nə varsa birbəbir öyrətdi, Bəhram
 Öyrəndi dərs alıb hər səhər-axşam.
 Elmin dəryasında tapdı pərvəriş,
 Üstürlabdan, zicdan alıb göstəriş,
@@ -1669,11 +1662,11 @@ Yoldaşı kəsildi məclisdə Neman.
 Münzir onu bilik sahibi etdi,
 Neman ox atmağı ona öyrətdi.
 O belə boy atıb namidar oldu,
-Şöhrəti göydə də aşikar oldu.
+Şöhrəti göydə də aşikar oldu,
 O, meydan zövq alar, büsat sevərdi,
 Bir ovu xoşlardı, bir at sevərdi.
 Ölərdi gur üçün düşsə ovlağa,
-Ölü, gordan qaçar necə ırağa?
+Ölü, gordan qaçar necə irağa?
 Nə zaman yay çəkib nişan alardı,
 Oxu gur gözündə qəbir salardı.
 Onun yel yerişli bir atı vardı,
@@ -1681,7 +1674,7 @@ Bu atın elə bil qanadı vardı.
 Qaçışı rahatdı, qədəmi düzgün,
 Əzərdi, tökərdi ovları bütün.
 Qapardı sürətlə yol gedən zaman
-O, topu Günəşdən, qürsü də Aydan.
+O, topu Günəşdən, qürsü də Aydan
 Qohumluq etmişdi fələk bu atla,
 Yarışa bilməzdi külək bu atla.
 Yüz ilan qıvrımı quyruğu vardı,
@@ -2090,7 +2083,7 @@ Yunları olsa da onlara döşək,
 Nankor olmaları yaxşıdır, əlbət,
 Gün gələr ki, onlar çəkər xəcalət.
 Xəyanət üzündən xəcil olar mərd,
-Yaxşı deyil, ona sən də vermə dərd.
+Yaxşı deyil, ona sən də vermə dərd,
 Xəcalət çəkəni etməzlər zəlil,
 Bu zülmkarlıqdır, ədalət deyil.
 Yolundan azdısa iranlılar, mən
@@ -2191,9 +2184,9 @@ Göydə də, yerdə də pərvərdigardır,
 Yoxluq dedikləri onunla vardır.
 Aləmdən başlayıb canlı nə ki var,
 O yüksək fələklər, bu uca dağlar
-Səxa nəqqaşından almışlar surət.
+Səxa nəqqaşından almışlar surət,
 Bütün varlıqlara o vermiş qüvvət.
-Heç bir şeydə onun təmənnası yox.
+Heç bir şeydə onun təmənnası yox,
 Dəhrin ondan başqa bir xudası yox.
 Açdığı düyünlə həyat qurulmuş,
 Adına sitayiş möhrü vurulmuş.
@@ -2389,7 +2382,7 @@ Ta xəcil olmayaq işimizdə biz,
 Çəkməsin mənəvi əzab qəlbimiz..."
 Qocanın sözünü Bəhram dinlədi,
 Verib ləyaqətli bir cavab, dedi:
-"Sizə üzr istəmək yaraşmaz əsla.
+"Sizə üzr istəmək yaraşmaz əsla,
 Aqil o kəsdir ki, vəfadar ola.
 Taxtınızı tutan yaramaza bax,
 O sizcə qocadır, məncə bir uşaq.
@@ -2606,7 +2599,7 @@ Sabitdi, möhkəmdi olduqca baxtı.
 Ütarid ülkəri ona bir eşdi.
 Zöhrə Surə keçdi, Müştəri Qovsə,
 Bu ev ziynətlənib, döndü Firdovsə.
-Hilal onda idi, altıda Bəhram.
+Hilal onda idi, altıda Bəhram,
 Məclisi bəzədi qılınc ilə cam.
 Uzadıb əlini Zühəl Mizana,
 Toplamışdı xəznə yerdən Keyvana.
@@ -2676,7 +2669,6 @@ Yeddipillə taxta oturdu gümrah.
 Başda Çin papağı, tərlan döşütək
 Rumi paltar verdi əyninə bəzək.
 Rumdan gözəllikdə o bac alandı,
-
 @@ 189
 Yaxşılıqda Çindən xərac alandı.
 Qurdu cəmşid kimi taxtı dörd guşə,
@@ -3147,7 +3139,7 @@ Burada, bu damda ona yem verir.
 Bu altmışpilləli uca eyvanı
 Bir nəfəsə çıxır, yorulmur canı.
 Öküz, öküz deyil, bir fildir, düzü,
-Bircə mil də çəkməz piyini özü.
+Bircə mil də çəkməz piyini özü,
 And olsun Allaha, belə yekə, saz
 Öküzü qaldıran əsgər tapılmaz.
 Təəccüb deyilmi ki, onu bir qız
@@ -3306,7 +3298,7 @@ Yollardan o idi vergi, bac alan.
 Şah baxıb ondakı düzgün qələmə,
 Hakim qıldı onu mülki-Əcəmə.
 Üçüncü, qoşunla məşğul olardı,
-Şahın nayibiydi, hörməti vardı.
+Şahın nayibiydi, hörməti vardı,
 Tapşırdı işləri onlara Bəhram,
 Onlar çəkirdilər işlərə əncam.
 Bəhram keyf edərdi gəlib tüğyana,
@@ -3749,7 +3741,6 @@ Boyatma qüvvəsi düşüb duzağa.
 Daşda od ləlini eyləmiş nihan.
 Qızılgül kürəni etmişdi otaq,
 Hikmət palçığından çəkmişdi suvaq
-
 @@ 195
 Büllur bulaqları döydükcə şaxta,
 Olur gümüş kimi su laxta-laxta.
@@ -3806,7 +3797,7 @@ Ev nəşəli, sərvin kölgəsi misal,
 Alabaxta rəngli olan asiman
 Tökmüşdü qan yerə alabaxtadan.
 Qırmızı şərabla dolu büllur cam
-Quru su içində yaş oddu tamam,
+Quru su içində yaş oddu tamam.
 Yeyir gurgözlülər, içirdi şərab,
 Çəkilir şişlərə gur budu kabab.
 Bəhram Gur öz yaxın dostlarıyla hey
@@ -4001,7 +3992,7 @@ Gündə bir günbədə varıb gedərdi.
 Gündə bir otaqda o sahibkamal
 Məclis düzəldərək qurdu cah-calal.
 Harada keyf edib, içib yeyərdi,
-Həmən ev rəngində paltar geyərdi.
+Haman ev rəngində paltar geyərdi.
 Otağın xanımı vuraraq bəzək,
 Bəhramın önündə oturardı tək
 Ki, füsun eyləsin şahın könlünə,
@@ -4272,7 +4263,7 @@ O mənə söylədi: - Zamandır, oyan,
 İstəyə çatmağa, amandır, oyan.
 Qalx, sənə göstərim gizli surəti,
 Açım istədiyin sirri, hikməti.
-Çıxdı həmən saat otaqdan çölə,
+Çıxdı haman saat otaqdan çölə,
 O öndə, mən dalda - yol getdik belə.
 O getdi, mən getdim, ətraf qaranlıq,
 Bir məndim, bir oydu, yoxdu xəlayıq.
@@ -4444,13 +4435,13 @@ Dəyər Xuzistana ləli onların.
 Mina işlənmişdi qolbaqlarında,
 Mirvari sırğalar qulaqlarında.
 Hər gözəl tuturdu şahanə bir şam,
-Pərvanə, his, qayçı yoxdu o axşam.
+Pərvanə, his, qayçı yoxdu o axşam,
 Gəlirdilər belə xoş, yaraşıqlı,
 Sinələr süd kimi, üzlər işıqlı,
 Taxt ilə fərş tutmuş başda hər pəri,
 Cənnət mətahına bənzər yükləri.
 Fərşi döşədilər, taxtı qurdular,
-Səbrimin yolunu yaman vurdular.
+Səbrimin yolunu yaman vurdular,
 Az keçdi, tərk edib Ay da göy tağı,
 Elə bil alçaldı, endi aşağı.
 Uzaqdan bir günəş oldu nümayan,
@@ -4656,7 +4647,7 @@ Yerində qalmadı bir dilbər pəri.
 O xoş çəmənlikdə mən qalınca tək,
 Şərab xumarıyam olduqca, duydum,
 Tər saçımı quru torpağa qoydum.
-Yatdım, axşamadək yatdım bu sayaq;
+Yatdım, axşamadək yatdım bu sayaq:
 Xacə yatırdısa, taleyi oyaq.
 Gecənin ceyranı açınca göbək,
 Döndü müşkü yayan sədəfə fələk.
@@ -4741,8 +4732,8 @@ Dayanma, qətrəni susuz qoyma, dur!
 Bir qətrə su verib yananı doydur.
 Elə bil ki, südə bir xurma düşdü,
 İpək parçasını bir iynə deşdi.
-Başqa fikir varsa, sənindir hökum,
-Arzunun gözünə torpaqlar tökum.
+Başqa fikir varsa, sənindir höküm,
+Arzunun gözünə torpaqlar töküm.
 Elə bil qondu quş, açdı balü pər,
 Nə motal yırtıldı, nə yıxıldı xər.
 Qız dedi: - Bu gecə qayğın azalsın,
@@ -4750,7 +4741,7 @@ Qız dedi: - Bu gecə qayğın azalsın,
 Daşın niyyətindən bu axşam, daşın,
 Nur olar daima yarın, yoldaşın.
 Satma bir çeşməni, gəl, bir qətrəyə,
-Kim ki neştər görər, gərək bal yeyə.
+Kim ki neştər görər, gərək bal yeyə,
 Bir arzu üzünə sən qapı bağla!
 Sevin illər boyu, su kimi çağla!
 Saç oynat, qucaqla, şirin öpüş vur,
@@ -4933,7 +4924,6 @@ Ondan arzunu al, nişanı tuşla,
 Mənim ətəyimi ancaq ki boşla!
 Məni azdırdığı yolla getmədim,
 Qulaq asdımsa da, əməl etmədim.
-
 @@ 201
 Çalışdım ki, olum həyalı, həlim,
 Qızğındı, kəskindi odum, dəmirim.
@@ -5018,7 +5008,7 @@ Etdi səbətimi iplərdən azad.
 Taleyim çıxınca hər bir oyundan,
 Səbətim aşağı gəldi sütundan.
 Bir zaman o məni tərk edib qaçan,
-Oldu üzr istəyən, hörmətlər saçan.
+Oldu üzr istəyən, hörmətlər saçan,
 Dedi: "Söyləsəydim əgər mən yüz il,
 Deyərdin ki, bu iş həqiqət deyil.
 O şey ki, gizlindi gördün göz ilə,
@@ -5074,7 +5064,7 @@ Tacı günəş kimi nur saçdı elə.
 İşıldayan qaşı kəhrəba rəngdi.
 Yollara zər səpib, günbədə getdi,
 Könül şadlığını birə yüz etdi.
-Büsatla otağa şah etdi dəmsaz,
+Büsatla otağa şah etdi dəmsaz.
 Nəşə, mey içində eylədi pərvaz.
 Gecə ev çevrildi naz otağına,
 Aşiqlər büründü sirr duvağına.
@@ -5087,7 +5077,7 @@ Qəbulə keçməzdi bəhanəylə naz.
 Dil açdı söhbəti, sözü məzəli,
 Dedi Çin bəzəkli o Rum gözəli:
 "Ey Tərazın, Rumun, Çinin padşahı,
-Soltanlar ümidi, şahlar pənahı,
+Soltanlar ümidi, şahlar pənahı.
 Hakimlər izzəti, ağasan, ağa,
 Çoxları can atar qulun olmağa.
 Hər kim eyləyərsə başqa bir xəyal,
@@ -5142,7 +5132,7 @@ Dolandı, axtardı, axır yoruldu.
 "Talesizəm" deyib almazdı əyal,
 Yaxşı kəniz tapmaq olmuşdu mahal.
 Üzdü saf olmayan qadınlardan əl,
-Gəzib arayırdı sadə bir gözəl.
+Gəzib arayırdı sadə bir gözəl,
 Bir gün cariyələr satan bir nəfər
 Kəniz alan şaha yetirdi xəbər:
 "Bir xacə Çindəki nigarxanədən
@@ -6224,7 +6214,6 @@ Olacaqdır mənə bir sevimli ər.
 Yox, əgər qırarsa şərti, peymanı,
 Düşsün öz boynuna özünün qanı.
 Kim ki, bu şərtlərə eyləsə əməl,
-
 @@ 207
 Onundur səadət hər şeydən əvvəl.
 Sözünü tutmayan hər an alçalar,
@@ -6629,7 +6618,7 @@ Sanki şah önündə beş növbə çaldım.
 Şah gördü harın at olmuş xeyli ram,
 Xam qamçı üzündən artıq deyil xam.
 Toy etdi, gözləyib dəbi, adəti,
-Yaxşı busat qurdu, pozmadı şərti.
+Yaxşı büsat qurdu, pozmadı şərti.
 Şah toy məclisində saçırdı şəkər,
 Zöhrəylə Süheylə kəbin kəsdilər.
 Bir məclis yarandı cənnətdən gözəl,
@@ -6714,7 +6703,7 @@ Bağ nə qədər şirin, lətif çəməndi,
 Dostlar ondan daha lətifdi, şəndi,
 Orda gecəyədək gün keçirdilər,
 Meyvə yeyirdilər, mey içirdilər.
-Hər yanda qurulub bir şadlıq, busat,
+Hər yanda qurulub bir şadlıq, büsat,
 Yeməklər gəlirdi saatbasaat.
 Gecə müşkdən bir ələm çəkəndə,
 Qır alıb gümüşə qələm çəkəndə,
@@ -6942,7 +6931,7 @@ Hamı beyt oxuyur, vurur şax-şana.
 Elə bir çalhaçal işə salırlar
 Ki, bütün dünyanı ələ alırlar.
 Oynayır Mahanın altında at da,
-Belə vurhavurda, belə busatda.
+Belə vurhavurda, belə büsatda.
 Mahan göz dikdi ki, baxıb görsün at
 Nə üçün altında açıb qol-qanad?
 Gördü altındakı dərddir, xətərdir,
@@ -6960,7 +6949,7 @@ Açılır, bükülür, dönür yumağa.
 Qüzeydə bəslənən bir çöpdü Mahan,
 Qatıb qabağına sel onu dağdan
 Çapırdı, çırparaq o yan, bu yana,
-Əziyyət verirdi azğın insana.
+Əziyyət verirdi əzgin insana.
 Qaçıb sərxoş kimi o baş, bu başa
 Vururdu xəstəni torpağa, daşa.
 Qalxırdı yerindən bəzən dağ kimi,
@@ -7209,7 +7198,7 @@ Alaram səninçin nazəndə dilbər.
 Yaşaram qəlbimi bağlayıb sizə,
 Əməl eyləyərəm istəyinizə.
 Deyilən sözlərə meylin əgər var,
-Əl ver, bu əhd üçün bağlayaq iqrar".
+Əl ver, bu əhd üçün bağlayaq ilqar".
 "Bu nə sözdür, - dedi ona tez Mahan,
 Sərvə layiqmidir tay olsun tikan.
 Dedin övladım ol, odur ki, mən də
@@ -7303,7 +7292,7 @@ Süfrələr saldılar geniş meydana.
 Şam şamın yanında, məclis gözəldi
 Şahlıq sevinc ilə üz-üzə gəldi.
 Onların başçısı bir gözəl pəri,
-Qızıl tacların parlaq gövhəri
+Qızıl taclarının parlaq gövhəri
 Tez gəlib oturdu öz məkanında,
 Gözəllər əyləşdi onun yanında.
 @@ 212
@@ -7415,7 +7404,6 @@ Timsahı andırır açıq dodağı,
 Basıb qucağına yazıq qonağı,
 Öpüşlər götürür, doymur gözləri,
 Ağzından bu olur çıxan sözləri:
-
 @@ 213
 - Ey, başı pəncəmə ilişən cavan,
 Bədəni dişimdə çeynənən insan!
@@ -7626,7 +7614,7 @@ Döndərmiş səmuma şimal yelini.
 Susuz xarabadır, xeyli quraqdır.
 Xəlvəti məşkinə su doldurub Şər,
 Dürr kimi gizlədi, vermədən xəbər.
-Xeyirə: - Yəqin, yolda su var - deyirdi,
+Xeyir: - Yəqin, yolda su var - deyirdi,
 Hər tərəf susuzdu, o bilməyirdi.
 Beləcə bürküdə xeyli getdilər.
 @@ 214
@@ -8308,7 +8296,7 @@ Ayın, ulduzların, qalxaraq gecə,
 Gecə həmdəmindən, səhərzadədən,
 Uysun günbədinin xoş ahənginə,
 Ərğənun rəngini qatsın rənginə.
-Qız sənə söylədi şahın baxtına,
+Qız səna söylədi şahın baxtına,
 Bir də ki, o gözəl tacü-taxtına,
 Dualar oxudu, afərin dedi,
 Bu dövlət artıran bir dua idi.
@@ -8479,7 +8467,7 @@ Bağın ortasında vardı bir eyvan,
 Görünürdü gözə oradan hər yan.
 Xacə gedib ora cəftəni çəkdi,
 Qızlar döndü geri, xacəmiz təkdi.
-Həman bu eyvanda bir dəlik vardı,
+Haman bu eyvanda bir dəlik vardı,
 Oradan aşiyan işıqlanardı.
 Yönəlib dəliyə baxdı, doğrusu,
 Nə gördü, dar çeşmə, dərya qədər su.
@@ -8548,7 +8536,7 @@ Sanma ki, ilanı bunu bacardı,
 Nədən? Dəlik yolu olduqca dardı.
 O gözəllər suda tez çimən kimi,
 İpəkdə bitdilər yasəmən kimi.
-Büründülər tülə, göy kimi təzə,
+Büründülər tülə, göy kimi taza,
 Başladılar ayla işvəyə, naza.
 Vardı içlərində bir şux qəşəngi,
 O - rumi, önündə başqalar zəngi.
@@ -8629,7 +8617,7 @@ Pis nəticə verməz yaxşının işi.
 Qurtarıb xətərdən, batmadan qana
 Atıldı hövlnak hərə bir yana.
 Görməsinlər deyə yoldan aşdılar,
-Həman imarətdən uzaqlaşdılar.
+Haman imarətdən uzaqlaşdılar.
 Alıb dərd yükünü xacə gəlincə,
 Getdi qəm yeməyə, çəkildi küncə.
 Kəniz gəlib tapdı yoldaşlarını,
@@ -8710,7 +8698,6 @@ Süpürüb, suladı bağban o bağı,
 Şah gördü ki, gəlib nəşənin çağı.
 Şərab qədəhini əlinə aldı,
 Bir daş həmən camı sındırdı, saldı.
-
 @@ 219
 Varımı-yoxumu, ey qarət edən,
 Sənsiz neyləyirəm bu dünyanı mən.
@@ -8834,7 +8821,7 @@ Hələ sürmədana getmədən mili,
 Yeni oyun açdı fələyin əli.
 Mağara içində olan tülkülər
 Qismətin üstündə qopardılar şər.
-Həmən tülküləri görüb canavar
+Haman tülküləri görüb canavar
 İstədi eyləsin onları kənar.
 Qorxdular tülkülər bu yalquzaqdan,
 Zağ-zağ titrədilər əsib uzaqdan.
@@ -8947,7 +8934,7 @@ Nə zaman eyləsən haqqa ibadət,
 Ağ libas geyməkdir yaxşı əlamət.
 Qurtardı sözünü yasəmən, nagah
 Çəkib qucağına onu, aldı şah.
-Həmən bu qaydayla gəlincə axşam,
+Haman bu qaydayla gəlincə axşam,
 Qurdu günbədlərdə əyləncə Bəhram.
 O günbəd quran göy bir hünər saçdı,
 Şah üçün yeddicə darvaza açdı.
@@ -8993,7 +8980,7 @@ Göy gülə bəxş etdi abi-həyatı,
 Nəsrinin gövhərə sinmiş yarpağı,
 Tutiya əzirdi süsən budağı.
 Siçanqulağı da saçını aldı,
-Hörüb deyləmi tək çiyninə saldı.
+Hörüb deyləmli tək çiyninə saldı.
 Yarpaq, ot göyərib, qalxıb artalı,
 Həm qayçı kəsildi, həm oldu xalı.
 Sünbül müşk vurub salxıma bənd-bənd,
@@ -9244,7 +9231,7 @@ Sürüyə olardı bu köpək həyan.
 Şəhərdən dönsəydim əgər gec dala,
 Verərdi sürünü tək bu it yola.
 Oldu yataqdarım neçə il belə,
-Düz oldu, uymadı fitnəyə, fələ.
+Düz oldu, uymadı fitnəyə, felə.
 Bir gün mən sürünün yolunu kəsdim,
 Qoyunun sayını bilməkdi qəsdim.
 Gördüm əskik gəlir heyvan yeddi baş,
@@ -9763,8 +9750,7 @@ Atdı kicgahına əlini dərhal.
 Bürüdü sübhədək xəcalət onu,
 Yatmağa qoymadı bu halət onu.
 Günəşin çeşməsi saxsı güldanda
-Reyhanlar yetirib açan zamanda.
-
+Reyhanlar yetirib açan zamanda,
 @@ 224
 Bəhram yağış görmüş təzə reyhana
 Dönərək, dürr səpdi qəlbi yanana.
@@ -10227,7 +10213,7 @@ Yeddi xəznəsi var əsrarın, demək,
 Vurdum uzun, geniş naxışlı bəzək.
 Oxunan zaman bu əsərim sizə,
 Rahatlıq gətirib nur versin gözə.
-Genişdir büsatı, gözəl növrağı:
+Genişdir büsatı, gözəl növrağı;
 Məftun etdim yaman, gözü, qulağı.
 Məna gözəllərim baisdir buna,
 Onlar dargözlüyü atmış bir yana.
@@ -10299,4 +10285,3 @@ Dövlətin hər yerdə görüm baş olsun!
 Fələk rikabında bir fərraş olsun!
 Dövlətin yayılmış, ey şah, hər yana,
 İşlər səadətlə yetişsin sona!
-

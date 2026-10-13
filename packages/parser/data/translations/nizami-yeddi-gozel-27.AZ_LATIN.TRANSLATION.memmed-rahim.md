@@ -27,7 +27,7 @@ Tacı günəş kimi nur saçdı elə.
 Yollara zər səpib, günbədə getdi,
 Könül şadlığını birə yüz etdi.
 
-Büsatla otağa şah etdi dəmsaz,
+Büsatla otağa şah etdi dəmsaz.
 Nəşə, mey içində eylədi pərvaz.
 
 Gecə ev çevrildi naz otağına,
@@ -46,7 +46,7 @@ Dil açdı söhbəti, sözü məzəli,
 Dedi Çin bəzəkli o Rum gözəli:
 
 "Ey Tərazın, Rumun, Çinin padşahı,
-Soltanlar ümidi, şahlar pənahı,
+Soltanlar ümidi, şahlar pənahı.
 
 Hakimlər izzəti, ağasan, ağa,
 Çoxları can atar qulun olmağa.
@@ -127,7 +127,7 @@ Dolandı, axtardı, axır yoruldu.
 Yaxşı kəniz tapmaq olmuşdu mahal.
 
 Üzdü saf olmayan qadınlardan əl,
-Gəzib arayırdı sadə bir gözəl.
+Gəzib arayırdı sadə bir gözəl,
 
 Bir gün cariyələr satan bir nəfər
 Kəniz alan şaha yetirdi xəbər:

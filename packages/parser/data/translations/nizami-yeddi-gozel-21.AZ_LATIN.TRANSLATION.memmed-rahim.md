@@ -127,7 +127,7 @@ Bu altmışpilləli uca eyvanı
 Bir nəfəsə çıxır, yorulmur canı.
 
 Öküz, öküz deyil, bir fildir, düzü,
-Bircə mil də çəkməz piyini özü.
+Bircə mil də çəkməz piyini özü,
 
 And olsun Allaha, belə yekə, saz
 Öküzü qaldıran əsgər tapılmaz.

@@ -69,7 +69,7 @@ Tapşırdın Günəşə, Aya əzəldən.
 Yolunu izləyən: gecə və gündüz
 Sarayında qoşa qulundur, sözsüz.
 
-İşləməzlər, sənin bilməsə layiq,
+İşləməzlər, sənin bilməsə layıq,
 Nə Günəş, nə də Ay yaxşı, yamanlıq.
 
 Yandırdın beyində ağıldan çıraq,
@@ -105,7 +105,7 @@ Kimsənin bu işə çatmaz qüdrəti.
 Sənsiz yaxşı yoxdur, olmaz yaman da,
 Sənsiz yaşayarmı bir şey cahanda?
 
-Lalin atəşini, od rəngli ləli
+Ləlin atəşini, od rəngli ləli
 Alıb daşa verdi qüdrətin əli.
 
 Bu dünya, dünyanı hərlədən fələk
@@ -156,7 +156,7 @@ Sənin dərgahından kənar getmədim.
 Qapıma yolladın nemətimi sən,
 İstəməmiş verdin qismətimi sən.
 
-Qocalmışam sənin öz astanənda,
+Qocalmışam sənin öz astananda,
 Yetiş imdadıma qorxunc zamanda.
 
 Bu sözlər xətadır, bu nədir, aman,

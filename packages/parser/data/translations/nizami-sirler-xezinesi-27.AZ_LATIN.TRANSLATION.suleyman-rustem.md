@@ -97,7 +97,7 @@ Acların qarğışından, söylə, qafilsən məgər?
 Unutma ki, dünyanı fəth etməyə açarsan.
 Dünyada zülm etməyə sən ki yaranmamısan.
 
-Sən hökmdar olmusan, yetişəsən haraya,
+Sən hökmüdar olmusan, yetişəsən haraya,
 Daim məlhəm qoyasan vurulan hər yaraya.
 
 Zəiflərin adəti sənə naz eləməkdir,

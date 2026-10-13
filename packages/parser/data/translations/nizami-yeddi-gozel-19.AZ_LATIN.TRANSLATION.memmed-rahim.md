@@ -27,7 +27,7 @@ Sabitdi, möhkəmdi olduqca baxtı.
 Zöhrə Surə keçdi, Müştəri Qovsə,
 Bu ev ziynətlənib, döndü Firdovsə.
 
-Hilal onda idi, altıda Bəhram.
+Hilal onda idi, altıda Bəhram,
 Məclisi bəzədi qılınc ilə cam.
 
 Uzadıb əlini Zühəl Mizana,

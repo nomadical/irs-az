@@ -152,7 +152,7 @@ Gül və nəsrin kimiydi onun üzündəki tər,
 Bir salxıma bənzərdi üzündə halə, ülkər.
 
 Huri öz köynəyinin yaxasını açmışdı,
-Səhər hətta aləmə nur fərmanı saçmışdı.
+Səhər xətti aləmə nur fərmanı saçmışdı.
 
 Xas və adi adamlar, qəlbiylə, himmətilə
 Bağlanmışdı o nurə bütün məhəbbətilə.

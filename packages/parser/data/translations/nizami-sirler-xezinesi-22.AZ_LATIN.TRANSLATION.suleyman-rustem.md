@@ -118,7 +118,7 @@ Arxa döndər günəşə odur Zərdüştdən nişan;
 Zırnıx oyuncağıdır bu sarı toz — bu günəş,
 Arvad kimi izləmə onu, yerində əyləş!
 
-Doqquz mıxlı pərdədə gördüyün hər nə ki, var,
+Doqquz mıxlı pərdədə gördüyün hər nəki, var,
 Günəşin oyunudur, tutmuş yerində qərar.
 
 Üflə çırağı, anıb o kamallı İsanı,

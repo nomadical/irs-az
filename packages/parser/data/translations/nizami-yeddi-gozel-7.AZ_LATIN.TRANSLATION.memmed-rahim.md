@@ -24,7 +24,7 @@ Yuxusu gələndə yıxıldı yatdı.
 Ey oğul, sənədir sözüm, yaxşı bax,
 Çünki mən yatıram, sənsə qal oyaq.
 
-Adın xoş güldür əbədiyyətin,
+Adın xoş gülüdür əbədiyyətin,
 Məhəmməd isminin möhrüsən mətin.
 
 Şöhrətin Məhəmməd, taleyin xoşdur,

@@ -1,4 +1,3 @@
-@@ 008
 @@ 009
 Bismillah, uca tanrı həm rəhmandır, həm rəhim.
 Tanrı adı açardır xəznələrə, ey həkim!
@@ -484,7 +483,7 @@ Sənin əlinlə tapdı mişki yerin göbəyi.
 Məst olub başdan-başa mişk ətir qoxusundan.
 Torpağın Süleymanın güləyindən yaxşıdır,
 Onun çiçəyi cənnət çiçəyindən yaxşıdır.
-Kə’bə allahu əkbər dediyin yerdir, inan,
+Kə’bə allahü əkbər dediyin yerdir, inan,
 Təbaşir gülabının təşnəsidir hər zaman,
 Dünya taxt və tacını saxlayır yorulmadan,
 Yerlər taxtındır sənin, tacın isə asiman.
@@ -601,8 +600,8 @@ Tövbə gülşəkərini yeyincə səndən ürək,
 Tövbə etdi, gülşəkər gülşəkərlikdən, demək.
 Bəndəliyin topunu əzəldə yaratdılar,
 Könüllər sırasının meydanına atdılar.
-Əli çoğanlı Adəm yeridi irəliyə,
-Əlindəki çoğanla topu götürsün deyə,
+Əli çokanlı Adəm yeridi irəliyə,
+Əlindəki çokanla topu götürsün deyə,
 Sünbül saçaqlarına tərəf atı yol aldı.
 Özü bir güncə düşdü top ortalıqda qaldı.
 Nuh susayıb yetərkən birdən həyat suyuna,
@@ -629,7 +628,7 @@ Xütbəni tamamladı yaratdığın bu dövran.
 Qalx, bu fələkdən daha yaxşı dövrana başla,
 O, buna qadir deyil, sən işlə canla-başla.
 Fələkin xətti sənin ən geniş meydanındır,
-Yer topuna gəlincə, əsiri-çovqanındır.
+Yer topuna gəlincə, əsiri-çovkanındır.
 Nə qədər ki qalxmayıb fəna tozu yoxluqdan,
 Vaxt itirmə, yüyür, çap, səninkidir bu meydan —
 Fəna nəcidir sənin camından suyu alsın,
@@ -690,7 +689,6 @@ Firuzə rəngli bağın çiçəyidir bəxtiyar,
 Rəsəd bağlar, qütübdür, Micəsti açar ancaq.
 Vücudi-əvvəlinsə məqsudu odur bütün,
 Məqsud ayəsi ona göndərilmişdir bu gün.
-
 @@ 018
 Fələk taclı, Süleyman üzüklü hökmürandır,
 Məlik Fəxrəddin ismi, o məşhuri-cahandır.
@@ -1051,7 +1049,7 @@ Bir kimsəyə qaytarma bu kələfin başını.
 Şeir mənimlə tikdi bir soməə, aldı ad,
 Şairlik meyxanadan büsbütün oldu azad.
 Zahid, rahib uyaraq yürüdü mənə tərəf,
-Xirqə və zünnarını eylədi onlar tələf.
+Xirqə və zünnarını eylədi onlar tələb.
 Açılmamış qızıl gül qönçəsiyəm mən hələ,
 Müntəzirəm hələlik şimaldan əsən yelə.
 Əgər göstərsəm təzə sözümü, nəfəsimi,
@@ -1394,7 +1392,7 @@ Gül Nizamidən daha artıq səpirdi şəkər.
 BİRİNCİ XƏLVƏTİN SƏMƏRƏSİ
 Bir tərəfə atınca gülək öz niqabını,
 Xacəsə işə saldı eşqinin rübabını.
-Göründü gözlərinə şirin gülüşlü canan.
+Göründü gözlərinə şirin gülüşlü canan,
 Öyünərək o, gülə, şəkərə verirdi can.
 O ipək paltarlının, ay üzlünün bəlası
 Bəxş etdi xırmanına ayın alov dalğası.
@@ -1418,7 +1416,7 @@ Onun səndələ bənzər xalı ciyər yandırar,
 Gündüzün sədəfində çox misilsiz ətri var.
 Qara xalın qəmindən dəyişib bütün əhval,
 Ayın üzü olmuşdu başdan-ayağa xal-xal.
-Günəşdən artıq ciyər yandırırdı gözləri,
+Günəşdən artıq cigər yandırırdı gözləri,
 Dodağı aydan da çox parladırdı hər yeri,
 Açmışdı öz yükünü xeyli uzaqda ürək
 Ağzı qədər dardı yol çətindi ona yetmək.
@@ -1532,7 +1530,6 @@ Gülün və yasəmənin qulağındaydı bəzək,
 Bir örtük daşıyırdı çiynində ay fələk tək.
 Şəkər, badam töküncə üzündən, dodağından,
 Şəkərdən kömək uman gül dayanmadı bir an.
-
 @@ 028
 Hər baxışı olmuşdu bütün bir dünya can,
 Bir can bütxanəsiydi kirpikləri hər zaman.
@@ -1549,7 +1546,7 @@ Dodağı İsa kimi dirilik nəfəsiydi.
 Gül və nəsrin kimiydi onun üzündəki tər,
 Bir salxıma bənzərdi üzündə halə, ülkər.
 Huri öz köynəyinin yaxasını açmışdı,
-Səhər hətta aləmə nur fərmanı saçmışdı.
+Səhər xətti aləmə nur fərmanı saçmışdı.
 Xas və adi adamlar, qəlbiylə, himmətilə
 Bağlanmışdı o nurə bütün məhəbbətilə.
 Ağzı xəstə qəmzəsi çarçı, olandan bəri
@@ -1583,8 +1580,8 @@ Onu qarşılayırdı yer öpmək üçün bu can.
 Həsəd edən çırağın gözü çopur olmuşdu.
 Hər zülm ki, edirdi o, qəlbə cəfa ilə,
 Zülmü qucaqlayırdı könül bir vəfa ilə.
-O kah göy ot olurdu, mən — su, arxa dolurdum.
-O kah günəş olurdu, mən boyaqçı olurdum.
+O gah göy ot olurdu, mən — su, arxa dolurdum.
+O gah günəş olurdu, mən boyaqçı olurdum.
 Bəhrə aldığım təzə xurmadan o gecə mən,
 Xəbər tutdumsa belə, oldum xəbərsizlərdən.
 Nurdan kəmər bağlayan o təzə ay özünü
@@ -1648,7 +1645,7 @@ Qəflət əhlinin bütün gecələrinin üzü
 Avaralıq üzündən belə qaradır, düzü.
 O gecənin mədhini nə qədər ki, etdim mən,
 Bu mədhi də söylədim yalnız mə’rifətimdən.
-Hər gecəsə yalqızlıq pərdəsinin üzüdür,
+Hər gecəsə yalqızlıq pərdəsinin özüdür,
 Onun şamı idrakın gövhəridir, gözüdür.
 Ona bağlanmış gülab, səndəl öz sirdaşıdır,
 İki, üç dilxəstənin naləsi, göz yaşıdır.
@@ -1926,7 +1923,7 @@ Utanmaqdan başqa şey nə taparsan cavaba?
 Arxa döndər günəşə odur Zərdüştdən nişan;
 Zırnıx oyuncağıdır bu sarı toz — bu günəş,
 Arvad kimi izləmə onu, yerində əyləş!
-Doqquz mıxlı pərdədə gördüyün hər nə ki, var,
+Doqquz mıxlı pərdədə gördüyün hər nəki, var,
 Günəşin oyunudur, tutmuş yerində qərar.
 Üflə çırağı, anıb o kamallı İsanı,
 Bu çıraqdan bir kərə gəl qurtar öz yaxanı.
@@ -2186,7 +2183,7 @@ Kərgədan yeyər filin boynunu, qoparaq,
 Qarışqa çəyirtkənin qıçını yeyər ancaq.
 Dənizə min çay axar, o yenə sakit durar,
 Arxa bir sel gələndə çalxanıb hay qoparar.
-Bu laciverd göylərdə, bu sonsuz kainatda
+Bu lacivərd göylərdə, bu sonsuz kainatda
 Hər kəs özünə görə bir yer tutur həyatda.
 Mətanətli dövlətə layiq hər adam gerçək,
 Yükün az-çoxluğundan əsla qorxmasın gərək.
@@ -2220,7 +2217,6 @@ Yaxşılıq et, olma sən dünya kimi vəfasız,
 Qorx dünyanın sonundan, yaxşılıq eylə yalnız.
 Yaxşılıq et, parlasın yaxşılığın gövhəri,
 Bu maya ilə artar alverçinin dəyəri.
-
 @@ 038
 Əziyyətdə görərsən zülm etsən öz canını,
 Tökərsən öz həyanı, özgələrin qanını.
@@ -2300,7 +2296,7 @@ Sən ki, hər bir bucağa ox atırsan bu qədər,
 Acların qarğışından, söylə, qafilsən məgər?
 Unutma ki, dünyanı fəth etməyə açarsan.
 Dünyada zülm etməyə sən ki yaranmamısan.
-Sən hökmdar olmusan, yetişəsən haraya,
+Sən hökmüdar olmusan, yetişəsən haraya,
 Daim məlhəm qoyasan vurulan hər yaraya.
 Zəiflərin adəti sənə naz eləməkdir,
 Sənin vəzifən isə, onlara can deməkdir.
@@ -2374,7 +2370,7 @@ Boyaqçılardan uzaq deyil paltar boyamaq,
 Günəşin və İsanın yurdu da birdir ancaq.
 Paltar boyamaq yalnız suyun öz sifətidir,
 Boyaqçılıq mehtabın peşəsi, sənətidir.
-Bu laciverd göy, rəngə müştəridir həmişə,
+Bu lacivərd göy, rəngə müştəridir həmişə,
 İsa bununçün etdi boyaqçılığı peşə.
 Havanın arpa qədər rəngi olmadığından
 Bircə arpa qədər də dəyəri yoxdur, inan,
@@ -2500,7 +2496,7 @@ Nərgiz gözünə sürmə çəkən səba yelidir,
 Misi qızıl eləyən kimyagərin əlidir.
 Bədən dediyin nədir? Bir ovuc tökmə palçıq,
 Söz isə könüldədir, odur hər şeydən artıq.
-Gül kəsil öz könlünə padşah olasan belə,
+Qul kəsil öz könlünə padşah olasan belə,
 Malik olasan cana, xacə olasan əqlə..
 Əgər istəsən könlün olsun tük kimi yumşaq
 Bədənini nafə tək sərtliyə öyrət ancaq.
@@ -2735,7 +2731,6 @@ Ox dedi: „Ey ölkəni şadlıq ilə saxlayan,
 Sənin göz yetirdiyin bu mə’sum dilsiz heyvan
 Geymişdir baxışından əyninə dəmir geyim,
 Bu dəmir geyiminə kim ox vura bilər, kim?“
-
 @@ 048
 Toxunar böyüklərin xatırına, keyfinə,
 Mütribin dəysə hərkah başqa bir əl dəfinə,
@@ -3374,7 +3369,6 @@ O hünərli deyildir sənin bildiyin qədər,
 Yox onun qalxanında, qılıncında bir hünər.
 Gəl bu dolaşıq ipə söyləmə artıq ilan,
 Eşqinin qarşısında o bir heçdir hər zaman.
-
 @@ 058
 Sən bu şüşə fələkin yetər çəkmə qəmini,
 Onu yel də sındırar, dəyişər görkəmini.
@@ -3922,7 +3916,7 @@ Aləm daşla doludur baxılsa başdan-başa,
 Lakin az rast gələrsən lə’l doğuran bir daşa,
 Nisbətlə hər ikisi otdur: tikan, yasəmən,
 Bu göz tikanıdır, o, bir tutiyadır əslən.
-Egməsə də arxların suları gülə kömək,
+Etməsə də arxların suları gülə kömək,
 İtirməz öz ətrini əsil gül, əsil çiçək.
 Su lətafət verəndir, tutub adı dünyanı,
 Necə yasəmən edər o çör-çöpü, tikanı.
@@ -4058,13 +4052,12 @@ E’tibarsızlıq ilə məşhurdur dünya, torpaq,
 E’tibarsız dünyaya sən yoldaş olma ancaq.
 Dünya sənin ömrünü qəmlə vurarsa başa,
 Çəkmə gəl öz qəmini, qəmsiz ol, qəmsiz yaşa.
-Bir zəngiyə atası dedi: „Gülmə, a biar!
+Bir zənciyə atası dedi: „Gülmə, a biar!
 Sənin qaralığına ağlamaq gərək zar-zar“.
 Zənci dedi: „Dünyada mənəm ümidsiz ancaq.
 Olsa yaxşıdır mənim üzüm qara, dişim ağ“.
 Qara bir üzdə gülüş, məncə, təəccüb deyil,
 Çünki qara bir bulut ildırım saxlamaz, bil.
-
 @@ 068
 Bu zindanı ürəkdən əgər sevmirsə könül.
 Onda bir ildırım ol, bütün bu aləmə gül,
@@ -4371,7 +4364,7 @@ Sən eşqin dərgahını döyməyə göstər həvəs.
 Söhbət eləməkdənsə sən tək xanəxərabla,
 Xoş olar mən günümü keçirsəm bu şərabla.
 Aradan qapmayınca iki papaqlıq qədər,
-Fələk bir don biçmədi əsla bu ana qədər.
+Fələk bir don biçmədi əsla bu anə qədər.
 Hər nə etsən bu kafir kimi tərpənən aləm,
 Yazacaq ayağına, əlində kəskin qələm.
 Sən üzrün, nazın açsan qapısını dalbadal,
@@ -4394,7 +4387,7 @@ Yanaqları ənlikli bu gəlini bas daşa,
 Gəl qələm çək bu hərfə pozulsun başdan-başa.
 Qurğuşun rəngli göyün sə’y et, üstünə qoy əl,
 Xətlan vilayətindən gələn ata min, yüksəl.
-Fələk doqquz çadırlı o məşhur minbərindən,
+Fələk doqquz çadırlı o məşhur münbərindən,
 Sənə şahlıq xütbəsi oxuyub, desin əhsən,
 Sən iş etdin özünə bayraq yerə salmağı,
 Mənsə adət elədim qaldırmağa bayrağı.
@@ -4431,7 +4424,7 @@ Dəlləksə öz sözünü təkrar edirdi yenə.
 Bu işdə xəlifənin rövnəqi, nuru qaçdı.
 Gedib bu əhvalatı öz vəzirinə açdı.
 Dedi: „Mənim başıma bir dəllək açır kələk,
-Vəzir! Baş sındır, düşün, bu hikməti aç gərək.
+Vəzir! Baş sındır, düşün, bu hikməti aç gərək,
 Damad olmaq istəyir mənə dəlləyin biri,
 Utanıb qızarmayır dedikcə bu sözləri.
 Başım üstə gələrkən qəza kimi hər zaman,
@@ -4631,4 +4624,3 @@ Onun gövhər səpməyi o padşaha mübarək
 Olsun ki, verəcəkdir ona bu gövhər bəzək.
 Çox şükür ki, bu əsər axır tamama yetdi,
 Ömür sona yetməmiş, o, başa çatdı, bitdi.
-

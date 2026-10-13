@@ -43,8 +43,8 @@ Tövbə etdi, gülşəkər gülşəkərlikdən, demək.
 Bəndəliyin topunu əzəldə yaratdılar,
 Könüllər sırasının meydanına atdılar.
 
-Əli çoğanlı Adəm yeridi irəliyə,
-Əlindəki çoğanla topu götürsün deyə,
+Əli çokanlı Adəm yeridi irəliyə,
+Əlindəki çokanla topu götürsün deyə,
 
 Sünbül saçaqlarına tərəf atı yol aldı.
 Özü bir güncə düşdü top ortalıqda qaldı.
@@ -83,7 +83,7 @@ Qalx, bu fələkdən daha yaxşı dövrana başla,
 O, buna qadir deyil, sən işlə canla-başla.
 
 Fələkin xətti sənin ən geniş meydanındır,
-Yer topuna gəlincə, əsiri-çovqanındır.
+Yer topuna gəlincə, əsiri-çovkanındır.
 
 Nə qədər ki qalxmayıb fəna tozu yoxluqdan,
 Vaxt itirmə, yüyür, çap, səninkidir bu meydan —

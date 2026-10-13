@@ -132,7 +132,7 @@ Vurdum uzun, geniş naxışlı bəzək.
 Oxunan zaman bu əsərim sizə,
 Rahatlıq gətirib nur versin gözə.
 
-Genişdir büsatı, gözəl növrağı:
+Genişdir büsatı, gözəl növrağı;
 Məftun etdim yaman, gözü, qulağı.
 
 Məna gözəllərim baisdir buna,

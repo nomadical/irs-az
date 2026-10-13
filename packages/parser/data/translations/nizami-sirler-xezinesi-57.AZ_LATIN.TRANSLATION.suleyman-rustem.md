@@ -47,7 +47,7 @@ Bu işdə xəlifənin rövnəqi, nuru qaçdı.
 Gedib bu əhvalatı öz vəzirinə açdı.
 
 Dedi: „Mənim başıma bir dəllək açır kələk,
-Vəzir! Baş sındır, düşün, bu hikməti aç gərək.
+Vəzir! Baş sındır, düşün, bu hikməti aç gərək,
 
 Damad olmaq istəyir mənə dəlləyin biri,
 Utanıb qızarmayır dedikcə bu sözləri.

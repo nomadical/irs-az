@@ -52,7 +52,7 @@ Yollardan o idi vergi, bac alan.
 Hakim qıldı onu mülki-Əcəmə.
 
 Üçüncü, qoşunla məşğul olardı,
-Şahın nayibiydi, hörməti vardı.
+Şahın nayibiydi, hörməti vardı,
 
 Tapşırdı işləri onlara Bəhram,
 Onlar çəkirdilər işlərə əncam.

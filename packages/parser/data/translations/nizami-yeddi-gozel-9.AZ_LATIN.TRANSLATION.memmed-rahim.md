@@ -133,7 +133,7 @@ Cəlalı, şöhrəti aşdı göyləri,
 Gün ondan nur içdi o gündən bəri.
 
 Simnar xələt aldı, deyim əslini,
-Gözlədiyi haqqın iki mislini.
+Gözlədiyi haqqın iki misilini.
 
 Çuvalı mirvari, müşk ilə dolu,
 Tutdu qızıl yüklü dəvələr yolu.

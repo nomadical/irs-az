@@ -390,7 +390,7 @@ O mənə söylədi: - Zamandır, oyan,
 Qalx, sənə göstərim gizli surəti,
 Açım istədiyin sirri, hikməti.
 
-Çıxdı həmən saat otaqdan çölə,
+Çıxdı haman saat otaqdan çölə,
 O öndə, mən dalda - yol getdik belə.
 
 O getdi, mən getdim, ətraf qaranlıq,
@@ -646,7 +646,7 @@ Mina işlənmişdi qolbaqlarında,
 Mirvari sırğalar qulaqlarında.
 
 Hər gözəl tuturdu şahanə bir şam,
-Pərvanə, his, qayçı yoxdu o axşam.
+Pərvanə, his, qayçı yoxdu o axşam,
 
 Gəlirdilər belə xoş, yaraşıqlı,
 Sinələr süd kimi, üzlər işıqlı,
@@ -655,7 +655,7 @@ Taxt ilə fərş tutmuş başda hər pəri,
 Cənnət mətahına bənzər yükləri.
 
 Fərşi döşədilər, taxtı qurdular,
-Səbrimin yolunu yaman vurdular.
+Səbrimin yolunu yaman vurdular,
 
 Az keçdi, tərk edib Ay da göy tağı,
 Elə bil alçaldı, endi aşağı.
@@ -963,7 +963,7 @@ O xoş çəmənlikdə mən qalınca tək,
 Şərab xumarıyam olduqca, duydum,
 Tər saçımı quru torpağa qoydum.
 
-Yatdım, axşamadək yatdım bu sayaq;
+Yatdım, axşamadək yatdım bu sayaq:
 Xacə yatırdısa, taleyi oyaq.
 
 Gecənin ceyranı açınca göbək,
@@ -1089,8 +1089,8 @@ Bir qətrə su verib yananı doydur.
 Elə bil ki, südə bir xurma düşdü,
 İpək parçasını bir iynə deşdi.
 
-Başqa fikir varsa, sənindir hökum,
-Arzunun gözünə torpaqlar tökum.
+Başqa fikir varsa, sənindir höküm,
+Arzunun gözünə torpaqlar töküm.
 
 Elə bil qondu quş, açdı balü pər,
 Nə motal yırtıldı, nə yıxıldı xər.
@@ -1102,7 +1102,7 @@ Daşın niyyətindən bu axşam, daşın,
 Nur olar daima yarın, yoldaşın.
 
 Satma bir çeşməni, gəl, bir qətrəyə,
-Kim ki neştər görər, gərək bal yeyə.
+Kim ki neştər görər, gərək bal yeyə,
 
 Bir arzu üzünə sən qapı bağla!
 Sevin illər boyu, su kimi çağla!
@@ -1501,7 +1501,7 @@ Taleyim çıxınca hər bir oyundan,
 Səbətim aşağı gəldi sütundan.
 
 Bir zaman o məni tərk edib qaçan,
-Oldu üzr istəyən, hörmətlər saçan.
+Oldu üzr istəyən, hörmətlər saçan,
 
 Dedi: "Söyləsəydim əgər mən yüz il,
 Deyərdin ki, bu iş həqiqət deyil.

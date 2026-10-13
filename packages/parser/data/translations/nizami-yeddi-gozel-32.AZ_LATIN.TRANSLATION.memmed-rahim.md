@@ -33,7 +33,7 @@ Gecə həmdəmindən, səhərzadədən,
 Uysun günbədinin xoş ahənginə,
 Ərğənun rəngini qatsın rənginə.
 
-Qız sənə söylədi şahın baxtına,
+Qız səna söylədi şahın baxtına,
 Bir də ki, o gözəl tacü-taxtına,
 
 Dualar oxudu, afərin dedi,
@@ -288,7 +288,7 @@ Görünürdü gözə oradan hər yan.
 Xacə gedib ora cəftəni çəkdi,
 Qızlar döndü geri, xacəmiz təkdi.
 
-Həman bu eyvanda bir dəlik vardı,
+Haman bu eyvanda bir dəlik vardı,
 Oradan aşiyan işıqlanardı.
 
 Yönəlib dəliyə baxdı, doğrusu,
@@ -390,7 +390,7 @@ Nədən? Dəlik yolu olduqca dardı.
 O gözəllər suda tez çimən kimi,
 İpəkdə bitdilər yasəmən kimi.
 
-Büründülər tülə, göy kimi təzə,
+Büründülər tülə, göy kimi taza,
 Başladılar ayla işvəyə, naza.
 
 Vardı içlərində bir şux qəşəngi,
@@ -511,7 +511,7 @@ Qurtarıb xətərdən, batmadan qana
 Atıldı hövlnak hərə bir yana.
 
 Görməsinlər deyə yoldan aşdılar,
-Həman imarətdən uzaqlaşdılar.
+Haman imarətdən uzaqlaşdılar.
 
 Alıb dərd yükünü xacə gəlincə,
 Getdi qəm yeməyə, çəkildi küncə.
@@ -816,7 +816,7 @@ Yeni oyun açdı fələyin əli.
 Mağara içində olan tülkülər
 Qismətin üstündə qopardılar şər.
 
-Həmən tülküləri görüb canavar
+Haman tülküləri görüb canavar
 İstədi eyləsin onları kənar.
 
 Qorxdular tülkülər bu yalquzaqdan,
@@ -984,7 +984,7 @@ Ağ libas geyməkdir yaxşı əlamət.
 Qurtardı sözünü yasəmən, nagah
 Çəkib qucağına onu, aldı şah.
 
-Həmən bu qaydayla gəlincə axşam,
+Haman bu qaydayla gəlincə axşam,
 Qurdu günbədlərdə əyləncə Bəhram.
 
 O günbəd quran göy bir hünər saçdı,

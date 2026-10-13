@@ -96,7 +96,7 @@ Susuz xarabadır, xeyli quraqdır.
 Xəlvəti məşkinə su doldurub Şər,
 Dürr kimi gizlədi, vermədən xəbər.
 
-Xeyirə: - Yəqin, yolda su var - deyirdi,
+Xeyir: - Yəqin, yolda su var - deyirdi,
 Hər tərəf susuzdu, o bilməyirdi.
 
 Beləcə bürküdə xeyli getdilər.

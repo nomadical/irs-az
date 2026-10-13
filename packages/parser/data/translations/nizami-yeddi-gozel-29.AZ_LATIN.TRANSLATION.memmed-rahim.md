@@ -871,7 +871,7 @@ Sanki şah önündə beş növbə çaldım.
 Xam qamçı üzündən artıq deyil xam.
 
 Toy etdi, gözləyib dəbi, adəti,
-Yaxşı busat qurdu, pozmadı şərti.
+Yaxşı büsat qurdu, pozmadı şərti.
 
 Şah toy məclisində saçırdı şəkər,
 Zöhrəylə Süheylə kəbin kəsdilər.

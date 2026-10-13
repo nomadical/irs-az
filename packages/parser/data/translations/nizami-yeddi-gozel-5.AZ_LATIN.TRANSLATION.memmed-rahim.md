@@ -91,7 +91,7 @@ Onun meydanında şir əsər zağ-zağ,
 Düşməninin atı gedər baş-ayaq.
 
 Səhər qədəhinə tökən zaman mey
-Buz bağlamış sudan od yağdırar hey.
+Buz bağlamış sudan od yağdırar hey,
 
 Mizraq itiləsə əgər bir kərə
 Adi gün çevrilər dönər məhşərə.
@@ -175,7 +175,7 @@ Düşməni kökündən kəsik ağacdır,
 Çarmıxdan asılır kim ona qacdır.
 
 Cəlalının günü bizə nur saçır,
-Üzümüz - qızıl ay, düşmən qaradır.
+Üzümüz - qızıl ay, düşmən qaradır,
 
 Qızıl nallı günəş qalxar, baş verər,
 Mədənə ləl verər, dağa daş verər.
@@ -406,7 +406,7 @@ O kəsə deyərəm daim bəxtiyar,
 Səpdiyi toxumdan görsün elə bar
 
 Ki, dünya durduqca heç pozulmasın,
-Varaqini açsın adıyla şahın.
+Vərəqini açsın adıyla şahın.
 
 Eləsini yox ki, əsrlər keçər,
 Silər şöhrətini uca fələklər.

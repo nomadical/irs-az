@@ -79,7 +79,7 @@ Qarışqa çəyirtkənin qıçını yeyər ancaq.
 Dənizə min çay axar, o yenə sakit durar,
 Arxa bir sel gələndə çalxanıb hay qoparar.
 
-Bu laciverd göylərdə, bu sonsuz kainatda
+Bu lacivərd göylərdə, bu sonsuz kainatda
 Hər kəs özünə görə bir yer tutur həyatda.
 
 Mətanətli dövlətə layiq hər adam gerçək,

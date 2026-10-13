@@ -21,10 +21,10 @@ Yoxluq dedikləri onunla vardır.
 Aləmdən başlayıb canlı nə ki var,
 O yüksək fələklər, bu uca dağlar
 
-Səxa nəqqaşından almışlar surət.
+Səxa nəqqaşından almışlar surət,
 Bütün varlıqlara o vermiş qüvvət.
 
-Heç bir şeydə onun təmənnası yox.
+Heç bir şeydə onun təmənnası yox,
 Dəhrin ondan başqa bir xudası yox.
 
 Açdığı düyünlə həyat qurulmuş,

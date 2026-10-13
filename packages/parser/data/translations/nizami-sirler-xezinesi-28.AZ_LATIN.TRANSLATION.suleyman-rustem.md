@@ -97,7 +97,7 @@ Günəşin və İsanın yurdu da birdir ancaq.
 Paltar boyamaq yalnız suyun öz sifətidir,
 Boyaqçılıq mehtabın peşəsi, sənətidir.
 
-Bu laciverd göy, rəngə müştəridir həmişə,
+Bu lacivərd göy, rəngə müştəridir həmişə,
 İsa bununçün etdi boyaqçılığı peşə.
 
 Havanın arpa qədər rəngi olmadığından

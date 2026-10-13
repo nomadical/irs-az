@@ -180,7 +180,7 @@ Ta xəcil olmayaq işimizdə biz,
 Qocanın sözünü Bəhram dinlədi,
 Verib ləyaqətli bir cavab, dedi:
 
-"Sizə üzr istəmək yaraşmaz əsla.
+"Sizə üzr istəmək yaraşmaz əsla,
 Aqil o kəsdir ki, vəfadar ola.
 
 Taxtınızı tutan yaramaza bax,

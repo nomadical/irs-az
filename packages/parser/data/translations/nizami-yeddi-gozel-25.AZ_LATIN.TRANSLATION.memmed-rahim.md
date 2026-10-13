@@ -142,7 +142,7 @@ Alabaxta rəngli olan asiman
 Tökmüşdü qan yerə alabaxtadan.
 
 Qırmızı şərabla dolu büllur cam
-Quru su içində yaş oddu tamam,
+Quru su içində yaş oddu tamam.
 
 Yeyir gurgözlülər, içirdi şərab,
 Çəkilir şişlərə gur budu kabab.
@@ -430,7 +430,7 @@ Gündə bir otaqda o sahibkamal
 Məclis düzəldərək qurdu cah-calal.
 
 Harada keyf edib, içib yeyərdi,
-Həmən ev rəngində paltar geyərdi.
+Haman ev rəngində paltar geyərdi.
 
 Otağın xanımı vuraraq bəzək,
 Bəhramın önündə oturardı tək

@@ -37,8 +37,8 @@ Həsəd edən çırağın gözü çopur olmuşdu.
 Hər zülm ki, edirdi o, qəlbə cəfa ilə,
 Zülmü qucaqlayırdı könül bir vəfa ilə.
 
-O kah göy ot olurdu, mən — su, arxa dolurdum.
-O kah günəş olurdu, mən boyaqçı olurdum.
+O gah göy ot olurdu, mən — su, arxa dolurdum.
+O gah günəş olurdu, mən boyaqçı olurdum.
 
 Bəhrə aldığım təzə xurmadan o gecə mən,
 Xəbər tutdumsa belə, oldum xəbərsizlərdən.
@@ -133,7 +133,7 @@ Avaralıq üzündən belə qaradır, düzü.
 O gecənin mədhini nə qədər ki, etdim mən,
 Bu mədhi də söylədim yalnız mə’rifətimdən.
 
-Hər gecəsə yalqızlıq pərdəsinin üzüdür,
+Hər gecəsə yalqızlıq pərdəsinin özüdür,
 Onun şamı idrakın gövhəridir, gözüdür.
 
 Ona bağlanmış gülab, səndəl öz sirdaşıdır,

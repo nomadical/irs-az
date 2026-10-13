@@ -52,7 +52,7 @@ Məst olub başdan-başa mişk ətir qoxusundan.
 Torpağın Süleymanın güləyindən yaxşıdır,
 Onun çiçəyi cənnət çiçəyindən yaxşıdır.
 
-Kə’bə allahu əkbər dediyin yerdir, inan,
+Kə’bə allahü əkbər dediyin yerdir, inan,
 Təbaşir gülabının təşnəsidir hər zaman,
 
 Dünya taxt və tacını saxlayır yorulmadan,

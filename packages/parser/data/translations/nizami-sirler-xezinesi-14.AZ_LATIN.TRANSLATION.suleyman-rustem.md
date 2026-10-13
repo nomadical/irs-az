@@ -182,7 +182,7 @@ Bir kimsəyə qaytarma bu kələfin başını.
 Şairlik meyxanadan büsbütün oldu azad.
 
 Zahid, rahib uyaraq yürüdü mənə tərəf,
-Xirqə və zünnarını eylədi onlar tələf.
+Xirqə və zünnarını eylədi onlar tələb.
 
 Açılmamış qızıl gül qönçəsiyəm mən hələ,
 Müntəzirəm hələlik şimaldan əsən yelə.

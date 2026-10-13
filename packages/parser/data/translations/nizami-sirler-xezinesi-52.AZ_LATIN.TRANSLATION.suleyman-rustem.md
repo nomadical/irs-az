@@ -103,7 +103,7 @@ E’tibarsız dünyaya sən yoldaş olma ancaq.
 Dünya sənin ömrünü qəmlə vurarsa başa,
 Çəkmə gəl öz qəmini, qəmsiz ol, qəmsiz yaşa.
 
-Bir zəngiyə atası dedi: „Gülmə, a biar!
+Bir zənciyə atası dedi: „Gülmə, a biar!
 Sənin qaralığına ağlamaq gərək zar-zar“.
 
 Zənci dedi: „Dünyada mənəm ümidsiz ancaq.

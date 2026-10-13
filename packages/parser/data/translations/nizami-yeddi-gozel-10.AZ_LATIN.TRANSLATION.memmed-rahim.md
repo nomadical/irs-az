@@ -171,7 +171,7 @@ Göyün sirlərini öyrətdi ona,
 Öyrətdi nə qədər gizli, aşikar
 Göylərin, yerlərin rümuzları var.
 
-Nə varsa birbəbir öyrətdi. Bəhram
+Nə varsa birbəbir öyrətdi, Bəhram
 Öyrəndi dərs alıb hər səhər-axşam.
 
 Elmin dəryasında tapdı pərvəriş,

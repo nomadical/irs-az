@@ -31,7 +31,7 @@ Bürüdü sübhədək xəcalət onu,
 Yatmağa qoymadı bu halət onu.
 
 Günəşin çeşməsi saxsı güldanda
-Reyhanlar yetirib açan zamanda.
+Reyhanlar yetirib açan zamanda,
 
 Bəhram yağış görmüş təzə reyhana
 Dönərək, dürr səpdi qəlbi yanana.

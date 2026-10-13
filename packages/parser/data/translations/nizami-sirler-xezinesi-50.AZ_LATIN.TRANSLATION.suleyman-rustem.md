@@ -94,7 +94,7 @@ Lakin az rast gələrsən lə’l doğuran bir daşa,
 Nisbətlə hər ikisi otdur: tikan, yasəmən,
 Bu göz tikanıdır, o, bir tutiyadır əslən.
 
-Egməsə də arxların suları gülə kömək,
+Etməsə də arxların suları gülə kömək,
 İtirməz öz ətrini əsil gül, əsil çiçək.
 
 Su lətafət verəndir, tutub adı dünyanı,

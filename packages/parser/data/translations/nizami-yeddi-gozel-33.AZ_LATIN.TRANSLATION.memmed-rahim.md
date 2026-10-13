@@ -73,7 +73,7 @@ Nəsrinin gövhərə sinmiş yarpağı,
 Tutiya əzirdi süsən budağı.
 
 Siçanqulağı da saçını aldı,
-Hörüb deyləmi tək çiyninə saldı.
+Hörüb deyləmli tək çiyninə saldı.
 
 Yarpaq, ot göyərib, qalxıb artalı,
 Həm qayçı kəsildi, həm oldu xalı.

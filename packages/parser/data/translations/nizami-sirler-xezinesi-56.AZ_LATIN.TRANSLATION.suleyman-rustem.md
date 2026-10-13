@@ -119,7 +119,7 @@ Söhbət eləməkdənsə sən tək xanəxərabla,
 Xoş olar mən günümü keçirsəm bu şərabla.
 
 Aradan qapmayınca iki papaqlıq qədər,
-Fələk bir don biçmədi əsla bu ana qədər.
+Fələk bir don biçmədi əsla bu anə qədər.
 
 Hər nə etsən bu kafir kimi tərpənən aləm,
 Yazacaq ayağına, əlində kəskin qələm.
@@ -154,7 +154,7 @@ Gəl qələm çək bu hərfə pozulsun başdan-başa.
 Qurğuşun rəngli göyün sə’y et, üstünə qoy əl,
 Xətlan vilayətindən gələn ata min, yüksəl.
 
-Fələk doqquz çadırlı o məşhur minbərindən,
+Fələk doqquz çadırlı o məşhur münbərindən,
 Sənə şahlıq xütbəsi oxuyub, desin əhsən,
 
 Sən iş etdin özünə bayraq yerə salmağı,

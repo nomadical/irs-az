@@ -31,13 +31,13 @@ Münzir onu bilik sahibi etdi,
 Neman ox atmağı ona öyrətdi.
 
 O belə boy atıb namidar oldu,
-Şöhrəti göydə də aşikar oldu.
+Şöhrəti göydə də aşikar oldu,
 
 O, meydan zövq alar, büsat sevərdi,
 Bir ovu xoşlardı, bir at sevərdi.
 
 Ölərdi gur üçün düşsə ovlağa,
-Ölü, gordan qaçar necə ırağa?
+Ölü, gordan qaçar necə irağa?
 
 Nə zaman yay çəkib nişan alardı,
 Oxu gur gözündə qəbir salardı.
@@ -49,7 +49,7 @@ Qaçışı rahatdı, qədəmi düzgün,
 Əzərdi, tökərdi ovları bütün.
 
 Qapardı sürətlə yol gedən zaman
-O, topu Günəşdən, qürsü də Aydan.
+O, topu Günəşdən, qürsü də Aydan
 
 Qohumluq etmişdi fələk bu atla,
 Yarışa bilməzdi külək bu atla.
