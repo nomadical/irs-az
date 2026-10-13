@@ -32,7 +32,7 @@ Next batch (az.wikisource author pages; counts are linked pages that exist, unch
 - [x] Aşıq Abbas Tufarqanlı — XVII, AZ — wikisource, 82 poems and the dastan "Abbas və Gülgəz" (2 links are red)
 - [x] Xəstə Qasım — XVIII, AZ — wikisource, 81 poems (one page is Molla Qasım's, the dastan page is red)
 - [x] Firidun bəy Köçərli — XX, AZ criticism — wikisource, 35 articles and 61 chapters of Azərbaycan ədəbiyyatı (vol. II is only partly on wikisource)
-- [ ] Fatma xanım Kəminə — XIX, AZ — wikisource, ~19
+- [x] Fatma xanım Kəminə — XIX, AZ — wikisource, 18 ghazals and a qoşma
 - [ ] Üzeyir Hacıbəyov — XX, AZ librettos + satire — wikisource, ~18
 - [ ] Mir Möhsün Nəvvab — XIX, AZ + FA — wikisource, ~16
 - [ ] Qövsi Təbrizi — XVII, AZ — wikisource, ~15

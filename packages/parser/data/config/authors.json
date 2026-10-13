@@ -1394,5 +1394,23 @@
       }
     },
     "collections": []
+  },
+  {
+    "slug": "kemine",
+    "nameAz": "Fatma xanım Kəminə",
+    "nameRu": "Фатма-ханым Кяминя",
+    "nameEn": "Fatma Khanum Kamina",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": ["AZ_ARABIC"],
+    "wikipedia": {
+      "az": "Fatma xanım Kəminə",
+      "ru": "Фатма-ханым Кяминя",
+      "en": "Fatma Khanum Kamina"
+    },
+    "wikisource": {
+      "az": "Fatma xanım Kəminə"
+    },
+    "collections": []
   }
 ]
