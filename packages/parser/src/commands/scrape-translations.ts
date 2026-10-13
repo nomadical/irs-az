@@ -106,7 +106,7 @@ async function scrapeSplit(id: string, dryRun: boolean) {
         translator: cfg.translator,
         translatorNote: cfg.translatorNote,
         year: cfg.year,
-        sourceNote: `https://archive.org/details/${cfg.archiveId}`,
+        sourceNote: cfg.sourceUrl ?? `https://archive.org/details/${cfg.archiveId}`,
         isDefault: true,
         // Drafts until proofread against the scan
         status: cfg.proofread ? 'PUBLISHED' : 'DRAFT',

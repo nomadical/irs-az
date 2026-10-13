@@ -13,11 +13,14 @@ import { cachedGet, cachedGetJson } from '../utils/http';
 import { bookLines, type Line } from './anthology';
 
 const CONFIG_DIR = path.resolve(__dirname, '../../data/config/translations');
+/** Books typed from their scans by hand, where no usable text layer exists: <book id>.txt */
+const PROOFREAD_DIR = path.resolve(__dirname, '../../data/proofread');
 
 export interface SplitConfig {
   id: string;
   layout: 'split';
-  archiveId: string;
+  /** The Internet Archive item read for the text (not needed for a transcribed book) */
+  archiveId?: string;
   title: string;
   translator: string;
   year: number;
@@ -47,6 +50,13 @@ export interface SplitConfig {
   prose?: { left: number; right: number };
   /** Opening lines of the translator's three-line rhymes, kept together among the couplets */
   triplets?: string[];
+  /**
+   * The book was typed from its scans (`data/proofread/<id>.txt`: one printed line per line, headings in
+   * capitals, "@@ <scan>" lines marking where each scan begins) rather than read from its OCR
+   */
+  transcribed?: boolean;
+  /** Where readers find the edition, when it isn't the Internet Archive item `archiveId` */
+  sourceUrl?: string;
   /** Known OCR habits of the scan to undo before corrections: "az" for Azerbaijani Latin text (see azOcr) */
   ocr?: 'az';
   /** Every page checked against the scan: the works go out published */
@@ -94,6 +104,25 @@ export function loadSplitConfig(id: string): SplitConfig {
   return JSON.parse(fs.readFileSync(path.join(CONFIG_DIR, `${id}.json`), 'utf-8'));
 }
 
+async function ocrLines(archiveId: string): Promise<Line[]> {
+  const meta = await cachedGetJson<{ result: { name: string }[] }>(`https://archive.org/metadata/${archiveId}/files`);
+  const xmlName = meta.result.find((f) => f.name.endsWith('_djvu.xml'))?.name;
+  if (!xmlName) throw new Error(`No OCR word positions in ${archiveId}`);
+  return bookLines(await cachedGet(`https://archive.org/download/${archiveId}/${encodeURIComponent(xmlName)}`));
+}
+
+/** A typed book's lines, each on the scan that the last "@@ <scan>" line named */
+function transcribedLines(id: string): Line[] {
+  let page = 0;
+  const out: Line[] = [];
+  for (const text of fs.readFileSync(path.join(PROOFREAD_DIR, `${id}.txt`), 'utf-8').split('\n')) {
+    const mark = text.match(/^@@\s*(\d+)/);
+    if (mark) page = Number(mark[1]);
+    else out.push({ page, x: 0, right: 0, y: 0, height: 0, text });
+  }
+  return out;
+}
+
 /** The poem's verse lines in order, footnotes and page furniture gone, wrapped lines rejoined */
 export async function poemLines(cfg: SplitConfig, opts: { sections?: boolean } = {}): Promise<string[]> {
   return (await poemPageLines(cfg, opts)).map((l) => l.text);
@@ -101,10 +130,7 @@ export async function poemLines(cfg: SplitConfig, opts: { sections?: boolean } =
 
 /** The poem's lines with the scan page each comes from (0-based), for proofreading */
 export async function poemPageLines(cfg: SplitConfig, opts: { sections?: boolean } = {}): Promise<{ page: number; text: string }[]> {
-  const meta = await cachedGetJson<{ result: { name: string }[] }>(`https://archive.org/metadata/${cfg.archiveId}/files`);
-  const xmlName = meta.result.find((f) => f.name.endsWith('_djvu.xml'))?.name;
-  if (!xmlName) throw new Error(`No OCR word positions in ${cfg.archiveId}`);
-  const lines = bookLines(await cachedGet(`https://archive.org/download/${cfg.archiveId}/${encodeURIComponent(xmlName)}`));
+  const lines = cfg.transcribed ? transcribedLines(cfg.id) : await ocrLines(cfg.archiveId!);
 
   const norm = (s: string) => s.replace(/\s+/g, ' ').trim();
   const start = lines.findIndex((l) => norm(l.text).startsWith(cfg.first));
@@ -145,7 +171,7 @@ export async function poemPageLines(cfg: SplitConfig, opts: { sections?: boolean
     // A word or two in lowercase: set right of the margin, the end of the verse line above;
     // left of it, the last words of a footnote
     const margin = margins.get(l.page) ?? l.x;
-    if (/^[a-zа-яё]/.test(text) && text.split(' ').length <= 3) {
+    if (!cfg.transcribed && /^[a-zа-яё]/.test(text) && text.split(' ').length <= 3) {
       if (out.length && l.x > margin + 60) out[out.length - 1].text += ` ${text}`;
       continue;
     }
