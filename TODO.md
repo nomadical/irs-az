@@ -43,7 +43,11 @@ Housekeeping:
 - [x] Delete the empty duplicate authors `nizami-gencevi` and `nesimi` from the DB
 - [x] Publish Səməd Vurğun's *Leyli və Məcnun* and Lipskerov's Russian Nizami (Soviet-era translations count as public)
 
-Now eligible under the Soviet-era and Iranian Azerbaijani exceptions: Abdulla Şaiq, Əliağa Vahid, Şəhriyar and later.
+Now eligible under the Soviet-era and Iranian Azerbaijani exceptions:
+- [x] Şəhriyar — ganjoor: Heydərbabaya salam (both parts; Sarvatian's interleaved Persian translation dropped), 30 Azerbaijani poems, 162 Persian ghazals
+- [ ] Əliağa Vahid — wikisource has only one poem of his own; its 13 pages of his Xaqani translations could become AZ translations of Xaqani's ghazals
+- [ ] Abdulla Şaiq — no author page on wikisource; needs another source
+- And later Soviet-era authors
 
 ## Later
 - [ ] Browser extension — poem of the day on the new-tab page, plus a "random poem" button

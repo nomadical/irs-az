@@ -1473,5 +1473,86 @@
       }
     },
     "collections": []
+  },
+  {
+    "slug": "sehriyar",
+    "nameAz": "Məhəmmədhüseyn Şəhriyar",
+    "nameRu": "Мухаммед Хусейн Шахрияр",
+    "nameFa": "شهریار",
+    "nameEn": "Mohammad-Hossein Shahriar",
+    "type": "POET",
+    "period": "XX əsr",
+    "writingLangs": [
+      "FA",
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Məhəmmədhüseyn Şəhriyar",
+      "ru": "Шахрияр, Мухаммед Хусейн",
+      "en": "Mohammad-Hossein Shahriar"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/shahriar",
+      "collections": [
+        {
+          "catUrl": "/shahriar",
+          "collectionSlug": "sehriyar-heyderbabaya-salam",
+          "titleAz": "Heydərbabaya salam",
+          "lang": "AZ_ARABIC",
+          "flat": true,
+          "stanzas": true,
+          "dropProse": true
+        },
+        {
+          "catUrl": "/shahriar/torki",
+          "collectionSlug": "sehriyar-turkce-seirler",
+          "titleAz": "Türkcə şeirlər",
+          "lang": "AZ_ARABIC",
+          "dropProse": true
+        },
+        {
+          "catUrl": "/shahriar/gozidegh",
+          "collectionSlug": "sehriyar-qezeller",
+          "titleAz": "Qəzəllər (seçmə)",
+          "form": "GHAZAL"
+        }
+      ],
+      "interlinear": [
+        48848
+      ],
+      "titlesAz": {
+        "ganjoor-49097": "Türkün dili",
+        "ganjoor-49098": "Bəhcətabad xatirəsi",
+        "ganjoor-49099": "Səhəndim",
+        "ganjoor-49100": "Həkimə can!",
+        "ganjoor-49101": "İman müştərisi",
+        "ganjoor-49102": "Yata bilməyirəm",
+        "ganjoor-49103": "Şatir oğlan",
+        "ganjoor-49104": "Zaman səsi",
+        "ganjoor-49105": "Getmə, tərsa balası",
+        "ganjoor-49106": "Naz eyləmisən",
+        "ganjoor-49107": "Azadlıq quşu «Varlıq»",
+        "ganjoor-49108": "Qəm basdı qəlyanımı",
+        "ganjoor-49109": "Pərvanə və şam",
+        "ganjoor-49110": "Bəlalı baş",
+        "ganjoor-49111": "İman ilə getdi",
+        "ganjoor-49112": "Ağız yemişi",
+        "ganjoor-49113": "Dünya nə yalan tapmacadır?",
+        "ganjoor-49114": "Hara qaçsın insan?",
+        "ganjoor-49115": "Qasid",
+        "ganjoor-49116": "Gözüm aydın",
+        "ganjoor-49117": "Çabalır ürək sinəmdə",
+        "ganjoor-49118": "Oyun olduq",
+        "ganjoor-49119": "İns və cin",
+        "ganjoor-49120": "Allah boyağı",
+        "ganjoor-49121": "Qafqazlı qardaşlar ilə görüş",
+        "ganjoor-49122": "Ömrün necə keçdi?",
+        "ganjoor-49123": "Əzizə",
+        "ganjoor-49124": "Hilali-Məhərrəm",
+        "ganjoor-49125": "Xan nənə",
+        "ganjoor-78331": "Tarım mənim"
+      }
+    },
+    "collections": []
   }
 ]

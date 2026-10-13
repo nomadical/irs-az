@@ -236,7 +236,7 @@ async function scrapeGanjoor(cfg: AuthorConfig, dryRun: boolean) {
     const colTitles = GANJOOR_COLLECTION_TITLES[col.collectionSlug];
     writeCollectionMd({
       slug: col.collectionSlug,
-      titleAz: colTitles?.az ?? col.collectionSlug, // Unmapped collections need manual editing
+      titleAz: colTitles?.az ?? col.titleAz ?? col.collectionSlug, // Unmapped collections need manual editing
       titleRu: colTitles?.ru,
       titleEn: colTitles?.en,
       authorSlug: cfg.slug,
@@ -245,7 +245,12 @@ async function scrapeGanjoor(cfg: AuthorConfig, dryRun: boolean) {
       status: 'DRAFT',
     });
 
-    const poems = await scrapeGanjoorCollectionRecursive(col.catUrl);
+    const poems = await scrapeGanjoorCollectionRecursive(col.catUrl, {
+      flat: col.flat,
+      stanzas: col.stanzas,
+      dropProse: col.dropProse,
+      interlinear: cfg.ganjoor?.interlinear,
+    });
     const form = col.form ?? mapGanjoorForm(col.catUrl);
 
     for (const poem of poems) {
@@ -258,9 +263,10 @@ async function scrapeGanjoor(cfg: AuthorConfig, dryRun: boolean) {
         {
           slug: workSlug,
           sourceId,
-          titleAz: titles?.az ?? poem.titleFa, // Unmapped sections need manual editing
+          titleAz: cfg.ganjoor?.titlesAz?.[sourceId] ?? titles?.az ?? poem.titleFa, // Unmapped sections need manual editing
           titleRu: titles?.ru,
-          titleFa: poem.titleFa,
+          // "(با ترجمهٔ فارسی)": the Persian translation the title announces is left out with the prose
+          titleFa: col.dropProse ? poem.titleFa.replace(/\s*\(\s*با ترجمهٔ فارسی\s*\)/, '') : poem.titleFa,
           titleEn: titles?.en,
           authorSlug: cfg.slug,
           collectionSlug: col.collectionSlug,

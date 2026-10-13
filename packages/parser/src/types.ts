@@ -257,7 +257,13 @@ export interface AuthorConfig {
       collectionSlug: string;
       form?: PoemForm;
       lang?: Language; // the poems' language when not Persian, e.g. Saib's Turkic ghazals (AZ_ARABIC)
+      flat?: boolean; // only the category's own poems, not its subcategories (a poet's root page)
+      stanzas?: boolean; // lay out by numbered stanzas, not couplets
+      dropProse?: boolean; // leave out prose paragraphs, e.g. a translation appended to a poem
+      titleAz?: string; // the collection's title, where the slug has no entry in GANJOOR_COLLECTION_TITLES
     }[];
+    interlinear?: number[]; // Ganjoor poem ids that interleave a translation with the original; the original is kept
+    titlesAz?: Record<string, string>; // sourceId → title, for poems named rather than numbered
   };
   collections?: {
     slug: string;

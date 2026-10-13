@@ -54,6 +54,11 @@ const SECTIONS: Record<string, Section> = {
   ghtorki: poem('turki-qezel', 'Türki qəzəl', 'Тюркская газель', 'Turkic ghazal'),
   'ghasayed-sa': poem('qeside', 'Qəsidə', 'Касыда', 'Qasida'),
   motefarreghat: poem('perakende', 'Pərakəndə şeir', 'Отдельное стихотворение', 'Miscellaneous poem'),
+  // Şəhriyar: a selection of his Persian ghazals, his Azerbaijani poems, and Heydərbabaya salam in two parts
+  gozidegh: poem('qezel', 'Qəzəl', 'Газель', 'Ghazal'),
+  torki: poem('turkce-seir', 'Türkcə şeir', 'Тюркское стихотворение', 'Azerbaijani poem'),
+  heydarbaba: poem('heyderbabaya-salam', 'Heydərbabaya salam', 'Привет Гейдар-бабе', 'Greetings to Heydar Baba'),
+  heydarbaba2: poem('heyderbabaya-salam-2', 'Heydərbabaya salam, II hissə', 'Привет Гейдар-бабе, часть II', 'Greetings to Heydar Baba, Part II'),
   // Mahsati's separate rubai selection, distinct from divan/robaee
   robmah: { slug: 'rubailer', az: 'Rübailər', ru: 'Рубайят', en: 'Rubaiyat', kind: 'list' },
   // Book-length masnavis, split into chapters

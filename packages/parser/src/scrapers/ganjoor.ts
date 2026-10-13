@@ -36,6 +36,16 @@ interface GanjoorCatResponse {
   };
 }
 
+/** How a collection's verses are laid out; the defaults suit a divan of couplets */
+export interface GanjoorLayout {
+  /** Stanzas between numbered markers ("۱", "(۲)") instead of couplets: Heydərbabaya salam */
+  stanzas?: boolean;
+  /** Leave out prose paragraphs (verse position -1), such as a modern translation appended to a poem */
+  dropProse?: boolean;
+  /** Poems that interleave a translation, line by line, before each line of the original: keep the original */
+  interlinear?: number[];
+}
+
 export interface GanjoorScrapedWork {
   titleFa: string;
   body: string;
@@ -73,6 +83,37 @@ function versesToMarkdown(verses: GanjoorVerse[]): string {
   }
 
   return lines.join('\n').trim();
+}
+
+const STANZA_MARKER = /^\(?[۰-۹0-9]+\)?$/;
+const BIDI = /[\u200e\u200f\u202a-\u202e]/g;
+
+/** Stanzas between numbered markers; what precedes the first marker is the page's own heading */
+function stanzasToMarkdown(verses: GanjoorVerse[], originalOnly: boolean): string | null {
+  const ordered = [...verses].sort((a, b) => a.vOrder - b.vOrder);
+  if (!ordered.some((v) => STANZA_MARKER.test(v.text.replace(BIDI, '').trim()))) return null;
+  const stanzas: string[][] = [];
+  for (const v of ordered) {
+    const text = v.text.replace(BIDI, '').trim();
+    if (!text) continue;
+    if (STANZA_MARKER.test(text)) {
+      stanzas.push([]);
+      continue;
+    }
+    if (!stanzas.length || (originalOnly && v.versePosition !== 1)) continue;
+    stanzas[stanzas.length - 1].push(text);
+  }
+  return stanzas.filter((s) => s.length).map((s) => s.join('\n')).join('\n\n');
+}
+
+function layOut(poem: GanjoorPoemFull, layout: GanjoorLayout): string {
+  let verses = poem.verses;
+  if (layout.dropProse) verses = verses.filter((v) => v.versePosition !== -1);
+  if (layout.stanzas) {
+    const md = stanzasToMarkdown(verses, !!layout.interlinear?.includes(poem.id));
+    if (md) return md;
+  }
+  return versesToMarkdown(verses);
 }
 
 /**
@@ -161,6 +202,7 @@ export async function scrapeGanjoorCollection(
  */
 export async function scrapeGanjoorCollectionRecursive(
   catUrl: string,
+  layout: GanjoorLayout & { flat?: boolean } = {},
 ): Promise<GanjoorScrapedWork[]> {
   const urlPath = catUrl.replace(/^https?:\/\/ganjoor\.net/, '');
   const apiUrl = `https://api.ganjoor.net/api/ganjoor/cat?url=${encodeURIComponent(urlPath)}&poems=true`;
@@ -200,7 +242,7 @@ export async function scrapeGanjoorCollectionRecursive(
 
       results.push({
         titleFa: full.title,
-        body: versesToMarkdown(full.verses),
+        body: layOut(full, layout),
         ganjoorId: full.id,
         sourceUrl: `https://ganjoor.net${full.fullUrl ?? full.urlSlug}`,
         order: results.length + 1,
@@ -208,12 +250,12 @@ export async function scrapeGanjoorCollectionRecursive(
     }
   }
 
-  // Recurse into children
-  const children = data.cat?.children ?? [];
+  // Recurse into children, unless the category's own poems are all that's wanted
+  const children = layout.flat ? [] : data.cat?.children ?? [];
   for (const child of children) {
     const parentPath = data.cat.fullUrl ?? `/${data.cat.urlSlug}`;
     const childUrl = `${parentPath}/${child.urlSlug}`.replace(/\/+/g, '/');
-    const childResults = await scrapeGanjoorCollectionRecursive(`https://ganjoor.net${childUrl}`);
+    const childResults = await scrapeGanjoorCollectionRecursive(`https://ganjoor.net${childUrl}`, layout);
     for (const r of childResults) {
       results.push({ ...r, order: results.length + 1 });
     }
