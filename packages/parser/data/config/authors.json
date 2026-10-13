@@ -1452,5 +1452,26 @@
       "az": "Mir Möhsün Nəvvab"
     },
     "collections": []
+  },
+  {
+    "slug": "qovsi",
+    "nameAz": "Qövsi Təbrizi",
+    "nameRu": "Ковси Табризи",
+    "nameEn": "Qovsi Tabrizi",
+    "type": "POET",
+    "period": "XVI-XVII əsr",
+    "writingLangs": ["AZ_ARABIC", "FA"],
+    "wikipedia": {
+      "az": "Qövsi Təbrizi",
+      "ru": "Ковси Табризи",
+      "en": "Qovsi Tabrizi"
+    },
+    "wikisource": {
+      "az": "Qövsi Təbrizi",
+      "az_titles": {
+        "Cismi-zanmdan mənim hicran nə istər bilmənəm": "Cismi-zarımdan mənim hicran nə istər bilmərəm"
+      }
+    },
+    "collections": []
   }
 ]
