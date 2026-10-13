@@ -86,7 +86,12 @@ body {
   line-height: 1.8;
   min-height:  100dvh;
   transition:  background 0.2s, color 0.2s;
+  /* The main column grows to fill a short page, so the footer sits at the screen's foot
+     instead of floating halfway up it (a search with no results, a 404) */
+  display:        flex;
+  flex-direction: column;
 }
+body > main { flex: 1 0 auto; }
 
 img, video { max-width: 100%; display: block; }
 a { color: inherit; text-decoration: none; text-underline-offset: 0.2em; }
