@@ -439,6 +439,21 @@ export async function planWikisourceAz(cfg: AuthorConfig): Promise<WikisourcePla
 
   const entries = authorEntries(authorPage.wikitext);
   const pages = await fetchPages(entries.map((e) => e.title));
+  // Pages vandalised since they were proofread are read at the revision the config names
+  for (const [title, revid] of Object.entries(cfg.wikisource?.az_revisions ?? {})) {
+    const page = pages.get(title);
+    if (!page) continue;
+    const data = await mediawikiApi<QueryResponse>(SITE, {
+      action: 'query',
+      prop: 'revisions',
+      rvprop: 'content',
+      rvslots: 'main',
+      revids: String(revid),
+    });
+    const content = data.query?.pages?.[0]?.revisions?.[0]?.slots.main.content;
+    if (content == null) console.warn(`  ${title}: revision ${revid} not found, using the current text`);
+    else pages.set(title, { ...page, wikitext: content });
+  }
 
   const plan: WikisourcePlan = { collections: [], works: [], skipped: [] };
   const seenPages = new Set<number>();

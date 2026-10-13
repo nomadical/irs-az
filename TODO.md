@@ -36,7 +36,7 @@ Next batch (az.wikisource author pages; counts are linked pages that exist, unch
 - [x] Üzeyir Hacıbəyov — XX, AZ librettos + satire — wikisource, 2 comedies, 5 libretti (Rüstəm və Söhrab: act I only), 10 articles and sketches, Milli marş
 - [x] Mir Möhsün Nəvvab — XIX, AZ + FA — wikisource, 15 poems; Təzkireyi-Nəvvab skipped (2018 translation by living translators)
 - [x] Qövsi Təbrizi — XVII, AZ — wikisource, 13 ghazals and 2 other poems
-- [ ] Nəriman Nərimanov, Əli bəy Hüseynzadə, Heyran xanım, Mirzə Ələsgər Növrəs, Kişvəri — wikisource, 5–12 each
+- [x] Nəriman Nərimanov (29: 4 plays, stories, feuilletons, letters), Əli bəy Hüseynzadə (10 poems), Heyran xanım (9), Mirzə Ələsgər Növrəs (6), Kişvəri (8) — wikisource
 - Too little on wikisource: Çəmənzəminli (2), Süleyman Sani Axundov (1), Nişat Şirvani (2), Məsihi (1), Qənizadə (1); no author page: Seyid Nigari, Möcüz, Abdulla Tofiq Sur, Ömər Faiq Nemanzadə, Nəbati
 
 Housekeeping:

@@ -2,8 +2,9 @@
  * Birth and death years from Wikidata (P569, P570). Wikipedia infoboxes on az and ru mostly
  * pull these from Wikidata through templates, so the wikitext has nothing to parse.
  *
- * A date known only to the decade or century, one qualified "circa", or one of several
- * competing values (Füzuli's birth: 1480 or 1494) is marked approximate.
+ * A date known only to the decade, one qualified "circa", or one of several competing
+ * values (Füzuli's birth: 1480 or 1494) is marked approximate; one known only to the
+ * century is left out.
  */
 import type { AuthorConfig } from '../types';
 import { findWikidataItem, type WikidataItem } from './portraits';
@@ -17,6 +18,8 @@ export interface Lifespan {
 }
 
 const YEAR_PRECISION = 9;
+// A century ("+1600", precision 7) names no year at all: Kişvəri's "1450–1600" means XV–XVI əsr
+const DECADE_PRECISION = 8;
 const CIRCA = 'Q5727902';
 
 function year(item: WikidataItem, prop: string): { year?: number; approx?: boolean } {
@@ -25,7 +28,9 @@ function year(item: WikidataItem, prop: string): { year?: number; approx?: boole
   const chosen = preferred.length ? preferred : claims;
   if (!chosen.length) return {};
 
-  const values = chosen.map((c) => {
+  const dated = chosen.filter((c) => c.mainsnak.datavalue.value.precision >= DECADE_PRECISION);
+  if (!dated.length) return {};
+  const values = dated.map((c) => {
     const v = c.mainsnak.datavalue.value as { time: string; precision: number };
     const y = parseInt(v.time.match(/^[+-]0*(\d+)/)?.[1] ?? '', 10);
     const circa = (c.qualifiers?.P1480 ?? []).some((q: any) => q.datavalue?.value?.id === CIRCA);

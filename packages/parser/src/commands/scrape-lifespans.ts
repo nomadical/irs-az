@@ -30,9 +30,15 @@ export const scrapeLifespansCommand = new Command('scrape-lifespans')
         continue;
       }
       const md = matter(fs.readFileSync(file, 'utf-8'));
-      for (const key of ['bornYear', 'bornYearApprox', 'diedYear', 'diedYearApprox'] as const) {
-        if (life[key] != null) md.data[key] = life[key];
-        else delete md.data[key];
+      // Wikidata's years replace the file's; where it has none, or the same year, what was set by
+      // hand stays (Tufarqanlı's unsourced 1600 is marked approximate in his file only)
+      for (const [year, approx] of [['bornYear', 'bornYearApprox'], ['diedYear', 'diedYearApprox']] as const) {
+        if (life[year] == null) continue;
+        if (md.data[year] !== life[year]) {
+          md.data[year] = life[year];
+          delete md.data[approx];
+        }
+        if (life[approx]) md.data[approx] = true;
       }
       fs.writeFileSync(file, matter.stringify(md.content, md.data), 'utf-8');
     }

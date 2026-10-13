@@ -1554,5 +1554,123 @@
       }
     },
     "collections": []
+  },
+  {
+    "slug": "nerimanov",
+    "nameAz": "Nəriman Nərimanov",
+    "nameRu": "Нариман Нариманов",
+    "nameEn": "Nariman Narimanov",
+    "type": "WRITER",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Nəriman Nərimanov",
+      "ru": "Нариманов, Нариман Наджаф оглы",
+      "en": "Nariman Narimanov"
+    },
+    "wikisource": {
+      "az": "Nəriman Nərimanov"
+    },
+    "collections": []
+  },
+  {
+    "slug": "huseynzade",
+    "nameAz": "Əli bəy Hüseynzadə",
+    "nameRu": "Али-бек Гусейнзаде",
+    "nameEn": "Ali bey Huseynzade",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "skipSources": ["wikisource-az-24319", "wikisource-az-24321"],
+    "wikipedia": {
+      "az": "Əli bəy Hüseynzadə",
+      "ru": "Гусейнзаде, Али-бек Гусейн оглы",
+      "en": "Ali bey Huseynzade"
+    },
+    "wikisource": {
+      "az": "Əli bəy Hüseynzadə"
+    },
+    "collections": []
+  },
+  {
+    "slug": "heyran",
+    "nameAz": "Heyran xanım",
+    "nameRu": "Хейран-ханум",
+    "nameEn": "Heyran Khanum",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Heyran xanım",
+      "ru": "Хейран-Ханум",
+      "en": "Heyran Donboli"
+    },
+    "wikisource": {
+      "az": "Heyran xanım",
+      "az_revisions": {
+        "Oldu, ya rəbb, həlak insanlar": 38206
+      },
+      "az_titles": {
+        "Oldu, ya rəbb, həlak insanlar": "Oldu, ya rəbb, həlak insanlar",
+        "Ya rəb, kərəm et, ol büti-mehparə qayıtsın": "Ya rəb, kərəm et, ol büti-məhparə qayıtsın"
+      }
+    },
+    "collections": []
+  },
+  {
+    "slug": "novres",
+    "nameAz": "Mirzə Ələsgər Növrəs",
+    "nameRu": "Мирза Алескер Новрес",
+    "nameEn": "Mirza Alasgar Novras",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Mirzə Ələsgər Növrəs",
+      "ru": "Мирза Алескер Новрес"
+    },
+    "wikisource": {
+      "az": "Mirzə Ələsgər Növrəs"
+    },
+    "collections": []
+  },
+  {
+    "slug": "kisveri",
+    "nameAz": "Kişvəri",
+    "nameRu": "Кишвери",
+    "nameEn": "Kishvari",
+    "type": "POET",
+    "period": "XV əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Kişvəri",
+      "ru": "Кишвери",
+      "en": "Kishvari"
+    },
+    "wikisource": {
+      "az": "Kişvəri",
+      "az_titles": {
+        "Hy saçı sünbül, yüzü lalə, gözü ahubərə": "Ey saçı sünbül, yüzü lalə, gözü ahubərə"
+      },
+      "az_extra": {
+        "Divan (Kişvəri)": {
+          "collection": "kisveri-qezeller",
+          "separator": "'''***'''",
+          "form": "GHAZAL"
+        }
+      }
+    },
+    "collections": []
   }
 ]

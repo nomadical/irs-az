@@ -221,6 +221,7 @@ export interface AuthorConfig {
     az_collections?: Record<string, string>; // AZ page title or author-page heading → collection slug
     az_aliases?: string[]; // other spellings of the author's name in page headers
     az_titles?: Record<string, string>; // AZ page title → work title, where the page's header is wrong
+    az_revisions?: Record<string, number>; // AZ page title → the revision to read, where later edits vandalised it
     az_cut?: Record<string, string>; // AZ page title → the words where it runs on into pages of their own; cut there
     /**
      * Pages the author page doesn't link: AZ page title → collection slug, or, for a page of
