@@ -44,7 +44,7 @@ Dostluğu, qardaşlığı yaddan dilə!
 İçməli su, get, Xorasandan dilə!
 
 Cəhd elə dəryanı keçəndən sora,
-Tap Təbəristan, tərəbistan dilə!*
+Tap Təbəristan, tərəbistan dilə!
 
 Məqsədü amalını Amüldə gör,
-Görgana get, Yusifi ordan dilə!*
+Görgana get, Yusifi ordan dilə!

@@ -92,7 +92,7 @@ Doğum və quyruq əlindən olubdular bizar.
 
 Həmişə qorxu içində: necə keçər əhval,
 *
-Həmişə dəhşət içində: nə vəqt çatar ilğar?*
+Həmişə dəhşət içində: nə vəqt çatar ilğar?
 
 O vaxt zülm olunurdu mənə, nəhayətdə,
 Yetişdi imdada ta ləşkəri-zəfərasar.
