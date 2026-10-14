@@ -1,0 +1,38 @@
+---
+slug: vezirov-tercumeyi-halim
+sourceId: anl-8289-t24
+titleAz: Tərcümeyi-halım
+authorSlug: vezirov
+collectionSlug: vezirov-meqaleler
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: PROSE
+order: 6
+sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=8289&pno=211'
+status: DRAFT
+---
+Mən 1854-cü ildə bahar aylarında Şuşa şəhərində anadan doğulmuşam. Məni on iki yaşında məktəbə göndəriblər. Üç ayın ərzində Quran oxumağı öyrənib, yazıya başladım. Bir ildən sonra məni Şuşa şəhərinin mülkiyyə məktəbinə verdilər. Burada məni bir müəllimə tapşırdılar ki, kardon üzərində yazılmış rus əlifbasını mənə təlim etsin. Mənim yeni müəllimim Mkırtıç adlı bir erməni idi. Bu zalım adət etdiyindən məni haqqa və nahaqqa ya kardon ilə və ya əli ilə döyərdi. Axırda bu işgəncələrə davam etməyib məktəbdən qaçmağa məcbur oldum. Xiş əqvamımdan birisi məni istedadsız bilərək öz yanına alıb rus qəvaidi-lisaniyyəsinə aşina etməyə çalışdı ki, bəlkə məni kənd mirzəliyinə qəbul eləsinlər. 1868-ci ildə anamın göz yaşına baxmayıb, dərs oxumaq üçün qaçıb Bakıya gəldim. Anamın ağlaması bundan ötəri idi ki, bəlkə mən kənd mirzəsi olub ailəmizi saxlayam, çünki bizim həyatımız nəhayət üsrət ilə keçirdi. Atam naxoş və bacarıqsız bir adam idi. Bizi ancaq anamız çalışıb para qazanmaqla saxlardı. Qohum-qardaşlarımızın bizə kömək etməmələrindən dolayı rəhmsizlikləri məni çox dilgir və mütəəssir edirdi. O vaxtlar mənim yadıma düşdükcə indi də ürəyim parə-parə olur.
+
+Bakıya gəldim, indiki realnı məktəbi onda “realnaya gimnaziya” adlanır idi. İkinci klasa imtahan verdim. Amma nə coğrafiya və nə tarixi-təbii bilirdim. Məhz mənim hazırcavablığımdan ötəri məni qəbula rədd etmədilər. Bir il Bakıda mövcud əqrəbamızın yanında oldum. Bir ildən sonra məni padşahlıq xərcinə pansiona götürdülər.
+
+Əvvəlinci iki il gimnaziyada miyanə oxuyurdum. Amma ondan sonra gün-gündən yaxşılaşdım. Altı ildən sonra gümüş medal ilə məktəbi tamam etdim.
+
+Qırx il bundan əqdəm 1873-cü ildə altıncı klasda olduğum halda birinci dəfə rus teatrına getdim. Bu gecə mənə nəhayət dərəcədə əsər elədi. Onun necə bir nəsnə olduğunu başa düşdüm. Sabahı günü gimnaziya müəllimi Həsənbəy Məlikov cənablarına rücu edərək sordum ki: Aya bizim dilimizdə teatr əsərləri ya məzhəkə və ya faciə varmıdır? Mümaileyh Məlikov mərhum Mirzə Fətəli Axundovun “Hacı Qara” komediyasını tapdı. Bu komediyanı pansionda olan müsəlman şagirdləri ilə bir yerdə oynamaq üçün hazırlanmağa başladıq. Hər gün nahardan sonra pansionun nahar otağında hazırlanırdıq. Bizim hazırlanmamıza Həsənbəy Məlikov cənabları tamaşa edirdi. Amma şagirdləri mən hazırlayırdım. Hacı Qara rolunu sabiq Gəncə şəhər qlavası mərhum Əsgərbəy Adıgözəlov Gorani oynayırdı. Mən isə arvad rolu götürdüm.
+
+Tamaşa günü çox adam var idi. Əksəri ermənilərdən idi. Bakı qubernatoru mütəvəffa Staroselski öz əyalı ilə hazır idilər. Bizim bu teatrımız camaata nəhayət dərəcədə xoş gəldi. Tamaşadan sonra qubernatorun dilmancı mərhum Həsənbəy Həbibbəyov bizi qonaq elədi. Haman gecə müəllimimiz Həsənbəy Məlikov teatr müsənnifi Mirzə Fətəli Axundova təbrik teleqramı göndərdi. Müsənnif Axundov iki vərəqə dolusu böyük bir rizaməndlik kağızı yazmışdı. Axırda bunu əlavə etmişdi ki: “Bu gün Hacı Qaranı səhnədə göstərməklə mənim ömrümün üzərinə on il daha artırdınız”.
+
+İndi çox təəssüf edirəm ki, bu kağızı tapa bilmirəm, amma bunu bilirəm ki, o məktub mərhum Həsənbəy Məlikovda idi. Neçə il bundan əqdəm mərhum Həsənbəy Qafqaz mətbuatının ikinci atası məqamında olan “Həyat” qəzetində Qafqazda teatr təsisi barəsində məqalə yazdıqda müəssisliyi öz üzərinə götürdü. Mən haman qəzetdə ona etiraz edərək Mirzə Fətəli Axundovun yazdığı bu kağızını göstərməyi təklif elədim. Çünki Qafqazda birinci dəfə olaraq səhneyi-tamaşaya qoyulan “Hacı Qara” komediyasının banisi və Qafqazda teatrçılığın müəssisi mən olduğum bu məktubdan aşkar məlum olurdu. Əlavə olaraq bunu da əlavə etmişdim ki, “neçə müddət bundan irəli mən Həbibbəy Mahmudbəyova və Mehdibəy Hacınskiyə vəsiyyət etdim ki, mən öləndən sonra o cavanlar razı olmasınlar teatrın əvvəl binasını bir özgə kəs öz üzərinə götürə. Əlhəmdülillah, yoldaşlarım ölməmişlər. Sübut edə billəm. Dübarə ərz edirəm: bu iş böyük bir şey deyil, amma mən ondan əl çəkə bilmərəm. Çünki o teatr tamam müsəlman aləmində birinci idi”.
+
+Beləliklə, teatrın müəssisi kim idi məsələsi mənim ilə Həsənbəy arasında mübahisəli qaldı.
+
+Gimnaziyada oxuduğum axırıncı iki ildə başqalarına dərs verməyə başladım. Gecələr saat on birədək məşğul bulunurdum, ondan sonra öz dərslərimi oxuyardım və asudə olan vaxtlarımı da məzhəkə yazmağa sərf edərdim. Məktəb idarəsi gimnaziyada mənə bir otaq vermişdi. Çox çalışmaqdan bədənim zəifləmişdi. Bununla bərabər yenə öz işimdən dəstbədar olmurdum. Gimnaziyanı qurtaranadək altı yüz manat para toplamışdım. Bu paradan savay heç kimsədən müavinət gözlədiyim yox idi. Bununla bərabər heç bir şeydən xof etməyib Peterburqda darülfünuna daxil oldum. Bakıdan hərəkət etdiyimdən əvvəl dövlətli xişü əqvamıma neçə məktublar yazıb, dərdi-dilimi izhar etməklə müavinətlərini istədim. Onlar nəinki maddi kömək, hətta məktub yazmağa belə tənəzzül buyurmadılar.
+
+Peterburqda batdağ qızdırmasına giriftar oldum. Üç günün müddətində elə bir halətə gəldim ki, sağ böyrümdən sol böyrüm üstə dönməkdən aciz qaldım. Bir rus övrəti mənə xidmət edirdi. Doğma ana kimi pərəstkarlıq eləyirdi. Əgər qəzavü qədər məni o övrətlə rast gətirsə, mən onun qarşısında yıxılıb ayaqlarını öpməyi özümə bir vəzifə bilməklə iftixar edərdim. Məni Allah saxladığı halda, o övrət saxladı. Həkimlər mənim Peterburqdan Moskvaya köçməyimi məsləhət gördülər.
+
+1874-cü ilin sentyabrının 27-də Moskvaya gəldim və Petrovski Akademiyasına daxil oldum. O vaxt ancaq səksən manat param qalmış idi. Bunun əlli manatını tədris haqqı verdim. Elə bir halətdə qalmış idim ki, onun necəliyini yalnız bir Allah bilir. Havası soyuq Moskvada mənim üstümə örtəcək bir yorğanım da yox idi. Gecə üstümə dünya malından təkcə gümanım gələn bircə palazımı çəkərdim. Bu palaz da mənim hali-pərişanım kimi bir halda idi ki, onun ancaq öküzlərin üstünə örtülməyə ləyaqəti var idi. Palaz altında yatmağım üçün təxəllüsüm “Dərviş” qaldı. Rəhmanirrəhim Allah nəzərini mənim üzərimdən kəsmədi. Moskvada fövqəladə imtahan verdiyim üçün Akademiya mənə stependiya verdi. İndi özümü dörd il müddəti təmin edilmiş hesab etdim. Üç ayın parasını qabaqca alıb özümə lazım bəzi nəsnələr (şeylər) aldım. Palazımdan əl çəkdim. Əgər bu palaz indi əlimə keçərsə çox baha qiymətə alardım.
+
+Bu neçə il ərzində Akademiyada oxuduğum zaman Bakıda müəllimimiz Həsənbəy Məlikov cənabları “Əkinçi” qəzetini nəşr etməyə başladı. Mən dəxi yavaş-yavaş məqalələr yazmaqda idim. Bu halda mənim arqadaşım Vladimir Korolenko idi ki, indi Rusiyanın ən böyük və ən məşhur ədibi və mühərriri hesab edilir.
+
+Dörd ildən sonra Akademiyanı ikmal edib Gəncə quberniyası Dilican qəsəbəsində meşəbəyi oldum. Çox müddət keçmədi ki, mənim həyat və məişətim yenə pərişanlığa üz tutdu. Rusiyanın ən birinci məqami-iftixarı olan Petrovski Akademiyasının adı çəkildikdə çoxları qorxardı. O cəhətdən Akademiya məzunları onların nəzərlərində laübalı və ziddməslək hesab olunurdular. Mən dəxi meşəbəyi olduğum halda, Allah şahiddir ki, günahsız olaraq bu cümləyə qurban edildim. Mən həmişə vaxt fəxr edərdim ki, Petrovistəm. Ədalətsizliklə məzlum olmuşam. Və buna cəhət bu idi ki, camaat məni sevərdi. Və onun arasında şöhrətim var idi.
+
+Qulluqdan ixrac olunandan sonra öz milli ədəbiyyatıma məşğul oldum. Nə qədər gücüm vardısa, bacardığım qədər yazdım. Ölməyib sağ qalar isəm yenə yazacağam, buna səbəb olduğu üçün məni təqib edənlərdən artıq dərəcədə razıyam.

@@ -516,7 +516,7 @@ const stripMarks = (body: string) => body
 const PART = /^### (.+ (pərdə|fəsil|məclis)|.+ şəkil|[IVXLC]+\.?)$/i;
 const SPLIT_PROSE = 40_000;
 
-function parts(body: string, layout: Layout): { title: string | null; body: string }[] {
+export function parts(body: string, layout: Layout): { title: string | null; body: string }[] {
   const lines = body.split('\n');
   const heads = lines.map((l, i) => (PART.test(l) ? i : -1)).filter((i) => i >= 0);
   // Acts always; chapters only when the work is long. Numbered parts inside chapters stay inside

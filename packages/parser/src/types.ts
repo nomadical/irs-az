@@ -251,6 +251,8 @@ export interface AuthorConfig {
   };
   /** The 2004–2005 Latin-script state reprints the National Library serves; see scrapers/latin-reprint */
   reprint?: { volumes: import('./scrapers/latin-reprint').ReprintVolume[] };
+  /** A book typed from scans into data/proofread; see commands/scrape-transcribed */
+  transcribed?: import('./commands/scrape-transcribed').TranscribedBook;
   ganjoor?: {
     poetUrl?: string; // e.g. "https://ganjoor.net/fuzuli"
     poetId?: number; // Ganjoor poet ID for API calls

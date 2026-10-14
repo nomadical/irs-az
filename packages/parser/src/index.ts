@@ -11,6 +11,7 @@ import { scrapeTranslationsCommand } from './commands/scrape-translations';
 import { scrapePortraitsCommand } from './commands/scrape-portraits';
 import { scrapeLifespansCommand } from './commands/scrape-lifespans';
 import { scrapeReprintCommand } from './commands/scrape-reprint';
+import { scrapeTranscribedCommand } from './commands/scrape-transcribed';
 import { tagWorksCommand } from './commands/tag-works';
 import { scrapeBookCommand } from './commands/scrape-book';
 
@@ -31,6 +32,7 @@ program.addCommand(scrapeTranslationsCommand);
 program.addCommand(scrapePortraitsCommand);
 program.addCommand(scrapeLifespansCommand);
 program.addCommand(scrapeReprintCommand);
+program.addCommand(scrapeTranscribedCommand);
 program.addCommand(tagWorksCommand);
 program.addCommand(scrapeBookCommand);
 

@@ -1900,5 +1900,64 @@
       ]
     },
     "collections": []
+  },
+  {
+    "slug": "vezirov",
+    "nameAz": "Nəcəf bəy Vəzirov",
+    "nameRu": "Наджаф-бек Везиров",
+    "nameEn": "Najaf bey Vazirov",
+    "type": "PLAYWRIGHT",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Nəcəf bəy Vəzirov",
+      "ru": "Везиров, Наджаф-бек Фатали-бек оглы",
+      "en": "Najaf bey Vazirov"
+    },
+    "transcribed": {
+      "file": "vezirov-eserleri.md",
+      "bibid": 8289,
+      "sections": [
+        {
+          "first": "Ev tərbiyəsinin bir şəkli",
+          "collection": "vezirov-pyesler",
+          "titleAz": "Pyeslər",
+          "genre": "PLAY",
+          "layout": "play"
+        },
+        {
+          "first": "Ağa Kərim xan Ərdəbili",
+          "collection": "vezirov-iqtibaslar",
+          "titleAz": "İqtibaslar",
+          "genre": "PLAY",
+          "layout": "play"
+        },
+        {
+          "first": "Ağıçı",
+          "collection": "vezirov-hekayeler",
+          "titleAz": "Hekayələr",
+          "genre": "PROSE",
+          "layout": "prose"
+        },
+        {
+          "first": "Balaca mütəfərriqələr",
+          "collection": "vezirov-muteferriqeler",
+          "titleAz": "Balaca mütəfərriqələr",
+          "genre": "PROSE",
+          "layout": "prose",
+          "pieces": true
+        },
+        {
+          "first": "“Əkinçi” qəzetindəki məqalələr",
+          "collection": "vezirov-meqaleler",
+          "titleAz": "Məqalələr",
+          "genre": "PROSE",
+          "layout": "prose"
+        }
+      ]
+    },
+    "collections": []
   }
 ]
