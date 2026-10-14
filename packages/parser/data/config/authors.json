@@ -1157,7 +1157,38 @@
       "AZ_ARABIC"
     ],
     "skipSources": [
-      "wikisource-az-24325"
+      "wikisource-az-24325",
+      "wikisource-az-5848",
+      "wikisource-az-7410",
+      "wikisource-az-7413",
+      "wikisource-az-5851",
+      "wikisource-az-5849",
+      "wikisource-az-15421",
+      "wikisource-az-7411",
+      "wikisource-az-15426",
+      "wikisource-az-7422",
+      "wikisource-az-7428",
+      "wikisource-az-7420",
+      "wikisource-az-7421",
+      "wikisource-az-7415",
+      "wikisource-az-7417",
+      "wikisource-az-7412",
+      "wikisource-az-15006",
+      "wikisource-az-7414",
+      "wikisource-az-24324",
+      "wikisource-az-7416",
+      "wikisource-az-8552",
+      "wikisource-az-7431",
+      "wikisource-az-27587",
+      "wikisource-az-7419",
+      "wikisource-az-7418",
+      "wikisource-az-7423",
+      "wikisource-az-15005",
+      "wikisource-az-7427",
+      "wikisource-az-7424",
+      "wikisource-az-15422",
+      "wikisource-az-7426",
+      "wikisource-az-7425"
     ],
     "wikipedia": {
       "az": "Abbas Səhhət",
@@ -1165,6 +1196,66 @@
     },
     "wikisource": {
       "az": "Abbas Səhhət"
+    },
+    "reprint": {
+      "volumes": [
+        {
+          "bibid": 8415,
+          "sections": {
+            "ŞEİRLƏR": {
+              "collection": "sehhet-seirler",
+              "titleAz": "Şeirlər",
+              "genre": "POEM",
+              "layout": "verse"
+            },
+            "“KƏLNİYƏT” SATİRALARI": {
+              "collection": "sehhet-kelniyet-satiralari",
+              "titleAz": "«Kəlniyət» satiraları",
+              "genre": "POEM",
+              "layout": "verse"
+            },
+            "TAZİYANƏLƏR": {
+              "collection": "sehhet-taziyaneler",
+              "titleAz": "Taziyanələr",
+              "genre": "POEM",
+              "layout": "verse"
+            },
+            "MƏNZUM MƏKTUBLAR": {
+              "collection": "sehhet-menzum-mektublar",
+              "titleAz": "Mənzum məktublar",
+              "genre": "POEM",
+              "layout": "verse"
+            },
+            "UŞAQ ŞEİRLƏRİ": {
+              "collection": "sehhet-usaq-seirleri",
+              "titleAz": "Uşaq şeirləri",
+              "genre": "POEM",
+              "layout": "verse"
+            },
+            "HEKAYƏLƏR": {
+              "collection": "sehhet-hekayeler",
+              "titleAz": "Hekayələr",
+              "genre": "PROSE",
+              "layout": "prose"
+            },
+            "PYESLƏR": {
+              "collection": "sehhet-pyesler",
+              "titleAz": "Pyeslər",
+              "genre": "PLAY",
+              "layout": "play"
+            },
+            "MƏQALƏLƏR": {
+              "collection": "sehhet-meqaleler",
+              "titleAz": "Məqalələr",
+              "genre": "PROSE",
+              "layout": "prose"
+            }
+          },
+          "headings": {
+            "Əşar (“Kəlniyət”, ağrın bu qoca naqqala”)": "Əşar"
+          }
+        }
+      ]
     },
     "collections": []
   },

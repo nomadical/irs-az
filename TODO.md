@@ -21,7 +21,7 @@ Public domain (died 1955 or earlier, life + 70), except that Soviet-era authors 
 - [x] Cəlil Məmmədquluzadə — XX, AZ prose — wikisource
 - [x] Əbdürrəhim bəy Haqverdiyev — XX, AZ prose + plays — 152 works from the National Library's PDFs of the 2005 Lider reprint (2 vols): 26 plays, 40 stories, 17 articles, letters and two autobiographies (`scrape-reprint`); replaces the 2 wikisource stories
 - [x] Məhəmməd Hadi — XX, AZ — wikisource
-- [x] Abbas Səhhət — XX, AZ — wikisource
+- [x] Abbas Səhhət — XX, AZ — 144 works from the National Library's PDF of the 2005 reprint (8415): poems, «Kəlniyət» satires, Taziyanələr, verse letters, children's poems, stories, plays, articles (`scrape-reprint`); replaces the 31 wikisource poems
 - [x] Mikayıl Müşfiq — XX, AZ — wikisource
 
 Next batch (az.wikisource author pages; counts are linked pages that exist, unchecked):
@@ -47,7 +47,7 @@ Now eligible under the Soviet-era and Iranian Azerbaijani exceptions:
 - [x] Şəhriyar — ganjoor: Heydərbabaya salam (both parts; Sarvatian's interleaved Persian translation dropped), 30 Azerbaijani poems, 162 Persian ghazals
 - [x] Əliağa Vahid — his 13 Xaqani translations on wikisource are AZ translations of Xaqani's ghazals (13, 31, 47, 70, 107, 121, 195, 204, 238, 239, 241, 332, 341), matched by hand; he has only one poem of his own there
 - [x] Abdulla Şaiq — 357 works from the National Library's PDFs of the 2005 Avrasiya Press reprint (3 vols): stories, Xasay, the novels, poems, ghazals, poemas, plays in acts, children's verse, tales and fables (`scrape-reprint`)
-- [ ] Other authors in the 2004–2005 Latin-script state reprints on web2.anl.az: `scrape-reprint` reads both text-layer kinds. Done: Axundzadə vols. I–II (8291, 8293); vol. III, his letters (8296), has a text layer but most letter headings are not found yet. Image-only (needs transcription, as Vəzirov's was): Vahid (8376), Ordubadi *Qılınc və qələm* (8341). Other works volumes in the 7800–9000 bibid range: Cavid 8440, Hadi 8283, Səhhət 8415, Hacıbəyli 8469/8488, Cabbarlı 8239/8240, Zakir 8230, Seyid Əzim 8071/8437/8439/8446, Süleyman Sani Axundov 8012/8018/8023 (low-res Cyrillic scans)
+- [ ] Other authors in the 2004–2005 Latin-script state reprints on web2.anl.az: `scrape-reprint` reads both text-layer kinds. Done: Axundzadə vols. I–II (8291, 8293); vol. III, his letters (8296), has a text layer but most letter headings are not found yet. Image-only (needs transcription, as Vəzirov's was): Vahid (8376), Ordubadi *Qılınc və qələm* (8341). Other works volumes in the 7800–9000 bibid range: Cavid 8440, Hadi 8283, Hacıbəyli 8469/8488, Cabbarlı 8239/8240, Zakir 8230, Seyid Əzim 8071/8437/8439/8446, Süleyman Sani Axundov 8012/8018/8023 (low-res Cyrillic scans)
 - And later Soviet-era authors
 
 ## Later
