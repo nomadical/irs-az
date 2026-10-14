@@ -959,6 +959,87 @@
     "wikisource": {
       "az": "Seyid Əzim Şirvani"
     },
+    "skipSources": [
+      "wikisource-az-4496",
+      "wikisource-az-4488",
+      "wikisource-az-4346",
+      "wikisource-az-4332",
+      "wikisource-az-4493",
+      "wikisource-az-15430",
+      "wikisource-az-4342",
+      "wikisource-az-4344",
+      "wikisource-az-27751",
+      "wikisource-az-4343",
+      "wikisource-az-4498",
+      "wikisource-az-4486",
+      "wikisource-az-4357",
+      "wikisource-az-4482",
+      "wikisource-az-4461",
+      "wikisource-az-4393",
+      "wikisource-az-4381",
+      "wikisource-az-4345",
+      "wikisource-az-4358",
+      "wikisource-az-4452",
+      "wikisource-az-4333",
+      "wikisource-az-4390",
+      "wikisource-az-4395",
+      "wikisource-az-4447",
+      "wikisource-az-4495",
+      "wikisource-az-4392",
+      "wikisource-az-4335",
+      "wikisource-az-4451",
+      "wikisource-az-4481",
+      "wikisource-az-4394",
+      "wikisource-az-4386",
+      "wikisource-az-4462",
+      "wikisource-az-8992",
+      "wikisource-az-4490",
+      "wikisource-az-4453",
+      "wikisource-az-4499",
+      "wikisource-az-4347",
+      "wikisource-az-4484",
+      "wikisource-az-4448",
+      "wikisource-az-4449",
+      "wikisource-az-4483",
+      "wikisource-az-4355",
+      "wikisource-az-4480",
+      "wikisource-az-4380",
+      "wikisource-az-4460",
+      "wikisource-az-4336",
+      "wikisource-az-4479",
+      "wikisource-az-4341",
+      "wikisource-az-4387",
+      "wikisource-az-4334",
+      "wikisource-az-4322",
+      "wikisource-az-4384",
+      "wikisource-az-4337",
+      "wikisource-az-4378",
+      "wikisource-az-4489",
+      "wikisource-az-4491",
+      "wikisource-az-23547",
+      "wikisource-az-4385",
+      "wikisource-az-4349",
+      "wikisource-az-4450",
+      "wikisource-az-4356"
+    ],
+    "reprint": {
+      "volumes": [
+        {
+          "bibid": 8446,
+          "sections": {
+            "RƏBİÜL-ƏTFAL": {
+              "collection": "seyid-ezim-rebiul-etfal",
+              "titleAz": "Rəbiül-ətfal",
+              "genre": "POEM",
+              "layout": "verse"
+            }
+          },
+          "skip": [
+            "Tarixi, əfsanəvi, dini və coğrafi adlar"
+          ]
+        }
+      ]
+    },
     "collections": []
   },
   {
