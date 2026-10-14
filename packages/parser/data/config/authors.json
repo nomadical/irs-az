@@ -530,6 +530,87 @@
         "Sərgüzəşti mərdi-xəsis/Üçüncü məclis": "DÖRDÜMCÜ MƏCLİS"
       }
     },
+    "skipSources": [
+      "wikisource-az-2438",
+      "wikisource-az-2470",
+      "wikisource-az-2471",
+      "wikisource-az-2475",
+      "wikisource-az-2455",
+      "wikisource-az-2472",
+      "wikisource-az-2474",
+      "wikisource-az-2437",
+      "wikisource-az-2469",
+      "wikisource-az-2456",
+      "wikisource-az-2457",
+      "wikisource-az-2481",
+      "wikisource-az-2482",
+      "wikisource-az-22956",
+      "wikisource-az-2473"
+    ],
+    "reprint": {
+      "volumes": [
+        {
+          "bibid": 8291,
+          "sections": {
+            "Komediyalar": {
+              "collection": "axundzade-komediyalar",
+              "titleAz": "Komediyalar",
+              "genre": "PLAY",
+              "layout": "play"
+            },
+            "Şeirlər": {
+              "collection": "axundzade-seirler",
+              "titleAz": "Şeirlər",
+              "genre": "POEM",
+              "layout": "verse"
+            }
+          },
+          "skip": [
+            "Hekayəti-molla İbrahimxəlil kimyagər",
+            "Hekayəti-müsyö Jordan həkimi-nəbatat və Dərviş Məstəli şah caduküni-məşhur",
+            "Hekayəti-xırsi-quldurbasan",
+            "Sərgüzəşti-vəziri-xani-Lənkəran",
+            "Sərgüzəşti-mərdi-xəsis (Hacı Qara)",
+            "İzahlar"
+          ]
+        },
+        {
+          "bibid": 8293,
+          "sections": {
+            "": {
+              "collection": "axundzade-kemaluddovle-mektublari",
+              "titleAz": "Kəmalüddövlə məktubları",
+              "genre": "PROSE",
+              "layout": "prose"
+            },
+            "TÜRKİ DİLİNDƏ TƏRCÜMƏSİDİR": {
+              "collection": "axundzade-kemaluddovle-mektublari",
+              "titleAz": "Kəmalüddövlə məktubları",
+              "genre": "PROSE",
+              "layout": "prose"
+            },
+            "FƏLSƏFİ, ƏDƏBİ-TƏNQİDİ VƏ TARİXİ MƏQALƏLƏR": {
+              "collection": "axundzade-meqaleler",
+              "titleAz": "Fəlsəfi, ədəbi-tənqidi və tarixi məqalələr",
+              "genre": "PROSE",
+              "layout": "prose"
+            },
+            "TƏNQİD RİSALƏSİ": {
+              "collection": "axundzade-tenqid-risalesi",
+              "titleAz": "Tənqid risaləsi və məktublar",
+              "genre": "PROSE",
+              "layout": "prose"
+            }
+          },
+          "skip": [
+            "Ön söz",
+            "Nüsxə fərqləri və şərhlər",
+            "Tarixi, coğrafi adlar haqqında məlumat",
+            "Lüğət"
+          ]
+        }
+      ]
+    },
     "collections": []
   },
   {

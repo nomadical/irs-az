@@ -93,6 +93,8 @@ export async function readReprint(url: string): Promise<Line[][]> {
     unicode = (content.items as { str: string }[]).some((i) => UNICODE_AZ.test(i.str ?? ''));
   }
   const decode = unicode ? fixHomoglyphs : decodeAzFont;
+  // Where each page's first rule stands alone on its line, -1 for none
+  const rules: number[] = [];
   for (let n = 1; n <= pdf.numPages; n++) {
     const content = await (await pdf.getPage(n)).getTextContent();
     const rows = new Map<number, { x: number; size: number; parts: { x: number; w: number; s: string }[] }>();
@@ -113,6 +115,7 @@ export async function readReprint(url: string): Promise<Line[][]> {
     const sorted = [...rows.entries()].sort((a, b) => b[0] - a[0]);
     const lines: Line[] = [];
     let prevY: number | null = null;
+    let ruleAt = -1;
     for (const [y, row] of sorted) {
       // Pieces of a line meet without their space; a removed glossary mark leaves a gap too
       const parts = row.parts.sort((a, b) => a.x - b.x);
@@ -123,8 +126,10 @@ export async function readReprint(url: string): Promise<Line[][]> {
         raw += part.s;
       });
       const right = Math.round(Math.max(...parts.filter((q) => !RULE.test(q.s.trim())).map((q) => q.x + q.w)));
-      // A rule alone on its line opens the glossary notes; one sharing a line is ornament
-      if (RULE.test(raw.trim())) break;
+      if (RULE.test(raw.trim())) {
+        if (ruleAt < 0) ruleAt = lines.length;
+        continue;
+      }
       const text = decode(raw.replace(/_{5,}/g, '')).replace(/\s+/g, ' ').replace(/ ([,.;:!?»”)])/g, '$1').trim();
       if (!text) continue;
       // The printed page number, centred at the foot
@@ -132,6 +137,14 @@ export async function readReprint(url: string): Promise<Line[][]> {
       lines.push({ page: n, y, x: Math.round(row.x), size: row.size, text, gap: prevY === null ? 0 : prevY - y, right });
       prevY = y;
     }
+    pages.push(lines);
+    rules.push(ruleAt);
+  }
+  // A rule alone on its line opens the glossary notes, unless nearly every page has one: then it is
+  // the page's foot ornament (Şərq-Qərb), with a line of text still below it
+  const ornament = rules.filter((r) => r >= 0).length > pages.length * 0.6;
+  pages.forEach((lines, n) => {
+    if (!ornament && rules[n] >= 0) lines.splice(rules[n]);
     // Lider's glossary notes have no rule above them: a gap, then small type to the page's foot,
     // opening "Mozalan – Heyvanları sancan…"
     if (unicode) {
@@ -142,8 +155,7 @@ export async function readReprint(url: string): Promise<Line[][]> {
         && lines.slice(i).every((m) => m.size < body));
       if (k > 0) lines.splice(k);
     }
-    pages.push(lines);
-  }
+  });
   // Sizes below assume text set in 11 (Şaiq); other volumes set it in 9 or 10, headings as much larger
   const count = new Map<number, number>();
   for (const l of pages.flat()) count.set(l.size, (count.get(l.size) ?? 0) + 1);
@@ -158,19 +170,28 @@ export interface TocEntry {
   page: number;
 }
 
-/** The "KİTABDAKILAR" pages at the back: section headings in capitals, then "Title . . . . 29" */
-export function readToc(pages: Line[][]): TocEntry[] {
+/**
+ * The "KİTABDAKILAR" pages at the back: section headings in capitals (or as the config names them:
+ * "Komediyalar"), then "Title . . . . 29"; a title too long for one line runs on to the next
+ */
+export function readToc(pages: Line[][], sections: string[] = []): TocEntry[] {
   const start = pages.findIndex((p) => p.some((l) => /^(KİTABDAKILAR|MÜNDƏRİCAT)$/.test(l.text)));
   if (start < 0) return [];
   const entries: TocEntry[] = [];
   let section = '';
+  let pending = '';
   for (const page of pages.slice(start)) {
     for (const l of page) {
       const m = l.text.match(/^(.*?)\s*(?:[.…]\s*){3,}\s*(\d+)$/);
-      if (m) entries.push({ section, title: m[1].trim(), page: Number(m[2]) });
-      else if (l.text === l.text.toLocaleUpperCase('az') && /\p{L}{3}/u.test(l.text) && !/KİTABDAKILAR|MÜNDƏRİCAT/.test(l.text)) {
+      if (m) {
+        entries.push({ section, title: `${pending} ${m[1]}`.trim(), page: Number(m[2]) });
+        pending = '';
+      } else if (sections.includes(l.text) || (l.text === l.text.toLocaleUpperCase('az') && /\p{L}{3}/u.test(l.text) && !/KİTABDAKILAR|MÜNDƏRİCAT/.test(l.text))) {
         if (entries.length && /CİLD|BAKI|PRESS/.test(l.text)) return entries;
         section = l.text;
+        pending = '';
+      } else if (entries.length || section) {
+        pending = `${pending} ${l.text}`.trim();
       }
     }
   }
@@ -194,7 +215,12 @@ function distance(a: string, b: string): number {
 
 const STARS = /^\*(\s*\*)+$/;
 /** A heading: capitals throughout, in the text's size or larger */
-const isHeading = (l: Line) => l.size >= 11 && /\p{L}{2}/u.test(l.text) && l.text === l.text.toLocaleUpperCase('az');
+// Nearly all capitals passes too: a quoted title keeps its lowercase suffix ("“KƏMALÜDDÖVLƏ MƏKTUBLARI”nın ÜZÜNÜ")
+const capitals = (t: string) => {
+  const letters = t.match(/\p{L}/gu) ?? [];
+  return letters.length >= 2 && letters.filter((c) => c === c.toLocaleUpperCase('az')).length >= letters.length * 0.8;
+};
+const isHeading = (l: Line) => l.size >= 11 && /\p{L}{2}/u.test(l.text) && (l.text === l.text.toLocaleUpperCase('az') || capitals(l.text));
 
 /** Whether a heading run spells the title: exactly, as a shortened form, or but for a misprint */
 function sameTitle(got: string, want: string): boolean {
@@ -208,11 +234,12 @@ export interface Located extends TocEntry {
   at: { page: number; line: number; lines: number } | null;
 }
 
-function find(pages: Line[][], e: TocEntry, p: number, heading?: string): Located['at'] {
+function find(pages: Line[][], e: TocEntry, p: number, heading?: string, taken = new Set<string>()): Located['at'] {
   const page = pages[p];
   if (!page) return null;
   const want = fold(heading ?? e.title);
   for (let i = 0; i < page.length; i++) {
+    if (taken.has(`${p}:${i}`)) continue;
     // An untitled poem: "* * *", then its first line, which the contents use as its title
     if (STARS.test(page[i].text)) {
       const first = page[i + 1] && fold(page[i + 1].text);
@@ -243,18 +270,26 @@ function find(pages: Line[][], e: TocEntry, p: number, heading?: string): Locate
 export function locate(pages: Line[][], toc: TocEntry[], headings: Record<string, string> = {}): Located[] {
   const out: Located[] = [];
   let after = 0;
-  for (const e of toc) {
+  // A heading an entry took is not another's: "Təcnisi-digər" would take "TƏCNİS" as its prefix
+  const taken = new Set<string>();
+  toc.forEach((e, k) => {
+    const heading = headings[`${e.title}@${e.page}`] ?? headings[e.title];
     let at: Located['at'] = null;
     for (const delta of [0, -1, 1, -2, 2, -3, 3]) {
       const p = e.page - 1 + delta;
       if (p < after) continue;
-      at = find(pages, e, p, headings[e.title]);
+      at = find(pages, e, p, heading, taken);
       if (at) break;
     }
-    for (let p = after; !at && p < pages.length; p++) at = find(pages, e, p, headings[e.title]);
-    if (at) after = at.page;
+    // Not past the next entry's page, or a heading a later work shares ("İKİNCİ MƏKTUB") takes it
+    const next = toc.slice(k + 1).find((n) => n.page >= e.page)?.page ?? pages.length;
+    for (let p = after; !at && p < Math.min(pages.length, next + 3); p++) at = find(pages, e, p, heading, taken);
+    if (at) {
+      after = at.page;
+      taken.add(`${at.page}:${at.line}`);
+    }
     out.push({ ...e, at });
-  }
+  });
   return out;
 }
 
@@ -440,8 +475,10 @@ export interface ReprintVolume {
   bibid: number;
   /** Contents section heading ("HEKAYƏLƏR") → where its works go; sections not listed are left out */
   sections: Record<string, ReprintSection>;
-  /** Contents title → the heading as printed, where the two differ beyond a misprint */
+  /** Contents title → the heading as printed, where the two differ beyond a misprint ("title@page" for a repeated title) */
   headings?: Record<string, string>;
+  /** Contents titles to leave out ("title@page" for a repeated one): already on the site from another source */
+  skip?: string[];
 }
 
 export interface PlannedReprintWork {
@@ -469,7 +506,10 @@ const readerUrl = (bibid: number, page?: number) =>
   `http://web2.anl.az:81/read/page.php?bibid=${bibid}${page ? `&pno=${page}` : ''}`;
 
 // A glossary mark the typesetter set full size: a digit or two glued to a word's last letter
-const stripMarks = (body: string) => body.replace(/(\p{Ll})\d{1,2}(?=[\s,.;:!?»”)…]|$)/gmu, '$1');
+// Şərq-Qərb marks a note with an asterisk before the word ("və *Yengi Dünya"); an italic line opens at its start
+const stripMarks = (body: string) => body
+  .replace(/(\p{Ll})\d{1,2}(?=[\s,.;:!?»”)…]|$)/gmu, '$1')
+  .replace(/(?<=[ \t“"(«])\*(?=\p{L})/gu, '');
 
 /** Acts of a play, chapters of a novel: the headings a long work is cut at */
 // Lider's plays are in "məclis" (acts) and "şəkil" (scenes); a bare "Pərdə" is the curtain, not an act
@@ -530,11 +570,13 @@ export async function planReprint(authorSlug: string, volumes: ReprintVolume[]) 
 
   for (const vol of volumes) {
     const pages = await readReprint(`${readerUrl(vol.bibid)}&download=1`);
-    const located = locate(pages, readToc(pages), vol.headings);
+    // No Azerbaijani word triples a letter: the contents' misprint ("haqqqında")
+    const located = locate(pages, readToc(pages, Object.keys(vol.sections)), vol.headings)
+      .map((e) => ({ ...e, title: e.title.replace(/(\p{L})\1\1/gu, '$1$1') }));
     const lines = workLines(pages, located);
     located.forEach((e, k) => {
       const section = vol.sections[e.section];
-      if (!section) return;
+      if (!section || vol.skip?.includes(e.title) || vol.skip?.includes(`${e.title}@${e.page}`)) return;
       if (!e.at) {
         console.warn(`  ${e.title} (p. ${e.page}): heading not found, left out`);
         return;
