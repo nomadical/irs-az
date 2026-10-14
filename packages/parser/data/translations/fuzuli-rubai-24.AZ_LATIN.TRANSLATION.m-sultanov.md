@@ -1,0 +1,17 @@
+---
+workSlug: fuzuli-rubai-24
+language: AZ_LATIN
+type: TRANSLATION
+scriptDirection: LTR
+translator: M. Sultanov
+translatorNote: >-
+  M. Sultanov tərcüməsi; Məhəmməd Füzuli, Əsərləri, altı cilddə, III cild, Bakı,
+  «Şərq-Qərb», 2005 (1996-cı il nəşri əsasında, Əliağa Vahidin redaktəsi ilə).
+sourceNote: 'https://anl.az/el/f/fm_e3.pdf'
+isDefault: true
+status: PUBLISHED
+---
+Ömrüm nə mənasız, nə hədər keçdi,
+Sənətdən hələ çox bixəbər keçdi.
+Ömür keçdisə də əfsus etmirəm,
+Əfsus o ömrə ki, bisəmər keçdi.
