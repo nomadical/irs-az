@@ -2215,5 +2215,57 @@
       ]
     },
     "collections": []
+  },
+  {
+    "slug": "vahid",
+    "nameAz": "Əliağa Vahid",
+    "nameRu": "Алиага Вахид",
+    "nameEn": "Aliagha Vahid",
+    "type": "POET",
+    "period": "XX əsr",
+    "writingLangs": [
+      "AZ_LATIN"
+    ],
+    "wikipedia": {
+      "az": "Əliağa Vahid",
+      "ru": "Вахид, Алиага",
+      "en": "Aliagha Vahid"
+    },
+    "transcribed": {
+      "file": "vahid-secilmis-eserleri.md",
+      "bibid": 8376,
+      "sections": [
+        {
+          "first": "Qəzəllər",
+          "collection": "vahid-qezeller",
+          "titleAz": "Qəzəllər",
+          "genre": "POEM",
+          "layout": "verse",
+          "stars": true
+        },
+        {
+          "first": "Olmadım şad",
+          "collection": "vahid-muxtelif-seirler",
+          "titleAz": "Müxtəlif şeirlər",
+          "genre": "POEM",
+          "layout": "verse"
+        },
+        {
+          "first": "Gəldi “Babayi-Əmir...”",
+          "collection": "vahid-satirik-seirler",
+          "titleAz": "Satirik şeirlər",
+          "genre": "POEM",
+          "layout": "verse"
+        },
+        {
+          "first": "Mollaxana",
+          "collection": "vahid-poema",
+          "titleAz": "Poema",
+          "genre": "POEM",
+          "layout": "verse"
+        }
+      ]
+    },
+    "collections": []
   }
 ]

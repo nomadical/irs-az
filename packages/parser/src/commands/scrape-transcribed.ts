@@ -17,6 +17,8 @@ export interface TranscribedSection {
   layout: Layout;
   /** Numbered short pieces ("### 17"): one work each, "Balaca mütəfərriqələr 17" */
   pieces?: boolean;
+  /** Untitled poems set apart by "* * *" (a divan's ghazals): one work each, titled by its first line */
+  stars?: boolean;
 }
 
 export interface TranscribedBook {
@@ -109,6 +111,17 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
       const dated = w.body.match(/\n\*(\d{4})(?:\s*[-–]\s*\d{2,4})?\*$/);
       const year = dated ? Number(dated[1]) : undefined;
       const body = dated ? w.body.slice(0, dated.index).trim() : w.body;
+      if (section.stars) {
+        collection(section.collection, section.titleAz, section.genre);
+        body.split(/^\* \* \*$/m).map((p) => p.trim()).filter(Boolean).forEach((poem, n) => {
+          // A shared ghazal names its poets over the couplets ("*Vaqif*", "### Vahid"): the title is the first verse line
+          const first = poem.split('\n').find((l) => l.trim() && !/^(#|\*)/.test(l.trim())) ?? poem;
+          const title = first.trim().replace(/[,;:–-]+$/, '');
+          write(unique(shortSlug(`${cfg.slug}-${title}`)), `anl-${book.bibid}-t${k + 1}-${n + 1}`, title,
+            section!.collection, section!.genre, w.spread, poem);
+        });
+        return;
+      }
       if (section.pieces) {
         collection(section.collection, section.titleAz, section.genre);
         body.split(/^### (?=\d+$)/m).forEach((piece, n) => {
