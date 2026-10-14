@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1941
 sourceNote: 'https://archive.org/details/Xms-NizamiGncvi'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Dey ayında günlər gödəkdir, gödək,
 Bir gün çox qısaydı Tir gecəsitək.

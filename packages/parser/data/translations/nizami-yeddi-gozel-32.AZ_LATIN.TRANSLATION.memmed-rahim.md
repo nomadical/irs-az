@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1941
 sourceNote: 'https://archive.org/details/Xms-NizamiGncvi'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Cümə günü səhər bu yamyaşıl tağ
 Evini günəşdən etdi ağappaq.

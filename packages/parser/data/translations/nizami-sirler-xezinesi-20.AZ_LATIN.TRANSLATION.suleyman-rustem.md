@@ -11,7 +11,7 @@ translatorNote: >-
 year: 1947
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=22956&pno=1'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Bu aşiqlik meydana salmamışkən vəlvələ,
 Yoxluqda varlıq səsi eşidilmirdi hələ.

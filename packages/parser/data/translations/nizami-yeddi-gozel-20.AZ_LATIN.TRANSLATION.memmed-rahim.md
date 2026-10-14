@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1941
 sourceNote: 'https://archive.org/details/Xms-NizamiGncvi'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Bəhram şah bir səhər çıxdı şikara,
 Üz qoydu çöllərə, uca dağlara.

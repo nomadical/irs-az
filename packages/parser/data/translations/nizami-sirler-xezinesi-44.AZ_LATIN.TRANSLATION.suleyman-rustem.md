@@ -11,7 +11,7 @@ translatorNote: >-
 year: 1947
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=22956&pno=1'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Dünya qocadır, dardır, ona diqqət elə sən,
 Qoy səni aldatmasın gənc görünsə də üzdən.
@@ -29,7 +29,7 @@ Tamah etdiklərindən onda ki, üzərsən əl,
 Evdən gətirdiyini apararsan, düşün gəl,
 
 Qiyamət dəryasına edən zamanda səfər,
-Ora yalnız pulsuzlar başı salamət gedər.
+Ora yalnız pulsuzlar başı səlamət gedər.
 
 İstər ud, istər uduz, çarə yox bundan qeyri,
 Sənə verdiklərini səndən alarlar geri.
@@ -59,7 +59,7 @@ Qızılın sikkəsini dəmir qılıncla alan
 Padşahlar bir dəmirçi sayılırlar hər zaman.
 
 Qızıldan xaç qayırıb Harun göstərdi hümmət,
-O, bu günah üzündən quya düşdü əlbət.
+O, bu günah üzündən quyuya düşdü əlbət.
 
 Qızılı başda tutsan sənə yük olar ancaq,
 Ayağının altına çəksən atın olacaq.
@@ -86,7 +86,7 @@ Məşriqli nə verərsə verəcək səhər çağı,
 Məğribli axşam çağı öyrənmiş borc almağı.
 
 Qızıldır mə’dənlərin ruhuna hakim, heyhat,
-Bütün quşlar üçünsə əl yerindədir qanad.
+Bütün quşlar üçünsə əl yerindədir qanat.
 
 Bir zaman Rum qızılı öz daşilə Diməşqin,
 Düz gəlsə çəkiləndə tərəzisində eşqin,

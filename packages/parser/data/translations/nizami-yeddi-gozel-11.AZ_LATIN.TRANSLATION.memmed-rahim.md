@@ -10,7 +10,7 @@ translatorNote: >-
 year: 1941
 sourceNote: 'https://archive.org/details/Xms-NizamiGncvi'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Onda ki, Bəhramın üzü nur saldı,
 Yəmən dərisindən xamlığı aldı,

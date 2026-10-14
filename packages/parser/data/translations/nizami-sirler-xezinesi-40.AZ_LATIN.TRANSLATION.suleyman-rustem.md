@@ -11,9 +11,9 @@ translatorNote: >-
 year: 1947
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=22956&pno=1'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
-Dur, fələk busatını yığışdırıb ver bada,
+Dur, fələk büsatını yığışdırıb ver bada,
 İnanma, yoxdur vəfa çünki bu nərtaxtada.
 
 Onun vəsl qapısında muradçün çəkmə zəhmət,
@@ -31,7 +31,7 @@ Sənin qanın yükünün boynundadır, unutma.
 Əzab verər, dayanma, gəl bu yükü yerə sal
 Boğmamış sular səni, vardır əlində macal.
 
-Tapmazsan bu dünyanın bir küşəsindən aman,
+Tapmazsan bu dünyanın bir guşəsindən aman,
 Bu sümükdə bir vəfa iliyi yoxdur, inan.
 
 Bu dünyada zərrəcə yox naz çəkmək əsəri,

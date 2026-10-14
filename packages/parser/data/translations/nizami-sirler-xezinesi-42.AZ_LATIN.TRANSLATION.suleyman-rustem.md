@@ -11,7 +11,7 @@ translatorNote: >-
 year: 1947
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=22956&pno=1'
 isDefault: true
-status: DRAFT
+status: PUBLISHED
 ---
 Qalx, bu əyyamla görüş söyləyərək əlvida,
 Bu ətək altındakı toru at, salma yada.
@@ -61,7 +61,7 @@ Sən gəl bu dairənin cızığından kənar çıx.
 Üstün olsun gecənin, gündüzün cızığından,
 Bu dünya cızığından çıxa bilərsən, inan.
 
-Ayağın altını etməmişkən sən möhkəm,
+Ayağının altını etməmişkən sən möhkəm,
 Heç bir işin ardınca gedərək, atma qədəm.
 
 Hər işə girişərkən yaxşı giriş, hünər saç,
