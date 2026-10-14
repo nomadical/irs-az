@@ -23,4 +23,4 @@ status: DRAFT
 *Dayə*
 *Xidmətçi*
 *Kukla*
-*X i d m ə t ç i l ə r, ə s g ə r l ə r*
+*Xidmətçilər, əsgərlər*

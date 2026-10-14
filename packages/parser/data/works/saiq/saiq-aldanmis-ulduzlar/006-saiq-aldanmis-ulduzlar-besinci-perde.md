@@ -239,7 +239,7 @@ Yaşasın Yusif şah!
 
 **Xacə** (əsəbi hallar keçirir, tez-tez gəzinir). Gəlirlər... Gəlirlər!
 
-*Y u s i f ş a h, B u d a q, R ə h m a n, Q ə h r ə m a n və S ə l m a bir neçə asi ilə*
+*Yusifşah, Budaq, Rəhman, Qəhrəman və Səlma bir neçə asi ilə*
 *vuruşa-vuruşa səhnəyə daxil olurlar.*
 
 **Yusifşah**. Dostlar! Zəfərin ən kəskin silahı cəsarətdir.

@@ -287,7 +287,7 @@ Bu dağların maralı.
 **İldırım**. Sən sus. Mən guruldayacağım zamanı bilirəm.
 
 *NikolayPetroviç eşitməməzliyə vurur.*
-*Ş ü k ü r b ə y, S ə f i b ə y yerlərində hərəkətə gəlirlər.*
+*Şükürbəy, Səfibəy yerlərində hərəkətə gəlirlər.*
 
 NikolayPetr ov i ç. Hə, niyə dinmirsiniz? Yoxsa...
 

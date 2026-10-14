@@ -122,7 +122,7 @@ status: DRAFT
 
 **Şahzadəxanım**. Ata-anamdan necə ayrılım. Gözəl İnci, olmazmı siz hamınız köçüb bizim evə gələsiniz?
 
-*P a d ş a h, x a n ı m, m ü r ə b b i y ə, d a y ə,*
+*Padşah, xanım, mürəbbiyə, dayə,*
 *xidmətçilər daxil olurlar.*
 
 **Şahzadəxanım** (İncinin əlindən tutub, anasının üstünə qaçır). Ox, ana can, bilsən mən indi nə qədər şadam! Bax, bu İnci yoldaşım həmişə mənimlə bizdə qalacaq. Hələ anası, qardaşları, bacıları da saraya gələcək. Mən də sizə söz verirəm ki, bundan sonra heç şıltaqlıq etməyəcəyəm.

@@ -15,7 +15,7 @@ status: DRAFT
 *Səhnə bağçada bir qəməriyyəni təsvir edir. Qəməriyyənin yanında ağ mərmərdən*
 *fəvvarəli hovuz. Hovuzun ətrafında iri qovaq və çinar, yasəmən, limon və portağal*
 *ağacları. Qəməriyyənin içi zərif ipək xalılarla döşənmiş. MirzəMöhsün,*
-*S ə r d a r Z a m a n x a n, M i r z ə Y ə h y a, İ s k ə n d ə r b ə y,*
+*SərdarZamanxan, MirzəYəhya, İskəndərbəy,*
 *Mollabaşı daxil olur.*
 
 **Mirzə Möhsün**. Xalqa elan etdiyimiz bu əmrlər haqqında fikriniz nədir? Yusif şahın əmrlərini xalq çox böyük sevinc ilə qarşılayır. Bir-birini təbrik edir. “Yaşasın Yusif şah!” səsi ərşə dayanır.
@@ -280,7 +280,7 @@ status: DRAFT
 
 **Xacə**. Buna bax, məni qorxudur. Yusif şah sizi elə minməyib ki, bir də düşsün.
 
-*X o s r o v, B u d a q və R ə h m a n gəlir.*
+*Xosrov, Budaq və Rəhman gəlir.*
 
 **Budaq**. Xosrov, Yusif şahı tacirlərlə görüşdürməyə söz vermişdim. Onlar gəlib, Yusifə xəbər ver.
 

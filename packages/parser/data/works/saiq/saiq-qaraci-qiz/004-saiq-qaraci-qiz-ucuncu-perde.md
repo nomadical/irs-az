@@ -590,7 +590,7 @@ Nərgiz! Bəli, xanım.
 
 **Bəy** (Nərgizə). Al, bu qız ilə yaxşı məşğul ol, darıxmasın.
 
-*B ə y, A ğ c a, N ə r g i z otağa girirlər.*
+*Bəy, Ağca, Nərgiz otağa girirlər.*
 
 **Piribaba** (görünür, gözü ilə Qaracanı axtarır).Bu qız hardadır?
 

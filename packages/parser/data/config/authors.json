@@ -1216,7 +1216,9 @@
     ],
     "skipSources": [
       "wikisource-az-29479",
-      "wikisource-az-29534"
+      "wikisource-az-29534",
+      "wikisource-az-12774",
+      "wikisource-az-15451"
     ],
     "wikipedia": {
       "az": "Əbdürrəhim bəy Haqverdiyev",
@@ -1225,13 +1227,49 @@
     "wikisource": {
       "az": "Əbdürrəhim bəy Haqverdiyev"
     },
-    "collections": [
-      {
-        "slug": "haqverdiyev-eserler",
-        "titleAz": "Hekayələr",
-        "genre": "PROSE"
-      }
-    ]
+    "reprint": {
+      "volumes": [
+        {
+          "bibid": 8421,
+          "sections": {
+            "DRAM ƏSƏRLƏRİ": {
+              "collection": "haqverdiyev-dram-eserleri",
+              "titleAz": "Dram əsərləri",
+              "genre": "PLAY",
+              "layout": "play"
+            }
+          }
+        },
+        {
+          "bibid": 8426,
+          "sections": {
+            "HEKAYƏLƏR": {
+              "collection": "haqverdiyev-hekayeler",
+              "titleAz": "Hekayələr",
+              "genre": "PROSE",
+              "layout": "prose"
+            },
+            "MƏQALƏLƏR": {
+              "collection": "haqverdiyev-meqaleler",
+              "titleAz": "Məqalələr",
+              "genre": "PROSE",
+              "layout": "prose"
+            },
+            "MƏKTUBLAR": {
+              "collection": "haqverdiyev-mektublar",
+              "titleAz": "Məktublar",
+              "genre": "PROSE",
+              "layout": "prose"
+            }
+          },
+          "headings": {
+            "M.F.Axundovun həyat və fəaliyyəti": "Mirzə Fətəli Axundovun həyat və fəaliyyəti",
+            "“Qruziya” qəzetinə": "“Qruziya” qəzetinə Ə.Haqverdiyevin məktubu"
+          }
+        }
+      ]
+    },
+    "collections": []
   },
   {
     "slug": "saib",

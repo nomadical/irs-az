@@ -33,7 +33,7 @@ YusifSərrac
 *MirzəMöhsün – vəzir*
 *MirzəYəhya – maliyyə vəziri*
 *SərdarZamanxan – hərbiyyə vəziri*
-*M o l l a b a ş ı (M o l l a S ə m ə d)*
+*Mollabaşı (MollaSəməd)*
 *MirzəSədrəddin – münəccimbaşı*
 *Cəmaləddin – qoca münəccim*
 *İskəndərbəy – tarixnəvis*

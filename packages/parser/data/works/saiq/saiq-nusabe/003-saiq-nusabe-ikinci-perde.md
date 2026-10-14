@@ -15,7 +15,7 @@ status: DRAFT
 ### Beşinci şəkil
 
 *Səhnə Nüşabənin sarayının bağça tərəfində olan geniş eyvanı təsvir edir. Nüşabə,*
-*A l m a z, M ə r c a n v ə b a ş q a p ə h l ə v a n q ı z l a r, əllərində süngü, miz-*
+*Almaz, Mərcanvəbaşqapəhləvanqızlar, əllərində süngü, miz-*
 *raq, qılınc, qalxan oynadaraq məşq edirlər.*
 
 Pəhləvanlar
@@ -431,7 +431,7 @@ Tərxan
 Bu qılınc məsələni həll eylər.
 
 *Hər ikisi qılıncı çəkib bir-birinə hücum edərkən Nüşabə, Uluca,*
-*A l m a z, M ə r c a n, İ n c i, M ə s t u r və S a l t i k gəlirlər.*
+*Almaz, Mərcan, İnci, Məstur və Saltik gəlirlər.*
 
 Nüşabə
 Bu nə?

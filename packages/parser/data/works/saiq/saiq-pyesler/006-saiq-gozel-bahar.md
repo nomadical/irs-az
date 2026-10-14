@@ -26,7 +26,7 @@ status: DRAFT
 *Torpaq*
 *Qaranquş*
 *Bülbül*
-*U ş a q l a r: Dursun, Aslan, Pəri, Nazlı.*
+*Uşaqlar: Dursun, Aslan, Pəri, Nazlı.*
 *Kəpənək, Arı, Qızılgül, Bənövşə, Qərənfil, Sünbül, Durna, Qırqovul, Turac,*
 *Kəklik, Qurd, Çaqqal, Tərlan, Çiçəklər.*
 
@@ -273,7 +273,7 @@ Həm azad, həm şad olduq.
 Aslan
 Gəlin gözəl yaz günəşi var bu gün, Gəlin bura, Pəri, Nazlı, a Dursun! Gəl, qızınaq gün altında bir azca.
 
-*D u r s u n, P ə r i, N a z l ı sevinə-sevinə Aslanın yanına gəlirlər.*
+*Dursun, Pəri, Nazlı sevinə-sevinə Aslanın yanına gəlirlər.*
 
 Pəri
 Aslan, Aslan, gəl söyləyək tapmaca.
@@ -507,7 +507,7 @@ Dostu sevər, düşmanları yaxarıq.
 
 *Uzaqdan musiqi səsi gəlir. Bir saniyə sonra Durna, Qırqovul, Turac, Tovuz,*
 *tar, saz, kamança, dəf çala-çala gəlirlər. QaranquşBənövşə ilə, Bülbül*
-*Q ı z ı l g ü l l ə, A r ı Z a n b a q l a, K ə p ə n ə k Q ə r ə n f i l l ə qol-qola ayaqlarını,*
+*Qızılgüllə, ArıZanbaqla, KəpənəkQərənfillə qol-qola ayaqlarını,*
 *əllərini oynada-oynada gəlib otlu, çiçəkli bir yerdə dayanırlar. Hamısı ətrafı şən*
 *baxışlarla süzdükdən sonra*
 

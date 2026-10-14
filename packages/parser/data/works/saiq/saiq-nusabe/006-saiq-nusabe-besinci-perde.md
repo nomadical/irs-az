@@ -353,7 +353,7 @@ Bir dayan!
 Əlvida, ey dövlətim, ey millətim, yurdum-yuvam! Əlvida, ey sevgilim, şən günlərim, sevgim-səfam!
 
 *O, gözlərini qapayır. Kimon və Şəhpər İncini dara çəkmək istərkən qabaqca*
-*U l u ğ b ə y, onun ardınca bir neçə igid gəlir.*
+*Uluğbəy, onun ardınca bir neçə igid gəlir.*
 
 Uluğbəy
 Ey, dayan!

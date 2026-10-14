@@ -611,7 +611,7 @@ Qəhrəman
 Doğma kəndə, könül açan diyara!
 
 *Səs gəlir, hər ikisi tez səhnədən çıxır. MirzəMöhsünxan, Sərdar*
-*Z a m a n x a n, M o l l a b a ş ı, İ s k ə n d ə r b ə y, M i r z ə Y ə h y a*
+*Zamanxan, Mollabaşı, İskəndərbəy, MirzəYəhya*
 *daxil olur.*
 
 **Mirzə Möhsün**. Bu tələdən çox yaxşı qurtulduq.

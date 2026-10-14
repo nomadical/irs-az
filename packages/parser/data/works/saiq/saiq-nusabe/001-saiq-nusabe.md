@@ -45,5 +45,5 @@ Beş pərdə on iki şəkildə mənzum dram
 *Şəhpər – eşikağası*
 *Kənkan*
 *Atlı*
-*X a n ə n d ə, r ə q q a s ə l ə r, s ə r k ə r d ə l ə r, p ə h l ə v a n l a r, s a r a y x i d -*
-*m ə t ç i l ə r i, İ r a n ə s i r l ə r i və sairə*
+*Xanəndə, rəqqasələr, sərkərdələr, pəhləvanlar, sarayxid -*
+*mətçiləri, İranəsirləri və sairə*

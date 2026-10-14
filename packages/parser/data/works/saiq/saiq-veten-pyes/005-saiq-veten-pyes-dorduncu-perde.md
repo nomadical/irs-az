@@ -323,7 +323,7 @@ status: DRAFT
 
 **Elman** sandıq içində. Quzğun şaha ən böyük hədiyyə!
 
-*Q u z ğ u n ş a h, v ə z i r və d i v l ə r gəlir.*
+*Quzğunşah, vəzir və divlər gəlir.*
 
 **Şimşad** (baş əyərək). Padşahım, sizə çox böyük hədiyyə gətirmişəm. (Sandığı göstərir).
 

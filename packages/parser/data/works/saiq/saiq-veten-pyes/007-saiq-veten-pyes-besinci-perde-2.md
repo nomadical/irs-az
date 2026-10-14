@@ -415,7 +415,7 @@ Düşmən hiyləsindən sən onu qurtar!
 
 **Quzğunşah**. Ah, fəlakət!..
 
-*E l m a n, T u ğ a n, A s l a n və x a l q nümayəndələri əllərinə qılınc saraya*
+*Elman, Tuğan, Aslan və xalq nümayəndələri əllərinə qılınc saraya*
 *girir. Elman Şimşada hücum edir.*
 
 **Elman**. Qaçma qarşımdan!

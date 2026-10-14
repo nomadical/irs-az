@@ -170,7 +170,7 @@ status: DRAFT
 **Balaoğlan**. Qızı, tez ol, apar!
 
 *Atakişi Zümrüdü aparıb, yenə qayıdır. Səsə Mərcanxanım,*
-*C a v a h i r x a n ı m, F a t m a x a n ı m eyvana çıxırlar.*
+*Cavahirxanım, Fatmaxanım eyvana çıxırlar.*
 
 **Cavahirxanım**. Bu yazıq kişini nə üçün döyürlər?
 

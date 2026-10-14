@@ -550,7 +550,7 @@ Hüdudu, ordunu yoxlamaq gərək.
 ### Üçüncü şəkil
 
 *Birinci şəkildəki görünüş. Nüşabə, onun ətrafında İnci, Uluca, Uluğbəy,*
-*M ə r c a n, A l m a z və başqaları dayanmışlar. Nüşabə təpə üstündən ətrafı göz-*
+*Mərcan, Almaz və başqaları dayanmışlar. Nüşabə təpə üstündən ətrafı göz-*
 *dən keçirərək, yanında dayanmış kənkandan soruşur.*
 
 Nüşabə
@@ -648,7 +648,7 @@ Məni rahətsiz edir bu işlər.
 Gəl, baba, hamsını bir-bir göstər!
 
 *Qabaqca Nüşabə, onun ardınca başqa qızlar təpədən enirkən əvvəlcə*
-*S a l t i k, onun ardınca T ə r x a n gəlir.*
+*Saltik, onun ardınca Tərxan gəlir.*
 
 Saltik
 Xan, gəlir, bax, nə gözəldir, gerçək!
@@ -1004,7 +1004,7 @@ Sevgi yollarında yorğun könlümü.
 ### Dördüncü şəkil
 
 *Üçüncü şəkildəki görünüş. Artıq günəş öz şüalarını ətrafa saçmışdır.*
-*K i m o n (M ə l i k), əlində uydurma üstürlab, saray xidmətçisi*
+*Kimon (Məlik), əlində uydurma üstürlab, saray xidmətçisi*
 *Məstur ilə danışır.*
 
 Kimon

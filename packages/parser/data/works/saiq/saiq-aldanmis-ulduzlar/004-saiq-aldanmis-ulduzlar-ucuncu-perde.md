@@ -86,14 +86,14 @@ status: DRAFT
 
 **Hamı**. Yaşasın Yusif şah!
 
-*F ə r r a ş, əlində bir sini, taxta yaxınlaşır. Mollabaşı sinidən tacı götürüb Yusif şahın*
+*Fərraş, əlində bir sini, taxta yaxınlaşır. Mollabaşı sinidən tacı götürüb Yusif şahın*
 *başına qoyur. Qızıl kəməri belinə bağlayır. Qızıl toppuzu əlinə verir.*
 
 **Mollabaşı**. Həzərat! Şah Abbas İranı yetim qoydusa, Yusif şah İran taxt-tacını qəbul etməklə bizi bəxtiyar etdi.
 
 **Sərdar Zamanxan**. Padşahım, mübarək cilusunuzu səmimi-qəlbdən təbrik edirəm. Allah-taala sizə uzun ömür kəramət etsin.
 
-*H a m ı. Amin, amin! Yaşasın Yusif şah! Şənlik fişəngləri atılır, İranın*
+*Hamı. Amin, amin! Yaşasın Yusif şah! Şənlik fişəngləri atılır, İranın*
 *dövlət himni çalınır.*
 
 **Sərdar Zamanxan**. Bugünkü şənlik münasibətilə adətimiz üzrə rəqqasələr oynayacaqdır.
@@ -224,7 +224,7 @@ Elin yosma qızları
 
 **Yusifşah**. Söylə gəlsinlər. (Xacə çıxır)
 
-*X o s r o v, B u d a q və R ə h m a n gəlir.*
+*Xosrov, Budaq və Rəhman gəlir.*
 
 **Hərüçü**. Uğur olsun, Yusif şah!
 

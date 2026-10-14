@@ -24,7 +24,7 @@ status: DRAFT
 *Batıxan – Türkmən xanın qardaşı, elçi, 40 yaşında*
 *Gültəkinxanım – Türkmən xanın qızı, 18 yaşında*
 *Əfsunçubaşı*
-*X i d m ə t ç i l ə r, ə f s u n ç u l a r*
+*Xidmətçilər, əfsunçular*
 
 ### Birinci səhnə
 

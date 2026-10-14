@@ -232,4 +232,4 @@ Nəsən? Heç verən yox sorağın sənin!
 
 **Müəllim**. Bu nərdivanlarla ən üst qata qalx!
 
-*P ə r d ə.*
+*Pərdə.*

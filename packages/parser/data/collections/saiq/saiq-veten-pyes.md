@@ -5,7 +5,7 @@ authorSlug: saiq
 genre: PLAY
 originalLang: AZ_LATIN
 year: 1941
-order: 22
+order: 23
 status: DRAFT
 ---
 

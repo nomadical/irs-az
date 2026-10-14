@@ -112,7 +112,7 @@ status: DRAFT
 
 **Atakişi**. Bunda belə işlər çoxdur.
 
-*X a n, q o n a q l a r ı və ç a l ğ ı ç ı l a r ilə birlikdə gəlir.*
+*Xan, qonaqları və çalğıçılar ilə birlikdə gəlir.*
 
 **Xan**. Oturun, oturun! (Hamı öz yerində oturur)Ruhlara fərəh verən musiqidən başlayaq. (Çalğıçılara) Bir segah çalın!
 
@@ -239,7 +239,7 @@ Qoru xalqı, həm Vətənini!
 **Xan**. Bu nə sözlərdir? Bu nə tütəkdir?
 
 *Səhnə arxasında kəndlilərin səsi eşidilir. Qəhrəman, Polad,*
-*B a l a o ğ l a n, S ə m ə n d ə r və b a ş q a l a r ı gəlirlər.*
+*Balaoğlan, Səməndər və başqaları gəlirlər.*
 
 **Eloğlu**. Xoş gəldiniz xalqın azadlıq bayramına!
 

@@ -106,7 +106,7 @@ Hamının başı sənsən.
 **Atababa**. Bilici baba: “Bu qılıncı qara gün üçün saxla”, – dedi. Bunu gizlətmək lazımdır.
 
 *Yeri qazıb qılıncı basdırır, sonra bir dəmir parçası ocağa atıb ox qayırır, bu zaman*
-*T u ğ a n, A s l a n və L ə l ə ş gəlirlər.*
+*Tuğan, Aslan və Lələş gəlirlər.*
 
 **Tuğan**. Gün aydın, baba!
 

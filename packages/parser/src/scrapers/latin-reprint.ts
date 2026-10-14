@@ -74,10 +74,25 @@ async function download(url: string): Promise<Buffer> {
 
 const RULE = /^_{5,}$/;
 
+// Some reprints (Lider, 2005) carry real Latin text, but set a few letters from the Cyrillic font
+const HOMOGLYPHS: Record<string, string> = {
+  а: 'a', е: 'e', о: 'o', р: 'p', с: 'c', х: 'x', у: 'y', к: 'k', і: 'i', ј: 'j',
+  А: 'A', В: 'B', Е: 'E', К: 'K', М: 'M', Н: 'H', О: 'O', Р: 'P', С: 'C', Т: 'T', Х: 'X', І: 'I',
+};
+const fixHomoglyphs = (s: string) => s.replace(/[\u0400-\u04ff]/g, (ch) => HOMOGLYPHS[ch] ?? ch);
+// Letters the old font cannot hold: their presence means the text layer is Unicode already
+const UNICODE_AZ = /[əƏıİşŞğĞ]/;
+
 /** Every page's body lines, top to bottom: no page numbers, glossary marks or glossary notes */
 export async function readReprint(url: string): Promise<Line[][]> {
   const pdf = await getDocumentProxy(new Uint8Array(await download(url)));
   const pages: Line[][] = [];
+  let unicode = false;
+  for (let n = 1; n <= Math.min(pdf.numPages, 30) && !unicode; n++) {
+    const content = await (await pdf.getPage(n)).getTextContent();
+    unicode = (content.items as { str: string }[]).some((i) => UNICODE_AZ.test(i.str ?? ''));
+  }
+  const decode = unicode ? fixHomoglyphs : decodeAzFont;
   for (let n = 1; n <= pdf.numPages; n++) {
     const content = await (await pdf.getPage(n)).getTextContent();
     const rows = new Map<number, { x: number; size: number; parts: { x: number; w: number; s: string }[] }>();
@@ -110,15 +125,30 @@ export async function readReprint(url: string): Promise<Line[][]> {
       const right = Math.round(Math.max(...parts.filter((q) => !RULE.test(q.s.trim())).map((q) => q.x + q.w)));
       // A rule alone on its line opens the glossary notes; one sharing a line is ornament
       if (RULE.test(raw.trim())) break;
-      const text = decodeAzFont(raw.replace(/_{5,}/g, '')).replace(/\s+/g, ' ').replace(/ ([,.;:!?»”)])/g, '$1').trim();
+      const text = decode(raw.replace(/_{5,}/g, '')).replace(/\s+/g, ' ').replace(/ ([,.;:!?»”)])/g, '$1').trim();
       if (!text) continue;
       // The printed page number, centred at the foot
       if (/^\d{1,3}$/.test(text) && y < 90) continue;
       lines.push({ page: n, y, x: Math.round(row.x), size: row.size, text, gap: prevY === null ? 0 : prevY - y, right });
       prevY = y;
     }
+    // Lider's glossary notes have no rule above them: a gap, then small type to the page's foot,
+    // opening "Mozalan – Heyvanları sancan…"
+    if (unicode) {
+      const sizes = new Map<number, number>();
+      for (const l of lines) sizes.set(l.size, (sizes.get(l.size) ?? 0) + 1);
+      const body = [...sizes].sort((a, b) => b[1] - a[1])[0]?.[0] ?? 0;
+      const k = lines.findIndex((l, i) => i > 0 && l.gap > 20 && / – /.test(l.text.slice(0, 80))
+        && lines.slice(i).every((m) => m.size < body));
+      if (k > 0) lines.splice(k);
+    }
     pages.push(lines);
   }
+  // Sizes below assume text set in 11 (Şaiq); other volumes set it in 9 or 10, headings as much larger
+  const count = new Map<number, number>();
+  for (const l of pages.flat()) count.set(l.size, (count.get(l.size) ?? 0) + 1);
+  const body = [...count].sort((a, b) => b[1] - a[1])[0]?.[0] ?? 11;
+  if (body !== 11) for (const l of pages.flat()) l.size += 11 - body;
   return pages;
 }
 
@@ -136,7 +166,7 @@ export function readToc(pages: Line[][]): TocEntry[] {
   let section = '';
   for (const page of pages.slice(start)) {
     for (const l of page) {
-      const m = l.text.match(/^(.*?)\s*(?:\.\s*){3,}\s*(\d+)$/);
+      const m = l.text.match(/^(.*?)\s*(?:[.…]\s*){3,}\s*(\d+)$/);
       if (m) entries.push({ section, title: m[1].trim(), page: Number(m[2]) });
       else if (l.text === l.text.toLocaleUpperCase('az') && /\p{L}{3}/u.test(l.text) && !/KİTABDAKILAR|MÜNDƏRİCAT/.test(l.text)) {
         if (entries.length && /CİLD|BAKI|PRESS/.test(l.text)) return entries;
@@ -178,10 +208,10 @@ export interface Located extends TocEntry {
   at: { page: number; line: number; lines: number } | null;
 }
 
-function find(pages: Line[][], e: TocEntry, p: number): Located['at'] {
+function find(pages: Line[][], e: TocEntry, p: number, heading?: string): Located['at'] {
   const page = pages[p];
   if (!page) return null;
-  const want = fold(e.title);
+  const want = fold(heading ?? e.title);
   for (let i = 0; i < page.length; i++) {
     // An untitled poem: "* * *", then its first line, which the contents use as its title
     if (STARS.test(page[i].text)) {
@@ -210,7 +240,7 @@ function find(pages: Line[][], e: TocEntry, p: number): Located['at'] {
  * Each contents entry's heading, near its page first (contents pages misprint a few by a page
  * or two), then anywhere after the entry before it (one misprints 487 as 587).
  */
-export function locate(pages: Line[][], toc: TocEntry[]): Located[] {
+export function locate(pages: Line[][], toc: TocEntry[], headings: Record<string, string> = {}): Located[] {
   const out: Located[] = [];
   let after = 0;
   for (const e of toc) {
@@ -218,10 +248,10 @@ export function locate(pages: Line[][], toc: TocEntry[]): Located[] {
     for (const delta of [0, -1, 1, -2, 2, -3, 3]) {
       const p = e.page - 1 + delta;
       if (p < after) continue;
-      at = find(pages, e, p);
+      at = find(pages, e, p, headings[e.title]);
       if (at) break;
     }
-    for (let p = after; !at && p < pages.length; p++) at = find(pages, e, p);
+    for (let p = after; !at && p < pages.length; p++) at = find(pages, e, p, headings[e.title]);
     if (at) after = at.page;
     out.push({ ...e, at });
   }
@@ -294,7 +324,7 @@ export function workText(lines: Line[], layout: Layout): WorkText {
   lines.forEach((l, i) => {
     let text = l.text;
     // A play spaces its people's names out wherever they stand: the cast list, stage directions
-    if (layout === 'play' && !SPEAKER.test(text)) text = text.replace(/(?<![\p{L}])(?:\p{L} ){2,}\p{L}(?![\p{L}])/gu, (m) => m.replace(/ /g, ''));
+    if (layout === 'play' && (!SPEAKER.test(text) || l.size <= 10)) text = text.replace(/(?<![\p{L}])(?:\p{L} ){2,}\p{L}(?![\p{L}])/gu, (m) => m.replace(/ /g, ''));
     // "Ə Ş X A S", the cast list's heading, spaced the same way
     if (/^(\p{Lu} )+\p{Lu}$/u.test(l.text)) {
       blank();
@@ -410,6 +440,8 @@ export interface ReprintVolume {
   bibid: number;
   /** Contents section heading ("HEKAYƏLƏR") → where its works go; sections not listed are left out */
   sections: Record<string, ReprintSection>;
+  /** Contents title → the heading as printed, where the two differ beyond a misprint */
+  headings?: Record<string, string>;
 }
 
 export interface PlannedReprintWork {
@@ -440,15 +472,22 @@ const readerUrl = (bibid: number, page?: number) =>
 const stripMarks = (body: string) => body.replace(/(\p{Ll})\d{1,2}(?=[\s,.;:!?»”)…]|$)/gmu, '$1');
 
 /** Acts of a play, chapters of a novel: the headings a long work is cut at */
-const PART = /^### (.*(pərdə|fəsil)|[IVXLC]+\.?)$/i;
+// Lider's plays are in "məclis" (acts) and "şəkil" (scenes); a bare "Pərdə" is the curtain, not an act
+const PART = /^### (.+ (pərdə|fəsil|məclis)|.+ şəkil|[IVXLC]+\.?)$/i;
 const SPLIT_PROSE = 40_000;
 
 function parts(body: string, layout: Layout): { title: string | null; body: string }[] {
   const lines = body.split('\n');
   const heads = lines.map((l, i) => (PART.test(l) ? i : -1)).filter((i) => i >= 0);
   // Acts always; chapters only when the work is long. Numbered parts inside chapters stay inside
-  const byChapter = heads.filter((i) => /fəsil|pərdə/i.test(lines[i]));
-  const cuts = byChapter.length >= 2 ? byChapter : heads.length >= 2 ? heads : [];
+  const byChapter = heads.filter((i) => /fəsil|pərdə|məclis/i.test(lines[i]));
+  const byScene = heads.filter((i) => /şəkil$/i.test(lines[i]));
+  // Acts that open with their own cast list, when scenes inside them share the word ("Ağa Məhəmməd
+  // şah Qacar": "İkinci məclis", its cast, then its own "Əvvəlinci məclis")
+  const cast = (i: number) => /^### (Əhli-məcl[iı]s|İştirak edənlər|Əşxas)/i.test(lines.slice(i + 1).find((l) => l.trim()) ?? '');
+  const byCast = byChapter.filter(cast);
+  const acts = byCast.length >= 2 ? byCast : byChapter;
+  const cuts = acts.length >= 2 ? acts : byScene.length >= 2 ? byScene : heads.length >= 2 ? heads : [];
   if (cuts.length < 2 || (layout !== 'play' && body.length < SPLIT_PROSE)) return [{ title: null, body }];
   const out: { title: string | null; body: string }[] = [];
   const head = lines.slice(0, cuts[0]).join('\n').trim();
@@ -458,6 +497,12 @@ function parts(body: string, layout: Layout): { title: string | null; body: stri
     const named = ROMAN.test(title) ? title.replace(/\.$/, '') : sentence(title);
     out.push({ title: named, body: lines.slice(c + 1, cuts[k + 1]).join('\n').trim() });
   });
+  // An act's heading straight above its first scene's: one part, "Üçüncü məclis, birinci pərdə"
+  for (let k = out.length - 2; k >= 0; k--) {
+    if (out[k].body || !out[k].title || !out[k + 1].title) continue;
+    out[k + 1].title = `${out[k].title}, ${out[k + 1].title!.toLocaleLowerCase('az')}`;
+    out.splice(k, 1);
+  }
   return out;
 }
 
@@ -485,7 +530,7 @@ export async function planReprint(authorSlug: string, volumes: ReprintVolume[]) 
 
   for (const vol of volumes) {
     const pages = await readReprint(`${readerUrl(vol.bibid)}&download=1`);
-    const located = locate(pages, readToc(pages));
+    const located = locate(pages, readToc(pages), vol.headings);
     const lines = workLines(pages, located);
     located.forEach((e, k) => {
       const section = vol.sections[e.section];
@@ -495,7 +540,10 @@ export async function planReprint(authorSlug: string, volumes: ReprintVolume[]) 
         return;
       }
       const text = workText(lines[k], section.layout);
-      const body = stripMarks(text.note ? `*${text.note}*\n\n${text.body}` : text.body);
+      const body = stripMarks(text.note ? `*${text.note}*\n\n${text.body}` : text.body)
+        .replace(/^### Pərdə\.?$/gm, '*Pərdə*')
+        .replace(/^(### .*)məclıs/gm, '$1məclis')
+        .replace(/^(### [^\s-]+?)(pərdə|məclis|şəkil)$/gm, '$1 $2');
       const sourceNote = readerUrl(vol.bibid, e.at.page + 1);
       const split = parts(body, section.layout);
       const base = shortSlug(`${authorSlug}-${e.title}`);

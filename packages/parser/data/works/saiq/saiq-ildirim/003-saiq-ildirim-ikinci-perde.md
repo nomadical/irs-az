@@ -158,7 +158,7 @@ Soltanx an ı m (gəlir, Ülkəri ağlayan görüb). Qızım, niyə ağlayırsan
 
 *Səfi bəyin ayaq səsləri eşidilir.*
 
-*S o l t a n x a n ı m. Sus, qızım, deyəsən, atan gəlir.*
+*Soltanxanım. Sus, qızım, deyəsən, atan gəlir.*
 
 **Səfibəy**. Rəcəb... Rəcəb... (Rəcəb qozbel kimi ikiqat olub topalayaraq gəlir. Səfi onu başdan ayağa süzərək) Yenə kirpi kimi nə büzülübsən? Nə üçün axsayırsan?
 
