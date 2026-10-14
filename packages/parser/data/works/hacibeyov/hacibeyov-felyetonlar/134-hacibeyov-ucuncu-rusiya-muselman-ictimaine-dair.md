@@ -1,0 +1,20 @@
+---
+slug: hacibeyov-ucuncu-rusiya-muselman-ictimaine-dair
+sourceId: anl-8488-134
+titleAz: Üçüncü Rusiya müsəlman ictimainə dair
+authorSlug: hacibeyov
+collectionSlug: hacibeyov-felyetonlar
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: PROSE
+order: 134
+sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=8488&pno=252'
+status: DRAFT
+---
+Qəzetələr verdiyi xəbərə görə (Nijni Novqorod) da Rusiya müsəlmanlarının üçüncü məclisi olacaqdır. Bu məclisə Rusiyanın hər tərəfindən müsəlmanlar cəm olub, əz hali-hazırələrini mövqeyi-müzakirəyə qoyacaqdırlar. Bu, müsəlmanların ictima qurub, əz ümumi dərdlərinə dərman aramaq üçün icra etdikləri üçüncü təşəbbüsdür. Müsəlmanların keçmiş ictimalarına dövlət izn vermişdisə də sonra nədənsə mane olub qoymamışdı ki, ictima bir müəyyən qərardad tərtib edə bilsin. Ümid var ki, müsəlmanların bu üçüncü təşəbbüsü dövləti heç bir suifikrə salmayıb “bilaməmani”ə icra olunar. Şəksizdir ki, Rusiya müsəlmanlarının bu gələcək ictimai ümumi olacaqdır. Yəni bütün Rusiyanın hər yerindən və bizim Qafqazdan da oraya vəkillər gedib, ehtiyacati-ümumiyyəmizin müzakirəsində iştirak edəcəkdirlər. Bu ictimaın biz Ümumrusiya müsəlmanları üçün ən böyük faydası olacaqdır ki, Rusiyanın müxtəlif yerlərini iskan edən müsəlmanlar öz nümayəndə və vəkilləri vasitəsilə bir-birilə görüşüb, danışıb, öz aralarında əbədi bir irtibat qoymağa səy edəcəkdirlər. Bu halda Sibirya və Orta Asiya müsəlmanları ilə Orta Rusiya müsəlmanları arasında olan irtibat biz qafqazlılar ilə ora müsəlmanları arasında yoxdur desəm yalan olmaz. O vaxt ki, Rusiyada ümum müsəlmanların yalnız bir qəzetəsi var idi və o qəzetə də Qafqazda, Bakı şəhərində nəşr olunurdu. Qafqaz müsəlmanları ilə Rusiya müsəlmanları arasında ittifaq və irtibat əlamətləri dəxi var idi. Qafqazlı və rusiyalı müsəlmanlar bir-birinin ehtiyacatından xəbərdar, bir-birinin qəm və fərəhindən hissəyab olurdular: Birinin ittifaq və ittihadı andıran sözlərinə digəri can və dil ilə haman sözləri cəvabən deyirdi. İndi isə Rusiyada müsəlman qəzetələri çoxaldıqdan sonra, hər kəs “öz əli öz başı” olub bir-birlərinə baxmaq da istəmirlər. Ümum müsəlmanlara münasibəti olan ehtiyaclar bütün qəzetə sütunlarında yazılır, müzakirə edilir. Lakin nə o tərəf və nə də bu tərəfin yek-digərinin xüsusi ehtiyacatını nəzərə almayır, bu ehtiyacatların rəfi xüsusunda dil bulamayır, bildiyi çarələri təklif etməyir...
+
+Zənnimcə, Qafqaz, Rusiya qəzetələrindən ötrü böyük və əhəmiyyətli bir sərmayəyi-mübahisə və mükalimə olan kimi, bizim Rusiya müsəlman qəzetələrindən ötrü də oylə olmalıdır. İki-uç ildir ki, Qafqazda vaqe olan hadisat ənzari-əçanabi özünə cəlb etməyə bilmədi. Rusiya müsəlman qəzetələri isə guya Qafqazdan üz döndəribdirlər. Yaxud qan meydanına dönmüş Qafqaz barəsində bir şey yazmağı, bir təsəvvür izhar etməyi lazım bilməyirlər. Doğrudur, Qafqaz qəzetələri dəxi Rusiya müsəlmanlarının xüsusi ehtiyacatı haqqında bir o qədər qələm çalmayırlar. Lakin iş buradadır ki, Rusiya müsəlmanlarının xüsusi ehtiyacatı, Ümumrusiya müsəlman ehtiyacatına qərib bir halda olarkən Qafqaz müsəlmanlarının xüsusi ehtiyacı bir bəlayi-nagəhandan ibarətdir. O bəla ki, onun üstündə binəva Qafqaz müsəlmanlarının əleyhinə bütün Rusiyada və hətta məmaliki-əcnəbiyyədə dəxi min cürə böhtanlar, iftiralar yazmaqla onsuz da hər bir hüquqdan məhrum olub yazıq qalmış müsəlmanları daxildə gözdən saldılar və axırda o məqamə yetirdilər ki, Rusiyada sakitlik sevən və rahatlıq tərəfdarı ədd olunan sadədil müsəlmanlar fəsadçılara layiq olan tənbihatə giriftar oldular...
+
+Əsasən, Qafqazda vaqe olan bu hadisat dillərdə söylənən və böyük əhəmiyyətə layiq olan bir əhvalat olub da Rusiya ilə Qafqaz müsəlmanları arasında mətin bir irtibat törədə bilərdi, ancaq istifadə etmək lazım idi. Gözdən qoymamaq icab edərdi, bu da ki, qəzetələrin vəzifəsi idi.
+
+Ümidvaram ki, Rusiya müsəlmanlarının bu üçüncü ictimai başa gəlib öz müəyyən qərardadilə ən əvvəl, yalnız bir Qafqaz deyil, Rusiyanın sair müxtəlif yerlərində sakit olan müsəlmanlar arasında davamlı və möhkəm bir irtibat qoyar ki, bunlar bir vətəndə ola-ola yek-digərinə biganə görünməsinlər.

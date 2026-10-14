@@ -1,0 +1,24 @@
+---
+slug: hacibeyov-meclisi-mebusanimizde-ne-olur
+sourceId: anl-8488-198
+titleAz: Məclisi-məbusanimizdə nə olur
+authorSlug: hacibeyov
+collectionSlug: hacibeyov-felyetonlar
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: PROSE
+order: 198
+sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=8488&pno=349'
+status: DRAFT
+---
+“Parlamentarizm” üsulunu Rusiyada işlətmək, görünür ki, çox çətin imiş. Birinci dumanın tez bir zamanda dağılması və bu ikincinin də bu yaxınlarda, şübhəsiz dağılacağı və dumanın varlığında, yoxluğunda Rusiyada şiddətlə davam edən ayrı-ayrı və külliyyətli iğtişaşlar və şurişlər və rus hürriyyətpərvərlərinin minlərcə partiyalara bölünməsi və nəhayət “rus milləti ittifaqı” adamlarının bu axırlarda kəsbi-qüvvət edib, Rusiya azadlıq hərəkatına böyük bir sədd təşkil etməsi belə bir fikir təlqin edir ki, Rusiyada dövləti, sair dövlətlər kimi, parlamentarizm üsuluna, guya, qabil deyilmiş. Bütün hadisələrin hamısı bu silsiləyi-biintiha kimi görünür. Heç ağlına gəlmir ki, bu qatillərin, qarətlərin, hücumların, vuruşma və toqquşmaların bir axırı olsun və Rusiyanın məşrutiyyəti-tamə əsası üzrə kəmali-sükunət və fəraqətlə mədəni bir ömr sürəcək zəmani elə bəid və uzaq görünür ki, onun hüsul və vüsuli haman xəyali-xamə bənzəyir...
+
+Rusiyadan artıq istibdad və üsuli-keyfi-mayəşayə uğramış olan İranda parlamentarizm üsuli nə qədər qeyri-mükəmməldirsə də, yenə də əlan isbati-vücud etməklə bərabər, böyük bir ümid dəxi təlqin edir ki, bu gün sabah İran mükəmməl və müntəzəm bir hökuməti-məşrutə olub da Asiyada Yaponiyanı tək qoymayacaqdır. Barı heç olmasa İranda hökumətin də, məclisin də əməl və rəftarından sızılan və hiss edilən budur ki, bunların məqsədləri doğrudan da məmləkəti əhya etmək və diriltməyə tuşdur.
+
+Rusiyada isə belə deyil. Burada sezilən və hiss edilən bəlkə budur ki, Rusiya hökuməti dumanı çağırdıqda onunla mübahisə və mücadiləyə qalxıb, məmləkəti idarə etməyə qadir olmadığını isbata çalışmağı məram ittixaz edən kimi, duma da “əksəriyyətlə” hökumət ilə mübarizə və müharibəyə girişib, bütün ixtiyaratı onun əlindən almaq fikri ilə yığılıbmış. Bu arada dəxi dumanın qanunsuzluq və hökumətin də icraat vəzifələri yaddan çıxıb unudulmuş kimi görünür...
+
+Duma yığıldıqdan bir qədər sonra onun tezlikdə qovulacağı barəsində, təbiidir ki, müxtəlif xəbərlər əşar olunurdu. Lakin bir qədərdən sonra hökumət dumaya dair zahirdə xeyirxahanə bir münasibət göstərib də bu xəbərlərə bir etibar qoymadı. Bəd dumanın 17 mayda taza saldat yığmaq xüsusunda olan gizli məclisində “Zurabov hadisəsi” adlı duma üçün qorxulu bir hadisə vaqe olub, qovulmaq xəbərini müəkkəd surətdə meydana çıxartdı. Lakin burada dəxi duma sədri Qolovinin bu hadisə münasibətilə ittixaz etdiyi politika hökumətə xoş gəlib, dumanın “təqsiri əfv olundu” Qolovinin padşah həzrətləri tərəfindən hüsniqəbulu hər kəsi bu barədə arxayın etdi. Amma yenə də bu günlərdə qara xəbərlər çıxmışdı ki, duma bu günlərdə qovulacaqdır. Buna da səbəb “aqrarnıy” yer və torpaq məsələsi ilə əfvi-ümumi (aminisiya) məsələsini görürdülər. Lakin Rusiya işlərinə ruslardan artıq bələdiyyət kəsb etmiş əcnəbilərin qəzetələri xəbərlərindən məlum oldu ki, Stolıpinin fikri dumanı saxlamaqdır. Amma bu günlərdə alınmış teleqraflara baxılarsa, daha şəksizdir ki, duma ilə hökumət arasında böyük bir ixtilaf vaqe olub da nəticəsində duma qovulacaqdır.
+
+İş buradadır ki, hökumət indiyə qədər razı ola bilməyibdir ki, məclisi-məbusan üzvləri, yəni bütün məmləkətin qanunsazları sair biz kimi “günahkar”lardan seçilmək üçün barı, heç olmazsa, polis təərrüz və təcavüzündən məsun və amanda olmalıdırlar. Odur ki, hökumət pasxa bayramında evlərinə qayıtmış olan duma üzvlərindən bir neçəsini həbs etdirməkdə heç bir şeydən çəkinmədiyi kimi, dumanın sosialdemokrat fraksiyası əzalarından Ozulun mənzilini də Peterburqda bir çox laübalilik ilə axtartdırır, özü söylədiyi üzrə bir çox qeyri-məzur kağızlar və indiki idareyi-məmləkət üçün təhlükəli olan bir çox planlar və müsəlləh bir üsyan və qiyam qaldırmaq üçün bir xeyli yazılar, filanlar tapıbdır. İndi o zamandan bəridir ki, hökumət dumanın sosialdemokrat fraksiyasına əyri göz ilə baxıb, onların əzalarını məxfi surətdə təhti-nəzarətdən buraxmayıb, təqib edirdi. Bugünkü teleqramlardan kamali-təəccüblə anlaşıldığına görə, hökumət dumadan tələb edir ki, bilatəxir dumanın bütün sosial-demokrat fraksiyası kənar olunub məclislərdə hazır olmağa ixtiyarları olmasın. Və bundan savayı onların 14 nəfəri də straja təhti-nəzarətinə alınsın.
+
+Dumanın sosial-demokrat fraksiyasında 50-dən artıq üzvlər vardır. Bir bu qədər üzvlərin duma məclislərindən kənar edilməsi tələbi dumaya nə gunə sui təsir edəcəyini indidən anlamaq olar. Biz, bu zənnidəyik ki, əgər hökumət bu tələbində israr edəcəksə, duma ilə hökumət arasında böyük bir ixtilaf vaqe olub, nəticəsində də duma dağılacaqdır və dumanı guya, mühafizət etməyə qeyrət edən kimi görünən Stolıpinin politikası aşkar meydana qoyulacaqdır.

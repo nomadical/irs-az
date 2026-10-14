@@ -1,0 +1,32 @@
+---
+slug: hacibeyov-hummet-lazimdir
+sourceId: anl-8488-77
+titleAz: Hümmət lazımdır
+authorSlug: hacibeyov
+collectionSlug: hacibeyov-felyetonlar
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: PROSE
+order: 77
+sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=8488&pno=147'
+status: DRAFT
+---
+Ümumfirəngistan məmləkətində, baxüsus Firəngistan paytaxtı və mədəniyyət mərkəzi olan Paris şəhərində böyük yağıntılıq olub, çaylar daşıb, şəhəri xarab etdiyini oxucularımız qəzetəmizdə yazılan xəbərlərdən bildilər. Şübhəsizdir ki, hər yerdə belə bir fəlakət və müsibət üz verdikdə onun ən böyük zərbəsi əhalinin kasıb və fəqir adamlarının və ailələrinin başına düşür. Hamıdan çox zərərdidə olan onlar olurlar. Parisdə də həmçinin əhalinin zəhmətkeş sinfi bu müsibətdən böyük zərbələr çəkib hal-hazırda yüz minlərcə adam işsiz, ruzisiz meydanda qalıblar. Bunlardan əhl və əyal sahibi olanların da arvad-uşaqları rizq və ruzisiz qalıb, böyük həsrət çəkməyə məhkumdurlar. Lakin həm elmlə, həm növbənöv ixtiraat və kəşfiyyat nafiəsi ilə və həm də maddi qüvvəsi ilə bütün insaniyyətə böyük-böyük xidmətlər göstərən və fəlakətzədagən və müsibətə giriftar olanlara kömək yetirən Paris şəhəri, özünün bu müsibətində də kənar yerdən kömək və imdad gözləmədən əvvəl, özü öz müsibətzədaganlarının köməyinə kəmali-gərmi ilə girişib, olduqca bol-bol ianələr toplamaqdadır. İanə verənlər isə böyük bir səxavət və həmiyyət göstərib, canidil ilə bəzli ianə edirlər.
+
+İştə rus qəzetələrindən “N.V.” qəzetinin Paris müxbiri firəng camaatının hümmət və həmiyyətini bu növ ilə təsvir edir:
+
+“Mən olan evin yanında “Sanfransisk” kilsəsinin keşişi müsbətzədaganə ianə yığmaq üçün kilsəyə yığılanlardan pul toplayırdı. On franklıq, beş franklıq sikkələr və pullar yağış kimi keşişin kisəsinə töklürdü. Bir çoxları öz kisələrini açıb keşişin kisəsinə boşaldırdılar. Keşiş isə öz həmcinslərinin bu hümmətini görüb şadlığından əbri-neysan kimi yaş tökürdü. Haman məhəllədə olan “Karno” mədrəsəsinin şəyirdləri bir gündə öz aralarında 5600 frank pul yığdılar. “Komediye qramçasye” teatrının məşhur bazəndələrindən madam Skonveber fəğir və fələkzadə uşaqları öz mənzilinə yığıb, qarınlarını doydurur. Professor Berje dəxi söyləyir ki, onun tanışı olan bir dövlətli famil dəxi müsibətzədaganların uşaqlarını evlərinə yığıb çörək verirlər. Dövlətli və zəngin adamların araba və avtomobilləri üzərində “Səlibi-əhmər” əlaməti vardır. Bunun mənası odur ki, yəni mənim arabam və avtomobilimdə azarlıları və zərərdidələri daşımağa hər bir kəsin ixtiyarı vardır.
+
+Doğrudan da bir avtomobil küçədə getdiyi yerdə polis işarə edən kimi dayanır. Avtomobil sahibi onun içindən çıxıb öz malını poliseyeyə verir ki, lazım olan yerdə zərərdidələr üçün işləsin. Xülasə hədsiz surətdə ianə toplanmaqdadır. Zəngin və dövlətli ailələr fəqir uşaqları bir-birlərinin əlindən qapırlar ki, aparıb qarnını doyursunlar. Səlibi-əhmərdə iştirak edən damalar azuqə yüklərini ora-bura daşıyır, möhtaclara paylayırlar. Hətta kasıb çörəkçilər, baqqallar, qəssablar – onlar da öz mallarından ianə çıxıb “Səlibi-əhmər” üçün verirlər ki, möhtacların ruzusu bol olsun. Məsəl vardır ki, dostu bərkə düşəndə tanımaq olar. Bizlərdə və ümum cəhalət basmış yerlərdə belə bir müsibət üz verdikdə, Allah göstərməsin, heç kəsdən xəbər olmur. Hər kəs öz başının qeydinə qalıb, özünün sağ və səlamat qaldığını qənimət bilir. Dalda qalanın lap canı çıxsın, heç vecinə olmur.
+
+“Allah dostu dosta möhtac eləməsin” məsəli bizim aramızda əbəs yerə deyilməyibdir. Çünki ehtiyac zamanında səndən üz döndərən, əvvəlcə sənin öz dostun olur. Asudəlik zamanında həmişə sənin yanında quyruq bulayan adamı, ehtiyac zamanında gendən qaçan görərsən. Lakin mütəməddin məmləkətlərdə belə deyildir. Orada dost olsun, qeyrisi olsun, öz möhtac qardaşına kömək edər. Odur ki, indi bu saat Firəngistanın üzərinə əvvəlcə yağış yağdı, indi də ianə yağmaqdadır. Yağış selinin xarab etdiyi yerləri, ac və evsiz qoyduğu evləri bu səfər ianə seli düzəldib doydurub tikdirəcəkdir.
+
+Bu məqaləni yazmaqdan bir məqsədimiz mədəniyyət sahiblərinin hümmət və həmiyyətindən bir cüzi nümunə göstərməkdir. İkinci məqsədimiz isə budur:
+
+Məlum olduğu üzrə bizim Qafqazın müsəlman cavanlarından bir neçəsi hal-hazırda Paris məkatibi-aliyəsində təhsili-ülum etməkdədirlər. Bunlardan elələri vardır ki, ataları dövlətli və zəngin olub, qürbətdə olan övladlarını ac və möhtac qoymazlar. Amma o tələbələrin hamısı elə xoşbəxt deyildirlər. Onların içində elələri vardır ki, kənardan verilən cüzi bir ianə ilə bir qarın ac, bir qarın tox, min cür məşəqqət ilə güzəran edib dərs oxuyurlar.
+
+Lakin burasını nəzərə almalıdır ki, hal-hazırda Paris şəhəri bu müsibətdən bəridir ki, çox bahalanıbdır. Rizq və ruzunun qiyməti artıbdır. “N.V.” qəzetəsinin müxbiri yazır ki, yeyilən şeylər, məsələn, yağ, pənir, yumurta, kartof, çörək və sairənin qiyməti üç və hətta dörd dəfə artıbdır. Yeyilən şeylərdən başqa, hər nə varsa onların da qiyməti artıbdır. İş belə olan surətdə, o binəva tələbələrimizin halını təsəvvürə gətirmək mülahizə etmək asandır. Onların ianiyə möhtac olduqları aşkardır və bu ianə nə qədər tez cəm olub onlara göndərilsə, bir o qədər yaxşıdır. Razı olmayaq ki, bizim tələbələr də zərərdidəgan cərgəsinə girib Paris müsibət-zadəganlarının ianələrinə şərik olsunlar. Dünyanın hər yerindən parislilərə kömək və ianə edilən bir zamanda biz də ora əhlinə ianə göndərmək əvəzində daha da öz yoxsul tələbələrimizi onların öz möhtacları cərgəsinə salsaq, bizim üçün çox böyük eyib olar.
+
+Ona görə bizə vacibdir ki, bu işə əhəmiyyət verib şəhərlərimizdə mövcud olan xeyriyyə və ya maarif cəmiyyətlərinin idarələrinə ianə toplayaq ki, haman idarələr o ianəni Parisə göndərib əsrətə düşmüş tələbələrə verdirsinlər. Haman cəmiyyətlərimizə borcdur ki, bu lazımi təşəbbüsü tezliklə öhdələrinə götürüb tələbələrimizə imdad yetirsinlər. Və bunu unutmasınlar ki, Firəngistan kimi yerdə təhsili-ali görmüş tələbələr gələcəkdə bizim millətimiz üçün son dərəcə qənimət olacaqdırlar. Elə adamlara əşəddi ehtiyacımız olduğu aşkardır. İki-üç ildən sonra bu tələbələr ikmali-təhsil edib vətəni-əzizlərinə qayıdacaqlar və qayıdıb da bir çox ictimalarımızı rəf və dəf edəcəklər.
+
+Ümid vardır ki, şəhərlərimiz və mövcud olan maarif və xeyriyyə cəmiyyətləri özlərinin doğrudan-doğruya vəzifələri əddi olunan bu işə tezliklə mübaşir olub, ianə toplayıb, Parisə göndərməklə həm millətə və həm də insaniyyətə xidmət göstərirlər. Və tələbələrimizi elə bir əsrətdən xilas etməklə onların gələcəkdə millət yolunda can və dildən işləmələrinə bu vəsilə ilə bir zəmin hazırlarlar.

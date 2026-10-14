@@ -468,6 +468,8 @@ export interface ReprintSection {
   genre: Genre;
   form?: PoemForm;
   layout: Layout;
+  /** Number titles the section repeats, in book order: a column's pieces ("Ordan-burdan 1", "Ordan-burdan 2") */
+  number?: boolean;
 }
 
 export interface ReprintVolume {
@@ -574,9 +576,18 @@ export async function planReprint(authorSlug: string, volumes: ReprintVolume[]) 
     const located = locate(pages, readToc(pages, Object.keys(vol.sections)), vol.headings)
       .map((e) => ({ ...e, title: e.title.replace(/(\p{L})\1\1/gu, '$1$1') }));
     const lines = workLines(pages, located);
+    // How often each section repeats a title, and how many of each are numbered so far
+    const repeats = new Map<string, number>();
+    for (const e of located) if (vol.sections[e.section]?.number) repeats.set(`${e.section}\n${e.title}`, (repeats.get(`${e.section}\n${e.title}`) ?? 0) + 1);
+    const seen = new Map<string, number>();
     located.forEach((e, k) => {
       const section = vol.sections[e.section];
       if (!section || vol.skip?.includes(e.title) || vol.skip?.includes(`${e.title}@${e.page}`)) return;
+      const key = `${e.section}\n${e.title}`;
+      if (section.number && (repeats.get(key) ?? 0) > 1) {
+        seen.set(key, (seen.get(key) ?? 0) + 1);
+        e = { ...e, title: `${e.title} ${seen.get(key)}` };
+      }
       if (!e.at) {
         console.warn(`  ${e.title} (p. ${e.page}): heading not found, left out`);
         return;

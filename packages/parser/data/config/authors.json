@@ -654,6 +654,59 @@
     "wikisource": {
       "az": "Hüseyn Cavid"
     },
+    "skipSources": [
+      "wikisource-az-22022",
+      "wikisource-az-22023",
+      "wikisource-az-24341",
+      "wikisource-az-22035",
+      "wikisource-az-22033",
+      "wikisource-az-22024",
+      "wikisource-az-22025",
+      "wikisource-az-22034",
+      "wikisource-az-22026",
+      "wikisource-az-22036",
+      "wikisource-az-22031",
+      "wikisource-az-21256",
+      "wikisource-az-22030",
+      "wikisource-az-22032",
+      "wikisource-az-21255",
+      "wikisource-az-22027",
+      "wikisource-az-21257"
+    ],
+    "reprint": {
+      "volumes": [
+        {
+          "bibid": 8440,
+          "sections": {
+            "DRAM ƏSƏRLƏRİ": {
+              "collection": "cavid-dramlar",
+              "titleAz": "Dramlar",
+              "genre": "PLAY",
+              "layout": "play"
+            },
+            "MƏQALƏLƏR": {
+              "collection": "cavid-meqaleler",
+              "titleAz": "Məqalələr",
+              "genre": "PROSE",
+              "layout": "prose"
+            },
+            "MƏKTUBLAR": {
+              "collection": "cavid-mektublar",
+              "titleAz": "Məktublar",
+              "genre": "PROSE",
+              "layout": "prose"
+            }
+          },
+          "skip": [
+            "Əlavələr"
+          ],
+          "headings": {
+            "Mirzə Abdulla Məhəmməd yaxud (A.Sur) – Abdulla Tofiq": "Mirzə Abdulla Məhəmmədzadə yaxud (A.Sur) – Abdulla Tofiq",
+            "Teatr yaxud sən’əti-tamaşada təbəddül və tərəqqi": "Tiflisdə teatr yaxud sən’əti-tamaşada təbəddül və tərəqqi"
+          }
+        }
+      ]
+    },
     "collections": [
       {
         "slug": "cavid-seirler",
@@ -1722,6 +1775,37 @@
       "az_titles": {
         "Rüstəm və Söhrab (opera)/Birinci məclis": "Birinci məclis"
       }
+    },
+    "skipSources": [
+      "wikisource-az-33049",
+      "wikisource-az-2054",
+      "wikisource-az-18609"
+    ],
+    "reprint": {
+      "volumes": [
+        {
+          "bibid": 8488,
+          "sections": {
+            "FELYETONLAR": {
+              "collection": "hacibeyov-felyetonlar",
+              "titleAz": "Felyetonlar",
+              "genre": "PROSE",
+              "layout": "prose",
+              "number": true
+            },
+            "MƏQALƏLƏR": {
+              "collection": "hacibeyov-meqaleler",
+              "titleAz": "Məqalələr",
+              "genre": "PROSE",
+              "layout": "prose"
+            }
+          },
+          "skip": [
+            "İzahlar",
+            "Lüğət"
+          ]
+        }
+      ]
     },
     "collections": []
   },
