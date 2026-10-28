@@ -33,7 +33,6 @@ Bu iki rəngli dünya azadələr başına,
 
 Gəlininə yəqinin kəbin kəsilməmişsə,
 Könül ayrılan deyil talaqla fərziyyədən!
-Milli Kitabxana
 Şoranlıqdan axarmı suyuşirin çeşmələr?
 Əhdə vəfa gözləmə bu zəmanə əhlindən.
 
@@ -72,7 +71,6 @@ Bəhaəddin yox isə, necə bizim zəmanə
 
 Əhməd kömək etməsə ulduzlara səmadə,
 Onlar bəxti, taleyi edə bilməz müəyyən.
-Milli Kitabxana
 
 21. ŞEYXÜL-İSLAM ÜMDƏTƏDDİN MƏHƏMMƏD
 İBN ƏSƏD TUSİ NİŞABURİNİN VƏFATINA

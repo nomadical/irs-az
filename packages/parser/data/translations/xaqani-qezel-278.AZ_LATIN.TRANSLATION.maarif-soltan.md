@@ -19,7 +19,6 @@ Aşiqlərə yaraşmaz bütsüz namaza durmaq,
 ol bütpərəst, o köhnə ünvanı tazə eylə!
 Sürmə quru yerdə sən gəmisini xəyalın,
 Qəlbində yanğı varsa, tufanı tazə eylə!
-Milli Kitabxana
 Hər dərdinə, inan ki, dərdin özü dəvadır,
 İndi yenə bu dərdə dərmanı tazə eylə!
 

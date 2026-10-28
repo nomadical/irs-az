@@ -19,7 +19,6 @@ Qəbulşuz da biz olluq möhtərəm, üzü xəndan.
 Bu icz ilə biz səndən artıq olluq kamran.
 Əgər meylə keflisən, bil, səndən daha artıq,
 Qəlbimizə kef verir öz qəmimiz hər zaman.
-Milli Kitabxana
 
 Qəlbdə acı qüssələr, üzdə şirin xəndəmiz,
 Heç üzümüz turşumaz, gül kimiyik - ərğəvan.

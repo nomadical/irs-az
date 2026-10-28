@@ -16,7 +16,6 @@ Kinayə edib, söylədin, Xaqani,
 
 Bəli, eylə bir şaha məddah idi,
 Ki, oldu belə kamran Ünsüri.
-Milli Kitabxana
 Qəzəl yazdı ay üzlü yar eşqinə,
 Olub şahlara mədhxan Ünsüri.
 
@@ -55,7 +54,6 @@ Sorardı pəri tək nihan Ünsüri.
 
 Çörək arzusuyla bu alçaqların,
 Əlindən öpərdi hər an Ünsüri.
-Milli Kitabxana
 Ağızda deyildi mənim tək dili,
 Qılıncdan iti, səf yaran, Ünsüri.
 

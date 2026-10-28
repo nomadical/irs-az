@@ -31,7 +31,6 @@ Kimsədən alma yemək, şahinə cəmdəkdir haram!
 
 Cami-ehsanınla sən aləmləri sirab elə,
 Badə tutma. kimsədən cam alma, ölsən təşnəkam!
-Milli Kitabxana
 
 Qətreyi-nisanə qane ol sədəftək dəhrdə,
 Ağzını açma balıqtək hər suya sən sübhü şam!

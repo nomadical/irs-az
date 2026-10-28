@@ -28,5 +28,4 @@ Nə də çalğıçıtək tapmışam şöhrət.
 
 Hamballıq etməyə çağırırsınız,
 Su, odun daşımaq lazımdır, əlbət".
-Milli Kitabxana
 35.

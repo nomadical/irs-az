@@ -15,7 +15,6 @@ Bəh-bəh, ey bəxt, mehriban canan,
 Ey cəfalar çəkən, vəfalı olan.
 Burdaca, lap yanımdasan, ancaq,
 Gəzmişəm mən səni uzaqda nahaq.
-Milli Kitabxana
 Bir cavansan, uşaq sanırdım mən,
 Məst bilirdimsə, huşlusan, əhsən!
 
@@ -54,7 +53,6 @@ Sağalıb, sonra uçmusan yenidən.
 
 Qasid oldunmu, təşnə uçmalısan,
 Su içən elçi quş qalar yoldan.
-Milli Kitabxana
 
 Üzərək, qoymusan balıqları mat,
 İçmisən sən doyunca abi-həyat.
@@ -87,7 +85,6 @@ Nə qədər xalq var cahanda bütün,
 Hamıya onlar oldu arxa bu gün.
 İki tacdır, inan, bütün bəşərə,
 İki ulduzdu, nur saçır da yerə.
-Milli Kitabxana
 O iki şəxs ilə görüşdüm mən,
 Xəyal asudə oldu şərlərdən.
 
@@ -126,7 +123,6 @@ O, Əlinin kəlamını təkrar.
 
 O iki şəxsin olduğu məclis,
 Kəbül-Əhbar, Kəbədir, şəksiz.
-Milli Kitabxana
 Onlar olmuşdu sirlərin açan,
 Elmlər sərdan, xəzinədan.
 
@@ -165,7 +161,6 @@ Onlar olmuş mənə dayaq hər an.
 
 Biri Təbrizdə Xızr tək məşhur,
 Öz həyat çeşməsilə etdi zühur.
-Milli Kitabxana
 
 O biri Reydədir, Məsihi-zaman,
 Cismimə, ruhuna olub dərman.
@@ -198,7 +193,6 @@ Sanıram qiblə həm də Reylə Xoyu.
 Sözümün şəkkərilə doldu cahan.
 Reydə o hörmət etdiyim insan,
 Dünyanın fəxridir, bilir dövran.
-Milli Kitabxana
 Sədri-Tacəddin, indi əhli-kübar,
 Tacidar söyləyir ona aşkar.
 
@@ -237,7 +231,6 @@ Bismdə və ilahda da bu qərar.
 
 ...Odur İsa, mənəm ona bəndə,
 Tapdım hökmüylə çün həyat mən də.
-Milli Kitabxana
 İsaya bəndəlik edər hər kəs,
 Gecə-gündüz nədir, inan, bilməz.
 
@@ -276,7 +269,6 @@ Yol kəsən öskürərsə, peşman olar.
 
 Paxılı xatirimdə saxlamıram,
 Ancaq olmur xəyalım heç aram.
-Milli Kitabxana
 
 Yesə yüz il ilan əgər torpaq,
 Torpaq axırda, bil, onu udacaq.

@@ -34,5 +34,4 @@ Qumrov bilib, dəyməyələr, qayıdasan sən birtəhər.
 
 Xaqaninin qəlbi onun arzusuyla dən-dən oldu,
 İstəmədi məni yarım heç də yarım arpa qədər.
-Milli Kitabxana
 79.

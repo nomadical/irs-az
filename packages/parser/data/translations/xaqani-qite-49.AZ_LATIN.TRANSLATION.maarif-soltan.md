@@ -35,6 +35,5 @@ Dedi ki, dörd aydan sonra bir külək,
 Qapanda çadramı, görünər surət.
 Xaqani, gəl, onda bakir sözünlə,
 Başına çadra sal, anandır, gizlət!
-Milli Kitabxana
 
 4.

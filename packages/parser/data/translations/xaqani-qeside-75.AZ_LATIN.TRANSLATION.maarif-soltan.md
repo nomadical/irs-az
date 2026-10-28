@@ -34,5 +34,4 @@ Sübhdən dəm vurmağın nə zövqü, nə mənası var?
 
 Mərd kimi Xaqani bu alçaq saraydan hər zaman,
 Göylərə yüksəltdiyi bayraqla etmiş iftixar.
-Milli Kitabxana
 19.

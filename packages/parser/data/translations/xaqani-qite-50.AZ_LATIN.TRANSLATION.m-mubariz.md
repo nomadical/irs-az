@@ -16,7 +16,6 @@ Xalqlar üçun ölümdür hiylə bəlası, inan!
 
 Vəfa bünövrəsinə lağım atan hiylədir,
 Bu bunövrə canları hər bəladan gizlədir.
-Milli Kitabxana
 
 Burax lağım atmağı, budur, açılıb səhər,
 Lağım atan həmişə işıqdan çəkmiş zərər.
@@ -49,7 +48,6 @@ Zorla İrəm bağından bir tingi çıxarsalar,
 Əkmə onu bağında, peşmançılıq verər bar!
 Paxıllıqdan birisi dürr əkmişsə bağçada,
 Qırma, tikan olub o, ayağına batsa da!
-Milli Kitabxana
 Başqasının əliylə yüksələrsə bir alçaq,
 Əlbəttə, qədir bilməz, duz-çörəyi danacaq.
 
@@ -88,7 +86,6 @@ Bircə "yox" qarşısında dilində min "bəli" var.
 
 Gah qəzəbindən coşar, gah sənə bəxşiş verər,
 Dalğalı bir dənizdir, sinəsində incilər.
-Milli Kitabxana
 Böyüklərdə yumşaq yox, sərt olmalı təbiət,
 Sıldırım qayaların sifətidir bu sifət.
 
@@ -127,7 +124,6 @@ O göz qarşısındakı çıraqdan nazmı çəkər?
 
 Yumulan göz çırağı necə qiblə tanıyar,
 Onun ki, qarşısında qaranlıq mehrabı var.
-Milli Kitabxana
 Kavə Firidun qədər şöhrətə çatan zaman,
 Heç yadına düşərmi görük, çəkic və zindan?
 
@@ -166,7 +162,6 @@ Elə bil ki, tanrlıya yüz ibadət etmisən!
 
 Ehtiyacsız xaliqə səcdə edərmi onlar
 - Bütə pərəstiş edən qəlbiqara şamanlar?
-Milli Kitabxana
 
 Cahilləri öymə ki, sərvəti var, malı var,
 Elmiylə, hikmətiylə öyünməli insanlar.

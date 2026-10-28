@@ -46,7 +46,6 @@ Taleyimin yardımıyla necə çıxıb qaçdım mən.
 
 Od yağdıran su rəngli bu səma məni etdi zar,
 Hava kimi yüngül oldum, torpaq kimi xaksar.
-Milli Kitabxana
 
 Külək kimi icazəsiz açmaram heç məskəni,
 Torpaq kimi qoruyaram qəlbimdəki məxzəni.
@@ -79,7 +78,6 @@ Qızılgül tək ovcum içrə qızıl yoxdur, bil, aman,
 Neçin mənə həqarətlə tənə vurur hər tikan?
 Kim bilməyir, mənim ağlım və canımın gövhəri,
 Öz işimlə açır daim açılmayan sirləri.
-Milli Kitabxana
 Əşa kimi dilim səpir saf incini aşikar,
 Yaratmışam cavahirlə bəzədilmiş min tumar.
 
@@ -118,7 +116,6 @@ Ona görə şərq ilə qərb arasında gəzdim mən.
 
 Ey zəiflər pənahı, ey dərvişlərin qəmxan,
 Sənin tərif baxçanda mən oldum mərifət barı!
-Milli Kitabxana
 
 Əgər mənə el içində şair adı vermişlər.
 Səni tərif edəndə mən oldum belə süxənvər.

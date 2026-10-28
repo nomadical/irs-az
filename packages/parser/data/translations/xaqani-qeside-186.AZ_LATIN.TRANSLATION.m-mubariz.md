@@ -45,5 +45,4 @@ Yandırdığın o atəşə yandım səhər-səhər.
 
 Xaqaniya! Sözün ölüyə can verər sənin,
 Sənsən Məsihi-əsr-inandım səhər-səhər.
-Milli Kitabxana
 37.

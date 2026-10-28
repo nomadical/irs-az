@@ -19,7 +19,6 @@ Xərçəng isə pərvanətək qorxmaz, od ilə oynayar..
 
 Çənbər şəkilli bu fələk çulğanmış ənbər rənginə,
 İskəndərin aynasına ənbər dolu gül yağdırar...
-Milli Kitabxana
 
 Cəhcəh vuran bülbül əgər susmuş fərağında gülün,
 Gül rəngli mey tək guzədəh, bülbül kimi cəhcəh vurar.

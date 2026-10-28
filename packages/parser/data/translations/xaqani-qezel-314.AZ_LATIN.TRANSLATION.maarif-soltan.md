@@ -13,7 +13,6 @@ status: PUBLISHED
 ---
 Sən ey xumar gözləri könülləri yaxan yar,
 Qıvrım saçın kəməndi canları etmiş şikar.
-Milli Kitabxana
 Huri kimi camalın səhranı cənnət etmiş,
 Aşiqlərin də ahı dəryanı eylər buxar.
 

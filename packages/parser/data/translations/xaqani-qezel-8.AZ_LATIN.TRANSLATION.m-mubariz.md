@@ -19,7 +19,6 @@ Gecə göydə saxlamazdı əlini onun duası.
 
 Məni sirr pərdəsində qara zülfü yaxmasaydı,
 Yayılardımı cahana belə eşq macərası?
-Milli Kitabxana
 
 Canımı bəlaya salmış, bilirəm, yəqin fəraqı,
 Niyə çıxmayır başımdan yenə vəslinin havası?

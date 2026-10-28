@@ -31,6 +31,5 @@ Yubanmadan, təcili get, ona söylə: - A simbər.
 
 Xaqaninin qəlbindəki nəhayətsiz dərdü qəmə,
 Dərman verib, olac elə, özün ona yetir nəzər!
-Milli Kitabxana
 
 82.

@@ -42,7 +42,6 @@ Bu təəccüb deyil, əgər bir qurşun almaz qıra,
 Hünər ona deyərəm ki, almaz polad sındıra.
 Gedən zaman bu dünyadan Sənaitək bir ustad,
 Əvəz gəldim ona, atam mənə Bədil qoydu ad.
-Milli Kitabxana
 Boğazına dünyanın mən gövhər tökdüm o qədər,
 Onu aman deməyə də qoymadı bu gövhərlər.
 

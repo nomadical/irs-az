@@ -45,7 +45,6 @@ Diyari-eşqdə eşqi fəqət rəhbər bilər aşiq,
 Şahın əmrilə lazımdır şahın dərbarına getmək.
 Həvayə yol da versən, vermə qəlbindən keçən yoldan
 Ki, aşiqlər sanarlar küfr, qəlbində həva getmək.
-Milli Kitabxana
 
 Əsil Türkistana get, orda mənalı adam axtar,
 Kimə lazım Çinə adəmgiyah axtarmağa getmək?
@@ -85,7 +84,6 @@ Nə arzun var, olar hasil, vüsalı xoş əlamətdir.
 Onun eşqilə bağlandın, çəkinmə əsla zəhmətdən,
 Məhəbbət meydanı çünki ya qovğadır, ya zəhmətdir.
 Qalıb heyrət quyusunda - xilaskar axtarırsan sən,
-Milli Kitabxana
 
 Əlində ip, durubdur o, yada salsan, kifayətdir.
 Çapıb hümmət atın, artıq bu dünyadan uzaqlaş sən,
@@ -124,7 +122,6 @@ O xalqa başçı olmuşdur, həqiqətdə ulu rəhbər,
 Onun səyilə dərk etmiş şəriəti cəmiyyət də.
 Şəriətdə, təriqətdə Nəsirəddin imam oldu,
 Salındı bayrağı küfrün, daha ömrü tamam oldu
-Milli Kitabxana
 
 * * *
 
@@ -164,7 +161,6 @@ Qalan kəslər səni gözlər qiyamətə kimi hökmən.
 Əgər bir düşmənin ölsə, onun əhvalına mütləq,
 Qəza xoşhal olar labüd, qədər diş qıcıdar, bil sən.
 O dövlət ki, sənin vardır, yanar İskəndərin bağrı,
-Milli Kitabxana
 Külə dönməzmi Yəcucun canı, aya, bu atəşdən.
 Paxıllar çox qazan qurmuşlar, amma, mən bilən orda
 Elə bir şey tapılmaz ki, səbəbkarı onun sənsən.

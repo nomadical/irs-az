@@ -29,6 +29,5 @@ Bilməyirəm, kargüzardır, ya ki, böyük bir hökmüdar'
 İlan isə ofsunçudan gileylənib, haray salar.
 Ey Xaqani, tərk et sən də bu dünyanın mənzilini,
 Bu mənzilə düşən hər kəs rahatlığa həsrət qalar.
-Milli Kitabxana
 
 21.

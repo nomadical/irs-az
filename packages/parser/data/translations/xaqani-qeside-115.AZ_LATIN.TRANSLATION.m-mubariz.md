@@ -25,7 +25,6 @@ Hilal boş qabını göstərib dedi: - Ye görək!
 
 Qəhətlik ildə zəkat istədim fələkdən mən,
 Neçə çanaq külək ölçdü, dedi: - "Apar məndən!"
-Milli Kitabxana
 
 Dedim: Yanar gecə bəxt ulduzum, oyaq qaldım,
 Kor etdi tüstü məni, istiyə damaq qaldım.
@@ -61,7 +60,6 @@ Qulaqlarımla eşitdim ki, ağlayırdı o, qan.
 
 Şəriət əyninə dinin əli biçəndə libas,
 Onun sözü, qələmindən ən-arqac aldı əsas.
-Milli Kitabxana
 
 O, dinə Mehdi ikən, halımı görüncə yaman,
 Məsih oldu mənə, etdi dərdimə dərmanı.

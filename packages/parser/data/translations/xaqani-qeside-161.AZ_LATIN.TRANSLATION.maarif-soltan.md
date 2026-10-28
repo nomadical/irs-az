@@ -33,7 +33,6 @@ Ayın biriydi dünən, baxanda təzə Aya,
 Üfüqün qulağında bənzəyirdi sırğaya.
 Əsdi səba, gülşənə çəkdi bir ordu bahar,
 Etdi xəzandan qalan ordu-önündən fərar.
-Milli Kitabxana
 
 Bitkilərin şahına oldu düşərgə çəmən,
 Səpdi onun başına incini neysan həmən.
@@ -61,7 +60,6 @@ Nizəsilə Dəhrəni, qılıncıyla Zöhrəni.
 Bütün əcəm mülkünü qılıncıyla fəth edir.
 Vardır onun camının mayəsi və payəsi,
 Bəhri-mühit payəsi, abi-behişt mayəsi.
-Milli Kitabxana
 
 Hər yanda rahatlığa, bil ki, səbəbkar odur,
 Rahatlıq olan yerdə el də bilikli olur.
@@ -89,7 +87,6 @@ Necə qara şişədə saxlamlar bir mələk,
 Yad qəlbində qılıncın fıkri qalar onun tək.
 Sürahinin boynunda həlqə olur hər zaman,
 Elə də kəndir sıxar bədxahın boğazından.
-Milli Kitabxana
 Düşməninə qılıncın elə zərbə endirər,
 Üzüm şərab olmamış turş sirkəyə döndərər.
 
@@ -128,7 +125,6 @@ Arif qanar zəfəran nədir, öküz əti nə!
 
 Avamların gözündə buz görünər inci tək,
 Ancaq fərqi bəllənər Günəş istisi dəycək.
-Milli Kitabxana
 
 Cəbrayılın qanadı başına kölgə salsın,
 Hümanın qanadları kölgəndən zinət alsın.

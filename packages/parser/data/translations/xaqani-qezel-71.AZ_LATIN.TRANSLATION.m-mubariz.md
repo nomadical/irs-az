@@ -17,7 +17,6 @@ Zülfün ilə zirehlənmiş ox kimi düz qəddinə,
 Kəman çəkən, oxlar atan müjganına and olsun!
 Mərmər kimi bədəninə, atlas kimi üzünə,
 Narınc sinən, alma kimi buxağına and olsun!
-Milli Kitabxana
 
 İki nərgiz, iki sünbül, iki qızıl gülünə,
 Sərv boyun, şümşad qolun - budağına and olsun!
@@ -52,5 +51,4 @@ Nə qədər ki, ürək vurur, can qalır öz yerində,
 Can sənindir, könül qurban ayağına, and olsun!
 Sən çox yaşa, Xaqanidə daha ürək qalmamış,
 Gec gələrək məni nalan qoymağına and olsun!
-Milli Kitabxana
 39.

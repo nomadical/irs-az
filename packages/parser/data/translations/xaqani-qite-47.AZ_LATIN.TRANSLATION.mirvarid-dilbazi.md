@@ -34,7 +34,6 @@ Başı vaxtsız ağartdınsa,
 
 Bu ağ tükdən kədərlənmə,
 Uzun ömrə odur mizan.
-Milli Kitabxana
 
 Gecələr qısa keçmişsə,
 Demək ki, tez sökülmüş dan.

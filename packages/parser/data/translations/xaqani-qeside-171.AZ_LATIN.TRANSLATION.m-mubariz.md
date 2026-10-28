@@ -19,7 +19,6 @@ Batsam qana, sənə demərəm "aşina", çörək!
 
 Mən bir pələng ikən it olum, bir də it kimi,
 Qaçsam çörək dalınca bu gündən sora, çörək!
-Milli Kitabxana
 
 Həsrət qalım Günəş üzünə, Ay camalına,
 Baxsam sənin dalınca, gözüm kor ola, çörək!
@@ -55,7 +54,6 @@ Buğda ona qənim, mənə də sən bəla, çörək!
 
 Ya rəb, mənimlə Adəmin al intiqamını,
 Məhv eylə buğdanı, çalış alsın cəza çörək.
-Milli Kitabxana
 
 Namərdlərin əlilə, ilahi, nə vaxtadək,
 Qəlbində mərdlərin açacaqdır yara çörək?

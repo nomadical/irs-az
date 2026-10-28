@@ -25,7 +25,6 @@ Qəlbimi o ətirsiz heç bir zaman görməyim.
 
 Ruhumun aşinası, gözəl ətrin olmadan,
 Həyatımda şirinlik, təravət, can görməyim.
-Milli Kitabxana
 Nə qədər ki, canımda qüvvət var, nəfəsim var,
 Bu canımı qəmindən heç qurtaran görməyim.
 
@@ -64,7 +63,6 @@ Yox, yox, başqa sevgiyə əsla güman görməyim.
 
 Sənsiz dünyada, ey yar, mən hara, şadlıq hara?
 Yuxuda da könlümü mən kamran germəyim.
-Milli Kitabxana
 
 Xaqaninin halını soruşarsan? Onuntək,
 Bu dünyada heç kəsi mən pərişan görməyim.

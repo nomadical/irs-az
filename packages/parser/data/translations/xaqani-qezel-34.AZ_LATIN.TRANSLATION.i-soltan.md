@@ -22,7 +22,6 @@ Mənə hirsin tutursa, bu onlardan yamandır.
 
 Acığın işvədənsə, eybi yoxdur, razıyam,
 Buna heç bir söz olmaz, buna dözmək asandır.
-Milli Kitabxana
 
 Bir kəs yaman danışsa əgər məndən, inanma,
 Coşub çıxma özündən, hiddətlənmə, yalandır.

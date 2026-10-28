@@ -46,7 +46,6 @@ Dözsələr də gah sənə, gah da olarlar kinəvər.
 
 Bundan artıq olma daxildən gümüştək laybalay,
 Yoxsa, zindanda qalarsan butə içrə sanki zər.
-Milli Kitabxana
 
 Birkönüllü ol cahanda, birkönüllü olmayan,
 Xalq gözündə qiyməti birdən ona qalxar məgər?

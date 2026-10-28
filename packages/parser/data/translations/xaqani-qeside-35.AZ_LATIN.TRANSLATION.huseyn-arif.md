@@ -19,7 +19,6 @@ Nə də gələcəkdən tutaram xəbər.
 
 Payızda gül açan ağac kimiyəm,
 Nə yarpağım olar, nə verrəm bəhər.
-Milli Kitabxana
 
 Gecə parıldayan böcəyəm, amma,
 Gündüz nə işıq var məndə, nə hünər.
@@ -52,7 +51,6 @@ Yayda olan kimi, mənim qışda da,
 Yanır öz ahımın odundan ciyər.
 Varsa da can evim, açılmış süfrəm,
 Yoxdur bu süfrədə dadlı xörəklər.
-Milli Kitabxana
 
 Tutaram miniyi kirayə ilə,
 Nə minik varımdır, nə də qul, nökər.
@@ -91,4 +89,3 @@ Tacidar dalınca düşmərəm hədər.
 
 Döymərəm şahların qapısını mən,
 Nə də bir qapıya başım əyilər.
-Milli Kitabxana

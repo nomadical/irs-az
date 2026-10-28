@@ -40,7 +40,6 @@ Nəşə ilə qarşıma badə gətirmiş səhər.
 
 İç! - deyə israr edir, and verir canıma,
 Mey kimi ləbdən mənim sirkə tökür camıma.
-Milli Kitabxana
 
 Gördü ki, mən, doğrudan, pozmayıram tövbəni,
 Aldadıcı sübh tək çəkdi üzə pərdəni.
@@ -71,6 +70,5 @@ Faş elədi qəsdimi, Ay tək üzün, ey gözəl!
 Düşmənidir oğrunun Ay işığıyla səhər?
 İndi vüsal sübhüdür, lütf eləmirsən, niyə
 Hicrin odunda yanan bu xəstə Xaqaniyə?
-Milli Kitabxana
 
 * * *

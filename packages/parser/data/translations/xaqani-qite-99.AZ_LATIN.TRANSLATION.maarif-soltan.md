@@ -37,7 +37,6 @@ Söylə, ey Isfahan, nə oldu Camal?
 
 Axtarsan bu yeddi iqlimi əgər,
 Tapmaq kərəm əhli olmuşdur mahal.
-Milli Kitabxana
 
 Nə alçaq adamda, nə cavanmərddə,
 Deyil öz yerində nə hal, nə əhval.

@@ -16,7 +16,6 @@ Nakam olan cahanda mümkünmüdür ala kam?
 
 Cuşə gələr məhəbbət, qəlbə düşər təlatüm,
 Şölə çəkərsə atəş, qalmaq olarmı aram?
-Milli Kitabxana
 
 Can yad edib ləbini, ey kaş, etməyəydi,
 Öylə şikar deyil, o ləblər bizə ola ram.

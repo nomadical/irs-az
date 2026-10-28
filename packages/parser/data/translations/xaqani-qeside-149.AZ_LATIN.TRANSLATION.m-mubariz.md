@@ -16,7 +16,6 @@ Könüllə cismimi acizliyim salar dərdə.
 
 Ətəklərim gözümün qanlı yaşıyla dolar,
 Fələkdə əks tapar, qan dolu piyalə olar.
-Milli Kitabxana
 
 Gözüm içindəki bir cüt gözəl doğar hey qan,
 Odur ki, basdıraram qanlı körpələr hər an.
@@ -52,7 +51,6 @@ Gəzib, bir arpa belə tapmadım, salam xərmən.
 
 Qəfəsdə bağlı qalan Zal kimi fəğan edərəm,
 Ki, bəlkə Bəhmənə təsir edə mənim naləm.
-Milli Kitabxana
 
 Kənar edəm deyə qəm çəngini yaxamdan mən,
 Boğazım arğana dönmüş, edər belə şivən.
@@ -85,7 +83,6 @@ Biyanı yükləyib Hindistana aparsam əgər,
 O ölkədə qəmar udundan heç qalarmı əsər?
 Nə vaxtdır ki, səfa əhlinə müridəm mən,
 Bir az da deyrdə qoy dərs alım brəhməndən.
-Milli Kitabxana
 
 Dəvə-pişik oyunu oynayır bu aləm əgər,
 Əlimdə təsbeh olur gah mənim də, gah sağər.
@@ -121,7 +118,6 @@ Darı döşürsəm əgər, dəstədən geri qalaram.
 
 Xüsusi dostu belə olmasam da haqqın əgər,
 Çox ehtimal, gozüm cənnətə məni yetirər.
-Milli Kitabxana
 Behişt bağına can, qəlb, ağılla çatsam mən,
 Bu üçlük ordakı səkkizliyi edər məskən.
 
@@ -160,7 +156,6 @@ Rəva deyil, baş əyib, vəsfinə açam dilimi.
 
 Dedim ki, şahlar üçün şer yazmaram daha mən,
 Düşünmə: əl çəkərəm büsbütün bu sənətdən.
-Milli Kitabxana
 
 De, hardadır o Tuğan şah ki, mən bir əppək üçün,
 Önündə "sənsəni" təkrar edib duram hər gün.
@@ -189,6 +184,5 @@ Quşam, gərək qapam hər danəni ətəklərdən.
 Sözümlə bu iki ölkə qəbul edər miniət.
 Mənijə Bijən ilə yalvarar ki, şerimdən,
 İşıq saçam quyuya ki, dibindədir Bijən.
-Milli Kitabxana
 
 ŞİKAYƏTLƏR

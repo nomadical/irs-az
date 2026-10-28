@@ -39,7 +39,6 @@ Alnında hər tər qətrəsi şehdir, gül üstünə qonar.
 
 Mey ətri ruhu şən edər, rəngi cana qüvvət verər,
 Mey süfrədə olsa səhər, məclis behiştə oxşayar.
-Milli Kitabxana
 Xoşdur, mey aşiq tək sola, dərd əhlinə həmrəng ola;
 Saf, xıltsız camə dola, olsa acı, şəkkər dadar.
 
@@ -78,6 +77,5 @@ Nazik boğazdan nəğmələr axdıqca, sinə dağlanar.
 
 Ruhani quş xanəndədən dinlə Süleyman sirrini,
 Xaqani şeri nəğmədə tər incilər tək parlayar..
-Milli Kitabxana
 
 * * *

@@ -40,7 +40,6 @@ Mənim hər bir beytimin qiymətidir bir şəhər.
 
 Yaxşı hesab eləsək aradakı fərqi biz,
 Yüz mindən də çox olar mənim haqqım, şübhəsiz.
-Milli Kitabxana
 Mən nəzmdə, nəsrdə qələmimlə rəhbərəm,
 Rəhbərlik qüdrətimi təsdiq eyləyir qələm.
 

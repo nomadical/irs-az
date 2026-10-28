@@ -19,7 +19,6 @@ Hər iki aləmdə, çünki, görmədi bir aşina,
 Ol Günəş misli cəmalın pərdədə pünhan qalıb.
 Kim görübsə zülfunün çovqanım, bir top kimi,
 Başı meydanda onun çovqanına qurban qalıb.
-Milli Kitabxana
 Kim itirsə başını, versə könül sən dilbərə,
 Halı zülfüntək pərişan, kan bisaman qalıb.
 

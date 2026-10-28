@@ -46,7 +46,6 @@ Rüstəm kimi salıb o divin boynuna kəmənd.
 Ürfan ilə odur bizə hər anda nur saçan,
 Nurla odur bu torpaq üzündə səhər açan.
 Kürkündə düymələr elə bil çərxin ulduzu,
-Milli Kitabxana
 
 Zülmətdə parlayar onun ulduz kimi üzü.
 Gahdan da göy geyər bu uca asiman kimi,
@@ -86,7 +85,6 @@ Görpə anasına başını söykəsin gərək.
 Çəngəm, yanımda indi rübabım mənim hanı?
 Boşdur xəzinə, yox daha o sərvət imkanı.
 Göy mətbəxində isti, soyuq - var iki çörək,
-Milli Kitabxana
 
 Olmuş fəqət bu süfrədə onlar mənə yemək.
 Qəm mərd üçün qidadır, o dünyaya uymasa,
@@ -126,7 +124,6 @@ O Məkkədə nə cür ki, daşa eylədim salam.
 O, Bu-Hənifə rütbədə və Şafei-bəyan,
 Kufəylə Misr, həm də Nişabura pasiban.
 Tərk etdi ta Nişaburu pakizə xilqəti,
-Milli Kitabxana
 
 Təbriz tapdı burda Nişabur hörməti.
 Təbriz adəti yenə Təbrizdədir təmam,
@@ -166,7 +163,6 @@ Heyrət doğru yəqin, onu orda görəndə də...
 Vəsfı "Quran" kimi bizə mütləq məram olub,
 Paka həlal, napaka ancaq həram olub.
 Onsuz bir an qələm götürüb yazmaram daha,
-Milli Kitabxana
 
 Həssan yazarmı yoxsa Məhəmməd bu dünyada?
 Sinəmdə qövr edir hələ də oğlumun dağı,
@@ -183,6 +179,5 @@ Qoy dinləsin duanu xudavəndi-laməkan,
 Bir də eşitməyim belə bir dərdi heç zaman.
 Bir qiblədir vücudu onun əhli-həqq üçün,
 Eylər salam göylər ona böylə həqq üçün.
-Milli Kitabxana
 
 MÜXTƏLİF ŞEİRLƏR

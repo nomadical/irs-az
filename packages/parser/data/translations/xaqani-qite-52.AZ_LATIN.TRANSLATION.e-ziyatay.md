@@ -19,7 +19,6 @@ Nə də var bayıra çıxmağa imkan.
 
 Üzü divaradır, sanki hörümçək,
 Girmiş daş altına bir qarışqatək.
-Milli Kitabxana
 Qıfıldır keşikci ona bayırdan,
 Daxildə cəftədir ona pasiban.
 

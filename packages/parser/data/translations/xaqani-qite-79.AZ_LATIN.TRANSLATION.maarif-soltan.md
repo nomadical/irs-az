@@ -19,7 +19,6 @@ Fələk ki var, bir sünbüldür, zəkatına dikmə göz!
 Dəyməz onun paylarına götürdüyün bu miniət.
 Zəmanədə varın yoxsa, ağılın nə xeyri var?
 Əli vardan boş olanın zəkasına nə hacət?
-Milli Kitabxana
 
 Bu həyatm xoşluğuna uyma, fələk cəlladdır,
 O, yaxşıya, pisə baxmaz, baş kəsmək - ona adət.

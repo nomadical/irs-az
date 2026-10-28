@@ -28,7 +28,6 @@ Həşiş udub doymamışmı, ulduz belə yuvarlanır?
 Altun rəngli o yeganə fətiri də həşiş sanır.
 Ey ülviyyət bağçasına camalıyla işıq verən!
 Yaşıl səma bağlarının nur çiləyən gülü sənsən.
-Milli Kitabxana
 
 Yusif kimi o qaranlıq zindanından oldun azad,
 Sənə nifrət edən qohum-qardaşı da eylədin şad.
@@ -64,7 +63,6 @@ Seyfəddinin qılıncından qopan yaqut qığılcımsan.
 
 Müzəffər bin Məhəmmədə bəşəriyyət baş əyərkən,
 Dünyalara zəfər çalan Məhəmməddir, deyərdim mən.
-Milli Kitabxana
 
 Cavan şahlar qütbüdür ki, çevrilərək zahir oldu,
 Döyüşçülər ürəyinə sanki Günəş nuru doldu.
@@ -97,7 +95,6 @@ Ey Qapılar qapısı, sən əbədiyyət qapısısan,
 Bünövrən var sərt poladdan, səni yıxmaq deyil asan.
 Canım qurban torpağına, yer üzünün cənnətisən,
 Dünya görmüş bu şairdən dinlə vəsfi, hikməti sən!
-Milli Kitabxana
 
 Bu torpağın yaylasında qocalar ki qalxan tutar,
 Qara gözlü çağaların min arzusu, həsrəti var.

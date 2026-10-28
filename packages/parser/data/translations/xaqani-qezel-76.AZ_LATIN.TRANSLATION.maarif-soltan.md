@@ -28,7 +28,6 @@ Dərdin bizi mat etdi, bu nə intiqamdır?
 
 Cövrü cəfanı etmədin heç vaxt müzayiqə,
 Vəslin bizə neçün bu cahanda haramdır?
-Milli Kitabxana
 Hər qəlbə qəsd edib, ona min dağ vurmusan,
 Min ad qoyub o dağa, deyərsən qulamdır.
 

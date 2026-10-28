@@ -18,7 +18,6 @@ Dil açıb üzr istədi nazla o siminüzar.
 Durdu salam eylədi, aldı sürahi elə,
 Söylədi ki, çarədir mey, kim olarsa xumar.
 Cam o çiçək ləblərin şövqi ilə güldüsə,
-Milli Kitabxana
 
 Gəldi sürahi dilə, ağladı hey zar-zar.
 İçdi iki-üç qədəh, açdı gözəl ağzını,

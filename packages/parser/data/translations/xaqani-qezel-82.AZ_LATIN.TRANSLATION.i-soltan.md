@@ -23,6 +23,5 @@ Zülfünü görərkən xoş, gülərəm mən,
 Çünki, xatırladır təzə hilalı.
 Xaqani könlündə nə yazılmışsa,
 Onun qəmilədir öz həsbi-halı.
-Milli Kitabxana
 
 73.

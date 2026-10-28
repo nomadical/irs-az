@@ -41,7 +41,6 @@ Hörmət qoyub, yer verdilər gəldiyim gün kübarlar,
 Mən onlara canü dildən minnətdaram, minnətdar.
 Xorasana getmək üçün icazə yoxsa mənə,
 Rey əzabı çəkməkdənsə, dönmək xoşdur vətənə.
-Milli Kitabxana
 
 Qayıtmağa icazəm var əgər Təbrizə san,
 Minnətdaram, bu hörməti etmiş Rey hökmdarı.

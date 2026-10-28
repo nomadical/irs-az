@@ -17,7 +17,6 @@ Təsəllisə kimiyadan az ədəm deyil.
 Çünki onun əlacı heç bir məlhəm deyil.
 Məyusluğun qarşısını ahınla saxla,
 Ahla həmdəm ol ki, sənə yar həmdəm deyil.
-Milli Kitabxana
 
 İnsanlığın tarlasında vəfa sünbülü
 Bitdiyinə heç bir insan xatircəm deyil.

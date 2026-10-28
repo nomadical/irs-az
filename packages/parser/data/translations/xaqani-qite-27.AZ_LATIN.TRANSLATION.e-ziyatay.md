@@ -28,6 +28,5 @@ Könül öz qəmilə özü oldu çak,
 
 Xaqani vermişdir qəmdən imtahan,
 Daha nə istəyir bu könül ondan?
-Milli Kitabxana
 
 41.

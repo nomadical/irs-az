@@ -15,7 +15,6 @@ Ah, bəxtimin qələmi qırılıbdır ucundan,
 Taleyim bir tük kimi asılı qalmış ondan.
 Xoşbəxtlik hər könülü arzusuna yetirər,
 Qələmdir ki, hər şeyə naxış vurar, can verər.
-Milli Kitabxana
 
 Bir qələm ki, qırıqdır qəm dolu ürəyimdən,
 Necə ümid bağlayım naxışına yazıq mən?
@@ -51,7 +50,6 @@ Yoxsa məndə hələ də əyrilikdən əsər var?
 
 Qaydadır, türk kəc baxar oxa hədəf alanda,
 Ox hədəfə tuş dəyər bu baxışla bir anda.
-Milli Kitabxana
 O kəsin ki, zahiri doğru, içi yalandır,
 Üzdə qalxan görünər, qıvrılmış bir ilandır.
 
@@ -90,7 +88,6 @@ Sərxoş ikən ödəyir istəyini çox asan.
 
 Lakin, dünya qurulmuş nanəcib təməlindən,
 Ayılcaq, verdiyini, tutur, alır əlindən.
-Milli Kitabxana
 
 Zamanın məktəbində önümdə bir lövhə var,
 Üstündə gecə-gündüz "arzu" sözü yazılar.
@@ -123,7 +120,6 @@ Kimin başı qızılla zəmanədə yüksələr,
 O baş yerə dikilər, sikkə zərbəsi yeyər.
 Qızıl həvəskarının, tutaq ki, ağlı vardır,
 Ağlın qızıl pul kimi üzü qabar-qabardır.
-Milli Kitabxana
 
 Ömür uzun, ya, gödək, sayılır nəfəs-nəfəs,
 Hər nəfəs qəm sayılır, qəm gətirir hər nəfəs.
@@ -156,7 +152,6 @@ Necə quldur pusquda kəsər karvan yolunu,
 Qarət edər malını, bağlayar əl-qolunu.
 Xacə gördü könlümü, batıb dərdə, kədərə,
 Dedi: - Dərd ondadır ki, sən çıxmısan səfərə.
-Milli Kitabxana
 
 De görüm, haradasan, nə yeyirsən? Söylədim:
 - Yediyim öz qanımdır, olan budur, nə edim?
@@ -189,7 +184,6 @@ Fazilləri zəmanə zülmünə seçmiş hədəf,
 Asudədir zülmdən bu aləmdə bişərəf.
 Güvənin cod palazla, çuvalla nə kini var?
 Tirmə, Şüştər ipəyi olsa, kəsib doğrayar!
-Milli Kitabxana
 
 İşlər tərsinə dönmüş, zamanın, yaxşı baxsan,
 Donunun üzü bezdir, astarısa qumaşdan.
@@ -225,7 +219,6 @@ Ağlamaqda qapılar açmağa varsa hünər,
 
 Qamış isitmə kəsir? Bəs niyə onda aslan,
 Qamışlıqda yaşayır, isitmə getmir ondan?
-Milli Kitabxana
 
 Deyirlər: qara xətdir yaman gözü dəf edən,
 Üzü qara ləkəli Ay əriyir bəs nədən?
@@ -261,7 +254,6 @@ Səmasından səhərin gün görpəsi doğular.
 
 Bəxtimdəndir bəlkə də, mənim yazdıqlarımdan,
 Dünyanın hər yerinə göndərirlər ərmağan.
-Milli Kitabxana
 Nemətlərlə, bəxt ilə mümkündür istirahət,
 Su ilə, ya kəsəklə almaq olar təharət.
 
@@ -300,7 +292,6 @@ Bəlkə də söyləyərsən, Kaşğər müşkü bifərdir,
 
 "Bədəxşan" sözünün də əvvəli "bəd"dir, amma,
 Ən yaxşı gövhərlərin kanı olub dünyada.
-Milli Kitabxana
 Təbrizin də adında "təb" sözü vardır, ancaq,
 Hər xəstə o şəhərə gəlsə, şəfa tapacaq.
 

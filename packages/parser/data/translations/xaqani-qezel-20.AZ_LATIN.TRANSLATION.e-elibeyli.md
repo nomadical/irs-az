@@ -21,7 +21,6 @@ Kim içmişdir zəmanənin qədəhindən bir şərbət ki,
 Öldürücü zəhərlərə olmamışdır o bərabər?
 Söylə, necə qorusun ki, aləm səni bəlalardan,
 Onun özü bəlalardan qorunmaqçün qalxan gəzər.
-Milli Kitabxana
 
 Fələk ömür sarayına lağım atan bir oğrudur,
 Əbəs yerə əyilməmiş onun beli kaman qədər.

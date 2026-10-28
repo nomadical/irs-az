@@ -19,7 +19,6 @@ Görübsənmi, necə sökər dan qaranlıq bağrını?
 
 Musa "yədi-beyza"sının timsalıdır bu dəvat,
 Qələm dəxi inci səpən bir ilana oxşayır.
-Milli Kitabxana
 Zireh dələn qələmimin uçu - nizə gəzdirən,
 Gözətçilər nəzərində bir peykana oxşayır.
 

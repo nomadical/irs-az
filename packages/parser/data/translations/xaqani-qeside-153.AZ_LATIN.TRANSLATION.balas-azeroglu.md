@@ -46,7 +46,6 @@ Qəlbdən başqa sərasın görmürəm.
 
 Təngdir sinə təvəkkülçün, fəqət,
 Mən onun daxil fəzasın görmürəm.
-Milli Kitabxana
 
 Zahirən sürmə döyən var bir həvəng,
 Batinən sürmə qarasın görmürəm.
@@ -82,7 +81,6 @@ Bir ağıllı rəhnümasın görmürəm.
 
 Qalmamış onlardan indi bir kişi,
 Kəhkəşan içrə sühasın görmürəm.
-Milli Kitabxana
 
 İndi ünsürlər məhəbbət doğmayır,
 Dörd ananın mərd balasın görmürəm.

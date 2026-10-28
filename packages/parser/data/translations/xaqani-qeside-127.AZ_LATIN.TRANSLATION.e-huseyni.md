@@ -25,7 +25,6 @@ Nəsimi insafının çöllərə əsib, ondan,
 Zəhər olub ilan ağzında - dərdlərə dərman.
 Ədalətilə onun birləşib zamanla aman,
 Qəza riza ilə dostlaşmağa verib fərman.
-Milli Kitabxana
 Axıtdı qanını qıpçaqların bu meydanda,
 Boyandı Çin ipəyi tək-qılıncı al qanda.
 
@@ -64,7 +63,6 @@ Başında çətri tutub "Caə Nəsrüllah"ı zəfər,
 
 Ədalətin səbəbindən şahım fələkdə belə,
 Günəş Aya çata bilməz ki, endirə sillə.
-Milli Kitabxana
 Qəsəm o xaliqə ki, paklar əzəl dəmdə,
 Olublar aşiqi, valeh qalıblar aləmdə.
 
@@ -103,7 +101,6 @@ Hanı o kəs ki, sənin verdiyin bol ənamdan.
 
 Fəqət-mənəm ki, mənə taleyim olubdur yad,
 Nə razı qaldım özümdən, nə oldu könlüm şad.
-Milli Kitabxana
 
 Canım yaxıldı oda, təb pas tutubdur, əgər,
 Bir ah çəksəm, odunda dəmir belə əriyər.

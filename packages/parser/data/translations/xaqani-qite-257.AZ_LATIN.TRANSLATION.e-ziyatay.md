@@ -19,7 +19,6 @@ Nə şəhərin hökmdarı bir arzuma əməl edir,
 Nə ordular sərkərdəsi bir müşkülümü həll edir.
 Ürəyimin min dərdi var, bu dərdləri yoxdur duyan,
 Nə dərdimə dərman edən, nə yarama məlhəm qoyan.
-Milli Kitabxana
 
 Oxuyan yox, qanan yoxdur yazdığım xoş sətirləri,
 İsti təndir görünməyir, nəyə sahın fətirləri.

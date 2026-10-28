@@ -22,7 +22,6 @@ Ki, qalmadı nə qurudan, nə də yaşdan onda iz?!
 
 Həyatımı elə yerdə tükdən asdı fələklər,
 Əcəl ilə aramızda yol qalmadı tük qədər.
-Milli Kitabxana
 
 Kimə deyim öz dərdimi, sınamışam insanı,
 Bir kimsədə görməmişəm mən insanlıq nişanı.

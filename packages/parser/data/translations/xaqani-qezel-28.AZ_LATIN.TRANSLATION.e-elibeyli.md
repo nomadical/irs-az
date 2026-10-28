@@ -19,7 +19,6 @@ Onlardan aman əsla heç bir insan tapmadı.
 
 Getdi rahatlıq dolu o vaxtlar ki, bir kəsin,
 Qəm odu ürəyinə gizli məkan tapmadı.
-Milli Kitabxana
 Bir elə vaxt gəldi ki, şad insan axtaranlar,
 Yer üzünü dolandı, ondan nişan tapmadı.
 

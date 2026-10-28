@@ -28,7 +28,6 @@ O, Misir qələminin cırıltısı kağızda,
 Ya da ərəb atının seyhəsidir gurlayan.
 O Barbüdün səsimi, sazın, mismarın səsi?
 Setarmı, ya çalınan kasəgər ilə arqan?
-Milli Kitabxana
 Göyərçinin, qumrunun, ya bülbülün səsidir,
 Xoş sədalı quşların nəğməsidir, ruhacan.
 
@@ -67,7 +66,6 @@ Nəş ilə Pərvin durur Günəş ilə yanbayan?
 
 Ürəyimin dərdinə, pərişan əhvalıma,
 Salamla fərəh verdi,nəvaziş ilə dərman.
-Milli Kitabxana
 
 Yazısının yaqutdan, qızıldan mənası var,
 Qızıl fərəh bəxş edən, yaqut sövda sağaldan.
@@ -100,7 +98,6 @@ O haqqın tərəfdan, bizim arxamız idi,
 Çəkdi insafsız fələk onun üstünə kaman.
 Xaqani, söz sehrini qəsidən ilə göstər,
 Yaşadacaq o səni yaşadıqca bu cahan.
-Milli Kitabxana
 
 Xoşbaxtsan, bu dövləti adına bağışladım,
 Məndən belə tərifi eşitməmiş bir insan.

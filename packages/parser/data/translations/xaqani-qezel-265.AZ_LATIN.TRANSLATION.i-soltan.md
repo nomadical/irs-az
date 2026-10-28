@@ -16,7 +16,6 @@ Sirr saxlayan qəlb, mətanət görmürəm. görmürəm!
 
 Vəslin üçün var başımda min xəyal hər gecə,
 Bundan şirin arzu, niyyət görmürəm, görmürəm!
-Milli Kitabxana
 
 Hər məclisdə olsan, gözüm səndədir, nazənin!
 Məclislərə səntək zinət görmürəm, görmürəm!

@@ -25,7 +25,6 @@ Yoxsulluq bir varlılıqdır, artar onla şövkətim.
 
 Bu dünyanın murdarlığı əlindən can qurtarsam,
 Yusif olar suçəkənim, artar qədrim, qiymətim.
-Milli Kitabxana
 
 İstəyirdim mən xacənin töhfəsini rədd edəm,
 Çünki belə töhfələrdən çox yüksəkdir hümmətim.

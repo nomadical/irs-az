@@ -28,7 +28,6 @@ Bəlkə bir gün çatsın eydi-vüsalə.
 
 Ucadırsa vüsalmın məqamı,
 Çatar axır əlim qəsri-cəlalə.
-Milli Kitabxana
 Qanad çalar ümidimin bülbülü,
 Bir güc alsa səndən o pərrü balə.
 

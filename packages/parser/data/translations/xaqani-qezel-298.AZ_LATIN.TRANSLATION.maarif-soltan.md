@@ -15,7 +15,6 @@ Sənə nə etmişəm, nigar ki, adlanım bietibar?
 Yolunda mən gözəllərin sevdasından oldum kənar.
 Mənə etmə belə sitəm, sənsən mənə, bil, möhtərəm,
 Qəddim olur qarşında xəm, hazıram hər əmrinə, yar!
-Milli Kitabxana
 Cəfa etməz nazlı gözəl, qəlbimdə məhv olur əməl,
 Könlüm sənə yuvadır, gəl, öz əlinlə eyləmə xar.
 

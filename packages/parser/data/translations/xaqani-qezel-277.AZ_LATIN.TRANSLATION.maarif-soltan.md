@@ -46,7 +46,6 @@ Lüt gəzərəm özüm, batar nura cahan, yazıq mənə!
 
 Dostlarımın həyatına mən süpərəm, əcəb budur,
 Düşmən ölərsə, həm mənəm mərsiyəxan, yazıq mənə!
-Milli Kitabxana
 
 Harda qalıb qılınc, kəsə başımı, ta olam xilas,
 Dərdli ciyər qabarlanıb, oldu suhan, yazıq mənə!

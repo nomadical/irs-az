@@ -25,7 +25,6 @@ Yandım, söndürmədin, ey bimərhəmət!
 
 Özün nicat vermək istədin qəmdən,
 İpi yan yolda doğradın, fəqət!
-Milli Kitabxana
 Məni Məcnun edib, sonra qaçırsan,
 Bəlkə sərxoşsan, ey fəriştə surət?
 

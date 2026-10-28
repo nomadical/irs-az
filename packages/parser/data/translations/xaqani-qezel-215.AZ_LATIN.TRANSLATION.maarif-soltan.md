@@ -38,7 +38,6 @@ Yusif kimi Misirdə olub müntəzir müdam,
 
 Gəzdim cahanı mən də İskəndər kimi, fəqət,
 Zülmət içində gizli o abi-heyvanı tapmadım.
-Milli Kitabxana
 
 Etdi xərab könlümü Əfrasiyabi-dəhr,
 Ey vay, yardım üçün Rüstəmi-dastanı tapmadım.

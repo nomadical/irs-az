@@ -28,7 +28,6 @@ Ana yanı vücuduna aşiyan?
 
 Nə vaxtadək göyərçintək ağzıyla,
 Sənə ruzi verəcəkdir öz anan?
-Milli Kitabxana
 Nə vaxtadək, atasız, bir İsatək,
 Ana ilə tanısınlar səni? Qan!
 

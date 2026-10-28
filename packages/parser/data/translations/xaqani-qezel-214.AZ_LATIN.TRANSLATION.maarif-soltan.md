@@ -40,7 +40,6 @@ Bir dəqiqəm olmadı ki, yüz cəfa görmədim.
 
 Eşitdim ki, meyvə var zəmanənin bağında,
 İllər boyu axtardım, bir çağala görmədim.
-Milli Kitabxana
 Rahatlıq qazanında bişən xörəklər içrə,
 Fəqirlikdən başqa bir dadlı ğida görmədim.
 

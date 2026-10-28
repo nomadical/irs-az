@@ -46,7 +46,6 @@ Gözmü qədəhdir, tökür mey yerinə göz yaşı?
 
 Kuzəni bir quş kimi saqi alıbdır ələ,
 Qəlbimizi danə tək sübh odu verdi yelə.
-Milli Kitabxana
 Sübh dönübdür meyə, badəsi şəbnəm, təmiz,
 Sübh kimi saf olan meylə dolub kuzəmiz.
 

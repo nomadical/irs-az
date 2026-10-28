@@ -36,7 +36,6 @@ Ona dar gələrdi hər iki cahan.
 
 Arzum, istəklərim dərya qədərdi,
 Birinə çatmağa olmadı imkan.
-Milli Kitabxana
 Ruzinin suyu da bulaq gözündən
 Ancaq iki qətrə axdı çox zaman.
 

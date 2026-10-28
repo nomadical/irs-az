@@ -19,7 +19,6 @@ Necə bir kuzəyə sığışmaz dərya.
 
 Günəş tək parlayan bir qılıncın var,
 O ançaq düşmənin köksünə batar.
-Milli Kitabxana
 
 O, iki əlinin feyzini görən,
 Göz çəkər behiştin dörd çeşməsindən.
@@ -55,7 +54,6 @@ O mənə qəlbində çox bəsləyir kin.
 
 Abrımı apardı Axsitan mənim,
 Bu yaram sağalmaz heç zaman mənim.
-Milli Kitabxana
 Günahım olmadan sandı günahkar,
 Onda nə kərəm var, nə də həya var.
 

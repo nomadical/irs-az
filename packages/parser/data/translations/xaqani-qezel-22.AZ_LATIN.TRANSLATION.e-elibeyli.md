@@ -19,7 +19,6 @@ Qanı qanla yu, qalmayıb rahatlıqdan heç bir nişan,
 Öz-özünə həmdəm ol ki, tapılmayır dostdan vəfa.
 İnsanların məzacında insanlığı az axtar ki,
 Çalağanın yuvasından qanadlanmaz heç vaxt hüma.
-Milli Kitabxana
 
 Mənə inan, Adəmin ilk toxumundan bu vaxtadək,
 İnsanlırın tarlasında bitməmişdir mərdümgiya.

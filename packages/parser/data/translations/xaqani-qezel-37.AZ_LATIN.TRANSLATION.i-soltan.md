@@ -31,6 +31,5 @@ Könül qaldı geridə vüsalın karvanından,
 
 Xaqaninin naləsi ötüb keçdi fələkdən,
 Hər addımda eşq ona göstərdi min fəlakət.
-Milli Kitabxana
 
 70.

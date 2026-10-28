@@ -33,7 +33,6 @@ Sulandı yer, o qədər qan ki, axdı sinəmdən.
 
 Gəlin, o yazıq qızın halına yanaq, dostlar,
 Vəfalı dostluğa, insafa yas tutaq, dostlar!
-Milli Kitabxana
 
 Nişanə qalmadı gənclikdəki şücaətdən,
 Bilik çadırları, saflıq, quru kəramətdən.
@@ -69,7 +68,6 @@ Xoruz banıyla doğar daima işıqlı səhər.
 
 Üzüm tağında əgər rəngbərəngsə salxımlar,
 Qədəhdəki meyə döndükdə ləl rəngi alar.
-Milli Kitabxana
 
 O dilbərin sözü əldən qərarımı aldı,
 Vücudumu o sözüylə cəhənnəmə saldı.
@@ -105,7 +103,6 @@ Kül oldu ahım odunda, səmayə sovruldu?
 
 Cavab almağa tez aşiqin var isran,
 Cavab yoxsa da, "amin"lə əl tutun barı!
-Milli Kitabxana
 
 Mən hıçqırıqlarımı boğmaq istədim qəsdən,
 Məhəbbət hissini, gördüm, uzaqlaşır məndən.
@@ -141,7 +138,6 @@ Alar qucağına, öldükdə sahilinə atar.
 
 "Vətən! Vətən!" deyərək ağladım, canım yandı,
 Sümüklərim gözümün yaşı ilə odlandı.
-Milli Kitabxana
 
 Gecə geyindi zireh, bir mühib zülmətdən,
 Süha çıxıb, onu deşdi, açıldı köksü həmən.
@@ -177,7 +173,6 @@ Məni uzaqda görüncə acıqlanıb coşdu.
 
 Əməklə hümmətim idi çadırdakı iplər,
 Odur, başı qurularkən ucaldı ərşə qədər.
-Milli Kitabxana
 
 Gedərkən, həqq yolu Tuba dönəndə sirdaşıma,
 Sarındım o ağaca, düşdü kölgəsi başıma.
@@ -210,7 +205,6 @@ Nə fərqi var? Kərəm əhli verər, xəsis çürüdər!
 Nə fərqi var? Gecədir bu şəhərdə, ya gündüz?
 Cavanlığımda coşan bir bulaqdı ilhamım!
 Hanı o bağ, o bulaq? Əldə boş qalıb camım!
-Milli Kitabxana
 
 Vidalaşanda cavanlıqla ağladım, ancaq,
 Deyirdilər ki, arındı bulaq, su saflanacaq!
@@ -246,7 +240,6 @@ Onun nəcib işi də başlanır əzəl bundan.
 
 Mən indi mədh yazım, ya ki həcv, fərq etməz,
 Mənə o şux gözəlin gözlərində kin bitməz!
-Milli Kitabxana
 
 Yaman söz eylə zəhərdir ki, söyləsə Həvva,
 Bəşər nədir, ilana ölməyi görər o, rəva!

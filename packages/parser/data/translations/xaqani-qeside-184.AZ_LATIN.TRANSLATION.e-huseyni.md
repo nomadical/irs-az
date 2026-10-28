@@ -43,7 +43,6 @@ Bu atam olsaydı o Nuh yerinə, elm ilə,
 Söylər idi: o kimin qorxulu tufanıdır?
 Ya atının nalıdır, ya əlinin sənəti,
 Ya, fələyin Pərvini, ya göyün Keyvanıdır.
-Milli Kitabxana
 
 Bəxşişinə olmayıb heç də bərabər dəniz,
 Tişəsi cəngəllərin xəncəri-bürranıdır...
@@ -83,4 +82,3 @@ Beş dəfə hər gün mənə etdi namazla dua,
 Paklar onun canının böylə duaxanıdır.
 Getdi qəzadan Ömər, ömrü vəfa qılmadı,
 Çox yaşasın Osmanı, yurda nigəhbanıdır.
-Milli Kitabxana

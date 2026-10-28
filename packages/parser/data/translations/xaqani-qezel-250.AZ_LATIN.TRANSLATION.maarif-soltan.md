@@ -16,7 +16,6 @@ Başımdan çıxmayır mənim bircə an.
 
 Xəyalın canıma bir od salıb ki,
 Söndürməz, qopsa da yüz kərə tufan.
-Milli Kitabxana
 
 Yüz dona girirəm, neyləyim, səndə,
 Eşqdən görünmür kiçik bir nişan.

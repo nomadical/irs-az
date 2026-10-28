@@ -13,7 +13,6 @@ status: PUBLISHED
 ---
 Nə etmişəm ki, məni qəm tapdağı edibsən?
 Nə xəta işlədim ki, cəfa kam aldı məndən?
-Milli Kitabxana
 
 İncimədim, qəlbimə vurdun cəfa tikanı,
 Zərif gül yarpağıtək söz dedim, incidin sən.

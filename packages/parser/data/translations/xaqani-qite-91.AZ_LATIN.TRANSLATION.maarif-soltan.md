@@ -16,7 +16,6 @@ Qarşıda gözlənir min bəla, öldü.
 
 Qeybdən gələn o töhfə duydu ki,
 Dərdlərə olacaq mübtəla, öldü.
-Milli Kitabxana
 
 O kiçik gövhərim yaxşı anladı,
 Ki, çox pis yaranmış bu dünya, öldü.

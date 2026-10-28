@@ -29,7 +29,6 @@ Söylə, neçün məhv edir böylə xəzan yelləri?
 Nakəs adamlar kimi edir varı tarmar.
 Bax, necə kinlə tökür meynələrin qanını,
 Buludları qaldırır asimana dəryalar...
-Milli Kitabxana
 
 Zər dağıdır göy çəmən, aləmə sərvər kimi,
 Qönçə açıb ağzını atdı əqiqi kənar.
@@ -67,4 +66,3 @@ Heybətinə, əzminə arxa durubdur fələk,
 Çəkdi sənin dövrünə Mərrix ilə Gün hasar.
 Ədlin ilə görməyib atlar ayağı kəmənd,
 Tədbir ilə vermisən hər kəsə sən ixtiyar.
-Milli Kitabxana

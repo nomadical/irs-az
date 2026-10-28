@@ -27,7 +27,6 @@ Bu beş darvaza, dörd həddi, o doqquz,
 Və yeddi olan ölkəyə zivər axtar!
 Şahı, sultanı anma, dərd əhlisənsə,
 Çalış, rindləri dostluğa məzhər axtar!
-Milli Kitabxana
 
 Açar şahların mülkünə istəyirsən?
 Gədanın kilim altmı yeksər axtar!

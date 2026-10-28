@@ -13,7 +13,6 @@ status: PUBLISHED
 ---
 Budur, bir fars hicazlıyla yola çıxdı qol-qola,
 Kəsra dəxi çağrıldı ki, Nemanı salsın yola.
-Milli Kitabxana
 Fələk qədər ülvi təxt qurdu Şeyban övladı,
 Sayəsinə işığı da, ruhları da topladı.
 
@@ -52,7 +51,6 @@ Fərq eləməz, ağıllılar müşk deməz yovşana.
 
 O cənabın hüzuruna çatmaq istər ürəyim,
 Qəribə bir qarışqayam, şah təxtidir diləyim.
-Milli Kitabxana
 
 O üç rüknün soltanıdır, mənəm dördüncü divar,
 Dördüncünü razı salar payına düşsə kandar.
@@ -88,7 +86,6 @@ Qələm ilə seyqəl tapır, şimşək kimi parlayır.
 
 Mən başladım Əlaəddin tərifmi yazmağa,
 Qoy Səmidə qəbiləsi işimi qoysun lağa.
-Milli Kitabxana
 
 O Xorasan ağasıdır, müqəddəsdir nizamı,
 Zinət vermiş İraqa da, İrana da kəlamı.
@@ -124,7 +121,6 @@ O düz yolun Keyxosrovu, başında var qoşa tac,
 
 Onun parlaq zəkasından, cəlalından danışsan,
 Gecə ötər, xoruz banlar, sübh açılar, sökər dan.
-Milli Kitabxana
 
 Şövqü məni qapısına doğru yola salınca,
 Elə gəldim, sanki mənim at çapırdı dalımca.

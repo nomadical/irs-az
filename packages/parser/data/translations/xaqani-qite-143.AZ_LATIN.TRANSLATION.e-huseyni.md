@@ -13,7 +13,6 @@ status: PUBLISHED
 ---
 Ey Məğribin tacdan, fələklərin şahı bu gün,
 Məşriqdən üz göstərəndə səndən ziya alar bütün.
-Milli Kitabxana
 
 Pak adamlar qibləsidir sənin qapın hər bir zaman,
 Səndən başqa bir qibləgah tanımıram, ey hökmran!
@@ -44,4 +43,3 @@ Səma sənin torpağını öpən dəmdə, ey hökmran,
 Gözlərinə bir tutiya edər onu hər bir zaman.
 Xızır qədər ömrün olsun zirvələri aşa-aşa,
 Hər günün qoy min il olsun, bu hesabla yüz il yaşa!
-Milli Kitabxana

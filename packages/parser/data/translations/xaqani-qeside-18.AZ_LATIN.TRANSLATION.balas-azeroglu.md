@@ -15,7 +15,6 @@ Yığıb qızıl oxları kəhərinin tərkinə,
 Günəş səhər üfüqdən vüqarla qalxdı yenə.
 Göyün gözündə bulud - çalma döndü zəncirə,
 Ud əvəzi bitkidən xalça döşəndi yerə.
-Milli Kitabxana
 Gecə yanan şam kimi, Gün ucalır, tez sönür,
 Gecə bir çıraq kimi gündüz bir heçə dönür.
 
@@ -51,7 +50,6 @@ Axşam teldi, göydə Ay rübab idi sədəfdən.
 
 İlk dəfə ağ çiçəyi mədh elədi göyərçin,
 Dedi: - Acı yarpaqda şəkər yığır bizimçin.
-Milli Kitabxana
 Bülbül gülü tərifə başladı şirin-şirin,
 Dedi ki: - Gül şahıdır bağdakı çiçəklərin.
 
@@ -87,7 +85,6 @@ O yaşmaqlı göyərçin xəcalətdən xar oldu.
 
 Birisi tez yetirdi Ənqaya bu xəbəri,
 Ənqa gəlib quşları bir-bir çəkdi irəli.
-Milli Kitabxana
 Bülbül səcdəyə gəlib, Ənqaya etdi xitab,
 Qırğı da bülbül kimi hörmətlə verdi cavab.
 
@@ -126,4 +123,3 @@ Allah, sən özün qurtar şairi fimə, şərdən!
 
 Düyününü özün aç, özün eylə kamiyab,
 Bu qərib duasını özün eylə müstəcab.
-Milli Kitabxana

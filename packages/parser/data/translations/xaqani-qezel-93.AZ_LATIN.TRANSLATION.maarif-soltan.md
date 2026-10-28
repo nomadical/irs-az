@@ -15,7 +15,6 @@ Keçmiş gecə, ol yarə isitmə əsər etdi,
 Göndərdi dalımca, gecə vaxtı xəbər etdi.
 Getdim, əlimi dişləyərək, söylədim, ey vah!..
 Bu hansı mərəzdir ki, o böylə həzər etdi?
-Milli Kitabxana
 
 Gördüm ki, saralmış, üzü - odlu, özü - lərzan,
 Guya ki, Günəş məğribə sarı səfər etdi.

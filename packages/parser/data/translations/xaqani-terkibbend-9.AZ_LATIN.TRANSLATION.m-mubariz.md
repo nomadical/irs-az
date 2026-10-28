@@ -25,7 +25,6 @@ Gah da oxtək olaq amadə, edək qəmdən həzər.
 Gahi alt-üst edərək dagları bir ah ilə,
 Bağlayaq tüstüsü ilə dolanan çərxə kəmər.
 Yox bu dünyada vəfa, göz yaşı tutsun yolunu,
-Milli Kitabxana
 Salmasın ta gözümüz bir də bu dünyaya nəzər,
 Bəhrəsiz keçdi cavan günlərimiz, yetdi sona,
 Əlimiz indi əbəs boş kisədən bəhrə gəzər.
@@ -63,7 +62,6 @@ Bu o dərddir ki, sağaltmaz onu aləmdə dəva.
 Boş yerə qaçdı könül, dərdinə dərman gəzdi,
 Varmı bir öylə dəva ki, Özü yar olsun ona?
 Yetmədi dadıma kamımca ümüd divanım,
-Milli Kitabxana
 Qovular məhmil əgər qafilədən dalda qala.
 Mətləbə yetməz əlim, etmə təəccüb buna sən,
 Bu qısa əllə gözüm mətləbi seçmiş ucada.
@@ -101,7 +99,6 @@ Bağrını çoxlu qəmə məskən edən Xaqani,
 Oğul hicranı qəmi bağrını da yaxdı oda.
 Qəlbimin gövhəri, can şəmi idim, söndün,oğul!
 Qara bəxtim kimi məndən niyə tez döndün, oğul?
-Milli Kitabxana
 
 * * *
 
@@ -143,7 +140,6 @@ Döşənibdir yola qəmlər tikəni, mən naşad;
 
 İstədim qırğı kimi bir də şikarə qalxım,
 Sem yeli vermədi möhlət mənə artıq, pər açım.
-Milli Kitabxana
 
 Açmaram bir daha dünyaya baxan gözlərimi,
 Kor olum, bir də ona baxmaq üçün mənzər açım.
@@ -180,7 +176,6 @@ Qəbrinin başına qurban kimi fırlansın atan,
 
 İncə ruhunla gömüldün, bala, torpaqlara sən,
 Qana dönsün ciyəri, qəbrini hey ansın atan.
-Milli Kitabxana
 
 Torpaq altında yatırsan bu gün, ey mehr-giya!
 Torpaq üstündə bitən ot kimi tapdansın atan.
@@ -216,7 +211,6 @@ Həsrətilə gərək hər xətti görüb, dansın atan.
 
 Saçının xaçı görünməz, xətüvün zünian,
 Kaş rahib kimi zəncirlərə bağlansın atan.
-Milli Kitabxana
 
 Sən kimi başqa əzizi nə olub, nə olacaq,
 Taki sənsiz yenə öz ömrünə aldansın atan.
@@ -252,7 +246,6 @@ Od vuraram eyvanıma, dolandığın evlərə.
 
 Naləm ilə parçalaram eşidənin qəlbini,
 Var-yoxumu səndən sonra sovuraram yellərə.
-Milli Kitabxana
 
 Anan qırdı qələmini, qəmin mənim belimi,
 Geydim matəm paltarını o qırılmış kəmərə.
@@ -285,6 +278,5 @@ Oğul dərdi üstün gəldi bütün başqa dərdlərə.
 
 Uca sərvim, bilmirəm mən, nə əsər qaldı səndən,
 Sən dünyadan köçüb getdin, bu xəbər qaldı səndən...
-Milli Kitabxana
 
 5.

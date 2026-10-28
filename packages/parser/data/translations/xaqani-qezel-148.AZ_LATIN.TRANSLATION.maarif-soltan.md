@@ -15,7 +15,6 @@ Qəlbimdə hicr dərdi asan ola bilərmi?
 Gəldi qiyamət, əhval şadman ola bilərmi?
 Hüsnünlə kamransan, mənsə hicran əsiri,
 Hicran əsiri, söylə, xəndan ola bilərmi?
-Milli Kitabxana
 Peyğam eyləmişdin, əhvah bildirim mən,
 Sənsiz bu dərdə, söylə, dərman ola bilərmi?
 

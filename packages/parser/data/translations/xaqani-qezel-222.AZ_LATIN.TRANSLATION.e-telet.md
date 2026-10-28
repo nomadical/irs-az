@@ -16,7 +16,6 @@ Gölgə kimi qaçacağam özümdən?
 
 Ağzı bağlı, boğazı dar neymiyəm?
 Zülm əlindən haray salıb, inləyəm.
-Milli Kitabxana
 
 Bir insaf et, ağlamayım neçin mən?
 Axı, insaf görmədim bir kimsədən.

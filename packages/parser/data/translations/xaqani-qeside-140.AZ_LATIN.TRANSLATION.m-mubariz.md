@@ -46,7 +46,6 @@ Gəzirəm, bir həyan tapmayıram.
 
 Tamahım qarğa, hümmətimdir hüma,
 Sümük istər, aman, tapmayıram.
-Milli Kitabxana
 
 Qorumaqçün bu canı divlərdən,
 Nə dua, nə "Quran" tapmayıram.

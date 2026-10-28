@@ -33,5 +33,4 @@ Bir busəyə bu canım, səncə, dəyərmi, ya nə?
 
 Xaqaniyə nə lazım qılıncla həmlə etmək,
 Can verməyə yolunda o axtarır bəhanə.
-Milli Kitabxana
 52.

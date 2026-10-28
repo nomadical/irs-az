@@ -25,6 +25,5 @@ Tufan topuğundan, bizə başdan da ucadır.
 
 Üstün tutaraq başqasını bizlərə, getdin,
 Heç söyləmədin ki, biz harayıq, o haradır?
-Milli Kitabxana
 
 25.

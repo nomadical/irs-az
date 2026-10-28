@@ -25,7 +25,6 @@ Nə eyləsin dünya, ancaq pislik gəlir əlindən.
 
 Çalış, alçaq adamlardan tikə alma dünyada,
 Onlar səni rüsvay edər, gedər hörmətin bada.
-Milli Kitabxana
 
 Üzdən parlaq olsalar da, içləridir qapqara,
 Ayna adı vermək olar bu cəhətdən onlara.

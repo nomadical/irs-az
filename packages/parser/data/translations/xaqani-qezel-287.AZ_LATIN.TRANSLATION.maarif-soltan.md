@@ -38,6 +38,5 @@ Ey Ay, bu necə "nun"dur, ya o zülfün necə "lam?"
 
 Dedin ki, Xaqanitək vardır çoxlu aşiqim,
 Göstər, görüm, varmıdır ondan vəfalı adam?
-Milli Kitabxana
 
 39.

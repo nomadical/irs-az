@@ -13,7 +13,6 @@ status: PUBLISHED
 ---
 Zəmanədə axtarma rahatlıqdan bir əsər,
 Umma ki, dünya sənin dərdinə dərman edər.
-Milli Kitabxana
 
 Qem odunda yan, kül ol, yaddan istəmə məlhəm,
 Öz dərdinə özun qal, kimsəni bilmə həmdəm.
@@ -46,7 +45,6 @@ Qənaətin vəsfində dörd kitab oxumusan,
 Tamahkarlıq dərsinə başlama əlifbadan.
 Varlanmağa çalışma, yoxsulluğu et süar,
 Yelqovana baş əymə, külək sənə at olar.
-Milli Kitabxana
 
 Könlünün boğazına şərab tökmə kuzətək,
 Sürahitək yetənə xidmət etməkdən əl çək!
@@ -82,6 +80,5 @@ O dəni topla ancaq göylərin sünbülündən.
 
 Ey Xaqani, ümidin ipini kəsmiş zaman,
 Ömr ipini kəssə də, aman istəmə ondan.
-Milli Kitabxana
 
 6.

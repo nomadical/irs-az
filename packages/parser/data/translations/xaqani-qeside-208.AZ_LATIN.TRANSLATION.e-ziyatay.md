@@ -40,7 +40,6 @@ Ki, əks edər özündə necə peykər ayinə...
 
 Şahın ədalətilə rəvadır ki, tərləyə,
 Pasdan təmizlənə, öyünə dilbər ayinə.
-Milli Kitabxana
 Ey şah, xatirin necə, gör, nura qərq olub,
 Hər ölkədə bilir onu dövlətlər, ayinə.
 
@@ -79,7 +78,6 @@ Bilməz cahanda qədrini hər mehtər, ayinə
 
 Bir başqa şəxsi mədh eləsəm, əfv qıl məni,
 Ayinə olmasa, sayılar xəncər ayinə.
-Milli Kitabxana
 Məncə bu eyləməz səni məndən cüda, necin
 Hər dəm gül ilə silsən, olar xoştər ayinə
 

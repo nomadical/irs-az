@@ -19,7 +19,6 @@ Torpağam, saxsı qədəhlə içərəm qırmızı mey,
 Az qızıl cam adını çək, o deyil imkanım!
 Ürəyim yandı, dəniz boyda mənə badə gətir,
 Ki, sədəf cam ilə sönməz bu dili-suzanım.
-Milli Kitabxana
 Hamı dostlar düşünər halımı, inşafla deyər,
 Necə min zülm rəva gördü mənə dövranım.
 
@@ -58,7 +57,6 @@ Mən cəvahirçi müğəm, saxsı küp isə mücrüm;
 
 Ağzına ləl alanlar susamaz, heyranəm,
 Yeyirəm ləli, məgər heç susayarmı canım!
-Milli Kitabxana
 Nə səbəbdən ürəyim yüngül olur, dərdim ağır?
 Başa çəkdikdə ağır badəni, ey cananım!
 

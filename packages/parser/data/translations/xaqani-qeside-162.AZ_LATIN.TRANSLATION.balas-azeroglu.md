@@ -15,7 +15,6 @@ Göylər sənin camalını bəzərkən,
 Eşqin ilə çiçəkləndi dağ, çəmən.
 Ağıl sənin qarşında bir qul oldu,
 Dodağından can aləmi doğuldu.
-Milli Kitabxana
 Zülfun oldu mələklərin şeytanı,
 Hüsnün oldu ölkələrin soltanı.
 

@@ -40,7 +40,6 @@ Gövhərim ənmik kimi bir an parıldar, tez sönər.
 
 Olmadım Əshabi-kəhfə it, Məsihayə ulaq,
 Vəhşiçinsli bir it oldum, həm də bimayə ulaq.
-Milli Kitabxana
 
 Həmdəməm Haruta, həm bərbət çalan o arvada,
 Zöhhak əfisi, dəmirci zindanı üstə qada.
@@ -73,7 +72,6 @@ Mən zəhərli ətlərindən çox yedim alimlərin,
 Bu acı getməz, yusan yüz yol suyunda gövsərin.
 Sehrlə ruhanilikdən dəm vurarsam da əgər,
 Yaxşı bax, hər zümrəyə məndən əziyyətlər keçər.
-Milli Kitabxana
 
 Şerini ustadların inkar işində mahirəm,
 Yazdığım laqqırtını vəsf eylərəm ki, şairəm.

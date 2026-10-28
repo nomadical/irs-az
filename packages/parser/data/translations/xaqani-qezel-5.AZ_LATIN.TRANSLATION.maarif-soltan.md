@@ -22,7 +22,6 @@ Görüncə həmdəmim qüssə, işim ah ilə şiyvəndir.
 
 Gözüm səndən savay dilbər dalınca baxmaz, ey canan!
 Odur hər kirpiyim bir göztikən xunabə suzəndir.
-Milli Kitabxana
 
 O vaxtdan ki, sənə mən dost deyib, elani-eşq etdim,
 0 gündən bax, bütün aləm mənimlə qanlı düşməndir.

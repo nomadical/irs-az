@@ -33,7 +33,6 @@ Ancaq yenə də xoş günə ümmid var, əlbət,
 Bir qətrə sudan inci yetirməzmi təbiət?
 Sən zəhmətə qatlaş ki, rahatlıq yaradandır,
 Yetkin və təmiz mey ki, var, o kal qoradandır
-Milli Kitabxana
 
 Hər nə ki, doğulmuş, onu bəxş etdi təbiət,
 Dolda su çıxırsa, quyudandır bu kəramət.
@@ -73,7 +72,6 @@ Bir pul ki, qədər verdi, əsil, saxtası olmaz,
 Bir söz ki, qəza yazdı, yalan, doğru-pozulmaz.
 Aləm xətinə xət çək, özün bir kəsə satma!
 Qəlbin bədənindən ayır, əmlakə can atma!
-Milli Kitabxana
 Cahil olana sözlərinin mənası çatmaz,
 Çör-çöp həmişə üzdə gəzər, dəryada batmaz.
 Söz oğrusu, söz sərrafı heç vaxt ola bilməz,

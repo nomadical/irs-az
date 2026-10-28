@@ -29,7 +29,6 @@ Qəmlə göbək kəsdilər, gör necə, Xaqaniye,
 Aldı bütün qəmləri ölkədə o, can ilə.
 Güşənişinlikdə sən hakim olubsan qəmə,
 Ver əlini vəhdətə bir belə divan ilə.
-Milli Kitabxana
 Sən hünərin sərvisən, həm atanın övladı,
 Tərif elə sən onu sidq ilə, iman ilə.
 Hafizi-din, Bülhəsən, bəhri-kəramət Əli,

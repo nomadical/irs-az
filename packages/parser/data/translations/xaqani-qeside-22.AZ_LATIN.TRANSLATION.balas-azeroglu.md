@@ -34,7 +34,6 @@ Düymə düyüb hər küpə şivdə zərif incitək.
 
 Yer üzüdür rəngbərəng, göydə qanm əksi var,
 Yoxsa çəkib sübh tək xəncərini hökmdar.
-Milli Kitabxana
 Çətri günəş Xosrovun qüdrətinə sal nəzər,
 Gör, qələmiylə əli şahımın etmiş nələr?
 
@@ -73,7 +72,6 @@ Hər nə qədər ki, çəkər göydə buludlar alay.
 
 Hər nə qədər aləmi yaz çevirər cənnətə,
 Yay Günəşi doldurar meynələri şərbətə.
-Milli Kitabxana
 Hər nə qədər söz demək xas ola Xaqaniyə,
 Nəzm ilə möcüzə göstərə, mədhin deyə.
 

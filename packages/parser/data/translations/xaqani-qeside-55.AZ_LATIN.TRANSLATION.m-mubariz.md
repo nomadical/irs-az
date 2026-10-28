@@ -40,7 +40,6 @@ Getməyə Kəbəyi-dəyyanə məni qoymurlar.
 Oxşadıb da qoca şeytanə məni, qoymurlar.
 Mən bütün yol uzunu şad gəlirdim Reyədək,
 Niyə bəs çatmağa cananə məni qoymurlar?
-Milli Kitabxana
 
 Rey dəyirmansa, Xorasandır İrəm eyvanı,
 Mən dəyirmandayam, eyvanə məni qoymurlar.
@@ -76,7 +75,6 @@ Axmağa sel kimi müjganə məni qoymurlar.
 
 Müştəritək yerim olmuş ikiüzlü Cövza,
 Qaldım avarə, Sərətanə məni qoymurlar.
-Milli Kitabxana
 
 Şerimin, müşk kimi ətri Xorasanə dolub,
 Getməsəm, müşk dönər qanə, məni qoymurlar.
@@ -112,7 +110,6 @@ Alaraq dövrəmi, bir yanə məni qoymurlar.
 
 Mum kimi şəhddən ayrılmışam, indi nə edim,
 Qovuşam möhri-Süleymanə, məni qoymurlar.
-Milli Kitabxana
 
 Fitnə neylər mənə, din ilə bilik dünyada,
 Olmağa seyd o fəttanə, məni qoymurlar.

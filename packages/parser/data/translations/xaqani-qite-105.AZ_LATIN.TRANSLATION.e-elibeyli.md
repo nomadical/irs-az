@@ -30,7 +30,6 @@ Səhərin fəcri keçdi, Günəş ondan doğuldu.
 
 Məğribin yaxasında qəmər gizlənən zaman
 Məşriqin ətəyində Günəş o an doğuldu.
-Milli Kitabxana
 
 Qayıtdısa Mahmudun cismi qara torpağa,
 Əhdimizin Səlcuqu o torpaqdan doğuldu.

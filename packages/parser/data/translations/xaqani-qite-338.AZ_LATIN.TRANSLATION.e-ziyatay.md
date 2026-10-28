@@ -25,7 +25,6 @@ Gözü - bağlı, ayağı - xəstə, vücudu - üryan.
 
 Üzünə göz yaşı axmış, qurumuş dil-dodağı,
 Ciyəri yansa da, ahıyla donub əl-ayağı.
-Milli Kitabxana
 Yetişib, Dəclə kənarında yıxıldı o həmən,
 Çöldə biçarəni salmışdı ətəş taqətdən.
 

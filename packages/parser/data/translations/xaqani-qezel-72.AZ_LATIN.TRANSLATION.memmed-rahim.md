@@ -15,7 +15,6 @@ Aşiqlik dünyasına qədəm qoymayan insan,
 Ürəyinə gözündən axıtmamışdır al qan.
 Hər kəsə ki, vurmayıb qəm oxunu məhəbbət,
 O, eşqin qüdrətini biləcəkdir haradan?
-Milli Kitabxana
 Sevginin mənasını duya bilməz o kəs ki,
 Günü vüsaldan ayrı keçməmişdir bircə an.
 

@@ -36,7 +36,6 @@ Bu məna Xızrını hər kəs ətəkdən tutsa Musa tək,
 Suyu xatırladar Xızrı, əli möcüzdə Musanı.
 Onun təlqininin şərhi sükut ilə olar təvil,
 Bütün təlimi müşküldür cəhalət isə bürhanı.
-Milli Kitabxana
 Mənim öyrəndiyim ilk söz bu məktəbdə "sükut" oldu,
 Bəladır dil başa, lakin, sükutdur dərd dərmanı.
 
@@ -75,7 +74,6 @@ Bu hoqqabaz fələk heyran edir feliylə insanı.
 
 Oyun həngaməsi qurmuş uşaqlar, mən baxıb gördüm,
 Qara möhrə durar, göy möhrə dövr eylər bu meydanı.
-Milli Kitabxana
 Budur, axır oyun bitmiş, yəqindir ki, çatıb axşam,
 Günəş batcaq, bu adətdir, çatar həngamə payanı.
 
@@ -114,7 +112,6 @@ Axı o, şahdan üstündür, nə yurdu var, nə sahmanı.
 
 Süleymana bərabərdir hər hümmət sahibi dərviş,
 O "rəbbi həbli" təblinin səsindən titrər eyvanı.
-Milli Kitabxana
 
 Cahanla can iki bütdür düşüb dərviş ayağına,
 Tamahla ehtiyac it tək olub zəncirli dərbanı.
@@ -147,7 +144,6 @@ Məhəbbət camını verdi əlimə dost, şad oldum,
 O camda Xızr içmişdir, deyirlər, abi-heyvanı.
 Belə bir mənzili görmüş, dübarə hissə aldanmaz,
 O məclis şirnisin dadmış bəyənməz noğlu, halvanı.
-Milli Kitabxana
 Olar İsa kimi bayram mənim qəlbimdə hər anda,
 Fəqirlik bayramında, bil, könüldür təkcə qurbanı.
 
@@ -186,7 +182,6 @@ Təyəmmüm qıl desəm, yoxdur bu dünyada təmiz torpaq
 
 Özünü bəsləyənlər bir gülə oxşar ki, gülşəndə,
 Kəsifdir batini, ancaq geyib əyninə dibanı.
-Milli Kitabxana
 Ağan süfrə açan günlər bütün itlər edər bayram,
 Acından ölsə də, aslan yeməz itlərlə ehsanı.
 
@@ -225,7 +220,6 @@ Qızıl tac alma, vermə oğruya sən sirri-pünhanı?
 
 Deyil dərviş o kəslər ki, ola şah tacına məftun,
 Gərək dərviş bir gözdə görə dərvişlə sultanı.
-Milli Kitabxana
 Könül sultanı dərvişlər səfində xas yer tutmuş,
 Ki, şah tacından üstündür ona dərvişin astanı.
 
@@ -264,7 +258,6 @@ Onu xoşbəxt sanma, qarşılar pəjmürdə abanı.
 
 Fəlakətsiz səadət umma dövranda, yəqin bil ki,
 Hilal iqbalına qarşı təbiət qoydu Sərtanı.
-Milli Kitabxana
 Düşünsən haqqını, yoxdur cahanda daimi iqbal,
 Səadətdir o şey ki, bu cahanda fanidir, fani.
 
@@ -303,7 +296,6 @@ Gözəl zalimlərin nəfsi kimi, xunxar bu dünyanı,
 
 Xorasan bir hərəmdirsə, Məlikşahdır ona Kəbə,
 Səmərqənd bir fələkdirsə, bir ulduzdur Qədərxanı.
-Milli Kitabxana
 Qədərxan öldü, bir gün də Səmərqənd etmədi nalə,
 Məlikşah getdi, bir kəs görmədi ağlar Xorasanı.
 

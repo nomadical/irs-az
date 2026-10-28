@@ -22,7 +22,6 @@ Zülmətdə qalıb, istəyim hər an qəmər oldu.
 
 Sənsiz, gözəlim, hicrə dözüb zəhr içərdim,
 Gəlcək yanıma zəhr dönüb bal, şəkər oldu.
-Milli Kitabxana
 
 Gördüm səni, hər dərdü qəmim getdi, dağıldı,
 Əhvalıma bax, sanki gecəydi, səhər oldu.

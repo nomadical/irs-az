@@ -25,7 +25,6 @@ Hazıram, bu qəlbimi ağuşuna hər an verim.
 
 İynəsində yüz tel inci saplayır kirpiklərim,
 Sinənə, ya daməninə səpməyə fərman verim?
-Milli Kitabxana
 
 Hüsnünə cilvə verirsən bir gözəl tavus kimi,
 Gəl, qəbul et gözlərimi, hüsnünə həmyan verim.

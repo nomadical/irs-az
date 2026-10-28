@@ -46,7 +46,6 @@ Fəqr aparıb mərcimi; halım olubdur xərab.
 
 Gördü qabardır sinəm, ahım uçubdur,demək,
 Zəlzələ düşmüş göyə, ziri-zəbərdir fələk.
-Milli Kitabxana
 Söylədi: - Xaqaniya, sübh açılıbdır daha,
 Durma, səhər müjdəsi şerini çatdır şaha.
 

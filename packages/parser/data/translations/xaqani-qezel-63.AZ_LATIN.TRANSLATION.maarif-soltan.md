@@ -16,7 +16,6 @@ Yaman bərkdir əli, ondan bir kam almaq olarmı heç?
 
 Vüsalma o dildarın əldən gedər zərin, varın;
 Ləblərindən gözəl yarın ilham almaq olarmı heç?
-Milli Kitabxana
 O, tünd olsa bu mətləbdən, söz açma sən şirin ləbdən,
 Belə bir vaxt məhi-şəbdən peyğam almaq olarmı heç?
 

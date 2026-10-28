@@ -19,7 +19,6 @@ Qəlbim, canım getdi əldən, daha xoşdur belə dildar.
 
 Hər gün gəlib bir qərara, qəlbə vurdun təzə yara,
 Məstlik edib çəkdin dara, daha xoşdur belə azar.
-Milli Kitabxana
 Sən bir nursan gözdən nihan, bir pərisən məndən qacan,
 Bir busənə bu can qurban, daha xoşdur belə bazaar
 

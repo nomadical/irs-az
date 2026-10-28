@@ -40,7 +40,6 @@ Boynuma Zöhhak ilanı saldı ahəngər bu gün,
 
 Oxşayır kündə ayağımda dəyirman daşına,
 Qanlı göz yaşımla işlər bu dəyirmanım mənim.
-Milli Kitabxana
 Paltarım xara, yaxam da göz yaşımla islanar,
 Gizlədər Xara dağını rəxti-əlvanım mənim.
 
@@ -79,7 +78,6 @@ Xəstə bir qəlb ilə mümkünmü tutam mən də oruc?
 
 Ağzıma iftar vəqti isti göz yaşım axar,
 Yoxdur ondan başqa bir iftara imkanım mənim.
-Milli Kitabxana
 
 Sanki sevdalı başım etmiş bəlayə mübtəla,
 Qıçlarımı saldı işdən indi rəhbanım mənim.
@@ -119,7 +117,6 @@ Oxşaram müşkə, məni gər yüz hasara salsalar,
 
 Müşkə kimüxt üz tutub, bir gün dedi rişxənd ilə:
 - Sən nə çirkinsən, varımdır rəngi-əlvanım mənim.
-Milli Kitabxana
 Tez cavabında dedi müşk: - Ey həyasız, az danış!
 Ətrim ilə oldu dünya xoş gülüstanım mənim.
 
@@ -158,7 +155,6 @@ Xəlq olub ol çeşmədən gövhərli ümmanım mənim.
 
 Fəqr bətnində yetişdim, nitq əli oldu mamam,
 Oldu yurdum elmü ürfan yurdu - Şirvanım mənim.
-Milli Kitabxana
 
 Fırfira fırlatmadım qəflət üzündən bir kərə,
 Çünki hər an valideyn olmuşdu pasbanım mənim.
@@ -192,4 +188,3 @@ Mustafanın mehri olmuş əldə qalxanım mənim.
 
 Qasimi-Rəhmət, Əbülqasim, Rəsulüllahdır,
 Canıma, əqlimə sahib, şanlı sultanım mənim.
-Milli Kitabxana

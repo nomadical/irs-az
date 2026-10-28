@@ -32,7 +32,6 @@ Bəxş eyləmiş dövran özü insafə meydan sübhü, bax!
 
 Sübh ilə xoş rəftar elə, meylə dolu cam al ələ,
 Çünki cahan az ömr ilə etmiş ciyərqan sübhü, bax!
-Milli Kitabxana
 
 Sübhün üzündə jalədən tərlər düzülmüşdür həmən,
 Sanki an vurmuş dünən gördükdə üryan sübhü, bax!
@@ -70,7 +69,6 @@ Bir cürə mey tök kaminə, qorxma sənə nöqsan gələ!
 
 İçdikdə mey peymanədən, ağlın itirmə, dinlə sən,
 Dostlar yatan ol türbədən qulağına "ətşan" gələ!
-Milli Kitabxana
 
 Çərxin əliylə nazlı yar torpaqlar altında yatar;
 Nalən cahana od salar, gər yadına canan gələ.
@@ -99,7 +97,6 @@ Almış dələ rəngi hava, boz kürk geyinmişdir fəza,
 Od vur, işıqlansın səma, bir tülkü hər an onda gör!
 Manqal dönüb olmuş qəfəs, tavusla qarğa həmnəfəs,
 Əflakə göz dikmə əbəs, Mərrixü Keyvan onda gör!
-Milli Kitabxana
 Şişmantuluq bir dayətək, zəncibədən, rumi-ürək,
 Məryəm kimi doğsun gərək İsanı dehqan, onda gör!
 
@@ -133,7 +130,6 @@ Saqi tökər dil, mey verər, mütrübdə var sonsuz hünər,
 Meylə dolub peymanələr, al, iç meyi, can tazələ!
 Saqi əlindən al şərab, iç nəşə ilə, ol xərab,
 Zahidlər ilə olma bab, can ver və canan tazələ!
-Milli Kitabxana
 
 Küp arxasında keç otur, haldan düşüncə badə vur,
 Artsın gözündə taki nur, torpaqla müjgan tazələ!
@@ -171,7 +167,6 @@ Rüxsandır baği-Əcəm, kuyin gülüstan görmüşəm.
 
 Can şəhridir gül çöhrəsi, qəlbin teli - hər türrəsi,
 Aləm onun sərgəştəsi, kuyində giryan görmüşəm.
-Milli Kitabxana
 
 Gizlənməyə tərrari-dun Bağdadda sazlar min oyun,
 Tərrar zülfündə onun Bağdadı pünhan görmüşəm..
@@ -204,7 +199,6 @@ Ver könlünü cananma, əzm eylə, yollan yanına,
 Şirvanşahın fərmanına qəlbi nigəhban görmüşəm.
 Cənnət kimi məclis qurar, ruhlar onun dərbanıdır,
 Ulduzları bərhəm vurar, doqquz fələk meydanıdır.
-Milli Kitabxana
 
 *
 
@@ -243,7 +237,6 @@ Rüsvalığın çatmış sonu, mən bir də insan olmaram.
 
 Gənclik şahı olmuş səvar, at çapmağa vermiş qərar,
 Mənsə dalınca bir çapar, yainki səkban olmaram.
-Milli Kitabxana
 
 Öz qüdrətincə hər adam istər tapa divanda nam,
 Divanları gəzdim tamam, bir yerdə elan olmaram.
@@ -281,7 +274,6 @@ Taclardakı qiymətli qaş nəleyni-səkban görsənər.
 
 Salsa atı bir nal əgər, Rüstəm onu şəmşir edər.
 Mum alsa xatəmdən əsər, "hirzi-Süleyman" görsənər.
-Milli Kitabxana
 
 Göy bir at olmuşdur fələk, ulduzlar onda zər, bəzək,
 Dağ sağrısına etmə şəkk, vurmuş Axsitan, görsənər.
@@ -317,7 +309,6 @@ Gülzarə dönmüş ölkəsi, açmış səxavət kisəsi,
 
 Cənnət - göhər şəmşirinə, duzəx – şərər şəmşirinə,
 Hər kəs deyər şəmşirinə: hikmətdir, iman bəsləyər.
-Milli Kitabxana
 Açmış igidlik məktəbi, təlim edər şahlıq dəbi,
 Ondan bilər hər mətləbi, hər şah ki, dövran bəsləyər.
 
@@ -352,7 +343,6 @@ Tapdıq adilə rahəti, çün şükr ehsandan doğar.
 
 Olmuş fələk şahın qulu, camı Günəş, meylə dolu,
 Keyvan-qılınc, nüsrət-yolu, Bəhram-peykan olsun həm.
-Milli Kitabxana
 
 Din sayəsində şaddır-, dövlət ona həmzaddır,
 Ölkə bütün abaddır, xəlqə nigahban olsun həm.
@@ -383,4 +373,3 @@ Olsun səadət yar ona, pak ruhlular qəmxar ona,
 Baş əysin ulduzlar ona, Allah nigahban olsun həm.
 Məhdi mənə təlqin edər ilhami-yəzdan hər nəfəs,
 Hər fikrimə "amin" deyər İdris və Rizvan hər nəfəs.
-Milli Kitabxana

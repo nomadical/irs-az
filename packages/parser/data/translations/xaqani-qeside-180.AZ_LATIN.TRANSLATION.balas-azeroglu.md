@@ -33,7 +33,6 @@ Xaqanini satın almış, onun halal quludur,
 Bəyənmirsə, heçə satsın, nə çox müftə qul alan.
 O, fələkdən qorxmur əsla, dövranından çəkinmir,
 Onu əsir edə bilmir cəlalıyla asiman!
-Milli Kitabxana
 
 Göy çəməndə həyat gəzmir, çünki, onun qoyunu,
 Qəssab olub, üzür xalqın boğazını, tökür qan.
@@ -66,6 +65,5 @@ Batil olar sarımsağın rəngi öz qoxusundan.
 
 Mənim sehrim düşsə əgər o Zərdüştün oduna,
 Zərdüşt odu oxuyacaq onu su kimi rəvan.
-Milli Kitabxana
 
 12.

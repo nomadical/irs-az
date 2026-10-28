@@ -28,7 +28,6 @@ Arzumuzun əkinləri susuz qaldı həmişə,
 
 Hamı sənə məhrəm olur nemət verən zaman sən,
 Möhnət günu hey nalə çək, yari-məhrəm tapılmaz.
-Milli Kitabxana
 
 Bir dostuna qəmlərindən etsən əgər şikayət,
 Deyər: - Allah kömək olsun, xalqda kərəm tapılmaz.

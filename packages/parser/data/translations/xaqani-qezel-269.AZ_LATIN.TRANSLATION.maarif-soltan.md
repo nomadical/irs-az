@@ -25,6 +25,5 @@ Atəşin göz yaşının taqəti yox qətrəsiyəm,
 Qüvvə yetməz ki, çıxıb navəki-müjganə çatım.
 Vəslə çatmaq sənə müşkül görünür, Xaqani!
 Yol çətindir, deyiniz, bəs necə asanə çatım?
-Milli Kitabxana
 
 43.

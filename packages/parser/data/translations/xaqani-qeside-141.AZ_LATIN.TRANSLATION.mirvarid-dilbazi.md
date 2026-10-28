@@ -37,7 +37,6 @@ Sirdaşdı mənə o gülüzarım.
 
 Qəm qorxusu bilməz idi könlüm,
 Qəmlər darıdandı qəmküsarım.
-Milli Kitabxana
 Qəmsizliyimin qəmin çəkərdim,
 Əldəydi mənim hər ixtiyarım.
 

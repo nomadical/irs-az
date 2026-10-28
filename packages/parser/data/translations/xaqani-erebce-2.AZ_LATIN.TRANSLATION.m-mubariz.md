@@ -25,7 +25,6 @@ Cəlal sahibinə arxalandım, oldum əmin,
 Tutar əlimi məqamı uca Cəlaləddin.
 Odur imam ki, elmi üfüqlərə yol açar,
 Mürəkkəbim onu vəsf eyləyəndə ətr saçar.
-Milli Kitabxana
 
 Şəriətə dayaq olmuş, həqiqətə ayna,
 Bəlağət ilə salınmış söz ölkəsi adına.
@@ -58,7 +57,6 @@ Görüşdüm onda ki, fazillərin ağası ilə,
 Gətirdi vəcdə məni mehriban ədası ilə.
 Yazanda mədh ona, təb Rəxşi nal saldı,
 Yoruldu dizləri onda, çal at gücü qaldı.
-Milli Kitabxana
 
 Ağam da olsa, o qardaş kimi mənə inanır,
 O dostluq əhdinə möhkəmliyi vəzifə sanır.

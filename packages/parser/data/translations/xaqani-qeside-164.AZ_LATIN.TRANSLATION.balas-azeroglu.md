@@ -16,7 +16,6 @@ Sözlərimdə möcüz var hər zamanda.
 
 Ağacımdan meyvə dərir şairlər,
 Kitabımdan dərs öyrənir sahirlər.
-Milli Kitabxana
 
 İnci səpən təbim tanıdır məni,
 Ona çatmaz cavahirlər mədəni.
@@ -49,7 +48,6 @@ Biri hər dəm milçək kimi sorar qan,
 Biri banlar xoruz kimi durmadan.
 Ağıl belə hərzələrdən çəkinər,
 Tülküləri saya salmaz şiri-nər.
-Milli Kitabxana
 Dəvə quşu nə quşdur, nə dəvədir,
 Od ələyir, min cür bəla törədir.
 
@@ -88,7 +86,6 @@ Ona görə ellərə oldu qazi.
 
 Küll-nəfsin sahibi olduğundan,
 Gedir onun arxasınca bu cahan.
-Milli Kitabxana
 Əllərindir səxavətin məxzəni,
 Can evidir cəlalının mədəni.
 
@@ -127,7 +124,6 @@ Bu şoranlıq varlığımı gülüstan.
 
 Məlumdur ki, müdrik, alim adamlar,
 Kiçikləri etmiş daim bəxtiyar.
-Milli Kitabxana
 Qarışqada vardır Cəmşid mülkündə,
 Çibinə də vəhy gələr xoş gündə.
 
@@ -163,4 +159,3 @@ Qoy əbədi olsun sənin məqamın.
 
 Uzaq olsun səndən fitnə və fəsad,
 Baxtın daim ayıq olsun, Əhmşad!
-Milli Kitabxana

@@ -22,7 +22,6 @@ Bahardakı gözəlliyə qoşurlar min dastan.
 
 Ağacların çiçəkləri töküldükcə budaqdan,
 Ulduzları sanki səpir sinəsindən asiman.
-Milli Kitabxana
 Lalədəki qara xalı görüncə, zənn edirsən,
 Müştərinin sinəsində qərar tutmuşdur Keyvan.
 

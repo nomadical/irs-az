@@ -25,6 +25,5 @@ Eşqi çəksə məni dara, ya ki, salsa darğaya,
 Ürəyimə qorxu salmaz nə o darğa, nə o dar.
 Xaqaninin ürəyinə məhəbbətin xəncəri,
 Sancılsa da, başdan keçər, eşqini etməz inkar.
-Milli Kitabxana
 
 85.

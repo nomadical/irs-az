@@ -25,6 +25,5 @@ Namərdlərə gül payladı bağçasından məhəbbət,
 Mənə, hətta, o vermədi gözüm üçün bir tikan.
 Onun cövrü cəfasına alışıbdır Xaqani,
 Nə etməli, vəfa izi silinmişdir dünyadan.
-Milli Kitabxana
 
 88.

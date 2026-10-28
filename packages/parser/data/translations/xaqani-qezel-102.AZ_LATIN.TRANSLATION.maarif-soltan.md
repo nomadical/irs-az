@@ -16,7 +16,6 @@ Qızıl gül ərğavan ilə şərabi-vəsl içən andır.
 
 Gülə bülbül deyər: - Nərgiz edir min naz, min işvə,
 Məgər nərgiz bunu bilmir ki, bağrı qönçənin qandır
-Milli Kitabxana
 
 Mənə susən nəsihət eyləyir ki, eşqə aldanma!
 Nəsihət dinləməz aşiq, bu susəndənmi pünhandır?

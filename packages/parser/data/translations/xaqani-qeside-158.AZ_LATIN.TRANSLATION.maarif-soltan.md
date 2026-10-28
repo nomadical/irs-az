@@ -21,7 +21,6 @@ Nə vaxtadək dövrün quru axuruna bağlanacaq,
 Elə at ki, onun üçün kiçik otlaqdır asiman?
 Bu zahiri zər bəzəkli, içərisi zibilxana,
 Zəmanənin binasını adlandırma nigaristan!
-Milli Kitabxana
 
 Gəzmək yeri deyil dünya, bu bağçada neyşəkərin,
 İçi sünbül yarpağıtək zəhərlidir, uzaq dolan!
@@ -54,7 +53,6 @@ Ancaq, ona üzlət meyi edə bilər, dava, dərman.
 Öz gölgəni çölə çıxar, əgər bunu bacarırsan.
 Sən ki, yoxluq nişanını bağlayıbsan öz boynuna,
 Ətəyindən tuta bilməz artıq sənin gövnü məkan.
-Milli Kitabxana
 Bəzəkçinin zəhmətinə Günəş üzü möhtac deyil,
 Nəyə lazım Cəmşid minən ata döşlük bərk poladdan?
 
@@ -93,7 +91,6 @@ Bu camaat boş küləkdir, umma işa yarayalar,
 
 "Əlif' kimi tək dolansan daim başda olar yerin,
 Başqasıyla birləşincə, kecib sonda oturarsan.
-Milli Kitabxana
 Ağıl sürter pişik kimi başını əl-ayağına,
 Can telini doğramasın sənin o-bu sanki siçan.
 
@@ -132,7 +129,6 @@ Nə Səfiülmülk simasında şadlıqdan var zərrə nişan.
 
 Əgər cahil eyb tutsa paltarına, zərər yoxdur,
 Ay tutulmaz it hürəndə, göpək hürər, keçər karvan.
-Milli Kitabxana
 Donun neçə rəng olsa da, qəlbin bircə rəng olsun qoy,
 Təbüdir, İsa qəlbin qapısında açmış dükan.
 
@@ -171,7 +167,6 @@ Ey bu vəhşət beşiyinde əl-ayağı bağlı qalan!
 
 Aslan kimi bir kişisən, burax daha süd əmməyi,
 Bu zəhərli döş bəs haçan çıxacaqdır de ağzından?
-Milli Kitabxana
 
 Hadisələr qırsa sənin ümidinin kəmərini,
 Fikr eyləmə, Nəcməddini mədh etməkdir ona dərman.
@@ -207,7 +202,6 @@ Fəqət, xəstə dəvə önə keçə bilməz saribandan.
 
 Yüz minlərcə heyvanların dərisini soyar qəssab,
 Ancaq, fələk birisini edər dirəfşi-Gaviyan.
-Milli Kitabxana
 
 32. VERİLMİŞ MÜLKÜN GERİ
 ALINMASINDAN ŞİKAYƏT

@@ -18,7 +18,6 @@ Kəramətli adamlar tək mənim də az tamahım var.
 
 Sözüm gündüz qədər ağdır, vəziyyətim gecə kimi,
 Şerim qılınc çəkən hindu, ahını göyə min ox atar.
-Milli Kitabxana
 Qart qarının qarşısında kimsə mərdlik edə bilməz,
 El uşaq tək acizdir, mən olmaram uşaq tək zar.
 

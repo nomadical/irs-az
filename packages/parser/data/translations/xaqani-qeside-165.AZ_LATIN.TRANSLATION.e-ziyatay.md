@@ -20,7 +20,6 @@ Gözlərin öz qəmzəsilə canları məhv edəndə,
 Dodaqların öpüş ilə aşiqə bəxş edir can.
 Qanadları altındadır vəslin Simurğ quşunun,
 Kölgəsində bəsləmişdir vüsalını Süleyman.
-Milli Kitabxana
 
 Qəbuluna nail olmaq mümkün olsa, idrakın,
 Qarşısında bərabərdir, yəqin ki, küfrü iman.

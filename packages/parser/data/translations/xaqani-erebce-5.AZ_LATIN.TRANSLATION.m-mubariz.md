@@ -39,7 +39,6 @@ Torpağından ki, imam basmış ayaq,
 Gözlərə sürmə gərək hazırlayaq.
 Özgələrlə sən məni etme qiyas,
 Tirməsindən Bağdadın geydim libas.
-Milli Kitabxana
 
 Sübhü Bağdadın gözəldir, incədir,
 Hər büsatı, hər işi könlümcədir,
@@ -79,7 +78,6 @@ Sanki bir aşiq qalıb həsrət yara,
 Hər sevən qəlbə vurar Bağdad yara.
 Sarsılar Bağdad dərdi onları,
 Dostların bəxti qara, üzlər sarı,
-Milli Kitabxana
 Bağdad eşqi xəstəlikdir bir elə,
 Sarsınar bu eşqdən İsa belə!
 Solğun üzlər ki, qaradır ya san,

@@ -23,7 +23,6 @@ Kim eşqə bağlamış ehram, gərək başı dizə ensin,
 Təfəkkür yaxşıdır Mərva, Səfa dağına qaçmaqdan.
 Nədəndir Kəbəyə, ehramə sən aludəsən bunca?
 Yəqin, örtükdə gördün Kəbəni, ehramı da üryan.
-Milli Kitabxana
 Salıb yer diz qapağımda daraqlanmış əlim, çünki,
 Bənövşə başıtək başım əyilmiş ahü zarımdan.
 
@@ -62,7 +61,6 @@ Oxu qəm rəmzini, öyrən, bu Məddü Həmzədən asan.
 
 Gözünü bağladım hirsin, tamahın dişini qırdım,
 Necə katib yazar "mim"i, necə "sin"i yazar divan.
-Milli Kitabxana
 
 Mənə vəhdət bağında bir şərikdir həzrəti-İsa,
 Verib canı, ucuz aldım ikinci səhmi İsadan.
@@ -98,7 +96,6 @@ Könül əylənmək istərkən əqil şahı xitab etdi:
 
 Təfəkkür güzgüsündə sən, nəzər qıl, əksi-can axtar,
 Oxu sən "Əhsənüt-təqvim"i çox diqqətlə "Quran"dan.
-Milli Kitabxana
 
 Deyil hər gördüyün hərzə, qiraət etdiyin - işvə,
 Deyil aləm sözü möhməl, kəmali-həqqdə yox nöqsan.
@@ -134,7 +131,6 @@ Qısar quyruğuna boynun, bu meydanda edər cövlan.
 
 Cəfadır hər işi çərxin, sən isə borclu düşmüşsən,
 Deyil mümkün ayaq basmaq kənara kəc mədarından.
-Milli Kitabxana
 
 Cahan xalqın belində bir məşəqqətli ağır yükdür,
 Dözər bu siqlətə sərxoş dəvə, çün məstdir heyvan.
@@ -167,7 +163,6 @@ Demə azadəyəm, aldatma xəlqi bu libasınla,
 Hamarsan zahirən oxtək, təbiətcə kobud suhan.
 Çəkiclə başına hərdəm döyərlər fıl kimi, Çünki,
 Düşübsən Kəbə şəklinə, belə dördkünc zindansan.
-Milli Kitabxana
 
 Bəsindir, az danış Musa hədisindən Yəhudatək,
 Ki, doqquz ayə yox, bu yeddi rəngdir şəninə şayan.
@@ -203,7 +198,6 @@ Ki, sultanlıq gədalıqdır, gədadır əsldə soltan.
 
 Özü Azər kimi nəccar Əli Şirvanlı sülbündən,
 Bir İbrahim doğulmuşdur, tapar məna bəzək ondan,
-Milli Kitabxana
 
 Soruşsan: kimdi son şair? Fələk söylər ki: Xaqani!
 Onunla şer xətm olmuş, onunla bağlanıb divan.
@@ -242,7 +236,6 @@ Deyin, bilsin Əli, dövran yetirdi qətlə Osmanı,
 
 Vəhid ölmüşdü - İdrisi və Loğmanı bu dövranın,
 Əcəl çatdıqda, acizdir həmi İdris, həmi Loğman.
-Milli Kitabxana
 
 14. SULTAN SƏNCƏRİN HƏBSİ
 VƏ MƏHƏMMƏD İBN YƏHYANIN

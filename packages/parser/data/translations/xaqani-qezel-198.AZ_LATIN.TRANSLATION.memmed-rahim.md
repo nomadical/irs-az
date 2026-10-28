@@ -33,6 +33,5 @@ Ayıq baxtın feyzilə görən göz istəyirəm,
 Göz yaşım şəbnəm olsun, səhərin üzü yarpaq.
 İmtahan taracına getdin, Xaqani, axtar,
 Azadlıq kürəsinin tozunda iksir ancaq.
-Milli Kitabxana
 
 24.

@@ -19,7 +19,6 @@ Ata-ana, oğul-uşaq, qohum-qardaş göçdülər,
 Biz nə qədər qalacağıq qafil, səfil, sərgərdan?
 Gözlərimiz görür hər gün göçdüyünü dostların,
 Bunu görən göz nə üçün ibrət almır onlardan?
-Milli Kitabxana
 
 Qara torpaq altındadır məskənimiz nəhayət,
 Təlaş ilə qurmaqdayıq burada biz xaniman.

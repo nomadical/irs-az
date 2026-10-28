@@ -33,7 +33,6 @@ Göz yaşları dil açsın, eyvana xitab etsin,
 Bir kəlmə cavab alsın qəlbin qulağı ondan.
 Başlar öyüdə hər an diş-diş divan qəsrin,
 Sanki dil açıb, söylər tarixini hər dəndan.
-Milli Kitabxana
 Bayquşların ahından ağrır başımız daim,
 Göz yaşı gülabıyla et dərdimizə dərman.
 
@@ -72,7 +71,6 @@ Biz torpaq olub getdik, sən də diri torpaqsan.
 
 Atdan yerə en, üz sürt torpağına, seyr eylə,
 Fil pəncəsi altında, şahkan, mat olub Neman.
-Milli Kitabxana
 
 Yox filləri Nemantək torpağa salan şahlar,
 Fil kimi gecə-gündüz onları əzər dövran?
@@ -108,7 +106,6 @@ Bu döşu qara kaftar, ağ qaşlı bu bmiman.
 
 Xaqani, bu dərgahdan sən daima ibrət al,
 Ta almaq üçün ibrət gəlsin qapına xaqan.
-Milli Kitabxana
 
 Dərviş bugün umsa şahlar qapısından pay,
 Dərvişdən umar bir gün ruzi, onu bil, soltan.

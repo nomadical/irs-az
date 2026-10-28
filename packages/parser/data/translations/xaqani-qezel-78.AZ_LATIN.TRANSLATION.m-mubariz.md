@@ -25,7 +25,6 @@ Nə bədrin var sənin, nə də hilalın.
 
 Soruşdun yarü dildarı məndən,
 Müəmmadır mənimçün bu sualın.
-Milli Kitabxana
 Xəyalın canıma həmdəmdi, canan!
 Xəyalından soruş, bil, vəsf-halın!
 

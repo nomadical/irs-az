@@ -37,7 +37,6 @@ Bir günahım yox ikən, mən niyə böylə dolanım?
 
 Qəlbimi qırdı, məni əzdi fəna hadisələr,
 Bəlkə də qaynatamın işləri çox verdi zərər...
-Milli Kitabxana
 Cəbrailin qanadında səsimi, ya rəb, eşit!
 O Səba şəhri kimi yurdlarını viran et!
 
@@ -76,7 +75,6 @@ Möhrə ki, səndədir, artıq nəyə lazımdır ilan?
 
 Bir daha sən məhəyə vurma sədaqətdə məni!
 Qəlp bir pul kimi aləm tanıyıb, rədd edəni.
-Milli Kitabxana
 
 Desələr: nöqsanı var, baxma bu laqqırtılara,
 Bu sənə bəllidi ki, görmək hara, söhbət hara.

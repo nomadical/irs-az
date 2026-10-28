@@ -21,7 +21,6 @@ Vermədi bir kəs üzündən bizə aləmdə nişan,
 Keçmədi kirpiyinin atdığı oxdan biri yan.
 Gəzmişik "Qorxu-rica" aləmini şövqün ilə,
 Görürük biz səni, sən isə xəbərsizsən hələ.
-Milli Kitabxana
 Qorxmuşuq gah rəqibdən, çəkərək göz səndən,
 Etmişik bir baxış ilə rəqibi kor bəzən.
 

@@ -27,7 +27,6 @@ Gümüş sürahidə mey qızılından,
 Düzəlt dilbərlərə zərif ərməğan!
 Gözəl hədiyyədir şümşad yarpağı,
 Büllur buxaqlara az boyunbağı.
-Milli Kitabxana
 Dünyanı bəzəyən Günəşin özü,
 Hilalqaşlılardan çəkməmiş gözü.
 Zöhrə mizrabını vurur çənginə,
@@ -66,7 +65,6 @@ Dənizin şor suyu aranmış həmən,
 Saf igidlərinin alın tərindən.
 Bakı duasını unutmaz bir an,
 Olub sayəsində Bəstan, Xavəran!
-Milli Kitabxana
 
 Rey ilə Xəzranı, Zirəgəranı,
 Bakı istər etsin şahın qurbanı.

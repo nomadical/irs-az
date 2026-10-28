@@ -25,5 +25,4 @@ Balıqları o çörəklə aldadıb, ovlayacaq.
 
 Boğaz üçün suda balıq keçirsə öz canından,
 Təəccübə dəyərmi heç, canından keçsə insan?
-Milli Kitabxana
 11.

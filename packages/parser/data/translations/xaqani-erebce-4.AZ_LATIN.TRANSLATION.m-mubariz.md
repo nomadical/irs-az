@@ -27,7 +27,6 @@ Səsləyir Bağdad səni, Misri unut!
 Misrdən əl çək daha, Bağdadı tut!
 Bağdadı mən Misrə oxşatsam bu gün,
 Böylə tərif həcvdir Bağdad üçün.
-Milli Kitabxana
 
 Misrdə döndü xəsislərdən üzüm,
 Çünki Bağdaddır səxavət ulduzum.
@@ -67,7 +66,6 @@ Meydanında arzular at oynıdar,
 Xoş fikir, xoş söz, səadət ondadır.
 Əsrimin oğlanları quldur ona,
 Doğdu fikrimdən sənəmlər namına?
-Milli Kitabxana
 
 Sönmədi şöləm mənim, oldu bahar,
 Bağdadın yay fəslidir xoş ruzigar.

@@ -19,7 +19,6 @@ Ona da fiqh adı qoyur o nadan.
 Xam adam axtarır, yamasın onu.
 Oyunbazlar kimi düzəldib tələ,
 Üstünü basdırır torun çör-çöplə.
-Milli Kitabxana
 Quşu da xoş dillə salaraq dama,
 Kəsərlər başını yetməmiş kama.
 

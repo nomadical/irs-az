@@ -15,7 +15,6 @@ Mən canu-dildən istərəm qaçmaq vəfanın qoynuna,
 Fani dəyirmandır cahan, bağlanmayır canım ona!
 İllət budur, zalım fələk tikmiş gözümü qırğıtək,
 Qorxar, əlindən mən qaçım, harda ki, görsəm var bəla!
-Milli Kitabxana
 
 Başım kiçiksə qırğıtək, qəlbim geniş ümman kimi,
 Rədd eylərəm, tac versələr, əynim qəbul etməz qəba.
@@ -51,7 +50,6 @@ Mən istərəm ki, o kaha versin mənə zövqü-səfa!
 
 Yeddi nəfər kəhf əhlinin mən səkkizinci üzvüyəm,
 Amadəyəm onlar kimi hər möhnətə qatlaşmağa.
-Milli Kitabxana
 Firon camı vermə gəl, zahidliyimdəndir məgər,
 Firon əhlitək həzər etdim görəndə əjdəha.
 
@@ -90,7 +88,6 @@ Qaçmaqdan özgə çarə yox, daşlar olub ahənrüba.
 
 Dostumda ki, yoxdur vəfa, düşmən mənə etmiş sitəm,
 Mən onları tərk etmişəm, təkcə pənahımdır xuda!
-Milli Kitabxana
 
 Mən bir Məsihəm ki, salıb lərzə Yəhuda canıma,
 Gah da bir hərzə rahibin qaçdım əlindən dağlara.
@@ -123,7 +120,6 @@ Bəxtim qaradır, həm də bu - gündüztək aydındır mənə,
 Qaçdım gecə ağuşuna, ta gözdən itsin bu qara.
 Çəkdin qılıncı, söylədin: - Vardırmı başından keçən?
 Mən ki, sözümdən qaçmadım, başım qılıncına fəda!
-Milli Kitabxana
 Sazda nəva çalsan mənə, bir, ya iki pərdə götür,
 Üç pərdə alsan, bil, məni şəksiz, qaçırdar bu nəva!
 
@@ -162,7 +158,6 @@ Qane olam İsa kimi dördüncü göy eyvanına.
 
 İdrisə oxşatma məni, "xovfun" atıb zindanmı,
 Qaçsam, qaçam bir əmr ilə səkkiz "rica" gülzarına.
-Milli Kitabxana
 
 Nə sübh vardır, nə gecə vəhdət yolunda, bəs odur,
 Mən qaçmağa amədəyəm gündüz-gecədən daima.
@@ -193,4 +188,3 @@ Olmuş kişi heyzi tamah, mən başını kəsdim onun,
 Əl açmaram heç bir kəsə, adlansa da sahib-səxa!
 Dovşan qadın heyzi görər, bu aləmə məlumdur,
 Mənsə pələngəm, nisbətim çatmaz yəqin ki, dovşana?
-Milli Kitabxana

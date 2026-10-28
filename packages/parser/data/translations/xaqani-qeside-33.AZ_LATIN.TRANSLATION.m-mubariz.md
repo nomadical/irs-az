@@ -37,7 +37,6 @@ Mənim kimi söz deyən hələ cahan görməmiş,
 Dilimdən çıxan sözdən heç kəs ziyan görməmiş.
 O gündən ki, açılmış, danışmamışdır yalan,
 Bəs nə olmuş dilimi quş tək qəfəsə salan?
-Milli Kitabxana
 
 * * *
 
@@ -75,7 +74,6 @@ Xurma ağacı duydu ətrini ədalətin,
 Xurma içində çərdək xurma açan görməmiş.
 Səadət kəcavəsi gəlmədən, bir nəfər də,
 Xeyir yurduna dönsün mülki-Şirvan, görməmiş.
-Milli Kitabxana
 * * *
 Şahbanunun ver əli, səxavəti önündə,
 Xəzinələr, mədənlər tab gətirməz bir gün də.
@@ -114,7 +112,6 @@ Bağladı şairliyin dükanını bəndəniz.
 Açdı həllac dükanı, lakin, heç bir zamanda,
 Oddan başqa müştəri görmədi o dükanda.
 Soruşmadı halımı bir kərə şah xanımı,
-Milli Kitabxana
 
 Bilsin necə sarsıdır qəmlər yazıq canımı?
 Nə halımı soruşan, nə yadına salan var,
@@ -151,4 +148,3 @@ Yazsın: "İns ilə canın ən möhtərəm qadını".
 Sayəsində ölkəmiz yaşasın dərd-sərsiz.
 Arzum budur: ömrümdə yüz elə bayram ola,
 Şahla xanım ömrünün hər günündən kam ala!
-Milli Kitabxana

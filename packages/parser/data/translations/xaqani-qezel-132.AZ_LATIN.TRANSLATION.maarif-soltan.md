@@ -13,7 +13,6 @@ status: PUBLISHED
 ---
 Nə gözəlsən, ruh açansan, lütfkarsan, ey nəsim!
 Kədərləri dağıdan bir nobaharsan, ey nəsim!
-Milli Kitabxana
 
 Göyərçintək gətirirsən yardan xəbər mənə sən,
 Nə xoşxəbər elçi kimi xoşrəftarsan, ey nəsim?!

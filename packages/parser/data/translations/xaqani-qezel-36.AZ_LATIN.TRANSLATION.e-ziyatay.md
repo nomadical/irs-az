@@ -19,7 +19,6 @@ Göyün səkkiz olub yeddi qübbəsi.
 
 Mənəm susuz bitən xurma ağacı,
 Od düşüb canıma, artır şöləsi.
-Milli Kitabxana
 
 Yanıldım, ağac yox, neylufərəm ki,
 Qərq edər canımı gözüm çeşməsi.

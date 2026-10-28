@@ -30,5 +30,4 @@ Dövlətin əvvəli qürur olsa da,
 Ortası oyundur, sonu ahü zar.
 Şəraba bənzər ki, əvvəli – fitnə,
 Ortası - məstlikdir, axın - xumar.
-Milli Kitabxana
 16.

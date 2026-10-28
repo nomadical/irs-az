@@ -19,7 +19,6 @@ Dünya xəndəkdi-palçıq ilə dolu,
 
 Bu yanan körpüdən hücum edərək,
 Atım sıçradıb keç İsa tək.
-Milli Kitabxana
 
 Nədi, pərgar kimi bu nöqtədə sən,
 Fırlana-fırlana qalıbsan həmən.
@@ -52,7 +51,6 @@ Baş bədəndən qopub düşərsə əgər,
 Tacla əmmamə dərdinimi çəkər?
 Yada salmırsa Səncarı Səncər,
 Əqil öz xaliqin necə yad edər?
-Milli Kitabxana
 
 Ömrümüz Cami-Cəmə çox bənzər,
 Sındırıb, ruzigar onu xar edər.

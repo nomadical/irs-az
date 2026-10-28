@@ -30,6 +30,5 @@ Mən şikayət eylərəm ki, od düşübdür canıma,
 Yar əlində olsa da əmri-təbabət, dinləməz.
 Gözlərindən incitək yaşlar tökən Xaqaniyə,
 Bir məhəl qoymaz nədən ol nazlı afət, dinləməz?
-Milli Kitabxana
 
 23.

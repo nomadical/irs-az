@@ -25,7 +25,6 @@ Uşaqsan, bu yer əhli səni bahar zəni edir,
 Bax, tamaşa üçündür, bil ki, vəfasız cahan.
 Qəlb dərmanı istəmə sən arzu təbibindən,
 Sümüyündən tabaşir hazırlayar o, inan!
-Milli Kitabxana
 
 Uyma dünya rənginə, onda yoxdur cavanl;q,
 Qocanı heç edərmi ənliklə kirşan cavan?
@@ -61,7 +60,6 @@ Yoxsulluğun verməli hələ iki imtahan.
 
 Qara donlu yoxsulluq batırarkən başını,
 Ağzına torpaq atar ağ geyimli varlanan.
-Milli Kitabxana
 
 Xoşdur guşənişinlik, zorla zərə uyma gəl,
 Qəm yemə dövlət üçün, yoxsulluqdur şərəf, şan.
@@ -97,7 +95,6 @@ Başqaları qapının ağzında salmış məkan.
 
 Ona görə xoş gəlir şerin bu vəhşi yerdə,
 Torpaq peyinli olsa, yaxşı bar verər bostan.
-Milli Kitabxana
 
 Yenə də atan, anan xeyirxah övlad kimi,
 Çağırmadadır səni, boş qalmasın xaniman.

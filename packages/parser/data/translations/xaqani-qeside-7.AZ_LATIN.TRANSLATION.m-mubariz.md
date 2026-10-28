@@ -25,7 +25,6 @@ Sehir düzən şairlərə sapı verən, bil, mənəm, mən,
 Bütün şer zərrabları hey kimiya alır məndən.
 O Həssanın qəlbin yeyən bu nəzmimin həsrətidir,
 O Söhbana sillə vuran bu nəsrimin qüvvətidir.
-Milli Kitabxana
 İlhamımın Büraqı da hansı yerdə salarsa nal,
 Fələk onu döyüş üçün kəskin qılınc edər dərhal.
 
@@ -64,7 +63,6 @@ Sənət yurdu Çində "mərdüm-giya" olmuş bu ulaqlar.
 
 Qurşun kasa içi kimi qapqaradır ürəkləri,
 Civə qabı ağzı kimi bərk bağlanıb ver əlləri.
-Milli Kitabxana
 Sanki onlar quldurluğun məktəbini bitirmişlər,
 Küfrə qardaş olub, səfa dostlarını itirmişlər.
 

@@ -49,5 +49,4 @@ O hər vaxt sadə bir sözlə olardı nəşəli, xəndan.
 
 Bu Kür Ceyhun olar, Tiflis Səmərqəndi qoyar dalda,
 O vaxt ki, Tiflisə Kürlə gələr Xaqani və xaqan.
-Milli Kitabxana
 26.

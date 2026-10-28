@@ -16,7 +16,6 @@ Səma ətirlə doldu rəngdən-rəngə girərək.
 
 Zümrüd göyün sinəsi zər şəfəqlə boyandı,
 Bulud buludun üstə halqa vurub dayandı.
-Milli Kitabxana
 Qızıl papaqlı səhər qəşəng qəba büründü,
 Gecə qunduz xəzini atıb, üryan göründü.
 

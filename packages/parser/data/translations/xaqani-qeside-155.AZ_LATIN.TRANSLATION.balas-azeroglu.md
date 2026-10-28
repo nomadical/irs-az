@@ -33,7 +33,6 @@ Gecə nə, gündüz nə, gözlər gedərsə?
 
 Könlümə istərəm, atəş verim mən,
 Ürək şad olarsa, nə lazım bədən?
-Milli Kitabxana
 
 Süleymantək ilahi mehri ilə,
 İşıqlandı ürək nur möhri ilə.
@@ -69,7 +68,6 @@ Qarışqa əqrəbə divan tutantək,
 
 Həqqiqətdən alıbdır şerim ilham,
 Həqqiqətdir nə ki, nəsr ilə yazsam,
-Milli Kitabxana
 
 Bitər kafur ağacı Hinddə ancaq,
 Misirdəki ağac isə verir yağ.
@@ -102,7 +100,6 @@ Vücudu, qəlbi sırf murdardır, onlar,
 Dəvəquşu kimi atəş udarlar.
 Qazantək başsız olmuşlar - qapaqsız,
 Təza baş tapdılar, ancaq, papaqsız.
-Milli Kitabxana
 
 Qaranquştək göyə baş qaldırarlar,
 Yerə quyruq doyüb, zağça olarlar.
@@ -138,7 +135,6 @@ Necə ki, odlanar atəşlə xirmən.
 
 Fil elə qorxmaz ki, sapand daşından,
 Qorxar Əbabilin kiçik quşundan.
-Milli Kitabxana
 
 Yayıldıqca adım dünyaya, aşkar,
 Paxıllıqdan ölərlər, qızdırarlar.
@@ -163,6 +159,5 @@ Onun dərgahıdır hər yerdən yüksək.
 Onun kərəminə bağlıdır fəqət.
 Onun əlindədir kilidi, bilin,
 Yeddi göy günbəzin, səkkiz behiştin.
-Milli Kitabxana
 
 MƏRSİYƏLƏR

@@ -40,7 +40,6 @@ O da suyun belinə bir kəmər vurdu torpaqdan.
 
 Axar suyun mədəsinə torpaq tökdü o qədər.
 Ki, torpaqçün törətməsin daşan sular bir xətər.
-Milli Kitabxana
 
 Torpaq suyun ciyərində düyümləndi, doğrusu,
 Şah qılıncı qorxusundan qabarmadı daha su.

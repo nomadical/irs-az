@@ -19,7 +19,6 @@ Bir sifarişlə mənə bəxş et həyat!
 
 Söyləmə başqa təbibə dərdimi,
 Ey Məsihim, dərdlərimi sən sağalt!
-Milli Kitabxana
 Firqətində taqətim əldən gedib,
 Əl mənim, damən sənin, bir əl uzat.
 

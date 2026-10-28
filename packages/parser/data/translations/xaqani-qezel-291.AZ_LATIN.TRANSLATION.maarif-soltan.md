@@ -25,7 +25,6 @@ Dedim ki, yeddi örtükdən çıxan bir nobahardır bu.
 
 Qızıl xalxalıtək düşdüm ayağına, dedi dilbər:
 Üzün xalxalımın rəngindədir, nə ahü zardır bu?
-Milli Kitabxana
 
 İtirdim başımı, bir diş götürdüm gül dodağından,
 Üzük qaşında Cəmşidin, - dedim, - nəqşi-nigardır bu?

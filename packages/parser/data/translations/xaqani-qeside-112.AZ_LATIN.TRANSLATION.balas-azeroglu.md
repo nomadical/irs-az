@@ -29,7 +29,6 @@ Al şərab üstə görsənir: "məşuq".
 
 Bağlayıb hər ümid yolunu zaman,
 Bağlanan yolları açıb dövran.
-Milli Kitabxana
 Qəlb qəm-qüssədən azad oldu,
 Çünki, mey qaynayıb cama doldu.
 
@@ -68,7 +67,6 @@ Göy kimi hərlənər, dayanmaz o da.
 
 Üçü dörd ünsürün qaranlıqsa,
 Hər üçü parlayar şərab olsa.
-Milli Kitabxana
 Xumarı qovmağa o məst başdan,
 Saqi nar şirəsi edər ehsan.
 
@@ -107,7 +105,6 @@ Nə qanır eyşü işrəti mömin,
 
 Kim mahal bir işə əl atsa, inan,
 Ummaz heç kimsə, bil, ağıl ondan.
-Milli Kitabxana
 
 Əsil insanı kim sanarsa hərif,
 Kimsə etməz belə kəsi tərif.
@@ -140,7 +137,6 @@ Altı, dörddürsə bir üzündə zərin,
 Bir, ikidir o arxa üzdə yəqin.
 Tarın hər pərdəsi ipək bağdır,
 Öküz ətir saçar, o çılpaqdır.
-Milli Kitabxana
 
 Bil, ürək əks edir bədəndə nə var,
 Ürəyin halı üzdə əks olunar.
@@ -173,7 +169,6 @@ Sədəf tək aç ağız yağışa hər an,
 Həzər et bu fəsad üzüm qanından.
 Süd əmibsən şirin döşündən əgər,
 İçmə dovşan qanından, eylə həzər.
-Milli Kitabxana
 
 Əqlimə pərdə çəkmə rəngli sudan,
 Odu göstərmə ki, qaçar aslan!

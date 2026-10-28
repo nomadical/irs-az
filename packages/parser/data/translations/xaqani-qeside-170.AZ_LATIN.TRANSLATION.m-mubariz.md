@@ -46,7 +46,6 @@ Mütləqa bədnam olub arvadlarıtək dinləri.
 
 Var yeri, mən onları göhnə həvəngə oxşadam,
 Başları yoxdur, həmişə zərbə almış dibləri.
-Milli Kitabxana
 
 Göy çadır altında bu şişəboğazlar daima,
 Bir sürahidir, salınmış kəndirə gərdənləri.
@@ -82,7 +81,6 @@ Daldada əfı ilantək var zəhərli dilləri.
 
 Mədənindən təbimin altun saçarkən aləmə,
 Dəhşətə düşmüş civətək daşlanar xatirləri.
-Milli Kitabxana
 Canları tutmuş üşütmə, titrəyərlər qibtədən,
 Kürk edib də, üstünə çəkmiş adımı hər biri.
 
@@ -121,4 +119,3 @@ Hər sözüm oddur mənim, olsa əgər qeyrətləri.
 
 Çarmıxa yeddi cəhənnəmdə çəkirsən, çəkmə qəm,
 Mən varamsa, arizu eylər cəhənnəm özləri.
-Milli Kitabxana

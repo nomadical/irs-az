@@ -25,7 +25,6 @@ Sənin sərxoşundur, yıxma könlümü,
 
 Döyüşdə Rüstəmdir tək bərabərin,
 Məndə o güc hanı, vuruşdan nə kar?
-Milli Kitabxana
 
 Atının tozuna çatsam, nə fayda?
 Arada yüz illik bir məsafə var.

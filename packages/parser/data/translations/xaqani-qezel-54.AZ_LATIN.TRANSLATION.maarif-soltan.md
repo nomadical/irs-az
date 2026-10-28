@@ -22,7 +22,6 @@ Olmuşdur həmişə o zülfu xalın.
 
 Gözəllik Rəxşini çapma hər yana,
 Aləmi dağıdar zərbin, vəbalın.
-Milli Kitabxana
 
 Mən sənin işvənə könül vermişəm,
 De, kimə dəyməmiş sənin zəvalın?

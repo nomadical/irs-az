@@ -17,7 +17,6 @@ Bu can nədir, mən ki, sənin sayənəm,
 Sayəndəsə məndən qaçır derdü qəm.
 Fərağında ölüm məni yaxalar,
 Hüzurunda əzablarım yox olar.
-Milli Kitabxana
 
 Sonsiz qanlı yaş axıdar gözlərim,
 Bir fəğanə dönər ürək sözlərim.

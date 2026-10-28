@@ -33,7 +33,6 @@ Mən o qılıncı ki, verəcək başıma nəcat,
 Yüz tac versələr mənə şahanə, satmaram.
 Zəhrini nuş edib o qılıncın gülə-gülə,
 Mən böylə zəhri balla dolu şanə satmaram.
-Milli Kitabxana
 Əmmaməmi qadınlar üçün çadra eylədim,
 Adəm geyən o xələti-əlvanə satmaram.
 

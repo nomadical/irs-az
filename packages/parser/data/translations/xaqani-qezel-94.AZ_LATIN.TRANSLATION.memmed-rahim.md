@@ -25,7 +25,6 @@ Hüsnünün meydanında fələklər qalxan atar.
 
 Şikara gəlsə hərgah qəlbimi, şadlığından,
 Ayağının altına özünü qurban atar.
-Milli Kitabxana
 Başından keçənlərə o daş ürəkli sultan,
 Daş yaqdirar, mərhəmət fikrini başdan atar?
 

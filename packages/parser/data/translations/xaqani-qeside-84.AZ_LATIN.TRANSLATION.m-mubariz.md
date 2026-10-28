@@ -36,7 +36,6 @@ Hiyləgərlikdə hamı ofsunçu Dimnə olsa da,
 
 Fərqlənməzsə cidardan rəngbərəng zahirləri,
 İç tərəfdən bu cidarlardır zəhərli gürzələr.
-Milli Kitabxana
 
 Xilqətin çirkabıdır onlar, təbiət tortası,
 Təkcə acgözlük, paxıllıqdır bu əşrarə hünər;
@@ -72,7 +71,6 @@ Hər nəfəsdə aləmi gül ətrinə çulğar səhər?
 
 Adət etmişlər sığınsınlar zəli tək batlağa,
 Çün Ədən dəryasına cummaq nəhəngə əl verər.
-Milli Kitabxana
 Qoy yesinlər partlayınca hər ucuzlu süfrədən,
 Onlara ləzzət verərmi məndəki şəhdü şəkər?
 

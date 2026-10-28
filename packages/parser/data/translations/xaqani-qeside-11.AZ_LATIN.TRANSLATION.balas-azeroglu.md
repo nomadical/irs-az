@@ -25,7 +25,6 @@ Binəva, sanma bu dərgaha sən asan gedəsən.
 
 Eşq meyarı salar gövhərini qiymətdən,
 Qəlb bazarı salar Yusifini hörmətdən.
-Milli Kitabxana
 Bağla zahir gözünü, seyr elə dərgahı o dəm,
 Tulla süni zirehi, meydana qoy sonra qədəm.
 
@@ -64,7 +63,6 @@ Xızr tək cübbə və Musa kimi var onda əsa,
 
 Qəlb divanı ləqəb verdi Yer ilə fələkə,
 Biri azğın qocadır, digəri çirkin mələkə.
-Milli Kitabxana
 
 "Bəli" əhdini "Ələstə" verən ötgəm dilidir,
 "La ilahə" qapısında dayanan "la" kimidir.

@@ -25,7 +25,6 @@ Qəmsiz olsun bu cahanda, qəmliyə yox əltutan!
 
 Həbsə sal ahı dodaqda ağzını yandırsa da,
 Çünki yüz yol söyləsən də, dərdini yoxdur duyan!
-Milli Kitabxana
 
 Məlhəm axtarma, yaran vardırsa, heyvanlar kimi,
 Ağrıya döz, gəzmə, tapmazsan ona məlhəm qoyan!
@@ -61,7 +60,6 @@ Fəhmdən naqisdir əqrəb quyruğundan şəhd uman!
 
 Dəhr qoy qanda boğulsun, torpağa ensin fələk,
 Tapmayıbdır çün əmin nə onda, nə bunda məkan!
-Milli Kitabxana
 
 Ümmətin püştü-pənahiydi o dahi filosof,
 Mənzili oldu, yəqinimdir, ən ali kəhkəşan.

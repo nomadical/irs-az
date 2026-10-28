@@ -31,7 +31,6 @@ Pisliklə xəcalət edir hər zaman.
 
 Acgöz bir qarışqa, dilsiz bir quşam,
 Əsla qəfəs üçün doğulmamışam.
-Milli Kitabxana
 Bir quş caynağından ordu sınarmı?
 Qarışqa gücüylə şəhr alınarmı?
 

@@ -27,7 +27,6 @@ O həyasız çinə bənzər, əgər insan olsaydı,
 O vaxt adam inciməzdi, bunu ondan gözləmə!
 Sən, ey könül, öz nalənlə Xaqaniyə kömək ol,
 Sənə qəmxar olmaqlığı bu dostlardan gözləmə!
-Milli Kitabxana
 
 Bu nalə də faydasızdır, Çünki, gözü baxtının,
 Açılmaz heç həşrə kimi, yoxdur güman, gözləmə!

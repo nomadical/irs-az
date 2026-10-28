@@ -37,6 +37,5 @@ Biz onuntək bir süxəndan tapmadıq.
 
 Görmədi mülki-Xorasan mislini,
 Tay ona, hətta, İraqdan tapmadıq.
-Milli Kitabxana
 
 15.

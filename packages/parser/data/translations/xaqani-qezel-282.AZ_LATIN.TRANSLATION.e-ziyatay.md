@@ -19,7 +19,6 @@ Ki, üzümü görməməkçin ayağına baxır yar.
 
 Gözəllərin adətidir dostluq ilə içər qan,
 Dost olmadan içdi mənim al qanımı o qəddar.
-Milli Kitabxana
 
 Ah çəkməkdən dilim tükə döndü, tüküm dil açdı,
 Öldürdü, bir tükümü də incitmədi fusünkar.

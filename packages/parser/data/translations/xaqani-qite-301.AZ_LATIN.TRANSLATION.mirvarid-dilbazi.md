@@ -44,4 +44,3 @@ Oda pambıq pənah heç apararmı?
 O taxtla məşquldur, mənsə azadam.
 Sərbəstəm, şah isə tamaha əsir.
 Qanıram, şah azıb yolunu tamam.
-Milli Kitabxana

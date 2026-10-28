@@ -34,7 +34,6 @@ Döndü səninçin tükə nalədən, ey sevgilim.
 
 Xaqaninin təbini bağlama sevdaya sən,
 Səfrasını kəs onun nar kimi ləblər ilən.
-Milli Kitabxana
 
 Sən də köhnə əhdini, gəl, təzələ, Xaqani,
 Padişahı mədh elə, tər söz ilə, Xaqani!

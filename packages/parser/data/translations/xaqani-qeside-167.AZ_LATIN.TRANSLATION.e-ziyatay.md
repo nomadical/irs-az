@@ -16,7 +16,6 @@ Yusif kimi yerim olub tənha, qaranlıq zindan.
 
 Atdılarsa qardaşları onu su quyusuna,
 Məni da od quyusuna saldı dostlar nagəhan.
-Milli Kitabxana
 "Əlif" ilə "sıfır" kimi yalqız və boş qalmışam,
 Qələm kimi, ox kimiyəm, cismim cılız və üryan.
 
@@ -55,7 +54,6 @@ Kərəmindən ümidini kəsmə, ona arxalan!
 
 Bu amansız ruzigarın işıqsız gözlərindən,
 Qaçmaq üçün öz sədrinin kölgəsində daldalan.
-Milli Kitabxana
 
 Bir allahın nəzərində olan Əbdülqəffarın,
 Sayəsində ağ divlərdən yetməz sənə bir ziyan.
@@ -91,7 +89,6 @@ Məhəmmədin xislətidir, görür bunu göz qoyan.
 
 Ənbiyanın sonuncusu olsa belə Məhəmməd,
 Nəbilərin əfzəlidir, odur sahibi - "Quran".
-Milli Kitabxana
 
 Yaratmaqla heyvanatı, cəmadı, nəbatatı,
 Təbiətin son istəyi insan idi, tək insan.
@@ -127,7 +124,6 @@ Pisliyini danışanla şərikdir yəqin şeytan.
 
 Sənin halal çörəyini yeyən o bədxahların,
 Yaxşılığı unudaraq, nankor olublar çoxdan
-Milli Kitabxana
 Bundan sonra öz süfrənə yaxın qoysan onları,
 Məhşər günü cəza verər sənə böyük yaradan.
 
@@ -166,7 +162,6 @@ Qoyma məni tapdaq edib, həlak eyləyə düşman.
 
 Bircə kəlmə sözünlə sən elə et ki, dövranın,
 Mərhəmətsiz çəngəlindən azad olum bircə an.
-Milli Kitabxana
 Sən Günəşsən, mən işıqdan məhrumam bu əsrdə,
 Tez saraldıb soldurmuşdur məni şaxta, qar, boran.
 
@@ -205,7 +200,6 @@ Hikmətindən xəbərsizdir, dəm vursa da Yunandan.
 
 Görməmişdir məktəb üzü, savaddan da kasıbdır,
 Yer üzündə axmaqlıqla qazanmışdır ad və san.
-Milli Kitabxana
 Allah onun vücudunu yaratmışdır lənətdən,
 Dünya onu böyütsə də, sonra olub peşiman.
 
@@ -244,4 +238,3 @@ Səadətə yetişəsən min bayramdan, bahardan.
 
 Yeddi göydən yüksək olsun, möhkəm olsun iradən,
 Yerə batsın o kəslər ki, çəkirlər ayağından.
-Milli Kitabxana

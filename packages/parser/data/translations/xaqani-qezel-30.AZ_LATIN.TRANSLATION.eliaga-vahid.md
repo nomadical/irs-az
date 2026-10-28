@@ -17,7 +17,6 @@ Heç bir ürək bu göylərin altında il boyu,
 Şümşad kimi tazə və xürrəm tapılmayır.
 Hər kim otursa pəncərəsində bu göylərin,
 Cəngi-zəmanədən o müsəlləm tapılmayır.
-Milli Kitabxana
 Yoxdur sevinc, ol qəm ilə həmnişin, könül!
 Cəmşid, qoşul bu matəmə, xatəm tapılmayır.
 

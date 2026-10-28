@@ -22,7 +22,6 @@ Ağıldan öylə bizarıq ki, biz Adəmdən əzadıq.
 
 Ağıldan ki, barı qəmdir, məhəbbət torpağı xoşdur,
 Uzaqlaşdıq ağıldan biz, odur ki, qəmdən azadıq.
-Milli Kitabxana
 Cahanda eşqimiz varsa, nə qəm var, can gedir badə?
 Süleyman hazır ikən, təxtdən, xatəmdən azadıq.
 

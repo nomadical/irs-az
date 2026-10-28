@@ -25,7 +25,6 @@ Kəsb yox, yaşadır məni təvəkkül,
 Səbr ilə rizaya vermişəm könül.
 Çöryin yemərəm heç bir namərdin,
 Hər iki dünyamın ruzisidir din.
-Milli Kitabxana
 Təyəmmüm etmərəm murdar torpağa,
 Tanrı qismətimi salmış bulağa.
 

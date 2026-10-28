@@ -40,7 +40,6 @@ Fəzada nur saçan bədrdir mübarək üzü.
 
 Xəyal onu gecə sandı, elə düşündü məgər,
 Qaranlıq içrə işıqdan cəmalını örtər.
-Milli Kitabxana
 
 Çox mətindir o da, bil, hümmətim, iradəm tək,
 Təfəkkürümlə zəka zirvəsinə yüksələcək.
@@ -79,7 +78,6 @@ Odur həqiqətə vaqif, ürəklərə sirdaş.
 
 Vəkilü hakim olub, qurdu ədl ilə divan,
 Çıxardı məhkəmədən şahidi deyəndə yalan.
-Milli Kitabxana
 
 Yəhudilər onu susdurmağa çalışmışlar,
 O, dövrün Həzrəti-İsasıdrr, dözər, yaşayar.
@@ -114,6 +112,5 @@ Himayəsində onun bu əsər əmanətdir,
 Əmanəti qorumaq dəhrdə səadədir.
 Bilik, fəzilət onun sayəsində tapmış aman,
 Onu himayəsi altında saxlasın yaradan.
-Milli Kitabxana
 
 HƏBSİYYƏLƏR

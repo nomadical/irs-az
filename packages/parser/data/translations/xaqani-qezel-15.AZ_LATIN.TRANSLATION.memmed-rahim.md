@@ -30,5 +30,4 @@ Ey gumüş üzlü, qadam haqqi qəbul etsən əgər,
 Bu qızıl çöhrəmi verrəm ki, saralmis qəmdən.
 Dedi: - Xaqani, zərə oxşamayır rüxsarın,
 Dedim: - əfv eylə, görünməz gecə zar, bilmirsən?
-Milli Kitabxana
 5.

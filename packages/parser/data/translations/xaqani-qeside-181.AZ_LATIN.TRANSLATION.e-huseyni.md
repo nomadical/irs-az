@@ -28,7 +28,6 @@ Bir əbədi feyz olub dəhrdə adı-sanı.
 Ancaq, onu qorxudan gildə ediblər nihan,
 Bir də ona aşkara çıxmağa imkan hanı?
 Qəlb ayaq döydü hey sinədə fəryad ilə,
-Milli Kitabxana
 
 Tapdaladı aləmi hiddət ilə cövlanı.
 Qəlb səmadən gəlib, yerdə yaranmazdı o,

@@ -39,7 +39,6 @@ Lakin, o gördü əsla ayağa qalxmadım mən,
 Qəzəblə endi yerə, kədərlə qalxdı yerdən.
 Bir əjdaha yatırdı ayağımın altında,
 Buna görə ayağa dura bilmədim onda.
-Milli Kitabxana
 Ayağımın üstünə qoyulmuşdu dəmir dağ,
 Ayağı dağ altında olan qalxar nə sayaq?
 
@@ -78,7 +77,6 @@ Onunçün də səslənib dəmir "ələman" deyir?!
 
 Bu dəmir xalxalımı açmaq istəyən zaman,
 Zınqrov kimi məndən ucaldı nalə, fəğan.
-Milli Kitabxana
 
 Zəifləmiş vücudum bənzər ipək bir telə,
 Bu nazik ipək tel də qüssədən gəlmiş dilə.
@@ -111,7 +109,6 @@ Yağlı, ucuz bir tikə mənimsəmis hər alçaq,
 Mənim tikəm həm arıq, həm də bahadır ancaq.
 Dükanda döş, qabırğa, ürəkdir dəyən gözə,
 İstədiyi tikəni qəssab vermir heç kəsə.
-Milli Kitabxana
 Abır-həya gedincə qorxu qalxır ortadan,
 Nəyin dərdini çəkər sürüsü batmış çoban?
 
@@ -147,4 +144,3 @@ Xilas olum deyə mən, bir qüdrətli hökmdar,
 
 Xaqanini öldürsə şah, onun sarayından,
 Qisasını alar bir şah nişanlı hökmran.
-Milli Kitabxana

@@ -25,7 +25,6 @@ ah, Halım dolandı, düşdüm əcəb iqtidardən!
 Mən binəsibəm əhldən, həm ruzigardən.
 Bir həmdəmim olarsa tapardım rahatlığı,
 Canə gəlib canım bu uzun intizardən.
-Milli Kitabxana
 İndi nə mərdlik, nə vəfadən əsər qalıb,
 Simürğtək yox oldu bizim ruzigardən.
 

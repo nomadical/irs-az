@@ -39,7 +39,6 @@ Göylərə uçsam, rəvadır, mən səmavi bir quşam,
 Cövhərim qiymətlidir, dünyaya zinət vurmuşam.
 Bir oyun qurdum, uduzdum bu cahanı torpağa,
 Hazıram indi o dünyanı qumara qoymağa.
-Milli Kitabxana
 
 Qoysa da şeşxanədə beş hiss, dörd ünsür məni,
 Udmuşam nərd oynayan dünyada hər üç növbəni.
@@ -72,7 +71,6 @@ Sam Zalı atdı, mən aldım, bəslədim, bildim oğul.
 
 Aləmi, Xaqaniyəm, fəth eyləmişsə şöhrətim,
 El bilir, Xaqanilikdən yüksək olmuş hümmətim.
-Milli Kitabxana
 
 Mənsəbi çəkdim dara, gördü fələk, verdi qərar:
 - Naibim ol, ey xətib, burda qılınc, minbər də var.

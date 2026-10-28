@@ -28,7 +28,6 @@ Vurdu al rəngli dona ortada neftdən həşiyə.
 
 Qapımı döydü dünən sübh yeli; - Kimdi? - dedim.
 Söylədi: - Qasidinəm, xoş xəbəri al da, gedim.
-Milli Kitabxana
 Yaz havasıyla səba mənzilimə tez girdi,
 Zülfünün ətrini yarın mənə töhfə verdi.
 

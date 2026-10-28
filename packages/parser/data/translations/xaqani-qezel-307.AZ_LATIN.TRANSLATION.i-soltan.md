@@ -19,7 +19,6 @@ Vəfasızlıq qılıncın kəsir min-min başları,
 Aşiqləri edirsən bir-bir qanına qəltan.
 Döyüşçünün kamanı oxuyla can alantək,
 Sən də oxunla mənim ürəyimdən vurursan.
-Milli Kitabxana
 Bağlayantək qırırsan sən məhəbbət əhdini,
 Söylə, belə olarmı sevgidə əhdü peyman?
 

@@ -22,7 +22,6 @@ Aşiq boyun əyməz belə ehsana.
 
 Eşq çöl quşudur, hər yeri gəzsə,
 Qayıdar can adlı bir biyabana.
-Milli Kitabxana
 Lakin, illər keçdi, bu quş hey gəzir,
 Hələ də qonmayır bir aşiyana.
 

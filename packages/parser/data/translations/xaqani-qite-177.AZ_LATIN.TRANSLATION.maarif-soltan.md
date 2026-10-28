@@ -17,7 +17,6 @@ Hünər sahibləri, ağıllılar da,
 Dərdi-sər içində edir ahü zar.
 Taca baş ağrısız kim əl tapıbdır?
 Harada ilansız xəzinə qalar?
-Milli Kitabxana
 
 Başçılıq bəlasız əldə edilm-əz,
 Döyüşsüz şöhrətə çatmaz bir sərdar.
@@ -52,6 +51,5 @@ Vaxt olar, adamın burnu qanayar.
 Eylə yaradana şükrünü izhar.
 Bil ki, naşükürlük kafura bənzər,
 Ki, müşkün ətrini vurub dağıdar.
-Milli Kitabxana
 
 25.

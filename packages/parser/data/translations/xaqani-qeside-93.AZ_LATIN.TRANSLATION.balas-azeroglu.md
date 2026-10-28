@@ -40,7 +40,6 @@ Yar deyəndə mən, elə fikr etməyin,
 Gördüyüm hər şux cavanı seçmişəm.
 Məndə bu arzu, inan, mənsiz doğub,
 Xurmanı tumsuz zamanı seçmişəm.
-Milli Kitabxana
 
 Yar olmazsa ümid ilə yenə,
 Qəlbə munislik nişanı seçmişəm.
@@ -76,7 +75,6 @@ Təkcə Bilqeysi-zamanı seçmişəm.
 
 Mən təmənnasız, xanımlar şahını,
 Könlümün tək mehribanı seçmişəm.
-Milli Kitabxana
 İsmətəddin şahda Məryəm hökmü var,
 Kandarın cənnət nişanı seçmişəm.
 
@@ -115,7 +113,6 @@ Mənsə bunlardan asanı seçmişəm.
 
 İllər ilə çəkmişəm xeyli əzab,
 Ayrılıqdan mən hamanı seçmişəm.
-Milli Kitabxana
 
 Fil görən dəmdə yuxumda, diksinib,
 Söhbətə Hindustanı seçmişəm.

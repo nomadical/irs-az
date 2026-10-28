@@ -34,6 +34,5 @@ Ancaq ilanın ağzına saldı mənim mədarımı.
 
 Mənə dedi: - Ey Xaqani, abrın-həyan qalmadı heç!
 Göz yaşımdır aparan abır-həya, vüqarımı.
-Milli Kitabxana
 
 33.

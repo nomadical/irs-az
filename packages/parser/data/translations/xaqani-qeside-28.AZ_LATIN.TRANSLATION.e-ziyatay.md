@@ -35,7 +35,6 @@ Qəribədir, şəkər istəsə əgər.
 
 Kökü su içində olan zəfəran,
 Səhərin şehini arzular hər an.
-Milli Kitabxana
 Xaqani mədh etsə onu nə qədər,
 Başı uca olar, iftixar edər.
 
@@ -71,4 +70,3 @@ Ona bundan belə can verərəm mən,
 
 Gümüş, ya daşdakı naxışlar kimi,
 Düşüncə tacıma həkk olmuş ismi.
-Milli Kitabxana

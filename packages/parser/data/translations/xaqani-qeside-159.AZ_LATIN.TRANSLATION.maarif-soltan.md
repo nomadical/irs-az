@@ -19,7 +19,6 @@ Böylə gözəl dilbərə canını qurban elə!
 
 Eşq çölündə gəzib, yaxşı çəmənlik ara,
 Rəxşini, layiq deyil, salma bu otlaqlara.
-Milli Kitabxana
 Küllüyü dövrün deyil əmnü amanlıq bağı,
 Tutma Məsihaya tay gördüyün hər sallağı!
 

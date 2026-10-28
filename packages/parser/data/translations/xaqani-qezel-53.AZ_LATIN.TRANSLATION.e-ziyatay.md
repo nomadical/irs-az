@@ -19,7 +19,6 @@ Salar zülfü halqasına qəlbimdəki halqanı.
 
 Dedi: - Uzun ömür lazım, yetişəsən vəslimə,
 Məmnun etdi məni, ancaq, bu qədər ömür hanı?
-Milli Kitabxana
 
 İndi necə bel bağlayım o dildarın əhdinə?
 Ömür gödək, fələyinsə yoxdur bizə ehsanı.

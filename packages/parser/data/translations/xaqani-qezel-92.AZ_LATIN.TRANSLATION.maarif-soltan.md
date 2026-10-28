@@ -28,7 +28,6 @@ Bir belə dövranda səndən qaçmaq olmaz, bil bunu,
 
 Yox şikayət etməyə haqqı, çəkirsə kim qəmin,
 Çünki hər bir dərdli qəlbə ol qəmindir qəmküsar.
-Milli Kitabxana
 
 Mən bilib xasiyyətin, heç busədən söz açmıram,
 Anlayar bu rəmzimi ol kəs ki, vurmuş şahmar.

@@ -46,7 +46,6 @@ Yer kürəsi titrəyir qızdırmalı qocatək,
 
 Sən dünyanın işini dünya üçün əzab bil,
 Necə qartal lələyi tutdu özünə divan,
-Milli Kitabxana
 
 Fələklərin bəzəyi matəm libası oldu,
 Ulduzların üzünə niqab düşdü qaradan.
@@ -82,7 +81,6 @@ Qayda-qanunu pozub, göyə yüksəldi şeytan.
 
 Öz qızıl silahını çəkmə, ey Günəş, yenə,
 Səncərin qılıncı, bax, qına girdi qəzadan.
-Milli Kitabxana
 
 Ey Müştəri, o əlvan ridanı at başından,
 Məhəmmədi - Yəhyanı boğdu artıq teyləsan.
@@ -118,7 +116,6 @@ Dörd aydan sonra ancaq şərab olar qəradan.
 
 Üzlət səni dünyada səadətə çatdırar,
 Ömrün boyu bağlanan qapıları açarsan.
-Milli Kitabxana
 Üzlətin ver əlidir əqlini zəngin edən,
 Necə bulud varlanar dənizin ehsanından.
 

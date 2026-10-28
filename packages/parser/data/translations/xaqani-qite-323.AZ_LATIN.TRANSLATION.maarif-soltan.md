@@ -41,7 +41,6 @@ Xacə vədə olmadı heç vəfadar,
 Paxıllarda olarmı heç düz ilqar?
 Əgər Xacə su qatdısa aşıma,
 Gətirdisə bir çox bəla başıma,
-Milli Kitabxana
 
 İncitdisə bu qəlbimi, nəhayət,
 Bildim ki, çox yaramazdır o xilqət.

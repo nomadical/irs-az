@@ -40,6 +40,5 @@ Ey xuda, xoşbəxtliyə yoxdur daha məndə güman!
 
 Faydasız "Ya rəb" deməkdən yoxsa, Xaqani, səmər,
 Bəlkə də "Ya rəb"bi qoymuş kölgədə ahü fəğan!
-Milli Kitabxana
 
 28.

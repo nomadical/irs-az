@@ -22,7 +22,6 @@ O dar yolda ki, yoxdur bir nəfəs də çəkməyə imkan.
 
 Sənin eşqin olan qəlbə sığışmaz bir də can eşqi,
 İki Rüstəm olan meydanda bir Rəxş eyləməz cövlan.
-Milli Kitabxana
 Məni qəmzə oxunla öldürüb, sonra saçın yoldun.
 Nə öldür sən, nə də saç yol, bu nə matəmdir, ey canan?
 

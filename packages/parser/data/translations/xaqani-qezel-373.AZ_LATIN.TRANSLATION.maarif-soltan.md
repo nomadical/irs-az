@@ -25,5 +25,4 @@ Bundan belə aldatma məni küfrlə, dinlə!
 Xaqaniyə həm küfr, həm iman sən olarsan.
 Xaqani nədir? Gəlsən əgər, ey gözü şəhla!
 Əlbəttə ki, Xaqaniyə xaqan sən olarsan.
-Milli Kitabxana
 48.
