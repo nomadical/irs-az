@@ -2493,5 +2493,36 @@
     },
     "skipSources": ["azerall-yalan-2-z4", "azerall-yalan-2-z13"],
     "collections": []
+  },
+  {
+    "slug": "ordubadi",
+    "nameAz": "Məmməd Səid Ordubadi",
+    "nameRu": "Мамед Саид Ордубади",
+    "nameEn": "Mammed Said Ordubadi",
+    "type": "WRITER",
+    "period": "XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "AZ_LATIN"
+    ],
+    "wikipedia": {
+      "az": "Məmməd Səid Ordubadi",
+      "ru": "Ордубади, Мамед Саид",
+      "en": "Mammed Said Ordubadi"
+    },
+    "transcribed": {
+      "file": "ordubadi-qilinc-ve-qelem.md",
+      "bibid": 8341,
+      "sections": [
+        {
+          "first": "Xərabat",
+          "collection": "ordubadi-qilinc-ve-qelem",
+          "titleAz": "Qılınc və qələm",
+          "genre": "PROSE",
+          "layout": "prose"
+        }
+      ]
+    },
+    "collections": []
   }
 ]
