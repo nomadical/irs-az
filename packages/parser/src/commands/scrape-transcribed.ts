@@ -72,22 +72,21 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
   .action((opts: { author: string; dryRun?: boolean }) => {
     const cfg = (JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'config/authors.json'), 'utf-8')) as AuthorConfig[])
       .find((a) => a.slug === opts.author);
-    const book = cfg?.transcribed;
-    if (!cfg || !book) {
+    if (!cfg?.transcribed) {
       console.error(`No transcribed config for "${opts.author}"`);
       process.exit(1);
     }
-    const works = readTranscription(fs.readFileSync(path.join(DATA_DIR, 'proofread', book.file), 'utf-8'));
-    for (const s of book.sections) if (!works.some((w) => w.title === s.first)) console.warn(`  Section start not found: ${s.first}`);
+    // One book or several (one per volume): slugs and collection order run on across them
+    const books = [cfg.transcribed].flat();
 
     // Slugs the author's works from other sources hold ("Ayrı söhbət" is also a feuilleton in another book)
-    const own = `anl-${book.bibid}-t`;
+    const own = books.map((b) => `anl-${b.bibid}-t`);
     const authorDir = path.join(DATA_DIR, 'works', cfg.slug);
     const taken = fs.existsSync(authorDir) ? fs.readdirSync(authorDir, { recursive: true }) as string[] : [];
     const used = new Set<string>(taken.filter((f) => f.endsWith('.md')).flatMap((f) => {
       const fm = fs.readFileSync(path.join(authorDir, f), 'utf-8').split('\n---\n', 1)[0];
       const slug = fm.match(/^slug: (.+)$/m)?.[1];
-      return slug && !fm.match(/^sourceId: (.+)$/m)?.[1].startsWith(own) ? [slug] : [];
+      return slug && !own.some((o) => fm.match(/^sourceId: (.+)$/m)?.[1].startsWith(o)) ? [slug] : [];
     }));
     const unique = (base: string) => {
       let slug = base;
@@ -104,7 +103,7 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
       console.log(`  ${slug}  ${titleAz}`);
       if (!opts.dryRun) writeCollectionMd({ slug, titleAz, authorSlug: cfg.slug, genre, originalLang: 'AZ_LATIN', order: ++collOrder, status: 'DRAFT' });
     };
-    const write = (slug: string, sourceId: string, titleAz: string, coll: string, genre: Genre, spread: number, body: string, year?: number) => {
+    const writeIn = (book: { bibid: number }) => (slug: string, sourceId: string, titleAz: string, coll: string, genre: Genre, spread: number, body: string, year?: number) => {
       const n = (order.get(coll) ?? 0) + 1;
       order.set(coll, n);
       console.log(`    ${slug}  (${body.length} chars)`);
@@ -114,6 +113,11 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
       }, body);
     };
 
+    for (const book of books) {
+    const works = readTranscription(fs.readFileSync(path.join(DATA_DIR, 'proofread', book.file), 'utf-8'));
+    for (const s of book.sections) if (!works.some((w) => w.title === s.first)) console.warn(`  Section start not found: ${s.first}`);
+    const write = writeIn(book);
+    section = undefined;
     for (const s of book.skip ?? []) if (!works.some((w) => w.title === s)) console.warn(`  Skipped work not found: ${s}`);
     works.forEach((w, k) => {
       section = book.sections.find((s) => s.first === w.title) ?? section;
@@ -166,4 +170,5 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
       });
     });
     console.log(`  ${works.length} works`);
+    }
   });

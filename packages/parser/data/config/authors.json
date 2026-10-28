@@ -2524,5 +2524,71 @@
       ]
     },
     "collections": []
+  },
+  {
+    "slug": "suleyman-sani",
+    "nameAz": "Süleyman Sani Axundov",
+    "nameRu": "Сулейман Сани Ахундов",
+    "nameEn": "Suleyman Sani Akhundov",
+    "type": "PLAYWRIGHT",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Süleyman Sani Axundov",
+      "ru": "Ахундов, Сулейман Сани",
+      "en": "Suleyman Sani Akhundov"
+    },
+    "transcribed": [
+      {
+        "file": "suleyman-sani-hekayeler-ve-pyesler.md",
+        "bibid": 8012,
+        "sections": [
+          {
+            "first": "Yuxu",
+            "collection": "suleyman-sani-hekayeler",
+            "titleAz": "Hekayələr",
+            "genre": "PROSE",
+            "layout": "prose"
+          },
+          {
+            "first": "Əhməd və Məleykə",
+            "collection": "suleyman-sani-qorxulu-nagillar",
+            "titleAz": "Qorxulu nağıllar",
+            "genre": "PROSE",
+            "layout": "prose"
+          },
+          {
+            "first": "Uşaqlıq həyatımdan xatirələr",
+            "collection": "suleyman-sani-xatireler",
+            "titleAz": "Xatirələr",
+            "genre": "PROSE",
+            "layout": "prose"
+          },
+          {
+            "first": "Tamahkar",
+            "collection": "suleyman-sani-pyesler",
+            "titleAz": "Pyeslər",
+            "genre": "PLAY",
+            "layout": "play"
+          }
+        ]
+      },
+      {
+        "file": "suleyman-sani-eserleri-1936.md",
+        "bibid": 8018,
+        "sections": [
+          {
+            "first": "Türk birliyi",
+            "collection": "suleyman-sani-pyesler",
+            "titleAz": "Pyeslər",
+            "genre": "PLAY",
+            "layout": "play"
+          }
+        ]
+      }
+    ],
+    "collections": []
   }
 ]
