@@ -27,6 +27,8 @@ export interface TranscribedBook {
   /** The National Library reader's book id the spreads are numbered in */
   bibid: number;
   sections: TranscribedSection[];
+  /** Works already on the site from another source, left out by title (their numbering is kept) */
+  skip?: string[];
 }
 
 const readerUrl = (bibid: number, page: number) => `http://web2.anl.az:81/read/page.php?bibid=${bibid}&pno=${page}`;
@@ -78,7 +80,15 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
     const works = readTranscription(fs.readFileSync(path.join(DATA_DIR, 'proofread', book.file), 'utf-8'));
     for (const s of book.sections) if (!works.some((w) => w.title === s.first)) console.warn(`  Section start not found: ${s.first}`);
 
-    const used = new Set<string>();
+    // Slugs the author's works from other sources hold ("Ayrı söhbət" is also a feuilleton in another book)
+    const own = `anl-${book.bibid}-t`;
+    const authorDir = path.join(DATA_DIR, 'works', cfg.slug);
+    const taken = fs.existsSync(authorDir) ? fs.readdirSync(authorDir, { recursive: true }) as string[] : [];
+    const used = new Set<string>(taken.filter((f) => f.endsWith('.md')).flatMap((f) => {
+      const fm = fs.readFileSync(path.join(authorDir, f), 'utf-8').split('\n---\n', 1)[0];
+      const slug = fm.match(/^slug: (.+)$/m)?.[1];
+      return slug && !fm.match(/^sourceId: (.+)$/m)?.[1].startsWith(own) ? [slug] : [];
+    }));
     const unique = (base: string) => {
       let slug = base;
       for (let n = 2; used.has(slug); n++) slug = `${base}-${n}`;
@@ -104,9 +114,11 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
       }, body);
     };
 
+    for (const s of book.skip ?? []) if (!works.some((w) => w.title === s)) console.warn(`  Skipped work not found: ${s}`);
     works.forEach((w, k) => {
       section = book.sections.find((s) => s.first === w.title) ?? section;
       if (!section) { console.warn(`  Before any section, left out: ${w.title}`); return; }
+      if (book.skip?.includes(w.title)) { console.log(`    (skipped: ${w.title})`); return; }
       // The date printed under a work's end ("*1890*", "*1898-1900*") is its year
       const dated = w.body.match(/\n\*(\d{4})(?:\s*[-–]\s*\d{2,4})?\*$/);
       const year = dated ? Number(dated[1]) : undefined;

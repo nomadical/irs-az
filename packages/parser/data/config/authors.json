@@ -1931,7 +1931,9 @@
     "skipSources": [
       "wikisource-az-33049",
       "wikisource-az-2054",
-      "wikisource-az-18609"
+      "wikisource-az-18609",
+      "wikisource-az-29596",
+      "wikisource-az-29597"
     ],
     "reprint": {
       "volumes": [
@@ -1957,6 +1959,45 @@
             "Lüğət"
           ]
         }
+      ]
+    },
+    "transcribed": {
+      "file": "hacibeyov-secilmis-eserleri-1.md",
+      "bibid": 8469,
+      "sections": [
+        {
+          "first": "Harun və Leyla",
+          "collection": "hacibeyov-operalar",
+          "titleAz": "Operalar",
+          "genre": "PLAY",
+          "layout": "play"
+        },
+        {
+          "first": "Ər və arvad",
+          "collection": "hacibeyov-musiqili-komediyalar",
+          "titleAz": "Musiqili komediyalar",
+          "genre": "PLAY",
+          "layout": "play"
+        },
+        {
+          "first": "Pristav ağa",
+          "collection": "hacibeyov-satirik-hekayeler",
+          "titleAz": "Satirik hekayələr",
+          "genre": "PROSE",
+          "layout": "prose"
+        },
+        {
+          "first": "Kələkbazlar",
+          "collection": "hacibeyov-sehnecikler",
+          "titleAz": "Səhnəciklər",
+          "genre": "PLAY",
+          "layout": "prose"
+        }
+      ],
+      "skip": [
+        "Bir dəlinin dəftərindən",
+        "Keçmişdə və indi",
+        "Dinmə ver pulu"
       ]
     },
     "collections": []

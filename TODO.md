@@ -33,7 +33,7 @@ Next batch (az.wikisource author pages; counts are linked pages that exist, unch
 - [x] Xəstə Qasım — XVIII, AZ — wikisource, 81 poems (one page is Molla Qasım's, the dastan page is red)
 - [x] Firidun bəy Köçərli — XX, AZ criticism — wikisource, 35 articles and 61 chapters of Azərbaycan ədəbiyyatı (vol. II is only partly on wikisource)
 - [x] Fatma xanım Kəminə — XIX, AZ — wikisource, 18 ghazals and a qoşma
-- [x] Üzeyir Hacıbəyov — XX, AZ librettos + satire — wikisource, 2 comedies, 5 libretti (Rüstəm və Söhrab: act I only), 10 articles and sketches, Milli marş; plus 203 feuilletons and 12 articles from the 2005 reprint (8488)
+- [x] Üzeyir Hacıbəyov — XX, AZ librettos + satire — wikisource, 2 comedies, 5 libretti (Rüstəm və Söhrab now in full from 8469), 10 articles and sketches, Milli marş; plus 203 feuilletons and 12 articles from the 2005 reprint (8488); vol. I (8469, image-only, transcribed): Harun və Leyla, Rüstəm və Söhrab in full, Ər və arvad, 17 satirical stories, 15 scenes
 - [x] Mir Möhsün Nəvvab — XIX, AZ + FA — wikisource, 15 poems; Təzkireyi-Nəvvab skipped (2018 translation by living translators)
 - [x] Qövsi Təbrizi — XVII, AZ — wikisource, 13 ghazals and 2 other poems
 - [x] Nəriman Nərimanov (29: 4 plays, stories, feuilletons, letters), Əli bəy Hüseynzadə (10 poems), Heyran xanım (9), Mirzə Ələsgər Növrəs (6), Kişvəri (8) — wikisource
@@ -48,7 +48,7 @@ Now eligible under the Soviet-era and Iranian Azerbaijani exceptions:
 - [x] Şəhriyar — ganjoor: Heydərbabaya salam (both parts; Sarvatian's interleaved Persian translation dropped), 30 Azerbaijani poems, 162 Persian ghazals
 - [x] Əliağa Vahid — 631 works typed from the 2005 Seçilmiş əsərləri page images (anl 8376): 499 ghazals, 131 poems and satires, Mollaxana; plus his 13 Xaqani translations on wikisource are AZ translations of Xaqani's ghazals (13, 31, 47, 70, 107, 121, 195, 204, 238, 239, 241, 332, 341), matched by hand; he has only one poem of his own there
 - [x] Abdulla Şaiq — 357 works from the National Library's PDFs of the 2005 Avrasiya Press reprint (3 vols): stories, Xasay, the novels, poems, ghazals, poemas, plays in acts, children's verse, tales and fables (`scrape-reprint`)
-- [ ] Other authors in the 2004–2005 Latin-script state reprints on web2.anl.az: `scrape-reprint` reads both text-layer kinds. Done: Axundzadə vols. I–III (8291, 8293; 8296: 121 letters and papers). Image-only (needs transcription, as Vəzirov's and Vahid's were): Ordubadi *Qılınc və qələm* (8341). Done since: Səhhət, Seyid Əzim's Rəbiül-ətfal and vol. I (8437: 307 ghazals, 91 rubais, 104 other poems), Cavid 8440, Hacıbəyli 8488. Other works volumes in the 7800–9000 bibid range: Hadi 8283, Hacıbəyli 8469 (image-only), Cabbarlı 8239/8240, Zakir 8230, Süleyman Sani Axundov 8012/8018/8023 (low-res Cyrillic scans)
+- [ ] Other authors in the 2004–2005 Latin-script state reprints on web2.anl.az: `scrape-reprint` reads both text-layer kinds. Done: Axundzadə vols. I–III (8291, 8293; 8296: 121 letters and papers). Image-only (needs transcription, as Vəzirov's and Vahid's were): Ordubadi *Qılınc və qələm* (8341). Done since: Səhhət, Seyid Əzim's Rəbiül-ətfal and vol. I (8437: 307 ghazals, 91 rubais, 104 other poems), Cavid 8440, Hacıbəyli 8488 and 8469 (transcribed). Other works volumes in the 7800–9000 bibid range: Hadi 8283, Cabbarlı 8239/8240, Zakir 8230, Süleyman Sani Axundov 8012/8018/8023 (low-res Cyrillic scans)
 - And later Soviet-era authors
 
 ## Later
