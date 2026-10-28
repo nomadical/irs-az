@@ -114,6 +114,7 @@ export const GANJOOR_COLLECTION_TITLES: Record<string, Titles> = {
   'divan-fa-qasida': { az: 'Fars dilində divan: qəsidələr', ru: 'Персидский диван: касыды', en: 'Persian Divan: Qasidas' },
   'divan-fa-qite': { az: 'Fars dilində divan: qitələr', ru: 'Персидский диван: кыты', en: "Persian Divan: Qit'as" },
   'divan-fa-rubai': { az: 'Fars dilində divan: rübailər', ru: 'Персидский диван: рубаи', en: 'Persian Divan: Rubais' },
+  'divan-fa-elaveler': { az: 'Fars dilində divan: əlavələr', ru: 'Персидский диван: дополнения', en: 'Persian Divan: Addenda' },
   saqiname: { az: 'Saqinamə', ru: 'Саки-наме', en: 'Saqi-nama' },
   mahsati: { az: 'Divan', ru: 'Диван', en: 'Divan' },
   nasimi: { az: 'Fars dilində divan', ru: 'Персидский диван', en: 'Persian Divan' },

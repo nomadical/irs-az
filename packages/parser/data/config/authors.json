@@ -83,8 +83,18 @@
           "catUrl": "/fozooli/saghiname",
           "collectionSlug": "saqiname",
           "form": "MASNAVI"
+        },
+        {
+          "catUrl": "/fozooli/divan/ezafat",
+          "collectionSlug": "divan-fa-elaveler",
+          "form": "OTHER"
         }
-      ]
+      ],
+      "titlesAz": {
+        "ganjoor-117271": "Tərkibbənd",
+        "ganjoor-117272": "Müsəbbe",
+        "ganjoor-117273": "Müsəddəs"
+      }
     },
     "collections": [
       {
