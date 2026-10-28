@@ -2478,5 +2478,20 @@
       "az": "Ağabəyim ağa Cavanşir"
     },
     "collections": []
+  },
+  {
+    "slug": "punhan",
+    "nameAz": "Baba Pünhan",
+    "nameRu": "Баба Пюнхан",
+    "nameEn": "Baba Punhan",
+    "type": "POET",
+    "period": "XX-XXI əsr",
+    "writingLangs": ["AZ_LATIN"],
+    "wikipedia": {
+      "az": "Baba Pünhan",
+      "en": "Baba Punhan"
+    },
+    "skipSources": ["azerall-yalan-2-z4", "azerall-yalan-2-z13"],
+    "collections": []
   }
 ]

@@ -14,6 +14,7 @@ import { scrapeReprintCommand } from './commands/scrape-reprint';
 import { scrapeTranscribedCommand } from './commands/scrape-transcribed';
 import { tagWorksCommand } from './commands/tag-works';
 import { scrapeBookCommand } from './commands/scrape-book';
+import { scrapePunhanCommand } from './commands/scrape-punhan';
 
 const program = new Command()
   .name('irs-parser')
@@ -35,5 +36,6 @@ program.addCommand(scrapeReprintCommand);
 program.addCommand(scrapeTranscribedCommand);
 program.addCommand(tagWorksCommand);
 program.addCommand(scrapeBookCommand);
+program.addCommand(scrapePunhanCommand);
 
 program.parse();
