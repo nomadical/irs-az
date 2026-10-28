@@ -8,7 +8,9 @@ WORKDIR /repo
 FROM base AS build
 COPY package.json pnpm-lock.yaml pnpm-workspace.yaml ./
 COPY apps/api/package.json apps/api/
-RUN pnpm install --frozen-lockfile --filter @irs-az/api
+COPY packages/shared/package.json packages/shared/
+RUN pnpm install --frozen-lockfile --filter @irs-az/api...
+COPY packages/shared packages/shared
 COPY apps/api apps/api
 RUN pnpm --filter @irs-az/api exec prisma generate \
   && pnpm --filter @irs-az/api build \

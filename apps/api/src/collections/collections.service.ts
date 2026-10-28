@@ -13,7 +13,7 @@ export class CollectionsService {
       where: { slug, status: 'PUBLISHED' },
       include: {
         author: {
-          select: { slug: true, nameAz: true, nameRu: true },
+          select: { slug: true, nameAz: true, nameRu: true, bornYear: true, diedYear: true, period: true },
         },
         works: {
           where: { status: 'PUBLISHED' },

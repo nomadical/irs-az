@@ -14,6 +14,7 @@ import { BlogModule } from './blog/blog.module';
 import { UploadModule } from './upload/upload.module';
 import { SitemapModule } from './sitemap/sitemap.module';
 import { TagsModule } from './tags/tags.module';
+import { DownloadsModule } from './downloads/downloads.module';
 
 @Module({
   imports: [
@@ -33,6 +34,7 @@ import { TagsModule } from './tags/tags.module';
     BlogModule,
     UploadModule,
     SitemapModule,
+    DownloadsModule,
   ],
 })
 export class AppModule {}

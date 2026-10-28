@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "nest start --watch",
-    "build": "nest build",
+    "dev": "pnpm --filter @irs-az/shared build && nest start --watch",
+    "build": "pnpm --filter @irs-az/shared build && nest build",
     "start": "node dist/main",
     "start:prod": "node dist/main",
     "lint": "eslint \"{src,test}/**/*.ts\"",
@@ -22,6 +22,7 @@
     "@nestjs/platform-express": "^11.0.0",
     "@nestjs/swagger": "^11.0.0",
     "@nestjs/throttler": "^6.7.1",
+    "@irs-az/shared": "workspace:*",
     "@prisma/client": "^6.0.0",
     "bcryptjs": "^3.0.3",
     "class-transformer": "^0.5.1",

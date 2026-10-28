@@ -2416,6 +2416,59 @@ a.gallery-coll:hover { text-decoration: underline; }
 }
 @media (pointer: coarse) { .share-btn { width: 2.75rem; height: 2.75rem; } }
 
+/* ── Download (public-domain authors only) ──────────────────── */
+.download-bar {
+  display:         flex;
+  flex-wrap:       wrap;
+  align-items:     center;
+  justify-content: center;
+  gap:             0.4rem;
+  margin:          1rem auto 2.25rem;
+}
+.share-bar + .download-bar { margin-top: -1.25rem; }
+.download-bar--start .download-bar { justify-content: flex-start; margin: 1.25rem 0 0; }
+.download-label {
+  font-family:    var(--font-ui);
+  font-size:      0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color:          var(--muted);
+  margin-inline-end: 0.25rem;
+}
+.download-btn {
+  display:         inline-flex;
+  align-items:     center;
+  gap:             0.35rem;
+  min-height:      2.25rem;
+  padding:         0 0.75rem;
+  font-family:     var(--font-ui);
+  font-size:       0.8rem;
+  font-weight:     500;
+  letter-spacing:  0.06em;
+  border:          1px solid var(--control);
+  border-radius:   var(--radius);
+  background:      var(--surf);
+  color:           var(--ink);
+  text-decoration: none;
+  transition:      background 0.12s, color 0.12s, border-color 0.12s;
+}
+.download-btn:hover {
+  background:   var(--ink);
+  border-color: var(--ink);
+  color:        var(--bg);
+}
+.download-btn:focus-visible { outline: 2px solid var(--pomeg); outline-offset: 2px; }
+.download-note {
+  flex-basis:  100%;
+  text-align:  center;
+  font-family: var(--font-ui);
+  font-size:   0.75rem;
+  color:       var(--muted);
+}
+.download-bar--start .download-note { text-align: start; }
+@media (pointer: coarse) { .download-btn { min-height: 2.75rem; } }
+@media print { .download-bar { display: none !important; } }
+
 /* Shown only on paper: where the printed text came from */
 .print-source { display: none; }
 

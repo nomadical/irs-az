@@ -18,7 +18,8 @@
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
     "paths": {
-      "@/*": ["src/*"]
+      "@/*": ["src/*"],
+      "@irs-az/shared": ["../../packages/shared/dist/index.d.ts"]
     }
   },
   "include": ["src/**/*"],

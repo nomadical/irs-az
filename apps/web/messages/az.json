@@ -102,6 +102,15 @@
     "copy_failed": "Kopyalamaq alınmadı",
     "print": "Çap et"
   },
+  "download": {
+    "label": "Yüklə",
+    "epub": "EPUB — elektron kitab",
+    "txt": "TXT — sadə mətn",
+    "note": "Orijinal mətn · ictimai mülkiyyət",
+    "work": "Bu əsəri yüklə",
+    "collection": "Kitabı yüklə",
+    "author": "Bütün əsərləri yüklə"
+  },
   "tags": {
     "title": "Mövzular",
     "index_description": "IRS.AZ-dakı əsərlər mövzuya, əhvala, həcmə və dövrə görə.",

@@ -7,6 +7,11 @@ const PUBLIC_API_URL = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000
 const API_URL =
   typeof window === 'undefined' ? process.env.API_URL ?? PUBLIC_API_URL : PUBLIC_API_URL;
 
+/** Link to an EPUB/TXT download (the browser fetches it straight from the public API) */
+export function downloadUrl(path: string, format: 'epub' | 'txt') {
+  return `${PUBLIC_API_URL}${path}/download?format=${format}`;
+}
+
 export class ApiError extends Error {
   constructor(message: string, public status: number) {
     super(message);

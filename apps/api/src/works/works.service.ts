@@ -201,6 +201,10 @@ export class WorksService {
             nameRu: true,
             nameEn: true,
             portraitUrl: true,
+            // Decide whether downloads are offered (isPublicDomain)
+            bornYear: true,
+            diedYear: true,
+            period: true,
           },
         },
         collection: {

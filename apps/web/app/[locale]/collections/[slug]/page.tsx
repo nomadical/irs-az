@@ -4,6 +4,7 @@ import { localized } from '@/lib/locale';
 import { pageMetadata } from '@/lib/seo';
 import Link from 'next/link';
 import { ArtworkGallery } from '@/components/artworks/ArtworkGallery';
+import { DownloadBar } from '@/components/reading/DownloadBar';
 
 export const dynamic = 'force-dynamic';
 
@@ -65,6 +66,12 @@ export default async function CollectionPage({ params }: Props) {
         {` · ${collection.works.length} `}
         {locale === 'ru' ? 'произв.' : locale === 'en' ? 'works' : 'əsər'}
       </p>
+
+      {collection.works.length > 0 && (
+        <div className="download-bar--start">
+          <DownloadBar path={`/collections/${encodeURIComponent(slug)}`} author={collection.author} locale={locale} kind="collection" />
+        </div>
+      )}
 
       <ArtworkGallery artworks={collection.artworks ?? []} locale={locale} initial={6} />
 

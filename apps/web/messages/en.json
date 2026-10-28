@@ -102,6 +102,15 @@
     "copy_failed": "Couldn't copy the link",
     "print": "Print"
   },
+  "download": {
+    "label": "Download",
+    "epub": "EPUB — e-book",
+    "txt": "TXT — plain text",
+    "note": "Original text · public domain",
+    "work": "Download this work",
+    "collection": "Download the book",
+    "author": "Download complete works"
+  },
   "tags": {
     "title": "Themes",
     "index_description": "Works on IRS.AZ by theme, mood, length and era.",

@@ -10,6 +10,7 @@ import { WorkCard } from '@/components/works/WorkCard';
 import { TagPills } from '@/components/works/TagPills';
 import { RefreshIcon } from '@/components/ui/RefreshIcon';
 import { ShareBar } from '@/components/reading/ShareBar';
+import { DownloadBar } from '@/components/reading/DownloadBar';
 import { getTranslations } from 'next-intl/server';
 import {
   displayTitle,
@@ -212,6 +213,7 @@ export default async function WorkPage({ params }: Props) {
         url={`${SITE_URL}/${locale}/works/${slug}`}
         text={`${heading} — ${authorName}`}
       />
+      <DownloadBar path={`/works/${encodeURIComponent(slug)}`} author={work.author} locale={locale} kind="work" />
       <p className="print-source">IRS.AZ · {`${SITE_URL}/${locale}/works/${slug}`}</p>
 
       {(nav.prev || nav.next) && (

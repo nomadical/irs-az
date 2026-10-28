@@ -5,6 +5,7 @@ import { excerpt, pageMetadata, SITE_URL } from '@/lib/seo';
 import Link from 'next/link';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { ArtworkGallery } from '@/components/artworks/ArtworkGallery';
+import { DownloadBar } from '@/components/reading/DownloadBar';
 
 export const dynamic = 'force-dynamic';
 
@@ -146,6 +147,12 @@ export default async function AuthorPage({ params }: Props) {
               className="author-bio"
               dangerouslySetInnerHTML={{ __html: bio }}
             />
+          )}
+
+          {(author.works?.length > 0 || author.collections?.some((c: any) => c.works?.length > 0)) && (
+            <div className="download-bar--start">
+              <DownloadBar path={`/authors/${encodeURIComponent(slug)}`} author={author} locale={locale} kind="author" />
+            </div>
           )}
         </div>
       </div>
