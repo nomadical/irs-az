@@ -2,6 +2,7 @@
 slug: punhan-lutun-biridir
 sourceId: azerall-dedim-2-z20
 titleAz: Lütün biridir
+titleRu: «Массовик»
 authorSlug: punhan
 collectionSlug: punhan-men-ne-dedim-ki
 originalLang: AZ_LATIN

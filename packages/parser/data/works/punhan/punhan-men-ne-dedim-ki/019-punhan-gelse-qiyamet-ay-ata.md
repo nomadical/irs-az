@@ -2,6 +2,7 @@
 slug: punhan-gelse-qiyamet-ay-ata
 sourceId: azerall-dedim-2-z19
 titleAz: 'Gəlsə qiyamət, ay ata'
+titleRu: Побойся Бога, папа…
 authorSlug: punhan
 collectionSlug: punhan-men-ne-dedim-ki
 originalLang: AZ_LATIN
