@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 169
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh169'
+previousSlugs:
+  - mahsati-rubailer-191
+  - ganjoor-50251
 status: DRAFT
 ---
 با روی چو نوبهار و با خوی دئی

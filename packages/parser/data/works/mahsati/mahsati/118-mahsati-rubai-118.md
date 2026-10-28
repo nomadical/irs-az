@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 118
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh118'
+previousSlugs:
+  - mahsati-rubailer-136
+  - ganjoor-50196
 status: DRAFT
 ---
 زرد است ز عشق خاک‌بیزی رویم

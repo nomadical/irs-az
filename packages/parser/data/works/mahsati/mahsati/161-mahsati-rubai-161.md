@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 161
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh161'
+previousSlugs:
+  - mahsati-rubailer-175
+  - ganjoor-50235
 status: DRAFT
 ---
 مضراب ز زلف و نی ز قامت سازی

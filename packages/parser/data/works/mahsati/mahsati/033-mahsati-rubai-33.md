@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 33
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh33'
+previousSlugs:
+  - mahsati-rubailer-32
+  - ganjoor-50092
 status: DRAFT
 ---
 در آتش دل پریر بودم به نهفت

@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 138
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh138'
+previousSlugs:
+  - mahsati-rubailer-161
+  - ganjoor-50221
 status: DRAFT
 ---
 معشوقه لطیف و چست و بازاری به

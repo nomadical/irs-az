@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 111
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh111'
+previousSlugs:
+  - mahsati-rubailer-123
+  - ganjoor-50183
 status: DRAFT
 ---
 لعل تو مکیدن آرزو می‌کردم

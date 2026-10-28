@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 4
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh4'
+previousSlugs:
+  - mahsati-rubailer-2
+  - ganjoor-50062
 status: DRAFT
 ---
 حمامی را بگو گرت هست صواب

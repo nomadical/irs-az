@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 21
 sourceNote: 'https://ganjoor.net/mahsati/robmah/sh21'
+previousSlugs:
+  - mahsati-rubai-31
+  - ganjoor-133755
 status: DRAFT
 ---
 آن بت که رخش رشک گل و یاسمن است

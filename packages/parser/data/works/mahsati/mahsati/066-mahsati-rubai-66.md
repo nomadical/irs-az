@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 66
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh66'
+previousSlugs:
+  - mahsati-rubailer-63
+  - ganjoor-50123
 status: DRAFT
 ---
 سرمایه روزگارم از دست بشد

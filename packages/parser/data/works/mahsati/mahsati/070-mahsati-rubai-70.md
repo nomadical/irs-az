@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 70
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh70'
+previousSlugs:
+  - mahsati-rubailer-67
+  - ganjoor-50127
 status: DRAFT
 ---
 ایام بر آنست که تا بتواند

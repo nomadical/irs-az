@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 160
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh160'
+previousSlugs:
+  - mahsati-rubailer-169
+  - ganjoor-50229
 status: DRAFT
 ---
 زلف و رخ خود به هم برابر کردی

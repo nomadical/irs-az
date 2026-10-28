@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 79
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh79'
+previousSlugs:
+  - mahsati-rubailer-74
+  - ganjoor-50134
 status: DRAFT
 ---
 بس جور کز آن غمزهٔ زیبات کشند

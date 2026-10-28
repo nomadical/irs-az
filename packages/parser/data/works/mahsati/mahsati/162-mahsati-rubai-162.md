@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 162
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh162'
+previousSlugs:
+  - mahsati-rubailer-177
+  - ganjoor-50237
 status: DRAFT
 ---
 در سنگ اگر شوی چو پار ای ساقی

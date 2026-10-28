@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 86
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh86'
+previousSlugs:
+  - mahsati-rubailer-97
+  - ganjoor-50157
 status: DRAFT
 ---
 آهیخت پریر، لاله ز آتش خنجر

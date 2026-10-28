@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 137
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh137'
+previousSlugs:
+  - mahsati-rubailer-157
+  - ganjoor-50217
 status: DRAFT
 ---
 روز ازل آمدم نشان غم تو

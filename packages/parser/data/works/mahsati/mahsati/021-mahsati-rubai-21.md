@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 21
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh21'
+previousSlugs:
+  - mahsati-rubailer-34
+  - ganjoor-50094
 status: DRAFT
 ---
 ما را به دم پیر نگه نتوان داشت

@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 113
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh113'
+previousSlugs:
+  - mahsati-rubailer-129
+  - ganjoor-50189
 status: DRAFT
 ---
 در کوی خرابات یکی درویشم

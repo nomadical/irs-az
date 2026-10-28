@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 129
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh129'
+previousSlugs:
+  - mahsati-rubailer-137
+  - ganjoor-50197
 status: DRAFT
 ---
 زلفین تو سی زنگی و هر سی مستان

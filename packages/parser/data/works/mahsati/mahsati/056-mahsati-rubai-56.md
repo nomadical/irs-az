@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 56
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh56'
+previousSlugs:
+  - mahsati-rubailer-73
+  - ganjoor-50133
 status: DRAFT
 ---
 شاهان چو به روزِ بزم ساغر گیرند

@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 151
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh151'
+previousSlugs:
+  - mahsati-rubailer-171
+  - ganjoor-50231
 status: DRAFT
 ---
 خندان به دو رخ، گلِ بدیع آوردی

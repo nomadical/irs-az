@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 125
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh125'
+previousSlugs:
+  - mahsati-rubailer-140
+  - ganjoor-50200
 status: DRAFT
 ---
 قلاش و قلندران و عاشق بودن

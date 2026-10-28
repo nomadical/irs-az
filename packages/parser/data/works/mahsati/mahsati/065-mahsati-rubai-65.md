@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 65
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh65'
+previousSlugs:
+  - mahsati-rubailer-70
+  - ganjoor-50130
 status: DRAFT
 ---
 پیوسته خرابات ز رندان خَوش باد

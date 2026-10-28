@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 119
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh119'
+previousSlugs:
+  - mahsati-rubailer-128
+  - ganjoor-50188
 status: DRAFT
 ---
 قصاب منی و در غمت می‌جوشم

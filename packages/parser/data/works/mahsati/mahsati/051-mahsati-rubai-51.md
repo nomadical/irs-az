@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 51
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh51'
+previousSlugs:
+  - mahsati-rubailer-48
+  - ganjoor-50108
 status: DRAFT
 ---
 چشمم چو بر آن عارض گلگون افتاد

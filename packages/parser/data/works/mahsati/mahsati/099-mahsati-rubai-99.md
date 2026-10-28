@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 99
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh99'
+previousSlugs:
+  - mahsati-rubailer-114
+  - ganjoor-50174
 status: DRAFT
 ---
 من «مَهْسَتی‌اَم» از همه خوبان شده طاق

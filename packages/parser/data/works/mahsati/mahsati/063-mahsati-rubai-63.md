@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 63
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh63'
+previousSlugs:
+  - mahsati-rubailer-47
+  - ganjoor-50107
 status: DRAFT
 ---
 ای باد که جان فدای پیغام تو باد

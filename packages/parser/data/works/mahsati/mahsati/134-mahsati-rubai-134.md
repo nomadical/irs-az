@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 134
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh134'
+previousSlugs:
+  - mahsati-rubailer-141
+  - ganjoor-50201
 status: DRAFT
 ---
 دی خوش پسری بدیدم اندر «زوزن»

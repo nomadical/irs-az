@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 157
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh157'
+previousSlugs:
+  - mahsati-rubailer-176
+  - ganjoor-50236
 status: DRAFT
 ---
 چون خاک زمین اگر عنان کش باشی

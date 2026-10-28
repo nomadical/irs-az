@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 88
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh88'
+previousSlugs:
+  - mahsati-rubailer-98
+  - ganjoor-50158
 status: DRAFT
 ---
 زد لاله پریر در نشابور آذر

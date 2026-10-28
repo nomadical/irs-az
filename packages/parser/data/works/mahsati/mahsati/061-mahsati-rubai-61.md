@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 61
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh61'
+previousSlugs:
+  - mahsati-rubailer-78
+  - ganjoor-50138
 status: DRAFT
 ---
 تا سنبل تو غالیه سائی نکند

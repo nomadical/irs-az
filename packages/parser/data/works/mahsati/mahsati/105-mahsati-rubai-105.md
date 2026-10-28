@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 105
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh105'
+previousSlugs:
+  - mahsati-rubailer-121
+  - ganjoor-50181
 status: DRAFT
 ---
 هر جوی که از چهره به ناخن کندم

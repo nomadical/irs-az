@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 46
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh46'
+previousSlugs:
+  - mahsati-rubailer-88
+  - ganjoor-50148
 status: DRAFT
 ---
 چشمم چو به چشم خویش چشم تو بدید

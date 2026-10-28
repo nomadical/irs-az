@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 92
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh92'
+previousSlugs:
+  - mahsati-rubailer-112
+  - ganjoor-50172
 status: DRAFT
 ---
 ای عقرب زلفت زده بر جانم نیش

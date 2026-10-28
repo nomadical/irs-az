@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 114
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh114'
+previousSlugs:
+  - mahsati-rubailer-120
+  - ganjoor-50180
 status: DRAFT
 ---
 برخیز و بیا که حجره پرداخته‌ام

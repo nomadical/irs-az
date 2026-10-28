@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 121
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh121'
+previousSlugs:
+  - mahsati-rubailer-134
+  - ganjoor-50194
 status: DRAFT
 ---
 ما مرد مئیم و در خرابات مقیم

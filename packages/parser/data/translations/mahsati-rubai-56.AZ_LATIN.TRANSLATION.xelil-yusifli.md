@@ -1,5 +1,5 @@
 ---
-workSlug: mahsati-rubailer-73
+workSlug: mahsati-rubai-56
 language: AZ_LATIN
 type: TRANSLATION
 scriptDirection: LTR

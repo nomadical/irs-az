@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 51
 sourceNote: 'https://ganjoor.net/mahsati/robmah/sh51'
+previousSlugs:
+  - mahsati-rubai-81
+  - ganjoor-133805
 status: DRAFT
 ---
 غم با لطف تو شادمانی گردد

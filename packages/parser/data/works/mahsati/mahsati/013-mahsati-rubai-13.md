@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 13
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh13'
+previousSlugs:
+  - mahsati-rubailer-36
+  - ganjoor-50096
 status: DRAFT
 ---
 در عالم عشق تا دلم سلطان گشت

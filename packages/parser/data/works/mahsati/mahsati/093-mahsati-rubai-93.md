@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 93
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh93'
+previousSlugs:
+  - mahsati-rubailer-108
+  - ganjoor-50168
 status: DRAFT
 ---
 آن تازه گلم من که نباشد خارش

@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 48
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh48'
+previousSlugs:
+  - mahsati-rubailer-82
+  - ganjoor-50142
 status: DRAFT
 ---
 در غربت اگرچه بخت همره نبود

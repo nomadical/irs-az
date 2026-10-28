@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 96
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh96'
+previousSlugs:
+  - mahsati-rubailer-113
+  - ganjoor-50173
 status: DRAFT
 ---
 در بستان دوش از غم و شیون خویش

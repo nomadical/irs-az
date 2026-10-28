@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 155
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh155'
+previousSlugs:
+  - mahsati-rubailer-188
+  - ganjoor-50248
 status: DRAFT
 ---
 هر گه که به زلف، عنبرِ تر سایی

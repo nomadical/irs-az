@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 141
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh141'
+previousSlugs:
+  - mahsati-rubailer-166
+  - ganjoor-50226
 status: DRAFT
 ---
 ای شمع رخت را دل من پروانه

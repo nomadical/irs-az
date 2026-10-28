@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 127
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh127'
+previousSlugs:
+  - mahsati-rubailer-147
+  - ganjoor-50207
 status: DRAFT
 ---
 در دام غم تو خسته‌ای نیست چو من

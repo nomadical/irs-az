@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 64
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh64'
+previousSlugs:
+  - mahsati-rubailer-83
+  - ganjoor-50143
 status: DRAFT
 ---
 در دل همه شرک و روی بر خاک چه سود

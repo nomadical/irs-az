@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 17
 sourceNote: 'https://ganjoor.net/mahsati/robmah/sh17'
+previousSlugs:
+  - mahsati-rubai-40
+  - ganjoor-133764
 status: DRAFT
 ---
 ایام چو آتشکده از سینهٔ ماست

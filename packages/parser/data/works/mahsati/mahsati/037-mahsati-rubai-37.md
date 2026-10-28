@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 37
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh37'
+previousSlugs:
+  - mahsati-rubailer-24
+  - ganjoor-50084
 status: DRAFT
 ---
 آن کودک نعلبند و داس اندر دست

@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 72
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh72'
+previousSlugs:
+  - mahsati-rubailer-87
+  - ganjoor-50147
 status: DRAFT
 ---
 اشکم ز دو دیده متصل میآید

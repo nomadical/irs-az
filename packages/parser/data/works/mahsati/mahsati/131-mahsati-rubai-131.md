@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 131
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh131'
+previousSlugs:
+  - mahsati-rubailer-142
+  - ganjoor-50202
 status: DRAFT
 ---
 آن زلف شکسته را ز رخ، یک سو زن

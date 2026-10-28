@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 85
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh85'
+previousSlugs:
+  - mahsati-rubailer-102
+  - ganjoor-50162
 status: DRAFT
 ---
 ای «پور خطیب گنجه» پندی بپذیر

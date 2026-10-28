@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 112
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh112'
+previousSlugs:
+  - mahsati-rubailer-122
+  - ganjoor-50182
 status: DRAFT
 ---
 من عهد تو سخت سست می‌دانستم

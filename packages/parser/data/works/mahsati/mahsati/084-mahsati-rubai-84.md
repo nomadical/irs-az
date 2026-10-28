@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 84
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh84'
+previousSlugs:
+  - mahsati-rubailer-94
+  - ganjoor-50154
 status: DRAFT
 ---
 ای لعل تو تا لاله بستان بهار

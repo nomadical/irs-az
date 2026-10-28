@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 22
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh22'
+previousSlugs:
+  - mahsati-rubailer-35
+  - ganjoor-50095
 status: DRAFT
 ---
 شبها که به ناز با تو خفتم همه رفت

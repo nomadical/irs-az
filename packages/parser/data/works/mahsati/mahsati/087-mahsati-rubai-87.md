@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 87
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh87'
+previousSlugs:
+  - mahsati-rubailer-96
+  - ganjoor-50156
 status: DRAFT
 ---
 نسرین تو زد پریر بر من آذر

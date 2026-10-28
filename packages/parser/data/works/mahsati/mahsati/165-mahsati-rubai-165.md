@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 165
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh165'
+previousSlugs:
+  - mahsati-rubailer-170
+  - ganjoor-50230
 status: DRAFT
 ---
 ای رشته چو قصد لعل کانی کردی

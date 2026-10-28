@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 59
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh59'
+previousSlugs:
+  - mahsati-rubailer-55
+  - ganjoor-50115
 status: DRAFT
 ---
 شاها فلکت اسب سعادت زین کرد

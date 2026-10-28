@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 15
 sourceNote: 'https://ganjoor.net/mahsati/robmah/sh15'
+previousSlugs:
+  - mahsati-rubai-27
+  - ganjoor-133751
 status: DRAFT
 ---
 در میکده پیش بت تحیّات خوش است

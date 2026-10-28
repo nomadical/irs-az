@@ -8,7 +8,7 @@ translatorNote: >-
   Nigar Rəfibəyli tərcüməsi; Məhsəti Gəncəvi, Rübailər, Bakı, «Lider nəşriyyat», 2004
   (1970-ci il nəşri əsasında).
 sourceNote: 'https://anl.az/el/m/mg_r.pdf'
-isDefault: true
+isDefault: false
 status: PUBLISHED
 ---
 Şahlar kef günündə qaldırar badə,

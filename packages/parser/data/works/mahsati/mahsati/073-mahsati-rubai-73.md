@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 73
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh73'
+previousSlugs:
+  - mahsati-rubailer-86
+  - ganjoor-50146
 status: DRAFT
 ---
 زیبا بت کفشگر چو کفش آراید

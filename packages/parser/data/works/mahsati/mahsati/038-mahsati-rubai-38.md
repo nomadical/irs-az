@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 38
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh38'
+previousSlugs:
+  - mahsati-rubailer-26
+  - ganjoor-50086
 status: DRAFT
 ---
 جوله پسری که جان و دل خسته اوست

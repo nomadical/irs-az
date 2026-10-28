@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 89
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh89'
+previousSlugs:
+  - mahsati-rubailer-99
+  - ganjoor-50159
 status: DRAFT
 ---
 چندان بکنم ترا من ای طرفه پسر

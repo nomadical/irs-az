@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 139
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh139'
+previousSlugs:
+  - mahsati-rubailer-160
+  - ganjoor-50220
 status: DRAFT
 ---
 ای روی تو از تازه گل بر بر به

@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 90
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh90'
+previousSlugs:
+  - mahsati-rubailer-105
+  - ganjoor-50165
 status: DRAFT
 ---
 دلدار کله دوز من از روی هوس

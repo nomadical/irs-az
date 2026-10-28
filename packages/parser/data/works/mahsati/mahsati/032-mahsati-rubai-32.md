@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 32
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh32'
+previousSlugs:
+  - mahsati-rubailer-8
+  - ganjoor-50068
 status: DRAFT
 ---
 در مرو پریر لاله آتش انگیخت

@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 136
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh136'
+previousSlugs:
+  - mahsati-rubailer-153
+  - ganjoor-50213
 status: DRAFT
 ---
 عشق است که شیر نر زبون آید از او

@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 158
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh158'
+previousSlugs:
+  - mahsati-rubailer-190
+  - ganjoor-50250
 status: DRAFT
 ---
 هان تا به خرابات مجازی نائی

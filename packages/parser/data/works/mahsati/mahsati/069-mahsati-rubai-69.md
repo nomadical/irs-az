@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 69
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh69'
+previousSlugs:
+  - mahsati-rubailer-71
+  - ganjoor-50131
 status: DRAFT
 ---
 گل ساخت ز شکل غنچه پیکانی چند

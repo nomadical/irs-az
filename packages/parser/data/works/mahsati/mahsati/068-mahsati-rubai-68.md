@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 68
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh68'
+previousSlugs:
+  - mahsati-rubailer-62
+  - ganjoor-50122
 status: DRAFT
 ---
 شاها ز منت مدح و ثنا بس باشد

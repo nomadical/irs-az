@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 72
 sourceNote: 'https://ganjoor.net/mahsati/robmah/sh72'
+previousSlugs:
+  - mahsati-rubai-77
+  - ganjoor-133801
 status: DRAFT
 ---
 شهری زن و مرد در رخت می‌نگرند

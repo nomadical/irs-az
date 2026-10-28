@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 164
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh164'
+previousSlugs:
+  - mahsati-rubailer-180
+  - ganjoor-50240
 status: DRAFT
 ---
 ای تنگ شکر چون دهن تنگت نی

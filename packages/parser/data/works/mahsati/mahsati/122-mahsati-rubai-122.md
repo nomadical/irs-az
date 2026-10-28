@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 122
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh122'
+previousSlugs:
+  - mahsati-rubailer-130
+  - ganjoor-50190
 status: DRAFT
 ---
 چون مرغ ضعیف بی پر و بی بالم

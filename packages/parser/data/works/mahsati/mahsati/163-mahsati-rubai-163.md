@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 163
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh163'
+previousSlugs:
+  - mahsati-rubailer-182
+  - ganjoor-50242
 status: DRAFT
 ---
 در وقت بهار جز لب جوی مجوی

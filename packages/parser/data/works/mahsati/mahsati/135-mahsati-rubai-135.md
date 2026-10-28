@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 135
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh135'
+previousSlugs:
+  - mahsati-rubailer-158
+  - ganjoor-50218
 status: DRAFT
 ---
 مؤذن پسری تازه تر از لاله مرو

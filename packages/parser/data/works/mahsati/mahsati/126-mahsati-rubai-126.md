@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 126
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh126'
+previousSlugs:
+  - mahsati-rubailer-139
+  - ganjoor-50199
 status: DRAFT
 ---
 از ضعف من آنچنان توانم رفتن

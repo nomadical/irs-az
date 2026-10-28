@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 76
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh76'
+previousSlugs:
+  - mahsati-rubailer-84
+  - ganjoor-50144
 status: DRAFT
 ---
 سهمی که مرا دلبر خباز دهد

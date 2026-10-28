@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 91
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh91'
+previousSlugs:
+  - mahsati-rubailer-107
+  - ganjoor-50167
 status: DRAFT
 ---
 در رهگذری فتاده دیدم مستش

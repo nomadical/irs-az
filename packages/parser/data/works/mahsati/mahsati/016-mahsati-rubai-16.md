@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 16
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh16'
+previousSlugs:
+  - mahsati-rubailer-11
+  - ganjoor-50071
 status: DRAFT
 ---
 هنگام صبوح، گر بت حور سرشت

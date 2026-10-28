@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 159
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh159'
+previousSlugs:
+  - mahsati-rubailer-174
+  - ganjoor-50234
 status: DRAFT
 ---
 چون اسب به میدان طرب می‌تازی

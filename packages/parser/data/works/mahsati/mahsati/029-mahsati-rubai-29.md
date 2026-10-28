@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 29
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh29'
+previousSlugs:
+  - mahsati-rubailer-7
+  - ganjoor-50067
 status: DRAFT
 ---
 چون دلبر من بنزد فصّاد نشست

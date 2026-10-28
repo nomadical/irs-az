@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 117
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh117'
+previousSlugs:
+  - mahsati-rubailer-131
+  - ganjoor-50191
 status: DRAFT
 ---
 با ابر همیشه در عتابش بینم

@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 110
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh110'
+previousSlugs:
+  - mahsati-rubailer-132
+  - ganjoor-50192
 status: DRAFT
 ---
 هر شب ز غمت تازه عذابی بینم

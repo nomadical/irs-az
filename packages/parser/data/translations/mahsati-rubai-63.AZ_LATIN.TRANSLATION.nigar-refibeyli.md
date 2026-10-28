@@ -1,5 +1,5 @@
 ---
-workSlug: mahsati-rubailer-47
+workSlug: mahsati-rubai-63
 language: AZ_LATIN
 type: TRANSLATION
 scriptDirection: LTR
@@ -8,7 +8,7 @@ translatorNote: >-
   Nigar Rəfibəyli tərcüməsi; Məhsəti Gəncəvi, Rübailər, Bakı, «Lider nəşriyyat», 2004
   (1970-ci il nəşri əsasında).
 sourceNote: 'https://anl.az/el/m/mg_r.pdf'
-isDefault: true
+isDefault: false
 status: PUBLISHED
 ---
 Olum, sabah yeli, mən sənə qurban,

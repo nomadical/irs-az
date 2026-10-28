@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 10
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh10'
+previousSlugs:
+  - mahsati-rubailer-40
+  - ganjoor-50100
 status: DRAFT
 ---
 در طاس فلک نقش قضا و قدر است

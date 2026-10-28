@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 14
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh14'
+previousSlugs:
+  - mahsati-rubailer-20
+  - ganjoor-50080
 status: DRAFT
 ---
 دریای سرشک دیده پر نم ماست

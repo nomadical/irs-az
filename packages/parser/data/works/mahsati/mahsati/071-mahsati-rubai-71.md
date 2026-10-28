@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 71
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh71'
+previousSlugs:
+  - mahsati-rubailer-57
+  - ganjoor-50117
 status: DRAFT
 ---
 بگذشت پریر باد بر لاله و وَرد

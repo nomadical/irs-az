@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 55
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh55'
+previousSlugs:
+  - mahsati-rubailer-43
+  - ganjoor-50103
 status: DRAFT
 ---
 آنروز که توسن فلک زین کردند

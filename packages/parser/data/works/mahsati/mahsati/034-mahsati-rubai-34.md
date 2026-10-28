@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 34
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh34'
+previousSlugs:
+  - mahsati-rubailer-6
+  - ganjoor-50066
 status: DRAFT
 ---
 لاله چو پریر آتش شور انگیخت

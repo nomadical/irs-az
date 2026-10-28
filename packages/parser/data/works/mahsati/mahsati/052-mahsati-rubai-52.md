@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 52
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh52'
+previousSlugs:
+  - mahsati-rubailer-53
+  - ganjoor-50113
 status: DRAFT
 ---
 جانا نه هر آنکس که دلی خوش دارد

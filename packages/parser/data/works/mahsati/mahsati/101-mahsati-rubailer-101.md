@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 101
 sourceNote: 'https://ganjoor.net/mahsati/robmah/sh101'
+previousSlugs:
+  - mahsati-qite-5
+  - ganjoor-133909
 status: DRAFT
 ---
 باید سه هزار سال کز چشمه‌ خور

@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 140
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh140'
+previousSlugs:
+  - mahsati-rubailer-163
+  - ganjoor-50223
 status: DRAFT
 ---
 اندر دل من ای بت عیار بچه

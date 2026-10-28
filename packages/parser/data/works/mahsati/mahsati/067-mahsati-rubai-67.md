@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 67
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh67'
+previousSlugs:
+  - mahsati-rubailer-91
+  - ganjoor-50151
 status: DRAFT
 ---
 هر گه که دلم فرصت آن دم جوید

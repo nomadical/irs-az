@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 30
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh30'
+previousSlugs:
+  - mahsati-rubailer-4
+  - ganjoor-50064
 status: DRAFT
 ---
 آتش بوزید و جامه شوم بسوخت

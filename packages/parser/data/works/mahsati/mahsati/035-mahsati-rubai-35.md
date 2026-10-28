@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 35
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh35'
+previousSlugs:
+  - mahsati-rubailer-27
+  - ganjoor-50087
 status: DRAFT
 ---
 آتش چو زدی پریر، در ما پیوست

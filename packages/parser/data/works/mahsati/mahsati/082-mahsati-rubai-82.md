@@ -12,6 +12,9 @@ scriptDirection: RTL
 genre: POEM
 order: 82
 sourceNote: 'https://ganjoor.net/mahsati/divan/robaee/sh82'
+previousSlugs:
+  - mahsati-rubailer-85
+  - ganjoor-50145
 status: DRAFT
 ---
 مه بر رخ تو گزیدنم دل ندهد
