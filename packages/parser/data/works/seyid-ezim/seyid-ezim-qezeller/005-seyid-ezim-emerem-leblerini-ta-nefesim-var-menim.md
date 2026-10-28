@@ -8,7 +8,7 @@ originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
 form: GHAZAL
-order: 5
+order: 309
 sourceNote: >-
   https://az.wikisource.org/wiki/%C6%8Fm%C9%99r%C9%99m%20l%C9%99bl%C9%99rini%20ta%20n%C9%99f%C9%99sim%20var%20m%C9%99nim
 status: DRAFT

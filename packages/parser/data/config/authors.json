@@ -713,6 +713,18 @@
             "Tarixi, coğrafi adlar haqqında məlumat",
             "Lüğət"
           ]
+        },
+        {
+          "bibid": 8296,
+          "inOrder": true,
+          "sections": {
+            "MƏKTUBLAR": {
+              "collection": "axundzade-mektublar",
+              "titleAz": "Məktublar",
+              "genre": "LETTER",
+              "layout": "prose"
+            }
+          }
         }
       ]
     },
@@ -1178,7 +1190,23 @@
       "wikisource-az-4385",
       "wikisource-az-4349",
       "wikisource-az-4450",
-      "wikisource-az-4356"
+      "wikisource-az-4356",
+      "wikisource-az-19712",
+      "wikisource-az-19708",
+      "wikisource-az-23545",
+      "wikisource-az-19707",
+      "wikisource-az-19711",
+      "wikisource-az-19706",
+      "wikisource-az-19714",
+      "wikisource-az-19713",
+      "wikisource-az-23544",
+      "wikisource-az-19709",
+      "wikisource-az-23541",
+      "wikisource-az-19717",
+      "wikisource-az-19710",
+      "wikisource-az-23542",
+      "wikisource-az-23543",
+      "wikisource-az-23546"
     ],
     "reprint": {
       "volumes": [
@@ -1195,6 +1223,25 @@
           "skip": [
             "Tarixi, əfsanəvi, dini və coğrafi adlar"
           ]
+        },
+        {
+          "bibid": 8437,
+          "pages": {
+            "Qəzəllər": 34, "Rübailər": 341, "Qoşabeytlər": 357, "Təkbeytlər": 361, "Qitələr": 367,
+            "Tərkibbəndlər": 370, "Müxəmməslər": 380, "Müsəddəs": 390, "Müstəzadlar": 391
+          },
+          "breaks": ["Guş qıl ey ki, bilirsən özüvi vaqifi-kar,"],
+          "sections": {
+            "Qəzəllər": { "collection": "seyid-ezim-qezeller", "titleAz": "Qəzəllər", "genre": "POEM", "form": "GHAZAL", "layout": "verse", "poems": true },
+            "Rübailər": { "collection": "seyid-ezim-rubailer", "titleAz": "Rübailər", "genre": "POEM", "form": "RUBAI", "layout": "verse", "poems": true },
+            "Qoşabeytlər": { "collection": "seyid-ezim-qosabeytler", "titleAz": "Qoşabeytlər", "genre": "POEM", "layout": "verse", "poems": true },
+            "Təkbeytlər": { "collection": "seyid-ezim-tekbeytler", "titleAz": "Təkbeytlər", "genre": "POEM", "layout": "verse", "poems": true },
+            "Qitələr": { "collection": "seyid-ezim-qiteler", "titleAz": "Qitələr", "genre": "POEM", "layout": "verse", "poems": true },
+            "Tərkibbəndlər": { "collection": "seyid-ezim-terkibbendler", "titleAz": "Tərkibbəndlər", "genre": "POEM", "layout": "verse", "poems": true },
+            "Müxəmməslər": { "collection": "seyid-ezim-muxemmesler", "titleAz": "Müxəmməslər", "genre": "POEM", "layout": "verse", "poems": true },
+            "Müsəddəs": { "collection": "seyid-ezim-museddesler", "titleAz": "Müsəddəslər", "genre": "POEM", "layout": "verse", "poems": true },
+            "Müstəzadlar": { "collection": "seyid-ezim-mustezadlar", "titleAz": "Müstəzadlar", "genre": "POEM", "layout": "verse", "poems": true }
+          }
         }
       ]
     },

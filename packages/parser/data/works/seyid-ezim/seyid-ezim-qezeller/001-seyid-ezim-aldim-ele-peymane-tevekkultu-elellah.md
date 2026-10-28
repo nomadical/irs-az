@@ -8,7 +8,7 @@ originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
 form: GHAZAL
-order: 1
+order: 308
 sourceNote: >-
   https://az.wikisource.org/wiki/Ald%C4%B1m%20%C9%99l%C9%99%20peyman%C9%99%2C%20t%C9%99v%C9%99kk%C3%BClt%C3%BC%20%C9%99l%C9%99llah!
 status: DRAFT

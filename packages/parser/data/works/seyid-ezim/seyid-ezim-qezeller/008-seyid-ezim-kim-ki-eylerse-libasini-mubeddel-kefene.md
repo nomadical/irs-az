@@ -8,7 +8,7 @@ originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
 form: GHAZAL
-order: 8
+order: 310
 sourceNote: >-
   https://az.wikisource.org/wiki/Kim%20ki%2C%20eyl%C9%99rs%C9%99%20libasini%20m%C3%BCb%C9%99dd%C9%99l%20k%C9%99f%C9%99n%C9%99
 status: DRAFT

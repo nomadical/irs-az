@@ -267,7 +267,8 @@ function find(pages: Line[][], e: TocEntry, p: number, heading?: string, taken =
  * Each contents entry's heading, near its page first (contents pages misprint a few by a page
  * or two), then anywhere after the entry before it (one misprints 487 as 587).
  */
-export function locate(pages: Line[][], toc: TocEntry[], headings: Record<string, string> = {}): Located[] {
+export function locate(pages: Line[][], toc: TocEntry[], headings: Record<string, string> = {}, inOrder = false): Located[] {
+  if (inOrder) return locateInOrder(pages, toc);
   const out: Located[] = [];
   let after = 0;
   // A heading an entry took is not another's: "Təcnisi-digər" would take "TƏCNİS" as its prefix
@@ -291,6 +292,72 @@ export function locate(pages: Line[][], toc: TocEntry[], headings: Record<string
     out.push({ ...e, at });
   });
   return out;
+}
+
+/**
+ * Letters are headed by their addressee's full style ("QAFQAZ CANİŞİNİ DƏFTƏRXANASININ / DİREKTORU
+ * A.F.KRUZENŞTERNƏ"), which the contents shorten ("A.F.Kruzenşternə"): each entry takes the next run
+ * of heading lines in the large type, within three pages of its own
+ */
+function locateInOrder(pages: Line[][], toc: TocEntry[]): Located[] {
+  // A date in the heading keeps its lowercase: "1871-ci il İYUNUN 8-də MELKUM XANA"
+  const big = (l?: Line) => !!l && l.size >= 12
+    && (isHeading(l) || capitals(l.text.replace(/\d+-\p{Ll}+|(?<=\s)il(?=\s)/gu, '')));
+  let after = { page: 0, line: -1 };
+  return toc.map((e) => {
+    let at: Located['at'] = null;
+    for (let p = Math.max(after.page, e.page - 4); !at && p < Math.min(pages.length, e.page + 3); p++) {
+      const page = pages[p];
+      for (let i = p === after.page ? after.line + 1 : 0; i < page.length; i++) {
+        if (!big(page[i]) || big(page[i - 1])) continue;
+        let n = 1;
+        while (big(page[i + n])) n++;
+        // The address's tail in smaller capitals: "ALLAH ONUN CƏLALINI DAİMİ ETSİN!"
+        while (page[i + n] && page[i + n].size >= 10 && capitals(page[i + n].text)) n++;
+        at = { page: p, line: i, lines: n };
+        break;
+      }
+    }
+    if (at) after = { page: at.page, line: at.line };
+    return { ...e, at };
+  });
+}
+
+/**
+ * A heading in capitals as the text spells its words: each word cased as the book's body text
+ * mostly has it ("Qafqaz canişini dəftərxanasının direktoru A.F.Kruzenşternə"); a word the text
+ * never uses, a name most likely, keeps its capital
+ */
+export function caseLike(pages: Line[][], heading: string): string {
+  const counts = new Map<string, { upper: number; lower: number }>();
+  for (const l of pages.flat()) {
+    if (l.size < 10 || l.size > 11 || capitals(l.text)) continue;
+    // Not a line's or a sentence's first word, which has its capital whatever it is
+    for (const m of l.text.matchAll(/(?<=(?:[^.!?…:\s]\s|[(«“"-]))\p{L}+/gu)) {
+      const w = m[0];
+      const key = w.toLocaleLowerCase('az');
+      const c = counts.get(key) ?? { upper: 0, lower: 0 };
+      if (w === key) c.lower++;
+      else c.upper++;
+      counts.set(key, c);
+    }
+  }
+  let start = true;
+  return heading.replace(/\p{L}+|[.!?]/gu, (w) => {
+    if (/^[.!?]$/.test(w)) { if (w !== '.') start = true; return w; }
+    const key = w.toLocaleLowerCase('az');
+    // A word the text has only in other endings: its stem's ("tapşırıqların" as "tapşırıq…")
+    let c = counts.get(key);
+    if (!c && key.length >= 6) {
+      const stem = key.slice(0, Math.max(5, key.length - 4));
+      c = { upper: 0, lower: 0 };
+      for (const [k, v] of counts) if (k.startsWith(stem)) { c.upper += v.upper; c.lower += v.lower; }
+      if (!c.upper && !c.lower) c = undefined;
+    }
+    const upper = start || w.length === 1 || !c || c.upper > c.lower;
+    start = false;
+    return upper ? w.charAt(0) + key.slice(1) : key;
+  });
 }
 
 export type Layout = 'verse' | 'prose' | 'play';
@@ -470,6 +537,8 @@ export interface ReprintSection {
   layout: Layout;
   /** Number titles the section repeats, in book order: a column's pieces ("Ordan-burdan 1", "Ordan-burdan 2") */
   number?: boolean;
+  /** Short poems one after another, set apart by "* * *", a number or a title: one work each, titled by its title or first line */
+  poems?: boolean;
 }
 
 export interface ReprintVolume {
@@ -481,6 +550,12 @@ export interface ReprintVolume {
   headings?: Record<string, string>;
   /** Contents titles to leave out ("title@page" for a repeated one): already on the site from another source */
   skip?: string[];
+  /** Headings do not spell the contents' titles (letters): each entry takes the next heading near its page */
+  inOrder?: boolean;
+  /** Contents title → the PDF page it starts on, where its heading is not in the text layer (a picture); the title then names its section too */
+  pages?: Record<string, number>;
+  /** First lines of poems whose "* * *" the text layer lacks */
+  breaks?: string[];
 }
 
 export interface PlannedReprintWork {
@@ -548,6 +623,33 @@ export function parts(body: string, layout: Layout): { title: string | null; bod
   return out;
 }
 
+/**
+ * A section of short poems cut into them: a poem starts after "* * *" or a number ("17"), or at its
+ * title in capitals. The editor's raised asterisks (notes at the book's end) go
+ */
+function poems(pages: Line[][], lines: Line[], breaks: string[] = []): { title?: string; lines: Line[] }[] {
+  const out: { title?: string; lines: Line[] }[] = [];
+  let cur: { title?: string; lines: Line[] } | null = null;
+  let titled = false;
+  for (const l of lines) {
+    if (l.size < 10 && /^\*$/.test(l.text)) continue;
+    if (STARS.test(l.text) || /^\d{1,3}$/.test(l.text)) { cur = null; titled = false; continue; }
+    if (isHeading(l) || (l.size >= 12 && /\p{L}{2}/u.test(l.text))) {
+      // A title over two lines is one title
+      if (cur && titled && cur.lines.length === 0) cur.title = `${cur.title} ${l.text}`;
+      else { cur = { title: l.text, lines: [] }; out.push(cur); titled = true; }
+      continue;
+    }
+    if (!cur || (breaks.includes(l.text) && cur.lines.length)) { cur = { lines: [] }; out.push(cur); titled = false; }
+    cur.lines.push(l);
+  }
+  return out
+    .filter((p) => p.lines.length)
+    // A poem quoted in a letter is set small throughout: it is the poem's text, not a note on it
+    .map((p) => (p.lines.every((l) => l.size <= 10) ? { ...p, lines: p.lines.map((l) => ({ ...l, size: 11 })) } : p))
+    .map((p) => (p.title ? { ...p, title: caseLike(pages, p.title.replace(/\s+/g, ' ')) } : p));
+}
+
 export async function planReprint(authorSlug: string, volumes: ReprintVolume[]) {
   const collections: PlannedReprintCollection[] = [];
   const works: PlannedReprintWork[] = [];
@@ -573,15 +675,16 @@ export async function planReprint(authorSlug: string, volumes: ReprintVolume[]) 
   for (const vol of volumes) {
     const pages = await readReprint(`${readerUrl(vol.bibid)}&download=1`);
     // No Azerbaijani word triples a letter: the contents' misprint ("haqqqında")
-    const located = locate(pages, readToc(pages, Object.keys(vol.sections)), vol.headings)
-      .map((e) => ({ ...e, title: e.title.replace(/(\p{L})\1\1/gu, '$1$1') }));
+    const located = locate(pages, readToc(pages, Object.keys(vol.sections)), vol.headings, vol.inOrder)
+      .map((e) => ({ ...e, title: e.title.replace(/(\p{L})\1\1/gu, '$1$1') }))
+      .map((e) => (vol.pages?.[e.title] ? { ...e, at: { page: vol.pages[e.title] - 1, line: 0, lines: 0 } } : e));
     const lines = workLines(pages, located);
     // How often each section repeats a title, and how many of each are numbered so far
     const repeats = new Map<string, number>();
     for (const e of located) if (vol.sections[e.section]?.number) repeats.set(`${e.section}\n${e.title}`, (repeats.get(`${e.section}\n${e.title}`) ?? 0) + 1);
     const seen = new Map<string, number>();
     located.forEach((e, k) => {
-      const section = vol.sections[e.section];
+      const section = vol.sections[e.section] ?? (vol.pages?.[e.title] ? vol.sections[e.title] : undefined);
       if (!section || vol.skip?.includes(e.title) || vol.skip?.includes(`${e.title}@${e.page}`)) return;
       const key = `${e.section}\n${e.title}`;
       if (section.number && (repeats.get(key) ?? 0) > 1) {
@@ -592,11 +695,34 @@ export async function planReprint(authorSlug: string, volumes: ReprintVolume[]) 
         console.warn(`  ${e.title} (p. ${e.page}): heading not found, left out`);
         return;
       }
+      if (section.poems) {
+        const coll = collection({ slug: section.collection, titleAz: section.titleAz, genre: section.genre });
+        poems(pages, lines[k], vol.breaks).forEach((poem, n) => {
+          const body = stripMarks(workText(poem.lines, section.layout).body);
+          const first = body.split('\n').find((l) => l.trim() && !/^[#*]/.test(l)) ?? '';
+          const title = poem.title ?? first.trim().replace(/[\s,;:–-]+$/, '');
+          if (!body.trim()) return;
+          works.push({
+            slug: unique(shortSlug(`${authorSlug}-${title}`)), sourceId: `anl-${vol.bibid}-${k + 1}-${n + 1}`, titleAz: title,
+            collectionSlug: coll, genre: section.genre, form: section.form, order: works.length + 1,
+            sourceNote: readerUrl(vol.bibid, poem.lines[0].page), body,
+          });
+        });
+        return;
+      }
       const text = workText(lines[k], section.layout);
-      const body = stripMarks(text.note ? `*${text.note}*\n\n${text.body}` : text.body)
+      // A letter's heading is its address, the contents' title a short form of it: the address stays
+      const head = vol.inOrder ? pages[e.at.page].slice(e.at.line, e.at.line + e.at.lines).map((l) => l.text).join(' ') : '';
+      const address = head && !sameTitle(fold(head), fold(e.title)) ? `**${caseLike(pages, head)}**\n\n` : '';
+      let body = stripMarks(address + (text.note ? `*${text.note}*\n\n${text.body}` : text.body))
         .replace(/^### Pərdə\.?$/gm, '*Pərdə*')
         .replace(/^(### .*)məclıs/gm, '$1məclis')
         .replace(/^(### [^\s-]+?)(pərdə|məclis|şəkil)$/gm, '$1 $2');
+      // The letters' asterisk marks (notes at the book's end) fall on a line of their own: a
+      // sentence they cut joins up again
+      if (vol.inOrder) body = body
+        .replace(/([\p{L},;])\n\n\*{2,3}\n\n(?=\p{L})/gu, '$1 ')
+        .replace(/^\*{2,3}\n+/gm, '');
       const sourceNote = readerUrl(vol.bibid, e.at.page + 1);
       const split = parts(body, section.layout);
       const base = shortSlug(`${authorSlug}-${e.title}`);
