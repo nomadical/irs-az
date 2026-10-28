@@ -37,6 +37,7 @@ Next batch (az.wikisource author pages; counts are linked pages that exist, unch
 - [x] Mir Möhsün Nəvvab — XIX, AZ + FA — wikisource, 15 poems; Təzkireyi-Nəvvab skipped (2018 translation by living translators)
 - [x] Qövsi Təbrizi — XVII, AZ — wikisource, 13 ghazals and 2 other poems
 - [x] Nəriman Nərimanov (29: 4 plays, stories, feuilletons, letters), Əli bəy Hüseynzadə (10 poems), Heyran xanım (9), Mirzə Ələsgər Növrəs (6), Kişvəri (8) — wikisource
+- [x] Ağabəyim ağa (Ağabacı) — XVIII–XIX, AZ — wikisource, all 3 pages (a gəraylı, one bayatı, one couplet); not on Ganjoor, and Köçərli says none of her verses survived
 - Too little on wikisource: Çəmənzəminli (2), Süleyman Sani Axundov (1), Nişat Şirvani (2), Məsihi (1), Qənizadə (1); no author page: Seyid Nigari, Möcüz, Abdulla Tofiq Sur, Ömər Faiq Nemanzadə, Nəbati
 
 Housekeeping:

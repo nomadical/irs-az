@@ -2267,5 +2267,23 @@
       ]
     },
     "collections": []
+  },
+  {
+    "slug": "agabeyim",
+    "nameAz": "Ağabəyim ağa",
+    "nameRu": "Агабеим-ага",
+    "nameEn": "Agha Baji Javanshir",
+    "type": "POET",
+    "period": "XVIII-XIX əsr",
+    "writingLangs": ["AZ_ARABIC"],
+    "wikipedia": {
+      "az": "Ağabəyim ağa",
+      "ru": "Агабеим-ага",
+      "en": "Agha Baji Javanshir"
+    },
+    "wikisource": {
+      "az": "Ağabəyim ağa Cavanşir"
+    },
+    "collections": []
   }
 ]
