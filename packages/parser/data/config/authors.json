@@ -3356,5 +3356,548 @@
       ]
     },
     "collections": []
+  },
+  {
+    "slug": "izzeddin-hasanoglu",
+    "nameAz": "İzzəddin Həsənoğlu",
+    "nameRu": "Иззеддин Гасаноглы",
+    "nameEn": "Izzeddin Hasanoghlu",
+    "type": "POET",
+    "period": "XIII-XIV əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "İzzəddin Həsənoğlu",
+      "ru": "Гасаноглы Иззеддин",
+      "en": "Izzeddin Hasanoghlu"
+    },
+    "wikisource": {
+      "az": "İzzəddin Həsənoğlu"
+    },
+    "collections": []
+  },
+  {
+    "slug": "cahansah-heqiqi",
+    "nameAz": "Cahanşah Həqiqi",
+    "nameRu": "Джаханшах Хакики",
+    "nameEn": "Jahanshah Haqiqi",
+    "type": "POET",
+    "period": "XV əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Cahanşah"
+    },
+    "wikisource": {
+      "az": "Cahan şah",
+      "az_aliases": [
+        "Cahanşah Həqiqi"
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "sadiq-bey-efsar",
+    "nameAz": "Sadıq bəy Əfşar",
+    "nameRu": "Садык-бек Афшар",
+    "nameEn": "Sadiq Beg Afshar",
+    "type": "POET",
+    "period": "XVI-XVII əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Sadıq bəy Əfşar"
+    },
+    "wikisource": {
+      "az": "Sadıq bəy Əfşar"
+    },
+    "collections": []
+  },
+  {
+    "slug": "miskin-abdal",
+    "nameAz": "Miskin Abdal",
+    "nameRu": "Мискин Абдал",
+    "nameEn": "Miskin Abdal",
+    "type": "POET",
+    "period": "XV-XVI əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Miskin Abdal",
+      "ru": "Мискин Абдал",
+      "en": "Miskin Abdal"
+    },
+    "wikisource": {
+      "az": "Miskin Abdal"
+    },
+    "collections": []
+  },
+  {
+    "slug": "sair-memmedhuseyn",
+    "nameAz": "Şair Məmmədhüseyn",
+    "nameRu": "Шаир Мамедгусейн",
+    "nameEn": "Shair Mammadhuseyn",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Şair Məmmədhüseyn",
+      "en": "Mammad Huseyn"
+    },
+    "wikisource": {
+      "az": "Şair Məmmədhüseyn"
+    },
+    "collections": []
+  },
+  {
+    "slug": "novres-iman",
+    "nameAz": "Novrəs İman",
+    "nameRu": "Новрес Иман",
+    "nameEn": "Novras Iman",
+    "type": "POET",
+    "period": "XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Növrəs İman"
+    },
+    "wikisource": {
+      "az": "Novrəs İman",
+      "az_aliases": ["Növrəs İman"]
+    },
+    "collections": []
+  },
+  {
+    "slug": "usta-abdulla",
+    "skipSources": [
+      "wikisource-az-31288",
+      "wikisource-az-31291",
+      "wikisource-az-31297",
+      "wikisource-az-31299",
+      "wikisource-az-31310",
+      "wikisource-az-31313",
+      "wikisource-az-31335",
+      "wikisource-az-31337",
+      "wikisource-az-31339",
+      "wikisource-az-31341",
+      "wikisource-az-31343",
+      "wikisource-az-31345",
+      "wikisource-az-31353",
+      "wikisource-az-31356",
+      "wikisource-az-31358",
+      "wikisource-az-31599",
+      "wikisource-az-31601",
+      "wikisource-az-31604",
+      "wikisource-az-31615",
+      "wikisource-az-31616",
+      "wikisource-az-31619",
+      "wikisource-az-31620",
+      "wikisource-az-31655",
+      "wikisource-az-31658",
+      "wikisource-az-31659",
+      "wikisource-az-31661",
+      "wikisource-az-31663",
+      "wikisource-az-31666",
+      "wikisource-az-31668",
+      "wikisource-az-31670",
+      "wikisource-az-31673",
+      "wikisource-az-31697",
+      "wikisource-az-31699",
+      "wikisource-az-31701",
+      "wikisource-az-31703",
+      "wikisource-az-31711",
+      "wikisource-az-31715",
+      "wikisource-az-31718",
+      "wikisource-az-31720",
+      "wikisource-az-31722",
+      "wikisource-az-31725",
+      "wikisource-az-31727",
+      "wikisource-az-31729",
+      "wikisource-az-31731",
+      "wikisource-az-31733"
+    ],
+    "nameAz": "Usta Abdulla",
+    "nameRu": "Уста Абдулла",
+    "nameEn": "Usta Abdulla",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Zodlu Abdulla"
+    },
+    "wikisource": {
+      "az": "Usta Abdulla",
+      "az_aliases": ["Zodlu Abdulla"]
+    },
+    "collections": []
+  },
+  {
+    "slug": "molla-cume",
+    "nameAz": "Molla Cümə",
+    "nameRu": "Молла Джума",
+    "nameEn": "Molla Juma",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Molla Cümə",
+      "ru": "Молла Джума"
+    },
+    "wikisource": {
+      "az": "Molla Cümə",
+      "az_aliases": ["Molla Cuma"]
+    },
+    "collections": []
+  },
+  {
+    "slug": "mehemmed-bey-asiq",
+    "nameAz": "Məhəmməd bəy Aşiq",
+    "nameRu": "Мухаммед-бек Ашуг",
+    "nameEn": "Mohammad Beg Ashiq",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Məhəmməd bəy Aşiq",
+      "ru": "Мухаммед-бек Ашуг"
+    },
+    "wikisource": {
+      "az": "Məhəmməd bəy Aşiq"
+    },
+    "collections": []
+  },
+  {
+    "slug": "ebulqasim-nebati",
+    "nameAz": "Əbülqasim Nəbati",
+    "nameRu": "Абулькасим Набати",
+    "nameEn": "Abulgasim Nabati",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Əbülqasim Nəbati"
+    },
+    "wikisource": {
+      "az": "Əbülqasim Nəbati"
+    },
+    "collections": []
+  },
+  {
+    "slug": "molla-mehemmed-sefili",
+    "nameAz": "Molla Məhəmməd Səfili",
+    "nameRu": "Молла Мухаммед Сафили",
+    "nameEn": "Molla Mohammad Safili",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Ahıskalı aşıq Səfili"
+    },
+    "wikisource": {
+      "az": "Molla Məhəmməd Səfili"
+    },
+    "collections": []
+  },
+  {
+    "slug": "yehya-bey-dilqem",
+    "nameAz": "Yəhya bəy Dilqəm",
+    "nameRu": "Яхья-бек Дилгям",
+    "nameEn": "Yahya Beg Dilgam",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Yəhya bəy Dilqəm"
+    },
+    "wikisource": {
+      "az": "Yəhya bəy Dilqəm"
+    },
+    "collections": []
+  },
+  {
+    "slug": "hasenali-xan-qaradagi",
+    "skipSources": ["wikisource-az-16193"],
+    "nameAz": "Həsənəli xan Qaradaği",
+    "nameRu": "Гасаналиага-хан Карадагский",
+    "nameEn": "Hasan Ali Khan Garadaghi",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Həsənəli xan Qaradaği",
+      "ru": "Карадагский, Гасаналиага-хан",
+      "en": "Hasan Ali Khan Garadaghi"
+    },
+    "wikisource": {
+      "az": "Həsənəli xan Qaradaği"
+    },
+    "collections": []
+  },
+  {
+    "slug": "mucrum-kerim",
+    "nameAz": "Mücrüm Kərim",
+    "nameRu": "Мюджрюм Керим",
+    "nameEn": "Mujrim Karim",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Mücrüm Kərim"
+    },
+    "wikisource": {
+      "az": "Mücrüm Kərim"
+    },
+    "collections": []
+  },
+  {
+    "slug": "mir-hemze-nigari",
+    "nameAz": "Mir Həmzə Nigari",
+    "nameRu": "Мир Гамза Нигяри",
+    "nameEn": "Mir Hamza Nigari",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Mir Həmzə Nigari"
+    },
+    "wikisource": {
+      "az": "Mir Həmzə Nigari",
+      "az_aliases": ["Mirhəmzə Seyyid Nigari"],
+      "az_titles": {"Qəzəllər (Mir Həmzə Nigari)": "Əzm eylə diyari-Şirvanı"}
+    },
+    "collections": []
+  },
+  {
+    "slug": "ebulhesen-raci",
+    "nameAz": "Əbülhəsən Raci",
+    "nameRu": "Абульхасан Раджи",
+    "nameEn": "Abulhasan Raji",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Əbülhəsən Raci",
+      "ru": "Абульхасан Раджи"
+    },
+    "wikisource": {
+      "az": "Əbülhəsən Raci"
+    },
+    "collections": []
+  },
+  {
+    "slug": "endelib-qaracadagi",
+    "nameAz": "Əndəlib Qaracadaği",
+    "nameRu": "Андалиб Караджадаги",
+    "nameEn": "Andalib Garajadaghi",
+    "type": "POET",
+    "period": "XVIII-XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Əndəlib Qaracadaği",
+      "ru": "Андалиб Караджадаги"
+    },
+    "wikisource": {
+      "az": "Əndəlib Qaracadaği"
+    },
+    "collections": []
+  },
+  {
+    "slug": "haci-rza-serraf",
+    "nameAz": "Hacı Rza Sərraf",
+    "nameRu": "Хаджи Реза Сарраф",
+    "nameEn": "Haji Reza Sarraf",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Hacı Rza Sərraf",
+      "ru": "Сарраф, Хаджи Рза"
+    },
+    "wikisource": {
+      "az": "Hacı Rza Sərraf"
+    },
+    "collections": []
+  },
+  {
+    "slug": "qumri",
+    "nameAz": "Mirzə Məhəmməd Tağı Qumri",
+    "nameRu": "Мирза Мухаммед Таги Гумри",
+    "nameEn": "Mirza Mohammad Taghi Gumri",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Mirzə Məhəmməd Tağı Qumri",
+      "ru": "Мирза Мухаммед Таги Гумри"
+    },
+    "wikisource": {
+      "az": "Mirzə Məhəmməd Tağı Qumri"
+    },
+    "collections": []
+  },
+  {
+    "slug": "sukuhi",
+    "nameAz": "Mirzə Mehdi Şükuhi",
+    "nameRu": "Мирза Мехди Шюкюхи",
+    "nameEn": "Mirza Mehdi Shukuhi",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Mirzə Mehdi Şükuhi",
+      "ru": "Шюкюхи, Мирза Мехди"
+    },
+    "wikisource": {
+      "az": "Mirzə Mehdi Şükuhi"
+    },
+    "collections": []
+  },
+  {
+    "slug": "fegir-ordubadi",
+    "nameAz": "Hacı ağa Fəqir Ordubadi",
+    "nameRu": "Хаджи-ага Фагир Ордубади",
+    "nameEn": "Haji Agha Faqir Ordubadi",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Hacı ağa Fəqir Ordubadi",
+      "ru": "Фагир Ордубади"
+    },
+    "wikisource": {
+      "az": "Hacı ağa Fəqir Ordubadi"
+    },
+    "collections": []
+  },
+  {
+    "slug": "nava",
+    "nameAz": "Cəfərqulu xan Nəva",
+    "nameRu": "Джафаркули-хан Нава",
+    "nameEn": "Jafargulu Khan Nava",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Cəfərqulu xan Cavanşir",
+      "ru": "Джеваншир, Джафаркули-ага",
+      "en": "Jafargulu agha Javanshir"
+    },
+    "wikisource": {
+      "az": "Cəfərqulu xan Nəva"
+    },
+    "collections": []
+  },
+  {
+    "slug": "bahar-sirvani",
+    "nameAz": "Bahar Şirvani",
+    "nameRu": "Бахар Ширвани",
+    "nameEn": "Bahar Shirvani",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Bahar Şirvani",
+      "ru": "Мирза Насрулла Бахар Ширвани",
+      "en": "Bahar Shirvani"
+    },
+    "wikisource": {
+      "az": "Bahar Şirvani"
+    },
+    "collections": []
+  },
+  {
+    "slug": "salik",
+    "nameAz": "Kazım ağa Salik",
+    "nameRu": "Кязым-ага Салик",
+    "nameEn": "Kazim Agha Salik",
+    "type": "POET",
+    "period": "XVIII-XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Kazım ağa Salik",
+      "ru": "Кязым-ага Салик",
+      "en": "Kazim agha Salik"
+    },
+    "wikisource": {
+      "az": "Kazım ağa Salik"
+    },
+    "collections": []
+  },
+  {
+    "slug": "zikri-erdebili",
+    "nameAz": "Zikri Ərdəbili",
+    "nameRu": "Зикри Ардебили",
+    "nameEn": "Zikri Ardabili",
+    "type": "POET",
+    "period": "XVIII-XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Zikri Ərdəbili"
+    },
+    "wikisource": {
+      "az": "Zikri Ərdəbili"
+    },
+    "collections": []
   }
 ]

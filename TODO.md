@@ -69,14 +69,14 @@ Persian, full text on Ganjoor:
 - [ ] Not on Ganjoor, source needed: Əssar Təbrizi (Mehr və Müştəri), Arif Ərdəbili (Fərhadnamə), Əbül-Üla Gəncəvi, Zülfüqar Şirvani, Xətib Təbrizi (Arabic)
 
 Turkic classics and folk, az.wikisource:
-- [ ] İzzəddin Həsənoğlu — XIII–XIV (11)
-- [ ] Cahanşah Həqiqi — XV (14)
-- [ ] Sadıq bəy Əfşar — XVI (46)
-- [ ] Miskin Abdal — XVI (55)
+- [x] İzzəddin Həsənoğlu — XIII–XIV (11): 10 imported 2026-10-29 (1 skipped: modern translation by Böyükağa Qasımzadə)
+- [x] Cahanşah Həqiqi — XV (14): 14 imported (wikisource page `Cahan şah`)
+- [x] Sadıq bəy Əfşar — XVI (46): 46 imported
+- [x] Miskin Abdal — XVI (55): 45 imported (10 links are red, no page)
 - [x] Folk under the anonymous author `xalq` (FOLK; 2026-10-29, `scrape-folk`): Koroğlu poems (62) + Koroğlu dastanı chapters (26), Molla Nəsrəddin anecdotes (10, the page lists 10 not 12), Kitabi-Dədə Qorqud (müqəddimə + 12 boys); 111 works published locally
 
 XVIII–XIX poets, az.wikisource:
-- [ ] Şair Məmmədhüseyn (190), Novrəs İman (129), Usta Abdulla (82), Molla Cümə (67), Məhəmməd bəy Aşiq (35), Əbülqasim Nəbati (34), Molla Məhəmməd Səfili (24), Yəhya bəy Dilqəm (23), Həsənəli xan Qaradaği (23), Mücrüm Kərim (22), Mir Həmzə Nigari (19), Əbülhəsən Raci (18), Əndəlib Qaracadaği (16), Hacı Rza Sərraf (12), Mirzə Məhəmməd Tağı Qumri (11), Mirzə Mehdi Şükuhi (11), Hacı ağa Fəqir Ordubadi (11), Cəfərqulu xan Nəva (10), Bahar Şirvani (10), Kazım ağa Salik (10), Zikri Ərdəbili (10)
+- [x] DONE 2026-10-29, imported 821 works for all 21 (Usta Abdulla 32 of 77: the 45 whose links redirect to scanned book pages `Səhifə:Zodlu Abdulla … pdf/N` are skipped, they carry neighbouring poems and page numbers — needs a code change to cut by the page's bold headings; Həsənəli xan Qaradaği's prose history excerpt «İqtibas» skipped): Şair Məmmədhüseyn (190), Novrəs İman (129), Usta Abdulla (82), Molla Cümə (67), Məhəmməd bəy Aşiq (35), Əbülqasim Nəbati (34), Molla Məhəmməd Səfili (24), Yəhya bəy Dilqəm (23), Həsənəli xan Qaradaği (23), Mücrüm Kərim (22), Mir Həmzə Nigari (19), Əbülhəsən Raci (18), Əndəlib Qaracadaği (16), Hacı Rza Sərraf (12), Mirzə Məhəmməd Tağı Qumri (11), Mirzə Mehdi Şükuhi (11), Hacı ağa Fəqir Ordubadi (11), Cəfərqulu xan Nəva (10), Bahar Şirvani (10), Kazım ağa Salik (10), Zikri Ərdəbili (10)
 
 Aşıqs, az.wikisource (20+ links):
 - [x] (2026-10-29: all 19 imported, 996 works, published; wikisource duplicates and variant pages skipped via skipSources) Aşıq Alı (245), Aşıq Heydər (103), Aşıq Valeh (74), Aşıq Bəsti (64), Ağdabanlı Qurban (63), Aşıq Şenlik (56), Aşıq Musa (56), Ağ Aşıq Allahverdi (52), Aşıq Hüseyn Şəmkirli (50), Varxiyanlı Aşıq Məhəmməd (41), Çoban Əfqan (40), Aşıq Hüseyn Bozalqanlı (37), Aşıq Əsəd (36), Aşıq Nəsib (34), Xəstə Hasan (31), Aşıq Mirzə Bilal (26), Aşıq Pəri (21), Xəstə Bayraməli (20), Aşıq Camal (20)
