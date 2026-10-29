@@ -182,7 +182,7 @@ export default function EditAuthorPage() {
             <div className="adm-field">
               <label className="adm-label">Növ</label>
               <select className="adm-select" value={form.type} onChange={(e) => update('type', e.target.value)}>
-                {['POET', 'WRITER', 'PLAYWRIGHT', 'PHILOSOPHER'].map((t) => (
+                {['POET', 'WRITER', 'PLAYWRIGHT', 'PHILOSOPHER', 'FOLK'].map((t) => (
                   <option key={t} value={t}>{t}</option>
                 ))}
               </select>

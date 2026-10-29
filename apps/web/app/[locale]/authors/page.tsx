@@ -44,6 +44,7 @@ const TYPE_LABELS: Record<string, Record<string, string>> = {
   WRITER:      { az: 'Yazıçı', ru: 'Писатель', en: 'Writer' },
   PLAYWRIGHT:  { az: 'Dramaturq', ru: 'Драматург', en: 'Playwright' },
   PHILOSOPHER: { az: 'Filosof', ru: 'Философ', en: 'Philosopher' },
+  FOLK:        { az: 'Xalq ədəbiyyatı', ru: 'Народное творчество', en: 'Folk literature' },
 };
 
 const AZ_ALPHABET = 'ABCÇDEƏFGĞHXIİJKQLMNOÖPRSŞTUÜVYZ';

@@ -101,6 +101,7 @@ function authorTypeMeta(type: string, locale: string) {
     WRITER:      { az: 'Yazıçı',     ru: 'Писатель',    en: 'Writer' },
     PLAYWRIGHT:  { az: 'Dramaturq',  ru: 'Драматург',   en: 'Playwright' },
     PHILOSOPHER: { az: 'Filosof',    ru: 'Философ',     en: 'Philosopher' },
+    FOLK:        { az: 'Xalq ədəbiyyatı', ru: 'Народное творчество', en: 'Folk literature' },
   };
   const lang = locale === 'ru' ? 'ru' : locale === 'en' ? 'en' : 'az';
   return map[type]?.[lang] ?? type;

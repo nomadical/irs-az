@@ -33,7 +33,8 @@ export type AuthorType =
   | 'WRITER'
   | 'PHILOSOPHER'
   | 'PLAYWRIGHT'
-  | 'CRITIC';
+  | 'CRITIC'
+  | 'FOLK';
 
 export type TranslationType =
   | 'TRANSLATION'

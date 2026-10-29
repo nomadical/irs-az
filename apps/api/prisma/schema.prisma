@@ -51,6 +51,7 @@ enum AuthorType {
   PHILOSOPHER
   PLAYWRIGHT
   CRITIC
+  FOLK
 }
 
 enum TranslationType {

@@ -27,6 +27,7 @@ const typeLabels: Record<string, Record<string, string>> = {
   WRITER:      { az: 'Yazıçı', ru: 'Писатель', en: 'Writer' },
   PLAYWRIGHT:  { az: 'Dramaturq', ru: 'Драматург', en: 'Playwright' },
   PHILOSOPHER: { az: 'Filosof', ru: 'Философ', en: 'Philosopher' },
+  FOLK:        { az: 'Xalq ədəbiyyatı', ru: 'Народное творчество', en: 'Folk literature' },
 };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -125,9 +126,9 @@ export default async function AuthorPage({ params }: Props) {
         <div>
           <h1 className="author-name">{name}</h1>
           <div className="author-period">
-            {years}
-            {author.type && ` · ${typeLabels[author.type]?.[locale] ?? author.type}`}
-            {author.period && ` · ${author.period}`}
+            {[years, author.type && (typeLabels[author.type]?.[locale] ?? author.type), author.period]
+              .filter(Boolean)
+              .join(' · ')}
           </div>
 
           {/* Language tags */}

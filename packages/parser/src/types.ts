@@ -40,6 +40,7 @@ export const AUTHOR_TYPES = [
   'PHILOSOPHER',
   'PLAYWRIGHT',
   'CRITIC',
+  'FOLK',
 ] as const;
 export type AuthorType = (typeof AUTHOR_TYPES)[number];
 

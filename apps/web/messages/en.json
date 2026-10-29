@@ -227,7 +227,8 @@
         "WRITER": "Writer",
         "PLAYWRIGHT": "Playwright",
         "PHILOSOPHER": "Philosopher",
-        "CRITIC": "Critic"
+        "CRITIC": "Critic",
+        "FOLK": "Folk literature"
       }
     }
   },
