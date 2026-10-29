@@ -15,6 +15,7 @@ import { scrapeTranscribedCommand } from './commands/scrape-transcribed';
 import { tagWorksCommand } from './commands/tag-works';
 import { scrapeBookCommand } from './commands/scrape-book';
 import { scrapePunhanCommand } from './commands/scrape-punhan';
+import { scrapeBurhaneddinCommand } from './commands/scrape-burhaneddin';
 import { scrapeFolkCommand } from './commands/scrape-folk';
 
 const program = new Command()
@@ -38,6 +39,7 @@ program.addCommand(scrapeTranscribedCommand);
 program.addCommand(tagWorksCommand);
 program.addCommand(scrapeBookCommand);
 program.addCommand(scrapePunhanCommand);
+program.addCommand(scrapeBurhaneddinCommand);
 program.addCommand(scrapeFolkCommand);
 
 program.parse();
