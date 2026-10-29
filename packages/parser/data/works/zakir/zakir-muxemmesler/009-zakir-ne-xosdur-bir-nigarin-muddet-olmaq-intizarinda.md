@@ -20,13 +20,12 @@ Düşüb axırdı rahı, ola mehman kuyi-yarında.
 Ənisi-dərdü qəm aşiq olub məşuqinə vasil,
 Səri-zülfün tutub, almaq üzündfn buseyi-kamil,
 Arada pirəhəndən qeyri əsla olmaya hail,
-Boqədri-qüdrətü qüvvət edib məqsudi-dil hasil.
+Bəqədri-qüdrətü qüvvət edib məqsudi-dil hasil.
 Xülasə, qoymaya bir kəsrü kəm itmami-karında.
 
 Gecə əsnayi-söhbətdə binayi məkr edib xəlvət,
 Səhər vəqti qonum-qonşu arasında sala şöhrət,
 Filani xəstəhal olmuş, yox onda getməyə qüdrət,
-
 Genə o gecə, ol gün gərm ola həngameyi işrət,
 Bu şərt ilə ki, bədxah olmaya qürbü civarında.
 

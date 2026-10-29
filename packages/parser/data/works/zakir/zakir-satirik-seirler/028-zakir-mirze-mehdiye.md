@@ -32,7 +32,7 @@ Olmasaydı gəlməyinə ta razi,
 Eyləyə bilməzdin hücrəyə düxul.
 
 Kəfş kəndə otururdun baədəb,
-Danışa bilməzdin biwəchü səbəb;
+Danışa bilməzdin bivəchü səbəb;
 Cürət bəhəm eyləyibsən, nə əcəb
 Gözləməzsən təriq, saxlamazsan yol?
 
@@ -42,7 +42,7 @@ Quş bağlanıb, deyən, beş gün tüləyə,
 Pərvaz eyləməsin turac, qırqavul!
 
 Gədə, saf azıbdır sənin əməlin,
-Axırındı, bilmən, yoxsa əvvəlin;
+Axırındı, bilməm, yoxsa əvvəlin;
 Talıb kimi hərdəm tutanda dəlin
 Danışırsan hədyan, söylürsən füzul.
 

@@ -13,7 +13,7 @@ status: DRAFT
 ---
 Könül, əbəs yerə üzmə canını,
 Xubların əhdində olmaz vəfası.
-Avarə qoyarlar aşinaların,
+Avarə qoyarlar aşinalərin,
 Yadlar ilə olur zövqü səfası.
 
 Əqlü huşum gedib bir Leylivəşdə,

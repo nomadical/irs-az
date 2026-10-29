@@ -23,7 +23,7 @@ Yay Əylisə məskən salan əhli-beyt,
 Didarına müştaq olan əhli-beyt
 Üzün görüb şadü xürrəm olubdur.
 
-Təəccüb cylərəm, Allahu əkbər,
+Təəccüb eylərəm, Allahu əkbər,
 Boyaqçının küpü azıbdır məgər?
 Yüz ildi nəzərdən saldığın Yetor
 Təzədən sizinlə həmdəm olubdur.
@@ -79,7 +79,7 @@ Tərəhhümə gəlib deyirlər dilbər,
 Təmam müddəilər əbsəm olubdur.
 
 Rüxsari-alından manəndi-günəş,
-Düşmüşdü sərasər cisminə ateş.
+Düşmüşdü sərasər cisminə atəş.
 Şükr eylə qadiri-biçunə, məhvəş
 Zəxmi-dərunünə mərhəm olubdur.
 
@@ -93,7 +93,7 @@ Hər hacətin olsa istə xudadən,
 Aşiqə məşuqun başdan, binadən,
 Nazü istiğnası hərdəm olubdur.
 
-Əmanət, əmanət, dəməsin ara,
+Əmanət, əmanət, dəyməsin ara,
 Düşməsin ədavət bir də dübarə;
 Şamü səhər eylə təməllüq yarə,
 Həq yetirib, özgə aləm olubdur.

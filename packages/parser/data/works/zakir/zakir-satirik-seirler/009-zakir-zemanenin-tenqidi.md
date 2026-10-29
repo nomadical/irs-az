@@ -95,7 +95,7 @@ Müştəri görsə açar başına yüz qalü məqəl.
 Nə bir anlar şərəfi-and təvafi-Kəbə,
 Həmə kəcbəhs, dilazar, xotadidə, doğəl.
 
-Külüləhüm zahiri xoş, batini bəd, qəlbi qara,
+Küllühüm zahiri xoş, batini bəd, qəlbi qara,
 Şalı əlvan, donu rəngin, saçı, saqqalı gözəl.
 
 Yaza bilməz oların eybini ta ruzi-əbəd,

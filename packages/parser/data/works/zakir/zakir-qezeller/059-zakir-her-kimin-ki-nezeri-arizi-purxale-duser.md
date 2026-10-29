@@ -15,7 +15,7 @@ Hər kimin ki, nəzəri arizi-pürxalə düşər,
 Dami-geysulərə pabəstə olub, qalə düşər.
 
 Vəsmə çək qaşlarının tağına peyvəst olsun,
-Bu kəşakeş deyil, ay başına bir hələ düşər.
+Bu kəşakeş deyil, ay başına bir halə düşər.
 
 Aşiqi-xam-təməbusə dilər ləlindən,
 Bir deməz ki, nigəhindən ona təbxalə düşər.

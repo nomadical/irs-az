@@ -55,7 +55,7 @@ Var ondamım dırnaq-dırnaq olubdu
 Rəncü təəb əsər etməz qalına,
 Axşamadən yük götürə dalına.
 Mən zərdü zəifəm, xoşa halına
-Hər kim ki, sənin tək topçaq olubdu.
+Hər kim ki, sənin tək topçaq olubudu.
 
 Bərabər gərəkdir uzunu, eni,
 Qorxuram təng ola, incidə məni,

@@ -27,7 +27,7 @@ Sizi tarı, deyin yara düşəndə,
 Məgər əl götürüb əmanətindən?
 
 Nə xoşdur cananə canı yetirmək,
-Doyunca nəzarə eləyib ölmək.
+Doyunca nəzarə eyləyib ölmək.
 Aşiqə məşuqun didarın görmək
 Ziyadədi Kəbə ziyarətindən.
 

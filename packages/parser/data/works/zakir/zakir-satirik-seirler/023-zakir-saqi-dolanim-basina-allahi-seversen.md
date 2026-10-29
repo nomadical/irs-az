@@ -39,7 +39,7 @@ Xoşbəxti-cahandır belə napak əmirin,
 Ta ruzi-əbəd şərrü xətasından olan gən.
 
 Ta var həyatım yazaram həcvi-mükərrər,
-Düşsə əlinə nüsxəsi bir gəz oxu, öyrən.
+Düşsə əlinə nüsxəsi bir gəz oxu, ögrən.
 
 Yəni ki, sitəmpişənin əcdadına lənət,
 Həm özünə, həm sairi-övladına lənət!
@@ -69,7 +69,7 @@ Olmadı deyən bir muna, key naqisü nadan,
 Söylə, nədi bu bikəsü biyavərə təqsir?
 
 Girəm ki, tutub rahi-zəlalət neçə müfsid,
-Mümkündürmü, dəf eyləyə yüz növrəsi bir pir?
+Mümkündürmü, dəf eyləyə yüz novrəsi bir pir?
 
 Ey qadiri-biçun, bu dili-səxt bəxili
 Bər hörməti-şahi-şühəda eylə sərazir.
@@ -128,7 +128,7 @@ Onlar sarı səngi-sitəm atmaqdı mədarı.
 Bari-qəmi-dəhri çəkərək xahü nəxahi,
 Müşküldü yemək dəğdəğeyi-qürbü cəvarı.
 
-Həngamə təlib çoxdur, xüsus əmmi Böyük bəy
+Həngamə tələb çoxdur, xüsus əmmi Böyük bəy
 İstər bir ovuc torpağımız saf bölə yarı.
 
 Bir mərtəbədə cuşdədir diki-dəruni,
@@ -170,13 +170,13 @@ Suzü təbişi-nari-səqər gərçi yamandır,
 Yeksər həmə təmmamü bədətvarü dilazar,
 Bunlar kimi məxluq cahan içrə yox əsla.
 
-Hər kimsə ki, düşdü tora müşküldü xiləsi,
+Hər kimsə ki, düşdü tora müşküldü xilası,
 Çəkməzlər əl ondan şirəsin sormayalar ta.
 
 Hər nəfsə nüzuli-mələkül-movt nə hacət,
 Bəs ariz üçün vədeyi-fərda, pəsi-fərda.
 
-Düşməz bunların səmtinə ta ruzi-qiyamət,
+Düşməz buların səmtinə ta ruzi-qiyamət,
 Təklə Hacı Qurbani görən kəs dəxi qəta.
 
 Tutmuşdu Qarabağı zərü simü dəvabı,
@@ -188,7 +188,7 @@ Mən söyləmədim, nola ki, məşhuri-cahandır.
 Ta tökdü fələk yer üzünə səngi-cəfanı,
 Bilkülliyə vəqf etdi Ziyad oğluna anı.
 
-Təchiz əvəzinə qızının pişü pesincə,
+Təchiz əvəzinə qızının pişü pəsincə,
 Göndərdi bu bərbadə neçə səngi-giranı.
 
 Ondandı ki, nəvvadəsi hər canibə tullar,
@@ -201,7 +201,7 @@ Başın dirəyib dayilərinin yerə zərblər,
 Çıxmış göyə biçarələrin ahü fəğanı.
 
 Xeyri başına dəgsin, onun atəşi-şərri
-Yandırdı neçə bargəhi-pirü cavanı.
+Yandırdı neçə bargəhi-pirü cəvanı.
 
 Yox bir deyən, ey varisi-məcmui-Qarabağ,
 Səndə ağalıq qaidəsi, adəti hanı?
@@ -237,7 +237,7 @@ Heyhat, ədavətlə deyəm bir kəsə böhtan,
 Yox məndə kələmbaz süxən, tariyə sövgənd
 
 Bu ... xəlqi-cahan içrə tapılmaz,
-Cəhlü həsədü büxldə nə mislü, nə mənənd.
+Cəhlü həsədü büxldə nə mislü, nə manənd.
 
 Bişübhəvü şək töxmi-dədü divdürür bu,
 Haşa ki, doğa növi-bəşərdən belə fərzənd.

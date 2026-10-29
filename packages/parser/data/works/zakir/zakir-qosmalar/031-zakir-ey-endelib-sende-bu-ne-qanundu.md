@@ -12,7 +12,7 @@ sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=8230&pno=81'
 status: DRAFT
 ---
 Ey əndəlib, səndə bu nə qanundu –
-Fəğan çəkmək növbahanı görəndə?
+Fəğan çəkmək növbaharı görəndə?
 Əgər ki, mətləbin gül görmək isə,
 Kirisnə gülüzarı görəndə.
 

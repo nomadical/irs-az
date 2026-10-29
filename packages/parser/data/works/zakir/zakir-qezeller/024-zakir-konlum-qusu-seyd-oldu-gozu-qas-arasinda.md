@@ -15,7 +15,7 @@ Könlüm quşu seyd oldu gözü qaş arasında,
 Qanlar düşəcəkdir iki yoldaş arasında.
 
 Sədparə dilin hər itinə parəsi düşdü,
-Təqsim ola yağma necə ovbaş arasında.
+Təqsim ola yəğma necə ovbaş arasında.
 
 Bak eyləməzəm səngi-cofadən eşigində,
 İncirmi vətəndən, kəs ola daş arasında?

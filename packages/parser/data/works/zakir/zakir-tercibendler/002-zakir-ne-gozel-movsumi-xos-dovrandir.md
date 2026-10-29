@@ -125,6 +125,8 @@ Nəzəri-lütfünü, ey aliməqam!
 Nə gözəl mövsümi xoş dövrandır,
 Hər tərəf dəştü çəmən əlvandır!
 
+### V
+
 Mən edərmi məni zahid kim, duş
 Məndən əfzun olub əknun mədhuş.
 

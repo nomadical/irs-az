@@ -34,7 +34,7 @@ Oldur səbəb əfləkə çıxar hayü hərayım,
 Baxmaz mənə övrət.
 Bəzi zəni xoşbəxt sanır mərdümi-olmaq,
 Der şövhəri xandır.
-Həmvarə geyər əynino zərbəft ilə dibəq,
+Həmvarə geyər əyninə zərbəft ilə dibəq,
 Həm hökmü rəvandır.
 Sən bil ki, ünas əhlinə xoşdur gəzə çiplək,
 Ta varı cavandır.
@@ -47,7 +47,7 @@ Müddətdi düşüb dıkı-dərunum saf əməldən,
 Əfsürdə çırağəm.
 Bir loqmadan əfzun yeməzəm xofvü xələldən,
 Bu barədə dağəm.
-Biroğbət olub xahişim itami-gözəldən,
+Birəğbət olub xahişim itami-gözəldən,
 Guva ki, naçağəm.
 Fərq etməz idim bir zaman ayranı əsəldən,
 İndi bu səyağəm.

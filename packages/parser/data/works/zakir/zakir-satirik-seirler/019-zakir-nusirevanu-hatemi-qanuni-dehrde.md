@@ -20,7 +20,7 @@ Ali-Xəlilə cudu səxadə nə nisbəti,
 Əfsus, yoxdu kimsədə təşxisi-nikü bəd.
 
 Ol biri bağladı dəri-zülmü itabü qəhr,
-Bunlar yetirdi xəlqə "inayət" füzun zi həd.
+Bunlar yetirdi xəlqə “inayət” füzun zi həd.
 
 Pişü pəsin ünasü zükurə qılıbdı vəqf,
 Qalxar, çökər cəmini-xəlayiq rəsəd-rəsəd.

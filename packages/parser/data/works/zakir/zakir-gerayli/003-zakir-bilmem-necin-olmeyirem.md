@@ -23,7 +23,7 @@ Qəmi-eşqin varə-varə
 
 Nəzər sallam solü sağa,
 Bir kimsə yox danışmağa,
-Bu qədər dərdi-fəraği
+Bu qədər dərdi-fərağa
 Axır necə dözüm sənsiz.
 
 Gələ gör ki, növcəvanım,

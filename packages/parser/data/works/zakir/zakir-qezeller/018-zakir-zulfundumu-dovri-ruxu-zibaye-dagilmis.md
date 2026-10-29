@@ -12,7 +12,7 @@ sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=8230&pno=127'
 status: DRAFT
 ---
 Zülfündümü dövri-rüxü-zibayə dağılmış?
-Ya Çinü Xəta ləşkəri yeğmayə dağılmış?
+Ya Çinü Xəta ləşkəri yəğmayə dağılmış?
 
 Ətrafi-ləbi-ləldə xəttindimi,yoxsa,
 Hind əhli yəmən mülkünə sövdayə dağılmış?

@@ -18,7 +18,7 @@ Bir hiylə ilə gizlənibən zülf arasında,
 Pünhan gedə bilsəydim əgər şanələr içrə.
 
 Könlüm quşu pərvaz qılır kuyi-nigarə,
-Zahir ki, onun qismət var danələr içrə.
+Zahir ki, onun qisməti var danələr içrə.
 
 Dil mülkünə göndər həşəmi-dərdü fəraqı,
 Şənlik düşə ta bəlko bu viranələr içrə.

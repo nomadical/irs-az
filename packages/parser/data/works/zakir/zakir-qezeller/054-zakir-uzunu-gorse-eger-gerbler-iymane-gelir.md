@@ -29,5 +29,5 @@ Ləşkori-hind tutub Rumi, Bədəxşanə gəlir.
 Zindəganlıq mənə düşvardır ondan sonra,
 Bar-ilaha, mənə gəlsin, nə ki, cananə gəlir!
 
-Qorxuram Zakiri hicrin qəmi bir hələ sala,
+Qorxuram Zakiri hicrin qəmi bir halə sala,
 Gören adəm deyə “vay-vay!.. budu divanə gəlir”.

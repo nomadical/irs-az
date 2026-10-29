@@ -20,7 +20,7 @@ Səxt müşküldü günüm keçsə əgər bu minval.
 Bərq urar zülfi ara mahi-münəvvər təki ru,
 Haləvəş dairəsin sərbəsər almış geysu,
 Çəkilib lövhi-cəbinində dü taqi-əbru,
-Nə əcayib, nə qərayib, nə təməşadır bu,
+Nə əcayib, nə qərayib, nə təmaşadır bu,
 Kim görübdür ola ayda iki tazə hilal?
 
 Çəkməyib kitabi-qüdrət belə bir hüsni-həsən,

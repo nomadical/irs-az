@@ -19,7 +19,7 @@ Dəmbədəm yadına salı gözəlerim.
 Başadək olmadı didarın qismət,
 Qorxuram ki, ala canımı həsrət;
 O qədər çıxmadı, gördü aqibət
-Son gəzən yerləri xali gözlərim.
+Sən gəzən yerləri xali gözlərim.
 
 Firqət odu məni yandırıb yaxar,
 Sübhü şam didəmdən qanlı yaş axar;

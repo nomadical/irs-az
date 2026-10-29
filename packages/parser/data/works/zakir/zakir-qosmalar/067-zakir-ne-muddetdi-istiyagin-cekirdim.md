@@ -26,7 +26,7 @@ Yarımadım hərgiz yarü həmdəmdən;
 Ya öldürsün məni, qurtarsın qəmdən,
 Versin muradımı, ya da gedirəm.
 
-Baş ağardı, ömür keçdi yanıdan,
+Baş ağardı, ömür keçdi yarıdan,
 Qurtarmadıq hərgiz ahü zarıdan.
 Bu gün neçə gündü canan sarıdan
 Yetibdi guşuma səda, gedirəm.

@@ -10,8 +10,6 @@ genre: POEM
 order: 1
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=8230&pno=10'
 status: DRAFT
-previousSlugs:
-  - zakir-xeber-alsan-bu-vilanin-ehvalin
 ---
 *Mirzə Fətəliyə*
 
@@ -143,7 +141,7 @@ Bir kəsə olmasa zəmanə dəmsaz,
 Həvadisi-dövran, gərdişi-fələk
 Salmışdı binayə kəbki yepələk;
 Tülək tərlan kimi, Qafil Həsən bək
-Şığıyıb çəngınə götürdü bayaq.
+Şığıyıb çənginə götürdü bayaq.
 
 Şüai-afitab olanda izhar
 Cəzə – şəbpərənin nə qüdrəti var?

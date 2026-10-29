@@ -24,7 +24,7 @@ Dedilər ki, var, yoxdur, hər yana mən vurdum əl,
 Zahiri xəlqin tiladır, batini simi-dəğəl,
 Sövti-nayə tundrov, banki-nəmazə kəmməhəl,
 Mən kimi məcmuəsi şayisteyi-qüllabü qəl,
-Bu mətə ilə hüzurə getmək olmaz mahəsəl,
+Bu məta ilə hüzurə getmək olmaz mahəsəl,
 Ya Əli, səndən mədəd, ya bülhsən, səndən həray!
 
 Abi-ənguri məcalisdə oxur naseh həram,
@@ -44,7 +44,7 @@ Sərbəsər bu əhli-əyyamın xətadır sənəti,
 Ya Əli, səndən mədəd, ya bülhəsən, səndən həray!
 
 Dərbədər düşmüş qələndər, dəmbədəm yahu çəkər,
-Döndərib üz xəlqə vaiz minbərə pəhlu çəkər,
+Döndərib üz xəlqə vaiz mənbərə pəhlu çəkər,
 Xüdnümalıqdandır ol kim, göz süzər, əbru çəkər,
 Qazinin tutumuş giribanın təmə hər su çəkər,
 Çavuşun ta kuyi-Məşhod ildə bir yol zu çəkər,
@@ -120,7 +120,7 @@ Vay o gündən ki, qalam qəbr içrə tənhavü qərib,
 
 Məzrəi-əməl zaye, rusiyəh, zabit mühib,
 Nəməti-vəslin mənə gər olmaya ol dəm nəsib,
-Zəhreçək eylər məni xovfi-xətər, amməm-qərib,
+Zəhreçək eylər məni xovfi-xətər, ammən-qərib,
 Ya Əli, səndən mədəd, ya bülhəsən, səndən həray!
 
 Zərbi-təyin şölevər qılmış nübüvvət məşəlin

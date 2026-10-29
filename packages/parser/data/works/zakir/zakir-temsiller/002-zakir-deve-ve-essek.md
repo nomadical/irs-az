@@ -57,7 +57,7 @@ Həvayi-zövq ilə bir neçə əfrad,
 Oxuyam sövt ilə hərçi badə-bad”.
 
 Dəvə dedi: “bu nə sözdür ay əhməq,
-Müsəmma imişsən ismınə, əlhəqq!
+Müsəmma imişsən isminə, əlhəqq!
 
 Güclən qurtarmışıq rəncü təəbdən,
 Növi-bəşər eylədiyi qəzəbdən.

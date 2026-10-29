@@ -21,13 +21,13 @@ Qönçədən sorma dəhən sirrini, yoxdur xəbəri,
 Kuhü səhra çiçəyi elmi-müəmma nə bilir?
 
 Bənzər ahuyi-Xətayə baxışı filcümlə,
-Yoxsa tərzi-nigahi nərgisi-şəhla nə bilir?
+Yoxsa tərzi-nigəhi nərgisi-şəhla nə bilir?
 
 Zülfünün hər teli bir mari-siyah olsa əgər
 Tutaram, aşiqi-sövdazədə pərva nə bilir?
 
 Mülki dil fəthinə, derlər ki, gəlir ləşkəri-hicr,
-Gəlsə də qəmzeyi-qatil kimi yağma nə bilir?
+Gəlsə də qəmzeyi-qatil kimi yəğma nə bilir?
 
 Zahirən Zakiri-dilxəstədən öyrənmiş ola,
 Yoxsa ahəngi-nəva bülbüli şeyda nə bilir?

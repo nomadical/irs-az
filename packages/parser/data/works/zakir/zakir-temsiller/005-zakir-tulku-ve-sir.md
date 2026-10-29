@@ -251,7 +251,7 @@ Rəhmin gəlsin binəvayə, fəqirə.
 Bir ölkənin olmaz iki sərdarı,
 lazımdır ki, sən çəkəsən bu anı;
 
-Gətirirdim sizə bir fəhbəh şikar,
+Gətirirdim sizə bir fəhbeh şikar,
 Ərzi-rəhdə oldum bir şirə düçar.
 
 Bunca dedim, tüməsidir əmirin,

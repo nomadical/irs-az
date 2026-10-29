@@ -27,7 +27,7 @@ Sirişki-al ilə kilki-müjə bəyaz rüxə,
 Bu iki fərdi yazıb ol dəni nəvazə verə.
 
 Rəqib-məhrəmi-bəzmi-vüsal, mən-məhrum,
-Rəvadırmü bu qüssə məni güdazə verə?
+Rəvadürmü bu qüssə məni güdazə verə?
 
 Bu Zakiri edə hicran fəzayi-qəmdə həlak,
 Həyat ləli-ləbin qeyrə tazə-tazə ver?

@@ -21,7 +21,7 @@ Yadi-rüxü zülfünlə olub leyl naharım,
 Nə səbrü sükunum, nə səbatım, nə qərarım,
 Məndən sora gər eyləyəsən seyr nəzarım,
 Basma qədəmin od tutar, ey tazə nigarım,
-Ateşgədədir sineyi-suzən, sənə qurban!
+Atəşgədədir sineyi-suzən, sənə qurban!
 
 Eşq əhlinə ölmək səri-kyində deyil qəm,
 Məqsudum olur hasil əgər mən dəxi görsəm,

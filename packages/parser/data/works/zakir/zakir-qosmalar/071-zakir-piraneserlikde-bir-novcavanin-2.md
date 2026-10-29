@@ -29,7 +29,7 @@ Mən də bir pərinin divanəsiyəm.
 Qurbanam özünə, həm yoldaşına,
 O xumar gözünə, hilal qaşına.
 Nə olur pinhani bir sirdaşına
-Deyo: "filaninin cananəsiyəm".
+Deyə: "filaninin cananəsiyəm".
 
 Mən Zakirəm, budur sözüm, söhbətim,
 Nadan ilə yoxdur hərgiz ülfətim,

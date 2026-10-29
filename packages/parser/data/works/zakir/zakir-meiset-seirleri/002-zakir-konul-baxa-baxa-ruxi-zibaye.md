@@ -52,7 +52,7 @@ Hansı Əzra, hanı Leyla və Şirin,
 Bir vəfalı məddi-nəzər qalmamış.
 
 Yoxdu rahi-nicat bizlərə osla
-Ənqorib olmasa zühuri-mövla.
+Ənqərib olmasa zühuri-mövla.
 Mehri-şəriətdə, nə deyim, aya,
 Pərtövi-bəşarət məgər qalmamış?
 
@@ -61,7 +61,7 @@ Bu dövri-fanidə olmadıq xürrəm;
 Girdabi-bəlayə qərqdir aləm,
 Bir canibə rahi-güzər qalmamış.
 
-Ya şafi-müznib, ya əffi-günah,
+Ya şəfi-müznib, ya əffi-günah,
 Qərqi-məsiyyətdir Zakiri-gümrah,
 Əmələ ümid yox, taətə pənah,
 Sizdən özgə bir çarəgər qalmamış.

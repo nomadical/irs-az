@@ -90,7 +90,7 @@ Mədəyə hər şey ki, salsa inqilabı, neylirəm.
 Qoy qazanı üstə. övrət, biməzərrətdir dügi.
 
 Yoxdur aləmdə belə bir qatili-səfravü xun,
-Xilti-sövdanı qılır bilməro məğlubü zəbun,
+Xilti-sövdanı qılır bilmərrə məğlubü zəbun,
 Çareyi-əmrazi-bəlğəmdə təbibə rəhnümun,
 Ruzi-şəb təfrihi-qəlbü mərhəmi-rəşi-dərun,
 Nayeyi-suzi-ətəş, dəfi-hərarətdir dügi.

@@ -35,7 +35,7 @@ Al dərsi-məani.
 
 Ta var həyatım dilərəm nəkhəti-zülfü
 Ol badi-səbadən.
-Bir kərrə qəbul eyləməişəm beyəti-zülfi
+Bir kərrə qəbul eyləmişəm beyəti-zülfi
 Dönməm bu binadən.
 Yəğma götürür, hökm eyləsə, rəyəti-zülfü
 Çin ilə Xətadən.

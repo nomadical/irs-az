@@ -27,7 +27,7 @@ Abi-həyat çeşməyi-ləli-ləbindədir,
 Olmaz bəqayi-Xizrü Məsiha sənin kimi.
 
 Başdan əyağə pərtövi-ənvarsən, Kəlim
-Haşa ki, göstərə yodi-beyza, sənin kimi.
+Haşa ki, göstərə yədi-beyza, sənin kimi.
 
 Bir Yusif adlı Misirdə, derlər ki, sabiqa
 Xəlq eyləyibdi xaliqül-əşya sənin kimi.

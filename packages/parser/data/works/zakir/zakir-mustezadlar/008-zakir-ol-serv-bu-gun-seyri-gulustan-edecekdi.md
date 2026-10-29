@@ -43,7 +43,7 @@ Dün sübh çəməndə.
 Bu söhbəti qönçə necə pünhan edəcəkdi?
 Dildən dilə düşüdü.
 
-Meşuqə gərəkdir çəkə üşşaq qəmini,
+Məşuqə gərəkdir çəkə üşşaq qəmini,
 Dostluq ola baqi.
 Nə inki çala qətli üçün xəncəri-kini,
 Sürçəndə ayağı.

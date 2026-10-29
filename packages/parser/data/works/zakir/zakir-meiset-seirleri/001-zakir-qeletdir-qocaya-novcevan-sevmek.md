@@ -23,7 +23,7 @@ Nəinki laçın tək kəbki-dər gərək.
 
 Hər kimin ki, tökülübdür dişləri,
 Hərgiz yeyə bilməz kal yemişləri;
-Limu məməlörə olan müştəri,
+Limu məmələrə olan müştəri,
 Höqqeyi-dəhanı pürgühər gərək.
 
 Nə məsrəfi ona şərü qəzəlin,

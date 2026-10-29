@@ -1,7 +1,7 @@
 ---
-slug: zakir-sevdiyim-gelo-gor-bahar-feslidir
+slug: zakir-sevdiyim-gele-gor-bahar-feslidir
 sourceId: anl-8230-t44-76
-titleAz: 'Sevdiyim, gəlo-gör bahar fəslidir'
+titleAz: 'Sevdiyim, gələ-gör bahar fəslidir'
 authorSlug: zakir
 collectionSlug: zakir-qosmalar
 originalLang: AZ_LATIN
@@ -11,7 +11,7 @@ order: 76
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=8230&pno=81'
 status: DRAFT
 ---
-Sevdiyim, gəlo-gör bahar fəslidir,
+Sevdiyim, gələ-gör bahar fəslidir,
 Könül istər gəzə bağı səninlə.
 Gecə qucaqlaşıb yataq qol boyun,
 Bir də duraq səhər çağı səninlə.

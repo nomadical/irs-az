@@ -23,7 +23,7 @@ Hər xeyr tökülsə, tökülür var ətəyindən,
 Bil vazehü aşkar.
 
 Ta onbeşədək bilmədin əsla nədir ehkam,
-“Tiflləm”, – dedin, ey dun.
+“Tifləm”, – dedin, ey dun.
 Müddət də dolandın arada sərxoşü sərsəm,
 Öz-özünə məmun.
 Əlbəttə, dedin:püxtə olar əllidə bu xam,
@@ -49,7 +49,7 @@ Xoş şəklü şəmayil.
 Oldun ona mayil.
 Daim süxəni-mərdümi-nasaz eşitdin,
 Yox sən kimi zail.
-Məsciddəvü minbərdə qışü yaz eşitdin,
+Məsciddəvü mənbərdə qışü yaz eşitdin,
 Yüz vəzü dəlayil.
 Cümlə dedilər: əl götü bədkar ətəyindən,
 Lənət sənə səd bar!

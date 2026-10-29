@@ -48,7 +48,7 @@ Nişiməngah idi şahbazə bir sərvü-çəmən, gördüm,
 Yığılmış üstünə zağü zəğən əzmi-şikar eylər.
 
 Dönüb vəzi-zəmanə, fərq edən yox ziştü ziybanı,
-Seçən yoxdur müsəlmandən yəhudü gəbrü tərsanı,
+Seçən yoxdur müsəlmandan yəhudü gəbrü tərsanı,
 Zühur et, ey şəriət təxtinin şayəstə sultanı,
 Götür bürqə əmalından, münəvvər eylər dünyanı,
 Qalıb zülmətdə aləm, göz yolunda intizar eylər.
@@ -80,5 +80,5 @@ Məhəbbət görsə aşiq, dost yolunda can insar eylər.
 Həzər qılsın görən kəslər, bu nə məğşuş dövrandır,
 Onunçun kim, gədavü şahü sultan cümlə yeksandır,
 Əgər künci-fərağət istəsən bir kənci-pünhandır,
-Şikəstə Zakirəm, könlüm məriizi-dərdi-hicrandır,
+Şikəstə Zakirəm, könlüm mərizi-dərdi-hicrandır,
 Əlaci-dərdimi əvvəl-axır həştü çahar eylər.

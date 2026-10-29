@@ -15,7 +15,7 @@ status: DRAFT
 Əcayib töhfədir, mən həm əcəb oğlana göndərdim.
 
 Bəyazi-çeşmi-məhbuban kimi şəffaf, seyqəlli,
-İçində mərdümək vəş mən onun bir danə göndərdim.
+İçində mərdüməkvəş mən onun bir danə göndərdim.
 
 Və ya inki fərar olmuş qulami-hind kuyindən
 Tutub saldım, qolu bağlı çəhi-zindanə göndərdim.

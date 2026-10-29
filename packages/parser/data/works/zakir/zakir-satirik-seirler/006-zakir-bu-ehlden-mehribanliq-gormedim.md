@@ -58,7 +58,7 @@ Tab edən mənim tək qəza qəminə;
 Zövrəqi-əltafın dili-həzinə,
 Gümanım var, verə tufandan mədəd.
 
-Naməpd ətəyindən tutasan yüz il,
+Namərd ətəyindən tutasan yüz il,
 Etibar yoxdur həll ola müşkül;
 Olsa, olacaqdır dərdinə, ey dil!
 Xələfi-Nəsrullah Sultandan mədəd.

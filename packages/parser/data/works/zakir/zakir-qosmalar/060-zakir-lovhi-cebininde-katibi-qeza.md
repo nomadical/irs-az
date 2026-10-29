@@ -16,7 +16,7 @@ Lövhi-cəbinində katibi-qəza
 Müjganın sayəsi yırtıb üzünü,
 Qan tökülüb gül yanağın üstünə.
 
-Müsəlsəl geysular ruxi-al üzrə,
+Müsəlsəl geysulər ruxi-al üzrə,
 Bir buluda bənzər məhcəmal üzrə,
 Pərtövi-hüsnündür xəttü xal üzrə,
 Yoxsa gün düşübdür dağın üstünə?

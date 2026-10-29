@@ -36,4 +36,4 @@ Ayağın basa saqi başım üzrə cana minnətdir,
 Neçin zöhd əhldən bir dərdməndə xeyrü şər gəlməz.
 
 Nə bir namə, nə bir qasid, nə bir peyki-səba, Zakir,
-Tutuşdu atəşi-hicrə dilü canü ciğər, gəlməz.
+Tutuşdu atəşi-hicrə dilü canü cigər, gəlməz.

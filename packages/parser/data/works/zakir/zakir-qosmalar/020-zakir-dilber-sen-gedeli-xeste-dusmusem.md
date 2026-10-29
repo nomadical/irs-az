@@ -1,7 +1,7 @@
 ---
 slug: zakir-dilber-sen-gedeli-xeste-dusmusem
 sourceId: anl-8230-t44-20
-titleAz: 'Dilbər, sən gədəli xəstə düşmüşəm'
+titleAz: 'Dilbər, sən gedəli xəstə düşmüşəm'
 authorSlug: zakir
 collectionSlug: zakir-qosmalar
 originalLang: AZ_LATIN
@@ -11,7 +11,7 @@ order: 20
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=8230&pno=81'
 status: DRAFT
 ---
-Dilbər, sən gədəli xəstə düşmüşəm,
+Dilbər, sən gedəli xəstə düşmüşəm,
 Gəl gör ki, intizardı can sənə.
 Ruzigarım qara keçdiyin məgər
 Söyləməyib zülfi-pərişan sənə?

@@ -47,7 +47,7 @@ Kar eyləməz əfsun.
 Göndərdi, qoşub bir-birinə çərx qəmini,
 Qılsın məni pamal.
 Sərəsgər edib onlara hicr adlımı, yəni
-Pürmokrü bədəfal.
+Pürməkrü bədəfal.
 Yox mu qədəri, tarı bilir, məzhəbü dini,
 Bir zalimü qəttal.
 Qaldım təkü tənha, məni biyarü həzini

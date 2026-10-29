@@ -19,7 +19,7 @@ Gedib növrəsidə cavanə sevər.
 Qəm deyildi sevsə idi əzəllər,
 Eşidən tən edib indi bəzəllər;
 Deməz, mənə qədr eyləməz gözəllər,
-Əbos yerə olub divanə, sevər.
+Əbəs yerə olub divanə, sevər.
 
 Aşiqlik işində xeyli pürfənəm,
 Fərhada, Vamiqə, Məcnuna tənəm;

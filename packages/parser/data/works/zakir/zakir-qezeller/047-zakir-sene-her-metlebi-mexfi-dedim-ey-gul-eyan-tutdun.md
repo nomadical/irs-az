@@ -12,7 +12,7 @@ sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=8230&pno=127'
 status: DRAFT
 ---
 Sənə hər mətləbi məxfi dedim, ey gül, əyan tutdun,
-Rəqibi-zişt karın aşikar, eybin nəhan tutdun.
+Rəqibi-ziştkarın aşikar, eybin nəhan tutdun.
 
 Oğurlar dövri-ruyində səri-zülfün əreq nəqdin,
 Nə pakizə əmin tapdın, nə yaxşı pasiban tutdun.

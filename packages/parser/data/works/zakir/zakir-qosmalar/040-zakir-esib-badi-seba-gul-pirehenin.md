@@ -32,6 +32,6 @@ Durub pərvanə tək dolanıb başa,
 Siyah zülfün tutum, çənəndən öpüm.
 
 Kəsilib könlümün səbrü qərarı,
-Al canımı qurtar barı, sən tanı.
+Al canımı qurtar barı, sən tarı.
 Öldürən zamanda Zakiri-zarı,
 Əl saxla bir, qanlı qəməndən öpüm.

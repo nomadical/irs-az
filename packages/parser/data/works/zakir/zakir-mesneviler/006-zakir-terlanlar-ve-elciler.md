@@ -15,7 +15,7 @@ status: DRAFT
 Göndərirdi Şahi-Yəmənə sovqat.
 
 O cümlədən üç-dörd bəhlə şahibaz,
-Müheyya eləyib tərlani-mümtaz.
+Müheyya eyləyib tərlani-mümtaz.
 
 Zərduz pəçənbəndü mina gərdənbənd,
 Hər birinin üstə mirvaridi-çənd.
@@ -32,7 +32,7 @@ Biməksü təvəqqüf pərvanəmisal.
 Bəzəyib sərapa novərus tək,
 Verib dörd nəfərə biməksü direng.
 
-Buyurdu ki, olun əzimi-Yəmən,
+Buyurdu ki, olun azimi-Yəmən,
 Sübh nəmazına duran vəqt mən.
 
 Əmanət, əmanət, siz olun tarı,
@@ -173,7 +173,7 @@ Mücrimi bunlardan eyləyin qiyas!”.
 Xoş düşüb təbinə şahın bu süxən,
 Dedi: “ey müslihan, əhsən, səd əhsən!”.
 
-Xərsüvar oldular obrəş süvaran,
+Xərsüvar oldular əbrəş süvaran,
 Rusəfid oldular siyahkaran.
 
 Çox nəf hasildir bu hekayotdən,

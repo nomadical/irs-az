@@ -86,7 +86,7 @@ Car səfəri ona səbəbkar oldu.
 Çünki görübdülər dadın, ləzzətin,
 Qeyri kar onlara görünür çətin;
 Hər kəs tapdı ata-baba sənətin,
-Əli Mərdan oğlu gəlləddar oldu.
+Əli Mərdan oğlu gəllədar oldu.
 
 Ərz edəndə baxa idin Şirinə,
 Yüz ilidir babası gəlibdir dinə;

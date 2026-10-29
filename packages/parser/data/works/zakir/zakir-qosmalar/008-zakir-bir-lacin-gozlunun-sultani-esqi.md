@@ -31,7 +31,7 @@ Tapmadım dərdimə dərman, axtardım,
 Nə mən öldüm bu möhnətdən qurtardım,
 Nə cövrü cəfadən dilbər usandı.
 
-Cünun olur gören məstanə gözün,
+Cünun olur görən məstanə gözün,
 Nəməki söhbətin, məzəli sözün;
 Zakir neçə gündür itirib özün,
 Əvvəldən bir müddət yaxşı dayandı.

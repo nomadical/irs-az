@@ -29,7 +29,7 @@ Cami-eyşin meyi-gülrəng ilə daim ləbriz,
 Qədəhi-bəzmi-nəşatın dəxi sorşar olsun!
 
 Əmrinə bəndeyi-fərman Buxara, Xarəzm,
-Hökməne Çinü Xəta tabeyi-iqrar olsun!
+Hökmünə Çinü Xəta tabeyi-iqrar olsun!
 
 Düşsə hər cayə yolun şamü səhər fothü zəfər,
 Ol biri pişrovun, biri qəfadar olsun!
@@ -68,4 +68,4 @@ Nəzmi-mən, – pişi-Süleymanə necə muri-həqir
 Gətdi ta payi-mələx, – həcati izhar olsun.
 
 Pirəzən dəstinə almış kələfi-rismani
-Yusifi-Misrə həmanə ki, xiridar olsun.
+Yusifi-Misrə həmana ki, xiridar olsun.

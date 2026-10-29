@@ -27,7 +27,7 @@ Verdi təmam qarətə bir kəndi bigünah,
 Əhlü əyalə qalmadı bir zərrə cifə, bax.
 
 Yaxşı yerin yaman tutar-ayini-dəhrdir,
-Olmuş comi-ali-Xəlilə xəlifə, bax!
+Olmuş cəmi-ali-Xəlilə xəlifə, bax!
 
 Bir nəfəs qalmayıb ona bir niş vurmasın,
 İstər sala gədalığa fitə, qədifə, bax!

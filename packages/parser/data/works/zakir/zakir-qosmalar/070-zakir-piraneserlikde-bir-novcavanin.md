@@ -17,7 +17,7 @@ Atdı, vurdu, yıxdı, keçdi çəpəndaz,
 Könül əqəbincə dərbədər olmuş.
 
 Yetişən zamanda başa sinnü sal,
-Didarını görcək rəf oldu molal;
+Didarını görcək rəf oldu məlal;
 Gəlib təravətə gülşəni-xəyal,
 Şükufələr açıb barvər olmuş.
 

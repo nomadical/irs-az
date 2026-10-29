@@ -25,7 +25,7 @@ Qamətin kimi onun afəti-dövranımı var?
 Əzmi-cövlanımı var?
 Seyri-xuramanımı var?
 Bağ kənarında əkər bağiban ani tək-tək,
-Mundan ötrü ki, küməməsrəf olur tirü dirək.
+Mundan ötrü ki, kümə məsrəf olur tirü dirək.
 
 Zülfünə sünbülü-tər kim ki, desə, ölməlidir,
 Urula payına zəncir gərək kim, dolidir.
@@ -72,7 +72,7 @@ Ol iki qübbeyi-nur, tazəvü tər püstanə.
 Eyşü nuşində onun ləzzəti-ruhanımı var?
 Səhni-meydanımı var?
 Zövqi-firavanımı var?
-Özü bədşəkl, ağızda təmi mənandeyi-zəg,
+Özü bədşəkl, ağızda təmi manəndeyi-zəg,
 Bir atın qiyməti olmaz kişi satsa yüz ətək.
 
 Ziynəti-kuyini gərdünə bərabər deyənin,

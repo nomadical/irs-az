@@ -24,7 +24,7 @@ Mənə bu zəfü bihallıq, saqınma, parlikdəndir,
 Gözün fikri məni yornuq salıb ahuqovanlar tək.
 
 Eşitmiş xəstəhaləm, göndərib şux qəmzə peykanın,
-Tutar goh-gəh rəngi-canı təbibi- mehribanlar tək.
+Tutar gəh-gəh rəngi-canı təbibi- mehribanlar tək.
 
 Dili-divanə müddətdi gedib, başımdan olmuşdu,
 Genə zalim bu gün çıxdı bəlayi-nagəhanlar tək.

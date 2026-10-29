@@ -41,6 +41,8 @@ Yeksər kəsilib rəhi-mədarım.
 Ey dilbəri-xoşxuramü bədxu,
 Tərk eylə bu rəsmi, xoş deyil bu!
 
+### II
+
 Bir vəqt bizimlə həmdəm oldun,
 Təskindehi-möhnətü qəm oldun!
 
@@ -70,6 +72,8 @@ Rüsvayi-təmami-aləm oldun!
 
 Ey dilbəri-xoxüramü bədxu,
 Tərk eylə bu rəsmi, xoş deyil bu!
+
+### III
 
 Hərçənd kəminə bir gədayəm,
 Ey şah, səninlə aşinayəm.
@@ -101,6 +105,8 @@ Bir müxlisi-xasü biriyayəm.
 Ey dilbəri-xoşxuramü bədxu,
 Tərk eylə bu rəsmi, xoş deyil bu!
 
+### IV
+
 Bipərdə durub oturma, ey yar,
 Çək pərdəyə nəğmə kimi rüxsar.
 
@@ -131,6 +137,8 @@ Səndən ola qovmü xiyş bizar.
 Ey dilbəri-xoşxuramü bədxu,
 Tərk eylə bu rəsmi, xoş deyil bu!
 
+### V
+
 Hə canibə su tək axma, ey gül!
 Mütləq yünül olma, qədrini bil!
 
@@ -160,3 +168,5 @@ Haşa verə səndən özgəyə dil.
 
 Ey dilbəri-xoşxuramü bədxu,
 Tərk eylə bu rəsmi, xoş deyil bu!
+
+%% Məişət şeirləri

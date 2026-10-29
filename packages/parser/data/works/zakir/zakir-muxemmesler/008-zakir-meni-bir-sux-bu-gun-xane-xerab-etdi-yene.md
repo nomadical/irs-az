@@ -25,7 +25,7 @@ Küfr zülfü talayıb Çinü Xətavü Xütəni,
 Ləşkəri-xalü xəti Hində cavab etdi yenə.
 
 Keçdi əyyami-zimistan, yetişib fəsli-bahar,
-Eləyib seyri-çəmən naz ilə ol türfə nigar,
+Eyləyib seyri-çəmən naz ilə ol türfə nigar,
 Dalısınca dəfü ney, saqiyu sağər – nə ki var,
 İçibən cami-məhobbətdən, olub məstü xumar,
 Açıban bəndi-qəba, tərki-hicab etdi yenə.

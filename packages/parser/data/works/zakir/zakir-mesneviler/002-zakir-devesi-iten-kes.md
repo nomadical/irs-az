@@ -36,7 +36,7 @@ Aqil gərək yeksan ola hər zaman,
 Qoymaya qəlbinə yol tapa şeytan.
 
 Nə öylə pərişan – şad ola düşmən,
-Nə öylə başaşət – tən edə görən.
+Nə öylə bəşaşət – tən edə görən.
 
 Çöllərdə bağırmaq xırs adətidi,
 Xanədə ağlamaq zən sənətidi.

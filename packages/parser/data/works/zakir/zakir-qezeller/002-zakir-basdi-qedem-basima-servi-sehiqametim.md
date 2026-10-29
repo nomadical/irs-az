@@ -26,7 +26,7 @@ Adəm idim xəlq ara, özgə idi hörmətim.
 Niyyətim oldur dönüb başına pərvanələr,
 Dönsəm əgər başına hasil olur niyyətim.
 
-Pənbeyi-daği-cünun məhz kəfəndir mənə,
+Pənbeyi-dağı-cünun məhz kəfəndir mənə,
 Billah ölən vəqtdə kimsəyə yox minnətim.
 
 Deyri-xorabat ara bir sənəmə talibəm,

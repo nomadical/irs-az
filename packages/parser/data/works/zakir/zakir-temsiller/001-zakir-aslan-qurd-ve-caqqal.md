@@ -18,7 +18,7 @@ Görmüşəm nüsxədə bir türfə misal,
 Yedilər, içdilər bir neçə müddət.
 
 Təqdiri-qəzadən üç gün, üç gecə
-Ov keçmədiələ, oldusa necə.
+Ov keçmədi elə, oldusa necə.
 
 Aqibət, tapdılar səbahə yavuq
 Bir qoyun, bir quzu, bir də bir tovuq.

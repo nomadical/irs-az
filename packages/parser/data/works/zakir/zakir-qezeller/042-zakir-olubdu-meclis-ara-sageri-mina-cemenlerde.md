@@ -18,7 +18,7 @@ Nəsimi-canfəzayi-novbaharı zərrəcə, ey dil,
 Bir asari-küdurət qoymayıb qəta çəmənlərdə.
 
 Məzaqi-təlx olur şirin bu fəslin xani-vəslində,
-Müheyyadır sərasər neməti-üzmə çəmənlərində.
+Müheyyadır sərasər neməti-üzma çəmənlərində.
 
 Dəmi-nitqi-Məsiha tək müəssirdir dəmi sübhün
 Ki, feyzindən olur əmvatlar əhya çəmənlərdə.

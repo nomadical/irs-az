@@ -23,7 +23,7 @@ O iki nərgisi-bimarə səni.
 
 Qan tökərsən birdən ayrı düşəndə,
 Xəlq içrə abi-ru qoymadın məndə;
-Doxi bir də gətirmərəm gələndə,
+Dəxi bir də gətirmərəm gələndə,
 Tapşırram türreyi-tərrarə səni.
 
 Hər yerdə ki, görsən bir səhi gərdən,
@@ -32,6 +32,6 @@ Bir adam yoxdu ki, bu bəlalərdən
 Çıxarıb bir kərrə qurtara səni.
 
 Baxa-baxa xalü xəttə, üzarə,
-Zakirin gününü elədin qarə;
+Zakirin gününü eylədin qarə;
 Bir dərdə salıbsan, tapılmaz çarə,
 Görüm ki, olasan biçarə səni.

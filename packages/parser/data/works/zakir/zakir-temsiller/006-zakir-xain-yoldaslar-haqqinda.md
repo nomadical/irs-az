@@ -18,7 +18,7 @@ Xanəyek müttəfiq, yekdil, yekcəhət,
 Yox idi arada bir sirri-xəlvət.
 
 İkisinin əkli rig ilə torpaq,
-Dəvənin töməsi giyahü yarpaq.
+Dəvənin töməsi giyahü yapraq.
 
 Gəzərkən tapdılar bir girdə çörək,
 Dedilər, aparıb mənzildə yeyək.
@@ -62,7 +62,7 @@ Həq bilir ki, özgə payda gözüm yox.
 Püşk atsanız əgər, raziyəm püşgə,
 Qoy düşsün düşəcək hər kimə kişgə”.
 
-Dedilər: “nə lazım püşk alaq elə,
+Dedilər: “nə lazım püşk alaq ələ,
 Şükr olsun xudaya, münsifik hələ.
 
 Hər kəs öz yaşını eyləsin izhar,
@@ -105,7 +105,7 @@ Ol zaman ki, həyyü qadiri-muxtar
 İstədi ki, yer-göy ola bərqərar,
 
 Adəm harda idi, Həvva kim idi?
-Mələyki-ərşi-əla kim idi?
+Məlaiki-ərşi-əla kim idi?
 
 Bir xaliqin özü, bir mən var idim,
 İndi belə görmə, bir minar idim.

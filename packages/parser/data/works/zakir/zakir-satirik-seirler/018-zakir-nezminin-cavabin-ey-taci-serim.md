@@ -46,7 +46,7 @@ Bilmədim, nə oldu, olduq vinovat.
 Qədimi qəminə haçan qalıbsız?
 Bacara bildikcə canın alıbsız.
 Baba bəyi elə hala salıbsız,
-Görən adam deyir: "əyyühəssəlat!"
+Görən adam deyir: “əyyühəssəlat!”
 
 Fəqir İsrafil bəy dünyadan köçdi,
 Ruhi-mütəhhəri bədəndən uçdi,
@@ -176,7 +176,7 @@ Beş şahılıq işə gərək on manat.
 Varmı ola, yarəb, bunlar kimi pis,
 Bir dəni, biədəb, dərunu xəbis;
 Nə qədər varındır – iznakom, sadis!
-Olmayanda deyir: "poşol, ...",
+Olmayanda deyir: “poşol, ...”,
 
 Ərzə verə bir adamın pədəri,
 Fərzəndinə olmaz zahir əsəri;

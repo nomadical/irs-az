@@ -21,7 +21,7 @@ Qorxuram dağıla zəru zivərin.
 Başın qüllabəsin, belin kəmərin
 Hər birin bir yana atmaq çağıdı.
 
-Üz bürümməz yar yarını görəndə,
+Üz bürüməz yar yarını görəndə,
 Bu xasiyyət nədir bilmərəm səndə?
 Biganələr kimi oturma gendə,
 Gəl sarmaşaq, alıb-satmaq çağıdı.

@@ -27,7 +27,7 @@ Nəzər salıb bir ... kişini
 İranın eylədi padşahı, Məmməd!
 
 Bəslədi Teymuri-Ləngi bir müddət,
-Geydirdi əynino qəbayi-heşmət;
+Geydirdi əyninə qəbayi-heşmət;
 
 Kor Səlimə verdi nə növ dövlət,
 Müşküldü eyləmək siyahı, Məmməd!

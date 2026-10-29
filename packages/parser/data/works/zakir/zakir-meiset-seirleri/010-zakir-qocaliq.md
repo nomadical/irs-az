@@ -75,7 +75,7 @@ Gərək indən belə qapıda bürünüb gəbəni,
 Qoymayam qarğa-quşu sərgidən apara dəni
 Ki, məbada ura övrət üzümə ta siləni,
 İltimasım budu kim, öldü, xilas eylə məni,
-Oğul, uşaq əlinə verməsaqqalım, qocalıq.
+Oğul, uşaq əlinə vermə saqqalım, qocalıq.
 
 Zakirəm, türfə xiyaban ilə bağım vardır,
 Yatmağa, durmağa rəngin otağım vardır,

@@ -30,8 +30,8 @@ Eyşü nuşi-bayü gədayə bir bax!
 
 Yasəmənin ətri çöküb jaləyə,
 Gəlir Gülüstandan buyi-ğaliyə;
-Gahi bənövşəyə, gahi lələyə,
-Gahi də nərgisi-şəhləyə bir bax!
+Gahi bənövşəyə, gahi laləyə,
+Gahi də nərgisi-şəhlayə bir bax!
 
 Sərvü sənubərin afəti-xəzan
 Soyub libasını qoymuşdu üryan;
@@ -130,7 +130,7 @@ Gündüz gəlib nırxi-bəhayə bir bax!
 
 Həddən aşıb bu viladə şərarət,
 Hər kim hər iş görə – puluna minnət.
-Mu qədəri yoxdur ədlü edalət,
+Mu qədəri yoxdur ədlü ədalət,
 Və lakin şöhrəti-bicayə bir bax!
 
 Böyüklərin işi deyil deməli,

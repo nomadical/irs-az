@@ -32,7 +32,7 @@ Daşlandı qabağə.
 Kimdir ki, nisar eyləməyə varını, aya,
 Ha böylə qonağə?
 
-Xacə, belə sövda, belə bazarələ düşməz
+Xacə, belə sövda, belə bazar ələ düşməz
 Forş eylə dükanı.
 Bu saqiyi-sadə, meyi-gülnar ələ düşməz
 Tut rast, nəvanı.

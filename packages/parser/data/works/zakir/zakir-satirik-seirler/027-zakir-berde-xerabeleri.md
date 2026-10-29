@@ -32,7 +32,7 @@ Görsəm xəbər alım bülbüli-zarı,
 Necoldu ol gülü gülüstan, gəzim.
 
 Deyim hanı munda gəzən gözəllər?
-Teyhuli məşələr, sonalı göllər?
+Teyhuli meşələr, sonalı göllər?
 Çayın kənarında tikilən ellər?
 Yoxdu heç birindən bir nişan, gəzim.
 
@@ -48,7 +48,7 @@ Neçə həmdəm ilə çirağan gəzim.
 
 Əmirzadələr yeyib naharı,
 Yenə çarpışırmı Xənəgə sarı?
-Boynu qəlladəli səgi-şikarı
+Boynu qolladəli səgi-şikarı
 Gəmişirmi seydə süvaran, gəzim.
 
 Bundan əzzəlki tək o viranədə,

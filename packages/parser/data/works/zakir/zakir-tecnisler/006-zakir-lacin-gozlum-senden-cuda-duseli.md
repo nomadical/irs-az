@@ -28,7 +28,7 @@ Zovrəqim sınıbdır ağulanmışam.
 
 Hicr əlindən pərişanəm üzüldü,
 Qara bəxtim zülfün kimi üzüldü
-Dərdü qəm çəkmək dən canım üzüldü,
+Dərdü qəm çəkməkdən canım üzüldü,
 Ömür keçib, indi ağulanmışam.
 
 Mən Zakirəm dilim dönməz hər ada,

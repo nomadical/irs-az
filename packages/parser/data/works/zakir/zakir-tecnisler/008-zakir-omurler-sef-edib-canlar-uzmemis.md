@@ -28,7 +28,7 @@ Aləm bilir odur oturan sənə.
 
 Uca dağlar dərdim ilə yar olmaz,
 Bir sinəyə ox dəyməsə yar olmaz
-Əbəs yerə cəfa çəkmə yar olmaz.
+Əbəs yerə cəfa çəkmə yar olmaz
 Rəqib ilə durub, oturan sənə.
 
 Görməmişəm zülfün kimi tərlanı

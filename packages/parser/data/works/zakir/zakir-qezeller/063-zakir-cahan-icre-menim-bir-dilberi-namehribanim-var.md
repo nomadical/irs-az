@@ -15,7 +15,7 @@ Cahan içrə mənim bir dilbəri-naməhribanım var,
 Nə cövrinə şəkibim, nə cəfasına təvanım var.
 
 İtibdir nəqdi-can qaşü gözü qəmzə arasında,
-Hər üçü bassın əl ol müşəhefi-hüsnə, gümanım var.
+Hər üçü bassın əl ol müşhəfi-hüsnə, gümanım var.
 
 Həzər qıl qaməti-xəm birlə ahi-cangüdazımdan,
 Mühəqqər sanma, ey çərx, adəməm tirü kəmanım var.

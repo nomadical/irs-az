@@ -60,7 +60,7 @@ Seyr edirdi bir gün səmti-bazarı,
 Dəri-gərmabəyə düşdü güzarı.
 
 İttifaq növgüli-gülzari-irəm,
-Növvadeyi-vali, adı Şahsənəm,
+Nəvvadeyi-vali, adı Şahsənəm,
 
 Bürci-aban bipərdəvü bihicab,
 Üz qoydu dışraya, misli-afitab.
@@ -71,7 +71,7 @@ Oğlan onu gördü, o da oğlanı.
 Sanasan od düşdü bir neyistanə,
 Apardılar şəmi, qaldı pərvanə.
 
-Pərvanənin pəri balı yanmışdı,
+Pərvanənin pərü balı yanmışdı,
 Atəşin cigərin həsrət almışdı.
 
 Yara götürmüşdü ovçudan nəxcir,
@@ -140,7 +140,7 @@ Məni-biçarəni tez azad edə”.
 Ağzını açan tək tanıdı övrət,
 Bildi ki, fəqirə kimdəndir afət.
 
-Söylədi: “biçarə, əfsus, səd əfsus!
+Söylədi: “biçarə, əfsus, səd, əfsus!
 Aşiqə müsavi gərək olsun dus.
 
 Sən bir qərib adam, o valizadə,
@@ -330,7 +330,7 @@ Aya gətiribsiz təbibi-haziq?
 Mərəzimiz birdir, bəlkə qurtarə”.
 
 Dedi: “ey bişərmü birəhmü bibak,
-Elədiyin yetmoz bir canı həlak?
+Elədiyin yetməz bir canı həlak?
 
 Elərsən əlavə mənə istehza,
 Guya ki, deyilsən xəbərdar əsla.
@@ -350,5 +350,5 @@ Aləm aşikara bəlayi-candı.
 Əcuzeyi-eşqin çoxdur üsuli,
 Bu barədə həq deyibdir Füzuli:
 
-“Can verməqəmü-eşqə ki, eşq afəti-candır,
+“Can vermə qəmü-eşqə ki, eşq afəti-candır,
 Eşq afəti-can olduğu məşhuri-cahandır”.

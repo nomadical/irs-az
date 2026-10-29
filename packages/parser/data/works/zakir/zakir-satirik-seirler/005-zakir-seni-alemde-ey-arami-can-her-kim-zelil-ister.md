@@ -53,12 +53,12 @@ Anınçın xatirim ol qövmi-birəhmi qətil istər.
 İnanma bir kəsi xoşnud aləmdə boxil istər.
 
 Bizim mədümləri, zinhar, pənd ovsari bənd etməz,
-Onların, naqcyi-qalmıq kimi, burnu qəzil istər.
+Oların, naqcyi-qalmıq kimi, burnu qəzil istər.
 
 Edər yadi-gülüstani-vətən ğürbətdə dil mürğü,
 Qəfəs qeydindən azad olmağa daim dəlil istər.
 
-Nəhayət şərhi-hal etmək yetən naməpdə müşküldür,
+Nəhayət şərhi-hal etmək yetən namərdə müşküldür,
 Sənin tək bir əmiri-pakzadü baədil istər.
 
 Təvəkkül əhliyəm mütləq, yapışmam xarü xaşakə,

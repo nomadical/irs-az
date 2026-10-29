@@ -49,7 +49,7 @@ Mənim uşaqlarım bivəchü cəhət,
 Gözlərindən xuni-cigər gətirdi.
 
 Bundan əqdəm kimin olsa üsyanı,
-Dərlərdi “vayenni sud” kəssin anı;
+Derlərdi “vayenni sud” kəssin anı;
 Bilməzəm necoldu, o zakon hanı?
 Naçalnik zakuni-digər gətirdi.
 
@@ -86,7 +86,7 @@ Bid binanı... gətirdi.
 Adamda insafü mürüvvət gərək,
 Quyruğun kəsməklə tula olmaz köpək.
 İlan əti yeyib yerikdə bişək
-O mador ki, belə pesər gətirdi.
+O madər ki, belə pesər gətirdi.
 
 Neçə gün söyləndi bu yerdə əhval,
 Qubernator olur ol nikuxisal;

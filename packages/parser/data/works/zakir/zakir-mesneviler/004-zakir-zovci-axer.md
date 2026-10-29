@@ -182,13 +182,13 @@ Apardılar ləzzət, sürdülər vəhdət,
 Ta ki, tamam oldu vədeyi-şürut,
 Ev-eşiyi xacə döşədib məzbut,
 
-İstədi hüzura təzə damadı,
+İstədi hüzura tazə damadı,
 Təqrib ilə bəd mübarəkbadı.
 
 Dedi: “ey cani-mən, gər olsan razi,
 Təlaqı pəs etsin cənabi-qazi.
 
-Əqdi-təzə kəssin öz şövhərinə;
+Əqdi-tazə kəssin öz şövhərinə;
 Ərus getsin məkanına, yerinə.
 
 Boş qalıb müddətdi evi-məhləsi,
@@ -200,7 +200,7 @@ Fəqir əri gecə dükkanda yatar,
 Dərdmənd başını salıb aşağa,
 Durdu yavaş-yavaş yer qurtlamağa.
 
-Nə qədər nəfəsə tacir dom verdi,
+Nə qədər nəfəsə tacir dəm verdi,
 Çıxmadı oğlandan bir nəfəs gördi.
 
 Durub gedən vəqtdə dedi: “Ey mövla!
@@ -252,7 +252,7 @@ Dedi: “yaz atana, elə sifariş;
 Düxtarimi səndən boşatmazam mən.
 
 Və ya inki tapam sözündə yalan,
-Qızımın talağın verməzdin asan,
+Qızımın talağın vermədin asan,
 
 Bir gecə boğdurub səni nihanı,
 Bu üsrətdən xilas eylərəm anı.
@@ -290,7 +290,7 @@ Bəlkə yetə dadə Əhmədi-Muxtar.
 Sərməsti-badeyi-cami-məhəbbət,
 Biğəmü əndişə sürərdi vəhdət.
 
-Otuz doqquz ta ki, yetdi itməmə,
+Otuz doqquz ta ki, yetdi itmamə,
 Afitabi-iqbal üz qoydu şamə.
 
 O axşam ayılıb xabi-qəflətdən,
@@ -353,7 +353,7 @@ Xacəsəralərə bildirdi tamam.
 Özü rəxti-xabə girdi xatircəm,
 Görək necə oldu qəribi-pürğəm.
 
-Səhər olub, tulu etdi afitab,
+Səhər olub, tulu, etdi afitab,
 Xacə dərgahına düşüb inqilab.
 
 Buyurdu bir neçə qulami-bibak,
@@ -410,7 +410,7 @@ Bunun əhvalından olub xəbərdar.
 Əlqərəz, bir şəxsi-vəzirmanənd
 Zər nimçəyə qoyub daşü qaşü çənd.
 
-Diybaya bükülmüş bir də bir namə,
+Diybayə bükülmüş bir də bir namə,
 Götürüb apardı darüssəlamə.
 
 Guya bunlar təarüfi-Misrdir,
@@ -438,7 +438,7 @@ Betəriqi-rüşvət iki kisə zər,
 Gərçi günahkaram, “məza ma məza”.
 
 Sahibsən bu gündən belə əmvalə,
-Tərəhhüm qıl, məni verməzəvalə”.
+Tərəhhüm qıl, məni vermə zəvalə”.
 
 Əlqərəz, hüzurə olub müşərrəf,
 Gördülər düzülüb xəvanin səf-səf.

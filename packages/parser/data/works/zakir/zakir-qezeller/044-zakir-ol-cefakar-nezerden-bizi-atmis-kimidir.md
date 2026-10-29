@@ -32,13 +32,13 @@ Biədəb ərizi-yarə dil uzatmış kimidir.
 Əql ilə huş qaçar meydən ayaq tutunca,
 Nisyə mərdümi-şəhr əqmişə satmış kimidir.
 
-Təbi-sinəm oxunu, heyfdi, tez çək, əridər,
+Tabi-sinəm oxunu, heyfdi, tez çək, əridər,
 Haliya kürreyi-həddad qızartmış kimidir.
 
 Yar hali-dili-viranı xəbər alsa, deyin:
 Xaneyi-mücrimi sultan talatmış kimidir.
 
-Qönçənin başını hər sübhü məsə yarmaqdan,
+Qönçənin başını hər sübhü məsa yarmaqdan,
 Ol məhin ağzına məxfi dil uzatmış kimidir.
 
 Demə yoxdur əsəri ahü fəğanın, Zakir,

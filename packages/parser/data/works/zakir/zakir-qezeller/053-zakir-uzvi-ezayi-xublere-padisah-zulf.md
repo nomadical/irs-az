@@ -21,7 +21,7 @@ Tutmuş təmam yer üzünü dadxah zülf.
 Gərdənsüvar kakilü mişkinkülah zülf.
 
 Gəncineyi-comalı keçiribdi yarıdan,
-Hoddən füzundu axtaran olsa güvah, zülf.
+Həddən füzundu axtaran olsa güvah, zülf.
 
 Mən çox dedim sənə, az eşitdin, könül, künun
 Çıxsın canın, de: ah xətü xal, ah zülf!

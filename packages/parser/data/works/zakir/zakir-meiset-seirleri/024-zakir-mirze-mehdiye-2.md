@@ -19,7 +19,7 @@ Belə keçsə varə-varə, əzizim.
 Asi rəyət bəyi yada salırmı,
 Ağa sözün ... alırmı,
 Fuladi-bədgühər yumuşalırmı
-Ta düşməyə yalavlərə, əzizim.
+Ta düşməyə yalavlarə, əzizim.
 
 Bir ahəngər soyuq döyə dəmiri,
 Çıxmaz çəkişindən səsi-səmiri.
@@ -33,7 +33,7 @@ Gətiriblər bizi zarə, əzizim.
 
 Canə yetdim dərdü qəmü möhnətdən,
 Qurtarmadım əndişədən, xiffətdən;
-Başımı götürüb bu vilayətdən
+Başımı götürüb bu vilaiyətdən
 Getməliyəm bir diyarə, əzizim.
 
 Bundan əvvəlkilər çalışıb hərçənd
@@ -51,7 +51,7 @@ Minib, çapıb qulun tökdürür Həsən.
 Nəsihət eyləyib hərgiz deməsən
 Çəkib onu bir kənarə, əzizim:
 
-Ey biheya, həzər eylə xudadən,
+Ey bihəya, həzər eylə xudadən,
 Usan təqəllübdən, cövrü cəfadən.
 Peşiman olursan bu macəradən,
 Yetirirlər sahibkarə, əzizim.

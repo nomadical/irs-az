@@ -27,7 +27,7 @@ Töküb sirişk gözündən, deyərmi: ah, əfsus,
 Ki, həsrət öldü bu biçarə intizarım ilə.
 
 Təğafül eyləsə birdəm o səngdil, deyərəm,
-Fəğan ilən tutuban dəmənin qubarım ilə.
+Fəğan ilən tutuban damənin qubarım ilə.
 
 Bağışla cürmümü, ey şux kim, həyatmda
 Çox etmişəm səni azürdə ahü zarım ilə.

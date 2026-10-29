@@ -12,7 +12,7 @@ sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=8230&pno=191'
 status: DRAFT
 ---
 Mirzə Mehdi, bizim bəndəxanənin
-Keçəsi dağılıb, keçən gərəkdir.
+Keçəsi dağlıb, keçən gərəkdir.
 On dörd qalıb olsa kifayət eylər –
 Əgər xəbər alsan necə "gərəkdir?"
 
@@ -23,7 +23,7 @@ Yaxşını, yamanı seçə gərəkdir.
 
 Nisfin qaraağacı, nisfin xəsili
 Versələr bilmərrə dəva kəsili.
-Töreməzdi qoyunların əsili –
+Törəmədi qoyunların əsili –
 İldə iki yol gələ qoça gərəkdir.
 
 İyirmi istildən salına möhkəm,

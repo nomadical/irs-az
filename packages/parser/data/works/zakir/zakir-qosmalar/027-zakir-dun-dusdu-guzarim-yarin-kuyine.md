@@ -24,7 +24,7 @@ Saralıb gül rəngi solubdu gördüm.
 Kamana dönübdü qaməti-mövzün,
 Əhvalını fələk edib digərgün.
 Gecə-gündüz ağlamaqdan əşki-xun
-Almas kipriklər yolubdu gördüm.
+Almas kiprikləri yolubdu gördüm.
 
 Hanı mən gördüyüm əhmər yanaqlar,
 Müsəlsəl geysular, nəsrin buxaqlar?

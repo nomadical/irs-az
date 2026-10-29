@@ -20,7 +20,7 @@ Dəsti-lətifi-saqiyi-simin-saq tut.
 Çək yanına sürahını təqvavü taəti,
 Bilmərrə ta əvaxiri-şəban qıraq tut.
 
-Tök cami-zərnigarə şəvəqgun bədəni,
+Tök cami-zərnigarə şəvəqgun badəni,
 Yəni fəraq şamına rövşən çıraq tut.
 
 Zar eyləmişdi xəlqi fəğanü nəvalərin,

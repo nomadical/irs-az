@@ -17,7 +17,7 @@ Yanmaqda məni bilməyin
 Oda pərvanədən ayrı.
 
 Saqi, məni namuradə
-Dərdi-sər verməziyadə;
+Dərdi-sər vermə ziyadə;
 Hərgiz içərəmmi badə
 Çeşmi məstanədən ayrı?
 

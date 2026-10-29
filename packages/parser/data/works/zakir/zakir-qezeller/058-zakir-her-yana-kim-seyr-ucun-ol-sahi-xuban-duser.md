@@ -21,10 +21,10 @@ Yadi müjən bağrımı paraləsə yox əcəb,
 Rəsmdi, məcruh olur, hər yerə peykan düşər.
 
 Rast düşüb bağ ara görsə qədü çeşmini,
-Sərv sıxıqlıq tapar, nərgisə talan düşər.
+Sərv sınıqlıq tapar, nərgisə talan düşər.
 
 Cameyi-əhmər geyib, yaxdın oda aşiqi,
-Necəki, xarü xəsə atoşi-suzan düşər.
+Necəki, xarü xəsə atəşi-suzan düşər.
 
 Çakər olur, rəsmdir, bəndeyi-fərmani-xan,
 Vəh, bu nə çakərdi kim, payına yüz xan düşər,

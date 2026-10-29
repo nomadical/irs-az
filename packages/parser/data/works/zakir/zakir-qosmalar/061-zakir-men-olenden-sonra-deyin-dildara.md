@@ -33,5 +33,5 @@ Gündə bir üzümə çalmasın barı!
 
 Adəm idi məkanında, yerində,
 Əqlü huşu qalmayıbdır sərində,
-Kəmində çəkərdi Zakir dərində,
+Kəminə çəkərdi Zakir dərində,
 Onun təqsirinə qalmasın barı!

@@ -136,7 +136,7 @@ Bir kəsə olmasa zəmanə dəmsaz,
 Həvadisi-dövran, gərdişi-fələk
 Salmışdı binayə kəbki yepələk;
 Tülək tərlan kimi, Qafil Həsən bək
-Şığıyıb çəngınə götürdü bayaq.
+Şığıyıb çənginə götürdü bayaq.
 
 Şüai-afitab olanda izhar
 Cəzə – şəbpərənin nə qüdrəti var?
@@ -515,8 +515,8 @@ Eyşü nuşi-bayü gədayə bir bax!
 
 Yasəmənin ətri çöküb jaləyə,
 Gəlir Gülüstandan buyi-ğaliyə;
-Gahi bənövşəyə, gahi lələyə,
-Gahi də nərgisi-şəhləyə bir bax!
+Gahi bənövşəyə, gahi laləyə,
+Gahi də nərgisi-şəhlayə bir bax!
 
 Sərvü sənubərin afəti-xəzan
 Soyub libasını qoymuşdu üryan;
@@ -619,7 +619,7 @@ Gündüz gəlib nırxi-bəhayə bir bax!
 
 Həddən aşıb bu viladə şərarət,
 Hər kim hər iş görə – puluna minnət.
-Mu qədəri yoxdur ədlü edalət,
+Mu qədəri yoxdur ədlü ədalət,
 Və lakin şöhrəti-bicayə bir bax!
 
 Böyüklərin işi deyil deməli,
@@ -688,12 +688,12 @@ Anınçın xatirim ol qövmi-birəhmi qətil istər.
 İnanma bir kəsi xoşnud aləmdə boxil istər.
 
 Bizim mədümləri, zinhar, pənd ovsari bənd etməz,
-Onların, naqcyi-qalmıq kimi, burnu qəzil istər.
+Oların, naqcyi-qalmıq kimi, burnu qəzil istər.
 
 Edər yadi-gülüstani-vətən ğürbətdə dil mürğü,
 Qəfəs qeydindən azad olmağa daim dəlil istər.
 
-Nəhayət şərhi-hal etmək yetən naməpdə müşküldür,
+Nəhayət şərhi-hal etmək yetən namərdə müşküldür,
 Sənin tək bir əmiri-pakzadü baədil istər.
 
 Təvəkkül əhliyəm mütləq, yapışmam xarü xaşakə,
@@ -774,7 +774,7 @@ Tab edən mənim tək qəza qəminə;
 Zövrəqi-əltafın dili-həzinə,
 Gümanım var, verə tufandan mədəd.
 
-Naməpd ətəyindən tutasan yüz il,
+Namərd ətəyindən tutasan yüz il,
 Etibar yoxdur həll ola müşkül;
 Olsa, olacaqdır dərdinə, ey dil!
 Xələfi-Nəsrullah Sultandan mədəd.
@@ -824,7 +824,7 @@ Mənim uşaqlarım bivəchü cəhət,
 Gözlərindən xuni-cigər gətirdi.
 
 Bundan əqdəm kimin olsa üsyanı,
-Dərlərdi “vayenni sud” kəssin anı;
+Derlərdi “vayenni sud” kəssin anı;
 Bilməzəm necoldu, o zakon hanı?
 Naçalnik zakuni-digər gətirdi.
 
@@ -863,7 +863,7 @@ Bid binanı... gətirdi.
 Adamda insafü mürüvvət gərək,
 Quyruğun kəsməklə tula olmaz köpək.
 İlan əti yeyib yerikdə bişək
-O mador ki, belə pesər gətirdi.
+O madər ki, belə pesər gətirdi.
 
 Neçə gün söyləndi bu yerdə əhval,
 Qubernator olur ol nikuxisal;
@@ -900,14 +900,14 @@ Qaməti-mövzuni görən canımız!
 Fətulə-fatulə səfheyi-rudə,
 Gah torfi-zənəxdə, gahi əbrudə,
 Pərişan olmazmı, ğübaraludə
-Müəttər gcynusi görən canımız!
+Müəttər geynusi görən canımız!
 
 Mübarəkdir bu dünyanın nizami,
 Nəhayət müşküldü öyrətmək xami;
 Yad edib ağlayın keçən əyyami,
 Müəttər geysuni görən canımız!
 
-Ac qaldıqca roxtü xabı satacaq,
+Ac qaldıqca rəxtü xabı satacaq,
 Gələ-gələ quru yerdə yatacaq,
 Uzaqdan sikkəyə güllə atacaq,
 Min tümən altuni görən canımız!
@@ -950,7 +950,7 @@ Gərək indən belə digərgun ola
 Kari-digərguni görən canımız!
 
 Aaparırlar qaravula, keşiyə,
-Qəht olub bir döşək, girək döşiyə;
+Qəht olub bir deşik, girək deşiyə;
 Buriya döşəsin evə, eşiyə
 Xaliyi-bahuni görən canımız!
 
@@ -1069,7 +1069,7 @@ Həmə kəcbəhs, dilazar, xotadidə, doğəl.
 
 @@ 024
 
-Külüləhüm zahiri xoş, batini bəd, qəlbi qara,
+Küllühüm zahiri xoş, batini bəd, qəlbi qara,
 Şalı əlvan, donu rəngin, saçı, saqqalı gözəl.
 
 Yaza bilməz oların eybini ta ruzi-əbəd,
@@ -1203,8 +1203,8 @@ Sənin mərhəmətin, mənim ixlasım
 Mehri-münəvvər tək aləmə isbat.
 
 Qalmışam aranda müddəti-mürur,
-Təbiətə səfra eləyibdir zur;
-İstər idim olam əzimi-hüzur,
+Təbiətə səfra eyləyibdir zur;
+İstər idim olam azimi-hüzur,
 Naxoşam, hərəkət eyləyib ixlat.
 
 Bağır oğlu Məmməd, Məşədi hacı,
@@ -1232,7 +1232,7 @@ Budur ki, canı var, tərləsin mirat.
 Təbiəti-harrə xalis əngəbin,
 Qabizə süfurü yəhuda, darçin,
 Bəlqəmi-mizacə tüxmi-xiyarin
-Münasib bilirlər daimül-övqat.
+Münasib bilirlər daimül-övqət.
 
 Mərizin üstünə yetişən məhəl,
 Dərviş Kəlbi hazır olur əlbəəl;
@@ -1267,7 +1267,7 @@ Ya on tümən pul gərəkdir, ya bir at.
 İmalədə yədi-beyzaları var,
 Həqq üçün bir ondan başları çıxar;
 Mərəzi-digərdə, inanma zinhar,
-Vüquflan ola, heyhat, heyhat!..
+Vüqufları ola, heyhat, heyhat!..
 
 Sən gör necə xərab olub zəmanə,
 Çəmənli Cəfər də mərdü mərdanə,
@@ -1456,7 +1456,7 @@ Bilməzəm hiç nə vəch ilə bu laməzhəblər
 Bəhs edirlər ki, mükəlləfdi qamu əşyani.
 
 Əqldir rəhbəri-nikü bədü həqqü batil,
-Şəyə ki, verməyib ani, necə tapsın ani?
+Şeyə ki, verməyib ani, necə tapsın ani?
 
 Tifl ta baliğ olunca ona yoxdur təklif,
 Nə dəlil ilə mükəlləf biləsən heyvani?!
@@ -1467,7 +1467,7 @@ Gəllədən gər xəbər alsan ki, de, rəbbin kimdir,
 Göstərər ciddü yəqin ilə sənə çubani.
 
 Bəndəsindən nə təvəqqö elə rəbbin ki, özü
-Xəri-barikəşi-biçarəsinə...
+Xəri-barikeşi-biçarəsinə...
 
 Küfrdür qabili-təsbihi-təala bilmək,
 Fəzləyi-xəlqi yeyən sağsağanı, qarğani.
@@ -1583,7 +1583,7 @@ Nəçidir maliki-rizvan üzünə açmaya dər,
 Ola hər kimsənin əldə onun fərmani.
 
 Zakiri-rusiyəhəm, gərçi günahım çoxdur,
-Var dəstimdə, vəli, Əli-Nəbi damani.
+Var dəstimdə, vəli, Ali-Nəbi damani.
 
 # Divanbəyiləri həcv
 
@@ -1674,7 +1674,7 @@ Bəsdir bu şərarət dəxi əl çək, köpək oğlu!
 Yüz düşmən ola bir kəsə, bir kəs yıxılanda
 Filcümlə gərəkdir ola sövkək, köpək oğlu!
 
-Qəhrü-ümərə ateşi-suzandı, nə layiq,
+Qəhrü-ümərə atəşi-suzandı, nə layiq,
 Bərqəsd onu hərdəm üfürmək, köpək oğlu!
 
 Fikrin budu, atan yerişi yeriyəsən sən,
@@ -1819,7 +1819,7 @@ Yay Əylisə məskən salan əhli-beyt,
 Didarına müştaq olan əhli-beyt
 Üzün görüb şadü xürrəm olubdur.
 
-Təəccüb cylərəm, Allahu əkbər,
+Təəccüb eylərəm, Allahu əkbər,
 Boyaqçının küpü azıbdır məgər?
 Yüz ildi nəzərdən saldığın Yetor
 Təzədən sizinlə həmdəm olubdur.
@@ -1877,7 +1877,7 @@ Tərəhhümə gəlib deyirlər dilbər,
 Təmam müddəilər əbsəm olubdur.
 
 Rüxsari-alından manəndi-günəş,
-Düşmüşdü sərasər cisminə ateş.
+Düşmüşdü sərasər cisminə atəş.
 Şükr eylə qadiri-biçunə, məhvəş
 Zəxmi-dərunünə mərhəm olubdur.
 
@@ -1891,7 +1891,7 @@ Hər hacətin olsa istə xudadən,
 Aşiqə məşuqun başdan, binadən,
 Nazü istiğnası hərdəm olubdur.
 
-Əmanət, əmanət, dəməsin ara,
+Əmanət, əmanət, dəyməsin ara,
 Düşməsin ədavət bir də dübarə;
 Şamü səhər eylə təməllüq yarə,
 Həq yetirib, özgə aləm olubdur.
@@ -1945,7 +1945,7 @@ Bilmədim, nə oldu, olduq vinovat.
 Qədimi qəminə haçan qalıbsız?
 Bacara bildikcə canın alıbsız.
 Baba bəyi elə hala salıbsız,
-Görən adam deyir: "əyyühəssəlat!"
+Görən adam deyir: “əyyühəssəlat!”
 
 Fəqir İsrafil bəy dünyadan köçdi,
 Ruhi-mütəhhəri bədəndən uçdi,
@@ -2077,7 +2077,7 @@ Beş şahılıq işə gərək on manat.
 Varmı ola, yarəb, bunlar kimi pis,
 Bir dəni, biədəb, dərunu xəbis;
 Nə qədər varındır – iznakom, sadis!
-Olmayanda deyir: "poşol, ...",
+Olmayanda deyir: “poşol, ...”,
 
 Ərzə verə bir adamın pədəri,
 Fərzəndinə olmaz zahir əsəri;
@@ -2137,7 +2137,7 @@ Ali-Xəlilə cudu səxadə nə nisbəti,
 Əfsus, yoxdu kimsədə təşxisi-nikü bəd.
 
 Ol biri bağladı dəri-zülmü itabü qəhr,
-Bunlar yetirdi xəlqə "inayət" füzun zi həd.
+Bunlar yetirdi xəlqə “inayət” füzun zi həd.
 
 Pişü pəsin ünasü zükurə qılıbdı vəqf,
 Qalxar, çökər cəmini-xəlayiq rəsəd-rəsəd.
@@ -2279,7 +2279,7 @@ Nişiməngah idi şahbazə bir sərvü-çəmən, gördüm,
 Yığılmış üstünə zağü zəğən əzmi-şikar eylər.
 
 Dönüb vəzi-zəmanə, fərq edən yox ziştü ziybanı,
-Seçən yoxdur müsəlmandən yəhudü gəbrü tərsanı,
+Seçən yoxdur müsəlmandan yəhudü gəbrü tərsanı,
 Zühur et, ey şəriət təxtinin şayəstə sultanı,
 Götür bürqə əmalından, münəvvər eylər dünyanı,
 Qalıb zülmətdə aləm, göz yolunda intizar eylər.
@@ -2311,7 +2311,7 @@ Məhəbbət görsə aşiq, dost yolunda can insar eylər.
 Həzər qılsın görən kəslər, bu nə məğşuş dövrandır,
 Onunçun kim, gədavü şahü sultan cümlə yeksandır,
 Əgər künci-fərağət istəsən bir kənci-pünhandır,
-Şikəstə Zakirəm, könlüm məriizi-dərdi-hicrandır,
+Şikəstə Zakirəm, könlüm mərizi-dərdi-hicrandır,
 Əlaci-dərdimi əvvəl-axır həştü çahar eylər.
 
 @@ 040
@@ -2332,7 +2332,7 @@ Qamətin kimi onun afəti-dövranımı var?
 Əzmi-cövlanımı var?
 Seyri-xuramanımı var?
 Bağ kənarında əkər bağiban ani tək-tək,
-Mundan ötrü ki, küməməsrəf olur tirü dirək.
+Mundan ötrü ki, kümə məsrəf olur tirü dirək.
 
 Zülfünə sünbülü-tər kim ki, desə, ölməlidir,
 Urula payına zəncir gərək kim, dolidir.
@@ -2379,7 +2379,7 @@ Ol iki qübbeyi-nur, tazəvü tər püstanə.
 Eyşü nuşində onun ləzzəti-ruhanımı var?
 Səhni-meydanımı var?
 Zövqi-firavanımı var?
-Özü bədşəkl, ağızda təmi mənandeyi-zəg,
+Özü bədşəkl, ağızda təmi manəndeyi-zəg,
 Bir atın qiyməti olmaz kişi satsa yüz ətək.
 
 Ziynəti-kuyini gərdünə bərabər deyənin,
@@ -2430,7 +2430,7 @@ Xoşbəxti-cahandır belə napak əmirin,
 Ta ruzi-əbəd şərrü xətasından olan gən.
 
 Ta var həyatım yazaram həcvi-mükərrər,
-Düşsə əlinə nüsxəsi bir gəz oxu, öyrən.
+Düşsə əlinə nüsxəsi bir gəz oxu, ögrən.
 
 Yəni ki, sitəmpişənin əcdadına lənət,
 Həm özünə, həm sairi-övladına lənət!
@@ -2460,7 +2460,7 @@ Olmadı deyən bir muna, key naqisü nadan,
 Söylə, nədi bu bikəsü biyavərə təqsir?
 
 Girəm ki, tutub rahi-zəlalət neçə müfsid,
-Mümkündürmü, dəf eyləyə yüz növrəsi bir pir?
+Mümkündürmü, dəf eyləyə yüz novrəsi bir pir?
 
 @@ 042
 
@@ -2521,7 +2521,7 @@ Onlar sarı səngi-sitəm atmaqdı mədarı.
 Bari-qəmi-dəhri çəkərək xahü nəxahi,
 Müşküldü yemək dəğdəğeyi-qürbü cəvarı.
 
-Həngamə təlib çoxdur, xüsus əmmi Böyük bəy
+Həngamə tələb çoxdur, xüsus əmmi Böyük bəy
 İstər bir ovuc torpağımız saf bölə yarı.
 
 Bir mərtəbədə cuşdədir diki-dəruni,
@@ -2565,13 +2565,13 @@ Suzü təbişi-nari-səqər gərçi yamandır,
 Yeksər həmə təmmamü bədətvarü dilazar,
 Bunlar kimi məxluq cahan içrə yox əsla.
 
-Hər kimsə ki, düşdü tora müşküldü xiləsi,
+Hər kimsə ki, düşdü tora müşküldü xilası,
 Çəkməzlər əl ondan şirəsin sormayalar ta.
 
 Hər nəfsə nüzuli-mələkül-movt nə hacət,
 Bəs ariz üçün vədeyi-fərda, pəsi-fərda.
 
-Düşməz bunların səmtinə ta ruzi-qiyamət,
+Düşməz buların səmtinə ta ruzi-qiyamət,
 Təklə Hacı Qurbani görən kəs dəxi qəta.
 
 Tutmuşdu Qarabağı zərü simü dəvabı,
@@ -2583,7 +2583,7 @@ Mən söyləmədim, nola ki, məşhuri-cahandır.
 Ta tökdü fələk yer üzünə səngi-cəfanı,
 Bilkülliyə vəqf etdi Ziyad oğluna anı.
 
-Təchiz əvəzinə qızının pişü pesincə,
+Təchiz əvəzinə qızının pişü pəsincə,
 Göndərdi bu bərbadə neçə səngi-giranı.
 
 Ondandı ki, nəvvadəsi hər canibə tullar,
@@ -2596,7 +2596,7 @@ Başın dirəyib dayilərinin yerə zərblər,
 Çıxmış göyə biçarələrin ahü fəğanı.
 
 Xeyri başına dəgsin, onun atəşi-şərri
-Yandırdı neçə bargəhi-pirü cavanı.
+Yandırdı neçə bargəhi-pirü cəvanı.
 
 Yox bir deyən, ey varisi-məcmui-Qarabağ,
 Səndə ağalıq qaidəsi, adəti hanı?
@@ -2634,7 +2634,7 @@ Heyhat, ədavətlə deyəm bir kəsə böhtan,
 Yox məndə kələmbaz süxən, tariyə sövgənd
 
 Bu ... xəlqi-cahan içrə tapılmaz,
-Cəhlü həsədü büxldə nə mislü, nə mənənd.
+Cəhlü həsədü büxldə nə mislü, nə manənd.
 
 Bişübhəvü şək töxmi-dədü divdürür bu,
 Haşa ki, doğa növi-bəşərdən belə fərzənd.
@@ -2724,7 +2724,7 @@ Görsəm xəbər alım bülbüli-zarı,
 Necoldu ol gülü gülüstan, gəzim.
 
 Deyim hanı munda gəzən gözəllər?
-Teyhuli məşələr, sonalı göllər?
+Teyhuli meşələr, sonalı göllər?
 Çayın kənarında tikilən ellər?
 Yoxdu heç birindən bir nişan, gəzim.
 
@@ -2740,7 +2740,7 @@ Neçə həmdəm ilə çirağan gəzim.
 
 Əmirzadələr yeyib naharı,
 Yenə çarpışırmı Xənəgə sarı?
-Boynu qəlladəli səgi-şikarı
+Boynu qolladəli səgi-şikarı
 Gəmişirmi seydə süvaran, gəzim.
 
 Bundan əzzəlki tək o viranədə,
@@ -2828,7 +2828,7 @@ Olmasaydı gəlməyinə ta razi,
 Eyləyə bilməzdin hücrəyə düxul.
 
 Kəfş kəndə otururdun baədəb,
-Danışa bilməzdin biwəchü səbəb;
+Danışa bilməzdin bivəchü səbəb;
 Cürət bəhəm eyləyibsən, nə əcəb
 Gözləməzsən təriq, saxlamazsan yol?
 
@@ -2838,7 +2838,7 @@ Quş bağlanıb, deyən, beş gün tüləyə,
 Pərvaz eyləməsin turac, qırqavul!
 
 Gədə, saf azıbdır sənin əməlin,
-Axırındı, bilmən, yoxsa əvvəlin;
+Axırındı, bilməm, yoxsa əvvəlin;
 Talıb kimi hərdəm tutanda dəlin
 Danışırsan hədyan, söylürsən füzul.
 
@@ -2942,9 +2942,9 @@ Buyrula hər yandan çapğun, çapavul.
 
 *Qarabağ vilayətinin Cavanşir uçastokunda Xındıristan kəndinin sakini Qasım bəy Əli bəy oğlu tərəfindən*
 
-Belə ki, mən bəyzadələrdən və əsl ocaq sahiblərindən varam. Özüm də 65 sinni təmam eləmişəm. Hənuz məndən xilafi-zabitə iş baş verməyib və dəftərxanalarda mənim adıma bihesab mərqum deyil. Nəhayət şimdi bir il təmam olur ki, Şuşa şəhərinin Uyezdni naçalniki knyaz Tarxan Mourovov öz ixtiyaratının zoru ilə və polkovnik Cəfərqulu ağanın təhriki ilə bicürmü günah və bitəhqiqi məratib məni və mənə təəllüq Xındıristan kəndini təxminən yeddi yüz atlı ilə ki, o cümlədən Cəfərqulu ağa olsun, bir növ taxtü qarət ediblər ki, tamam ac və möhtac qalmışıq və o zülmlər ki, bizlərin başına gətirib əvvəldən axıra heç bir kəsin başına gəlməyib. Əvvələ, mənə xəlayiq içində ruberu föhşlər deməklə mənim nəcabətimi bilmərrə itirib; ikinci, mənim və övladımın on doqquz baş əyalımızı həddən ziyadə bihörmətlik ilə Şuşa şəhərinə zəval aparıb, hənuz o cümlədən mənim oğlum Nəcəfqulu bəyi və qardaşım oğlu İskəndər bəyi bicürmü günah qanunsuz bu ərzi-müddətdə məhbus etmək ilə bizləri həddən zyadə borclu edib. Ona binaən mən iki tuğra ərizə Şamaxı qubernasına və bir tuğra ərizə dəxi canişin həzrətlərinə dörd ay üç həftə olur ki, pişnihad etmişəm. Hənuz mənə rizamendlik hasil olmayıb. Şimdi sizin ədalət və mürüvvətinizə ümmidvar olub dördümcü ərizədir ki, pişnihad edib istida edirəm ki, Allah-taala xatirinə bir nəfər özünüz etibar edən çinovnik təyin buyurasız ki, naçalnik-vilayətin ixtiyaratı və tərəfgirliyi mənzur olmayıb Qarabağ vilayətinin əramine və islamiyyə xəlqindən and ilə təhqiqi-məratib olub həqq olan tərəfə rizalıq mərhəmət oluna. İnsaf, mürüvvətdən uzaqdır ki, bitəhqiqi-məratib və bicürmü günah həmin iki nəfər əşxasın zoru ilə ki, cənab knyaz və cənab Cəfərqulu ağa olsunlar, bir ocaqi-qədim xərab və bir silsilə bədbəxt və bir kənd viran olsun.
+Belə ki, mən bəyzadələrdən və əsl ocaq sahiblərindən varam. Özüm də 65 sinni təmam eləmişəm. Hənuz məndən xilafi-zabitə iş baş verməyib və dəftərxanalarda mənim adıma bihesab mərqum deyil. Nəhayət şimdi bir il təmam olur ki, Şuşa şəhərinin Uyezdni naçalniki knyaz Tarxan Mourovov öz ixtiyaratının zoru ilə və polkovnik Cəfərqulu ağanın təhriki ilə bicürmü günah və bitəhqiqi məratib məni və mənə təəllüq Xındıristan kəndini təxminən yeddi yüz atlı ilə ki, o cümlədən Cəfərqulu ağa olsun, bir növ taxtü qarət ediblər ki, tamam ac və möhtac qalmışıq və o zülmlər ki, bizlərin başına gətirib əvvəldən axıra heç bir kəsin başına gəlməyib. Əvvəla, mənə xəlayiq içində ruberu föhşlər deməklə mənim nəcabətimi bilmərrə itirib; ikinci, mənim və övladımın on doqquz baş əyalımızı həddən ziyadə bihörmətlik ilə Şuşa şəhərinə zəval aparıb, hənuz o cümlədən mənim oğlum Nəcəfqulu bəyi və qardaşım oğlu İskəndər bəyi bicürmü günah qanunsuz bu ərzi-müddətdə məhbus etmək ilə bizləri həddən zyadə borclu edib. Ona binaən mən iki tuğra ərizə Şamaxı qubernasına və bir tuğra ərizə dəxi canişin həzrətlərinə dörd ay üç həftə olur ki, pişnihad etmişəm. Hənuz mənə rizamendlik hasil olmayıb. Şimdi sizin ədalət və mürüvvətinizə ümmidvar olub dördümcü ərizədir ki, pişnihad edib istida edirəm ki, Allah-taala xatirinə bir nəfər özünüz etibar edən çinovnik təyin buyurasız ki, naçalnik-vilayətin ixtiyaratı və tərəfgirliyi mənzur olmayıb Qarabağ vilayətinin əraminə və islamiyyə xəlqindən and ilə təhqiqi-məratib olub həqq olan tərəfə rizalıq mərhəmət oluna. İnsaf, mürüvvətdən uzaqdır ki, bitəhqiqi-məratib və bicürmü günah həmin iki nəfər əşxasın zoru ilə ki, cənab knyaz və cənab Cəfərqulu ağa olsunlar, bir ocaqi-qədim xərab və bir silsilə bədbəxt və bir kənd viran olsun.
 
-Bavücudi in ki Xındıristan kəndi kimi Qarabağ vilayətində kəsbkar, füqərə kənd yoxdur və mənim kimi fəraqət və öz halı ilə dolanan adam yoxdur. Mənim bu ərzimin doğruluğunu bundan bilmək olur, sabiq dəftərxanalarda mənim və mənə təəllüq rüəyalərin həqqində bir xilafi-zabitə iş mərqum deyil və bilfeil hərgah təhqiqi-məratib oluna əhli-vilayətdən bir nəfər şikayətmənd adam tapılmaz. Məgər ki, şol iki nəfər əşxasın ixtiyarati ilə və tərəfgirliyi ilə bir para adamlar böhtan demiş olalar. Bu zülmlər ki, bizlərin başına gəlib əlaniyyə gərək Cəfərqulu ağaya və onun qardaşlarına təəllüq Şükürağalı obasının xəlqinə olaydı. Belə, mən doğruluq ilə şol obanın əhlinin şol həramzadə Behbud ilə əlaqələrin və çörək verib mühafizət etməyin iyun ayının 24-də və iyul ayının əvvəlində Şamaxı qubernasına pişnihad etdigim ərizədə müfəssəl qeyd etmişəm. Ümmidvaram şol iki nəfər əşxaslar öz zor qüvvələrinə xatircəm olub mən dövləti-aliyyənin ədalət və mürüvvətinə və zakonuna xatircəm olmağıma görə öz təmənnamdan məyus olmuyam. Padişahi-aləmpənahın biriya və qədimi-daim olan zakonu ilə və ədaləti ilə rəftar oluna.
+Bavücudi in ki Xındıristan kəndi kimi Qarabağ vilayətində kəsbkar, füqərə kənd yoxdur və mənim kimi fəraqət və öz halı ilə dolanan adam yoxdur. Mənim bu ərzimin doğruluğunu bundan bilmək olur, sabiq dəftərxanalarda mənim və mənə təəllüq rüəyalərin həqqində bir xilafi-zabitə iş mərqum deyil və bilfeil hərgah təhqiqi-məratib oluna əhli-vilayətdən bir nəfər şikayətmənd adam tapılmaz. Məgər ki, şol iki nəfər əşxasın ixtiyaratı ilə və tərəfgirliyi ilə bir para adamlar böhtan demiş olalar. Bu zülmlər ki, bizlərin başına gəlib əlaniyyə gərək Cəfərqulu ağaya və onun qardaşlarına təəllüq Şükürağalı obasının xəlqinə olaydı. Belə, mən doğruluq ilə şol obanın əhlinin şol həramzadə Behbud ilə əlaqələrin və çörək verib mühafizət etməyin iyun ayının 24-də və iyul ayının əvvəlində Şamaxı qubernasına pişnihad etdigim ərizədə müfəssəl qeyd etmişəm. Ümmidvaram şol iki nəfər əşxaslar öz zor qüvvələrinə xatircəm olub mən dövləti-aliyyənin ədalət və mürüvvətinə və zakonuna xatircəm olmağıma görə öz təmənnamdan məyus olmuyam. Padişahi-aləmpənahın biriya və qədimi-daim olan zakonu ilə və ədaləti ilə rəftar oluna.
 
 *Təhrirün: fi 24 mehr oktobr 1850*
 
@@ -2959,7 +2959,7 @@ Görmüşəm nüsxədə bir türfə misal,
 Yedilər, içdilər bir neçə müddət.
 
 Təqdiri-qəzadən üç gün, üç gecə
-Ov keçmədiələ, oldusa necə.
+Ov keçmədi elə, oldusa necə.
 
 Aqibət, tapdılar səbahə yavuq
 Bir qoyun, bir quzu, bir də bir tovuq.
@@ -3083,7 +3083,7 @@ Həvayi-zövq ilə bir neçə əfrad,
 Oxuyam sövt ilə hərçi badə-bad”.
 
 Dəvə dedi: “bu nə sözdür ay əhməq,
-Müsəmma imişsən ismınə, əlhəqq!
+Müsəmma imişsən isminə, əlhəqq!
 
 Güclən qurtarmışıq rəncü təəbdən,
 Növi-bəşər eylədiyi qəzəbdən.
@@ -3227,10 +3227,10 @@ Ahuyi-pabəndə verib təsəlli,
 Qanadı on isə, eyləyib əlli.
 
 Gəlib həmrəhlərə gətirdi xəbər,
-Bir neçə nalevü şiyvən etdilər.
+Bir neçə naləvü şiyvən etdilər.
 
 Təkəllümə gəlib dedi kəsəyən:
-“Onun encamını yaxşı billəm mən.
+“Onun əncamını yaxşı billəm mən.
 
 Məni qanadının üstünə götür,
 O yer ki, ahunu görübsən, yetir.
@@ -3256,7 +3256,7 @@ Gördülər tısbağa üftanü xiyzan,
 Zəbani-təərrüz etdilər diraz,
 Söylədilər: “bu nə işdi, anlamaz?!
 
-Nə fikr ilə gəldin buraya, görək,
+Nə fikr ilə gəldin burayə, görək,
 Səndən bizə olacaqdı nə kömək?
 
 @@ 053
@@ -3279,13 +3279,13 @@ Necə dura billəm sizdən kənarə?
 Tanrı o yoldaşa eyləsin qəzəb,
 Kim, dari-dünyada ola xüdtələb!
 
-Üç həmrahi-sadiq tək olsun azad,
+Üç həmrəhi-sadiq tək olsun azad,
 Mənimki səhldir, hərçi bada-bad!”
 
 Gövtüğunu bunlar etməmiş təmam
 Gördülər ki, gəlir mərdi-bədəncam.
 
-Həmrahi-çarümdən əl çəkib naçar,
+Həmrəhi-çarümdən əl çəkib naçar,
 Ahu, siçan, qarğa etdilər fərar.
 
 Səyyad gəlib ol məqamə yetişdi
@@ -3406,7 +3406,7 @@ Bu məsəli eyləməsin fəramuş:
 Əvvəl gərək suyu yoxlasın möhkəm,
 Boylayandan sonra soyunsun adəm.
 
-Nəinki etməyib fikir,əndişə,
+Nəinki etməyib fikir, əndişə,
 Sala canavar tək özünü işə.
 
 Həm özünün payın, həm onun payın
@@ -3662,7 +3662,7 @@ Rəhmin gəlsin binəvayə, fəqirə.
 Bir ölkənin olmaz iki sərdarı,
 lazımdır ki, sən çəkəsən bu anı;
 
-Gətirirdim sizə bir fəhbəh şikar,
+Gətirirdim sizə bir fəhbeh şikar,
 Ərzi-rəhdə oldum bir şirə düçar.
 
 Bunca dedim, tüməsidir əmirin,
@@ -3745,7 +3745,7 @@ Xanəyek müttəfiq, yekdil, yekcəhət,
 Yox idi arada bir sirri-xəlvət.
 
 İkisinin əkli rig ilə torpaq,
-Dəvənin töməsi giyahü yarpaq.
+Dəvənin töməsi giyahü yapraq.
 
 Gəzərkən tapdılar bir girdə çörək,
 Dedilər, aparıb mənzildə yeyək.
@@ -3789,7 +3789,7 @@ Həq bilir ki, özgə payda gözüm yox.
 Püşk atsanız əgər, raziyəm püşgə,
 Qoy düşsün düşəcək hər kimə kişgə”.
 
-Dedilər: “nə lazım püşk alaq elə,
+Dedilər: “nə lazım püşk alaq ələ,
 Şükr olsun xudaya, münsifik hələ.
 
 Hər kəs öz yaşını eyləsin izhar,
@@ -3834,7 +3834,7 @@ Ol zaman ki, həyyü qadiri-muxtar
 İstədi ki, yer-göy ola bərqərar,
 
 Adəm harda idi, Həvva kim idi?
-Mələyki-ərşi-əla kim idi?
+Məlaiki-ərşi-əla kim idi?
 
 Bir xaliqin özü, bir mən var idim,
 İndi belə görmə, bir minar idim.
@@ -3992,7 +3992,7 @@ Aqil gərək yeksan ola hər zaman,
 Qoymaya qəlbinə yol tapa şeytan.
 
 Nə öylə pərişan – şad ola düşmən,
-Nə öylə başaşət – tən edə görən.
+Nə öylə bəşaşət – tən edə görən.
 
 Çöllərdə bağırmaq xırs adətidi,
 Xanədə ağlamaq zən sənətidi.
@@ -4353,13 +4353,13 @@ Apardılar ləzzət, sürdülər vəhdət,
 Ta ki, tamam oldu vədeyi-şürut,
 Ev-eşiyi xacə döşədib məzbut,
 
-İstədi hüzura təzə damadı,
+İstədi hüzura tazə damadı,
 Təqrib ilə bəd mübarəkbadı.
 
 Dedi: “ey cani-mən, gər olsan razi,
 Təlaqı pəs etsin cənabi-qazi.
 
-Əqdi-təzə kəssin öz şövhərinə;
+Əqdi-tazə kəssin öz şövhərinə;
 Ərus getsin məkanına, yerinə.
 
 Boş qalıb müddətdi evi-məhləsi,
@@ -4371,7 +4371,7 @@ Fəqir əri gecə dükkanda yatar,
 Dərdmənd başını salıb aşağa,
 Durdu yavaş-yavaş yer qurtlamağa.
 
-Nə qədər nəfəsə tacir dom verdi,
+Nə qədər nəfəsə tacir dəm verdi,
 Çıxmadı oğlandan bir nəfəs gördi.
 
 Durub gedən vəqtdə dedi: “Ey mövla!
@@ -4425,7 +4425,7 @@ Düxtarimi səndən boşatmazam mən.
 @@ 068
 
 Və ya inki tapam sözündə yalan,
-Qızımın talağın verməzdin asan,
+Qızımın talağın vermədin asan,
 
 Bir gecə boğdurub səni nihanı,
 Bu üsrətdən xilas eylərəm anı.
@@ -4463,7 +4463,7 @@ Bəlkə yetə dadə Əhmədi-Muxtar.
 Sərməsti-badeyi-cami-məhəbbət,
 Biğəmü əndişə sürərdi vəhdət.
 
-Otuz doqquz ta ki, yetdi itməmə,
+Otuz doqquz ta ki, yetdi itmamə,
 Afitabi-iqbal üz qoydu şamə.
 
 O axşam ayılıb xabi-qəflətdən,
@@ -4528,7 +4528,7 @@ Xacəsəralərə bildirdi tamam.
 Özü rəxti-xabə girdi xatircəm,
 Görək necə oldu qəribi-pürğəm.
 
-Səhər olub, tulu etdi afitab,
+Səhər olub, tulu, etdi afitab,
 Xacə dərgahına düşüb inqilab.
 
 Buyurdu bir neçə qulami-bibak,
@@ -4587,7 +4587,7 @@ Bunun əhvalından olub xəbərdar.
 Əlqərəz, bir şəxsi-vəzirmanənd
 Zər nimçəyə qoyub daşü qaşü çənd.
 
-Diybaya bükülmüş bir də bir namə,
+Diybayə bükülmüş bir də bir namə,
 Götürüb apardı darüssəlamə.
 
 Guya bunlar təarüfi-Misrdir,
@@ -4615,7 +4615,7 @@ Betəriqi-rüşvət iki kisə zər,
 Gərçi günahkaram, “məza ma məza”.
 
 Sahibsən bu gündən belə əmvalə,
-Tərəhhüm qıl, məni verməzəvalə”.
+Tərəhhüm qıl, məni vermə zəvalə”.
 
 Əlqərəz, hüzurə olub müşərrəf,
 Gördülər düzülüb xəvanin səf-səf.
@@ -4730,7 +4730,7 @@ Seyr edirdi bir gün səmti-bazarı,
 Dəri-gərmabəyə düşdü güzarı.
 
 İttifaq növgüli-gülzari-irəm,
-Növvadeyi-vali, adı Şahsənəm,
+Nəvvadeyi-vali, adı Şahsənəm,
 
 Bürci-aban bipərdəvü bihicab,
 Üz qoydu dışraya, misli-afitab.
@@ -4743,7 +4743,7 @@ Apardılar şəmi, qaldı pərvanə.
 
 @@ 072
 
-Pərvanənin pəri balı yanmışdı,
+Pərvanənin pərü balı yanmışdı,
 Atəşin cigərin həsrət almışdı.
 
 Yara götürmüşdü ovçudan nəxcir,
@@ -4812,7 +4812,7 @@ Məni-biçarəni tez azad edə”.
 Ağzını açan tək tanıdı övrət,
 Bildi ki, fəqirə kimdəndir afət.
 
-Söylədi: “biçarə, əfsus, səd əfsus!
+Söylədi: “biçarə, əfsus, səd, əfsus!
 Aşiqə müsavi gərək olsun dus.
 
 Sən bir qərib adam, o valizadə,
@@ -5008,7 +5008,7 @@ Aya gətiribsiz təbibi-haziq?
 Mərəzimiz birdir, bəlkə qurtarə”.
 
 Dedi: “ey bişərmü birəhmü bibak,
-Elədiyin yetmoz bir canı həlak?
+Elədiyin yetməz bir canı həlak?
 
 Elərsən əlavə mənə istehza,
 Guya ki, deyilsən xəbərdar əsla.
@@ -5028,7 +5028,7 @@ Aləm aşikara bəlayi-candı.
 Əcuzeyi-eşqin çoxdur üsuli,
 Bu barədə həq deyibdir Füzuli:
 
-“Can verməqəmü-eşqə ki, eşq afəti-candır,
+“Can vermə qəmü-eşqə ki, eşq afəti-candır,
 Eşq afəti-can olduğu məşhuri-cahandır”.
 
 # Tərlanlar və Elçilər
@@ -5037,7 +5037,7 @@ Eşq afəti-can olduğu məşhuri-cahandır”.
 Göndərirdi Şahi-Yəmənə sovqat.
 
 O cümlədən üç-dörd bəhlə şahibaz,
-Müheyya eləyib tərlani-mümtaz.
+Müheyya eyləyib tərlani-mümtaz.
 
 Zərduz pəçənbəndü mina gərdənbənd,
 Hər birinin üstə mirvaridi-çənd.
@@ -5056,7 +5056,7 @@ Verib dörd nəfərə biməksü direng.
 
 @@ 076
 
-Buyurdu ki, olun əzimi-Yəmən,
+Buyurdu ki, olun azimi-Yəmən,
 Sübh nəmazına duran vəqt mən.
 
 Əmanət, əmanət, siz olun tarı,
@@ -5199,7 +5199,7 @@ Mücrimi bunlardan eyləyin qiyas!”.
 Xoş düşüb təbinə şahın bu süxən,
 Dedi: “ey müslihan, əhsən, səd əhsən!”.
 
-Xərsüvar oldular obrəş süvaran,
+Xərsüvar oldular əbrəş süvaran,
 Rusəfid oldular siyahkaran.
 
 Çox nəf hasildir bu hekayotdən,
@@ -5233,8 +5233,8 @@ Tuli-kəlam eylər məclisi məlul.
 Bir dərvişi-biismətü bihəya,
 Mübtəlayi-şəhvət, talibi-zina
 
-Dağın dəmənindən keçərkən nagah
-Ol birini səfid, dərüni siyah
+Dağın damənindən keçərkən nagah
+Ol biruni səfid, dəruni siyah
 
 Gördü ki, bir gəlin yekkəvü tənha
 Su götürüb çaydan, çü sərvi-rəna
@@ -5672,7 +5672,7 @@ Tapmadım dərdimə dərman, axtardım,
 Nə mən öldüm bu möhnətdən qurtardım,
 Nə cövrü cəfadən dilbər usandı.
 
-Cünun olur gören məstanə gözün,
+Cünun olur görən məstanə gözün,
 Nəməki söhbətin, məzəli sözün;
 Zakir neçə gündür itirib özün,
 Əvvəldən bir müddət yaxşı dayandı.
@@ -5883,7 +5883,7 @@ Qorxuram dağıla zəru zivərin.
 Başın qüllabəsin, belin kəmərin
 Hər birin bir yana atmaq çağıdı.
 
-Üz bürümməz yar yarını görəndə,
+Üz bürüməz yar yarını görəndə,
 Bu xasiyyət nədir bilmərəm səndə?
 Biganələr kimi oturma gendə,
 Gəl sarmaşaq, alıb-satmaq çağıdı.
@@ -5983,7 +5983,7 @@ Gözəllər yanında etibarı var.
 
 * * *
 
-Dilbər, sən gədəli xəstə düşmüşəm,
+Dilbər, sən gedəli xəstə düşmüşəm,
 Gəl gör ki, intizardı can sənə.
 Ruzigarım qara keçdiyin məgər
 Söyləməyib zülfi-pərişan sənə?
@@ -6106,7 +6106,7 @@ Sizi tarı, deyin yara düşəndə,
 Məgər əl götürüb əmanətindən?
 
 Nə xoşdur cananə canı yetirmək,
-Doyunca nəzarə eləyib ölmək.
+Doyunca nəzarə eyləyib ölmək.
 Aşiqə məşuqun didarın görmək
 Ziyadədi Kəbə ziyarətindən.
 
@@ -6147,12 +6147,12 @@ Od salıbdı asimanə, ay mədəd!
 Dur sallan, dur sallan, boyun qurbanı,
 Tamaşalar etsin sənəmlər sənə.
 Doğrasın əllərin turunc yerinə,
-Baxa-baxa qalsın harəmlər sənə.
+Baxa-baxa qalsın hərəmlər sənə.
 
 Kimin ki, güzarı düşsə kuyinə,
 İlişir yüz yerdən tari-muyinə,
 Qoymazsan doyunca baxa ruyinə,
-Aşiq olan adam verəmlər, sənə.
+Aşiq olan adam vərəmlər, sənə.
 
 Bari-möhnət əyib qəddi-dalımı,
 Xəzanə döndərib rəngi-alımı;
@@ -6186,7 +6186,7 @@ Saralıb gül rəngi solubdu gördüm.
 Kamana dönübdü qaməti-mövzün,
 Əhvalını fələk edib digərgün.
 Gecə-gündüz ağlamaqdan əşki-xun
-Almas kipriklər yolubdu gördüm.
+Almas kiprikləri yolubdu gördüm.
 
 Hanı mən gördüyüm əhmər yanaqlar,
 Müsəlsəl geysular, nəsrin buxaqlar?
@@ -6284,7 +6284,7 @@ Yetişə ol şahdan növalə sənə?
 * * *
 
 Ey əndəlib, səndə bu nə qanundu –
-Fəğan çəkmək növbahanı görəndə?
+Fəğan çəkmək növbaharı görəndə?
 Əgər ki, mətləbin gül görmək isə,
 Kirisnə gülüzarı görəndə.
 
@@ -6339,7 +6339,7 @@ Xahi oynamasın, xahi oynasın.
 
 * * *
 
-Ey yığılan canlar, siz olun tanı,
+Ey yığılan canlar, siz olun tarı,
 Amandı, qoymayın, yar oynamasın.
 Bir belə adamın içində, yəqin,
 Əlbəttə, bədnəzər var, oynamasın.
@@ -6352,7 +6352,7 @@ Gen dünya başıma dar, oynamasın.
 Xəlq içində xəcil etməsin bizi,
 Müştaqdır gözünə aləmin gözü;
 Yel atar çarqatın, açılar üzü,
-Bədə gedər namus-ar oynamasın.
+Badə gedər namus-ar oynamasın.
 
 Oynamağa həvəs eyləsə, barı,
 Oynasın gecə saf olanda yarı;
@@ -6555,7 +6555,7 @@ Durub pərvanə tək dolanıb başa,
 Siyah zülfün tutum, çənəndən öpüm.
 
 Kəsilib könlümün səbrü qərarı,
-Al canımı qurtar barı, sən tanı.
+Al canımı qurtar barı, sən tarı.
 Öldürən zamanda Zakiri-zarı,
 Əl saxla bir, qanlı qəməndən öpüm.
 
@@ -6778,7 +6778,7 @@ Xəstə Zakir qala külxən içində.
 
 Könül, əbəs yerə üzmə canını,
 Xubların əhdində olmaz vəfası.
-Avarə qoyarlar aşinaların,
+Avarə qoyarlar aşinalərin,
 Yadlar ilə olur zövqü səfası.
 
 @@ 098
@@ -6873,7 +6873,7 @@ O iki nərgisi-bimarə səni.
 
 Qan tökərsən birdən ayrı düşəndə,
 Xəlq içrə abi-ru qoymadın məndə;
-Doxi bir də gətirmərəm gələndə,
+Dəxi bir də gətirmərəm gələndə,
 Tapşırram türreyi-tərrarə səni.
 
 Hər yerdə ki, görsən bir səhi gərdən,
@@ -6882,7 +6882,7 @@ Bir adam yoxdu ki, bu bəlalərdən
 Çıxarıb bir kərrə qurtara səni.
 
 Baxa-baxa xalü xəttə, üzarə,
-Zakirin gününü elədin qarə;
+Zakirin gününü eylədin qarə;
 Bir dərdə salıbsan, tapılmaz çarə,
 Görüm ki, olasan biçarə səni.
 
@@ -7086,7 +7086,7 @@ Lövhi-cəbinində katibi-qəza
 Müjganın sayəsi yırtıb üzünü,
 Qan tökülüb gül yanağın üstünə.
 
-Müsəlsəl geysular ruxi-al üzrə,
+Müsəlsəl geysulər ruxi-al üzrə,
 Bir buluda bənzər məhcəmal üzrə,
 Pərtövi-hüsnündür xəttü xal üzrə,
 Yoxsa gün düşübdür dağın üstünə?
@@ -7132,7 +7132,7 @@ Gündə bir üzümə çalmasın barı!
 
 Adəm idi məkanında, yerində,
 Əqlü huşu qalmayıbdır sərində,
-Kəmində çəkərdi Zakir dərində,
+Kəminə çəkərdi Zakir dərində,
 Onun təqsirinə qalmasın barı!
 
 * * *
@@ -7301,7 +7301,7 @@ Yarımadım hərgiz yarü həmdəmdən;
 Ya öldürsün məni, qurtarsın qəmdən,
 Versin muradımı, ya da gedirəm.
 
-Baş ağardı, ömür keçdi yanıdan,
+Baş ağardı, ömür keçdi yarıdan,
 Qurtarmadıq hərgiz ahü zarıdan.
 Bu gün neçə gündü canan sarıdan
 Yetibdi guşuma səda, gedirəm.
@@ -7375,7 +7375,7 @@ Atdı, vurdu, yıxdı, keçdi çəpəndaz,
 Könül əqəbincə dərbədər olmuş.
 
 Yetişən zamanda başa sinnü sal,
-Didarını görcək rəf oldu molal;
+Didarını görcək rəf oldu məlal;
 Gəlib təravətə gülşəni-xəyal,
 Şükufələr açıb barvər olmuş.
 
@@ -7416,7 +7416,7 @@ Mən də bir pərinin divanəsiyəm.
 Qurbanam özünə, həm yoldaşına,
 O xumar gözünə, hilal qaşına.
 Nə olur pinhani bir sirdaşına
-Deyo: "filaninin cananəsiyəm".
+Deyə: "filaninin cananəsiyəm".
 
 Mən Zakirəm, budur sözüm, söhbətim,
 Nadan ilə yoxdur hərgiz ülfətim,
@@ -7460,7 +7460,7 @@ Gedib növrəsidə cavanə sevər.
 Qəm deyildi sevsə idi əzəllər,
 Eşidən tən edib indi bəzəllər;
 Deməz, mənə qədr eyləməz gözəllər,
-Əbos yerə olub divanə, sevər.
+Əbəs yerə olub divanə, sevər.
 
 Aşiqlik işində xeyli pürfənəm,
 Fərhada, Vamiqə, Məcnuna tənəm;
@@ -7535,7 +7535,7 @@ Olmadı bir gecə qonaq gözlərin.
 
 * * *
 
-Sevdiyim, gəlo-gör bahar fəslidir,
+Sevdiyim, gələ-gör bahar fəslidir,
 Könül istər gəzə bağı səninlə.
 Gecə qucaqlaşıb yataq qol boyun,
 Bir də duraq səhər çağı səninlə.
@@ -7794,7 +7794,7 @@ Dəmbədəm yadına salı gözəlerim.
 Başadək olmadı didarın qismət,
 Qorxuram ki, ala canımı həsrət;
 O qədər çıxmadı, gördü aqibət
-Son gəzən yerləri xali gözlərim.
+Sən gəzən yerləri xali gözlərim.
 
 Firqət odu məni yandırıb yaxar,
 Sübhü şam didəmdən qanlı yaş axar;
@@ -8081,7 +8081,7 @@ Zovrəqim sınıbdır ağulanmışam.
 
 Hicr əlindən pərişanəm üzüldü,
 Qara bəxtim zülfün kimi üzüldü
-Dərdü qəm çəkmək dən canım üzüldü,
+Dərdü qəm çəkməkdən canım üzüldü,
 Ömür keçib, indi ağulanmışam.
 
 Mən Zakirəm dilim dönməz hər ada,
@@ -8137,7 +8137,7 @@ Aləm bilir odur oturan sənə.
 
 Uca dağlar dərdim ilə yar olmaz,
 Bir sinəyə ox dəyməsə yar olmaz
-Əbəs yerə cəfa çəkmə yar olmaz.
+Əbəs yerə cəfa çəkmə yar olmaz
 Rəqib ilə durub, oturan sənə.
 
 Görməmişəm zülfün kimi tərlanı
@@ -8269,7 +8269,7 @@ Yanmaqda məni bilməyin
 Oda pərvanədən ayrı.
 
 Saqi, məni namuradə
-Dərdi-sər verməziyadə;
+Dərdi-sər vermə ziyadə;
 Hərgiz içərəmmi badə
 Çeşmi məstanədən ayrı?
 
@@ -8302,7 +8302,7 @@ Qəmi-eşqin varə-varə
 
 Nəzər sallam solü sağa,
 Bir kimsə yox danışmağa,
-Bu qədər dərdi-fəraği
+Bu qədər dərdi-fərağa
 Axır necə dözüm sənsiz.
 
 Gələ gör ki, növcəvanım,
@@ -8840,10 +8840,10 @@ Qoynunda gördügünü.
 
 * * *
 
-Aşiq Minaya dəgər,
-Xalın Minaya dəgər,
+Aşiq Minayə dəgər,
+Xalın Minayə dəgər,
 İl var bir günə dəgməz,
-Gün var min aya dəgər.
+Gün var min ayə dəgər.
 
 * * *
 
@@ -8914,7 +8914,7 @@ Bir hiylə ilə gizlənibən zülf arasında,
 Pünhan gedə bilsəydim əgər şanələr içrə.
 
 Könlüm quşu pərvaz qılır kuyi-nigarə,
-Zahir ki, onun qismət var danələr içrə.
+Zahir ki, onun qisməti var danələr içrə.
 
 Dil mülkünə göndər həşəmi-dərdü fəraqı,
 Şənlik düşə ta bəlko bu viranələr içrə.
@@ -8951,7 +8951,7 @@ Adəm idim xəlq ara, özgə idi hörmətim.
 Niyyətim oldur dönüb başına pərvanələr,
 Dönsəm əgər başına hasil olur niyyətim.
 
-Pənbeyi-daği-cünun məhz kəfəndir mənə,
+Pənbeyi-dağı-cünun məhz kəfəndir mənə,
 Billah ölən vəqtdə kimsəyə yox minnətim.
 
 Deyri-xorabat ara bir sənəmə talibəm,
@@ -8971,10 +8971,10 @@ Hər nə ətvar, rəviş var bu bədxuda bəla.
 Zülfi-pürçinin ucundan, nə deyim, çin-çindir
 Çin mülkündə xəta, kişvəri-hindudə bəla.
 
-Zöhrəsi çak olur hər görənin, əfiveş,
+Zöhrəsi çak olur hər görənin, əfivəş,
 Guyiya qat-qat olub həlqeyi-geysudə bəla.
 
-Dami-geysuları əgər almasa rahi-güzəri,
+Dami-geysulər əgər almasa rahi-güzəri,
 Qandadır seyr zənəxdə, nigahi-rudə bəla.
 
 Gəlmədi, saçı arasında yəqin itdi könül,
@@ -9026,7 +9026,7 @@ Düşmüş şikəst dəlv kimi abruydən,
 Salmaz o şux çahi-zənəxdanə könlümü.
 
 Çıxmaz saçı xəyalı könüldən, tikib məgər,
-Məmari-sünəfilərə xanə könlümü?
+Memari-sünəfilərə xanə könlümü?
 
 Dönə-dönə dedim gözə ki, dincələn deyil,
 Gözdən irağə qoyma bu divanə könlümü.
@@ -9079,7 +9079,7 @@ Xuddamləri müjdeyi-bimarə dağılsın.
 Bir ləhzə o birəhmə nihan şərhi-qəmim var,
 Allahı sevərsiz, deyin əğyarə dağılsın.
 
-Vəhmim budu, yol vermeylər ləxti-cigərdən,
+Vəhmim budu, yol verməylər ləxti-cigərdən,
 Təqsim eləyim, hər itə bir parə dağılsın.
 
 Göz mərdümü məşqi-xəti-hüsnün həvəs eylər,
@@ -9103,7 +9103,7 @@ Mənə bu zəfü bihallıq, saqınma, parlikdəndir,
 Gözün fikri məni yornuq salıb ahuqovanlar tək.
 
 Eşitmiş xəstəhaləm, göndərib şux qəmzə peykanın,
-Tutar goh-gəh rəngi-canı təbibi- mehribanlar tək.
+Tutar gəh-gəh rəngi-canı təbibi- mehribanlar tək.
 
 Dili-divanə müddətdi gedib, başımdan olmuşdu,
 Genə zalim bu gün çıxdı bəlayi-nagəhanlar tək.
@@ -9348,7 +9348,7 @@ Təslim eylə cani cananə yavaş-yavaş.
 * * *
 
 Zülfündümü dövri-rüxü-zibayə dağılmış?
-Ya Çinü Xəta ləşkəri yeğmayə dağılmış?
+Ya Çinü Xəta ləşkəri yəğmayə dağılmış?
 
 Ətrafi-ləbi-ləldə xəttindimi,yoxsa,
 Hind əhli yəmən mülkünə sövdayə dağılmış?
@@ -9392,7 +9392,7 @@ Abi-həyat çeşməyi-ləli-ləbindədir,
 Olmaz bəqayi-Xizrü Məsiha sənin kimi.
 
 Başdan əyağə pərtövi-ənvarsən, Kəlim
-Haşa ki, göstərə yodi-beyza, sənin kimi.
+Haşa ki, göstərə yədi-beyza, sənin kimi.
 
 @@ 133
 
@@ -9480,7 +9480,7 @@ Bu iki fərdi yazıb ol dəni nəvazə verə.
 @@ 134
 
 Rəqib-məhrəmi-bəzmi-vüsal, mən-məhrum,
-Rəvadırmü bu qüssə məni güdazə verə?
+Rəvadürmü bu qüssə məni güdazə verə?
 
 Bu Zakiri edə hicran fəzayi-qəmdə həlak,
 Həyat ləli-ləbin qeyrə tazə-tazə ver?
@@ -9496,7 +9496,7 @@ Mərdümi-didələrin əksi, gözümdə guya,
 Dəhənin rəmzini bilmək bizə, bənzər ona kim,
 Tifl əbcəd oxuyur, elmi-müəmmayə baxar.
 
-Ateşi-rəşk məni yandıdı, şömi keçirin
+Atəşi-rəşk məni yandıdı, şəmi keçirin
 Ki, məbada rüxi-gülrənginə həmsayə baxar.
 
 Yay qışı altına mərdümləri çeşmi-siyəhin,
@@ -9517,7 +9517,7 @@ Ləbi-meygunu görən sağəri-səhbayə baxar?
 Dəftəri-bərgi-gülü almış elə badi-səba,
 Bülbülün baqisi var, hasili-sövdayə baxar.
 
-Dedilər, var fələkdə sənə mənənd, Məsih,
+Dedilər, var fələkdə sənə manənd, Məsih,
 Yoxdu, bihudə çıxıb ərşi-müəllayə baxar.
 
 Vamiqü Qeys dəm urmaz dəxi aşiqlikdən,
@@ -9529,7 +9529,7 @@ Könlüm quşu seyd oldu gözü qaş arasında,
 Qanlar düşəcəkdir iki yoldaş arasında.
 
 Sədparə dilin hər itinə parəsi düşdü,
-Təqsim ola yağma necə ovbaş arasında.
+Təqsim ola yəğma necə ovbaş arasında.
 
 Bak eyləməzəm səngi-cofadən eşigində,
 İncirmi vətəndən, kəs ola daş arasında?
@@ -9827,13 +9827,13 @@ Qönçədən sorma dəhən sirrini, yoxdur xəbəri,
 Kuhü səhra çiçəyi elmi-müəmma nə bilir?
 
 Bənzər ahuyi-Xətayə baxışı filcümlə,
-Yoxsa tərzi-nigahi nərgisi-şəhla nə bilir?
+Yoxsa tərzi-nigəhi nərgisi-şəhla nə bilir?
 
 Zülfünün hər teli bir mari-siyah olsa əgər
 Tutaram, aşiqi-sövdazədə pərva nə bilir?
 
 Mülki dil fəthinə, derlər ki, gəlir ləşkəri-hicr,
-Gəlsə də qəmzeyi-qatil kimi yağma nə bilir?
+Gəlsə də qəmzeyi-qatil kimi yəğma nə bilir?
 
 Zahirən Zakiri-dilxəstədən öyrənmiş ola,
 Yoxsa ahəngi-nəva bülbüli şeyda nə bilir?
@@ -9931,7 +9931,7 @@ Ayağın basa saqi başım üzrə cana minnətdir,
 Neçin zöhd əhldən bir dərdməndə xeyrü şər gəlməz.
 
 Nə bir namə, nə bir qasid, nə bir peyki-səba, Zakir,
-Tutuşdu atəşi-hicrə dilü canü ciğər, gəlməz.
+Tutuşdu atəşi-hicrə dilü canü cigər, gəlməz.
 
 * * *
 
@@ -10044,7 +10044,7 @@ Bir asari-küdurət qoymayıb qəta çəmənlərdə.
 @@ 141
 
 Məzaqi-təlx olur şirin bu fəslin xani-vəslində,
-Müheyyadır sərasər neməti-üzmə çəmənlərində.
+Müheyyadır sərasər neməti-üzma çəmənlərində.
 
 Dəmi-nitqi-Məsiha tək müəssirdir dəmi sübhün
 Ki, feyzindən olur əmvatlar əhya çəmənlərdə.
@@ -10130,13 +10130,13 @@ Biədəb ərizi-yarə dil uzatmış kimidir.
 Əql ilə huş qaçar meydən ayaq tutunca,
 Nisyə mərdümi-şəhr əqmişə satmış kimidir.
 
-Təbi-sinəm oxunu, heyfdi, tez çək, əridər,
+Tabi-sinəm oxunu, heyfdi, tez çək, əridər,
 Haliya kürreyi-həddad qızartmış kimidir.
 
 Yar hali-dili-viranı xəbər alsa, deyin:
 Xaneyi-mücrimi sultan talatmış kimidir.
 
-Qönçənin başını hər sübhü məsə yarmaqdan,
+Qönçənin başını hər sübhü məsa yarmaqdan,
 Ol məhin ağzına məxfi dil uzatmış kimidir.
 
 Demə yoxdur əsəri ahü fəğanın, Zakir,
@@ -10160,7 +10160,7 @@ Töküb sirişk gözündən, deyərmi: ah, əfsus,
 Ki, həsrət öldü bu biçarə intizarım ilə.
 
 Təğafül eyləsə birdəm o səngdil, deyərəm,
-Fəğan ilən tutuban dəmənin qubarım ilə.
+Fəğan ilən tutuban damənin qubarım ilə.
 
 Bağışla cürmümü, ey şux kim, həyatmda
 Çox etmişəm səni azürdə ahü zarım ilə.
@@ -10214,7 +10214,7 @@ Fəth etdi sərvəri-vəsl cəmiyyəti-fəraqı.
 * * *
 
 Sənə hər mətləbi məxfi dedim, ey gül, əyan tutdun,
-Rəqibi-zişt karın aşikar, eybin nəhan tutdun.
+Rəqibi-ziştkarın aşikar, eybin nəhan tutdun.
 
 Oğurlar dövri-ruyində səri-zülfün əreq nəqdin,
 Nə pakizə əmin tapdın, nə yaxşı pasiban tutdun.
@@ -10392,7 +10392,7 @@ Tutmuş təmam yer üzünü dadxah zülf.
 Gərdənsüvar kakilü mişkinkülah zülf.
 
 Gəncineyi-comalı keçiribdi yarıdan,
-Hoddən füzundu axtaran olsa güvah, zülf.
+Həddən füzundu axtaran olsa güvah, zülf.
 
 Mən çox dedim sənə, az eşitdin, könül, künun
 Çıxsın canın, de: ah xətü xal, ah zülf!
@@ -10432,7 +10432,7 @@ Ləşkori-hind tutub Rumi, Bədəxşanə gəlir.
 Zindəganlıq mənə düşvardır ondan sonra,
 Bar-ilaha, mənə gəlsin, nə ki, cananə gəlir!
 
-Qorxuram Zakiri hicrin qəmi bir hələ sala,
+Qorxuram Zakiri hicrin qəmi bir halə sala,
 Gören adəm deyə “vay-vay!.. budu divanə gəlir”.
 
 * * *
@@ -10448,7 +10448,7 @@ Bilmərrə ta əvaxiri-şəban qıraq tut.
 
 @@ 146
 
-Tök cami-zərnigarə şəvəqgun bədəni,
+Tök cami-zərnigarə şəvəqgun badəni,
 Yəni fəraq şamına rövşən çıraq tut.
 
 Zar eyləmişdi xəlqi fəğanü nəvalərin,
@@ -10524,10 +10524,10 @@ Yadi müjən bağrımı paraləsə yox əcəb,
 Rəsmdi, məcruh olur, hər yerə peykan düşər.
 
 Rast düşüb bağ ara görsə qədü çeşmini,
-Sərv sıxıqlıq tapar, nərgisə talan düşər.
+Sərv sınıqlıq tapar, nərgisə talan düşər.
 
 Cameyi-əhmər geyib, yaxdın oda aşiqi,
-Necəki, xarü xəsə atoşi-suzan düşər.
+Necəki, xarü xəsə atəşi-suzan düşər.
 
 @@ 147
 
@@ -10543,7 +10543,7 @@ Hər kimin ki, nəzəri arizi-pürxalə düşər,
 Dami-geysulərə pabəstə olub, qalə düşər.
 
 Vəsmə çək qaşlarının tağına peyvəst olsun,
-Bu kəşakeş deyil, ay başına bir hələ düşər.
+Bu kəşakeş deyil, ay başına bir halə düşər.
 
 Aşiqi-xam-təməbusə dilər ləlindən,
 Bir deməz ki, nigəhindən ona təbxalə düşər.
@@ -10655,7 +10655,7 @@ Cahan içrə mənim bir dilbəri-naməhribanım var,
 Nə cövrinə şəkibim, nə cəfasına təvanım var.
 
 İtibdir nəqdi-can qaşü gözü qəmzə arasında,
-Hər üçü bassın əl ol müşəhefi-hüsnə, gümanım var.
+Hər üçü bassın əl ol müşhəfi-hüsnə, gümanım var.
 
 Həzər qıl qaməti-xəm birlə ahi-cangüdazımdan,
 Mühəqqər sanma, ey çərx, adəməm tirü kəmanım var.
@@ -10749,7 +10749,7 @@ Dedilər ki, var, yoxdur, hər yana mən vurdum əl,
 Zahiri xəlqin tiladır, batini simi-dəğəl,
 Sövti-nayə tundrov, banki-nəmazə kəmməhəl,
 Mən kimi məcmuəsi şayisteyi-qüllabü qəl,
-Bu mətə ilə hüzurə getmək olmaz mahəsəl,
+Bu məta ilə hüzurə getmək olmaz mahəsəl,
 Ya Əli, səndən mədəd, ya bülhsən, səndən həray!
 
 Abi-ənguri məcalisdə oxur naseh həram,
@@ -10771,7 +10771,7 @@ Ya Əli, səndən mədəd, ya bülhəsən, səndən həray!
 @@ 150
 
 Dərbədər düşmüş qələndər, dəmbədəm yahu çəkər,
-Döndərib üz xəlqə vaiz minbərə pəhlu çəkər,
+Döndərib üz xəlqə vaiz mənbərə pəhlu çəkər,
 Xüdnümalıqdandır ol kim, göz süzər, əbru çəkər,
 Qazinin tutumuş giribanın təmə hər su çəkər,
 Çavuşun ta kuyi-Məşhod ildə bir yol zu çəkər,
@@ -10848,7 +10848,7 @@ Vay o gündən ki, qalam qəbr içrə tənhavü qərib,
 @@ 151
 Məzrəi-əməl zaye, rusiyəh, zabit mühib,
 Nəməti-vəslin mənə gər olmaya ol dəm nəsib,
-Zəhreçək eylər məni xovfi-xətər, amməm-qərib,
+Zəhreçək eylər məni xovfi-xətər, ammən-qərib,
 Ya Əli, səndən mədəd, ya bülhəsən, səndən həray!
 
 Zərbi-təyin şölevər qılmış nübüvvət məşəlin
@@ -11113,7 +11113,7 @@ Səxt müşküldü günüm keçsə əgər bu minval.
 Bərq urar zülfi ara mahi-münəvvər təki ru,
 Haləvəş dairəsin sərbəsər almış geysu,
 Çəkilib lövhi-cəbinində dü taqi-əbru,
-Nə əcayib, nə qərayib, nə təməşadır bu,
+Nə əcayib, nə qərayib, nə təmaşadır bu,
 Kim görübdür ola ayda iki tazə hilal?
 
 Çəkməyib kitabi-qüdrət belə bir hüsni-həsən,
@@ -11164,7 +11164,7 @@ Küfr zülfü talayıb Çinü Xətavü Xütəni,
 Ləşkəri-xalü xəti Hində cavab etdi yenə.
 
 Keçdi əyyami-zimistan, yetişib fəsli-bahar,
-Eləyib seyri-çəmən naz ilə ol türfə nigar,
+Eyləyib seyri-çəmən naz ilə ol türfə nigar,
 Dalısınca dəfü ney, saqiyu sağər – nə ki var,
 İçibən cami-məhobbətdən, olub məstü xumar,
 Açıban bəndi-qəba, tərki-hicab etdi yenə.
@@ -11192,13 +11192,12 @@ Düşüb axırdı rahı, ola mehman kuyi-yarında.
 Ənisi-dərdü qəm aşiq olub məşuqinə vasil,
 Səri-zülfün tutub, almaq üzündfn buseyi-kamil,
 Arada pirəhəndən qeyri əsla olmaya hail,
-Boqədri-qüdrətü qüvvət edib məqsudi-dil hasil.
+Bəqədri-qüdrətü qüvvət edib məqsudi-dil hasil.
 Xülasə, qoymaya bir kəsrü kəm itmami-karında.
 
 Gecə əsnayi-söhbətdə binayi məkr edib xəlvət,
 Səhər vəqti qonum-qonşu arasında sala şöhrət,
 Filani xəstəhal olmuş, yox onda getməyə qüdrət,
-
 Genə o gecə, ol gün gərm ola həngameyi işrət,
 Bu şərt ilə ki, bədxah olmaya qürbü civarında.
 
@@ -11237,7 +11236,7 @@ Genə Zakir tək olmaq hər zaman fikri-şikarında.
 Nə xoşdur dövri-ruyində müsəlsəl ol qəra zülfün,
 Sərasər hər tükü üşşaqə bir dami bəla zülfün,
 İki şəhmarə bənzər gənci-hüsnündə düta zülfün,
-Bulanır hər tərəf, qovlar məni əfinümə zülfün,
+Bulanır hər tərəf, qovlar məni əfinüma zülfün,
 Nədəndir, bilməzəm, əfsunə gəlməz mütləqa zülfün.
 
 @@ 156
@@ -11261,13 +11260,13 @@ Bilib üftadəlikdəndir cahanda sərnişin olmaq,
 Budur vəchi, düşər pabusuna misli-gəda zülfün.
 
 Nəsimi-sübhdən rüxsari-al üzrə siyəh tellər,
-Sanasan pər açıb, zağü zəğ gülşəndə seyr eylər;
+Sanasan pər açıb, zağü zəğən gülşəndə seyr eylər;
 Özü pür-piç, ucları dümi-əqrəb kimi çənbər,
 Uzandıqca uzanır ömrü, yoxsa, ey pəri peykər,
 İçib ləli-ləbindən Xizrvəş abi-bəqa zülfün.
 
 Dolannam başına şamü səhər manəndi-pərvanə,
-Demzsən bir görün necə keçir əhvali-divanə,
+Deməzsən bir görün necə keçir əhvali-divanə,
 Bu qədri cövrü zülm insan edərmi, insan, insanə?
 Nə müddətdir düşübdür dəlvi-dil çahi-zənəxdanə,
 Nola çəngal ilə bir dəm çəkə müşgülgüşa zülfün.
@@ -11356,7 +11355,7 @@ Ta ki, sərgər oluban, eyləyim izhari-kamal,
 Mən deyildim belə ləbbəstə, pərişanəhval,
 Eyləmiş nitqimi bir tutiməqalın qomi lal.
 
-Neçə müddətdi gözüm görməz o simənd amı,
+Neçə müddətdi gözüm görməz o siməndamı,
 Eyləyib xəstə qəmi-hicri dili-nakamı,
 Eşq sövdasının, əlbəttə, budur əncamı,
 Ol cəfakar nigar ilə keçən əyyamı
@@ -11364,13 +11363,12 @@ Ol cəfakar nigar ilə keçən əyyamı
 
 Qərəzin gər budu – xoşnud ola səndən əhbab,
 Nə qədər var həyatın elə al cami-şərab,
-
 Hər iki aləm ara bil ki, odur fəthülbab,
 Sanma kim, əcrini həq verməyə, ey, xanəxərab!
 Baxma zahid sözünə, eyləmə bihudə xəyal.
 
 Ömrülərdir çəkərəm bir sənəmin bari-qəmin,
-Ruzü şəb dəğdəğeyi-möhnətü-cövri sitəmin,
+Ruzü şəb dəğdəğeyi-möhnətü-cövrü sitəmin,
 Üzümü fərşi-rəh etdim bu təmannayə həmin.
 İşləyib kövkəbi-talə, basa bəlkə qədəmin,
 Ruşinas edə məni ol məhi zərrin neal.
@@ -11407,7 +11405,7 @@ Yadi-rüxü zülfünlə olub leyl naharım,
 Nə səbrü sükunum, nə səbatım, nə qərarım,
 Məndən sora gər eyləyəsən seyr nəzarım,
 Basma qədəmin od tutar, ey tazə nigarım,
-Ateşgədədir sineyi-suzən, sənə qurban!
+Atəşgədədir sineyi-suzən, sənə qurban!
 
 Eşq əhlinə ölmək səri-kyində deyil qəm,
 Məqsudum olur hasil əgər mən dəxi görsəm,
@@ -11480,7 +11478,7 @@ Kar eyləməz əfsun.
 Göndərdi, qoşub bir-birinə çərx qəmini,
 Qılsın məni pamal.
 Sərəsgər edib onlara hicr adlımı, yəni
-Pürmokrü bədəfal.
+Pürməkrü bədəfal.
 Yox mu qədəri, tarı bilir, məzhəbü dini,
 Bir zalimü qəttal.
 Qaldım təkü tənha, məni biyarü həzini
@@ -11513,7 +11511,7 @@ Hər xeyr tökülsə, tökülür var ətəyindən,
 Bil vazehü aşkar.
 
 Ta onbeşədək bilmədin əsla nədir ehkam,
-“Tiflləm”, – dedin, ey dun.
+“Tifləm”, – dedin, ey dun.
 Müddət də dolandın arada sərxoşü sərsəm,
 Öz-özünə məmun.
 Əlbəttə, dedin:püxtə olar əllidə bu xam,
@@ -11539,7 +11537,7 @@ Xoş şəklü şəmayil.
 Oldun ona mayil.
 Daim süxəni-mərdümi-nasaz eşitdin,
 Yox sən kimi zail.
-Məsciddəvü minbərdə qışü yaz eşitdin,
+Məsciddəvü mənbərdə qışü yaz eşitdin,
 Yüz vəzü dəlayil.
 Cümlə dedilər: əl götü bədkar ətəyindən,
 Lənət sənə səd bar!
@@ -11583,7 +11581,7 @@ Al dərsi-məani.
 
 Ta var həyatım dilərəm nəkhəti-zülfü
 Ol badi-səbadən.
-Bir kərrə qəbul eyləməişəm beyəti-zülfi
+Bir kərrə qəbul eyləmişəm beyəti-zülfi
 Dönməm bu binadən.
 Yəğma götürür, hökm eyləsə, rəyəti-zülfü
 Çin ilə Xətadən.
@@ -11778,7 +11776,7 @@ Daşlandı qabağə.
 Kimdir ki, nisar eyləməyə varını, aya,
 Ha böylə qonağə?
 
-Xacə, belə sövda, belə bazarələ düşməz
+Xacə, belə sövda, belə bazar ələ düşməz
 Forş eylə dükanı.
 Bu saqiyi-sadə, meyi-gülnar ələ düşməz
 Tut rast, nəvanı.
@@ -11900,7 +11898,7 @@ Dün sübh çəməndə.
 Bu söhbəti qönçə necə pünhan edəcəkdi?
 Dildən dilə düşüdü.
 
-Meşuqə gərəkdir çəkə üşşaq qəmini,
+Məşuqə gərəkdir çəkə üşşaq qəmini,
 Dostluq ola baqi.
 Nə inki çala qətli üçün xəncəri-kini,
 Sürçəndə ayağı.
@@ -11990,7 +11988,7 @@ Məndə yox səbr, səxt naçarəm,
 
 @@ 166
 
-Bir demərzsən, görün, bu nalə nədir,
+Bir deməzsən, görün, bu nalə nədir,
 Bu qədər kim dərində sızlarəm.
 
 Şah olan eyləməz gədasına rəhm?
@@ -12010,7 +12008,7 @@ Məhrəmi-bəzmi olacaq əğyar.
 Həmdəmin osa idi bir adəm,
 Xəlq içində mənə deyildi ar.
 
-Nə ki, bir nadürüstü nəqabil,
+Nə ki, bir nadürüstü naqabil,
 Nə ki, bədtəriqü bədkirdar.
 
 Çəkə ağuşə cismi-yasəməni,
@@ -12057,7 +12055,7 @@ Ahuyi-dəşt kimi ürkər idin.
 Harda görsən bir əhli-bədkarı,
 Şərm edib ruyü muyin örtər idin.
 
-Meyli-hər naməünasib etməz idin,
+Meyli-hər namünasib etməz idin,
 Maili-aşiqi-süxənvər idin.
 
 İltifat eyləməzdin ədnayə,
@@ -12391,6 +12389,8 @@ Hər tərəf dəştü çəmən əlvandır!
 
 @@ 171
 
+### V
+
 Mən edərmi məni zahid kim, duş
 Məndən əfzun olub əknun mədhuş.
 
@@ -12450,6 +12450,8 @@ Yeksər kəsilib rəhi-mədarım.
 Ey dilbəri-xoşxuramü bədxu,
 Tərk eylə bu rəsmi, xoş deyil bu!
 
+### II
+
 Bir vəqt bizimlə həmdəm oldun,
 Təskindehi-möhnətü qəm oldun!
 
@@ -12482,6 +12484,8 @@ Rüsvayi-təmami-aləm oldun!
 Ey dilbəri-xoxüramü bədxu,
 Tərk eylə bu rəsmi, xoş deyil bu!
 
+### III
+
 Hərçənd kəminə bir gədayəm,
 Ey şah, səninlə aşinayəm.
 
@@ -12511,6 +12515,8 @@ Bir müxlisi-xasü biriyayəm.
 
 Ey dilbəri-xoşxuramü bədxu,
 Tərk eylə bu rəsmi, xoş deyil bu!
+
+### IV
 
 Bipərdə durub oturma, ey yar,
 Çək pərdəyə nəğmə kimi rüxsar.
@@ -12544,6 +12550,8 @@ Tərk eylə bu rəsmi, xoş deyil bu!
 
 @@ 173
 
+### V
+
 Hə canibə su tək axma, ey gül!
 Mütləq yünül olma, qədrini bil!
 
@@ -12574,6 +12582,8 @@ Haşa verə səndən özgəyə dil.
 Ey dilbəri-xoşxuramü bədxu,
 Tərk eylə bu rəsmi, xoş deyil bu!
 
+%% Məişət şeirləri
+
 # Qələtdir qocaya novcəvan sevmək
 
 Qələtdir qocaya novcəvan sevmək,
@@ -12588,7 +12598,7 @@ Nəinki laçın tək kəbki-dər gərək.
 
 Hər kimin ki, tökülübdür dişləri,
 Hərgiz yeyə bilməz kal yemişləri;
-Limu məməlörə olan müştəri,
+Limu məmələrə olan müştəri,
 Höqqeyi-dəhanı pürgühər gərək.
 
 Nə məsrəfi ona şərü qəzəlin,
@@ -12743,7 +12753,7 @@ Hansı Əzra, hanı Leyla və Şirin,
 Bir vəfalı məddi-nəzər qalmamış.
 
 Yoxdu rahi-nicat bizlərə osla
-Ənqorib olmasa zühuri-mövla.
+Ənqərib olmasa zühuri-mövla.
 Mehri-şəriətdə, nə deyim, aya,
 Pərtövi-bəşarət məgər qalmamış?
 
@@ -12752,7 +12762,7 @@ Bu dövri-fanidə olmadıq xürrəm;
 Girdabi-bəlayə qərqdir aləm,
 Bir canibə rahi-güzər qalmamış.
 
-Ya şafi-müznib, ya əffi-günah,
+Ya şəfi-müznib, ya əffi-günah,
 Qərqi-məsiyyətdir Zakiri-gümrah,
 Əmələ ümid yox, taətə pənah,
 Sizdən özgə bir çarəgər qalmamış.
@@ -12777,7 +12787,7 @@ Verdi təmam qarətə bir kəndi bigünah,
 Əhlü əyalə qalmadı bir zərrə cifə, bax.
 
 Yaxşı yerin yaman tutar-ayini-dəhrdir,
-Olmuş comi-ali-Xəlilə xəlifə, bax!
+Olmuş cəmi-ali-Xəlilə xəlifə, bax!
 
 Bir nəfəs qalmayıb ona bir niş vurmasın,
 İstər sala gədalığa fitə, qədifə, bax!
@@ -13081,7 +13091,7 @@ Car səfəri ona səbəbkar oldu.
 Çünki görübdülər dadın, ləzzətin,
 Qeyri kar onlara görünür çətin;
 Hər kəs tapdı ata-baba sənətin,
-Əli Mərdan oğlu gəlləddar oldu.
+Əli Mərdan oğlu gəllədar oldu.
 
 Ərz edəndə baxa idin Şirinə,
 Yüz ilidir babası gəlibdir dinə;
@@ -13222,7 +13232,7 @@ Gərək indən belə qapıda bürünüb gəbəni,
 Qoymayam qarğa-quşu sərgidən apara dəni
 Ki, məbada ura övrət üzümə ta siləni,
 İltimasım budu kim, öldü, xilas eylə məni,
-Oğul, uşaq əlinə verməsaqqalım, qocalıq.
+Oğul, uşaq əlinə vermə saqqalım, qocalıq.
 
 @@ 182
 
@@ -13339,7 +13349,7 @@ Oldur səbəb əfləkə çıxar hayü hərayım,
 Baxmaz mənə övrət.
 Bəzi zəni xoşbəxt sanır mərdümi-olmaq,
 Der şövhəri xandır.
-Həmvarə geyər əynino zərbəft ilə dibəq,
+Həmvarə geyər əyninə zərbəft ilə dibəq,
 Həm hökmü rəvandır.
 Sən bil ki, ünas əhlinə xoşdur gəzə çiplək,
 Ta varı cavandır.
@@ -13352,7 +13362,7 @@ Müddətdi düşüb dıkı-dərunum saf əməldən,
 Əfsürdə çırağəm.
 Bir loqmadan əfzun yeməzəm xofvü xələldən,
 Bu barədə dağəm.
-Biroğbət olub xahişim itami-gözəldən,
+Birəğbət olub xahişim itami-gözəldən,
 Guva ki, naçağəm.
 Fərq etməz idim bir zaman ayranı əsəldən,
 İndi bu səyağəm.
@@ -13636,7 +13646,7 @@ Mədəyə hər şey ki, salsa inqilabı, neylirəm.
 Qoy qazanı üstə. övrət, biməzərrətdir dügi.
 
 Yoxdur aləmdə belə bir qatili-səfravü xun,
-Xilti-sövdanı qılır bilməro məğlubü zəbun,
+Xilti-sövdanı qılır bilmərrə məğlubü zəbun,
 Çareyi-əmrazi-bəlğəmdə təbibə rəhnümun,
 Ruzi-şəb təfrihi-qəlbü mərhəmi-rəşi-dərun,
 Nayeyi-suzi-ətəş, dəfi-hərarətdir dügi.
@@ -13702,7 +13712,7 @@ Səni heç nakəsü namərdə möhtac etməsin tari,
 Əcayib töhfədir, mən həm əcəb oğlana göndərdim.
 
 Bəyazi-çeşmi-məhbuban kimi şəffaf, seyqəlli,
-İçində mərdümək vəş mən onun bir danə göndərdim.
+İçində mərdüməkvəş mən onun bir danə göndərdim.
 
 Və ya inki fərar olmuş qulami-hind kuyindən
 Tutub saldım, qolu bağlı çəhi-zindanə göndərdim.
@@ -13754,7 +13764,7 @@ Nəzər salıb bir ... kişini
 İranın eylədi padşahı, Məmməd!
 
 Bəslədi Teymuri-Ləngi bir müddət,
-Geydirdi əynino qəbayi-heşmət;
+Geydirdi əyninə qəbayi-heşmət;
 
 @@ 189
 Kor Səlimə verdi nə növ dövlət,
@@ -13805,7 +13815,7 @@ Cami-eyşin meyi-gülrəng ilə daim ləbriz,
 Qədəhi-bəzmi-nəşatın dəxi sorşar olsun!
 
 Əmrinə bəndeyi-fərman Buxara, Xarəzm,
-Hökməne Çinü Xəta tabeyi-iqrar olsun!
+Hökmünə Çinü Xəta tabeyi-iqrar olsun!
 
 Düşsə hər cayə yolun şamü səhər fothü zəfər,
 Ol biri pişrovun, biri qəfadar olsun!
@@ -13846,7 +13856,7 @@ Nəzmi-mən, – pişi-Süleymanə necə muri-həqir
 Gətdi ta payi-mələx, – həcati izhar olsun.
 
 Pirəzən dəstinə almış kələfi-rismani
-Yusifi-Misrə həmanə ki, xiridar olsun.
+Yusifi-Misrə həmana ki, xiridar olsun.
 
 # Mehdi bəyə
 
@@ -13881,7 +13891,7 @@ Abırlı, həyalı məğil zən olmuş,
 Ərinin saqqalın yolanı sən gör.
 
 Tərk edib vacibi fərzi-sünnəti,
-Almayıb pəşminə heç məzəmməti,
+Almayıb peşminə heç məzəmməti,
 Tanrı bilir, bu işlədən büdəti
 Nə kürd eylər nə, də kolani sən gör.
 
@@ -13910,7 +13920,7 @@ Belə keçsə varə-varə, əzizim.
 Asi rəyət bəyi yada salırmı,
 Ağa sözün ... alırmı,
 Fuladi-bədgühər yumuşalırmı
-Ta düşməyə yalavlərə, əzizim.
+Ta düşməyə yalavlarə, əzizim.
 
 @@ 191
 
@@ -13926,7 +13936,7 @@ Gətiriblər bizi zarə, əzizim.
 
 Canə yetdim dərdü qəmü möhnətdən,
 Qurtarmadım əndişədən, xiffətdən;
-Başımı götürüb bu vilayətdən
+Başımı götürüb bu vilaiyətdən
 Getməliyəm bir diyarə, əzizim.
 
 Bundan əvvəlkilər çalışıb hərçənd
@@ -13944,7 +13954,7 @@ Minib, çapıb qulun tökdürür Həsən.
 Nəsihət eyləyib hərgiz deməsən
 Çəkib onu bir kənarə, əzizim:
 
-Ey biheya, həzər eylə xudadən,
+Ey bihəya, həzər eylə xudadən,
 Usan təqəllübdən, cövrü cəfadən.
 Peşiman olursan bu macəradən,
 Yetirirlər sahibkarə, əzizim.
@@ -13972,7 +13982,7 @@ Cahangirü cahandarə, əzizim.
 # Əta xana
 
 Mirzə Mehdi, bizim bəndəxanənin
-Keçəsi dağılıb, keçən gərəkdir.
+Keçəsi dağlıb, keçən gərəkdir.
 On dörd qalıb olsa kifayət eylər –
 Əgər xəbər alsan necə "gərəkdir?"
 
@@ -13983,7 +13993,7 @@ Yaxşını, yamanı seçə gərəkdir.
 
 Nisfin qaraağacı, nisfin xəsili
 Versələr bilmərrə dəva kəsili.
-Töreməzdi qoyunların əsili –
+Törəmədi qoyunların əsili –
 İldə iki yol gələ qoça gərəkdir.
 
 İyirmi istildən salına möhkəm,
@@ -14038,7 +14048,7 @@ O ki, Kərbəlayi bu binəvanın
 Xındıristan beş-on evdi kəsbkar,
 Yerli tayifəsi ağacdan qorxar;
 Bəyin tatü türkü; tamam nə ki, var
-Çəkər fəqirlərin çomaq üstünə.
+Çəkər fəqirlərin çomaq, üstünə.
 
 Fəthü nəsrət deyil müşəxxəs hələ,
 İt uşağı qoyub börkünü dələ;
@@ -14176,7 +14186,7 @@ Var ondamım dırnaq-dırnaq olubdu
 Rəncü təəb əsər etməz qalına,
 Axşamadən yük götürə dalına.
 Mən zərdü zəifəm, xoşa halına
-Hər kim ki, sənin tək topçaq olubdu.
+Hər kim ki, sənin tək topçaq olubudu.
 
 Bərabər gərəkdir uzunu, eni,
 Qorxuram təng ola, incidə məni,
@@ -14222,7 +14232,7 @@ Gərək başmaqların soxa cibinə,
 Ya keçirə saf otağın dibinə.
 Nə isə mühəyya, amadə gələ.
 
-Lazımdır təməddüd xeyirdə, şərdə,
+Lazımdır tərəddüd xeyirdə, şərdə,
 Ydalət üzünə çəkibsiz pərdə,
 Bir təziyə olsa, xudanəkərdə,
 Gümanım yoxdur ki, molla də gələ.

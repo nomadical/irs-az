@@ -41,7 +41,7 @@ Məndə yox səbr, səxt naçarəm,
 Çəkdiyim bəsdi hicr bidadın,
 Öldü kuyində gər günahkarəm.
 
-Bir demərzsən, görün, bu nalə nədir,
+Bir deməzsən, görün, bu nalə nədir,
 Bu qədər kim dərində sızlarəm.
 
 Şah olan eyləməz gədasına rəhm?
@@ -61,7 +61,7 @@ Məhrəmi-bəzmi olacaq əğyar.
 Həmdəmin osa idi bir adəm,
 Xəlq içində mənə deyildi ar.
 
-Nə ki, bir nadürüstü nəqabil,
+Nə ki, bir nadürüstü naqabil,
 Nə ki, bədtəriqü bədkirdar.
 
 Çəkə ağuşə cismi-yasəməni,
@@ -108,7 +108,7 @@ Ahuyi-dəşt kimi ürkər idin.
 Harda görsən bir əhli-bədkarı,
 Şərm edib ruyü muyin örtər idin.
 
-Meyli-hər naməünasib etməz idin,
+Meyli-hər namünasib etməz idin,
 Maili-aşiqi-süxənvər idin.
 
 İltifat eyləməzdin ədnayə,

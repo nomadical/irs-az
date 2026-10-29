@@ -19,8 +19,8 @@ Sənin mərhəmətin, mənim ixlasım
 Mehri-münəvvər tək aləmə isbat.
 
 Qalmışam aranda müddəti-mürur,
-Təbiətə səfra eləyibdir zur;
-İstər idim olam əzimi-hüzur,
+Təbiətə səfra eyləyibdir zur;
+İstər idim olam azimi-hüzur,
 Naxoşam, hərəkət eyləyib ixlat.
 
 Bağır oğlu Məmməd, Məşədi hacı,
@@ -46,7 +46,7 @@ Budur ki, canı var, tərləsin mirat.
 Təbiəti-harrə xalis əngəbin,
 Qabizə süfurü yəhuda, darçin,
 Bəlqəmi-mizacə tüxmi-xiyarin
-Münasib bilirlər daimül-övqat.
+Münasib bilirlər daimül-övqət.
 
 Mərizin üstünə yetişən məhəl,
 Dərviş Kəlbi hazır olur əlbəəl;
@@ -81,7 +81,7 @@ Ya on tümən pul gərəkdir, ya bir at.
 İmalədə yədi-beyzaları var,
 Həqq üçün bir ondan başları çıxar;
 Mərəzi-digərdə, inanma zinhar,
-Vüquflan ola, heyhat, heyhat!..
+Vüqufları ola, heyhat, heyhat!..
 
 Sən gör necə xərab olub zəmanə,
 Çəmənli Cəfər də mərdü mərdanə,

@@ -59,7 +59,7 @@ Bu məsəli eyləməsin fəramuş:
 Əvvəl gərək suyu yoxlasın möhkəm,
 Boylayandan sonra soyunsun adəm.
 
-Nəinki etməyib fikir,əndişə,
+Nəinki etməyib fikir, əndişə,
 Sala canavar tək özünü işə.
 
 Həm özünün payın, həm onun payın

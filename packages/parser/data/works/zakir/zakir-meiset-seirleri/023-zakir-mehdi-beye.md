@@ -42,7 +42,7 @@ Abırlı, həyalı məğil zən olmuş,
 Ərinin saqqalın yolanı sən gör.
 
 Tərk edib vacibi fərzi-sünnəti,
-Almayıb pəşminə heç məzəmməti,
+Almayıb peşminə heç məzəmməti,
 Tanrı bilir, bu işlədən büdəti
 Nə kürd eylər nə, də kolani sən gör.
 

@@ -25,7 +25,7 @@ Bəsdir bu şərarət dəxi əl çək, köpək oğlu!
 Yüz düşmən ola bir kəsə, bir kəs yıxılanda
 Filcümlə gərəkdir ola sövkək, köpək oğlu!
 
-Qəhrü-ümərə ateşi-suzandı, nə layiq,
+Qəhrü-ümərə atəşi-suzandı, nə layiq,
 Bərqəsd onu hərdəm üfürmək, köpək oğlu!
 
 Fikrin budu, atan yerişi yeriyəsən sən,

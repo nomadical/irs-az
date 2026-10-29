@@ -14,8 +14,8 @@ status: DRAFT
 Bir dərvişi-biismətü bihəya,
 Mübtəlayi-şəhvət, talibi-zina
 
-Dağın dəmənindən keçərkən nagah
-Ol birini səfid, dərüni siyah
+Dağın damənindən keçərkən nagah
+Ol biruni səfid, dəruni siyah
 
 Gördü ki, bir gəlin yekkəvü tənha
 Su götürüb çaydan, çü sərvi-rəna

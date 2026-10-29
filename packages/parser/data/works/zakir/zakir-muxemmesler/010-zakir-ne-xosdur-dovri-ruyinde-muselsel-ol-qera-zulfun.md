@@ -14,7 +14,7 @@ status: DRAFT
 Nə xoşdur dövri-ruyində müsəlsəl ol qəra zülfün,
 Sərasər hər tükü üşşaqə bir dami bəla zülfün,
 İki şəhmarə bənzər gənci-hüsnündə düta zülfün,
-Bulanır hər tərəf, qovlar məni əfinümə zülfün,
+Bulanır hər tərəf, qovlar məni əfinüma zülfün,
 Nədəndir, bilməzəm, əfsunə gəlməz mütləqa zülfün.
 
 Tutubdur səhni-kətfində arasın həm solu sağın,
@@ -36,13 +36,13 @@ Bilib üftadəlikdəndir cahanda sərnişin olmaq,
 Budur vəchi, düşər pabusuna misli-gəda zülfün.
 
 Nəsimi-sübhdən rüxsari-al üzrə siyəh tellər,
-Sanasan pər açıb, zağü zəğ gülşəndə seyr eylər;
+Sanasan pər açıb, zağü zəğən gülşəndə seyr eylər;
 Özü pür-piç, ucları dümi-əqrəb kimi çənbər,
 Uzandıqca uzanır ömrü, yoxsa, ey pəri peykər,
 İçib ləli-ləbindən Xizrvəş abi-bəqa zülfün.
 
 Dolannam başına şamü səhər manəndi-pərvanə,
-Demzsən bir görün necə keçir əhvali-divanə,
+Deməzsən bir görün necə keçir əhvali-divanə,
 Bu qədri cövrü zülm insan edərmi, insan, insanə?
 Nə müddətdir düşübdür dəlvi-dil çahi-zənəxdanə,
 Nola çəngal ilə bir dəm çəkə müşgülgüşa zülfün.

@@ -54,10 +54,10 @@ Ahuyi-pabəndə verib təsəlli,
 Qanadı on isə, eyləyib əlli.
 
 Gəlib həmrəhlərə gətirdi xəbər,
-Bir neçə nalevü şiyvən etdilər.
+Bir neçə naləvü şiyvən etdilər.
 
 Təkəllümə gəlib dedi kəsəyən:
-“Onun encamını yaxşı billəm mən.
+“Onun əncamını yaxşı billəm mən.
 
 Məni qanadının üstünə götür,
 O yer ki, ahunu görübsən, yetir.
@@ -83,7 +83,7 @@ Gördülər tısbağa üftanü xiyzan,
 Zəbani-təərrüz etdilər diraz,
 Söylədilər: “bu nə işdi, anlamaz?!
 
-Nə fikr ilə gəldin buraya, görək,
+Nə fikr ilə gəldin burayə, görək,
 Səndən bizə olacaqdı nə kömək?
 
 Məgər ki, gələndə səyyadi-pürfən
@@ -104,13 +104,13 @@ Necə dura billəm sizdən kənarə?
 Tanrı o yoldaşa eyləsin qəzəb,
 Kim, dari-dünyada ola xüdtələb!
 
-Üç həmrahi-sadiq tək olsun azad,
+Üç həmrəhi-sadiq tək olsun azad,
 Mənimki səhldir, hərçi bada-bad!”
 
 Gövtüğunu bunlar etməmiş təmam
 Gördülər ki, gəlir mərdi-bədəncam.
 
-Həmrahi-çarümdən əl çəkib naçar,
+Həmrəhi-çarümdən əl çəkib naçar,
 Ahu, siçan, qarğa etdilər fərar.
 
 Səyyad gəlib ol məqamə yetişdi

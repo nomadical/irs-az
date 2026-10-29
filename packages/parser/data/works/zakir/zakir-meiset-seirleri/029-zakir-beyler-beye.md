@@ -41,7 +41,7 @@ Gərək başmaqların soxa cibinə,
 Ya keçirə saf otağın dibinə.
 Nə isə mühəyya, amadə gələ.
 
-Lazımdır təməddüd xeyirdə, şərdə,
+Lazımdır tərəddüd xeyirdə, şərdə,
 Ydalət üzünə çəkibsiz pərdə,
 Bir təziyə olsa, xudanəkərdə,
 Gümanım yoxdur ki, molla də gələ.

@@ -20,10 +20,10 @@ Hər nə ətvar, rəviş var bu bədxuda bəla.
 Zülfi-pürçinin ucundan, nə deyim, çin-çindir
 Çin mülkündə xəta, kişvəri-hindudə bəla.
 
-Zöhrəsi çak olur hər görənin, əfiveş,
+Zöhrəsi çak olur hər görənin, əfivəş,
 Guyiya qat-qat olub həlqeyi-geysudə bəla.
 
-Dami-geysuları əgər almasa rahi-güzəri,
+Dami-geysulər əgər almasa rahi-güzəri,
 Qandadır seyr zənəxdə, nigahi-rudə bəla.
 
 Gəlmədi, saçı arasında yəqin itdi könül,

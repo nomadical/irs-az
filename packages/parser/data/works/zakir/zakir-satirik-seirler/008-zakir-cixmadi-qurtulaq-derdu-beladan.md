@@ -34,14 +34,14 @@ Qaməti-mövzuni görən canımız!
 Fətulə-fatulə səfheyi-rudə,
 Gah torfi-zənəxdə, gahi əbrudə,
 Pərişan olmazmı, ğübaraludə
-Müəttər gcynusi görən canımız!
+Müəttər geynusi görən canımız!
 
 Mübarəkdir bu dünyanın nizami,
 Nəhayət müşküldü öyrətmək xami;
 Yad edib ağlayın keçən əyyami,
 Müəttər geysuni görən canımız!
 
-Ac qaldıqca roxtü xabı satacaq,
+Ac qaldıqca rəxtü xabı satacaq,
 Gələ-gələ quru yerdə yatacaq,
 Uzaqdan sikkəyə güllə atacaq,
 Min tümən altuni görən canımız!
@@ -82,7 +82,7 @@ Gərək indən belə digərgun ola
 Kari-digərguni görən canımız!
 
 Aaparırlar qaravula, keşiyə,
-Qəht olub bir döşək, girək döşiyə;
+Qəht olub bir deşik, girək deşiyə;
 Buriya döşəsin evə, eşiyə
 Xaliyi-bahuni görən canımız!
 

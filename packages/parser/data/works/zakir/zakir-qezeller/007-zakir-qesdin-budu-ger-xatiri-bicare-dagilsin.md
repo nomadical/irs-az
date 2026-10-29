@@ -26,7 +26,7 @@ Xuddamləri müjdeyi-bimarə dağılsın.
 Bir ləhzə o birəhmə nihan şərhi-qəmim var,
 Allahı sevərsiz, deyin əğyarə dağılsın.
 
-Vəhmim budu, yol vermeylər ləxti-cigərdən,
+Vəhmim budu, yol verməylər ləxti-cigərdən,
 Təqsim eləyim, hər itə bir parə dağılsın.
 
 Göz mərdümü məşqi-xəti-hüsnün həvəs eylər,

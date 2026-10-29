@@ -19,7 +19,7 @@ O ki, Kərbəlayi bu binəvanın
 Xındıristan beş-on evdi kəsbkar,
 Yerli tayifəsi ağacdan qorxar;
 Bəyin tatü türkü; tamam nə ki, var
-Çəkər fəqirlərin çomaq üstünə.
+Çəkər fəqirlərin çomaq, üstünə.
 
 Fəthü nəsrət deyil müşəxxəs hələ,
 İt uşağı qoyub börkünü dələ;

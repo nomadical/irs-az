@@ -20,7 +20,7 @@ Mərdümi-didələrin əksi, gözümdə guya,
 Dəhənin rəmzini bilmək bizə, bənzər ona kim,
 Tifl əbcəd oxuyur, elmi-müəmmayə baxar.
 
-Ateşi-rəşk məni yandıdı, şömi keçirin
+Atəşi-rəşk məni yandıdı, şəmi keçirin
 Ki, məbada rüxi-gülrənginə həmsayə baxar.
 
 Yay qışı altına mərdümləri çeşmi-siyəhin,
@@ -41,7 +41,7 @@ Ləbi-meygunu görən sağəri-səhbayə baxar?
 Dəftəri-bərgi-gülü almış elə badi-səba,
 Bülbülün baqisi var, hasili-sövdayə baxar.
 
-Dedilər, var fələkdə sənə mənənd, Məsih,
+Dedilər, var fələkdə sənə manənd, Məsih,
 Yoxdu, bihudə çıxıb ərşi-müəllayə baxar.
 
 Vamiqü Qeys dəm urmaz dəxi aşiqlikdən,

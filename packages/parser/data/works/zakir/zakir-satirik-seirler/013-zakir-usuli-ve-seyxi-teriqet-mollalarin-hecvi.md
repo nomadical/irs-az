@@ -120,7 +120,7 @@ Bilməzəm hiç nə vəch ilə bu laməzhəblər
 Bəhs edirlər ki, mükəlləfdi qamu əşyani.
 
 Əqldir rəhbəri-nikü bədü həqqü batil,
-Şəyə ki, verməyib ani, necə tapsın ani?
+Şeyə ki, verməyib ani, necə tapsın ani?
 
 Tifl ta baliğ olunca ona yoxdur təklif,
 Nə dəlil ilə mükəlləf biləsən heyvani?!
@@ -129,7 +129,7 @@ Gəllədən gər xəbər alsan ki, de, rəbbin kimdir,
 Göstərər ciddü yəqin ilə sənə çubani.
 
 Bəndəsindən nə təvəqqö elə rəbbin ki, özü
-Xəri-barikəşi-biçarəsinə...
+Xəri-barikeşi-biçarəsinə...
 
 Küfrdür qabili-təsbihi-təala bilmək,
 Fəzləyi-xəlqi yeyən sağsağanı, qarğani.
@@ -243,4 +243,4 @@ Nəçidir maliki-rizvan üzünə açmaya dər,
 Ola hər kimsənin əldə onun fərmani.
 
 Zakiri-rusiyəhəm, gərçi günahım çoxdur,
-Var dəstimdə, vəli, Əli-Nəbi damani.
+Var dəstimdə, vəli, Ali-Nəbi damani.

@@ -14,12 +14,12 @@ status: DRAFT
 Dur sallan, dur sallan, boyun qurbanı,
 Tamaşalar etsin sənəmlər sənə.
 Doğrasın əllərin turunc yerinə,
-Baxa-baxa qalsın harəmlər sənə.
+Baxa-baxa qalsın hərəmlər sənə.
 
 Kimin ki, güzarı düşsə kuyinə,
 İlişir yüz yerdən tari-muyinə,
 Qoymazsan doyunca baxa ruyinə,
-Aşiq olan adam verəmlər, sənə.
+Aşiq olan adam vərəmlər, sənə.
 
 Bari-möhnət əyib qəddi-dalımı,
 Xəzanə döndərib rəngi-alımı;

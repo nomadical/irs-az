@@ -17,7 +17,7 @@ Ta ki, sərgər oluban, eyləyim izhari-kamal,
 Mən deyildim belə ləbbəstə, pərişanəhval,
 Eyləmiş nitqimi bir tutiməqalın qomi lal.
 
-Neçə müddətdi gözüm görməz o simənd amı,
+Neçə müddətdi gözüm görməz o siməndamı,
 Eyləyib xəstə qəmi-hicri dili-nakamı,
 Eşq sövdasının, əlbəttə, budur əncamı,
 Ol cəfakar nigar ilə keçən əyyamı
@@ -25,13 +25,12 @@ Ol cəfakar nigar ilə keçən əyyamı
 
 Qərəzin gər budu – xoşnud ola səndən əhbab,
 Nə qədər var həyatın elə al cami-şərab,
-
 Hər iki aləm ara bil ki, odur fəthülbab,
 Sanma kim, əcrini həq verməyə, ey, xanəxərab!
 Baxma zahid sözünə, eyləmə bihudə xəyal.
 
 Ömrülərdir çəkərəm bir sənəmin bari-qəmin,
-Ruzü şəb dəğdəğeyi-möhnətü-cövri sitəmin,
+Ruzü şəb dəğdəğeyi-möhnətü-cövrü sitəmin,
 Üzümü fərşi-rəh etdim bu təmannayə həmin.
 İşləyib kövkəbi-talə, basa bəlkə qədəmin,
 Ruşinas edə məni ol məhi zərrin neal.

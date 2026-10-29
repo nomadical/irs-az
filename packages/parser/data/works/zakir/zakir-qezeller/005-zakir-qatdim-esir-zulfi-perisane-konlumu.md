@@ -21,7 +21,7 @@ Düşmüş şikəst dəlv kimi abruydən,
 Salmaz o şux çahi-zənəxdanə könlümü.
 
 Çıxmaz saçı xəyalı könüldən, tikib məgər,
-Məmari-sünəfilərə xanə könlümü?
+Memari-sünəfilərə xanə könlümü?
 
 Dönə-dönə dedim gözə ki, dincələn deyil,
 Gözdən irağə qoyma bu divanə könlümü.
