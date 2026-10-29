@@ -73,7 +73,7 @@ Turkic classics and folk, az.wikisource:
 - [ ] Cahanşah Həqiqi — XV (14)
 - [ ] Sadıq bəy Əfşar — XVI (46)
 - [ ] Miskin Abdal — XVI (55)
-- [ ] Folk, needs an anonymous "Xalq" author: Koroğlu (68), Molla Nəsrəddin anecdotes (12), Kitabi-Dədə Qorqud (source to check)
+- [ ] Folk, needs an anonymous "Xalq" author (blocked: needs AuthorType FOLK, see agent report): Koroğlu (68), Molla Nəsrəddin anecdotes (12), Kitabi-Dədə Qorqud (source to check)
 
 XVIII–XIX poets, az.wikisource:
 - [ ] Şair Məmmədhüseyn (190), Novrəs İman (129), Usta Abdulla (82), Molla Cümə (67), Məhəmməd bəy Aşiq (35), Əbülqasim Nəbati (34), Molla Məhəmməd Səfili (24), Yəhya bəy Dilqəm (23), Həsənəli xan Qaradaği (23), Mücrüm Kərim (22), Mir Həmzə Nigari (19), Əbülhəsən Raci (18), Əndəlib Qaracadaği (16), Hacı Rza Sərraf (12), Mirzə Məhəmməd Tağı Qumri (11), Mirzə Mehdi Şükuhi (11), Hacı ağa Fəqir Ordubadi (11), Cəfərqulu xan Nəva (10), Bahar Şirvani (10), Kazım ağa Salik (10), Zikri Ərdəbili (10)
@@ -82,7 +82,7 @@ Aşıqs, az.wikisource (20+ links):
 - [ ] Aşıq Alı (245), Aşıq Heydər (103), Aşıq Valeh (74), Aşıq Bəsti (64), Ağdabanlı Qurban (63), Aşıq Şenlik (56), Aşıq Musa (56), Ağ Aşıq Allahverdi (52), Aşıq Hüseyn Şəmkirli (50), Varxiyanlı Aşıq Məhəmməd (41), Çoban Əfqan (40), Aşıq Hüseyn Bozalqanlı (37), Aşıq Əsəd (36), Aşıq Nəsib (34), Xəstə Hasan (31), Aşıq Mirzə Bilal (26), Aşıq Pəri (21), Xəstə Bayraməli (20), Aşıq Camal (20)
 
 Early XX century prose, publicism and poetry:
-- [ ] On az.wikisource: Mirzə Əli Möcüz (48), Məhəmməd Əmin Rəsulzadə (27), Əbdürrəhman bəy Fətəlibəyli (14), Əli Nəzmi (12), Məhəmməd ağa Şahtaxtlı (12), Ümmügülsüm (11), Səməd Mənsur (11), Həsən bəy Zərdabi (9), Rəşid bəy Əfəndiyev (8)
+- [x] On az.wikisource (done 2026-10-29, published): Möcüz 48, Rəsulzadə 72, Fətəlibəyli 13, Nəzmi 12, Şahtaxtlı 2 (other 10 pages are red links), Ümmügülsüm 11, Səməd Mənsur 11, Rəşid bəy Əfəndiyev 8. Həsən bəy Zərdabi skipped: his wikisource page has no texts, all links empty
 - [ ] Source needed (anl reprints first): Yusif Vəzir Çəmənzəminli, Ömər Faiq Nemanzadə, Abdulla Tofiq Sur, Seyid Hüseyn, Sultan Məcid Qənizadə, Tağı Şahbazi Simurq, Ceyhun Hacıbəyli; in Persian: Zeynalabdin Marağayi (İbrahim bəyin səyahətnaməsi), Əbdürrəhim Talıbov, Mirzə Ağa Təbrizi
 
 Southern Azerbaijani, XX century (source needed):

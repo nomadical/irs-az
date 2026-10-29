@@ -2590,5 +2590,202 @@
       }
     ],
     "collections": []
+  },
+  {
+    "slug": "mocuz",
+    "nameAz": "Mirzə Əli Möcüz",
+    "nameRu": "Мирза Али Моджуз",
+    "nameEn": "Mirza Ali Mojuz",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Mirzə Əli Möcüz",
+      "ru": "Моджуз, Мирза Али",
+      "en": "Ali Mojuz"
+    },
+    "wikisource": {
+      "az": "Mirzə Əli Möcüz"
+    },
+    "collections": []
+  },
+  {
+    "slug": "resulzade",
+    "nameAz": "Məhəmməd Əmin Rəsulzadə",
+    "nameRu": "Мамед Эмин Расулзаде",
+    "nameEn": "Mammad Amin Rasulzade",
+    "type": "WRITER",
+    "period": "XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Məhəmməd Əmin Rəsulzadə",
+      "ru": "Расулзаде, Мамед Эмин",
+      "en": "Mahammad Amin Rasulzade"
+    },
+    "wikisource": {
+      "az": "Məhəmməd Əmin Rəsulzadə"
+    },
+    "collections": [
+      {
+        "slug": "resulzade-eserler",
+        "titleAz": "Əsərlər",
+        "genre": "ESSAY",
+        "originalLang": "AZ_LATIN"
+      },
+      {
+        "slug": "resulzade-azerbaycan-sairi-nizami",
+        "titleAz": "Azərbaycan şairi Nizami",
+        "genre": "ESSAY",
+        "originalLang": "AZ_LATIN"
+      },
+      {
+        "slug": "resulzade-nitqler",
+        "titleAz": "Nitqlər",
+        "genre": "ESSAY",
+        "originalLang": "AZ_LATIN"
+      },
+      {
+        "slug": "resulzade-seirler",
+        "titleAz": "Şeirlər",
+        "genre": "POEM",
+        "originalLang": "AZ_LATIN"
+      }
+    ]
+  },
+  {
+    "slug": "fetelibeyli",
+    "nameAz": "Əbdürrəhman bəy Fətəlibəyli",
+    "nameRu": "Абдуррахман бек Фаталибейли",
+    "nameEn": "Abdurrahman bey Fatalibeyli",
+    "type": "WRITER",
+    "period": "XX əsr",
+    "writingLangs": [
+      "AZ_LATIN"
+    ],
+    "wikipedia": {
+      "az": "Əbdürrəhman bəy Fətəlibəyli",
+      "ru": "Фаталибейли, Абдуррахман Али оглы",
+      "en": "Abdurrahman Fatalibeyli"
+    },
+    "wikisource": {
+      "az": "Əbdürrəhman bəy Fətəlibəyli"
+    },
+    "collections": [
+      {
+        "slug": "fetelibeyli-azadliq-radiosundaki-cixislar",
+        "titleAz": "Azadlıq Radiosundakı çıxışlar",
+        "genre": "ESSAY",
+        "originalLang": "AZ_LATIN"
+      },
+      {
+        "slug": "fetelibeyli-cixislar",
+        "titleAz": "Çıxışlar",
+        "genre": "ESSAY",
+        "originalLang": "AZ_LATIN"
+      }
+    ]
+  },
+  {
+    "slug": "nezmi",
+    "nameAz": "Əli Nəzmi",
+    "nameRu": "Али Назми",
+    "nameEn": "Ali Nazmi",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Əli Nəzmi",
+      "ru": "Назми, Али",
+      "en": "Ali Nazmi"
+    },
+    "wikisource": {
+      "az": "Əli Nəzmi"
+    },
+    "collections": []
+  },
+  {
+    "slug": "sahtaxtli",
+    "nameAz": "Məhəmməd ağa Şahtaxtlı",
+    "nameRu": "Мухаммед-ага Шахтахтинский",
+    "nameEn": "Mammad agha Shahtakhtinski",
+    "type": "WRITER",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Məhəmməd ağa Şahtaxtinski",
+      "ru": "Шахтахтинский, Мухаммед-ага Мухаммед-Таги Султан оглы",
+      "en": "Mammad agha Shahtakhtinski"
+    },
+    "wikisource": {
+      "az": "Məhəmməd ağa Şahtaxtlı"
+    },
+    "collections": []
+  },
+  {
+    "slug": "ummugulsum",
+    "nameAz": "Ümmügülsüm",
+    "nameRu": "Уммугюльсум",
+    "nameEn": "Ümmügülsüm",
+    "type": "POET",
+    "period": "XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Ümmügülsüm",
+      "ru": "Уммугюльсум",
+      "en": "Ümmügülsüm"
+    },
+    "wikisource": {
+      "az": "Ümmügülsüm"
+    },
+    "collections": []
+  },
+  {
+    "slug": "semed-mensur",
+    "nameAz": "Səməd Mənsur",
+    "nameRu": "Самед Мансур",
+    "nameEn": "Samad Mansur",
+    "type": "POET",
+    "period": "XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Səməd Mənsur",
+      "ru": "Мансур, Самед"
+    },
+    "wikisource": {
+      "az": "Səməd Mənsur"
+    },
+    "collections": []
+  },
+  {
+    "slug": "resid-efendiyev",
+    "nameAz": "Rəşid bəy Əfəndiyev",
+    "nameRu": "Рашид-бек Эфендиев",
+    "nameEn": "Rashid bey Afandiyev",
+    "type": "WRITER",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Rəşid bəy Əfəndiyev",
+      "ru": "Эфендиев, Рашид-бек Исмаил оглы",
+      "en": "Rashid bey Afandiyev"
+    },
+    "wikisource": {
+      "az": "Rəşid bəy Əfəndiyev"
+    },
+    "collections": []
   }
 ]
