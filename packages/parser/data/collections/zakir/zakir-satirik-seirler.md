@@ -1,10 +1,10 @@
 ---
 slug: zakir-satirik-seirler
-titleAz: Satirik şeirlər
+titleAz: Tənqidi-satirik şeirlər
 authorSlug: zakir
 genre: POEM
 originalLang: AZ_LATIN
-order: 8
+order: 1
 status: DRAFT
 ---
 

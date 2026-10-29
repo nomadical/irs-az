@@ -1,10 +1,10 @@
 ---
 slug: zakir-mesneviler
-titleAz: Məsnəvilər
+titleAz: Mənzum hekayələr
 authorSlug: zakir
 genre: POEM
 originalLang: AZ_LATIN
-order: 5
+order: 3
 status: DRAFT
 ---
 

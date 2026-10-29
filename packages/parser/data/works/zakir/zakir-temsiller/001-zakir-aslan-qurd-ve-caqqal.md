@@ -1,6 +1,6 @@
 ---
 slug: zakir-aslan-qurd-ve-caqqal
-sourceId: wikisource-az-15397
+sourceId: anl-8230-t30
 titleAz: 'Aslan, qurd və çaqqal'
 authorSlug: zakir
 collectionSlug: zakir-temsiller
@@ -8,86 +8,86 @@ originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
 order: 1
-sourceNote: 'https://az.wikisource.org/wiki/Aslan%2C%20qurd%20v%C9%99%20%C3%A7aqqal'
+sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=8230&pno=49'
 status: DRAFT
 ---
 Görmüşəm nüsxədə bir türfə misal,
-Əyyami-sabiqdə bir qurd, bir çaqqal,
+Əyyami-sabiqdə bir qurd, bir çaqqal.
 
 Şiri-jəyan ilə tutmuşdu ülfət,
 Yedilər, içdilər bir neçə müddət.
 
-Təqdiri-qəzadan üç gün, üç gecə,
-Ov keçmədi ələ, oldusa necə.
+Təqdiri-qəzadən üç gün, üç gecə
+Ov keçmədiələ, oldusa necə.
 
-Aqibət tapdılar səbahə yavuq
-Bir qoyun, bir quzu, bir də bir toyuq.
+Aqibət, tapdılar səbahə yavuq
+Bir qoyun, bir quzu, bir də bir tovuq.
 
 Qalib olmuş idi şirə iştəha,
-Qurda dedi:-«Bölgü sənindi, durma,
+Qurda dedi: “Bölgü sənindi, durma,
 
-Təqsim eylə, olaq yeməyə məşğul».
-Anlamayıb fikrin kürki-biüsul,
+Təqsim eylə, olaq yeməyə məşğul”.
+Anlamayıb fikrin gürgi-biüsul
 
-Dedi:-«Ey sərvər, cənabi-bari,
-Öz əlilə göydə bölüb bulari.
+Dedi ki: “ey sərvər, cənabi-bari
+Öz əlinlə göydə bölüb buları.
 
-Qoyun sənin, quzu mənim, çaqqalə
-Göndərib toyuğu xaliq nəvalə».
+Qoyun sənin, quzu mənim, çəqqalə
+Göndərib tovuqu xaliq nəvalə”.
 
-Gəlmədi bu sözlər şirin xoşuna,
-Bir tapança saldı qurdun başına.
+Giran gəlib bu söz şirin xaşına,
+Bir tayança saldı qurdun başına.
 
 İki gözü ol biçarə fəqirin,
-Çıxıb yerə düşdü zərbindən şirin.
+Çıxıb yerə düşdü zərbindən Şirin.
 
 Ondan sonra üzün tutub çəqqalə
-Dedi:-“Oldu bölgü sənə həvalə.
+Dedi: “Oldu bölgü sənə həvalə.
 
-Qismət eylə, məlum olsun əməlin,
+Qismət eylə, məlum olsun əməlin
 Eşitmişəm vardır bölgüdə əlin”.
 
 Çaqqal zərbi-dəsti-şiri görmüşdü,
 Annamışdı karı, rəyin bilmişdi.
 
-Dedi:-“Ata-baba bölgü bizimdi,
+Dedi: “ata-baba bölgü bizimdi,
 Sən gedib naəhlə buyurdun indi.
 
-Eylə qismət edim qəniməti mən,
+Eylə qismət edim qəniməti mən
 Ta ruzi-qiyamət deyəsən əhsən!
 
-O ki qoyun padşahın naharı,
+O ki, qoyun padşahın naharı,
 Quzunu saxlarıq axşam iftarı.
 
 Toyuq da sabahın qəlyanaltına,
 Əlbəttə ki, xaliq yetirir yenə”.
 
-Şir dedi:-“Afərin sənə ey pürfən,
+Şir dedi: “afərin sənə, ey pürfən,
 Bu bölgünü kimdən öyrənibsən sən?”
 
-Dedi:-“Mən bilməzdim binadan, başdan,
+Dedi ki: “bilməzdim binadən, başdan,
 Öyrəndim o gözü çıxan qardaşdan”.
 
 Böyük əgər deyə gündüzə gecə,
 De ki, göydə ulduz səyrişir necə!
 
-Gündüz hesab etsə əgər gecəni,
-Söylə ki, yandırır afitab məni...
+Nisbət verə gər gündüzə gecəni,
+Söylə ki, yandırır afitab məni.
 
-Nəinki cənabi-hacıqulu tək,
-Xanın bostanının novbarı gəlcək,
+Nəinki cənabi-Hacıqulu tək,
+Xanın bostanının növbarı gələcək,
 
 Üzləyib yaxşısın evə göndərə,
-Çarıqın çürüyün təhvilə verə.
+Çarığın çürüyün təhvilə verə.
 
 Çubuğa saldıra fəqir rəyəti,
 Özü yeyib-içib sürə vəhdəti.
 
-Bu nə alış veriş, bu nə ticarət?
+Bu nə alış-veriş, bu nə ticarət?
 Bu nə haramxorluq, bu nə ziyarət?
 
 Elə iş baş verir yoğun qurşaqdan,
 Həq bilir ki, çıxmaz nadan uşaqdan.
 
-Satıbdır gulluhüm dini dünyayə,
+Satıbdır küllühüm dini dünyayə,
 Bu əhli-Şişədən pənah xudayə.

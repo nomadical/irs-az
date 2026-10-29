@@ -4,7 +4,7 @@ titleAz: Qəzəllər
 authorSlug: zakir
 genre: POEM
 originalLang: AZ_LATIN
-order: 4
+order: 8
 status: DRAFT
 ---
 

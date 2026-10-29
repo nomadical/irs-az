@@ -1,10 +1,10 @@
 ---
 slug: zakir-gerayli
-titleAz: Gəraylı
+titleAz: Gəraylılar
 authorSlug: zakir
 genre: POEM
 originalLang: AZ_LATIN
-order: 3
+order: 6
 status: DRAFT
 ---
 

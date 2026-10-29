@@ -4,7 +4,7 @@ titleAz: Qoşmalar
 authorSlug: zakir
 genre: POEM
 originalLang: AZ_LATIN
-order: 2
+order: 4
 status: DRAFT
 ---
 
