@@ -83,10 +83,10 @@ Aşıqs, az.wikisource (20+ links):
 
 Early XX century prose, publicism and poetry:
 - [x] On az.wikisource (done 2026-10-29, published): Möcüz 48, Rəsulzadə 72, Fətəlibəyli 13, Nəzmi 12, Şahtaxtlı 2 (other 10 pages are red links), Ümmügülsüm 11, Səməd Mənsur 11, Rəşid bəy Əfəndiyev 8. Həsən bəy Zərdabi skipped: his wikisource page has no texts, all links empty
-- [ ] Source needed (anl reprints first): Yusif Vəzir Çəmənzəminli, Ömər Faiq Nemanzadə, Abdulla Tofiq Sur, Seyid Hüseyn, Sultan Məcid Qənizadə, Tağı Şahbazi Simurq, Ceyhun Hacıbəyli; in Persian: Zeynalabdin Marağayi (İbrahim bəyin səyahətnaməsi), Əbdürrəhim Talıbov, Mirzə Ağa Təbrizi
+- [ ] (2026-10-29 partial: Nemanzadə 88 from omarfaig.info, Talıbov's Məsalik əl-Mühsinin 6 parts from fa.wikisource, Biriya 10, Həbib Sahir 1, Çəmənzəminli 2, Qənizadə 1; no reprint of the others in bibids 7800–8950; Həbib Sahir's Seçilmiş əsərləri = 8276, 97 pp, image-only; Nemanzadə's 2006 Seçilmiş əsərləri PDF on omarfaig.info is image-only, 177 pp) Source needed: Yusif Vəzir Çəmənzəminli, Ömər Faiq Nemanzadə, Abdulla Tofiq Sur, Seyid Hüseyn, Sultan Məcid Qənizadə, Tağı Şahbazi Simurq, Ceyhun Hacıbəyli; in Persian: Zeynalabdin Marağayi (İbrahim bəyin səyahətnaməsi), Əbdürrəhim Talıbov, Mirzə Ağa Təbrizi
 
 Southern Azerbaijani, XX century (source needed):
-- [ ] Səhənd (Bulud Qaraçorlu), Həbib Sahir, Məhəmməd Biriya (10 on wikisource), Mədinə Gülgün, Balaş Azəroğlu (his own poems), Əli Tudə
+- [ ] (2026-10-29: Biriya 10 and Həbib Sahir 1 imported from wikisource; Balaş's 7 wikisource pages are his Saib/Xaqani translations, already in; Səhənd, Mədinə Gülgün, Əli Tudə: no source found) Səhənd (Bulud Qaraçorlu), Həbib Sahir, Məhəmməd Biriya (10 on wikisource), Mədinə Gülgün, Balaş Azəroğlu (his own poems), Əli Tudə
 
 Soviet and post-Soviet, deceased (anl.az 2004–2007 state reprints first):
 - [ ] Poetry: Rəsul Rza, Süleyman Rüstəm, Osman Sarıvəlli, Mikayıl Rzaquluzadə, Məmməd Rahim, Nigar Rəfibəyli, Mirvarid Dilbazi, Əli Kərim, Bəxtiyar Vahabzadə, Məmməd Araz, Nəbi Xəzri, Xəlil Rza Ulutürk, Hüseyn Arif, Cabir Novruz, Qabil, Vaqif Səmədoğlu, Fikrət Qoca, Zəlimxan Yaqub
@@ -95,9 +95,9 @@ Soviet and post-Soviet, deceased (anl.az 2004–2007 state reprints first):
 
 Gaps in existing authors:
 - [x] Vurğun: 92 works were DRAFT only through frontmatter `hold:` (copyright check, moot since the 2026-10-12/28 policy); holds removed, all 283 now PUBLISHED. Cavid's 1 draft is a stray junk row (slug `12`, body `1212`, no source, from 2026-04), not in data/works: delete it from the DB when convenient
-- [ ] Qazi Bürhanəddin: 39 of a ~1,500-poem divan (OCR of a printed divan)
-- [ ] Ordubadi: Qılınc və qələm part two, Dumanlı Təbriz, Gizli Bakı
-- [ ] anl reprints still to cut: Hadi 8283, Cabbarlı 8239/8240, Zakir 8230 (2026-10-29: Hadi and Zakir PDFs downloaded and cached in data/raw but image-only, need agent transcription + `scrape-transcribed`; Cabbarlı has no `&download=1` PDF, needs img.php page bundling)
+- [x] DONE 2026-10-29 Qazi Bürhanəddin: 1,415 more poems of the divan (1,295 ghazals, 14 rubais, 106 tuyuğs) from a Latin-script transcription of the Old Anatolian text (Sanal-Kitap.com, archive.org `KadBurhaneddinDivan`, `scrape-burhaneddin`); the 39 az.wikisource poems kept (Səfərli's AZ spelling), now 1,454 in all. The Səfərli 1988 / Öndər 2005 AZ edition (728 pp) is not online as text
+- [ ] Ordubadi: Qılınc və qələm part two, Dumanlı Təbriz, Gizli Bakı — sources found 2026-10-29, ALL image-only (reader page images, no download PDF except 5708), to schedule for transcription: Qılınc və qələm II (anl bibid 5708 = `anl.az/el/o/oms_se.pdf`, 2005 Şərq-Qərb Latin, 416 pp, 209 spreads); Dumanlı Təbriz 2012 Təhsil, Latin, parts I–II (261055, 376 pp, 191 spreads) and III–IV (261114, 720 pp, 363 spreads); Gizli Bakı 1972 (229715, 292 pp, 151 spreads, Cyrillic); Döyüşən şəhər 1969 (231671, 364 pp, 187 spreads, Cyrillic); Əsərləri 1964 vol. I poems/feuilletons/stories (235388, 236 spreads) and vol. II plays/novels (235376, 249 spreads); more in scratchpad ordubadi-burhaneddin/PROGRESS.md. Nothing with a text layer exists online
+- [ ] anl reprints still to cut: Cabbarlı 8239/8240 only (2026-10-29: Hadi 8283 done, 191 poems, and Zakir 8230 done, 297 poems, both transcribed and replacing the wikisource copies; Cabbarlı: the reader says "pdf faylı yoxdur" and `img.php` returns "NO FILE HERE" for both bibids, so no page images exist online; needs another source)
 - [ ] Nizami's lyric divan (ghazals, qasidas, rubais): not on Ganjoor, source needed
 
 ### Russian translations to add

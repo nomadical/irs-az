@@ -1,0 +1,40 @@
+---
+slug: nemanzade-umidvaram
+sourceId: omarfaig-8329
+titleAz: 'Ümidvaram'
+authorSlug: nemanzade
+collectionSlug: nemanzade-qezet-publisistika
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: PROSE
+year: 1906
+order: 19
+sourceNote: >-
+  https://omarfaig.info/umidvaram/
+status: DRAFT
+---
+Çox ümidvaram ki, bəradəri-həmiyyətpərvərim Firudin bəy Köçərlinin meydana çıxardığı “Müəllimlər” məsələsi digər min bir dərdimizin cərgəsinə tullanmaz. Ümidvaram ki, ikmal etməyə çalışdığımız nöqsanların üst pərdəsinə bir az əl sürülüb yenə köhnə sayağmda buraxılmaz. Ümidvaram ki, həqiqətin meydana çıxmağına çalışan həmiyyətli yazıçılarımız qədim adətimizə uyub zorlarını, qələmləriniyalnız gücləri çatdıqlarını tapdalamağa sərf etməzlər.
+
+Bəli, etməzlər də işin kökünü; bulanan suyun mənbəyini axtararlar. Mənim qanacağıma görə darülmüəllİmindəki şagirdlərimizin türkcə bilməməklərinə, məlumati-islamiyyətdən baxəbər qalmaqlarına, ürəklərində millət və vətən məhəbbəti olmamağına, bir sözlə, “yarımçıq” qalmalarına səbəb məhz müsəlman müəllimlərinin yavaş tərpənişləri deyildir. Bəlkə bizlərə rəva görülən zülm və ədalətsizlikdir. Və bir də böyük qulluqçuların çıxardığı “sirkulyar”lardır. Padşahdan savayı hər kefi gələnin öz eqlincə çıxardığı hədsiz, saysız”qərardadsızlardır”.
+
+İndi insafla mülahizə edək: bir yerdə ki, müsəlman dərslərinin ədədi, müsəlman müəllimlərinin xidmət və tərpənişləri, məktəblərin üsuli-təlimi zorlu “qanunlar”, qərardadlar ilə mühasirəyə alınıbdır, onu bir-iki müəllimin poza bilməyi mümkünmü? Deyək ki, cuşhəmiyyətlə o səddi-İskəndərə qarşı durdular, pozmağa çalışdılar. Axırda məğlub oldular. Aşkar görülən zülm və əsirliyə təhəmmül etməyi qeyrəti-milliyyələrinə sığdıra bilməyib qulluqlarından çıxdılar. Görək rəisi-ruhanilərimiz, əyani-millətimiz, ziyalı və qanacaqlılarımız zərrə qədər bir fikrə, bir təlaşə düşəcəklərmi?
+
+Görək müəllimlik yerlərini boş buraxıb hökuməti məcbur edəcəklərmi ki, müəllimlərin xahişlərini millətimizin nəfinə həll etsinlər Görək millət qeydinə “söz” ilə qalanlarımız meydana çıxıb hökumətə bir söz anladacaqlarmı ki, bizim də hüququmuza, insanlığımıza riayət edilsin? Yoxsa hər kəs öz qohumunu, öz dostunu müəllimliyə keçirmək üçün divanxanə qapılarında “xuliqanlıq”dakı məharət və ixlaslarını sayıb meymunluqmu göstərəcəklər?
+
+Bu sözlərimdən hesab edilməsin ki, Qoridəki müəllimlərə vəkillik edib onlara tərəfdar çıxmaq istəyirəm. Əvvəla, nə onlar mənim vəkilliyimə möhtacdırlar, nə də mən minlərcə övladi-millətin zərərini bir-iki müəllimin xeyrində axtaran həmiyyətsizlər kimi xaini-millət deyiləm.
+
+Qəsdim, bildiyim qədər insaf və həqiqəti söyləməkdir. Rəva deyildir ki, alim ilə cahilə, həmiyyətli ilə xainə təfavüt qoyulmasın! Layiq deyildir ki, hökumətin hamı zülmləri, camaatın təqsiri, yoxluq içində zühur edən bir neçə həmiyyətli müəllimlərimizin üstünə tullansın.
+
+İnsaf deyildir ki, yazıçılarımız dəxi ümumi adətimizə tabe olsunlar: bir çoxlarımız müşavirə və ittifaq ilə yapıla biləcək bir işi bir neçə nəfərin hümmətindən gözləsinlər. Nə üçün camaata, hamıya aid olan işləri ittifaq ve camaat qüvvətilə görmürük? Nə üçün qoca bir millətin dərdini, ehtiyacını bir neçə şəxsin boynuna yüklətmək istəyirik? Nə üçün başa düşmürük ki, camaatın ittifaq iş və qüvvəti ilə iş görməyi öyrənmədiyimizdən hüququmuz ayaqlar altında əzilir; ixtiyarımız əlimizdən alınır; mövcudiyyəti-milliyyətimizin üstə qara pərdələr çəkilir.
+
+Əcəba, indiyə qədər neçə uşaq atası ittifaq edib darülmüəllimlərdəki, gimnaziyalardakı, şəhər məktəblərindəki müəllimlərimizin ixtiyarsızlıqlarından, dərs oxutmaqlarından, müsəlman dərslərinin azlığından şikayət etdilər? Ha vaxt məktəblərdəki sui-tərbiyədən narazı olub hökumətə müraciət etdilər? Mən ki camaatımızın nadanlığını, kor-koruna ixlasını görürəm, qorxuram ki, sabah məktəblərdə donuz əti yedirməyi, kilsəyə gedib dua etməyi, müsəlman dərslərinin əbədi oxunmamağını – su göbələkləri kimi hər gün törəyib artan sirkulyara daxil etsələr bizim uşaq atalarından yenə ciddi bir etiraz görülməz, elə də deyil ki, bir-birilərinin yanında gurlamasınlar, ildırım çaxmasınlar, qışqırtı salmasınlar. Xeyr, əvvəlcə bir neçə gün bərk danışacaqlar, məclislər quracaqlar, bant kimi partlayacaqlar. Amma iki-üç gün sonra “Əlsəbr müftahülfərc” deyib sui-idarəyə lənət oxuyacaqlar. Hind toyuqları kimi hirslərini endirib pozulacaqlar. Köhnə hallarına girəcəklər. Vaxt keçdikcə sükutlaşacaqlar… Amma Allah etsin ki, zənnimdə səhv etmiş olam. Allah etsin ki, camaat məni təkzib edə. Lakin baba, camaat mənim bildiyim camaat isə qara yazılarını həmişə ağ görüləcəkdir. Nə tövr görünməsin ki, sui-tərbiyə daha açığı bizi ruslaşdırmaq üsulu yalnız Qoridə deyil! Baxınız: Gəncə, İrəvan, Qarabağ, Şəki, Şamxor, Tiflis, Bakı… və qeyri yerlərdəki məktəblərin üsuli-təlim və tərbiyələrinə! Baxınız, Allah xatiri üçün baxınız ki, bu qədər şəhərlərimizin birində beş-on adam, beş-on ürəyi yanan varmı ki, beş dəqiqə uzaqdakı inspektorun yanına ittifaq ilə gedib məktəbin sui-tərbiyəsindən, müsəlman dərslərinin azlığından, övladlarının müsəlmanca heç bir zad bilmədiklərindən şikayət etsinlər?
+
+17 Oktyabr fərmanından sonra direktorlar, inspektorlar guya bir az insafa gəldilər. Müsəlman dərslərinin artmağını, müqtədir müsəlman müəllimlərinin təyin olunmağını, müsəlman müəllimlərinin məvacibinin çoxalmağını “kağızlara” yazdılar. Qəzetlərdə, məclislərdə elan etdilər. Heyif, çox heyif ki, dekabrdan sonra özlərinin də aldandıqlarını qandılar, tüpürdüklərini yaladılar. Hətta aldandıqlarının acısını çıxarmaq, əvəzini almaq üçün oktyabrdan əvvəlki müsaidələri də məfasidə etdilər, başını-quyruğunu kəsdilər. Məsələn, Tiflisdə birinci gimnaziyadakı müsəlman müəlliminə vəd edilən məvacib özgələrin cibinə soxuldu. Realnıdakı müsəlman müəllimi çıxmağa məcbur edildi. Ali ticarət məktəbinin müəlliminə ayda beş manat doxsan üç qəpik ehsan buyuruldu. Oxunan dərslərin halını da siz qiyas ediniz. Özgə şəhərləri də siz mülahizə ediniz..
+
+Ey özgeden imdad gözləyən camaat! Ey özgədən mərhəmət uman millət! Siz zənn etməyiniz ki, hamıya bir baxılır? Əsla, əsla! Camaat müşavirəsini, camaat ittifaqını qanan tayfaya heç vaxt bizə edilən rəftar kimi müamilə edilməz. Onlara asanlıqla iş keçirilməz. Budur ki, onlar hər halda istifadə edib məktəblərdə milli dərslərini, milli tərbiyələrini xeylidən-xeyli artırıblar. Hərçənd oktyabr fərmanının çoxu aralığa çıxmadı. Amma camaat ittifaqının qüvvətini bilənlər heç vaxt bizim kimi məyus, məğmun olmurlar. Ah, nə üçün biz bu qədər qorxaq, bu dərəcə həqir olmuşuq? Ah, nə üçün bu mərtəbə biqeyrət, biheysiyyat olmuşuq. Ah, nə üçün bilmək istəmirik ki, Allahın əli, yəni camaatla bərabərdir? Nə üçün bilmirik ki, ittifaq olan yerdə Allahın tofiq və inayəti də olar? Lazım deyilimdir bilək ki, camaatın tədbiri-ittifaqilə görüləcək bir işin qabağında nəinki məktəblərdəkı sui-tərbiyə, bəlkə məmləkətimizdəki sui-idarə belə dayanmaz? Amma heyhat. Hanı bizdə – millət bir yana dursun – öz ciyərparçası, öz nuri-çeşmi olan övladının xeyrini, hüsn-tərbiyəsini xahiş edən? Of…
+
+Nə günlərə qalmışıq? Hanı bizlərdə insanca övlad, millət və vətən məhəbbəti? Nə üçün biz camaat ittifaqında, camaatla iş görməkdə iki qəpiyə dəymirik? Nədən gözləyirik ki, bir çoxumuzun ittifaqilə yapa biləcəyimiz işi bir neçə nəfər görsün? Nə tövr mümkündür ki, ümumi qanun və qərardadlar ilə sıxılan, əzilən hüquqi-milliyyəmizi, başımıza vurulan qüvvətli yumruqları bir neçə müəllimimiz dəf etsin? Lazım deyilmidir ki, biz də camaat ittifaqını camaat qüvvəti qanaq, öz hüququmuzun mühafizəsini can və dildən istəyək, dəxi ha vaxt qanacayıq ki, ixtiyarımız canavarların ağzında olduqca heç bir nöy milli mövcudiyyətimizi saxlaya bilməyəcəyiz. Ümidvaram ki, Dumaya gedəcək vəkillərimiz qanuni-müsavata, “sirkulyarların” kökündən dəfnə, məktəb və müəllimlərimiz xüsusilə diqqət buyurarlar. Ümidvaram ki, həmiyyətli müəllimlərimiz mənim bu fəryadımı məhz yada salmaqdan ibarət bilib özlərinin bu barədəki dərin və əsaslı məlumatlarını, məktəblərdəki nöqsanlarımızın, dərdlərimizin dərmanını müfəssəl bəyan edib bizləri şəkk və dərddən qurtararlar.
+
+Ümidvar
+
+“İrşad’ qəzeti, 1 may 1906, №102

@@ -1013,6 +1013,47 @@
     "nameEn": "Kadi Burhan al-Din",
     "type": "POET",
     "period": "XIV əsr",
+    "skipSources": [
+      "ergin-G-3",
+      "ergin-G-6",
+      "ergin-G-10",
+      "ergin-G-12",
+      "ergin-G-14",
+      "ergin-G-16",
+      "ergin-G-17",
+      "ergin-G-28",
+      "ergin-G-112",
+      "ergin-G-117",
+      "ergin-G-151",
+      "ergin-G-157",
+      "ergin-G-246",
+      "ergin-G-327",
+      "ergin-G-342",
+      "ergin-G-362",
+      "ergin-G-564",
+      "ergin-G-608",
+      "ergin-G-609",
+      "ergin-G-1041",
+      "ergin-G-1309",
+      "ergin-R-1321",
+      "ergin-R-1324",
+      "ergin-R-1330",
+      "ergin-R-1335",
+      "ergin-R-1338",
+      "ergin-T-1351",
+      "ergin-T-1355",
+      "ergin-T-1357",
+      "ergin-T-1374",
+      "ergin-T-1378",
+      "ergin-T-1381",
+      "ergin-T-1401",
+      "ergin-T-1404",
+      "ergin-T-1411",
+      "ergin-T-1423",
+      "ergin-T-1444",
+      "ergin-T-1448",
+      "ergin-T-1452"
+    ],
     "writingLangs": [
       "AZ_ARABIC"
     ],
@@ -1108,6 +1149,104 @@
     },
     "wikisource": {
       "az": "Qasım bəy Zakir"
+    },
+    "transcribed": {
+      "file": "zakir-secilmis-eserleri.md",
+      "bibid": 8230,
+      "sections": [
+        {
+          "first": "Vilayətin məğşuşluğu haqqında",
+          "collection": "zakir-satirik-seirler",
+          "titleAz": "Tənqidi-satirik şeirlər",
+          "genre": "POEM",
+          "layout": "verse"
+        },
+        {
+          "first": "Aslan, qurd və çaqqal",
+          "collection": "zakir-temsiller",
+          "titleAz": "Təmsillər",
+          "genre": "POEM",
+          "layout": "verse"
+        },
+        {
+          "first": "Aşiq və məşuq haqqında",
+          "collection": "zakir-mesneviler",
+          "titleAz": "Mənzum hekayələr",
+          "genre": "POEM",
+          "layout": "verse"
+        },
+        {
+          "first": "Qoşmalar",
+          "collection": "zakir-qosmalar",
+          "titleAz": "Qoşmalar",
+          "genre": "POEM",
+          "layout": "verse",
+          "stars": true
+        },
+        {
+          "first": "Təcnislər",
+          "collection": "zakir-tecnisler",
+          "titleAz": "Təcnislər",
+          "genre": "POEM",
+          "layout": "verse",
+          "stars": true
+        },
+        {
+          "first": "Gəraylılar",
+          "collection": "zakir-gerayli",
+          "titleAz": "Gəraylılar",
+          "genre": "POEM",
+          "layout": "verse",
+          "stars": true
+        },
+        {
+          "first": "Bayatılar",
+          "collection": "zakir-bayatilar",
+          "titleAz": "Bayatılar",
+          "genre": "POEM",
+          "layout": "verse",
+          "stars": true
+        },
+        {
+          "first": "Qəzəllər",
+          "collection": "zakir-qezeller",
+          "titleAz": "Qəzəllər",
+          "genre": "POEM",
+          "layout": "verse",
+          "stars": true
+        },
+        {
+          "first": "Müxəmməslər",
+          "collection": "zakir-muxemmesler",
+          "titleAz": "Müxəmməslər",
+          "genre": "POEM",
+          "layout": "verse",
+          "stars": true
+        },
+        {
+          "first": "Müstəzadlar",
+          "collection": "zakir-mustezadlar",
+          "titleAz": "Müstəzadlar",
+          "genre": "POEM",
+          "layout": "verse",
+          "stars": true
+        },
+        {
+          "first": "Tərcibəndlər və tərkibbəndlər",
+          "collection": "zakir-tercibendler",
+          "titleAz": "Tərcibəndlər və tərkibbəndlər",
+          "genre": "POEM",
+          "layout": "verse",
+          "stars": true
+        },
+        {
+          "first": "Qələtdir qocaya novcəvan sevmək",
+          "collection": "zakir-meiset-seirleri",
+          "titleAz": "Məişət şeirləri",
+          "genre": "POEM",
+          "layout": "verse"
+        }
+      ]
     },
     "collections": []
   },
@@ -1429,6 +1568,33 @@
       "az_extra": {
         "Amali-tərəqqi": "hadi-seirler"
       }
+    },
+    "transcribed": {
+      "file": "hadi-secilmis-eserleri.md",
+      "bibid": 8283,
+      "sections": [
+        {
+          "first": "İsmət, yaxud Əfif olan zatların xəsaili",
+          "collection": "hadi-seirler",
+          "titleAz": "Şeirlər",
+          "genre": "POEM",
+          "layout": "verse"
+        },
+        {
+          "first": "Beşikdən məzara qədər bəşərin əhvalı",
+          "collection": "hadi-poemalar",
+          "titleAz": "Poemalar",
+          "genre": "POEM",
+          "layout": "verse"
+        },
+        {
+          "first": "Ədl-zülm, yaxud bir xarabəzarın mənzərəsi",
+          "collection": "hadi-iqtibas-ve-tercumeler",
+          "titleAz": "İqtibas və tərcümələr",
+          "genre": "POEM",
+          "layout": "verse"
+        }
+      ]
     },
     "collections": []
   },
@@ -2789,575 +2955,6 @@
     "collections": []
   },
   {
-    "slug": "asiq-ali",
-    "nameAz": "Aşıq Alı",
-    "nameRu": "Ашуг Али",
-    "nameEn": "Ashiq Ali",
-    "type": "POET",
-    "period": "XIX-XX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "skipSources": [
-      "wikisource-az-23609",
-      "wikisource-az-14988",
-      "wikisource-az-14921",
-      "wikisource-az-14920"
-    ],
-    "wikipedia": {
-      "az": "Aşıq Alı",
-      "ru": "Алы Гызылвенкли",
-      "en": "Ashig Ali"
-    },
-    "wikisource": {
-      "az": "Aşıq Alı"
-    },
-    "collections": []
-  },
-  {
-    "slug": "asiq-heyder",
-    "nameAz": "Aşıq Heydər",
-    "nameRu": "Ашуг Гейдар",
-    "nameEn": "Ashiq Heydar",
-    "type": "POET",
-    "period": "XIX-XX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "skipSources": [
-      "wikisource-az-20542"
-    ],
-    "wikipedia": {
-      "az": "Aşıq Heydər"
-    },
-    "wikisource": {
-      "az": "Aşıq Heydər"
-    },
-    "collections": []
-  },
-  {
-    "slug": "asiq-valeh",
-    "nameAz": "Aşıq Valeh",
-    "nameRu": "Ашуг Валех",
-    "nameEn": "Ashiq Valeh",
-    "type": "POET",
-    "period": "XVIII-XIX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "skipSources": [
-      "wikisource-az-16429",
-      "wikisource-az-16422"
-    ],
-    "wikipedia": {
-      "az": "Aşıq Valeh",
-      "ru": "Ашуг Валех"
-    },
-    "wikisource": {
-      "az": "Aşıq Valeh"
-    },
-    "collections": []
-  },
-  {
-    "slug": "asiq-besti",
-    "nameAz": "Aşıq Bəsti",
-    "nameRu": "Ашуг Басти",
-    "nameEn": "Ashiq Basti",
-    "type": "POET",
-    "period": "XIX-XX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "wikipedia": {
-      "az": "Aşıq Bəsti",
-      "ru": "Ашуг Басти"
-    },
-    "wikisource": {
-      "az": "Aşıq Bəsti"
-    },
-    "collections": []
-  },
-  {
-    "slug": "agdabanli-qurban",
-    "nameAz": "Ağdabanlı Qurban",
-    "nameRu": "Агдабанлы Гурбан",
-    "nameEn": "Aghdabanli Qurban",
-    "type": "POET",
-    "period": "XIX-XX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "wikipedia": {
-      "az": "Ağdabanlı şair Qurban"
-    },
-    "wikisource": {
-      "az": "Ağdabanlı Qurban"
-    },
-    "collections": []
-  },
-  {
-    "slug": "asiq-senlik",
-    "nameAz": "Aşıq Şenlik",
-    "nameRu": "Ашуг Шенлик",
-    "nameEn": "Ashiq Shenlik",
-    "type": "POET",
-    "period": "XIX-XX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "wikipedia": {
-      "az": "Aşıq Şenlik"
-    },
-    "wikisource": {
-      "az": "Aşıq Şenlik"
-    },
-    "collections": []
-  },
-  {
-    "slug": "asiq-musa",
-    "nameAz": "Aşıq Musa",
-    "nameRu": "Ашуг Муса",
-    "nameEn": "Ashiq Musa",
-    "type": "POET",
-    "period": "XIX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "wikipedia": {
-      "az": "Aşıq Musa",
-      "ru": "Ашуг Муса"
-    },
-    "wikisource": {
-      "az": "Aşıq Musa"
-    },
-    "collections": []
-  },
-  {
-    "slug": "ag-asiq-allahverdi",
-    "nameAz": "Ağ Aşıq Allahverdi",
-    "nameRu": "Аг Ашуг Аллахверди",
-    "nameEn": "Agh Ashiq Allahverdi",
-    "type": "POET",
-    "period": "XVIII-XIX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "skipSources": [
-      "wikisource-az-23606",
-      "wikisource-az-23604",
-      "wikisource-az-14248",
-      "wikisource-az-23612"
-    ],
-    "wikipedia": {
-      "az": "Ağ Aşıq"
-    },
-    "wikisource": {
-      "az": "Ağ Aşıq Allahverdi",
-      "az_aliases": [
-        "Ağ Aşıq"
-      ]
-    },
-    "collections": []
-  },
-  {
-    "slug": "asiq-huseyn-semkirli",
-    "nameAz": "Aşıq Hüseyn Şəmkirli",
-    "nameRu": "Ашуг Гусейн Шамкирли",
-    "nameEn": "Ashiq Huseyn Shamkirli",
-    "type": "POET",
-    "period": "XIX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "skipSources": [
-      "wikisource-az-18851",
-      "wikisource-az-18846"
-    ],
-    "wikipedia": {
-      "az": "Aşıq Hüseyn Şəmkirli"
-    },
-    "wikisource": {
-      "az": "Aşıq Hüseyn Şəmkirli",
-      "az_aliases": [
-        "Şəmkirli Aşıq Hüseyn"
-      ]
-    },
-    "collections": []
-  },
-  {
-    "slug": "varxiyanli-mehemmed",
-    "nameAz": "Varxiyanlı Aşıq Məhəmməd",
-    "nameRu": "Вархиянлы Ашуг Мамед",
-    "nameEn": "Varkhiyanli Ashiq Mahammad",
-    "type": "POET",
-    "period": "XIX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "wikisource": {
-      "az": "Varxiyanlı Aşıq Məhəmməd"
-    },
-    "collections": []
-  },
-  {
-    "slug": "coban-efqan",
-    "nameAz": "Çoban Əfqan",
-    "nameRu": "Чобан Афган",
-    "nameEn": "Choban Afghan",
-    "type": "POET",
-    "period": "XIX-XX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "wikipedia": {
-      "az": "Çoban Əfqan"
-    },
-    "wikisource": {
-      "az": "Çoban Əfqan"
-    },
-    "collections": []
-  },
-  {
-    "slug": "asiq-huseyn-bozalqanli",
-    "nameAz": "Aşıq Hüseyn Bozalqanlı",
-    "nameRu": "Ашуг Гусейн Бозалганлы",
-    "nameEn": "Ashiq Huseyn Bozalganli",
-    "type": "POET",
-    "period": "XIX-XX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "wikipedia": {
-      "az": "Aşıq Hüseyn Bozalqanlı",
-      "ru": "Ашуг Гусейн Бозалганлы"
-    },
-    "wikisource": {
-      "az": "Aşıq Hüseyn Bozalqanlı"
-    },
-    "collections": []
-  },
-  {
-    "slug": "asiq-esed",
-    "nameAz": "Aşıq Əsəd",
-    "nameRu": "Ашуг Асад",
-    "nameEn": "Ashiq Asad",
-    "type": "POET",
-    "period": "XIX-XX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "skipSources": [
-      "wikisource-az-28530"
-    ],
-    "wikipedia": {
-      "az": "Aşıq Əsəd",
-      "ru": "Ашуг Асад"
-    },
-    "wikisource": {
-      "az": "Aşıq Əsəd",
-      "az_aliases": [
-        "Əsəd Rzayev"
-      ]
-    },
-    "collections": []
-  },
-  {
-    "slug": "asiq-nesib",
-    "nameAz": "Aşıq Nəsib",
-    "nameRu": "Ашуг Насиб",
-    "nameEn": "Ashiq Nasib",
-    "type": "POET",
-    "period": "XIX-XX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "skipSources": [
-      "wikisource-az-26116",
-      "wikisource-az-26117",
-      "wikisource-az-26118",
-      "wikisource-az-30100"
-    ],
-    "wikisource": {
-      "az": "Aşıq Nəsib",
-      "az_aliases": [
-        "Ağbabalı Nəsib",
-        "Ağbabalı Aşıq Nəsib"
-      ]
-    },
-    "collections": []
-  },
-  {
-    "slug": "xeste-hasan",
-    "nameAz": "Xəstə Hasan",
-    "nameRu": "Хесте Гасан",
-    "nameEn": "Khasta Hasan",
-    "type": "POET",
-    "period": "XIX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "wikipedia": {
-      "az": "Axısqalı Xəstə Hasan"
-    },
-    "wikisource": {
-      "az": "Xəstə Hasan"
-    },
-    "collections": []
-  },
-  {
-    "slug": "asiq-mirze-bilal",
-    "nameAz": "Aşıq Mirzə Bilal",
-    "nameRu": "Ашуг Мирза Билал",
-    "nameEn": "Ashiq Mirza Bilal",
-    "type": "POET",
-    "period": "XIX-XX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "wikipedia": {
-      "az": "Aşıq Mirzə Bilal"
-    },
-    "wikisource": {
-      "az": "Aşıq Mirzə Bilal",
-      "az_aliases": [
-        "Mirzə Bilal"
-      ]
-    },
-    "collections": []
-  },
-  {
-    "slug": "asiq-peri",
-    "nameAz": "Aşıq Pəri",
-    "nameRu": "Ашуг Пери",
-    "nameEn": "Ashiq Pari",
-    "type": "POET",
-    "period": "XIX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "skipSources": [
-      "wikisource-az-2754",
-      "wikisource-az-30911",
-      "wikisource-az-25131"
-    ],
-    "wikipedia": {
-      "az": "Aşıq Pəri",
-      "ru": "Ашуг-Пери",
-      "en": "Ashiq Peri"
-    },
-    "wikisource": {
-      "az": "Aşıq Pəri"
-    },
-    "collections": []
-  },
-  {
-    "slug": "xeste-bayrameli",
-    "nameAz": "Xəstə Bayraməli",
-    "nameRu": "Хесте Байрамали",
-    "nameEn": "Khasta Bayramali",
-    "type": "POET",
-    "period": "XX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "wikipedia": {
-      "az": "Xəstə Bayraməli"
-    },
-    "wikisource": {
-      "az": "Xəstə Bayraməli"
-    },
-    "collections": []
-  },
-  {
-    "slug": "asiq-camal",
-    "nameAz": "Aşıq Camal",
-    "nameRu": "Ашуг Джамал",
-    "nameEn": "Ashiq Jamal",
-    "type": "POET",
-    "period": "XIX-XX əsr",
-    "writingLangs": [
-      "AZ_ARABIC"
-    ],
-    "wikipedia": {
-      "az": "Aşıq Camal"
-    },
-    "wikisource": {
-      "az": "Aşıq Camal"
-    },
-    "collections": []
-  },
-  {
-    "slug": "hemam",
-    "nameAz": "Həmam Təbrizi",
-    "nameRu": "Хумам Табризи",
-    "nameFa": "همام تبریزی",
-    "nameEn": "Homam Tabrizi",
-    "type": "POET",
-    "period": "XIII-XIV əsr",
-    "writingLangs": [
-      "FA"
-    ],
-    "wikipedia": {},
-    "ganjoor": {
-      "poetUrl": "https://ganjoor.net/homam",
-      "collections": [
-        {
-          "catUrl": "/homam/ghazalho",
-          "collectionSlug": "hemam-qezeller"
-        },
-        {
-          "catUrl": "/homam/robaeeho",
-          "collectionSlug": "hemam-rubailer"
-        },
-        {
-          "catUrl": "/homam/mofradatho",
-          "collectionSlug": "hemam-mufredler"
-        },
-        {
-          "catUrl": "/homam/masnaviatho",
-          "collectionSlug": "hemam-mesneviler"
-        }
-      ]
-    },
-    "collections": []
-  },
-  {
-    "slug": "meghribi",
-    "nameAz": "Şəms Məğribi",
-    "nameRu": "Шамс Магриби",
-    "nameFa": "شمس مغربی",
-    "nameEn": "Shams Maghrebi",
-    "type": "POET",
-    "period": "XIV əsr",
-    "writingLangs": [
-      "FA"
-    ],
-    "wikipedia": {},
-    "ganjoor": {
-      "poetUrl": "https://ganjoor.net/maghrebi",
-      "collections": [
-        {
-          "catUrl": "/maghrebi/ghazal-sm",
-          "collectionSlug": "meghribi-qezeller"
-        },
-        {
-          "catUrl": "/maghrebi/tarjee-sm",
-          "collectionSlug": "meghribi-tercibendler"
-        },
-        {
-          "catUrl": "/maghrebi/robaee-sm",
-          "collectionSlug": "meghribi-rubailer"
-        },
-        {
-          "catUrl": "/maghrebi/ghazal2",
-          "collectionSlug": "meghribi-qezeller-2"
-        },
-        {
-          "catUrl": "/maghrebi/parakande",
-          "collectionSlug": "meghribi-perakende"
-        },
-        {
-          "catUrl": "/maghrebi/tarjee2",
-          "collectionSlug": "meghribi-tercibendler-2"
-        },
-        {
-          "catUrl": "/maghrebi/fahlavi",
-          "collectionSlug": "meghribi-fehleviyyat"
-        },
-        {
-          "catUrl": "/maghrebi/arabi",
-          "collectionSlug": "meghribi-erebce-sirler"
-        }
-      ]
-    },
-    "collections": []
-  },
-  {
-    "slug": "meczub",
-    "nameAz": "Məczub Təbrizi",
-    "nameRu": "Меджзуб Табризи",
-    "nameFa": "مجذوب تبریزی",
-    "nameEn": "Majzub Tabrizi",
-    "type": "POET",
-    "period": "XVII əsr",
-    "writingLangs": [
-      "FA"
-    ],
-    "wikipedia": {
-      "az": "Məczub Təbrizi"
-    },
-    "ganjoor": {
-      "poetUrl": "https://ganjoor.net/majzoob",
-      "collections": [
-        {
-          "catUrl": "/majzoob/divan/gh",
-          "collectionSlug": "meczub-qezeller"
-        },
-        {
-          "catUrl": "/majzoob/divan/robaee",
-          "collectionSlug": "meczub-rubailer"
-        },
-        {
-          "catUrl": "/majzoob/divan/masnavi",
-          "collectionSlug": "meczub-mesneviler"
-        },
-        {
-          "catUrl": "/majzoob/divan/tarjee",
-          "collectionSlug": "meczub-tercibendler"
-        },
-        {
-          "catUrl": "/majzoob/divan/tarikh",
-          "collectionSlug": "meczub-tarixler"
-        },
-        {
-          "catUrl": "/majzoob/divan/parakende",
-          "collectionSlug": "meczub-perakende"
-        },
-        {
-          "catUrl": "/majzoob/divan/mofradat",
-          "collectionSlug": "meczub-mufredler"
-        },
-        {
-          "catUrl": "/majzoob/divan",
-          "collectionSlug": "meczub-musemmetler",
-          "flat": true
-        }
-      ]
-    },
-    "collections": []
-  },
-  {
-    "slug": "pervin-etisami",
-    "nameAz": "Pərvin Etisami",
-    "nameRu": "Парвин Этесами",
-    "nameFa": "پروین اعتصامی",
-    "nameEn": "Parvin E'tesami",
-    "type": "POET",
-    "period": "XX əsr",
-    "writingLangs": [
-      "FA"
-    ],
-    "wikipedia": {
-      "az": "Pərvin Etisami",
-      "ru": "Этесами, Парвин"
-    },
-    "ganjoor": {
-      "poetUrl": "https://ganjoor.net/parvin",
-      "collections": [
-        {
-          "catUrl": "/parvin/divanp/ghasidep",
-          "collectionSlug": "pervin-etisami-qesideler",
-          "form": "QASIDA"
-        },
-        {
-          "catUrl": "/parvin/divanp/mtm",
-          "collectionSlug": "pervin-etisami-seirler"
-        }
-      ]
-    },
-    "collections": []
-  },
-  {
     "slug": "izzeddin-hasanoglu",
     "nameAz": "İzzəddin Həsənoğlu",
     "nameRu": "Иззеддин Гасаноглы",
@@ -3901,6 +3498,404 @@
     "collections": []
   },
   {
+    "slug": "asiq-ali",
+    "nameAz": "Aşıq Alı",
+    "nameRu": "Ашуг Али",
+    "nameEn": "Ashiq Ali",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "skipSources": [
+      "wikisource-az-23609",
+      "wikisource-az-14988",
+      "wikisource-az-14921",
+      "wikisource-az-14920"
+    ],
+    "wikipedia": {
+      "az": "Aşıq Alı",
+      "ru": "Алы Гызылвенкли",
+      "en": "Ashig Ali"
+    },
+    "wikisource": {
+      "az": "Aşıq Alı"
+    },
+    "collections": []
+  },
+  {
+    "slug": "asiq-heyder",
+    "nameAz": "Aşıq Heydər",
+    "nameRu": "Ашуг Гейдар",
+    "nameEn": "Ashiq Heydar",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "skipSources": [
+      "wikisource-az-20542"
+    ],
+    "wikipedia": {
+      "az": "Aşıq Heydər"
+    },
+    "wikisource": {
+      "az": "Aşıq Heydər"
+    },
+    "collections": []
+  },
+  {
+    "slug": "asiq-valeh",
+    "nameAz": "Aşıq Valeh",
+    "nameRu": "Ашуг Валех",
+    "nameEn": "Ashiq Valeh",
+    "type": "POET",
+    "period": "XVIII-XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "skipSources": [
+      "wikisource-az-16429",
+      "wikisource-az-16422"
+    ],
+    "wikipedia": {
+      "az": "Aşıq Valeh",
+      "ru": "Ашуг Валех"
+    },
+    "wikisource": {
+      "az": "Aşıq Valeh"
+    },
+    "collections": []
+  },
+  {
+    "slug": "asiq-besti",
+    "nameAz": "Aşıq Bəsti",
+    "nameRu": "Ашуг Басти",
+    "nameEn": "Ashiq Basti",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Aşıq Bəsti",
+      "ru": "Ашуг Басти"
+    },
+    "wikisource": {
+      "az": "Aşıq Bəsti"
+    },
+    "collections": []
+  },
+  {
+    "slug": "agdabanli-qurban",
+    "nameAz": "Ağdabanlı Qurban",
+    "nameRu": "Агдабанлы Гурбан",
+    "nameEn": "Aghdabanli Qurban",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Ağdabanlı şair Qurban"
+    },
+    "wikisource": {
+      "az": "Ağdabanlı Qurban"
+    },
+    "collections": []
+  },
+  {
+    "slug": "asiq-senlik",
+    "nameAz": "Aşıq Şenlik",
+    "nameRu": "Ашуг Шенлик",
+    "nameEn": "Ashiq Shenlik",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Aşıq Şenlik"
+    },
+    "wikisource": {
+      "az": "Aşıq Şenlik"
+    },
+    "collections": []
+  },
+  {
+    "slug": "asiq-musa",
+    "nameAz": "Aşıq Musa",
+    "nameRu": "Ашуг Муса",
+    "nameEn": "Ashiq Musa",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Aşıq Musa",
+      "ru": "Ашуг Муса"
+    },
+    "wikisource": {
+      "az": "Aşıq Musa"
+    },
+    "collections": []
+  },
+  {
+    "slug": "ag-asiq-allahverdi",
+    "nameAz": "Ağ Aşıq Allahverdi",
+    "nameRu": "Аг Ашуг Аллахверди",
+    "nameEn": "Agh Ashiq Allahverdi",
+    "type": "POET",
+    "period": "XVIII-XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "skipSources": [
+      "wikisource-az-23606",
+      "wikisource-az-23604",
+      "wikisource-az-14248",
+      "wikisource-az-23612"
+    ],
+    "wikipedia": {
+      "az": "Ağ Aşıq"
+    },
+    "wikisource": {
+      "az": "Ağ Aşıq Allahverdi",
+      "az_aliases": [
+        "Ağ Aşıq"
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "asiq-huseyn-semkirli",
+    "nameAz": "Aşıq Hüseyn Şəmkirli",
+    "nameRu": "Ашуг Гусейн Шамкирли",
+    "nameEn": "Ashiq Huseyn Shamkirli",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "skipSources": [
+      "wikisource-az-18851",
+      "wikisource-az-18846"
+    ],
+    "wikipedia": {
+      "az": "Aşıq Hüseyn Şəmkirli"
+    },
+    "wikisource": {
+      "az": "Aşıq Hüseyn Şəmkirli",
+      "az_aliases": [
+        "Şəmkirli Aşıq Hüseyn"
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "varxiyanli-mehemmed",
+    "nameAz": "Varxiyanlı Aşıq Məhəmməd",
+    "nameRu": "Вархиянлы Ашуг Мамед",
+    "nameEn": "Varkhiyanli Ashiq Mahammad",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikisource": {
+      "az": "Varxiyanlı Aşıq Məhəmməd"
+    },
+    "collections": []
+  },
+  {
+    "slug": "coban-efqan",
+    "nameAz": "Çoban Əfqan",
+    "nameRu": "Чобан Афган",
+    "nameEn": "Choban Afghan",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Çoban Əfqan"
+    },
+    "wikisource": {
+      "az": "Çoban Əfqan"
+    },
+    "collections": []
+  },
+  {
+    "slug": "asiq-huseyn-bozalqanli",
+    "nameAz": "Aşıq Hüseyn Bozalqanlı",
+    "nameRu": "Ашуг Гусейн Бозалганлы",
+    "nameEn": "Ashiq Huseyn Bozalganli",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Aşıq Hüseyn Bozalqanlı",
+      "ru": "Ашуг Гусейн Бозалганлы"
+    },
+    "wikisource": {
+      "az": "Aşıq Hüseyn Bozalqanlı"
+    },
+    "collections": []
+  },
+  {
+    "slug": "asiq-esed",
+    "nameAz": "Aşıq Əsəd",
+    "nameRu": "Ашуг Асад",
+    "nameEn": "Ashiq Asad",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "skipSources": [
+      "wikisource-az-28530"
+    ],
+    "wikipedia": {
+      "az": "Aşıq Əsəd",
+      "ru": "Ашуг Асад"
+    },
+    "wikisource": {
+      "az": "Aşıq Əsəd",
+      "az_aliases": [
+        "Əsəd Rzayev"
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "asiq-nesib",
+    "nameAz": "Aşıq Nəsib",
+    "nameRu": "Ашуг Насиб",
+    "nameEn": "Ashiq Nasib",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "skipSources": [
+      "wikisource-az-26116",
+      "wikisource-az-26117",
+      "wikisource-az-26118",
+      "wikisource-az-30100"
+    ],
+    "wikisource": {
+      "az": "Aşıq Nəsib",
+      "az_aliases": [
+        "Ağbabalı Nəsib",
+        "Ağbabalı Aşıq Nəsib"
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "xeste-hasan",
+    "nameAz": "Xəstə Hasan",
+    "nameRu": "Хесте Гасан",
+    "nameEn": "Khasta Hasan",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Axısqalı Xəstə Hasan"
+    },
+    "wikisource": {
+      "az": "Xəstə Hasan"
+    },
+    "collections": []
+  },
+  {
+    "slug": "asiq-mirze-bilal",
+    "nameAz": "Aşıq Mirzə Bilal",
+    "nameRu": "Ашуг Мирза Билал",
+    "nameEn": "Ashiq Mirza Bilal",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Aşıq Mirzə Bilal"
+    },
+    "wikisource": {
+      "az": "Aşıq Mirzə Bilal",
+      "az_aliases": [
+        "Mirzə Bilal"
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "asiq-peri",
+    "nameAz": "Aşıq Pəri",
+    "nameRu": "Ашуг Пери",
+    "nameEn": "Ashiq Pari",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "skipSources": [
+      "wikisource-az-2754",
+      "wikisource-az-30911",
+      "wikisource-az-25131"
+    ],
+    "wikipedia": {
+      "az": "Aşıq Pəri",
+      "ru": "Ашуг-Пери",
+      "en": "Ashiq Peri"
+    },
+    "wikisource": {
+      "az": "Aşıq Pəri"
+    },
+    "collections": []
+  },
+  {
+    "slug": "xeste-bayrameli",
+    "nameAz": "Xəstə Bayraməli",
+    "nameRu": "Хесте Байрамали",
+    "nameEn": "Khasta Bayramali",
+    "type": "POET",
+    "period": "XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Xəstə Bayraməli"
+    },
+    "wikisource": {
+      "az": "Xəstə Bayraməli"
+    },
+    "collections": []
+  },
+  {
+    "slug": "asiq-camal",
+    "nameAz": "Aşıq Camal",
+    "nameRu": "Ашуг Джамал",
+    "nameEn": "Ashiq Jamal",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Aşıq Camal"
+    },
+    "wikisource": {
+      "az": "Aşıq Camal"
+    },
+    "collections": []
+  },
+  {
     "slug": "sebusteri",
     "nameAz": "Şeyx Mahmud Şəbüstəri",
     "nameRu": "Махмуд Шабистари",
@@ -3942,6 +3937,92 @@
           "catUrl": "/shabestari/merat",
           "collectionSlug": "sebusteri-mirat-ul-muhaqqiqin",
           "form": "MASNAVI"
+        }
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "hemam",
+    "nameAz": "Həmam Təbrizi",
+    "nameRu": "Хумам Табризи",
+    "nameFa": "همام تبریزی",
+    "nameEn": "Homam Tabrizi",
+    "type": "POET",
+    "period": "XIII-XIV əsr",
+    "writingLangs": [
+      "FA"
+    ],
+    "wikipedia": {},
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/homam",
+      "collections": [
+        {
+          "catUrl": "/homam/ghazalho",
+          "collectionSlug": "hemam-qezeller"
+        },
+        {
+          "catUrl": "/homam/robaeeho",
+          "collectionSlug": "hemam-rubailer"
+        },
+        {
+          "catUrl": "/homam/mofradatho",
+          "collectionSlug": "hemam-mufredler"
+        },
+        {
+          "catUrl": "/homam/masnaviatho",
+          "collectionSlug": "hemam-mesneviler"
+        }
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "meghribi",
+    "nameAz": "Şəms Məğribi",
+    "nameRu": "Шамс Магриби",
+    "nameFa": "شمس مغربی",
+    "nameEn": "Shams Maghrebi",
+    "type": "POET",
+    "period": "XIV əsr",
+    "writingLangs": [
+      "FA"
+    ],
+    "wikipedia": {},
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/maghrebi",
+      "collections": [
+        {
+          "catUrl": "/maghrebi/ghazal-sm",
+          "collectionSlug": "meghribi-qezeller"
+        },
+        {
+          "catUrl": "/maghrebi/tarjee-sm",
+          "collectionSlug": "meghribi-tercibendler"
+        },
+        {
+          "catUrl": "/maghrebi/robaee-sm",
+          "collectionSlug": "meghribi-rubailer"
+        },
+        {
+          "catUrl": "/maghrebi/ghazal2",
+          "collectionSlug": "meghribi-qezeller-2"
+        },
+        {
+          "catUrl": "/maghrebi/parakande",
+          "collectionSlug": "meghribi-perakende"
+        },
+        {
+          "catUrl": "/maghrebi/tarjee2",
+          "collectionSlug": "meghribi-tercibendler-2"
+        },
+        {
+          "catUrl": "/maghrebi/fahlavi",
+          "collectionSlug": "meghribi-fehleviyyat"
+        },
+        {
+          "catUrl": "/maghrebi/arabi",
+          "collectionSlug": "meghribi-erebce-sirler"
         }
       ]
     },
@@ -4002,6 +4083,60 @@
         {
           "catUrl": "/ghasem/maghamat",
           "collectionSlug": "qasim-enver-meqamatul-arifin"
+        }
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "meczub",
+    "nameAz": "Məczub Təbrizi",
+    "nameRu": "Меджзуб Табризи",
+    "nameFa": "مجذوب تبریزی",
+    "nameEn": "Majzub Tabrizi",
+    "type": "POET",
+    "period": "XVII əsr",
+    "writingLangs": [
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Məczub Təbrizi"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/majzoob",
+      "collections": [
+        {
+          "catUrl": "/majzoob/divan/gh",
+          "collectionSlug": "meczub-qezeller"
+        },
+        {
+          "catUrl": "/majzoob/divan/robaee",
+          "collectionSlug": "meczub-rubailer"
+        },
+        {
+          "catUrl": "/majzoob/divan/masnavi",
+          "collectionSlug": "meczub-mesneviler"
+        },
+        {
+          "catUrl": "/majzoob/divan/tarjee",
+          "collectionSlug": "meczub-tercibendler"
+        },
+        {
+          "catUrl": "/majzoob/divan/tarikh",
+          "collectionSlug": "meczub-tarixler"
+        },
+        {
+          "catUrl": "/majzoob/divan/parakende",
+          "collectionSlug": "meczub-perakende"
+        },
+        {
+          "catUrl": "/majzoob/divan/mofradat",
+          "collectionSlug": "meczub-mufredler"
+        },
+        {
+          "catUrl": "/majzoob/divan",
+          "collectionSlug": "meczub-musemmetler",
+          "flat": true
         }
       ]
     },
@@ -4107,6 +4242,37 @@
     "collections": []
   },
   {
+    "slug": "pervin-etisami",
+    "nameAz": "Pərvin Etisami",
+    "nameRu": "Парвин Этесами",
+    "nameFa": "پروین اعتصامی",
+    "nameEn": "Parvin E'tesami",
+    "type": "POET",
+    "period": "XX əsr",
+    "writingLangs": [
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Pərvin Etisami",
+      "ru": "Этесами, Парвин"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/parvin",
+      "collections": [
+        {
+          "catUrl": "/parvin/divanp/ghasidep",
+          "collectionSlug": "pervin-etisami-qesideler",
+          "form": "QASIDA"
+        },
+        {
+          "catUrl": "/parvin/divanp/mtm",
+          "collectionSlug": "pervin-etisami-seirler"
+        }
+      ]
+    },
+    "collections": []
+  },
+  {
     "slug": "irec-mirze",
     "nameAz": "İrəc Mirzə",
     "nameRu": "Ирадж Мирза",
@@ -4175,5 +4341,11 @@
       ]
     },
     "collections": []
-  }
+  },
+  {"slug": "biriya", "nameAz": "Məhəmməd Biriya", "nameRu": "Мохаммад Бирия", "nameFa": "محمد بی‌ریا", "nameEn": "Mohammad Biriya", "type": "POET", "period": "XX əsr", "writingLangs": ["AZ_ARABIC"], "wikipedia": {"az": "Məhəmməd Biriya", "ru": "Мохаммад Бирия", "en": "Mohammad Biriya"}, "wikisource": {"az": "Məhəmməd Biriya"}, "collections": []},
+  {"slug": "hebib-sahir", "nameAz": "Həbib Sahir", "nameRu": "Габиб Сахир", "nameFa": "حبیب ساهر", "nameEn": "Habib Saher", "type": "POET", "period": "XX əsr", "writingLangs": ["AZ_ARABIC"], "wikipedia": {"az": "Həbib Sahir", "ru": "Сахир, Габиб", "en": "Habib Saher"}, "wikisource": {"az": "Həbib Sahir"}, "collections": []},
+  {"slug": "cemenzeminli", "nameAz": "Yusif Vəzir Çəmənzəminli", "nameRu": "Юсиф Везир Чеменземинли", "nameEn": "Yusif Vazir Chamanzaminli", "type": "WRITER", "period": "XX əsr", "writingLangs": ["AZ_LATIN"], "wikipedia": {"az": "Yusif Vəzir Çəmənzəminli", "ru": "Чеменземинли, Юсиф Везир", "en": "Yusif Vazir Chamanzaminli"}, "wikisource": {"az": "Yusif Vəzir Çəmənzəminli"}, "collections": []},
+  {"slug": "qenizade", "nameAz": "Sultan Məcid Qənizadə", "nameRu": "Султан Меджид Ганизаде", "nameEn": "Sultan Majid Ganizade", "type": "WRITER", "period": "XIX-XX əsr", "writingLangs": ["AZ_ARABIC"], "wikipedia": {"az": "Sultan Məcid Qənizadə", "ru": "Ганизаде, Султан Меджид Муртаза-Али оглы", "en": "Sultan Majid Ganizade"}, "wikisource": {"az": "Sultan Məcid Qənizadə"}, "collections": []},
+  {"slug": "talibov", "nameAz": "Əbdürrəhim Talıbov", "nameRu": "Абдуррахим Талибов", "nameFa": "عبدالرحیم طالبوف", "nameEn": "Abdurrahim Talibov", "type": "WRITER", "period": "XIX-XX əsr", "writingLangs": ["FA"], "bornYear": 1834, "diedYear": 1911, "collections": []},
+  {"slug": "nemanzade", "nameAz": "Ömər Faiq Nemanzadə", "nameRu": "Омар Фаик Неманзаде", "nameEn": "Omar Faig Nemanzadeh", "type": "WRITER", "period": "XIX-XX əsr", "writingLangs": ["AZ_ARABIC"], "wikipedia": {"az": "Ömər Faiq Nemanzadə", "ru": "Неманзаде, Омар Фаик", "en": "Omar Faig Nemanzadeh"}, "collections": []}
 ]
