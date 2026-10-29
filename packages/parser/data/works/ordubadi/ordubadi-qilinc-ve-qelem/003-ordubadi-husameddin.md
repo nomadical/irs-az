@@ -27,7 +27,7 @@ Mən yenə də sənə verdiyim köhnə nəsihətimi təkrar edəcəyəm. Sən Di
 
 Hüsaməddin acıqlanaraq öz həsəb-nəsəbi haqqında danışmağa, soyadının ərəb xəlifələrinə böyük xidmətlər göstərdiyini saymağa başladı:
 
-– Məni tanıyırsınızmı? Mən böyük Buğanın nəvəsiyəm.
+– Məni tanıyırsınızmı? Mən böyük Buğanın<sup>1</sup> nəvəsiyəm.
 
 Qətibə öz etidalını pozmayaraq:
 
@@ -68,3 +68,7 @@ Qətibə güldü:
 Hüsaməddin cavab verməyə macal tapmadı, çünki cariyələr bağa çıxıb, Qətibəni səsləyərək:
 
 – Atanız sizi nahar süfrəsinə dəvət edir, – dedilər.
+
+---
+
+<sup>1</sup> Buğa – hicri 234-cü illərdə Azərbaycanda xəlifələrə qarşı düzələn üsyanlar zamanı Mütəvəkkil xəlifə tərəfindən Azərbaycanı qanlar içində boğmaq üçün göndərilmişdi. Babək üsyanından sonra, təzə üsyanları idarə edən məşhur Məhəmməd ibn-Bəis Samiriyə şəhərinin məhbəsindən qaçıb Azərbaycana gəlmiş və orada bir hökumət təşkilinə başlamışdı. Xəlifə Mütəvəkkil, Bəisin üsyanını boğmaq üçün Həmduya ibn-Əlini (ərəb tarixində məşhur olan Fəzl Sədinin nəvəsidir) böyük bir ordu ilə Azərbaycana göndərdi və Azərbaycan hökumətini ona tapşırdı. Mütəvəkkil Həmduya ilə bərabər Zirək türki və ibn-Sisl adlarında iki məşhur komandanı da onun yanına qoşdu. Azərbaycanlılar bu ordunu Təbriz ilə Mərənd arasında lazımi qədər döydü. Nəhayət, Mütəvəkkil xəlifə türklərdən Buğanı böyük bir qoşunla Azərbaycana göndərdi. Azərbaycanlılar yenə də ibn-Bəisi ələ vermədilər. Nəhayət, bir xəyanət nəticəsində İbn-Bəis həbsə alındı (Müəllif).

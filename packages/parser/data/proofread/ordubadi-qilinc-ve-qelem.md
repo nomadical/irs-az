@@ -975,7 +975,7 @@ Mən yenə də sənə verdiyim köhnə nəsihətimi təkrar edəcəyəm. Sən Di
 
 Hüsaməddin acıqlanaraq öz həsəb-nəsəbi haqqında danışmağa, soyadının ərəb xəlifələrinə böyük xidmətlər göstərdiyini saymağa başladı:
 
-– Məni tanıyırsınızmı? Mən böyük Buğanın nəvəsiyəm.
+– Məni tanıyırsınızmı? Mən böyük Buğanın<sup>1</sup> nəvəsiyəm.
 
 Qətibə öz etidalını pozmayaraq:
 
@@ -1018,6 +1018,10 @@ Qətibə güldü:
 Hüsaməddin cavab verməyə macal tapmadı, çünki cariyələr bağa çıxıb, Qətibəni səsləyərək:
 
 – Atanız sizi nahar süfrəsinə dəvət edir, – dedilər.
+
+---
+
+<sup>1</sup> Buğa – hicri 234-cü illərdə Azərbaycanda xəlifələrə qarşı düzələn üsyanlar zamanı Mütəvəkkil xəlifə tərəfindən Azərbaycanı qanlar içində boğmaq üçün göndərilmişdi. Babək üsyanından sonra, təzə üsyanları idarə edən məşhur Məhəmməd ibn-Bəis Samiriyə şəhərinin məhbəsindən qaçıb Azərbaycana gəlmiş və orada bir hökumət təşkilinə başlamışdı. Xəlifə Mütəvəkkil, Bəisin üsyanını boğmaq üçün Həmduya ibn-Əlini (ərəb tarixində məşhur olan Fəzl Sədinin nəvəsidir) böyük bir ordu ilə Azərbaycana göndərdi və Azərbaycan hökumətini ona tapşırdı. Mütəvəkkil Həmduya ilə bərabər Zirək türki və ibn-Sisl adlarında iki məşhur komandanı da onun yanına qoşdu. Azərbaycanlılar bu ordunu Təbriz ilə Mərənd arasında lazımi qədər döydü. Nəhayət, Mütəvəkkil xəlifə türklərdən Buğanı böyük bir qoşunla Azərbaycana göndərdi. Azərbaycanlılar yenə də ibn-Bəisi ələ vermədilər. Nəhayət, bir xəyanət nəticəsində İbn-Bəis həbsə alındı (Müəllif).
 
 # Fəxrəddin
 
@@ -3200,7 +3204,7 @@ Nizaminin başında gedən istiqbal dəstəsi “Əli bulağı” adlı çeşmə
 Mücirəddin Məhsəti xanıma çox diqqətlə baxırdı; çünki hökumət onu Gəncədən sürgün etdiyi zaman saçlarında ağ tüklər çox az idi. İndi isə onun saçları tamamilə ağarmışdı. Qara ipək donunun üzərinə tökülmüş ağ və təmiz saçları bu qoca şairənin gözəlliyində yeni və gənc bir mənzərə açırdı. Buna görə də Mücirəddin ona yazdığı şerində deyirdi:
 
 Bu şux nəvəd salədə halət yenə qalmış,
-Geysuyi-səfidində təravət yenə qalmış.
+Geysuyi-səfidində təravət yenə qalmış.<sup>1</sup>
 
 Hökumət tərəfindən istiqbala gələn dəstə yetişdi. Hüsaməddin atından düşüb Qətibənin taxt-rəvanına yanaşdı. Qulamlar dərhal pilləkəni qoydular, Hüsaməddin taxt-rəvanın qapısını açaraq Qətibəni endirərkən, taxt-rəvanın ətrafına yığışanlar, ipək və qiymətli xalçalarla bəzənmiş bir qəfəsin içindən bəzəkli bir tovuz quşunun endirildiyini zənn edirdilər. Qətibə taxt-rəvandan ayağını yerə qoyduğu zaman onu yüzlərcə kəniz və cariyə aralığa aldı. Qətibə Məhsəti xanım duran yerə qədər kənizlərin və cariyələrin içərisində gəldi. Bir neçə qədəm qalmış onlardan ayrılıb Məhsəti xanıma yanaşdı.
 
@@ -3239,6 +3243,10 @@ Nizami isə şad bir surətdə nəfəs alaraq öz-özünə:
 – Nə qədər böyük bir səadət, – dedi. – Böyük sənətkarın xidmətində olmaq və ölüncəyə qədər onu öz doğma anamız kimi sevmək səadəti bizə nəsib oldu...
 
 Bundan sonra Fəxrəddinin anası və Nizaminin yaxın qonşuları Məhsəti xanımı aralığa alıb onu öz otağına apardılar.
+
+---
+
+<sup>1</sup> Məhsəti xanımın həyatı, müasiri olduğu Soltan Səncər və Ömər Xəyyamın həyat tarixi ilə ölçüldüyü zaman yüz ilə qədər yaşadığı təxmin edilməkdədir (Müəllif).
 
 # “Fərman-hümayun”
 
