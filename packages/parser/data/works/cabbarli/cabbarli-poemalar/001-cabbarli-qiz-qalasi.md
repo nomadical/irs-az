@@ -1,19 +1,17 @@
 ---
 slug: cabbarli-qiz-qalasi
-sourceId: wikisource-az-3731
-titleAz: Qız qalası
+sourceId: anl-cc-e1-108
+titleAz: "Qız qalası"
 authorSlug: cabbarli
 collectionSlug: cabbarli-poemalar
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
 order: 1
-sourceNote: >-
-  https://az.wikisource.org/wiki/Q%C4%B1z%20qalas%C4%B1%20(C%C9%99f%C9%99r%20Cabbarl%C4%B1)
+sourceNote: 'https://web.archive.org/web/2020/http://anl.az/el/c/cc-e1.pdf#page=171'
 status: DRAFT
 ---
 1
-
 Quzğunun sahilində pək qocaman
 Bir yapı, əski sirlər yuvası,
 Sanki dalmış dərin düşüncələrə,
@@ -57,7 +55,7 @@ Nələr, Allah, bu əski ev düşünür?!
 3
 
 Burası örtülü bütün eldən...
-Pək dərin keçmişin, fəqət dildən -
+Pək dərin keçmişin, fəqət dildən –
 Dilə vardırdığı dumanlı xəbər
 Xalq içində maraqla söylənilər
 Ki, bizim paytaxtımız xanının
@@ -82,17 +80,17 @@ Etdi bir qəmli macəra təsvir.
 Altı yüz il qədər əvvəllərdə,
 Bu binaya yaxın duran yerdə
 Bakının sahilüstü bir küçəsi,
-Can sevən bir gözəl mayıs gecəsi...
+Can sevən bir gözəl mayis gecəsi...
 Tam göyün ortasından ay durmuş,
 Dörd yanın dövrə bir işıq bürümüş.
 Altı-yeddi sarımtıraq ulduz
 Pək uzaqlarda titrəşir fərsiz;
-Sakitanə dəniz cumub parlar,
+Sakitanə dəniz durub parlar,
 Sıçraşıb xırda damcılar oynar;
 Uyuyur qumlar üstə ilbizlər;
 Orda gizlənqaç oynayır qızlar.
 Mey vurunca hava xəfifanə,
-İnlədikcə dəniz xəfifanə,
+Inlədikcə dəniz xəfifanə,
 Yerə aydan işıq saçıldıqca.
 Görünüşdən ürək açıldıqca,
 O mələk gözlərində bir sevda,
@@ -108,22 +106,22 @@ Baxıyor bir xəyalə dalmış qız,
 Baxıyor kainata qırpımsız.
 Göydən ay öz şəfəqlərin səpiyor,
 O qızın ağ gümüş döşün öpüyor.
-Bir xəyali kaman tək inləyərək,
+Bir xəyalı kaman tək inləyərək,
 Şəvə tək saçların öpər yellər.
 Oxşadıqca ilıq hava bədənin,
-Qucuyor boynunu uzun teller.
+Qucuyor boynunu uzun tellər.
 O fəqət... dinləməz bu aləmi bir,
 Baxıyor düz, düşüncəli, dilgir;
 Sanki bir başqa kainat arayır.
 Arabir diksinib için çəkiyor,
 Ağaca doğru başcığın əkiyor,
-Yenə dinməz, baxır fəzaya qəmin,
+Yenə dinməz, baxır fəzaya qəmin,1
 Yenə tutqun, haman yenə dalğın,
 Qara gözlər haman yenə süzülür,
 Al dodaqlar ara-sıra büzülür,
 Gülüyor, ağlıyor, deyil, bəlli,
-İnliyor, dinliyor çətin həlli!
-İri, süzgün, qara kömür gözlər
+Inliyor, dinliyor çətin həlli!
+Iri, süzgün, qara kömür gözlər
 Bu üfüqlərdə, ax, nələr gözlər?!
 Keçmişin bu işıqlı ulduzunun,
 Allah, Allah, bu gündoğuş qızının
@@ -131,7 +129,7 @@ Nələr etmiş xəyalını məğşuş,
 O ayıqdırmı, yoxsa bir bihuş?!
 Bu gözəllik, bu incəliklə məgər
 Görən olsa, ona deyərmi bəşər?
-Yox, saqın, heç bu od ona gəlməz,
+Yox, satqın, heç bu od ona gəlməz,
 Onu kim görsə, canlı zənn edəməz;
 Deyəcəkdir, yəqin ona röya,
 Pək dərin, şairanə bir xülya.
@@ -139,7 +137,7 @@ Pək dərin, şairanə bir xülya.
 7
 
 Göydə bir parça ağ bulud yürüdü,
-Pərdəvarı Ayın üzün bürüdü.
+Pərdəvarı ayın üzün bürüdü.
 Bir dəqiqə hava qaraldı bütün,
 Yenə durmuş bu qızcığaz məhzun.
 Yenə əvvəlki tək deməz, dinməz
@@ -160,16 +158,15 @@ Yoxsa mümkünmü saymayır, eşqin?
 O da bu sevginin pərişanı.
 Böylə orta, bilinməyən bir hal.
 Kəsdirib, bilmək həp bu halı mahal.
-Ağ buludcuq Ayın yanında gəzir,
+Ağ buludcuq ayın yanında gəzir,
 Bir qayıq ta uzaq dənizdə üzür.
 Yel ipək kömləyin qızın oxşar,
 Saçların telbətel öpər, oynar.
 Gecə ölgün sükut ilə yürüyor,
 Qız da əvvəlki hal ilə duruyor.
-
 8
 
-İki yandan sümükləri çıxmış,
+Iki yandan sümükləri çıxmış,
 Qırışıq sərt üzündə bir iffət;
 Boz qalın qaşlarilə örtülmüş
 Xırda dik gözlərində bir şəfqət.
@@ -185,7 +182,7 @@ Seviyor, həm deyil ki, bu ata tək,
 Onu etmiş əsir o canlı çiçək,
 Seviyor həm nasıl ki, gənc gənci;
 Seviyor həm nasıl ki, bir sevici.
-Yürüyor ixtiyarsiz, ölgün;
+Yürüyor ixtiyarsız, ölgün;
 Yürüyor kəndi-kəndinə küskün.
 Qorxuyor o, zəhərli dillərdən,
 Sanacaq xalq onu rəzillərdən;
@@ -197,8 +194,8 @@ Ad, san, el, tanrıdan olur məhrum.
 Görüyor qarşısında bir uçurum.
 Ölüyor, partlıyor, yenə seviyor.
 Yürüyor, inliyor, yenə yürüyor.
-İstəyir getməsin, ürək sürüyor;
-İstəyir sevməsin, könül seviyor!
+Istəyir getməsin, ürək sürüyor;
+Istəyir sevməsin, könül seviyor!
 
 9
 
@@ -227,8 +224,8 @@ Yürüyor Qantemir yenə irəli,
 Qorxduğu şeylərin yox heç əsəri;
 Yürüyor sevgi, başqa təkcə məal...
 Duruyor qız önündə sanki xəyal.
-İndi ay ağ buludcuğu devirib,
-İşığın sanki büsbütün çevirib,
+Indi ay ağ buludcuğu devirib,
+Işığın sanki büsbütün çevirib,
 Töküyor sahilə gülümsəyərək,
 Sanki cənnət yaratmaq istəyərək,
 Qızı guya mələkliyə sınayır.
@@ -241,7 +238,6 @@ Artırınca gözəlliyin yaranış,
 Alıyor qız ilahi bir görünüş.
 
 11
-
 Baxıyor Qantemir, həzin baxıyor;
 Yaş gözündən dayanmadan axıyor.
 Baxıyor Qantemir qəmin, məhzun.
@@ -254,19 +250,19 @@ Yarpaqaltı işıqlar oynaşıyor;
 Qıza Məcnun ata yaxınlaşıyor,
 Gözlərində alovlu bir sevda;
 Sərt, fəqət pək boğuq səsiylə ona:
-- Durna! - Qız diksinib, həzin, süzgün
+– Durna! – Qız diksinib, həzin, süzgün
 Baxıyor, qarşısında san düşkün,
 Pək və şaşqın, yazıq ata, duruyor.
-- Yenə gəldinmi? - Of, - deyib soruyor.
-- Bu qədər qayğı, bunca işgəncə
+– Yenə gəldinmi? – Of, – deyib soruyor.
+– Bu qədər qayğı, bunca işgəncə
 Sanıyorsan ki, azmı bir gəncə?
 Məni, onsuz düşüncələr bürümüş;
 Fikrimi onsuz da qayğılar yormuş.
-Mənə onsuz bu eşq tüğyanı
+Mənə onsuz bu eşq tüğyani
 Veriyor bir əzabi-ruhani.
 Yaxıyor qəlbimi bu eşqin ya,
 Ox, zavallı, aman, zavallı ata!
-- Durna! Sus! Sus! Nədən bu danladığın?
+– Durna! Sus! Sus! Nədən bu danladığın?
 Bilirəm, yox ki, eşqi anladığın,
 Bilirəm sən nədən bu cür dalğın,
 Bilirəm, ax, bu sevgi pək şaşqın.
@@ -284,16 +280,16 @@ Mən deyil, hər kəs olsa bənd eləyər,
 Atan hərgah peyğəmbər olsa, sevər.
 Baxıyor qızcığaz inildəyərək,
 Ata həm ağlayır sözün deyərək:
-- Sən nəsən? Çünki bir sevilməli gül.
+– Sən nəsən? Çünki bir sevilməli gül.
 Ağlayırsanmı? Durna, sus! Gül, gül!
 Ağlamaqdansa, al məni öldür.
 Gül, bu məcnun ürəyimi güldür!
-Səni ağlar görəndə handa mənim
-Çatlayır, partlayır bütün bədənim!
+Səni ağlar görəndə handa mənim!
+Çatlayır, partlayır bütün bədənim.
 Durna! Səndən çocuq kimi dilərəm:
 Ağlama, yoxsa indicə ölərəm.
 Gülüyor qızcığaz heç istəmədən:
-- Ata, ah, söylə, söylə, nədən
+– Ata, ah, söylə, söylə, nədən
 Böylə şaşqın bir eşqə verdin dil,
 Nə deyər tanrı, ya nə söylər el?
 Vurdu meh, keçdi bir ilıq ruzgar,
@@ -306,7 +302,7 @@ Qantemir indi büsbütün məcnun.
 Hər sözündən sonra köpüklənərək,
 San ürəkdən tutub çəkir sözünü.
 Sözü gah yüksəlib də, gah enərək,
-Söyləyir: - Durna! Anlamam səni mən,
+Söyləyir: – Durna! Anlamam səni mən,
 Bu qədər qorxu, ya sıxıntı nədən?
 Mən özüm indi kimsəni tanımam,
 Kim nə istər desin, mən aldanmam.
@@ -336,7 +332,7 @@ Haqsızam sevməyə gözəlliyi mən?
 Kəndisi Məryəmə vuruldu nədən?
 Sevdi kəndi yaratdığın kəndi,
 Mən sevərsəm, mənə nə der indi?!
-İstəyirsə ki, sevməyim səni mən.
+Istəyirsə ki, sevməyim səni mən.
 Səni böylə gözəl yaratdı nədən?
 
 12
@@ -346,14 +342,14 @@ Qantemir məmləkətdə bir dahi,
 Qantemir qəhrəmanlar öldürmüş,
 Diriliklər qılıncı soldurmuş,
 Ona tabe alovlu bir ölkə,
-İndi durmuş nasıl ki, bir kölgə;
+Indi durmuş nasıl ki, bir kölgə;
 Heç duyulmaz ki, işləyir nəfəsi;
 Arabir inləyir qırıntı səsi:
-— Durna! Yavrum, darılma, olma məlul.
+– Durna! Yavrum, darılma, olma məlul.
 Sevmə bir başqasın, aman, mənim ol!
 Varlığın çeynər odlu bir qayğu,
 Ata bəklər maraqla qaytarğu.
-İndi sahildə səs-səmir əsla
+Indi sahildə səs-səmir əsla
 Eşidilməz, açun yatıb guya,
 Tərpənişsiz bütün hava durmuş,
 Batqıya doğru bir az yürümüş.
@@ -362,7 +358,7 @@ Uyumuş həp dəminki gənc qızlar
 Dinməz öz boynunu əyib güllər,
 Sanki bir şey maraqla pək dinlər.
 Bu sükutu yarar fəqət arabir
-İlbiz oymaqları yaşıl təpələr;
+Ilbiz oymaqları yaşıl təpələr;
 Öndə parlaq sularda incə, xəfif
 Bir şırıltıyla oynaşan ləpələr.
 Baxıyor Durna, sanki bir heykəl,
@@ -372,25 +368,25 @@ Qocanı, həm kəmali-diqqətlə
 Süzüyor, kəndi bilmədən səbəbin;
 Yenə dalğın, haman yenə dalğın...
 Qantemir indi canlı bir heycan,
-İldiırım, od, alovlu bir vulkan.
-İnləyir tapdağında guya yer,
+Ildırım, od, alovlu bir vulkan.
+Inləyir tapdağında guya yer,
 Parlayır gözlərində şimşəklər.
 Bu gözəllik sinirlərin yaxıyor;
 Sanki ac qurd şikar üçün baxıyor.
 Baxıyor Durnanın bu heyətinə,
 Mütərəddid gözəl qiyafətinə,
-Söyləyir: - Durna! Nazlı yavrum, bax,
+Söyləyir: – Durna! Nazlı yavrum, bax,
 Məni məhv etmə, bu sükuta burax!
 Mən həyatımda dürlü gün gördüm,
 Əymədim baş açunda bir nəfərə,
 Bir nəfər yox, bütün bəni-bəşərə.
 Oda girdim, ölümlə çarpışdım.
-İçmədim su, həmişə qan içdim
+Içmədim su, həmişə qan içdim
 Məni gördükdə handa bir əsgər,
 Qəhrəmanlar, igid-igid ərlər
 Titrəyirlərdi sanki bir yarpaq,
-Oynaşım qan, dəmir, çəlik, mizraq!..
-İxtiyarəm deyib də, aldanma.
+Oynaşım qan, dəmir, çəlik, mızraq!..
+Ixtiyarəm deyib də, aldanma.
 Hələ pək güclüyəm, inan, Durna!
 Mənə odlar, sular, biyabanlar,
 Vəhşilər, arslanlar, insanlar –
@@ -398,18 +394,18 @@ Həpsi bir heç! Önümdə bir kölgə...
 Bax özün, iştə odlu bir ölkə,
 Bir böyük kütlənin həyatı bütün
 Bir oyuncaq kimi əlimdə zəbun
-İstəsəm, həpsini əzib, didərəm,
+Istəsəm, həpsini əzib, didərəm,
 Tapdaram həp həyatı məhv edərəm.
 Tikərəm bir hasar bu ləşlərdən,
 Yaparam bir minarə başlardan.
 Orda bir şən çiçəkli bağ salaram.
 Həp bu qanlarla torpağın sularam.
 Mənə dünyada qarşı qüvvət yox,
-İstəyim verməyən şəriət yox.
-“İstəyin yapma!” söyləyən bir din
+Istəyim verməyən şəriət yox.
+“Istəyin yapma!” söyləyən bir din
 Mənə lazım deyil də, məhv olsun...
 Ulu tanrım, bu süngü, bu qalxan
-Turk üçün həp budur böyük yaradan.
+Türk üçün həp budur böyük yaradan.
 Çünki varkən əlimdə bu mizraq,
 Nə dilərsəm, o mütləqa olacaq!
 Nə ararsam əlimdədir, taparam,
@@ -424,14 +420,14 @@ Bircə ancaq bu eşqi zorlayamam,
 Dön, gözəl yavru, tanrım ol da mənim!
 Diləyin varsa, söylə, rədd etməm,
 Sənə qarşı, satqın, güc işlətməm
-Al, ölümlər saçan bu mizraqlar,
+Al, ölümlər saçan bu mızraqlar,
 Bu geniş anlı-şanlı torpaqlar,
 Qüvvətim, dövlətim, yerim, yurdum,
 Təxtü tacım, mənliyim, bu qəddim,
 Sərt, bükülməz qolum önündə bükük;
-Bax, bu mizraq, bu mən götür əz, tök!
+Bax, bu mızraq, bu mən götür əz, tök!
 Qüvvətim, varlığım, dəmirli əlim.
-İştə bir eşq ilahəsinə təslim.
+Iştə bir eşq ilahəsinə təslim.
 Sən bu gün hökmdarsan, mən qul,
 Durna... yavrum! Fəqət... aman... mənim ol!
 Qantemir, Qantemir igid bir ər,
@@ -448,13 +444,13 @@ Ağlamaq bilməyən bu sərt gözlər
 Ağlayır, ağlayır çocuqlar tək!
 Yenə ruhunda bir təkəbbür var,
 Onda guya dəniz, sular, dağlar
-Söyləyir: - Qantemir, utan, doğrul,
+Söyləyir: – Qantemir, utan, doğrul,
 Sən ki, ərdin, tapınma, qalx da, ər ol!
 Bu qədər yalvarış nədir bu qıza...
 Baxıyor Durna bu kədərli üzə,
 Çeynəyir ruhun odlu bir dəhşət,
 Gülüyor heyətində bir əzəmət;
-İnliyor gözlərində yorğunluq,
+Inliyor gözlərində yorğunluq,
 Qaplamış kainatı susqunluq.
 
 13
@@ -475,18 +471,18 @@ Qara qaşlar çatıldı quş qanadı,
 Qara gözlərdə titrəyir sevgi;
 Nəfəsin çəkdi bir tərəddüdlə,
 Sanki vardır pək incə bir diləyi.
-İstəyir söyləsin... yumruq ağzın
+Istəyir söyləsin... yumruq ağzın
 Pək zərif bir şaqaq tək açdı.
 Dinməyir... ağlayır... tərəddüd edir.
 Gül dodaqdan, bax, iştə qan açdı.
 Susdu, guya ki, pək ağırdı sözü,
 Rəngi qaçdı, saraldı bət-bənizi.
-İstədi söyləsin, fəqət susdu.
+Istədi söyləsin, fəqət susdu.
 Küsdü, bilməm nədənsə, pək küsdü.
 Daldı bax, pək dərin xəyalə yenə,
 Düşüyor, kəsdirir o bilməm nə?
 Titrəyir, bax yenə qızardı üzü,
-İstəyir söyləsin dəminki sözü.
+Istəyir söyləsin dəminki sözü.
 Yenə susdu, baxışları süzülür,
 Daldı, bilməm nədənsə pək üzülür.
 Yenə küsdü, yaşardı həm də üzü,
@@ -497,17 +493,17 @@ Baxıyor, sanki seyr edir dənizi.
 Nədir, Allah, bu yavruda bu məlal!
 Bu tərəddüd, bu qəm, bu küskün hal!
 Aman Allah, nədir onun diləyi?
-İlk baharın bu nazənin çiçəyi
+Ilk baharın bu nazənin çiçəyi
 Yenə susmuş neçin tərəddüd edir?
 Kim bilir, o, həp nələr düşünür?
 Atasın istəyirmi qandırsın?
 Sevdiyinmi bir az yubandırsın?
-Atasın "yox!” deyib, yox etsinmi?
+Atasın “yox!” deyib, yox etsinmi?
 Demədən sevdiyilə getsinmi?
 Yoxsa, atsın bütün, bütün eşqin,
 Olaraq keçmişin pərişanı,
 Sevsin ancaq yazıq qoca atasın,
-Çəkərək bir əzabi-vicdanı?
+Çəkərək bir əzabi-vicdani?
 Keçmişin, sevdiyin, özün, ürəyin,
 Gələcək günlərin, adın, diləyin.
 Həpsin, həpsin atıb, onu tutsun?
@@ -542,7 +538,7 @@ Bax, çatıldı yenə hilal qaşlar,
 Qəti bir halda gəldi, doğruldu,
 Sanki bulmuş kimi o, istədiyin,
 Sərt, çevik tərpənişlə döndü dedi:
-- Ata, artıq mənim deyilsən atam,
+– Ata, artıq mənim deyilsən atam,
 Mən sənə, anladınmı, indi yadam.
 Mən Xəzər sahilində bir durna,
 Sən də bir ovçu kimi vuruldun ona.
@@ -554,9 +550,9 @@ Qoy eşitsin bütün cahan, bilsin!
 Həpsi dildən-dilə deyib gülsün
 Ki, rəzil bir ata, rəzil bir qız
 Yaşayıb öldülər də ismətsiz.
-- Durna! Yavrum, bu halətin dəhşət,
+– Durna! Yavrum, bu halətin dəhşət,
 Haqsızam mən, fəqət düşün, əfv et!
-- Keçmiş artıq, nə olsa, qoy olsun,
+– Keçmiş artıq, nə olsa, qoy olsun,
 Sənə həp son məzarım eşq olsun!
 Qoy desinlər, yalandır, aldanmam,
 Dinlə, zövcüm, mənim dünənki atam!
@@ -566,13 +562,13 @@ Sən özün heç, sözün də biməna,
 Eşqin ancaq böyük, vuruldum ona...
 Söyləyir Durna bilmədən özünü,
 Söyləyir kəlmə-kəlmə hər sözünü...
-İşlədikcə çapıq-çapıq nəfəsi,
+Işlədikcə çapıq-çapıq nəfəsi,
 Eşidildikcə incə, dadlı səsi,
 Zənn edirsən ki, incə bir dilbər
 Sararaq bir kəmanı əllərini,
-Başdaki sevginin xəyalilə
-İnlədir aşiqanə tellərini.
-Söyləyir Durna - Qantemir, dinlə!
+Başdakı sevginin xəyalilə
+Inlədir aşiqanə tellərini.
+Söyləyir Durna – Qantemir, dinlə!
 Yaşamaq istəyirmisən mənlə!
 Seviyorsun yəqin ki, var xəbərim,
 Verərəm söz ki, mən də həp sevərəm.
@@ -582,9 +578,9 @@ Doğrudan sən məni sevirsənsə,
 Yapacaqsan nə sevdiyin diləsə.
 Görüyorsunuzmu, bax, bu ağ dənizi,
 Şüşə tək parlayır nasıl da üzü,
-Mənə tikdir bu göy sularda bir ev,
+Mənə təkdir bu göy sularda bir ev,
 Qaldır əvvəl bu yüksəyə, sonra sev.
-İstəyirsənmi boynunu qucayım,
+Istəyirsənmi boynunu qucayım,
 Mənə imkan ver, ilk əvvəl uçayım,
 Uçayım pək uzaq bu yerlərdən,
 Uçayım pək uzaq bəşərlərdən...
@@ -617,22 +613,22 @@ Sahilə bir ufaq qayıq yanaşır,
 Süslü bir gənc onun içindən aşır.
 Durnaya doğru durmadan qoşaraq,
 Ona doğru haman yaxınlaşaraq,
-Söyləyir: - Pək gecikmişəm, Durna!
+Söyləyir: – Pək gecikmişəm, Durna!
 Ağlayırsan, aman, darıldın ona!
 Bilmədim, sevdiyim, bağışla məni...
-Durnanm titrəyib bütün bədəni,
+Durnanın titrəyib bütün bədəni,
 Baxıyor pək sürəkli, pək sakit:
-- Son, bütün son, səfalı günlərə son!
+– Son, bütün son, səfalı günlərə son!
 Son, bütün keçmişə, keçənlərə son!
 Məni bundan sonra düşünmə...
-- Aman!
-- Bilirəm pək bəlalıdır hicran,
+– Aman!
+– Bilirəm pək bəlalıdır hicran,
 Duyğusuz, uyğusuz yetim gecələr,
 Süslü dünya cəhənnəm olsa əgər,
 Yenə qarşımda başqa yox tədbir,
-İki yol var, fəqət, nəhayət bil,
+Iki yol var, fəqət, nəhayət bil,
 Həp ölümdür, ölüm, ölümdür, ölüm!
-İştə, yavrum, bu son səfalı yolum...
+Iştə, yavrum, bu son səfalı yolum...
 Məni səndən ayırdı bir tufan,
 Çarə yox, böylə istəmiş yaradan...
 Durna bir gül ki, açmadan soldu;
@@ -650,9 +646,9 @@ Ay dolanmış da, həftələr ötmüş,
 Suda pək süslü bir bina bitmiş.
 Qucuyor övzülün dəniz, quru yer,
 Öpüyor yüksək alnını göylər.
-Üstü görsənməyir durnanlarda,
+Üstü görsənməyir dumanlarda,
 Sanki itmişdir asimanlarda;
-İlk gülən, son ölən şüası bütün
+Ilk gülən, son ölən şüası bütün
 Həp onundur doğan, batan günəşin.
 O gözəldir, o bir gəlin kimi şən,
 Baxıyor bir vüqar ilə gendən.
@@ -668,7 +664,7 @@ Birləşib pək uzaq dənizlərlə,
 Baxıyor sahilə gülümsəyərək,
 Eşqə vurğun kədərli gözlərlə
 Sanki öz saçlarilə fəxr edərək.
-İştə son zirvəsində göylərdə
+Iştə son zirvəsində göylərdə
 Duruyor, pək uzaq bəşərlər ona;
 Duruyor sanki bir sular pərisi,
 Duruyor bir vüqar ilə Durna.
@@ -691,7 +687,7 @@ Nazlı bir qız, ziyalı bir dilbər.
 Onu guya ki, süsləmiş, bəzəmiş
 Göylərin incə mənəviyyatı.
 Onu guya ki, sevgidən yaradıb
-İlk baharın gülümsəyən səhəri.
+Ilk baharın gülümsəyən səhəri.
 Onu guya ki, bilmədən doğurub
 Gülüşündən görünməyən Tanrı.
 Yox, burax, tanrı-manrı bilməm mən
@@ -704,7 +700,7 @@ Həp yarınçın sürüklənirkən sən,
 Umduğun şey nədir yarınlardan!
 Gələcəkçin nədir bu qayğı, bu hal?
 Həp gözəllik deyilmi bir ideal?
-İştə hər kəscə etiraf edilir
+Iştə hər kəscə etiraf edilir
 Ki, qadın canlı bir gözəllikdir.
 Həp təbiət edir pərəstiş ona,
 Hamısından gözəl, fəqət, Durna.
@@ -714,18 +710,18 @@ Boş fəzalarda seyr edib uçuşan
 Bu mələklər xəyalı, kölgəsidir.
 Qəlblər, ruhlar, könüllər həp,
 Eşqə təslim olan bir ölkəsidir.
-Şairin, serin həp ilahəsi o,
+Şairin, şerin həp ilahəsi o,
 Şeirlər, nəğmələr onundur hamı.
 Hər kəsin şərt-ilahi tapmasıdır.
-Əsl Allah bu, o biri yapmasıdır.
+Əsil Allah bu, o biri yapmasıdır.
 
 17
 
 Üzüyor Qantemir düşündüyü bu,
-İnləyir sərt küləklərindən su.
+Inləyir sərt küləklərindən su.
 Bir qayıqla yaxınlaşıb yapıya,
 Bir buruq ip ilişdirib qapıya,
-Dirmanıb Qantemir, girir içəri.
+Dırmanıb Qantemir, girir içəri.
 Dinmədən bircə-bircə pillələri
 Çıxıyor çox çapıq nəfəs çəkərək,
 Hər gördükdə bir azca əylənərək.
@@ -740,20 +736,20 @@ Parlayan gözlərində eşq oynar.
 
 Əmrinə Durnanın boyun əyərək,
 Qantemir büsbütün əməl etmiş.
-İkiillik əzabdan sonra
+Ikiillik əzabdan sonra
 Su içində bu dik bina bitmiş;
 Toplamış ölkəsində hər nə ki var
 Bacarıqlı, dəyərli sənətkar.
 Hamısından da çox çalışmış özü
 Eşqə təslim üçün coşan dənizi.
 Can çürütmüş, əzaba qatlanmış,
-Hər daşın göz yaşıyla islatmış.
-İki il cansıxan uzun gecələr...
+Hər daşın göy yaşıyla islatmış.
+Iki il cansıxan uzun gecələr...
 Bir cəhənnəm otaq, yataq, hər yer.
-İki il ayrılıqda çırpınaraq,
+Iki il ayrılıqda çırpınaraq,
 Bəkləmişdir bu son günü naçar.
-İştə son gün ki, bu bina bitmiş,
-Yenə axşam mayıs... sevimli bahar.
+Iştə son gün ki, bu bina bitmiş,
+Yenə axşam mayis... sevimli bahar.
 Əyərək Durna həp qəzayə boyun,
 Gecələr, uyğusuz, gündüz tutqun,
 Gözü ağlar nasıl ki, yazda bulud,
@@ -763,8 +759,8 @@ Yaşamış adətən cəhənnəmlər.
 İkiillik əzabdan sonra
 Əmrinin bitdiyin demişlər ona.
 Büsbütün əski xatiratə uyuq.
-Bu binaya bu gün çıxıb
-Durna, Baxıyor bir maraq ilə göydən,
+Bu binaya bu gün çıxıb Durna,
+Baxıyor bir maraq ilə göydən,
 Baxıyor kainata yüksəkdən.
 Görüyor bir yığın ufaq komalar,
 Bəşərin ilk məzarı həp bunlar.
@@ -784,72 +780,72 @@ Görür insanların keçinməsini,
 Günəşin son şüası sönməsini.
 Hərəkətlər də sustlaşır artıq,
 Bir sükutə batıb gedir aralıq,
-İndi dammış sükunət hər yerdə,
+Indi dammış sükunət hər yerdə,
 Eniyor kainata bir pərdə.
 Bir qaranlıq, ürək sıxan qaralıq,
 Daldı həp birdən uyquya varlıq.
 Yandı göylərdə göylərin çırağı,
-İndi ay doğdu, sanki qan çanağı.
+Indi ay doğdu, sanki qan çanağı.
 Durna artıq baxınmayır, dalmış.
 Bəkləməkdən vücudu sustalmış.
-Gözləyir göydə öz ərin - atasın,
+Gözləyir göydə öz ərin – atasın,
 Ruhu dalğın, vücudu həp dalğın.
 
 19
 
 Qapını Qantemir açıb girdi,
 Durna diksindi, sıçrayıb durdu.
-İki ildir görüşməmişlərdi,
+Iki ildir görüşməmişlərdi,
 Hər baxış, san, bir incə xəncərdi...
 Qara gözlər dikildi Qantemirə,
-Sanki mizraq dayandı sərt dəmirə.
-İlk əvvəl endi bir sürəkli sükut:
+Sanki mızraq dayandı sərt dəmirə.
+Ilk əvvəl endi bir sürəkli sükut:
 Ata məhbut, qız da həp məhbut...
 Qantemir sonra, uslu, çox qorxaq,
 Cansıxan bir sükutə son qoyaraq:
-- Durna! Yavrum! Neçin donub qaldın?
-Pək üzüldün, neçinsə sustaldm!
+– Durna! Yavrum! Neçin donub qaldın?
+Pək üzüldün, neçinsə sustaldın!
 Durna durmuş bir incə sərtliklə,
 Dinməyir bir sükut içində hələ,
-- Nə gözəl bir qiyafət almışsan!
+– Nə gözəl bir qiyafət almışsan!
 Sən həqiqətdə pək gözəlmişsən!
 Ox! Bu paltar, yanılmayırsam əgər...
-- Anamındır, əvət, bu əlbəsələr;
+– Anamındır, əvət, bu əlbəsələr;
 Doğrudur, Qantemir, xatırladığın.
-- Bu qiyafətlə kaş ki, bilsəydin,
+– Bu qiyafətlə kaş ki, bilsəydin,
 Nə qədər bənzəyirsən öz anana!
-- Bir zaman gənc ikən...
+– Bir zaman gənc ikən...
 Vuruldum ona...
-- Abşeron xanlığıyla çarpışdın...
+– Abşeron xanlığıyla çarpışdın...
 Bir təsadüf ki, sən əsir düşdün.
-- Demə, yavrum, yetər keçənlərdən...
-- Səni onlar da asmaq istərkən,
+– Demə, yavrum, yetər keçənlərdən...
+– Səni onlar da asmaq istərkən,
 Anam ancaq təsadüfən görmüş,
 Gecə gəlmiş...
-- Əvət, bəlalı bir iş
-- Uyuyurkən yanında bir cəllad,
+– Əvət, bəlalı bir iş
+– Uyuyurkən yanında bir cəllad,
 Səni dustaqdan eyləmiş azad.
 Xan qızıykən əsirə bağlanmış.
 Səni sevmiş, vəfalısan sanmış.
-- Onu mən son məzarədək sevdim.
+– Onu mən son məzarədək sevdim.
 Onu hətta bu gün də... ah nə edim?
 Onu dünyaya bu gün dəyişməzkən...
-- Bircə sən, sən onun bərabərisən.
-- İzləyirkən sizi qızın atası,
+– Bircə sən, sən onun bərabərisən.
+– Izləyirkən sizi qızın atası,
 Söylə, batrıldı Abşeron adası...
 Qantemir xatirat içində haman
 Çeynəyir sanki varlığın qaplan.
-- Durna! Yavrum! Burax, danışma daha!
-- Üzülürsən, neçinsə, ha-ha-ha!..
+– Durna! Yavrum! Burax, danışma daha!
+– Üzülürsən, neçinsə, ha-ha-ha!..
 Bax, bu süslər, bu gördüyün paltar
 Həp onundur, geyinmişəm nə ki, var.
 Qucacaqsan bu yadigarı... utan,
 Qantemir... iştə həpsi qandır, qan...
-- Durna... artıq bu sözlərin yersiz.
+– Durna... artıq bu sözlərin yersiz.
 Sən unutdunmu? Bağda verdin söz...
 Mən də, eşqim də suçluyuq bəlkə,
-- Andı qırmaq yaqışmayır türkə,
-“Olacaqdır?” - dedim, dedin: “Olacaq!”
+– Andı qırmaq yaqışmayır türkə,
+“Olacaqdır?” – dedim, dedin: “Olacaq!”
 Mən bu dəryanı zorla susladaraq;
 Vermişəm bu binaya varsa nəyim,
 Hökmdarkən önündə indi nəyim?
@@ -865,8 +861,8 @@ Qoy cahan dövrü saxlanıb dönsün!
 Yanmasın göydə bir ziya, sönsün!
 Bitməsin bir göyərti bir yerdə,
 Gülməsin bir çiçək çəmənlərdə!
-İldırımlar vurub da, od, yansın.
-Yerə ensin nə varsa - ulduz, gün!..
+Ildırımlar vurub da, od, yansın.
+Yerə ensin nə varsa – ulduz, gün!..
 Yerə qiyamət kəsilsin istər yer!
 Həp bu varlıq sükuta qoy dalsın,
 Dirilik məhv olub da sarsılsın!
@@ -879,10 +875,10 @@ Bəşəriyyət həyatı son bulsun!
 Yenə ruhum qımıldamaz əsla!
 Yenə eşqimdə sabitəm, Durna!..
 Mən bu gün bir yabançı, sən bir qız,
-İştə son gün, xatırla, verdin söz.
-İntixab et, önündə var iki yol:
+Iştə son gün, xatırla, verdin söz.
+Intixab et, önündə var iki yol:
 Ya bu gün öl və ya ki, təslim ol!
-- Andı qırmaq yaqışmayır türkə,
+– Andı qırmaq yaqışmayır türkə,
 Kim bilir, mən alışqanam bəlkə.
 Ona söz verdim öncə, son döndüm,
 Eşqə yandım, sonunda həp söndüm.
@@ -891,7 +887,7 @@ Sənin eşqində bir zaman varkən,
 Qantemir, indi sən nəsən, nəçisən?
 Adi bir ər, qadınçı bir sima.
 İkiillik öz iztirabımdan,
-Anladim mən nədir dəyərli həyat.
+Anladım mən nədir dəyərli həyat.
 Zövq alırkən bu göz yaşından mən,
 Sən... nədir eşq, duymadın heyhat!
 Boyun əymək bir ehtirasa fəqət,
@@ -919,12 +915,12 @@ Dolaşıb, bir nəticə bəkləməmək
 Heç də mümkün deyil; fəqət xoşdur
 Hər əzabın soniylə əylənmək.
 Ayrılıq, ağlamaq gözəldir, əvət,
-Bir vüsalmın ümidi olsa fəqət.
+Bir vüsalın ümidi olsa fəqət.
 Həm də varlıq önümdə titrərkən.
 Bu cəsarətlə çox keçinməzsən.
 İki il bəklədim ki, son bir gün...
 Həp bu gündür, əvət bu qanlı düyün.
-- Qanlı, qansız əlimdəsən artıq;
+– Qanlı, qansız əlimdəsən artıq;
 Ya mənimsən, və ya ki, yoxsan, yox!
 Qantemir gözlərində qan əsəri,
 Yürümək istəyirdi həp iləri;
@@ -933,7 +929,7 @@ Baxdı bir kainata pək ürək,
 Sanki bir quş gələn görüb qaçacaq,
 Sanki bir durna indicə uçacaq.
 Yapının son kənarına çıxdı,
-Bir də həsrətlə aləmə baxdiı.
+Bir də həsrətlə aləmə baxdı.
 Gördü əvvəl bulunduğu bağca,
 Yenə bir can sevən işıqlı gecə.
 Baxıyor Durna göy geyimli düzə,
@@ -954,8 +950,8 @@ Qarşısından birər keçir bunlar,
 Gözü yox, ruhu büsbütün ağlar.
 Düşünüb inadı həp bir sözlə,
 Büsbütün məhv edib ata diləyin.
-Xatirat, ox... Aman, aman, dəhşət!
-Xatirat, ox... yaxıb tökür ürəyin.
+Xatırat, ox... Aman, aman, dəhşət!
+Xatırat, ox... yaxıb tökür ürəyin.
 Yenə ay göydə durmada sabit...
 Yenə əvvəlki tək dəniz sakit.
 Yenə də bir ufaq qayıq üzüyor,
@@ -969,21 +965,21 @@ Ah, bu parlaq suda nə dadlı ölüm!...
 O zamandan ki, sevdiyin qovmuş,
 O da kəndin bu Kaspidə boğmuş.
 Neçin, Allah, neçin? Səbəb o... əvət!
-Ah... nasıl qıydı da ona, dedi: "get!”
+Ah... nasıl qıydı da ona, dedi: “get!”
 Neçin əhd etdi, bəs neçin qırdı,
 Sevdiyin başqasıyçın öldürdü?
 O, həyatın bir eşq üçün verdi;
 O, igid, həm vəfalı bir ərdi.
-Ondan ayrı dayanınayıb getdi;
+Ondan ayrı dayanmayıb getdi;
 Getdi, həp kainatı tərk etdi.
 Qantemir atmaq istəyirdi qədəm,
-Durna: - Ah, qorxma, sevdiyim, gəlirəm,
+Durna: – Ah, qorxma, sevdiyim, gəlirəm,
 Eşq üçün ayrılıq, ölüm bir gün,
 Məncə, ən dadlı bir xəyali düyün.
 Bizə bir gün düyün yapar sonda
 Ana Quzğun səfalı qoynunda.
 Ah, uçun! Ah, əzablar yuvası...
-Ah, bağışla, sevimli Qız qalası! —
+Ah, bağışla, sevimli Qız qalası! –
 Deyərək, saçla örtüyor üzünü,
 Parlayan Kaspiyə atır özünü...
 Geyimin oxşadıqca yel guya,
@@ -1007,7 +1003,7 @@ Bircə kim yox! Aman, yazıq Durna!
 21
 
 Daim ondan sonra bu ev məhzun,
-İndi ondan bu evciyəz küskün.
+Indi ondan bu evciyəz küskün.
 Dörd yanından onun sular qurumuş,
 Yüksək evlər bütün onu bürümüş.
 Dövrəsindən gurultular soyumaz,

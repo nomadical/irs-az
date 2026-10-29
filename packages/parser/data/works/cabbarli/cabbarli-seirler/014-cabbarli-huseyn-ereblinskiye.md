@@ -1,21 +1,22 @@
 ---
 slug: cabbarli-huseyn-ereblinskiye
-sourceId: wikisource-az-3716
-titleAz: Hüseyn Ərəblinskiyə
+sourceId: anl-cc-e1-15
+titleAz: "Hüseyn Ərəblinskiyə"
 authorSlug: cabbarli
 collectionSlug: cabbarli-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
 order: 14
-sourceNote: >-
-  https://az.wikisource.org/wiki/H%C3%BCseyn%20%C6%8Fr%C9%99blinskiy%C9%99%20(C%C9%99f%C9%99r%20Cabbarl%C4%B1)
+sourceNote: 'https://web.archive.org/web/2020/http://anl.az/el/c/cc-e1.pdf#page=62'
 status: DRAFT
 ---
+(Hüseyn Ərəblinskinin təşhi-cənazəsinə oxunan növhə)
+
 Möhtərəm, ey sevgili yoldaşımız mərhum Hüseyn!
 Çox çəkib cövrü-cəfa qardaşımız məzlum Hüseyn!
 
-Zillət içrə etdin abad səhneyi-millimizi,
+Zillət içrə etdim abad səhneyi-millimizi,
 Xabi-qəflətdən oyatdın milləti-küllimizi.
 
 Ac-susuz atdın özün bu kəşməkeş meydanına,

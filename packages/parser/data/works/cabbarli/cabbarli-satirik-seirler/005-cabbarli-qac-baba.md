@@ -1,19 +1,18 @@
 ---
 slug: cabbarli-qac-baba
-sourceId: wikisource-az-3781
-titleAz: 'Qaç, baba'
+sourceId: anl-cc-e1-40
+titleAz: "Qaç baba!"
 authorSlug: cabbarli
 collectionSlug: cabbarli-satirik-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
 order: 5
-sourceNote: 'https://az.wikisource.org/wiki/Qa%C3%A7%2C%20baba'
+sourceNote: 'https://web.archive.org/web/2020/http://anl.az/el/c/cc-e1.pdf#page=81'
 status: DRAFT
 ---
 Yatma, dəxi gözlərini aç, a Babayi-Əmir!
 Təzə danosbaz çıxıb, qaç, a Babayi-Əmir!
-
 Mən demədimmi sənə etmə bizi dəngəsər!
 Cəmləşib xalq hamı başını birdən əzər!
 Mən deyən olmadımı, oldumu, ya sərbəsər?

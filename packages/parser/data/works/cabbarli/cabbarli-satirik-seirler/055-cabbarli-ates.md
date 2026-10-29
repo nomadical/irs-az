@@ -1,0 +1,36 @@
+---
+slug: cabbarli-ates
+sourceId: anl-cc-e1-90
+titleAz: "Atəş"
+authorSlug: cabbarli
+collectionSlug: cabbarli-satirik-seirler
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: POEM
+order: 55
+sourceNote: 'https://web.archive.org/web/2020/http://anl.az/el/c/cc-e1.pdf#page=145'
+status: DRAFT
+---
+Ey əzizim, bir belə bəsdir dedin,
+Seyyidü axund, molla söhbətin.
+Varsa gücün, indi bir az yazgilən,
+Şairi-mahir, üdəba söhbətin.
+
+Al qələmi, yaz oları adbaad,
+Şair ola, mair ola, bisavad.
+Söylə, nədir, şair, deməkdən murad:
+Ərzi qoyub, yazma səma söhbətin.
+
+Bir də görürsən ki, yazırlar bizə.
+Çarşab ilə yaxşı deyil qız gəzə.
+Sözləri lap biməzədir, biməzə
+Yaz bunları, at ülamə söhbətin.
+
+Xalqa deyirlər: “Eləyin ittifaq”!
+Bir deyən olsun bulara, ay qoçaq,
+Bəs özünüz eyləyəcəksiz haçaq?..
+Xalqa deyirsiz bu xuda söhbətin.
+Vodka içirlər ağa tək özləri,
+Biz bir az içsək ovurlar gözləri.
+Ey əzizim, yaz bu gözəl sözləri!
+Yazma dəxi molla yava söhbətin.
