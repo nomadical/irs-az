@@ -10,7 +10,6 @@ genre: POEM
 order: 49
 sourceNote: >-
   https://az.wikisource.org/wiki/Ey%20uzaq%20g%C3%B6yl%C9%99rin%20yax%C4%B1n%20el%C3%A7isi!
-hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Ey uzaq göylərin yaxın elçisi!

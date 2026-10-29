@@ -10,7 +10,6 @@ genre: POEM
 order: 107
 sourceNote: >-
   https://az.wikisource.org/wiki/D%C9%99niz%20g%C9%99zintisi%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
-hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Sevgilim, gecənin rənginə bir bax!

@@ -93,10 +93,10 @@ Soviet and post-Soviet, deceased (anl.az 2004–2007 state reprints first):
 - [ ] Prose and drama: Mir Cəlal, Mirzə İbrahimov, Mehdi Hüseyn, Süleyman Rəhimov, Əli Vəliyev, İlyas Əfəndiyev, İsmayıl Şıxlı, Yusif Səmədoğlu, İsa Hüseynov (Muğanna)
 
 Gaps in existing authors:
-- [ ] Vurğun: 92 works still DRAFT; Cavid: 1
+- [x] Vurğun: 92 works were DRAFT only through frontmatter `hold:` (copyright check, moot since the 2026-10-12/28 policy); holds removed, all 283 now PUBLISHED. Cavid's 1 draft is a stray junk row (slug `12`, body `1212`, no source, from 2026-04), not in data/works: delete it from the DB when convenient
 - [ ] Qazi Bürhanəddin: 39 of a ~1,500-poem divan (OCR of a printed divan)
 - [ ] Ordubadi: Qılınc və qələm part two, Dumanlı Təbriz, Gizli Bakı
-- [ ] anl reprints still to cut: Hadi 8283, Cabbarlı 8239/8240, Zakir 8230
+- [ ] anl reprints still to cut: Hadi 8283, Cabbarlı 8239/8240, Zakir 8230 (2026-10-29: Hadi and Zakir PDFs downloaded and cached in data/raw but image-only, need agent transcription + `scrape-transcribed`; Cabbarlı has no `&download=1` PDF, needs img.php page bundling)
 - [ ] Nizami's lyric divan (ghazals, qasidas, rubais): not on Ganjoor, source needed
 
 ### Russian translations to add

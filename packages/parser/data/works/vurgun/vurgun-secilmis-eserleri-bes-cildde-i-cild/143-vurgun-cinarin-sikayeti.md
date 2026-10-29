@@ -10,7 +10,6 @@ genre: POEM
 order: 143
 sourceNote: >-
   https://az.wikisource.org/wiki/%C3%87inar%C4%B1n%20%C5%9Fikay%C9%99ti%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
-hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Dindi yol üstündə qoca bir çinar:

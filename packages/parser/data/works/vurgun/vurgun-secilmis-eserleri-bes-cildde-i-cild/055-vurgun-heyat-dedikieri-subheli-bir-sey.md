@@ -10,7 +10,6 @@ genre: POEM
 order: 55
 sourceNote: >-
   https://az.wikisource.org/wiki/H%C9%99yat%20dediki%C9%99ri%20%C5%9F%C3%BCbh%C9%99li%20bir%20%C5%9Fey
-hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Həyat dedikiəri şübhəli bir şey,

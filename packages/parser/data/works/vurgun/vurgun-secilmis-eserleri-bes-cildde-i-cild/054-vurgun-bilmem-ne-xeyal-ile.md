@@ -9,7 +9,6 @@ scriptDirection: LTR
 genre: POEM
 order: 54
 sourceNote: 'https://az.wikisource.org/wiki/Bilm%C9%99m%20n%C9%99%20x%C9%99yal%20il%C9%99'
-hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Bilməm nə xəyal ilə oyandım yenə erkən;

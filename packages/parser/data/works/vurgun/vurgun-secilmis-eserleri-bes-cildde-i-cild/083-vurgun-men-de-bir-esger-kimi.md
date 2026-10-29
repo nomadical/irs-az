@@ -10,7 +10,6 @@ genre: POEM
 order: 83
 sourceNote: >-
   https://az.wikisource.org/wiki/M%C9%99n%20d%C9%99%20bir%20%C9%99sg%C9%99r%20kimi%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
-hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Nəbilərin,

@@ -10,7 +10,6 @@ genre: POEM
 order: 108
 sourceNote: >-
   https://az.wikisource.org/wiki/%C3%87%C9%99n%C9%99%20s%C3%B6hb%C9%99ti%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
-hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Qapılar bağlanır, gecə yarıdır,

@@ -10,7 +10,6 @@ genre: POEM
 order: 41
 sourceNote: >-
   https://az.wikisource.org/wiki/Bayram%20qaba%C4%9F%C4%B1%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
-hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Yenə baxır gülərüz ay pəncərəmdən xumar-xumar,

@@ -10,7 +10,6 @@ genre: POEM
 order: 87
 sourceNote: >-
   https://az.wikisource.org/wiki/Pamb%C4%B1q%C3%A7%C4%B1lar%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
-hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Günün saçaqları yayılır düzə,

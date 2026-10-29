@@ -10,7 +10,6 @@ genre: POEM
 order: 144
 sourceNote: >-
   https://az.wikisource.org/wiki/Sabirin%20%C5%9F%C9%99r%C9%99fin%C9%99%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
-hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Xəyalım bu gecə varaq-varaqdır.

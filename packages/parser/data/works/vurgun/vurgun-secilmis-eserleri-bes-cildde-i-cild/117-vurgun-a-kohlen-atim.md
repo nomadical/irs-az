@@ -10,7 +10,6 @@ genre: POEM
 order: 117
 sourceNote: >-
   https://az.wikisource.org/wiki/A%20k%C3%B6hl%C9%99n%20at%C4%B1m!%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
-hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Əlim tərpənməmiş oyna yerindən,

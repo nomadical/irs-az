@@ -10,7 +10,6 @@ genre: POEM
 order: 127
 sourceNote: >-
   https://az.wikisource.org/wiki/Ordenli%20q%C9%99hr%C9%99man%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
-hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Yenə də sayrışır göydə ulduzlar

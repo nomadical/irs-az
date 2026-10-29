@@ -10,7 +10,6 @@ genre: POEM
 order: 134
 sourceNote: >-
   https://az.wikisource.org/wiki/T%C9%99briz%20g%C3%B6z%C9%99lin%C9%99%20(S%C9%99m%C9%99d%20Vur%C4%9Fun)
-hold: 'Undated; may have been first published after 1956, which would extend copyright past 2026'
 status: DRAFT
 ---
 Çox da fikir vermə danışıqlara,
