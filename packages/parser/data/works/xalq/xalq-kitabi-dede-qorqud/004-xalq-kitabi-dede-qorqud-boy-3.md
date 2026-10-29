@@ -1,0 +1,472 @@
+---
+slug: xalq-kitabi-dede-qorqud-boy-3
+sourceId: wikisource-az-16455
+titleAz: Qam Börənin oğlı Bamsı Beyrək boyını bəyan edər
+authorSlug: xalq
+collectionSlug: xalq-kitabi-dede-qorqud
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: PROSE
+order: 4
+sourceNote: >-
+  https://az.wikisource.org/wiki/Kitabi-D%C9%99d%C9%99%20Qorqud%2FQam%20B%C3%B6r%C9%99nin%20o%C4%9Fl%C4%B1%20Bams%C4%B1%20Beyr%C9%99k%20boy%C4%B1n%C4%B1%20b%C9%99yan%20ed%C9%99r%2C%20xan%C4%B1m%2C%20hey
+status: DRAFT
+---
+QAM BÖRƏNİN OĞLI BAMSI BEYRƏK BOYINI BƏYAN EDƏR, XANIM, HEY...
+Qam Gan oğlı xan Baymdır yerindən durmışdı. Qara yerin üstinə ağ ban evin dikdirmişdi. Ala sayvan gög yüzinə
+aşanmışdı. Bin yerdə ipək xalıcası döşənmişdi. İç Oğuz, Daş Oğuz bəgləri Baymdır xanın söhbətinə dərilmişdi. Baybörə bəg dəxi Baymdır xanın söhbətinə gəlmişdi. Baymdır xanın qarşusmda Qaragünə oğlı Qarabudaq bay dayanub durmışdı. Sağ yanında Qazan oğlı Uruz durmışdı. Sol yanında Qazılıq qoca oğlı bəg Yegnək durmışdı. Baybörə bəg bunları gördügində ah eylədi. Başından aqlı getdi. Dəstmalın əlinə aldı, bögürü-bögür ağladı.
+... Böylə edicək Qalın Oğuz arqası, Baymdır xanın göygisi Salur Qazan qaba dizinin üzərinə çökdi. Qıya tikübən Baybörə bəgün yüzinə baqdı, aydır:
+“Baybörə bəg, nə ağlayub bozlarsan?” Baybörə bəg aydır: “Xan Qazan, necə ağlamayayın, necə bozlamayayın? Oğulda ortacım yoq, qardaşda qədərim yoq! Allah Taala məni qarğayıbdır. Bəglər, tacım-taxtım içün ağlaram. Bir gün ola, düşəm öləm, yerimdə-yurdımda kimsə qalmaya”, - dedi.
+Qazan aydır: “Məqsudun bumudur, Baybörə bəg?” Aydır: “Bəli, budur. Mənim dəxi oğlum olsa, xan Bayındırın qarşusın alsa-dursa, qulluq eyləsə, mən dəxi baqsam, sevinsəm, qıvansam, güvənsəyim!..” - dedi. Böylə digəc Qalın Oğuz bəgləri yüz gögə tutdılar. Əl qaldırıb, dua eylədilər. “Allah Taala sana bir oğul versün!” - dedilər.
+Ol zamanda bəglərin alqışı alqış, qarğışı qarğış idi. Duaları müstəcab olurdı. Baybican bəg dəxi yerindən uru durdı, aydır:
+“Bəglər, mənim dəxi haqqıma bir dua eylən. Allah Taala mana da bir qız verə”, - dedi. Qalın Oğuz bəgləri əl
+qaldırdılar, dua eylədilər: “Allah Taala sana da bir qız verə”, - dedilər.
+Baybican bəg aydır: “Bəglər, Allah Taala mana bir qız verəcək olursa, siz tanıq olun, mənim qızım Baybörə bəg oğlına beşikkərtmə yavuqlı olsun!” - dedi.
+gSA®-
+Bunun üzərinə bir qaç zaman keçdi. Allah Taala Baybörə bəgə bir oğul, Baybican bəgə bir qız verdi. Qalın Oğuz bəgləri bunı eşitdilər, şad olub sevindilər.
+Baybörə bəg bazirganlarını yanına oxıdı, buyuruq etdi: “Mərə bazirganlar! Allah-Taala mana bir oğul verdi. Varın Rum elinə, mənim oğlum içün yaxşı ərmağanlar gətürün mənim oğlım böyüyincə”, - dedi.
+Bazirganlar dəxi gecə-gündüz yola girdilər. İstanbula gəldilər. Dan-dansux ilə yaxşı ərmağanlar aldılar. Baybörənin oğlıyçun bir dəniz qulum boz ayğır aldılar. Bir ağ tozlu
+qatı yay aldılar. Bir dəxi altı pərli gürz aldılar. Yol yarağın gördilər.
+Baybörənin oğlı beş yaşma girdi, beş yaşından on yaşma
+girdi... On yaşından on beş yaşına girdi... Çaya baqsa çalımlu, çal qaraquş ərdəmlü, bir gözəl yaxşı yigit oldı.
+Ol zamanda bir oğlan baş kəsməsə, qan dökməsə, ad qomazlardı. Baybörə bəgin oğlı atlandı, ava çıqdı. Av avlarkən babasının tavlası üzərinə gəldi. Əmiraxurbaşı qarşuladı, endirdi, qonaqladı. Yiyüb-içüb otururlardı.
+Bu yanadan dəxi bazirganlar gəlübəni Qara Dərvənd ağzına qonmışlardı. Yarımasun-yarçımasun Evnik qalasının kafirləri bunları casusladı.
+Bazirganlar yatur ikən ğafillə beş yüz kafir qoyuldılar, çapdılar, yağmaladılar. Bazirganın ulusı tutuldı, kiçisi qaçaraq Oğuza gəldi. Baqdı gördi Oğuzun ucmda bir ala sayvan dikilmiş, bir imirzə xub yigit qırq yigid ilən sağında və solında otururlar. Oğuzun bir yaxşı yigidi ancaq... “yüriyəyim,
+mədəd diyəyim”, - dedi.
+Bazirgan aydır: “Yigit, yigit, bəg yigit! Sən bənim ünüm anla, sözüm dinlə! On altı yıldır kim, Oğuz içindən getmiş idik. Dan-danışux kafir malın Oğuz bəglərinə gətürür idik. Pasnik Qara Dərvənd ağzına düş vermiş idik. Evnik qalasının beş yüz kafiri üzərimizə qoyıldı. Qardaşım tutsaq oldı. Malımızı, rizqimizi yağmaladılar, gerü döndilər. Qara başım götürdüm, sana gəldim. Qara başın sədəqəsi, yigit, mədəd mana!” - dedi.
+Bu gəz oğlan şərab içərkən içməz oldı. Altun ayağı əlindən yerə çaldı.
+§ S e h -
+Aydır: “Nə dedigimi yetürün, geyünimlən mənim şahbaz
+atımı gətürün! Hey, məni sevən yigitlər binsünlər!” - dedi. Bazirgan dəxi önlərinə düşdi, qulağız oldı.
+Kafir dəxi düşübən bir yerdə aqça ülüşməkdəydi. Bu məhəldə ərənlərin meydanı arslanı, pəhlivanların qaplanı Boz oğlan yetdi. Bir-iki dimədi, kafirlərə qılıc urdı. Baş qalduran kafirləri öldürdi, ğəza eylədi. Bazirganların malını qurtardı.
+Bazirganlar aydır: “Bəg yigit, bizə sən ərlik işlədin. Gəl imdi bəgəndigin maldan al!” - dedilər.
+Yigidin gözi bir dəniz qulum boz ayğırı tutdı, bir də altı pərli güzi, bir də ağ tozlu yayı tutdı. Bu üçini bəgəndi. Aydır: “Mərə bazirganlar, bu ayğırı və dəxi bu yayı və bu gürzi mana verin!” - dedi. Böylə digəc bazirganlar səxt oldı.
+Yigit aydır: “Mərə bazirganlar, çoqmı istədim?!” - dedi.
+Bazirganlar ayıtdılar: “Nə çoğ olsun? Amma bizim bir bəgümiz oğlı vardır, bu üç nəsnəyi ana ərmağan aparsavuz gərək idi!” - dedilər.
+Oğlan aydır: “Mərə, bəgünüz oğlı kimdir?” Ayıtdılar: “Baybörənin oğlı vardır, adma Bamsı derlər”, - dedilər. Baybörənin oğlı olıdığın biləmədilər. Yigit barmağın ısırdı, aydır: “ Bunda minnətlə almaqdan isə, anda babam yanında minnətsiz almaq yegdir!” - dedi. Atın qamçıladı, yola girdi. Bazirganlar ardından baqa qaldı: “Vallah, yaxşı yigit, mürüvvətlü yigit!” -dedilər.
+Boz oğlan babasının evinə gəldi. “Bazirganlar gəldi” deyü babası sevindi. Çətir otağ, ala sayvan dikdirdi. İpək xalıcalar saldı. Keçdi, oturdı. Oğlum sağ yanma aldı. Oğlan bazirganlar xüsusmdan bir söz söyləmədi. Kafirləri qır-
+duğm anmadı.
+Nagahi bazirganlar gəldilər. Baş endirüb, salam verdilər. Gördilər kim, ol yigit kim baş kəsübdür, qan dökübdür, Baybörə bəgin sağında oturar. Bazirganlar yüridilər, yigidin əlin öpdilər.
+Bunlar böylə edicək Baybörə bəgin acığı tutdı. Bazirganlara aydır: “Mərə, qavat oğlı qavatlar! Ata dururkən oğul əlinmi öpərlər?” Ayıtdılar: “Xanım, bu yigit sənin oğlunmıdır?” “Bəli, mənim oğlumdur”, - dedi. Ayıtdılar: “İmdi in-
+gw**-
+cinmə, xanım, əvvəl anun əlin öpdügümüzə. Əgər sənin oğlun olmasaydı, bizim malımuz Gürcüstanda getmişdi, həpümiz tutsaq olmuşdı”, - dedilər.
+Baybörə bəg aydır: “Mərə, bənim oğlum başmı kəsdi, qanmı dökdi?”
+“Bəli, baş kəsdi, qan dökdi, adam axtardı!” - dedilər.
+“Mərə, bu oğlana ad qoyasınca varmıdır?” - dedi. “Bəli, sultanım, artıqdır!” - dedilər.
+Baybörə bəg Qalın Oğuz bəglərini çağırdı, qonaqladı. Dədəm Qorqut gəldi, oğlana ad qodı. Aydır:
+Ünüm anla, sözüm dinlə, Baybörə bəg!
+Allah Taala sana bir oğul vermiş, tuta versün!
+Ağır sancaq götürəndə müsəlmanlar arxası olsun!
+Qarşu yatan qara qarlu dağlardan aşar olsa,
+Allah Taala sənin oğluna aşut versün!
+Qanlu -qanlu sulardan keçər olsa, keçit versün!
+Qalabalıq kafirə girəndə
+Allah Taala sənin oğluna fürsət versün!
+Sən oğlunı “Bamsam” deyü oxşarsan;
+Bunun adı Boz ayğırlıq Bamsı Beyrək olsun!
+Adını bən verdim, yaşını Allah versün! - dedi.
+Qalın Oğuz bəgləri əl götürdilər, dua qıldılar: “Bu ad bu yigidə qutlu olsun!” -dedilər.
+...Bəglər həb ava bindi. Boz ayğırın çəkdirdi, Beyrək bindi. Ala dağa ala ləşkər ava çıqdı.
+Nagahandan Oğuzun üzərinə bir süri keyik gəldi. Bamsı Beyrək birini qova getdi. Qova-qova bir yerə gəldi. Nə gördi, sultanım?! Gördi gög çayırın üzərinə bir qırmızı otaq dikilmiş. “Yarəb, bu otağ kimün ola?!” -dedi. Xəbəri yoq ki, alacağı ala gözli qızın otağı olsa gərək. Bu otağın üzərinə varmağa ədəbləndi. Ayıtdı:
+“Nə olursa-olsun, hələ mən avımı alayın!” - dedi. Otağın önində irişi gəldi, keyiki sinirlədi. Baqdı gördi bu otağ Banıçiçək otağıymış ki, Beyrəgin beşikkərtmə nişanlısı-adaxlusıydı.
+§ S e h -
+Banıçiçək otaxdan baqırdı. “Mərə dayələr, bu qavat əqli qavat bizə ərlikmi göstərir?” - dedi. Varın, bundan pay dilən, görün nə der!” -dedi.
+Qısırca Yengə derlər, bir xatun vardı. İlərü vardı, pay dilədi: “Hey, bəg yigit, bizə dəxi bu keyikdən pay ver!” - dedi. Beyrək aydır: “Mərə dadı, mən avçı degiləm, bəg oğlı bəgəm həp sizə”, - dedi; amma sormaq eyib olmasun, bu otağ kimündür?” - dedi.
+Qısırca yengə aydır: “Bəg yigidim, bu otağ Baybican bəg qızı Banıçiçəgindir”, - dedi.
+Eylə olsa, xanım, Beyrəgin qanı qaynadı. Ədəblə yabyab gerü döndi. Qızlar keyiki götürdilər. Gözəllər şahı Banıçiçəgin öninə gətürdilər. Baqdı gördi ki, bir sultan simüz sığın-keyikdir. Banıçiçək aydır: “Mərə qızlar, bu yigit nə yigitdir?” Qızlar aydır: “Vallah, sultanım, bu yigit yüzi niqablu yaxşı yigitdir. Bəg oğlı bəg imiş”, - dedilər.
+Banıçiçək aydır: “Hey, hey, dayələr, babam mana bən səni yüzi niqablu Beyrəgə vermişəm”, - derdi; olmaya kim, bu
+ola. “Mərə, çağırın, xəbərləşəyim”, - dedi.
+Çağırdılar, Beyrək gəldi. Banıçiçək yaşmaqlandı, xəbər sordı. Aydır: “Yigit, gəlişin qandan?” Beyrək aydır: “İç Oğuzdan!” “İç Oğuzda kimün nəsisən?” - dedi. “Baybörə bəg oğlı Bamsı Beyrək dedikləri mənəm”, - dedi. Qız aydır: “Ya nə məsləhətə gəldin, yigit?” - dedi. Beyrək aydır: “Baybican bəgün bir qızı varmış, anı görməgə gəldim! - dedi. Qız aydır: “Ol öylə adam degildir kim, sana görinə! - dedi. Amma mən Banıçiçəgin dadısıyam. Gəl, imdi sənünlə ava çıqalım. Əgər sənin atun mənim atumı keçərsə, onun atını dəxi keçərsən. Həm sənünlə ox atalım. Məni keçərsən, anı dəxi keçərsən və həm səninlə gürəşəlim. Məni basarsan, anı dəxi basırsan”, - dedi.
+Beyrək aydır: “Xoş, imdi atlanın!” İkisi atlandılar, meydana çıqdılar. At dəpdilər. Beyrək atı qızın atını keçdi. Ox atdılar. Beyrək qızın oqm yardı.
+Qız aydır: “Mərə yigit, mənim atumı kimsə keçdügi yoq. Oxımı kimsə yardığı yoq. İmdi gəl, sənünlə gürəş tutalım!” - dedi. Həman Beyrək atdan endi. Qarvaşdılar. İki pəhləvan
+Asi#? fW" '
+olub, bir-birinə sarmaşdılar. Beyrək götürər qızı yerə urmaq istər, qız götürər Beyrəgi yerə urmaq istər. Beyrək bunaldı. Aydır: “Bu qıza basılacaq olursam, Qalın Oğuz içində başuma qaxınc, yüzimə toxınc edərlər”, - dedi. Qeyrətə gəldi. Qavradı, qızın bağdamasın aldı. Əmcəgindən tutdı. Qız qucandı. Bu gəz Beyrək qızın incə belinə girdi; bağdadı, arxası üzərinə yerə urdı.
+Qız aydır: “Yigit, Baybicanın qızı Banıçiçək mənəm!” - dedi. Beyrək üç öpdi, bir dişlədi. “Dügün qanlu olsun, xan qızı!” deyü barmağından altun yüzügi çıqardı, qızın parmağına keçürdi. “Ortamızda bu, nişan olsun, xan qızı!” - dedi.
+Qız aydır: “Çün böylə oldı, həman imdi ilərü durmaq gərək, bəg oğlı!” - dedi. Beyrək dəxi: “Nola, xanım, baş üzərinə!” - dedi.
+Beyrək qızdan ayrılub, evlərinə gəldi. Ağ saqallu babası qarşu gəldi. Aydır: “Oğul, dan-dansux bu gün Oğuzda nə gördün?”
+Aydır: “Nə görəyim, oğlı olan evərimiş, qızı olan köçürmiş...” Babası aydır: “Oğul, ya səni evərmaxmı gərək?” “Bəli, bəs ağ saqallu əziz baba. Evərmax gərək!” - dedi.
+Babası aydır: “Oğuzda kimin qızın alı verərin?” - dedi.
+Beyrək aydır: “Baba, mana bir qız alı ver kim, mən yerimdən durmadın ol durgəc gərək! Mən qarağuc atıma binmədin ol binmax gərək! Mən qırıma varmadın ol mana baş gətürmək gərək! Bunun kibi qız alı ver, baba, mana” - dedi.
+Babası Baybörə xan aydır: “Oğul, sən qız diləməzsən, kəndünə bir hampa istərmişsən. Oğul, məgər sən istədigin qız Baybican bəg qızı Banıçiçək ola?!” - dedi. Beyrək aydır: “Bəli, pəs, əvət, ağ saqallu əziz baba, mənim dəxi istədügüm oldur”, - dedi.
+Babası aydır: “Ay oğul, Banıçiçəgin bir dəli qardaşı vardır, adma Dəli Qarçar derlər; qız diləyəni öldürər”. Beyrək aydır: “Ya pəs nedəlim?” Baybörə bəg aydır:“Oğul, Qalın Oğuz bəglərini odamıza oxıyalım, necə məsləhət görərlərsə, ana görə iş edəlim”, - dedi.
+§
+Qalın Oğuz bəglərini həb oxıdılar, odalarına gətürdilər. Ağır qonaqlıq eylədilər. Qalın Oğuz bəgləri ayıtdılar: “Bu qızı istəməgə kim vara bilür?” Məsləhət gördilər ki, Dədə Qorqut varsun. Deyənlərə Dədə Qorqut aydır: “Yaranlar, çünki məni göndərirsiz, bilürsiz kim, Dəlü Qarçar qız qardaşını diləyəni öldürər. Bari Bayındır xanın tavlasından iki şahbaz yügrək at gətürün: bir Keçi başlu Keçər ayğırı, bir Toğlı başlu Turı ayğırı. Nagah qaçma-qoma olarsa, birisini binəm, birisini yedəm”, - dedi.
+Dədə Qorqudun sözi məqbul gəldi. Vardılar, Bayındır xanın tavlasından ol iki atı gətürdilər. Dədə Qorqut birin bindi, birin yetdi. “Yaranlar, sizi Haqqa ısmarladım!” - dedi, getdi.
+Məgər, sultanım, Dəlü Qarçar dəxi ağ ban evini, ağ otağını qara yerin üzərinə qurdurmış idi. Yoldaşlar ilə buta atub oturardı. Dədəm Qorqut ötədən bəri gəldi. Baş endirdi, bağır
+basdı. Ağız-dildən görkli salam verdi. Dəlü Qarçar ağzın köpükləndirdi. Dədə Qorqudun yüzinə baqdı. Aydar: “Əleykəssalam! Ay əməl azmış, feli dönmüş, Qadir Allah ağ alnına qada yazmış! Ayaqlılar buraya gəldigi yoq. Ağızlılar bu suyumdan içdigi yoq. Sana noldı? Əməlinmi azdı? Felinmi döndi? Əcəlinmi gəldi? Bu aralarda neylərsən?” - dedi.
+Dədə Qorqut aydır:
+Qarşu yatan qara dağını aşmağa gəlmişəm.
+Aqındılı görklü suyunı keçməgə gəlmişəm.
+Gen ətəgünə, dar qoltuğuna qısılmağa gəlmişəm. Tanrının buyuruğıyla, Peyğəmbərin qövliylə Aydan arı, gündən görkli qız qardaşın Banıçiçəgi Bamsı Beyrəgə diləməgə gəlmişəm! - dedi.
+Dədə Qorqut böylə digəc Dəlü Qarçar aydır:
+Mərə, nə dedigim yetürün, Qara ayğırı yarağla gətürün! -
+dedi. Qara ayğırı yarağla gətürdilər. Dəli Qarçarı bindirdilər.
+Dədə Qorqud göstəgi üzdi; durmadı, qaçdı. Dəli Qarçar ardına düşdi. Toqlı başlu Turı ayğır yoruldı. Dədə Qorqud Keçi başlu Keçər ayğıra sıçradı, bindi.
+Dədəyi qova-qova Dəli Qarçar on yelək yer aşurdı. Dədə Qorqudun ardından Dəli Qarçar irdi. Dədənin anısı anıtdı. Tanrıya sıqındı. İsmi-əzəm oqıdı.
+Dəli Qarçar qılıcın əlinə aldı. Yuqarısmdan öykə ilə həmlə qıldı. Dəli bəg dilədi ki, Dədəyi dəpərə çala. Dədə Qorqut ayıtdı: “Çalırsan, əlün qurısun!” - dedi.
+Haq Taala əmriylə Dəli Qarçarın əli yuqaruda asılu qaldı. Zira Dədə Qorqut vilayət issi idi, diləgi qəbul oldı.
+Dəlü Qarçar aydır: “Mədəd, aman, əlaman! Tanrının bir-
+liginə yoqdır güman! Sən mənim əlümi sağaldı gör, Tanrının buyruğıyla, Peyğəmbərin qövliylə qız qarındaşımı Beyrəgə verəyin!” - dedi.
+Üç kərrə ağzından iqrar eylədi. Günahına tövbə eylədi. Dədə Qorqut dua eylədi. Dəlinin əli Haq əmriylə sapasağ oldı. Döndi, aydır: “Dədə, qız qanndaşımın yolma bən nə istərsəm, verərmisin?”
+Dədə aydır: “Verəlim!” Dedi, görəlim, nə istərsən? Dəlü Qarçar aydır: “Bin buğra gətürün kim, maya görməmiş ola. Bin dəxi ayğır gətürün kim, heç qısrağa aşmamış ola. Bin dəxi qoyun görməmiş qoç gətürün. Bin də quyruqsızqulaqsız köpək gətürün. Bin dəxi bürə gətürün mana”, - dedi. Əgər bu dedigim nəsnələri gətürərsinüz, xoş, verdim. Amma gətürməyəcək olursan, bu qatla öldürmədim, ol vaqtm öldürərin!” - dedi.
+Dədə döndi, Baybörə bəgün evlərinə gəldi. Baybörə
+bəg aydır:
+“Dədə, oğlanmısan, qızmısan?” Dədə: “Oğlanam!” - dedi. “Ya pəs necə qurtuldun Dəli Qarçarın əlindən?” - dedi. Dədə aydır: “Allahın inayəti, ərənlərin himməti oldı; qızı aldım”, - dedi.
+Beyrəgə və anasına və qız qardaşlarına muştçı gəldi. Sevindilər, şad oldılar. Baybörə bəg aydır: “Dəlü nə qədər mal istədi?” Dədə aydır: “Yarımasun-yarçımasun, Dəlü Qarçar eylə mal istədi ki, heç bitməsün!” -dedi. Baybörə bəg aydır: “Hələ nə dilədi?” Dədə aydır: “Bin ayğır diləyübdür kim, qısrağa aşmamış ola. Bin dəxi buğra dilədi kim, maya görməmiş ola. Bin də qoç diləyübdür, qoyuna girməmiş ola.
+§ S e h -
+
+
+
+Bin də quyruqsız-qulaqsuz köpək dilədi. Bin dəxi xaracaqaraca bürələr dilədi. Bu nəsnələri gətürəcək olursanız, qız qarındaşımı verərəm. Gətürməyəcək olursan, gözümə görünməyəsən, yoxsa səni öldürərəm!” - dedi.
+Baybörə bəg aydır: “Dədə, mən üçini buluramsa, ikisini sən bulurmısan?” - dedi. Dədə Qorqud “Bəli, xanım, bulasıyam” -dedi. Baybörə bəg ayıtdı: “İmdi, dədə, köpəklə bürəyi sən bul”, - dedi. Dəxi kəndüsi tavla-tavla atlarına vardı. Bin ayğır seçdi. Dəvələrinə vardı, bin buğra-nər seçdi. Qoyunlarına vardı, bin qoç seçdi.
+Dədə Qorqud dəxi bin quyruqsız-qulaqsız köpəklə bin dəxi bürə buldı. Alub bunları Dəlü Qarçara getdi. Dəli Qarçar eşitdi, qarşu gəldi. “Görəyim, dedigimi gətürdilərmi?” -dedi. Ayğırları göricək bəgəndi. Dəvələri gördigində bəgəndi. Qoçları bəgəndi. Köpəkləri göricək qas-qas güldi, aydır: “Dədə, ya qanı mənim bürələrim?” Dədə Qorqud: “Hey, oğul Qarçar, adama uş bögələk kibi bunludar. Ol bir yavuz canvərdir. Həb bir yerdə dərib dururam. Gəl gedəlim, simüzin al, aruğın qo”, - dedi.
+Aldı Dəli Qarçarı bir birəli yerə gətürdi. Dəli Qarçarı yalınçaq eylədi, ağıla qoydı. Birələr Dəli Qarçara üşdilər. Gördi bacarı bilməz, aydır: “Mədəd, Dədə! Kərəm eylə, Allah eşqinə! Qapuyı aç, çıqayın!” - dedi. Dədə Qorqud: “Oğul, Qarçar, nə qarğaşa edərsən? Götür, bu ısmarladuğın nəsnədir. Noldun, böylə bunaldın? Simüzin al, aruğın qo!” - dedi.
+Dəli Qarçar aydır: “Hay Dədə Sultan, Tanrı bunun simüzin də alsun, aruğın da alsun! Haman bəni qapudan tışarı eylə, mədəd!” - dedi. Dədə qapuyı açdı. Dəlü Qarçar çıqdı. Dədə gördi kim, Dəlünin canına keçmiş başı qopusı olmuş, gövdəsi birədən görünməz. Yüzi-gözi bəlürməz.
+Dədənin ayağına düşdi: “Allah eşqinə, bəni qurtar!” - dedi. Dədə Qorqut “Var, oğul, kəndüni suya ur!” - dedi. Dəlü Qarçar səgirdərək vardı, suya düşdi. Bürədir, suya aqdı, getdi. Gəldi geyəsisin geydi, evinə getdi. Ağır dügün yarağın gördi.
+Oğuz zamanında bir yigit ki evlənsə, ox atardı. Oxı nə yerdə düşsə, anda gərdək dikərdi. Beyrək xan dəxi oxın atdı, dibinə gərdəgin dikdi. Adağlusmdan ərgənlik bir qırmızı
+•Vaf#l SİS**-
+qaftan gəldi. Beyrək geydi. Yoldaşlarına bu iş xoş gəlmədi. Səxt oldılar. Beyrək aydır: “Niyə səxt oldunuz?” - dedi. Ayıtdılar: “Necə səxt olmayalum? Sən qızıl qaftan geyərsən, biz ağ qaftan geyəriz!” - dedilər. Beyrək aydır: “Bu qədər nəsnədən ötri niyə səxt olursız? Bu gün bən geydim, yarın naibim geysün. Qırq günə dəkin sıravardı geyəgüz.
+Andan sonra bir dərvişə verəlim!” - dedi. Qırq yigid ilən ye-
+yüb-içüb otururlardı.
+Yarımasun-yarçımasun, kafirin casusı bunları casusladı. Varıb Bayburd hasarı bəginə xəbər verdi. Aydır: “Nə oturarsan, sultanım, Baybican bəg ol sana verəcəgi qızı Beyrəgə verdi. Bu gecə gərdəgə girür”, - dedi.
+Yarımasun-yarçımasun, ol məlun yedi yüz kafirlə yılğadı. Beyrək ap-alaca gərdəgi içində yeyüb-içüb bixəbər otururdı. Dün uyxusında kafir otağa qoyuldı. Naibi qılıcın sıyırdı, əlinə aldı. “Mənim başım Beyrəgin başına qurban olsun!” -dedi. Naib paralandı, şəhid oldı.
+Dərin olsa, batırdır, qalabalıq qorxudır. At işlər, ər öginür. Yayan ərin umurı olmaz. Otuz doquz yigidlən Beyrək dutsaq getdi.
+Dan ötdi, gün doğdı. Beyrəgin atası-anası baqdı-gördi kim, gərdək görünməz olmış. Ah etdilər, ağılları başlarından getdi. Gördilər kim, uçarda quzğun qalmış, tazı dolaşmış yurtda qalmış. Gərdək paralanmış, naib şəhid olmış. Beyrəgin babası qaba sarıq götürüb yerə çaldı. Dartdı, yaqasın yırtdı. “Oğul! Oğul!” deyübən bögürdi, zarlıq qıldı. Ağ bircəklü anası buldır-buldır ağladı, gözinin yaşın dökdi, acı dırnaq ağ yüzinə aldı-çaldı. Al yanağın dartdı, qarğu kibi qara saçını yoldı. Ağlayıbanı-sıqlayıbanı evinə gəldi.
+Baybörə bəgin dünlügi altun ban evinə şivən girdi. Qızı-gəlini qas-qas gülməz oldı. Qızıl qına ağ əlinə yaqmaz oldı. Yedi qız qardaşı ağ çıqardılar, qara donlar geydilər.
+“Vay, bəgim qardaş! Muradına-məqsuduna irməyən yalnuz qardaş!” - deyib ağlaşdılar-bögürişdilər.
+Beyrəgin yavuqlusına xəbər oldı. Banıçiçək qaralar geydi, ağ qaftanını çıqardı. Güz alması kibi al yanağını dartdı, yırtdı. “Vay, al duvağım iyəsi! Vay, alnum-başım umurı!
+Vay, şah yigidim, vay, şahbaz yigidim! Doyunca yüzinə haqmadığım, xanım yigit! Qanda getdin, bəni yanluz qoyub, canım yigit?! Göz açuban gördigim, könül ilə sevdigim, bir yasduqda baş qoduğım! Yolunda öldügim! Qurban olduğım! Vay, Qazan bəgin inağı! Vay, Qalın Oğuzun imrəncəsi Beyrək!” - deyüb zarı-zarı ağladı. Bunı eşidüb Qıyan Selcük oğlı Dəlü Dondar ağ çıqardıb, qara geydi. Beyrəgin yarü yoldaşları ağı çıqarıb, qaralar geydilər. Qalın Oğuz bəgləri Beyrək içün əzim yas tutdılar. Umud üzdilər.
+Bunun üzərinə on altı yıl keçdi. Beyrəgin ölüsin-dirisin bilmədilər. Bir gün qızın qardaşı Dəli Qarçar Bayındır xanın divanına gəldi. Dizin çökdi, aydır: “Dövlətlü xanın ömri uzun olsun! Beyrək diri olsa, on altı yıldan bərü gəlürdi. Bir yigit olsa, dirisi xəbərin gətürsə, çırğab çuxa, altun-aqça verərdim. Ölüsi xəbərin gətürənə qız qardaşım verərdim”, - dedi.
+Böylə digəc, yarımasun-yarçımasun, Yalançı oğlı Yırtacuq aydır: “Sultanım, bən varayın, ölüsi-dirisi xəbərin gətürəyin!” - dedi.
+Məgər Beyrək buna bir kömlək bağışlamışdı; geyməz idi, saqlardı. Vardı, könləgi qana-quna baturdı, Bayındır xanın öninə gətürüb bıraqdı.
+Bayındır xan aydır: “Mərə, bu nə kömləkdir?..” “Beyrəgi Qara Dərvənddə öldürmişlər, uş da nişanı, sultanım!” - dedi.
+Kömləgi göricək bəglər ökür-ökür ağlaşdılar, zarlıqlara girdilər.
+Bayındır xan aydır: “Mərə, niyə ağlarsız? Biz bunı tanımazız. Adaqlusuna aparın, görsün. Ol yaxşı bilür. Zira ol dikübdür, yenə ol tanır”, - dedi.
+Vardılar kömləgi Banıçiçəgə ilətdilər. Gördi, tanıdı: “Oldur!” - dedi.
+Dartdı, yaqas;n yırtdı. Acı dırnaq ağ yüzinə aldı-çaldı. Güz alması kibi al yanağını yırtdı:
+Vay, göz açub gördigim!
+Könül verib sevdigim!
+Vay, al duvağum iyəsi!
+Vay, alnum-başım umudı, xan Beyrək! - deyü ağladı.
+Babasına-anasına xəbər oldı. Ap-alaca ordusına şivən girdi. Ağ çıqardılar, qara geydilər. Qalın Oğuz bəgləri Beyrəkdən umud üzdilər. Yalançı oğlı Yalancuq kiçi dügünin eylədi. Ulu dügüninə vədə qodı.
+Beyrəgin babası Baybörə bəg dəxi bazirganları qağırdı, yanına gətürdi, aydır: “Mərə, bazirganlar varın iqlim-iqlim aran, Beyrəgin ölüsi-dirisi xəbərin gətürib deniz, ölümidir?”
+Bazirganlar yaraq gördilər. Gecə-gündüz deməyüb yüridilər. Nagah Parasarın Bayburd hasarına gəldilər.
+Məgər ol gün kafirlərin ağır günləriydi: hər biri yeməkdə-içməkdəydi. Beyrəgi dəxi gətürüb, qopuz çaldırırlardı. Beyrək yuca çardağdan baqdı, bazirganları gördi. Bunları gördigində xəbərləşdi. Görəlim, xanım, nə xəbərləşdi.
+Aydır:
+Alan-alçaq hava yerdən gələn arğış!
+Bəg babamın, qadın anamın sovqatı arğış!
+Ayağı uzun şahbaz ata binən arğış!
+Ünüm anla, sözüm dinlə, arğış!
+Qalın Oğuz içində Ulaş oğlı Salur Qazanı sorar olsam, sağmı, arğış?
+Qıyan Selcük oğlı Dəlü Dondar sorar olsam, sağmı, arğış?
+Qaragünə oğlı Qarabudağı sorar olsam, sağmı, arğış?
+Ağ saqallu babamı, ağ bürçəklü anamı sorar olsam, sağmı, arğış?
+Bənüm yedi qız qarındaşım sorar olsam, sağmı, arğış?
+Göz açuban gördügim, könüllə sevdigim Baybican qızı Banıçiçək evdəmi, arğış, yoxsa gordamı, arğış?
+Degil mana, Qara başım qurban olsun, arğış, sana! - dedi.
+Sağmısan-əsənmisən, canım Bamsı!
+On altı yilin həsrəti, xanım Bamsı!
+Qalın Oğuz içində Qazan bəgi sorar olsan, sağdır, Bamsı!
+Qıyan Selcük oğlı Dəli Dondan sorarsan, sağdır, Bamsı!
+Qaragünə oğlı Budağı sorar olsan, sağdır, Bamsı!
+Ol bəglər ağ çıqardı, qara geydi səninçün, Bamsı!
+Ağ saqallu atanı, ağ birçəklü ananı sorar olsan, sağdır, Bamsı!
+Ağ çıqarıb qara geydilər səninçün, Bamsı!
+Yedi qız qardaşın yedi yol ayırdında ağlar gördüm, Bamsı!
+Güz alması kibi al yanaqların yırtar gördüm, Bamsı!
+“Vardı, gəlməz qardaş!” - deyü.
+Zarılıq edər gördüm, Bamsı!
+Göz açuban gördigin,
+Könül verib sevdigin Baybican qızı Banıçiçək Kiçik dügünin eylədi, ulu dügüninə vədə qodı; Yalançı oğlı Yırtıcuğa varır gördüm, xan Beyrək!
+Parasarun Bayburd hasarından uça görgil!
+Ap-alaca gərdəgünə gələ görgil!
+Gəlməz olsan, Baybican qızı Banıçiçəgi aldırdın, bəllü bilgil” - dedi.
+Beyrək qalqdı, ağlayu-ağlayu qırq yigidin yanına gəldi. Qaba sarıq götürdi, yerə çaldı. Aydır: “Hey, mənim qırq yoldaşım! Bilürmisiz, nələr oldı? Yalançı oğlı Yalancuq mənim ölüm xəbərin ilətmiş, dünlügi altun ban evinə babamın şivən girmiş. Qaza bənzər qızı-gəlini ağ çıqarmış qara geymiş.
+Bazirganlar aydır:
+Göz açuban gördigim, könül verüb sevdigim Banıçiçək Yalançı oğlı Yalancuğa varar olmış”. Böylə digəc, qırq yigidi qaba sarıqların götürdilər, yerə çaldılar, bögürü-bögürü ağlaşdılar, zarılıq qıldılar.
+Məgər kafir bəginin bir bikr qızı vardı. Hər gün Beyrəgi görməgə gəlürdi. Ol gün genə görməgə gəldi. Baqdı gördi, Beyrək səxt olmış. Qız aydır: “Neçün səxtsən, xanım yigit? Gəldigimcə səni şən görərdim. Gülərdin, oynardın. Şimdi noldun?” - dedi.
+Beyrək aydır: “Necə səxt olmayayım? On altı yıldır kim, babanın tutsaqıyam. Ataya-anaya, qavuma-qardaşa həsrətəm; və həm bir qara gözlü yavuqlum vardı. Yalançı oğlı Yalancuq derlər, bir kişi vardı; varmış, yalan söyləmiş, bəni öldi demiş; ana varar olmış”, - dedi.
+Böylə digəc, qız - Beyrəgi aşıqlamışdı - aydır: “Əgər səni hasardan aşağa orğanla salındıracaq olursam, babana-anana sağlıqla varacaq olursan, bəni bunda gəlüb halallığa alurmısan?” - dedi. Beyrək and içdi: “Qılıcıma doğranayın! Oxıma sancılayın! Yer kibi kərtiləyin, topraq kibi savrılayın! Sağlıqla varcaq olursam, Oğuza gəlüb, səni halallığa almaz isəm!” - dedi. Qız dəxi orğan gətürüb Beyrəgi hasardan aşağı salındırdı. Beyrək aşağa baqdı. Kəndözin yer yüzində gördi. Allaha şükr eylədi. Yola düşdi. Gedərək kafirin ilqısına gəldi. “Bir at bularsam, tutayım binəyim!” - dedi. Baqdı gördi kəndünin dəniz qulum Boz ayğır bunda otlanub durar.
+Boz ayğır dəxi Beyrəgi görüb tanıdı, iki ayağının üzərinə durdı, kişnədi. Beyrək dəxi bunı ögmiş, görəlim, xanım, necə ögmiş.
+Aydır:
+Açuq-açuq meydana bənzər sənin alıncuğın,
+İki şəbçırağa bənzər sənin gözcigəzin,
+Əbrişimə bənzər sənin yəlicigin,
+İki qoşa qardaşa bənzər sənin qulacığın,
+Əri muradına yetürər sənin arxacığın.
+At deməzəm sana, qardaş deyərəm, qardaşımdan yeg!
+Başıma iş gəldi, yoldaş derəm, yoldaşımdan yeg! - dedi.
+At başını yuqarı tutdı, bir qulağın qaldırdı, Beyrəgə qarşu gəldi. Beyrək at köksin qucaqladı. İki gözin öpdi. Sıçradı, bindi. Hasarın qapusına gəldi. Otuz doquz yoldaşın ısmarladı, görəlim, xanım, necə ısmarladı.
+Beyrək aydır:
+Mərə sası dinlü kafir!
+Mənim ağzuma sögüb durarsan, duyamadım.
+Qara donuz ətindən yaxnı yedirdin doyamadım.
+Tanrı mana yol verdi, gedər oldum, mərə kafir!
+Otuz doquz yigidim əmanəti, mərə kafir!
+Birin əksik bulsam yerinə on öldürəyim,
+Onun əksik bulsam, yerinə yüzin öldürəyim, mərə kafir!
+Otuz doquz yigidim əmanəti, mərə kafir! -
+dedi, dəxi aldı yürüyü verdi.
+Qırq nəfər kafirlər atlandılar, ardına düşdilər. Qova getdilər, yetmədilər. Döndilər.
+Beyrək Oğuza gəldi. Baqdı gördi bir ozan gedər, aydır: “Mərə ozan, nerəyə gedərsən?” Ozan aydır: “Bəg yigit, dügünə gedərəm”. Beyrək aydır: “Dügün kimün?” “Yalançı oğlı Yalancuğun”, - dedi. “Mərə, kimün nəsin alur?” - dedi. Ozan aydır: “Xan Beyrəgin adaxlusın alur”, - dedi. Beyrək aydır: “Mərə ozan, qopuzun mana vergil, atumı sana verəyim. Saqla gələm, bəhasm gətürəm, alam”, - dedi. Ozan aydır: “Avazım gödəlmədin, ünüm boğulmadın bir atdır, əlümə girdi, ilətəyim saqlayayım”, - dedi. Ozan qopuzı Beyrəgə verdi.
+Beyrək qopuzı aldı, babasının ordusma yaqın gəldi. Baqdı gördi bir qaç çobanlar yolun qıyısın almışlar, ağlarlar; həm durmayıb, daş yığarlar. Beyrək aydır: “Mərə çobanlar, bir kişi yolda daş bulsa, yabana atar. Siz bu yolda bu daşı neçün yığarsız?”
+•Aaf#l fşm**-
+
+
+Çobanlar aydır: “Mərə, sən səni bilürsən, bizim halımızdan xəbərin yoq”, -dedilər. “Mərə, nə halınuz vardır?” Çobanlar aydır: “Bəgümizin bir oğlı vardı, on altı yıldır kim, ölüsi-dirisi xəbərin kimsə bilməz. Yalançı oğlı Yalancuq derlər, ölüsi xəbərin gətürdi. Adaxlusm ana verər oldılar. Gəlür bundan keçər. Uralım anı, ana varmasun, təkinə-tuşma varsun”, - dedilər. Beyrək aydır: “Mərə, yüzünüz ağ olsun! Ağanuzun ətməgi sizə halal olsun!” - dedi. Andan babasının ordusma gəldi. Məgər evləri önində bir böyük ağac vardı. Dibində bir yaxşı binar vardı. Beyrək baqdı gördi kim, kiçi qız qanndaşı binardan su almağa gəlür, “qardaş Beyrək! deyü ağlar-bozlar. “Toyun-dügünün qara oldı” deyü ağlar.
+Beyrəgə qatı fəraq gəldi, qatlanmadı, buldır-buldır gözünün yaşı rəvan oldı. Çağırubanı burada soylar, görəlim, xanım, nə soylar:
+Beyrək aydır:
+Mərə qız, nə ağlarsan, nə bozlarsan, “ağa” deyü?!
+Yandı bağrım, göynədi içim.
+Məgər sənin ağan yoq olubdur?
+Yürəginə qaynar yağlar qoyulubdur?
+Qara bağrın sarsılubdur?
+“Ağa” deyü nə ağlarsm, nə bozlarsan?
+Yandı bağrım, göynədi içim.
+Qarşu yatan qara tağı sorar olsam,
+yaylaq kimün?
+Sovuq sularını sorar olsam,
+içət kimün?
+Tavla-tavla şahbaz atları sorar olsam,
+binət kimün?
+Qatar-qatar dəvələrini sorar olsam,
+yüklət kimün?
+Ağ ayılda ağca qoyun sorar olsam,
+şülən kimün?
+Qaralu-göglü otağı sorar olsam,
+kölgə kimün?
+Ağız-dildən, qız kişi, xəbər mana!
+Qara başım qurban olsun bu gün sana! - dedi.
+UY--
+Q ız aydır:
+
+Çalma, ozan, ayıtma, ozan!
+Qaraluca mən qızın nəsinə gərək, ozan?! Qarşu yatan qara dağı sorar olsan,
+Ağam Beyrəgin yaylasıydı;
+Ağam Beyrək gedəli yaylarım yoq.
+Sovuq-sovuq suları sorar olsan,
+Ağam Beyrəgin içədiydi;
+Ağam Beyrək gedəli içərim yoq. Tavla-tavla şahbaz atlarını sorar olsan, Ağam Beyrəgin binədiydi;
+Ağam Beyrək gedəli binərim yoq. Qatar-qatar dəvələri sorar olsan,
+Ağam Beyrəgin yüklədiydi;
+Ağam Beyrək gedəli yüklədim yoq.
+Ağ ayılda ağca qoyum sorar olsan,
+Ağam Beyrəgin şüləniydi;
+Ağam Beyrək gedəli şülənim yoq. Qaralu-göglü otağı sorar olsan,
+Ağam Beyrəgindir;
+Ağam Beyrək gedəli köçərim yoq.
+Yenə qız aydır:
+Mərə ozan! Qarşu yatan qara dağdan Aşub gəldigində-keçdigində Beyrək adlu bir yigidə bulışmadınmı? Daşqun-daşqun suları Aşub gəldigində-keçdigində Beyrək adlu bir yigidə bulışdınmı? Ağır-adlu şəhərlərdən gəldügində Beyrək adlu bir yigidə bulışmadınmı? Mərə ozan, gördünsə, degil mana!
+Qara başım qurban olsun, ozan, sana! - dedi.
+Qız genə aydır:
+Qarşu yatan qara dağım yıqılubdur,
+Ozan, sənin xəbərin yoq.
+•Aaf#l AA '
+
+
+Kölgəlicə qaba ağacım kəsilübdür,
+Ozan, sənin xəbərin yoq.
+Dünyəlikdə bir qardaşım alınubdur,
+Ozan, sənin xəbərin yoq.
+Çalma, ozan, ayıtma, ozan,
+Qaraluca mən qızın nəsinə gərək, ozan? İləyündə dügün var,
+Dügünə varub ötgil! - dedi.
+Beyrək bundan keçdi. Ulu qız qarmdaşları yanma gəldi. Baqdı gördi qız qardaşları qaralu-göglü oturarlar. Çağırıb Beyrək soylar, görəlim, xanım, nə soylar. Aydır:
+Alan sabah yerindən duran qızlar!
+Ağ otağı qoyuban qara otağa girən qızlar!
+Ağ çıqarıb qara geyən qızlar!
+Bağır kibi ögnəndə yoğurtdan nə var?
+Qara saqac altında göməcdən nə var?
+Kəndirikdə ətməkdən nə var?
+Üç gündür, yoldan gəldim, doyurun məni
+Üç günə varmasun, Allah sevindirsün sizi! - dedi.
+Qızlar vardılar, yemək gətürdilər. Beyrəgin qamın doyurdılar. Beyrək aydır: “Ağanızın başı və gözi sədəqəsi, köhnə qaftanınuz var isə, geyəyin, dügünə varaym. Dügündə əlümə qaftan verür, gerü qaftanınuz verəyim”, - dedi.
+Vardılar, Beyrəgin qaftanı varmış, buna verdilər. Aldı, geydi. Boyı boyma, beli belinə, qolı qolma yaqışdı. Ulu qız qardaşı bunı Beyrəgə bənzətdi. Qara qıyma gözləri qan-yaş doldı. Soylamış, görəlim, xanım, nə soylamış:
+Qara qıyma gözlərin çöngəlməsəydi,
+“Ağam Beyrək” deyəydim, ozan, sana!
+Yüzini qara saç örtməsəydi,
+“Ağam Beyrək” deyəydim, ozan, sana!
+Qunt-qunt biləklərin solmasaydı,
+“Ağam Beyrək” deyəydim, ozan, sana!
+Apul-apul yürüşündən,
+SşfSl '
+
+
+
+Aslan kibi duruşundan,
+Qanrıluban baqışından,
+Ağam Beyrəgə bənzədürəm, ozan, səni!
+Sevindirdin, yerindirmə, ozan, məni! - dedi.
+Qız bir dəxi soylamış, aydır:
+Çalma ozan, bir zaman ayıtma, ozan!
+Ağam Beyrək gedəli bizə ozan gəldügi yoq, Əgnimüzdən qaftanımuz alduğı yoq,
+Başımızdan gecəligümiz alduğı yoq,
+Buynuzı burma qoçlarımız alduğı yoq, - dedi.
+Beyrək aydır: “Gördünmi, qızlar bu qaftanla məni tanıdılar. Qalın Oğuz bəgləri dəxi tanırlar”, - dedi. “Görəyim, Oğuzda mənim dostum, düşmənim kimdir?” - dedi. Qaftanı sıyırdı, götürdi, qızların üstinə atı verdi: “Nə siz olun, nə Beyrək qalsun! Bir əski qaftan verdinüz bənim başım-beynim aldınuz”, - deyüb vardı. Bir əski dəvə çuvalı buldı, dəldi, boynına keçürdi. Kəndüyi dəlüligə bıraqdı, sürdi dügünə gəldi. Gördi dügündə göygü ox atar. Qaragünə oğlı Budaq, Qazan bəg oğlı Uruz, Bəglər başı Yegnək, Qəflət qoca oğlı Şir Şəmsəddin, qızın qardaşı Dəli Qarcar bilə ox atarlardı. Qaçan kim Budağ atsa, Beyrək “Əlün var olsun!” dedi. Uruz atsa, “Əlün var olsun!” derdi. Yegnək atsa, “Əlün var olsun!” derdi. Şir Şəmsəddin atsa, “Əlün var olsun!” derdi. Göygü atsa, “Əlün qurısun, parmaqların çürisün, hey, donuz oğlı donuz, - derdi, -göygülərə qurban ol!” - derdi.
+Yalançı oğlı Yalancuğın acığı tutdı, aydır: “Mərə, qavat oğlı dəli qavat, sana düşərmi mana bunun kibi söz söyləmək? Gəl, mərə qavat, mənim yayımı çək, yoxsa şimdi boynun ururam!” - dedi.
+Böylə digəc Beyrək yayı aldı, çəkdi. Qəbzəsindən yay iki para oldı. Götüri öninə bıraqdı: “Daz yerdə turğay atmağa yaxşı!” - dedi.
+Yalançı oğlı Yalancıq yay ufanduğma qatı qaqıdı. Aydır: “Mərə, Beyrəgin yayı vardır, gətürün!” - dedi. Vardılar, gətürdilər. Beyrək yayı gördigində yoldaşların andı, ağladı.
+§ S eh -
+
+Tol-tolara girdigim,
+Tolar əri, doxarlıyı qodığım.
+Yağı yordı əlümdə qıl kişlim, ayğır malı.
+Ayğır verüb alduğım, ağ tozlu qatı yayım.
+Buğa verüb alduğum boğma kirişim.
+Bunlu yerdə qodım-gəldim
+Otuz doquz yoldaşım, iki arğışım! -dedi.
+Andan Beyrək aydır: “Bəglər, sizün eşqinizə çəkəyim yayı, atayım oxı” - dedi. Məgər göyginin yüziginə nişan atarlardı. Beyrək oqla yüzügi urdı, paraladı. Oğuz bəgləri bunı göricək əl ələ çaldılar, gülüşdilər.
+Qazan bəg baqub tamaşa edərdi. Adam göndərdi, Beyrəgi qağırdı.
+Dəlü ozan gəldi; baş endirdi, bağır basdı, salam verdi. Beyrək aydır:
+Alar sabah sapa yerdə dikiləndə ağ-ban evli, Atlasla yapılanda gög sayvanlu,
+Tavla-tavla çəkiləndə şahbaz atlu,
+Çağıruban dad verəndə yol çavuşlu,
+Yayqanduğında yağ dökülən bol nemətlü!
+Qalmış yigit arxası! Bizə miskin umudı!
+Bayındır xanın göygüsi!
+Tülü quşun yavrısı!
+Türkistanın dirəgi!
+Amit soyının aslanı, Qaraçuğun qaplanı!
+Qonur atın ayası,
+Xan Uruzun babası,
+Xanım Qazan, ünüm anla, sözüm dinlə:
+Alan sabah durmışsan, ağ ormana girmişsən.
+Ağ qovağın budağından yırğayuban keçmişsən.
+Can bacuğm əgmişsən,
+Oq cığırın qurmışsan,
+Adın gərdək qomışsan.
+Aydır:
+-«***§# § §« » -
+Sağda oturan sağ bəglər!
+Sol qolda oturan sol bəglər!
+Eşikdəki inaqlar!
+Dibdə oturan xas bəglər!
+Qutlu olsun dövlətinüz! -dedi.
+Böylə digəc Qazan bəg aydır: “Mərə dəlü ozan! Məndən nə dilərsən? Çətirli otaqmı dilərsən? Qul-qaravaşmı dilərsən? Altun-aqçamı dilərsən, verəyim!” - dedi. Beyrək aydır: “Sultanım, məni qosan da şülən yeməgin yanına varsam. Qarnım acdur, doyursan”, - dedi.
+Qazan aydır: “Dəlü ozan, dövlətin dəpdi. Bəglər, bugünki bəgligim bunun olsun. Qon nerəyə gedərsə-getsün, neylərsə eyləsün”, - dedi.
+Beyrək şülən yeməginin üzərinə gəldi. Qamın doyurduqdan sonra qazanları dəpdi-dökdi, çevirdi. Yaxnmın kimini sağma, kimini solma atar. Sağdan gedəni sağ alur, soldan gedəni sol alur. Haqluya haqqı dəgə, haqsuza yüzi qaraluğı dəgə.
+Qazan bəgə xəbər oldı: “Sultanım, dəlü ozan həp yeməgi dökdi, -dedilər, - şimdi qızlar yanma varmaq istər”. Qazan aydır: “Mərə qon-a, qızlar yanma da varsun!” - dedi.
+Beyrək qalqdı, qızlar yanma vardı. Sumaçıları qovdı, naqaraçuları qovdı. Kimini dögdi, kiminin başın yardı. Qızlar oturan otağa gəldi; eşigin aldı, oturdı.
+Bunı gördi Qazan bəgin xatunı Boyı uzun Burla qaqıdı, aydır: “Mərə, qavat oğlı dəlü qavat, sana düşərmi bitəkəllüf bənim üzərimə gələsən?” - dedi. Beyrək aydır: “Xanım, Qazan bəgdən mana buyruq oldı. Mana kimsə dolaşmaz”, - dedi. Burla xatun aydır: “Çünkim Qazan bəgdən buyruq olubdur, qon, otursun!” - dedi. Yenə döndi, Beyrəgə aydır: “Mərə dəlü ozan, ya məqsudun nədir?” Aydır: “Xanım, məqsudım oldur ki, ərə varan qız qalqa oynaya, mən qopuz çalam”, - dedi. Qısırca yengə derlər, bir xatun vardı, ana ayıtdılar: “Mərə Qısırca yengə, dur sən oyna, nə bilür dəli
+ozan”, - dedilər. Qısırca yengə durdı, aydır: “Mərə dəli ozan, ərə varan qız mənəm!” - dedi. Oynamağa başladı. Beyrək qopuz çaldı, soyladı, görəlim, xanım, nə soyladı.
+
+And içmişəm qısır qısrağa bindigim yoq.
+Binübəni qazavata varduğım yoq.
+Eviniz ardında sarvanlar
+Sana baqar onlar,
+Buldır-buldır gözlərinin yaşı aqar.
+Sən anlarun yanına varğıl,
+Muradını anlar verər, bəllü bilgil!
+Səninlə mənim işim yoq!
+Ərə varan qız qalqa,
+Qol saluban oynaya,
+Mən qopuz çalam, - dedi.
+Qısırca yengə: “Buy, bu zavala gələcək dəlü bəni görmiş kibi söylər”, - dedi. Vardı, yerində oturdı.
+Boğazca Fatma derlər, bir xatun vardı. “Qalq, sən oyna!” - dedilər. “Hey, şu dəli məğmun mənə də şayəd ancılayın olmaz sözlər söylər”, - dedi. Qızın qaftanını geydi: “Çal, mərə, dəlü ozan! Ərə varan qız mənəm, oynayayım”, - dedi. Dəlü ozan aydır:
+And içəyim bu gəz boğaz qısrağa bindigim yoq
+Binübəni qazavata varduğım yoq.
+Eviniz ardı dərəcik degilmiydi?
+İtüniz adı Bıraq degilmiydi?
+Sənin adın Qırq oynaşlu Boğazca Fatma degilmiydi?
+Dəxi eybin açaram, bəllü bilgil! - dedi.
+Səninlə mənim oyunum yoq.
+Var yerinə oturğıl!
+Ərə varan yerindən dura,
+bən qopuz çalam,
+qol saluban oynaya, - dedi.
+Böylə digəc Boğazca Fatma aydır: “Buy, dəli boğma çıqaracaq olanca eybimizi qaqdı. Dur, qız, oynarsan-oynamazsan, cəhənnəmdə oyna! Beyrəkdən sonra başına bu hal gələcəgin bilürdün”, -dedi.
+Aydır:
+-Aaf#l AV--
+Burla xatun aydır: “Qız, qalq oyna, əlündən nə gəlür?” - dedi. Banıçiçək qırmızı qaftanın geydi. Əllərin yeninə çəkdi gözükməsün deyü; oyuna girdi, ayıtdı: “Mərə Dəlü ozan, çal, di!” Dəlü ozan çaldı aydır:
+Mən bu yerdən gedəli dəlü olmışsan ’
+Dəlim ağca qarlar yağmış, dizə yetmiş.
+Xan qızının evində qul-xəlaiq dükənmiş...
+Məşrəbə almış, suya varmış - Biləgindən on parmağını sovuq almış.
+Qızıl altun gətirün,
+Xan qızına dırnaq yonun.
+Eyiblücə, xan qızı, ərə varmaq eyib olar, - dedi.
+Bunı eşidcək Banıçiçək qaqıdı: “Mərə dəlü ozan, mən eyiblümiyəm kim, mana eyib qoşarsan?” - dedi. Gümüş kibi ağ biləgin açdı, əlin çıqardı. Beyrəgin keçürdügi yüzük görindi. Beyrək yüzügi tanıdı. Burada soylamış, görəlim, xanım, nə soylamış, aydır:
+Beyrək gedəli Bam-bam dəpə başına çıqdınmı, qız?! Qarılatıb dört yanına baqdınmı, qız?!
+Qarğu kibi qara saçın yoldınmı, qız?!
+Qara gözdən acı yaş dökdünmi, qız?!
+Güz alması kibi al yanağın yırtdınmı, qız?!
+Sən ərə vararsan, altun yüzük mənimdir**’
+ver mana, qız! - dedi.
+Qız aydır:
+Beyrək gedəli Bam-bam dəpə başına çıqdığım çoq, Qarğu kibi qara saçum yolduğum çoq.
+Güz alması kibi al yanağım yırtdığım çoq.
+Gələnlə gedəndən sorduğum çoq.
+“Vardı, gəlməz bəg yigidim,
+xan yigidim Beyrək” - deyü ağladığım çoq. Sevişdigim Bamsı Beyrək sən degilsən,
+-« s§iä gÄf»®-
+Olmışsan.
+Mənimdir.
+Altun yüzük sənin degildir.
+Altun yüzükdə çoq nişan vardır.
+Altun yüzügi istərsən, nişanın söylə! - dedi.
+Beyrək aydır:
+Alan sabah, xan qızı, yerimdən durmadımmı?
+Boz ayğırın belinə binmədimmi?
+Sənin evün üzərinə sığm-keyik yıqmadımmı?
+Sən məni yanına qağırmadınmı?
+Sənünlə meydanda at çapmadıqmı?
+Sənin atunı mənim atım keçmədimi?
+Ox atanda mən sənin oxunı yarmadımmı?
+Gürəşdə mən səni basmadımmı?
+Üç öpüb bir dişləyüb, altun yüzügi
+barmağına keçürmədimmi? Sevişdigin Bamsı Beyrək mən degilmiyəm? -dedi.
+Böylə digəc qız tanıdı-bildi kim, Beyrəkdir. Cübbəsiylə-çuxasıyla Beyrəgin ayağına düşdi. Beyrəgə dayələr qaftan
+geyürüb donatdılar. Haman qız sıçradı, ata bindi. Beyrəgin atasına-anasına muştuluğa çapar getdi.
+Qız aydır:
+Arğab-arğab qara dağın yıxılmışdı, yucaldı, axır!
+Qanlu-qanlu suların sovğulmışdı, çağladı, axır!
+Qaba ağacın qurımışdı, yaşardı, axır!
+Şahbaz atın qarımışdı, qulun verdi, axır!
+Qızıl dəvələrin qarımışdı, köşək verdi, axır!
+Ağ qoyunun qarımışdı, quzı verdi, axır!
+On altı yıllıq həsrətin-oğulun Beyrək gəldi, axır!
+Qayın ata, qayın ana, muştuluq mana nə verərsiz? - dedi. Beyrəgin atası-anası aydır:
+Dilün içün öləyin, gəlincigüm!
+Yoluna qurban olayın, gəlincigüm! Yalansa bu sözlərin, gerçək ola, gəlincigüm! Sağ-əsən çıqub gəlsə,
+§ Sfeh-
+
+
+
+
+Qarşu yatan qara dağlar sana yaylaq olsun!
+Sovuq-sovuq suları sana içət olsun!
+Qulum-xəlayığım sana qımaq olsun!
+Şahbaz atlarım sana binət olsun!
+Qatar-qatar dəvələrim sana yüklət olsun!
+Ağayılda ağca qoyunum sana şülən olsun!
+Altun-aqçam sana xərclıq olsun!
+Dünlügi altun ban evim sana kölgə olsun!
+Qara başım qurban olsun sana, gəlincigüm! -dedi.
+Bu məhəldə bəglər Beyrəgi gətürdilər. Qazan bəg aydır: “Muştuluq, Baybörə bəg! Oğlun gəldi!” - dedi. Baybörə bəg aydır: “Oğlum idigin andan biləyim, sırça parmağını qanatsun, qanını dəstmala dürtsün, gözümə sürəyin, açılacaq olursa, oğlum Beyrəkdir!” - dedi. Zira ağlamaqdan gözləri görməz olmış idi. Dəstmalı gözinə silcək Allah Taalanın qüdrətiylə gözi açıldı. Atası-anası güldilər. Beyrəgin ayağına düşdilər. Aydır:
+Oğul! Dünlügi altun ban evimin qəbzəsi oğul!
+Qaza bənzər qızumun-gəlinimin çiçəgi oğul!
+Görər gözüm aydını oğul!
+Tutar belüm qüvvəti oğul!
+Qalın Oğuz imrəncəsi, canım oğul!” -deyübən
+çoq ağladı,
+Allahına şükrlər eylədi.
+Yalançı oğlı Yalancuq bunı eşitdi. Beyrəgin qorqusından qaçdı, özini Dana sazına saldı. Beyrək ardına düşdi, qovaqova saza düşürdi. Beyrək aydır: “Mərə, od gətürün!” Gətürdilər. Sazı oda urdılar.
+Yalançıq gördi kim, yanar, sazdan çıqdı. Beyrəgin ayağına düşdi. Qılıcı altından keçdi. Beyrək dəxi suçmdan keçdi. Qazan bəg aydır: “Gəl muradına yetiş!” Beyrək aydır: “Yoldaşlarımı çıqarmaymca, hasarı almayınca murada irməzəm!” - dedi. Qazan bəg Oğuzuna: “Bəni sevən yetsün!” -dedi.
+Qalın Oğuz bəgləri atlandılar. Bayburd hasarına çapar yetdilər. Kafirlər dəxi bunları qarşuladılar.
+-Aaf#l AY--
+Qalın Oğuz bəgləri arı sudan abdəst aldılar. Ağ alınların yerə qodılar. İki rükət namaz qıldılar. Adı görklü Məhəmmədi yad gətürdilər. Gumbur-gumbur naqaralar dögüldi. Bir qiyamət savaş oldı, meydan dolu baş oldı.
+Şökli Məliki bögürdübəni Qazan bəg atdan yerə saldı. Qara Təküri Dəli Dondar qılıcladı, yerə saldı. Qara Arslan Məliki Qarabudaq yerə saldı. Dərələrdə kafirə qırğun girdi. Yedi kafir bəgi qılıcdan keçdi.
+Beyrək, Yegnək, Qazan bəg, Qarabudaq, Dəli Dondar, Qazan oğlı Uruz bəg - bunlar hasara yürüş etdilər. Beyrək otuz doquz yigidinin üzərinə gəldi. Anları sağ və əsən gördi.
+Allaha şükr eylədi. Kafirin kəlisasın yıqdılar, yerinə məscid yapdılar. Keşişlərdən öldürdilər. Ban banlatdılar. Əziz Tanrı adına qudbə oqıtdılar. Quşun ala qatmı, qumaşın arusını, qızın gögçəgini, doquzlama çırğab çuxa xanlar xanı Bayındıra pəncik çıqardılar.
+Baybörə bəgin oğlancuğı Beyrək Baybican bəgin qızın aldı. Ağ-ban evinə, ağ otağına gerü döndi. Dügünə başladı. Bu qırq yigidin bir qaçma xan Qazan, bir qaçma Bayındır xan qızlar verdilər. Beyrək dəxi yedi qız qarındaşını yedi yigidə verdi. Qırq yerdə otaq dikdi. Otuz doquz qız “talelü” “tale”inə birər ox atdı. Otuz doquz yigit oxmın ardınca getdi. Qırq gün-qırq gecə toy-dügün eylədilər. Beyrək yigitləriylə murad verdi, murad aldı.
+Dədəm Qorqud gəldi, şadlıq çaldı. Boy boyladı, soy soyladı. Qazı ərənlər başına nə gəldügin söylədi. “Bu Oğuznamə Beyrəgin olsun!” -dedi. Yum verəyin, xanım:
+Yerlü qara dağların yıqılmasun!
+Kölgəlicə qaba ağacın kəsilməsün!
+Ağ saqallu baban yeri uçmaq olsun!
+Ağ birçəklü anan yeri behişt olsun!
+Oğulla qarındaşdan ayırmasun!
+Axır vaqtında arı imandan ayırmasun!
+“Amin! Amin!” deyənlər didar görsün!
+Yığışdırsun, durışdırsun günahınızı
+Adı görklü Məhəmməd Mustafa yüzi suyma
+bağışlasun, xanım, hey!..

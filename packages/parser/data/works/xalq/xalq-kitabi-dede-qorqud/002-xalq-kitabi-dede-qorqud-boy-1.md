@@ -1,0 +1,256 @@
+---
+slug: xalq-kitabi-dede-qorqud-boy-1
+sourceId: wikisource-az-16239
+titleAz: Dirsə xan oğlı Buğac xan boyını bəyan edər
+authorSlug: xalq
+collectionSlug: xalq-kitabi-dede-qorqud
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: PROSE
+order: 2
+sourceNote: >-
+  https://az.wikisource.org/wiki/Kitabi-D%C9%99d%C9%99%20Qorqud%2FDirs%C9%99%20xan%20o%C4%9Fl%C4%B1%20Bu%C4%9Fac%20xan%20boy%C4%B1n%C4%B1%20b%C9%99yan%20ed%C9%99r%2C%20xan%C4%B1m%2C%20hey!
+status: DRAFT
+---
+** DİRSƏ XAN OĞLI BUĞAC XAN BOYINI BƏYAN EDƏR, XANIM, HEY!**
+
+Bir gün Qamğan oğlı xan Baymdır yerindən durmışdı. Şami günlügi yer yüzinə dikdirmişdi. Ala sayvanı gög yüzinə aşanmışdı. Bin yerdə ipək xalıçası döşənmişdi.
+Xanlar xanı xan Baymdır yildə bir kərrə toy edib, Oğuz bəglərin qonaqlardı. Genə toy edib atdan ayğır, dəvədən buğra, qoyundan qoç qırdırmışdı. Bir yerə ağ otaq, bir yerə qızıl otaq, bir yerə qara otaq qurdırmışdı. “Kimin ki, oğlı-qızı yoq, qara otağa qondurun, qara keçə altına döşən, qara qoyun yaxnısından öninə gətürün, yer isə, yesün, yeməzsə, dursun, getsün” - demişdi. “Oğlı olanı ağ otağa, qızı olanı qızıl otağa qondurun, oğlı-qızı olmayanı Allah Taala qarğayıbdır, biz dəxi qarğarız; bəllü bilsün!” - demiş idi.
+Oğuz bəgləri birin gəlüb, yığnaq olmağa başladı. Məgər Dirsə xan deyərlərdi, bir bəgün, oğlı-qızı yoq idi. Soylamış, görəlim, xanım, nə soylamış:
+Salqum-salqum dan yelləri əsdigində,
+Saqallu bozac turğay sayradıqda,
+Saqalı uzun tat əri banladıqda,
+Bədəvi atlar issini görüb oğradıqda Ağlı-qaralı seçilən çağda,
+Köksi gözəl qaya dağlara gün dəgəndə,
+Bəg yigitlər-cılasınlar bir-birinə qoyulan çağda alar sabah Dirsə xan qalqubanı yerindən uru durub, qırq yigidin boyma alıb, Baymdır xanın söhbətinə gəlür idi.
+Baymdır xanın yigitləri Dirsə xanı qarşuladılar. Gətürüb qara otağa qondurdılar. Qara keçə altına döşədilər. Qara qoyun yaxnısından öninə gətürdilər. Baymdır xandan buyruq böylədir, xanım, dedilər. Dirsə xan aydır: “Baymdır xan bənim nə əksüklügüm gördi? Qılucumdanmı gördi, süfrəmdənmi gördi? Bəndən alçaq kişiləri ağ otağa, qızıl otağa
+
+qondurdı; bənim suçum nə oldı kim, qara otağa qondurdı? -dedi.
+Ayıtdılar: “Xanım, bu gün Bayındır xandan buyruq şöylədir kim, oğlı-qızı olmayanı Tanrı Taala qarğayıbdır, biz dəxi qarğarız, demişdir” - dedilər.
+Dirsə xan yerindən uru durdı, aydır: “Qalqubanı, yigitlərim, yerünizdən uru durun, bu qərayib bana ya bəndəndir, ya xatundandır”, - dedi.
+Dirsə xan evinə gəldi. Çağırıb xatunına soylar, görəlim, xanım, nə soylar?
+Soylama.
+Aydır:
+Bərü gəlgil, başum baxtı, evüm taxtı,
+Evdən çıqub yüriyəndə səlvi boylum!
+Topuğında sarmaşanda qara saçlum,
+Qurulu yaya bənzər çatma qaşlum!
+Qoşa badam sığmayan dar ağızlum,
+Güz almasına bənzər al yanaqlum,
+Qavunum, verəgim, döləgüm,
+Görürmisin, nələr oldı?!
+Qalqubanı xan Bayındır yerindən durmış, bir yerə ağ otaq, bir yerə qızıl otaq, bir yerə qara otaq dikdirmiş; “ Oğulluları ağ otağa, qızluyı qızıl otağa, oğlı-qızı olmayanı qara otağa qondurun, qara keçə altına döşən, qara qoyun yaxnısından öninə gətürün, yersə yesin, yeməzsə, dursun getsün; anun kim, oğlı-qızı olmaya, Tanrı Taala anı qarğayıbdır, biz dəxi qarğarız,” - demiş.
+Bən varıcaq gəlübəni qarşuladılar, qara otağa qondurdılar, qara keçə altuma döşədilər, qara qoyun yaxnısmdan önümə gətürdilər; “Oğlı-qızı olmayanı Tanrı Taala qarğayıbdır, biz dəxi qarğarız, bəllü bilgil,” - dedilər. Səndənmidir, bəndənmidir, Tanrı Taala bizə bir yetman oğul verməz, nədəndir, -dedi, soyladı.
+Soylama.
+Aydır:
+Xan qızı, yerimdən durayınmı?
+Yaqan ilə boğazından tutaymmı?
+Qaba öncəm altına salayınmı?
+Qara polat uz qılıcum əlümə alayınmı?
+Öz gövdəndən başunı kəsəyinmi?
+Can tatlusın sana bildirəyinmi?
+Alca qanun yer yüzinə dökəyinmi?
+Xan qızı, səbəbi nədir, degil mana!
+Qatı qəzəb edərəm şimdi sana! -dedi.
+Dirsə xanı xatunın soylamış, görəlim, nə soylamış; aydır:
+Hay Dirsə xan, bana qəzəb etmə!
+İncinib acı sözlər söyləmə! Yerindən uru durğıl!
+Ala çadırın yer yüzinə dikdirgil!
+Atdan ayğır, dəvədən buğra, qoyundan qoç öldürgil!
+İç Oğuzun, Daş Oğuzun bəglərin üstünə yığnaq etgil!
+Ac görsən, doyurğıl, yalıncaq görsən, donatğıl! Borcluyı borcından qurtarğıl!
+Dəpə kibi ət yığ, göl kibi qımız sağdır!
+Ulı toy elə, hacət dilə!
+Ola kim, bir ağzı dualının alqışıyla Tanrı bizə bir yetman əyal verə, - dedi.
+Dirsə xan dişi əhlinin söziylə ulu toy eylədi, hacət dilədi. Atdan-ayqır, dəvədən buğra, qoyundan qoç qırdırdı.
+İç Oğuz, Daş Oğuz bəglərin üstinə yığnaq etdi. Ac görsə,
+doyurdı; yalın görsə, donatdı. Borcluyı borcından qurtardı. Dəpə kibi ət yığdı, göl kibi qımız sağdırdı. Əl götürdilər, hacət dilədilər. Bir ağzı dualının alqışıyla Allah Taala bir əyal verdi: xatunı hamilə oldı, bir neçə müddətdən sonra bir oğlan doğurdı. Oğlancuğını dayələrə verdi, saqlatdı. At ayağı külük, ozan dili çevik olur. İyəgülü ulalur, qapurğalı böyür. Oğlan on beş yaşına girdi. Oğlanın babası Bayındır xanın ordusına qarışdı.
+Məgər xanım, Bayındır xanın bir buğası vardı, bir dəxi buğrası vardı. Ol buğa qatı daşa buynuz ursa, un kibi ügidərdi. Bir yazın, bir güzin buğayla buğrayı savaşdırarlardı. Bayındır xan Qalın Oğuz bəgləriylə tamaşaya baqardı, təfərrüc edərdi.
+Məgər, sultanım, genə yazın buğayı saraydan çıqardılar. Üç kişi sağ yanından, üç kişi sol yanından dəmür zəncirlə buğayı tutmışlardı. Gəlüb meydan ortasında qoyu verdilər. Məgər, sultanım, Dirsə xanın oğlancığı üç dəxi ordı uşağı meydanda aşuq oynarlardı. Buğayı qoyu verdilər, oğlancıqlara “qaç!” dedilər. Ol üç oğlan qaçdı. Dirsə xanın oğlancuğı qaçmadı, ağ meydanın ortasında baqdı durdı. Buğa dəxi oğlana sürdi gəldi. Dilədi ki, oğlanı həlak qılaydı. Oğlan yumruğıyla buğanın alnına qıya tutub çaldı; buğa götin-götin getdi. Buğa oğlana sürdi, gerü gəldi. Oğlan yenə buğanın alnına yumruğıyla qatı urdı. Oğlan bu qatla buğanın alnına yumruğını dayadı, sürdi meydanın başına çıqardı.
+Buğa ilə oğlan bir həmlə çəkişdilər. İki dalusının üstinə buğanın köpük durdı. Nə oğlan yenər, nə buğa yenər. Oğlan fikr eylədi, aydır: “Bir dama dirək ururlar, ol dama dayaq olur. Bən bunun alnına niyə dayaq olurın dururın,” - dedi. Oğlan buğanın alnından yumruğm gedərdi, yolından savuldı. Buğa ayaq üstinə duramadı, düşdi; dəpəsinin üstinə yıqıldı. Oğlan bıçağına əl urdı, buğanın başını kəsdi.
+Oğuz bəgləri gəlüb oğlan üstinə yığnaq oldılar, təhsin dedilər. “Dədəm Qorqut gəlsün, bu oğlana ad qosun, biləsincə alub babasına varsun, babasından oğlana bəglik istəsün, taxt alı versün,” - dedilər.
+Çağırdılar, Dədəm Qorqut gəlür oldı. Oğlanı alıb babasına vardı. Dədəm Qorqut oğlanın babasına soylamış, görəlim, xanım, nə soylamış -aydır:
+Hey Dirsə xan, bəglik vergil bu oğlana Taxt vergil, ərdəmlidir!
+Boynı uzun bədəvi at vergil,
+Binər olsun hünərlidir!
+Ağayıldan tümən qoyun vergil bu oğlana,
+Şişlik olsun, ərdəmlidir!
+Qaytabandan qızıl dəvə vergil bu oğlana,
+Yüklət olsun hünərlidir!
+Altun başlu ban ev vergil bu oğlana,
+Kölgə olsun, ərdəmlidir!
+Çigin quşlu cübbə don vergil bu oğlana,
+Geyər olsun, hünərlidir!
+Bayındır xanın ağ meydanında bu oğlan cəng etmişdür. Bir buğa öldürmüş sənin oğlun, adı Buğac olsun! Adını bən verdüm, yaşını Allah versün! - dedi. Dirsə xan oğlana bəglik verdi, taxt verdi. Oğlan taxta çıqdı, babasının qırq yigidin anmaz oldı. Ol qırq yigit həsəd eylədilər, bir-birinə söylədilər: “Gəlün, oğlanı babasına quvlayalım, ola kim, öldürə, genə bizim izzətimiz-hörmətimiz anun babası yanında xoş ola, artıq ola, - dedilər.
+Vardı bu qırq yigidin yigirmisi bir yana, yigirmisi dəxi bir yana oldı. Əvvəl yigirmisi vardı, Dirsə xana bu xəbəri gətürdi. Aydır: “Görürmisin, Dirsə xan, nələr oldı? Yarımasun-yarçımasun, sənin oğlun kür qopdı, ərcəl qopdı: qırq yigidin boyma aldı, Qalın Oğuzun üstinə yüriş etdi; nə yerdə gözəl qopdısa, çəküb aldı; ağ saqallu qocanın ağzın sögdi, ağ birçəklü qarınun südin dartdı. Aqan durı sulardan xəbər keçə, arqurı yatan Ala dağdan təbər aşa, xanlar xanı Bayındıra xəbər vara, “Dirsə xanın oğlı böylə bidət işləmiş” deyələr. Gəzdigündən öldügün yeg ola: Bayındır xan səni çağıra, sana qatı qəzəb eyləyə. Böylə oğul sənin nənə gərək, böylə oğul olmaqdan olmamaq yegdir, öldürsənə!” -dedilər. Dirsə xan: “Varın, gətürün, öldürəyim!” - dedi. Böylə digəc, xanım, ol namərdlərin yigirmisi dəxi çıqa gəldi və bir quv dəxi gətürdilər. Aydır: “Qalqubanı, Dirsə xan, sənin oğlun yerindən uru durdı, köksi gözəl qaba dağa ava çıqdı. Sən var ikən av avladı, quş quşladı; anasının yanına alub gəldi, al şərabın itisindən aldı içdi; anasıyla söhbət eylədi, atasına qəsd eylədi. Sənin oğlun kür qopdı, ərcəl qopdı. Arqun yatan Ala dağdan xəbər keçə, xanlar xanı Bayındıra xəbər vara; “Dirsə xanın oğlı böylə bidət eyləmiş” deyələr, səni çağırdalar, Baymdır xanın qatında sənə qəzəb ola. Böylə oğul nənə gərək, öldürsənə!” - dedilər.
+Dirsə xan aydır: “Varın gətürün, öldürəyim; böylə oğul mana gərəkməz!” - dedi.
+Dirsə xanın nökərləri aydır: “Biz sənin oğlunı necə gətürəlim? Sənin oğlun bizim sözümüz almaz, bizim sözümüzlə gəlməz. Qalqubanı yerindən uru durğıl, yigitlərin oxşağıl, boyına alğıl, oğluna uğrağıl, yanına alub, ava çıqğıl; quş uçurub, av avlayub, oğlunı oxlayub, öldürə görgil! Əgər böylə öldürməzsən bir dürlü dəxi öldüriməzsən, bəllü bilgil!” - dedilər.
+Soylama:
+Salqum-salqum dan yelləri əsdigində,
+Saqallu bozac turğay sayradıqda,
+Bədəvi atlar issin görüb oqradıqda,
+Saqalı uzun tat əri banladıqda,
+Aqlı, qaralı seçilən çağda,
+Qalın Oğuzun gəlini-qızı bəzənən çağda,
+Köksi gözəl qaba dağlara gün dəgəndə,
+Bəg yigitlər - cılasınlar bir-birinə qoyulan çağda
+alar sabah Dirsə xan yerindən uru durdı. Oğlancuğın yanına alub qırq yigidin boyına saldı, ava çıqdı.
+Av avladılar, quş quşladılar. Ol qırq namərdin bir qaçı
+oğlanın yanına gəldi, aydır: “Baban dedi, keyikləri qovsun gətürsün, bənim önümdə dəpələsün; oğlumun at səgirdişin, qılıc çalışın, oq atışın görəyim, sevinəyim, qıvanayım-güvənəyim, dedi” - dedilər.
+Oğlandır, nə bilsün? Keyigi qovardı gətirürdi, babasının önində sinirlərdi: “ Babam at səgirdişimə baqsun, qıvansun; ox atışıma baqsun, güvənsün; qılıc çalışıma baqsun, sevinsin!”
+qırq namərdlər aydırlar: “Dirsə xan, görürmisin oğlanı, yazıda -yabanda keyiki qovar, sənin önünə gətürər. Keyikə atarkən oqla səni urar öldürər. Oğlun səni öldürmədin sən oğlunı öldüri görgilə!” dedilər.
+Oğlan keyiki qovarkən babasının önindən gəlüb-gedərdi. Dirsə xan Qorqut sınırlı qatı yayın əlinə aldı. Üzəngüyə qalqıb, qatı çəkdi, uz atdı: oğlanı iki dalusının arasında urub-çıqdı, yıqdı. Uc toqundı, alca qanı şorladı, qoynı doldı. Bədəvi atının boynın qucaqladı, yerə düşdi.
+Dirsə xan istədi kim, oğlancuğının üstinə kövrəlib düşəydi. Ol qırq namərd qomadı. Atmın cilavısın döndərdi, ordusına gəlür oldı.
+Dirsə xanın xatunı “oğlancığımın ilk avıdır” deyü, atdanayğırdan, dəvədən buğra, qoyundan qoç qırdırdı, “Qanlu Oğuz bəglərin toylayayım,” - dedi. Yumurlanıb yerindən uru durdu, qırq incə qızı boyına aldı, Dirsə xana qarşu vardı. Qapaq qaldırdı. Dirsə xanın yüzinə baqdı. Sağ ilən solma göz gəzdirdi, oğlancuğını görmədi. Qara bağrı sarsıldı, düm yürəgi oynadı, qara qıyma gözləri qan-yaş doldı. Çağırıb Dirsə xana soylar, görəlim, xanım, nə soylar:
+Bərü gəlgil başım baxtı, evim taxtı Xan babamın göygisi,
+Qadın anamın sevgisi.
+Atam-anam verdigi,
+Göz açuban gördügim,
+Könül verib sevdigim A Dirsə xan,
+Qalqubanı yerindən uru durdun.
+Yelisi qara Qazılıq atun butun bindin.
+Köksi gözəl qaba dağa ava çıqdın.
+İki vardın bir gəlirsən; yavrum qanı?
+Qara bulduğum oğul qanı?
+Çıqsun bənim kor gözüm, a Dirsə xan,
+yaman səgrər.
+Kəsilsün oğlan əmən süd damarım
+yaman sızlar.
+Saru yılan soqmadın ağca tənim qalqub şişər. Yalnuzca oğul görünməz, bağrım yanar.
+Quru-quru çaylara suçu saldım.
+Qara donlu dərvişlərə nəzirlər verdim.
+Ac görsəm doyurdum,
+yalıncaq görsəm donatdım.
+Dəpə kibi ət yığdım, göl kibi qımız sağırdım.
+Dilək ilə bir oğul güclə buldum.
+Yalnız oğul xəbərin, a Dirsə xan, degil mana!
+Qarşu yatan Ala dağdan
+bir oğul uçurdunsa, degil mana!
+Qamın aqan yügrək sudan
+bir oğul aqıtdınsa, degil mana!
+Aslan ilə qaplana bir oğul yedirdinsə, degil mana!
+Qara tonlu, azğun dinlü kafirlərə
+bir oğul aldırdınsa, degil mana!
+Xan babamın qatma bən varayım,
+Ağır xəzinə, bol ləşkər alayın,
+Azğun dinlü kafirə bən varayım.
+Paralanub Qazılıq atımdan enməyincə,
+Yenümlə alca qanım silməyincə,
+Qol-bud olub yer üstinə düşməyincə Yalnuz oğul yollarından dönməyəyim!
+Yalnuz oğul xəbərin, a Dirsə xan, degil mana!
+Qara başım qurban olsun bu gün sana! - dedi,
+zarılıq eylədi, ağladı. Böylə digəc Dirsə xan xatunma cavab vermədi. Ol qırq namərd qarşu gəldi, aydır: “Oğlun sağdır - əsəndir, avdadır: bu gün-yarın qanda isə, gəlür; qorqma-qayırma, bəg sərxoşdur, cavab verəməz” - dedilər.
+Dirsə xanın xatunı qayıtdı, gerü döndi. Qatlanmadı, qırq incə qızı boyma aldı, bədəvi ata binüb, oğlancuğm istəyü getdi. Qışda-yazda qarı-buzı ərinməyən Qazılıq dağma gəldi çıqdı. Alçaqdan yuca yerlərə çapub çıqdı. Baqsa görsə bir dərənin içinə qarğa-quzğun enər-çıqar, qonar-qalqar. Bədəvi atın ökcələdi, ol tərəfə yüridi.
+Məgər sultanım, oğlan ol arada yıqılmışdı. Qarğa-quzğun qan görüb, oğlanın üstinə qonmaq istərdi. Oğlanın iki kəlbcügəzi vardı, qarğayı-quzğunı qovardı, qondurmazdı. Oğlan anda yıqıldıqda Boz atlu Xızır oğlana hazır oldı, üç qatla yarasın əliylə sığadı: “Sana bu yaradan qorxma, oğlan, ölüm yoqdur; dağ çiçəgi anan südiylə sənin yarana məlhəmdir,” - dedi, qayib oldı.
+Oğlanın anası oğlanın üstinə çapub çıqa gəldi. Baqsa görsə oğlancığı alca qana bulaşmış yatur. Çağıruban oğlancuğma soylar, görəlim, xanım, nə soylar:
+Aydır:
+Qara qıyma gözlərin uyxu almış, açğıl axı,
+Ol ikicə sünücügün uzun olmış, yığşur axı,
+Tanrı verən tatlu canın seyranda imiş, endi dəxi, Üz-gözündə canun varsa, oğul, xəbər mana!
+Qara başım qurban olsun, oğul sana!
+Aqar sənin suların Qazılıq dağı Aqar kibi, aqmaz olsun!
+Bitər sənin otların, Qazılıq dağı,
+Bitər ikən bitməz olsun!
+Qaçar sənin keyiklərin, Qazılıq dağı,
+Qaçar ikən qaçmaz olsun, daşa dönsün!
+Nə biləyin, oğul arslandanmı oldı,
+Yoxsa qaplandanmı oldı?
+Nə biləyin oğul, bu qəzalar sana
+nerədən gəldi?!
+Ol gövdəndə canın varsa, oğul, xəbər mana!
+Qara başım qurban olsun, oğul sana!
+Ağız-dildən bir qaç kəlmə xəbər mana! - dedi.
+Böylə digəc oğlanın qulağına səs toqındı. Başın qaldırdı, yalabıdaq gözin açdı. Anasının yüzinə baqdı. Soylamış, görəlim, xanım, nə soylamış:
+Aydır:
+Bərü gəlgil, aq südin əmdigim qadunım ana!
+Ağ birçəklü, izzətlü canım ana!
+“Aqar” ayıda sularına qarğamağıl,
+Qazlıq dağının günahı yoqdur.
+Bitərlidə otlarına qarğamağıl,
+Qazlıq dağının suçı yoqdur.
+Qaçar keyiklərinə qarğamağıl,
+Qazlıq dağının günahı yoqdur.
+Arslanla qaplanına qarğamağıl,
+Qazlıq dağının suçı yoqdur.
+Qarğar isən, babama qarğa,
+Bu suç, bu günah babamdandır, - dedi.
+Oğlan yenə aydır: “Ana, ağlamağıl, mana bu yaradan ölüm yoqdur, qorxmağıl! Boz atlu Xızır mana gəldi, üç kərrə yaramı sığadı, “Bu yaradan sana ölüm yoqdur; dağ çiçəgi, anan südi sana mərhəmdir,” -dedi.
+Böylə digəc qırq incə qız yayıldılar, dağ çiçəgi divşürdilər. Oğlanın anası əmcəgin bir sıqdı, südi gəlmədi; iki sıqdı, südi
+gəlmədi; üçüncidə kəndüyə zərb eylədi, qatı doldı, sıqdı südlə qan qarışıq gəldi. Dağ çiçəgiylə südi oğlanın yarasına urdılar. Oğlanı ata bindirdilər, alubanı ordusına getdilər. Oğlanı həkimlərə ısmarlayub Dirsə xandan saqladılar.
+At ayağı külük, ozan dili çevik olur. Xanım, oğlanın qırq gündə yarası onaldı, sapasağ oldı. Oğlan ata binər, qılıc quşanar oldı, av avlar, quş quşlar oldı. Dirsə xanın xəbəri yoq, oğlancuğın öldi bilür.
+Ol qırq namərdlər bunı duydılar; “nə eyləyəlim?” - deyü danışdılar. “ Dirsə xan əgər oğlancığın görərsə, oturmaz, bizi həb qırar,” -dedilər. “Gəlün, Dirsə xanı tutalım, ağ əllərin ardına bağlayalım, qıl sicim ağ boynma taqalım, alubanı kafir ellərinə yönələlim,” deyü Dirsə xanı tutdılar.
+Ağ əllərin ardına bağladılar, qıl sicim boynuna taqdılar, ağ ətindən qan çıqınca dögdilər. Dirsə xan yayan, bunlar atlu yüridilər, alubanı qalın kafir ellərinə yönəldilər. Dirsə xan tutsaq oldı gedər.
+Dirsə xanın tutsaq olduğmdan Oğuz bəglərinin xəbəri yoq.
+Məgər, sultanım, Dirsə xanın xatunı bum duymış. Oğlancuğma qarşu varub soylamış görəlim, xanım, nə soylamış.
+Aydır:
+Görürmisin, ay oğul, nələr oldı?!
+Sarp qayalar oynanmadı, yer obrıldı.
+Eldə yağı yoq ikən sənin babanın üstinə yağı gəldi.
+Ol qırq namərd-babanın yoldaşları babanı tutdılar.
+Ağ əllərin ardına bağladılar.
+Qıl sicim ağ boynına taqdılar.
+Kəndülər atlu, babanı yayaq yüritdilər.
+Alubanı qalın kafir ellərinə yönəldilər.
+Xanım oğul, qalqubanı yerindən uru durğıl!
+Qırq yigidin boyuna alğıl!
+Babanı ol qırq namərddən qurtarğıl.
+Yüri, oğul! Baban sana qıydısa, sən babana qıymağıl! - dedi.
+Oğlan anasının sözin sımadı. Buğac bəg yerindən uru durdı, qara polat uz qılıcın belinə quşandı, ağ tozluca qatı yayını əlinə aldı, altun cidasın qolma aldı, bədəvi atmı tutdurdı, butun bindi. Qırq yigidin boyına aldı, babasının ardınca yortub getdi.
+Ol namərdlər dəxi bir yerdə qonmuşlardı, al şərabın itisindən içərlərdi. Buğac xan çapub yetdi. Ol qırq namərd dəxi bunı gördilər. Ayıtdılar: “ Gəlün, varalım, şol yigidi tutub gətürəlim, ikisini bir yerdə kafirə yetürəlim!” - dedilər. Dirsə xan aydır: “Qırq yoldaşım, aman! Tanrının birliginə yoqdur güman!
+Mənim əlümi şeşin, qolça qopuzım əlümə verin, ol yigidi döndərəyim. Gərək bəni öldürün, gərək dirgürün, qoyu verin”, - dedi.
+Əlini şeşdilər qolça qopuzm əlinə verdilər. Dirsə xan, oğlancuğı idügin bilmədi; qarşu gəldi. Soylar, görəlim, xanım, nə soylar:
+Aydır:
+Boynı uzun bədəvi atlar gedərsə, mənim gedər.
+Sənin də içində binədin varsa, yigit, degil mana,
+Savaşmadın, uruşmadm alı verəyim, döngil gerü! Ağayıldan tümən qoyun gedərsə, mənim gedər.
+Sənin də içində şişligin varsa, degil mana,
+Savaşmadın, uruşmadın alı verəyim, döngil gerü! Qaytabandan qızıl dəvə gedərsə, mənim gedər.
+Sənin də içində yüklətin, varsa, degil mana.
+Savaşmadın, uruşmadın alı verəyim, döngil gerü!
+Altun başlu ban evlər gedərsə, bənim gedər.
+Sənin də içində odan varsa, yigit, degil mana, Savaşmadın, uruşmadın alı verəyim, döngil gerü!
+Ağ yüzlü, ala gözlü gəlinlər gedərsə, bənim gedər. Sənin də içində nişanlın varsa, yigit, degil mana, Savaşmadın, uruşmadın alı verəyim, döngil gerü!
+Ağ saqallu qocalar gedərsə, mənim gedər.
+Sənin də içində ağ saqallu baban varsa, yigit, degil mana, Savaşmadın, uruşmadın qurtarayım, döngil gerü!
+Mənim içün gəldünsə, oğlancığım öldürmişəm,
+Yigit, sana yazığı yoq, döngil gerü! - dedi.
+Oğlan burada babasına soylamış, görəlim, xanım, nə soylamış:
+Boynı uzun bədəvi atlar gedərsə, sənin gedər Mənim də içində binədim var,
+qomağım yoq qırq namərdə! Qaytabanda qızıl dəvə sənin gedər.
+Mənim də içində yüklətim var,
+qomağım yoq qırq namərdə! Ağayılda tümən qoyun səni gedər.
+Mənim də içində şişligim var,
+qomağım yoq qırq namərdə!
+Ağ yüzlü, ala gözlü gəlin sənin gedərsə,
+Mənim dəxi içində nişanlım var,
+qomağım yoq qırq namərdə!
+Altun başlu ban evlər sənin gedərsə,
+Mənim də içində odam var,
+qomağım yoq qırq namərdə!
+Ağ saqallu qocalar sənin gedərsə,
+Mənim dəxi içində bir aqlı şaşmış, biligi yetmiş qoca babam var,
+qomağım yoq qırq namərdə! - dedi.
+Qırq yigidinə dilbənd saldı, əl eylədi. Qırq yigit bədəvi atın oynatdı, oğlanın üzərinə yığnaq oldı.
+Oğlan qırq yigidin boyma aldı, at dəpdi, cəng və savaş etdi. Kiminün boynın urdı, kimini tutsaq eylədi. Babasını qurtardı, qayıtdı, gerü döndi.
+Dirsə xan burada oğlancuğı sağ idügin yenə bildi... Xanlar xanı xan Bayındır oğlana bəglik verdi, taxt verdi. Dədəm Qorqut boy boyladı, soy soyladı; bu oğuznaməyi düzdi-qoşdı, böylə dedi:
+Anlar dəxi bu dünyaya gəldi, keçdi.
+Karvan kibi qondı, köçdi.
+Anlan dəxi əcəl aldı, yer gizlədi.
+Fani dünya yenə qaldı.
+Gəlimlü-gedimlü dünya,
+Son ucı ölümlü dünya.
+Qara ölüm gəldigində keçit versün!
+Sağlıq ilə sağmcm, dövlətin Haq artırsun!
+Ol ögdügim yuca Tanrı dost olubam mədəd irsün!
+Yum verəyin, xanım:
+Yerlü qara dağların, yıqılmasun!
+Kölgəlicə qaba ağacın kəsilməsün!
+Qamın aqan görkli suyun qurımasun!
+Qanadların ucları qırılmasun!
+Çaparkən ağ-boz atın büdrəməsün!
+Çalışanda qara polat uz qılıcın gedəlməsün! Dürtişərkən ala göndərin ufanmasun!
+Ağ birçəklü anan yeri behişt olsun!
+Ağ saqallu baban yeri uçmağ olsun!
+Haq yandıran çırağın yana dursun!
+Qadir Tanrı səni namərdə möhtac eyləməsün,
+xanım, hey!

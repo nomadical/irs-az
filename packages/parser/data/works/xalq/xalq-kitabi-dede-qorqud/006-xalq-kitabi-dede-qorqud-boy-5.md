@@ -1,0 +1,230 @@
+---
+slug: xalq-kitabi-dede-qorqud-boy-5
+sourceId: wikisource-az-16457
+titleAz: Duxa Qoca oğlı Dəli Domrul boyını bəyan edər
+authorSlug: xalq
+collectionSlug: xalq-kitabi-dede-qorqud
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: PROSE
+order: 6
+sourceNote: >-
+  https://az.wikisource.org/wiki/Kitabi-D%C9%99d%C9%99%20Qorqud%2FDuxa%20Qoca%20o%C4%9Fl%C4%B1%20D%C9%99li%20Domrul%20boy%C4%B1n%C4%B1%20b%C9%99yan%20ed%C9%99r%2C%20xan%C4%B1m%2C%20hey!
+status: DRAFT
+---
+DUXA QOCA OĞLI DƏLİ DOMRUL BOYINI BƏYAN EDƏR, XANIM HEY!
+Məgər xanım, Oğuzda Duxa qoca oğlı Dəli Domrul deyərlərdi, bir ər var idi. Bir quru çayın üzərinə bir köpri yapdırmışdı. Keçənindən otuz üç aqça alurdı, keçməyənindən dögə-dögə qırq aqça alurdı. Bunı neçün böylə edərdi? Anunçun ki, “Məndən dəli, məndən gücli ər varmıdır ki, çıqa mənfimlə savaşa, - derdi; mənim ərligim, bəhadirligim, cılasunligim, yigitligim Ruma, Şama gedə çavlana”, - derdi.
+Məgər bir gün köprisinin yamacında bir bölük oba qonmuş idi. Ol obada bir yaxşı-xub yigit sayru düşmüş idi. Allah əmriylə ol yigit öldi. Kimi “oğul” deyü, kimi “qardaş” deyü ağladı. Ol yigit üzərinə möhkəm qara şivən oldı. Nagahandan Dəli Domrul çapar yetdi; aydır: “Mərə, qavatlar, nə ağlarsız? Mənim köprüm yanmda bu qovğa nədir, niyə şivən edirsiz?” - dedi. Ayıtdılar: “Xanım, bir yaxşı yigidimiz öldi, ana ağlarız” - dedilər. Dəli Domrul aydır: “Mərə, yigidinizi kim öldürdi?” Ayıtdılar: “Vallah, bəg yigit, Allah Taaladan buyruq oldı. Al qanatlu Əzrayil ol yigidin canın aldı”. Dəli Domrul aydır: “Mərə, Əzrayil dedügüniz nə kişidir kim, adamın canın alur? Ya Qadir Allah, birligin, varlığın haqqıyçun, Əzrayili mənim gözümə göstərgil, savaşayım, çəkişəyim, dürişəyim, - yaxşı yigidin canın qurtarayım. Bir dəxi yaxşı yigidin canın almaya”, - dedi. Qayıtdı-döndi Dəli Domrul, evinə gəldi.
+“Haq Taalaya Domrulun sözi xoş gəlmədi: “Baq, baq, mərə dəli qavat mənim birligim bilməz, birligümə şükr qılmaz. Mənim ulu dərgahımda gəzə, mənlik eyləyə?” - dedi. Əzrayilə buyuruq eylədi kim, ya Əzrayil, var, ol dəxi dəli qavatın gözinə görüngil, bənzini sarartğıl, - dedi; canını xırlatğıl, alğıl, - dedi.
+Dəli Domrul qırq yigid ilən yeyüb-içüb oturarkən nagahandan Əzrayil çıqa gəldi. Əzrayili nə çavuş gördi, nə qapuçı. Dəli Domrulu görər gözi görməz oldı, tutar əlləri tutmaz oldı.
+§ S e h -
+Dünya-aləm Dəli Domrulun gözinə qarannu oldı. Çağmb Dəli Domrul soylar, görəlim, xanım, nə soylar-aydar:
+
+Mərə, nə heybətlü qocasan?
+Qapuçılar səni görmədi.
+Çavuşlar səni duymadı,
+Mənim görər gözlərim
+görməz oldı.
+Tutar mənim əllərim
+tutmaz oldı.
+Ditrədi mənim canım
+cuşə gəldi.
+Altun ayağım əlimdən yerə düşdi.
+Ağzım içi buz kibi,
+Sönüklərim duz kibi oldı.
+Mərə saqalcığı ağca qoca,
+Gözcügəzi çöngə qoca.
+Mərə nə heybətlü qocasan, degil mana!
+Qadam-bəlam toqmar bu gün sana! - dedi.
+Böylə digəc Əzrayilin acığı tutdı. Aydır:
+Mərə, dəli qavat!
+Gözüm çöngə idigin nə bəgənməzsən?
+Gözü gögçək qızların-gəlinlərin
+canın çoğ almışam!
+Saqalım ağarduğın nə bəgənməzsən?
+Ağ saqallu, qara saqallu yigitlərin
+canın çoğ almışam!
+Saqalım ağarduğının mənası budur! -dedi.
+Mərə dəli qavat, öginürdün, derdin, “al qanatlu Əzrayil mənim əlümə girsə, öldürəydim; yaxşı yigidin canın onun əlindən qurtaraydım” - derdin. İmdi, mərə dəli, gəldim ki, sənin canın alam; verərmisən, yoxsa mənimlə cəng edərmisən?” - dedi.
+Dəli Domrul aydır: “Mərə, al qanatlu Əzrayil, sənmisən?” - dedi.
+ğÄÄK '
+“Əvət, mənəm!” - dedi. “Bu yaxşı yigitlərin canını sənmi alursm?” - dedi.
+“Əvət, mən aluram”, - dedi. Dəli Domrul aydır: “Mərə qapuçılar, qapunı qapan!” - dedi. Mərə Əzrayil, mən səni gen yerdə istərdim, dar yerdə eyü əlümə girdin, olamı? - dedi. - Mən səni öldürəyim, yaxşı yigidin canın qurtarayım!” - dedi. Qara qılıcın sıyırdı, əlinə aldı. Əzrayili çalmağa həmlə qıldı. Əzrayil bir gögərçin oldı; pəncərədən uçdı getdi.
+Adəmilər əvrəni Dəli Domrul əlin əlinə çaldı, qas-qas güldi. Aydar: “Yigitlərim, Əzrayilin gözini eylə qorxutdum ki, gen qapuyı qodı, dar bacadan qaçdı. Çünki mənim əlümdən gögərçin kibi quş oldı uçdı, mərə, mən anı qormıyam toğana aldırmayınca?!” - dedi. Durdı atına bindi. Toğanın əlinə aldı, ardına düşdi. Bir-iki gögərçin öldürdi, döndi evinə; gəli yürürkən Əzrayil atmın gözinə göründi. At ürkdi. Dəli Domrulı götürdi, yerə urdı. Qara başı bunaldı, bunlu qaldı. Ağ köksinin üzərinə Əzrayil basub qondı. Baya mırlardı. Şimdi xırlamağa başladı. Aydır:
+Mərə Əzrayil, aman!
+Tanrının birliginə yoqdur güman!
+Mən səni böylə bilməz idim.
+Oğurılayın can alduğın duymaz idim.
+Dügməsi böyük bizim dağlarımız olur,
+Ol dağlarumızda bağlarumız olur,
+Ol bağların qara salqumları, üzümi olur.
+Ol üzümi sıqırlar, al şərabı olur.
+Ol şərabdan içən əsrük olur.
+Şərabluydım, duymadım,
+nə söylədim, bilmədim.
+Bəgligə usanmadım, yigitligə doymadım.
+Canım alma, Əzrayil, mədəd! - dedi.
+Əzrayil aydır: “Mərə dəli qavat, mana nə yalvararsan, Allah Taalaya yalvar.
+Mənim də əlümdə nə var. Mən dəxi bir yumuş oğlanıyam”, - dedi. Dəli Domrul aydır: “Ya pəs can verən, can alan
+§ SehD
+
+Allah Taalamıdır?” “Bəli, oldur!” - dedi. Döndi Əzrayilə: “Ya pəs sən nə eyləməkluqdasan? Sən aradan çıqğıl, mən Allah Taala bilə xəbərləşim”, - dedi.
+Dəli Domrul burada soylamış, görəlim, xanım, nə soylamış-aydır:
+Yucalardan yucasan,
+Kimsə bilməz necəsən.
+Görklü Tanrı,
+Neçə cahillər səni gögdə arar,
+yerdə istər.
+Sən xud möminlər könlindəsən.
+Daim duran cabbar Tanrı,
+Baqi qalan səttar Tanrı,
+Mənim canımı alur olsan,
+sən alğıl!
+Əzrayilə almağa qomağıl! - dedi.
+Allah Taalaya Dəli Domrulun burada sözi xoş gəldi. Əzrayilə nida eylədi kim, çün dəli qavat mənim birligim bildi, birligümə şükr qıldı, ya Əzrayil, Dəli Domrul can yerinə can bulsun. Anun canı azad olsun! - dedi. Əzrayil aydır: “Mərə Dəli Domrul, Allah Taalanın əmri böylə oldı kim, Dəli Domrul can yerinə can bulsun, onun canı azad olsun!” -dedi.
+Dəli Domrul aydır: “Mən necə can bulayım? Məgər bir qoca babam, bir qarı anam var; gəl gedəlim, ikisindən biri bolay ki, canın verə, alğıl, mənim canumı qoğıl!” -dedi.
+Dəli Domrul sürdi, babası yanma gəldi. Babasının əlin öpüb soylamış, görəlim, xanım, nə soylamış-aydır:
+Ağ saqallu əziz, izzətlü, canım baba!
+Bilürmisən, nələr oldı?
+Küfr söz söylədim, -
+Haq Taalaya xoş gəlmədi.
+Gög üzərində al qanatlu Əzrayilə
+əmr eylədi, uçub gəldi.
+Ağca mənim köksüm basub qondı.
+Xırıldadıb datlu canım alur oldı.
+-« s§iä § §«»-
+
+Baba, səndən can dilərəm, verərmisən?
+Yoxsa “oğul, Dəli Domrul!” deyü
+ağlarmısan?
+Babası aydır:
+Oğul, oğul, ay oğul!
+Canım parası oğul!
+Doğduğmda doquz buğra öldürdigim, aslan oğul!
+Dünlügi altun ban evimin qəbzəsi oğul!
+Qaza bənzər qızımın-gəlinimin çiçəgi oğul!
+Qarşu yatan qara dağım gərəksə,
+Söylə, gəlsün, - Əzrayilin yaylası olsun!
+Sovuq-sovuq binarlarım gərəksə,
+ana içət olsun!
+Tavla-tavla şahbaz atlarım gərəksə,
+ana binət olsun!
+Qatar-qatar dəvələrim gərəksə,
+ana yüklət olsun.
+Ağayılda ağca qoyunım gərəksə,
+Qara mudbaq altında anun şüləni olsun!
+Altun-gümüş, pul gərəksə,
+ana xərclıq olsun!
+Dünya şirin, can əziz,
+Canımı qıya bilmən, bəllü bilgil!
+Məndən əziz, məndən sevgülü anandır,
+oğul, anana var! - dedi.
+Dəli Domrul babasından yüz bulmayub sürdi, anasına gəldi.
+Aydır:
+Ana, bilürmisən, nələr oldı?
+Gög yüzindən al qanatlu Əzrayil
+uçub gəldi,
+Ağca mənim köksümi basub qondı, Xırladıb canım alur oldı.
+Babamdan can dilədim, amma vermədi. Səndən can dilərəm, ana,
+canın mana verərmisən,
+-« s§iä § §«»-
+
+
+Yoxsa “oğul, Dəli Domrul!” - deyü
+ağlarmısan?
+Acı dırnaq ağ yüzinə çalarmısan?
+Qarğu kibi qara saçın
+yolarmısan, ana? - dedi.
+Anası burada soylamış, görəlim, xanım, nə soylamış. Anası aydır:
+Oğul, oğul, ay oğul!
+Doquz ay dar qarnımda götürdügim oğul!
+Dolma beşiklərdə bələdügim oğul!
+On ay deyəndə dünya yüzinə gətürdügim oğul!
+Dolab-dolab ağ südümi əmzirdigim oğul!
+Ağca burclu hasarlarda tutılaydın, oğul!
+Sası dinlü kafir əlində tutsaq olaydın, oğul!
+Altun-aqça gücinə salubanı
+səni qurtaraydım, oğul!
+Yaman yerə varmışsan, vara bilmən.
+Dünya şirin, can əziz!
+Canımı qıya bilmən, bəllü bilgil! - dedi.
+Anası daxı canın vermədi. Böylə digəc Əzrayil gəldi Dəli Domrulun canın almağa. Dəli Domrul aydır:
+Mərə Əzrayil, aman!
+Tanrının birliginə yoqdur güman!
+Əzrayil aydır: “Mərə, dəli qavat! Dəxi nə aman dilərsən? Ağ saqallu baban yanına vardın, can vermədi.
+Ağ birçəklü anan yanına vardın, can vermədi. Dəxi kim versə gərək?” - dedi. Dəli Domrul aydır:
+“Həsrətim vardır, bulışayım”, - dedi. Əzrayil aydır: “Mərə dəli, həsrətin kimdir?” Aydır: “Yad qızı halalım var, andan mənim iki oğlancığım var, əmanətim var, ısmarlaram anlara, andan sonra mənim canım alasan”, - dedi. Sürdi, halalı yanına gəldi. Aydır:
+Bilürmisən, nələr oldı?
+Gög yüzindən al qanatlu Əzrayil uçub gəldi.
+
+Ağca mənim köksümi basub qondı.
+Datlu mənim canımı alur oldı.
+Babama “ver” dedim, can vermədi, Anama vardım, can vermədi,
+“Dünya şirin, can datlu!” dedilər:
+İmdi yüksək-yüksək qara dağlarım
+sana yaylaq olsun!
+Sovuq-sovuq sularım
+sana içət olsun! Tavla-tavla şahbaz atlarım
+sana binət olsun!
+Dünlügi altun ban evim
+sana kölgə olsun!
+Qatar-qatar dəvələrim
+sana yüklət olsun!
+Ağayılda ağca qoyunum
+sana şülən olsun!
+Gözün kimi tutarsa,
+Könlün kimi sevərsə,
+sən ana varğıl!
+İki oğlancığı öksüz qomağıl! - dedi.
+Övrət burada soylamış, görəlim, xanım, nə soylamış, aydır:
+Nə dersən, nə soylarsan,
+Göz açub gördügim,
+Könül verüb sevdügim!
+Qoç yigidim, şah yigidim,
+Datlu damağ verüb soruşduğım,
+Bir yasdıqda baş qoyub əmişdigim.
+Qarşu yatan qara dağları Səndən sonra mən neylərəm?
+Yaylar olsam, mənim gorum olsun!
+Sovuq-sovuq sularun içər olsam,
+mənim qanım olsun!
+^»SBİOİSK**-
+
+
+Altun-aqçan xərcləyür olsam,
+mənim kəfənim olsun!
+Tavla-tavla şahbaz atun binər olsam, mənim tabutum olsun!
+Səndən sonra bir yigidi sevib varsam,
+bilə yatsam,
+Ala yılan olub, məni soqsun!
+Sənin ol müxənnət anan-baban Bir canda nə var ki, sana qıymamışlar?
+Ərş tamğ olsun, kürsi tamğ olsun,
+Yer tanığ olsun, gög tamğ olsun,
+Qadir Tanrı tanığ olsun,
+Mənim canım sənin canına qurban olsun, - dedi, razı oldı.
+Əzrayil xatunın canın almağa gəldi. Adəmilər əvrəni yoldaşına qıyamadı. Allah Taalaya burada yalvarmış, görəlim, necə yalvarmış. Aydır:
+Yucalardan yucasan,
+Kimsə bilməz necəsən!
+Görklü Tanrı,
+Çoq cahillər səni gögdə arar, yerdə istər.
+Sən xud möminlərin könlündəsən.
+Daim duran cabbar Tanrı
+Ulu yollar üzərinə
+İmarətlər yapayım sənin içün.
+Ac görsəm, doyurayım səninçün,
+Yalıncaq görsəm, donadayım sənin içün!
+Alursan, ikimüzün canın bilə alğıl!
+Qorsan, ikimüzün canın bilə qoğıl!
+Kərəmi çoq Qadir Tanrı! - dedi.
+Haq Taalaya Dəli Domrulun sözi xoş gəldi. Əzrayilə əmr eylədi: “Dəli Domrulun atasının-anasının canın al! Ol iki halala yüz qırq yıl ömr verdim”, - dedi. Əzrayil dəxi babasınm-anasmın dəfi canın aldı. Dəli Domrul yüz qırq yıl dəxi yoldaşıyla yaş yaşadı.
+
+Dədəm Qorqut gəlübən boy boyladı, soy soyladı. “Bu boy Dəli Domrulun olsun. Məndən sonra alb ozanlar söyləsün! Alnı açuq comərd ərənlər dinləsün!” - dedi.
+Yum verəyim, xanım!
+Yerlü qara dağların yıqılmasun!
+Kölgəlicə qaba ağacın kəsilməsün!
+Qamın aqan görklü suyun qurımasun!
+Qadir Tanrı səni namərdə möhtac etməsün!
+Ağ alnunda beş kəlmə dua qıldıq,
+qəbul olsun!
+Yığışdırsun, duruşdursun,
+Günahınızı adı görklü Məhəmmədə
+bağışlasun! Xanım, hey!

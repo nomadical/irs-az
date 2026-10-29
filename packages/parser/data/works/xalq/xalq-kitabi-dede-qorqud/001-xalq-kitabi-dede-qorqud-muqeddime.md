@@ -1,0 +1,113 @@
+---
+slug: xalq-kitabi-dede-qorqud-muqeddime
+sourceId: wikisource-az-16238
+titleAz: Müqəddimə
+authorSlug: xalq
+collectionSlug: xalq-kitabi-dede-qorqud
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: PROSE
+order: 1
+sourceNote: >-
+  https://az.wikisource.org/wiki/Kitabi-D%C9%99d%C9%99%20Qorqud%2FBismillah%20ir-r%C9%99hman%20ir-r%C9%99him%20v%C9%99%20bihi%20n%C9%99st%C9%99in
+status: DRAFT
+---
+**BİSMİLLAH İR-RƏHMAN İR-RƏHİM VƏ BİHİ NƏSTƏİN**
+
+Rəsul əleyhissəlam zamanına yaqın Bayat boyundan, Qorqut ata deyərlər, bir ər qopdı. Oğuzun ol kişi tamam bilicisiydi. Nə dersə, olurdı. Qayibdən dürlü xəbər söylərdi. Haq Taala anın könlünə ilham edərdi.
+Qorqut ata ayıtdı: “Axır zamanda xanlıq gerü -Qayıya dəgə, kimsənə əllərindən almaya axır zaman olub qiyamət qopınca. Bu dedügi Osman nəslidür, işdə sürilüb gedə-yürir”. Və daxı neçə buna bənzər söz söylədi.
+Qorqut ata Oğuz qövminün müşkilini həll edərdi. Hər nə iş olsa, Qorqut ataya danışmayınca işləməzlərdi. Hər nə ki buyursa, qəbul edərlərdi, sözin tutub tamam edərlərdi.
+Dədə Qorqut soylamış:
+Allah-Allah diməyincə işlər onmaz.
+Qadir Tanrı verməyincə ər bayımaz.
+Əzəldən yazılmasa, qul başına qəza gəlməz.
+Əcəl vədə irməyincə kimsə ölməz.
+Ölən adam dirilməz.
+Çıxan can gerü gəlməz.
+Bir yigidün qara dağ yumrısınca malı olsa, yığar-dərər, tələb eylər, nəsibindən artuğm yiyə bilməz.
+Ulaşuban sular daşsa, dəniz dolmaz.
+Təkəbbürlik eyləyəni Tanrı sevməz.
+Könlin yuca tutan ərdə dövlət olmaz.
+Yad oğulı saqlamaqla oğul olmaz, -
+böyüyəndə salur gedər, gördüm diməz.
+
+
+Kül dəpəcik olmaz.
+Güyəgü oğul olmaz.
+Qara eşək başına uyan ursan, qatır olmaz.
+Qaravaşa don geyürsən, qadın olmaz.
+Yapa-yapa qarlar yağsa, yaza qalmaz.
+Yapağlu gögcə çəmən güzə qalmaz.
+Əski panbuq bez olmaz.
+Qarı düşmən dost olmaz.
+Qarağuca qıymaymca yol alınmaz.
+Qara polad uz qılıcı çalmayınca qırım dönməz.
+Ər malına qıymaymca adı çıqmaz.
+Qız anadan görməyincə ögüt almaz.
+Oğul atadan görməyincə süfrə çəkməz.
+Oğul atanın yetiridir, iki gözinin biridir.
+Dövlətlü oğul qopsa, ocağının közidir.
+Oğul daxı neyləsün baba ölüb mal qalmasa,
+Baba malından nə faidə, başda dövlət olmasa...
+Dövlət siz şərrindən Allah saqlasun, xanım, sizi!
+Dədə Qorqut bir dəxi soylamış:
+Sarp yürirkən Qazılıq ata namərd yigit binə bilməz, binincə, binməsə, yeg!
+Çalub-kəsər uz qılıcı müxənnətlər çalınca, çalmasa, yeg! Çala bilən yigidə
+oq ilə qılıcdan bir çomaq yeg!
+Qonuğı gəlməyən qara evlər yıqılsa, yeg!
+At yeməyən acı otlar bitincə, bitməsə, yeg!
+Adam içməz acı sular sızınca, sızmasa, yeg!
+Ata adını yüritməyən xoyrad oğul
+ata belindən enincə, enməsə, yeg;
+ana rəhminə düşüncə, doğmasa, yeg! Ata adın yüridəndə dövlətlü oğul yeg!
+Yalan söz bu dünyada olunca, olmasa yeg!
+Gerçəklərin üç otuz on yaşını doldursa yeg!
+On otuz on yaşınız dolsun!
+Haq sizə yaman gətürməsün!
+Dövlətiniz payəndə olsun, xanım, hey!
+Dədə Qorqut bir daxı soylamış, görəlüm, xanım, nə soylamış:
+
+Getdikdə yerin otlaqların keyik bilür.
+Genəz yerlər çəmənlərin qulan bilür.
+Ayru-ayru yollar izin dəvə bilür.
+Yedi dərə qoxuların dülkü bilür.
+Dünlə karvan köçdügin turğay bilür.
+Oğul kimdən olduğın ana bilür.
+Ərin ağzın yeynisin at bilür.
+Ağır yüklər zəhmin qatır bilür.
+Nə yerdə sırılur varsa, çəkən bilür.
+Qafil başın ağrısın beyni bilür.
+Qolca qopuz götürüb,
+eldən-elə, bəgdən-bəgə ozan gəzər.
+Ər comərdin, ər nakəsin ozan bilür.
+İləyünüzdə çalub-ayıdan ozan olsun.
+Azub gələn qəzayı Tanrı savsun, xanım, hey!
+Dədə Qorqut genə soylamış, görəlim, xanım, nə soylamış:
+Ağız açub ögər olsam, üstümüzdə Tanrı görkli,
+Tanrı dostı, din sərvəri Məhəmməd görkli. Məhəmmədin sağ yanında namaz qılan Əbubəkr Siddıq görkli.
+Axır sipara başıdur “əmmə” görkli.
+Hecasmlaym düz oqunsa, yasin görkli.
+Qılıc çaldı, din açdı şahi-mərdan Əli görkli.
+Əlinin oğulları, - peyğəmbər nəvalələri - Kərbəla yazısında yezidilər əlində şəhid oldı Həsən ilə Hüseyn iki qardaş bilə görkli.
+Yazılıb-düzilib gögdən endi Tanrı elmi Quran görkli.
+Ol Quranı yazdı-düzdi,
+üləmalar ögrənincə köydi-biçdi alimlər sərvəri Osman Üffan oğlı görkli. Alçaq yerdə yapılubdur Tanrı evi Məkkə görkli.
+Ol Məkkəyə sağ varsa, əsən gəlsə sidqı bütün hacı görkli.
+Sağış günündə ayna görkli.
+Ayna güni oquyanda xütbə görkli.
+Qulaq urub dinləyəndə ümmət görkli. Minarədə banlayanda fəqih görkli.
+Dizin basub oturanda halal görkli. Dölümündən ağarsa, baba görkli.
+Ağ südin doya əmzirsə, ana görkli.
+Yanaşub yola girəndə qara buğur görkli.
+Sevgili qardaş görkli.
+Yanal ala ev yanında dikilsə, gərdək görkli. Uzunca tənəfı görkli. Oğul görkli.
+Qamusma bənzəmədi cümlə aləmləri yaradan Allah-Tanrı görkli.
+Ol ögdügüm yuca Tanrı dost oluban
+mədəd irsün, xanım, hey!
+Ozan aydır:
+Qarılar dört dürlüdür:
+Birisi solduran sopdur.
+Birisi dolduran topdur.
+Birisi evin dayağıdır,
+Birisi necə söylərsən, bayağıdır.
+Ozan, evin dayağı oldur ki, yazıdan-yabandan evə bir qonuq gəlsə, ər adam evdə olmasa, ol anı yedirər-içirər, ağırlar-əzizlər, göndərər. Ol Ayişə, Fatimə soyıdır, xanım. Anun bəbəkləri yetsün. Ocağına buncılayın övrət gəlsün. Gəldik, ol kim, solduran sopdur, sabadanca yerindən uru durar, əlin-yüzin yumadan doquz bazlammac ilən bir küvlək yoğurd gəvəzlər, doyunca tıqa-basa yer, əlin bögrinə urar, aydır: “Bu evi xarab olası! Ərə varalıdan bərü daxı qarnım doymadı, yüzüm gülmədi; ayağım başmaq, yüzüm yaşmaq görmədi”, - deyər. “Nolaydı, bu öləydi, birinə dəxi varaydim, umanmdan yaxşı-uyar olaydı”, - deyər. Anun kibinin, xanım, bəbəkləri yetməsün. Ocağına buncılayın övrət gəlməsün. Gəldik, ol kim, dolduran topdur, dəpidincə yerindən uru durdı, əlin-yüzin yumadan obanın ol ucmdan bu ucma, bu ucmdan ol ucma çarpışdırdı, quv quvaladı, din dinlədi, öylədəncə gəzdi; öylədən sonra evinə gəldi, gördi kim, oğrı köpək, yekə dana evini bir-birinə qatmış, tavuq komasına, sığır damma dönmiş; qonşularına çağırar ki, Yetər! Zəlihə! Zübeydə! Ürüveydə-can, qız-can! Paşa! Ayna Mələk! Qutlu Mələk! Ölməgə-yitməgə getməmişdim, yatacaq yerim genə bu xarab olasıydı; nolaydı bənim evimə bir ləhzə baqaydınız! “Qonşu haqqı -Tanrı haqqı” deyü söylər. Bunun kibinin, xanım, bəbəkləri yetməsün. Ocağına bunun kibi övrət gəlməsün. Gəldik, ol kim, necə söylərsən, bayağıdır: ötə yazıdan-yabandan bir udlu qonuq gəlsə, ər adam evdə olsa, ana disə ki, dur ətmək gətir, yiyəlim, bu da yisün; disə bişmiş ətməgin bəqası olmaz, yimək gərəkdir, övrət aydar: “Neyləyəyim, bu yıqılacaq evdə un yoq, ələk yoq, dəvə dəgirməndən gəlmədi” - deyər. “Nə gəlürsə, bənim sağrıma gəlsün”, - deyü əlin götinə urur, yönin anaru, sağrısın ərinə döndürür. Bin söylərsən, birisini quymaz, ərin sözini qulağına qoymaz. Ol, Nuh peyğəmbərin eşəgi əslidür. Andan dəxi sizi, xanım, Allah saqlasun! Ocağınıza buncılayın övrət gəlməsün.

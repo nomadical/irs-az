@@ -73,7 +73,7 @@ Turkic classics and folk, az.wikisource:
 - [ ] Cahanşah Həqiqi — XV (14)
 - [ ] Sadıq bəy Əfşar — XVI (46)
 - [ ] Miskin Abdal — XVI (55)
-- [ ] Folk, needs an anonymous "Xalq" author (blocked: needs AuthorType FOLK, see agent report): Koroğlu (68), Molla Nəsrəddin anecdotes (12), Kitabi-Dədə Qorqud (source to check)
+- [x] Folk under the anonymous author `xalq` (FOLK; 2026-10-29, `scrape-folk`): Koroğlu poems (62) + Koroğlu dastanı chapters (26), Molla Nəsrəddin anecdotes (10, the page lists 10 not 12), Kitabi-Dədə Qorqud (müqəddimə + 12 boys); 111 works published locally
 
 XVIII–XIX poets, az.wikisource:
 - [ ] Şair Məmmədhüseyn (190), Novrəs İman (129), Usta Abdulla (82), Molla Cümə (67), Məhəmməd bəy Aşiq (35), Əbülqasim Nəbati (34), Molla Məhəmməd Səfili (24), Yəhya bəy Dilqəm (23), Həsənəli xan Qaradaği (23), Mücrüm Kərim (22), Mir Həmzə Nigari (19), Əbülhəsən Raci (18), Əndəlib Qaracadaği (16), Hacı Rza Sərraf (12), Mirzə Məhəmməd Tağı Qumri (11), Mirzə Mehdi Şükuhi (11), Hacı ağa Fəqir Ordubadi (11), Cəfərqulu xan Nəva (10), Bahar Şirvani (10), Kazım ağa Salik (10), Zikri Ərdəbili (10)
