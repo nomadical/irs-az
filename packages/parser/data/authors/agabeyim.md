@@ -2,7 +2,7 @@
 slug: agabeyim
 nameAz: Ağabəyim ağa
 nameRu: Агабеим-ага
-nameEn: Agha Baji Javanshir
+nameEn: Aghabaim Agha
 bornYear: 1782
 diedYear: 1832
 type: POET
