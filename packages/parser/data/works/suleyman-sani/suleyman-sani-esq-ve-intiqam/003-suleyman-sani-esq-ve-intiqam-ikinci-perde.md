@@ -77,7 +77,7 @@ status: DRAFT
 
 *Gülüşürlər.*
 
-**Pir baba**. A qızım, mənim bu qoca qulaqlarıma [?]dan bir gəlib çatır ki, rəiyyətlər üsyan edib padşahlarını taxtdan salırlar. Sən də təzədən mənim başıma tac qoymaq istəyirsən.
+**Pir baba**. A qızım, mənim bu qoca qulaqlarıma kahdan bir gəlib çatır ki, rəiyyətlər üsyan edib padşahlarını taxtdan salırlar. Sən də təzədən mənim başıma tac qoymaq istəyirsən.
 
 **Qəmər**. Onlar öz rəiyyətləri ilə ədalətlə rəftar etməyiblər. Fəqət, sən öz vəzifəni çox yaxşı ifa etmisən. Ona görə də meşə əhli məni öz tərəflərindən vəkil seçib hüzurunuza göndəriblər ki, bu tacı qəbul edib onlara sultan olasan.
 

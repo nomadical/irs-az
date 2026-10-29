@@ -25,7 +25,7 @@ Həkim izin verdi. Özü də skamyada oturub qəzet oxumağa məşğul oldu. Rə
 
 Qoca Salman dedi:
 
-– Burada təəccüblü bir şey yoxdur. Vətəndaş müharibəsində belə ittifaqlar çox olmuşdur Ata [?], oğul atanı, qardaş qardaşı öldürmüşlər.
+– Burada təəccüblü bir şey yoxdur. Vətəndaş müharibəsində belə ittifaqlar çox olmuşdur Ata oğlu, oğul atanı, qardaş qardaşı öldürmüşlər.
 
 – Niyazi bu ildən firqəyə namizəd yazılmışdır, onda kommunizm qayəsi hələ möhkəmləşməmişdir, onun üçün də şübhə edir.
 

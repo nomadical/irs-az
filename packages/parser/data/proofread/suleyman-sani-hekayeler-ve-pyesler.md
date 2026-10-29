@@ -8,7 +8,7 @@ Yuxumda özümü bir qaranlıq yerdə gördüm. Gözlərim heç şey seçmirdi. 
 
 –Xudaya, bu nə məxluq və nə məkandır ki, mənə rast gəlmiş?.. Bu fikirdə ikən gözümə bir günbəd dəydi. Yanına getdim. Günbədin heç bir qapısı yox idi. Lakin mərmər divarın üzərində barmaq işarəsi, qapı bura olduğunu göstərirdi. Diqqətlə baxdıqda bu yazını seçdim. «Bura zülmət aləmidir. İşıqlığa çıxmaq istəyənlərin yolu buradır».
 
-Yazının altında belə bir üçbucaq çəkilmişdi: [?] Onun hər küşəsindən qızıl qarmaqlar asılmışdı. Bu tilsimi açmaq qəsdi ilə sağ qarmağı çəkib sol və üst qarmaqla bitişdirdim, qapı açılmadı. Sonra sol qarmağı üst və sağ qarmaqla bitişdirdim, yenə də açılmadı. Axırda üst qarmağı sol və onu da sağ qarmağa tərəf çəkib bitişdirdim, o saat qapı açıldı. Mən girdim, qapı yenə üzümə örtüldü. Bir qədər getdikdən sonra bir meydana çıxdım. Buradan 72 yol ayrılırdı.
+Yazının altında belə bir üçbucaq çəkilmişdi: △ Onun hər küşəsindən qızıl qarmaqlar asılmışdı. Bu tilsimi açmaq qəsdi ilə sağ qarmağı çəkib sol və üst qarmaqla bitişdirdim, qapı açılmadı. Sonra sol qarmağı üst və sağ qarmaqla bitişdirdim, yenə də açılmadı. Axırda üst qarmağı sol və onu da sağ qarmağa tərəf çəkib bitişdirdim, o saat qapı açıldı. Mən girdim, qapı yenə üzümə örtüldü. Bir qədər getdikdən sonra bir meydana çıxdım. Buradan 72 yol ayrılırdı.
 
 Bunların hansı məni işıqlığa çıxarar — fikrində ikən yol başında, dirək üzərində barmaq şəkli «İ» hərfini işarət etdiyini gördüm, o yolu tutub getdim. Başqa bir meydana çıxdım. Orada da yol başında qondarılmış dirək üzərində «R» hərfi yazılmışdı. Bu minval ilə hər meydanda, dirək üstündə «Ş», sonra «A» və axırda «D» hərfləri göstərişi ilə gəlib bir qapıya çıxdım. Bu qapının üzərində dirəklər üstündə yazılmış hərflər mürəkkəb olub, «İrşad» ləfzi yazılmışdı. Qapını açdıqda günəş pəncərədən gözlərimə düşüb məni oyatdı.
 
@@ -204,7 +204,7 @@ Ah, nə böyük bir səadət. Lakin rəhmsiz fələk təzliklə bu səadəti yas
 
 Qeyrətli ana bu müqəddəs vəzifəsini çox gözəl ifa etdi. Oğlunu böyütdü, oxutdu, bu yaşa yetirdi. İndi təhsilini bitirmək üçün övladı belə çalışır, zəhmət çəkir. Onun incə ana qəlbi sıxılır, övladının əziyyətinə razı olmayır, onun zəhmətlərinə dözə bilməyirdi. Lakin bu zəhmətin ona səadət qapısını açacağını da gözəlcə düşünürdü.
 
-Ən artıq sıxılacaq bir şey varsa o da oğlunun məktəbə getmək məsələsidir ki, bir neçə il bir-birindən ayrı düşəcəklərdi, bu isə ona qeyri-mümkün bir imtahan görünürdü. Yazıq ananın qəlbini hər dəqiqə deşən, onu rahat buraxmayan bir məsələ vardı. O da bir il bundan əqdəm ərinin qohumlarından biri dalaşarkən bir cavanı öldürməsi idi. Düşmənləri qatilin həbsə alınıb sürgün edilməsinə iktifa etmək istəməyirdilər. Qana qan etmək fikri bəsləyirdilər. Bu səbəbdən zavallı qadın bu il [?] qorxu içərisində yaşayır, oğlunu gözlərindən irag buraxmaq istəməyirdi.
+Ən artıq sıxılacaq bir şey varsa o da oğlunun məktəbə getmək məsələsidir ki, bir neçə il bir-birindən ayrı düşəcəklərdi, bu isə ona qeyri-mümkün bir imtahan görünürdü. Yazıq ananın qəlbini hər dəqiqə deşən, onu rahat buraxmayan bir məsələ vardı. O da bir il bundan əqdəm ərinin qohumlarından biri dalaşarkən bir cavanı öldürməsi idi. Düşmənləri qatilin həbsə alınıb sürgün edilməsinə iktifa etmək istəməyirdilər. Qana qan etmək fikri bəsləyirdilər. Bu səbəbdən zavallı qadın bu ili daima qorxu içərisində yaşayır, oğlunu gözlərindən irag buraxmaq istəməyirdi.
 
 Gecə keçər, oğlu yatmaz, ana, axır buna səbir etməyib qalxar, şala bürünər, oğlunun otağına girər, övladının başını qucub, qıvrıcıq saçlarından öpər.
 
@@ -216,7 +216,7 @@ Gecə keçər, oğlu yatmaz, ana, axır buna səbir etməyib qalxar, şala bür�
 
 – Bəs sən, oğlum, yatmayacaqsan? Oxuduğun yetər, dur, sən də rahat ol, çırağı söndür.
 
-– Yox, ana, səhəri açsam da sabahkı imtahanlarımı hazır etməliyəm. Maraq etmə, bir gecəni yatmamaqla mənə heç bir şey olmaz, lakin bir ilmi qayib etmək, hər ikimiz üçün fayda verməz. İndi daha mənə mane olma, – deyə gənc kitab oxumağa başlayır, anası da [?] çəkilir.
+– Yox, ana, səhəri açsam da sabahkı imtahanlarımı hazır etməliyəm. Maraq etmə, bir gecəni yatmamaqla mənə heç bir şey olmaz, lakin bir ilmi qayib etmək, hər ikimiz üçün fayda verməz. İndi daha mənə mane olma, – deyə gənc kitab oxumağa başlayır, anası da otağına çəkilir.
 
 Bir saat belə keçir. Qəflətən bir tüfəng açılıb dağlara səda salır, dərin sükutu pozur. İkinci bir qadın çığırtısı bu sədaya cavab verir, yatmış qonşuları oyadır. Gənc tələbə yerə sərilir. Bir saat bundan əqdəm böyük ümidlər bəsləyən gənc, bir qəddar düşmənin, rəhmsiz düşmənin gülləsinə qurban oldu.
 
@@ -234,7 +234,7 @@ Uşaqlıq xatiratımdan nağılına şüru etdiyim bu vaqiə məndə elə bir d�
 
 Səkkiz yaşında uşaq ikən «Seyidli» adlanan kəndimizdə başaçıq, ayaqyalın, təbiətin mərhəmətli qucağında, məişətin ağır və zəhərli hallarından xəbərsiz yaşardım.
 
-Bir gün əmim oğlunun altı yaşlı oğlu ilə həyətimizdə oynarkən [?] ata minmiş bir qocanı darvazamızın ağzında durmuş gördüm.
+Bir gün əmim oğlunun altı yaşlı oğlu ilə həyətimizdə oynarkən palanlı ata minmiş bir qocanı darvazamızın ağzında durmuş gördüm.
 
 – Baba, kimi istəyirsiniz? – deyə soruşdum. Cavabından mə’lum oldu ki, əmim oğlu ilə görüşmək istəyir. – Buyurun içəriyə, – deyə mən əmim oğluna xəbər verməyə qaçdım. Qoca, əmim oğlu ilə görüşdü, salamlaşdı. Mən də yoldaşım ilə oynamağa məşğul oldum. Bir qədər söhbətdən sonra salamatlaşıb, «allah sizdən razı olsun, mən qocanı ümidsiz qaytarmadınız» – deyə atını minib getdi.
 
@@ -280,7 +280,7 @@ Böyük qız, uçaboylu, incəbelli, iri qara gözlü, uzun qara saçlı, dodaql
 
 Anladım ki, Gülbənd mənim abı mahud çuxama, çal papağıma işarə edir.
 
-Mənim sualım [?] qədər davam edən sükutu pozdu.
+Mənim sualım indiyə qədər davam edən sükutu pozdu.
 
 – Mənim qardaşım nağıla qulaq asmağı çox sevər. Ona yemək vermə, içmək vermə, bolluca nağıl söylə. Gecələr məni rahat qoymur. «Bacım, yenə nağıl de» deyə yalvarar, mən də Məlik Məmməd, Qırat nağıllarından ayrısını bilmirəm, – deyə bacım şikayətləndi.
 
@@ -294,7 +294,7 @@ Tamam isə qızararaq, başını aşağı salıb cavab vermədi. Mən də anamda
 
 – Bəs Məmmədrza nədir? Qoy əmiqızımın oğlunu o saxlasın, Tamam da bizə qalsın, – deyə anamdan rica etdim.
 
-– Kişi [?] körpə uşaq saxlaya bilməz, bu arvad işidir. Sən darıxma, hamımız bir həyətdə oluruq, hər saatda da Tamamla görüşəcəksən, o da sənə gözəl nağıllar söyləyəcəkdir, – deyə anam məni sakit etdi.
+– Kişi xaylağı körpə uşaq saxlaya bilməz, bu arvad işidir. Sən darıxma, hamımız bir həyətdə oluruq, hər saatda da Tamamla görüşəcəksən, o da sənə gözəl nağıllar söyləyəcəkdir, – deyə anam məni sakit etdi.
 
 Qızlar yeməklərini bitirib ayağa qalxdılar. «Sağ olun», – deyə anamdan getməyə izin istədilər.
 
@@ -482,7 +482,7 @@ Mərdan hər gün günəş batdıqda malları kəndə gətirərdi. Qəflətən �
 
 Qurultu getdikcə artırdı. Bir azdan sonra şiddətli yağmur yağmağa başladı. Qızxanım daxmaya girib köhnə, yamaqlı şalına büründü və yenə qapıya çıxdı. Bu vaxt qısaboylu, qaraqaş, pırtlaqgöz bir cavan seyid, əbasını başına çəkmiş, doqqaz ilə gəlirdi. Qızxanımı gördükdə ona tərəf yönəldi.
 
-– Bacı, mən qərib seyid[?] allah qonağı saxlamağı rica edirəm.
+– Bacı, mən qərib seyidi allah qonağı saxlamağı rica edirəm.
 
 – Ağa, cəddinə qurban olum, bu ev heç bir qonağı qapısından naumid qaytarmamış, ancaq mənim ərim vəfat etmiş. Mən bir dul qadınam, kişisiz evə sən naməhrəmi necə buraxım?
 
@@ -886,7 +886,7 @@ Cənnətəli:
 
 Hümmətəli özünü bicliyə vurub dedi:
 
-– Xeyr, daha mən yorulmuşam, bəsdir, başqasını seçək ki, necə əziyyətli vəzifə olduğunu bilsin. Hökumət verkisi üstə məndən rəncidə olursunuz, onu bilmirsiniz ki, [?] vaxtlı-vaxtında toplanıb xəzinəyə verilməsini hökumət məndən tələb edir... Mən bir hökumət quluyam, əmrə tabeyəm, mənə buyururlar, mən də sizdən tələb edirəm.
+– Xeyr, daha mən yorulmuşam, bəsdir, başqasını seçək ki, necə əziyyətli vəzifə olduğunu bilsin. Hökumət verkisi üstə məndən rəncidə olursunuz, onu bilmirsiniz ki, təyçülərin vaxtlı-vaxtında toplanıb xəzinəyə verilməsini hökumət məndən tələb edir... Mən bir hökumət quluyam, əmrə tabeyəm, mənə buyururlar, mən də sizdən tələb edirəm.
 
 – Doğrudur, doğrudur, – deyə kəndlilər təsdiq etdilər. Qara Hüseyn əlavə etdi:
 
@@ -1688,7 +1688,7 @@ Həkim izin verdi. Özü də skamyada oturub qəzet oxumağa məşğul oldu. Rə
 
 Qoca Salman dedi:
 
-– Burada təəccüblü bir şey yoxdur. Vətəndaş müharibəsində belə ittifaqlar çox olmuşdur Ata [?], oğul atanı, qardaş qardaşı öldürmüşlər.
+– Burada təəccüblü bir şey yoxdur. Vətəndaş müharibəsində belə ittifaqlar çox olmuşdur Ata oğlu, oğul atanı, qardaş qardaşı öldürmüşlər.
 
 – Niyazi bu ildən firqəyə namizəd yazılmışdır, onda kommunizm qayəsi hələ möhkəmləşməmişdir, onun üçün də şübhə edir.
 
@@ -8779,7 +8779,7 @@ Balam istər balasın.
 
 *Gülüşürlər.*
 
-**Pir baba**. A qızım, mənim bu qoca qulaqlarıma [?]dan bir gəlib çatır ki, rəiyyətlər üsyan edib padşahlarını taxtdan salırlar. Sən də təzədən mənim başıma tac qoymaq istəyirsən.
+**Pir baba**. A qızım, mənim bu qoca qulaqlarıma kahdan bir gəlib çatır ki, rəiyyətlər üsyan edib padşahlarını taxtdan salırlar. Sən də təzədən mənim başıma tac qoymaq istəyirsən.
 
 **Qəmər**. Onlar öz rəiyyətləri ilə ədalətlə rəftar etməyiblər. Fəqət, sən öz vəzifəni çox yaxşı ifa etmisən. Ona görə də meşə əhli məni öz tərəflərindən vəkil seçib hüzurunuza göndəriblər ki, bu tacı qəbul edib onlara sultan olasan.
 
@@ -9115,7 +9115,7 @@ Balam istər balasın.
 
 **Xavər**. Baş üstə. (*Gedir.*)
 
-**Şahbaz bəy** (*dərman içərək*). Bunun [?] bir dəfə zəhər içib bu dünyadan xilas olmağa [?] edə bilmirəm.
+**Şahbaz bəy** (*dərman içərək*). Bunun əvəzinə bir dəfə zəhər içib bu dünyadan xilas olmağa cür’ət edə bilmirəm.
 
 *Şəmsi bəy daxil olur.*
 

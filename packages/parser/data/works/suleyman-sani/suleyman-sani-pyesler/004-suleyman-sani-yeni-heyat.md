@@ -337,7 +337,7 @@ Səhnə usta İmanın qonaq otağını göstərir. Otaq səliqə ilə bəzənmi�
 
 **Usta İman**. Onsuz da olmur. Mən bu evdə o kafir oğlum ilə gündə on dəfə savaşıram.
 
-**Səkinə** (pioner libasında daxil olur). Ata gəldim pioner paltarımı sənə göstərim. Necədir yaraş[?]?
+**Səkinə** (pioner libasında daxil olur). Ata gəldim pioner paltarımı sənə göstərim. Necədir yaraşırmı?
 
 **Usta İman**. Çəkil, itin belindən gəlmiş. Yoqsa durub əlindəki dəyənək ilə o açıq baldırına o qədər dəyərəm ki, çolaq olub bir də küçələrdə curavey-curavey oqumazsan.
 

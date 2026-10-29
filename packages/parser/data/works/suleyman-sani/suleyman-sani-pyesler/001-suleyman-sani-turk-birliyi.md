@@ -47,7 +47,7 @@ status: DRAFT
 
 Əhvalat Qafqaz şəhərlərindən birində vaqe olur. Cə’fər bəy axşam saat 7-də qonaqlarını gözləyərək dostu Heydərqulu ağa ilə söhbət edir.
 
-**Cə’fər bəy**. Heydərquli ağa, mən bu işi boynuma çəkmişəm və umudvaram ki [?], ancaq rəca edirəm ki, özünü bir az saqlayasan. Xasiyyətin tünddür, heç zad üstə barıt kibi partlayırsan.
+**Cə’fər bəy**. Heydərquli ağa, mən bu işi boynuma çəkmişəm və umudvaram ki yörüdəm, ancaq rəca edirəm ki, özünü bir az saqlayasan. Xasiyyətin tünddür, heç zad üstə barıt kibi partlayırsan.
 
 **Heydərqulu ağa**. Cə’fər bəy, sən öləsən, hərgah məni padşahlıq dumasına vəkil seçməsələr – çəmi mülkümü, evimi, eşiyimi satıb düz Firəngistan deyə bir baş gedəcəyəm. Mən belə xəcaləti, töhməti yeyə bilərəm.
 
@@ -88,7 +88,7 @@ Didari-yarı görməyə bunlar bəhanədir.
 
 **Heydərqulu ağa**. Cə’fər bəy, bağışla, sözünü kəsirəm. Deyirlər ki motal Qurbanəlinin oğlu ayı Kərim bərk deputatlıq şövqinə düşübdür. Özü də harada otursa, deyir ki, şəhər dumasında məndən yaqşı danışan yoqdur. Siz ölsəniz istəyir onu zarafat üçün seçəsən və dövlət dumasının vəkilləri qnyazlara, qraflara belə reqomendatsiya (tevsiyə) edəsən; rəca edirəm tanış olasınız, Qafqas vəkili motal Qurbanəlinin oğlu qalayıcı Məhəmməd Cə’fərin nəvəsi ayı Kərim. ha... ha... ha...
 
-**Cə’fər bəy**. Heydərqulu ağa doğru buyurur. Dövlət dumasının üzvülüyü nə dərəcədə böyük mənsəb olduğunu cümləniz bilirsiniz. Bu duma şəhər duması deyil ki hər əttar, baqqal başmaqlarının taqqıldada-taqqıldada gəlib iclasda filan küçədə necə fanar asılsın, filan adama çayxana açmağa izn verilsin ya yoq deyə boşboğazlıq edib vaxt keçirsinlər. Bu duma padşahlıq dumasıdır. Oraya seçilən vəkillər də gərək padşaha layıq şəxslər olsunlar. Belə ki hər bir şeydən artıq gərək əsli, nəcabəti olsun, taki adı, familyası çəkiləndə deməsinlər ki, bu cürə adam eşitməmişik. Sonra qəd-qamətli olsun ki gözə görünüb seçilsin. Uca gur səsi olsun ki, danışdıq[?] sözünə qulaq asıb fikir versinlər: mənim təsəvvürümə görə seçilən vəkil gərək bu süfətlərə sahib olsun. Səhv edirəmsə, buyurunuz, səhvimi deyiniz.
+**Cə’fər bəy**. Heydərqulu ağa doğru buyurur. Dövlət dumasının üzvülüyü nə dərəcədə böyük mənsəb olduğunu cümləniz bilirsiniz. Bu duma şəhər duması deyil ki hər əttar, baqqal başmaqlarının taqqıldada-taqqıldada gəlib iclasda filan küçədə necə fanar asılsın, filan adama çayxana açmağa izn verilsin ya yoq deyə boşboğazlıq edib vaxt keçirsinlər. Bu duma padşahlıq dumasıdır. Oraya seçilən vəkillər də gərək padşaha layıq şəxslər olsunlar. Belə ki hər bir şeydən artıq gərək əsli, nəcabəti olsun, taki adı, familyası çəkiləndə deməsinlər ki, bu cürə adam eşitməmişik. Sonra qəd-qamətli olsun ki gözə görünüb seçilsin. Uca gur səsi olsun ki, danışdığı sözünə qulaq asıb fikir versinlər: mənim təsəvvürümə görə seçilən vəkil gərək bu süfətlərə sahib olsun. Səhv edirəmsə, buyurunuz, səhvimi deyiniz.
 
 **Fridun bəy**. Bəli, səhv edirsiniz. Özü də artıq dərəcədə. Siz vəkilliyə ləyaqəti bu üç süfətdə görürsünüz. Nəcabət, qəd-qamət, uca səs. Məyər padşahlıq duması əcayib adamlar yığıncağıdır ki, elə adam göndərək? Xayır Cə’fər bəy, bizə qəd-qamətli adam lazım deyil. Bizə elmli, tədbirli, zaqondan, siyasətdən, vətənimizin keçmişindən və hali-hazırından baxəbər şəxs lazımdır.
 

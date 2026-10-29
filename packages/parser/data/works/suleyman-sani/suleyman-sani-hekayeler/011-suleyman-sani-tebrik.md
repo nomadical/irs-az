@@ -33,7 +33,7 @@ Cənnətəli:
 
 Hümmətəli özünü bicliyə vurub dedi:
 
-– Xeyr, daha mən yorulmuşam, bəsdir, başqasını seçək ki, necə əziyyətli vəzifə olduğunu bilsin. Hökumət verkisi üstə məndən rəncidə olursunuz, onu bilmirsiniz ki, [?] vaxtlı-vaxtında toplanıb xəzinəyə verilməsini hökumət məndən tələb edir... Mən bir hökumət quluyam, əmrə tabeyəm, mənə buyururlar, mən də sizdən tələb edirəm.
+– Xeyr, daha mən yorulmuşam, bəsdir, başqasını seçək ki, necə əziyyətli vəzifə olduğunu bilsin. Hökumət verkisi üstə məndən rəncidə olursunuz, onu bilmirsiniz ki, təyçülərin vaxtlı-vaxtında toplanıb xəzinəyə verilməsini hökumət məndən tələb edir... Mən bir hökumət quluyam, əmrə tabeyəm, mənə buyururlar, mən də sizdən tələb edirəm.
 
 – Doğrudur, doğrudur, – deyə kəndlilər təsdiq etdilər. Qara Hüseyn əlavə etdi:
 

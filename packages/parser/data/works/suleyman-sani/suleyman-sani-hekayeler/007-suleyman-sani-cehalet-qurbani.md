@@ -15,7 +15,7 @@ Uşaqlıq xatiratımdan nağılına şüru etdiyim bu vaqiə məndə elə bir d�
 
 Səkkiz yaşında uşaq ikən «Seyidli» adlanan kəndimizdə başaçıq, ayaqyalın, təbiətin mərhəmətli qucağında, məişətin ağır və zəhərli hallarından xəbərsiz yaşardım.
 
-Bir gün əmim oğlunun altı yaşlı oğlu ilə həyətimizdə oynarkən [?] ata minmiş bir qocanı darvazamızın ağzında durmuş gördüm.
+Bir gün əmim oğlunun altı yaşlı oğlu ilə həyətimizdə oynarkən palanlı ata minmiş bir qocanı darvazamızın ağzında durmuş gördüm.
 
 – Baba, kimi istəyirsiniz? – deyə soruşdum. Cavabından mə’lum oldu ki, əmim oğlu ilə görüşmək istəyir. – Buyurun içəriyə, – deyə mən əmim oğluna xəbər verməyə qaçdım. Qoca, əmim oğlu ilə görüşdü, salamlaşdı. Mən də yoldaşım ilə oynamağa məşğul oldum. Bir qədər söhbətdən sonra salamatlaşıb, «allah sizdən razı olsun, mən qocanı ümidsiz qaytarmadınız» – deyə atını minib getdi.
 
@@ -59,7 +59,7 @@ Böyük qız, uçaboylu, incəbelli, iri qara gözlü, uzun qara saçlı, dodaql
 
 Anladım ki, Gülbənd mənim abı mahud çuxama, çal papağıma işarə edir.
 
-Mənim sualım [?] qədər davam edən sükutu pozdu.
+Mənim sualım indiyə qədər davam edən sükutu pozdu.
 
 – Mənim qardaşım nağıla qulaq asmağı çox sevər. Ona yemək vermə, içmək vermə, bolluca nağıl söylə. Gecələr məni rahat qoymur. «Bacım, yenə nağıl de» deyə yalvarar, mən də Məlik Məmməd, Qırat nağıllarından ayrısını bilmirəm, – deyə bacım şikayətləndi.
 
@@ -73,7 +73,7 @@ Tamam isə qızararaq, başını aşağı salıb cavab vermədi. Mən də anamda
 
 – Bəs Məmmədrza nədir? Qoy əmiqızımın oğlunu o saxlasın, Tamam da bizə qalsın, – deyə anamdan rica etdim.
 
-– Kişi [?] körpə uşaq saxlaya bilməz, bu arvad işidir. Sən darıxma, hamımız bir həyətdə oluruq, hər saatda da Tamamla görüşəcəksən, o da sənə gözəl nağıllar söyləyəcəkdir, – deyə anam məni sakit etdi.
+– Kişi xaylağı körpə uşaq saxlaya bilməz, bu arvad işidir. Sən darıxma, hamımız bir həyətdə oluruq, hər saatda da Tamamla görüşəcəksən, o da sənə gözəl nağıllar söyləyəcəkdir, – deyə anam məni sakit etdi.
 
 Qızlar yeməklərini bitirib ayağa qalxdılar. «Sağ olun», – deyə anamdan getməyə izin istədilər.
 

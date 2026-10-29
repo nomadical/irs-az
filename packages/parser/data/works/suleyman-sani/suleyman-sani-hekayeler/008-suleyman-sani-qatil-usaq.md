@@ -41,7 +41,7 @@ Mərdan hər gün günəş batdıqda malları kəndə gətirərdi. Qəflətən �
 
 Qurultu getdikcə artırdı. Bir azdan sonra şiddətli yağmur yağmağa başladı. Qızxanım daxmaya girib köhnə, yamaqlı şalına büründü və yenə qapıya çıxdı. Bu vaxt qısaboylu, qaraqaş, pırtlaqgöz bir cavan seyid, əbasını başına çəkmiş, doqqaz ilə gəlirdi. Qızxanımı gördükdə ona tərəf yönəldi.
 
-– Bacı, mən qərib seyid[?] allah qonağı saxlamağı rica edirəm.
+– Bacı, mən qərib seyidi allah qonağı saxlamağı rica edirəm.
 
 – Ağa, cəddinə qurban olum, bu ev heç bir qonağı qapısından naumid qaytarmamış, ancaq mənim ərim vəfat etmiş. Mən bir dul qadınam, kişisiz evə sən naməhrəmi necə buraxım?
 

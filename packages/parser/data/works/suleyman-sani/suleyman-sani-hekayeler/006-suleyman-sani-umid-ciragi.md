@@ -31,7 +31,7 @@ Ah, nə böyük bir səadət. Lakin rəhmsiz fələk təzliklə bu səadəti yas
 
 Qeyrətli ana bu müqəddəs vəzifəsini çox gözəl ifa etdi. Oğlunu böyütdü, oxutdu, bu yaşa yetirdi. İndi təhsilini bitirmək üçün övladı belə çalışır, zəhmət çəkir. Onun incə ana qəlbi sıxılır, övladının əziyyətinə razı olmayır, onun zəhmətlərinə dözə bilməyirdi. Lakin bu zəhmətin ona səadət qapısını açacağını da gözəlcə düşünürdü.
 
-Ən artıq sıxılacaq bir şey varsa o da oğlunun məktəbə getmək məsələsidir ki, bir neçə il bir-birindən ayrı düşəcəklərdi, bu isə ona qeyri-mümkün bir imtahan görünürdü. Yazıq ananın qəlbini hər dəqiqə deşən, onu rahat buraxmayan bir məsələ vardı. O da bir il bundan əqdəm ərinin qohumlarından biri dalaşarkən bir cavanı öldürməsi idi. Düşmənləri qatilin həbsə alınıb sürgün edilməsinə iktifa etmək istəməyirdilər. Qana qan etmək fikri bəsləyirdilər. Bu səbəbdən zavallı qadın bu il [?] qorxu içərisində yaşayır, oğlunu gözlərindən irag buraxmaq istəməyirdi.
+Ən artıq sıxılacaq bir şey varsa o da oğlunun məktəbə getmək məsələsidir ki, bir neçə il bir-birindən ayrı düşəcəklərdi, bu isə ona qeyri-mümkün bir imtahan görünürdü. Yazıq ananın qəlbini hər dəqiqə deşən, onu rahat buraxmayan bir məsələ vardı. O da bir il bundan əqdəm ərinin qohumlarından biri dalaşarkən bir cavanı öldürməsi idi. Düşmənləri qatilin həbsə alınıb sürgün edilməsinə iktifa etmək istəməyirdilər. Qana qan etmək fikri bəsləyirdilər. Bu səbəbdən zavallı qadın bu ili daima qorxu içərisində yaşayır, oğlunu gözlərindən irag buraxmaq istəməyirdi.
 
 Gecə keçər, oğlu yatmaz, ana, axır buna səbir etməyib qalxar, şala bürünər, oğlunun otağına girər, övladının başını qucub, qıvrıcıq saçlarından öpər.
 
@@ -43,7 +43,7 @@ Gecə keçər, oğlu yatmaz, ana, axır buna səbir etməyib qalxar, şala bür�
 
 – Bəs sən, oğlum, yatmayacaqsan? Oxuduğun yetər, dur, sən də rahat ol, çırağı söndür.
 
-– Yox, ana, səhəri açsam da sabahkı imtahanlarımı hazır etməliyəm. Maraq etmə, bir gecəni yatmamaqla mənə heç bir şey olmaz, lakin bir ilmi qayib etmək, hər ikimiz üçün fayda verməz. İndi daha mənə mane olma, – deyə gənc kitab oxumağa başlayır, anası da [?] çəkilir.
+– Yox, ana, səhəri açsam da sabahkı imtahanlarımı hazır etməliyəm. Maraq etmə, bir gecəni yatmamaqla mənə heç bir şey olmaz, lakin bir ilmi qayib etmək, hər ikimiz üçün fayda verməz. İndi daha mənə mane olma, – deyə gənc kitab oxumağa başlayır, anası da otağına çəkilir.
 
 Bir saat belə keçir. Qəflətən bir tüfəng açılıb dağlara səda salır, dərin sükutu pozur. İkinci bir qadın çığırtısı bu sədaya cavab verir, yatmış qonşuları oyadır. Gənc tələbə yerə sərilir. Bir saat bundan əqdəm böyük ümidlər bəsləyən gənc, bir qəddar düşmənin, rəhmsiz düşmənin gülləsinə qurban oldu.
 

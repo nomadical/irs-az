@@ -39,7 +39,7 @@ status: DRAFT
 
 **Piri-Fani**. Bacarmazsan, çoqları bu yolda fot olmuşlar.
 
-**Bahadir**. Qəhraman, Fərman, Nadir yoldaşlar heç bir fik[?] dünyada qurbansız yeriməmi[?]. Hərgah çarx mə[?] vurub fot edərsə, Qəhraman dalınca sən gələrsə[?] sonra Fərman, dalınca Nadir ta çarx saqlayıb tərs[?] çöndərməyincə əl çəkməyin. Haydı igit yoldaşlarım.
+**Bahadir**. Qəhraman, Fərman, Nadir yoldaşlar heç bir fikir dünyada qurbansız yeriməmiş. Hərgah çarx məni vurub fot edərsə, Qəhraman dalınca sən gələrsən, sonra Fərman, dalınca Nadir ta çarx saqlayıb tərsə çöndərməyincə əl çəkməyin. Haydı igit yoldaşlarım.
 
 **Qəhraman**. Yoldaş Bahadir toqda. Sən bizim rəhbərimizsən, sənin sağ qalmağın bu məzlumlara lazımdır. Əvvəl mən qurban olmaq istəyirəm. (Atılıb çarxın pərindən dutur çarx onu kənara atır.)
 

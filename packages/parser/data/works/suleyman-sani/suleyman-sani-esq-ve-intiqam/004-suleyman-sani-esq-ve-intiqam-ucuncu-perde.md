@@ -27,7 +27,7 @@ status: DRAFT
 
 **Xavər**. Baş üstə. (*Gedir.*)
 
-**Şahbaz bəy** (*dərman içərək*). Bunun [?] bir dəfə zəhər içib bu dünyadan xilas olmağa [?] edə bilmirəm.
+**Şahbaz bəy** (*dərman içərək*). Bunun əvəzinə bir dəfə zəhər içib bu dünyadan xilas olmağa cür’ət edə bilmirəm.
 
 *Şəmsi bəy daxil olur.*
 
