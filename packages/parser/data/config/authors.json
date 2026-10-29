@@ -2838,19 +2838,34 @@
       "ru": "Ордубади, Мамед Саид",
       "en": "Mammed Said Ordubadi"
     },
-    "transcribed": {
-      "file": "ordubadi-qilinc-ve-qelem.md",
-      "bibid": 8341,
-      "sections": [
-        {
-          "first": "Xərabat",
-          "collection": "ordubadi-qilinc-ve-qelem",
-          "titleAz": "Qılınc və qələm",
-          "genre": "PROSE",
-          "layout": "prose"
-        }
-      ]
-    },
+    "transcribed": [
+      {
+        "file": "ordubadi-qilinc-ve-qelem.md",
+        "bibid": 8341,
+        "sections": [
+          {
+            "first": "Xərabat",
+            "collection": "ordubadi-qilinc-ve-qelem",
+            "titleAz": "Qılınc və qələm",
+            "genre": "PROSE",
+            "layout": "prose"
+          }
+        ]
+      },
+      {
+        "file": "ordubadi-qilinc-ve-qelem-ii.md",
+        "bibid": 5708,
+        "sections": [
+          {
+            "first": "Atabəy Məhəmməd və Səba xanım",
+            "collection": "ordubadi-qilinc-ve-qelem-ii",
+            "titleAz": "Qılınc və qələm. İkinci hissə",
+            "genre": "PROSE",
+            "layout": "prose"
+          }
+        ]
+      }
+    ],
     "collections": []
   },
   {
