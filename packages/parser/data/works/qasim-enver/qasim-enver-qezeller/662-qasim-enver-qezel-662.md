@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-662
+sourceId: ganjoor-108732
+titleAz: Qəzəl 662
+titleRu: Газель 662
+titleFa: شمارهٔ ۶۶۲
+titleEn: Ghazal 662
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 662
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh662'
+status: DRAFT
+---
+هله ای دوست، چه گویم؟ که تو محبوب جهانی
+همه سعدی و سعادت، همه لطفی، همه جانی
+
+به تو چشمم شده روشن، به تو کویم شده گلشن
+همه فتحی و فتوحی، همه امنی و امانی
+
+به چه وصفت کنم، ای جان؟ که تو از وصف برونی
+تو بصیر همه بینی و خبیر همه دانی
+
+قدرش را نتوان یافت، که مقدور ضعیفی
+قدمش را نشناسی، که اسیر حَدثانی
+
+ز جمال تو مطرا، همه اعیان، همه اکوان
+ز جبین تو هویدا اثر «سبع مثانی »
+
+به خدا، خاک درت را به دو عالم نفروشم
+اگرم پیش بخوانی وگر از پیش برانی
+
+دل قاسم ز شراب تو خرابست، چه گویم؟
+هم از آن جودت باده، هم ازان لطف اوانی

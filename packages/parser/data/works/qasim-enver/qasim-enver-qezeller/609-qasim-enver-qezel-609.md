@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-609
+sourceId: ganjoor-108679
+titleAz: Qəzəl 609
+titleRu: Газель 609
+titleFa: شمارهٔ ۶۰۹
+titleEn: Ghazal 609
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 609
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh609'
+status: DRAFT
+---
+ای دل عشاق را بروی تو شادی
+غایت مقصود و منتهای مرادی
+
+در دلم آتش نهاده ای، چه توان گفت؟
+هرچه نهادی بجای خویش نهادی
+
+آتش عشق تو بود بادی دولت
+باد روانم فدای آتش بادی!
+
+دولت وصل ارچه بس عظیم بلندست
+از تو توان خواستن، که شاه جوادی
+
+جمله ذرات مست نور تجلیست
+تا تو ز خورشید حسن پرده گشادی
+
+زلف ترا هر که یافت ضال و مضل شد
+روی ترا هر که دید مهدی و هادی
+
+قاسم، ازین می بخود میا، که دریغست
+جانب محنت شدن ز معدن شادی

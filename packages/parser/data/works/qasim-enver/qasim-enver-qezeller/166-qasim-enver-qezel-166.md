@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-166
+sourceId: ganjoor-108236
+titleAz: Qəzəl 166
+titleRu: Газель 166
+titleFa: شمارهٔ ۱۶۶
+titleEn: Ghazal 166
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 166
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh166'
+status: DRAFT
+---
+گر جمله تویی تو، نیک و بد چیست؟
+ور جمله منم، پس این عدد چیست؟
+
+گر جمله یکی‌ست در حقیقت
+فی الجمله حدیث نیک و بد چیست؟
+
+حاجت به مدد ندارد آن یار
+پس بانگ و فغان این مدد چیست؟
+
+چون جمله کن و مکن از او خاست
+موقوف به فتوی خرد چیست؟
+
+گفتی که: حدت زنم بر این قول
+از بهر خدا بگو: که حد چیست؟
+
+گر بحر وجود نیست در جوش
+این کوشش و جوششِ ز بد چیست؟
+
+چون جمله قبول حضرت اوست
+قاسم، سخن قبول و رد چیست؟

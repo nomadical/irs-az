@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-99
+sourceId: ganjoor-108169
+titleAz: Qəzəl 99
+titleRu: Газель 99
+titleFa: شمارهٔ ۹۹
+titleEn: Ghazal 99
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 99
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh99'
+status: DRAFT
+---
+دلم از غصه هجران تو اندر شورست
+ذوق جان دارد و خوش در طلب مسرورست
+
+تو حبیبی و یقین با دل و جان نزدیکی
+آن رقیبست که از جمله دلها دورست
+
+عاشق تست، اگر خسرو، اگر شیرینست
+بنده تست، اگر سنجر، اگر فغفورست
+
+عشق نزدیک تر از ماست بما، می داند
+این حدیثیست که در هر دو جهان مشهورست
+
+من اگر مستم، اگر نعره زنم، باکی نیست
+عشقم اندر نظر و موسی جان بر طورست
+
+دو جهان نور شد و نور شدم سر تا پا
+هرکه خود نور شود هر دو جهانش نورست
+
+نظری از تو اگر بر دل قاسم آید
+قاسم سوخته هم ناظر و هم منظورست

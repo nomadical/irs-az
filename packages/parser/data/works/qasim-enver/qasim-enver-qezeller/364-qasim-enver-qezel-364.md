@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-364
+sourceId: ganjoor-108434
+titleAz: Qəzəl 364
+titleRu: Газель 364
+titleFa: شمارهٔ ۳۶۴
+titleEn: Ghazal 364
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 364
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh364'
+status: DRAFT
+---
+بیا، بیا، که غریبیم و عاشقیم و نزار
+بیا، بیا، که نداریم بی تو صبر و قرار
+
+بیا، که بی تو ز افراط آرزومندی
+مرا دلیست درو صد هزار شعله نار
+
+بداغ عشق تو دل را هزار عز و شرف
+ز جلوهای تو جان را هزار استظهار
+
+بفرض آنکه جهان از قصور پاک شود
+محال صرف بود فیض غافر و غفار
+
+مباش غره بگلگونه بهار، ای دل
+که در خزان نتوان یافتن گلی بر بار
+
+طریق عقل مقلد، فغان دارا گیر
+حدیث عشق مشعبد، هزار دار و مدار
+
+همیشه خاطر قاسم بورد و ذکر شماست
+برین حدیث گواهست عالم الاسرار

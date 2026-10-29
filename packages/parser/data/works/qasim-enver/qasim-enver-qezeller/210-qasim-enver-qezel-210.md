@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-210
+sourceId: ganjoor-108280
+titleAz: Qəzəl 210
+titleRu: Газель 210
+titleFa: شمارهٔ ۲۱۰
+titleEn: Ghazal 210
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 210
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh210'
+status: DRAFT
+---
+جان ببوی وصل یار از کعبه تا بتخانه رفت
+دل بیاد چشم او در کنج هر میخانه رفت
+
+زاهدا،در دور چشم مست یار از باده گوی
+دور ساقی باد باقی! نوبت افسانه رفت
+
+سرخ شد گل درچمن چون خون بلبل را بریخت
+تا چرادر خون او شوریده دیوانه رفت؟
+
+کشت درویشان بیدل را و دین شکرانه خواست
+گر بدین راضی شد ازما،یار درویشانه رفت
+
+از زبان شمع روشن می شود بر عاشقان
+حالتی کز سوز شبهابر سر پروانه رفت
+
+چشم مستش عاشقان را در سماع آورددوش
+راستی را،درسماع عاشقان مستانه رفت
+
+بعد توبه رفت قاسم کاسه دردی بدست
+بر سر پیمانه آمد،در سر پیمانه رفت

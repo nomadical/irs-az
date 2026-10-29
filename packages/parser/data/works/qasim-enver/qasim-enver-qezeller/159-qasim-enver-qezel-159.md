@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-159
+sourceId: ganjoor-108229
+titleAz: Qəzəl 159
+titleRu: Газель 159
+titleFa: شمارهٔ ۱۵۹
+titleEn: Ghazal 159
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 159
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh159'
+status: DRAFT
+---
+زان یار سفر کرده کسی را خبری هست؟
+کان ماه مسافر بهمه کوی و دری هست
+
+مردانه قدم نه، خطری نیست درین راه
+بر یار توکل کن، اگر هم خطری هست
+
+آخر ز خطرهای طریقت چه شماری؟
+در نه قدم، ارزانکه ترا هم جگری هست
+
+در کوچه ما راست رو، ای دوست، که اینجا
+بالا شجری، دل حجری، لب شکری هست
+
+زین بیش مگویید که : این عشق مورزید
+ای ساده دلان، تیر قضا را سپری هست
+
+بیچاره بماندیم درین دیر کهن سال
+بیچاره شدن حیف، که چون چاره بری هست
+
+تنها رو، قاسم، بسر کوی حبیبان
+چون در غلبه قاعده شور و شری هست

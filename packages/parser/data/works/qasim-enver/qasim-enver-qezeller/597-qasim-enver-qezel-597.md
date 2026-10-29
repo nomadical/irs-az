@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-597
+sourceId: ganjoor-108667
+titleAz: Qəzəl 597
+titleRu: Газель 597
+titleFa: شمارهٔ ۵۹۷
+titleEn: Ghazal 597
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 597
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh597'
+status: DRAFT
+---
+تا گرد ماه‌، سنبل مشکین نهاده‌ای
+بس داغ‌ها که بر دل مسکین نهاده‌ای
+
+بر عارض تو زلف سمن سا چه حکمت است؟
+یعنی به‌جنب فاتحه آمین نهاده‌ای
+
+از بهر غارت دل و دین شکستگان
+بر سیم تر کلاله زرین نهاده‌ای
+
+کحلی‌ست نوربخش خیال جمال تو
+در پرده‌های چشم خدا‌بین نهاده‌ای
+
+جان‌ها حیات یافت ز حسن کلام تو
+در زیر لب چه شیوه شیرین نهاده‌ای
+
+آن جان نازنین تو بر روی دل‌فروز
+طغرای مشک بر گل و نسرین نهاده‌ای
+
+فریاد جان قاسمی از آسمان گذشت
+زین جورها که پیشه و آیین نهاده‌ای

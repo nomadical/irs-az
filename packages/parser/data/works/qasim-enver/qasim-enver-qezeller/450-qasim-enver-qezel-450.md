@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-450
+sourceId: ganjoor-108520
+titleAz: Qəzəl 450
+titleRu: Газель 450
+titleFa: شمارهٔ ۴۵۰
+titleEn: Ghazal 450
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 450
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh450'
+status: DRAFT
+---
+ای دوای درد بیماران، سلام علیکم
+ای شفای راحت هر جان، سلام علیکم
+
+پیش چشم مست مخمور تو سر بنهاده اند
+جمله مستان جمله هشیاران، سلام علیکم
+
+در ره وصل تو کردم قطع دریاهای ژرف
+ای وصالت بحر بی پایان، سلام علیکم
+
+پیش روی و زلف تو روشن کنم هر ساعتی
+طور کفر وشیوه ایمان، سلام علیکم
+
+گاه گاه از عین احسان لطف تو گوید مرا:
+ای اسیر محنت هجران، سلام علیکم
+
+بر اسیران سر کویت سلامی می کنم
+گاه بر بوذر، گهی سلمان، سلام علیکم
+
+قاسمی هر لحظه می گوید بآواز بلند:
+هم تویی جان، هم تویی جان، سلام علیکم

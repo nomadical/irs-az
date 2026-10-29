@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-41
+sourceId: ganjoor-108111
+titleAz: Qəzəl 41
+titleRu: Газель 41
+titleFa: شمارهٔ ۴۱
+titleEn: Ghazal 41
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 41
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh41'
+status: DRAFT
+---
+باده ارزان شد و زهاد خرابند و یباب
+ساقی، از جام بلورین تو جان را دریاب
+
+می رود عمر براهی که نمی آید باز
+این دمی چند که باقیست بمی خانه شتاب
+
+باده ار دل شد و دل جان شد و جان جانان شد
+این همه سور همه ناله چنگست و رباب
+
+آشیانیست حریفان ترا مجلس انس
+سایبانیست محبان ترا ظل سحاب
+
+پیش اصحاب طریقت سخن از لا و نعم
+نزد سلطان حقیقت نه سؤال و نه جواب
+
+دل بجانان ده و تجرید شو از هر دو جهان
+دل و جان را برهانی مگر از ذل حجاب
+
+قاسمی را غرض اینست که در ملک وجود
+خویشتن را بشناسی، که توئی لب لباب

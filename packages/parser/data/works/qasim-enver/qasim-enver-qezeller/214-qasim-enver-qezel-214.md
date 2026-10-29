@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-214
+sourceId: ganjoor-108284
+titleAz: Qəzəl 214
+titleRu: Газель 214
+titleFa: شمارهٔ ۲۱۴
+titleEn: Ghazal 214
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 214
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh214'
+status: DRAFT
+---
+در حسن و جمالی که تو داری چه توان گفت؟
+سروی، صنمی، لاله عذاری، چه توان گفت؟
+
+بر صفحه دل، ای دل وجان، از غم وشادی
+نقشی که نگاری چو نگاری چه توان گفت؟
+
+خود را سگ کوی تو شمردیم و تو ما را
+گر از سگ آن کو نشماری چه توان گفت؟
+
+در دل همه غمهای تو داریم شب و روز
+در دل غم ما هیچ نداری، چه توان گفت؟
+
+دلداده و سودایی و رندم، چه توان کرد؟
+زیبا و دل افروز و عیاری، چه توان گفت؟
+
+ز یاد تو بشکفت دلم چون گل سیراب
+در خاصیت باد بهاری چه توان گفت؟
+
+کارت همه آزار دل قاسم مسکین
+ای دوست،ببین،تابچه کاری،چه توان گفت؟

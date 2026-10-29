@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-518
+sourceId: ganjoor-108588
+titleAz: Qəzəl 518
+titleRu: Газель 518
+titleFa: شمارهٔ ۵۱۸
+titleEn: Ghazal 518
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 518
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh518'
+status: DRAFT
+---
+ساقی چو تو باشی، همه جا باده پرستان
+مطرب چو تو باشی، چه غم از نعره مستان؟
+
+ای جان و جهان، وصف تو گفتن نتوانم
+زلف تو شب و روز رخت شمع شبستان
+
+در کوی غمت با سر و سامان نتوان رفت
+صد جان بفدای تو، چه جای سر و سامان؟
+
+جان طالب درد تو، زهی صفوت آدم!
+دل غرقه شوق تو، زهی ملک سلیمان!
+
+هر چند غمت سوخت فراوان دل ما را
+دارد دل ازین قصه بسی شکر فراوان
+
+با آنکه خدا با همه ذرات محیطست
+از مشرب بوجهل مجو صفوت سلمان
+
+قاسم، سر تسلیم بنه، صید فنا باش
+درمان غم عشق ندیدیم،چه درمان؟

@@ -1,0 +1,43 @@
+---
+slug: qasim-enver-qezel-482
+sourceId: ganjoor-108552
+titleAz: Qəzəl 482
+titleRu: Газель 482
+titleFa: شمارهٔ ۴۸۲
+titleEn: Ghazal 482
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 482
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh482'
+status: DRAFT
+---
+ماه عیانست روی یار چه گویم؟
+درصفت حسن آن نگار چه گویم؟
+
+مصحف حسنت بخط خوب غبارست
+من صفت آن خط غبار چه گویم؟
+
+سوخت دل و جان بی قرار مرا عشق
+از دل و از جان بی قرار چه گویم؟
+
+درد دل عاشقان شمار ندارد
+از غم و اندوه بی شمار چه گویم؟
+
+عمر عزیزم در انتظار تو بگذشت
+از ستم روز انتظار چه گویم؟
+
+نیست مداری زمانه را بحقیقت
+قصه این دار بی مدار چه گویم؟
+
+خشک شد این جویبار و سرو خرامان
+پس صفت سرو جویبار چه گویم؟
+
+کرد رقیب از وصال یار سؤالی
+من صفت گنج را بمار چه گویم؟
+
+دی بکرم گفت یار: قاسم ما کو؟
+آب شدم من ز شرم یار، چه گویم؟

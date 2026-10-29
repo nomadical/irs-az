@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-139
+sourceId: ganjoor-108209
+titleAz: Qəzəl 139
+titleRu: Газель 139
+titleFa: شمارهٔ ۱۳۹
+titleEn: Ghazal 139
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 139
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh139'
+status: DRAFT
+---
+بیار جان طلب کار را بحضرت دوست
+ببین که با همه ذرات کون رو در روست
+
+قلم برندی ما رفته است روز ازل
+جزع چه سود کند؟ چون رقم چنین زد دوست
+
+مرا ز خم تو یک جرعه ای تمام بود
+بیار رطل محبت، چه جای جام و سبوست؟
+
+بوصل ما چو رسیدی تو شاد و خرم باش
+جهان و جان بعوض ده، که دولت نیکوست
+
+رقیب گفت که: از یار می کنم شکوه
+رقیب قصه غلط کرد، ماجری با اوست
+
+ز پا فتاده ام، ای یار، یک نظر فرما
+مرا ز جود تو، ای دوست، اینقدر مرجوست
+
+بطعنه گفت که: قاسم ز عشق توبه کند
+طریق توبه ز عاشق رسم نانیکوست

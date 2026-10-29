@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-189
+sourceId: ganjoor-108259
+titleAz: Qəzəl 189
+titleRu: Газель 189
+titleFa: شمارهٔ ۱۸۹
+titleEn: Ghazal 189
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 189
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh189'
+status: DRAFT
+---
+پیر ما جامیست، اما در خور این جام نیست
+باده صافی نوشد، اما رند درد آشام نیست
+
+از شرابات خدا مستند ذرات دو کون
+لیک هر جان در جهان در خورد این انعام نیست
+
+پیش مستان طریقت این حکایت روشنست :
+درد نوشان خاص درگاهند و این می عام نیست
+
+باز ناز آغاز کرد آن یار و جان می پروریم
+لطف دیگر آنکه: این آغاز را انجام نیست
+
+دایما در وصل آن جان و جهان مستغرقیم
+در چنین وصلی، که گفتم، حاجت پیغام نیست
+
+آفرین بر ساقی ما باد و بر مستی او
+گرچه جامی می کشد، بد مست و نافرجام نیست
+
+قاسمی، در پیش این کوران مگو اسرار فاش
+هرکجا فهمی نباشد جای استفهام نیست

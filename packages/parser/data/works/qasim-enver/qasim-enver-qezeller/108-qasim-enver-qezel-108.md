@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-108
+sourceId: ganjoor-108178
+titleAz: Qəzəl 108
+titleRu: Газель 108
+titleFa: شمارهٔ ۱۰۸
+titleEn: Ghazal 108
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 108
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh108'
+status: DRAFT
+---
+غم تو بر دل و بر جان امیر و محتشمست
+بنام گفتمش: این غم ولی نه غم، نعمست
+
+زد رد درد تو مستیم و فاش میگوییم
+که: پیش جرعه رندان چه جای جمست؟
+
+رقم برندی ما زد قلم بروز ازل
+چه جای زهد و ورع؟ چون رقم از آن قلمست
+
+بنقد فرصت امروز را مده از دست
+که حال و قصه فردا هنوز در عدمست
+
+دو روزه مهلت ایام را غنیمت دان
+بیاد دوست بسر بر، که وقت مغتنمست
+
+دگر ز حادث و محدث بوصف عشق مگوی
+که عشق لمعه خورشید مشرق قدمست
+
+چو یک نفس نزند کز تو خون نمیگرید
+بیا، بپرس ز قاسم، دمی، که در چه دمست؟

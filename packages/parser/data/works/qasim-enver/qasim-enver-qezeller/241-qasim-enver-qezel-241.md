@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-241
+sourceId: ganjoor-108311
+titleAz: Qəzəl 241
+titleRu: Газель 241
+titleFa: شمارهٔ ۲۴۱
+titleEn: Ghazal 241
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 241
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh241'
+status: DRAFT
+---
+مرا سودای او دیوانه دارد
+خراب ومست آن جانانه دارد
+
+نمی دانم چه شانست این که دایم
+سواد زلف او در شانه دارد؟
+
+چنان مستان چشم خویشتن شد
+که او از خود بکس پروا ندارد
+
+فدای چشم مست پر خمارم
+که در هر گوشه صد می خانه دارد
+
+سلامی می کنم بر حضرت دوست
+جواب من همه پیمانه دارد
+
+گدای معنوی نزد من آنست
+که ذوق صحبت سلطان ندارد
+
+همی گویند:قاسم بت پرستست
+بتی دارد، بلی، در خانه دارد

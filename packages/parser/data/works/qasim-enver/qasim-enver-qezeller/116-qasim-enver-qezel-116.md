@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-116
+sourceId: ganjoor-108186
+titleAz: Qəzəl 116
+titleRu: Газель 116
+titleFa: شمارهٔ ۱۱۶
+titleEn: Ghazal 116
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 116
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh116'
+status: DRAFT
+---
+آن ماه دل افروز، که محبوب جهانست
+با تست، ولی در پس صد پرده نهانست
+
+خواهم صفتی گویم از آن زلف معنبر
+دل در خفقانست و زبان در ذوبانست
+
+در کوچه مایار گرامی گذری کرد
+جانها نگران، جامه دران نعره زنانست
+
+هرگز بتجلی الهی نبرد پی
+بیچاره دل آن که رهین حدثانست
+
+آن خواجه ما هیچ ندانست، چه حاصل
+گر شاه نشین آمد، اگر شاه نشانست؟
+
+از جام وصال تو بهرکس که رسد می
+چه جای فریدون؟ که سلیمان زمانست
+
+قاسم بثنای تو غزل خوان و فصیحست
+هرچند فصیحست ولی کل لسانست

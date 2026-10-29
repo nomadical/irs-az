@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-194
+sourceId: ganjoor-108264
+titleAz: Qəzəl 194
+titleRu: Газель 194
+titleFa: شمارهٔ ۱۹۴
+titleEn: Ghazal 194
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 194
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh194'
+status: DRAFT
+---
+خلق گویند که: در عشق بلیاتی نیست
+قدمی نیست درین راه که آفاتی نیست
+
+بر سر کوی تو، کان منزل سرمستانست
+نرود شب که دلم را هی و هیهاتی نیست
+
+روی تو کشف من و غمزه کرامات منست
+تا نگویی که: مرا کشف و کراماتی نیست
+
+هله! ای زاهد افسرده، بخود مغروری
+که یقینست ترا حسن ملاقاتی نیست
+
+هرکه آزاد شد از خود بجهان، آخر کار
+مثل او در دو جهان سید و ساداتی نیست
+
+بمناجات نشاید شدن اندر ره عشق
+موسی جان مرا وعده میقاتی نیست
+
+قاسمی را بجز از عشق تو در ملک وجود
+در جهان دل و جان هیچ عباداتی نیست

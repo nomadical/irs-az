@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-289
+sourceId: ganjoor-108359
+titleAz: Qəzəl 289
+titleRu: Газель 289
+titleFa: شمارهٔ ۲۸۹
+titleEn: Ghazal 289
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 289
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh289'
+status: DRAFT
+---
+دلدار من از خانه ببازار برآمد
+ناگه بسر کوچه خمار برآمد
+
+گلبانگ «تعالی » بشنیدند روانها
+صد نعره ز تسبیح و ز زنار برآمد
+
+دعوی بچه تیره فرو رفت بخواری
+معنی ز ته که گل فخار برآمد
+
+عالم همه روشن شد از آن نور بیکبار
+گفتند که: آن دلبر عیار برآمد
+
+گفتیم: چو خورشید جمال تو عیانست
+«صدق » ز دل مؤمن وکفار برآمد
+
+گفتم که: تویی، غیر تو کس نیست بعالم
+این نعره هم از طبله عطار برآمد
+
+خورشید رسیدست ز ایمن بدل من
+تا از دل قاسم دم اقرار برآمد

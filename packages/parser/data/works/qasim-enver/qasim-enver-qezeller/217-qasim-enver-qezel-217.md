@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-217
+sourceId: ganjoor-108287
+titleAz: Qəzəl 217
+titleRu: Газель 217
+titleFa: شمارهٔ ۲۱۷
+titleEn: Ghazal 217
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 217
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh217'
+status: DRAFT
+---
+ای پرتو جمال الهی،چه گویمت؟
+ای فیض فضل نامتناهی،چه گویمت؟
+
+خواهم زلطف وجود توشکری کنم ادا
+آن هم زلطف تست،الهی،چه گویمت؟
+
+گر کاینات خصم شوند،از کسی چه باک؟
+ای جان ودل،توپشت وپناهی چه گویمت؟
+
+وصف تو بر صحیفه دلها نوشته اند
+بالاتر از سفید و سیاهی چه گویمت؟
+
+حیران شدست جان و دل عاشقان ترا
+نشناخته کسی بکماهی،چه گویمت؟
+
+گاهی بغمزه ای ره صد کاروان زنی
+گه مرشد طریقت و راهی،چه گویمت؟
+
+جان خواستی ز قاسم بیچاره،ای صنم
+جانها گدای تست و تو شاهی، چه گویمت؟

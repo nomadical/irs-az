@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-537
+sourceId: ganjoor-108607
+titleAz: Qəzəl 537
+titleRu: Газель 537
+titleFa: شمارهٔ ۵۳۷
+titleEn: Ghazal 537
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 537
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh537'
+status: DRAFT
+---
+چه باشد شیوهٔ عاشق؟ به معشوقان نظر کردن
+چه باشد کار معشوقان؟ دل عاشق سپر کردن
+
+در آن وادی که طاوس ملایک پر بیندازد
+مگس را اندران میدان چه فکر بال و پر کردن؟
+
+نگویم از سر و از جان به پیش روی آن جانان
+مسلم نیست عاشق را حدیث مختصر کردن
+
+اگر تو عاشق راهی، ز نزدیکان درگاهی
+به پیش زخم شمشیرش نشاید فکر سر کردن
+
+نشان عاشقان چبود، درین کوی جگرخواران؟
+وداع نیک و بد گفتن، به ترک خیر و شر کردن
+
+حکایت از لب جان کن، حدیث گوهرافشان کن
+اگر خواهی به شیرینی حدیثی چون شکر کردن
+
+محمدوار قاسم را شجر مطلوب جان آمد
+ولیکن مذهب موسی نظر اندر شجر کردن

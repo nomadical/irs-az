@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-460
+sourceId: ganjoor-108530
+titleAz: Qəzəl 460
+titleRu: Газель 460
+titleFa: شمارهٔ ۴۶۰
+titleEn: Ghazal 460
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 460
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh460'
+status: DRAFT
+---
+مست بودیم بگلبانگ تو هشیار شدیم
+خفته بودیم بآواز تو بیدار شدیم
+
+شوری از میکده عشق تو در جان افتاد
+فارغ از خرقه و سجاده و زنار شدیم
+
+همه گفتند که: او عازم خمار شدست
+کف زنان رقص کنان بر در خمار شدیم
+
+چون بدیدیم که وصل تو بما می نرسد
+با دل شیفته خوش بر سر زنهار شدیم
+
+من چه گویم که: نسیمی ز وصال تو وزید؟
+خار بودیم و لیکن همه گلزار شدیم
+
+غیر تو با تو حجابست، بجایی نرسید
+پشت پایی بزدیم از همه بیزار شدیم
+
+پرتو روی تو بر چهره زردم افتاد
+از صفای رخ تو قاسم انوار شدیم

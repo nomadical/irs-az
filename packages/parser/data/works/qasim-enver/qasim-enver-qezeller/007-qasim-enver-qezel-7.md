@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-7
+sourceId: ganjoor-108077
+titleAz: Qəzəl 7
+titleRu: Газель 7
+titleFa: شمارهٔ ۷
+titleEn: Ghazal 7
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 7
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh7'
+status: DRAFT
+---
+بلبل بوقت صبح بدرگاه کبریا
+فریاد عشق زد که: منم عاشق خدا
+
+زار و نزار و شیوه تجرید همرهست
+در حال من نگر ز سر لطف، ربنا
+
+مجروح و خسته ایم، بما مرهمی فرست
+چون مرهمی رسید صفا در پی صفا
+
+آواره بود دل ز غم عشق در جهان
+چون روی تو بدید«لقد سرمن رآ»
+
+یاد تو روح ماست جمالت فتوح ماست
+ما با تو بوده ایم درین دیر سالها
+
+واقف شوی و غیب نماند بهیچ حال
+گر تو علی وقتی از سر«لافتا»
+
+ای مدعی، ز حالت قاسم سخن مپرس
+غرقیم در وصال و فناییم در فنا

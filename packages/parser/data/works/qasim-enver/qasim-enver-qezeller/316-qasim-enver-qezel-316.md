@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-316
+sourceId: ganjoor-108386
+titleAz: Qəzəl 316
+titleRu: Газель 316
+titleFa: شمارهٔ ۳۱۶
+titleEn: Ghazal 316
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 316
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh316'
+status: DRAFT
+---
+سرمایه سعادت ما در دیار بود
+ورنه بسعی ما گره از کار کی گشود؟
+
+دردست هرچه هست،که این درد چاره ساز
+باجان آدمی بمثل آتشست و عود
+
+رندی،که ره بکوی خرابات عشق برد
+جان را ز دست محنت ایام در ربود
+
+بگشای رخ،که دیر شدست انتظار ما
+تاجان بران جمال فشانیم زود زود
+
+از حال عشق عقل ندانست شمه ای
+خود را هزار بار بدین حالت آزمود
+
+باعقل خواجه گونه بگویید:کای سلیم
+سودای یار و آنگه فکر زیان و سود؟
+
+شیدا و رند و عاشق و دیوانه گشت و مست
+هر کس ز عشق بازی قاسم سخن شنود

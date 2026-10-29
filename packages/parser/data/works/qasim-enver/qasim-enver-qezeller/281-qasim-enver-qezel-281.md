@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-281
+sourceId: ganjoor-108351
+titleAz: Qəzəl 281
+titleRu: Газель 281
+titleFa: شمارهٔ ۲۸۱
+titleEn: Ghazal 281
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 281
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh281'
+status: DRAFT
+---
+نهال دولتم را گل بر آمد
+قیامت شد،که گل بر منبر آمد
+
+مواعظ گفت،اما نکته این بود
+که :عشق از هر دو عالم بر تر آمد
+
+کسی کز عشق عزت یافت شاهست
+سرش بالای چرخ چنبر آمد
+
+جمال عشق را هر کس که بشناخت
+بجوهر از دو عالم بر سر آمد
+
+نیاز جان سر مستان بعشقست
+که جان عود و محبت مجمر آمد
+
+گذشت ایام هجران،جای شکرست
+که دوران وصال ساغر آمد
+
+صفات حسن تو می گفت قاسم
+فغان از بلبل بی دل بر آمد

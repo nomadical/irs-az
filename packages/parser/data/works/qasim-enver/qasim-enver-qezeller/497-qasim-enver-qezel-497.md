@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-497
+sourceId: ganjoor-108567
+titleAz: Qəzəl 497
+titleRu: Газель 497
+titleFa: شمارهٔ ۴۹۷
+titleEn: Ghazal 497
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 497
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh497'
+status: DRAFT
+---
+یارم ز در در آمد، وشتن کنید وشتن
+این خانه را به وشتن گلشن کنید، گلشن
+
+یارم ز در درآمد، با حسن و زیب و با فر
+گفتم وفا نداری، خندید و گفت:«سن سن »
+
+ای پادشاه جانها وی راحت روانها
+اول «سنی سیورم » آخر «سنی سیورمن »
+
+در خانقاه صورت، در گوشه های معنی
+هم بوده ایم با تو در دیرهای ارمن
+
+من مست عشق یارم، مشتاق آن نگارم
+از من مپرس، باری، اوصاف عشق ذوالمن
+
+ای دل حیات خواهی؟ روی نجات خواهی؟
+این عشق ایزدی را دیدن کنید، دیدن
+
+قاسم، خیال بازی، در حالت نیازی
+یک دم قدم برون نه زین خانه ملون

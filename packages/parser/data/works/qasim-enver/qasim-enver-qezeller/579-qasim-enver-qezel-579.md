@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-579
+sourceId: ganjoor-108649
+titleAz: Qəzəl 579
+titleRu: Газель 579
+titleFa: شمارهٔ ۵۷۹
+titleEn: Ghazal 579
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 579
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh579'
+status: DRAFT
+---
+در میان همه خوبان بت ما از همه به
+همه صافند ولی او بصفا از همه به
+
+من که با صورت زیبای تو دارم حالی
+صورت حال من رند گدا از همه به
+
+عاقلان چون همه دربند سر و دستارند
+رند سودازده بی سر و پا از همه به
+
+ماهرویان جهان شیوه محبوبی را
+همه دانند ولی دلبر ما از همه به
+
+دلبرا، عکس تجلی جمالت چون شمع
+همه را نور بصر داد، مرا از همه به
+
+درد ما را که طبیبان نشناسند علاج
+پرسش یار گرامی بدوا از همه به
+
+گرچه قومی بوفای تو ز جان بگذشتند
+قاسم سوخته در حسن وفا از همه به

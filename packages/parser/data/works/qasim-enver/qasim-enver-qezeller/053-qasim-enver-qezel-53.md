@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-53
+sourceId: ganjoor-108123
+titleAz: Qəzəl 53
+titleRu: Газель 53
+titleFa: شمارهٔ ۵۳
+titleEn: Ghazal 53
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 53
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh53'
+status: DRAFT
+---
+پیش از بنای مدرسه و دیر سومنات
+ما با تو بوده ایم در اطوار کاینات
+
+اندر میان حکایت پیغام در گذشت
+چون با منی همیشه چه حاجت بمرسلات؟
+
+ازما خلاف دوست نیاید،که با حبیب
+همراه بوده ایم در انواع واردات
+
+زنهار،ذکر غیر دگر برزبان مران
+صاحبدلان بغیر نکردندالتفات
+
+هشیار شرط نیست که باشی،که در جهان
+هر ذره از ذراری کونند ساقیات
+
+زاهد،مکن مبالغه با ما و این بدان
+بر جنس طیبین حلالست طیبات
+
+قاسم،خموش باش و عنان سخن بکش
+تا پیر عشق با تو نگوید ز باقیات

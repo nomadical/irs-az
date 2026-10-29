@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-470
+sourceId: ganjoor-108540
+titleAz: Qəzəl 470
+titleRu: Газель 470
+titleFa: شمارهٔ ۴۷۰
+titleEn: Ghazal 470
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 470
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh470'
+status: DRAFT
+---
+عمریست که سودای سر زلف تو داریم
+دیریست که از نرگس مستت بخماریم
+
+ما آب روانیم و تو دریای حیاتی
+جویای توایم، از همه رو رو بتو داریم
+
+چون رو بتو داریم، ز ما روی مگردان
+ما بنده روی تو، بگو: رو بکه آریم؟
+
+اعداد شمردیم بسی، جمله یکی بود
+چون جمله یکی باشد، ما در چه شماریم؟
+
+بیماری از اندازه برون شد، قدمی نه
+تا جان گرانمایه بجانان بسپاریم
+
+گفتم: بکرمهای تو بازآر دلم را
+خوش گفت: اگر باز نیاریم نه یاریم
+
+برخاست ز فکر دو جهان خاطر قاسم
+واعظ، بنشین، ما سر افسانه نداریم

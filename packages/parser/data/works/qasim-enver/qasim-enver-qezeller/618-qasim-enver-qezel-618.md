@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-618
+sourceId: ganjoor-108688
+titleAz: Qəzəl 618
+titleRu: Газель 618
+titleFa: شمارهٔ ۶۱۸
+titleEn: Ghazal 618
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 618
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh618'
+status: DRAFT
+---
+وصال یار بصد جان بخر، اگر نخری
+یقین که از غم هجران دوست جان نبری
+
+ببانگ الله اکبر نمی شوی بیدار
+که پیش زمره عشاق گنگ و کور و کری
+
+بیا، برای افاضت، بیا، برای کرم
+که بسته را تو کلیدی و علم را تو دری
+
+تراست لطف و کرم، هم باول و آخر
+ز لطف چاره من بر، که شاه چاره بری
+
+نظر بروی تو داریم و روز و شب شادیم
+بحال ما نظری کن، که صاحب نظری
+
+سرم بملک دو عالم ز فخر در گذرد
+اگر بگوشه چشمی بسوی مانگری
+
+دلم ببردی و دینم، نه مهر ماند و نه کین
+به پیش قاسم مسکین حریف جمله بری

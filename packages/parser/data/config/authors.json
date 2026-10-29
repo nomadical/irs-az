@@ -3899,5 +3899,281 @@
       "az": "Zikri Ərdəbili"
     },
     "collections": []
+  },
+  {
+    "slug": "sebusteri",
+    "nameAz": "Şeyx Mahmud Şəbüstəri",
+    "nameRu": "Махмуд Шабистари",
+    "nameFa": "شیخ محمود شبستری",
+    "nameEn": "Mahmoud Shabestari",
+    "type": "POET",
+    "period": "XIII-XIV əsr",
+    "writingLangs": [
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Mahmud Şəbüstəri",
+      "ru": "Шабистари, Махмуд"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/shabestari",
+      "collections": [
+        {
+          "catUrl": "/shabestari/golshaneraz",
+          "collectionSlug": "sebusteri-gulseni-raz",
+          "form": "MASNAVI"
+        },
+        {
+          "catUrl": "/shabestari/kanzolhaghayegh",
+          "collectionSlug": "sebusteri-kenzul-heqayiq",
+          "form": "MASNAVI"
+        },
+        {
+          "catUrl": "/shabestari/saadatname",
+          "collectionSlug": "sebusteri-seadetname",
+          "form": "MASNAVI"
+        },
+        {
+          "catUrl": "/shabestari/hagholyaghin",
+          "collectionSlug": "sebusteri-heqqul-yeqin",
+          "form": "MASNAVI"
+        },
+        {
+          "catUrl": "/shabestari/merat",
+          "collectionSlug": "sebusteri-mirat-ul-muhaqqiqin",
+          "form": "MASNAVI"
+        }
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "qasim-enver",
+    "nameAz": "Qasım Ənvar",
+    "nameRu": "Касим Анвар",
+    "nameFa": "قاسم انوار",
+    "nameEn": "Qasim Anvar",
+    "type": "POET",
+    "period": "XIV-XV əsr",
+    "writingLangs": [
+      "FA",
+      "AZ_ARABIC"
+    ],
+    "wikipedia": {
+      "az": "Şah Qasım Ənvar"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/ghasem",
+      "collections": [
+        {
+          "catUrl": "/ghasem/divan/ghazal",
+          "collectionSlug": "qasim-enver-qezeller"
+        },
+        {
+          "catUrl": "/ghasem/divan/marsie",
+          "collectionSlug": "qasim-enver-mersiyeler"
+        },
+        {
+          "catUrl": "/ghasem/divan/ghete",
+          "collectionSlug": "qasim-enver-qiteler"
+        },
+        {
+          "catUrl": "/ghasem/divan/robaee",
+          "collectionSlug": "qasim-enver-rubailer"
+        },
+        {
+          "catUrl": "/ghasem/divan/masnavi",
+          "collectionSlug": "qasim-enver-mesneviler"
+        },
+        {
+          "catUrl": "/ghasem/divan",
+          "collectionSlug": "qasim-enver-tercibend",
+          "flat": true
+        },
+        {
+          "catUrl": "/ghasem/divan/molamma/torki",
+          "collectionSlug": "qasim-enver-turki-sirler",
+          "lang": "AZ_ARABIC"
+        },
+        {
+          "catUrl": "/ghasem/anis",
+          "collectionSlug": "qasim-enver-anisul-arifin"
+        },
+        {
+          "catUrl": "/ghasem/maghamat",
+          "collectionSlug": "qasim-enver-meqamatul-arifin"
+        }
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "neyyir",
+    "nameAz": "Nəyyir Təbrizi",
+    "nameRu": "Найир Табризи",
+    "nameFa": "نیر تبریزی",
+    "nameEn": "Nayyir Tabrizi",
+    "type": "POET",
+    "period": "XIX əsr",
+    "writingLangs": [
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Nəyyir Təbrizi"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/nayyer",
+      "collections": [
+        {
+          "catUrl": "/nayyer/atashkadehn",
+          "collectionSlug": "neyyir-atesgede"
+        },
+        {
+          "catUrl": "/nayyer/laali-manzoome",
+          "collectionSlug": "neyyir-leali-menzume"
+        },
+        {
+          "catUrl": "/nayyer/ghazal-nt",
+          "collectionSlug": "neyyir-qezeller"
+        },
+        {
+          "catUrl": "/nayyer/robaee-nt",
+          "collectionSlug": "neyyir-rubailer"
+        },
+        {
+          "catUrl": "/nayyer/sayer-nt",
+          "collectionSlug": "neyyir-diger-sirler"
+        }
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "sam-mirze",
+    "nameAz": "Sam Mirzə",
+    "nameRu": "Сам Мирза",
+    "nameFa": "سام میرزا صفوی",
+    "nameEn": "Sam Mirza",
+    "type": "POET",
+    "period": "XVI əsr",
+    "writingLangs": [
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Sam Mirzə",
+      "ru": "Сам Мирза"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/sam",
+      "collections": [
+        {
+          "catUrl": "/sam/tohfe/m",
+          "collectionSlug": "sam-mirze-tohfeyi-sami"
+        },
+        {
+          "catUrl": "/sam/tohfe/s1",
+          "collectionSlug": "sam-mirze-tohfeyi-sami"
+        },
+        {
+          "catUrl": "/sam/tohfe/s2/s1",
+          "collectionSlug": "sam-mirze-tohfeyi-sami"
+        },
+        {
+          "catUrl": "/sam/tohfe/s2/s2",
+          "collectionSlug": "sam-mirze-tohfeyi-sami"
+        },
+        {
+          "catUrl": "/sam/tohfe/s3",
+          "collectionSlug": "sam-mirze-tohfeyi-sami"
+        },
+        {
+          "catUrl": "/sam/tohfe/s4",
+          "collectionSlug": "sam-mirze-tohfeyi-sami"
+        },
+        {
+          "catUrl": "/sam/tohfe/s5",
+          "collectionSlug": "sam-mirze-tohfeyi-sami"
+        },
+        {
+          "catUrl": "/sam/tohfe/s6",
+          "collectionSlug": "sam-mirze-tohfeyi-sami"
+        },
+        {
+          "catUrl": "/sam/tohfe/s7",
+          "collectionSlug": "sam-mirze-tohfeyi-sami"
+        }
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "irec-mirze",
+    "nameAz": "İrəc Mirzə",
+    "nameRu": "Ирадж Мирза",
+    "nameFa": "ایرج میرزا",
+    "nameEn": "Iraj Mirza",
+    "type": "POET",
+    "period": "XIX-XX əsr",
+    "writingLangs": [
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "İrəc Mirzə",
+      "ru": "Ирадж-Мирза"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/iraj",
+      "collections": [
+        {
+          "catUrl": "/iraj/ghaside",
+          "collectionSlug": "irec-mirze-qesideler"
+        },
+        {
+          "catUrl": "/iraj/ghazal",
+          "collectionSlug": "irec-mirze-qezeller"
+        },
+        {
+          "catUrl": "/iraj/masnavi",
+          "collectionSlug": "irec-mirze-mesneviler",
+          "form": "MASNAVI",
+          "flat": true
+        },
+        {
+          "catUrl": "/iraj/masnavi/arefname",
+          "collectionSlug": "irec-mirze-arifname",
+          "form": "MASNAVI"
+        },
+        {
+          "catUrl": "/iraj/masnavi/zohre-va-manoochehr",
+          "collectionSlug": "irec-mirze-zohre-ve-menucehr",
+          "form": "MASNAVI"
+        },
+        {
+          "catUrl": "/iraj/ghete",
+          "collectionSlug": "irec-mirze-qiteler"
+        },
+        {
+          "catUrl": "/iraj/robaee",
+          "collectionSlug": "irec-mirze-rubailer"
+        },
+        {
+          "catUrl": "/iraj/morabba",
+          "collectionSlug": "irec-mirze-murebbeler"
+        },
+        {
+          "catUrl": "/iraj/no",
+          "collectionSlug": "irec-mirze-yeni-qaliblar"
+        },
+        {
+          "catUrl": "/iraj/abiat-prakndh",
+          "collectionSlug": "irec-mirze-perakende-beytler"
+        },
+        {
+          "catUrl": "/iraj/digar",
+          "collectionSlug": "irec-mirze-diger-sirler"
+        }
+      ]
+    },
+    "collections": []
   }
 ]

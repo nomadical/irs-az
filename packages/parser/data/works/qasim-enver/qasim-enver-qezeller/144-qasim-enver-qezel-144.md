@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-144
+sourceId: ganjoor-108214
+titleAz: Qəzəl 144
+titleRu: Газель 144
+titleFa: شمارهٔ ۱۴۴
+titleEn: Ghazal 144
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 144
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh144'
+status: DRAFT
+---
+نمی‌توان خبری دادن از حقیقت دوست
+ولی ز روی حقیقت حقیقت همه اوست
+
+بیا، که وصف جمال تو می‌رود، بشنو
+بیا، که قصهٔ صاحبدلان به وجه نکوست
+
+به ابروت نتوان کرد اشارتی، که مدام
+ز ترک چشم تو ترسم، که مست و عربده‌جوست
+
+کمینه جرعهٔ رندان دیر ما دریاست
+ز حد گذشت حکایت، چه جای جام و سبوست؟
+
+جهان اگر همه لب گردد از کرامت وقت
+نصیب جنس مقلد نباشد الا پوست
+
+ز جور دشمن و طعن رقیب و سوز فراق
+مرا که جامه به صد پاره شد چه جای رفوست؟
+
+به وقت رفتن، قاسم، مگو دریغ و بگو
+که: می‌رود به علی رغم خصم، دوست به دوست

@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-29
+sourceId: ganjoor-108099
+titleAz: Qəzəl 29
+titleRu: Газель 29
+titleFa: شمارهٔ ۲۹
+titleEn: Ghazal 29
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 29
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh29'
+status: DRAFT
+---
+ساقی به من آور قدح پیر مغان را
+تا تازه کند جودت او جوهر جان را
+
+یک جام به من بخش از آن خم قدیمی
+زان می که کند مست زمین را و زمان را
+
+زان باده که در نشئه او آب حیاتست
+زان باده که او جلوه دهد عین عیان را
+
+زان باده که تا با نشد ازو طلعت خورشید
+زان باده که سرمست کند پیر و جوان را
+
+قومی که ازین باده چشیدند، درین حال
+گفتند به مستی همه اسرار نهان را
+
+ما را سخن از یار قدیمست درین راه
+زین بیش مگویید حدیث حدثان را
+
+قاسم، همه یارست به جز یار دگر نیست
+روشن بود این نکته حریف همه‌دان را

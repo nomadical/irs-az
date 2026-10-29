@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-266
+sourceId: ganjoor-108336
+titleAz: Qəzəl 266
+titleRu: Газель 266
+titleFa: شمارهٔ ۲۶۶
+titleEn: Ghazal 266
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 266
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh266'
+status: DRAFT
+---
+کسی که روی تو بیند چگونه شاد نباشد؟
+مرید عشق تو،ای دوست،نامراد نباشد
+
+مرا،که قبله جان روی تست اول و آخر
+یقین که خوشتر ازین مبداء و معاد نباشد
+
+سوادچشم مرا کرده ای قبول بشرطی
+که جز خیال تو نوری درین سواد نباشد
+
+نه من توام،نه تو من،هرچه هست جمله تویی،بس
+که میل جان موحد باتحاد نباشد
+
+سماع مجلس رندان خوشست،زاهد خودبین
+برقص آیدازین حال اگر جماد نباشد
+
+یقین که عاشق صادق سخن زعقل نگوید
+وگر بسهو بگوید باعتقاد نباشد
+
+بدردهای تو قاسم نهاد دل،چه کند؟چون
+گدای کوی ترا غیر ازین نهاد نباشد

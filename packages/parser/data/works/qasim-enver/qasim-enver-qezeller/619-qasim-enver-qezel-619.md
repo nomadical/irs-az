@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-619
+sourceId: ganjoor-108689
+titleAz: Qəzəl 619
+titleRu: Газель 619
+titleFa: شمارهٔ ۶۱۹
+titleEn: Ghazal 619
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 619
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh619'
+status: DRAFT
+---
+مرا از پرتو روی تو هر لمعه است دیداری
+مرا از لمعه روی تو هر لمعه است انواری
+
+اگر مقبول درگاهم، امیرم، خسروم، شاهم
+وگر نی در میان جان ببینی عقد زناری
+
+میان زاهدان رفتم، عجب افسرده دل قومی!
+میان عاشقان رفتم، عجایب گرم بازاری!
+
+ببازار جهان رفتم، دل و جان را حرج کردم
+بحمدالله که پیش آمد مرا ماهی خریداری
+
+یکی با عقل ترسیدن، یکی از عشق ورزیدن
+نهاده حکمت و قدرت برای هریکی کاری
+
+هم مستند در دینی، همه کس غافل از مولی
+که اندر شهر و در کوچه نمی بینم هشیاری
+
+مگو از صوفیان رسم و عادت پیش اهل دل
+زمرد نیست چون مینا به پیش قاسمی، باری

@@ -58,14 +58,14 @@ Built from the DB, Ganjoor's poet list (birthplace or deathplace in Azerbaijan) 
 
 ### Authors to add
 Persian, full text on Ganjoor:
-- [ ] Şeyx Mahmud Şəbüstəri — XIV — Gülşəni-raz and the rest (`/shabestari`)
-- [ ] Həmam Təbrizi — XIII–XIV — divan (`/homam`)
-- [ ] Şəms Məğribi Təbrizi — XIV — divan (`/maghrebi`)
-- [ ] Qasım Ənvar (Sərabi) — XIV–XV — divan (`/ghasem`); a few Turkic poems too
-- [ ] Məczub Təbrizi — XVII (`/majzoob`)
-- [ ] Nəyyir Təbrizi — XIX (`/nayyer`)
-- [ ] Sam Mirzə Səfəvi — XVI — Töhfeyi-Sami, a tazkira (`/sam`); low priority
-- [ ] Born in Tabriz, Persian-only, your call: Pərvin Etisami (`/parvin`), İrəc Mirzə (`/iraj`)
+- [x] Şeyx Mahmud Şəbüstəri — XIV — Gülşəni-raz and the rest (`/shabestari`): 247
+- [x] Həmam Təbrizi — XIII–XIV — divan (`/homam`): 382
+- [x] Şəms Məğribi Təbrizi — XIV — divan (`/maghrebi`): 262
+- [x] Qasım Ənvar (Sərabi) — XIV–XV — divan (`/ghasem`); a few Turkic poems too: 821 (Gilaki mulamma skipped)
+- [x] Məczub Təbrizi — XVII (`/majzoob`): 362
+- [x] Nəyyir Təbrizi — XIX (`/nayyer`): 345
+- [x] Sam Mirzə Səfəvi — XVI — Töhfeyi-Sami, a tazkira (`/sam`): 711 entries as PROSE, titled «Töhfeyi-Sami, bölmə N» in Ganjoor order
+- [x] Born in Tabriz, Persian-only: Pərvin Etisami (`/parvin`): 223, İrəc Mirzə (`/iraj`): 226
 - [ ] Not on Ganjoor, source needed: Əssar Təbrizi (Mehr və Müştəri), Arif Ərdəbili (Fərhadnamə), Əbül-Üla Gəncəvi, Zülfüqar Şirvani, Xətib Təbrizi (Arabic)
 
 Turkic classics and folk, az.wikisource:

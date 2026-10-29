@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-657
+sourceId: ganjoor-108727
+titleAz: Qəzəl 657
+titleRu: Газель 657
+titleFa: شمارهٔ ۶۵۷
+titleEn: Ghazal 657
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 657
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh657'
+status: DRAFT
+---
+جراحت دل من تازه کرد دلبر جانی
+که هر جدید درو لذتیست وین تو ندانی
+
+پس از مجاورت چاه دید یوسف کنعان
+بمصر عالم صورت تجلیات معانی
+
+ترا ز ذوق ملامت خبر کجاست؟ که دایم
+رهین نعمت و عزت، قرین امن و امانی
+
+سعادتی که تو داری بوصف راست نیاید
+حیات و صحت و عرفان، جمال و جان و جوانی
+
+بکوش تا بشناسی کمال نعمت منعم
+رموز دفتر شکرش چنان بخوان که بدانی
+
+اگر تو یوسف جان را ز حبس تن بدر آری
+باتفاق عزیزان، عزیز هر دو جهانی
+
+خموش، قاسم، ازین پس بپوش حال درون را
+ترا چه شد که همه آه و درد و سوز و فغانی؟

@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-109
+sourceId: ganjoor-108179
+titleAz: Qəzəl 109
+titleRu: Газель 109
+titleFa: شمارهٔ ۱۰۹
+titleEn: Ghazal 109
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 109
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh109'
+status: DRAFT
+---
+تو ساقی جان بخشی و عالم همه جامست
+وز باده نوشین تو عالم همه جامست
+
+از جام تو یک جرعه بما ده، که زمین را
+گر زانکه نصیبست، هم از کأس کرامست
+
+هرچند که ما عامی عشقیم درین راه
+بر جمله ذرات جهان لطف تو عامست
+
+واعظ، که برقصست پس پرده پندار
+سودش نکند پند، که در بند عمامست
+
+در دور رخش یک دل هشیار ندیدیم
+آنکس که نه مستست درین دور، کدامست؟
+
+در کشتن عشاق بشمشیر چه حاجت؟
+یک غمزه از آن نرگس مخمور تمامست
+
+گفتی که: سلامی بفرستیم بقاسم
+از ذوق سلامت دل من دار سلامست

@@ -1,0 +1,36 @@
+---
+slug: qasim-enver-qite-4
+sourceId: ganjoor-108762
+titleAz: Qitə 4
+titleRu: Кыта 4
+titleFa: شمارهٔ ۴
+titleEn: Qit'a 4
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qiteler
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 4
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghete/sh4'
+status: DRAFT
+---
+درویش، که حرف او بصورت پنجست
+هریک بمثابه ای که بیش از پیشست
+
+دالست دلیل آنکه با درد بساز
+گر بر تن تو هر سو مو صد نیشست
+
+را، روی و ریا مکن، که این روی و ریا
+رسوایی بیگانه و رنج خویشست
+
+و اوست وداع غیر مولی کردن
+وین کار چنین کار یکی بی خوشست
+
+یا، یک دل و یک رنگ شو اندر ره عشق
+یکتا نشود، هر آنکه او با خویشست
+
+شین، آنکه کند شکر و شکایت نکند
+وندر پی خصم خویش نیک اندیشست
+
+آنرا که چنین پنج خصایل دادند
+دریاب و درو گریز کو درویشست

@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-228
+sourceId: ganjoor-108298
+titleAz: Qəzəl 228
+titleRu: Газель 228
+titleFa: شمارهٔ ۲۲۸
+titleEn: Ghazal 228
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 228
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh228'
+status: DRAFT
+---
+هزار شکر که سلطان عشق جان را داد
+هزار مجد و معالی، هزار حسن و رشاد
+
+به پیش وصل تو از هجر دادها کردم
+هزار شکر که سلطان وصل دادم داد
+
+هوای وصل تو جانبخش و دلنواز آمد
+که باشد آنکه نباشد به مهر رویت شاد؟
+
+هزار سال من این ره به سر بپیمودم
+که تا رسید مرا سر بر آستان مراد
+
+بحسن ولطف وامانی دهر غره مشو
+که خانه ایست منقش، ولیک بی بنیاد
+
+مورز وصف تانی وکاوکاوی کن
+که گنجهاست درین عرصه خراب آباد
+
+بداد قاسم بیچاره جان شیرین را
+بآرزوی وصال تو، هر چه باداباد!

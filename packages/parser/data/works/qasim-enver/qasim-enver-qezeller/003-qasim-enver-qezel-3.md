@@ -1,0 +1,43 @@
+---
+slug: qasim-enver-qezel-3
+sourceId: ganjoor-108073
+titleAz: Qəzəl 3
+titleRu: Газель 3
+titleFa: شمارهٔ ۳
+titleEn: Ghazal 3
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 3
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh3'
+status: DRAFT
+---
+ای صبح سعادت ز جبین تو هویدا
+این حسن چه حسنست؟ تقدس و تعالا
+
+من بنده آن باده نابم که دمادم
+در هر نفسی تازه کند جودت ما را
+
+از عربده ما در میخانه نیستی
+جان بنده حسن تو، زهی حسن مدارا
+
+از کعبه و بتخانه مگوئید بعاشق
+از جنت و فردوس مگو مست لقا را
+
+امروز اگر فرد شوی مرد خدایی
+فردا مطلب نسیه،مجو عاشق فردا
+
+دانند رفیقان که ره دور و درازست
+از کوچه مقصود ببازار تمنا
+
+در کوی تو پستیم،زهی منصب عالی!
+با روی تو مستیم، زهی مقصد اقصا!
+
+چون نسبت ما با تو درستست نگوئیم
+دیگر سخن از مرتبه آدم و حوا
+
+ای هادی جان و دل و دین رحمت عامت
+بر قاسم بیچاره تو از لطف ببخشا

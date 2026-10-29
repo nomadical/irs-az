@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-549
+sourceId: ganjoor-108619
+titleAz: Qəzəl 549
+titleRu: Газель 549
+titleFa: شمارهٔ ۵۴۹
+titleEn: Ghazal 549
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 549
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh549'
+status: DRAFT
+---
+از عیان گر واقفی، بگذر ز عین
+«این تمشی؟ این تمشی؟ این این »؟
+
+«نحن اقرب » گفت «من حبل الورید»
+مقصد عالم تویی در نشأتین
+
+گر تو زینی دور باش از شین نفس
+هر دو با هم راست ناید زین و شین
+
+تا ترا جهل جبلی غالبست
+وا ندانی شین را هرگز ز زین
+
+سخت محرومی و بس بی بهره ای
+چون مسلط شد یزیدت بر حسین
+
+شارب شرب خدا جان و دلست
+پیش خواجه سبلتست و شاریین
+
+قاسمی را کی توانی دید راست؟
+چونکه غالب گشت بر عین تو غین

@@ -1,0 +1,27 @@
+---
+slug: qasim-enver-qite-26
+sourceId: ganjoor-108784
+titleAz: Qitə 26
+titleRu: Кыта 26
+titleFa: شمارهٔ ۲۶
+titleEn: Qit'a 26
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qiteler
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+order: 26
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghete/sh26'
+status: DRAFT
+---
+هر چند جنس آب حیاتست خربزه
+بسیار بی بقا و ثباتست خربزه
+
+زنهار! در قوقون بحقارت نظر مکن
+چون رشک کوزهای نباتست خربزه
+
+یک نکته را بدان و عمل کن بدان یقین
+کاندر خور جهاد و زکاتست خربزه
+
+فالیزوان بدان که : سه خرار و چار و پنج
+ما را بخدمت تو براتست خربزه

@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-205
+sourceId: ganjoor-108275
+titleAz: Qəzəl 205
+titleRu: Газель 205
+titleFa: شمارهٔ ۲۰۵
+titleEn: Ghazal 205
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 205
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh205'
+status: DRAFT
+---
+دردم ز اشتیاق تو ز اندازه در گذشت
+از پا در اوفتادم و آبم ز سر گذشت
+
+هر دل، که با وفای تو رفت از جهان برون
+جان بخش و مشکبو چو نسیم سحر گذشت
+
+بر طور عشق روی تو هر کس که بار یافت
+موسی صفت ز عرصه طور بشر گذشت
+
+در کوی عاشقی، که دو عالم طفیل اوست
+آن کس قدم نهاد که از فکر سر گذشت
+
+از لذت حیات جهان بهره ور نشد
+هر دل که از حقیقت خود بیخبر گذشت
+
+یا رب، چه شکرها که ندارند عاشقان؟
+از لطف یار ما، که ز شیر و شکر گذشت
+
+بر خاک آستان تو جان را نثار کرد
+قاسم بحضرت تو ازین مختصر گذشت

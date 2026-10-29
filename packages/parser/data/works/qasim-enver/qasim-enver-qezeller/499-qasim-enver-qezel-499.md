@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-499
+sourceId: ganjoor-108569
+titleAz: Qəzəl 499
+titleRu: Газель 499
+titleFa: شمارهٔ ۴۹۹
+titleEn: Ghazal 499
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 499
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh499'
+status: DRAFT
+---
+ای ساقی دل و جان، ای نور چشم اعیان
+ما توبها شکستیم، جامی بیار پنهان
+
+ای آرزوی جانها، ای راحت روانها
+یک دم بیا و بنشین، جامی بده و بستان
+
+جامی دو سه بما ده، دل را ز غم رها ده
+ای چشم پرفریبت سر خیل ترکتازان
+
+زنهار! تانبازی منصوبه تصرف
+کین جاست غرقه در خون جان و دل عزیزان
+
+ای جان جان جانان، ای روح و راحت جان
+ما را ز خویش بستان، زان غمزه های فتان
+
+ما خوار و زار ماندیم، در انتظار ماندیم
+یا برقعی برافگن، یا زلف را برافشان
+
+قاسم چگونه گوید اوصاف حسن رویت؟
+ماهیست در ثریا، لعلیست در بدخشان

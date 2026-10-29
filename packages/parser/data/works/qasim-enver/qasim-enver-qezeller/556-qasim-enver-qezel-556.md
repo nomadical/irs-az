@@ -1,0 +1,43 @@
+---
+slug: qasim-enver-qezel-556
+sourceId: ganjoor-108626
+titleAz: Qəzəl 556
+titleRu: Газель 556
+titleFa: شمارهٔ ۵۵۶
+titleEn: Ghazal 556
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 556
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh556'
+status: DRAFT
+---
+گفت: نور آسمانست و زمین
+وصف حق را رحمة للعالمین
+
+این روایت را که داند؟ راهرو
+وین هدایت را که بیند؟ راه بین
+
+گرنه ای محجوب، استعجاب چیست؟
+نور حق بین در مکان و در مکین
+
+کی بدی ادراک در سمع و بصر؟
+گر نبودی نور حق در ما و طین؟
+
+بر نیفشاند کسی دستی بوجد
+تا نیاید دست او در آستین
+
+گر نبودی نور حق در آب و خاک
+صورت معنی نبودی مستبین
+
+در حقیقت مبدء ومرجع تویی
+«یا الهی،انت خیرالوارثین »
+
+چون مهینی قیمت خود را بدان
+«خالق الانسان من ماء مهین »
+
+جان قاسم زنده از عشق تو شد
+«یا غیاثی، انت رب العالمین »

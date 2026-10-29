@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-455
+sourceId: ganjoor-108525
+titleAz: Qəzəl 455
+titleRu: Газель 455
+titleFa: شمارهٔ ۴۵۵
+titleEn: Ghazal 455
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 455
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh455'
+status: DRAFT
+---
+مشرب عذب مرا هر نفس از خم قدیم
+می رسد باده صافی ز کرمهای کریم
+
+هرکسی دل بکسی داد ولی مشتاقان
+دل و جان را بتو دادند، زهی طبع سلیم!
+
+از شفاخانه احسان تو هرجا همه کس
+«کل حزب فرحون »اند، زهی لطف عمیم!
+
+گفت آن واصل کامل که:«علیکم بالشام »
+بوی آن زلف مرا دست بوقت تشمیم
+
+یار اگر تیغ کشد سینه سپر ساخته ایم
+چاره عاشق بیچاره چه باشد؟ تسلیم
+
+چند ازین عقل و خرد؟ جانب حیرانی رو
+در فناخانه حیرت نه امیدست و نه بیم
+
+قاسمی باز به تجدید حیاتی نو یافت
+بوی آن زلف دلاویز چو آورد نسیم

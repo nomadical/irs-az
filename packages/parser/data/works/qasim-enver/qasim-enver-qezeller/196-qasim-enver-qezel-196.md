@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-196
+sourceId: ganjoor-108266
+titleAz: Qəzəl 196
+titleRu: Газель 196
+titleFa: شمارهٔ ۱۹۶
+titleEn: Ghazal 196
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 196
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh196'
+status: DRAFT
+---
+از یار سفر کرده کسی را خبری نیست
+کان ماه مسافر بهمه کوی و دری نیست
+
+مردانه قدم نه، خطری نیست درین راه
+بر یار توکل کن، اگر هم خطری نیست
+
+آخر ز خطرهای طریقت چه شماری؟
+در نه قدم، ارزانکه ترا هم جگری نیست
+
+در کوچه ما راست رو، ای دوست که آنجا
+بالا شجری، دل حجری، لب شکری نیست
+
+زین بیش مگویید که: این عشق مورزید
+ای ساده دلان، تیر قضا را سپری نیست
+
+بیچاره بماندیم درین دیر کهن سال
+بیچاره شدن حیف، که چون چاره بری نیست
+
+تنها تو مرو، قاسم، در کوی حبیبان
+چون در غلبه قاعده شور و شری نیست

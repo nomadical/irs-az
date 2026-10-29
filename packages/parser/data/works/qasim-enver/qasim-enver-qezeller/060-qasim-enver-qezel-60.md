@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-60
+sourceId: ganjoor-108130
+titleAz: Qəzəl 60
+titleRu: Газель 60
+titleFa: شمارهٔ ۶۰
+titleEn: Ghazal 60
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 60
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh60'
+status: DRAFT
+---
+ما پیش شمع روی تو پروانه وار مست
+جان در سماع عشق ز معشوقه الست
+
+پیدا ز نور روی تو گشتیم در جهان
+ما ذره ایم و روی تو خورشید انورست
+
+بنما بما جمال و برافکن نقاب را
+کان روی دلفروز تو جانبخش عالمست
+
+از روز زلف غارت دلهای خسته کرد
+اینست کار عشق، اگر روز، اگر شبست
+
+از عاقلان اگر چه نصیبی نیافتیم
+با عاشقان رویم، که آنجا کرم کمست
+
+می خواست نقش خاتم شاهی ز من برد
+خاتم ز دست نفس کشیدم بضربدست
+
+قاسم، مجال نیست سخن را، شتاب کن
+ما پیش آن جمال بیاریم هرچه هست

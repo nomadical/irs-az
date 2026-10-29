@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-384
+sourceId: ganjoor-108454
+titleAz: Qəzəl 384
+titleRu: Газель 384
+titleFa: شمارهٔ ۳۸۴
+titleEn: Ghazal 384
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 384
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh384'
+status: DRAFT
+---
+در کهن دیر زمان جمله فریبست و غرور
+وقت آن شد که زنم خیمه بصحرای سرور
+
+صفت شیوه «احببت » شنید این دل مست
+علم عشق برافراخت بصحرای ظهور
+
+آن چنان مست خرابم بخرابات امروز
+که بهش باز نیایم بگه نغمه صور
+
+صفت نور ترا دید ورای انوار
+ورد جان و دل ما گشت که: «یا نورالنور»
+
+ای دل، از هستی خود یک قدمی بیرون نه
+تا شود در نفسی جرم و گناهت مغفور
+
+حالت هستی تو خانه دل کرد خراب
+هان و هان! تا نشنوی باز بهستی مغرور
+
+قاسم، از جنت و فردوس مگو، کان شه را
+جنتی هست، که آنجا نه قصور است و نه حور

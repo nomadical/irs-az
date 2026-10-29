@@ -1,0 +1,37 @@
+---
+slug: qasim-enver-qezel-80
+sourceId: ganjoor-108150
+titleAz: Qəzəl 80
+titleRu: Газель 80
+titleFa: شمارهٔ ۸۰
+titleEn: Ghazal 80
+authorSlug: qasim-enver
+collectionSlug: qasim-enver-qezeller
+originalLang: FA
+scriptDirection: RTL
+genre: POEM
+form: GHAZAL
+order: 80
+sourceNote: 'https://ganjoor.net/ghasem/divan/ghazal/sh80'
+status: DRAFT
+---
+دلدار یار ماست، غمش غمگسار ماست
+در غار وحدتیم و همو یار غار ماست
+
+ما شیر شرزه ایم درین عرصه وجود
+گرگی که اندرین گله بینی ماست
+
+در ما دگر بچشم حقارت نظر مکن
+ما انتظار دوست، جهان انتظار شکار ماست
+
+در آتش فراق بیک بار سوختیم
+شمع رخت کجاست؟ که شب زنده دار ماست
+
+غم می خوریم و هیچ شکایت نمی کنیم
+ما را چه غم ز غم؟ که غمت غمگسار ماست
+
+بی گلشن وصال تو سرسبز نیستیم
+بنمای آن جمال، که باغ و بهار ماست
+
+گفتم که: کیست قاسمی؟ ای آرزوی جان
+گفتند: عاشقیست که زار و نزار ماست
