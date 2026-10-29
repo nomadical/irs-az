@@ -53,6 +53,79 @@ Now eligible under the Soviet-era and Iranian Azerbaijani exceptions:
 - [ ] Other authors in the 2004–2005 Latin-script state reprints on web2.anl.az: `scrape-reprint` reads both text-layer kinds. Done: Axundzadə vols. I–III (8291, 8293; 8296: 121 letters and papers). Done since: Ordubadi *Qılınc və qələm* part one (8341, transcribed: 50 chapters; the author's own two footnotes marked "(Müəllif)" added as `<sup>n</sup>` marks + notes under a `---` rule, the editor's left out); Səhhət, Seyid Əzim's Rəbiül-ətfal and vol. I (8437: 307 ghazals, 91 rubais, 104 other poems), Cavid 8440, Hacıbəyli 8488 and 8469 (transcribed), Süleyman Sani Axundov (8012 Hekayələr və pyeslər 1975, Cyrillic, all; 8018 Əsərləri 1936, Yanalif, its 8 plays missing from 8012; 8023 = subset of 8012, skipped; 72 works; 20 of the 21 `[?]` resolved against the scans and the 1968 vol. II (8023), 1 left: Eşq və intiqam III, "sənə də [?] sözüm", ink-lost in 8012 only). Other works volumes in the 7800–9000 bibid range: Hadi 8283, Cabbarlı 8239/8240, Zakir 8230
 - And later Soviet-era authors
 
+## Master list (2026-10-29)
+Built from the DB, Ganjoor's poet list (birthplace or deathplace in Azerbaijan) and az.wikisource's `Müəllif:` pages. Wikisource numbers are links on the author page (red links included), so they are upper bounds. Living authors are left out. Sources are unverified until ticked.
+
+### Authors to add
+Persian, full text on Ganjoor:
+- [ ] Şeyx Mahmud Şəbüstəri — XIV — Gülşəni-raz and the rest (`/shabestari`)
+- [ ] Həmam Təbrizi — XIII–XIV — divan (`/homam`)
+- [ ] Şəms Məğribi Təbrizi — XIV — divan (`/maghrebi`)
+- [ ] Qasım Ənvar (Sərabi) — XIV–XV — divan (`/ghasem`); a few Turkic poems too
+- [ ] Məczub Təbrizi — XVII (`/majzoob`)
+- [ ] Nəyyir Təbrizi — XIX (`/nayyer`)
+- [ ] Sam Mirzə Səfəvi — XVI — Töhfeyi-Sami, a tazkira (`/sam`); low priority
+- [ ] Born in Tabriz, Persian-only, your call: Pərvin Etisami (`/parvin`), İrəc Mirzə (`/iraj`)
+- [ ] Not on Ganjoor, source needed: Əssar Təbrizi (Mehr və Müştəri), Arif Ərdəbili (Fərhadnamə), Əbül-Üla Gəncəvi, Zülfüqar Şirvani, Xətib Təbrizi (Arabic)
+
+Turkic classics and folk, az.wikisource:
+- [ ] İzzəddin Həsənoğlu — XIII–XIV (11)
+- [ ] Cahanşah Həqiqi — XV (14)
+- [ ] Sadıq bəy Əfşar — XVI (46)
+- [ ] Miskin Abdal — XVI (55)
+- [ ] Folk, needs an anonymous "Xalq" author: Koroğlu (68), Molla Nəsrəddin anecdotes (12), Kitabi-Dədə Qorqud (source to check)
+
+XVIII–XIX poets, az.wikisource:
+- [ ] Şair Məmmədhüseyn (190), Novrəs İman (129), Usta Abdulla (82), Molla Cümə (67), Məhəmməd bəy Aşiq (35), Əbülqasim Nəbati (34), Molla Məhəmməd Səfili (24), Yəhya bəy Dilqəm (23), Həsənəli xan Qaradaği (23), Mücrüm Kərim (22), Mir Həmzə Nigari (19), Əbülhəsən Raci (18), Əndəlib Qaracadaği (16), Hacı Rza Sərraf (12), Mirzə Məhəmməd Tağı Qumri (11), Mirzə Mehdi Şükuhi (11), Hacı ağa Fəqir Ordubadi (11), Cəfərqulu xan Nəva (10), Bahar Şirvani (10), Kazım ağa Salik (10), Zikri Ərdəbili (10)
+
+Aşıqs, az.wikisource (20+ links):
+- [ ] Aşıq Alı (245), Aşıq Heydər (103), Aşıq Valeh (74), Aşıq Bəsti (64), Ağdabanlı Qurban (63), Aşıq Şenlik (56), Aşıq Musa (56), Ağ Aşıq Allahverdi (52), Aşıq Hüseyn Şəmkirli (50), Varxiyanlı Aşıq Məhəmməd (41), Çoban Əfqan (40), Aşıq Hüseyn Bozalqanlı (37), Aşıq Əsəd (36), Aşıq Nəsib (34), Xəstə Hasan (31), Aşıq Mirzə Bilal (26), Aşıq Pəri (21), Xəstə Bayraməli (20), Aşıq Camal (20)
+
+Early XX century prose, publicism and poetry:
+- [ ] On az.wikisource: Mirzə Əli Möcüz (48), Məhəmməd Əmin Rəsulzadə (27), Əbdürrəhman bəy Fətəlibəyli (14), Əli Nəzmi (12), Məhəmməd ağa Şahtaxtlı (12), Ümmügülsüm (11), Səməd Mənsur (11), Həsən bəy Zərdabi (9), Rəşid bəy Əfəndiyev (8)
+- [ ] Source needed (anl reprints first): Yusif Vəzir Çəmənzəminli, Ömər Faiq Nemanzadə, Abdulla Tofiq Sur, Seyid Hüseyn, Sultan Məcid Qənizadə, Tağı Şahbazi Simurq, Ceyhun Hacıbəyli; in Persian: Zeynalabdin Marağayi (İbrahim bəyin səyahətnaməsi), Əbdürrəhim Talıbov, Mirzə Ağa Təbrizi
+
+Southern Azerbaijani, XX century (source needed):
+- [ ] Səhənd (Bulud Qaraçorlu), Həbib Sahir, Məhəmməd Biriya (10 on wikisource), Mədinə Gülgün, Balaş Azəroğlu (his own poems), Əli Tudə
+
+Soviet and post-Soviet, deceased (anl.az 2004–2007 state reprints first):
+- [ ] Poetry: Rəsul Rza, Süleyman Rüstəm, Osman Sarıvəlli, Mikayıl Rzaquluzadə, Məmməd Rahim, Nigar Rəfibəyli, Mirvarid Dilbazi, Əli Kərim, Bəxtiyar Vahabzadə, Məmməd Araz, Nəbi Xəzri, Xəlil Rza Ulutürk, Hüseyn Arif, Cabir Novruz, Qabil, Vaqif Səmədoğlu, Fikrət Qoca, Zəlimxan Yaqub
+- [ ] Prose and drama: Mir Cəlal, Mirzə İbrahimov, Mehdi Hüseyn, Süleyman Rəhimov, Əli Vəliyev, İlyas Əfəndiyev, İsmayıl Şıxlı, Yusif Səmədoğlu, İsa Hüseynov (Muğanna)
+
+Gaps in existing authors:
+- [ ] Vurğun: 92 works still DRAFT; Cavid: 1
+- [ ] Qazi Bürhanəddin: 39 of a ~1,500-poem divan (OCR of a printed divan)
+- [ ] Ordubadi: Qılınc və qələm part two, Dumanlı Təbriz, Gizli Bakı
+- [ ] anl reprints still to cut: Hadi 8283, Cabbarlı 8239/8240, Zakir 8230
+- [ ] Nizami's lyric divan (ghazals, qasidas, rubais): not on Ganjoor, source needed
+
+### Russian translations to add
+The site has RU for only 153 Nizami chapters, 21 of Axundzadə's own translations and 2 Pünhan poems. Human translations only. Sources to search first: ru.wikisource, az-libr.ru, *Антология азербайджанской поэзии* (1960, 3 vols), the *Библиотека поэта* volumes.
+- [ ] Nizami: the other 225 Khamsa chapters from the translators already used (Derzhavin, Lipskerov, Shervinsky, Antokolsky)
+- [ ] Classical lyric poetry: Fuzuli (Leyli və Məcnun, ghazals), Nəsimi, Xətai, Xaqani, Məhsəti's rubais, Şəhriyar's Heydərbabaya salam
+- [ ] XVIII–XIX centuries: Vaqif, Vidadi, Zakir, Natəvan, Vazeh, Seyid Əzim, Ələsgər, Qurbani; Bakıxanov's Gülüstani-İrəm (his own RU version)
+- [ ] Drama and prose: Axundzadə's comedies, Vəzirov, Məmmədquluzadə (Ölülər, stories), Haqverdiyev, Cavid, Cabbarlı, Hacıbəyov (Arşın mal alan, O olmasın bu olsun)
+- [ ] XX century poetry: Sabir (Hophopnamə), Cavad, Müşfiq, Vurğun, Vahid
+
+### Azerbaijani translations still missing
+Persian or Arabic-script originals with no human AZ translation, by count of works:
+
+| Author | Missing | Note |
+|---|---|---|
+| Saib | 7,357 of 7,723 | 683 miscellany and 41 qasidas barely started |
+| Övhədi | 1,201 | divan 1,123 and Məntiqül-üşşaq 77; Cami-Cəm done |
+| Xaqani | 834 | mostly qasidas; Töhfətül-İraqeyn not done |
+| Qətran | 494 | |
+| Beyləqani | 446 | |
+| Nəsimi (FA) | 424 | no source found |
+| Şəhriyar (FA) | 162 | 2005 Avrasiya Press *Seçilmiş əsərləri* not located |
+| Məhsəti | 95 | |
+| Fuzuli (FA) | 81 | 26 ghazals, 17 qasidas, 17 rubais, 16 Saqinamə sections, 5 other |
+| Fələki | 56 | |
+
+- [ ] Latin-script versions of Arabic-script Azerbaijani: Şəhriyar's Heydərbabaya salam and 30 Turkic poems (32, none done), Saib's Turkic ghazals (13 of 20)
+- [ ] No Russian originals on the site yet. If any are added (Nərimanov, Ağaoğlu, Rəsulzadə's Russian articles), each needs an AZ translation
+
 ## Later
 - [ ] Browser extension — poem of the day on the new-tab page, plus a "random poem" button
 - [ ] Mobile app (React Native / Expo) — reading, offline favourites, daily poem notification
