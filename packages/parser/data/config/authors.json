@@ -3185,5 +3185,176 @@
       "az": "Aşıq Camal"
     },
     "collections": []
+  },
+  {
+    "slug": "hemam",
+    "nameAz": "Həmam Təbrizi",
+    "nameRu": "Хумам Табризи",
+    "nameFa": "همام تبریزی",
+    "nameEn": "Homam Tabrizi",
+    "type": "POET",
+    "period": "XIII-XIV əsr",
+    "writingLangs": [
+      "FA"
+    ],
+    "wikipedia": {},
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/homam",
+      "collections": [
+        {
+          "catUrl": "/homam/ghazalho",
+          "collectionSlug": "hemam-qezeller"
+        },
+        {
+          "catUrl": "/homam/robaeeho",
+          "collectionSlug": "hemam-rubailer"
+        },
+        {
+          "catUrl": "/homam/mofradatho",
+          "collectionSlug": "hemam-mufredler"
+        },
+        {
+          "catUrl": "/homam/masnaviatho",
+          "collectionSlug": "hemam-mesneviler"
+        }
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "meghribi",
+    "nameAz": "Şəms Məğribi",
+    "nameRu": "Шамс Магриби",
+    "nameFa": "شمس مغربی",
+    "nameEn": "Shams Maghrebi",
+    "type": "POET",
+    "period": "XIV əsr",
+    "writingLangs": [
+      "FA"
+    ],
+    "wikipedia": {},
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/maghrebi",
+      "collections": [
+        {
+          "catUrl": "/maghrebi/ghazal-sm",
+          "collectionSlug": "meghribi-qezeller"
+        },
+        {
+          "catUrl": "/maghrebi/tarjee-sm",
+          "collectionSlug": "meghribi-tercibendler"
+        },
+        {
+          "catUrl": "/maghrebi/robaee-sm",
+          "collectionSlug": "meghribi-rubailer"
+        },
+        {
+          "catUrl": "/maghrebi/ghazal2",
+          "collectionSlug": "meghribi-qezeller-2"
+        },
+        {
+          "catUrl": "/maghrebi/parakande",
+          "collectionSlug": "meghribi-perakende"
+        },
+        {
+          "catUrl": "/maghrebi/tarjee2",
+          "collectionSlug": "meghribi-tercibendler-2"
+        },
+        {
+          "catUrl": "/maghrebi/fahlavi",
+          "collectionSlug": "meghribi-fehleviyyat"
+        },
+        {
+          "catUrl": "/maghrebi/arabi",
+          "collectionSlug": "meghribi-erebce-sirler"
+        }
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "meczub",
+    "nameAz": "Məczub Təbrizi",
+    "nameRu": "Меджзуб Табризи",
+    "nameFa": "مجذوب تبریزی",
+    "nameEn": "Majzub Tabrizi",
+    "type": "POET",
+    "period": "XVII əsr",
+    "writingLangs": [
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Məczub Təbrizi"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/majzoob",
+      "collections": [
+        {
+          "catUrl": "/majzoob/divan/gh",
+          "collectionSlug": "meczub-qezeller"
+        },
+        {
+          "catUrl": "/majzoob/divan/robaee",
+          "collectionSlug": "meczub-rubailer"
+        },
+        {
+          "catUrl": "/majzoob/divan/masnavi",
+          "collectionSlug": "meczub-mesneviler"
+        },
+        {
+          "catUrl": "/majzoob/divan/tarjee",
+          "collectionSlug": "meczub-tercibendler"
+        },
+        {
+          "catUrl": "/majzoob/divan/tarikh",
+          "collectionSlug": "meczub-tarixler"
+        },
+        {
+          "catUrl": "/majzoob/divan/parakende",
+          "collectionSlug": "meczub-perakende"
+        },
+        {
+          "catUrl": "/majzoob/divan/mofradat",
+          "collectionSlug": "meczub-mufredler"
+        },
+        {
+          "catUrl": "/majzoob/divan",
+          "collectionSlug": "meczub-musemmetler",
+          "flat": true
+        }
+      ]
+    },
+    "collections": []
+  },
+  {
+    "slug": "pervin-etisami",
+    "nameAz": "Pərvin Etisami",
+    "nameRu": "Парвин Этесами",
+    "nameFa": "پروین اعتصامی",
+    "nameEn": "Parvin E'tesami",
+    "type": "POET",
+    "period": "XX əsr",
+    "writingLangs": [
+      "FA"
+    ],
+    "wikipedia": {
+      "az": "Pərvin Etisami",
+      "ru": "Этесами, Парвин"
+    },
+    "ganjoor": {
+      "poetUrl": "https://ganjoor.net/parvin",
+      "collections": [
+        {
+          "catUrl": "/parvin/divanp/ghasidep",
+          "collectionSlug": "pervin-etisami-qesideler",
+          "form": "QASIDA"
+        },
+        {
+          "catUrl": "/parvin/divanp/mtm",
+          "collectionSlug": "pervin-etisami-seirler"
+        }
+      ]
+    },
+    "collections": []
   }
 ]
