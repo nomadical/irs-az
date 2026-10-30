@@ -788,6 +788,40 @@
 }
 [data-skin='clean'] .unfold-btn:hover { background: var(--surf-2); color: var(--pomeg); }
 
+/* ── Prose reading ──────────────────────────────────────────── */
+/* Headings inside a text: the bold interface sans, sentence case, no centring flourish */
+[data-skin='clean'] .reading-column.is-prose :is(h2, h3, h4) {
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size:   1.05em;
+}
+/* No hairlines in Clean: the footnotes are set off by space alone */
+[data-skin='clean'] .reading-column.is-prose hr { border-top: none; margin-top: 3em; }
+[data-skin='clean'] .reading-contents summary { font-weight: 700; color: var(--ink); }
+[data-skin='clean'] .reading-contents summary::after {
+  content:       '';
+  width:         0.4em;
+  height:        0.4em;
+  border-right:  1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform:     translateY(-0.12em) rotate(45deg);
+  transition:    transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+[data-skin='clean'] .reading-contents[open] summary::after { content: ''; transform: translateY(0.1em) rotate(-135deg); }
+[data-skin='clean'] .reading-contents ol {
+  border-top:    none;
+  padding:       1rem 1.25rem 0.75rem 2.5rem;
+  background:    var(--surf);
+  border-radius: var(--radius-lg);
+}
+[data-skin='clean'] .resume-btn {
+  border:        none;
+  border-radius: 999px;
+  font-weight:   700;
+  padding:       0.55rem 1.3rem;
+}
+[data-skin='clean'] .resume-btn:hover { background: var(--surf-2); color: var(--pomeg); }
+
 /* ── Catalogue ──────────────────────────────────────────────── */
 [data-skin='clean'] .catalog { border-top: none; margin-top: 3.5rem; padding: 0; }
 [data-skin='clean'] .catalog-grid { gap: 1rem; }

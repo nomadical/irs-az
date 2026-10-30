@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useRef, useId } from 'react';
 import { useTranslations } from 'next-intl';
-import { readingFonts, type ReadingPrefs } from '@/lib/useReadingPrefs';
+import { paragraphStyles, readingFonts, textAligns, type ReadingPrefs } from '@/lib/useReadingPrefs';
 
 interface Props {
   prefs: ReadingPrefs;
@@ -96,6 +96,30 @@ export function AppearancePopover({ prefs, onUpdate, isPoem }: Props) {
                 {widthSteps.map((w, i) => {
                   const name = t(`width_names.${w}`);
                   return step(prefs.width === i, name, name, () => onUpdate({ width: i }));
+                })}
+              </div>
+            </div>
+          )}
+
+          {/* Prose only: paragraphs apart or indented like a book, ragged or justified */}
+          {!isPoem && (
+            <div className="appearance-row" role="group" aria-label={t('appearance_paragraphs')}>
+              <span className="appearance-label" aria-hidden="true">{t('appearance_paragraphs')}</span>
+              <div className="appearance-steps">
+                {paragraphStyles.map((style) => {
+                  const name = t(`paragraph_names.${style}`);
+                  return step(prefs.paragraphs === style, name, name, () => onUpdate({ paragraphs: style }));
+                })}
+              </div>
+            </div>
+          )}
+          {!isPoem && (
+            <div className="appearance-row" role="group" aria-label={t('appearance_align')}>
+              <span className="appearance-label" aria-hidden="true">{t('appearance_align')}</span>
+              <div className="appearance-steps">
+                {textAligns.map((align) => {
+                  const name = t(`align_names.${align}`);
+                  return step(prefs.align === align, name, name, () => onUpdate({ align }));
                 })}
               </div>
             </div>

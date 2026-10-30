@@ -299,7 +299,20 @@
       "sans": "Без засечек",
       "system": "Системный"
     },
-    "random_poem": "Случайное стихотворение"
+    "random_poem": "Случайное стихотворение",
+    "reading_time": "{n} мин чтения",
+    "contents": "Содержание",
+    "resume": "Продолжить с того же места ({percent}%)",
+    "appearance_paragraphs": "Абзацы",
+    "paragraph_names": {
+      "spaced": "С отбивкой",
+      "indented": "С отступом"
+    },
+    "appearance_align": "Выключка",
+    "align_names": {
+      "start": "Влево",
+      "justify": "По ширине"
+    }
   },
   "contact": {
     "email_label": "Эл. почта",

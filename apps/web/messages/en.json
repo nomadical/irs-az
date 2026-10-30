@@ -299,7 +299,20 @@
       "sans": "Sans-serif",
       "system": "System"
     },
-    "random_poem": "Random poem"
+    "random_poem": "Random poem",
+    "reading_time": "{n} min read",
+    "contents": "Contents",
+    "resume": "Continue where you left off ({percent}%)",
+    "appearance_paragraphs": "Paragraphs",
+    "paragraph_names": {
+      "spaced": "Spaced",
+      "indented": "Indented"
+    },
+    "appearance_align": "Alignment",
+    "align_names": {
+      "start": "Left",
+      "justify": "Justified"
+    }
   },
   "contact": {
     "email_label": "Email",

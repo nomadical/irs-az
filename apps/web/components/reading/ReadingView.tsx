@@ -7,6 +7,7 @@ import { useTranslations } from 'next-intl';
 import { useReadingPrefs, type ReadingFont } from '@/lib/useReadingPrefs';
 import { isArabicScript, langTag, lineCount, localeLang, sourceInfo, verseBlocks, type SourceInfo } from '@/lib/verse';
 import { AppearancePopover } from './AppearancePopover';
+import { ReadingProgress } from './ReadingProgress';
 
 interface Translation {
   id: string;
@@ -31,6 +32,9 @@ interface Props {
   genre: string;
   source: SourceInfo | null;
   suggestHref: string;
+  slug: string;
+  /** Headings inside a prose text (acts, scenes, numbered parts), with the ids they carry */
+  sections?: { id: string; text: string }[];
 }
 
 const ORIGINAL = 'original';
@@ -38,6 +42,8 @@ const MAX_SEGMENTS = 4;
 // Texts longer than this many lines open folded, culture.ru-style, showing the first part
 const LONG_LINES = 40;
 const FOLDED_LINES = 24;
+// A prose text with at least this many headings gets a contents list
+const MIN_SECTIONS = 3;
 
 const fontSizeValues = ['0.95rem', '1.05rem', '1.2rem', '1.35rem'];
 const widthValues = ['36rem', '44rem', '100%'];
@@ -69,6 +75,8 @@ export function ReadingView({
   genre,
   source,
   suggestHref,
+  slug,
+  sections = [],
 }: Props) {
   const t = useTranslations('reading');
   const tc = useTranslations('contribute.options');
@@ -134,7 +142,9 @@ export function ReadingView({
     '--reading-leading': prefs.fontSize >= 2 ? 2.1 : 1.95,
   } as CSSProperties;
 
-  const columnClass = `reading-column${isPoem ? ' is-poem' : ''}`;
+  const columnClass = `reading-column${isPoem ? ' is-poem' : ' is-prose'}`;
+  // Prose is read straight through: paragraph style and alignment are the reader's
+  const proseAttrs = isPoem ? {} : { 'data-paragraphs': prefs.paragraphs, 'data-align': prefs.align };
 
   function chooseLang(next: string) {
     setSelectedLang(next);
@@ -153,9 +163,10 @@ export function ReadingView({
     ? ({ lang: langTag[translation.language], dir: translation.scriptDirection === 'RTL' ? 'rtl' : 'ltr' } as const)
     : null;
 
-  // Long texts open folded; decided from the text itself so server and client agree
+  // Long poems open folded; decided from the text itself so server and client agree.
+  // Prose opens whole: someone who came to read a chapter shouldn't have to unfold it
   const lines = Math.max(lineCount(body), translation ? lineCount(translationHtml) : 0);
-  const foldable = lines > LONG_LINES;
+  const foldable = isPoem && lines > LONG_LINES;
   const folded = foldable && !expanded;
   const foldClass = folded ? ' is-folded' : '';
   const foldVars = { '--folded-lines': FOLDED_LINES } as CSSProperties;
@@ -221,6 +232,21 @@ export function ReadingView({
         <AppearancePopover prefs={prefs} onUpdate={updatePrefs} isPoem={isPoem} />
       </div>
 
+      {!isPoem && <ReadingProgress slug={slug} targetId={textId} dir={originalDir} />}
+
+      {!isPoem && sections.length >= MIN_SECTIONS && (
+        <details className="reading-contents">
+          <summary>{t('contents')}</summary>
+          <ol>
+            {sections.map((section) => (
+              <li key={section.id}>
+                <a href={`#${section.id}`}>{section.text}</a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      )}
+
       {versions.length > 1 && translation && (
         <div className="lang-tabs lang-tabs--versions" role="group" aria-label={t('version_label')}>
           {versions.map((tr, i) => (
@@ -243,7 +269,7 @@ export function ReadingView({
           style={{ ...readingVars, ...foldVars }}
           id={textId}
           ref={textRef}
-          tabIndex={foldable ? -1 : undefined}
+          tabIndex={foldable || !isPoem ? -1 : undefined}
         >
           <div className="parallel-row parallel-head" aria-hidden="true">
             {/* Each head sits on its column's start edge: the right for Persian */}
@@ -255,14 +281,14 @@ export function ReadingView({
           {rows ? (
             rows.map(([orig, trans], i) => (
               <div className="parallel-row" key={i}>
-                <div className={`${columnClass} parallel-cell`} {...originalAttrs} dangerouslySetInnerHTML={{ __html: orig }} />
-                <div className={`${columnClass} parallel-cell`} {...translationAttrs} dangerouslySetInnerHTML={{ __html: trans }} />
+                <div className={`${columnClass} parallel-cell`} {...proseAttrs} {...originalAttrs} dangerouslySetInnerHTML={{ __html: orig }} />
+                <div className={`${columnClass} parallel-cell`} {...proseAttrs} {...translationAttrs} dangerouslySetInnerHTML={{ __html: trans }} />
               </div>
             ))
           ) : (
             <div className="parallel-row parallel-row--whole">
-              <div className={`${columnClass} parallel-cell`} {...originalAttrs} dangerouslySetInnerHTML={{ __html: body }} />
-              <div className={`${columnClass} parallel-cell`} {...translationAttrs} dangerouslySetInnerHTML={{ __html: translationHtml }} />
+              <div className={`${columnClass} parallel-cell`} {...proseAttrs} {...originalAttrs} dangerouslySetInnerHTML={{ __html: body }} />
+              <div className={`${columnClass} parallel-cell`} {...proseAttrs} {...translationAttrs} dangerouslySetInnerHTML={{ __html: translationHtml }} />
             </div>
           )}
         </div>
@@ -272,7 +298,8 @@ export function ReadingView({
           style={{ ...readingVars, ...foldVars }}
           id={textId}
           ref={textRef}
-          tabIndex={foldable ? -1 : undefined}
+          tabIndex={foldable || !isPoem ? -1 : undefined}
+          {...proseAttrs}
           {...originalAttrs}
           dangerouslySetInnerHTML={{ __html: body }}
         />

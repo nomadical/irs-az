@@ -299,7 +299,20 @@
       "sans": "Sadə",
       "system": "Sistem"
     },
-    "random_poem": "Təsadüfi şeir"
+    "random_poem": "Təsadüfi şeir",
+    "reading_time": "{n} dəq oxu",
+    "contents": "Məzmun",
+    "resume": "Qaldığınız yerdən davam edin ({percent}%)",
+    "appearance_paragraphs": "Abzas",
+    "paragraph_names": {
+      "spaced": "Aralı",
+      "indented": "Girintili"
+    },
+    "appearance_align": "Düzləmə",
+    "align_names": {
+      "start": "Sola",
+      "justify": "Eninə"
+    }
   },
   "contact": {
     "email_label": "E-poçt",

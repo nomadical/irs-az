@@ -24,6 +24,9 @@ import {
 
 export const dynamic = 'force-dynamic';
 
+// Silent reading speed for literary prose, a little under the usual 200–250
+const WORDS_PER_MINUTE = 180;
+
 interface Props {
   params: Promise<{ locale: string; slug: string }>;
 }
@@ -102,6 +105,17 @@ export default async function WorkPage({ params }: Props) {
   const verse = (html: string) =>
     isPoem ? formatVerse(html, { form: work.form, maqtaLabel: t('maqta') }) : { html, maqta: false };
   const original = verse(work.bodyHtml || work.body);
+  // Prose: anchor its headings for the contents list, and estimate the reading time
+  const sections: { id: string; text: string }[] = [];
+  if (!isPoem) {
+    original.html = original.html.replace(/<h([2-4])>([\s\S]*?)<\/h\1>/g, (_m, level, inner) => {
+      const id = `section-${sections.length + 1}`;
+      sections.push({ id, text: inner.replace(/<[^>]+>/g, '').trim() });
+      return `<h${level} id="${id}">${inner}</h${level}>`;
+    });
+  }
+  const words = isPoem ? 0 : original.html.replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length;
+  const readingMinutes = Math.round(words / WORDS_PER_MINUTE);
   const translations = (work.translations ?? []).map((tr: any) => ({
     ...tr,
     bodyHtml: verse(tr.bodyHtml || tr.body).html,
@@ -175,6 +189,12 @@ export default async function WorkPage({ params }: Props) {
               <span>{work.yearApprox ? '~' : ''}{work.year}</span>
             </>
           )}
+          {readingMinutes >= 2 && (
+            <>
+              <span className="dot" aria-hidden="true" />
+              <span>{t('reading_time', { n: readingMinutes })}</span>
+            </>
+          )}
         </div>
         {formLabel && GLOSSED_FORMS.includes(work.form) && (
           <details className="work-gloss">
@@ -200,6 +220,8 @@ export default async function WorkPage({ params }: Props) {
         genre={work.genre}
         source={sourceInfo(work.sourceNote)}
         suggestHref={`/${locale}/contribute?type=translation&work=${encodeURIComponent(slug)}`}
+        slug={slug}
+        sections={sections}
       />
 
       <TagPills

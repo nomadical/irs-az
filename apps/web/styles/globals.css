@@ -701,6 +701,117 @@ blockquote {
   .parallel .parallel-cell .misra + .misra { padding-inline-start: 2.25em; text-indent: -0.75em; }
 }
 
+/* Prose, plays, essays and letters: read straight through, so set like a book page.
+   Paragraphs sit apart by default; "indented" sets them close with a first-line indent */
+.reading-column.is-prose p {
+  margin:    0 0 0.9em;
+  text-wrap: pretty;
+}
+.reading-column.is-prose[data-paragraphs='indented'] p {
+  margin:      0;
+  text-indent: 1.5em;
+}
+/* No indent where a paragraph opens the text or follows a heading or a rule */
+.reading-column.is-prose[data-paragraphs='indented'] :is(p:first-child, :is(h2, h3, h4, hr) + p) {
+  text-indent: 0;
+}
+/* Justified only where lines are long enough: browsers can't hyphenate Azerbaijani,
+   so on a phone justification opens rivers between the words */
+@media (min-width: 37.5rem) {
+  .reading-column.is-prose[data-align='justify'] {
+    text-align: justify;
+    hyphens:    auto;
+  }
+}
+/* Acts, scenes and numbered parts inside a text */
+.reading-column.is-prose :is(h2, h3, h4) {
+  margin:         2.2em 0 1em;
+  font-family:    var(--font-serif);
+  font-size:      1.15em;
+  font-weight:    600;
+  line-height:    1.35;
+  text-align:     center;
+  scroll-margin-top: 5rem;
+}
+.reading-column.is-prose > :is(h2, h3, h4):first-child { margin-top: 0; }
+/* The author's footnotes: a short rule, then smaller, muted notes */
+.reading-column.is-prose hr {
+  width:      6rem;
+  margin:     2.5em 0 1em;
+  border:     0;
+  border-top: 0.5px solid var(--rule);
+}
+.reading-column.is-prose hr ~ p {
+  font-size:   0.85em;
+  color:       var(--muted);
+  text-indent: 0;
+}
+.reading-column sup { font-size: 0.7em; line-height: 0; }
+
+/* Contents of a long prose text, folded under the toolbar */
+.reading-contents {
+  max-width:   var(--reading-width, 36rem);
+  margin:      0 auto 1.75rem;
+  font-family: var(--font-ui);
+  font-size:   0.9rem;
+}
+.reading-contents summary {
+  display:     inline-flex;
+  align-items: center;
+  gap:         0.4rem;
+  cursor:      pointer;
+  color:       var(--pomeg);
+  list-style:  none;
+}
+.reading-contents summary::-webkit-details-marker { display: none; }
+.reading-contents summary::after { content: '+'; content: '+' / ''; }
+.reading-contents[open] summary::after { content: '−'; content: '−' / ''; }
+.reading-contents ol {
+  margin:       0.6rem 0 0;
+  padding:      0.75rem 0 0 1.5rem;
+  border-top:   0.5px solid var(--rule);
+  columns:      2 14rem;
+  column-gap:   2rem;
+}
+.reading-contents li { margin-bottom: 0.35rem; break-inside: avoid; }
+.reading-contents a { color: var(--ink); text-decoration: none; }
+.reading-contents a:hover { color: var(--pomeg); text-decoration: underline; }
+
+/* How far through a long text the reader is: a hairline bar along the top of the window */
+.reading-progress {
+  position:       fixed;
+  inset:          0 0 auto;
+  height:         3px;
+  z-index:        101; /* over the sticky site header */
+  pointer-events: none;
+}
+.reading-progress-bar {
+  height:           100%;
+  background:       var(--pomeg);
+  transform:        scaleX(var(--progress, 0));
+  transform-origin: left;
+}
+.reading-progress[dir='rtl'] .reading-progress-bar { transform-origin: right; }
+
+/* "Continue where you left off": offered once, above the text */
+.resume {
+  display:         flex;
+  justify-content: center;
+  margin:          0 0 1.5rem;
+}
+.resume-btn {
+  font-family:   var(--font-ui);
+  font-size:     0.85rem;
+  padding:       0.45rem 1.1rem;
+  border:        1px solid var(--control);
+  border-radius: var(--radius);
+  background:    var(--surf);
+  color:         var(--ink);
+  transition:    background 0.12s, color 0.12s;
+}
+.resume-btn:hover { background: var(--ink); border-color: var(--ink); color: var(--bg); }
+@media (pointer: coarse) { .resume-btn { min-height: 2.75rem; } }
+
 /* Folded long texts: the first lines, fading out, then "Read on" */
 .is-folded {
   max-height: calc(var(--folded-lines) * var(--reading-leading, 1.95) * var(--reading-size, 1.05rem));
@@ -2480,6 +2591,7 @@ a.gallery-coll:hover { text-decoration: underline; }
   body { background: #fff; color: #000; font-size: 11pt; min-height: 0; }
   .site-header, .footer, .skip-link, .ornament, .reading-toolbar, .appearance-anchor,
   .lang-tabs, .work-gloss, .tag-pills, .share-bar, .work-nav, .work-random, .more-works,
+  .reading-progress, .reading-contents, .resume,
   nextjs-portal { display: none !important; }
   /* The breadcrumb names the author on paper; the title follows in full */
   .breadcrumb { justify-content: center; margin: 0 0 0.5rem; color: #000; }
