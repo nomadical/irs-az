@@ -2903,6 +2903,19 @@
             "layout": "prose"
           }
         ]
+      },
+      {
+        "file": "ordubadi-doyusen-seher.md",
+        "bibid": 231671,
+        "sections": [
+          {
+            "first": "I. Qonaqlar",
+            "collection": "ordubadi-doyusen-seher",
+            "titleAz": "Döyüşən şəhər",
+            "genre": "PROSE",
+            "layout": "prose"
+          }
+        ]
       }
     ],
     "collections": []
