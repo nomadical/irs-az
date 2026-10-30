@@ -2890,6 +2890,19 @@
             "layout": "prose"
           }
         ]
+      },
+      {
+        "file": "ordubadi-gizli-baki.md",
+        "bibid": 229715,
+        "sections": [
+          {
+            "first": "Zavodda",
+            "collection": "ordubadi-gizli-baki",
+            "titleAz": "Gizli Bakı",
+            "genre": "PROSE",
+            "layout": "prose"
+          }
+        ]
       }
     ],
     "collections": []
