@@ -128,6 +128,12 @@ Persian or Arabic-script originals with no human AZ translation, by count of wor
 - [ ] Latin-script versions of Arabic-script Azerbaijani: Şəhriyar's Heydərbabaya salam and 30 Turkic poems (32, none done), Saib's Turkic ghazals (13 of 20)
 - [ ] No Russian originals on the site yet. If any are added (Nərimanov, Ağaoğlu, Rəsulzadə's Russian articles), each needs an AZ translation
 
+## Licences to obtain
+Under Azerbaijani law (life + 70) these are still in copyright, whatever the site's own policy; non-commercial use doesn't exempt them. A licence from the rights holder (estate or publisher) would cover each:
+- [ ] The 27 Soviet-era authors with catalogue pages only (Rəsul Rza, Vahabzadə, Məmməd Araz, Mir Cəlal, İlyas Əfəndiyev, Muğanna and the rest): their texts are not on the site; the pages link to the National Library reader
+- [ ] Already published, in copyright: Səməd Vurğun (d. 1956, until end of 2026), Baba Pünhan (d. 2004); translations by Soviet and later translators — Balaş Azəroğlu (d. 2011), Rəsul Rza, Süleyman Rüstəm, Məmməd Rahim, Nigar Rəfibəyli, Mirvarid Dilbazi, Xəlil Rza, Lipskerov, Derzhavin, Antokolsky, Streshneva and others in `data/translations`
+- [ ] Editors' transliterations: omarfaig.info (Nemanzadə), Sanal-Kitap (Bürhanəddin)
+
 ## Later
 - [ ] Browser extension — poem of the day on the new-tab page, plus a "random poem" button
 - [ ] Mobile app (React Native / Expo) — reading, offline favourites, daily poem notification
