@@ -19,7 +19,8 @@
     "parse:works": "pnpm --filter parser scrape:works",
     "parse:import": "pnpm --filter parser run import",
     "parse:audit": "pnpm --filter parser run audit",
-    "lint": "pnpm run -r lint"
+    "lint": "pnpm run -r lint",
+    "check": "pnpm -r --parallel exec tsc --noEmit"
   },
   "engines": {
     "node": ">=20"

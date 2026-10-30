@@ -18,6 +18,8 @@ pnpm db:generate                # prisma generate
 pnpm db:migrate                 # prisma migrate dev
 pnpm db:seed                    # seed database
 pnpm build                      # build everything
+pnpm check                      # typecheck every package (no build)
+pnpm parse ocr-book --images <dir> --out <file.md>   # OCR scanned spreads (pNNN.jpg) with Tesseract into the data/proofread format; needs `brew install tesseract`
 ```
 
 ## Stack
