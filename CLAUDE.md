@@ -19,7 +19,7 @@ pnpm db:migrate                 # prisma migrate dev
 pnpm db:seed                    # seed database
 pnpm build                      # build everything
 pnpm check                      # typecheck every package (no build)
-pnpm parse ocr-book --images <dir> --out <file.md>   # OCR scanned spreads (pNNN.jpg) with Tesseract into the data/proofread format; needs `brew install tesseract`
+pnpm parse ocr-book --images <dir> --out <file.md> [--lang aze_cyrl]   # OCR scanned spreads (pNNN.jpg) with Tesseract into the data/proofread format; Cyrillic books are read with the Russian model and resolved to Latin by the site's word list; needs `brew install tesseract` and python3 with Pillow
 ```
 
 ## Stack
