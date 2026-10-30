@@ -1,13 +1,13 @@
 ---
 slug: zakir-ol-serv-bu-gun-seyri-gulustan-edecekdi
-sourceId: anl-8230-t50-8
+sourceId: anl-8230-t50-7
 titleAz: Ol sərv bu gün seyri-gülüstan edəcəkdi
 authorSlug: zakir
 collectionSlug: zakir-mustezadlar
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
-order: 8
+order: 7
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=8230&pno=158'
 status: DRAFT
 ---

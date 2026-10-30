@@ -1,13 +1,13 @@
 ---
 slug: zakir-ezm-etdi-seher-naz-ile-ol-servi-dilara
-sourceId: anl-8230-t50-7
+sourceId: anl-8230-t50-6
 titleAz: Əzm etdi səhər naz ilə ol sərvi-dilara
 authorSlug: zakir
 collectionSlug: zakir-mustezadlar
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
-order: 7
+order: 6
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=8230&pno=158'
 status: DRAFT
 ---

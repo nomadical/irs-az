@@ -1,13 +1,13 @@
 ---
 slug: zakir-ey-ruhi-revan-sen-geleli-tazeter-olmus
-sourceId: anl-8230-t50-6
+sourceId: anl-8230-t50-5
 titleAz: 'Ey ruhi-rəvan,sən gələli tazətər olmuş'
 authorSlug: zakir
 collectionSlug: zakir-mustezadlar
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
-order: 6
+order: 5
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=8230&pno=158'
 status: DRAFT
 ---

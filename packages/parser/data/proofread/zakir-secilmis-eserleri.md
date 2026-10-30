@@ -11626,9 +11626,6 @@ Bir kərrə demzsən ki, görən qandadı bu şur,
 Həm naləvü fəryad.
 
 @@ 161
-
-* * *
-
 Hər sübh səbadən dilərəm nəkhəti-zülfün,
 Əhvalı pərişan;
 Əzbəski, qəbul eyləmişəm biyəti-zülfün,
