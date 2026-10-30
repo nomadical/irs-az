@@ -2864,6 +2864,32 @@
             "layout": "prose"
           }
         ]
+      },
+      {
+        "file": "ordubadi-dumanli-tebriz-1.md",
+        "bibid": 261055,
+        "sections": [
+          {
+            "first": "Araz kənarında",
+            "collection": "ordubadi-dumanli-tebriz",
+            "titleAz": "Dumanlı Təbriz",
+            "genre": "PROSE",
+            "layout": "prose"
+          }
+        ]
+      },
+      {
+        "file": "ordubadi-dumanli-tebriz-2.md",
+        "bibid": 261114,
+        "sections": [
+          {
+            "first": "Təbrizlilərə müraciət",
+            "collection": "ordubadi-dumanli-tebriz",
+            "titleAz": "Dumanlı Təbriz",
+            "genre": "PROSE",
+            "layout": "prose"
+          }
+        ]
       }
     ],
     "collections": []
