@@ -59,7 +59,8 @@
     "placeholder": "Axtar: müəllif, əsər, söz...",
     "results": "{count} nəticə",
     "no_results": "Heç nə tapılmadı",
-    "more": "Daha çox"
+    "more": "Daha çox",
+    "authors": "Müəlliflər"
   },
   "common": {
     "read_more": "Ətraflı",

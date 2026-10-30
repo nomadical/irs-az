@@ -1693,6 +1693,9 @@ blockquote {
 }
 .empty-note { color: var(--muted); font-style: italic; }
 .chip-row { display: flex; gap: 0.25rem; flex-wrap: wrap; }
+/* Search: authors matched by name, above the matching works */
+.search-authors { margin-bottom: 2rem; }
+.search-authors .section-label { margin-bottom: 0.75rem; }
 .pill--century { min-width: 2.5rem; text-align: center; }
 .home-sidebar-orn { margin: 0.5rem 0 1rem; }
 .home-sidebar-section + .home-sidebar-section { margin-top: 0.75rem; }

@@ -147,11 +147,15 @@ export default async function AuthorsPage({ params, searchParams }: Props) {
                     <span>{author.period}</span>
                   </>
                 )}
-                <span className="dot" />
-                <span>
-                  {author._count.works}{' '}
-                  {locale === 'ru' ? 'произв.' : locale === 'en' ? 'works' : 'əsər'}
-                </span>
+                {author._count.works > 0 && (
+                  <>
+                    <span className="dot" />
+                    <span>
+                      {author._count.works}{' '}
+                      {locale === 'ru' ? 'произв.' : locale === 'en' ? 'works' : 'əsər'}
+                    </span>
+                  </>
+                )}
               </div>
             </Link>
           );

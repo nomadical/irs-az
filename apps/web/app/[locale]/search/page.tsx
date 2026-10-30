@@ -25,6 +25,8 @@ function Search() {
   const q = useSearchParams().get('q')?.trim() ?? '';
   const [query, setQuery] = useState(q);
   const [results, setResults] = useState<any>(null);
+  // Authors matched by name, shown above the works: the only way to find one with no works yet
+  const [authors, setAuthors] = useState<any[]>([]);
   const [loading, setLoading] = useState(false);
   // Results come 20 at a time; "show more" appends the next page
   const [page, setPage] = useState(1);
@@ -34,6 +36,7 @@ function Search() {
     setQuery(q);
     if (!q) {
       setResults(null);
+      setAuthors([]);
       return;
     }
     let current = true;
@@ -44,6 +47,10 @@ function Search() {
       .then((data) => current && setResults(data))
       .catch(() => current && setResults(null))
       .finally(() => current && setLoading(false));
+    api
+      .getAuthors(new URLSearchParams({ q, limit: '8' }))
+      .then((data: any) => current && setAuthors(data?.data ?? []))
+      .catch(() => current && setAuthors([]));
     return () => {
       current = false;
     };
@@ -113,6 +120,19 @@ function Search() {
                 : t('search.no_results')}
             </span>
           </p>
+
+          {authors.length > 0 && (
+            <section className="search-authors" aria-labelledby="search-authors-title">
+              <h2 id="search-authors-title" className="section-label">{t('search.authors')}</h2>
+              <div className="chip-row">
+                {authors.map((author) => (
+                  <Link key={author.slug} href={`/${locale}/authors/${author.slug}`} className="pill">
+                    {(locale === 'ru' && author.nameRu) || (locale === 'en' && author.nameEn) || author.nameAz}
+                  </Link>
+                ))}
+              </div>
+            </section>
+          )}
 
           {results.hits?.map((hit: any) => (
             <Link

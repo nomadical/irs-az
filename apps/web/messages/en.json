@@ -59,7 +59,8 @@
     "placeholder": "Search: author, work, word...",
     "results": "{count} results",
     "no_results": "No results found",
-    "more": "Show more"
+    "more": "Show more",
+    "authors": "Authors"
   },
   "common": {
     "read_more": "Read more",

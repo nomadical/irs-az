@@ -39,6 +39,10 @@ export class QueryAuthorsDto {
   @IsOptional()
   letter?: string;
 
+  @ApiPropertyOptional({ description: 'Part of a name, in any of the three languages' })
+  @IsOptional()
+  q?: string;
+
   @ApiPropertyOptional({ description: 'Sort order: name (default) or recent' })
   @IsOptional()
   sort?: 'name' | 'recent';

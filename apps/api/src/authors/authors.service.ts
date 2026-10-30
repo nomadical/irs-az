@@ -32,11 +32,19 @@ export class AuthorsService {
       ...(query.letter && {
         nameAz: { startsWith: query.letter, mode: 'insensitive' },
       }),
+      ...(query.q?.trim() && {
+        OR: (['nameAz', 'nameRu', 'nameEn'] as const).map((field) => ({
+          [field]: { contains: query.q!.trim(), mode: 'insensitive' as const },
+        })),
+      }),
     };
+
+    // "Recently added" means something to read: catalogue-only authors (no works yet) stay out of it
+    const listWhere = query.sort === 'recent' ? { ...where, works: { some: {} } } : where;
 
     const [data, total] = await this.prisma.$transaction([
       this.prisma.author.findMany({
-        where,
+        where: listWhere,
         skip,
         take,
         orderBy: query.sort === 'recent' ? { createdAt: 'desc' } : { nameAz: 'asc' },
@@ -58,7 +66,7 @@ export class AuthorsService {
           _count: { select: { works: true } },
         },
       }),
-      this.prisma.author.count({ where }),
+      this.prisma.author.count({ where: listWhere }),
     ]);
 
     return paginatedResult(data, total, page, limit);
