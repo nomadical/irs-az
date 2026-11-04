@@ -156,7 +156,9 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
         return;
       }
       const split = parts(body, section.layout);
-      const base = shortSlug(`${cfg.slug}-${w.title}`);
+      let base = shortSlug(`${cfg.slug}-${w.title}`);
+      // A play named after the author's novel ("Dumanlı Təbriz"): its own collection, not the novel's
+      if (split.length > 1 && order.has(base)) base = `${base}-pyes`;
       if (split.length === 1) {
         collection(section.collection, section.titleAz, section.genre);
         write(unique(base), `anl-${book.bibid}-t${k + 1}`, w.title, section.collection, section.genre, w.spread, body, year);

@@ -2916,6 +2916,19 @@
             "layout": "prose"
           }
         ]
+      },
+      {
+        "file": "ordubadi-eserleri-2.md",
+        "bibid": 235376,
+        "sections": [
+          {
+            "first": "Dinçilər",
+            "collection": "ordubadi-pyesler",
+            "titleAz": "Pyeslər",
+            "genre": "PLAY",
+            "layout": "play"
+          }
+        ]
       }
     ],
     "collections": []
