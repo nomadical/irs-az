@@ -4,7 +4,7 @@ titleAz: Dumanlı Təbriz
 authorSlug: ordubadi
 genre: PLAY
 originalLang: AZ_LATIN
-order: 10
+order: 16
 status: DRAFT
 ---
 

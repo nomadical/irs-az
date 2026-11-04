@@ -2918,6 +2918,54 @@
         ]
       },
       {
+        "file": "ordubadi-eserleri-1.md",
+        "bibid": 235388,
+        "sections": [
+          {
+            "first": "«Şərqi-Rus» qəzetinə",
+            "collection": "ordubadi-seirler",
+            "titleAz": "Şeirlər",
+            "genre": "POEM",
+            "layout": "verse"
+          },
+          {
+            "first": "«Kefsiz»ə nəzirə",
+            "collection": "ordubadi-satirik-seirler",
+            "titleAz": "Satirik şe’rlər",
+            "genre": "POEM",
+            "layout": "verse"
+          },
+          {
+            "first": "Söhbət",
+            "collection": "ordubadi-felyetonlar",
+            "titleAz": "Felyetonlar",
+            "genre": "PROSE",
+            "layout": "prose"
+          },
+          {
+            "first": "Karvan",
+            "collection": "ordubadi-menzum-hekayeler",
+            "titleAz": "Mənzum hekayələr",
+            "genre": "POEM",
+            "layout": "verse"
+          },
+          {
+            "first": "600 ayı balası",
+            "collection": "ordubadi-hekayeler",
+            "titleAz": "Hekayələr",
+            "genre": "PROSE",
+            "layout": "prose"
+          },
+          {
+            "first": "Bədbəxt milyonçu, yaxud Rzaqulu firəngiməab",
+            "collection": "ordubadi-bedbext-milyoncu",
+            "titleAz": "Bədbəxt milyonçu, yaxud Rzaqulu firəngiməab",
+            "genre": "PROSE",
+            "layout": "prose"
+          }
+        ]
+      },
+      {
         "file": "ordubadi-eserleri-2.md",
         "bibid": 235376,
         "sections": [

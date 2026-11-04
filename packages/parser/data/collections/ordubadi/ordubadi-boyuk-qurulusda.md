@@ -4,7 +4,7 @@ titleAz: Böyük quruluşda
 authorSlug: ordubadi
 genre: PLAY
 originalLang: AZ_LATIN
-order: 11
+order: 17
 status: DRAFT
 ---
 

@@ -4,7 +4,7 @@ titleAz: Maral
 authorSlug: ordubadi
 genre: PLAY
 originalLang: AZ_LATIN
-order: 8
+order: 14
 status: DRAFT
 ---
 

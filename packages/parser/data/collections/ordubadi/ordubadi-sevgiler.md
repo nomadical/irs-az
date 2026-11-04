@@ -4,7 +4,7 @@ titleAz: Sevgilər
 authorSlug: ordubadi
 genre: PLAY
 originalLang: AZ_LATIN
-order: 7
+order: 13
 status: DRAFT
 ---
 

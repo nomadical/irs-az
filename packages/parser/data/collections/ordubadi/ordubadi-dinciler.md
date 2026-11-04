@@ -4,7 +4,7 @@ titleAz: Dinçilər
 authorSlug: ordubadi
 genre: PLAY
 originalLang: AZ_LATIN
-order: 6
+order: 12
 status: DRAFT
 ---
 
