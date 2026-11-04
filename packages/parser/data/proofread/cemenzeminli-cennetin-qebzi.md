@@ -22,7 +22,7 @@ Usta Ağabala bir az gülüb deyirdi: «hey elə xeyir bərəkət də o vaxtlard
 
 Bundan sonra bir ayrısı başlayırdı:
 
-– Rəhmətlik xanın mənnən arası çox kök idi, (indi kök olmasın!), zorxanada işləyəndə xan da biz ilə işlərdi. Paltarlarımızı təmam çıxardıb, adama bir fitə dutardıq və sonra on-on beş girvənkə gələn acağ milləri atıb dutardıq, oynadardıq. Günümüz elə zorxanada keçərdi. A kişi onda ucuzluq vaxtlar idi; bir «Panabad» ilə iki gün güzəran eləmək olurdu!… Bir gün, xan mənə baxıb, dedi: «vallah, karbalayı, sənnən güləşəcəyəm»! Dedim: «xan başına dönüm, mən nə karəyəm ki, sənnən güləşəm; dedi: olmaz ki, olmaz.
+– Rəhmətlik xanın mənnən arası çox kök idi, (indi kök olmasın!), zorxanada işləyəndə xan da biz ilə işlərdi. Paltarlarımızı təmam çıxardıb, adama bir fitə dutardıq və sonra on-on beş girvənkə gələn acağ milləri atıb dutardıq, oynadardıq. Günümüz elə zorxanada keçərdi. A kişi onda ucuzluq vaxtlar idi; bir «Panabad» ilə iki gün güzəran eləmək olurdu!… Bir gün, xan mənə baxıb, dedi: «vallah, kərbəlayı, sənnən güləşəcəyəm»! Dedim: «xan başına dönüm, mən nə karəyəm ki, sənnən güləşəm; dedi: olmaz ki, olmaz.
 
 @@ 006
 
@@ -42,11 +42,11 @@ Orucluqda şeyxlərin məscidində (Veylabadda şeyxi, üsuli, kərimxanı kimi 
 
 @@ 007
 
->>özünə məxsus məscidi mövcuddur). Əli-Əsgər ağaya pul yığılanda qabaqca qırmızı dəstmala bükülü mənbərə tərəf bir şey göndərilirdi, mənbərin alt pilləsində duran tələbə onu alıb, kəmali-mə’rifət ilə onu açardı və içindən bir parça cındıra bağlı pul və iki cüt ə’la başmaq çıxardıb, qovzardı yuxarı və uca səs ilə çığırardı: «usta Ağabala karbalayı Cahangir oğlu kəfşduz bir imperyal və iki cüt başmaq verdi.
+>>özünə məxsus məscidi mövcuddur). Əli-Əsgər ağaya pul yığılanda qabaqca qırmızı dəstmala bükülü mənbərə tərəf bir şey göndərilirdi, mənbərin alt pilləsində duran tələbə onu alıb, kəmali-mə’rifət ilə onu açardı və içindən bir parça cındıra bağlı pul və iki cüt ə’la başmaq çıxardıb, qovzardı yuxarı və uca səs ilə çığırardı: «usta Ağabala kərbəlayı Cahangir oğlu kəfşduz bir imperyal və iki cüt başmaq verdi.
 
 Başmağın bir cütü Ağa üçün və bir cütü də külfəti üçündür. Allahu-təbarək və tə’ala onu dünyada yer-göy bəlasından hifz eləsin və axirətdə də cənnət hurilərindən məhrum qoymasın! «Amin» səsi məscid ilə bir olardı.
 
-Ustanın neçə həftəyə başa gətirdiyi başmaqlar məsciddə əl-əl gəzərdi. Əvvəl mənbərin ətrafına toplanan molla və seyidlər başmaqlara durust baxıb dabanında yazılan: «Əməl usta Ağabala mübarək başəd» sözlərinə əhsən deyərdilər. Mollalardan o yana oturmuş hacılar, başmaqların hər tərəfinə mahirliq ilə dutulmuş külabatını görüb mat və mütəhəyyir qalırdılar. Məscidin aşağısına başmaqlar getməzdisə də oradakı karbalayılar, məşədilər və geyri alçaq sinifin adamları, başmaqların göyçəkliyini təsdiq edib, ağızlarını marçıldadardılar. Hətta səqfin yavıqlığındakı arvad yerlərindən də pərdələr qalxıb, xınalı əllər usta Ağabalanı göstərərdilər.
+Ustanın neçə həftəyə başa gətirdiyi başmaqlar məsciddə əl-əl gəzərdi. Əvvəl mənbərin ətrafına toplanan molla və seyidlər başmaqlara durust baxıb dabanında yazılan: «Əməl usta Ağabala mübarək başəd» sözlərinə əhsən deyərdilər. Mollalardan o yana oturmuş hacılar, başmaqların hər tərəfinə mahirliq ilə dutulmuş külabatını görüb mat və mütəhəyyir qalırdılar. Məscidin aşağısına başmaqlar getməzdisə də oradakı kərbəlayılar, məşədilər və geyri alçaq sinifin adamları, başmaqların göyçəkliyini təsdiq edib, ağızlarını marçıldadardılar. Hətta səqfin yavıqlığındakı arvad yerlərindən də pərdələr qalxıb, xınalı əllər usta Ağabalanı göstərərdilər.
 
 Usta bunları gördükdə şadlığından bilməzdi nə etsin: gah qalxıb, camaata özünü göstərərdi, gah papağını çıxardıb araqçınını düzəldərdi və axırda öz özünə gülümsənib sükut edərdi.
 
@@ -198,17 +198,17 @@ Burada əvvəl gözə görünən divardakı su küpü idi. Ondan oyana palçıqd
 
 Usta Ağabalanın səsinə hamamçı dik atılıb az qaldı ocağın üstə qaynayan pitini töksün, sonra salama cavab verib Ustanın halını xəbər aldı. Usta ortada olan soyuq su hovuzunun yanından keçib, səkinin birində keçələrin üstə oturdu və hamamçıdan dəllək xəbər aldı. Bir həftə idi ki, usta Ağabala dəllək yanına getməmişdi, başını tük lap deşirdi. Elə saqqalı da pərişan halda görünürdü, lazım idi ki, artıq-əskiyini düzəltdirsin.
 
-Hamamçı qapıdan bir neçə dəfə karbalayı Qulu çağırıb, gəlib oturdu bir azdan sonra dəllək hazır oldu və yetirən kibi balaca güzgünü ətəyi ilə təmizləyib Ustaya təqdim etdi. Karbalayı Qulu alçaq boylu bir kişi idi. Onun qızarmış burnu, nazik bığlarının ortasına dək uzanmışdı, hər gah ustanın burnundan bir naehmal damcı düşə idi düz kişinin alt dodağında bənd alardı, və qışda da həmişə buz bağlardı. Onun üçün karbalayı Qulu tez-tez başını ördək başı kibi qabağa uzadıb silkələrdi. Onda naehmal damcılar yerə tökülüb, rədd olardılar. Karbalayı Qulu çox şeydə ictihad yetirmişdi; təbabətdə də mahir olmağı şübhəsiz idi. Bilirdi ki, qarın ağrısı qanın artıqlığından-
+Hamamçı qapıdan bir neçə dəfə kərbəlayı Qulu çağırıb, gəlib oturdu bir azdan sonra dəllək hazır oldu və yetirən kibi balaca güzgünü ətəyi ilə təmizləyib Ustaya təqdim etdi. Kərbəlayı Qulu alçaq boylu bir kişi idi. Onun qızarmış burnu, nazik bığlarının ortasına dək uzanmışdı, hər gah ustanın burnundan bir naehmal damcı düşə idi düz kişinin alt dodağında bənd alardı, və qışda da həmişə buz bağlardı. Onun üçün kərbəlayı Qulu tez-tez başını ördək başı kibi qabağa uzadıb silkələrdi. Onda naehmal damcılar yerə tökülüb, rədd olardılar. Kərbəlayı Qulu çox şeydə ictihad yetirmişdi; təbabətdə də mahir olmağı şübhəsiz idi. Bilirdi ki, qarın ağrısı qanın artıqlığından-
 
 @@ 013
 
->>dır. O saat azarlının arxasını çərtərdi! Boğaz ağrıyanda peysər həcəməti yapdırardı; yaz vaxtı ildə bir dəfə adamlardan qan alardı: «yazda bəlğəmiyyat bədəndə qaynar, rütubət tərpəzər, lazımdır qan ayılıb cuşə gələn vaxtı bunları təmizləmək». Karbalayı Qulu məhərrəmlikdə altı aylıq uşaqların başını çərtərdi, qan çıxmayanda uşağın peysərinə bir-iki şapalaq çırpan kibi qan görükərdi. Qan da olmasa idi uşağın başından yəqin sarı bulanıq su çıxardı. Onda uşaq sahibinin nəzri də qəbula keçərdi. Amma ayrı dəlləklər bunu bacarmırlar: uşağın başını qarpız kibi paralayırlar, qan çıxmır, nəzir də qəbula keçmir. Xülasə Karbalayının heç eybi yox idi: mahir, qabil, kamil, aqil, məsələsində alim bir şəxs idi.
+>>dır. O saat azarlının arxasını çərtərdi! Boğaz ağrıyanda peysər həcəməti yapdırardı; yaz vaxtı ildə bir dəfə adamlardan qan alardı: «yazda bəlğəmiyyat bədəndə qaynar, rütubət tərpəzər, lazımdır qan ayılıb cuşə gələn vaxtı bunları təmizləmək». Kərbəlayı Qulu məhərrəmlikdə altı aylıq uşaqların başını çərtərdi, qan çıxmayanda uşağın peysərinə bir-iki şapalaq çırpan kibi qan görükərdi. Qan da olmasa idi uşağın başından yəqin sarı bulanıq su çıxardı. Onda uşaq sahibinin nəzri də qəbula keçərdi. Amma ayrı dəlləklər bunu bacarmırlar: uşağın başını qarpız kibi paralayırlar, qan çıxmır, nəzir də qəbula keçmir. Xülasə Kərbəlayının heç eybi yox idi: mahir, qabil, kamil, aqil, məsələsində alim bir şəxs idi.
 
 Usta Ağabala güzgüyə zənn edəndən sonra saqqalının xınaya da ehtiyacı olmağını düşünüb, hamamçıya xına almağı da tapşırdı.
 
 ### V
 
-Karbalayı Qulu, usta Ağabalanın uzun papağını çıxartdı və başını su ilə islatdıqda bir neçə sual elədi; zamanənin dəyişilməsindən, bir az danışdı və dərin ahdan sonra ülgücü belindəki qayışa çəkib, təraş etməyə başladı. Usta Ağabalanın başının yarısı, təraş olmamış, birdən karbalayı Qulu geri çəkilib, dedi:
+Kərbəlayı Qulu, usta Ağabalanın uzun papağını çıxartdı və başını su ilə islatdıqda bir neçə sual elədi; zamanənin dəyişilməsindən, bir az danışdı və dərin ahdan sonra ülgücü belindəki qayışa çəkib, təraş etməyə başladı. Usta Ağabalanın başının yarısı, təraş olmamış, birdən kərbəlayı Qulu geri çəkilib, dedi:
 
 – Usta, axır başıma bir iş gəlib.
 
@@ -216,7 +216,7 @@ Usta gözünün altınca dəlləyə baxıb yenə başını aşağı saldı. Usta
 
 – Dünən gecə namaz üstə çox dualar oxudum, allahu-təbarək və tə’aladan çox istixarələr elədim, ay usta Ağabala dahı bizim əlimizdən, bundan savayı nə gələr. Dünya işinə başımız qarışıb, axirət lap yaddan çıxıb, xülasə gecə yatdım.
 
-Bu sözlərdən sonra karbalayı Qulu bir az geri çəkildi və başını iləri uzadıb, silkələdi, naehmal damcılar gəlib, rədd oldular və bir neçə dəqiqə sükut edib dedi:
+Bu sözlərdən sonra kərbəlayı Qulu bir az geri çəkildi və başını iləri uzadıb, silkələdi, naehmal damcılar gəlib, rədd oldular və bir neçə dəqiqə sükut edib dedi:
 
 – Usta Ağabala and olsun səni məni xəlq eləyənə, gördüm bir səbətdi, bilmirəm təndirdi nədi, bunun qırağında durmuşam. Bir adam gəlib acıqlı, mənə bir təpik vurdu, düşdüm səbətə. İstədim çığıram, birdə gördüm gözümə, qurban olduğumuzdan biri görükdü. Usta and
 
@@ -226,21 +226,21 @@ Bu sözlərdən sonra karbalayı Qulu bir az geri çəkildi və başını iləri
 
 Usta Ağabala yavaş səs ilə «e’tiqadın kamildir, amma ruzin kəm» deyib fikirə ğərq oldu.
 
-Karbalayı Qulu usta Ağabalanın saqqalının altını təraş edə-edə deyirdi:
+Kərbəlayı Qulu usta Ağabalanın saqqalının altını təraş edə-edə deyirdi:
 
 – Biz üzü qara bəndələrin əlindən də nə gələr ki; allah-taaladan nə qədərlənib o olacaq məni kəm ruzi xəlq eliyib o öz əlindədir. Lap ac çılpaq qoysa sözüm nədir…
 
-– Ay Karbalayı yavaş, boğazımı kəsdin! – usta Ağabalanın zarıltısı gəldi. Dəllək qulaq vermiyib, deyirdi;
+– Ay Kərbəlayı yavaş, boğazımı kəsdin! – usta Ağabalanın zarıltısı gəldi. Dəllək qulaq vermiyib, deyirdi;
 
 – Biz gərək naşükür olmayaq və onun yolunda hər bir şeydən keçək ki, qiyamət günü üzümüzə qara çəkməsinlər! Yə’ni mən, ay Usta elə əlimdən də gələni eləmişəm: iki dəfə Karbalaya getmişəm üç dəfə Məşhədə…
 
-– Karbalayı Qulu, qayçı burnumu deşdi, – birdə Ustanın səsi gəldi.
+– Kərbəlayı Qulu, qayçı burnumu deşdi, – birdə Ustanın səsi gəldi.
 
 * * *
 
-Karbalayı Qulu qurtarıb ülgücü belindəki qayış kisbəndə qoydu. Usta Ağabala güzgüdə birdə özünə zənn ilə baxdı: doğrudan başı çox səliqə ilə təraş olmuşdu; saqqalın ucu qarmaq şəklində qulaqlarına yapışmağı Ustanın simasına bir ayrı lətafət verirdi. Karbalayı Qulu bığların qabağını vurmaqda da artıq mahirlik göstərmişdi: Ustanın qalın dodaqları tükdən tamam ayrılıb onun bilaixtiyar nəzərini özünə cəlb edirdi.
+Kərbəlayı Qulu qurtarıb ülgücü belindəki qayış kisbəndə qoydu. Usta Ağabala güzgüdə birdə özünə zənn ilə baxdı: doğrudan başı çox səliqə ilə təraş olmuşdu; saqqalın ucu qarmaq şəklində qulaqlarına yapışmağı Ustanın simasına bir ayrı lətafət verirdi. Kərbəlayı Qulu bığların qabağını vurmaqda da artıq mahirlik göstərmişdi: Ustanın qalın dodaqları tükdən tamam ayrılıb onun bilaixtiyar nəzərini özünə cəlb edirdi.
 
-Usta Ağabala özünə zənn etdikdə «görəsən bu nurani sima hamıyamı müyəssərdir»? deyib karbalayı Quluya bir şahı verdi və başladı səkidə soyunmağa. Dola ha dola neçə arşın qurşağını açıb tökdü və sonra çuxa arxalıq, can arxalığı, hamısını birdən çıxardıb tappıltı ilə saldı keçənin üstə. (Ustanın yay və qış libası, biri birindən seçilmiyib həmişə üç-dörd geymədən ibarət olardı). Paltarlarının hamısını usta Ağabala topladı, dolma bükən sayaq bir fitəyə bükub qoydu səkiyə və papağını da lap fitənin üstündən qoyub səkidən aşağı düşdü. O biri səkilərdə də Usta bükən sayaq çoxluca paltarlar bükmüşdülər və
+Usta Ağabala özünə zənn etdikdə «görəsən bu nurani sima hamıyamı müyəssərdir»? deyib kərbəlayı Quluya bir şahı verdi və başladı səkidə soyunmağa. Dola ha dola neçə arşın qurşağını açıb tökdü və sonra çuxa arxalıq, can arxalığı, hamısını birdən çıxardıb tappıltı ilə saldı keçənin üstə. (Ustanın yay və qış libası, biri birindən seçilmiyib həmişə üç-dörd geymədən ibarət olardı). Paltarlarının hamısını usta Ağabala topladı, dolma bükən sayaq bir fitəyə bükub qoydu səkiyə və papağını da lap fitənin üstündən qoyub səkidən aşağı düşdü. O biri səkilərdə də Usta bükən sayaq çoxluca paltarlar bükmüşdülər və
 
 @@ 015
 
@@ -266,9 +266,9 @@ Usta Ağabala pəncərəyə heç baxmadı, ancaq onun qabağında fitələrin ü
 
 >>dəyişilmədiyinə görə bir balaca qoxuyurdu. Onun da heç bir şeyə dəxli və zərəri yox idi. Hovuza girən qaş-qabaqlı çıxmazdı, həmişə şad, nurani, pak-pakizə, ğəmgin adam da oraya girsə idi, keyfi açılardı: hovuzda adam həmişə həm-söhbət tapır, bir-biri ilə hallaşır, «məsələ» öyrənir, çimməkdə ki, bir keyf. Hovuzun bu başından girib, o biri başından çıxana dək, on adam ilə toqquşarsan, bunun hərəsində bir məlahət, hərəsində gizli bir ləzzət var.
 
-Hovuzda səqfin yırtığından düşən işıq, suyun bulanıqlığını güc ilə aşkar edirdi, bircə çirk layının xırda dalğalara düçar olub, tərpənmələri mə’lum olurdu. Daha ayrı, şeylər əlaməti orada görünmürdü. Bəlkə onu demirəm, birdən-birə adam suya girəndə (xudanəkərdə) qıl çəngələri, dinc durmayıb onun qoluna, qıçına və ya boynuna dolaşa idi və ya ayağını, hovuzun dibində cür-bə-cür yumşaq şeylər ihatə edə idi, bunların da ğüslə mümanəəti olmamağı, aşkardır. Usta Ağabalaya da ğüsuldan başqa ayrı şey lazım deyil idi: yə’ni gərək bir neçə dəfə bata idi suya, istiğfar edə idi və pak olandan sonra gedib Əli-Əsgər ağadan cənnətin qəbzini alıb rahat yerində otura idi. Bu fikir ilə Usta barmaqlarını, qulağına və burnunun dəliklərinə tıxıyıb suya batdı. Kişi, məsələsində arif idi: ğüsuldə bədənin hər bir yerinə su dəyməyini bilirdi, ona görə ayaqlarını da hovuzun dibindən üzdükdə, balıq kibi üzüb o biri tərəfdən çıxdı. Burada uca səs ilə «səlavat» çevirib əlini saqqalına çəkdi və suyun üzünə tüpürüb birdə batdı. Amma çifayda, bu dəfə siyahət natamam qaldı, Usta yarı yol getməmişdi, bir ayrı kişi ilə baş-başa gəlib toqquşdular və ikisi də üzlərini turşaldıb sudan çıxdılar ki, bir birini döysünlər, birdə üz-üzə gələndə «ya allah» deyib mehriban görüşdülər. Bu usta Ağabalanın məktəb yoldaşı, karbalayı Bağır idi.
+Hovuzda səqfin yırtığından düşən işıq, suyun bulanıqlığını güc ilə aşkar edirdi, bircə çirk layının xırda dalğalara düçar olub, tərpənmələri mə’lum olurdu. Daha ayrı, şeylər əlaməti orada görünmürdü. Bəlkə onu demirəm, birdən-birə adam suya girəndə (xudanəkərdə) qıl çəngələri, dinc durmayıb onun qoluna, qıçına və ya boynuna dolaşa idi və ya ayağını, hovuzun dibində cür-bə-cür yumşaq şeylər ihatə edə idi, bunların da ğüslə mümanəəti olmamağı, aşkardır. Usta Ağabalaya da ğüsuldan başqa ayrı şey lazım deyil idi: yə’ni gərək bir neçə dəfə bata idi suya, istiğfar edə idi və pak olandan sonra gedib Əli-Əsgər ağadan cənnətin qəbzini alıb rahat yerində otura idi. Bu fikir ilə Usta barmaqlarını, qulağına və burnunun dəliklərinə tıxıyıb suya batdı. Kişi, məsələsində arif idi: ğüsuldə bədənin hər bir yerinə su dəyməyini bilirdi, ona görə ayaqlarını da hovuzun dibindən üzdükdə, balıq kibi üzüb o biri tərəfdən çıxdı. Burada uca səs ilə «səlavat» çevirib əlini saqqalına çəkdi və suyun üzünə tüpürüb birdə batdı. Amma çifayda, bu dəfə siyahət natamam qaldı, Usta yarı yol getməmişdi, bir ayrı kişi ilə baş-başa gəlib toqquşdular və ikisi də üzlərini turşaldıb sudan çıxdılar ki, bir birini döysünlər, birdə üz-üzə gələndə «ya allah» deyib mehriban görüşdülər. Bu usta Ağabalanın məktəb yoldaşı, kərbəlayı Bağır idi.
 
-Karbalayı Bağır həmişə gülümsənəndə gözünün qarası itərdi, burada da gözünün qarasını itirib dedi:
+Kərbəlayı Bağır həmişə gülümsənəndə gözünün qarası itərdi, burada da gözünün qarasını itirib dedi:
 
 – Usta keyfin kök, dımağın çağdırmı?
 
@@ -278,7 +278,7 @@ Karbalayı Bağır həmişə gülümsənəndə gözünün qarası itərdi, burad
 
 – Neyə dövlətindən, sən nə təhərsən?
 
-Karbalayı Bağır cavab verdi:
+Kərbəlayı Bağır cavab verdi:
 
 @@ 018
 
@@ -308,7 +308,7 @@ Belə-belə on-on beş dəqiqə biri-birinin halını sorub, sabiq rəfiqlərin 
 
 Az çəkmədi, hovuza bir neçə adam da girdi. Bunların biri cüzamlı Abbas idi, qalanının qaranlıq olmağa görə üzləri mə’lum olmurdu. Ancaq birinin keçəli güc ilə seçilirdi.
 
-Hovuz «səlavat» səsi ilə bir oldu. Şappıltı düşdü, karbalayı və məşhədilər ördək kibi çimişirdilər. Biri batıb, biri çıxırdı. Bunun ilə qənaət etməyən neçə çanaq da başına su tökürdü. Salavatlar lap məxrəcdən gəlirdi. Saqqallar tumarlanırdı. İstiyə davam etməyənlər peydərpey divarlara tüpürüb canlarını rahat edirdilər.
+Hovuz «səlavat» səsi ilə bir oldu. Şappıltı düşdü, kərbəlayı və məşhədilər ördək kibi çimişirdilər. Biri batıb, biri çıxırdı. Bunun ilə qənaət etməyən neçə çanaq da başına su tökürdü. Salavatlar lap məxrəcdən gəlirdi. Saqqallar tumarlanırdı. İstiyə davam etməyənlər peydərpey divarlara tüpürüb canlarını rahat edirdilər.
 
 Usta Ağabala hovuzdan çıxan kibi, yerə salınmış fitənin üstə uzandı və camadar onun saqqalına, bığlarına, qaşlarına və barmaqlarının uclarına, kamalı-qabiliyyət və səliqə ilə xına yaxdı. Ustanın istidən döyünən ürəyi elə bil xınadan sonra, sakitləşdi; bədəni rahat olub daha tərpənmədi; gözləri yavaş-yavaş qıyılıb yumuldu. Usta əvvəl ağzından fısıltı ilə bir az hava buraxıb, ondan sonra qəlyan kibi xoruldamağa başladı.
 
@@ -324,11 +324,11 @@ Qoşun kişilik idi. Düşmənlər hər tərəfdən şəhəri ihatə etmiş idi.
 
 Usta Ağabala kağızı alan kibi qaçmağa üz qoydu və hər addım atdıqca elə bil böyüməyə başladı; belə ki, şəhərə yetincə altı yeddi yaşında oldu.
 
-Bir gün Karbalayı Cahangir gördü ki, oğlu Ağabala divardan sərçə yuvası düşürür. Karbalayı fori əlləri ilə onu dutub, başına bir-iki qapaz saldı və sonra İrandan gəlmiş bir mollanın məktəbinə apardı.
+Bir gün Kərbəlayı Cahangir gördü ki, oğlu Ağabala divardan sərçə yuvası düşürür. Kərbəlayı fori əlləri ilə onu dutub, başına bir-iki qapaz saldı və sonra İrandan gəlmiş bir mollanın məktəbinə apardı.
 
 Hər sabah açıldıqda Ağabalanı min ah və zar ilə geyindirib, bir qoltuğuna odun birinə kömür verib, (adətən şəyirdlər məktəbə odun, kömür aparıb, özləri üçün ocaq qalardılar və hər kəs gətirməsə idi onu manqalların və buxarının kənarına qoymazdılar, məktəbin bir küncündə soyuqdan titrərdi) çiyninə də heybəsini salıb məktəbə göndərərdilər. Uşaq atasına bir təpik, anasına bir şıllaq atıb qapıları, bir-birinə çırpa-çırpa evdən çıxardı.
 
-Bir neçə il belə keçdi. Karbalayı Cahangir elə gözləyirdi ki, oğlu Quranın məddini ayağa çıxıb məsələsinə arif olacaq. Lakin oğlu hələ «vəlləyli» də qalmışdı. Karbalayı hər vaxt məktəbə gedib, onu mollaya tapşıranda molla Ağabalanın çənəsindən dutub deyərdi: «çox sə’yli uşaqdır maşallah!».
+Bir neçə il belə keçdi. Kərbəlayı Cahangir elə gözləyirdi ki, oğlu Quranın məddini ayağa çıxıb məsələsinə arif olacaq. Lakin oğlu hələ «vəlləyli» də qalmışdı. Kərbəlayı hər vaxt məktəbə gedib, onu mollaya tapşıranda molla Ağabalanın çənəsindən dutub deyərdi: «çox sə’yli uşaqdır maşallah!».
 
 Ağabala çox qoçaq uşaq idi: məktəbdə cəmi işə hamıdan qabaq o qədəm qoyardı. O biri uşaqlar məktəbə həftədə bir gügüm su versə idilər, Ağabala beş-altı gügüm
 
@@ -336,9 +336,9 @@ Ağabala çox qoçaq uşaq idi: məktəbdə cəmi işə hamıdan qabaq o qədəm
 
 >>verərdi, məktəbi hər gün süpürərdi; bazara gedib, mollaya piti alardı. Bunun üçün də mollası Ağabalanı cəmi şəyirdlərindən çox istərdi: hamısından qabaq onun dərsini deyərdi, həmişə qulunc duranda arxasını ona tapdaladardı, çubuğunu o doldurardı. Ağabalanın bu xoşbaxtlığına cəmi şəyirdlər həsəd aparardılar; axşama dək fikirlərində bu idi ki, bircə Ağabala bu məktəbdən çıxa idi ki, bəlkə bizə də mollanın arxasını qaşımaq və ya boynunu ovmaq növbəti yetişə idi.
 
-Bir gün yenə Karbalayı Cahangir Ağabalanı mollaya tapşırmaq üçün, məktəbə gedəndə görür, məktəbdən səs gəlmir; nə olubsa molla uşaqları tezdən buraxıb. İçəri girdikdə məktəbdə bircə Ağabala ilə molla nəzərinə keçir; görür molla Ağabalanın çənəsindən dutub deyir: «Ağabala qurbanın olum, sən mənim qulağımdan dut mən də sənin!». Bu sözlərdən kişi nə anlayırsa yüyürüb mollanı süpürlüyür. Bir az molla bunu bir az bu mollanı, bu küncə o küncə çırpandan sonra küçədən səsə bir neçə cavan yüyürüb bunları aralıyır.
+Bir gün yenə Kərbəlayı Cahangir Ağabalanı mollaya tapşırmaq üçün, məktəbə gedəndə görür, məktəbdən səs gəlmir; nə olubsa molla uşaqları tezdən buraxıb. İçəri girdikdə məktəbdə bircə Ağabala ilə molla nəzərinə keçir; görür molla Ağabalanın çənəsindən dutub deyir: «Ağabala qurbanın olum, sən mənim qulağımdan dut mən də sənin!». Bu sözlərdən kişi nə anlayırsa yüyürüb mollanı süpürlüyür. Bir az molla bunu bir az bu mollanı, bu küncə o küncə çırpandan sonra küçədən səsə bir neçə cavan yüyürüb bunları aralıyır.
 
-Sabahdan bu işə min rəng verib bazarda danışdılar. Bunu eşitcək Ağabalanın böyük qardaşı gedib mollanın qoparağını götürdü; dayıları, mollanı məktəbə həsrət elədilər; o biri qohumlar özlərinə xançaldan pıçaqdan axtarıb, tapdılar. Söhbət gün-gündən böyüdü; beyinlər qızdı. Az qalmışdı, bu işlər mollanın başında çatlasın, molla baş götürüb İrana qaçdı. Şəhər sakit oldu, söhbətlər yaddan çıxdı. Karbalayı Cahangir and içdi ki, dəxi bu işdən sonra Ağabalanı məktəbə qoymıyacaq, necə də demişdi elə də elədi: aparıb bir başmaqçıya şəyird verdi…
+Sabahdan bu işə min rəng verib bazarda danışdılar. Bunu eşitcək Ağabalanın böyük qardaşı gedib mollanın qoparağını götürdü; dayıları, mollanı məktəbə həsrət elədilər; o biri qohumlar özlərinə xançaldan pıçaqdan axtarıb, tapdılar. Söhbət gün-gündən böyüdü; beyinlər qızdı. Az qalmışdı, bu işlər mollanın başında çatlasın, molla baş götürüb İrana qaçdı. Şəhər sakit oldu, söhbətlər yaddan çıxdı. Kərbəlayı Cahangir and içdi ki, dəxi bu işdən sonra Ağabalanı məktəbə qoymıyacaq, necə də demişdi elə də elədi: aparıb bir başmaqçıya şəyird verdi…
 
 * * *
 

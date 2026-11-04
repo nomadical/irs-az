@@ -21,7 +21,7 @@ Usta Ağabala bir az gülüb deyirdi: «hey elə xeyir bərəkət də o vaxtlard
 
 Bundan sonra bir ayrısı başlayırdı:
 
-– Rəhmətlik xanın mənnən arası çox kök idi, (indi kök olmasın!), zorxanada işləyəndə xan da biz ilə işlərdi. Paltarlarımızı təmam çıxardıb, adama bir fitə dutardıq və sonra on-on beş girvənkə gələn acağ milləri atıb dutardıq, oynadardıq. Günümüz elə zorxanada keçərdi. A kişi onda ucuzluq vaxtlar idi; bir «Panabad» ilə iki gün güzəran eləmək olurdu!… Bir gün, xan mənə baxıb, dedi: «vallah, karbalayı, sənnən güləşəcəyəm»! Dedim: «xan başına dönüm, mən nə karəyəm ki, sənnən güləşəm; dedi: olmaz ki, olmaz.
+– Rəhmətlik xanın mənnən arası çox kök idi, (indi kök olmasın!), zorxanada işləyəndə xan da biz ilə işlərdi. Paltarlarımızı təmam çıxardıb, adama bir fitə dutardıq və sonra on-on beş girvənkə gələn acağ milləri atıb dutardıq, oynadardıq. Günümüz elə zorxanada keçərdi. A kişi onda ucuzluq vaxtlar idi; bir «Panabad» ilə iki gün güzəran eləmək olurdu!… Bir gün, xan mənə baxıb, dedi: «vallah, kərbəlayı, sənnən güləşəcəyəm»! Dedim: «xan başına dönüm, mən nə karəyəm ki, sənnən güləşəm; dedi: olmaz ki, olmaz.
 
 Xülasə əlacım kəsildi, elə zorxanada dutuşduq. Bir az çarpışa-çarpışa fırlanmışdıq, vallah, xan geri çəkilib, mənə bir elə yumruq ilişdirdi ki, yapışdım divara, dahı bir saat özümə gəlmədim».
 
