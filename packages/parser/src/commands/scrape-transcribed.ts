@@ -25,13 +25,18 @@ export interface TranscribedBook {
   /** In data/proofread: "@@ NNN" opens each scanned spread, "# Title" each work, ">>" a paragraph run on from the spread before */
   file: string;
   /** The National Library reader's book id the spreads are numbered in */
-  bibid: number;
+  bibid?: number;
+  /** Or the item id of a print in ULB Halle's MENAdoc (opendata.uni-halle.de/handle/1981185920/<id>); "@@ NNN" is then the PDF page */
+  halle?: number;
   sections: TranscribedSection[];
   /** Works already on the site from another source, left out by title (their numbering is kept) */
   skip?: string[];
 }
 
-const readerUrl = (bibid: number, page: number) => `http://web2.anl.az:81/read/page.php?bibid=${bibid}&pno=${page}`;
+const readerUrl = (book: TranscribedBook, page: number) =>
+  book.halle ? `https://opendata.uni-halle.de/handle/1981185920/${book.halle}` : `http://web2.anl.az:81/read/page.php?bibid=${book.bibid}&pno=${page}`;
+/** The stem of the book's works' sourceIds */
+const sourceKey = (book: TranscribedBook) => (book.halle ? `halle-${book.halle}` : `anl-${book.bibid}`);
 
 /** The book's works in order: title, the spread it starts on, and its Markdown */
 export function readTranscription(text: string) {
@@ -80,7 +85,7 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
     const books = [cfg.transcribed].flat();
 
     // Slugs the author's works from other sources hold ("Ayrı söhbət" is also a feuilleton in another book)
-    const own = books.map((b) => `anl-${b.bibid}-t`);
+    const own = books.map((b) => `${sourceKey(b)}-t`);
     const authorDir = path.join(DATA_DIR, 'works', cfg.slug);
     const taken = fs.existsSync(authorDir) ? fs.readdirSync(authorDir, { recursive: true }) as string[] : [];
     const used = new Set<string>(taken.filter((f) => f.endsWith('.md')).flatMap((f) => {
@@ -103,13 +108,13 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
       console.log(`  ${slug}  ${titleAz}`);
       if (!opts.dryRun) writeCollectionMd({ slug, titleAz, authorSlug: cfg.slug, genre, originalLang: 'AZ_LATIN', order: ++collOrder, status: 'DRAFT' });
     };
-    const writeIn = (book: { bibid: number }) => (slug: string, sourceId: string, titleAz: string, coll: string, genre: Genre, spread: number, body: string, year?: number) => {
+    const writeIn = (book: TranscribedBook) => (slug: string, sourceId: string, titleAz: string, coll: string, genre: Genre, spread: number, body: string, year?: number) => {
       const n = (order.get(coll) ?? 0) + 1;
       order.set(coll, n);
       console.log(`    ${slug}  (${body.length} chars)`);
       if (!opts.dryRun) writeWorkMd({
         slug, sourceId, titleAz, authorSlug: cfg.slug, collectionSlug: coll, originalLang: 'AZ_LATIN', scriptDirection: 'LTR',
-        genre, year, order: n, sourceNote: readerUrl(book.bibid, spread), status: 'DRAFT',
+        genre, year, order: n, sourceNote: readerUrl(book, spread), status: 'DRAFT',
       }, body);
     };
 
@@ -133,7 +138,7 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
           // A shared ghazal names its poets over the couplets ("*Vaqif*", "### Vahid"): the title is the first verse line
           const first = poem.split('\n').find((l) => l.trim() && !/^(#|\*)/.test(l.trim())) ?? poem;
           const title = first.trim().replace(/[,;:–-]+$/, '');
-          write(unique(shortSlug(`${cfg.slug}-${title}`)), `anl-${book.bibid}-t${k + 1}-${n + 1}`, title,
+          write(unique(shortSlug(`${cfg.slug}-${title}`)), `${sourceKey(book)}-t${k + 1}-${n + 1}`, title,
             section!.collection, section!.genre, w.spread, poem);
         });
         return;
@@ -150,7 +155,7 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
           const text = piece.slice(m[0].length).trim();
           // Each piece closes on the paper it ran in: "*“Həyat” qəzeti, 5 oktyabr 1905, №78*"
           const ran = text.match(/\*[^*\n]*\b(1[89]\d\d)\b[^*\n]*\*$/);
-          write(unique(shortSlug(`${cfg.slug}-${title}`)), `anl-${book.bibid}-t${k + 1}-${m[1]}`, title,
+          write(unique(shortSlug(`${cfg.slug}-${title}`)), `${sourceKey(book)}-t${k + 1}-${m[1]}`, title,
             section!.collection, section!.genre, w.spread, text, ran ? Number(ran[1]) : undefined);
         });
         return;
@@ -161,13 +166,13 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
       if (split.length > 1 && order.has(base)) base = `${base}-pyes`;
       if (split.length === 1) {
         collection(section.collection, section.titleAz, section.genre);
-        write(unique(base), `anl-${book.bibid}-t${k + 1}`, w.title, section.collection, section.genre, w.spread, body, year);
+        write(unique(base), `${sourceKey(book)}-t${k + 1}`, w.title, section.collection, section.genre, w.spread, body, year);
         return;
       }
       // A play in acts: a collection of its own, one work per act
       collection(base, w.title, section.genre);
       split.forEach((part, n) => {
-        write(unique(part.title ? shortSlug(`${base}-${part.title}`) : base), `anl-${book.bibid}-t${k + 1}-${n}`,
+        write(unique(part.title ? shortSlug(`${base}-${part.title}`) : base), `${sourceKey(book)}-t${k + 1}-${n}`,
           part.title ?? w.title, base, section!.genre, w.spread, part.body, year);
       });
     });
