@@ -224,7 +224,7 @@ function ocrPage(file: string, lang: string, wholeSpread: boolean): Page {
 }
 
 /** Word frequencies from the Azerbaijani texts already on the site: the dictionary OCR slips are checked against */
-function loadWordlist(): Map<string, number> {
+function loadWordlist(exclude?: string): Map<string, number> {
   const freq = new Map<string, number>();
   const walk = (dir: string) => {
     for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -233,6 +233,8 @@ function loadWordlist(): Map<string, number> {
       else if (entry.name.endsWith('.md')) {
         const text = fs.readFileSync(p, 'utf-8');
         if (!/^originalLang: AZ_LATIN$/m.test(text)) continue;
+        // Re-reading a book already on the site (to test the OCR): leave its own words out
+        if (exclude && text.includes(`sourceId: ${exclude}`)) continue;
         for (const w of text.split('\n---\n').slice(1).join(' ').toLocaleLowerCase('az').match(/\p{L}+/gu) ?? []) {
           freq.set(w, (freq.get(w) ?? 0) + 1);
         }
@@ -359,6 +361,97 @@ function layOut(pages: Page[], runningHeads: Set<string>, footnotes: string[], s
 
 const norm = (s: string) => s.toLocaleLowerCase('az').replace(/[^\p{L}]/gu, '');
 
+// ── --engine vlm: a local vision model (mlx-vlm on Apple silicon) reads the pages ──
+// On 1960s Cyrillic verse it misreads ~7% of words against a proofread text, against ~22% for the
+// Tesseract route above: a better draft, still to be proofread against the scans.
+const VLM_MODEL = 'mlx-community/Qwen3-VL-30B-A3B-Instruct-4bit';
+const VLM_PYTHON = process.env.OCR_VLM_PYTHON ?? path.join(os.homedir(), '.local/share/irs-local-ocr/bin/python');
+
+/** Azerbaijani Cyrillic (1958 alphabet) to Latin, letter for letter */
+const AZ_CYR: Record<string, string> = {
+  а: 'a', б: 'b', в: 'v', г: 'q', ғ: 'ğ', д: 'd', е: 'e', ә: 'ə', ж: 'j', з: 'z', и: 'i', ы: 'ı', ј: 'y', к: 'k', ҝ: 'g',
+  л: 'l', м: 'm', н: 'n', о: 'o', ө: 'ö', п: 'p', р: 'r', с: 's', т: 't', у: 'u', ү: 'ü', ф: 'f', х: 'x', һ: 'h', ч: 'ç',
+  ҹ: 'c', ш: 'ş', э: 'e', ю: 'yu', я: 'ya', ц: 'ts', щ: 'şç', ъ: '', ь: '', й: 'y',
+};
+/** Latin and Russian look-alikes the model mixes into its Cyrillic */
+const LOOKALIKE: Record<string, string> = {
+  a: 'а', c: 'с', e: 'е', o: 'о', p: 'р', x: 'х', y: 'у', j: 'ј', h: 'һ', i: 'и', k: 'к', s: 'с', g: 'ғ', ə: 'ә', й: 'ј',
+};
+
+function cyrillicToLatin(text: string): string {
+  let out = '';
+  for (const ch of text) {
+    const lower = ch.toLocaleLowerCase('az');
+    const cyr = LOOKALIKE[lower] ?? lower;
+    const latin = AZ_CYR[cyr];
+    if (latin === undefined) { out += ch; continue; }
+    out += ch !== lower && latin ? latin[0].toLocaleUpperCase('az') + latin.slice(1) : latin;
+  }
+  return out.replace(/ʼ/g, '’');
+}
+
+// Letters this kind of typeface prints alike, weighed even for a known word ("köz" ember / "göz" eye)
+const ALIKE: Record<string, string> = { k: 'g', g: 'k', ç: 'c', c: 'ç', a: 'ə', ə: 'a' };
+// For an unknown word, more slips are tried
+const SLIPS: Record<string, string> = { ...ALIKE, q: 'ğ', ğ: 'q', ı: 'i', i: 'ı', e: 'ə', o: 'ö', ö: 'o', u: 'ü', ü: 'u', h: 'k' };
+
+/** A word swapped for a much more common one that differs only in letters the print or the model confuses */
+function resolveAlike(word: string, freq: Map<string, number>): string {
+  const lower = word.toLocaleLowerCase('az');
+  if (lower.length < 2) return word;
+  const known = (freq.get(lower) ?? 0) >= KNOWN;
+  const swaps = known ? ALIKE : SLIPS;
+  const spots = [...lower].map((c, i) => (swaps[c] ? i : -1)).filter((i) => i >= 0).slice(0, 10);
+  let best = lower;
+  let bestN = freq.get(lower) ?? 0;
+  for (let k = 1; k <= Math.min(3, spots.length) && best === lower; k++) {
+    const pick = (start: number, chosen: number[]): void => {
+      if (chosen.length === k) {
+        const chars = [...lower];
+        for (const i of chosen) chars[i] = swaps[chars[i]];
+        const cand = chars.join('');
+        const n = freq.get(cand) ?? 0;
+        if (n > (known ? bestN * 8 + 20 : bestN * 3 + 2)) [best, bestN] = [cand, n];
+        return;
+      }
+      for (let j = start; j < spots.length; j++) pick(j + 1, [...chosen, spots[j]]);
+    };
+    pick(0, []);
+  }
+  if (best === lower) return word;
+  return [...best].map((c, i) => (word[i] && word[i] !== word[i].toLocaleLowerCase('az') ? c.toLocaleUpperCase('az') : c)).join('');
+}
+
+/** Pages as the model wrote them (blocks split by blank lines, "# " titles, footnotes after "---")
+    into the draft's paragraphs; a paragraph broken by the page turn is joined back */
+function vlmLayOut(pages: string[], spread: number, footnotes: string[], freq: Map<string, number>) {
+  const blocks: string[] = [];
+  for (const raw of pages) {
+    if (!raw.trim()) continue;
+    const [body, notes] = raw.split(/^-{3,}\s*$/m);
+    for (const l of (notes ?? '').split('\n')) if (l.trim()) footnotes.push(`${spread}: ${l.trim()}`);
+    const fixed = (CYRILLIC ? cyrillicToLatin(body) : body).replace(/[\p{L}’']+/gu, (w) => resolveAlike(fixWord(w, freq), freq));
+    const pageBlocks = fixed.split(/\n\s*\n/).map((b) => b.trim()).filter((b) => b && /\p{L}/u.test(b));
+    const prev = blocks[blocks.length - 1];
+    const first = pageBlocks[0];
+    // Prose cut at the page turn: the block before has no closing stop and this one starts lower-case
+    if (prev && first && !prev.startsWith('# ') && !/[.!?…»"”:]$/.test(prev) && /^\p{Ll}/u.test(first)) {
+      blocks[blocks.length - 1] = prev.endsWith('-') ? prev.slice(0, -1) + first : `${prev} ${first}`;
+      pageBlocks.shift();
+    }
+    blocks.push(...pageBlocks);
+  }
+  return blocks.map((b) => b.replace(/^#\s*/, '# ').replace(/^[-—]\s/gm, '– '));
+}
+
+function runVlm(images: string[], lang: string, model: string, tmp: string): Record<string, string> {
+  if (!fs.existsSync(VLM_PYTHON)) throw new Error(`No Python with mlx-vlm at ${VLM_PYTHON} (set OCR_VLM_PYTHON); see the ocr-book --engine vlm setup in CLAUDE.md`);
+  const out = path.join(tmp, 'vlm.json');
+  const res = spawnSync(VLM_PYTHON, [path.join(__dirname, 'ocr-book-vlm.py'), model, lang, out, ...images], { stdio: ['ignore', 'inherit', 'inherit'] });
+  if (res.status !== 0) throw new Error('ocr-book-vlm.py failed');
+  return JSON.parse(fs.readFileSync(out, 'utf-8'));
+}
+
 export const ocrBookCommand = new Command('ocr-book')
   .description('Read a scanned book (spread images pNNN.jpg/png) with Tesseract into the data/proofread format, for checking before scrape-transcribed')
   .requiredOption('--images <dir>', 'Folder of spread images named pNNN.jpg or pNNN.png')
@@ -367,11 +460,16 @@ export const ocrBookCommand = new Command('ocr-book')
   .option('--to <n>', 'Last spread')
   .option('--lang <lang>', 'aze (Latin) or aze_cyrl (read with the Russian model, resolved to Latin by the word list)', 'aze')
   .option('--single', 'Images are single pages, not two-page spreads')
-  .action((opts: { images: string; out: string; from: string; to?: string; lang: string; single?: boolean }) => {
-    if (!has('tesseract')) throw new Error('tesseract not found: brew install tesseract');
+  .option('--engine <engine>', 'tesseract, or vlm: a local vision model via mlx-vlm (Apple silicon; a better draft for Cyrillic books, ~12 s a page)', 'tesseract')
+  .option('--vlm-model <id>', 'Hugging Face id of the mlx-vlm model', VLM_MODEL)
+  .option('--exclude-source <prefix>', 'Leave works whose sourceId starts with this out of the word list (re-reading a book already on the site)')
+  .action((opts: { images: string; out: string; from: string; to?: string; lang: string; single?: boolean; engine: string; vlmModel: string; excludeSource?: string }) => {
     CYRILLIC = opts.lang === 'aze_cyrl';
+    const vlm = opts.engine === 'vlm';
+    if (!vlm && opts.engine !== 'tesseract') throw new Error(`Unknown engine: ${opts.engine}`);
+    if (!vlm && !has('tesseract')) throw new Error('tesseract not found: brew install tesseract');
     const tessLang = CYRILLIC ? 'rus' : opts.lang;
-    ensureModel(tessLang);
+    if (!vlm) ensureModel(tessLang);
     const files = fs
       .readdirSync(opts.images)
       .map((f) => ({ f, n: Number(f.match(/^p(\d+)\.(jpe?g|png)$/i)?.[1]) }))
@@ -379,8 +477,29 @@ export const ocrBookCommand = new Command('ocr-book')
       .sort((a, b) => a.n - b.n);
     const split = !opts.single;
     const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'ocr-book-'));
-    const freq = loadWordlist();
+    const freq = loadWordlist(opts.excludeSource);
     FREQ = freq;
+
+    if (vlm) {
+      if (!havePillow) throw new Error('--engine vlm splits spreads with python3 + Pillow: pip install pillow');
+      const spreadPages = files.map(({ f, n }) => ({ n, images: pageImages(path.join(opts.images, f), tmp, split) }));
+      const text = runVlm(spreadPages.flatMap((s) => s.images), opts.lang, opts.vlmModel, tmp);
+      const footnotes: string[] = [];
+      const out: string[] = [];
+      for (const { n, images } of spreadPages) {
+        const paragraphs = vlmLayOut(images.map((img) => text[img] ?? ''), n, footnotes, freq);
+        out.push(`@@ ${String(n).padStart(3, '0')}`);
+        if (paragraphs.length) {
+          if (/^\p{Ll}/u.test(paragraphs[0]) && out.length > 1) paragraphs[0] = `>>${paragraphs[0]}`;
+          out.push('', paragraphs.join('\n\n'), '');
+        }
+      }
+      fs.writeFileSync(opts.out, out.join('\n').replace(/\n{3,}/g, '\n\n'));
+      if (footnotes.length) fs.writeFileSync(opts.out.replace(/\.md$/, '') + '.footnotes.txt', footnotes.join('\n') + '\n');
+      fs.rmSync(tmp, { recursive: true, force: true });
+      console.log(`Wrote ${opts.out}: ${files.length} spreads (${opts.vlmModel})${footnotes.length ? `, ${footnotes.length} footnote lines set aside` : ''}`);
+      return;
+    }
 
     // First pass: read every page, then find running heads (the same short line on many pages)
     const spreads = files.map(({ f, n }) => {
