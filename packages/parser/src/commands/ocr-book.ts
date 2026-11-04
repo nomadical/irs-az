@@ -422,6 +422,52 @@ function resolveAlike(word: string, freq: Map<string, number>): string {
   return [...best].map((c, i) => (word[i] && word[i] !== word[i].toLocaleLowerCase('az') ? c.toLocaleUpperCase('az') : c)).join('');
 }
 
+// ── --lang aze_yanalif: the 1922–39 Latin alphabet (y = u, u = ü, j = y, k = q, q = k, g = ğ, ƣ = g, ʒ = ş, ɵ = ö, ь = ı) ──
+// The model writes ʒ as z, ƣ as q and ɵ as e often enough that each word is read every way those
+// letters allow, with the 1920s spellings (jok, dytyb) mapped to today's (yox, tutub), and the
+// reading most common on the site wins. A word the site never has keeps its first reading.
+let YANALIF = false;
+const YANALIF_LETTERS: Record<string, string[]> = {
+  y: ['u'], u: ['ü'], j: ['y'], k: ['q'], q: ['k', 'g'], g: ['ğ', 'g'], ƣ: ['g'], ʒ: ['ş'], з: ['ş'], z: ['z', 'ş'],
+  ɵ: ['ö'], e: ['e', 'ö'], ь: ['ı'], ɩ: ['ı'], c: ['c', 'ç'], ç: ['ç', 'c'], b: ['b', 'p'], d: ['d', 't'],
+};
+
+function yanalifWord(word: string, freq: Map<string, number>): string {
+  const lower = word.toLocaleLowerCase('az');
+  let cands = [''];
+  [...lower].forEach((ch, i) => {
+    let opts = YANALIF_LETTERS[ch] ?? [ch];
+    if (ch === 'k' && i === lower.length - 1) opts = ['q', 'x']; // jok → yox
+    if (ch === 'd' && i > 0) opts = ['d']; // initial d of the old spelling only (dytyb → tutub)
+    if (ch === 'b' && i < lower.length - 1) opts = ['b'];
+    const next = cands.flatMap((c) => opts.map((o) => c + o));
+    cands = next.length > 2048 ? cands.map((c) => c + opts[0]) : next;
+  });
+  let best = cands[0];
+  let bestN = freq.get(best) ?? 0;
+  for (const c of cands) {
+    const n = freq.get(c) ?? 0;
+    if (n > bestN) [best, bestN] = [c, n];
+  }
+  return word[0] !== lower[0] ? best[0].toLocaleUpperCase('az') + best.slice(1) : best;
+}
+
+function yanalifToLatin(text: string, freq: Map<string, number>): string {
+  const n = (w: string) => freq.get(yanalifWord(w, freq).toLocaleLowerCase('az')) ?? 0;
+  // A ʒ the model wrote as the digit 3 is read as ʒ; the library's footer and lines of the prompt are dropped
+  const letters = text
+    .replace(/(?<=\p{L})3|3(?=\p{L})/gu, 'ʒ')
+    .replace(/^.*(Universitäts- und Landesbibliothek|urn:nbn:|^DFG$|Latin alphabet|Yanalif).*$/gim, '');
+  // Words the model left hyphenated at a line end ("qizi-nin") are joined when the whole is a common word,
+  // or when the halves are not both words; doubled words ("belə-belə", "qısıla-qısıla") keep the hyphen
+  const joined = letters.replace(/(\p{L}+)-(\p{Ll}+)/gu, (m, a: string, b: string) => {
+    if (a.slice(0, 3).toLocaleLowerCase('az') === b.slice(0, 3)) return m;
+    if (n(a + b) >= KNOWN) return a + b;
+    return n(a) >= KNOWN && n(b) >= KNOWN ? m : a + b;
+  });
+  return joined.replace(/\p{L}+/gu, (w) => yanalifWord(w, freq)).replace(/[‘ʻ']/g, '’');
+}
+
 /** Pages as the model wrote them (blocks split by blank lines, "# " titles, footnotes after "---")
     into the draft's paragraphs; a paragraph broken by the page turn is joined back */
 function vlmLayOut(pages: string[], spread: number, footnotes: string[], freq: Map<string, number>) {
@@ -430,7 +476,9 @@ function vlmLayOut(pages: string[], spread: number, footnotes: string[], freq: M
     if (!raw.trim()) continue;
     const [body, notes] = raw.split(/^-{3,}\s*$/m);
     for (const l of (notes ?? '').split('\n')) if (l.trim()) footnotes.push(`${spread}: ${l.trim()}`);
-    const fixed = (CYRILLIC ? cyrillicToLatin(body) : body).replace(/[\p{L}’']+/gu, (w) => resolveAlike(fixWord(w, freq), freq));
+    const fixed = YANALIF
+      ? yanalifToLatin(body.replace(/^\[VLM LOOPED.*$/m, (m) => `\n${m}\n`), freq).replace(/\[Vlm Looped[^\]]*\]/i, '[VLM LOOPED – check this page]')
+      : (CYRILLIC ? cyrillicToLatin(body) : body).replace(/[\p{L}’']+/gu, (w) => resolveAlike(fixWord(w, freq), freq));
     const pageBlocks = fixed.split(/\n\s*\n/).map((b) => b.trim()).filter((b) => b && /\p{L}/u.test(b));
     const prev = blocks[blocks.length - 1];
     const first = pageBlocks[0];
@@ -441,15 +489,24 @@ function vlmLayOut(pages: string[], spread: number, footnotes: string[], freq: M
     }
     blocks.push(...pageBlocks);
   }
-  return blocks.map((b) => b.replace(/^#\s*/, '# ').replace(/^[-—]\s/gm, '– '));
+  // A "title" that runs long or starts lower-case is a paragraph the model marked wrongly
+  return blocks.map((b) => (b.startsWith('#') && (b.length > 80 || /^#+\s*\p{Ll}/u.test(b) || b.split(/\s+/).length > 9) ? b.replace(/^#+\s*/, '') : b).replace(/^#\s*/, '# ').replace(/^[-—]\s/gm, '– '));
 }
 
-function runVlm(images: string[], lang: string, model: string, tmp: string): Record<string, string> {
+/** The model's raw pages are kept in <draft>.vlm.json; a re-run over the same pages reuses them */
+function runVlm(images: string[], lang: string, model: string, tmp: string, cache?: string): Record<string, string> {
   if (!fs.existsSync(VLM_PYTHON)) throw new Error(`No Python with mlx-vlm at ${VLM_PYTHON} (set OCR_VLM_PYTHON); see the ocr-book --engine vlm setup in CLAUDE.md`);
   const out = path.join(tmp, 'vlm.json');
+  if (cache && fs.existsSync(cache)) {
+    const cached: Record<string, string> = JSON.parse(fs.readFileSync(cache, 'utf-8'));
+    const byName = new Map(Object.entries(cached).map(([k, v]) => [path.basename(k), v]));
+    if (images.every((i) => byName.has(path.basename(i)))) return Object.fromEntries(images.map((i) => [i, byName.get(path.basename(i))!]));
+  }
   const res = spawnSync(VLM_PYTHON, [path.join(__dirname, 'ocr-book-vlm.py'), model, lang, out, ...images], { stdio: ['ignore', 'inherit', 'inherit'] });
   if (res.status !== 0) throw new Error('ocr-book-vlm.py failed');
-  return JSON.parse(fs.readFileSync(out, 'utf-8'));
+  const read: Record<string, string> = JSON.parse(fs.readFileSync(out, 'utf-8'));
+  if (cache) fs.writeFileSync(cache, JSON.stringify(Object.fromEntries(Object.entries(read).map(([k, v]) => [path.basename(k), v])), null, 1));
+  return read;
 }
 
 export const ocrBookCommand = new Command('ocr-book')
@@ -458,13 +515,15 @@ export const ocrBookCommand = new Command('ocr-book')
   .requiredOption('--out <file>', 'Where to write the draft (a .md file)')
   .option('--from <n>', 'First spread', '1')
   .option('--to <n>', 'Last spread')
-  .option('--lang <lang>', 'aze (Latin) or aze_cyrl (read with the Russian model, resolved to Latin by the word list)', 'aze')
+  .option('--lang <lang>', 'aze (Latin), aze_cyrl (read with the Russian model, resolved to Latin by the word list) or aze_yanalif (the 1922–39 Latin alphabet; --engine vlm only)', 'aze')
   .option('--single', 'Images are single pages, not two-page spreads')
   .option('--engine <engine>', 'tesseract, or vlm: a local vision model via mlx-vlm (Apple silicon; a better draft for Cyrillic books, ~12 s a page)', 'tesseract')
   .option('--vlm-model <id>', 'Hugging Face id of the mlx-vlm model', VLM_MODEL)
   .option('--exclude-source <prefix>', 'Leave works whose sourceId starts with this out of the word list (re-reading a book already on the site)')
   .action((opts: { images: string; out: string; from: string; to?: string; lang: string; single?: boolean; engine: string; vlmModel: string; excludeSource?: string }) => {
     CYRILLIC = opts.lang === 'aze_cyrl';
+    YANALIF = opts.lang === 'aze_yanalif';
+    if (YANALIF && opts.engine !== 'vlm') throw new Error('--lang aze_yanalif needs --engine vlm');
     const vlm = opts.engine === 'vlm';
     if (!vlm && opts.engine !== 'tesseract') throw new Error(`Unknown engine: ${opts.engine}`);
     if (!vlm && !has('tesseract')) throw new Error('tesseract not found: brew install tesseract');
@@ -483,7 +542,7 @@ export const ocrBookCommand = new Command('ocr-book')
     if (vlm) {
       if (!havePillow) throw new Error('--engine vlm splits spreads with python3 + Pillow: pip install pillow');
       const spreadPages = files.map(({ f, n }) => ({ n, images: pageImages(path.join(opts.images, f), tmp, split) }));
-      const text = runVlm(spreadPages.flatMap((s) => s.images), opts.lang, opts.vlmModel, tmp);
+      const text = runVlm(spreadPages.flatMap((s) => s.images), opts.lang, opts.vlmModel, tmp, opts.out.replace(/\.md$/, '') + '.vlm.json');
       const footnotes: string[] = [];
       const out: string[] = [];
       for (const { n, images } of spreadPages) {

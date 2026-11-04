@@ -21,6 +21,7 @@ pnpm build                      # build everything
 pnpm check                      # typecheck every package (no build)
 pnpm parse ocr-book --images <dir> --out <file.md> [--lang aze_cyrl]   # OCR scanned spreads (pNNN.jpg) with Tesseract into the data/proofread format; Cyrillic books are read with the Russian model and resolved to Latin by the site's word list; needs `brew install tesseract` and python3 with Pillow
 pnpm parse ocr-book --images <dir> --out <file.md> --lang aze_cyrl --engine vlm   # same, read by a local vision model (Qwen3-VL-30B-A3B via mlx-vlm, ~12 s/page): ~7% word errors on Cyrillic verse vs ~22% for Tesseract; still proofread against the scans. Setup: `uv venv --python 3.12 ~/.local/share/irs-local-ocr && uv pip install --python ~/.local/share/irs-local-ocr/bin/python mlx-vlm` (or set OCR_VLM_PYTHON); the model (~17 GB) downloads on first use
+pnpm parse ocr-book --images <dir> --out <file.md> --lang aze_yanalif --engine vlm --single   # 1922–39 Latin-alphabet prints (Halle MENAdoc): each word read every way its look-alike letters allow and the commonest modern form on the site kept; the model's raw pages are cached in <file>.vlm.json so a re-run only re-lays them out
 ```
 
 ## Stack

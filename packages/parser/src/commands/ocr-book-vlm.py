@@ -26,6 +26,10 @@ PROMPTS = {
     "Transcribe ALL the text exactly as printed, in Cyrillic. " + LAYOUT,
     "aze": "This is a page of an Azerbaijani book printed in the Latin alphabet (with ə ğ ı ö ü ç ş). "
     "Transcribe ALL the text exactly as printed. " + LAYOUT,
+    "aze_yanalif": "This page is printed in the 1920s Azerbaijani Latin alphabet (Yanalif). Transcribe ALL the text exactly as printed, "
+    "letter for letter, in Latin letters only (never switch to Cyrillic, whatever the words are); do NOT modernise the spelling. Write its special letters as: the letter like a Cyrillic з → 'ʒ'; the dotless i "
+    "with a hook (ɩ/ь) → 'ı'; o with a bar (ɵ) → 'ɵ'; the q-like letter with a hook at the bottom (ƣ) → 'ƣ'; schwa → 'ə'. "
+    + LAYOUT + " Skip the library footer.",
 }
 
 
