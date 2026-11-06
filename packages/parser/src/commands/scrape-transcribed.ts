@@ -112,8 +112,11 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
       const n = (order.get(coll) ?? 0) + 1;
       order.set(coll, n);
       console.log(`    ${slug}  (${body.length} chars)`);
+      // A poem kept in Persian is titled "… {fa}" in the transcription
+      const fa = / \{fa\}$/.test(titleAz);
       if (!opts.dryRun) writeWorkMd({
-        slug, sourceId, titleAz, authorSlug: cfg.slug, collectionSlug: coll, originalLang: 'AZ_LATIN', scriptDirection: 'LTR',
+        slug, sourceId, titleAz: titleAz.replace(/ \{fa\}$/, ''), authorSlug: cfg.slug, collectionSlug: coll,
+        originalLang: fa ? 'FA' : 'AZ_LATIN', scriptDirection: fa ? 'RTL' : 'LTR',
         genre, year, order: n, sourceNote: readerUrl(book, spread), status: 'DRAFT',
       }, body);
     };
@@ -161,7 +164,7 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
         return;
       }
       const split = parts(body, section.layout);
-      let base = shortSlug(`${cfg.slug}-${w.title}`);
+      let base = shortSlug(`${cfg.slug}-${w.title.replace(/ \{fa\}$/, '')}`);
       // A play named after the author's novel ("Dumanlı Təbriz"): its own collection, not the novel's
       if (split.length > 1 && order.has(base)) base = `${base}-pyes`;
       if (split.length === 1) {
