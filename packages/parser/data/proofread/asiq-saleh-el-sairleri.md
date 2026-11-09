@@ -68,7 +68,7 @@ Dönmənəm eşqin yolundan taki ömrüm vardır,
 Kafirəm inkar qılsam, etdiyim iqrardır,
 Çünki eşqin badəsi aşiqə qəmxardır,
 Sevdiyim tərsa qızı, bağladığım zünnardır,
-Büt-pərəstəm, söyləm ancaq kilisadan xəbər
+Büt-pərəstəm, söylərəm ancaq kilisadan xəbər
 Yardan ver bir xəbər,
 Dildardan ver bir xəbər.
 
@@ -80,9 +80,9 @@ Aqibət səndən sorarlar ol mücladan xəbər
 Yardan ver bir xəbər,
 Dildardan ver bir xəbər.
 
-# Təcnis: Kələb olub yaslanmışam dərdə yar
+# Təcnis: Kəlbin olub yaslanmışam dərdə yar
 
-Kələb olub yaslanmışam dərdə yar,
+Kəlbin olub yaslanmışam dərdə yar,
 Bir kərə bizi çağırmazsan ayla,
 Bağa girdik keşt ilə gül dərdə yar,
 Süsən-sünbül gül və reyhan ilə
@@ -96,10 +96,10 @@ Hesab oldur şadlıq ilə ayla
 
 Mənsur kimi məni saldın meydadır,
 Üzün görən zində olur meydadır,
-Kim ki lik cür'əsindən meydadır,
-İnanmazam məhşərə cin ayla
+Kim ki ləbin cür'əsindən mey dadır,
+İnanmazam məhşərəcən ayla
 
-Pərizadə keştə çıxmış dər düzə,
+Pərizadə gəştə çıxmış dər düzə,
 Gəl üzünə inci düzə dər düzə,
 Ümid vardır rəqib canın dərd üzə,
 Fəna ruyə yetişməyə ayla
@@ -112,128 +112,127 @@ Hilal qaşın bərabərdir ayla
 # Müstəzad: Ey dil, gecələr sübhə dəkin yar eşiyində
 
 Ey dil, gecələr sübhə dəkin yar eşiyində — Əfqanə yetişdik,
-Rəhmi yox olan kafir bimar eşiyində — Sən cana yetişdik,
+Rəhmi yox olan kafiri-bimar eşiyində — Sən cana yetişdik,
+
 Yaqub kimi saldı məni dərdü-bəlayə — Bir Hüsn-Züleyxa,
 Yusif kimi ol naşi xəridar eşiyində — Zindana yetişdik,
-Süydürmə dedim bunca üzün eşq yolunda — Hanənd Nəsimi,
-Mənsur kimi qamətə bir dad eşiyində — Ürfanə yetişdik
+
+Soydurma dedim bunca üzün eşq yolunda — Manəndi-Nəsimi,
+Mənsur kimi qaməti bir dar eşiyində — Ürfanə yetişdik
 
 @@ 073
 
 Yay qaşına qurban qıla gör canın hərdəm — Peyvəstə bu yüzdən,
 Bir ancalın şux kamandar eşiyində — Peykanə yetişdik,
+
 Saleh, tuta gör əmri-xuda şəri-peyğəmbər — Qufran tələb elə,
 İmana gəlib Əhməd Muxtar eşiyində — Qurana yetişdik
 
 # Ünçəqay
 
-Gəl, dil, ey sevikli yarım,
-Münəvvər olsun aləmlər
-
+Gəl, gəl, ey sevgili yarım,
 Götür üzdən niqab ünçəqay,
+Münəvvər olsun aləmlər,
 Görünsün mahtab ünçəqay
 
 Məlundur yədi-beyza,
-Biyaz gərdənə göy mina,
 Kəsildi səbrim əzizə,
+Biyaz gərdəndə göy mina,
 Sanasan tir şəhab ünçəqay
 
 Məni ayırma dinimdən,
-O zülfi-müşk çinimdən,
 Utandırma cəbinimdən,
+O zülfi-müşk çinimdən,
 Gələr buyi-gülab ünçəqay
 
 Deyir Saleh ki namərdəm,
-Dolanım başına hər dəm,
 Zəri-xalis kimi zərdəm,
+Dolanım başına hər dəm,
 Çəkib naz-u-itab ünçəqay
 
 # Dərdimi
 
 Qadir Allah birliyini sevirsən,
-Dərd dilim dəftərlə zəbt etdim
-
 Yetər gələn bir dəvayə dərdimi,
+Dərdi-dilim dəftər ilə zəbt etdim
 Axır sallam mücləyə dərdimi
 
 Yarı-yoldaş getdi, qaldım piyada,
-Vərəq-vərəq oldu həddən ziyadə,
 Pirim Şahi-Mərdan, yetiş dadə,
+Vərəq-vərəq oldu həddən ziyadə,
 O kimdir ki bir-bir saya dərdimi
 
 Qoç igidlər Haqq səyin itirməz,
-Dəryalara sığmaz, dağlar götürməz,
 Namərdə yalvarma, işin bitirməz,
+Dəryalara sığmaz, dağlar götürməz,
 Çəkmən qatar ilən maya dərdimi
 
 @@ 074
 
 Rəqib bizimlən xoş savaş edər,
+Yürəyim doludur, didəm yaş edər,
 Bilsə idim sirrim xalqa faş edər,
-Yürək ki dolu(dur), didəm yaş edər,
 Söyləməzdim hər loğaya dərdimi
 
 Bu dünya fanidir, heç kimə qalmaz,
-Saleh deyir: heyf qədrimi bilməz,
 Könlümüz açılmaz, yüzümüz gülməz,
+Saleh deyir: heyf qədrimi bilməz,
 Mən nə deyim hər ədnaya dərdimi
 
 # Zülfün
 
 Hər zaman ki düşər başdan ayağa,
-Əsib badi-səba dağıdar üzdən
-
 Olur qədin ilə bərabər zülfün,
-Edər bu aləmi mütəttər zülfün
+Əsib badi-səba dağıdar üzdən
+Edər bu aləmi müəttər zülfün
 
 Xalın Hind əhlinin şəhriyaridir,
-Cəmalın aylan gündən aridir,
 Qaşın dəsti-qüdrət Zülfüqaridir,
+Cəmalın aylan gündən aridir,
 Sünbülü-bənövşədən tazətər zülfün
 
 Çin elindən gələn əttara bənzər,
-Gənc üstə yatan şəhmara bənzər,
 Müşk-ənbər yüklü tacirə bənzər,
-Ki dişlər yekağın ki öpər zülfün
+Gənc üstə yatan şəhmara bənzər,
+Gəh dişlər yanağın, gəh öpər zülfün
 
 Onunçün qorxuram sərindən teldən,
-Ki düşər gərdənə, ki quçar beldən,
 Bir dəm xali olmaz fitnədən feldən,
+Gəh düşər gərdənə, gəh qucar beldən,
 Vurar eşq əhlini bixəbər zülfün
 
 Saleh deyir: mən səndən etmən ictinab,
-Cəmalın Beytullah, qaşların mehrab,
 Onu sevənlərə dəxl olur səvab,
+Cəmalın Beytullah, qaşların mehrab,
 Kəbə örtüyüdür müxtəsər zülfün
 
-# Mürəbbe: Bülbülə gülşənə rəngü-ruxsarın
+# Mürəbbe: Bülbülə gülşəndə rəngü-ruxsarın
 
-Bülbülə gülşənə rəngü-ruxsarın,
-Səadət bürcünün afitabı sən
-
+Bülbülə gülşəndə rəngü-ruxsarın,
 Göstər gələn münca olmasın həris,
+Səadət bürcünün afitabı sən
 Hüsnün ay və gündən əfzundur təşxis
 
 @@ 075
 
 Atəşi-hicrindən yanıbdır canım,
-Xuni-cigərimdən çeşmi giryanım,
 Ol dəvasız dərdə vəsl dərmanım,
-Pejmürdə cismimə gətirər qəmis
+Xuni-cigərimdən çeşmi giryanım,
+Pejmürdə cismimə geydirər qəmis
 
 Nə olur hicrindən qılsam şikayət,
-Rəqibi kəcrəvə lütf ü ənayət,
 Bulmadım təriqi-rahi-hidayət,
+Rəqibi kəcrəvə lütf ü ənayət,
 Bizə yetincə cövr elədin təxsis
 
-Gözüm qarası dir müdəvvər xalın,
-Gərdiş-dövrandır günəş cəmalın,
+Gözüm qarasıdır müdəvvər xalın,
 Fələklər zinəti iki hilalın,
-Düşməsin zəvala, bulmasın qis
+Gərdiş-dövrandır günəş cəmalın,
+Düşməsin zəvala, bulmasın nəqis
 
 Şikəstə Salehəm, dərdməndəm mən,
-Həlqeyi-zülfünə pay-bəndəm mən,
 Cəmalın görməyə müstəməndəm mən,
+Həlqeyi-zülfünə pay-bəndəm mən,
 Onunçün sevdadan olmazam təxlis
 
 # Təcnis: Ov bərəsin gözləməyən ovçunun
@@ -245,9 +244,7 @@ Bu nə qədd-qamət, nə Tur sinə
 
 Bayqunun meylini yardan eylə sən,
 Müdam çeşmimi yardan eylə sən,
-
 @@ 076
-
 Yarı məndən məni yardan eylə sən,
 Bəla yetib könlün nə tur sinə
 
@@ -267,11 +264,11 @@ Nun nə nisbət oxşadam mən anı mahi-ənvərə
 Mim münəvvər pərtəvi-mehri-ruxündən afitab,
 Lam lü'lü'lərmidir dəndanı yoxsa dürri-nab,
 Kaf küfri-zülfünü sevdim, gətirdim bunca tab,
-Qaf qüdrətdən yaranmış bir belə aliciənab
+Qaf qüdrətdən yaranmış bir belə aliciənab,
+Fa füzun zib ilə bənzər təzərvi-əxzərə
 
 @@ 077
 
-Fa füzun zeybilə bənzər təzərvi əxzərə,
 Qayn qeyrilərlə tək yar olmasın ol nuşləb,
 Ayn ayn lütfdür gər eyləsə qəhr və qəzəb,
 Zi zühura gəlməyibdir bir belə ali nəsəb,
@@ -290,7 +287,7 @@ Xi xəttin sünbül, ləbin səbzeyi-növxiz tər,
 Hi həşa mənənd ola sən kimi şah-dadgər,
 Cim Cəm Cəmşid və xaqan, Xosrov-u İskəndərə
 
-Ni sənayi-həmdini gər eyləsə əhli-səfa,
+Si sənayi-həmdini gər eyləsə əhli-səfa,
 Ti təməttüdən xaçan məhrum olur ruzi-cəza,
 Bi bəlayi-nəfs şəhvə uymağı görmə rəva,
 Əlif Allahın adın yad et, oturma, Saleha,
@@ -350,28 +347,28 @@ Cümlə sənə qurban ola, könlüm səni istər
 # Mürəbbe: Hər kimin dünyada yarı mərd ola
 
 Hər kimin dünyada yarı mərd ola,
-Qədru-qiymət bilən əhli-dərd ola,
 Aşiqindən qılmaz qət'i-məhəbbət,
+Qədru-qiymət bilən əhli-dərd ola,
 Rəqibə küyündə eyləməz ülfət
 
 Könül, hər cayidan ummagil vəfa,
-Aşiqə bir zərrə eyləməz cəfa,
 Çəkərsən hicranın, bulmazsan səfa,
+Aşiqə bir zərrə eyləməz cəfa,
 Məşuqun könlündə ola mürüvvət
 
 Nola, bir kərə ol sən mənim qəmxarım,
-Rəqib təənəsindən sevikli yarım,
 Çıxıbdır əflaka naləvü zarım,
+Rəqib təənəsindən sevikli yarım,
 Aldı möhnət məni, öldürdü xiffət
 
 Gəlmişəm qapına məhzun, pərişan,
-Yandırdı bağrımı, eylədi biryan,
 Dil şikəstə, qəmgin, mən zar-u giryan,
+Yandırdı bağrımı, eylədi biryan,
 Oldu kül hicran mənə müsəllət
 
 Mülki-Süleymanda sən, hökmün İskəndər,
-Salehəm küyündə olmuşam çakər,
 Əmrindən təcavüz etmən müxtəsər,
+Salehəm küyündə olmuşam çakər,
 Hər cəfa eyləsən canıma minnət
 
 @@ 080
@@ -388,37 +385,37 @@ Kəsdi məndən qərar,
 Çeşmi cəlladı
 
 Kakili pürçindir,
-Şux mah cəbindir,
-Padşahi-dindir,
-Surətdə şirindir,
 Həblülmətindir,
+Şux məhcəbindir,
 Xub nazənindir,
+Padşahi-dindir,
 Sahib nigindir,
+Surətdə şirindir,
 Mənəm Fərhadı
 
 Bir ləbi xəndanə,
-Qaşı kamana,
-Düşdüm hicrana,
-Bir adil sultana,
 Qönçə dəhana,
+Qaşı kamana,
 Sinəm nişana,
+Düşdüm hicrana,
 Yetmişəm cana,
+Bir adil sultana,
 Eylərəm dadı
 
 Bir əcəb insandır,
-Hökmü Süleymandır,
-Rövzeyi-Rizvandır,
-Sərvi-xuramandır,
 Xub növcavandır,
+Hökmü Süleymandır,
 Əzimüşşandır,
+Rövzeyi-Rizvandır,
 Hur-u qılmandır,
+Sərvi-xuramandır,
 Qədi şümşadı
 
 Saleh, hələ gəl,
-Hüsni-mələk,
-Bir gümüş bilək,
-Bir tərlan tülək,
 Çəkdim imkan,
+Hüsni-mələk,
 Zibi-fələk,
+Bir gümüş bilək,
 Qönçə çiçək,
+Bir tərlan tülək,
 Mənəm səyyadı

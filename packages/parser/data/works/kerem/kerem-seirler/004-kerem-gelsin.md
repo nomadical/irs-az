@@ -1,13 +1,13 @@
 ---
-slug: kesisoglu-gelsin
-sourceId: halle-35518-kesisoglu-t5
+slug: kerem-gelsin
+sourceId: halle-35518-kerem-t4
 titleAz: Gəlsin
-authorSlug: kesisoglu
-collectionSlug: kesisoglu-seirler
+authorSlug: kerem
+collectionSlug: kerem-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
-order: 5
+order: 4
 sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/35518'
 status: DRAFT
 ---
@@ -21,10 +21,10 @@ Qadir Allah belə zülmü götürü
 Mən yanıram Əsli yardan ötəri,
 Rəhmin gəlsin gözümün yaşına
 
-Ziyad xan oğlum siz də bilərsiz,
+Ziyad xan oğluyam, siz də bilərsiz,
 Dəvasız dərdimə dərman deyirsiz
-Dad qazilər məni niyə qınarsız,
-Məni qıyanın başına gəlsin
+Dad qazilər məni niçün qınarsız,
+Məni qınayanın başına gəlsin
 
 Xan Kərəmin dəstək verin dəstinə,
 Düşmən gəlir dörd bir yandan qəsdinə

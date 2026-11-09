@@ -28,7 +28,6 @@ Qaytmamış haçaq olur sultanım
 
 Türk atının kəhərindən kökündən,
 Qoçaq minər yüyrək kəndən yekindən
-
 Bir qoç igid xəbər aldı bəyindən,
 Bədtər savaş haçaq olur sultanım
 

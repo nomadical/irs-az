@@ -11,23 +11,22 @@ order: 4
 sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/33543'
 status: DRAFT
 ---
-Gəl, dil, ey sevikli yarım,
-Münəvvər olsun aləmlər
-
+Gəl, gəl, ey sevgili yarım,
 Götür üzdən niqab ünçəqay,
+Münəvvər olsun aləmlər,
 Görünsün mahtab ünçəqay
 
 Məlundur yədi-beyza,
-Biyaz gərdənə göy mina,
 Kəsildi səbrim əzizə,
+Biyaz gərdəndə göy mina,
 Sanasan tir şəhab ünçəqay
 
 Məni ayırma dinimdən,
-O zülfi-müşk çinimdən,
 Utandırma cəbinimdən,
+O zülfi-müşk çinimdən,
 Gələr buyi-gülab ünçəqay
 
 Deyir Saleh ki namərdəm,
-Dolanım başına hər dəm,
 Zəri-xalis kimi zərdəm,
+Dolanım başına hər dəm,
 Çəkib naz-u-itab ünçəqay

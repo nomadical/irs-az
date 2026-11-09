@@ -1,7 +1,7 @@
 ---
-slug: asiq-saleh-murebbe-bulbule-gulsene-rengu-ruxsarin
+slug: asiq-saleh-murebbe-bulbule-gulsende-rengu-ruxsarin
 sourceId: halle-33543-asiq-saleh-t7
-titleAz: 'Mürəbbe: Bülbülə gülşənə rəngü-ruxsarın'
+titleAz: 'Mürəbbe: Bülbülə gülşəndə rəngü-ruxsarın'
 authorSlug: asiq-saleh
 collectionSlug: asiq-saleh-seirler
 originalLang: AZ_LATIN
@@ -11,28 +11,27 @@ order: 7
 sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/33543'
 status: DRAFT
 ---
-Bülbülə gülşənə rəngü-ruxsarın,
-Səadət bürcünün afitabı sən
-
+Bülbülə gülşəndə rəngü-ruxsarın,
 Göstər gələn münca olmasın həris,
+Səadət bürcünün afitabı sən
 Hüsnün ay və gündən əfzundur təşxis
 
 Atəşi-hicrindən yanıbdır canım,
-Xuni-cigərimdən çeşmi giryanım,
 Ol dəvasız dərdə vəsl dərmanım,
-Pejmürdə cismimə gətirər qəmis
+Xuni-cigərimdən çeşmi giryanım,
+Pejmürdə cismimə geydirər qəmis
 
 Nə olur hicrindən qılsam şikayət,
-Rəqibi kəcrəvə lütf ü ənayət,
 Bulmadım təriqi-rahi-hidayət,
+Rəqibi kəcrəvə lütf ü ənayət,
 Bizə yetincə cövr elədin təxsis
 
-Gözüm qarası dir müdəvvər xalın,
-Gərdiş-dövrandır günəş cəmalın,
+Gözüm qarasıdır müdəvvər xalın,
 Fələklər zinəti iki hilalın,
-Düşməsin zəvala, bulmasın qis
+Gərdiş-dövrandır günəş cəmalın,
+Düşməsin zəvala, bulmasın nəqis
 
 Şikəstə Salehəm, dərdməndəm mən,
-Həlqeyi-zülfünə pay-bəndəm mən,
 Cəmalın görməyə müstəməndəm mən,
+Həlqeyi-zülfünə pay-bəndəm mən,
 Onunçün sevdadan olmazam təxlis

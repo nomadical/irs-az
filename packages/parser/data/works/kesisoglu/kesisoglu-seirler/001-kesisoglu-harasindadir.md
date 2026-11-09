@@ -11,13 +11,13 @@ order: 1
 sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/35518'
 status: DRAFT
 ---
-Tərlan quşum itirmişəm ararəm,
-Gör bu dağların harasındadır
+Tərlan quşum itirmişəm, araram,
+Görüm bu dağların harasındadır
 Ağ üzündə xalın səfin söyləyim,
 İki əbruların arasındadır
 
 Çün müştaq olmuşam mən bu dilbərə,
-Vətənimdən çıxdım düşdüm çölləri
+Vətənimdən çıxdım düşdüm çöllərə
 Qaşları qara kirpik qara göz qərə,
 Hesab o gözlərin qarasındadır
 

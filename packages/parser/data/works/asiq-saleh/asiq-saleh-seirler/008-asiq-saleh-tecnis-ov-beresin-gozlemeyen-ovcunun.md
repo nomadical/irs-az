@@ -18,7 +18,6 @@ Bu nə qədd-qamət, nə Tur sinə
 
 Bayqunun meylini yardan eylə sən,
 Müdam çeşmimi yardan eylə sən,
-
 Yarı məndən məni yardan eylə sən,
 Bəla yetib könlün nə tur sinə
 

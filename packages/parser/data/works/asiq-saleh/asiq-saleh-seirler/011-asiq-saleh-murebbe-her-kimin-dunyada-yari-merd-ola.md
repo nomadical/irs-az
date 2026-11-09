@@ -12,26 +12,26 @@ sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/33543'
 status: DRAFT
 ---
 Hər kimin dünyada yarı mərd ola,
-Qədru-qiymət bilən əhli-dərd ola,
 Aşiqindən qılmaz qət'i-məhəbbət,
+Qədru-qiymət bilən əhli-dərd ola,
 Rəqibə küyündə eyləməz ülfət
 
 Könül, hər cayidan ummagil vəfa,
-Aşiqə bir zərrə eyləməz cəfa,
 Çəkərsən hicranın, bulmazsan səfa,
+Aşiqə bir zərrə eyləməz cəfa,
 Məşuqun könlündə ola mürüvvət
 
 Nola, bir kərə ol sən mənim qəmxarım,
-Rəqib təənəsindən sevikli yarım,
 Çıxıbdır əflaka naləvü zarım,
+Rəqib təənəsindən sevikli yarım,
 Aldı möhnət məni, öldürdü xiffət
 
 Gəlmişəm qapına məhzun, pərişan,
-Yandırdı bağrımı, eylədi biryan,
 Dil şikəstə, qəmgin, mən zar-u giryan,
+Yandırdı bağrımı, eylədi biryan,
 Oldu kül hicran mənə müsəllət
 
 Mülki-Süleymanda sən, hökmün İskəndər,
-Salehəm küyündə olmuşam çakər,
 Əmrindən təcavüz etmən müxtəsər,
+Salehəm küyündə olmuşam çakər,
 Hər cəfa eyləsən canıma minnət

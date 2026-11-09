@@ -74,7 +74,7 @@ Dönmənəm eşqin yolundan taki ömrüm vardır,
 Kafirəm inkar qılsam, etdiyim iqrardır,
 Çünki eşqin badəsi aşiqə qəmxardır,
 Sevdiyim tərsa qızı, bağladığım zünnardır,
-Büt-pərəstəm, söyləm ancaq kilisadan xəbər
+Büt-pərəstəm, söylərəm ancaq kilisadan xəbər
 Yardan ver bir xəbər,
 Dildardan ver bir xəbər.
 

@@ -20,9 +20,9 @@ Nun nə nisbət oxşadam mən anı mahi-ənvərə
 Mim münəvvər pərtəvi-mehri-ruxündən afitab,
 Lam lü'lü'lərmidir dəndanı yoxsa dürri-nab,
 Kaf küfri-zülfünü sevdim, gətirdim bunca tab,
-Qaf qüdrətdən yaranmış bir belə aliciənab
+Qaf qüdrətdən yaranmış bir belə aliciənab,
+Fa füzun zib ilə bənzər təzərvi-əxzərə
 
-Fa füzun zeybilə bənzər təzərvi əxzərə,
 Qayn qeyrilərlə tək yar olmasın ol nuşləb,
 Ayn ayn lütfdür gər eyləsə qəhr və qəzəb,
 Zi zühura gəlməyibdir bir belə ali nəsəb,
@@ -41,7 +41,7 @@ Xi xəttin sünbül, ləbin səbzeyi-növxiz tər,
 Hi həşa mənənd ola sən kimi şah-dadgər,
 Cim Cəm Cəmşid və xaqan, Xosrov-u İskəndərə
 
-Ni sənayi-həmdini gər eyləsə əhli-səfa,
+Si sənayi-həmdini gər eyləsə əhli-səfa,
 Ti təməttüdən xaçan məhrum olur ruzi-cəza,
 Bi bəlayi-nəfs şəhvə uymağı görmə rəva,
 Əlif Allahın adın yad et, oturma, Saleha,

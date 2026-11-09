@@ -8,4 +8,4 @@ writingLangs:
   - AZ_ARABIC
 status: DRAFT
 ---
-**Keşişoğlu** — el şairi. Salman Mümtazın «El şairləri» toplusunun birinci cildində (1927) onun adı ilə beş qoşma verilib; bunların bir qismi «Əsli və Kərəm» dastanının şeirlərinə yaxındır, Kərəmin dilindən deyilib.
+**Keşişoğlu** — el şairi. Haqqında bilgi yoxdur; bircə qoşması Salman Mümtazın 1927-ci ildə çap etdirdiyi «El şairləri» toplusunun birinci cildində qalıb.

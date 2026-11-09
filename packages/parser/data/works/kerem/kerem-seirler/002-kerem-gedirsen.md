@@ -1,25 +1,25 @@
 ---
-slug: kesisoglu-gedirsen
-sourceId: halle-35518-kesisoglu-t3
+slug: kerem-gedirsen
+sourceId: halle-35518-kerem-t2
 titleAz: Gedirsən
-authorSlug: kesisoglu
-collectionSlug: kesisoglu-seirler
+authorSlug: kerem
+collectionSlug: kerem-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
-order: 3
+order: 2
 sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/35518'
 status: DRAFT
 ---
 Mal sahibi necə gördün halını,
 Fələk pəncəsinə düşmüş gedirsən
-Bək geyərdin dürlü libas geyməyi,
+Bəyənməzdin dürlü libas geyməyi,
 Niçün cismi üryan olmuş gedirsən
 
 Tutmaz idin bir füqərənin əlini,
 Sormaz idin bir yoxsulun halını
 Halal haram qazandığın malını,
-Bu dünyada saçmış tökmüş gedirsən
+Bu dünyada açmış tökmüş gedirsən
 
 Malım var deyib göyə uçardın,
 Məclislər qurub badə içərdin

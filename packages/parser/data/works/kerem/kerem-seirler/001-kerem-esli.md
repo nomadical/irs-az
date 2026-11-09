@@ -1,13 +1,13 @@
 ---
-slug: kesisoglu-esli
-sourceId: halle-35518-kesisoglu-t2
+slug: kerem-esli
+sourceId: halle-35518-kerem-t1
 titleAz: Əsli
-authorSlug: kesisoglu
-collectionSlug: kesisoglu-seirler
+authorSlug: kerem
+collectionSlug: kerem-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
-order: 2
+order: 1
 sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/35518'
 status: DRAFT
 ---
@@ -21,7 +21,7 @@ O qulac qolun dola boynuma
 Girgilən Kərəm qıl gəlib qoynuma,
 Aralıqda çoxdu peymanım Əsli
 
-Mən Kərəməm neylmişəm bilmərəm,
-Qara bağrım xəncər ilə pilərəm
+Mən Kərəməm neyləmişəm bilmərəm,
+Qara bağrım xəncər ilə dilərəm
 Bir canım var sənə qurban eylərəm,
 Qurbandır başına bu canım Əsli
