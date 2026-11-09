@@ -34,5 +34,3 @@ Nə deyim, baramanın novadı dəraz, sənin səxt,
 Su içində düzələr inçəlməkdən əyri dərəxt,
 Səy ilə əyildir, götürmək istər vaxt vaxt,
 Nə deyim, bu sözümün yoxdu xilafi, yalanı
-
-@@ 052

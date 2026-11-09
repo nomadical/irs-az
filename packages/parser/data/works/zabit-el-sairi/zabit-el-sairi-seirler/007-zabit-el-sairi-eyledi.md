@@ -27,7 +27,7 @@ Görüm üzü qarə olsun rəqibin
 Vəfalı yarımı məndən eylədi
 
 Məgər olmaz gözəllərin beyəti
-Hər cayılıq olur elə sənəti
+Hərcayılıq olur elə sənəti
 Bülbülü öldürdü xarın töhməti
 Cüda saldı o gülşəndən eylədi
 

@@ -59,14 +59,14 @@ Qalıbdı səhrada evli-obalı,
 Bəs Aşıq Əhmədin nədir xəyalı,
 Hacı Həmid qaçdı, o qaçan oldu
 
-Qaçan Kazım qovunmuşdu dağına,
+Qaçan Kazım kövənmişdi dağına,
 Getdi girdi Pirhəsənin bağına,
 Mən hazıram sizin bulaq otağına,
 Bilmərəm bu işlər bəs haçan oldu
 
 Haçan gəlib ruznamədə bu çilə,
 Nə qalıbdı yazə bu gündən belə,
-Qovlağlı Cəbrayıl tilsimə hələ,
+Qomlağlı Cəbrayıl tilsimə hələ,
 Demə ki qar yağdı, iş yaman oldu
 
 Yaman oldu talеh, iş döndü bədə,
@@ -149,7 +149,7 @@ Güldür məni hər dəm,
 Et dərdimə mərhəm,
 Ey sirrimə məhrəm,
 Sultani-mükərrəm,
-Nazik bədəni yeki yetən nar imsən sən
+Nazik bədəni yeni yetən nar imsən sən
 
 Canım üzülüb, hay elə dövranın əlində,
 Ey çərxi-fələk, qalmışam hicranın əlində,
@@ -405,7 +405,7 @@ Sayəban ta ola sərdə fələyin eyvani
 
 @@ 110
 
-Çəkmə qəm dəhrdə boyiş kun-ömürdən ötrü,
+Çəkmə qəm dəhrdə boş gün ömürdən ötrü,
 Çünki mən xeyl vəfasız görürəm dünyani,
 Çıxdı maya batırıb nicələrin axırına,
 Çörə ki möhtac edib çastqeyi Şirvani

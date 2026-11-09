@@ -51,5 +51,3 @@ Nə lazımdır vəsmə qaşı üstünə,
 Canım nişanədir tiri-şəstinə,
 Təqsim edər aşinasına, dostuna,
 Az deyildir qonşuları pərinin
-
-@@ 067

@@ -26,5 +26,3 @@ Daxi səndən gələn olmaz
 Könül vermə bu gün yadə
 Vəsfi kimi bu dünyada
 Arsız-arsız gülən olmaz
-
-@@ 352

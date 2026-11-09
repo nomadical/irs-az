@@ -96,7 +96,7 @@ Gör Salahlu atlısı kimdə yatıb, nə aparıb
 Dəstə-dəstə at və mala, camışa yoxdur şümar
 
 Bir tərəfdən Şəfibəyli, bir tərəfdən Külani
-Bir tərəf Qızılhacılı, əhli-Kuran gərkənar
+Bir tərəf Qızılhacılı, əhli-Kuran gər kənar
 
 Əhli-halı, əhli-tədbiri nəzərdən salmısan
 Cəm eyləyibsən başına bir neçə ola mur-u-mar

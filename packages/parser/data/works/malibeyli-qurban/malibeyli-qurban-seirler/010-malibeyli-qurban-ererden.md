@@ -23,5 +23,5 @@ Zülfi pərişandan, qaşı kamandan.
 
 Məhbubül-məhbuban, Xosrov-i-xuban,
 Zalım can-sitan, telləri reyhan,
-(Malıbəyli Qurban) yoxdur belə can,
+(Mələkballı Qurban) yoxdur belə can,
 Bir yanı Səfahandan ya Xorasandan.

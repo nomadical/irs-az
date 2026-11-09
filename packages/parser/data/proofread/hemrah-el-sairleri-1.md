@@ -21,5 +21,3 @@ Arılıqda qızıl güldən arısan
 Haqq da bilir, bizim bağça barısan
 Yüz il qalsan Xan Həmrahın yarısan
 Qal, Səlmi naz, gözü yaşlı qal indi
-
-@@ 344

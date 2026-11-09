@@ -24,4 +24,4 @@ Xətti bir bənövşə, müşk-ənbərdir.
 Vaizin kəlamı göstərər dami,
 Mütribin məqamı ləzizdir hamı,
 Titrəyir təmam mərmər əndamı,
-(Malıbəyli Qurban) bu nə gövhərdir.
+(Mələkballı Qurban) bu nə gövhərdir.

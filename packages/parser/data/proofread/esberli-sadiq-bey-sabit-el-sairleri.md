@@ -26,5 +26,3 @@ Sabit bu dəhrdə Məcnun və Vamiq
 Olmazlar eşqdə sənə müvafiq,
 Təvafi-Kə'bəyə olurmu layiq,
 Deyə kafir müsəlmana gəlməsin
-
-@@ 050

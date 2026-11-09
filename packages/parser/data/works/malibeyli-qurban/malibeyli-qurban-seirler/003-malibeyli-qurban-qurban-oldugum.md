@@ -21,7 +21,7 @@ Canım qurban ağ yüzündə xalına,
 Yaxşı həyasına, xoş məqalına,
 Şirin güftarına qurban olduğum.
 
-(Malıbəyli Qurban) mayıl dişinə,
+(Mələkballı Qurban) mayıl dişinə,
 Xəlvətxanəsinə, əlvan işinə,
 Cənnət heyvasını qoyub döşünə,
 Tazə narına qurban olduğum.

@@ -45,5 +45,3 @@ Aslan nə müddətdir çıxmaz güzarə
 Fələk pirəhənin geydirib qarə
 Qəm məni gətirdi hicrkədə zarə
 Can alan Tərlana dedin nə dedi
-
-@@ 025

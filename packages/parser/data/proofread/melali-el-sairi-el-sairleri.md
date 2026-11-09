@@ -28,5 +28,3 @@ Ruz-u-şəb dərgahi-haqqda bəndeyi-fərmanam deyir
 
 Bu Məlali xaki-payi-fəqr-ü-qəm viranəsi,
 İntizari-dari-üqba bunda mehmanam deyir
-
-@@ 310

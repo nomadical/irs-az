@@ -26,5 +26,3 @@ Salışın yarıma bənzər
 Ağ yüzünə düşmüş muyun
 İşin köçək rəng ruyun
 Oxuşun yarıma bənzər
-
-@@ 029

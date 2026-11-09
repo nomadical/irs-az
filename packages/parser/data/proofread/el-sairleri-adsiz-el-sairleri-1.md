@@ -458,7 +458,7 @@ Himmət ilə halal ilə.
 
 Bağları seyr edər olduq,
 Dərdə dərman edər olduq,
-Yar salavın gedər olduq,
+Yar salıban gedər olduq,
 Himmət ilə halal ilə.
 
 Qərib yerlərdə qalmışam,

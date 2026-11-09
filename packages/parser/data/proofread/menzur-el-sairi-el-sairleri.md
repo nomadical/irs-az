@@ -113,5 +113,3 @@ Gülə nisbət yanaqların,
 Tər bənövşə buxaqların,
 Mənzur yesək dodaqların,
 A qız sənin, a qız sənin
-
-@@ 316

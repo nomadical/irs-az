@@ -28,5 +28,3 @@ Həsrətindən bağrım başı yüz yarə,
 Bayqumlu dolanıbdır yüz yarə,
 Zülf dağınıq, hal pərişan yüz yarə,
 Əmanətdir gəlsin Cövri Yasinə
-
-@@ 056

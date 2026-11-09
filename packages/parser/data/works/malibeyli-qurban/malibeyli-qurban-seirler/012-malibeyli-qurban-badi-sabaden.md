@@ -38,5 +38,5 @@ Didarını istər bu könül barı-xudadən
 Allah, nə məlal ilə məlamətdi bu hicran,
 Əndişə gəlür könlümə əlvan ilə əlvan,
 Bu dərdi-dilə halı olan sahibi-ürfan,
-Ay vay, Malıbəyli deyir xəstəcə Qurban,
+Ay vay, Mələkballı deyir xəstəcə Qurban,
 Sən necə çəkərdin bu təvr dərdi-binadən

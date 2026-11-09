@@ -28,5 +28,3 @@ Məhmani bu gündə Cümədə getdi,
 Ariflər mənaya Cümədə getdi,
 Dostum Aşıq Salih Cümədə getdi,
 Olarsız dünyada naqaləmindi
-
-@@ 319

@@ -34,5 +34,3 @@ Molla Cümə gərək özün qovruya,
 Nə düşübsiz azğın azğın yorğuya,
 Ərzə verərəm çalağana qırğıya,
 Baxsanız gör darı, sarı sərçələr
-
-@@ 054

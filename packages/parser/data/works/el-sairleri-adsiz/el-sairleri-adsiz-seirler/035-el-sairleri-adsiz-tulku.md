@@ -12,7 +12,7 @@ sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/33543'
 status: DRAFT
 ---
 Gəzərdik küh-səhra seyr edib, ey binəva tülkü,
-İrişdi sənə dövrandan yenə nagəh cəfa, tülkü.
+İrişdi sənə dövrandan kənə nagəh cəfa, tülkü.
 
 Səfayi-eyş edərdik hər zaman bu küh-səhrada,
 Nə hasil kim, sənə uğraşdı ta kim bir bəla, tülkü.
@@ -32,7 +32,7 @@ Gər olmazsa bu kəştidə hünərvər naxuda, tülkü.
 Tökülüb atlar ardınca, qaçaqdır çün aman verməz,
 Yeddinci göylərə çatdı səndən bir səda, tülkü.
 
-O suraq əmin içrə oturaydın sən, ey möhtal,
+O surax əmin içrə oturaydın sən, ey möhtal,
 Təəddi eyləməzdi canına sui-qəza, tülkü.
 
 Əcəb heyvani-la yə'ləm olub qaçdın biyabana,
@@ -56,5 +56,5 @@ Tutub matəm sənin çün ağlasın hər bir tula, tülkü.
 Şaqali-vəhşinin banqi-qiriv olsa gər hər şəb,
 Sənin bu matəm üçündür, deyildir maəda, tülkü.
 
-Gəlib dürlü bəlalar başına, ardınca gedər...
+Gəlib dürlü bəlalar başına, ardın gedər...
 Bu nə fel-i-əda oldu, bu nə dərd u bəla, tülkü.

@@ -26,5 +26,3 @@ Mürəxxəs et bunları zərngahından
 Gəlibdir qapuna bir dilək dilər,
 Zülm adətincə, ey şah, dadgər,
 Eyləmə utan öz əməlindən
-
-@@ 110

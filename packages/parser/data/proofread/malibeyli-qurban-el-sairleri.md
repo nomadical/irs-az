@@ -63,7 +63,7 @@ Didarını istər bu könül barı-xudadən
 Allah, nə məlal ilə məlamətdi bu hicran,
 Əndişə gəlür könlümə əlvan ilə əlvan,
 Bu dərdi-dilə halı olan sahibi-ürfan,
-Ay vay, Malıbəyli deyir xəstəcə Qurban,
+Ay vay, Mələkballı deyir xəstəcə Qurban,
 Sən necə çəkərdin bu təvr dərdi-binadən
 
 # Vəqtidir
@@ -106,7 +106,7 @@ Təşnəsən durma gəl sorağını gör
 İstəsən ki eşq içində yüzəsən,
 Nəzər etmə nakəs olan yüzəsən,
 Qəsdin olsa ağyarını yüzəsən,
-Malıbəyli Qurban sorağını gör
+Mələkballı Qurban sorağını gör
 
 # Təcnis: Gözəl olan verir üzünə bəzək
 
@@ -122,5 +122,5 @@ Gör olmuş ağyara ayağı gərək
 
 Geyin al yaşıl, gül olma bənək,
 Kəşt eylə səhranı, gül olma bənək,
-Kəs Malıbəyli Qurban, gül olma
+Kəs Mələkballı Qurban, gül olma
 Kababın yanmağa ayağı gərək

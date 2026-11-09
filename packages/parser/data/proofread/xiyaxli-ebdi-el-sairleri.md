@@ -26,5 +26,3 @@ Sən sən padşahı, xanı Əbdinin,
 Əqli-huşi, din-imanı Əbdinin,
 Həsrətindən çıxdı canı Əbdinin,
 Nə olur gəlsən buraya, tilli.
-
-@@ 173

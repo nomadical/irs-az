@@ -38,5 +38,3 @@ Tutdu ərşin üzün duman eylədi
 Haqq eylər divanın ol yamanların,
 Mən də heyranıyam ol zamanların,
 Görüm Oğurluxan divan eylədi
-
-@@ 109

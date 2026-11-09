@@ -26,5 +26,3 @@ Səfərəli bular imiş
 Peymanəmiz dolar imiş
 Qönçə ikən solar imiş
 Gülü yardan ayrılanın
-
-@@ 136

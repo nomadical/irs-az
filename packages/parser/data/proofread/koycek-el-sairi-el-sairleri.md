@@ -26,5 +26,3 @@ Düşübsən gülün bəndinə,
 İnanma qönçə fəndinə,
 Dəli Köyçəyin dərdinə
 Dağı dartıb qatar bülbül.
-
-@@ 274

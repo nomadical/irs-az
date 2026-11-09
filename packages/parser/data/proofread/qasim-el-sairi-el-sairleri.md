@@ -45,5 +45,3 @@ Kabildən gəldik demiş gülünə,
 Bülbül ərzi-halın demiş gülünə,
 Şikəstə Qasımın demiş gülünə,
 Sən özün yetiş gəl ayağa hərai.
-
-@@ 210

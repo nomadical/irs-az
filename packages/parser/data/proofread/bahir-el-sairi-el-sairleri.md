@@ -16,5 +16,3 @@ Gəl adilsən oxşama heç qahirə
 Məhfi sözüm yetdi indi zahirə
 Şəfqət edib bir bosə ver Bahirə
 Yəqin bil vəslini anıb ağlaram
-
-@@ 032

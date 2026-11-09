@@ -26,5 +26,3 @@ Sevməzəm dünyada səndən masiva
 İnibdir başıma sevdayi-həva
 Halikı eylədi Məcnun rüsva
 Saldı düşt-ü biyabanə gözlərin
-
-@@ 343

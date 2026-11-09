@@ -50,5 +50,3 @@ Nursam həsrətim yara
 Qönçə tək düşdüm kənara
 Yarı tapşırdım əğyara
 Bu dərdə pasiban mən oldum
-
-@@ 338

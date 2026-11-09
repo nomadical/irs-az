@@ -34,7 +34,7 @@ Yaxadan Müştaqinin tutmuş əli var
 
 Badi-səba apar mənim peyğamım,
 Başın üçün o dildara xəbər ver,
-Yalvar, yapış, ağlasızla yavunçı,
+Yalvar, yapış, ağla sızla yavunçı,
 Ərzi-halım sitəmkara xəbər ver
 
 Nisan təki çeşmim döndü yağına,
@@ -51,5 +51,3 @@ Müştaqiyəm, ömrüm getdi talana,
 Qarışmışam məni dərdə salana,
 İllər ilə sənə həsrət qalana,
 Gözü yolda intizara xəbər ver
-
-@@ 306

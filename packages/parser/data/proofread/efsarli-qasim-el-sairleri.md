@@ -21,5 +21,3 @@ Bu dünya fanidir fani
 Taxtdan salır Süleymani
 Əfşar Qasımın canani
 Gəl başına dönim sənin
-
-@@ 026

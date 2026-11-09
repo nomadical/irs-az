@@ -160,14 +160,14 @@ Qolları şimşad ola,
 Ləbləri əhmər gərək.
 
 Çayın üçü qaydadı,
-Durdu cana faydadı,
+Dördü cana faydadı,
 Çay ki yetişdi beşə,
 Onu içən xər gərək.
 
 # Tülkü
 
 Gəzərdik küh-səhra seyr edib, ey binəva tülkü,
-İrişdi sənə dövrandan yenə nagəh cəfa, tülkü.
+İrişdi sənə dövrandan kənə nagəh cəfa, tülkü.
 
 Səfayi-eyş edərdik hər zaman bu küh-səhrada,
 Nə hasil kim, sənə uğraşdı ta kim bir bəla, tülkü.
@@ -187,7 +187,7 @@ Gər olmazsa bu kəştidə hünərvər naxuda, tülkü.
 Tökülüb atlar ardınca, qaçaqdır çün aman verməz,
 Yeddinci göylərə çatdı səndən bir səda, tülkü.
 
-O suraq əmin içrə oturaydın sən, ey möhtal,
+O surax əmin içrə oturaydın sən, ey möhtal,
 Təəddi eyləməzdi canına sui-qəza, tülkü.
 
 @@ 191
@@ -213,7 +213,7 @@ Tutub matəm sənin çün ağlasın hər bir tula, tülkü.
 Şaqali-vəhşinin banqi-qiriv olsa gər hər şəb,
 Sənin bu matəm üçündür, deyildir maəda, tülkü.
 
-Gəlib dürlü bəlalar başına, ardınca gedər...
+Gəlib dürlü bəlalar başına, ardın gedər...
 Bu nə fel-i-əda oldu, bu nə dərd u bəla, tülkü.
 
 # Qardaşım
@@ -383,7 +383,7 @@ Müxtəsər axırda tapıb inəyi,
 Sanballıyıb silkələyib dəynəyi.
 
 Vurduqca bu yerindən durmuyub,
-Bunda durub daha arıq vurmuyub.
+Bunda durub daha artıq vurmuyub.
 
 Əlacı kəsilib, burulub kəndə,
 Koməmizdə oturmuşdum mən kəndə.
@@ -480,7 +480,7 @@ Dedik: yoxdur daha dərd u qəmimiz.
 Kəxa dedi: söylə sözündən qanaq,
 Özü kəsdi saqqalıma üç çanaq.
 
-Dedilər ki: bu sudaçıq yaxşıdı,
+Dedilər ki: bu sudacıq yaxşıdı,
 Qabağına qarşı gələn naxşıdı.
 
 Mən dedim ki: bunun sözü yalandı,
@@ -562,7 +562,7 @@ Ustakarda kamal, ədəb hal olsun.
 
 # Qazı
 
-Əla, ey müsnisi-dirinə, qazı,
+Əla, ey münisi-dirinə, qazı,
 Yetibdir sən, kər, sittinə, qazı.
 
 Keçirdik iki cümə günlərini,
@@ -571,7 +571,7 @@ Tutubsan bizim ilən kinə, qazı.
 Oxudarım, bilərsənmi görəndə,
 Sənə vəl-fəcrini tərsinə, qazı.
 
-Sanırsız, çinə yoxdur çün bu pərdə,
+Sanırsız, çinə yoxdur çün bu yerdə,
 Gəzər quş qanda olsa çinə, qazı.
 
 Məgər heç çıxmıyorsuz bistər üstə,
@@ -592,8 +592,8 @@ Qulaq as, onda gəl təhsinə, qazı.
 
 Xərabə qalasan belə vilayət,
 Hər yetən toxum paylayan oldu,
-Ol Qərib idi toxum gətirən,
-Ağdamlılar Qəribdən çox yaman oldu.
+Ol Qəriq idi toxum gətirən,
+Ağdamlılar Qəriqdən çox yaman oldu.
 
 Hacı Mələk, Hacı Cəmşid, Hacı Ağa,
 Hacı Mehdi, Hacı Həsən, Seyid Ağa,
@@ -626,7 +626,7 @@ Hərəsi olub indi bir xoca,
 Xublarov, Soğmanov saf yalan oldu.
 
 Saybalı Molla Məhəmməd, o hərzə yanşaq,
-Bahalıb ucuz satan qorumsaq,
+Baha alıb ucuz satan qorumsaq,
 Əhli-şəhr olsun başınıza torpaq,
 Saybalıda sizi aldadan oldu.
 
@@ -636,7 +636,7 @@ Oda tutub indi cahanı yeksər,
 Adəmə müqabil gör Şeytan oldu.
 
 Aramızdan çıxdı bir Baba Qəzər,
-Müştəriyə bu tənək indi güzər,
+Müştəriyə bu tənək etdi güzər,
 Toxum paylayanlar kəndləri gəzər,
 Bu da Ağdamda bir bud atan oldu.
 
@@ -654,14 +654,14 @@ Edib afaqə huveyda, salıb aləmlərə ğovğa qılıb hər işrəti icad eylə
 Bunu istər hamı cism və hamı can və hamı ləblər, hamı ğəbğəb.
 Necə tərif eyliyim çayi-Xətanı? Bu namən cism deyim, canmı deyim, təamına şəkərmi deyim, ətrinə ənbərmi deyim, nemət-sübuh deyim, cismlərə ruh deyim, rənginə bax, ətrinə bax, ləzzətinə, vəcdinə, vəhdətinə, söhbətinə, ülfətinə bircə dürüst mültəfit ol, göründü mətləb.
 Gənə heyfim gəlir, bu çayı içir bir para nadan, ulağ anlamayıb dəhrdə heç şor nədir, şorba nədir fərq qoyar.
-Çayla ayrana sorusan deyər: arıxdı o ayran. O heyvan, o nadan kənə nəxəncikçi olur çay içənin çayına.
+Çayla ayrana soruşsan deyər: artıxdı o ayran. O heyvan, o nadan kənə nəxəncikçi olur çay içənin çayına.
 Bu zülmdü, bu çay içənə eylər o qanmaz, otanmaz, biheyaya nəzər et, gör nə pis adamdı həqiqətdə mülqəb.
 Qulaq as, ərz eyliyim, gör bu samovarda necə hüsn və həm ləzzət, həm işrətvar: əvvəl səsdi ki, ona su tökəsən, od salasan, ta oxuya cümlə məqamatı təmam eyləyə, həm bülbül ola lal.
 Yuyub podnosu pak eyliyibən, stəkanın nəlbəkisin həm siləsən, həm düzəsən, yolduza bənzər, zehi xoştər!
 Qaşığı dəst ilə yeksər, aralıqda ola qənddən şəkər, doldurasan stəkana çay, tökəsən ki içəsən, gah baxasan tərəfə, müsahibə, o dəm əylişəsən, nəşəli söhbət eyləyəsən, eşq ilə, məhəbbətlə, müvəddətlə verə əqlə səfa, ruha ziya, ola müəddəb.
-Vəli naçaram, pul yox, alam bircə samovar, ürəyim çox əcəb istər, ola evimizə zivər.
-İndi Qara Aftafada qaynadıram su, eylər çayımı bəd.
-Bu qərarla budu baisi, nə qədər çox da qazansam, alur çay əlimdən, əlimi uzdi eylərəm, çəkirəm ah dilimdən, kənə bu çay düşübən eyləmişəm məskəni çöllər, tələbkar gəlir eylər könlüm, vətən istər, iki aləmdə kənə dərdinə bu ğəm dideyin ümidi o Mövlayi-cahana, verə bir kərinə rövnəq, kənara çıxa zövrəq, edə işrətə mülhəq.
+Vəli naçaram, özüm pul yox, alam bircə samovar, ürəyim çox əcəb istər, ola evimizə zivər.
+İndi Qara Aftafada qaynadıram su, edir çayımı bəd.
+Bu qərarla budu baisi, nə qədər çox da qazansam, alur çay əlimdən, əlimi uzdi eylərəm, çəkirəm ah dilimdən, kənə borcu düşübən eyləmişəm məskəni çöllər, tələbkar gəlir eylər könlüm, vətən istər, iki aləmdə kənə dərdinə bu ğəm didənin ümidi o Mövlayi-cahana, verə bir kərinə rövnəq, kənara çıxa zövrəq, edə işrətə mülhəq.
 Əsədullah, Yədullah, Əlini çağırır dadına yet hər səhər və şəb.
 
 @@ 199
@@ -720,7 +720,7 @@ Qara iqballı Cavadım.
 Yoxdu hər çənd cənabında diyanət, Mirzə,
 Əzəli nemətinə etmə xiyanət, Mirzə.
 
-Ayda bir pərdə dolanmağına insaf elə,
+Ayda bir yerdə dolanmağına insaf elə,
 Heç kəsə sən bu qədər satma mətanət, Mirzə.
 
 Şübhə yox, oynadısan cümləsini bir söz ilə,

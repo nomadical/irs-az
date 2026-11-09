@@ -160,7 +160,7 @@ Oynadı ğurab,
 
 Turab çeşmdə, dilimdə səsdir,
 Gözlərin eşqi məndə həvəsdir,
-(Malıbəyli Qurban) bu söhbət bəsdir,
+(Mələkballı Qurban) bu söhbət bəsdir,
 Çox söyləmə, gözümüzə gəldi xab,
 İstəsən səvab,
 Gətir rəxt-i-xab.
@@ -177,7 +177,7 @@ Canım qurban ağ yüzündə xalına,
 Yaxşı həyasına, xoş məqalına,
 Şirin güftarına qurban olduğum.
 
-(Malıbəyli Qurban) mayıl dişinə,
+(Mələkballı Qurban) mayıl dişinə,
 Xəlvətxanəsinə, əlvan işinə,
 Cənnət heyvasını qoyub döşünə,
 Tazə narına qurban olduğum.
@@ -198,7 +198,7 @@ Ala gözlü nazlı yarım bilürmi.
 
 Yandım hicr odına, yoxdu yalanı,
 Cabəca ərz ilə gedib filanı,
-(Malıbəyli Qurban) çəkən bəlanı,
+(Mələkballı Qurban) çəkən bəlanı,
 Bimürvət, biiqrarım bilürmi.
 
 # Vücudnamə
@@ -293,7 +293,7 @@ Sirləri faş etdi o eybi-sattar.
 
 Rəbbim şəfqət etdi, sıratı keçdim,
 Firdovsi-əlada Kövsərdən içdim,
-(Malıbəyli Qurban) cənnətə düşdüm,
+(Mələkballı Qurban) cənnətə düşdüm,
 Mövlamızı orada elədim didar.
 
 # Bu nə gövhərdir
@@ -313,7 +313,7 @@ Xətti bir bənövşə, müşk-ənbərdir.
 Vaizin kəlamı göstərər dami,
 Mütribin məqamı ləzizdir hamı,
 Titrəyir təmam mərmər əndamı,
-(Malıbəyli Qurban) bu nə gövhərdir.
+(Mələkballı Qurban) bu nə gövhərdir.
 
 # Güzər
 
@@ -330,7 +330,7 @@ Axır ki canında ixtiyar güzər.
 Dəryadan təşnəni atdın kənarə,
 Hicran atəşinə sən elə çarə,
 Səndən ayrı getsə hansı diyarə,
-(Malıbəyli Qurban) xaksar güzər.
+(Mələkballı Qurban) xaksar güzər.
 
 @@ 245
 
@@ -349,7 +349,7 @@ Qəmlər çəkib, qüssə yeyib ağlasın.
 Çıxanda əfləkə naleyi-zarım,
 Töksünlər üstümə suxa paltarım,
 Başım üstə əlim tutsun öz yarım,
-(Malıbəyli Qurban) deyib ağlasın.
+(Mələkballı Qurban) deyib ağlasın.
 
 # Təcnis: Cəmalını görcək mayıl olmuşam
 
@@ -384,7 +384,5 @@ Zülfi pərişandan, qaşı kamandan.
 
 Məhbubül-məhbuban, Xosrov-i-xuban,
 Zalım can-sitan, telləri reyhan,
-(Malıbəyli Qurban) yoxdur belə can,
+(Mələkballı Qurban) yoxdur belə can,
 Bir yanı Səfahandan ya Xorasandan.
-
-@@ 247

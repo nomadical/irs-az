@@ -21,5 +21,3 @@ Gəlmiş mənə içər andı, neylim.
 Arayıb bul gözlərin xasını,
 Doldurmuş əlində zəhr tasını,
 Susu deyib ağu sundu, neylim.
-
-@@ 254

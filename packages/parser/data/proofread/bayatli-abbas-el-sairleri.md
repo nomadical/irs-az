@@ -79,5 +79,3 @@ Bayat Abbas sərfə qandı
 Eşqin atəşinə yandı
 Çapubdur Bəlx ilə Hindi
 Gələr İrana xalların
-
-@@ 157

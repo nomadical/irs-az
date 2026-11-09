@@ -26,5 +26,3 @@ Məst edibdir eşqin məni tutubdur,
 Hər kim mənəm deyib fələk udubdur,
 Qoynunuzda təzə narlar bitibdir,
 Xəstə Əli gedər dərməyə qızlar.
-
-@@ 174

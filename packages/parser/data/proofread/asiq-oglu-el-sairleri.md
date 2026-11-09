@@ -26,5 +26,3 @@ Aşıq oğlu eylər həmişə əfğan
 Hicrindən olubdur cismi natavan
 Tərəfi-canandan, canibi-yardan
 Gəlmədi bizə bir məktub, ağlaram
-
-@@ 153

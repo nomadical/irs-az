@@ -26,5 +26,3 @@ Zülfi-şahmardan ayrıldım
 Dərdimin dəftərin açdım,
 Mina boylum, qələm qaşlım,
 Çeşmi-xumardan ayrıldım
-
-@@ 126

@@ -21,5 +21,3 @@ Aşıq Abdal alsa əlinə sazları
 Dolar çevrəsinə Gəncə qızları
 Çəkdi Səlminin ala gözləri
 Əmrahın köksünə yaxşı dağları
-
-@@ 014

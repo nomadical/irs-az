@@ -338,7 +338,7 @@ Yüz mahi-məlahət büti-zeba gül-nəsrin,
 Yüz zülfi-münənbər ola, könlüm səni istər
 
 Yüz sim bədən incə miyan gözləri məstan,
-Yüz dilbər ola huriliqa nazik çəsbən,
+Yüz dilbər ola huriliqa nazik çəsban,
 Yüz xali-Həbəş gərdən-i-mina xətti-reyhan,
 Yüz sinəsi mərmər dişi dür afəti-dövran,
 Yüz bakirə duxtər ola, könlüm səni istər

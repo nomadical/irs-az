@@ -12,13 +12,13 @@ sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/33543'
 status: DRAFT
 ---
 "Şahpalut" necə xoşca yaraşır aş üstə,
-Odə çox xoş yazsan göndərrəm baş üstə
+Odə çox xoş yazasan göndərrəm baş üstə
 
 Şahpalut ola bir pud o kifayət eylər,
-Bir yüz almada qoyubdun sən onun kaş üstə
+Bir yüz almada qoydun sən onun kaş üstə
 
 Elə alma ola çun çehreyi-huran-behişt,
-Qazə çəkmiş yeki cənnətdəki nəqqaş üstə
+Qazə çəkmiş yeki cənnətdəki qaş üstə
 
 Gər qəbul olsa əzizim bu rəcamız səndən,
 Göndər "Ağdaş"da "Abbas ağa" qardaş üstə

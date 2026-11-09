@@ -61,5 +61,3 @@ Nilərsən istəməş inək ya öküz
 Haqqı ilə yad
 Tapulsa bir cad
 Ol ona mötad
-
-@@ 012

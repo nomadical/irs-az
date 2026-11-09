@@ -26,5 +26,3 @@ Xuluslu qəlb ilən elə ibadət,
 Qafil olanlara göstər hidayət,
 Bu Məskin Həsənə qıl sən şəfaət,
 Yəqin düşmənləri şərmsar olur
-
-@@ 068

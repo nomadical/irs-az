@@ -35,5 +35,3 @@ Məgər məndən yüz döndərib dönərsən
 Aman dilbər, mənə necə qırsan
 Gəl öldürmə məni, sonra deyirsən
 Heyf, Molla Nazim oldu, hay mədəd
-
-@@ 331

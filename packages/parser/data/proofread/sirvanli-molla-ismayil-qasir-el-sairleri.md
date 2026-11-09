@@ -184,7 +184,7 @@ Bəs döyüb zövraq-i iqbalimə əmvac-i zaman,
 İndidən xalq odun fikrini edir, amma kim,
 Olub əngüşt bərabər mənə müşk-i tər ilən.
 
-Gər simavər kömürü olsa müheyya gündər,
+Gər simavər kömürü olsa müheyya göndər,
 Eşşək alvərdi sopa, Mehdi Qodux Cəfər ilən.
 
 # Mürəbbə: Sənə ey pədərəm bu iki sözü
@@ -236,7 +236,7 @@ Məkkə yönünə sərf olunur kə mədinədə,
 Gahi şərabə xərc olunur kə qımara pul.
 
 Bilməm nə qüvvədir bu, nə təsirdir ki pul,
-Aləmdə istəsə gəli hər növ karə pul.
+Aləmdə istəsə külli hər növ karə pul.
 
 Bir eybi var ki çox mütəkəbbirdi bəzi tək,
 Daim üzün çəkər füqəradan kənarə pul.
@@ -324,7 +324,7 @@ Nə münis tapılur, nə bir müsahib.
 
 Nə ağlayan ələ düşər, nə gülən,
 Tapılmaz bu pərdə bircə dil bilən,
-Səndə yarım təzlik ilən gəl, gələn,
+Səndə yarım tezlik ilən gəl, gələn,
 Bəlkə təsir edə şihabə saqib.
 
 Mənə indi xəyal olub məşğələ,
@@ -388,5 +388,3 @@ Qasırın artubdur möhnəti, qəmi,
 Səndən yarasının vardır mərhəmi,
 Hər gədazadənin olma həmdəmi,
 Tanı mərtəbəni qan, Bala xanım.
-
-@@ 223

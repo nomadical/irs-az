@@ -21,5 +21,3 @@ At oxunu bu Əyvaza, dəryanı?
 Qəvvas olan boylamazmı dəryanı?
 Kəlbin olsun, sənə qalsun dəryanı,
 Sərgərdan mən dolanmayım yüz dərdə.
-
-@@ 181

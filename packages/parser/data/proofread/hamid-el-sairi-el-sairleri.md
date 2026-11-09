@@ -55,5 +55,3 @@ Qamətim oxşayır dala,
 Gəlmənəm mən heç xəyala,
 Hamidəm eylərəm nalə,
 Səndən ötrü maral gözlüm
-
-@@ 058

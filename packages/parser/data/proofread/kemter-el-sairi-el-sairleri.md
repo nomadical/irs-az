@@ -51,5 +51,3 @@ Gəzməsin arada yaman, bəri bax.
 Leyl ü nəhar, şam ü səhər peyvəstə,
 Ey yanağı lalə, ləbləri püstə,
 Ağzı nəbat, şəkər, zəban, bəri bax.
-
-@@ 272

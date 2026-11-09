@@ -83,5 +83,3 @@ Oynamağın, gülməyin, həzlin məzağın ləzzətin
 Tirmənin ağ döşəyin, nəsrin buxağın ləzzətin
 Qənd dilin, şəkər dəhanın, bal dodağın ləzzətin
 Necə olmaz xəstə Talib dəli ya divanə qız
-
-@@ 147

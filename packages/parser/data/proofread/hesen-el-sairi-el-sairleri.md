@@ -26,5 +26,3 @@ Düşkün halın sitəmkarə demək,
 Yalvarıb vara-vara demək,
 Bu Həsənin ərzin yarə demək,
 Məgər bu arada müsəlman yoxdur
-
-@@ 069

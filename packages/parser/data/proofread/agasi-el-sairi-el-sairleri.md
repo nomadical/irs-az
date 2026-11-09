@@ -26,5 +26,3 @@ Yəqubam Kənana atdın ağlaram
 Miskin Ağasının ümidgahı
 Ey padşahların padşahı
 Bəxtimin gününü tutdun ağlaram
-
-@@ 013

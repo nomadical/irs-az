@@ -55,5 +55,3 @@ Ey Nuri, gəl sən daxı var
 Bu yolda qıl canın nisar
 Əlbəttə bulur vüsəli-yar
 Haqq yolunun aşiqləri
-
-@@ 340

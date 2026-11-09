@@ -37,5 +37,3 @@ Qandalaq ey əllərinə, zindana qoyarlar qəçgi,
 Pəh pəh bir söz ha deyil, Mövlaya tapşır işgi,
 Qəzavatı kafir içində şəhid elə başkı,
 Görən desin Şamil yoluna canını qurban elədi
-
-@@ 044

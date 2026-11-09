@@ -22,7 +22,7 @@ Sübhə dək gözlərini çün yuma bilmir balalar,
 Tikilib miçəkə qarşı palud üstə qalalar,
 Əsər etmir çəkilən ahlə vayda miçəkə
 
-Qaşın bu qələmində elə bir qüvvət hanı,
+Naqqaşın bu qələmində elə bir qüvvət hanı,
 Miçəyin şəklini çəkib verə həm Ağacanı,
 Göstərib övladına diyə: bu yağını tanı,
 Olmıya tuş olalar hər ildə ayda miçəkə

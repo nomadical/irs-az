@@ -26,5 +26,3 @@ Giriftarəm onun göz və qaşına,
 Mehnəti-hicran ilə oldum aşinə,
 Qərq edib aləmi aldı başına,
 Şeydayi çeşmindən sellər açıldı
-
-@@ 122

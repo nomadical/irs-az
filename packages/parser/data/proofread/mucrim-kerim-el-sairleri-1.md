@@ -81,7 +81,7 @@ Kəlbək tək yaslandım, dərində qaldım,
 Gecələr sızlaram ayaza qarşı.
 
 Qövsi-qüzehdə yay ilan oldu,
-Zülfün dal gərdənə yay ilan oldu,
+Zülfün dal gərdəndə yay ilan oldu,
 Qış nər sövdasında yay ilan oldu,
 Bülbül nalə edər ayaza qarşı.
 
@@ -111,7 +111,7 @@ Salar səni bir davaya dol arvad.
 
 Eşidin (Kərim)in bu nəsihətin,
 Qız alanlar sürər ömr-ü hiddətin,
-Gətirmək asandır, saxlamaq çətin,
+Götürmək asandır, saxlamaq çətin,
 Vallah dəyməz bir paraya dol arvad.
 
 # Mənəm

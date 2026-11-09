@@ -24,4 +24,4 @@ Qəmlər çəkib, qüssə yeyib ağlasın.
 Çıxanda əfləkə naleyi-zarım,
 Töksünlər üstümə suxa paltarım,
 Başım üstə əlim tutsun öz yarım,
-(Malıbəyli Qurban) deyib ağlasın.
+(Mələkballı Qurban) deyib ağlasın.

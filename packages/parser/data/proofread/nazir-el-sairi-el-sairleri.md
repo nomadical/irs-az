@@ -29,5 +29,3 @@ Düşmüş atəşə yanıram axır
 Nəhan sirrim xəlqə olubdur zahir
 İqrarı üstündə durubdur Nazir
 Yar ilən iqrarın eyləndən bəri
-
-@@ 333

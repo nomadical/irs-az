@@ -28,5 +28,5 @@ Salar səni bir davaya dol arvad.
 
 Eşidin (Kərim)in bu nəsihətin,
 Qız alanlar sürər ömr-ü hiddətin,
-Gətirmək asandır, saxlamaq çətin,
+Götürmək asandır, saxlamaq çətin,
 Vallah dəyməz bir paraya dol arvad.

@@ -26,5 +26,3 @@ Lalə rəng əllərin sənin
 Siyah mərdümləri qarə,
 Saili qoydu avarə
 Ağ üzdə xalların sənin
-
-@@ 107

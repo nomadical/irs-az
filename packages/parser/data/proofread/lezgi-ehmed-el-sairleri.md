@@ -102,5 +102,3 @@ Abdulla bəydir cavanım, Lətifi biryan eylərəm.
 — Lətif:
 Lətifəm, sən məni tanı, gör gələn bu şövkət və şanı,
 Qoynundakı şamamanı yük dutub karvan eylərəm.
-
-@@ 278

@@ -59,5 +59,5 @@ Bəs döyüb zövraq-i iqbalimə əmvac-i zaman,
 İndidən xalq odun fikrini edir, amma kim,
 Olub əngüşt bərabər mənə müşk-i tər ilən.
 
-Gər simavər kömürü olsa müheyya gündər,
+Gər simavər kömürü olsa müheyya göndər,
 Eşşək alvərdi sopa, Mehdi Qodux Cəfər ilən.

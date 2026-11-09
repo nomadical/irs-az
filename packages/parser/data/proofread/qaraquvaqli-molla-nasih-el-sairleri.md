@@ -45,5 +45,3 @@ Nasih dir qibləgahım gəlməmiş
 Məhvəşim həm Mehrü-mahım gəlməmiş
 Lütf və kərəm qılıb şahım gəlməmiş
 Şəhriyarsız könül şəhri virandır
-
-@@ 329

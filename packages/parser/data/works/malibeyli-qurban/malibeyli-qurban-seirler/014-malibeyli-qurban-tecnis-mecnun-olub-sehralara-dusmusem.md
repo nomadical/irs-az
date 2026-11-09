@@ -24,4 +24,4 @@ Təşnəsən durma gəl sorağını gör
 İstəsən ki eşq içində yüzəsən,
 Nəzər etmə nakəs olan yüzəsən,
 Qəsdin olsa ağyarını yüzəsən,
-Malıbəyli Qurban sorağını gör
+Mələkballı Qurban sorağını gör

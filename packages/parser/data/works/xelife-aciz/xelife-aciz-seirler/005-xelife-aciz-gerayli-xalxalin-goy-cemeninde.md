@@ -17,7 +17,7 @@ O gözlərlə alan könlü,
 Rəhzən müştəri gördüm.
 
 Bir mələkdir enib yerə,
-Bənzəməz hər gər bəşərə,
+Bənzəməz hərgiz bəşərə,
 Pəri göründü nəzərə,
 Ol mələk mənzəri gördüm.
 

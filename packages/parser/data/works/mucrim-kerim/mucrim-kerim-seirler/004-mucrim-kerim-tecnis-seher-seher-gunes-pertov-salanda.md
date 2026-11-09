@@ -23,7 +23,7 @@ Kəlbək tək yaslandım, dərində qaldım,
 Gecələr sızlaram ayaza qarşı.
 
 Qövsi-qüzehdə yay ilan oldu,
-Zülfün dal gərdənə yay ilan oldu,
+Zülfün dal gərdəndə yay ilan oldu,
 Qış nər sövdasında yay ilan oldu,
 Bülbül nalə edər ayaza qarşı.
 

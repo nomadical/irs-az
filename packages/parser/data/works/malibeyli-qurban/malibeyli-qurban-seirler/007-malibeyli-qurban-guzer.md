@@ -24,4 +24,4 @@ Axır ki canında ixtiyar güzər.
 Dəryadan təşnəni atdın kənarə,
 Hicran atəşinə sən elə çarə,
 Səndən ayrı getsə hansı diyarə,
-(Malıbəyli Qurban) xaksar güzər.
+(Mələkballı Qurban) xaksar güzər.

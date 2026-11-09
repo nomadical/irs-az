@@ -66,5 +66,3 @@ Müsəlman işi bəğayət oldu
 Gün-bəgün məişət düşür düşvarə,
 Hatim bu mülkdən özgə diyarə,
 Köç indi, vaxtı-rəhalət oldu
-
-@@ 063

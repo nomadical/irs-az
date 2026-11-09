@@ -16,5 +16,3 @@ Bu dünyada dərd sıxnaqlu olmuşam.
 Qəm əl götürmədi mən mübtəladən,
 Aləmi-ərvahda qalu bəladən,
 Xun-cigərlu qara dağlu olmuşam.
-
-@@ 185

@@ -16,5 +16,3 @@ Bağça sənin, bağban sənin, bar sənin,
 Alma sənin, heyva sənin, nar sənin,
 Aləm bilir, yar sənin, dəryar sənin,
 Canı başı gül vari Həsənin
-
-@@ 064

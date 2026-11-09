@@ -104,6 +104,6 @@ Bu təlxkamilə hər təlxkamə şirindir,
 Odur ki qəhvə içənlər o tutar gözünə,
 Dillə kim yetürür gözlərə cila qəhvə,
 Yanar səbah və məsa Faiz iştiyaqında,
-Yetiş hər imə canım sənə fəda qəhvə,
+Yetiş harayıma canım sənə fəda qəhvə,
 Olaydı kaş mənim qəhvə tək qara bəxtim,
 Nə söz dəxi bu duaya budur dua qəhvə

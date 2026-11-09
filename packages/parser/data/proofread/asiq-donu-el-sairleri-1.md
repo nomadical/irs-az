@@ -21,5 +21,3 @@ Uçdu tərlan yerin aldı bayquşlar,
 Dolanıb göyləri qocaldı qular,
 Aşıq Dönü keçən günü arzular,
 Necə ah çəkməsin sinalar indi
-
-@@ 081

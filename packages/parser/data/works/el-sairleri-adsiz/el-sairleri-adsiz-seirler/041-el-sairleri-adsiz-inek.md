@@ -63,7 +63,7 @@ Müxtəsər axırda tapıb inəyi,
 Sanballıyıb silkələyib dəynəyi.
 
 Vurduqca bu yerindən durmuyub,
-Bunda durub daha arıq vurmuyub.
+Bunda durub daha artıq vurmuyub.
 
 Əlacı kəsilib, burulub kəndə,
 Koməmizdə oturmuşdum mən kəndə.

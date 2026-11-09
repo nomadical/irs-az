@@ -21,5 +21,3 @@ Gövhərinin yarı bir sim bədəndir,
 Bulunmaz aləmdə bir nazik təndir,
 Talem heç yoxdur, bilmən nədəndir,
 Kimə dost oldumsa qaçar, yar olmaz.
-
-@@ 273

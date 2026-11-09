@@ -17,7 +17,7 @@ Asılıban nazlı yarın telindən
 Düşüb ölsəm heç kəs qanım almasın
 
 Fələk imiş bu işləri qayıran
-Ac gözümü torpaq ilən dövran
+Ac gözümü torpaq ilən doyuran
 Məni səndən, səni məndən ayıran
 Heç illərlə üzü-gözü gülməsin
 

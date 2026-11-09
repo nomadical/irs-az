@@ -28,5 +28,3 @@ Feyzullah sözünü bilməsə deməz,
 Ustaddan payını almasa deməz,
 Sövm-ü salatını qılmasa deməz,
 Yeddi nar cəm olmuş nə içindədir?
-
-@@ 199

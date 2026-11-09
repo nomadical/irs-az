@@ -148,5 +148,3 @@ Yetiş Racinin dadına,
 Rəhmin gəlsin fəryadına,
 Heç aşiqlər eşq odına,
 Olmaz artıq yanan məndən
-
-@@ 093

@@ -26,5 +26,3 @@ Pərim, dərdi-pünhanın içində,
 Xal dolanır zənəxdanın içində,
 Sən bilirsən kilsənin içində,
 Ömrünə duaçı yüz min can gəlib
-
-@@ 045

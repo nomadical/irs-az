@@ -29,7 +29,7 @@ Gər Təhəmtən ola bilməz, çəkə hərgiz belə yayı,
 Görürəm payi-piyadə edəsən məskən o tayı,
 Satasan qır ilə saqqız İrvanən və şərura
 
-Bu xətadidəni kor saldı təmam xalqı xətaya,
+Bu xəta didəni kor saldı təmam xalqı xətaya,
 Kim gətirdi bu haramzadəni, ta düşdü araya,
 Mal-u əmlakı satıb verdi qamu qənd ilə çaya,
 Borc əlindən qaça İslambula, ya kərb-ü bəlaya,

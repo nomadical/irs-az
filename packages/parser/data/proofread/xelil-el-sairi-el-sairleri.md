@@ -21,5 +21,3 @@ Sevdim boyu bəstəni,
 Əcayib töhfə nəstəni,
 Saldı Xəlil şikəstəni,
 Görək sitəmkar getdi
-
-@@ 070

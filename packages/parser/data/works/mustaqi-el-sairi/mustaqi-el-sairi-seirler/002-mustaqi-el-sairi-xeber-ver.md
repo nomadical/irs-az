@@ -13,7 +13,7 @@ status: DRAFT
 ---
 Badi-səba apar mənim peyğamım,
 Başın üçün o dildara xəbər ver,
-Yalvar, yapış, ağlasızla yavunçı,
+Yalvar, yapış, ağla sızla yavunçı,
 Ərzi-halım sitəmkara xəbər ver
 
 Nisan təki çeşmim döndü yağına,

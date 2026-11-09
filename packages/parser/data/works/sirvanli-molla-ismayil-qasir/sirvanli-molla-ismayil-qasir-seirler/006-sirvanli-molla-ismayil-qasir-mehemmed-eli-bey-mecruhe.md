@@ -23,7 +23,7 @@ Nə münis tapılur, nə bir müsahib.
 
 Nə ağlayan ələ düşər, nə gülən,
 Tapılmaz bu pərdə bircə dil bilən,
-Səndə yarım təzlik ilən gəl, gələn,
+Səndə yarım tezlik ilən gəl, gələn,
 Bəlkə təsir edə şihabə saqib.
 
 Mənə indi xəyal olub məşğələ,

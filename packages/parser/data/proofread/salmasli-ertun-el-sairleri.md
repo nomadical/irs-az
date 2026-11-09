@@ -21,5 +21,3 @@ Sən insansan cin deyilsən
 Torpaqdan sən tin deyilsən
 Salmaslı Ərtun çin deyilsən
 Sirri səndən soran kimdi
-
-@@ 023

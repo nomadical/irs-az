@@ -11,5 +11,3 @@ Aşıq Rza tül-i-kəlam eyləməz,
 Təkəbbürlü adama salam eyləməz,
 Çoxlar dünya işin təmam eyləməz,
 Hər kəs cəhd eylədi, natamam qaldı
-
-@@ 099

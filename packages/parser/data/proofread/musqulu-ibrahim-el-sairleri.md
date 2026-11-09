@@ -45,5 +45,3 @@ Görəndə xof eylər adalar məndən
 Fələk əkdi mənim qədd ü dalımı
 Mən kimə söyləyim ərzi-halımı
 Küsü saxlayıb məlikzadələr məndən
-
-@@ 019

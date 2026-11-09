@@ -50,5 +50,3 @@ Dəllək Murad deyir sözün zatını,
 Əl əldən ötkündür, işin çətini,
 Qurda quşa qismət elə ətini,
 Atanı oğula möhtac eləmə
-
-@@ 302

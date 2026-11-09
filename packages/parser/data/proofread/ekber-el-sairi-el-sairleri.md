@@ -21,5 +21,3 @@ Yanasan yanasan yandırdın məni
 Məskənim olubdur belə viranə
 Yanaram şəmə nicə pərvanə
 Yanasan yanasan yandırdın məni
-
-@@ 027

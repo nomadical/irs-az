@@ -16,5 +16,3 @@ Ləsani tək cismim düşdü bağına,
 Rəhmin gəlsin sinəm üstə dağına,
 Yetişincə öp əlin, düş ayağına,
 Al başına vara-vara xəbər ver.
-
-@@ 279

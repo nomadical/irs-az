@@ -33,5 +33,5 @@ Yollarında gözüm qaldı, qayıtdı
 
 Biçarə Abdulla kişt etdi bağı
 Zülmətlərin nuri-aləm çırağı
-Çahar-şənbə günü ilkəndi çağı
+Çahar-şənbə günü ilkindi çağı
 Gəldi, səni dərdə saldı, qayıtdı

@@ -114,5 +114,3 @@ Canımı yandırıb çirayə saldın
 Yürəyi sərbəsər dolu yaradır,
 Di görüm dərdinə bəs nə çarədir,
 Onun ki bəxtini qarayə saldın
-
-@@ 114

@@ -26,5 +26,3 @@ Yəhya, nə xoşdur bəzmimiz
 Gülzarə gəldik çünki biz
 Bülbülləri söylətmiyoz
 Əfğan bizimdir bu gecə
-
-@@ 354

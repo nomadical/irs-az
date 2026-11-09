@@ -13,8 +13,8 @@ status: DRAFT
 ---
 Xərabə qalasan belə vilayət,
 Hər yetən toxum paylayan oldu,
-Ol Qərib idi toxum gətirən,
-Ağdamlılar Qəribdən çox yaman oldu.
+Ol Qəriq idi toxum gətirən,
+Ağdamlılar Qəriqdən çox yaman oldu.
 
 Hacı Mələk, Hacı Cəmşid, Hacı Ağa,
 Hacı Mehdi, Hacı Həsən, Seyid Ağa,
@@ -47,7 +47,7 @@ Hərəsi olub indi bir xoca,
 Xublarov, Soğmanov saf yalan oldu.
 
 Saybalı Molla Məhəmməd, o hərzə yanşaq,
-Bahalıb ucuz satan qorumsaq,
+Baha alıb ucuz satan qorumsaq,
 Əhli-şəhr olsun başınıza torpaq,
 Saybalıda sizi aldadan oldu.
 
@@ -57,7 +57,7 @@ Oda tutub indi cahanı yeksər,
 Adəmə müqabil gör Şeytan oldu.
 
 Aramızdan çıxdı bir Baba Qəzər,
-Müştəriyə bu tənək indi güzər,
+Müştəriyə bu tənək etdi güzər,
 Toxum paylayanlar kəndləri gəzər,
 Bu da Ağdamda bir bud atan oldu.
 

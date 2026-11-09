@@ -8,7 +8,7 @@ Açılan hər tərəfə al və qızıl gülləri var,
 Gözəldir Dağıstanın kəmalli çox elləri var,
 Bax bu Axtı şəhrin görəncə gözəlləri var.
 
-Əbu Müslim burada məscid tikib daş qoydu,
+Əbu Müslim burada meçit tikib daş qoydu,
 Qırıbən kafirləri, qələləri boş qoydu,
 Bir neçə mələk enib səcdə edib baş qoydu,
 Heç bəla görməz olar, tale və iqbalları var.
@@ -39,5 +39,3 @@ Eşqdən məst olubən gözlər piyalə kimidir,
 Çəkilir adları hər ölkədə heybətlu durur,
 Nə qədər gəlsə qonaq, məhmana xələtlu durur,
 Şəkili Lələ təki bir talesiz qulları var.
-
-@@ 283

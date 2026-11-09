@@ -12,7 +12,7 @@ Təbib yox dərdimi yara demişəm
 Əcəl bir canım var yara demişəm
 Bir canda sənin üçün yarada bilmən
 
-Rəqib tək düşsün özlə dərinə
+Rəqib tək düşsün özgə dərinə
 Qoy düşsə də düşsün özgə dərinə
 Yar sənin dərindən özgə dərinə
 Olsam da bir qədəm yarada bilmən
@@ -23,5 +23,3 @@ Olsam da bir qədəm yarada bilmən
 Baykuya həmdəmdir o yar nilim
 Təbib millər salmış o yar nilim
 Peykanmı qalıbdır yarada bilmən
-
-@@ 031

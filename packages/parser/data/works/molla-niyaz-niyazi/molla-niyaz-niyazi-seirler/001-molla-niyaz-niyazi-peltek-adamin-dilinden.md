@@ -23,5 +23,5 @@ Xə-xə-xə xəyali-vüsalın mə-mə-mə məhal olubdur
 Gö-gö-gö gözün hərami o-o-o olalı, ey can,
 Sə-sə-sənə bu qanım hə-hə-hə halal olubdur
 
-Ni-ni-ni Niyazi halın sə-sə-sə sevər qəmər kim,
+Ni-ni-ni Niyazi halın sev-sev-sev sevər qəmər kim,
 Qə-qə-qə qəmin yeməkdən hə-hə-hə hilal olubdur

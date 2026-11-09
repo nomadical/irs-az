@@ -79,5 +79,3 @@ Bilmirəm hardadır fikr-ü xəyalın,
 Artırır baxdıqca şövqümi xalın,
 Göstərir xəmyazə hərdəm cəmalın,
 Olmaya Qüdsiyə vüsalmı var?
-
-@@ 226

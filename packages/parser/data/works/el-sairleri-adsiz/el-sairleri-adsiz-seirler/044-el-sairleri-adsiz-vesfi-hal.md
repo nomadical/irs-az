@@ -26,7 +26,7 @@ Dedik: yoxdur daha dərd u qəmimiz.
 Kəxa dedi: söylə sözündən qanaq,
 Özü kəsdi saqqalıma üç çanaq.
 
-Dedilər ki: bu sudaçıq yaxşıdı,
+Dedilər ki: bu sudacıq yaxşıdı,
 Qabağına qarşı gələn naxşıdı.
 
 Mən dedim ki: bunun sözü yalandı,

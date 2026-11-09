@@ -27,21 +27,21 @@ Türkə məsəldi deyirlər: yetişəndə əcəli,
 Dolaşır çöp-çobana bir nadan Mişdi
 
 Sübh tezdən götürəndə əlinə carubı,
-Sanasan şəhr yığıbdır ələ peykan Mişdi
+Sanasan Şimr yığıbdır ələ peykan Mişdi
 
-Qoltuğunda dağarı, önlüyə ilə yönələr,
+Qoltuğunda dağarı, önlüqə ilə yönələr,
 Elə bil qarətə üz döndərib ədvan Mişdi
 
 Zərbə tab edə bilməz, görə Rüstəm ki gələr,
 Əldə gürzi, çuvəcə, təhnəsi qalxan Mişdi
 
 Yalayıb ard dəyirmanı, əcəb səmri misən,
-Belə qalmaz sənə dəgərdişi-dövran, Mişdi
+Belə qalmaz sənə də gərdişi-dövran, Mişdi
 
 Hər yetən Kərbəlayı, Məşədi olsaydı əgər,
 Hamıdan əvvəl idi Şimri-bədərkan Mişdi
 
-Pis üzün getdi Xorasanida, bədnam elədi,
+Pis üzün getdi Xorasanidə, bədnam elədi,
 Tükürübdür üzünə şah Xorasan Mişdi
 
 Ləqəbi Şimr, adı Əbdullah, iki dəfə gəlib,

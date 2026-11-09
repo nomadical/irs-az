@@ -12,26 +12,26 @@ sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/35518'
 status: DRAFT
 ---
 Gecə gündüz intizarın çəkərəm,
-Aman Allah, yar əkləndi, gəlmədi
+Aman Allah, yar əyləndi, gəlmədi
 Həsrətindən əlif qədim bükərəm,
-Aman Allah, yar əkləndi, gəlmədi
+Aman Allah, yar əyləndi, gəlmədi
 
 Gələm dedi, vəd eylədi, getdi,
 Sözü xilaf oldu, vədədən ötdü,
 Səbəb nolldu, bizi yaddan unutdu,
-Aman Allah, yar əkləndi, gəlmədi
+Aman Allah, yar əyləndi, gəlmədi
 
 Badi-səba dost köyündən gələndə,
 Verginən bir xəbər mən dərdməndə,
 Bizimlən iqrar etdi gedəndə,
-Aman Allah, yar əkləndi, gəlmədi
+Aman Allah, yar əyləndi, gəlmədi
 
-Gələn varmı, görüm, yarı gördümi,
+Gələn varmı, görüm, yarı gözdümi,
 Varıb ərz eyləyim ona dərdimi,
 Bilmən onda qeyrə könül verdimi,
-Aman Allah, yar əkləndi, gəlmədi
+Aman Allah, yar əyləndi, gəlmədi
 
 Aşikar oldu mənim dərdi-nihanım,
 Ovc etdi fələyə ah ü əfğanım,
 Razıyəm, hicrində üzüldü canım,
-Aman Allah, yar əkləndi, gəlmədi
+Aman Allah, yar əyləndi, gəlmədi

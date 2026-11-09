@@ -77,5 +77,3 @@ Bunları sən xilas elə, aman xaliq, aman Mövla
 Qayıdıb qaçdı, bizi yandırıb yaxdı Orus pərkər,
 Olanda sal Səd-qərdə dutuldu hacılar, bəylər,
 Bunları sən xilas elə, aman xaliq, aman Mövla
-
-@@ 296

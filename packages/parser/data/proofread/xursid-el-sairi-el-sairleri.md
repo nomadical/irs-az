@@ -8,7 +8,7 @@ Qanə döndü bu çeşmimin seyləri,
 Seylər nə diyarə getdi, sevdiyim
 
 Sizə mən söyləyim, qayalar, daşlar,
-İldə bir kərə meyvə verən ağaclar,
+İldə bir kəz meyvə verən ağaclar,
 Ustasından dəstur almış anaşlar,
 Quşlar nə diyarə getdi, sevdiyim
 

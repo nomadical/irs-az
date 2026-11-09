@@ -21,5 +21,3 @@ Səfil Zaman belə gəzməz,
 Gözüm qeyri gözü görməz,
 Alubdır canımı, verməz,
 Oldum yalvara yalvara
-
-@@ 102

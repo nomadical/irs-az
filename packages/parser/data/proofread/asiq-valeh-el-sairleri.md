@@ -53,5 +53,3 @@ Valeh, inan, sək rəqibdir, bədənsən,
 Könül bərq almadın xaldan, bədənsən,
 Nə qədər ki can çıxmayıb, bədənsən,
 Kəsilməz dərikdən nə alım indi
-
-@@ 183

@@ -74,5 +74,3 @@ Mina dir xəlqdə bu nə mürüvvətdi
 Bilmənəm yarımı kimlər öyrətdi
 Dərman eyləmədi, buraxıb getdi
 Usanıb mürüvvətə gələn yar hanı
-
-@@ 327

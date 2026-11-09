@@ -26,5 +26,3 @@ Boy verməz eşqin dəryası,
 Sərdən getməz yar sevdası,
 Müznibin din-ü-dünyası,
 Nə ağlarsan, nə sızlarsan
-
-@@ 298

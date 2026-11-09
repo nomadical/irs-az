@@ -64,5 +64,3 @@ Mən Əliyəm eşq oduna düşmüşəm,
 Bir canım var yara qurban demişəm,
 Bir mələk simanın yüzin görmüşəm,
 Aynalanmış qaş-qabağı gözəlin.
-
-@@ 180

@@ -21,4 +21,3 @@ Yüzüm gülməz, heç açılmaz, ah mənəm.
 Göllərdə üzüşür ördəklə qaz.
 Sərim toladır, yüzüm payəndaz,
 Yoxdur bundan qeyri-əz bir mətah mənəm.
-

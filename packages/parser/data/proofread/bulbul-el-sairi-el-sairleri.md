@@ -91,5 +91,3 @@ Bu bülbül sübh ü şam ağlar
 Girib əfğan təmam ağlar
 Gecə gündüz müdam ağlar
 Güldən ayrılan bülbül
-
-@@ 040

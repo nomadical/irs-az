@@ -14,7 +14,7 @@ status: DRAFT
 Dedim: gəl, dost, ikimiz həmdəm olalı,
 Ağı mən oxuyum, qarasan, qara,
 Dedim: bir dəm qan salmıyıq araya,
-Yeri rəqib özü, qarasan, qara
+Yeri rəqib uzi, qarasan, qara
 
 Dedim: qəlyan gətir, çəkəlim indi,
 İllərdən dərdin çəkəlim indi,

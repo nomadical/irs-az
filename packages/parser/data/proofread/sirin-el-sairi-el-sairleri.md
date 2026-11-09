@@ -26,5 +26,3 @@ Yanaqlar lalədir, gözlər badamı,
 Bağrımı qan etdi saqinin cami,
 Çağırın gəlsin siz Dilaramı,
 Dilaram Şirinin yüz məlalı var
-
-@@ 129

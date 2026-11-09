@@ -16,5 +16,3 @@ Rəhim eyləyib gəlib mən binəvaya,
 Raz dilək deyib durub nəvaya,
 Mənəm Rəhim tək düşən başı sevdaya,
 Bir bülbülüm vardır, səndə varmı?
-
-@@ 096

@@ -16,5 +16,3 @@ Kişilər həyasız nə yaman olur
 Sahibim peyğəmbər o da Məkkədə,
 Mənim təki qana qərqdir ölkədə,
 Məxlisi, həvasız nə yaman olur
-
-@@ 297

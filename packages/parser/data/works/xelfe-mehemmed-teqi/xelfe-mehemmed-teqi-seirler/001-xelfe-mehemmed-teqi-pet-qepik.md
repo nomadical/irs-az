@@ -16,7 +16,7 @@ Hər nəmnə dindirirsən pet qəpik
 
 Bu xərabın yoxdu bir ağ saqqalı,
 Aparıban danışdıra baqqalı,
-Dindirirsən neçəyə qarğu dalı,
+Dindirirsən neçəyə qarğudalı,
 Deyir götür birisini pet qəpik
 
 Qəssabların işi olubdur cəfa,

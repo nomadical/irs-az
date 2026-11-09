@@ -29,5 +29,3 @@ Alıbdır canımı məndən o yarı,
 Söylə aşiqlərin olsun o yarı,
 Ağlama (Qurbi), görsən o yarı,
 Xəbərdar eylər bu sədaqları.
-
-@@ 249

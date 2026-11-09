@@ -26,5 +26,3 @@ Mirzə dir payəndazdır yar gəlsə yüzüm
 Varıb dərdi-dilim ərz edəm özüm
 Könlüm pərişandır, qan ağlar gözüm
 Gedubdur əlimdən ixtiyar mənəm
-
-@@ 324

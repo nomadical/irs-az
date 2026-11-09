@@ -98,6 +98,6 @@ Ol pul alıb daxil edir sonra otağa
 Məclisdə söyər birdə o mehmanı görəndə
 
 Sazı ona bir beş açılandır, evi viran
-Bir sövqusi Allələmadır, həm biri Duran
+Bir sövqusi Allahlamadır, həm biri Duran
 Başdan ayağa lüt soyulur hər gecə mehman
 Çox şükr edir Aşıqlı şir Aslanı görəndə

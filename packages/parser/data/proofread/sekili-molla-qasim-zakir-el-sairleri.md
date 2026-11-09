@@ -174,5 +174,3 @@ Mən Zakirəm, tərsa sevdim zalımı,
 Fələk əyib mənim qədd ü qalımı,
 Bəs mən kimə qılım ərzi-halımı,
 Küsübdür o mələkzadalar məndən
-
-@@ 088

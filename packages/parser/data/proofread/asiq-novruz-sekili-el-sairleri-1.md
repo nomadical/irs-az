@@ -45,5 +45,3 @@ Yüz iyirmi dörd nəbi, səhabə
 Siz də yetək olan dördü hesabə
 Dut Novruzun dilbəndini Qəndabə
 Kərəm ilə qoyma məni dəryada
-
-@@ 336

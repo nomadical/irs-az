@@ -33,5 +33,3 @@ Bilirəm öldürəcək bu dərdi-nihan məni,
 Qurtara bu dərddən Qadir-i-Sübhan məni,
 Ölsəm əgər götürə bir sahibi-iman məni,
 Bu dərd ilən olsa Rəsul, bil şəhid olan kimidir
-
-@@ 098

@@ -20,7 +20,7 @@ Turlan avın almış aya sərandı
 Fəsli-bahar oldu ayalandı
 Səninlən içələm ayalandı
 Zülf dağıldı üzdən ayalandı
-Tökülüb sədrinə aya sərandı
+Töküldü sədrə aya sərandı
 
 @@ 148
 
@@ -28,5 +28,3 @@ Tahir bu nalədən yetməz almə
 Əgər təbibimsən yetməz almə
 Rəsul dua eylər yetməz almə
 Eylər ümmətə aya sərandı
-
-@@ 149

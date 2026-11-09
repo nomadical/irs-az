@@ -67,7 +67,7 @@ Həmişə sərgərdan
 Dalıca bu surət
 Mən heyulanı
 
-Məni umuzdurdu
+Məni umuzdırdı
 O dənə xalı
 Bəli gedər huşu
 Görəndə quş danı
@@ -130,5 +130,3 @@ Fələk məni atdı
 Qıraqa Hidəcdən
 Qayıtmağa yoxdur
 O kəndə imkanı
-
-@@ 349

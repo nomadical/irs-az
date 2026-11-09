@@ -41,5 +41,3 @@ Məskin deyir vəfa görmədim səndə,
 Ağlım aldın, can qoymadın bədəndə,
 Can titrəşər qərar tutmaz bu təndə,
 Pirildayıb uçar, qadasın aldığım
-
-@@ 304

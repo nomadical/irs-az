@@ -88,5 +88,3 @@ Namisnik Tarxanov qabağınca bas xana,
 Var onun otaqları döndü gecə əlişanə,
 Əlli put barıt yanıb dünya tutuldu dumana,
 Ərsat qopdu, görək noldu zavalı Tiflisin
-
-@@ 293

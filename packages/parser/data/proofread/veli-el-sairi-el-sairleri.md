@@ -16,5 +16,3 @@ Mən Vəliyəm sənə müştaq
 Sən etdin əqlimi nuraq
 Ayaq altda qalan torpaq
 Axır bir gün udar səni
-
-@@ 353

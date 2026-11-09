@@ -26,5 +26,3 @@ Zəif deyir, bülbülsüz heç bağ olmaz
 Yar sevənin yürəyində yağ olmaz
 Könül bir şüşədir, dahi sağalmaz
 Şikəst oldu dil, başına döndüyüm
-
-@@ 137

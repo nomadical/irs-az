@@ -39,5 +39,3 @@
 (Lam) lam-əlif la möminlərə yol eylər
 (Yə)yə yalvar, Musa, səni qul eylər
 Nazlı yara yalvarmağın çağıdır
-
-@@ 323

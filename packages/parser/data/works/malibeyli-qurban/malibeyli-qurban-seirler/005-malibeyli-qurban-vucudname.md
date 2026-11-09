@@ -95,5 +95,5 @@ Sirləri faş etdi o eybi-sattar.
 
 Rəbbim şəfqət etdi, sıratı keçdim,
 Firdovsi-əlada Kövsərdən içdim,
-(Malıbəyli Qurban) cənnətə düşdüm,
+(Mələkballı Qurban) cənnətə düşdüm,
 Mövlamızı orada elədim didar.

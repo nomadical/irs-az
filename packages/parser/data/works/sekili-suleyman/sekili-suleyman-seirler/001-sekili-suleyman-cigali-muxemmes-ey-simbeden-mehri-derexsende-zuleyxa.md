@@ -24,7 +24,7 @@ Tuti kimi hər ləhceyi-güftarı gözəldir,
 Kim gördü ki yüz ruh ola bir təndə Züleyxa?
 
 Kim vəsmə yaxıb qaşına gizlətdi hilalı?
-Əbruyi-kamanın kimi əyrildi xiyalı,
+Əbruyi-kamanın kimi qayrıldı xiyalı,
 O biədəbin yoxdu məgər əql və kamalı?
 Yox vəsmədə sövda,
 Qıldı ayı rüsva,

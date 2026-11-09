@@ -55,5 +55,3 @@ Məmi dost kuyində uymaz hoy-haya,
 Əzəldən məhrəmdir Adəm Həvvaya,
 Ki əsrük quş kimi qalxar havaya,
 Gah olur xak ilə yeksənə könül
-
-@@ 312

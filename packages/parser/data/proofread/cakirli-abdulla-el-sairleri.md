@@ -16,5 +16,3 @@ Günəşdi ruyi-nazik mühləhil,
 Bu əsrdə gözəlliyi bibədəl,
 Gərdəni sürahi, zülfi müsəlsəl,
 Abdullanın yarı bu nişandadı.
-
-@@ 184

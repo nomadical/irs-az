@@ -21,7 +21,7 @@ Səni mənə nəsib etsin yaradan
 Sənin rəqibini Haqq götürsün aradan
 Yarı yoldan ha azdırır azdırır
 
-Qadir Allah, xub yar etdin aləmi
+Qadir Allah, xub yaratdın aləmi
 Nəsib yarəb, yarım bizə gələmi
 Ələ aldı yenə dəvat qələmi
 Ərzi-halım nə yazdırır yazdırır

@@ -37,6 +37,6 @@ Qolları şimşad ola,
 Ləbləri əhmər gərək.
 
 Çayın üçü qaydadı,
-Durdu cana faydadı,
+Dördü cana faydadı,
 Çay ki yetişdi beşə,
 Onu içən xər gərək.

@@ -26,5 +26,3 @@ Başım qurban olsun mərdə,
 Bəla versin Haqq namərdə,
 Mürtəza deyir belə dərdə
 Dəva olmaq nə mümkündür
-
-@@ 299

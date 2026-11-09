@@ -40,5 +40,3 @@ Tapa bilmir gətirə qonağa bir darı-cadı.
 Əndəlibin o zaman hasil olur hər muradı,
 Ki bu dediklərinin hazır ola cümlə zadı,
 Bu siyaqilə gətirə məni mehmanə, pilov.
-
-@@ 187

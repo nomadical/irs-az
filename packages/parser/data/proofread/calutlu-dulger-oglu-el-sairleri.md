@@ -21,5 +21,3 @@ Bunda gün keçirirəm mən niyaz ilə,
 Bülbül nalə edər çox güdaz ilə,
 Dülgər oğlu gərək deyə saz ilə,
 Gün doğandan gün batana dərdimi
-
-@@ 080

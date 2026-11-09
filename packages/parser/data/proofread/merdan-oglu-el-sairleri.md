@@ -16,5 +16,3 @@ Qan eylər gözlərin, ay qız, amandı
 Canıma salıbsan qəfildən bala,
 Yazıq Mərdan oğlu yanında qala,
 Qan eylər gözlərin, ay qız, amandı
-
-@@ 300

@@ -21,5 +21,3 @@ Mənsur kimi varıb dardan asıldı,
 Əlinin cəngində namərd basıldı,
 Polad dir, rəqibin dili kəsildi,
 Lal oldu gedəlim bizim ellərə
-
-@@ 046

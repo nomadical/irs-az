@@ -82,5 +82,3 @@ Hardan versin bu qədər manatları
 On dörd şahı yoxdu dövləti vari
 İldə bir yol eyləməz at nobarı
 Gər olmasa Qurban və Bayramımız
-
-@@ 022

@@ -33,5 +33,3 @@ Qayıbim qan ağlaram,
 Nə dünyaya bil bağlaram,
 Lalə tək sinəm dağlaram,
 Kənə yadə düşdü Qubad.
-
-@@ 193

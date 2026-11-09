@@ -11,19 +11,19 @@ order: 1
 sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/33543'
 status: DRAFT
 ---
-Və nə xurşid sifət bəzmaradır Məşkat,
+Və nə xurşid sifət bəzmsəradır Məşkat,
 Sərbəsər məhfil-ara bəzli-ziyadır Məşkat
 
 Hər dəni-zadələrin yaxması anı nə rəva,
 Aşiq və arif və rindanə səzadır Məşkat
 
 Demə sən şəm'i-şəbistan ona biyhudə, saqın,
-Aftabi-fələk məhfil-cadır Məşkat
+Aftabi-fələk məhfil-çadır Məşkat
 
 Müttəsil şö'lə-fəkənlik rövşən nəyyirdən
 Kəsb edib tabəsəhər zov-numadır Məşkat
 
-Bəzm ki söhbəti-xuban tərakt-keşan,
+Bəzm ki söhbəti-xuban nəzakət-keşan,
 Olmaz əvvəl bəzmdə yandırma, xətadır Məşkat
 
 Atəşi-eşqə yanan aşiqi-möhnətzədəyə
@@ -36,4 +36,4 @@ Büti-zərpuş şərəfdar billurin əndam,
 Şö'ləgər nəxvətəsər şahi-Sinadır Məşkat
 
 Yanmağın şikvəsini elədi Məhzun bir şəb,
-Dedi: səbr elə ki, ol məndə tutadır Məşkat
+Dedi: səbr elə ki, ol məndə dutadır Məşkat

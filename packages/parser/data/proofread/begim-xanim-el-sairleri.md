@@ -21,5 +21,3 @@ Məni belə görən sənə man eylər
 Həqqən-nas sözlərə qulaq asarlar
 Təsəddüq verübin qurban kəsərlər
 Bəgim İbrahimə can qurban eylər
-
-@@ 036

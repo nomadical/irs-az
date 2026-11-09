@@ -30,7 +30,7 @@ Gərək cəm ola bir sipahi-kəsir
 O ləşkərdə Şahmar sərdardır
 
 Süfufi-sipahi nizama salan
-Bahadır bək ü ali məqdaridir
+Bahadır bək ü ali məqdarıdır
 
 Cavan İsmayıl bək cavan dilir
 Ki həm sahibnəng həm ardır

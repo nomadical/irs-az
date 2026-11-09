@@ -21,5 +21,3 @@ Dərdli Məhəmməd aydır, olamaz oldum,
 Ağlayan gözümü siləməz oldum,
 Yalançı dünyada güləməz oldum,
 Göz yaşımdan yığışan göllərdə qaldım
-
-@@ 079

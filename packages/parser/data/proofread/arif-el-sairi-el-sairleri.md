@@ -31,7 +31,7 @@ Bu həyasızlıq ilə gəldi bizə xan oldu
 Xeymə-xərgah qurubən ləşkərin hər yan eylədi
 Əlixanı bəkləyib Təbriz həm xan eylədi
 Namübarək qədəmi ölkəni viran eylədi
-Qalmadı kənd-kəsəyin malını talan eylədi
+Qalmadı kənd-kəsək malını talan eylədi
 Bu böyük şəhərdə san bir yekə tufan oldu
 
 Naqəhan düşdü gözüm Orduyə baxdım gözünə
@@ -57,5 +57,3 @@ Tökübən əşk gözündən necə kim əbri-bahar
 Nola yarəb bununla ola bu axır kar
 Haliyə bu xan əla yerinə tapdı qərar
 Şükr lillah ki dəxi əmn ilə aman oldu
-
-@@ 152

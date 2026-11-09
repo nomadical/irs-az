@@ -55,5 +55,3 @@ Kiçikliyimdən mən çəkmişəm cəfasın,
 Sənin rəqiblər niçün sürər səfasın,
 Əsgər dir görməmişəm vəfasın,
 Nazlı yarın gözlərində yalan var.
-
-@@ 183

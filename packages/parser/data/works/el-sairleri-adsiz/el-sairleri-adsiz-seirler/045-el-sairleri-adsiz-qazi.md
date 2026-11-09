@@ -11,7 +11,7 @@ order: 45
 sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/33543'
 status: DRAFT
 ---
-Əla, ey müsnisi-dirinə, qazı,
+Əla, ey münisi-dirinə, qazı,
 Yetibdir sən, kər, sittinə, qazı.
 
 Keçirdik iki cümə günlərini,
@@ -20,7 +20,7 @@ Tutubsan bizim ilən kinə, qazı.
 Oxudarım, bilərsənmi görəndə,
 Sənə vəl-fəcrini tərsinə, qazı.
 
-Sanırsız, çinə yoxdur çün bu pərdə,
+Sanırsız, çinə yoxdur çün bu yerdə,
 Gəzər quş qanda olsa çinə, qazı.
 
 Məgər heç çıxmıyorsuz bistər üstə,

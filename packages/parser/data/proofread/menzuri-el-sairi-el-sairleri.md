@@ -26,5 +26,3 @@ Yoxdur bu dünyada yar həmdəm,
 Gündən günə artır möhnətim, qəm,
 Mənzurim qərq oldu dəryada gəmim,
 Qoymaz yetəm təmənnaya qaşların
-
-@@ 317

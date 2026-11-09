@@ -29,5 +29,3 @@ Niyaz ağlar qəm dəryasın üzgələr
 Sevdiyim bağçasında üzgələr
 Hər cayının qaşı oynar üzgələr
 Elə gəl sevdiyim yamən deyiləm
-
-@@ 342

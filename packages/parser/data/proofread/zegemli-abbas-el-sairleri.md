@@ -68,7 +68,7 @@ Asılıban nazlı yarın telindən
 Düşüb ölsəm heç kəs qanım almasın
 
 Fələk imiş bu işləri qayıran
-Ac gözümü torpaq ilən dövran
+Ac gözümü torpaq ilən doyuran
 Məni səndən, səni məndən ayıran
 Heç illərlə üzü-gözü gülməsin
 
@@ -95,5 +95,3 @@ Abbas bir qubardır, sənsən afitab
 Günəş üzün görcək eylər hicab
 Sənin olsun zahid, məscid və mehrab
 Mən özüm öz musallamı görmüşəm
-
-@@ 161

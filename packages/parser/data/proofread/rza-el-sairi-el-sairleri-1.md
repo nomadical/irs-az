@@ -26,4 +26,3 @@ Qurban olum nazlı yarın üzünə,
 Günəş camalına, kiçik yüzünə,
 Xilaf demə Kiçik Rza sözünə,
 Vallah-billah gülstana bənzərsən
-

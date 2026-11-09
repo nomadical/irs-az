@@ -44,7 +44,7 @@ Nazlı yar yolunda çəkrəm zəhmət
 
 — Anası:
 Məlik Məhəmməd ki gələr səfərdən
-Başın alıb edər vallah bu yerdən
+Başın alıb itər vallah bu yerdən
 Haqq saxlasın səni xövf-ü-xətərdən
 Qəsd edibsən şirin cana gedirsən
 

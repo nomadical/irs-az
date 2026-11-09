@@ -30,7 +30,7 @@ Məkkə yönünə sərf olunur kə mədinədə,
 Gahi şərabə xərc olunur kə qımara pul.
 
 Bilməm nə qüvvədir bu, nə təsirdir ki pul,
-Aləmdə istəsə gəli hər növ karə pul.
+Aləmdə istəsə külli hər növ karə pul.
 
 Bir eybi var ki çox mütəkəbbirdi bəzi tək,
 Daim üzün çəkər füqəradan kənarə pul.

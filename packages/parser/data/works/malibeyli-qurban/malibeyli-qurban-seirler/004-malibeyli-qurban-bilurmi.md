@@ -23,5 +23,5 @@ Ala gözlü nazlı yarım bilürmi.
 
 Yandım hicr odına, yoxdu yalanı,
 Cabəca ərz ilə gedib filanı,
-(Malıbəyli Qurban) çəkən bəlanı,
+(Mələkballı Qurban) çəkən bəlanı,
 Bimürvət, biiqrarım bilürmi.

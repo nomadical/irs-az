@@ -23,8 +23,8 @@ Sərv ağacı hər ağacdan ucadı,
 
 Qoç igidlər özün həddən ötürməz,
 Mərd kimsələr haqq səyin itirməz,
-Qabaq tağı tər şəmamə gətirməz,
-Boz söyüdə heyva olmaz, nar olmaz.
+Qabaq tağı tər şəmamə götürməz,
+Boz sökütdə heyva olmaz, nar olmaz.
 
 Nəşədir aşiqin ancaq sərində,
 Gül bərgidi əndəlibin pərində,

@@ -15,7 +15,7 @@ Qurtulmasın kürim ayə, mən dilbər
 Nə yaraşmış yaşıl üstən buxarə,
 Gül sevdiyim, mülk vermə buxarə,
 Xalın salmış yağma Bəlxə Buxarə,
-Əmrinə hazırdır ayə, mən dilbər
+Əmrikə hazırdır ayə, mən dilbər
 
 Açılıbdır fəsli-bahar alalə,
 Bir canım var dost yolunda alalə,
@@ -28,5 +28,3 @@ Hamidi dir dost küyündə dəmadəm,
 Axar çeşm yaşı yüzdən dəmadəm,
 Gecə gündüz sızıldaram dəmadəm,
 Sübhdən eylərəm ayə, mən dilbər
-
-@@ 060

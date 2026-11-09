@@ -23,5 +23,5 @@ Gör olmuş ağyara ayağı gərək
 
 Geyin al yaşıl, gül olma bənək,
 Kəşt eylə səhranı, gül olma bənək,
-Kəs Malıbəyli Qurban, gül olma
+Kəs Mələkballı Qurban, gül olma
 Kababın yanmağa ayağı gərək

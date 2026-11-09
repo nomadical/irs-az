@@ -4,7 +4,7 @@
 
 Əlif Allah ilə yad etdim mən Allahu əkbəri,
 Bəqayi-lə-yəzəldir fani olmaqdan bəri,
-Tə təalaAllahdır rəddəm bu könlüm əzbəri,
+Tə təalaAllahdır hər dəm bu könlüm əzbəri,
 Sə sənayi-həqdir bəhri-dəhanım gövhəri,
 Cim cəmalın nəşəsi xurşidi-mahi-ənvəri
 
@@ -21,7 +21,7 @@ Sad sidq zövq ilə təsbih və təhlilin qılan,
 Zad zəəfi-din olub çəkməz o hövli-məhşəri
 
 Ta təriqi-məsiyət səyyahım leyl ü nəhar,
-Zə zılli-asiyəm, qapında şərmsar,
+Zə zıllasa siyəhruyəm, qapında şərmsar,
 Ayn uqbada məgər yar ola lütfi-kirdigar,
 Qayn qəffarüzzünub il-asimin sən biqərar,
 Fə fəğfirli əya ehsan və lütfün məzhəri

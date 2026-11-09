@@ -67,5 +67,3 @@ Qalmadı aləmdə bazı yazanı,
 Nə göydə uçanı nə yerdə gəzəni,
 Miskin Turab necə versin azanı,
 Vay günüdür müsəlmana vay günü
-
-@@ 049

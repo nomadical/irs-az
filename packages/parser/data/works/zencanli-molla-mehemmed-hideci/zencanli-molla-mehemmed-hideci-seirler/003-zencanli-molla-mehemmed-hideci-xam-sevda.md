@@ -32,7 +32,7 @@ Həmişə sərgərdan
 Dalıca bu surət
 Mən heyulanı
 
-Məni umuzdurdu
+Məni umuzdırdı
 O dənə xalı
 Bəli gedər huşu
 Görəndə quş danı

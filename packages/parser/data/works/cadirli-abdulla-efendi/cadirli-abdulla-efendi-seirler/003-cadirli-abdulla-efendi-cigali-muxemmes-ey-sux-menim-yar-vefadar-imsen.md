@@ -39,7 +39,7 @@ Güldür məni hər dəm,
 Et dərdimə mərhəm,
 Ey sirrimə məhrəm,
 Sultani-mükərrəm,
-Nazik bədəni yeki yetən nar imsən sən
+Nazik bədəni yeni yetən nar imsən sən
 
 Canım üzülüb, hay elə dövranın əlində,
 Ey çərxi-fələk, qalmışam hicranın əlində,

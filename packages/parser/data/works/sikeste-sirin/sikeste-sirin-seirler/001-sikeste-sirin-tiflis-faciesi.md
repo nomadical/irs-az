@@ -47,8 +47,8 @@ Anası uşağın atırdı düzə,
 Yandırırdı qəlbi, halı Tiflisin
 
 Erməni-Gürcünün qırx kilsəsin,
-Hesabı yox, mak söyləyim nəsin,
-Zalım düşmən çıxar tacağın Kür səsin,
+Hesabı yox, mən söyləyim nəsin,
+Zalım düşmən çıxar tacağın göz səsin,
 Meydanə töküldü malı Tiflisin
 
 Keşiş, mahrasa, qarı və qoca,

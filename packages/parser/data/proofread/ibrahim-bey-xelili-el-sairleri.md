@@ -29,5 +29,3 @@ Xəlili dir: sirrin vermə dünyada,
 Təşnə dilim ləblərindən dünyada,
 Səndən qeyri əgər olsa dünyada,
 Meyl etməzəm yüz min yarə sevdiyim
-
-@@ 072

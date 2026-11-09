@@ -26,5 +26,3 @@ Görməmişəm sənin kimi zalımı
 Odlayıb yandırdın pər ü balımı
 Aləməm bilirsən mənim halımı
 Əgər zülflərindən sual eylərsən
-
-@@ 154

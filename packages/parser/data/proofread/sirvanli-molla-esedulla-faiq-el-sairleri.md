@@ -39,5 +39,3 @@ Bir çirkinin oduna yanarsan keçər gedər.
 
 Faiq, sənə cahanda mədədkar olmasa,
 Çün daməni-Hüseyni dutarsan keçər gedər.
-
-@@ 195

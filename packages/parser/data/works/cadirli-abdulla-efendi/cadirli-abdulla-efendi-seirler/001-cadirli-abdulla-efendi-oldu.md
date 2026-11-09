@@ -66,14 +66,14 @@ Qalıbdı səhrada evli-obalı,
 Bəs Aşıq Əhmədin nədir xəyalı,
 Hacı Həmid qaçdı, o qaçan oldu
 
-Qaçan Kazım qovunmuşdu dağına,
+Qaçan Kazım kövənmişdi dağına,
 Getdi girdi Pirhəsənin bağına,
 Mən hazıram sizin bulaq otağına,
 Bilmərəm bu işlər bəs haçan oldu
 
 Haçan gəlib ruznamədə bu çilə,
 Nə qalıbdı yazə bu gündən belə,
-Qovlağlı Cəbrayıl tilsimə hələ,
+Qomlağlı Cəbrayıl tilsimə hələ,
 Demə ki qar yağdı, iş yaman oldu
 
 Yaman oldu talеh, iş döndü bədə,

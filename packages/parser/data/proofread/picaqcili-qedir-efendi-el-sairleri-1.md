@@ -31,7 +31,7 @@ Düyünü, arpanı, buğdanı qoyub anbarda,
 Acdır eylədiyin ənam-ikramın, Yusif.
 
 Bəhmər və irçal və nar-danəcə adın çəkməzsən,
-Bir nədir bu nələrə oxşar nə nizamın, Yusif.
+Bir sər bunlara oxşar nə nizamın, Yusif.
 
 Dövərək sirkə xiyarın dəxi ab qurənin,
 Bunların dəvətinə yoxdu dəvamın, Yusif.

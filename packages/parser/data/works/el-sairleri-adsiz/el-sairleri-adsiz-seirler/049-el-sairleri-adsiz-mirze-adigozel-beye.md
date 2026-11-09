@@ -14,7 +14,7 @@ status: DRAFT
 Yoxdu hər çənd cənabında diyanət, Mirzə,
 Əzəli nemətinə etmə xiyanət, Mirzə.
 
-Ayda bir pərdə dolanmağına insaf elə,
+Ayda bir yerdə dolanmağına insaf elə,
 Heç kəsə sən bu qədər satma mətanət, Mirzə.
 
 Şübhə yox, oynadısan cümləsini bir söz ilə,

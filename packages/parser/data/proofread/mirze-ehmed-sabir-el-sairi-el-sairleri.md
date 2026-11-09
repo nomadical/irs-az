@@ -66,13 +66,13 @@ Həm dam qurub xalqa səpir danə, cəmaət.
 Görür kişilər işləri can ilə yürəkdən,
 Çox gürlük edib meşədə ağac dirəkdən,
 Həm zəhmətə qayırıban şanə, kürəkdən,
-Yeksər yığışıb get diyələr Sisyana, cəmaət.
+Yeksər yığışıb getdilə Sisyana, cəmaət.
 
 Bu qüssə verübdi bizi aləmdə güdazə,
 Üç ildən, iki ildən alur köhnə və tazə,
 Yaz vədə verir payıza, payızda da yazə,
 Qış vaxtı da biz göz tikirik cay-i-nəmazə,
-Gər vermisələr çarə, nədir ana, cəmaət.
+Gər verməsələr çarə, nədir ana, cəmaət.
 
 Çoxdandı gəlib bura (Fərhad Əli Əkbər),
 Çox nisyə alur xalq, qalıb aciz və müztər,
@@ -106,7 +106,7 @@ Qoymaz gələ biçarə ata, cana, cəmaət.
 Tul eyləmə bu şeri, əya Sabiri-məhzun,
 Əlhəq bu cəmaət eyləyibdi səni dilxun,
 Hər hərfinə şayistədi bir lölöyi-məknun,
-Yoxsa endirəm bunları mən hicv ilə məğbun,
+Yoxsa edərəm bunları mən hicv ilə məğbun,
 Qurban olalar haqq-i-nəmək-nanə, cəmaət.
 
 @@ 084

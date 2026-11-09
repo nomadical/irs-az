@@ -16,5 +16,3 @@ Sevdim gözlər xasından
 Sonalar tək sonasından
 Getməz Tayir sinəsindən
 Zöhrə yarın dağı, bülbül
-
-@@ 150

@@ -31,7 +31,7 @@ Mənim könlüm bir şad olmaz
 
 Göyə çəksə baş tayalar,
 Fələk onu tez payalar,
-Hər gülənin çapmaz qayalar,
+Hər külüngün çapmaz qayalar,
 Hər ikidən Fərhad olmaz
 
 Dərviş olan baxmaz pusta,

@@ -26,5 +26,3 @@ Mən çəkərəm işvə ilən nazını,
 Gəl gör canda artdı dərdi-əmrazın,
 Götür niqabın görüm yüzünü,
 Məqsud bu dərd ilən olacaq oldu
-
-@@ 309

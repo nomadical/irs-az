@@ -32,7 +32,7 @@ Tərs əsdi külək
 
 Külək tərs əsibən duman olmasın,
 Yolum almasın,
-Heç ikimizin gözü yolda qalmasın,
+Heç ikinin gözü yolda qalmasın,
 Yüz saralmasın,
 İt rəqibin görüm yüzü gülməsin,
 Yatsın, durmasın,
@@ -47,5 +47,3 @@ Muskurlu Mustafa, tut sənin əlindən,
 Yarın dilindən,
 Necə ki kəkliyə sarmaşır tülək,
 Dağıdır yələk
-
-@@ 308

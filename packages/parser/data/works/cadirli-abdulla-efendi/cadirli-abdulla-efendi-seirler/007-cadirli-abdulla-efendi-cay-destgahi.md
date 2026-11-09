@@ -69,7 +69,7 @@ Dərübin qətrələrin əyz edə əlvani
 Sürübin dudi-duxan etməli əflaki duman,
 Sayəban ta ola sərdə fələyin eyvani
 
-Çəkmə qəm dəhrdə boyiş kun-ömürdən ötrü,
+Çəkmə qəm dəhrdə boş gün ömürdən ötrü,
 Çünki mən xeyl vəfasız görürəm dünyani,
 Çıxdı maya batırıb nicələrin axırına,
 Çörə ki möhtac edib çastqeyi Şirvani

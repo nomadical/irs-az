@@ -26,5 +26,3 @@ Bu şikəstə düşdü dildən,
 Qucmaq istər nazik beldən,
 Yanaqları qızıl güldən
 Mən dönərəm, könül dönməz
-
-@@ 115

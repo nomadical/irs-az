@@ -116,7 +116,7 @@ Oynadı ğurab,
 
 Turab çeşmdə, dilimdə səsdir,
 Gözlərin eşqi məndə həvəsdir,
-(Malıbəyli Qurban) bu söhbət bəsdir,
+(Mələkballı Qurban) bu söhbət bəsdir,
 Çox söyləmə, gözümüzə gəldi xab,
 İstəsən səvab,
 Gətir rəxt-i-xab.

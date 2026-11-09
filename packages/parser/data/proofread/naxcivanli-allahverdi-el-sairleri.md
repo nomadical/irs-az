@@ -16,5 +16,3 @@ Allahverdi der vəsfə gəlməz sözüm
 Heyf ki gen dünyanı görmədi gözüm
 Bircə Allah bilər birdə mən özüm
 Nə xan bilər nə də paşa dərdimi
-
-@@ 015

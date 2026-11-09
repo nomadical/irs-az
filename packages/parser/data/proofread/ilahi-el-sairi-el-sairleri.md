@@ -26,5 +26,3 @@ Xətadır çah olan yerdə
 İlahi dad idub gəlsə
 Ki ki ki dad işidlər
 Ulu dərgah olan yerdə
-
-@@ 028

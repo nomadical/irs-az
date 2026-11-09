@@ -13,13 +13,13 @@ status: DRAFT
 ---
 Gülzar Xotəndir dövreyi-zülfün,
 Çərayə durubdur ahu gözlərin,
-Cahan və məxluqə fəsadü yağma
+Miyan və məxluqə fəsadü yağma
 Salır dolandıqca hər su gözlərin
 
-Bilidim həqiqət eyni-mətləbin,
+Biləydim həqiqət eyni-mətləbin,
 Nazdır aşiqə yaxud qəzəbin,
 Bağrımı qan edib yaqut ləbin,
-Ərkimi viranə cadu gözlərin
+Yürəyimi viranə cadu gözlərin
 
 Şəm'i-ruxsarına didəyi-pərvanə,
 Turreyi-müşkinin eylər bir yanə,

@@ -44,9 +44,9 @@ Xoy və Salmas Marağa Təbriz və Təhranda deyil
 Yığasan İran Turan olmaz dirnağı Tiflisin
 
 Şəhr-i Tiflis içində yetmiş iki millət gəzər
-Kimisi yaşıl geyir kimisi gir lalə-zad
+Kimisi yaşıl geyir kimisi gir lalə-zar
 Yenaral polkovniki gər sayasan olur həzar
-Min dəftərxanası var divan üçün yazı yazad
+Min dəftərxanası var divan üçün yazı yazar
 Gecə ta yarıyadək açıq olur dükan bazar
 Çox hesabsız satılur çaxır əraği Tiflisin
 
@@ -72,5 +72,3 @@ Tavadlar geyinərlər hər biri bir özgə təhər
 Atəşsiz hamamı var kim görübdür belə şəhər
 Miskin Bərci gəşt edər Tiflisi axşam və səhər
 Çünki qalıq olmuş təzə qonağı Tiflisin
-
-@@ 035
