@@ -28,6 +28,8 @@ export interface TranscribedBook {
   bibid?: number;
   /** Or the item id of a print in ULB Halle's MENAdoc (opendata.uni-halle.de/handle/1981185920/<id>); "@@ NNN" is then the PDF page */
   halle?: number;
+  /** An anthology several authors share: their works' sourceIds take this stem instead (e.g. "halle-35518-koroglu") */
+  sourceKey?: string;
   sections: TranscribedSection[];
   /** Works already on the site from another source, left out by title (their numbering is kept) */
   skip?: string[];
@@ -36,7 +38,7 @@ export interface TranscribedBook {
 const readerUrl = (book: TranscribedBook, page: number) =>
   book.halle ? `https://opendata.uni-halle.de/handle/1981185920/${book.halle}` : `http://web2.anl.az:81/read/page.php?bibid=${book.bibid}&pno=${page}`;
 /** The stem of the book's works' sourceIds */
-const sourceKey = (book: TranscribedBook) => (book.halle ? `halle-${book.halle}` : `anl-${book.bibid}`);
+const sourceKey = (book: TranscribedBook) => book.sourceKey ?? (book.halle ? `halle-${book.halle}` : `anl-${book.bibid}`);
 
 /** The book's works in order: title, the spread it starts on, and its Markdown */
 export function readTranscription(text: string) {
