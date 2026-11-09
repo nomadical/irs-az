@@ -24,14 +24,14 @@ Elədi axırda tərsəməni gör,
 Niyazməndəm üzün yarın görəndə,
 Bayquşlar çığrışır yarın görəndə,
 Ağlar həsrət gözüm yarın görəndə,
-Bolur bir dəm tutsa buta bağları
+Bulur bir dəm tutsa buta bağları
 
-Cananımə deyin canımə gəlsin,
-Təşnəni göndərsin canımə gəlsin,
-At tir oxların canımə gəlsin,
+Cananıma deyin, canıma gəlsin,
+Təşnəni göndərsin, canıma gəlsin,
+At tir oxların, canıma gəlsin,
 Kəmandarsan gözlə buta bağları
 
 Bizə cövr elədi qəlbi üzündən,
 Qal desə qalarıq qəlbi üzündən,
-Dostidir görəsən qəlbi üzündən,
+Dosti der: görəsən qəlbi üzündən,
 Boynuma salıbsan buta bağları
