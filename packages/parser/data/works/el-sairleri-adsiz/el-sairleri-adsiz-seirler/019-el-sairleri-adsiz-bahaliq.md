@@ -39,7 +39,7 @@ Yarəb sən özün görmə rəva nakəs və dunə,
 Ta inki ola gərdənimiz xəm bahalıqdan.
 
 Yalvartma bizi bir para namərd ləimə,
-Etmə bizə dərdi doğmu təvam bahalıqdan.
+Etmə bizə dərdü-qəmi təvam bahalıqdan.
 
 Qıymaz verə bir ləqmə zəif və füqəraya,
 Eylər qarnını köksünə mədd-i-qəm bahalıqdan.

@@ -13,7 +13,7 @@ Burada ölməyimi kim güman eylər
 Gen dünya başıma daralı dağlar
 
 Bu dağın ucu Şəkinin dağıdır
-Sanasan çövrəsi cənnət bağıdır
+Sanasan çörəsi cənnət bağıdır
 Tuyğun, tərlan, laçın yığnağıdır
 Sunalar, arzular saralı dağlar
 
@@ -26,7 +26,7 @@ Soyuq bulaqlarda gög çəmənli yerdə
 
 # İmdad
 
-Qarlı dağlar yenə etdi aradan
+Qarlı dağlar gənə etdi aradan
 Kərəm ilə qoyma məni dəryada
 Ərş-kürsi, ins-cini yaradan
 Kərəm ilə qoyma məni dəryada
@@ -42,6 +42,6 @@ Dadıma yetiş Məhəmməd Nəbi
 Kərəm ilə qoyma məni dəryada
 
 Yüz iyirmi dörd nəbi, səhabə
-Siz də yetək olan dördü hesabə
+Siz də yetək olan dərdü hesabə
 Dut Novruzun dilbəndini Qəndabə
 Kərəm ilə qoyma məni dəryada

@@ -26,7 +26,7 @@ Dərsxananın həsrətini çəkərik
 Gözümüzü müdam yola tikərik
 Yeni yetmiş bu oğlanə gəl indi
 
-Dodağımız işi əldən qoymayaq
+Dutduğumuz işi əldən qoymayaq
 Əmək-əmək ləblərini doymayaq
 Gecə-gündüz gəzək, çölü dinməyək
 Yekağı, gəl, xanımanə gəl indi

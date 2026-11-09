@@ -52,7 +52,7 @@ Fərhadə dönüb evlərinin yıxdı binasın,
 Pul tapmadı çoxları, çıxarıb satdı libasın,
 Təhqiqi budur bir büti-Azərdi samovar
 
-Acı çaya naz ilə baxıb gözsüzənim vay,
+Acı çaya naz ilə baxıb göz süzənim vay,
 Pürpəsqə içüb dişləyibən zək əzənim vay,
 Əfsürdə qalıb borclu əlindən çizənim vay,
 Avarə düşüb bisərü saman gəzənim vay,

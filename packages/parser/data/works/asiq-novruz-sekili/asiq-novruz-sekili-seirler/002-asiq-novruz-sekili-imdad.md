@@ -11,7 +11,7 @@ order: 2
 sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/35518'
 status: DRAFT
 ---
-Qarlı dağlar yenə etdi aradan
+Qarlı dağlar gənə etdi aradan
 Kərəm ilə qoyma məni dəryada
 Ərş-kürsi, ins-cini yaradan
 Kərəm ilə qoyma məni dəryada
@@ -27,6 +27,6 @@ Dadıma yetiş Məhəmməd Nəbi
 Kərəm ilə qoyma məni dəryada
 
 Yüz iyirmi dörd nəbi, səhabə
-Siz də yetək olan dördü hesabə
+Siz də yetək olan dərdü hesabə
 Dut Novruzun dilbəndini Qəndabə
 Kərəm ilə qoyma məni dəryada

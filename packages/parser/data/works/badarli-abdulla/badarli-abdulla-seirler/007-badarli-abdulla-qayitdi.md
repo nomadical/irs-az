@@ -13,7 +13,7 @@ status: DRAFT
 ---
 Bir nazənin huri mələk simalı
 Gəldi, məni gördü, güldü, qayıtdı
-Pənhanı göstərib gül yanağını
+Pənhanı göstərib gül yekağını
 Tər yüzünə şəbnəm doldu, qayıtdı
 
 Vəsf eyləmək olmaz xədü-xalını

@@ -228,14 +228,14 @@ Belin nə miqdarı, dilbər.
 Gör nə əcayib gülü var Təbrizin,
 Dil-dil ötən bülbülü var Təbrizin,
 Zində olan çox dəlisi var Təbrizin,
-Fitnəsi çoxdur, fətli var Təbrizin.
+Fitnəsi çoxdur, fe'li var Təbrizin.
 
 Təbriz özü cənnət rizvan kimi,
 Adamları huri qılman kimi,
 
 @@ 365
 
-Mirzələri divan edir xan kimi,
+Mirzaları divan edir xan kimi,
 Vəsfə gəlməz vəsfi-halı Təbrizin.
 
 Təbrizə tay olsa olur İsfahan,
@@ -246,7 +246,7 @@ Göz dikibdir Təbrizə gəl Aran,
 Gələk gedək xan bağına lalaya,
 Xanın qızı getdi bizi naləyə,
 Qurban olum onun kimi baləyə,
-Bağında hayva-hulu var Təbrizin.
+Bağında hayva-huli var Təbrizin.
 
 Lutiləri təlim edir qoçlara,
 Uşaqları dil öyrədir quşlara,
@@ -518,7 +518,7 @@ Bir kərpicin qızıl eyləyibdir, birin gümüş,
 Şəddad qəsrinə eyləyib anı sani pul.
 
 Məşhuri-ruzigar eyləyibdir (Nəqi Oufi),
-Məruf-i-əsr hüccəti Hacı Ağanı pul.
+Məruf-i-əsr hacəti Hacı Ağanı pul.
 
 Ki bir zaman pəşəni manənd-i-fil edər,
 Ki bir qar nicatın eyləyər əjdahanı pul.
@@ -622,7 +622,7 @@ Ta inki ola gərdənimiz xəm bahalıqdan.
 @@ 378
 
 Yalvartma bizi bir para namərd ləimə,
-Etmə bizə dərdi doğmu təvam bahalıqdan.
+Etmə bizə dərdü-qəmi təvam bahalıqdan.
 
 Qıymaz verə bir ləqmə zəif və füqəraya,
 Eylər qarnını köksünə mədd-i-qəm bahalıqdan.

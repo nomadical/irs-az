@@ -13,7 +13,7 @@ Necəsən ah çəkim söz ciyərdən,
 Bir od düşə xanimana sevdiyim
 
 Dad eylərəm, eşitməzsən naləsin,
-Rəhm eyləyibn sınıq könlüm alasan,
+Rəhm edibən sınıq könlüm alasan,
 Duam budur mənim kimi qalasan,
 Gecə gündüz yana-yana sevdiyim
 

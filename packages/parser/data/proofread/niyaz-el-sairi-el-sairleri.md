@@ -17,15 +17,15 @@ Nitqə gəlib deyir sənə ulalı
 Nadan bilməz, sərraf tanır ulalı
 Zümrüdəm, yaqutam yamən deyiləm
 
-Bayquşlar dir bu yer ayındır
+Bayqular dir bu yer ayındır
 Gətirdin üstümə bu yer aynadır
 
 @@ 341
 
-Əhli-talib dir buyur ayındır
+Əhli-talib dir bu yer ayındır
 Təbib dərman etsə yamən deyiləm
 
 Niyaz ağlar qəm dəryasın üzgələr
-Sevdiyim bağçasında üzgələr
+Sevdicəm bağçasında üzgələr
 Hər cayının qaşı oynar üzgələr
 Elə gəl sevdiyim yamən deyiləm

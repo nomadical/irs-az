@@ -14,12 +14,12 @@ status: DRAFT
 Gör nə əcayib gülü var Təbrizin,
 Dil-dil ötən bülbülü var Təbrizin,
 Zində olan çox dəlisi var Təbrizin,
-Fitnəsi çoxdur, fətli var Təbrizin.
+Fitnəsi çoxdur, fe'li var Təbrizin.
 
 Təbriz özü cənnət rizvan kimi,
 Adamları huri qılman kimi,
 
-Mirzələri divan edir xan kimi,
+Mirzaları divan edir xan kimi,
 Vəsfə gəlməz vəsfi-halı Təbrizin.
 
 Təbrizə tay olsa olur İsfahan,
@@ -30,7 +30,7 @@ Göz dikibdir Təbrizə gəl Aran,
 Gələk gedək xan bağına lalaya,
 Xanın qızı getdi bizi naləyə,
 Qurban olum onun kimi baləyə,
-Bağında hayva-hulu var Təbrizin.
+Bağında hayva-huli var Təbrizin.
 
 Lutiləri təlim edir qoçlara,
 Uşaqları dil öyrədir quşlara,

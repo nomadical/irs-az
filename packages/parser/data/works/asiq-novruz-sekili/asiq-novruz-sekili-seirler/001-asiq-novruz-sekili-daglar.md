@@ -22,7 +22,7 @@ Burada ölməyimi kim güman eylər
 Gen dünya başıma daralı dağlar
 
 Bu dağın ucu Şəkinin dağıdır
-Sanasan çövrəsi cənnət bağıdır
+Sanasan çörəsi cənnət bağıdır
 Tuyğun, tərlan, laçın yığnağıdır
 Sunalar, arzular saralı dağlar
 

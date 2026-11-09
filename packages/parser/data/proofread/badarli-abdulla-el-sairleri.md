@@ -116,7 +116,7 @@ Dərsxananın həsrətini çəkərik
 Gözümüzü müdam yola tikərik
 Yeni yetmiş bu oğlanə gəl indi
 
-Dodağımız işi əldən qoymayaq
+Dutduğumuz işi əldən qoymayaq
 Əmək-əmək ləblərini doymayaq
 Gecə-gündüz gəzək, çölü dinməyək
 Yekağı, gəl, xanımanə gəl indi
@@ -232,7 +232,7 @@ Cavab verdi: Məsihanı görmədim
 
 Bir nazənin huri mələk simalı
 Gəldi, məni gördü, güldü, qayıtdı
-Pənhanı göstərib gül yanağını
+Pənhanı göstərib gül yekağını
 Tər yüzünə şəbnəm doldu, qayıtdı
 
 Vəsf eyləmək olmaz xədü-xalını

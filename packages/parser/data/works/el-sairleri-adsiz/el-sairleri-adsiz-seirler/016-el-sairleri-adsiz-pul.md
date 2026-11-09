@@ -24,7 +24,7 @@ Bir kərpicin qızıl eyləyibdir, birin gümüş,
 Şəddad qəsrinə eyləyib anı sani pul.
 
 Məşhuri-ruzigar eyləyibdir (Nəqi Oufi),
-Məruf-i-əsr hüccəti Hacı Ağanı pul.
+Məruf-i-əsr hacəti Hacı Ağanı pul.
 
 Ki bir zaman pəşəni manənd-i-fil edər,
 Ki bir qar nicatın eyləyər əjdahanı pul.
