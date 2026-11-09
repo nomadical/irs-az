@@ -1,13 +1,13 @@
 ---
-slug: tufarqanli-barilahim-qismet-etmis
-sourceId: halle-33543-tufarqanli-t2
+slug: abbas-el-sairi-barilahim-qismet-etmis
+sourceId: halle-33543-abbas-el-sairi-t1
 titleAz: Barilahim qismət etmiş
-authorSlug: tufarqanli
-collectionSlug: tufarqanli-el-sairleri
+authorSlug: abbas-el-sairi
+collectionSlug: abbas-el-sairi-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
-order: 2
+order: 1
 sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/33543'
 status: DRAFT
 ---
