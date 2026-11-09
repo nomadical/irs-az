@@ -1,6 +1,6 @@
 ---
 slug: asiq-qerib-yar-meni
-sourceId: halle-35518-t2
+sourceId: halle-35518-asiq-qerib-t2
 titleAz: Yar məni
 authorSlug: asiq-qerib
 collectionSlug: asiq-qerib-seirler

@@ -1,6 +1,6 @@
 ---
 slug: asiq-omer-bilmen-kimindir
-sourceId: halle-35518-t3
+sourceId: halle-35518-asiq-omer-t3
 titleAz: Bilmən kimindir
 authorSlug: asiq-omer
 collectionSlug: asiq-omer-seirler

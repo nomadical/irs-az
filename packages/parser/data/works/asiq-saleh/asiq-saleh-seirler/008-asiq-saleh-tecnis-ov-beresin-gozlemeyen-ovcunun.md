@@ -1,6 +1,6 @@
 ---
 slug: asiq-saleh-tecnis-ov-beresin-gozlemeyen-ovcunun
-sourceId: halle-33543-t8
+sourceId: halle-33543-asiq-saleh-t8
 titleAz: 'Təcnis: Ov bərəsin gözləməyən ovçunun'
 authorSlug: asiq-saleh
 collectionSlug: asiq-saleh-seirler

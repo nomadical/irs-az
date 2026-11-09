@@ -1,6 +1,6 @@
 ---
 slug: asiq-saleh-tersi-elifba
-sourceId: halle-33543-t9
+sourceId: halle-33543-asiq-saleh-t9
 titleAz: Tərsi-əlifba
 authorSlug: asiq-saleh
 collectionSlug: asiq-saleh-seirler

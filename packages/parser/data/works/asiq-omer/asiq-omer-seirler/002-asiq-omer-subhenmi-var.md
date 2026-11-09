@@ -1,6 +1,6 @@
 ---
 slug: asiq-omer-subhenmi-var
-sourceId: halle-35518-t2
+sourceId: halle-35518-asiq-omer-t2
 titleAz: Şübhənmi var?
 authorSlug: asiq-omer
 collectionSlug: asiq-omer-seirler

@@ -1,6 +1,6 @@
 ---
 slug: asiq-saleh-konlum-seni-ister
-sourceId: halle-33543-t10
+sourceId: halle-33543-asiq-saleh-t10
 titleAz: Könlüm səni istər
 authorSlug: asiq-saleh
 collectionSlug: asiq-saleh-seirler

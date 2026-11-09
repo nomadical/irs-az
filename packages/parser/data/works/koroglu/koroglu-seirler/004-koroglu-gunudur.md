@@ -1,6 +1,6 @@
 ---
 slug: koroglu-gunudur
-sourceId: halle-35518-t4
+sourceId: halle-35518-koroglu-t4
 titleAz: Günüdür
 authorSlug: koroglu
 collectionSlug: koroglu-seirler

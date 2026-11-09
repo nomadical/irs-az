@@ -1,6 +1,6 @@
 ---
 slug: dosti-xanim-tecnis-rextin-al-geyimis-bagcaya-gedir
-sourceId: halle-35518-t1
+sourceId: halle-35518-dosti-xanim-t1
 titleAz: 'Təcnis: Rəxtin al geyimiş bağçaya gedir'
 authorSlug: dosti-xanim
 collectionSlug: dosti-xanim-seirler

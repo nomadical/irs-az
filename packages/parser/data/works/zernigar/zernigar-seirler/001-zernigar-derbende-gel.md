@@ -1,6 +1,6 @@
 ---
 slug: zernigar-derbende-gel
-sourceId: halle-33543-t1
+sourceId: halle-33543-zernigar-t1
 titleAz: Dərbəndə gəl
 authorSlug: zernigar
 collectionSlug: zernigar-seirler

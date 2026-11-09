@@ -1,6 +1,6 @@
 ---
 slug: asiq-saleh-menem-seyyadi
-sourceId: halle-33543-t12
+sourceId: halle-33543-asiq-saleh-t12
 titleAz: Mənəm səyyadı
 authorSlug: asiq-saleh
 collectionSlug: asiq-saleh-seirler

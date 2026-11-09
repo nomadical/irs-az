@@ -1,6 +1,6 @@
 ---
 slug: asiq-omer-sendedir
-sourceId: halle-35518-t1
+sourceId: halle-35518-asiq-omer-t1
 titleAz: Səndədir
 authorSlug: asiq-omer
 collectionSlug: asiq-omer-seirler

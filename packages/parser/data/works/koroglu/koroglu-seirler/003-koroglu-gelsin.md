@@ -1,6 +1,6 @@
 ---
 slug: koroglu-gelsin
-sourceId: halle-35518-t3
+sourceId: halle-35518-koroglu-t3
 titleAz: Gəlsin
 authorSlug: koroglu
 collectionSlug: koroglu-seirler

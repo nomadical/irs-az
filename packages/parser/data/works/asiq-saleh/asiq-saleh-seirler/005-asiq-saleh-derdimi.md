@@ -1,6 +1,6 @@
 ---
 slug: asiq-saleh-derdimi
-sourceId: halle-33543-t5
+sourceId: halle-33543-asiq-saleh-t5
 titleAz: Dərdimi
 authorSlug: asiq-saleh
 collectionSlug: asiq-saleh-seirler

@@ -1,6 +1,6 @@
 ---
 slug: asiq-saleh-mustezad-ey-dil-geceler-subhe-dekin-yar-esiyinde
-sourceId: halle-33543-t3
+sourceId: halle-33543-asiq-saleh-t3
 titleAz: 'Müstəzad: Ey dil, gecələr sübhə dəkin yar eşiyində'
 authorSlug: asiq-saleh
 collectionSlug: asiq-saleh-seirler

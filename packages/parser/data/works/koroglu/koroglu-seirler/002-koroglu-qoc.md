@@ -1,6 +1,6 @@
 ---
 slug: koroglu-qoc
-sourceId: halle-35518-t2
+sourceId: halle-35518-koroglu-t2
 titleAz: Qoç
 authorSlug: koroglu
 collectionSlug: koroglu-seirler

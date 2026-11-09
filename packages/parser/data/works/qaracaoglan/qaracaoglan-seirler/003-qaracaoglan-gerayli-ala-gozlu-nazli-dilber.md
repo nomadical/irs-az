@@ -1,6 +1,6 @@
 ---
 slug: qaracaoglan-gerayli-ala-gozlu-nazli-dilber
-sourceId: halle-35518-t3
+sourceId: halle-35518-qaracaoglan-t3
 titleAz: 'Gəraylı: Ala gözlü nazlı dilbər'
 authorSlug: qaracaoglan
 collectionSlug: qaracaoglan-seirler

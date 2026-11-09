@@ -1,6 +1,6 @@
 ---
 slug: asiq-saleh-ver-bir-xeber
-sourceId: halle-33543-t1
+sourceId: halle-33543-asiq-saleh-t1
 titleAz: Ver bir xəbər
 authorSlug: asiq-saleh
 collectionSlug: asiq-saleh-seirler

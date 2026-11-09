@@ -1,6 +1,6 @@
 ---
 slug: koroglu-komurlener
-sourceId: halle-35518-t6
+sourceId: halle-35518-koroglu-t6
 titleAz: Kömürlənər
 authorSlug: koroglu
 collectionSlug: koroglu-seirler

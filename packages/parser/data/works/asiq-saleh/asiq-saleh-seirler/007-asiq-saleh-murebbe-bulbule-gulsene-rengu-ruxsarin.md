@@ -1,6 +1,6 @@
 ---
 slug: asiq-saleh-murebbe-bulbule-gulsene-rengu-ruxsarin
-sourceId: halle-33543-t7
+sourceId: halle-33543-asiq-saleh-t7
 titleAz: 'Mürəbbe: Bülbülə gülşənə rəngü-ruxsarın'
 authorSlug: asiq-saleh
 collectionSlug: asiq-saleh-seirler

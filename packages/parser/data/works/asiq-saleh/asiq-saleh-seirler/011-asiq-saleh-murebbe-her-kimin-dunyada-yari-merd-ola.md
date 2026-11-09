@@ -1,6 +1,6 @@
 ---
 slug: asiq-saleh-murebbe-her-kimin-dunyada-yari-merd-ola
-sourceId: halle-33543-t11
+sourceId: halle-33543-asiq-saleh-t11
 titleAz: 'Mürəbbe: Hər kimin dünyada yarı mərd ola'
 authorSlug: asiq-saleh
 collectionSlug: asiq-saleh-seirler

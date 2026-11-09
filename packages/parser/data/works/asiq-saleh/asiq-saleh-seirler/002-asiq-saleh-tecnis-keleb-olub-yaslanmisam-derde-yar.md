@@ -1,6 +1,6 @@
 ---
 slug: asiq-saleh-tecnis-keleb-olub-yaslanmisam-derde-yar
-sourceId: halle-33543-t2
+sourceId: halle-33543-asiq-saleh-t2
 titleAz: 'Təcnis: Kələb olub yaslanmışam dərdə yar'
 authorSlug: asiq-saleh
 collectionSlug: asiq-saleh-seirler

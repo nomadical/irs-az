@@ -1,6 +1,6 @@
 ---
 slug: koroglu-nece-oldu
-sourceId: halle-35518-t5
+sourceId: halle-35518-koroglu-t5
 titleAz: Necə oldu
 authorSlug: koroglu
 collectionSlug: koroglu-seirler

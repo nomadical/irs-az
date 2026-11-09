@@ -1,6 +1,6 @@
 ---
 slug: koroglu-olsun
-sourceId: halle-35518-t1
+sourceId: halle-35518-koroglu-t1
 titleAz: Olsun
 authorSlug: koroglu
 collectionSlug: koroglu-seirler

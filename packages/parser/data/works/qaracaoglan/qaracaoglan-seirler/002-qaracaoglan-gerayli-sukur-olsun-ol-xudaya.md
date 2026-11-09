@@ -1,6 +1,6 @@
 ---
 slug: qaracaoglan-gerayli-sukur-olsun-ol-xudaya
-sourceId: halle-35518-t2
+sourceId: halle-35518-qaracaoglan-t2
 titleAz: 'Gəraylı: Şükür olsun ol Xudaya'
 authorSlug: qaracaoglan
 collectionSlug: qaracaoglan-seirler
