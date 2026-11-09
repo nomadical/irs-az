@@ -1,0 +1,32 @@
+---
+slug: calutlu-dulger-oglu-derdimi
+sourceId: halle-35518-calutlu-dulger-oglu-t1
+titleAz: Dərdimi
+authorSlug: calutlu-dulger-oglu
+collectionSlug: calutlu-dulger-oglu-seirler
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: POEM
+order: 1
+sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/35518'
+status: DRAFT
+---
+Babat babat yüz min mənim dərdim var,
+Kimə deyəm yana yana dərdimi
+Dərdsizlər nə bilirlər dərdlilər dilin,
+Gərək deyəm dərdli qana dərdimi
+
+Dərd əlindən ciyər döndü bir yana,
+Ağlamaqdan didəm döndü Ümmana,
+Saldın fələk çünki məni hicrana,
+Daxı vermə bir insana dərdimi
+
+Kəcrəv fələk, dərdi mənə bar etdin,
+Gecə gündüz işim ah ü zar etdin,
+Artıra artıra bərabər etdin,
+Daxı dəryayi-Ümmana dərdimi
+
+Bunda gün keçirirəm mən niyaz ilə,
+Bülbül nalə edər çox güdaz ilə,
+Dülgər oğlu gərək deyə saz ilə,
+Gün doğandan gün batana dərdimi

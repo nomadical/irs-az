@@ -1,0 +1,11 @@
+---
+slug: niyaz-el-sairi
+nameAz: Niyaz
+nameRu: Ниязи
+nameEn: Niyaz
+type: POET
+writingLangs:
+  - AZ_ARABIC
+status: DRAFT
+---
+**Niyaz** — el şairi. Bir şeiri Salman Mümtazın 1927-ci ildə çap etdirdiyi «El şairləri» toplusunun birinci cildindədir.

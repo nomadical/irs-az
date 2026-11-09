@@ -1,0 +1,11 @@
+---
+slug: sikeste-el-sairi
+nameAz: Şikəstə
+nameRu: Шикесте
+nameEn: Shikasta
+type: POET
+writingLangs:
+  - AZ_ARABIC
+status: DRAFT
+---
+**Şikəstə** — el şairi. Bir şeiri Salman Mümtazın 1927-ci ildə çap etdirdiyi «El şairləri» toplusunun birinci cildindədir.
