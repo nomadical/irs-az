@@ -1602,7 +1602,8 @@
     "wikisource": {
       "az": "Mirzə Şəfi Vazeh"
     },
-    "collections": []
+    "collections": [],
+    "transcribed": [{"file": "vazeh-azerbaycan-edebiyyati.md", "halle": 33996, "sections": [{"first": "Qəzəl: Ey ke həmhücreyi-mayi {fa}", "collection": "vazeh-farsca-seirler", "titleAz": "Farsca şeirlər", "genre": "POEM", "layout": "verse"}, {"first": "Məktub: Məhi-nousəfərəm {fa}", "collection": "vazeh-mektublar", "titleAz": "Məktublar", "genre": "LETTER", "layout": "verse"}]}]
   },
   {
     "slug": "bakixanov",
