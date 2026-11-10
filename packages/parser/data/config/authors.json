@@ -2372,7 +2372,8 @@
         "Cismi-zanmdan mənim hicran nə istər bilmənəm": "Cismi-zarımdan mənim hicran nə istər bilmərəm"
       }
     },
-    "collections": []
+    "collections": [],
+    "transcribed": [{"file": "qovsi-azerbaycan-edebiyyati.md", "halle": 34095, "sections": [{"first": "Qəzəl: Zəxmi-xunəfşanım, ey bülbül, güli-tərdir mənə", "collection": "qovsi-seirler-1925", "titleAz": "Şeirlər (Salman Mümtaz, 1925)", "genre": "POEM", "layout": "verse"}], "skip": ["Qəzəl: İstərəm peyvəstə, ey rəna, dolanım başına", "Qəzəl: Dostlar, könlüm diyarın etdi viran iztirab", "Qəzəl: Dilim fəğan ilə, gözüm ləxtə qan ilə doludur"]}]
   },
   {
     "slug": "sehriyar",
