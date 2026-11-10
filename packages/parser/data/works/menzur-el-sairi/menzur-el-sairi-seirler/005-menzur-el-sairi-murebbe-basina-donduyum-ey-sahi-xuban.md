@@ -1,7 +1,18 @@
-@@ 316
-
-# Mürəbbə: Başına döndüyüm, ey şahi-xuban
-
+---
+slug: menzur-el-sairi-murebbe-basina-donduyum-ey-sahi-xuban
+sourceId: halle-35518-menzur-el-sairi-t5
+titleAz: 'Mürəbbə: Başına döndüyüm, ey şahi-xuban'
+authorSlug: menzur-el-sairi
+collectionSlug: menzur-el-sairi-seirler
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: POEM
+order: 5
+sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/35518'
+previousSlugs:
+  - menzuri-el-sairi-murebbe-basina-donduyum-ey-sahi-xuban
+status: DRAFT
+---
 Başına döndüyüm, ey şahi-xuban,
 Şikəst verir yeni aya qaşların,
 Qövsi-qüzeh çəkilibdir aradan,
