@@ -26,7 +26,7 @@ Beşi üsyan, beşi nisyan, beşi nə?
 
 Məqabirdən güzər etdim,
 Əcaib mərdüman gördüm,
-Qarantıqu torpaq altında
+Qaranlıqı torpaq altında
 Yatar cismilə can gördüm
 
 Yoluxdum bir günahkara,

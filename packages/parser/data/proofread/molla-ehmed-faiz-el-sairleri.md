@@ -41,7 +41,7 @@ Can almağa bilməm necə kafərdi samovar
 @@ 118
 
 Müflis olubın indi uzaxdan baxanım vay,
-Bir şahidən ötrü tökiyüb qan qusanım vay,
+Bir şahidən ötrü tökülən qan qusanım vay,
 Dörd aylığını çay dilində salanım vay,
 Haqq dost deyib Rum və Fərəngə qaçanım vay,
 Qaç başına daş salmağa istərdi samovar
