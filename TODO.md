@@ -125,7 +125,7 @@ Persian or Arabic-script originals with no human AZ translation, by count of wor
 | Fuzuli (FA) | 81 | 26 ghazals, 17 qasidas, 17 rubais, 16 Saqinamə sections, 5 other |
 | Fələki | 56 | |
 
-- [ ] Latin-script versions of Arabic-script Azerbaijani: Saib's Turkic ghazals (13 of 20). Done: Şəhriyar's Heydərbabaya salam (2026-10-29, urmu.eu) and his 30 other Turkic poems (2026-11-10, the site's own transliteration of the Ganjoor text — no Latin print of this redaction found; worth proofreading against the 1993 Əlhuda Divan-Türki if it turns up)
+- [x] Latin-script versions of Arabic-script Azerbaijani: all done. Saib's 20 Turkic ghazals (7 from az.wikisource; 13 the site's own transliteration of the Ganjoor text, 2026-11-10 — az.wikisource has 4 more Latin Saib ghazals not on the site: «Asan da gəlməsin…», «Bu gözəl gün də keçər…», «Demirəm, səhrada…», «Əzdikcə fələk…»); Şəhriyar's Heydərbabaya salam (2026-10-29, urmu.eu) and his 30 other Turkic poems (2026-11-10, the site's own transliteration of the Ganjoor text — no Latin print of this redaction found; worth proofreading against the 1993 Əlhuda Divan-Türki if it turns up)
 - [ ] No Russian originals on the site yet. If any are added (Nərimanov, Ağaoğlu, Rəsulzadə's Russian articles), each needs an AZ translation
 
 ## Licences to obtain
