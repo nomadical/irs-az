@@ -133,10 +133,12 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
       section = book.sections.find((s) => s.first === w.title) ?? section;
       if (!section) { console.warn(`  Before any section, left out: ${w.title}`); return; }
       if (book.skip?.includes(w.title)) { console.log(`    (skipped: ${w.title})`); return; }
-      // The date printed under a work's end ("*1890*", "*1898-1900*") is its year
-      const dated = w.body.match(/\n\*(\d{4})(?:\s*[-–]\s*\d{2,4})?\*$/);
+      // The date printed under a work's end ("*1890*", "*1898-1900*", "*Dekabr, 1973*", "*İyun – avqust, 1970*") is its year
+      const month = '(?:yanvar|fevral|mart|aprel|may|[iİ]yun|[iİ]yul|avqust|sentyabr|oktyabr|noyabr|dekabr)';
+      const dated = w.body.match(new RegExp(`\\n\\*(?:${month}(?:\\s*[-–]\\s*${month})?,?\\s*)?(\\d{4})(?:\\s*[-–]\\s*\\d{2,4})?\\*$`, 'iu'));
       const year = dated ? Number(dated[1]) : undefined;
-      const body = dated ? w.body.slice(0, dated.index).trim() : w.body;
+      // A bare year goes into the work's year; a date naming the month also stays printed under the poem
+      const body = dated && /^\n\*\d/.test(dated[0]) ? w.body.slice(0, dated.index).trim() : w.body;
       if (section.stars) {
         collection(section.collection, section.titleAz, section.genre);
         body.split(/^\* \* \*$/m).map((p) => p.trim()).filter(Boolean).forEach((poem, n) => {

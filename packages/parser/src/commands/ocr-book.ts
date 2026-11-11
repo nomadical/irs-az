@@ -359,6 +359,34 @@ function layOut(pages: Page[], runningHeads: Set<string>, footnotes: string[], s
   return { paragraphs, continues: firstIndented === false };
 }
 
+/** A poetry book's spread: every printed line kept as a line, a stanza break where the line gap widens,
+    a title set in capitals as "# Title", a year under a poem as "*1970*" (scrape-transcribed reads it) */
+function layOutVerse(pages: Page[], runningHeads: Set<string>, freq: Map<string, number>) {
+  const out: string[] = [];
+  for (const page of pages) {
+    const lines = page.lines.filter((l) => !/^\W*\d{1,3}\W*$/.test(l.text) && !runningHeads.has(norm(l.text)) && /[\p{L}\d]/u.test(l.text));
+    if (!lines.length) continue;
+    const pitches = lines.slice(1).map((l, i) => l.top - lines[i].top).sort((a, b) => a - b);
+    const pitch = pitches[Math.floor(pitches.length / 2)] ?? 0;
+    lines.forEach((line, k) => {
+      if (k && pitch && line.top - lines[k - 1].top > pitch * 1.45 && out.length && out[out.length - 1] !== '') out.push('');
+      const text = fixLine(line.text, freq).replace(/^[-—]\s/, '– ');
+      const year = text.match(/^\s*\(?(1[89]\d\d(?:\s*[-–]\s*\d{2,4})?)\)?\.?\s*$/);
+      if (year) { out.push(`*${year[1].replace(/\s*[-–]\s*/, '–')}*`, ''); return; }
+      const letters = text.replace(/\P{L}/gu, '');
+      if (letters.length >= 3 && letters === letters.toLocaleUpperCase('az')) {
+        if (out.length && out[out.length - 1] !== '') out.push('');
+        const title = text.toLocaleLowerCase('az').replace(/^\p{L}/u, (c) => c.toLocaleUpperCase('az'));
+        out.push(`# ${title}`, '');
+        return;
+      }
+      out.push(text);
+    });
+    if (out.length && out[out.length - 1] !== '') out.push('');
+  }
+  return out.join('\n').replace(/\n{3,}/g, '\n\n').trim();
+}
+
 const norm = (s: string) => s.toLocaleLowerCase('az').replace(/[^\p{L}]/gu, '');
 
 // ── --engine vlm: a local vision model (mlx-vlm on Apple silicon) reads the pages ──
@@ -517,10 +545,11 @@ export const ocrBookCommand = new Command('ocr-book')
   .option('--to <n>', 'Last spread')
   .option('--lang <lang>', 'aze (Latin), aze_cyrl (read with the Russian model, resolved to Latin by the word list) or aze_yanalif (the 1922–39 Latin alphabet; --engine vlm only)', 'aze')
   .option('--single', 'Images are single pages, not two-page spreads')
+  .option('--verse', 'A poetry book: keep every printed line, stanza breaks from the line gaps, capitalised titles as headings, years as *1970* (tesseract engine)')
   .option('--engine <engine>', 'tesseract, or vlm: a local vision model via mlx-vlm (Apple silicon; a better draft for Cyrillic books, ~12 s a page)', 'tesseract')
   .option('--vlm-model <id>', 'Hugging Face id of the mlx-vlm model', VLM_MODEL)
   .option('--exclude-source <prefix>', 'Leave works whose sourceId starts with this out of the word list (re-reading a book already on the site)')
-  .action((opts: { images: string; out: string; from: string; to?: string; lang: string; single?: boolean; engine: string; vlmModel: string; excludeSource?: string }) => {
+  .action((opts: { images: string; out: string; from: string; to?: string; lang: string; single?: boolean; verse?: boolean; engine: string; vlmModel: string; excludeSource?: string }) => {
     CYRILLIC = opts.lang === 'aze_cyrl';
     YANALIF = opts.lang === 'aze_yanalif';
     if (YANALIF && opts.engine !== 'vlm') throw new Error('--lang aze_yanalif needs --engine vlm');
@@ -580,6 +609,11 @@ export const ocrBookCommand = new Command('ocr-book')
     const footnotes: string[] = [];
     const out: string[] = [];
     for (const { n, pages } of spreads) {
+      if (opts.verse) {
+        const text = layOutVerse(pages, runningHeads, freq);
+        out.push(`@@ ${String(n).padStart(3, '0')}`, ...(text ? ['', text, ''] : []));
+        continue;
+      }
       const { paragraphs, continues } = layOut(pages, runningHeads, footnotes, n, freq);
       out.push(`@@ ${String(n).padStart(3, '0')}`);
       if (paragraphs.length) {
