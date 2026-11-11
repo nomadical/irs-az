@@ -129,8 +129,10 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
     const write = writeIn(book);
     section = undefined;
     for (const s of book.skip ?? []) if (!works.some((w) => w.title === s)) console.warn(`  Skipped work not found: ${s}`);
+    // Sections run in book order, each opening at the first work after the one before it: a title that opens a later section ("Yadıma düşdü") may also name an earlier poem
+    let at = -1;
     works.forEach((w, k) => {
-      section = book.sections.find((s) => s.first === w.title) ?? section;
+      if (book.sections[at + 1]?.first === w.title) section = book.sections[++at];
       if (!section) { console.warn(`  Before any section, left out: ${w.title}`); return; }
       if (book.skip?.includes(w.title)) { console.log(`    (skipped: ${w.title})`); return; }
       // The date printed under a work's end ("*1890*", "*1898-1900*", "*Dekabr, 1973*", "*İyun – avqust, 1970*") is its year
