@@ -1,8 +1,8 @@
 ---
 title: About
-description: IRS.AZ is an open online library of Azerbaijani literary heritage: original texts, translations and information about authors.
+description: Kitabxana.az is an open online library of Azerbaijani literary heritage: original texts, translations and information about authors.
 ---
-IRS.AZ is an open online library of Azerbaijani literary heritage. Here you can read the works of poets, writers and thinkers in the original and in translation.
+Kitabxana.az is an open online library of Azerbaijani literary heritage. Here you can read the works of poets, writers and thinkers in the original and in translation.
 
 ## What's here
 
@@ -12,7 +12,7 @@ IRS.AZ is an open online library of Azerbaijani literary heritage. Here you can 
 
 ## Why
 
-Nizami, Khaqani, Mahsati, Nasimi and Fuzuli wrote not only in Azerbaijani but also in Persian and Arabic. Many of these texts survive only in print editions or are scattered across different websites. IRS.AZ brings them together in one place and keeps them free for everyone.
+Nizami, Khaqani, Mahsati, Nasimi and Fuzuli wrote not only in Azerbaijani but also in Persian and Arabic. Many of these texts survive only in print editions or are scattered across different websites. Kitabxana.az brings them together in one place and keeps them free for everyone.
 
 ## Sources
 
@@ -22,4 +22,4 @@ Texts come from public-domain editions and open libraries: Wikisource, Ganjoor a
 
 Send us texts, translations or information about authors: [Contribute](/en/contribute). Editors review every submission.
 
-IRS.AZ is a non-commercial project.
+Kitabxana.az is a non-commercial project.

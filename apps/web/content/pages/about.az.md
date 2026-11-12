@@ -1,8 +1,8 @@
 ---
 title: Layihə haqqında
-description: IRS.AZ Azərbaycan ədəbi irsinin açıq onlayn kitabxanasıdır: orijinal mətnlər, tərcümələr və müəlliflər haqqında məlumat.
+description: Kitabxana.az Azərbaycan ədəbi irsinin açıq onlayn kitabxanasıdır: orijinal mətnlər, tərcümələr və müəlliflər haqqında məlumat.
 ---
-IRS.AZ Azərbaycan ədəbi irsinin açıq onlayn kitabxanasıdır. Burada şairlərin, yazıçıların və mütəfəkkirlərin əsərlərini orijinal dildə və tərcümədə oxumaq olar.
+Kitabxana.az Azərbaycan ədəbi irsinin açıq onlayn kitabxanasıdır. Burada şairlərin, yazıçıların və mütəfəkkirlərin əsərlərini orijinal dildə və tərcümədə oxumaq olar.
 
 ## Burada nə var
 
@@ -12,7 +12,7 @@ IRS.AZ Azərbaycan ədəbi irsinin açıq onlayn kitabxanasıdır. Burada şairl
 
 ## Niyə
 
-Nizami, Xaqani, Məhsəti, Nəsimi və Füzuli təkcə Azərbaycan dilində deyil, fars və ərəb dillərində də yazıblar. Bu mətnlərin çoxu çap nəşrlərində qalıb və ya müxtəlif saytlara səpələnib. IRS.AZ onları bir yerə toplayır və hər kəs üçün pulsuz saxlayır.
+Nizami, Xaqani, Məhsəti, Nəsimi və Füzuli təkcə Azərbaycan dilində deyil, fars və ərəb dillərində də yazıblar. Bu mətnlərin çoxu çap nəşrlərində qalıb və ya müxtəlif saytlara səpələnib. Kitabxana.az onları bir yerə toplayır və hər kəs üçün pulsuz saxlayır.
 
 ## Mənbələr
 
@@ -22,4 +22,4 @@ Mətnlər müəllif hüquqları bitmiş nəşrlərdən və açıq kitabxanalarda
 
 Mətn, tərcümə və ya müəllif haqqında məlumat göndərin: [Təklif et](/az/contribute). Redaktorlar hər təklifi yoxlayır.
 
-IRS.AZ qeyri-kommersiya layihəsidir.
+Kitabxana.az qeyri-kommersiya layihəsidir.

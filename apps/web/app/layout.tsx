@@ -9,8 +9,8 @@ export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   applicationName: SITE_NAME,
   title: {
-    default: 'IRS.AZ — Azərbaycan mədəniyyəti',
-    template: '%s | IRS.AZ',
+    default: 'Kitabxana.az — Azərbaycan mədəniyyəti',
+    template: '%s | Kitabxana.az',
   },
   description: 'Azərbaycan ədəbiyyatı, fəlsəfəsi və mədəniyyəti',
   icons: {

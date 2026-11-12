@@ -59,7 +59,7 @@ export default function AdminSubmissionsPage() {
   /** Public contributors have no account, so the note reaches them only by email */
   const mailtoContributor = (sub: any, note: string) =>
     sub.contactEmail
-      ? `mailto:${sub.contactEmail}?subject=${encodeURIComponent('IRS.AZ: təklifiniz haqqında')}&body=${encodeURIComponent(note)}`
+      ? `mailto:${sub.contactEmail}?subject=${encodeURIComponent('Kitabxana.az: təklifiniz haqqında')}&body=${encodeURIComponent(note)}`
       : undefined;
 
   const handleAction = async (sub: any, action: 'approve' | 'reject' | 'request-changes') => {

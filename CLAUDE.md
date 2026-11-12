@@ -1,4 +1,4 @@
-# IRS.AZ — Azerbaijani Cultural Heritage Portal
+# Kitabxana.az — Azerbaijani Cultural Heritage Portal
 
 ## Project structure
 - **Monorepo** with pnpm workspaces

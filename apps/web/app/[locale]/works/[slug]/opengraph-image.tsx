@@ -5,7 +5,7 @@ import { ogCard, ogContentType, ogSize } from '@/lib/og';
 
 export const size = ogSize;
 export const contentType = ogContentType;
-export const alt = 'IRS.AZ';
+export const alt = 'Kitabxana.az';
 
 const LOCALE_LANGUAGE: Record<string, string> = { az: 'AZ_LATIN', ru: 'RU', en: 'EN' };
 

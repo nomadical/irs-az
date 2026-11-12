@@ -5,7 +5,7 @@ import { ogCard, ogContentType, ogSize } from '@/lib/og';
 
 export const size = ogSize;
 export const contentType = ogContentType;
-export const alt = 'IRS.AZ';
+export const alt = 'Kitabxana.az';
 
 export default async function Image({ params }: { params: Promise<{ locale: string; slug: string }> }) {
   const { locale, slug } = await params;

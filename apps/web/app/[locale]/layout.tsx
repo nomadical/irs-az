@@ -14,7 +14,7 @@ export async function generateMetadata({
   const t = await getTranslations({ locale, namespace: 'site' });
 
   return {
-    title: { default: t('title'), template: '%s | IRS.AZ' },
+    title: { default: t('title'), template: '%s | Kitabxana.az' },
     description: t('description'),
   };
 }

@@ -3,7 +3,7 @@ import { ogCard, ogContentType, ogSize } from '@/lib/og';
 
 export const size = ogSize;
 export const contentType = ogContentType;
-export const alt = 'IRS.AZ';
+export const alt = 'Kitabxana.az';
 
 /** Default share card for every page without its own opengraph-image. */
 export default async function Image({ params }: { params: Promise<{ locale: string }> }) {

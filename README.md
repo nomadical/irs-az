@@ -1,4 +1,4 @@
-# IRS.AZ
+# Kitabxana.az
 
 An online library of Azerbaijani literature and cultural heritage: classical and modern poetry, translations, manuscript pages and miniatures.
 

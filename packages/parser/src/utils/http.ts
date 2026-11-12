@@ -5,7 +5,7 @@ import * as path from 'path';
 
 const RAW_DIR = path.resolve(__dirname, '../../data/raw');
 const DELAY_MS = 600;
-const USER_AGENT = 'IRS-AZ-Parser/1.0 (https://irs.az; educational project)';
+const USER_AGENT = 'IRS-AZ-Parser/1.0 (https://kitabxana.az; educational project)';
 
 let lastRequestTime = 0;
 

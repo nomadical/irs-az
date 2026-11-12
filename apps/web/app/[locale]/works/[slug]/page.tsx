@@ -236,7 +236,7 @@ export default async function WorkPage({ params }: Props) {
         text={`${heading} — ${authorName}`}
       />
       <DownloadBar path={`/works/${encodeURIComponent(slug)}`} author={work.author} locale={locale} kind="work" />
-      <p className="print-source">IRS.AZ · {`${SITE_URL}/${locale}/works/${slug}`}</p>
+      <p className="print-source">Kitabxana.az · {`${SITE_URL}/${locale}/works/${slug}`}</p>
 
       {(nav.prev || nav.next) && (
         <nav className="work-nav" aria-label={t('nav_label')}>

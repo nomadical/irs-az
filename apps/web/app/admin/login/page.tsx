@@ -65,7 +65,7 @@ export default function AdminLoginPage() {
             fontWeight: 900,
             letterSpacing: '-0.02em',
           }}>
-            IRS<span style={{ color: 'var(--pomeg)' }}>◆</span>AZ
+            Kitabxana<span style={{ color: 'var(--pomeg)' }}>◆</span>AZ
           </div>
           <div style={{
             fontFamily: 'var(--font-ui)',

@@ -148,7 +148,7 @@ export function buildEpub(book: Book, rightsNote: string): Buffer {
       `<section class="title-page" epub:type="titlepage">
 <h1 ${titleAttrs(book.title, book.language)}>${esc(book.title)}</h1>
 <p class="author" lang="az-Latn" xml:lang="az-Latn" dir="ltr">${esc(book.author)}${book.lifespan ? `<br/>${esc(book.lifespan)}` : ''}</p>
-<p class="small" lang="az-Latn" xml:lang="az-Latn" dir="ltr">IRS.AZ · ${esc(book.url)}<br/>${esc(rightsNote)}</p>
+<p class="small" lang="az-Latn" xml:lang="az-Latn" dir="ltr">Kitabxana.az · ${esc(book.url)}<br/>${esc(rightsNote)}</p>
 </section>`,
     ),
   });
@@ -215,7 +215,7 @@ ${navEntries.join('\n')}
 <dc:creator id="creator">${esc(book.author)}</dc:creator>
 <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
 <dc:language>${BCP47[book.language]}</dc:language>
-<dc:publisher>IRS.AZ</dc:publisher>
+<dc:publisher>Kitabxana.az</dc:publisher>
 <dc:source>${esc(book.url)}</dc:source>
 <dc:rights>${esc(rightsNote)}</dc:rights>
 <meta property="dcterms:modified">${modified}</meta>
@@ -263,6 +263,6 @@ export function buildText(book: Book, rightsNote: string): string {
       out.push('', ...(single ? [] : [work.title, '']), toText(work.html), '', '* * *');
     }
   }
-  out.push('', `IRS.AZ · ${book.url}`, rightsNote, '');
+  out.push('', `Kitabxana.az · ${book.url}`, rightsNote, '');
   return out.join('\n').replace(/\n{4,}/g, '\n\n\n');
 }

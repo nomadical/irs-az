@@ -83,7 +83,7 @@ export function Header() {
     <header ref={headerRef} className={hidden ? 'site-header is-hidden' : 'site-header'}>
       <div className="header-inner">
         <Link href={`/${locale}`} className="logo">
-          IRS<span className="logo-orn" aria-hidden="true">◆</span><em>AZ</em>
+          Kitabxana<span className="logo-orn" aria-hidden="true">◆</span><em>AZ</em>
         </Link>
 
         <NavLinks links={navLinks} pathname={pathname} />

@@ -1,5 +1,5 @@
 /* ─────────────────────────────────────────────────────────────
-   IRS.AZ — Global Design System
+   Kitabxana.az — Global Design System
    Newspaper / Molla Nəsrəddin aesthetic
    ───────────────────────────────────────────────────────────── */
 
@@ -2029,9 +2029,9 @@ blockquote {
 }
 
 /* ── Responsive ─────────────────────────────────────────────── */
-/* The header needs about 1,010px for logo, one-row nav and tools side by side (the
+/* The header needs about 1,100px for logo, one-row nav and tools side by side (the
    Russian nav is widest); below that the nav takes its own scrollable row */
-@media (max-width: 1023px) {
+@media (max-width: 1119px) {
   /* Three header rows would eat a quarter of a phone screen; tuck them away while reading down */
   .site-header { transition: transform 0.2s ease; }
   .site-header.is-hidden { transform: translateY(-100%); }
@@ -2116,6 +2116,15 @@ blockquote {
   .breadcrumb a { padding: 0.5rem 0; }
 }
 
+@media (max-width: 480px) {
+  /* The nine-letter wordmark keeps the logo and the tools on one row on phones */
+  .logo    { font-size: 1.5rem; }
+  .logo em { font-size: 1rem; }
+}
+@media (max-width: 359px) {
+  .logo    { font-size: 1.35rem; }
+  .logo em { font-size: 0.9rem; }
+}
 @media (max-width: 480px) {
   /* The poet of the week's name scales with the screen, so "Məhəmməd" fits its frame at 320px */
   .featured-name { font-size: clamp(2rem, 12vw, 3.5rem); line-height: 1.1; }

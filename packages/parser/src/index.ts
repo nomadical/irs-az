@@ -21,7 +21,7 @@ import { scrapeFolkCommand } from './commands/scrape-folk';
 
 const program = new Command()
   .name('irs-parser')
-  .description('IRS.AZ data parser — scrape, validate, and import literary data')
+  .description('Kitabxana.az data parser — scrape, validate, and import literary data')
   .version('1.0.0');
 
 program.addCommand(scrapeAuthorsCommand);

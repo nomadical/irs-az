@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { locales, defaultLocale } from './i18n';
 
-export const SITE_NAME = 'IRS.AZ';
+export const SITE_NAME = 'Kitabxana.az';
 // Server-only and read at runtime, so one image works for any domain.
 export const SITE_URL = (process.env.SITE_URL ?? 'http://localhost:3000').replace(/\/$/, '');
 
@@ -24,7 +24,7 @@ interface PageMeta {
   title?: string;
   description?: string;
   type?: 'website' | 'article' | 'profile';
-  /** Skip the "%s | IRS.AZ" template (home page). */
+  /** Skip the "%s | Kitabxana.az" template (home page). */
   absoluteTitle?: boolean;
   /**
    * Share images. Defaults to the locale's site card, because setting openGraph

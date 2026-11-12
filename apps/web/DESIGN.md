@@ -1,5 +1,5 @@
 ---
-name: IRS.AZ
+name: Kitabxana.az
 description: Azerbaijani literary heritage, read in the original beside its translation. Two reader-selectable skins on one markup.
 colors:
   gazette-ivory: "#F4EFE6"
@@ -228,13 +228,13 @@ components:
     size: "2.5rem"
 ---
 
-# Design System: IRS.AZ
+# Design System: Kitabxana.az
 
 ## Overview
 
 **Creative North Star: "One Reading Room, Two Editions"**
 
-IRS.AZ is one reading room printed in two editions. The markup, the reading page and the verse layout are shared; a reader picks the edition from a header toggle (stored in `localStorage.skin`, applied as `html[data-skin='clean']` before first paint, so it never flashes). Each edition has a light and a dark theme (`data-theme`, also set before paint, defaulting to the OS preference). The **Gazette** is the default and the incumbent: a Molla Nasraddin–era literary newspaper on ivory, set in Cormorant Garamond and Source Serif, with pomegranate ink, ◆ ornaments, double rules and tracked small capitals. The **Clean** edition is the alternative: a museum-portal reading room in culture.ru's grammar. It uses warm grey pages, one charcoal header bar, soft grey cards and pills, and a single crimson. It is set in Noto Sans and Literata, with no rules and no ornaments.
+Kitabxana.az is one reading room printed in two editions. The markup, the reading page and the verse layout are shared; a reader picks the edition from a header toggle (stored in `localStorage.skin`, applied as `html[data-skin='clean']` before first paint, so it never flashes). Each edition has a light and a dark theme (`data-theme`, also set before paint, defaulting to the OS preference). The **Gazette** is the default and the incumbent: a Molla Nasraddin–era literary newspaper on ivory, set in Cormorant Garamond and Source Serif, with pomegranate ink, ◆ ornaments, double rules and tracked small capitals. The **Clean** edition is the alternative: a museum-portal reading room in culture.ru's grammar. It uses warm grey pages, one charcoal header bar, soft grey cards and pills, and a single crimson. It is set in Noto Sans and Literata, with no rules and no ornaments.
 
 Both editions serve the same priority: the text comes first. A poem is set large in a serif at a comfortable measure, the original sits beside its translation, Persian is set right to left in a real Naskh face with taller leading, and provenance sits under every text. Density is low on the reading page and moderate on indexes. Neither edition carries commercial surfaces.
 
@@ -360,8 +360,8 @@ Both skins are flat. The Gazette conveys depth with rules (0.5px hairlines, 1px 
 - **Clean:** grey fill with a transparent 1px border and a 10px radius, Noto Sans at 1rem. Focus turns the fill white and the border crimson. The caret is `--pomeg` in both skins.
 
 ### Navigation
-- **Gazette header:** paper-coloured and sticky. The logo is pomegranate "IRS" with an ink "AZ" joined by a ◆. The nav is tracked uppercase Alegreya Sans in muted, with pomegranate for hover and the current page. A dateline strip (date · Baku · tagline) sits under a hairline and closes on a 4px pomegranate double rule.
-- **Clean header:** a sticky charcoal bar with no dateline. The wordmark is white "IRS", muted ".", and header-crimson "AZ". The nav is bold uppercase in header-muted, white on hover. The current section is white with a 2px header-crimson underline. On phones the nav moves to a second row and scrolls sideways.
+- **Gazette header:** paper-coloured and sticky. The logo is pomegranate "Kitabxana" with an ink "AZ" joined by a ◆. The nav is tracked uppercase Alegreya Sans in muted, with pomegranate for hover and the current page. A dateline strip (date · Baku · tagline) sits under a hairline and closes on a 4px pomegranate double rule.
+- **Clean header:** a sticky charcoal bar with no dateline. The wordmark is white "Kitabxana", muted ".", and header-crimson "AZ". The nav is bold uppercase in header-muted, white on hover. The current section is white with a 2px header-crimson underline. On phones the nav moves to a second row and scrolls sideways.
 - **Footer (the imprint line):** one line on wide screens, stacked and centred under 900px. In the Gazette it opens on the 4px pomegranate double rule. The site's description comes first in muted italic Source Serif. The about, contribute and contact links end the line in tracked uppercase Alegreya Sans in muted, turning pomegranate on hover, with small ◆ between them. The masthead is not repeated. In Clean it is a grey-deep band with no rule. It starts with the wordmark in Noto Sans with a crimson "AZ", then the description in a muted sans, then the links in bold ink and sentence case with no separators.
 - **Language switcher:** a three-segment strip (AZ / RU / EN). The active segment is a pomegranate or crimson fill. In Clean the outer ends are rounded to pills, set on a translucent white border.
 - **Skin and theme toggles:** square buttons with a 4px radius in the Gazette, 2.25rem circles with 24% white borders in Clean. Each is an `aria-pressed` toggle with a "page look" or moon/sun SVG.

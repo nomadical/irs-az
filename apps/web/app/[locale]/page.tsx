@@ -144,7 +144,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         data={{
           '@context': 'https://schema.org',
           '@type': 'WebSite',
-          name: 'IRS.AZ',
+          name: 'Kitabxana.az',
           url: `${SITE_URL}/${locale}`,
           inLanguage: locale,
         }}

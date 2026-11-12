@@ -105,7 +105,7 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
     <div className="adm-shell">
       <aside className="adm-sidebar">
         <Link href="/admin" className="adm-logo">
-          IRS<span>◆</span>AZ
+          Kitabxana<span>◆</span>AZ
           <span className="adm-logo-sub">Admin Panel</span>
         </Link>
 

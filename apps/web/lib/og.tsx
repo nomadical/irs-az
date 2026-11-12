@@ -63,7 +63,7 @@ export async function ogCard({ eyebrow, title, subtitle, lines = [] }: Card) {
       >
         <div style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between' }}>
           <div style={{ display: 'flex', fontFamily: SERIF, fontSize: 52, lineHeight: 1 }}>
-            <span style={{ color: POMEG }}>IRS</span>
+            <span style={{ color: POMEG }}>Kitabxana</span>
             <span>.AZ</span>
           </div>
           {eyebrow && (

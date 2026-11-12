@@ -21,7 +21,7 @@ async function bootstrap() {
   );
 
   const swaggerConfig = new DocumentBuilder()
-    .setTitle('IRS.AZ API')
+    .setTitle('Kitabxana.az API')
     .setDescription('Azerbaijani Cultural Heritage Portal')
     .setVersion('0.1.0')
     .addBearerAuth()
@@ -31,6 +31,6 @@ async function bootstrap() {
 
   const port = config.get('PORT', 4000);
   await app.listen(port);
-  console.log(`IRS.AZ API running on http://localhost:${port}`);
+  console.log(`Kitabxana.az API running on http://localhost:${port}`);
 }
 bootstrap();

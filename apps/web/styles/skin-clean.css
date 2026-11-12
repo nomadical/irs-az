@@ -1,5 +1,5 @@
 /* ─────────────────────────────────────────────────────────────
-   IRS.AZ — Clean skin
+   Kitabxana.az — Clean skin
    An alternative to the gazette look, opted into per reader
    (html[data-skin='clean']). Warm grey pages, one crimson accent,
    Noto Sans for the interface and Literata for the text, soft
@@ -696,8 +696,8 @@
 [data-skin='clean'] .footer-links a + a::before { content: none; }
 
 /* ── Responsive ─────────────────────────────────────────────── */
-/* The nav's own row, from the same 1,023px as globals.css */
-@media (max-width: 1023px) {
+/* The nav's own row, from the same 1,119px as globals.css */
+@media (max-width: 1119px) {
   [data-skin='clean'] .site-nav {
     border-top-color: var(--header-line);
     gap:              1.25rem;
@@ -721,6 +721,12 @@
 }
 @media (pointer: coarse) {
   [data-skin='clean'] .theme-btn { width: 2.75rem; height: 2.75rem; }
+}
+/* Phones: a smaller wordmark keeps the logo and the tools on one row */
+@media (max-width: 480px) {
+  [data-skin='clean'] .logo,
+  [data-skin='clean'] .logo em,
+  [data-skin='clean'] .logo-orn::before { font-size: 1.2rem; }
 }
 /* Under 360px: the same tightening as globals.css, at the clean skin's specificity */
 @media (max-width: 359px) {

@@ -1,7 +1,7 @@
 {
   "site": {
-    "name": "IRS.AZ",
-    "title": "IRS.AZ — Azərbaycan mədəniyyəti",
+    "name": "Kitabxana.az",
+    "title": "Kitabxana.az — Azərbaycan mədəniyyəti",
     "tagline": "◆  Şairlər  ·  Yazıçılar  ·  Filosoflar  ·  Əsərlər  ·  Tərcümələr  ◆",
     "description": "Azərbaycan ədəbiyyatı, fəlsəfəsi və mədəniyyəti"
   },
@@ -114,7 +114,7 @@
   },
   "tags": {
     "title": "Mövzular",
-    "index_description": "IRS.AZ-dakı əsərlər mövzuya, əhvala, həcmə və dövrə görə.",
+    "index_description": "Kitabxana.az-dakı əsərlər mövzuya, əhvala, həcmə və dövrə görə.",
     "kind_THEME": "Nə haqqında",
     "kind_MOOD": "Əhval",
     "kind_AUDIENCE": "Oxucu və həcm",
@@ -140,7 +140,7 @@
   },
   "contribute": {
     "title": "Material təklif et",
-    "intro": "IRS.AZ birlikdə yaradılır. Əlinizdə olan mətnləri, tərcümələri və müəlliflər haqqında məlumatları göndərin. Redaktorlar yoxlayıb sayta əlavə edəcəklər.",
+    "intro": "Kitabxana.az birlikdə yaradılır. Əlinizdə olan mətnləri, tərcümələri və müəlliflər haqqında məlumatları göndərin. Redaktorlar yoxlayıb sayta əlavə edəcəklər.",
     "tab_work": "Əsər",
     "tab_translation": "Tərcümə",
     "tab_author": "Müəllif",

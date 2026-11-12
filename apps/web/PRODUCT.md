@@ -14,7 +14,7 @@ Secondary, served without being the default: students and teachers who need reli
 
 ## Product Purpose
 
-IRS.AZ is a non-commercial portal for Azerbaijani literary and cultural heritage — poets, writers, philosophers and their works — in the spirit of культура.рф but focused on literature. Every work has its own URL; collections (divans, masnavis) are read in order with prev/next navigation. Success is a reader landing on a poem, reading it in the original alongside a translation, and continuing to the next work or the author.
+Kitabxana.az is a non-commercial portal for Azerbaijani literary and cultural heritage — poets, writers, philosophers and their works — in the spirit of культура.рф but focused on literature. Every work has its own URL; collections (divans, masnavis) are read in order with prev/next navigation. Success is a reader landing on a poem, reading it in the original alongside a translation, and continuing to the next work or the author.
 
 ## Positioning
 
@@ -42,11 +42,11 @@ IRS.AZ is a non-commercial portal for Azerbaijani literary and cultural heritage
 - **Non-commercial.** No ads, paywalls, monetization surfaces or tracking-heavy features.
 - **Source attribution is required.** Every text and translation shows its source (e.g. Wikisource, Ganjoor) and its translator. Licensing must be visible.
 - **Persian RTL is first-class.** Persian originals are most of the corpus (3,181 of 5,047 published works in October 2026), so RTL rendering must be as good as LTR.
-- Planned deployment at irs.az: one VPS, Docker Compose, Caddy, Cloudflare (`deploy/README.md`); CI builds images on every push to `main` and deploys once the server is configured. Until then the site is shown from a laptop through a temporary Cloudflare quick tunnel (`deploy/tunnel`).
+- Planned deployment at kitabxana.az: one VPS, Docker Compose, Caddy, Cloudflare (`deploy/README.md`); CI builds images on every push to `main` and deploys once the server is configured. Until then the site is shown from a laptop through a temporary Cloudflare quick tunnel (`deploy/tunnel`).
 
 ## Brand Commitments
 
-- Name: **IRS.AZ**. Tagline: "Poets · Writers · Philosophers · Works · Translations".
+- Name: **Kitabxana.az**. Tagline: "Poets · Writers · Philosophers · Works · Translations".
 - Two reader-selectable skins on shared markup, switched from the header and remembered per reader, each in light and dark (both recorded in `DESIGN.md`):
   - **Gazette (the default):** a newspaper / literary gazette aesthetic, user-stated in the project's CLAUDE.md. Ivory, ink-black and pomegranate red, Molla Nasraddin ornamental accents (◆ diamonds, double rules).
   - **Clean (the approved alternative):** modelled on culture.ru at the user's request: warm grey pages, one charcoal header bar, grey cards and pills, one crimson, Noto Sans and Literata, no rules or ornaments. Its refusal of the gazette's ornament is deliberate, not drift.

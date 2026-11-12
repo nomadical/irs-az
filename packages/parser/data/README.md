@@ -1,6 +1,6 @@
 # Data
 
-Literary texts, translations and artwork metadata imported into IRS.AZ.
+Literary texts, translations and artwork metadata imported into Kitabxana.az.
 
 **The MIT license in the repository root covers the code only, not this folder.** Each file here keeps the rights of its original source. Every file records where it came from in its `sourceId` (and `sourceNote` where available).
 

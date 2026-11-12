@@ -13,7 +13,7 @@ export function Footer() {
     <footer className="footer">
       <div className="container footer-inner">
         <Link href={`/${locale}`} className="footer-mark">
-          IRS<span className="logo-orn" aria-hidden="true">◆</span><em>AZ</em>
+          Kitabxana<span className="logo-orn" aria-hidden="true">◆</span><em>AZ</em>
         </Link>
         <p className="footer-text">{t('description')}</p>
         <nav className="footer-links" aria-label={t('name')}>

@@ -44,7 +44,7 @@ export class DownloadsService {
   ) {}
 
   private siteUrl() {
-    const url = this.config.get<string>('SITE_URL') ?? this.config.get<string>('CORS_ORIGIN') ?? 'https://irs.az';
+    const url = this.config.get<string>('SITE_URL') ?? this.config.get<string>('CORS_ORIGIN') ?? 'https://kitabxana.az';
     return url.split(',')[0].replace(/\/+$/, '');
   }
 
