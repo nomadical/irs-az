@@ -159,8 +159,18 @@ small = im.resize((w, 256), Image.BOX)
 cols = [sum(1 for y in range(256) if small.getpixel((x, y)) < 120) for x in range(w)]
 shadow = lambda x: cols[x] > 90
 text = lambda x: 2 < cols[x] <= 90
-gutter = min(range(int(w * 0.42), int(w * 0.58)), key=lambda x: small.getpixel((x, 128)))
-if not shadow(gutter) and small.getpixel((gutter, 128)) > 150: gutter = w // 2
+# the fold shadow if there is one; otherwise the middle of the widest blank band (a single dark
+# pixel row can land on a letter of a page whose lines run close to the fold)
+band = range(int(w * 0.42), int(w * 0.58))
+if any(shadow(x) for x in band):
+    gutter = max(band, key=lambda x: cols[x])
+else:
+    runs, start = [], None
+    for x in list(band) + [band.stop]:
+        blank = x < band.stop and cols[x] <= 2
+        if blank and start is None: start = x
+        if not blank and start is not None: runs.append((x - start, (start + x) // 2)); start = None
+    gutter = max(runs)[1] if runs else w // 2
 def cut(start, step, limit):
     x = start
     while x != limit and shadow(x): x += step
