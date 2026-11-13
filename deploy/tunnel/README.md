@@ -1,18 +1,31 @@
-# Temporary Preview (Cloudflare Quick Tunnel)
+# Laptop Hosting (Cloudflare Tunnel)
 
-Shares the production stack from a laptop at a random `*.trycloudflare.com` URL — no server, no Cloudflare account. For showing the site before the [VPS](../README.md) exists.
+Serves the production stack from a laptop at **kitabxana.az** through a named Cloudflare tunnel, until a [VPS](../README.md) exists. A quick tunnel (random `*.trycloudflare.com` URL, no account) still works for throwaway previews; see the end.
 
 ```
-trycloudflare.com → cloudflared → Caddy 127.0.0.1:8787 ─┬─ /api/* → api:4000
+kitabxana.az → cloudflared → Caddy 127.0.0.1:8787 ─┬─ /api/* → api:4000
                                                         └─ /*     → web:3000
                                   postgres, meilisearch (internal only)
 ```
 
 Limits:
 - Up only while the laptop is awake and `cloudflared` is running. No uptime guarantee.
-- A new URL on every `cloudflared` start; `DOMAIN` in `.env` must follow it.
+- `www.kitabxana.az` is 308-redirected to the bare domain by Caddy.
 - No uploads (R2 isn't configured).
 - Separate Compose project (`irs-az-tunnel`) — doesn't touch the dev services on `:5433` / `:7700`.
+
+## Named Tunnel (kitabxana.az)
+
+The zone is on Cloudflare (nameservers set at online.az, which is reachable only from Azerbaijan). One-time setup, already done on this laptop:
+
+```bash
+cloudflared tunnel login                          # pick kitabxana.az; writes ~/.cloudflared/cert.pem
+cloudflared tunnel create kitabxana               # writes ~/.cloudflared/<id>.json
+cloudflared tunnel route dns kitabxana kitabxana.az
+cloudflared tunnel route dns kitabxana www.kitabxana.az
+```
+
+`~/.cloudflared/config.yml` maps both hostnames to `http://localhost:8787` (tunnel id + credentials file, ingress rules, then `http_status:404`). `cloudflared service install` runs it as a launch agent, so it restarts after sleep and reboot. `.env` has `DOMAIN=kitabxana.az`.
 
 ## Start
 
@@ -47,7 +60,7 @@ docker compose up -d --wait
 ./secure-admin.sh
 ```
 
-## New Tunnel URL
+## New Tunnel URL (Quick Tunnel Only)
 
 ```bash
 # update DOMAIN in .env, then

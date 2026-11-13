@@ -1,4 +1,4 @@
-# Temporary public preview from a laptop via a Cloudflare quick tunnel (see README.md).
+# Laptop hosting via a Cloudflare tunnel (kitabxana.az; see README.md).
 # Mirrors ../docker-compose.yml, but builds images locally and serves plain HTTP on
 # 127.0.0.1:8787 — cloudflared terminates TLS.
 name: irs-az-tunnel
@@ -83,6 +83,8 @@ configs:
     content: |
       :80 {
       	encode zstd gzip
+      	@www header_regexp www Host ^www\.(.+)$$
+      	redir @www https://{re.www.1}{uri} 308
       	handle /api/* {
       		reverse_proxy api:4000
       	}
